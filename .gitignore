@@ -6,3 +6,4 @@
 
 # Raw input files
 raw_input/*
+*.sh

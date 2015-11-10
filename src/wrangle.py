@@ -6,13 +6,12 @@ import string
 from unidecode import unidecode
 
 
-keep_punc = "-:().?'=<>"
-min_counts = 10
+_keep_punc = "-:().?'=<>"
+_min_counts = 10
 
-punc = ''.join([x for x in string.punctuation if x not in keep_punc])
 presumed_codec = 'utf-8'
 
-def wrange_text(f):
+def wrangle_text(f, min_counts=_min_counts, keep_punc=_keep_punc):
     
     name = os.path.basename(f).split('.txt')[0]
     os.system('mkdir -p input')
@@ -20,13 +19,16 @@ def wrange_text(f):
 
     f_out = os.path.join("input",name,"input.txt")
     if os.path.exists(f_out):
-        print f, "already exists, skipping."
-        return False
+        #print f, "already exists, skipping."
+        return name
     
     print "Starting", name
     
     with codecs.open(f,'r',presumed_codec) as FIN:
         raw = FIN.read()
+
+    punc = ''.join([x for x in string.punctuation
+                    if x not in keep_punc])
         
     rawstr = unidecode(raw)
     table = string.maketrans(punc, " "*len(punc))
@@ -48,12 +50,13 @@ def wrange_text(f):
     with open(f_out,'w') as FOUT:
         FOUT.write(s)
 
-    return True
+    return name
 
 
-F_RAW = glob.glob("raw_input/*.txt")
-
-for f in F_RAW:
-    wrange_text(f)
+if __name__ == "__main__":
+    F_RAW = glob.glob("raw_input/*.txt")
+    
+    for f in F_RAW:
+        wrangle_text(f)
 
 
