@@ -3,3 +3,6 @@
 
 # python junk
 *.pyc
+
+# Raw input files
+raw_input/*
