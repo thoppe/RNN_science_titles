@@ -1,0 +1,1466 @@
+Supporting Knowledge and Expertise Finding within Australia's Defence Science and Technology Organisation
+Personalizing Image Search Results on Flickr
+Recommending Related Papers Based on Digital Library Access Records
+Using Access Data for Paper Recommendations on ArXiv.org
+Evaluating Personal Archiving Strategies for Internet-based Information
+The Long Term Fate of Our Digital Belongings: Toward a Service Model for Personal Archives
+Approximate textual retrieval
+Open Access Publishing in Particle Physics: A Brief Introduction for the non-Expert
+Science User Scenarios for a Virtual Observatory Design Reference Mission: Science Requirements for Data Mining
+CoRR: A Computing Research Repository
+A response to the commentaries on CoRR
+Centroid-based summarization of multiple documents: sentence extraction utility-based evaluation and user studies
+Using compression to identify acronyms in text
+A usage based analysis of CoRR
+Combining Linguistic and Spatial Information for Document Analysis
+Open Archives Initiative protocol development and implementation at arXiv
+The OLAC Metadata Set and Controlled Vocabularies
+Semantic Web Content Accessibility Guidelines for Current Research Information Systems (CRIS)
+Links tell us about lexical and semantic Web content
+The Open Language Archives Community and Asian Language Resources
+Information retrieval in Current Research Information Systems
+The SDSS SkyServer Public Access to the Sloan Digital Sky Server Data
+Using Structural Metadata to Localize Experience of Digital Content
+Core Services in the Architecture of the National Digital Library for Science Education (NSDL)
+Components of an NSDL Architecture: Technical Scope and Functional Model
+The SDSS SkyServer: Public Access to the Sloan Digital Sky Server Data
+Data Mining the SDSS SkyServer Database
+The structure of broad topics on the Web
+Seven Dimensions of Portability for Language Documentation and Description
+A Scalable Architecture for Harvest-Based Digital Libraries - The ODU Southampton Experiments
+Using the Annotated Bibliography as a Resource for Indicative Summarization
+TerraService.NET: An Introduction to Web Services
+Online Scientific Data Curation Publication and Archiving
+Web Services for the Virtual Observatory
+A Virtual Library of Technical Publications
+Reconciling MPEG-7 and MPEG-21 Semantics through a Common Event-Aware Metadata Model
+Integration and interoperability accessing electronic information resources in science and technology: the proposal of Brazilian Digital Library
+An Approach to Automatic Indexing of Scientific Publications in High Energy Physics for Database SPIRES HEP
+Building an Open Language Archives Community on the OAI Foundation
+Preserving Peer Replicas By Rate-Limited Sampled Voting in LOCKSS
+A Digital Preservation Appliance Based on OpenBSD
+The NPC Framework for Building Information Dissemination Networks
+Developing Open Data Models for Linguistic Field Data
+The Open Language Archives Community: An infrastructure for distributed archiving of language resources
+Eprints and the Open Archives Initiative
+Limit groups and groups acting freely on bbR n -trees
+Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources
+EqRank: A Self-Consistent Equivalence Relation on Graph Vertexes
+Semi-metric Behavior in Document Networks and its Application to Recommendation Systems
+Efficient Algorithms for Citation Network Analysis
+A Dynamic Programming Algorithm for the Segmentation of Greek Texts
+On The Cost Distribution of a Memory Bound Function
+Make search become the internal function of Internet
+Copyright and Creativity: Authors and Photographers
+Designing of a Community-based Translation Center
+Evolution: Google vs. DRIS
+Using sensors in the web crawling process
+Initial Experiences Re-Exporting Duplicate and Similarity Computation with an OAI-PMH aggregator
+Design of a Community-based Translation Center
+Automated Resolution of Noisy Bibliographic References
+Dynamic Linking of Smart Digital Objects Based on User Navigation Patterns
+Automatically Generating Interfaces for Personalized Interaction with Digital Libraries
+Domain resource integration system
+Providing Authentic Long-term Archival Access to Complex Relational Data
+The Building of Online Communities: An approach for learning organizations with a particular focus on the museum sector
+A knowledge-based approach to semi-automatic annotation of multimedia documents via user adaptation
+An argumentative annotation schema for meeting discussions
+Automatic Keyword Extraction from Spoken Text. A Comparison of two Lexical Resources: the EDR and WordNet
+Transparent Format Migration of Preserved Web Content
+Notes On The Design Of An Internet Adversary
+Principles for Digital Preservation
+Trustworthy 100-Year Digital Objects: Durable Encoding for When It's Too Late to Ask
+EURYDICE : A platform for unified access to documents
+A Link Clustering Based Approach for Clustering Categorical Data
+Fedora: An Architecture for Complex Objects and their Relationships
+Clustering SPIRES with EqRank
+An Information Network Overlay Architecture for the NSDL
+Orchestrating Metadata Enhancement Services: Introducing Lenny
+aDORe: a modular standards-based Digital Object Repository
+Toward alternative metrics of journal impact: A comparison of download and citation data
+File-based storage of Digital Objects and constituent datastreams: XMLtapes and Internet Archive ARC files
+The Effect of Use and Access on Citations
+mod oai: An Apache Module for Metadata Harvesting
+Scientific impact quantity and quality: Analysis of two sources of bibliographic data
+The Convergence of Digital-Libraries and the Peer-Review Process
+The OAI Data-Provider Registration and Validation Service
+The Hyper-Cortex of Human Collective-Intelligence Systems
+Dictionaries merger for text expansion in question answering
+Exploitation de dictionnaires ' e lectroniques pour la d ' e sambigu i sation s ' e mantique lexicale
+Adapting CBPP platforms for instructional use
+Representing Digital Assets using MPEG-21 Digital Item Declaration
+Can Small Museums Develop Compelling Educational and Accessible Web Resources? The Case of Accademia Carrara
+Copyright and Promotion: Oxymoron or Opportunity?
+The Structure of Collaborative Tagging Systems
+A Fresh Look at the Reliability of Long-term Digital Storage
+Requirements for Digital Preservation Systems: A Bottom-Up Approach
+Folksonomy as a Complex Network
+Representing Digital Assets for Long-Term Preservation using MPEG-21 DID
+Access Interfaces for Open Archival Information Systems based on the OAI-PMH and the OpenURL Framework for Context-Sensitive Services
+Telling Great Stories: An NSDL Content and Communications System for Aggregation Display and Distribution of News and Features
+Bibliographic Classification using the ADS Databases
+EqRank: Theme Evolution in Citation Graphs
+A Multi-Relational Network to Support the Scholarly Communication Process
+Metadata aggregation and automated digital libraries : A retrospective on the NSDL experience
+D2D: Digital Archive to MPEG-21 DIDL
+eJournal interface can influence usage statistics: implications for libraries publishers and Project COUNTER
+Exploring term-document matrices from matrix models in text mining
+Digital Libraries: From Process Modelling to Grid-based Service Oriented Architecture
+Representing Contextualized Information in the NSDL
+Does the arXiv lead to higher citations and reduced publisher downloads for mathematics articles?
+VXA: A Virtual Architecture for Durable Compressed Archives
+Collaborative thesaurus tagging the Wikipedia way
+Effect of E-printing on Citation Rates in Astronomy and Physics
+Collaborative Tagging and Semiotic Dynamics
+Toward a Collection-based Metadata Maintenance Model
+A Metadata Registry from Vocabularies UP: The NSDL Registry Project
+An Architecture for the Aggregation and Analysis of Scholarly Usage Data
+Analyzing Large Collections of Electronic Text Using OLAP
+Ten-Year Cross-Disciplinary Comparison of the Growth of Open Access and How it Increases Research Citation Impact
+Generalized h-index for Disclosing Latent Facts in Citation Networks
+Citation as a Representation Process
+Separating the articles of authors with the same name
+myADS-arXiv - a Tailor-Made Open Access Virtual Journal
+Full Text Searching in the Astrophysics Data System
+Connectivity in the Astronomy Digital Library
+Creation and use of Citations in the ADS
+Data in the ADS -- Understanding How to Use it Better
+Paper to Screen: Processing Historical Scans in the ADS
+Constructing experimental indicators for Open Access documents
+Protocols for Scholarly Communication
+Intra-site Level Cultural Heritage Documentation: Combination of Survey Modeling and Imagery Data in a Web Information System
+The effect of 'Open Access' upon citation impact: An analysis of ArXiv's Condensed Matter Section
+Wikipedia: organisation from a bottom-up approach
+Why is Open Access Development so Successful? Stigmergic organization and the economics of information
+Electronic Laboratory Notebook Assisting Reflectance Spectrometry in Legal Medicine
+A New Era in Citation and Bibliometric Analyses: Web of Science Scopus and Google Scholar
+Finding Astronomical Communities Through Co-readership Analysis
+Citation advantage of Open Access articles likely explained by quality differential and media effects
+Why is a new Journal of Informetrics needed?
+Citation Advantage For OA Self-Archiving Is Independent of Journal Impact Factor Article Age and Number of Co-Authors
+The Open Access Citation Advantage: Quality Advantage Or Quality Bias?
+On the Software and Knowledge Engineering Aspects of the Educational Process
+Plagiarism Detection in arXiv
+Exploring the academic invisible web
+Assessing the Value of Coooperation in Wikipedia
+A Comparison of On-Line Computer Science Citation Databases
+Characterization of Search Engine Caches
+Open Access Scientometrics and the UK Research Assessment Exercise
+Microsoft TerraServer
+Novelty and Social Search in the World Wide Web
+The Asilomar Report on Database Research
+Vocal Access to a Newspaper Archive: Design Issues and Preliminary Investigation
+Making the most of electronic journals
+The Computing Research Repository: Promoting the Rapid Dissemination and Archiving of Computer Science Research
+Competition and cooperation: Libraries and publishers in the transition to electronic scholarly journals
+Automatic Identification of Subjects for Textual Documents in Digital Libraries
+MyLibrary: A Model for Implementing a User-centered Customizable Interface to a Library's Collection of Information Resources
+The Alex Catalogue A Collection of Digital Texts with Automatic Methods for Acquisition and Cataloging User-Defined Typography Cross-searching of Indexed Content and a Sense of Community
+KEA: Practical Automatic Keyphrase Extraction
+Quality of OCR for Degraded Text Images
+Content-Based Book Recommending Using Learning for Text Categorization
+Digital Library Technology for Locating and Accessing Scientific Data
+Use and usability in a digital library search system
+Resource Discovery in Trilogy
+Multimedia Description Framework (MDF) for Content Description of Audio Video Documents
+Not Available
+Multimodal Surrogates for Video Browsing
+Using Query Mediators for Distributed Searching in Federated Digital Libraries
+Visualization of Retrieved Documents using a Presentation Server
+Semi-Automatic Indexing of Multilingual Documents
+A New Ranking Principle for Multimedia Information Retrieval
+A Proposal for the Establishment of Review Boards - a flexible approach to the selection of academic knowledge
+Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey
+Microsoft TerraServer: A Spatial Data Warehouse
+Raising Reliability of Web Search Tool Research through Replication and Chaos Theory
+Safe Deals Between Strangers
+Representing Scholarly Claims in Internet Digital Libraries: A Knowledge Modelling Approach
+A Geometric Model for Information Retrieval Systems
+Lattices for Dynamic Hierarchic Overlapping Categorization: the Case of Epistemic Communities
+The Rise and Rise of Citation Analysis
+Tracking User Attention in Collaborative Tagging Communities
+Submission of content to a digital object repository using a configurable workflow system
+Collaborative tagging as a tripartite network
+Journal Status
+Mapping the Bid Behavior of Conference Referees
+Pathways: Augmenting interoperability across scholarly repositories
+We cite as we communicate: A communication model for the citation process
+On the genre-fication of Music: a percolation approach (long version)
+OA MPS - a colourful view
+An exploratory study of Google Scholar
+Reconstruction of Protein-Protein Interaction Pathways by Mining Subject-Verb-Objects Intermediates
+A Practical Ontology for the Large-Scale Modeling of Scholarly Artifacts and their Usage
+Open Access does not increase citations for research articles from The Astrophysical Journal
+When are recommender systems useful?
+Usage Impact Factor: the effects of sample characteristics on usage-based impact metrics
+Simrank : Query rewriting through link analysis of the click graph
+Reducing semantic complexity in distributed Digital Libraries: treatment of term vagueness and document re-ranking
+On the robustness of the h-index
+Spam: It's Not Just for Inboxes and Search Engines Making Hirsch h-index Robust to Scientospam
+Knowledge management by wikis
+NCore: Architecture and Implementation of a Flexible Collaborative Digital Library
+The aDORe Federation Architecture
+Object Re-Use Exchange: A Resource-Centric Approach
+Towards Usage-based Impact Metrics: - First Results from the MESUR Project
+Specification of an extensible and portable file format for electronic structure and crystallographic data
+Semantic Analysis of Tag Similarity Measures in Collaborative Tagging Systems
+Clustering of scientific citations in Wikipedia
+ICT Community Memory and Technological Appropriation
+Cross-concordances: terminology mapping and its effectiveness for information retrieval
+On the relationship between the structural and socioacademic communities of a coauthorship network
+Astrophysics in S.Co.P.E
+Approximating Document Frequency with Term Count Values
+A Distributed Process Infrastructure for a Distributed Data Structure
+Building a terminology network for search: the KoMoHe project
+Comparing human and automatic thesaurus mapping approaches in the agricultural domain
+How long should an astronomical paper be to increase its Impact?
+A Simple Framework to Typify Social Bibliographic Communities
+Numerical simulations of mixed states quantum computation
+Correlation of Expert and Search Engine Rankings
+The decline in the concentration of citations 1900-2007
+Peer-review in the Internet age
+Assembling Actor-based Mind-Maps from Text Stream
+On Granular Knowledge Structures
+Ranking forestry journals using the h-index
+Universality of citation distributions: towards an objective measure of scientific impact
+A Web-Based Resource Model for eScience: Object Reuse Exchange
+Visualization of association graphs for assisting the interpretation of classifications
+Collecting and Preserving Videogames and Their Related Materials: A Review of Current Practice Game-Related Archives and Research Projects
+Anti Plagiarism Application with Algorithm Karp-Rabin at Thesis in Gunadarma University
+Digitizing Legacy Documents: A Knowledge-Base Preservation Project
+An evaluation of Bradfordizing effects
+Tsallis q -exponential describes the distribution of scientific citations - A new characterization of the impact
+An Algorithm to Determine Peer-Reviewers
+Bias in the journal impact factor
+Information Resources in High-Energy Physics: Surveying the Present Landscape and Charting the Future Course
+Questions Answers for TEI Newcomers
+Content-based and Algorithmic Classifications of Journals: Perspectives on the Dynamics of Scientific Communication and Indexer Effects
+Filtering Microarray Correlations by Statistical Literature Analysis Yields Potential Hypotheses for Lactation Research
+Effectively Searching Maps in Web Documents
+Everyone is a Curator: Human-Assisted Preservation for ORE Aggregations
+Random drift versus selection in academic vocabulary: an evolutionary analysis of published keywords
+Origins of Modern Data Analysis Linked to the Beginnings and Early Development of Computer Science and Information Engineering
+A Simple Extraction Procedure for Bibliographical Author Field
+ImageSpace: An Environment for Image Ontology Management
+OntoELAN: An Ontology-based Linguistic Multimedia Annotator
+Ontology-Based Annotation of Multimedia Language Data for the Semantic Web
+Automatic Metadata Generation using Associative Networks
+The Smithsonian NASA Astrophysics Data System (ADS) Decennial Report
+Visual Conceptualizations and Models of Science
+Comparing Bibliometric Statistics Obtained from the Web of Science and Scopus
+E-prints and Journal Articles in Astronomy: a Productive Co-existence
+A Recommender System to Support the Scholarly Communication Process
+Identifying Influential Bloggers: Time Does Matter
+Information Diffusion in Computer Science Citation Networks
+Indexing Research Papers in Open Access Databases
+A principal component analysis of 39 scientific impact measures
+First results from the PARSE.Insight project: HEP survey on data preservation re-use and (open) access
+PDF A standard for long term archiving
+Adding eScience Assets to the Data Web
+A standard transformation from XML to RDF via XSLT
+On the prevalence and scientific impact of duplicate publications in different scientific fields (1980-2007)
+A Quantum-based Model for Interactive Information Retrieval (extended version)
+Frozen Footprints
+Is scientific literature subject to a sell-by-date? A general methodology to analyze the durability of scientific documents
+Managing Information for Sparsely Distributed Articles and Readers: The Virtual Journals of the Joint Institute for Nuclear Astrophysics (JINA)
+Investigating the Change of Web Pages' Titles Over Time
+Experimental DML over digital repositories in Japan
+Removing Manually-Generated Boilerplate from Electronic Texts: Experiments with Project Gutenberg e-Books
+Innovation in Scholarly Communication: Vision and Projects from High-Energy Physics
+Revisiting the Age of Enlightenment from a Collective Decision Making Systems Perspective
+Random hypergraphs and their applications
+A population-modulated bibliometric measure with an application in the field of statistics
+A Reflection on the Structure and Process of the Web of Data
+On the relationship between interdisciplinarity and scientific impact
+The impact factor's Matthew effect: a natural experiment in bibliometrics
+Eigenfactor : Does the Principle of Repeated Improvement Result in Better Journal Impact Estimates than Raw Citation Counts?
+Author-choice open access publishing in the biological and medical literature: a citation analysis
+Confirmation Bias and the Open Access Advantage: Some Methodological Suggestions for the Davis Citation Study
+COMMENTARY ON: Citing and Reading Behavours in High-Energy Physics (arXiv:090.418)
+Modeling scientific-citation patterns and other triangle-rich acyclic networks
+How are new citation-based journal indicators adding to the bibliometric toolbox?
+Worldwide Use and Impact of the NASA Astrophysics Data System Digital Library
+The Bibliometric Properties of Article Readership Information
+Co-Authorship Networks in the Digital Library Research Community
+Repository Replication Using NNTP and SMTP
+Broker: A Query Routing Broker for 39.0 Databases
+Combining Advanced Visualization and Automatized Reasoning for Webometrics: A Test Study
+On Metric Skyline Processing by PM-tree
+Communication scientifique : Pour le meilleur et pour le PEER
+On building Information Warehouses
+Towards a Semantic Preservation System
+Citation Statistics
+Comment: Bibliometrics in the Context of the UK Research Assessment Exercise
+Comment: Citation Statistics
+Comment: Citation Statistics
+Comment: Citation Statistics
+Rejoinder: Citation Statistics
+A theoretical foundation for building Knowledge-work Support Systems
+Data Mining in Astronomical Databases
+Exploiting Social Annotation for Automatic Resource Discovery
+The Importance of Being First: Position Dependent Citation Rates on arXiv:astro-ph
+Disentangling Visibility and Self-Promotion Bias in the arXiv:astro-ph Positional Citation Effect
+Use of Astronomical Literature - A Report on Usage Patterns
+Citing and Reading Behaviours in High-Energy Physics. How a Community Stopped Worrying about Journals and Learned to Love Repositories
+Diffusion of scientific credits and the ranking of scientists
+Astroinformatics: A 21st Century Approach to Astronomy
+The Revolution in Astronomy Education: Data Science for the Masses
+Adaptive model for recommendation of news
+Accelerating the pace of discovery by changing the peer review algorithm
+Building a Vietnamese Language Query Processing Framework for ELibrary Searching Systems
+Memento: Time Travel for the Web
+Retrieval of very large numbers of items in the Web of Science: an exercise to develop accurate search strategies
+The Dynamics of Exchanges and References among Scientific Texts and the Autopoiesis of Discursive Knowledge
+Knowledge linkage structures in communication studies using citation analysis among communication journals
+Caveats for the Use of Citation Indicators in Research and Journal Evaluations
+The delineation of nanoscience and nanotechnology in terms of journals and patents: a most recent update
+On the Normalization and Visualization of Author Co-Citation Data Salton's Cosine versus the Jaccard Index
+Co-word Analysis using the Chinese Character Set
+Main-path analysis and path-dependent transitions in HistCite(TM)-based historiograms
+Korean journals in the Science Citation Index: What do they reveal about the intellectual structure of S T in Korea?
+Journals as constituents of scientific discourse: economic heterodoxy
+Measuring contextual citation impact of scientific journals
+Visualization of the Citation Impact Environments of Scientific Journals: An online mapping exercise
+Citation Environment of Angewandte Chemie
+A Comparison between the China Scientific and Technical Papers and Citations Database and the Science Citation Index in terms of journal hierarchies and inter-journal citation relations
+The Citation Impacts and Citation Environments of Chinese Journals in Mathematics
+Indicators of Structural Change in the Dynamics of Science: Entropy Statistics of the SCI Journal Citation Reports
+Environment and Planning B as a Journal: The interdisciplinarity of its environment and the citation impact
+Can Scientific Journals be Classified in terms of Aggregated Journal-Journal Citation Relations using the Journal Citation Reports?
+Classification and Powerlaws: The Logarithmic Transformation
+Co-occurrence Matrices and their Applications in Information Science: Extending ACA to the Web Environment
+The Import and Export of Cognitive Science
+An Indicator of Research Front Activity: Measuring Intellectual Organization as Uncertainty Reduction in Document Sets
+Designing a Multi-petabyte Database for LSST
+Quantitative Analysis of the Publishing Landscape in High-Energy Physics
+Ranking Scientific Publications Using a Simple Model of Network Traffic
+Data Preservation and Long Term Analysis in High Energy Physics
+Geant4 in Scientific Literature
+Clusters and Maps of Science Journals Based on Bi-connected Graphs in the Journal Citation Reports
+The university-industry knowledge relationship: Analyzing patents and the science base of technologies
+Mapping the Chinese Science Citation Database
+Scientometrics and the evaluation of European integration
+Communication of Science Shop Mediation: A Kaleidoscope of University-Society Relations
+The Mutual Information of University-Industry-Government Relations: An Indicator of the Triple Helix Dynamics
+A study of seismology as a dynamic distributed area of scientific research
+An evaluation of Flickrs distributed classification system from the perspective of its members and as an image retrieval tool in comparison with a controlled vocabulary
+Data Preservation at LEP
+Are astronomical papers with more authors cited more?
+Institutional Repository saber.ula.ve: A testimonial perspective
+The first Italian research assessment exercise: a bibliometric perspective
+Maps on the basis of the Arts Humanities Citation Index: The journals Leonardo and Art Journal versus Digital Humanities as a topic
+An index to link scientific productivity with visibility
+Science overlay maps: a new tool for research policy and library management
+Studies on access: a review
+The SJR indicator: A new indicator of journals' scientific prestige
+Using Multipartite Graphs for Recommendation and Discovery
+On the Communication of Scientific Results: The Full-Metadata Format
+TGCat The Chandra Transmission Grating Catalog and Archive: Systems Design and Accessibility
+New ways of scientific publishing and accessing human knowledge inspired by transdisciplinary approaches
+Quality Control and Validation Boundaries in a Triple Helix of University-Industry-Government: 'Mode 2' and the Future of University Research
+Distributed scientific communication in the European information society: Some cases of Mode 2 fields of research
+The long-term dynamics of co-authorship scientific networks Iberoamerican Countries (1973-200)
+Collaboration in an Open Data eScience: A Case Study of Sloan Digital Sky Survey
+Scientometrics and Communication Theory: Towards Theoretically Informed Indicators
+Mapping the Geography of Science: Distribution Patterns and Networks of Relations among Cities and Institutes
+The Citation Field of Evolutionary Economics
+International Lattice Data Grid: Turn on plug in and download
+The skewness of computer science
+What Can Heterogeneity Add to the Scientometric Map? Steps towards algorithmic historiography
+Open Access Mandates and the Fair Dealing Button
+On the meaning of the h-index
+Caveats for the journal and field normalizations in the CWTS ( Leiden ) evaluations of research performance
+A student's guide to searching the literature using online databases
+Rivals for the crown: Reply to Opthof and Leydesdorff
+The relation between Eigenfactor audience factor and influence weight
+A comparison of two techniques for bibliometric mapping: Multidimensional scaling and VOS
+Making Web Annotations Persistent over Time
+Axiomatic Quantification of Co-authors' Relative Contributions
+Topic Map: An Ontology Framework for Information Retrieval
+An HTTP-Based Versioning Mechanism for Linked Data
+A Mathematical Approach to the Study of the United States Code
+wiki.openmath.org - how it works how you can participate
+SWiM -- A Semantic Wiki for Mathematical Knowledge Management
+CWTS crown indicator measures citation impact of a research group's publication oeuvre
+From Artifacts to Aggregations: Modeling Scientific Life Cycles on the Semantic Web
+Evaluating Methods to Rediscover Missing Web Pages from the Web Infrastructure
+A New Approach to Analyzing Patterns of Collaboration in Co-authorship Networks - Mesoscopic Analysis and Interpretation
+Comparing Repository Types - Challenges and barriers for subject-based repositories research repositories national repository systems and institutional repositories in serving scholarly communication
+The danger of pseudo science in Informetrics
+Citing for High Impact
+Publishing Math Lecture Notes as Linked Data
+Scopus's Source Normalized Impact per Paper (SNIP) versus a Journal Impact Factor based on Fractional Counting of Citations
+Analysis of Graphs for Digital Preservation Suitability
+Dimensions of Formality: A Case Study for MKM in Software Engineering
+Notations Around the World: Census and Exploitation
+Modes of Collaboration in Modern Science - Beyond Power Laws and Preferential Attachment
+Big Macs and Eigenfactor Scores: Don't Let Correlation Coefficients Fool You
+ONER: Tool for Organization Named Entity Recognition from Affiliation Strings in PubMed Abstracts
+Towards Automatic Extraction of Social Networks of Organizations in PubMed Abstracts
+The Formulator MathML Editor Project: User-Friendly Authoring of Content Markup Documents
+Worldwide topology of the scientific subject profile: a macro approach on the country level
+Finding Your Literature Match -- A Recommender System
+Metadata and provenance management
+Proviola: A Tool for Proof Re-animation
+An Ontology-based Context Aware System for Selective Dissemination of Information in a Digital Library
+Dissertations Repository System Using Context Module
+The Source-Normalized Impact per Paper (SNIP) is a valid and sophisticated indicator of journal citation impact
+Eugene Garfield and Algorithmic Historiography: Co-Words Co-Authors and Journal Names
+Astronomy 3.0 Style
+Bibliometric Evaluation of the Changing Finnish Astronomy
+Rozw 'oj bibliotek cyfrowych i repozytori 'ow elektronicznych na Dolnym Slasku w latach 2004-2008 Development of Digital Libraries and Electronic Repositories in Lower Silesia in Years 2004-2008
+From RESTful Services to RDF: Connecting the Web and the Semantic Web
+Scopus' SNIP Indicator
+Normalization at the field level: fractional counting of citations
+Concentration versus dispersion of research resources: a contribution to the debate
+Towards OpenMath Content Dictionaries as Linked Data
+New Quantitative Study for Dissertations Repository System
+A unified approach to mapping and clustering of bibliometric networks
+Limits of responsiveness concerning human-readable knowledge bases: an operational analysis
+HepML an XML-based format for describing simulated data in high energy physics
+PageRank: Standing on the shoulders of giants
+Towards a new crown indicator: Some theoretical considerations
+The Emerging Scholarly Brain
+Collaborative Structuring of Knowledge by Experts and the Public
+Exposing and harvesting metadata using the OAI metadata harvesting protocol: A tutorial
+Indicators of the Interdisciplinarity of Journals: Diversity Centrality and Citations
+Towards a new crown indicator: An empirical analysis
+On Duplication in Mathematical Repositories
+How fractional counting affects the Impact Factor: Normalization in terms of differences in citation potentials among fields of science
+The Development of the Journal Environment of Leonardo
+Demonstrating a Service-Enhanced Retrieval System
+A Framework for an Ego-centered and Time-aware Visualization of Relations in Arbitrary Data Repositories
+Establishing a Multi-Thesauri-Scenario based on SKOS and Cross-Concordances
+Faceted Exploration of Emerging Resource Spaces
+Self-Selected or Mandated Open Access Increases Citation Impact for Higher Quality Research
+Comparing Repository Types - Challenges and barriers for subject-based repositories research repositories national repository systems and institutional repositories in serving scholarly communication
+A Simple Abstraction for Data Modeling
+First results of the SOAP project. Open access publishing in 2010
+Weighted Indices for Evaluating the Quality of Research with Multiple Authorship
+Using Context Dependent Semantic Similarity to Browse Information Resources: an Application for the Industrial Design
+Remaining problems with the New Crown Indicator (MNCS) of the CWTS
+Enabling Data Discovery through Virtual Internet Repositories
+How to evaluate universities in terms of their relative citation impacts: Fractional counting of citations and the normalization of differences among disciplines
+Tracing scientific influence
+Editing Knowledge in Large Mathematical Corpora. A case study with Semantic LaTeX (sTeX)
+Analysis of temporal characteristics of the editorial processing in scientific periodicals
+Citation entropy and research impact estimation
+Make Research Data Public?---Not Always so Simple: A Dialogue for Statisticians and Science Editors
+Analysis of Generalized Impact Factor and Indices of Journals
+Citations and impact of Dutch astronomy
+Collaboration in sensor network research: an in-depth longitudinal analysis of assortative mixing patterns
+A Joint Initiative to Support the Semantic Interoperability within the GIIDA Project
+Fractional counting of citations in research evaluation: An option for cross- and interdisciplinary assessments
+Ontology and Knowledge Management System on Epilepsy and Epileptic Seizures
+The CALBC RDF Triple Store: retrieval over large literature content
+Import of ENYME data into the ConceptWiki and its representation as RDF
+The Butterfly Effect: Correlations Between Modeling in Nuclear-Particle Physics and Socioeconomic Factors
+What the Cited and Citing Environments Reveal of Advances in Atmospheric Sciences ?
+Comparative Analysis of Existing Methods and Algorithms for Automatic Assignment of Reviewers to Papers
+Selection in Scientific Networks
+Semantic Web: Who is who in the field - A bibliometric analysis
+Applying centrality measures to impact analysis: A coauthorship network analysis
+Discovering author impact: A PageRank perspective
+Popular and or Prestigious? Measures of Scholarly Esteem
+PageRank for ranking authors in co-citation networks
+Weighted citation: An indicator of an article's prestige
+Severe Language Effect in University Rankings: Particularly Germany and France are wronged in citation-based rankings
+Analysis of Computer Science Communities Based on DBLP
+Generalized Linear Weights for Sharing Credits Among Multiple Authors
+Scientific citations in Wikipedia
+Report on the current state of the French DMLs
+Digital Mathematics Libraries: The Good the Bad the Ugly
+Distributed Collections of Web Pages in the Wild
+A Science Model Driven Retrieval Prototype
+Applying Science Models for Search
+Emerging Search Regimes: Measuring Co-evolutions among Research Science and Society
+A Proposal to Classify Latinamerican Scientific Journals using Citation Indicators: Case Study in Colombia
+Resequencing: A Method for Conforming to Conventions for Sharing Credits Among Multiple Authors
+Data Preservation in High Energy Physics
+Bio-inspired Methods for Dynamic Network Analysis in Science Mapping
+Fractional counting of citations in research evaluation: A cross- and interdisciplinary assessment of the Tsinghua University in Beijing
+Highlights from the SOAP project survey. What Scientists Think about Open Access Publishing
+Mapping the evolution of scientific fields
+Positional Effects on Citation and Readership in arXiv
+The Use of Scientific Data: A Content Analysis
+Data Preservation in High Energy Physics - why how and when?
+Last but not Least: Additional Positional Effects on Citation and Readership in arXiv
+Can Knowledge be preserved in the long run?
+The Local Emergence and Global Diffusion of Research Technologies: An Exploration of Patterns of Network Formation
+How to Create an Innovation Accelerator
+The Documents and Assets Created During the Video Game Production Process
+An Evaluation of Link Neighborhood Lexical Signatures to Rediscover Missing Web Pages
+A Decade of Database Research Publications
+Interlocking editorship. A network analysis of the links between economic journals
+Applying weighted PageRank to author citation networks
+Non-consistency non-cited items and the impact factor: A consequence of the arithmetic
+Citation analysis cannot legitimate the strategic selection of excellence
+Usage Bibliometrics
+Publish or Patent: Bibliometric evidence for empirical trade-offs in national funding strategies
+PaperBricks: An Alternative to Complete-Story Peer Reviewing
+The Future of Technical Libraries
+Author Identifiers in Scholarly Repositories
+Nonuniversal power law scaling in the probability distribution of scientific citations
+An evaluation of the Australian Research Council's journal ranking
+An Analytical Model for Service Profile Based Service Quality of an Institutional eLibrary
+Liber Mathematicae: A Web-Based Documentation and Collaboration Project for Mathematics
+A Medial Axis Based Thinning Strategy for Character Images
+The Planetary System: Executable Science Technology Engineering and Math Papers
+Development of Computer Science Disciplines - A Social Network Analysis Approach
+Polynomial Weights or Generalized Geometric Weights: Yet Another Scheme for Assigning Credits to Multiple Authors
+Connectivity Damage to a Graph by the Removal of an Edge or a Vertex
+The h-index in Australian Astronomy
+Universal Metadata Standard
+Linking Literature and Data: Status Report and Future Efforts
+Bounds and Inequalities Relating h-Index g-Index e-Index and Generalized Impact Factor
+Progress of concepts and processes in library information system: towards Library 2.0
+Semantic Interlinking of Resources in the Virtual Observatory Era
+HepData reloaded: reinventing the HEP data archive
+Collaboration in computer science: a network science approach. Part I
+Rescaling citations of publications in physics
+The detection of hot regions in the geography of science: A visualization approach by using density maps
+Telescope Bibliometrics 101
+Astronomy Librarians - Quo Vadis?
+SharedCanvas: A Collaborative Model for Medieval Manuscript Layout Dissemination
+Collaboration in computer science: a network science approach. Part II
+ChemXSeer Digital Library Gaussian Search
+The Game of Cipher Beads
+Communities and Patterns of Scientific collaboration
+Structuration by Intellectual Organization: The Configuration of Knowledge in Relations among Structural Components in Networks of Science
+Globalisation of science in kilometres
+How citation boosts promote scientific paradigm shifts and Nobel Prizes
+Workflows for the Management of Change in Science Technologies Engineering and Mathematics
+Science Models as Value-Added Services for Scholarly Information Systems
+Comparing webometric with web-independent rankings: a case study with German universities
+Interactive Overlays: A New Method for Generating Global Journal Maps from Web-of-Science Data
+A recursive field-normalized bibliometric performance indicator: An application to the field of library and information science
+Scholarly Communication
+Analyzing the Persistence of Referenced Web Resources with Memento
+Correction of Noisy Sentences using a Monolingual Corpus
+Mapping excellence in the geography of science: An approach based on Scopus data
+On the correlation between bibliometric indicators and peer review: Reply to Opthof and Leydesdorff
+Clustering and Classification in Text Collections Using Graph Modularity
+Need to categorize: A comparative look at the categories of the Universal Decimal Classification system (UDC) and Wikipedia
+Turning the tables in citation analysis one more time: Principles for comparing sets of documents
+The Nuclear Science References (NSR) Database and Web Retrieval System
+Which cities produce excellent papers worldwide more than can be expected? A new mapping approach--using Google Maps--based on statistical significance testing
+Integrated Impact Indicators (I3) compared with Impact Factors (IFs): An alternative research design with policy implications
+Fractional counting of authorship to quantify scientific research output
+Using Lotkaian Informetrics for Ranking in Digital Libraries
+A Novel Combined Term Suggestion Service for Domain-Specific Digital Libraries
+Resolving Author Name Homonymy to Improve Resolution of Structures in Co-author Networks
+The Art of Data Science
+Similarity-based Browsing over Linked Open Data
+Semantic Inference using Chemogenomics Data for Drug Discovery
+The Open Annotation Collaboration (OAC) Model
+OpenPh - Numerical Physics Library
+The ADS in the Information Age - Impact on Discovery
+A Wiki for Mizar: Motivation Considerations and Initial Prototype
+Tailor Based Allocations for Multiple Authorship: a fractional gh -index
+The structure of the Arts Humanities Citation Index: A mapping on the basis of aggregated citations among 1 17 journals
+A multilingual multicultural semantic-based approach to improve Data Sharing in an SDI for Nature Conservation
+Large Formal Wikis: Issues and Solutions
+Licensing the Mizar Mathematical Library
+A small world of citations? The influence of collaboration networks on citation practices
+Interpretations of the Web of Data
+The Anna Karenina principle: A concept for the explanation of success in science
+Universality of citation distributions revisited
+Evolutionary Dynamics of Scientific Collaboration Networks: Multi-Levels and Cross-time Analysis
+The inconsistency of the h-index
+Extracting Transforming and Archiving Scientific Data
+On the shoulders of students? The contribution of PhD students to the advancement of knowledge
+A Rejoinder on Energy versus Impact Indicators
+mizar-items: Exploring fine-grained dependencies in the Mizar Mathematical Library
+It was twenty years ago today ...
+The Information Flow Framework: A Descriptive Category Metatheory
+Semantic Integration in the IFF
+Beyond the Boundaries of Open Closed and Pirate Archives: Lessons from a Hybrid Approach
+The Information Flow Framework: New architecture
+C-Rank: A Link-based Similarity Measure for Scientific Literature Databases
+Which cities' paper output and citation impact are above expectation in information science? Some improvements of our previous mapping approaches
+Conceptual Knowledge Markup Language: The central core
+The use of microblogging for field-based scientific research
+Digital Libraries Conceptual Knowledge Systems and the Nebula Interface
+Text mining and visualization using VOSviewer
+Viva the h-index
+Editorial process in scientific journals: analysis and modeling
+The Ten Thousand Kims
+Tracing the Evolution of Physics on the Backbone of Citation Networks
+Influence originality and similarity in directed acyclic graphs
+The relationship between acquaintanceship and coauthorship in scientific collaboration networks
+Rapid Impartial and Comprehensive (RIC) publishing: A new concept for scientific journals
+Product Review Summarization based on Facet Identification and Sentence Clustering
+Characterizing and modeling citation dynamics
+Semantic Technology to Exploit Digital Content Exposed as Linked Data
+The CHRONIOUS Ontology-Driven Search Tool: Enabling Access to Focused and Up-to-Date Healthcare Literature
+Notas metodol 'ogicas para cubrir la etapa de documentar una investigaci 'on
+Evaluating the SharedCanvas Manuscript Data Model in CATCHPlus
+The large-scale structure of journal citation networks
+Knowledge Organization Research in the last two decades: 1988-2008
+IVOA Recommendation: IVOA Support Interfaces
+A Wikipedia Literature Review
+Content Reuse and Interest Sharing in Tagging Communities
+Normalization of peer-evaluation measures of group research quality across academic disciplines
+Publication patterns of award-winning forest scientists and implications for the ERA journal ranking
+The new Excellence Indicator in the World Report of the SCImago Institutions Rankings 2011
+Un modello di struttura dinamica per ebook scolastici
+Using Automated Dependency Analysis To Generate Representation Information
+Data Preservation in High Energy Physics
+Linking to Data - Effect on Citation Rates in Astronomy
+The ADS All-Sky Survey
+Testing the fairness of citation indicators for comparison across scientific domains: the case of fractional citation counts
+AstroDAbis: Annotations and Cross-Matches for Remote Catalogues
+Astro-WISE Information System
+The Availability and Persistence of Web References in D-Lib Magazine
+Dynamic Web File Format Transformations with Grace
+On challenges and opportunities of designing integrated IT platforms for supporting knowledge works in organizations
+Statistical regularities in the rank-citation profile of scientists
+Temporal effects in the growth of networks
+Architecture of a Conference Management System Providing Advanced Paper Assignment Features
+YouASTRO: a web-based bibliography management system with distributed comments and rating features for SAO NASA ADS papers
+The DAME VO-Neural Infrastructure: an Integrated Data Mining System Support for the Science Community
+DAME: A Distributed Data Mining Exploration Framework within the Virtual Observatory
+A literature review: What exactly should we preserve? How scholars address this question and where is the gap
+Why don't we already have an Integrated Framework for the Publication and Preservation of all Data Products?
+Making QCD Lattice Data Accessible and Organized through Advanced Web Interfaces
+Towards a Reference Model for Open Access and Knowledge Sharing Lessons from Systems Research
+Legal Resources Information System for Information Agencies of Specialized Libraries
+Probabilistic Management of OCR Data using an RDBMS
+World Shares of Publications of the USA EU-27 and China Compared and Predicted using the New Interface of the Web-of-Science versus Scopus
+Multi-Connected Ontologies
+ProofPeer - A Cloud-based Interactive Theorem Proving System
+Distributed archive and single access system for accelerometric event data : a NERIES initiative
+Integrating Interactive Visualizations in the Search Process of Digital Libraries and IR Systems
+Elasticity on Ontology Matching of Folksodriven Structure Network
+Conception and Use of Ontologies for Indexing and Searching by Semantic Contents of Video Courses
+T2Ku: Building a Semantic Wiki of Mathematics
+Reengineering PDF-Based Documents Targeting Complex Software Specifications
+Edit wars in Wikipedia
+OntologyNavigator: WEB 2.0 scalable ontology based CLIR portal to IT scientific corpus for researchers
+Chandra Publication Statistics
+The Myth of Global Science Collaboration - Collaboration patterns in epistemic communities
+A model of Cross Language Retrieval for IT domain papers through a map of ACM Computing Classification System
+Hybrid Centrality Measures for Binary and Weighted Networks
+Technologie et pratiques bibliographiques associ 'ees a l' 'ecriture scientifique en milieu universitaire
+Alternatives to the Journal Impact Factor: I3 and the Top-10 (or Top-2 ?) of the Most-Highly Cited Papers
+The relative significance of the H-index
+ProofFlow: Flow Diagrams for Proofs
+OWL: Yet to arrive on the Web of Data?
+Open Data: Reverse Engineering and Maintenance Perspective
+Semantic Visualization and Navigation in Textual Corpus
+Temporal Analysis of Literary and Programming Prose
+An evaluation of local shape descriptors for 3D shape retrieval
+The Leiden Ranking 2011 2012: Data collection indicators and interpretation
+Check Your Data Freedom: A Taxonomy to Assess Life Science Database Openness
+When Should I Make Preservation Copies of Myself?
+Publication Trends in Astronomy: The Lone Author
+Enhancing Navigation on Wikipedia with Social Tags
+Analyzing Tag Distributions in Folksonomies for Resource Classification
+Open Annotations on Multimedia Web Resources
+Dependencies in Formal Mathematics: Applications and Extraction for Coq and Mizar
+Decomposition of the h-index
+Citations to Australian Astronomy:  and 10 Year Benchmarks
+A new methodology for constructing a publication-level classification system of science
+Evolution of Wikipedia's Category Structure
+Literature-based knowledge discovery: the state of the art
+Metadata Management in Scientific Computing
+Research collaboration and the expanding science grid: Measuring globalization processes worldwide
+Do Linguistic Style and Readability of Scientific Abstracts affect their Virality?
+Can an Ad-hoc ontology Beat a Medical Search Engine? The Chronious Search Engine case
+Altmetrics in the wild: Using social media to explore scholarly impact
+Improving an Hybrid Literary Book Recommendation System through Author Ranking
+Building Custom Term Suggestion Web Services with OAI-Harvested Open Data
+Power-law Distributions in Information Science - Making the Case for Logarithmic Binning
+Identifying Overlapping and Hierarchical Thematic Structures in Networks of Scholarly Papers: A Comparison of Three Approaches
+Quantifying the influence of scientists and their publications: Distinguish prestige from popularity
+An Evaluation of Impacts in Nanoscience nanotechnology: Steps towards standards for citation analysis
+Bibliometric Perspectives on Medical Innovation using the Medical Subject Headings (MeSH) of PubMed
+A reverse engineering approach to the suppression of citation biases reveals universal properties of citation distributions
+Multidisciplinary Cognitive Content of Nanoscience and Nanotechnology
+Persistence and Uncertainty in the Academic Career
+Accounting for the Uncertainty in the Evaluation of Percentile Ranks
+Investigating Keyphrase Indexing with Text Denoising
+Publishing Identifiable Experiment Code And Configuration Is Important Good and Easy
+Collaboratively Patching Linked Data
+Looking at a digital research data archive - Visual interfaces to EASY
+The evolution of classification systems: Ontogeny of the UDC
+Your Two Weeks of Fame and Your Grandmother's
+Reimplementing the Mathematical Subject Classification (MSC) as a Linked Open Dataset
+Assessing Researcher Interdisciplinarity: A Case Study of the University of Hawaii NASA Astrobiology Institute
+Seats at the table: the network of the editorial boards in information and library science
+Network Analysis of the French Environmental Code
+Global Maps of Science based on the new Web-of-Science Categories
+McCall's Area Transformation versus the Integrated Impact Indicator (I3)
+Proceedings of the first International Workshop On Open Data WOD-2012
+Efficient Video Indexing on the Web: A System that Leverages User Interactions with a Video Player
+Harnessing Folksonomies for Resource Classification
+Fully Digital: Policy and Process Implications for the AAS
+Indices to Quantify the Ranking of Arabic Journals and Research Output
+A Fitness Model for Scholarly Impact Analysis
+Citation impact of papers published from six prolific countries: A national comparison based on InCites data
+Scientific Utopia: I. Opening scientific communication
+Recommendation on Academic Networks using Direction Aware Citation Analysis
+Are e-readers suitable tools for scholarly work?
+An Integrated Impact Indicator (I3): A New Definition of Impact with Policy Relevance
+Diachronic Linked Data: Towards Long-Term Preservation of Structured Interrelated Information
+The citation-based indicator and combined impact indicator - New options for measuring impact
+Linking Social Networking Sites to Scholarly Information Portals by ScholarLib
+Public Data Integration with WebSmatch
+Cumulative Revision Map
+Uncertainties and Ambiguities in Percentiles and how to Avoid Them
+Extraction of Historical Events from Wikipedia
+Scientific Utopia: II. Restructuring incentives and practices to promote truth over publishability
+In praise of the referee
+The weakening relationship between the Impact Factor and papers' citations in the digital age
+ISWAR: An Imaging System with Watermarking and Attack Resilience
+Status Report of the DPHEP Study Group: Towards a Global Effort for Sustainable Data Preservation in High Energy Physics
+Beyond citations: Scholars' visibility on the social Web
+Publication Induced Research Analysis (PIRA) - Experiments on Real Data
+Modeling the clustering in citation networks
+Characterizing Interdisciplinarity of Researchers and Research Topics Using Web Search Engines
+How Can Journal Impact Factors be Normalized across Fields of Science? An Assessment in terms of Percentile Ranks and Fractional Counts
+Automatic Generation of OWL Ontology from XML Data Source
+A Novel Semantic Software for Astronomical Concepts
+Finding Quality Issues in SKOS Vocabularies
+How to analyse percentile impact data meaningfully in bibliometrics: The statistical analysis of distributions percentile rank classes and top-cited papers
+CyberChair: A Web-Based Groupware Application to Facilitate the Paper Reviewing Process
+Complex Systems Science: Dreams of Universality Reality of Interdisciplinarity
+Search Strategies of Library Search Experts
+Online open neuroimaging mass meta-analysis
+Green and Gold Open Access Percentages and Growth by Discipline
+An empirical analysis of the use of alphabetical authorship in scientific publishing
+The Planetary Project: Towards eMath3.0
+Data Preservation and Long Term Analysis in High Energy Physics
+The H1 Data Preservation Project
+IACTalks: an on-line archive of astronomy-related seminars
+The observational roots of reference of the semantic web
+Universality in Bibliometrics
+A further step forward in measuring journals' scientific prestige: The SJR2 indicator
+Culturomics meets random fractal theory: Insights into long-range correlations of social and natural phenomena over the past two centuries
+Citation Analysis with Medical Subject Headings (MeSH) using the Web of Knowledge: A new routine
+Edited Volumes Monographs and Book Chapters in the Book Citation Index (BKCI) and Science Citation Index (SCI SoSCI A HCI)
+Point-and-write --- Documenting Formal Mathematics by Reference
+Telescope Bibliographies: an Essential Component of Archival Data Management and Operations
+Visualising Virtual Communities: From Erd H o s to the Arts
+On the time dependence of the h -index
+Managing Research Data in Big Science
+Developments and Obstacles in Chinese eBook Market
+An Integrated Conditional Model of Information Extraction and Coreference with Applications to Citation Matching
+A Revised Publication Model for ECML PKDD
+Data Preservation in High Energy Physics
+Metrics to evaluate research performance in academic institutions: A critique of ERA 2010 as applied in forestry and the indirect H2 index as a possible alternative
+Impact Factor: outdated artefact or stepping-stone to journal certification?
+Towards a Book Publishers Citation Reports. First approach using the Book Citation Index
+Electronic administration in Spain: from its beginnings to the present
+The Distributed Ontology Language (DOL): Use Cases Syntax and Extensibility
+An Automat for the Semantic Processing of Structured Information
+Semantic Web Requirements through Web Mining Techniques
+Exploring scientists' working timetable: Do scientists often work overtime?
+Leveraging Subjective Human Annotation for Clustering Historic Newspaper Articles
+Good practices for a literature survey are not followed by authors while preparing scientific manuscripts
+Statistics of statisticians: Critical mass of statistics and operational research groups in the UK
+Caveats for using statistical significance tests in research assessments
+How the Scientific Community Reacts to Newly Submitted Preprints: Article Downloads Twitter Mentions and Citations
+Advances in Science Visualization: Social Networks Semantic Maps and Discursive Knowledge
+Source normalized indicators of citation impact: An overview of different approaches and an empirical comparison
+Supporting Structured Browsing for Full-Text Scientific Research Reports
+Some modifications to the SNIP journal impact indicator
+Semantic web applications with regard to math and environment
+A Plan For Curating Obsolete Data or Resources
+True Peer Review
+Losing My Revolution: How Many Resources Shared on Social Media Have Been Lost?
+Information Metrics (iMetrics): A Research Specialty with a Socio-Cognitive Identity?
+Age-sensitive bibliographic coupling with an application in the history of science
+Diversifying Citation Recommendations
+TheSoz: A SKOS Representation of the Thesaurus for the Social Sciences
+Publication patterns in HEP computing
+ATP and Presentation Service for Mizar Formalizations
+Universality of Performance Indicators based on Citation and Reference Counts
+Finding and Recommending Scholarly Articles
+Evaluating the SiteStory Transactional Web Archive With the ApacheBench Tool
+Open Science Project in White Dwarf Research
+ADS Labs - Supporting Information Discovery in Science Education
+Logical segmentation for article extraction in digitized old newspapers
+Theoretical And Technological Building Blocks For An Innovation Accelerator
+Formats over Time: Exploring UK Web History
+Hidden Trends in 90 Years of Harvard Business Review
+Some Chances and Challenges in Applying Language Technologies to Historical Studies in Chinese
+A measure of similarity between scientific journals and of diversity of a list of publications
+Astronomy and Computing: a New Journal for the Astronomical Computing Community
+Viewpoint: Journals for Certification Conferences for Rapid Dissemination
+Statistics for the Dynamic Analysis of Scientometric Data: The evolution of the sciences in terms of trajectories and regimes
+In science there is no bad publicity : Papers criticized in comments have high scientific impact
+How are academic age productivity and collaboration related to citing behavior of researchers?
+Use of Repositories and its Significance for Engineering Education El Uso de Repositorios y su Importancia para la Educaci 'on en Ingenier 'ia
+Interactive Overlay Maps for US Patent (USPTO) Data Based on International Patent Classifications (IPC)
+Testing the Finch Hypothesis on Green OA Mandate Ineffectiveness
+FuturICT - The Road towards Ethical ICT
+The use of percentiles and percentile rank classes in the analysis of bibliometric data: Opportunities and limits
+Enhancing Invenio Digital Library With An External Relevance Ranking Engine
+A Scienceographic Comparison of Physics Papers from the arXiv and viXra Archives
+Trends in condensed matter physics: is research going faster and faster?
+The validation of (advanced) bibliometric indicators through peer assessments: A comparative study using data from InCites and F1000
+The role of gender in scholarly authorship
+Annotations Collaborative Tagging and Searching Mathematics in E-Learning
+A semantic cache for enhancing Web services communities activities: Health care case study
+The Benefits of Model-Driven Development in Institutional Repositories - Los Beneficios del Desarrollo Dirigido por Modelos en los Repositorios Institucionales
+Ontology Based Information Extraction for Disease Intelligence
+Universities Scale Like Cities
+A bird's-eye view of scientific trading: Dependency relations among fields of science
+Citation content analysis (cca): A framework for syntactic and semantic analysis of citation content
+Information Carriers and Identification of Information Objects: An Ontological Approach
+World citation and collaboration networks: uncovering the role of geography in science
+Theorem Proving in Large Formal Mathematics as an Emerging AI Field
+The Clustering of Author's Texts of English Fiction in the Vector Space of Semantic Fields
+Evolution of the most common English words and phrases over the centuries
+Bring out your codes Bring out your codes (Increasing Software Visibility and Re-use)
+Astrophysics Source Code Library
+The Possible Role of Resource Requirements and Academic Career-Choice Risk on Gender Differences in Publication Rate and Impact
+A Dynamic Network Approach to Breakthrough Innovation
+Discovering Links for Metadata Enrichment on Computer Science Papers
+Truthy: Enabling the Study of Online Social Networks
+easyGWAS: An integrated interspecies platform for performing genome-wide association studies
+A Study on the Open Source Digital Library Software's: Special Reference to DSpace EPrints and Greenstone
+Bibliometric Networks
+Topic Extraction and Bundling of Related Scientific Articles
+Data Life Cycle Labs A New Concept to Support Data-Intensive Science
+Twenty Hirsch index variants and other indicators giving more or less preference to highly cited papers
+Astro-WISE processing of wide-field images and other data
+Inconsistencies of Recently Proposed Citation Impact Indicators and how to Avoid Them
+Innovation as a Nonlinear Process the Scientometric Perspective and the Specification of an Innovation Opportunities Explorer
+The Extraction of Community Structures from Publication Networks to Support Ethnographic Observations of Field Differences in Scientific Communication
+A scientometrics law about co-authors and their ranking. The co-author core
+Underspecified Scientific Claims in Nanopublications
+Field-normalized Impact Factors: A Comparison of Rescaling versus Fractionally Counted IFs
+How Much of the Web Is Archived?
+Identifying Research Fields within Business and Management: A Journal Cross-Citation Analysis
+Word Storms: Multiples of Word Clouds for Visual Comparison of Documents
+Interactive Overlays of Journals and the Measurement of Interdisciplinarity on the basis of Aggregated Journal-Journal Citations
+Protecting Online Documents from an Unauthorized External Access (in Bulgarian)
+Academic Ranking with Web Mining and Axiomatic Analysis
+How to calculate the practical significance of citation impact differences? An empirical example from evaluative institutional bibliometrics using adjusted predictions and marginal effects
+Science 3.0: Corrections to the Science 2.0 paradigm
+Mandated data archiving greatly improves access to research data
+Do we need the g-index?
+Ontology-based Recommender System of Economic Articles
+Mapping the network structure of science parks: An exploratory study of cross-sectoral interactions reflected on the web
+A Single Journal Study : Malaysian Journal of Computer Science
+Auditing scholarly journals published in Malaysia and assessing their visibility
+Publication productivity and citation analysis of the Medical Journal of Malaysia: 2004 - 2008
+Exploring the needs of Malay manuscript studies community for an e-learning platform
+Measuring the influence of a journal using impact and diffusion factors
+International Contribution to Nipah Virus Research 1999-2010
+Collection security management at university libraries: assessment of its implementation status
+Information systems security in special and public libraries: an assessment of status
+Open Access repositories and journals for visibility: Implications for Malaysian libraries
+Internationalization of Malaysian Mathematical and Computer Science Journal
+Collaborative digital library of historical resources: Evaluation of first users
+The Pattern of E-Book Use amongst Undergraduates an Malaysia: A Case of to Know is to Use
+Association between quality of clinical practice guidelines and citations given to their references
+Reuse Temporal Dynamics Interest Sharing and Collaboration in Social Tagging Systems
+The Disclosure of University Research for Third Parties: A Non-Market Perspective on an Italian University
+Runaway Events Dominate the Heavy Tail of Citation Distributions
+Stochastic dynamical model of a growing network based on self-exciting point process
+Manipulating Google Scholar Citations and Google Scholar Metrics: simple easy and tempting
+Interdisciplinarity at the Journal and Specialty Level: The changing knowledge bases of the journal Cognitive Science
+International Collaboration in Science: The Global Map and the Network
+How relevant is the predictive power of the h-index? A case study of the time-dependent Hirsch index
+An OAI-PMH-based Web Service for the Generation of Co-Author Networks
+The citation wake of publications detects Nobel laureates' papers
+Learning to Rank for Expert Search in Digital Libraries of Academic Publications
+On the use of Biplot analysis for multivariate bibliometric and scientific indicators
+Open Access library and publisher competition and the evolution of general commerce
+H Index of History journals published in Spain according to Google Scholar Metrics (2007-2011)
+Ontology-Based Administration of Web Directories
+Assessing Semantic Quality of Web Directory Structure
+Is Europe Evolving Toward an Integrated Research Area?
+The DPHEP Study Group: Data Preservation in High Energy Physics
+Mapping Academic Institutions According to Their Journal Publication Profile: Spanish Universities as a Case Study
+Three-feature model to reproduce the topology of citation networks and the effects from authors' visibility on their h-index
+Citation impacts revisited: how novel impact measures reflect interdisciplinarity and structural change at the local and global level
+On the use of topological features and hierarchical characterization for disambiguating names in collaborative networks
+An Ontology for Modelling and Supporting the Process of Authoring Technical Assessments
+Technology Transfer and the End of the Bayh-Dole Effect: Patents as an Analytical Lens on University-Industry-Government Relations
+Mapping Citation Patterns of Book Chapters in the Book Citation Index
+A Case Study of the Arbitrariness of the h-Index and the Highly-Cited-Publications Indicator
+Tradition and Innovation in Scientists' Research Strategies
+Quantifying the interdisciplinarity of scientific journals and fields
+On the calculation of percentile-based bibliometric indicators
+Three Steps to Heaven: Semantic Publishing in a Real World Workflow
+Statistical Common Author Networks (SCAN)
+Mutual Redundancies in Inter-human Communication Systems: Steps Towards a Calculus of Processing Meaning
+Empirical Evidence for the Relevance of Fractional Scoring in the Calculation of Percentile Rank Scores
+The transition towards immortality: non-linear autocatalytic growth of citations to scientific papers
+Entropy-based disciplinarity indicator: role taxonomy of journals in scientific communication systems and isolation degree. Knowledge importation exportation profiles from journals and disciplines
+Estimating Thematic Similarity of Scholarly Papers with Their Resistance Distance in an Electric Network Model
+The Semantic Web takes Wing: Programming Ontologies with Tawny-OWL
+Information Transfer in the Agricultural Sector in Spain
+Findebra: A search engine for rare diseases
+F1000 recommendations as a new data source for research evaluation: A comparison with citations
+Business information through Spain's Chambers of Commerce: meeting business needs
+Web Maps and Their Algebra
+Ranking journals: Could Google Scholar Metrics be an alternative to Journal Citation Reports and Scimago Journal Rank?
+Large scale citation matching using Apache Hadoop
+GDF - A general dataformat for biosignals
+Tracing scientist's research trends realtimely
+Citation analysis may severely underestimate the impact of clinical research as compared to basic research
+Biases in the Experimental Annotations of Protein Function and their Effect on Our Understanding of Protein Function Space
+Counting publications and citations: Is more always better?
+A systematic empirical comparison of different approaches for normalizing citation impact indicators
+Seed Expand : A validated methodology for creating high quality publication oeuvres of individual researchers
+How to derive an advantage from the arbitrariness of the g-index
+Characterizing scientific production and consumption in Physics
+A measure for the impact of research
+Usage-based vs. Citation-based Methods for Recommending Scholarly Research Articles
+The case for caution in predicting scientists' future impact
+Collective allocation of science funding: from funding agencies to scientific agency
+Semantic Tagging on Historical Maps
+Google Scholar and the h-index in biomedicine: the popularization of bibliometric asessment
+Relative Positions of Countries in the World of Science
+Maps of Computer Science
+A Two-Dimensional Approach to Evaluate the Scientific Production of Countries (Case Study: The Basic Sciences)
+The Recomputation Manifesto
+Fingerprint databases for theorems
+Best-in-class and Strategic Benchmarking of Scientific Subject Categories of Web of Science in 2010
+Assessing Visualization Techniques for the Search Process in Digital Libraries
+How important tasks are performed: peer review
+Impact maturity times and citation time windows: The 2-year maximum journal impact factor
+Comparing journals from different fields of Science and Social Science through a JCR Subject Categories Normalized Impact Factor
+Central indexes to the citation distribution: A complement to the h-index
+Carbon Dating The Web: Estimating the Age of Web Resources
+Personalized Academic Research Paper Recommendation System
+Making Math Searchable in Wikipedia
+Art History on Wikipedia a Macroscopic Observation
+A Framework for Reproducible Interactive Research: Application to health and social sciences
+Genericity versus expressivity - an exercise in semantic interoperable research information systems for Web Science
+Are elite journals declining?
+Technical report: Linking the scientific and clinical data with KI2NA-LHC
+Designing the W3C Open Annotation Data Model
+Practices in source code sharing in astrophysics
+A bibliometric index based on the complete list of cited publications
+Twenty-Five Shades of Greycite: Semantics for referencing and preservation
+Coverage and adoption of altmetrics sources in the bibliometric community
+Socializing the h-index
+Deep Impact: Unintended consequences of journal rank
+Inconsistencies of the Highly-Cited-Publications Indicator
+Group-Based Trajectory Modeling of Citations in Scholarly Literature: Dynamic Qualities of Transient and Sticky Knowledge Claims
+GeoDBLP: Geo-Tagging DBLP for Mining the Sociology of Computer Science
+Relevance distributions across Bradford ones: Can Bradfordizing improve search?
+A Comparison between Two Main Academic Literature Collections: Web of Science and Scopus Databases
+Does Criticisms Overcome the Praises of Journal Impact Factor?
+The role of twitter in the life cycle of a scientific publication
+Self-organization of progress across the century of physics
+Mathematical practice crowdsourcing and social machines
+What does mathoverflow tell us about the production of mathematics?
+Towards an Author-Topic-Term-Model Visualization of 100 Years of German Sociological Society Proceedings
+ResourceSync: Leveraging Sitemaps for Resource Synchronization
+Most borrowed is most cited? Library loan statistics as a proxy for monograph selection in citation indexes
+HTTP Mailbox - Asynchronous RESTful Communication
+Ethics of using language editing services in an era of digital communication and heavily multiauthored papers
+Riding the crest of the altmetrics wave: How librarians can help prepare faculty for the next generation of research impact metrics
+Data Quality Principles in the Semantic Web
+SHARE: A Web Service Based Framework for Distributed Querying and Reasoning on the Semantic Web
+Extending Sitemaps for ResourceSync
+Investigating Deletion in Wikipedia
+Formal Mathematics on Display: A Wiki for Flyspeck
+Escaping the Trap of too Precise Topic Queries
+New Index for Quantifying an Individual's Scientific Research Output
+Ovopub: Modular data publication with minimal provenance
+For a Semantic Web based Peer-reviewing and Publication of Research Results
+Organizing Linked Data Quality Related Methods
+Social Dynamics of Science
+Linking Things on the Web: A Pragmatic Examination of Linked Data for Libraries Archives and Museums
+Lobby index as a network centrality measure
+A Focused Crawler Combinatory Link and Content Model Based on T-Graph Principles
+A hybrid approach for semantic enrichment of MathML mathematical expressions
+Analysis and Evaluation of the Link and Content Based Focused Treasure-Crawler
+Subfield Effects on the Core of Coauthors
+Does it Matter Which Citation Tool is Used to Compare the h-index of a Group of Highly Cited Researchers?
+Big Pharma little science? A bibliometric perspective on big pharma's R D decline
+swMATH - a new information service for mathematical software
+Web Synchronization Simulations using the ResourceSync Framework
+Performing Informetric Analysis on Information Retrieval Test Collections: Preliminary Experiments in the Physics Domain
+Effects of Publications in Proceedings on the Measure of the Core Size of Coauthors
+arXiv e-prints and the journal of record: An analysis of roles and relationships
+UDC in Action
+Table of Content detection using Machine Learning
+The potential of preprints to accelerate scholarly communication - A bibliometric analysis based on selected journals
+Static and Dynamic Aspects of Scientific Collaboration Networks
+Altmetrics: New Indicators for Scientific Communication in Web 2.0
+Ranking and mapping of universities and research-focused institutions worldwide based on highly-cited papers: A visualization of results from multi-level models
+Report on the EuDML external cooperation model
+Mapping EINS -- An exercise in mapping the Network of Excellence in Internet Science
+The most controversial topics in Wikipedia: A multilingual and geographical analysis
+An open diachronic corpus of historical Spanish: annotation criteria and automatic modernisation of spelling
+The DeLiVerMATH project - Text analysis in mathematics
+Reviewers' ratings and bibliometric indicators: hand in hand when assessing over research proposals?
+Quality indicators for scientific journals based on experts opinion
+The elephant in the room: multi-authorship and the assessment of individual researchers
+The Academic Trace of the Performance Matrix: A Mathematical Synthesis of the h-Index and the Integrated Impact Indicator (I3)
+H Index of scientific Nursing journals according to Google Scholar Metrics (2007-2011)
+On house renovation and coauthoring (with a little excursus on the Holy Grail of bibliometrics)
+An Evaluation of Caching Policies for Memento TimeMaps
+Is there currently a scientific revolution in scientometrics?
+Quantitative CV-based indicators for research quality validated by peer review
+Composing a Publication List for Individual Researcher Assessment by Merging Information from Different Sources
+Impact Vitality - A Measure for Excellent Scientists
+Quality related publication categories in social sciences and humanities based on a university's peer review assessments
+Output and citation impact of interdisciplinary networks: Experiences from a dedicated funding program
+Research Excellence Milestones of BRIC and N-11 Countries
+Characteristics of International versus Non-International Scientific Publication Media in Team- and Author-Based Data
+Groups of Highly Cited Publications: Stability in Content with Citation Window Length
+Partition-based Field Normalization: An approach to highly specialized publication records
+Google Scholar Metrics 2013: nothing new under the sun
+Reliability and Comparability of Peer Review Results
+Research evaluation per discipline: a peer-review method and its outcomes
+Impact vitality: an indicator based on citing publications in search of excellent scientists
+The normalization of citation counts based on classification systems
+On the Change in Archivability of Websites Over Time
+Scienceography: the study of how science is written
+A History of Cluster Analysis Using the Classification Society's Bibliography Over Four Decades
+PDF articles metadata harvester
+Modeling citation networks based on vigorousness and dormancy
+Editorial: Making GIScience Research More Open Access
+Broadening the Scope of Nanopublications
+Coauthorship and citation in scientific publishing
+International Co-authorship Relations in the Social Science Citation Index: Is Internationalization Leading the Network?
+The revised SNIP indicator of Elsevier's Scopus
+Interdisciplinary Research Collaborations: Evaluation of a Funding Program
+Structure and Dynamics of Coauthorship Citation and Impact within CSCW
+Detecting the historical roots of research fields by reference publication year spectroscopy (RPYS)
+Accuracy of simple initials-based methods for author name disambiguation
+WikiPulse - A News-Portal Based on Wikipedia
+Science Fiction as a Worldwide Phenomenon: A Study of International Creation Consumption and Dissemination
+The Wisdom of Citing Scientists
+Tweeting biomedicine: an analysis of tweets and citations in the biomedical literature
+Citation Counts and Evaluation of Researchers in the Internet Age
+Archiving the Relaxed Consistency Web
+Can inferred provenance and its visualisation be used to detect erroneous annotation? A case study using UniProtKB
+R-Score: Reputation-based Scoring of Research Groups
+Toward an Interactive Directory for Norfolk Nebraska: 1899-1900
+The -index: A geometric representation of productivity and impact which accounts for information in the entire rank-citation profile
+Scientometrics
+Do scientists trace hot topics?
+Growth in the number of references in engineering journal papers during the 1972-2013 period
+Which percentile-based approach should be preferred for calculating normalized citation impact values? An empirical comparison of five approaches including a newly developed citation-rank approach (P100)
+The predictability of the Hirsch index evolution
+Categorizing Influential Authors Using Penalty Areas
+Statistiques et visibilit 'e des biblioth eques num 'eriques : quelles strat 'egies de diffusion ?
+nanoHUB.org: Experiences and Challenges in Software Sustainability for a Large Scientific Community
+Social Interactive Media Tools and Knowledge Sharing: A Case Study
+Letter to the editor: Against the Resilience of Rejected Manuscripts
+The Google Scholar Experiment: how to index false papers and manipulate bibliometric indicators
+Entitymetrics: Measuring the Impact of Entities
+Finding knowledge paths among scientific disciplines
+Resurrecting My Revolution: Using Social Link Neighborhood in Bringing Context to the Disappearing Web
+Training in Data Curation as Service in a Federated Data Infrastructure - the FrontOffice-BackOffice Model
+Revealing the intricate effect of collaboration on innovation
+Mapping Mutable Genres in Structurally Complex Volumes
+Profiling Web Archive Coverage for Top-Level Domain and Content Language
+Access Patterns for Robots and Humans in Web Archives
+Who and What Links to the Internet Archive
+Developing a Robust Migration Workflow for Preserving and Curating Hand-held Media
+HOL(y)Hammer: Online ATP Service for HOL Light
+Author Name Co-Mention Analysis: Testing a Poor Man's Author Co-Citation Analysis Method
+Extensible Generic Data Management Software
+Evaluating Sliding and Sticky Target Policies by Measuring Temporal Drift in Acyclic Walks Through a Web Archive
+Describing Papers and Reviewers' Competences by Taxonomy of Keywords
+An Inter-lingual Reference Approach For Multi-Lingual Ontology Matching
+LCSH SKOS and Linked Data
+The first-mover advantage in scientific publication
+Scientific impact evaluation and the effect of self-citations: mitigating the bias by discounting h-index
+A measure of total research impact independent of time and discipline
+Macro-trends in research on the central dogma of molecular biology
+Benchmarking some Portuguese S T system research units: 2nd Edition
+Key Choices in the Design of Simple Knowledge Organization System (SKOS)
+How to evaluate individual researchers working in the natural and life sciences meaningfully? A proposal of methods based on percentiles of citations
+Universality of scholarly impact metrics
+On the Predictability of Future Impact in Science
+From P100 to P100 : Conception and improvement of a new citation-rank approach in bibliometrics
+Inducing Honest Reporting Without Observing Outcomes: An Application to the Peer-Review Process
+An open dataset for research on audio field recording archives: freefield1010
+On the Internal Dynamics of the Shanghai Ranking
+An Efficient Authorship Protection Scheme for Shared Multimedia Content
+Research misconduct: definitions manifestations and extent
+Bibliometric-enhanced Retrieval Models for Big Scholarly Information Systems
+Use of Solr and Xapian in the Invenio document repository software
+A Conceptual Network-Based Approach to Inferring the Cultural Evolutionary History of the Baltic Psaltery
+Collaboration networks from a large CV database: dynamics topology and bonus impact
+First Author Advantage: Citation Labeling in Research
+Lemma Mining over HOL Light
+MizAR 40 for Mizar 40
+Pennants for Descriptors
+Validation Rules for Assessing and Improving SKOS Mapping Quality
+GV-Index:Scientific Contribution Rating Index That Takes into Account the Growth Degree of Research Area and Variance Values of the Publication Year of Cited Paper
+Dynamic Extraction of Key Paper from the Cluster Using Variance Values of Cited Literature
+Text Classification For Authorship Attribution Analysis
+CIDS country rankings: comparing documents and citations of USA UK and China top researchers
+Exploring Scientists' Working Timetable: A Global Survey
+U.S. academic libraries: understanding their web presence and their relationship with economic indicators
+Aggregation of the web performance of internal university units as a method of quantitative analysis of a university system: the case of Spain
+Selective linking from social platforms to university websites: a case study of the Spanish academic system
+Proposal for a multilevel university cybermetric analysis model
+What do university rankings by fields rank? Exploring discrepancies between the organizational structure of universities and bibliometric classifications
+Google Scholar Metrics evolution: an analysis according to languages
+H Index Communication Journals according to Google Scholar Metrics (2008-2012)
+How much do different ways of calculating percentiles influence the derived performance indicators? - A case study
+Referenced Publication Years Spectroscopy applied to iMetrics: Scientometrics Journal of Informetrics and a relevant subset of JASIST
+Motivation for hyperlink creation using inter-page relationships
+A Semi-automated Peer-review System
+Contribution of Information and Communication Technology (ICT) in Country'S H-Index
+Journals repositories peer review non-peer review and the future of scholarly communication
+How to improve the prediction based on citation impact percentiles for years shortly after the publication date?
+Tracing the origin of a scientific legend by Reference Publication Year Spectroscopy (RPYS): the legend of the Darwin finches
+A brief network analysis of Artificial Intelligence publication
+Extending Term Suggestion with Author Names
+Improving Retrieval Results with discipline-specific Query Expansion
+Analysis of bibliometric indicators for individual scholars in a large data set
+PAV ontology: Provenance Authoring and Versioning
+Hierarchical structuring of Cultural Heritage objects within large aggregations
+Achieving interoperability between the CARARE schema for monuments and sites and the Europeana Data Model
+Categorical and Geographical Separation in Science
+Acceptance Rates in Physical Review Letters: No Seasonal Bias
+A pattern-driven approach to biomedical ontology engineering
+Flexible and Extensible Digital Object and Repository Architecture (FEDORA)
+Policy-Carrying Policy-Enforcing Digital Objects
+An Ontology Model for Organizing Information Resources Sharing on Personal Web
+The Mellon Fedora Project: Digital Library Architecture Meets XML and Web Services
+Coverage field specialization and impact of scientific publishers indexed in the 'Book Citation Index'
+How have the Eastern European countries of the former Warsaw Pact developed since 1990? A bibliometric study
+Eugene Garfield Francis Narin and PageRank: The Theoretical Bases of the Google Search Engine
+RDF Translator: A RESTful Multi-Format Data Converter for the Semantic Web
+Semantic Annotation: The Mainstay of Semantic Web
+The availability of research data declines rapidly with article age
+Astrophysics Source Code Library: Incite to Cite
+Application of polynomial texture mapping in process of digitalization of cultural heritage
+Empirical modeling of the impact factor distribution
+Ideas for Advancing Code Sharing (A Different Kind of Hack Day)
+Online-concordance Perekhresni stezhky ( The Cross-Paths ) a novel by Ivan Franko
+Nefarious Numbers
+Math-Net.Ru as a Digital Archive of the Russian Mathematical Knowledge from the XIX Century to Today
+Quantifying Long-Term Scientific Impact
+Journal Maps Interactive Overlays and the Measurement of Interdisciplinarity on the Basis of Scopus Data (199-2012)
+Web Annotation as a First Class Object
+Bibliometric-enhanced Information Retrieval
+The distorted mirror of Wikipedia: a quantitative analysis of Wikipedia coverage of academics
+Scholarly literature and the press: scientific impact and social perception of physics computing
+Weighted Multiplex Networks
+An Effective End-User Development Approach Through Domain-Specific Mashups for Research Impact Evaluation
+A survey on the importance of visualization and social collaboration in academic digital libraries
+10 Simple Rules for the Care and Feeding of Scientific Data
+Sampling Issues in Bibliometric Analysis
+A Survey of Volunteered Open Geo-Knowledge Bases in the Semantic Web
+Solving reviewer assignment problem in software peer review: An approach based on preference matrix and asymmetric TSP model
+How science maps reveal knowledge transfer: new measurement for a historical case
+How are excellent (highly cited) papers defined in bibliometrics? A quantitative analysis of the literature
+Contexts of diffusion: Adoption of research synthesis in Social Work and Women's Studies
+Web Based Reputation Index of Turkish Universities
+Bibliometrics for Internet Media: Applying the h-Index to YouTube
+Analyzing the citation characteristics of books: edited books book series and types of publishers in the Book Citation Index
+Micropublications: a Semantic Model for Claims Evidence Arguments and Annotations in Biomedical Communications
+The Academic Social Network
+An introduction to the coverage of the Data Citation Index (Thomson-Reuters): disciplines document types and repositories
+Prediction of highly cited papers
+The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web
+Bots vs. Wikipedians Anons vs. Logged-Ins
+Authoris: a tool for authority control in the semantic web
+Authorship Analysis based on Data Compression
+Scientific works citation analysis
+Designing an Ontology for the Data Documentation Initiative
+Learning-assisted Theorem Proving with Millions of Lemmas
+Power laws in citation distributions: Evidence from Scopus
+Analysis of Personalized Information Service System for Digital Libraries
+Open science in machine learning
+Journal topic citation potential and between-field comparisons: The topic normalized impact factor
+Recent advances in bibliometric indexes and the PaperRank problem
+Taming the zoo - about algorithms implementation in the ecosystem of Apache Hadoop
+Interdisciplinarity and research on local issues: evidence from a developing country
+An insight into the importance of national university rankings in an international context: The case of the I-UGR Rankings of Spanish universities
+Of course we share Testing Assumptions about Social Tagging Systems
+Government and Social Media: A Case Study of 31 Informational World Cities
+Predicting Scientific Success Based on Coauthorship Networks
+Semantic Annotation and Search for Educational Resources Supporting Distance Learning
+AntiPlag: Plagiarism Detection on Electronic Submissions of Text Based Assignments
+On the evolution and utility of annual citation indices
+Straightforward Bibliography Management in R with the RefManageR Package
+Determinants of Patent Citations in Biotechnology: An Analysis of Patent Influence Across the Industrial and Organizational Boundaries
+Handling Large and Complex Data in a Photovoltaic Research Institution Using a Custom Laboratory Information Management System
+Principles of scientific research team formation and evolution
+The Unified Astronomy Thesaurus
+A framework for systematic analysis of Open Access journals and its application in software engineering and information systems
+Just Google It - Digital Research Practices of Humanities Scholars
+What is the effect of country-specific characteristics on the research performance of scientific institutions? Using multi-level statistical models to rank and map universities and research-focused institutions worldwide
+Binary Scientific Star Coauthors Core Size
+On the origins and the historical roots of the Higgs boson research from a bibliometric perspective
+The State of Technology for Digital Archiving
+Identifying User Behavior in domain-specific Repositories
+How well developed are altmetrics? A cross-disciplinary analysis of the presence of 'alternative metrics' in scientific publications
+Text Based Approach For Indexing And Retrieval Of Image And Video: A Review
+Automatic Detection of Reuses and Citations in Literary Texts
+The substantive and practical significance of citation impact differences between institutions: Guidelines for the analysis of percentiles using effect sizes and confidence intervals
+Comparison of the Research Effectiveness of Chemistry Nobelists and Fields Medalist Mathematicians with Google Scholar: the Yule-Simon Model
+CitNetExplorer: A new software tool for analyzing and visualizing citation networks
+Recent Developments in China-U.S. Science Cooperation
+E-books and Graphics with LaTeXML
+NNexus Reloaded
+LaTeXML 2012 - A Year of LaTeXML
+Editorial for the Bibliometric-enhanced Information Retrieval Workshop at ECIR 2014
+An Introduction to the Patstat Database with Example Queries
+Modeling nonuniversal citation distributions: the role of scientific journals
+Google matrix of the citation network of Physical Review
+Measuring the evaluation and impact of scientific works and their authors
+Multilinguals and Wikipedia Editing
+Author Impact Factor: tracking the dynamics of individual scientific impact
+Universal hierarchical behavior of citation networks
+Trusty URIs: Verifiable Immutable and Permanent Digital Artifacts for Linked Data
+Inequality in Societies Academic Institutions and Science Journals: Gini and k-indices
+Growth rates of modern science: A bibliometric analysis based on the number of publications and cited references
+The European Union China and the United States in the Top-1 and Top-10 Layers of Most-Frequently-Cited Publications: Competition and Collaborations
+BRICS countries and scientific excellence: A bibliometric analysis of most frequently-cited papers
+Math Indexer and Searcher Web Interface: Towards Fulfillment of Mathematicians' Information Needs
+Empirical Evidences in Citation-Based Search Engines: Is Microsoft Academic Search dead?
+Automated Attribution and Intertextual Analysis
+x-index: a fantastic new indicator for quantifying a scientist's scientific impact
+Comment on Quantifying Long-term Scientific Impact
+A Retrieval Mechanism for Multi-versioned Digital Collection Using TAG
+Why we need an independent index of the Web
+Support for Various HTTP Methods on the Web
+The Past and the Future of Holocaust Research: From Disparate Sources to an Integrated European Holocaust Research Infrastructure
+Developing Corpus-based Translation Methods between Informal and Formal Mathematics: Project Description
+Search Interfaces for Mathematicians
+Fighting Authorship Linkability with Crowdsourcing
+Case study to approaches to finding patterns in citation networks
+Grid-based Search Technique for Massive Academic Publications
+The Dawn of Open Access to Phylogenetic Data
+Assessing Educational Research -- An Information Service for Monitoring a Heterogeneous Research Field
+The Nobel Prize delay
+International Scientific Migration and Collaboration Patterns Following a Bibliometrics Line of Investigation
+Usage History of Scientific Literature: Nature Metrics and Metrics of Nature Publications
+How far does scientific community look back?
+Inter-rater reliability and convergent validity of F1000Prime peer review
+Aggregated journal-journal citation relations in Scopus and Web-of-Science matched and compared in terms of networks maps and interactive overlays
+Aca 2.0: Questions and Answers
+Research at UNIS - The University Centre in Svalbard. A bibliometric study
+Robustness of journal rankings by network flows with different amounts of memory
+Knowledge Maps and Information Retrieval (KMIR)
+LODE: Linking Digital Humanities Content to the Web of Data
+Evolution of citation networks with the hypergraph formalism
+Identifying Duplicate and Contradictory Information in Wikipedia
+Towards a Frontier of Spatial Scientometric Studies
+POS Tagging and its Applications for Mathematics
+The role of handbooks in knowledge creation and diffusion: A case of science and technology studies
+Reaction to New Security Threat Class
+Bringing Web Time Travel to MediaWiki: An Assessment of the Memento MediaWiki Extension
+Community-driven reviewing and validation of publications
+The dark side of Open Access in Google and Google Scholar: the case of Latin-American repositories
+Computing and Using Metrics in the ADS
+The Multidimensional Assessment of Scholarly Research Impact
+Information Meaning and Intellectual Organization in Networks of Inter-Human Communication
+PDF A-3u as an archival format for Accessible mathematics
+From Citation count to Argumentation count: a new metric to indicate the usefulness of an article
+Statistical analysis of the Hirsch Index
+How journal rankings can suppress interdisciplinary research. A comparison between Innovation Studies and Business Management
+Statistical inference on the h-index with an application to top-scientist performance
+MYE: Missing Year Estimation in Academic Social Networks
+Crossing the hurdle: the determinants of individual scientific performance
+People Like Us: Mining Scholarly Data for Comparable Researchers
+Matching MEDLINE PubMed Data with Web of Science (WoS): A Routine in R language
+New measures for evaluating creativity in scientific publications
+Crowd-Sourcing Fuzzy and Faceted Classification for Concept Search
+Exploring the relationship between the Engineering and Physical Sciences and the Health and Life Sciences by advanced bibliometric methods
+Understanding Repository Growth at the University of North Texas: A Case Study
+Establishing an Online Access Panel for Interactive Information Retrieval Research
+Future Influence Ranking of Scientific Literature
+Discovering Beaten Paths in Collaborative Ontology-Engineering Projects using Markov Chains
+Which of the world's institutions employ the most highly cited researchers? An analysis of the data from highlycited.com
+Modeling Collaboration in Academia: A Game Theoretic Approach
+Google Scholar Metrics 2014: a low cost bibliometric tool
+h-index Research in Scientometrics: A Summary
+The Virtual Observatory Registry
+When data sharing gets close to 100 : what ancient human DNA studies can teach the Open Science movement
+Expertise localization discovered through correlation of key term distribution and community detection in co-author networks
+Looking before leaping: Creating a software registry
+Two years of ALMA bibliography - lessons learned
+Mapping R D support infrastructures: A scientometric and webometric study of UK science parks
+Recommender Systems using Pennant Diagrams in Digital Libraries
+Revealing digital documents. Concealed structures in data
+International collaboration clusters in Africa
+Is modern science evolving in the wrong direction?
+Exploring Regional Development of Digital Humanities Research: A Case Study for Taiwan
+Do altmetrics correlate with citations? Extensive comparison of altmetric indicators with citations from a multidisciplinary perspective
+A New Approach to Reporting Archaeological Surveys: Connecting Rough Cilicia Visible Past and Open Context through loose coupling and 3d codes
+A RESTful API for exchanging Materials Data in the AFLOWLIB.org consortium
+Mathoid: Robust Scalable Fast and Accessible Math Rendering for Wikipedia
+Digital Repository of Mathematical Formulae
+Mapping the UK Webspace: Fifteen Years of British Universities on the Web
+PyRDM: A Python-based library for automating the management and online publication of scientific software and data
+Mathematical Language Processing Project
+Examples for counterintuitive behavior of the new citation-rank indicator P100 for bibliometric evaluations
+OntoMath PRO Ontology: A Linked Data Hub for Mathematics
+The Operationalization of Fields as WoS Subject Categories (WCs) in Evaluative Bibliometrics: The cases of Library and Information Science and Science Technology Studies
+A model for dynamical evolution of science in space
+New data new possibilities: Exploring the insides of Altmetric.com
+Unstable markup: A template-based information extraction from web sites with unstable markup
+The Digital Public Library of America Ingestion Ecosystem: Lessons Learned After One Year of Large-Scale Collaborative Metadata Aggregation
+Representing Dataset Quality Metadata using Multi-Dimensional Views
+Modelling Citation Networks
+Toward a deeper understanding of Visualization through keyword analysis
+Collective credit allocation in science
+Semantic Publishing Challenge -- Assessing the Quality of Scientific Output
+Fairer citation-based metrics
+A review of the characteristics of 108 author-level bibliometric indicators
+On the causes of subject-specific citation rates in Web of Science
+A Multi-agent Based Digital Preservation Model
+A Note on the Ranking of Saudi Arabian Universities based on highlycited.com
+Absolute and specific measures of research group excellence
+Comparison of a citation-based indicator and peer review for absolute and specific measures of research-group excellence
+Talking With Scholars: Developing a Research Environment for Oral History Collections
+Structuring research methods and data with the Research Object model: genomics workflows as a case study
+Patents as Instruments for Exploring Innovation Dynamics: Geographic and Technological Perspectives on Photovoltaic Cells
+A distributed Integrity Catalog for digital repositories
+Are 140 Characters Enough? A Large-Scale Linkability Study of Tweets
+Do altmetrics point to the broader impact of research? An overview of benefits and disadvantages of altmetrics
+Implementing Transitive Credit with JSON-LD
+About the size of Google Scholar: playing the numbers
+What is the dimension of citation space?
+Case Studies and Challenges in Reproducibility in the Computational Sciences
+How to improve the outcome of performance evaluations in terms of percentiles for citation frequencies of my papers
+Are topic-specific search term journal name and author name recommendations relevant for researchers?
+Mathematical Knowledge Representation: Semantic Models and Formalisms
+Costly Collaborations: The Impact of Scientific Fraud on Co-authors' Careers
+How many citations are there in the Data Citation Index?
+Improving Accessibility of Archived Raster Dictionaries of Complex Script Languages
+Network analysis of entralblatt MATH data
+Revealing Comparative Advantages in the Backbone of Science
+Investigation of Partition Cells as a Structural Basis Suitable for Assessments of Individual Scientists
+The impact of a few: The effect of alternative formulas for recruiting talent in a non-competitive system
+The 7 Habits of Highly Effective Research Communicators
+From Attention to Citation What and How Does Altmetrics Work?
+The Generation of Large Networks from Web-of-Science Data
+Identification of Influential Scientists vs. Mass Producers by the Perfectionism Index
+Knowledge discovery via multidimensional science maps: the case of the Species Problem
+An Analysis of Publication Venues for Automatic Differentiation Research
+Universality of citation distributions for academic institutions and journals
+An empirical study to order citation statistics between subject fields
+Learning-Assisted Automated Reasoning with Flyspeck
+On bibliographic networks
+Reputation and Impact in Academic Careers
+Empirical Patterns in Google Scholar Citation Counts
+A Framework for Evaluation of Composite Memento Temporal Coherence
+Learning Soft Linear Constraints with Application to Citation Field Extraction
+Simulations suggest that social and natural sciences differ in their research strategies adapted to work for different knowledge landscapes
+Motif-based success scores in coauthorship networks are highly sensitive to author name disambiguation
+One file to share them all: Using the COMBINE Archive and the OMEX format to share all information about a modeling project
+Is Evaluating Visual Search Interfaces in Digital Libraries Still an Issue?
+A variant of the h-index to measure recent performance
+Uncovering the dynamics of citations of scientific papers
+Tweets vs. Mendeley readers: How do these two social media metrics differ?
+International Scientific Collaboration of China: Collaborating Countries Institutions and Individuals
+The Role of Chinese-American Scientists in China-US Scientific Collaboration: A Study in Nanotechnology
+A macro level scientometric analysis of world tribology research output (1998 - 2012)
+Astrophysicists on Twitter: An in-depth analysis of tweeting and scientific publication behavior
+Measuring impact in research evaluations
+An approach to the author citation potential: Measures of scientific performance which are invariant across scientific fields
+Rise of the Rest: The Growing Impact of Non-Elite Journals
+Coauthorship and Citation Networks for Statisticians
+Estimating Open Access Mandate Effectiveness: I. The MELIBEA Score
+Whole counting vs. whole-normalized counting: A country level comparative study of internationally collaborated papers on Tribology
+Philosophy of science viewed through the lense of References Publication Years spectrosopy (RPYS)
+Data engineering for archive evolution
+NetworkRepository: A Graph Data Repository with Visual Interactive Analytics
+Does A Paper Being Featured on The Cover of A Journal Guarantee More Attention and Greater Impact?
+Google Scholar makes it Hard - the complexity of organizing one's publications
+Tweets as impact indicators: Examining the implications of automated bot accounts on Twitter
+Research status and trends in Operations Research and Management Science (OR MS) journals: A bibliometric analysis based on the Web of Science database 2001-2012
+Towards a Virtual Data Centre for Classics
+Tagging Scientific Publications using Wikipedia and Natural Language Processing Tools. Comparison on the ArXiv Dataset
+Scientometrics: Untangling the topics
+A quantitative perspective on ethics in large team science
+Inheritance patterns in citation networks reveal scientific memes
+Is the new citation-rank approach P100' in bibliometrics really new?
+Does Google Scholar contain all highly cited documents (190-2013)?
+Team size matters: Collaboration and scientific impact since 1900
+A simple interpretation of the growth of scientific technological research impact leading to hype-type evolution curves
+Study of Citation Networks in Tribology Research
+On the Shoulders of Giants: The Growing Impact of Older Articles
+Power-law distributions the h-index and Google Scholar (GS) citations: a test of their relationship with economics Nobelists
+Science and Ethnicity: How Ethnicities Shape the Evolution of Computer Science Research Community
+Bibliometric Indicators for Publishers: Data processing indicators and interpretation
+Scientometrics and Information Retrieval - weak-links revitalized
+Intriguing Trends in Nuclear Physics Articles Authorship
+Is there any measurable benefit in publishing preprints in the arXiv section Quantitative Biology?
+Astrophysics Source Code Library Enhancements
+Publishing without Publishers: a Decentralized Approach to Dissemination Retrieval and Archiving of Data
+Can Technology Life-Cycles Be Indicated by Diversity in Patent Classifications?
+Correlation of Scholarly Networks and Social Networks
+Inequality and cumulative advantage in science careers: a case study of high-impact journals
+From orphan works a new role of libraries for the public domain and public interest (Dalle opere orfane un nuovo ruolo delle biblioteche per il pubblico dominio e l'utilit a sociale)
+Continuous Dynamic and Comprehensive Article-Level Evaluation of Scientific Literature
+Statistical Modelling of Citation Exchange Among Statistics Journals
+Exploiting citation networks for large-scale author name disambiguation
+Visualizing Digital Collections
+Bibliometric Indicators of Young Authors in Astrophysics: Can Later Stars be Predicted?
+Genesis of Altmetrics or Article-level Metrics for Measuring Efficacy of Scholarly Communications: Current Perspectives
+Is your EPL attractive? Classification of publications through download statistics
+Methods for the generation of normalized citation impact scores in bibliometrics: Which method best reflects the judgements of experts?
+Public Domain Rank: Identifying Notable Individuals with the Wisdom of the Crowd
+Quality versus quantity in scientific impact
+Paradigm shifts. Part I. Collagen. Confirming and complementing the work of Henry Small
+Paradigm shifts. Part II. Reverse Transcriptase. Analysis of reference stability and word frequencies
+Patterns of Text Reuse in a Scientific Corpus
+Quantitative Analysis of the Italian National Scientific Qualification
+Will This Paper Increase Your h-index? Scientific Impact Prediction
+On Google Scholar H-Index Manipulation by Merging Articles
+Annotation as a New Paradigm in Research Archiving
+Visual Concept Ontology for Image Annotations
+Educational Technology as Seen Through the Eyes of the Readers
+Knowledge Integration and Diffusion: Measures and Mapping of Diversity and Coherence
+On the relationship between interdisciplinarity and impact: different modalities of interdisciplinarity lead to different types of impact
+Return on citation: a consistent metric to evaluate papers journals and researchers
+Hyperincursive Cogitata and Incursive Cogitantes: Scholarly Discourse as a Strongly Anticipatory System
+Ranking users papers and authors in online scientific communities
+The recent Italian regulations about the open-access availability of publicly-funded research publications and the documentation landscape in astrophysics
+Visualization of Co-Readership Patterns from an Online Reference Management System
+The Scientific Competitiveness of Nations
+The Tournaments Metaphor in Citation Impact Studies: Power-Weakness Ratios (PWR) as a Journal Indicator
+Predicting results of the Research Excellence Framework using departmental h -Index
+Restricting the h-index to a citation time window: A case study of a timed Hirsch index
+Proceedings Scholar Metrics: H Index of proceedings on Computer Science Electrical Electronic Engineering and Communications according to Google Scholar Metrics (2009-2013)
+The Effects of Research Level and Article Type on the Differences between Citation Metrics and F1000 Recommendations
+Experimental Research Data Quality In Materials Science
+The Hebrew Bible as Data: Laboratory - Sharing - Experiences
+Reviving the past: the growth of citations to old documents
+Assessing the true role of coauthors in the h-index measure of an author scientific impact
+Bibliometric-enhanced Information Retrieval: 2nd International BIR Workshop
+Research Data Explored: Citations versus Altmetrics
+Field-normalized citation impact indicators and the choice of an appropriate counting method
+Uma an 'alise bibliom 'etrica do Congresso Nacional de Bibliotec 'arios Arquivistas e Documentalistas (198-2012)
+Thematic Identification of 'Little Science': Trends in Portuguese IS LS Literature by Controlled Vocabulary and Co-Word Analysis
+A Review of Theory and Practice in Scientometrics
+Analyzing data citation practices according to the Data Citation Index
+Measuring academic influence: Not all citations are equal
+Can Science and Technology Capacity be Measured?
+Evolutionary Events in a Mathematical Sciences Research Collaboration Network
+Scientometric Mapping as a Strategic Intelligence Tool for the Governance of Emerging Technologies
+Calibrated Fair Measures of Measure: Indices to Quantify an Individual's Scientific Research Output
+Completing h
+Validity of altmetrics data for measuring societal impact: A study using data from Altmetric and F1000Prime
+Alternative metrics in scientometrics: A meta-analysis of research into three altmetrics
+Usefulness of altmetrics for measuring the broader impact of research: A case study using data from PLOS (altmetrics) and F1000Prime (paper tags)
+CITEX: A new citation index to measure the relative importance of authors and papers in scientific publications
+Predicting Results of the Research Excellence Framework using Departmental h-Index -- Revisited
+Can Hot Spots in the Sciences Be Mapped Using the Dynamics of Aggregated Journal-Journal Citation Relations?
+Modeling and Analysis of Scholar Mobility on Scientific Landscape
+Throwing Out the Baby with the Bathwater: The Undesirable Effects of National Research Assessment Exercises on Research
+A proposal for regularly updated review survey articles: Perpetual Reviews
+Editorial for the Proceedings of the Workshop Knowledge Maps and Information Retrieval (KMIR2014) at Digital Libraries 2014
+Of Matters Condensed
+What makes us a community: structure correlations and success in scientific world
+A scientometric study of General Relativity and Quantum Cosmology from 2000 to 2012
+Improving Access to Digitized Historical Newspapers with Text Mining Coordinated Models and Formative User Interface Design
+Evaluating Open Access Paper Repository In Higher Education For Asean Region
+Structured Descriptions of Roles Activities and Procedures in the Roman Constitution
+Hyperlinks embedded in Twitter as a proxy for total external inlinks to international university websites
+Network-based statistical comparison of citation topology of bibliographic databases
+Journal Portfolio Analysis for Countries Cities and Organizations: Maps and Comparisons
+Interpreting altmetrics : viewing acts on social media through the lens of citation and social theories

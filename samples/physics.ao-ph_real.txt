@@ -1,0 +1,2087 @@
+Extraction of Freshwater and Energy from Atmosphere
+MICS Asia Phase II - Sensitivity to the aerosol module
+Dominant aerosol processes during high-pollution episodes over Greater Tokyo
+Anisotropy and asymmetry in fully developed turbulence
+Statistical Model for Meteorological Elements Based on Local Radiosonde Measurements in Mediterranean Region
+Statistics of Turbulence from Spectral-Line Data Cubes
+Inverse square law for the starter intensity of the discrete ordinates method in spherical geometry
+A discrete ordinates method of radiative transfer in one-dimensional spherical geometry
+A two-streams discrete ordinates solution of radiative transfer in 1-D spherical geometry
+Ozone Abundance in a Nitrogen-Carbon Dioxide Dominated Terrestrial Paleoatmosphere
+Climatic and Biogeochemical Effects of a Galactic Gamma-Ray Burst
+Route of hydrodynamic turbulence in rotating shear flow: Secondary perturbation triggers growing eigenmodes through the elliptical instability
+Comment on: Protecting Life in the Milky Way: Metals Keep the GRBs Away by Stanek et al
+Is Weather Chaotic?
+The dynamics of a low-order coupled ocean-atmosphere model
+Drifters dispersion in the Adriatic Sea: Lagrangian data and chaotic model
+Forecasting the SST space-time variability of the Alboran Sea with genetic algorithms
+Statistics of velocity gradients in two-dimensional Navier-Stokes and ocean turbulence
+Some Statistical Physics Approaches for Trends and Predictions in Meteorology
+Nonlinearity and Multifractality of Climate Change in the Past 420 000 Years
+Statistical Derivation of the Evolution Equation of Liquid Water Path Fluctuations in Clouds
+Statistical analysis of air and sea temperature anomalies
+Time correlations and 1 f behavior in backscattering radar reflectivity measurements from cirrus cloud ice fluctuations
+Averaging Principle for Quasi-Geostrophic Motions under Rapidly Oscillating Forcing
+The 3D Quasigeostrophic Fluid Dynamics under Random Forcing on Boundary
+Ergodicity of Stochastically Forced Large Scale Geophysical Flows
+Probabilistic Dynamics of Two-Layer Geophysical Flows
+Hybrid-Cubic-Rational Semi-Lagrangian Method with the Optimal Mixing
+Dynamics of the Thermohaline Circulation under Wind forcing
+A conservative semi-Lagrangian method for oscillation-free computation of advection processes
+Ray dynamics in ocean acoustics
+Du chaos dans la musique des etoiles
+Baroclinic flow and the Lorenz-84 model
+Buoyant turbulent mixing in shear layers
+Comparing modern and Pleistocene ENSO-like influences in NW Argentina using nonlinear time series analysis methods
+Mixing structures in the Mediterranean Sea from Finite-Size Lyapunov Exponents
+Small and Large Scale Fluctuations in Atmospheric Wind Speeds
+Statistical Equilibria of Uniformly Forced Advection Condensation
+Evidence of fractional transport in point-vortex flow
+Differential models for 2D turbulence
+Analytic Model of the Universal Structure of Turbulent Boundary Layers
+1 f noise and multifractality in atmospheric-CO2 records
+Predictability of El Ni no as a Nonlinear Stochastic Limit Cycle
+Capillary-gravity wave transport over spatially random drift
+Monodisperse approximation in the metastable phase decay
+On the effect of small-scale oceanic variability on topography-generated currents
+A non-linear optimal estimation inverse method for radio occultation measurements of temperature humidity and surface pressure
+A New Hypothesis for Layers of High Reflectivity Seen in MST Radar Observations
+A fully it ab initio potential curve of near-spectroscopic quality for the OH - anion: importance of connected quadruple excitations and scalar relativistic effects
+Emergence of intense jets and Jupiter Great Red Spot as maximum entropy structures
+Remote sensing of bubble clouds in seawater
+Asymptotic light field in the presence of a bubble-layer
+Improvements of the Discrete Dipole Approximation method
+Chapman's model for ozone concentration: earth s slowing rotation effect in the atmospheric past
+PARIS Interferometric Processor Analysis and Experimental Results: Theoretical Feasibility Analysis
+The Case for 2-D Turbulence in Antarctic Data
+Modelling horizontal and vertical concentration profiles of ozone and oxides of nitrogen within high-latitude urban area
+Solving the inverse problem for artificial irregularity diagnostics from extraordinary wave anomalous attenuation data
+Anomalous attenuation of extraordinary waves in the ionosphere heating experiments
+Dependence of radio wave anomalous attenuation in the ionosphere on properties of spatial spectrum of irregularities
+Acoustic scattering by a cylinder near a pressure release surface
+Beam Measurements of a CLOUD (Cosmics Leaving OUtdoor Droplets) Chamber
+The Day-night Variation of Cosmic Rays Instensity at Sea Level Under the Influence of Meteorological Fronts and Troughs
+Forces at the Sea Bed using a Finite Element Solution of the Mild Slope Wave Equation
+A selection of papers with some relevance to the investigation of the Sun-Climate link: Papers on Data Methods and Commentary
+Formation of Electric Charges in Melting Layer
+Wave duration persistence statistics recording interval and fractal dimension
+Number of Transition Frequencies of a System Containing an Arbitrary Number of Gas Bubbles
+Alternative interpretation of the sign reversal of secondary Bjerknes force acting between two pulsating gas bubbles
+The possible correlation between electromagnetic earth fields and future earthquakes
+Relationship between sunspot number and total annual precipitation at Izana (Tenerife): Maximum precipitation prediction with three year lagged sunspots?
+Metastability in simple climate models: Pathwise analysis of slowly driven Langevin equations
+A characteristic frequency of two mutually interacting gas bubbles in an acoustic field
+On the statistics of wind gusts
+Multi-Color Polarimetry of the Twilight Sky. The Role of Multiple Scattering as the Function of Wavelength
+Anomalous attenuation of extraordinary waves in ionosphere heating experiments: experimental results of 2000-2001
+Universality and Scale Invariance in Hourly Rainfall
+Temperature reconstruction analysis
+The electromagnetic fields under on and up Earth surface as earthquakes precursor in the Balkans and Black Sea regions
+On the Nature of the El Nino La Nina Events
+Approximate Solutions of Quantum Equations for Electron Gas in Plasma
+A Local Ensemble Kalman Filter for Atmospheric Data Assimilation
+Weakly non-linear analysis of wind-driven gravity waves
+Problem of water vapor absorption continuum in atmospheric windows. Return of dimer hypothesis
+Tidal theory of the thermal wind
+Tollmien-Shlichting and sound waves interaction: general description and nonlinear resonances
+The fractional Brownian motion property of the turbulent refractive index and the Fermat's Extremal Principle
+A Kalman Filter for Ocean Monitoring
+Towards a model of incoherent scatter signal spectra without averaging over sounding runs
+Towards a new technique of incoherent scatter signal processing
+Large Scale Weather Control Using Nuclear Reactors
+Nonlinear relationships between atmospheric aerosol and its gaseous precursors: Analysis of long-term air quality monitoring data by means of neural networks
+On the short time prediction of earthquakes in the Balkan- Black Sea region based on geomagnetic field measurements and tide gravitational potential behavior
+Global warming: What does the data tell us?
+Aerosol contents at an altitude of 2 km in central Himalayas
+Temperature precipitation and extreme events during the last century in Italy
+GPM Draft Science Implementation Plan Ground Validation Chapter
+PARIS Altimetry with L1 Frequency Data from the Bridge 2 Experiment
+Mesoscale Ocean Altimetry Requirements and Impact of GPS-R measurements for Ocean Mesoscale Circulation Mapping
+Ionospheric (H-atom) Tomography: a Feasibility Study using GNSS Reflections
+Submarine landslides and local tsunami waves (Corinthos Gulf Greece)
+Using data assimilation in laboratory experiments of geophysical flows
+The boundary and continual transfer phenomena in fluids and flows
+Scattering of the acoustic waves on finite cylindrical covers
+Relation of Atmosphere Surface Pressure Fluctuations with Geomagnetic and Cosmic Factors
+Power-Law Persistence in the Atmosphere: Analysis and Applications
+Twisting Rolls. An Heuristic Model and 3D Numerical Simulations of Vortex Patterns
+Characteristics of Aerosol Spectral Optical Depths over Manora Peak Nainital - A High Altitude Station in the Central Himalayas
+Surrogate cloud fields with measured cloud properties
+Polarization of the Twilight Sky: Measurements Empirical Model Radiative Transfer Simulation and Application to Aerosol Profile Retrieval
+The fractional Brownian motion property of the turbulent refractive within Geometric Optics
+Passive tracer patchiness and particle trajectory stability in incompressible two-dimensional flows
+Constrained-Hamiltonian Shallow-Water Dynamics on the Sphere
+Deep ocean influence on upper ocean baroclinic instability saturation
+Light Propagation in Turbulent Media
+Use of the likelihood for measuring the skill of probabilistic forecasts
+Development of an elementary climate model: two-layer cellular case
+The Assessment and Calibration of Ensemble Seasonal Forecasts of Equatorial Pacific Ocean Temperature and the Predictability of Uncertainty
+Weak Turbulent Kolmogorov Spectrum for Surface Gravity Waves
+On the possibility for short time when where earthquakes prediction with the using geomagnetic field measurements
+Moment based methods for ensemble assessment and calibration
+Lagrangian turbulence in the Adriatic Sea as computed from drifter data: effects of inhomogeneity and nonstationarity
+A note on the use of the word 'likelihood' in statistics and meteorology
+Five guidelines for the evaluation of site-specific medium range probabilistic temperature forecasts
+Exact vortex solution of the Jacobs-Rebbi equation for ideal fluids
+Comparing the ensemble mean and the ensemble standard deviation as inputs for probabilistic medium-range temperature forecasts
+Do probabilistic medium-range temperature forecasts need to allow for non-normality?
+GNSS-R: Operational Applications
+Do medium range ensemble forecasts give useful predictions of temporal correlations?
+The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft
+The GNSS-R Eddy Experiment II: L-band and Optical Speculometry for Directional Sea-Roughness Retrieval from Low Altitude Aircraft
+The dependence of relative dispersion on turbulence scales in Lagrangian Stochastic Models
+Note on the typhoon eye trajectory
+Universality in snowflake aggregation
+Effects Of Aerosol And Multiple Scattering On The Polarization Of The Twilight Sky
+PARFAIT: GNSS-R coastal altimetry
+Fractal rain distributions and chaotic advection
+Cosmic Rays and the Evolution of Earths Climate During the Last 4.6 Billion Years
+Notes on a possible phenomenology of internal transport barriers in tokamak
+Non-Linear Phenomena in Dusty Plasmas
+Multilayer primitive equations model with velocity shear and stratification
+On electromagnetic models of ball lightning with topological structure
+Weather forecasts Weather derivatives Black-Scholes Feynmann-Kac and Fokker-Planck
+Electromagnetic wave scattering from a random layer with rough interfaces I: Coherent field
+Electromagnetic wave scattering from a random layer with rough interfaces II: Diffusive intensity
+Ocean acoustic wave propagation and ray method correspondence: internal wave fine structure
+The problem with the Brier score
+Linear waves and baroclinic instability in an inhomogeneous-density layered primitive-equation ocean model
+On the Well-Mixed Quasi-One-Dimensional Formulation of Lagrangian Stochastic Models for Turbulent Relative Dispersion
+GPM Ground Validation Basic Radar Products and Implications for Observation Strategies
+Ozone Layer and the Formation of the Ozone Hole
+Evidences for Skeletal Structures in the Ocean from the Images Analyzed by Multilevel Dynamical Contrasting Method
+Volcanic forcing improves Atmosphere-Ocean Coupled General Circulation Model scaling performance
+Improving probabilistic weather forecasts using seasonally varying calibration parameters
+Singular vector ensemble forecasting systems and the prediction of flow dependent uncertainty
+On the Formulation of Lagrangian Stochastic Models for Geophysical Turbulent Flows
+On the Reliability of the Geomagnetic Quake as Short Time Earthquake Precursor for Sofia Region- 2002 2003
+Modeling turbulent wave-front phase as a fractional Brownian motion: a new approach
+Estimate of drainage water behaviour in shallow lakes
+Ocean's Skeletal Structures Hypotheses and Interpretation of the Phenomenon
+Waterspout as a result of the Ocean's Skeletal Structures and a Special Type of Atmospheric Aerosol Dusty Plasma
+Evidences for skeletal structures in tornado and the probable role of nanotubular dust in the origin of tornado
+The Molecular Diffusion of Ice Crystals of Various Shapes
+Critical Exponents and Universality in Fully Developed Turbulence
+A Dynamic alpha Model for the Lagrangian Averaged Navier-Stokes-alpha Equations
+The Eddy Experiment: accurate GNSS-R ocean altimetry from low altitude aircraft
+Sea state monitoring using coastal GNSS-R
+On the GNSS-R Interferometric Complex Field Coherence Time
+The glacial cycles and cosmic rays
+The Eddy Experiment: GNSS-R speculometry for directional sea-roughness retrieval from low altitude aircraft
+Force measurements in positive unipolar wire-to-plane corona discharges in air
+An Analytical Theory for the Early Stage of the Development of Hurricanes: Part I
+A link between an ice age era and a rapid polar shift
+Detection of coherent reflections with GPS bipath interferometry
+Cosmic Rays and Solar Insolation as the Main Control Parameters of the Catastrophe Theory of Climatic Response to Orbital Variations
+Towards a definition of climate science
+An Analytical Theory for the Early Stage of the Development of Hurricanes: Part II
+Solution of a Model for the Oceanic Pycnocline Depth: Scaling of Overturning Strength and Meridional Pressure Difference
+Exact periodic solutions of the Liouville equation and the snake of density in JET
+Probabilistic temperature forecasting: a summary of our recent research results
+Making use of the information in ensemble weather forecasts: comparing the end to end and full statistical modelling approaches
+On climate response to changes in the cosmic ray flux and radiative budget
+Probabilistic forecasting of temperature: comments on the Bayesian Model Averaging approach
+Leaking method approach to surface transport in the Mediterranean Sea from a numerical ocean model
+Probabilistic forecasts of temperature: measuring the utility of the ensemble spread
+Probabilistic temperature forecasting: a comparison of four spread-regression models
+Estimation of the Adriatic sea water turnover time using fallout 90Sr as a radioactive tracer
+Indian monsoon rainfall is higher in epochs of higher solar activity: a wavelet cross-spectral analysis
+Rain initiation time in turbulent warm clouds
+Sampling of Atmospheric Aerosols by Electrostatic Precipitation for Direct Analyses. Part 1
+Sampling of Atmospheric Aerosols by Electrostatic Precipitation for Direct Analyses. Part 2
+Hayashi Spectra of the Northern Hemisphere Mid-latitude Atmospheric Variability in the NCEP and ERA 40 Reanalyses
+Environmental Physics: Physical Principles and Applications
+Instrumentation for atmospheric ion measurements
+Nineteenth century air pollution variations in Paris inferred from Eiffel Tower potential gradient measurements
+A novel technique to determine atmospheric ion mobility spectra
+On the dependence of third- and fourth-order moments on stability in the turbulent boundary layer
+Absorption of infra-red radiation by atmospheric molecular cluster-ions
+Observations and simulations of receiver-induced refractivity biases in GPS radio occultation
+Large-Eddy Simulation of Stably Stratified Atmospheric Boundary Layer Turbulence: A Scale-Dependent Dynamic Modeling Approach
+Skeletal Structures of the Ocean Hypotheses and Interpretation of the Phenomenon
+Effect of the troposphere on surface neutron counter measurements
+Generalized Set of Boussinesq equations for Surf Zone Region
+Global Warming: some back-of-the-envelope calculations
+Describing two-dimensional vortical flows : the typhoon case
+A simple model for the short-time evolution of near-surface current and temperature profiles
+Steady f-plane circulation in basins with saddle-point bathymetry
+Statistical modelling of tropical cyclone tracks: a semi-parametric model for the mean trajectory
+Influence of Coriolis force on propagation and reflection of long waves
+Observation of the atmospheric sodium layer with a magneto-optical filter (MOF)
+Topographical scattering of waves: a spectral approach
+Radar scattering by aggregate snowflakes
+Statistical modelling of tropical cyclone tracks: a comparison of models for the variance of trajectories
+Atmospheric electrification in the Solar System
+Effects of the baroclinic adjustment on the tropopause in the NCEP-NCAR reanalysis
+Improving on the empirical covariance matrix using truncated PCA with white noise residuals
+The global atmospheric electrical circuit and climate
+Avoided crossings in three coupled oscillators as a model system of acoustic bubbles
+Persistence in a Simple Model for the Earth's Atmosphere Temperature Fluctuations
+Numerical integration of the discrete-ordinate radiative transfer equation in strongly non homogeneous media
+Correlation measurements of Atmospheric Pressure variations and Seismicity during Hurricane Dennis
+Year-ahead prediction of US landfalling hurricane numbers
+Automated Chirp Detection with Diffusion Entropy: Application to Infrasound from Sprites
+Does the subtropical jet catalyze the mid-latitude atmospheric regimes?
+Sensitivity of ray dynamics in an underwater sound channel to vertical scale of longitudinal sound-speed variations
+Statistical modelling of tropical cyclone tracks: modelling the autocorrelation in track shape
+On the Role of Global Warming on the Statistics of Record-Breaking Temperatures
+Hurricanes and Earth Hum
+Climate Forcing by the Volcanic Eruption of Mount Pinatubo. Revised edition
+Anomalous Gulf Heating and Hurricane Katrinas Rapid Intensification
+Exciton matter sustained by colossal dispersive interactions due to enhanced polarizability: Possible clue to ball lightning
+Atmospheric hypotheses' of Earth's global warming
+Aspirated capacitor measurements of air conductivity and ion mobility spectra
+Current effects on scattering of surface gravity waves by bottom topography
+Statistical modelling of tropical cyclone genesis: a non-parametric model for the annual distribution
+Subgrid-scale modeling of reacting scalar fluxes in large-eddy simulations of atmospheric boundary layers
+Physical and Mathematical Properties of a Quasi-Geostrophic Model of Intermediate Complexity of the Mid-Latitudes Atmospheric Circulation
+Efficient Data Assimilation for Spatiotemporal Chaos: a Local Ensemble Transform Kalman Filter
+Forecasting Convective Downburst Potential Over The United States Great Plains
+A Study of a Cold-Season Downburst Event over the Oklahoma Panhandle
+Statistical modelling of tropical cyclone tracks: modelling cyclone lysis
+Year-ahead prediction of US landfalling hurricane numbers: intense hurricanes
+Year ahead prediction of US landfalling hurricane numbers: the optimal combination of long and short baselines
+Statistical modelling of tropical cyclone tracks: non-normal innovations
+Active Amplification of the Terrestrial Albedo to Mitigate Climate Change: An Exploratory Study
+General stability criterion of two-dimensional inviscid parallel flow
+On Possibility of Electromagnetic Nature of Atmospheric Intensive Vortices Generation
+Evidences for and the models of self-similar skeletal structures in fusion devices severe weather phenomena and space
+Comments on Increasing destructiveness of tropical cyclones over the past 30 years by Kerry Emanuel Nature 31 July 2005 Vol. 436 pp. 686-688
+Comments by William M. Gray (Colorado State University) on the recently published paper in Science by Webster et al. titled Changes in tropical cyclone number duration and intensity in a warming environment. (September 2005 Vol. 309 pp. 1844-1846 www.sciencemag.org)
+A Study of a Dryline Convective Downburst
+Raman observations of quantum interference in the nu 1 2 nu 2 Fermi dyad region of carbon dioxide
+Computationally-efficient Expressions for the Collision Efficiency Between Electrically Charged Aerosol Particles and Cloud Droplets
+Piecewise continuous distribution function method and ultrasound at half space
+The Role of Downward Momentum Transport in the Generation of Convective Downbursts
+Aerosol Characteristics at a High Altitude Location in Central Himalayas: Optical Properties and Radiative Forcing
+El Nino and the Delayed Action Oscillator
+An explanation for the lack of trend in the hurricane frequency
+Numerical convergence of the branching time of negative streamers
+A Qualitative Description of Boundary Layer Wind Speed Records
+Scaling laws for the tropical cyclone derived from the stationary atmospheric vortex equation
+Tropical Cyclone Forecasting Applications of the GOES WMSI
+Aerosol Characteristics at a high-altitude station Nainital during the ISRO-GBP Land Campaign-II
+Rainfall Advection using Velocimetry by Multiresolution Viscous Alignment
+Ion-aerosol interactions in the lower atmosphere of Venus
+Changes in fractal properties of geomagnetic indexes as possible magnetic storms precursors
+Impact of Boundary Conditions on Entrainment and Transport in Gravity Currents
+Technical Note on POlarimetric Phase Interferometry (POPI)
+Approximate Equations for Large Scale Atmospheric Motions
+A revisit to the GNSS-R code range precision
+Year-ahead Prediction of Hurricane Season Sea Surface Temperature in the Tropical Atlantic
+Estimating Surface Sediments Using Multibeam Sonar
+Year ahead prediction of US landfalling hurricane numbers: the optimal combination of long and short baselines for intense hurricanes
+Experimental study of the wind effect on focusing of transient wave groups
+Self-Similarity in Decaying Two-Dimensional Stably Stratified Adjustment
+High-Frequency Acoustic Sediment Classification in Shallow Water
+Persistent Transport Barrier on the West Florida Shelf
+Theory and observations of ice particle evolution in cirrus using Doppler radar: evidence for aggregation
+Comparison of Two Scale-Dependent Dynamic Subgrid-Scale Models for Simulations of Neutrally Buoyant Shear-Driven Atmospheric Boundary Layer Flows
+Electricity Real Options Valuation
+Evolution of surface gravity waves over a submarine canyon
+Electrical Behavior of Downburst-Producing Convective Storms over the High Plains
+The Effect of the 12-micrometer Band: Comparing GOES-11 and GOES-12 Data Using the 3-Channel Volcanic Ash Algorithm
+Single Member Selection in Ensemble Forecasting
+General problems of the internal gravity waves linear theory
+Zonal flow generation by modulational instability
+Numerical analysis of frazil ice formation in turbulent convection
+The Development of the College Park Tornado of 24 September 2001
+Comparing classical and Bayesian methods for predicting hurricane landfall rates
+Dynamics of the internal gravity waves in the heterogeneous and nonstationary stratified mediums
+Year ahead prediction of US landfalling hurricane numbers: the optimal combination of multiple levels of activity since 1900
+An objective change-point analysis of historical Atlantic hurricane numbers
+An objective change point analysis of landfalling historical Atlantic hurricane numbers
+Predicting hurricane regional landfall rates: comparing local and basin-wide track model approaches
+Change-point detection in the historical hurricane number time-series: why can't we detect change-points at US landfall?
+Dynamics of tsunami waves
+Linear theory of wave generation by a moving bottom
+Water waves generated by a moving bottom
+Can we believe in high climate sensitivity?
+The use of satellite and ground based measurements for estimating and reducing uncertainties in the spatial distribution of emissions of nitrogen oxides
+The Antarctic climate anomaly and galactic cosmic rays
+A Numerical Model-derived Boundary Layer Turbulence Product
+Application of a Large Eddy Simulation Database to Optimization of First Order Closures for Neutral and Stably Stratified Boundary Layers
+Humidity contribution to C n 2 over a 600m pathlength in a tropical marine environment
+Antarctica: A Southern Hemisphere Windpower Station?
+Cheap Textile Dam Protection of Seaport Cities against Hurricane Storm Surge Waves Tsunamis and Other Weather-Related Floods
+A Low-Cost Natural Gas Freshwater Aerial Pipeline
+Control of Regional and Global Weather
+Inflatable Evergreen Polar Zone Dome (EPZD) Settlements
+Ocean Terracing
+Utilization of Wind Energy at High Altitude
+Air Observe System
+Five year prediction of Sea Surface Temperature in the Tropical Atlantic: a comparison of simple statistical methods
+Five year ahead prediction of Sea Surface Temperature in the Tropical Atlantic: a comparison between IPCC climate models and simple statistical methods
+Predicting landfalling hurricane numbers from basin hurricane numbers: statistical analysis and predictions
+Predicting hurricane numbers from Sea Surface Temperature: closed form expressions for the mean variance and standard error of the number of hurricanes
+Predicting basin and landfalling hurricane numbers from sea surface temperature
+Statistical Modelling of the Relationship Between Main Development Region Sea Surface Temperature and emph Landfalling Atlantic Basin Hurricane Numbers
+Correlations between hurricane numbers and sea surface temperature: why does the correlation disappear at landfall?
+Predicting landfalling hurricane numbers from sea surface temperature: theoretical comparisons of direct and indirect approaches
+Scattering of internal waves from small sea bottom inhomogeneities
+Investigation of Convective Downburst Hazards to Marine Transportation
+Green modified function of the equation of the internal gravity waves in the stratum of the stratified medium with constant average flow
+The Great Season Climatic Oscillation
+Perfect energy transfer and mean-eddy interaction in incompressible fluid flows
+The Golden Gate Textile Barrier: Preserving California Bay of San Francisco from a Rising North Pacific Ocean
+In a book Tsunami and Nonlinear Waves : Numerical Verification of the Hasselmann equation
+Universality of the rainfall phenomenon
+Changes in number and intensity of world-wide tropical cyclones
+The joint influence of topography and atmosphere on the meridional transport fluctuations in the Southern Ocean and its link with the ENSO events
+The modeling of the ENSO events with the help of a simple model
+Writhing Dynamics of Cables with Self-contact
+Acceleration of hydrodynamic vortices in open systems
+Comparison between Local Ensemble Transform Kalman Filter and PSAS in the NASA finite volume GCM: perfect model experiments
+The GOES Microburst Windspeed Potential Index
+Lake Titicaca - Physics of an Inherited Hydropower Macroproject Proposal
+Chemical dynamics versus transport dynamics in a simple model
+A model study of corona emission from hydrometeors
+Some Numerical Experiments on Round-off Error Growth in Finite Precision Numerical Computation
+On the El-Nino Teleconnection to Spring Precipitation in Europe
+11-Year Warm Cloud Modification Experiment in Maharashtra State India
+4D Tropospheric Tomography using GPS Estimated Slant Delays
+The Energetic Implications of Using Deforming Reference Descriptions to Simulate the Motion of Incompressible Newtonian Fluids
+Finite Element Simulation of the Motion of a Rigid Body in a Fluid with Free Surface
+Integration of Complete System of Dynamic Equations for Ideal Fluid
+Analysis of Water Vapor spatio-temporal structure over the Madrid Area using GPS data
+A possible explanation for Earth's climatic changes in the past few million years
+The three-century climatic upheaval of c. 2000 BC and regional radiocarbon disparities
+The Energetic Implications of the Time Discretisation in Implementations of the A.L.E. Equations
+Incipient Motion Criteria for a Rigid Sediment Grain on a Rigid Surface
+Using Rigorous Ray Tracing to Incorporate Reflection into the Parabolic Approximation
+Radiation of mixed layer near-inertial oscillations into the ocean interior
+Kalman Filtering in the Presence of State Space Equality Constraints
+Amplitude equations for a system with thermohaline convection
+Signatures of fractal clustering of aerosols advected under gravity
+How Can We Avert Dangerous Climate Change?
+Dangerous human-made interference with climate: A GISS modelE study
+Scientific reticence and sea level rise
+A jelly model for a ball of an extremely hot plasma
+Cosmic Rays and Global Warming
+Quantitative implications of the secondary role of carbon dioxide climate forcing in the past glacial-interglacial cycles for the likely future climatic impacts of anthropogenic greenhouse-gas forcings
+Non-spectral methods of analysis of the internal gravity waves measurements in ocean
+Noise effects in extended chaotic system: study on the Lorenz'96 model
+Multiple Equilibria in a Single-Column Model of the Tropical Atmosphere
+Photoionization in negative streamers: fast computations and two propagation modes
+The capacitance of pristine ice crystals and aggregate snowflakes
+Nonlinear stage of the Benjamin-Feir instability: Three-dimensional coherent structures and rogue waves
+Diagnostic tools for 3D unstructured oceanographic data
+An Initial Assessment of a Clear Air Turbulence Forecasting Product
+The sensitivity and stability of the ocean's thermohaline circulation to finite amplitude perturbations
+Protection of New York City Urban Fabric With Low-Cost Textile Storm Surge Barriers
+A Multiresolution Census Algorithm for Calculating Vortex Statistics in Turbulent Flows
+Derivation of asymptotic two-dimensional time-dependent equations for ocean wave propagation
+Using the QBO to predict the number of hurricanes hitting the U.S
+Tracer density discontinuities in turbulent flows: simple model and scaling laws
+On the tuning of a wave-energy driven oscillating-water-column seawater pump to polychromatic waves
+The climate version of the Eta regional forecast model. 1. Evaluation of consistency between the Eta model and HadAM3P global model
+Thermodynamic inadmissibility of the incompressible hydrodynamics description of turbulent stratified fluid flows at low Mach numbers
+How unusual was autumn 2006 in Europe?
+The instability of counter-propagating kernel gravity waves in a constant shear flow
+Dissipative Boussinesq equations
+Global Sea Level Stabilization-Sand Dune Fixation: A Solar-powered Sahara Seawater Textile Pipeline
+On Zonal Jets in Oceans
+Asymptotic Models for Internal Waves
+AB Method of Irrigation without Water (Closed-loop water cycle)
+On two approaches to the building of local models for electron density based on Irkutsk digizond data
+On the interaction of Jupiter's Great Red Spot and zonal jet streams
+Fluctuation Properties of Steady-State Langevin Systems
+Climate Control Using Nuclear Energy
+Towards determining the parameters of layer with scattering irregularities that cause coherent echo based on the Irkutsk Incoherent Scatter radar data
+SST and North American Tropical Cyclone Landfall: A Statistical Modeling Study
+Continuing dynamic assimilation of the inner region data in hydrodynamics modelling: Optimization approach
+Comment to Recent Climate Observations Compared to Projections by Rahmstorf et al
+Ship-induced solitons as a manifestation of critical phenomena
+On the number of droplets in aerosols
+Towards a Real-Time Data Driven Wildland Fire Model
+A note on boundary-layer friction in baroclinic cyclones
+Superluminous supernovae: No threat from Eta Carinae
+SAR Altimetry Applications over Water
+Non-Hydrostatic Effects in the Interaction between Flow and Orography
+Reaching for equilibrium : an alternative view of the unbalanced carbon cycle
+Internal gravity waves near to the sources of disturbances at the critical modes of generation
+Plankton blooms in vortices: The role of biological and hydrodynamic time scales
+North Atlantic thermohaline circulation predictability in a coupled ocean-atmosphere model
+Interpretation of TOVS Water Vapor Radiances Using a Random Strong Line Model
+Mechanisms of Seasonal - ENSO interaction
+Hadley circulations and large scale motions of moist convection in the two dimensional numerical model
+A Stochastic Diffusion Model of Climate Change
+Kardar-Parisi-Zhang model for the fractal structure of cumulus cloud fields
+Analysis and modeling of scale-invariance in plankton abundance
+Entropic sound in the atmosphere
+Sub-Suns and Low Reynolds Number Flow
+Noise-Sustained currents in quasigeostrophic turbulence over topography
+Comment on Enhanced TKE Dissipation under Breaking Waves
+The Non-Organic Theory of the Genesis of Petroleum
+On the mechanism of decadal oscillations in a coarse resolution ocean model
+A comparison of two operational wave assimilation methods
+The El Nino Stochastic Oscillator
+Tracking down the ENSO delayed oscillator with an adjoint OGCM
+Midlatitude Cirrus Clouds and Multiple Tropopauses from a 2002-2006 Climatology over the SIRTA Observatory
+Simulation of Free Surface Compressible Flows Via a Two Fluid Model
+Proof of the Atmospheric Greenhouse Effect
+Climate Prediction through Statistical Methods
+Does human activity widen the tropics?
+Testing the proposed link between cosmic rays and cloud cover
+Spectral Properties of Acoustic Gravity Wave Turbulence
+Boundary Layer Turbulence Index: Progress and Recent Developments
+Nonlinear wave-wave interactions in stratified flows: Direct numerical simulations
+A simple conceptual model of abrupt glacial climate events
+Solar forced Dansgaard-Oeschger events and their phase relation with solar proxies
+Floating Cities Islands and States
+Combustion of biomass as a global carbon sink
+Kinetic Energy Approach to Dissolving Axisymmetric Multiphase Plumes
+Long Wave Dynamics along a Convex Bottom
+Electrical Behavior of Downburst-Producing Convective Storms over the Western United States
+Essence of inviscid shear instability: a point view of vortex dynamics
+Cheap Artificial AB-Mountains Extraction of Water and Energy from Atmosphere and Change of Regional Climate
+A GOES imager-derived microburst product
+Rayleigh-B 'enard Convection as a Nambu-metriplectic problem
+What drives mesoscale atmospheric turbulence?
+Electron cooling by carbon monoxide in the atmospheres of Mars and Venus
+Surface fluxes and tropical intraseasonal variability: a reassessment
+Stability of Thermohaline circulation with respect to fresh water release
+High frequency intrinsic modes in El Ni no Southern Oscillation Index
+Statistics of an Unstable Barotropic Jet from a Cumulant Expansion
+Tsunami generation by dynamic displacement of sea bed due to dip-slip faulting
+About the annual distribution of magnetically disturbed cloudless days and nights over Abastumani (41.75N 42.82E)
+The Atmospheric Mutual Coherence Function from the First and Second Rytov Approximations and its Comparison to That of Strong Fluctuation Theory
+Laboratory study of differential rotation in a convective rotating layer
+Lagrangian transport through an ocean front in the North-Western Mediterranean Sea
+On the recognition of fundamental physical principles in recent atmospheric-environmental studies
+Biological activity in the wake of an island close to a coastal upwelling
+Parametric interaction and intensification of nonlinear Kelvin waves
+A student designed experiment measuring the speed of sound as a function of altitude
+Testing of Solar2000 EUV flux model between 900-1350 A using Greenline Dayglow Emission
+Implications of peak oil for atmospheric CO2 and climate
+Interaction of streamers in air and other oxygen-nitrogen mixtures
+Dynamics of non-harmonic internal gravity wave packets in stratified media
+The Great Season Climatic Oscillation and the Global Warming
+Climate simulations for 1880-2003 with GISS modelE
+Formation of Jets and Equatorial Superrotation on Jupiter
+Carbon Dioxide Production Responsibility on the Basis of comparing in Situ and mean CO2 Atmosphere Concentration Data
+Nonlinear dynamics at the interface of two-layer stratified flows over pronounced obstacles
+Equilibria in the Troposphere
+Measurement of the Aerosol Phase Function at the Pierre Auger Observatory
+Target atmospheric CO2: Where should humanity aim?
+Target atmospheric CO2: Supporting material
+Multiple X-ray bursts from long discharges in air
+Turbulence-condensate interaction in two dimensions
+Properties of Turbulence with Zero and Nonzero Helicity
+The Pseudo Radiation Energy Amplifier (PREA) and the mean earth s ground temperature
+On presentation of lightning flash in thundercloud as collective spontaneous radiation (superradiation) pulse
+Streamers sprites leaders lightning: from micro- to macroscales
+Modelling atmospheric chemistry and long-range transport of emerging Asian pollutants
+Chaos Phenotypes in Fluids
+Modelling the spring ozone maximum and the interhemispheric asymmetry in the remote marine boundary layer 1. Comparison with surface and ozonesonde measurements
+Statistical analysis of wind speed fluctuation and increments of non-stationary atmospheric boundary layer turbulence
+Effect of helicity and rotation on the free decay of turbulent flows
+Cosmic Ray Diffusion from the Galactic Spiral Arms Iron Meteorites and a possible climatic connection?
+Do extragalactic cosmic rays induce cycles in fossil diversity?
+UHE Cosmic Rays and Neutrinos Showering on Planet Edges
+Updated Z-Burst Neutrinos at Horizons
+Modeling atmospheric effects of the September 1859 Solar Flare
+Splitting neutrino masses and showering into Sky
+Diffusion of passive scalar in a finite-scale random flow
+Reliability Sufficiency and the Decomposition of Proper Scores
+Thermal emissions and climate change: Cooler options for future energy technology
+Infrasound generation by tornadic supercell storms
+Climate Sensitivity and the Response of Temperature to CO 2
+A new Concept of Ball Lightning
+Monopole blocking governed by a modified KdV type equation
+Heat transport measurements in turbulent rotating Rayleigh-Benard convection
+Aerodynamic Models For Hurricanes I. Model description and horizontal motion of hurricane
+Aerodynamic Models for Hurricanes II. Model of the upper hurricane layer
+Aerodynamic Models for Hurricanes III. Modeling hurricane boundary layer
+Aerodynamic Models for Hurricanes IV. On the hurricane genesis and maturing
+Nonlinear threshold behavior during the loss of Arctic sea ice
+Influence of Bottom Topography on Long Water Waves
+Real-Time Data Driven Wildland Fire Modeling
+Western Europe is warming much faster than expected
+Energy of tsunami waves generated by bottom motion
+Microburst windspeed potential assessment: progress and developments
+Solar Forcing of the Streamflow of a Continental Scale South American River
+Application of a dynamical two-box surface-atmosphere model to the Mount Pinatubo cooling event
+A comprehensive numerical model of wind-blown sand
+Nonlinear Dimensionality Reduction Methods in Climate Data Analysis
+Testing the influence of small crystals on ice size spectra using Doppler lidar observations
+Stratified shear flow instabilities at large Richardson numbers
+The climate version of the Eta regional forecast model. 2.Evaluation of the Eta CCS model performance against reanalysis data and surface observations
+Atmospheric O2 from astronomical data
+Impact of floats on water
+A Brief Tutorial on the Ensemble Kalman Filter
+Generating Probabilities From Numerical Weather Forecasts by Logistic Regression
+Radar equations in the problem of radio wave backscattering during bistatic soundings
+Local and Nonlocal Dispersive Turbulence
+On the Korteweg-de Vries approximation for uneven bottoms
+Equations of motion and conservation laws in a theory of stably stratified turbulence
+Routine monitoring and analysis of ocean swell fields using a spaceborne SAR
+Turbulent Fluxes in Stably Stratified Boundary Layers
+The bifurcation structure and noise induced transitions in the Pleistocene glacial cycles
+A Statistical Theory of Homogeneous Isotropic Turbulence
+Baroclinic equivalent and nonequivalent barotropic modes for rotating stratified flows
+An Antarctic ice core recording both supernovae and solar cycles
+Formation of Cooper pairs in quantum oscillations of electrons in plasma
+Energy Conservation and Second-Order Statistics in Stably Stratified Turbulent Boundary Layers
+Falsification Of The Atmospheric CO2 Greenhouse Effects Within The Frame Of Physics
+Estimating black carbon aging time-scales with a particle-resolved aerosol model
+Nonlinear inertia-gravity wave-mode interactions in three dimensional rotating stratified flows
+Dynamic Transition Theory for Thermohaline Circulation
+Persistent cyclonic structures in self-similar turbulent flows
+Mechanisms of rogue wave formation
+Observation and estimation of Lagrangian Stokes and Eulerian currents induced by wind and waves at the sea surface
+Influence of Phase Diffuser Dynamics on Scintillations of Laser Radiation in Earth Atmosphere: Long-Distance Propagation
+Microwave Phase Detection at the Level of 10 -11 rad
+Assessment of GOES imager microburst product over the southwestern United States
+Towards the dispersion relation for ionacoustic instabilities in weakly inhomogeneous ionospheric plasma at altitudes 80-200km and its low-frequency solution
+Two different kinds of rogue waves in weakly-crossing sea states
+The MHD nature of ionospheric wave packets excited by the solar terminator
+Extreme Associated Functions: Optimally Linking Local Extremes to Large-scale Atmospheric Circulation Structures
+Simulating the evolution of soot mixing state with a particle-resolved aerosol model
+Feasibility of free space quantum key distribution with coherent polarization states
+Lagrangian studies in convective turbulence
+Top marine predators track Lagrangian coherent structures
+Radiative Phase Transitions and their Possible Role in Balance of Atmosphere Heating
+Solar forcing of the terrestrial atmosphere
+Stabilities of Parallel Flow and Horizontal Convection
+Optimal Boundary Discretization by Variational Data Assimilation
+Seasonal variation of the mesospheric inversion layer thunderstorms and mesospheric ozone over India
+Anti-Neutrino Imprint in Solar Neutrino Flare
+Onset of unsteady horizontal convection in rectangle tank at Pr1
+How to cope with climate's complexity
+Late Ordovician geographic patterns of extinction compared with simulations of astrophysical ionizing radiation damage
+Self-Similar Solutions in the Homogeneous Isotropic Turbulence
+Measurements of positive ions and air-earth current density at Maitri Antarctica
+The association between stratospheric weak polar vortex events and cold air outbreaks
+Criteria Of Turbulent Transition In Parallel Flows
+Thunderstorms lightning sprites and magnetospheric whistler-mode radio waves
+Observation of an energetic radiation burst from mountain-top thunderclouds
+Weather at Sierra Negra: 7.3-year statistics and a new method to estimate the temporal fraction of cloud cover
+The atmospheric global electric circuit: An overview
+More reflectivity for the soil to counteract the global-warming of the Earth
+Numerical Simulation of a Quasi-Tropical Cyclone over the Black Sea
+Mesoscale Cyclonic Eddies in the Black Sea Region
+Scavenging of atmospheric ions and aerosols by drifting snow in Antarctica
+The effect of mechanical stirring on buoyancy-driven circulations
+Exact and Asymptotic Conditions on Traveling Wave Solutions of the Navier-Stokes Equations
+An Ensemble Kalman-Particle Predictor-Corrector Filter for Non-Gaussian Data Assimilation
+On the energetics of stratified turbulent mixing irreversible thermodynamics Boussinesq models and the ocean heat engine controversy
+A double-layer Boussinesq-type model for highly nonlinear and dispersive waves
+Understanding mixing efficiency in the oceans: Do the nonlinearities of the equation of state matter?
+Large-eddy simulations of geophysical turbulent flows with applications to planetary boundary layer research
+Primitive turbulence: kinetics Prandtl's mixing length and von Karman's constant
+Dust-Induced Destabilization of Glacial Climates
+Structural break models of climatic regime-shifts: claims and forecasts
+Electron excitation and energy transfer rates for H2O in the upper atmosphere
+Delayed Seasonal Cycle and African Monsoon in a Warmer Climate
+Complex networks in climate dynamics - Comparing linear and nonlinear network construction methods
+Climate Engineering Responses to Climate Emergencies
+Electron gas oscillations in plasma. Theory and applications
+Towards the Probabilistic Earth-System Model
+Some reports of snowfall from fog during the UK winter of 2008 09
+Steady State of a Dissipative Flow-Controlled System and the Maximum Entropy Production Principle
+Comments on the Proof of the atmospheric greenhouse effect by Arthur P. Smith arXiv:0802.4324
+Effect of large-scale coherent structures on turbulent convection
+Lyapunov Analysis of Homogeneous Isotropic Turbulence
+Doppler lidar measurements of oriented planar ice crystals falling from supercooled and glaciated layer clouds
+Spatial and Temporal Extrapolation of Disdrometer Size Distributions Based on a Lagrangian Trajectory Model of Falling Rain
+Climate Modelling of Mass-Extinction Events: A Review
+On the use of simple dynamical systems for climate predictions: A Bayesian prediction of the next glacial inception
+Observations of a glaciating hole-punch cloud
+Drift wave-zonal flow dynamics
+Finite-time Lagrangian transport analysis: Stable and unstable manifolds of hyperbolic trajectories and finite-time Lyapunov exponents
+Comment on Influence of the Southern Oscillation on tropospheric temperature by J. D. McLean C. R. de Freitas and R. M. Carter
+Influence of ionospheric perturbations in GPS time and frequency transfer
+The Consistency of Modeled and Observed Temperature Trends in the Tropical Troposphere: A Comment on Santer et al (2008)
+The mesospheric inversion layer and sprites
+The role of cosmic rays in the Earths atmospheric processes
+A new method for making objective probabilistic climate forecasts from numerical climate models based on Jeffreys' Prior
+Viscous potential free-surface flows in a fluid layer of finite depth
+Our climate fix must be big and quick
+A study of the possibility of sprites in the atmospheres of other planets
+Analysis of the Schmidt Cohen Margon (1980) features in the Red Rectangle nebula
+Surface mixing and biological activity in the four Eastern Boundary Upwelling Systems
+Effects of anisotropy in geostrophic turbulence
+An adiabatic mode time-dependent parabolic equation
+Non-stationary parabolic equations for the quasi-monochromatic sound propagation in media with a non-stationary background flow
+Divorticity and Dihelicity In Two-Dimensional Hydrodynamics
+Rotating helical turbulence. Part I. Global evolution and spectral behavior
+Helical rotating turbulence. Part II. Intermittency scale invariance and structures
+Wind-wave stabilization by a foam layer between the atmosphere and the ocean
+Past Annual Variations of the Karst Denudation Rates
+CMIP3 ensemble spread model similarity and climate prediction uncertainty
+Predicted thermal superluminescence in low-pressure air
+The estimate of the wind energy potential and insolation
+Interdecadal variability and oceanic thermohaline adjustment
+On the sensitivity of coastal quasigeostrophic edge wave interaction to bottom boundary characteristics: possible implications for eddy parameterizations
+Nonlinear spin-up of a thermally stratified fluid in cylindrical geometries
+Scaling of Tropical-Cyclone Dissipation
+Amplitude equations for 3D double-diffusive convection interacted with a horizontal vortex
+Possible Atmospheric Transparency Studies on the Basis of Cherenkov Light Measurements
+A Numerical Simulation of a Plunging Breaking Wave
+Water wave collapses over quasi-one-dimensional non-uniformly periodic bed profiles
+Measurements of the ion concentrations and conductivity over the Arabian Sea during the ARMEX
+A linear thermohaline oscillator driven by stochastic atmospheric forcing
+A Scaling Theory for Horizontally Homogeneous Baroclinically Unstable Flow on a Beta-Plane
+The stability of a zonally averaged thermohaline circulation model
+Chemical equilibrium and stable stratification of a multi-component fluid: thermodynamics and application to neutron stars
+Dispersion of passive tracers in closed basins: beyond the diffusion coefficient
+Noise rectification in quasigeostrophic forced turbulence
+Signatures of a Universal Spectrum for Atmospheric Interannual Variability in Some Disparate Climatic Regimes
+Noise-induced flow in quasigeostrophic turbulence with bottom friction
+Information theory explanation of the fluctuation theorem maximum entropy production and self-organized criticality in non-equilibrium stationary states
+Nonsingular Surface-Quasi-Geostrophic Flow
+Low-dimensional dynamical system model for observed coherent structures in ocean satellite data
+Local log-law of the wall: numerical evidences and reasons
+Buoyancy driven rotating boundary currents
+A PIM-aided Kalman Filter for GPS Tomography of the Ionospheric Electron Content
+What caused the onset of the 1997-1998 El Nino?
+On acoustic cavitation of slightly subcritical bubbles
+Theory of weakly damped free-surface flows: a new formulation based on potential flow solutions
+Large Scale Intermittency in the Atmospheric Boundary Layer
+Vortical and Wave Modes in 3D Rotating Stratified Flows: Random Large Scale Forcing
+A method for volume stabilization of single dye-doped water microdroplets with femtoliter resolution
+Altitude and Latitude Distribution of Atmospheric Aerosol and Water Vapor from the Narrow-Band Lunar Eclipse Photometry
+Resonant phenomena in extended chaotic systems subject to external noise: the Lorenz'96 model case
+Tracing the early development of harmful algal blooms with the aid of Lagrangian coherent structures
+The hydrodynamical relevance of the Camassa-Holm and Degasperis-Procesi equations
+Enhancement of the Benjamin-Feir instability with dissipation
+A General Strategy for Physics-Based Model Validation Illustrated with Earthquake Phenomenology Atmospheric Radiative Transfer and Computational Fluid Dynamics
+Time-Domain Measurement of Spontaneous Vibrational Decay of Magnetically Trapped NH
+Mechanisms of Dendrites Occurrence during Crystallization: Features of the Ice Crystals Formation
+Effect of Multiple Scattering on the Critical Electric Field for Runaway Electrons in the Atmosphere
+The fall speeds of sub-100 micron ice crystals
+Energy-Enstrophy Stability of beta-plane Kolmogorov Flow with Drag
+Zonal Jets as Transport Barriers in Planetary Atmospheres
+Visco-potential free-surface flows and long wave modelling
+An asymptotic model for the Kelvin-Helmholtz and Miles mechanisms of water wave generation by wind
+Run-up characterstics of symmetrical solitary tsunami waves of unknown shapes
+Modelling of anthropogenic pollutant diffusion in the atmosphere and applications to civil protection monitoring
+Turbulence energetics in stably stratified geophysical flows: strong and weak mixing regimes
+Sensing Shallow Seafloor and Sediment Properties Recent History
+Helicity cascades in rotating turbulence
+Observation of swell dissipation across oceans
+On alpha stable distribution of wind driven water surface wave slope
+A quantum sensor for atom-surface interactions below 10 mu m
+Mechanism of Wall Turbulence in Boundary Layer Flow
+Ensemble Kalman filter with the unscented transform
+Solar activity and the mean global temperature
+Electrification of wind-blown sand on Mars and its implications for atmospheric chemistry
+Mixing in stratified gravity currents: Prandtl mixing length
+Flashes of light below the dripping faucet: an optical signal from capillary oscillations of water drops
+Modification of the classical nucleation theory based on molecular simulation data for surface tension critical nucleus size and nucleation rate
+Energy- and flux-budget turbulence closure model for stably stratified flows. Part II: the role of internal gravity waves
+Ultra-Low Noise Microwave Extraction from Fiber-Based Optical Frequency Comb
+Turbulent Diffusion and Turbulent Thermal Diffusion of Aerosols in Stratified Atmospheric Flows
+Water vapor and the dynamics of climate changes
+Stability Criteria of 3D Inviscid Shears
+Improving the expected accuracy of forecasts of future climate using a simple bias-variance tradeoff
+On the accuracy with which the lower boundary conditions can be determined in numerical models of the atmosphere
+Evaluation of the linear theory satisfiability limits in propagation of the internal gravity waves
+Internal gravity waves from a non-local perturbation source
+Using the Singular Spectrum Analysis for Investigation of Troposphere Parameters
+The Greenhouse Effect Does Exist
+A non arbitrary definition of rain event: the case of stratiform rain
+Evidence for Nearby Supernova Explosions
+Did a gamma-ray burst initiate the late Ordovician mass extinction?
+Temperature response of Earth to the annual solar irradiance cycle
+Terrestrial Ozone Depletion Due to a Milky Way Gamma-Ray Burst
+Detection of the N2 First Negative System in a Bright Leonid Fireball
+A climatic thermostat making Earth habitable
+Gamma-Ray Bursts and the Earth: Exploration of Atmospheric Biological Climatic and Biogeochemical Effects
+Surface gravity waves in deep fluid at vertical shear flows
+Spectral analysis of extinguished sunlight
+Spectral analysis of red scattered sunlight at sunrise
+Gamma-ray bursts and terrestrial planetary atmospheres
+Power law correlations in the Southern Oscillation Index fluctuations characterizing El Nino
+Time dependent correlations in marine stratocumulus cloud base height records
+A Complexity View of Rainfall
+Global climate models violate scaling of the observed atmospheric variability
+Rain power laws and advection
+The large-scale organization of chemical reaction networks in astrophysics
+Environmental Atmospheric Turbulence at Florence Airport
+A Hamiltonian Formulation for Long Internal Waves
+Energy spectra of the ocean's internal wave field: theory and observations
+Enstrophy Dynamics of Stochastically Forced Large-Scale Geophysical Flows
+Inverse statistics of smooth signals: the case of two dimensional turbulence
+Freak Waves in Random Oceanic Sea States
+Hamiltonian formalism and the Garrett-Munk spectrum of internal waves in the ocean
+Universal behaviour of entrainment due to coherent structures in turbulent shear flow
+Inverse cascade in Charney-Hasegawa-Mima turbulence
+Instabilities and Spatio-temporal Chaos of Long-wave Hexagon Patterns in Rotating Marangoni Convection
+Cuspons peakons and regular gap solitons between three dispersion curves
+Surface Quasigeostrophic Turbulence : The Study of an Active Scalar
+Chaotic stirring by a mesoscale surface-ocean flow
+The Decay of Passive Scalars Under the Action of Single Scale Smooth Velocity Fields in Bounded 2D Domains : From non self similar pdf's to self similar eigenmodes
+Jets Stickiness and Anomalous Transport
+Air parcel random walk and droplet spectra broadening in clouds
+Large-Eddy Simulation closures of passive scalar turbulence: a systematic approach
+Ray chaos and ray clustering in an ocean waveguide
+On Optimal Canonical Variables in the Theory of Ideal Fluid with Free Surface
+The recurrence time of Dansgaard-Oeschger events and limits on the possible periodic component
+Sling effect in collisions of water droplets in turbulent clouds
+Kinematic studies of transport across an island wake with application to the Canary islands
+A Model of Intra-seasonal Oscillations in the Earth atmosphere
+A collision-induced satellite in the Lyman Beta profile due to H-H collisions
+Monte Carlo study of the scattering error of a quartz reflective absorption tube
+Radiometric force in dusty plasmas
+Equilibrium solutions of the shallow water equations
+Non-locality and Intermittency in 3D Turbulence
+Fast Numerical simulations of 2D turbulence using a dynamic model for Subgrid Motions
+Statistics of Atmospheric Correlations
+Edge waves along a sloping beach
+Evaluating the quality of ground-based microwave radiometer measurements and retrievals using detrended fluctuation and spectral analysis methods
+The heats of formation of the haloacetylenes XCCY X Y  H F Cl : basis set limit ab initio results and thermochemical analysis
+Solar Activity and Cloud Opacity Variations: A Modulated Cosmic-Ray Ionization Model
+The stochastic resonance mechanism in the Aerosol Index dynamics
+Statistics of temperature fluctuations in a buoyancy dominated boundary layer flow simulated by a Large-eddy simulation model
+Water wave propagation and scattering over topographical bottoms
+Soliton self-modulation of the turbulence amplitude and plasma rotation
+Richardson's pair diffusion and the stagnation point structure of turbulence
+Power-Law Persistence in the Atmosphere: Analysis and Applications
+Stability of Rossby waves in the beta-plane approximation
+On the origin of plankton patchiness
+Vortex line representation for flows of ideal and viscous fluids
+Model for optical forward scattering by nonspherical raindrops
+Phase Synchronization in Temperature and Precipitation Records
+Atmospheric Gravity Perturbations Measured by Ground-Based Interferometer with Suspended Mirrors
+Power-law persistence and trends in the atmosphere: A detailed study of long temperature records
+A model for rapid stochastic distortions of small-scale turbulence
+Forced Stratified Turbulence: Successive Transitions with Reynolds Number
+Stability of Semi-Implicit and Iterative Centred-Implicit Time Discretizations for Various Equation Systems Used in NWP
+Comment on Scaling of atmosphere and ocean temperature correlations in observations and climate models
+Pole dynamics for the Flierl-Petviashvili equation and zonal flow
+Cloud boundary height measurements using lidar and radar
+A fractional Brownian motion model for the turbulent refractive index in lightwave propagation
+A New Framework for the Assessment and Calibration of Medium Range Ensemble Temperature Forecasts
+Weak turbulence of gravity waves
+The Richardson's Law in Large-Eddy Simulations of Boundary Layer flows
+Stability of leap-frog constant-coefficients semi-implicit schemes for the fully elastic system of Euler equations. Flat-terrain case
+On the Use of a Wider Class of Linear Systems for the Design of Constant-Coefficients Semi-Implicit Time-Schemes in NWP
+A theory of growth by differential sedimentation with application to snowflake formation
+Evidence for a k -5 3 spectrum from the EOLE Lagrangian balloons in the low stratosphere
+Statistical Physics in Meteorology
+Atmospheric turbulence within and above an Amazon forest
+Effective viscosity of grease ice in linearized gravity waves
+Generalized Paraxial Ray Trace Procedure Derived from Geodesic Deviation
+Bayesian Estimation for Land Surface Temperature Retrieval: The Nuisance of Emissivities
+Detrended fluctuation analysis of daily temperature records: Geographic dependence over Australia
+Statistics of the seasonal cycle of the 1951-2000 surface temperature records in Italy
+Destabilization of the thermohaline circulation by transient perturbations to the hydrological cycle
+Dynamic sea level changes following changes in the thermohaline circulation
+Thermohaline circulation stability: a box model study - Part I: uncoupled model
+Thermohaline circulation stability: a box model study - Part II: coupled atmosphere-ocean model
+Lagrangian Velocity Correlations and Absolute Dispersion in the Midlatitude Troposphere
+Water waves over a time-dependent bottom: Exact description for 2D potential flows
+Piecewise continuous partition function method in the theory of wave perturbations of inhomogeneous gas
+Ray-based description of normal mode amplitudes in a range-dependent waveguide
+The asymptotic quasi-stationary states of the two-dimensional magnetically confined plasma and of the planetary atmosphere
+A Bayesian Estimator for Linear Calibration Error Effects in Thermal Remote Sensing
+Characterization of laser propagation through turbulent media by quantifiers based on the wavelet transform: dynamic study
+Wavelet entropy and fractional Brownian motion time series
+Global monitoring of tropospheric water vapor with GPS radio occultation aboard CHAMP
+Quasi-planar steep water waves
+Reply to comment on A simple model for the short-time evolution of near-surface current and temperature profiles'
+On Holmboe's instability for smooth shear and density profiles
+Fine structure generation in double-diffusive system
+Revisiting the Local Scaling Hypothesis in Stably Stratified Atmospheric Boundary Layer Turbulence: an Integration of Field and Laboratory Measurements with Large-eddy Simulations
+Discrepancies in Southern Hemisphere Mid-latitude Atmospheric Variability of the NCEP-NCAR and ECMWF Reanalyses
+Seasonal Change of the Ozone Layer State over Yakutia
+Appropriateness of correlated first order auto-regressive processes for modeling daily temperature records
+The multiscale nature of streamers
+Turbulent Cascade of Circulations
+Humidity contribution to the refractive index structure function C n 2
+Applying the Hilbert--Huang Decomposition to Horizontal Light Propagation C n 2 data
+On the Lagrangian Dynamics of Atmospheric Zonal Jets and the Permeability of the Stratospheric Polar Vortex
+Humidity's influence on visible region refractive index structure parameter C n 2
+On the role of the Jeffreys'sheltering mechanism in the sustain of extreme water waves
+The remapped particle-mesh advection scheme
+Anomalous transparency of water-air interface for low-frequency sound
+Atmosphere-like turbulence generation with surface-etched phase-screens
+On the parabolic equation method in internal wave propagation
+A novel internal waves generator
+Spatial Correlation Functions of Random Electromagnetic Fields in the Presence of a Semi-Infinite Isotropic Medium
+Unbalanced instabilities of rapidly rotating stratified shear flows
+Comparison between three-dimensional linear and nonlinear tsunami generation models
+Extreme Value Statistics of the Total Energy in an Intermediate Complexity Model of the Mid-latitude Atmospheric Jet. Part II: trend detection and assessment
+Similarity theory and calculation of turbulent fluxes at the surface for the stably stratified atmospheric boundary layers
+Estimating Intermittency Exponent in Neutrally Stratified Atmospheric Surface Layer Flows: A Robust Framework based on Magnitude Cumulant and Surrogate Analyses
+On the changes in number and intensity of North Atlantic tropical cyclones
+Suppression of Intensity Fluctuations in Free Space High-Speed Optical Communication Based on Spectral Encoding of a Partially Coherent Beam
+Explicit wave-averaged primitive equations using a Generalized Lagrangian Mean
+A Comparison of Two Shallow Water Models with Non-Conforming Adaptive Grids: classical tests
+Implementation of the LANS-alpha turbulence model in a primitive equation ocean model
+Efficient form of the LANS-alpha turbulence model in a primitive-equation ocean model
+Identification of Optimal Topography by Variational Data Assimilation
+Steady-state molecular dynamics simulation of vapour to liquid nucleation with McDonald's daemon
+Recursive Bayesian Filters for Data Assimilation
+To theory of tornado formation: mass condensation into droplets their polarization by the Earth electric fields and rotation by magnetic field
+A Tropical NAT-like belt observed from space
+CALIPSO observations of wave-induced PSCs with near-unity optical depth over Antarctica in 2006-2007
+Reply to comment by Poole et al. on a tropical NAT-like belt observed from space
+Solving the Poisson equation on small aspect ratio domains using unstructured meshes
+Intermittency of surface layer wind velocity series in the mesoscale range
+Magnetometry with Mesospheric Sodium
+Improving Uncertain Climate Forecasts Using a New Minimum Mean Square Error Estimator for the Mean of the Normal Distribution
+Galactic-bursts signatures in Antarctica 10Be spectra reveal cosmogenesis of climate switching
+Chaotic response of global climate to long-term solar forcing variability
+Mesoscale Optical Turbulence simulations at Dome C
+Semi-empirical dissipation source functions for ocean waves: Part I definition calibration and validation
+Field theoretical approach to the description of the coherent structures in 2D fluids and plasmas
+Supersonic Air Flow due to Solid-Liquid Impact
+Comparison of Bayesian Land Surface Temperature algorithm performance with Terra MODIS observations
+Space-time structure of long ocean swell fields
+Enhanced free space beam capture by improved optical tapers
+Physical aspects of the field-theoretical description of two-dimensional ideal fluids
+Meso-Nh simulations of the atmospheric flow above the Internal Antarctic Plateau
+A different glance to the site testing above Dome C
+Atmospheric Variations as observed by IceCube
+The influence of cosmic rays on the size of the Antarctic Ozone Hole
+On the helical behavior of turbulence in the ship wake
+Analytical calculation of the minimum wind speed required to sustain wind-blown sand on Earth and Mars
+A delay differential model of ENSO variability: Parametric instability and the distribution of extremes
+Lunar semimonthly signal in cloud amount
+A general theorem on angular-momentum changes due to potential vorticity mixing and on potential-energy changes due to buoyancy mixing
+On the meaning of feedback parameter transient climate response and the greenhouse effect: Basic considerations and the discussion of uncertainties
+Subharmonic resonance of global climate to solar forcing
+Numerical experiments with assimilation of the mean and unresolved meteorological conditions into large-eddy simulation model
+Non-Gaussian buoyancy statistics in fingering convection
+The backbone of the climate network
+Effect of Wind Intermittency on the Electric Grid: Mitigating the Risk of Energy Deficits
+A New Graphical Microburst Guidance Product
+Excitation of slow MJO-like Kelvin waves in the equatorial atmosphere by Yanai wave-group via WISHE-induced convection
+Canonical variables for steep planar water waves over nonuniform bed
+Universal fluctuations in tropospheric radar measurements
+On Variational Data Assimilation in Continuous Time
+NUV Blue spectral observations of sprites in the 320-460 nm region: mathrm N 2 (2PG) Emissions
+Data Assimilation for Wildland Fires: Ensemble Kalman filters in coupled atmosphere-surface models
+Lagrangian views on turbulent mixing of passive scalars
+Microburst windspeed potential assessment: progress and recent developments
+Man made global warming explained - closing the blinds
+Long-term solar activity influences on South American rivers
+On The Barometric Formulas And Their Derivation From Hydrodynamics and Thermodynamics
+African Dust Influence on Atlantic Hurricane Activity and the Peculiar Behaviour of Category 5 Hurricanes
+The optimal combined design of climate mitigation and geoengineering
+Impacts of Typhoons on the Kuroshio Large Meander: Observation Evidences
+MAIC-2 a latitudinal model for the Martian surface temperature atmospheric water transport and surface glaciation
+Dissipative heat engine is thermodynamically inconsistent
+Formation of bound states of electrons in spherically symmetric oscillations of plasma
+Potential energy of atmospheric water vapor and the air motions induced by water vapor condensation on different spatial scales
+Statistical relationships between the surface air temperature anomalies and the solar and geomagnetic activity indices
+Strong enhancement of chlorophyll a concentration by a weak typhoon
+Effects of Initial Flow on Close-In Planet Atmospheric Circulation
+Short term forecasting of surface layer wind speed using a continuous cascade model
+On the effects of channel tortuosity on the close electromagnetic fields associated with lightning return strokes
+Numerical simulation of strongly nonlinear and dispersive waves using a Green-Naghdi model
+Fully nonlinear weakly dispersive modelling of wave transformation breaking and runup
+Ocean Skeletal Structures Hypotheses and Interpretation
+Galactic Cosmic Rays - Clouds Effect and Bifurcation Model of the Earth Global Climate. Part 1. Theory
+Galactic Cosmic Rays - Clouds Effect and Bifurcation Model of the Earth Global Climate. Part 2. Comparison of Theory with Experiment
+Lookup tables to compute high energy cosmic ray induced atmospheric ionization and changes in atmospheric chemistry
+El Nino Southern Oscillation as Sporadic Oscillations between Metastable States
+Cometary airbursts and atmospheric chemistry: Tunguska and a candidate Younger Dryas event
+Single Photon Atomic Sorting: Isotope Separation with Maxwell's Demon
+A Universal Hurricane Frequency Function
+Runup of tsunami waves in U-shaped bays
+Objective Probabilistic Forecasts of Future Climate Based on Jeffreys' Prior: the Case of Correlated Observables
+Objective Climate Model Predictions Using Jeffreys' Prior: the General Multivariate Normal Case
+A stability criterion for two-fluid interfaces and applications
+Empirical evidence for a celestial origin of the climate oscillations and its implications
+Some considerations about snow crystallogenesis
+Estimate solar contribution to the global surface warming using the ACRIM TSI satellite composite
+Bifurcation and Stability of Two-Dimensional Double-Diffusive Convection
+An inverse Gaussian plume approach for estimating atmospheric pollutant emissions from multiple point sources
+Minimal atmospheric finite-mode models preserving symmetry and generalized Hamiltonian structures
+Instability and Nonlinear Evolution of Narrow-Band Directional Ocean Waves
+Buoyancy statistics in moist turbulent Rayleigh-Benard convection
+Sprite discharges on Venus and Jupiter-like planets: a laboratory investigation
+Nonlinear and chaotic ice ages: data vs speculations
+Impact of CIR Storms on Thermosphere Density Variability during the Solar Minimum of 2008
+Preface Nonlinear processes in oceanic and atmospheric flows
+Investigation of Traveling Ionospheric Disturbances during a Midlatitude Spread F Event
+Features of Air Flow in the Trough-Crest Zone of Wind Waves
+Spectral Theory for Dissipation Mechanism of Wind Waves
+Can periodicity in low altitude cloud cover be induced by cosmic ray variability in the extragalactic shock model?
+The gradient of potential vorticity quaternions and an orthonormal frame for fluid particles
+The Role of Wind Waves in Dynamics of the Air-Sea Interface
+The CharXive Challenge. Regulation of global carbon cycles by vegetation fires
+Uncertain Climate Forecasts From Multimodel Ensembles: When to Use Them and When to Ignore Them
+Comparative Study Of Performance Of Wind Wave Model: WAVEWATCH-Modified By New Source Function
+Wind-Wave Model with an Optimized Source Function
+Flux scaling and plume structure in high Ra - high Sc turbulent convection
+Determining the Critical Condition for Flow Transition in a Full-Developed Annulus Flow
+A review of wildland fire spread modelling 1990-present 1: Physical and quasi-physical models
+A review of wildland fire spread modelling 1990-present 2: Empirical and quasi-empirical models
+A review of wildland fire spread modelling 1990-present 3: Mathematical analogues and simulation models
+Decomposing data sets into skewness modes
+Review of recent results on streamer discharges and discussion of their relevance for sprites and lightning
+The hidden geometry of ocean flows
+Chaotic background of large-scale climate oscillations
+Tropospheric ozone columns and ozone profiles for Kiev in 2007
+An Environmental Watch System for the Andean countries: El Observatorio Andino
+Galactic turbulence and paleoclimate variability
+Do small swimmers mix the ocean?
+The Sun-climate relationship : III. The solar flares north-south sunspot arrea asymmetry and climate
+Geostrophic balance preserving interpolation in mesh adaptive shallow-water ocean modelling
+Multifractal Detrended Cross-Correlation Analysis of Sunspot Numbers and River Flow Fluctuations
+Study of flow and dispersion of pollutants in the Igap 'o I Lake
+WRF-Fire Applied in Bulgaria
+Potential vorticity dynamics in the framework of disk shallow-water theory: I. The Rossby wave instability
+Level spacing statistics in a randomly-inhomogeneous acoustic waveguide
+Non-local boundary conditions and internal gravity wave generation
+Remarkable evolutionary laws of absolute and relative entropies with dynamical systems
+Resonant and Near-Resonant Internal Wave Interactions
+Multivariate forecast of winter monsoon rainfall in India using SST anomaly as a predictor: Neurocomputing and statistical approaches
+The virial theorem and planetary atmospheres
+Invariant measures of the 2D Euler and Vlasov equations
+Wind speed vertical distribution at Mt. Graham
+Nonlinear interfacial waves in a constant-vorticity planar flow over variable depth
+Synthesising using and correcting for telluric features in high-resolution astronomical spectra
+Effect of Rain Scavenging on Altitudinal Distribution of Soluble Gaseous Pollutants in the Atmosphere
+Recent developments in microburst nowcasting using GOES
+Long-time temperature variations in Portugal over the last 140 years and the effect of the solar activity
+Tidal Evolution of Exoplanets
+Numerical Modelling of Wind-Waves. Problem and Results
+Radiative Heat Transfer and Effective Transport Coefficients
+Oceanic Internal Wave Field: Theory of Scale-invariant Spectra
+Latitudinal dependence of low cloud amount on cosmic ray induced ionization
+A phase-space study of jet formation in planetary-scale fluids
+Lyapunov Analysis for Fully Developed Homogeneous Isotropic Turbulence
+Self-Similarity in Fully Developed Homogeneous Isotropic Turbulence Using the Lyapunov Analysis
+Comments on The Depth-Dependent Current and Wave Interaction Equations: A Revision
+Theoretical Studies of Long Lived Plasma Structures
+Transcranial stimulability of phosphenes by long lightning electromagnetic pulses
+Successful modeling of the environmental changes' influence on forests' vegetation over North Eurasia
+Polarimetric Remote Sensing of Solar System Objects
+An Internal Wave as a Frequency Filter for Surface Gravity Waves on Water
+GNSS Reflectometry and Remote Sensing: New Objectives and Results
+The Emergence of El-Ni n o as an Autonomous Component in the Climate Network
+A Laboratory Study of Absorbing Capacity of Water Vapor at the Wavelengths from 6500 TO 10500 AA
+Combined Daily Monitoring of Aerosol Optical Depths and Water Vapour Column Content during LACE 98 and LITFASS 98 Experiments
+Accuracy of the Water Vapour Content Measurements in the Atmosphere Using Optical Methods
+Partial and spectral-viscosity models for geophysical flows
+Monitoring of the terrestrial atmospheric characteristics with using of stellar and solar photometry
+Spectrum of infrasound radiation from supercell storms
+Reply to comment of Bister and co-authors on the critique of the dissipative heat engine
+Bright Water- hydrosols water conservation and climate change
+Oceanic Ambient Noise as a Background to Acoustic Neutrino Detection
+Symmetry justification of Lorenz' maximum simplification
+A two-fluid model for violent aerated flows
+Influence of sedimentary layering on tsunami generation
+Group and phase velocities in the free-surface visco-potential flow: new kind of boundary layer induced instability
+On the relevance of the dam break problem in the context of nonlinear shallow water equations
+Mesoscale optical turbulence simulations at Dome C: refinements
+Optical turbulence vertical distribution with standard and high resolution at Mt. Graham
+Scintillation Reduction for Laser Beams Propagating Through Turbulent Atmosphere
+Total ozone columns and vertical ozone profiles above Kiev in 2005-2008
+The Laboratory Complex for the Calibration of Photometers Using the Optical Method for Determination of the Water Vapor Content in the Earth Atmosphere
+The Determination of the Water Vapor Content in the Pulkovo VKM-100 Multipass Vacuum Cell Using Polymer Sensors of Humidity
+Mesoscale optical turbulence simulations above Dome C Dome A and South Pole
+Analysis of the planetary boundary layer with a database of large-eddy simulation experiments
+The AMMA mulid network for aerosol characterization in West Africa
+Effects of Sudden Changes in Inflow Conditions on the Angle of Attack on HAWT Blades
+A dedicated tool for a full 3D Cn2 investigation
+Mt. Graham: Optical turbulence vertical distribution at standard and high vertical resolution
+Terrestrial Consequences of Spectral and Temporal Variability in Ionizing Photon Events
+Climate Networks around the Globe are Significantly Effected by El Nino
+Miniature photonic-crystal hydrophone optimized for ocean acoustics
+Internal waves in a compressible two-layer atmospheric model: The Hamiltonian description
+Record-breaking temperatures reveal a warming climate
+Climate tipping as a noisy bifurcation: a predictive technique
+Generation of intermediately-long sea waves by weakly sheared winds
+Gamma-Ray Localization of Terrestrial Gamma-Ray Flashes
+Ionization in the atmosphere comparison between measurements and simulations
+Reply to Comment on 'Falsification Of The Atmospheric CO2 Greenhouse Effects Within The Frame Of Physics' by Joshua B. Halpern Christopher M. Colose Chris Ho-Stuart Joel D. Shore Arthur P. Smith J org Zimmermann
+The presence of interstellar turbulence could explain the velocity flattening in galaxies
+Experimental evidence of conformal invariance in soap film turbulent flows
+What the Cited and Citing Environments Reveal of Advances in Atmospheric Sciences ?
+Aspects of Multi-Dimensional Modelling of Substellar Atmospheres
+Statistical Modeling for Wind-Temperature Meteorological Elements in Troposphere
+A Minimized Mutual Information retrieval for simultaneous atmospheric pressure and temperature
+Coexistence of Weak and Strong Wave Turbulence in a Swell Propagation
+Simultaneous numerical simulation of direct and inverse cascades in wave turbulence
+Investigation of particle and molecular extinction effects in remote sensing by ultraviolet DIAL in the lower atmosphere
+Influence of the condensate and inverse cascade on the direct cascade in wave turbulence
+A delay differential model of ENSO variability Part 2: Phase locking multiple solutions and dynamics of extrema
+Another Look at Climate Sensitivity
+Approaches for multi-step density forecasts with application to aggregated wind power
+Where do winds come from? A new theory on how water vapor condensation influences atmospheric pressure and dynamics
+Finite volume schemes for dispersive wave propagation and runup
+Statistics of the General Circulation from Cumulant Expansions
+Inferring long memory processes in the climate network via ordinal pattern analysis
+Assessment of a GOES microburst product for two early cold season convective storms
+A scaling theory for the size distribution of emitted dust aerosols suggests climate models underestimate the size of the global dust cycle
+Numerical Modelling of Wind Waves. Problems Solutions Verifications and Applications
+Prediction of shock structure using the bimodal distribution function
+Chaos storms and climate on Mars
+Photo-nucleation theory of correlation of Stream-flow of four South American rivers with Sunspot Cycle
+Reply to Comment on Formation of bound states of electrons in spherically symmetric oscillations of plasma'
+Scintillation reduction for combined Gaussian-vortex beam propagating through turbulent atmosphere
+Turbulent viscosity variability in self-propelled body wake model
+Stochastic rocket dynamics under random nozzle side loads: Ornstein-Uhlenbeck boundary layer separation and its coarse grained connection to side loading and rocket response
+On the Doppler distortion of the sea-wave spectra
+Numerical Verification of the Weak Turbulent Model for Swell Evolution
+Habitable Climates: The Influence of Obliquity
+Testing the link between terrestrial climate change and Galactic spiral arm transit
+Measurement of the near-infrared fluorescence of the air for the detection of ultra-high-energy cosmic rays
+How reliable are Finite-Size Lyapunov Exponents for the assessment of ocean dynamics?
+How persistent is civilization growth?
+An overview of the coupled atmosphere-wildland fire model WRF-Fire
+Obtaining Traffic Information by Urban Air Quality Inspection
+Rotating Shallow Water Dynamics: Extra Invariant and the Formation of Zonal Jets
+Low Rossby limiting dynamics for stably stratified flow with Finite Froude number
+A Unifying Statistical Model for Atmospheric Optical Scintillation
+Potential of 4d-VAR for exigent forecasting of severe weather
+Clouds and the Faint Young Sun Paradox
+Long-duration gamma-ray emissions from 2007 and 2008 winter thunderstorms
+Tidal pattern instabilities on multi-moon planets
+Atmospheric dynamics of Earth-like tidally locked aquaplanets
+A splitting approach for the fully nonlinear and weakly dispersive Green-Naghdi model
+Generation of intermediately-long sea waves by weakly sheared winds
+Changes in zonal surface temperature gradients and Walker circulations in a wide range of climates
+Stability of Inviscid Parallel Flows between Two Parallel Walls
+Universality of rain event size distributions
+Dispersive wave runup on non-uniform shores
+Evidence for super-exponentially accelerating atmospheric carbon dioxide growth
+Wavelet Ensemble Kalman Filters
+Entropy production and multiple equilibria: the case of the ice-albedo feedback
+Trajectories of Rubber Balloons used in Balloon Releases: Theory and Application
+Tropical Cyclones as a Critical Phenomenon
+Probing the Climatological Impact of a Cosmic Ray-Cloud Connection through Low-Frequency Radio Observations
+On the correlation between air temperature and the core Earth processes: Further investigations using a continuous wavelet analysis
+Rain: Relaxations in the sky
+Are there basic physical constraints on future anthropogenic emissions of carbon dioxide?
+Global and local sea level during the Last Interglacial: A probabilistic assessment
+Possible thermochemical disequilibrium in the atmosphere of the exoplanet GJ 436b
+Analysis of the application of the optical method to the measurements of the water vapor content in the atmosphere - Part 1: Basic concepts of the measurement technique
+Oceanic rings and jets as statistical equilibrium states
+B o ogg Bang drives global climate change
+On the Fractal Mechanism of Interrelation Between the Genesis Size and Composition of Atmospheric Particulate Matters in Different Regions of the Earth
+Kraichnan like model of turbulence with stratification
+Traces of Radioactive I-131 in Rain Water and Milk Samples in Romania
+Gamma Background Measurements at BEO Moussala
+A statistical analysis of multiple temperature proxies: Are reconstructions of surface temperatures over the last 1000 years reliable?
+Discussion of: A statistical analysis of multiple temperature proxies: Are reconstructions of surface temperatures over the last 1000 years reliable?
+The geometry of sound rays in a wind
+Astrophysical Ionizing Radiation and the Earth: A Brief Review and Census of Intermittent Intense Sources
+Evolution of the solar irradiance during the Holocene
+The advection-condensation model and water vapour PDFs
+Discussion of: A statistical analysis of multiple temperature proxies: Are reconstructions of surface temperatures over the last 1000 years reliable?
+Spectral Element Method for Vector Radiative Transfer Equation
+A Hybrid (Monte-Carlo Deterministic) Approach for Multi-Dimensional Radiation Transport
+Engineering Modeling of Wave-Related Suspended Sediment Transport Over Ripples
+Optical turbulence simulations at Mt Graham using the Meso-NH mode
+A Stochastic Energy Budget Model Using Physically Based Red Noise
+Magnetic imaging of shipwrecks
+Integrated model for a wave boundary layer
+On the sixty-year periodicity in climate and astronomical series
+Ionisation in atmospheres of Brown Dwarfs and extrasolar planets II Dust-induced collisional ionization
+Faint young Sun paradox remains
+MHD Turbulence: Scaling Laws and Astrophysical Implications
+New Results on the Thermodynamical Properties of the Climate System
+Climatology of extratropical atmospheric wave packets in the northern hemisphere
+Calibration of the Transport Parameters of a Local Problem of Water Quality in Igap 'o I Lake
+Present and Last Glacial Maximum climates as states of maximum entropy production
+Horizontally oriented plates in clouds
+Modelling Complexity: the case of Climate Science
+A sustained oscillation in a toy-model of the coupled atmosphere-ocean system
+Atmospheric optical-turbulence at Roque de los Muchachos Observatory: database and recalibration of the generalized-SCIDAR data
+New Evidence of an Enhanced Greenhouse Effect
+Overheat Instability in an Ascending Moist Air Flow as a Mechanism of Hurricane Formation
+Mixed Layer Mesoscales for OGCMs: Model development and assessment with T P WOCE and Drifter data
+Critical balance in magnetohydrodynamic rotating and stratified turbulence: towards a universal scaling conjecture
+The air pressure effect on the homogeneous nucleation of carbon dioxide by molecular simulation
+Comparing mesoscale chemistry-transport model and remote-sensed Aerosol Optical Depth
+Localized precipitation and runoff on Mars
+Stochastic variability of oceanic flows above topography anomalies
+Shallow water equations for large bathymetry variations
+Microburst nowcasting applications of GOES
+Misure quantitative del seeing atmosferico
+Atmospheric Response to Fukushima Daiichi NPP (Japan) Accident Reviled by Satellite and Ground observations
+Fractal characterization of rain-gauge networks and precipitations: an application in Central Italy
+Neutral stability height correction for ocean winds
+Analogue-dynamical Prediction of Numerical Model Errors in the Mid-Lower Reaches of the Yangtze River
+Air-sea interaction described by bilayer networks
+Ignition from a Fire Perimeter in a WRF Wildland Fire Model
+Transport Induced by Mean-Eddy Interaction: I. Theory and Relation to Lagrangian Lobe Dynamics
+Transport Induced by Mean-Eddy Interaction: II. Analysis of Transport Processes
+Scaling laws of passive tracer dispersion in the turbulent surface layer
+Cosmic Rays and Climate
+Different responses of the upper ocean to typhoon Namtheun
+Fast Fourier Transform Ensemble Kalman Filter with Application to a Coupled Atmosphere-Wildland Fire Model
+A retrieval strategy for interactive ensemble data assimilation
+A scale-invariant formulation of the anticipated potential vorticity method
+The Weather and its Role in Captain Robert F. Scott and his Companions' Deaths
+Optical turbulence: site selection above the internal Antarctic plateau with a mesoscale model
+Quasi-two-layer finite-volume scheme for modeling shallow water flows with the presence of external forces
+A new modelling framework for statistical cumulus dynamics
+On the visualisation verification and recalibration of ternary probabilistic forecasts
+How does the earth system generate and maintain thermodynamic disequilibrium and what does it imply for the future of the planet?
+Arrival time and magnitude of airborne fission products from the Fukushima Japan reactor incident as measured in Seattle WA USA
+3D effects in the dynamics of oceanic rogue waves: A numerical study
+The Productive Ligurian Pool
+Ensemble regional data assimilation using joint states
+Direct observations of formation and propagation of subpolar eddies into the subtropical North Atlantic
+Relation between Wind and Wind Currents on the Synoptic Scale with Account of Wave Conditions
+Undisturbed Mesosphere Optical Properties from Wide-Angle Frequent Twilight Sky Polarimetry
+Frequency Characteristics Of Acoustic-Gravity Eigenwaves Of The Nonadiabatic Atmosphere
+Tsunami effects on the Z component of the geomagnetic field
+Ensemble Dynamics and Bred Vectors
+Brief comment: Dicke Superradiance and Superfluorescence Find Application for Remote Sensing in Air
+Groundwater age life expectancy and transit time distributions in advective-dispersive systems: 1. Generalized reservoir theory
+Controlling overestimation of error covariance in ensemble Kalman filters with sparse observations: A variance limiting Kalman filter
+Near-Ultraviolet and Visible Spectroscopy of HAYABUSA Spacecraft Re-entry
+Photographic Observations of the Hayabusa Re-entry
+Long-wave instability and growth rate of the inviscid shear flows
+Comment on an information theoretic approach to the study of non-equilibrium steady states
+Stochastic perturbations to dynamical systems: a response theory approach
+Enstrophy bounds and the range of space-time scales in the hydrostatic primitive equations
+Aerial Measurement of Radioxenon Concentration off the West Coast of Vancouver Island following the Fukushima Reactor Accident
+Local Runup Amplification By Resonant Wave Interactions
+Universal constants and equations of turbulent motion
+Sensitivity And Out-Of-Sample Error in Continuous Time Data Assimilation
+Two-dimensional Moist Stratified Turbulence and the Emergence of Vertically Sheared Horizontal Flows
+Maximizing the statistical diversity of an ensemble of bred vectors by using the geometric norm
+Bistable systems with Stochastic Noise: Virtues and Limits of effective Langevin equations for the Thermohaline Circulation strength
+The atmospheric transparency measured with a LIDAR system at the Telescope Array experiment
+Collision Dynamics and Solvation of Water Molecules in a Liquid Methanol Film
+Climate instability on tidally locked exoplanets
+Climate Network Structure Follows North Atlantic Oscillation Phases
+Thermodynamics of nonequilibrium processes in a tornado: synergistic approach
+Statistical Features of the Wind Field over the Indian Ccean for the period 1998-2008
+Stability of Climate Networks with Time
+Assessment of inter-model variability and biases of the global water cycle in CMIP3 climate models
+Modeling and Analysis of the Wind-Waves Field Variability in the Indian Ocean During 1998-2009 Years
+Low cloud properties influenced by cosmic rays
+Thermodynamic Efficiency and Entropy Production in the Climate System
+Bivariate Instantaneous Frequency and Bandwidth
+Thermodynamic Analysis of Snowball Earth Hysteresis Experiment: Efficiency Entropy Production and Irreversibility
+Thermodynamics of Climate Change: Generalized Sensitivities
+Energetics of PCMDI CMIP3 Climate Models: Energy Budget and Meridional Enthalpy Transport
+General Temporal Instability Criteria For Stably Stratified Inviscid Flow
+A Statistical Mechanical Approach for the Computation of the Climatic Response to General Forcings
+Analysis of Modulated Multivariate Oscillations
+Atmospheric circulation of tidally locked exoplanets: II. Dual-band radiative transfer and convective adjustment
+Enhanced rise of rogue waves in slant wave groups
+Lunar Eclipse of June 15 2011: Three-color umbra surface photometry
+On the effects of clouds and hazes in the atmospheres of hot Jupiters: semi-analytical temperature-pressure profiles
+Nonlinear superposition of direct and inverse cascades in two-dimensional turbulence forced at large and small scales
+Joint downscale fluxes of energy and potential enstrophy in rotating stratified Boussinesq flows
+Biological implications of high-energy cosmic ray induced muon flux in the extragalactic shock model
+A Note on Several Meteorological Topics Related to Polar Regions
+Rayleigh-Benard convection with phase changes in a Galerkin model
+A Low Order Theory of Arctic Sea Ice Stability
+Decadal to seasonal variability of Arctic sea ice albedo
+The Relationship Between Solar Radio and Hard X-ray Emission
+Extracting waves and vortices from Lagrangian trajectories
+Does the size distribution of mineral dust aerosols depend on the wind speed at emission?
+Energy Release and Particle Acceleration in Flares: Summary and Future Prospects
+Hydrological Cycle in the Danube basin in present-day and XXII century simulations by IPCCAR4 global climate models
+Variation of incoming solar radiation flux during a partial eclipse episode: an improved model simulation
+Stability of Filters for the Navier-Stokes Equation
+Lagrangian drifter dispersion in the southwestern Atlantic Ocean
+Air entrainment by a plunging jet under intermittent vortex conditions
+Interactions of Shear Layer Vortices with the Trailing Corner in an Open Cavity Flow
+Tropical Atmospheric Circulations with Humidity Effects
+Kolmogorov scaling bridges linear hydrodynamic stability and turbulence
+Correction of Teledyne Acoustic Doppler Current Profiler (ADCP) Bottom-Track Range Measurements for Instrument Pitch and Roll
+Internal gravity waves in a stratified medium of non-uniform depth
+Intercomparison of the northern hemisphere winter mid-latitude atmospheric variability of the IPCC models
+Does the Danube exist? Versions of reality given by various regional climate models and climatological datasets
+Super-Droplet Method for the Numerical Simulation of Clouds and Precipitation: a Particle-Based Microphysics Model Coupled with Non-hydrostatic Model
+Wind instability of a foam layer sandwiched between the atmosphere and the ocean
+Morphing Ensemble Kalman Filters
+An Initial Assessment of the GOES Microburst Windspeed Potential Index
+Application of afxy-code for parameterization of ionization yield function Y in the atmosphere for primary cosmic ray protons
+Practical use of variational principles for modeling water waves
+Toward Regional Characterizations of the Oceanic Internal Wavefield
+Point symmetry group of the barotropic vorticity equation
+Axially and spherically symmetric solitons in warm plasma
+Lie symmetry analysis and exact solutions of the quasi-geostrophic two-layer problem
+Rapid growth of cloud droplets by turbulence
+Long wave runup on random beaches
+Transient Water Age Distributions in Environmental Flow Systems: The Time-Marching Laplace Transform Solution Technique
+Molecular-dynamics simulation of clustering processes in sea-ice floes
+Comment on Triggering Rogue Waves in Opposing Currents
+Wind-induced drift of objects at sea: the leeway field method
+A high-resolution hindcast of wind and waves for The North Sea The Norwegian Sea and The Barents Sea
+An Operational Search and Rescue Model for the Norwegian Sea and the North Sea
+A study of a WENO-TVD finite volume scheme for the numerical simulation of atmospheric advective and convective phenomena
+Modelling and numerical approximation of a 2.5D set of equations for mesoscale atmospheric processes
+A wildland fire modeling and visualization environment
+Short-term forecast of the total and spectral solar irradiance
+Revisiting the Carrington Event: Updated modeling of atmospheric effects
+Hamiltonian fractals and chaotic scattering of passive particles by a topographical vortex and an alternating current
+Noise-induced clustering in Hamiltonian systems
+Nonlinear Hamiltonian dynamics of Lagrangian transport and mixing in the ocean
+An Electric Force Facilitator in Descending TVS Tornadogenesis
+Modeling the morphogenesis of brine channels in sea ice
+Reactive processing of formaldehyde and acetaldehyde in aqueous aerosol mimics: Surface tension depression and secondary organic products
+Dispersive waves generated by an underwater landslide
+The power spectrum of the seeing during solar observations
+Coupled Atmosphere-Fire Simulations of Fireflux: Impacts of Model Resolution on Model Performance
+Global Transients in ultraviolet and red-infrared ranges from data of the Universitetsky-Tatiana-2 satellite
+Comments on the Paper A new basic 1-dimensional 1-layer model obtains excellent agreement with the observed Earth temperature' by Rainer Link and Horst-Joachim L udecke
+Global Well-posedness of an Inviscid Three-dimensional Pseudo-Hasegawa-Mima Model
+Predicting Failures of Point Forecasts
+Free Internal Waves in Polytropic Atmospheres
+How can a glacial inception be predicted?
+Solar activity and Svalbard temperatures
+Blocking a wave: Frequency band gaps in ice shelves with periodic crevasses
+Sensitivity of a Shallow-Water Model to Parameters
+An estimate of the temporal fraction of cloud cover at San Pedro M 'artir Observatory
+Data Assimilation and Sensitivity of the Black Sea Model to Parameters
+Effect of dynamical traps on chaotic transport in a meandering jet flow
+Method of estimation of turbulence characteristic scales
+On the Convergence of the Ensemble Kalman Filter
+Microburst applications of brightness temperature difference between GOES Imager channels 3 and 4
+On the use of finite fault solution for tsunami generation problems
+No way out? The double-bind in seeking global prosperity alongside mitigated climate change
+On trajectories of vortices in the compressible fluid on a two-dimensional manifold
+A global hybrid coupled model based on Atmosphere-SST feedbacks
+Effective attraction between oscillating electrons in a plasmoid via acoustic waves exchange
+Maximum-likelihood reconstruction of photon returns from simultaneous analog and photon-counting lidar measurements
+Re-calibrated Generalized-Scidar measurements at Cerro Paranal (VLT's site)
+Concept to assess the human perception of odour by estimating short-time peak concentrations from one-hour mean values. Reply to a comment by M uller et al
+Testing an astronomically-based decadal-scale empirical harmonic climate model versus the IPCC (2007) general circulation climate models
+The Runaway Greenhouse: implications for future climate change geoengineering and planetary atmospheres
+The unity of instantaneous spectral moments and physical moments
+Aggressive shadowing of a low-dimensional model of atmospheric dynamics
+Energy spectra of textbf 2D gravity and capillary waves with narrow frequency band excitation
+Empirical correction of a toy climate model
+Planetary Atmospheres as Non-Equilibrium Condensed Matter
+Lie reduction and exact solutions of vorticity equation on rotating sphere
+Chaotic mixing and fractals in a geophysical jet current
+Mechanism of destruction of transport barriers in geophysical jets with Rossby waves
+Lagrangian study of transport and mixing in a mesoscale eddy street
+Cell Model of In-cloud Scavenging of Highly Soluble Gases
+Principal component proxy tracer analysis
+The Influence of Atmospheric Scattering and Absorption on Ohmic Dissipation in Hot Jupiters
+Sea Ice Brightness Temperature as a Function of Ice Thickness: Computed curves for AMSR-E and SMOS (frequencies from 1.4 to 89 GHz)
+A Simple Framework for the Dynamic Response of Cirrus Clouds to Local Diabatic Radiative Heating
+Response of Cloud Condensation Nuclei ( 50 nm) to changes in ion-nucleation
+Isoline retrieval: An optimal sounding method for validation of advected contours
+Internal waves and vortices in satellite images
+Coupled atmosphere-wildland fire modeling with WRF-Fire
+Investigating the topology of interacting networks - Theory and application to coupled climate subnetworks
+Scientific Case for Avoiding Dangerous Climate Change to Protect Young People and Nature
+Thermalization and free decay in Surface Quasi-Geostrophic flows
+Wake response to an ocean-feedback mechanism: Madeira Island case study
+A Deficiency Problem of the Least Squares Finite Element Method for Solving Radiative Transfer in Strongly Inhomogeneous Media
+Steady 1D Stationary Currents of Spherical Gas Layer
+Potential vorticity dynamics in the framework of disk shallow-water theory: II. Mixed Barotropic-Baroclinic Instability
+Towards the inclusion of wave-ice interactions in large-scale models for the Marginal Ice Zone
+Sensitive and accurate dual wavelength UV-VIS polarization detector for optical remote sensing of tropospheric aerosols
+Study of wave chaos in a randomly-inhomogeneous oceanic acoustic waveguide: spectral analysis of the finite-range evolution operator
+Statistical emulation of a tsunami model for sensitivity analysis and uncertainty quantification
+Atmospheric instability as a loss of a metastable equilibrium
+Significance Tests in Climate Science
+Steady Homogeneous Turbulence in the Presence of an Average Velocity Gradient
+Kinetic helicity decay in linearly forced turbulence
+Nonlinear softening as a predictive precursor to climate tipping
+Ostwald ripening and the kinetics of rain initiation
+Predicting flow reversals in chaotic natural convection using data assimilation
+Hamiltonian description and traveling waves of the spatial Dysthe equations
+Data assimilation in slow-fast systems using homogenized climate models
+Fast chemical reaction in two-dimensional Navier-Stokes flow: Initial regime
+Long-time Behavior of a Two-layer Model of Baroclinic Quasi-geostrophic Turbulence
+Intensity and polarization of the atmospheric emission at millimetric wavelengths at Dome Concordia
+Comments on Assessing future risk: quantifying the effects of sea level rise on storm surge risk for the southern shores of Long Island New York by Christine C. Shepard et al (Natural Hazards Vol. 60 No. 2 727-745)
+Air pollution studies in terms of PM2.5 PM2.5-10 PM10 lead and black carbon in urban areas of Antananarivo - Madagascar
+The study of ground-level ozone in Kiev and its impact on public health
+A Reanalysis of North Pacific Sea Surface Temperatures Using State-Space Techniques: The PDO In A New Light
+An Analysis of North Pacific Subsurface Temperatures Using State-Space Techniques
+Using the past to constrain the future: how the palaeorecord can improve estimates of global warming
+Are temperature reconstructions regionally biased?
+Self-organization in the tornado: the new approach in the tornado description
+Dynamical traps and chaotic advection in a meandering jet flow
+Unstable periodic orbits in a chaotic meandering jet flow
+Detecting barrier to cross-jet Lagrangian transport and its destruction in a meandering flow
+A modeling of the carbon-nitrogen cycle transport at Igap 'o I Lake - Londrina Paran 'a Brazil
+Delta-singular vortex dynamics on a rotating sphere and stability of coupled atmospheric centers of action
+Trends noise and reentrant long-term persistence in Arctic sea ice
+Extension of the MIRS computer package for the modeling of molecular spectra : from effective to full ab initio ro-vibrational hamiltonians in irreducible tensor form
+Infrared Terahertz double resonance spectroscopy of CH3F and CH3Cl at atmospheric pressure
+On the existence of stable seasonally varying Arctic sea ice in simple models
+The faint young Sun problem
+Phase transitions and marginal ensemble equivalence for freely evolving flows on a rotating sphere
+Absorption of Soluble Gases by Atmospheric Nanoaerosols
+An atmospheric radiation model for Cerro Paranal. I. The optical spectral range
+Determination of the best optimal estimation parameters for validation of infrared hyperspectral sounding retrievals
+Lagrangian tools to monitor transport and mixing in the ocean
+Baroclinic Instability on Hot Extrasolar Planets
+A shared frequency set between the historical mid-latitude aurora records and the global surface temperature
+Chaotic mixing and transport in a meandering jet flow
+Stratospheric Albedo Modification by Aerosol Injection
+A Pedagogical Toy Climate Model
+Random matrix theory for underwater sound propagation
+On the Stability of Super-Earth Atmospheres
+Statistical mechanics of quasi-geostrophic flows on a rotating sphere
+A Multi-Baseline 12 GHz Atmospheric Phase Interferometer with One Micron Path Length Sensitivity
+A template of atmospheric molecular oxygen circularly polarized emission for CMB experiments
+Nearshore wave forecasting and hindcasting by dynamical and statistical downscaling
+The Study of Climate on Alien Worlds
+A surface-aware projection basis for quasigeostrophic flow
+ENSO dynamics: low-dimensional-chaotic or stochastic?
+Quantifying the Multivariate ENSO Index (MEI) coupling to CO2 concentration and to the length of day variations
+Evidences for a quasi 60-year North Atlantic Oscillation since 1700 and its meaning for global climate change
+Study of internal wave breaking dependence on stratification
+Fundamental problems of modeling the dynamics of internal gravity waves with applications to the Arctic Basin
+Tangling clustering of inertial particles in stably stratified turbulence
+Transition phenomena in unstably stratified turbulent flows
+On the contribution of the horizontal sea-bed displacements into the tsunami generation process
+The decay of Batchelor and Saffman rotating turbulence
+Moist turbulent Rayleigh-Benard convection with Neumann and Dirichlet boundary conditions
+On the structurization of coal dust precipitations and their influence on aerodynamic resistance by granulated mediums in air filters at nuclear power plants
+Bistability of the climate around the habitable zone: a thermodynamic investigation
+Turbulent mixing driven by mean-flow shear and internal gravity waves in oceans and atmospheres
+On the dynamics of internal waves propagating in stratified media of a variable depth: exact and asymptotic solutions
+A complete theory of low-energy phase diagrams for two-dimensional turbulence steady states and equilibria
+Linear and Nonlinear Rogue Wave Statistics in the Presence of Random Currents
+Ambiguity of large scale temperature reconstructions from artificial tree growth in millennial climate simulations
+Ice structures patterns and processes: A view across the ice-fields
+European Extremely Large Telescope Site Characterization II: High angular resolution parameters
+Physical simulation of resonant wave run-up on a beach
+Electrical properties of volcanic ash samples from Eyjafjallaj okull and Gr 'imsv otn
+CIP multi-moment finite volume method with arbitrary order of accuracy
+Computational study of atmospheric transfer radiation on an equatorial tropical desert (La Tatacoa Colombia)
+Two variants of the MCV3 scheme
+Clustering of Aerosols in Atmospheric Turbulent Flow
+The Lagrangian description of aperiodic flows: a case study of the Kuroshio Current
+Assembling of three-dimensional crystals by large nonequilibrium depletion force
+Disentangling multi-level systems: averaging correlations and memory
+Microwave emissivity of fresh water ice--Lake ice and Antarctic ice pack--Radiative transfer simulations versus satellite radiances
+Sea Ice Brightness Temperature as a Function of Ice Thickness Part II: Computed curves for thermodynamically modelled ice profiles
+Assimilation of Perimeter Data and Coupling with Fuel Moisture in a Wildland Fire - Atmosphere DDDAS
+Inconsistencies between long-term trends in storminess derived from the 20CR reanalysis and observations
+Systematic Study of Rogue Wave Probability Distributions in a Fourth-Order Nonlinear Schr odinger Equation
+Microwave emissivity of freshwater ice Part II: Modelling the Great Bear and Great Slave Lakes
+Physical aspects to consider in radiometric calibration of satellite images
+Radiometric in-situ calibration of satelital sensors of Earth observation using a spectroradiometer
+WRF fire simulation coupled with a fuel moisture model and smoke transport by WRF-Chem
+Calving on tidewater glaciers amplified by submarine frontal melting
+Indication of insensitivity of planetary weathering behavior and habitable zone to surface land fraction
+Statistics of Night time Ionospheric Scintillation Using GPS data at low latitude ground station Varanasi
+Frequentist vs Bayesian statistics - a non-statisticians view
+Condensational theory of stationary tornadoes
+A new method to identify water masses -- a network-based analysis of oceanographic point measurement time series
+A 1D microphysical cloud model for Earth and Earth-like exoplanets. Liquid water and water ice clouds in the convective troposphere
+Relative Condition Factors of Fish as Bioindicators One Year after the Deepwater Horizon Oil Spill
+Modulational instability wave breaking and formation of large scale dipoles in the atmosphere
+Atmospheric aerosols at the Pierre Auger Observatory and environmental implications
+A study of the link between cosmic rays and clouds with a cloud chamber at the CERN PS
+Addendum to the CLOUD proposal
+CLOUD: an atmospheric research facility at CERN
+Paleoclimate Implications for Human-Made Climate Change
+Earth's Energy Imbalance and Implications
+A Second Order Radiative Transfer Equation and Its Solution by Meshless Method with Application to Strongly Inhomogeneous Media
+Impact of solar activity on climate changes in Athens region Greece
+Oceanic three-dimensional Lagrangian Coherent Structures: A study of a mesoscale eddy in the Benguela ocean region
+Quantum exchange interaction of spherically symmetric plasmoids
+The physics of wind-blown sand and dust
+Aluminium in an ocean general circulation model compared with the West Atlantic Geotraces cruises
+Propagating and evanescent internal waves in a deep ocean model
+Comments on the Paper Earth's energy imbalance and implications by J. Hansen M. Sato P. Kharecha and K. von Schuckmann
+Experimental observation of a strong mean flow induced by internal gravity waves
+Public Perception of Climate Change and the New Climate Dice
+Special solutions to a compact equation for deep-water gravity waves
+Bayesian semi-parametric forecasting of ultrafine particle number concentration with penalised splines and autoregressive errors
+Local Warming
+Influence of the stratosphere temperature on ozonosphere optical characteristics and instrumental problems of total ozone content remote measurements
+On the modelling of tsunami generation and tsunami inundation
+The Force of a Tsunami on a Wave Energy Converter
+The propagation of light pollution in the atmosphere
+Traditional and novel approaches to palaeoclimate modelling
+Phase space parametrization of rain: the inadequacy of the gamma distribution
+Robust seasonal cycle of Arctic sea ice area through tipping point in amplitude
+Conservative parameterization schemes
+Modeling the onset of photosynthesis after the Chicxulub asteroid impact
+The interaction between air ions and aerosol particles in the atmosphere
+Interaction of a monopole vortex with an isolated topographic feature in a three-layer geophysical flow
+Forecasting Cloud Cover and Atmospheric Seeing for Astronomical Observing: Application and Evaluation of the Global Forecast System
+Seasonal and regional characterization of horizontal stirring in the global ocean
+A diffusion-induced transition in the phase separation of binary fluid mixtures subjected to a temperature ramp
+Sensitivity of the Atlantic Meridional Overturning Circulation to South Atlantic freshwater anomalies
+Characteristics of solar diurnal variations: a case study based on records from the ground magnetic observatory at Vassouras Brazil
+Constructing acoustic timefronts using random matrix theory
+Complete point symmetry group of vorticity equation on rotating sphere
+Noise generation in the solid Earth oceans and atmosphere from non-linear interacting surface gravity waves in finite depth
+Real time assimilation of HF radar currents into a coastal ocean model
+Measurements of HCl and HF above Arizona from 1970 to 2012
+Variability of North Atlantic hurricanes: seasonal versus individual-event features
+Ensemble Kalman filtering with residual nudging
+On Cosmic-Ray-Driven Electron Reaction Mechanism for Ozone Hole and Chlorofluorocarbon Mechanism for Global Climate Change
+A Rayleigh-Brillouin scattering spectrometer for ultraviolet wavelengths
+Finite-amplitude wave propagation in a stratified fluid of variable depth
+Orthonormal Polynomial Approximation of Mineral Water Data with Errors in Both Variables
+Surface air temperature variability in global climate models
+Evidence of nearby supernovae affecting life on Earth
+Triggered convection gravity waves and the MJO: A shallow water model
+Motion Control of a Spinning Disc on Rotating Earth
+HadISD: a quality-controlled global synoptic report database for selected variables at long-term stations from 1973--2011
+Finite-time Blowup for the Inviscid Primitive Equations of Oceanic and Atmospheric Dynamics
+Coupling Onset of Cyclone Upward and Rotation Flows in a Little Bottle
+Detection of turbulent thermal diffusion of particles in numerical simulations
+New observations in transient hydrodynamic perturbations. Frequency jumps intermediate term and spot formation
+Nonlinear problems of complex natural systems: Sun and climate dynamics
+Modes of Growth in Dynamic Systems
+Cosmic-muon flux and annual modulation in Borexino at 3800 m water-equivalent depth
+Trajectory Retrieval and Component Investigations of Southern Polar Stratosphere Based on High Resolution Spectroscopy of Totally Eclipsed Moon Surface
+A framework for the evaluation of turbulence closures used in mesoscale ocean large-eddy simulations
+On the Existence of Shocks in Irradiated Exoplanetary Atmospheres
+Stratocumulus over SouthEast Pacific: Idealized 2D simulations with the Lagrangian Cloud Model
+Ramsauer approach for light scattering on non-absorbing spherical particles and application to the Henyey-Greenstein phase function
+Ultralow frequency acoustic resonances and its potential for mitigating tsunami wave formation
+Meridional overturning circulation: stability and ocean feedbacks in a box model
+Hybrid methodology for hourly global radiation forecasting in Mediterranean area
+Analysis of snowpack properties and structure from TerraSAR-X data based on multilayer backscattering and snow evolution modeling approaches
+Is the Weibull distribution really suited for wind statistics modeling and wind power evaluation?
+A cosmic ray-climate link and cloud observations
+Summer Mesosphere Temperature Distribution from Wide-Angle Polarization Measurements of the Twilight Sky
+Nonlinear chaos in temperature time series: Part I: Case studies
+Non-linear dependence and teleconnections in climate data: sources relevance nonstationarity
+An Empirical Investigation of Scaling Behavior in the Atmospheric Turbulence for Understanding the Underlying Cascade Process
+Causes of an AD 774-775 14C increase
+New dissipation function for weakly turbulent wind-driven seas
+Ground-based near-infrared observations of water vapour in the Venus troposphere
+Quasibreathers in MMT model
+New wind input term consistent with experimental theoretical and numerical considerations
+Interaction of Global-Scale Atmospheric Vortices: Modeling Based on Hamiltonian System for Antipodal Vortices on Rotating Sphere
+Large spiral and target waves: Turbulent diffusion boosts scales of pattern formation
+Direct numerical experiment on measuring of dispersion relation for gravity waves in the presence of condensate
+The Diurnal Temperature Range for Europe - a Search for Cosmic Ray Forbush Decrease manifestations and the DTR periodicities
+Boundary conditions control for a Shallow-Water model
+Optimal Boundary Conditions for ORCA-2 Model
+Examining a solar climate link in diurnal temperature ranges
+Computation of Horizontal Correlation of Sound in Presence of Internal Waves in Deep Water and Long Distances
+MOSE: zooming on the Meso-NH mesoscale model performances at the surface layer at ESO sites (Paranal and Armazones)
+A simple evaluation of global and diffuse luminous efficacy for all sky conditions in tropical and humid climate
+Percolation transition in the kinematics of nonlinear resonance broadening in Charney-Hasegawa-Mima model of Rossby wave turbulence
+Scale Invariant Events and Dry Spells for Medium Resolution Local Rain Data
+Symmetry analysis of a system of modified shallow-water equations
+Boundary conditions for matrix of variations in refractive waveguides with rough bottom
+Symmetry preserving parameterization schemes
+Evaluating Data Assimilation Algorithms
+Invariant discretization schemes for the shallow-water equations
+A recent tipping point in the Arctic sea-ice cover: abrupt and persistent increase in the seasonal cycle since 2007
+Pairing of charged particles in a quantum plasmoid
+Condensation of water vapor in the gravitational field
+On the Relation between Solar Activity and Clear-Sky Terrestrial Irradiance
+Evolution of a barotropic shear layer into elliptical vortices
+No reactive motion arising from condensation
+High-frequency cyclicity in the Mediterranean Messinian evaporites: evidence for solar-lunar climate forcing
+On the applicability of the Hasselmann kinetic equation to the Phillips spectrum
+Predictive use of the Maximum Entropy Production principle for Past and Present Climates
+Characterization of the sodium layer at Cerro Pachon and impact on laser guide star performance
+A nonlinear least squares method for the inverse droplet coagulation problem
+Relativistic runaway electron breakdown and Terrestrial Gamma ray Flashes: GEANT4 simulation
+Avalanches Breathers and Flow Reversal in a Continuous Lorenz-96 Model
+Features of coal dust dynamics at action of differently oriented forces in granular filtering medium
+Stability of Relative Equilibria in the Planar N-Vortex Problem
+On Possible Influence of Space Weather on Agricultural Markets: Necessary Conditions and Probable Scenarios
+Sharp estimates for the global attractor of scalar reaction-diffusion equations with a Wentzell boundary condition
+Dansgaard-Oeschger events: tipping points in the climate system
+Finite volume and pseudo-spectral schemes for the fully nonlinear 1D Serre equations
+Angular distribution of Bremsstrahlung photons and of positrons for calculations of terrestrial gamma-ray flashes and positron beams
+Evaluation of WRF-Sfire Performance with Field Observations from the FireFlux experiment
+A Bayesian spatio-temporal model of panel design data: airborne particle number concentration in Brisbane Australia
+Atmospheric considerations for CTA site search using global models
+Data management and analysis with WRF and SFIRE
+Effective diffusivity of passive scalars in rotating turbulence
+A wave prediction system for real time sea state forecasting in Black Sea
+Why could ice ages be unpredictable?
+Inverse cascade behavior in freely decaying two-dimensional fluid turbulence
+Modelling of a captive unmanned aerial system teledetecting oil pollution on sea surface
+Influence by small dispersive coal dust particles of different fractional consistence on characteristics of iodine air filter at nuclear power plant
+Estimation of Near Surface Wind Speeds in Strongly Rotating Flows
+Multiscale periodicities in aerosol optical depth over India
+Real time simulation of 2007 Santa Ana fires
+The Critical Richardson Number and Limits of Applicability of Local Similarity Theory in the Stable Boundary Layer
+Cosmic ray modulation of infra-red radiation in the atmosphere
+Direct Statistical Simulation of Out-of-Equilibrium Jets
+Concentrations and isotope ratios of helium and other noble gases in the Earth's atmosphere during 1978-2011
+Record occurrence and record values in daily and monthly temperatures
+A new formulation of the atmospheric spectral energy budget with application to two high-resolution general circulation models
+Validating a physics-based back-of-the-envelope climate model with state-of-the-art data
+Energy conservation and gravity waves in sound-proof treatments of stellar interiors: Part II Lagrangian constrained analysis
+Empirical evidence for a double step climate change in twentieth century
+The coupling between internal waves and shear-induced turbulence in stellar radiation zones: the critical layer
+Estimation of soil moisture in paddy field using Artificial Neural Networks
+Reply to Hunter and Brown Discussion of Is there any support in the long term tide gauge data to the claims that parts of Sydney will be swamped by rising sea levels? Coastal Engineering 2012 64:161-167 Coastal Engineering 2013 75:1-3
+Recent variability of the solar spectral irradiance and its impact on climate modelling
+Habitability and Multistability in Earth-like Planets
+3D climate modeling of close-in land planets: Circulation patterns climate moist bistability and habitability
+Understanding the Effect of Atmospheric Density on the Cosmic Ray Flux Variations at the Earth Surface
+Parallel Spherical Harmonic Transforms on heterogeneous architectures (GPUs multi-core CPUs)
+BAKTRAK: Backtracking drifting objects using an iterative algorithm with a forward trajectory model
+The Leeway of Shipping Containers at Different Immersion Levels
+On the Galilean invariance of some dispersive wave equations
+Nonequilibrium thermodynamics of circulation regimes in optically-thin dry atmospheres
+Altimetric measurements of rotating turbulence: cyclone-anticyclone asymmetry inertial and Kelvin waves and spectral characteristics
+Advances in Search and Rescue at Sea
+Towards a Fluctuation Theorem in an Atmospheric Circulation Model
+A variational formulation of vertical slice models
+European wind variability over 140 yr
+Non-linear swept frequency technique for CO2 measurements using a CW laser system
+Wave-wave interactions and deep ocean acoustics
+Neutrino Detection Position Calibration and Marine Science with Acoustic Arrays in the Deep Sea
+The dominant imprint of Rossby waves in the climate network
+Continuous Data Assimilation Using General Interpolant Observables
+Wave Extremes in the North East Atlantic from Ensemble Forecasts
+Interview with Warren Wiscombe on scientific programing and his contributions to atmospheric science tool making
+Buoyancy storms in a zonal stream on the polar beta-plane: experiments with altimetry
+4DVAR by ensemble Kalman smoother
+Multi-scale dynamical analysis (MSDA) of sea level records versus PDO AMO and NAO indexes
+Layered convection as the origin of Saturn's luminosity anomaly
+Improvement of risk estimate on wind turbine tower buckled by hurricane
+Ultimate Meteorological Question from Observational Astronomers: How Good is the Cloud Cover Forecast?
+The relation between the statistics of open ocean currents and the temporal correlations of the wind
+Boussinesq modeling of surface waves due to underwater landslides
+A new model of cosmogenic production of radiocarbon 14C in the atmosphere
+Rocket dust storms and detached dust layers in the Martian atmosphere
+Cosmic-Ray-Driven Reaction and Greenhouse Effect of Halogenated Molecules: Culprits for Atmospheric Ozone Depletion and Global Climate Change
+Towards a system for sea state forecasts in the Bulgarian Black Sea coastal zone: the case of the storm of 07-08 february 2012
+Run-up amplification of transient long waves
+Water Vapour Radiometers for the Australia Telescope Compact Array
+Terrestrial effects of possible astrophysical sources of an AD 774-775 increase in 14C production
+Efficient computation of steady solitary gravity waves
+Present Velocity and Acceleration in Tide Gauge Records Characterized by a Quasi-60 years Periodic Oscillation
+Further investigations into the connection between cosmic rays and climate
+Improved El Ni no-Forecasting by Cooperativity Detection
+How Does the Niagara Whirlpool Get Involved in Niagara River Self-Purification?
+Discussion on common errors in analyzing sea level accelerations solar trends and global warming
+A simple method to downscale daily wind statistics to hourly wind data
+Covariance inflation in the ensemble Kalman filter: a residual nudging perspective and some implications
+Long-memory effects in linear-response models of Earth's temperature and implications for future global warming
+Comments on: Antarctic Automatic Weather Station Program: 30 Years of Polar Observations
+Index for Assessing Water Trophic Status in Semi-Enclosed Cuban Bays. Case Study: Cienfuegos Bay
+On the Effects of Lag-Times in Networks Constructed from Similarities of Monthly Fluctuations of Climate Fields
+On the Roles of the Secondary Circulation in the Formation of Hurricanes
+Suppression of the water ice and snow albedo feedback on planets orbiting red dwarf stars and the subsequent widening of the habitable zone
+Searching for optimal variables in real multivariate stochastic data
+The Universal Aspect Ratio of Vortices in Rotating Stratifi?ed Flows: Experiments and Observations
+Characterization of coherent structures in three-dimensional flows using the finite-size Lyapunov exponent
+Identifying Lagrangian fronts with favourable fishery conditions
+Efficient particle filtering through residual nudging
+Non-linear fate of internal wave attractors
+Can Small Islands Protect Nearby Coasts From Tsunamis? An Active Experimental Design Approach
+1D 4D-VAR data assimilation of lightning with WRFDA system using nonlinear observation operators
+Influence of refraction on wind turbine noise
+Generation of concentration density maxima of small dispersive coal dust particles in horizontal iodine air filter at air-dust aerosol blow
+Distribution of small dispersive coal dust particles and absorbed radioactive chemical elements in conditions of forced acoustic resonance in iodine air filter at nuclear power plant
+Saharan mineral dust outbreaks observed over the North Atlantic island of La Palma in summertime between 1984 and 2012
+Transformation of deep-water methane bubbles into hydrate
+First measurement of the small-scale spatial variability of the rain drop size distribution: Results from a crucial experiment and maximum entropy modeling
+A hierarchy of energy- and flux-budget (EFB) turbulence closure models for stably stratified geophysical flows
+Observation of thundercloud-related gamma rays and neutrons in Tibet
+Modeling high-energy cosmic ray induced terrestrial and atmospheric neutron flux: A lookup table
+Components of multifractality in the Central England Temperature anomaly series
+Environmental Superstatistics
+Dynamics between order and chaos in conceptual models of glacial cycles
+Is there a hot spot of sea-level rise acceleration along the mid-Atlantic United States? A Gaussian process decomposition of tide gauge records
+Hardening and termination of long-duration gamma rays detected prior to lightning
+Continuous Forest Fire Propagation in a Local Small World Network Model
+Stabilizing Cloud Feedback Dramatically Expands the Habitable Zone of Tidally Locked Planets
+Using Data to Tune Nearshore Dynamics Models: A Bayesian Approach with Parametric Likelihood
+Coupled Mesoscale-Large-Eddy Modeling of Realistic Stable Boundary Layer Turbulence
+On the choice of ingredients for a theory of the Ice Ages
+Krypton-85 in the atmosphere
+Features of adsorbed radioactive chemical elements and their isotopes distribution in iodine air filters AU-1500 at nuclear power plants
+Retrieving Cirrus Microphysical Properties from Stellar Aureoles
+Air quality prediction using optimal neural networks with stochastic variables
+Solar and planetary oscillation control on climate change: hind-cast forecast and a comparison with the CMIP5 GCMs
+On the effects of size factor on albedo versus wavelength for light scattered by small particles under Mie and Rayleigh regimes
+Study Of Casleo Clear Sky Aerosol Loads In 2011 From One Year Of Aeronet Quality Assured Data
+Solar Activity during Two Millennia as Estimated from Annual Tree Rings
+Typical atmospheric aerosol behavior at the Cherenkov Telescope Array candidate sites in Argentina
+Multi-horizon solar radiation forecasting for Mediterranean locations using time series models
+The Earth's Equilibrium Climate Sensitivity and Thermal Inertia
+Contextualizing the global relevance of local land change observations
+Statistical significance of rising and oscillatory trends in global ocean and land temperature in the past 160 years
+A Theory of Grain Clustering in Turbulence: The Origin and Nature of Large Density Fluctuations
+Analyzing propagation of low-frequency dissipative oscillations in the upper atmosphere
+Generalisation of Levine's prediction for the distribution of freezing temperatures of droplets: A general singular model for ice nucleation
+Energy- and flux-budget (EFB) turbulence closure model for the stably stratified flows. Part I: Steady-state homogeneous regimes
+Improving the spatial resolution by effective subtraction technique at Irkutsk incoherent scatter radar: the theory and experiment
+Stable Langmuir solitons in plasma with diatomic ions
+The Universal Aspect Ratio of Vortices in Rotating Stratified Flows: Theory and Simulation
+Midair collisions enhance saltation
+Hyperbolic and Elliptic Transport Barriers in Three-Dimensional Unsteady Flows
+The brightness and spatial distributions of terrestrial radio sources
+Cosmogenic nuclide enhancement via deposition from long-period comets as a test of the Younger Dryas impact hypothesis
+The Impact of Orography and Latent Heating on the Location of the Tropical Easterly Jet
+Spectroscopic measurements of a CO2 absorption line in an open vertical path using an airborne lidar
+Remote sensing of seawater and drifting ice in Svalbard fjords by compact Raman LIDAR
+Coherent Lagrangian vortices: The black holes of turbulence
+Numerical study of the generalised Klein-Gordon equations
+The dynamics of internal gravity waves in the ocean: theory and applications
+On the internal gravity waves in the stratified ocean with shear flows
+Ray-based analysis of the interference striation pattern in an underwater acoustic waveguide
+Climate Dynamics: A Network-Based Approach for the Analysis of Global Precipitation
+Fluctuations and seasonality in the Arctic sea ice area: A sudden regime shift in 2007?
+A review of the relevance of the 'CLOUD' results and other recent observations to the possible effect of cosmic rays on the terrestrial climate
+Parametric Excitation of Internal Gravity Waves in Ocean and Atmosphere as Precursors of Strong Earthquakes and Tsunami
+Examining the physical principles behind the motion of moist air: Which expressions are sound?
+An exact axisymmetric spiral solution of incompressible 3D Euler equations
+Kolmogorov complexity spectrum for use in analysis of UV-B radiation time series
+Triboelectric charging of volcanic ash from the 2011 Gr ' i msv o tn eruption
+Paleopressure of Mars' atmosphere from small ancient craters
+Energy- and enstrophy-conserving schemes for the shallow-water equations based on mimetic finite elements
+A Thermal Plume Model for the Martian Convective Boundary Layer
+Comments on the Regional Climate Variability Driven by Foehn Winds in the McMurdo Dry Valleys Antarctica
+A Comparison of Continuous and Stochastic Methods for Modeling Rain Drop Growth in Clouds
+Axisymmetrically Tropical Cyclone-like Vortices with Secondary Circulations
+A New Sensitivity Analysis and Solution Method for Scintillometer Measurements of Area-Averaged Turbulent Fluxes
+Global Climate network evolves with North Atlantic Oscillation phases: Coupling to Southern Pacific Ocean
+Sensitivity uncertainty analyses and algorithm selection for Sea Ice Thickness retrieval from Radar Altimeter
+Influence of Humidity Temperature and Radicals on the Formation and Thermal Properties of Secondary Organic Aerosol (SOA) from Ozonolysis of beta -pinene
+Observations on the flow structures and transport in a warm-core ring in the Gulf of Mexico
+Global Forty-Years Validation of Seasonal Precipitation Forecasts: Assessing El Ni no-Driven Skill
+Assessing the consistency between short-term global temperature trends in observations and climate model projections
+Mesosphere Light Scattering Depolarization During the Perseids Activity Epoch by WAPC Measurements
+Reply to Benestad's comment on Discussions on common errors in analyzing sea level accelerations solar trends and global warming by Scafetta (2013) arXiv:1306.2011
+MOSE: optical turbulence and atmospherical parameters operational forecast at ESO ground-based sites. II: atmospherical parameters in the surface layer 0-30 m
+MOSE: optical turbulence and atmospherical parameters operational forecast at ESO ground-based sites. I: Overview and atmospherical parameters vertical stratification on 0-20 km
+Approximate deconvolution large eddy simulation of a barotropic ocean circulation model
+A fractal climate response function can simulate global average temperature trends of the modern era and the past millennium
+Cloud microphysical effects of turbulent mixing and entrainment
+Origin of atmospheric aerosols at the Pierre Auger Observatory using backward trajectory of air masses
+Approximate deconvolution large eddy simulation of a stratified two-layer quasigeostrophic ocean model
+Vertical Temperature Profiles at Maximum Entropy Production with a Net Exchange Radiative Formulation
+Zonal Flow as Pattern Formation
+Geophysical turbulence and the duality of the energy flow across scales
+Composite analysis with Monte Carlo methods: an example with cosmic rays and clouds
+Does the problem of global warming exist at all? Insight from the temperature drift induced by inevitable colored noise
+Wind and Wave Extremes over the World Oceans From Very Large Forecast Ensembles
+Global Well-posedness of a System of Nonlinearly Coupled KdV equations of Majda and Biello
+Novel measures based on the Kolmogorov complexity for use in complex system behavior studies and time series analysis
+Stochastic superparameterization in quasigeostrophic turbulence
+Monte Carlo simulation of light scattering in the atmosphere and effect of atmospheric aerosols on the point spread function
+On the reliability of Seasonal Climate Forecasts
+Uncovering MIT wind myths through micro-climatological CFD analysis
+Some considerations on skewness and kurtosis of vertical velocity in the convective boundary layer
+Cosmogenic 7Be in ground level air in Rostov-on-Don (Russia) (2001-2011)
+A record of atmospheric 210Pb accumulation in the industrial city
+Discussion on climate oscillations: CMIP5 general circulation models versus a semi empirical harmonic model based on astronomical cycles
+Equations for solar tracking
+Entropy Production and Coarse Graining of the Climate Fields in a General Circulation Model
+Lagrangian transport in a microtidal coastal area: the Bay of Palma island of Mallorca Spain
+Disentangling different types of El Ni no episodes by evolving climate network analysis
+A water level relationship between consecutive gauge stations along Solim oes Amazonas main channel: a wavelet approach
+Investigation of cosmic ray-cloud connections using MISR
+Intraseasonal characterization of tropospheric O3 in the North of the Buenos Aires Province: determining four months cycle and teleconnection evidence
+Modeling of Atmospheric Flow Around a Coastal Cape: Lee Side Story
+Phase relation between global temperature and atmospheric carbon dioxide
+On the comparison between MASS and G-SCIDAR techniques
+Distinguishing the effects of internal and forced atmospheric variability in climate networks
+Polytropic process and tropical Cyclones
+Revealing Relationships among Relevant Climate Variables with Information Theory
+Intercomparison of General Circulation Models for Hot Extrasolar Planets
+Global Regularity for an Inviscid Three-dimensional Slow Limiting Ocean Dynamics Model
+Quantifying the loss of information in source attribution problems using the adjoint method in global models of atmospheric chemical transport
+Invariant parameterization and turbulence modeling on the beta-plane
+Hydrological Cycle over South and Southeast Asian River Basins as Simulated by PCMDI CMIP3 Experiments
+Linking reduced breaking crest speeds to unsteady nonlinear water wave group behavior
+Potential multiple steady-states in the long-term carbon cycle
+A note on linear prediction of large chaotic systems
+Thread-shaped intensity field after light propagation through the convective cell
+Wave turbulence in the two-layer ocean model
+Downscaling of global solar irradiation in R
+Influence of solar and cosmic-ray variability on climate
+Impact of storm risk on Faustmann rotation
+On the semi-annual 27 day variation in geomagnetic activity cloud cover and surface temperature
+Increased insolation threshold for runaway greenhouse processes on Earth like planets
+Multifractality due to long-range correlation in the L-band ionospheric scintillation S4 index time series
+Wavelet-based cascade model for intermittent structure in terrestrial environments
+Qualitative Analysis of the Time-Frequency Signature Induced by a Reflected L-Band Signal from Time Evolving Sea Surfaces
+Local and Global Well-posedness of Strong Solutions to the 3D Primitive Equations with Vertical Eddy Diffusivity
+Wildfire Prediction to Inform Fire Management: Statistical Science Challenges
+Moist convection scheme in Model E2
+Rogue waters
+The reduction of plankton biomass induced by mesoscale stirring: a modeling study in the Benguela upwelling
+Generation of two-dimensional water waves by moving bottom disturbances
+Drag coefficient for the air-sea exchange in hurricane conditions
+Do Finite-Size Lyapunov Exponents Detect Coherent Structures?
+Compatible finite element methods for numerical weather prediction
+Global Well-posedness of Strong Solutions to the 3D Primitive Equations with Horizontal Eddy Diffusivity
+On the definition of a moist-air potential vorticity
+Restricted Equilibrium and the Energy Cascade in Rotating and Stratified Flows
+Numerical modeling of roll structures in mesoscale vortexes over the Black Sea
+On a general definition of the squared Brunt-V a is a l a Frequency associated with the specific moist entropy potential temperature
+Moist-entropic vertical adiabatic lapse rates: the standard cases and some lead towards inhomogeneous conditions
+Results of the four-wave kinetic integral computation for spectra of special forms. The case of Zakharov spectra
+On the computation of moist-air specific thermal enthalpy
+Time dependent intrinsic correlation analysis of temperature and dissolved oxygen time series using empirical mode decomposition
+A test-tube model for rainfall
+Adaptive Mesh Refinement for Storm Surge
+Evidence of two different types of short term solar modulation of regional surface temperature and cloud
+Super- and sub-rotating equatorial jets: Newtonian cooling versus Rayleigh friction
+Comment on: Comment on Mysterious abrupt carbon-14 increase in coral contributed by a comet Yi Liu et al
+A new correlation between solar energy radiation and some atmospheric parameters
+Emergence of large scale structure in planetary turbulence
+A theory for the emergence of coherent structures in beta-plane turbulence
+On the wave energy potential of Western Black Sea shelf
+Advanced sine wave modulation of continuous wave laser system for atmospheric CO2 differential absorption measurements
+Non-classical transport with angular-dependent path-length distributions. 1: Theory
+Evolution of Random Wave Fields in the Water of Finite Depth
+A review of modeling applications using ROMS model and COAWST system in the Adriatic sea region
+On Attracting Lagrangian Coherent Structures
+Definition of a moist-air entropy potential temperature. Application to FIRE-I data flights
+An Astronomer's View of Climate Change
+Nonlinear fast growth of water waves under wind forcing
+Global instability in a Sellers-type model
+First on-sky results of the CO-SLIDAR Cn2 profiler
+Stochastic analysis of ocean wave states with and without rogue waves
+On the concept of exergy and available enthalpy: Application to atmospheric energetics
+Effect of atmospheric environment on the attenuation coefficient of light in water
+On the concept of pseudo-energy of T. G. Shepherd. A close link with exergy functions
+Modelling the spreading of large-scale wildland fires
+Correlations of the first and second derivatives of atmospheric CO2 with global surface temperature and the El Nino-Southern Oscillation respectively
+Influence of solar eclipse of November 3rd 2013 on the total ozone column over Badajoz Spain
+A Gauge Condition for Studying the Origin of Intrinsic Magnetospheres
+Thermodynamic Function of Life
+Thermodynamic Origin of Life
+Cosmic Rays and Terrestrial Life: A Brief Review
+Climate Sensitivity Sea Level and Atmospheric CO2
+Cities as nuclei of sustainability?
+The influence of the meteorological forcing data on the reconstructions of historical storms in the Black Sea
+Improving predictive power of physically based rainfall-induced shallow landslide models: a probabilistic approach
+A recurrence-based technique for detecting genuine extremes in instrumental temperature records
+Beta-plane turbulence: experiments with altimetry
+Nonlinear energy transfers and phase diagrams for geostrophically balanced rotating--stratified flows
+On the linear operation of cloned dynamical systems and its Lyapunov exponents
+Visco-potential flows in electrohydrodynamics
+The controversial early brightening in the first half of 20th century: a contribution from pyrheliometer measurements in Madrid (Spain)
+Prediction and analysis of tides and tidal currents
+Optimal boundary conditions at the staircase-shaped coastlines
+A survey on tidal analysis and forecasting methods for Tsunami detection
+Detiding DART buoy data for real-time extraction of source coefficients for operational tsunami forecasting
+An idealised wave-ice interaction model without subgrid spatial and temporal discretisations
+Surge motion of an ice floe in waves: comparison of theoretical and experimental models
+Remote sensing of clouds and aerosols with cosmic rays
+Atmospheric effects in astroparticle physics experiments and the challenge of ever greater precision in measurements
+Reflection and transmission of ocean wave spectra by a band of randomly distributed ice floes
+An approach for analyzing the ensemble mean from a dynamic point of view
+Dust aerosol clouds and the atmospheric optical depth record over 5 Mars years of the Mars Exploration Rover mission
+AtmoHEAD 2013 workshop Atmospheric Monitoring for High-Energy Astroparticle Detectors
+Bursts in intermittent aeolian saltation
+Dependency of U.S. Hurricane Economic Loss on Maximum Wind Speed and Storm Size
+The available-enthalpy (flow-exergy) cycle. Part-I: introduction and basic equations
+The available-enthalpy (flow-exergy) cycle. Part-II: applications to idealized baroclinic waves
+Causality between time series
+Seasonal trend of AOD and AA ngstr om exponent( alpha) over Indian megacities in varying spatial resolution
+The key physical parameters governing frictional dissipation in a precipitating atmosphere
+Emergence and equilibration of jets in beta-plane turbulence: applications of Stochastic Structural Stability Theory
+Why does air passage over forest yield more rain? Examining the coupling between rainfall pressure and atmospheric moisture content
+Probabilistic Quantitative Precipitation Forecasting Using Ensemble Model Output Statistics
+Methods Of Measurement The Three-Dimensional Wind Waves Spectra Based On The Processing Of Video Images Of The Sea Surface
+On Gaussian Beams Described by Jacobi's Equation
+Amplitude modulation of wind turbine noise
+On the alleged coherence between the global temperature and the sun's movement
+Field theoretical prediction of a property of the tropical cyclone
+Climate predictions: the chaos and complexity in climate models
+Atmospheric multiple scattering of fluorescence light from extensive air showers and effect of the aerosol size on the reconstruction of energy and depth of maximum
+Feasibility of underwater free space quantum key distribution
+Instability of equatorial water waves with an underlying current
+Cosmic rays and changes in atmospheric infra-red transmission
+Spatiotemporal relationships between sea level pressure and air temperature in the tropics
+Regimes of self-organized criticality in the atmospheric convection
+Latent and sensible heat fluxes overestimated and net heat flux underestimated in Lake Victoria
+Water isotopic ratios from a continuously melted ice core sample
+The effects of rotation on a double-diffusive layer in a rotating spherical shell
+EOF analysis of a time series with application to tsunami detection
+On the nonlinear dynamics of the traveling-wave solutions of the Serre equations
+Electrical charging of ash in Icelandic volcanic plumes
+The Pattern Method for Incorporating Tidal Uncertainty Into Probabilistic Tsunami Hazard Assessment (PTHA)
+Future climate trends from a first-difference atmospheric carbon dioxide regression model involving emissions scenarios for business as usual and for peak fossil fuel
+Optimal excitation of two dimensional Holmboe instabilities
+Two Levels of Self-Organization in the Earth Climate System
+Transboundary secondary organic aerosol in western Japan indicated by stable carbon isotope ratio of low volatile water-soluble organic carbon and signal at m z 44 in organic aerosol mass spectra
+Self-organization in the Earth climate system versus Milankovitch-Berger astronomical cycles
+Impact of rotation on stochastic excitation of gravity and gravito-inertial waves in stars
+Phase-field theory of brine entrapment in sea ice: Short-time frozen microstructures
+Deep ocean early warning signals of an Atlantic MOC collapse
+Deepening of the ocean mixed layer at the northern Patagonian continental shelf: a numerical study
+Sensitivity of Displaced-Beam Scintillometer Measurements of Area-Average Heat Fluxes to Uncertainties in Topographic Heights
+Accurately Estimating the State of a Geophysical System with Sparse Observations: Predicting the Weather
+Toward an integrated system for fire smoke and air quality simulations
+Logarithmic Wind Profile: A Stability Wind Shear Term
+An accurate and efficient numerical framework for adaptive numerical weather prediction
+On the effects of circulation sediment resuspension and biological incorporation by diatoms in an ocean model of aluminium
+Millimeter Wave Scattering from Neutral and Charged Water Droplets
+An ab initio variationally computed room-temperature line list for SO3
+Global Warming and Caspian Sea Level Fluctuations
+Wall to Wall Optimal Transport
+Historic Trends in U. S. Drought Forcing in a Warming Climate
+Seeded growth of monodisperse and spherical silver nanoparticles
+Analytical Models of Exoplanetary Atmospheres. I. Atmospheric Dynamics via the Shallow Water System
+An experimental model of reflection and transmission of ocean waves by an ice floe
+Theory and simulations of rotating convection
+Tropical cyclone boundary layer shocks
+In Situ Disdrometer Calibration Using Multiple DSD Moments
+Continuous Data Assimilation with Stochastically Noisy Data
+Redefining the limit dates for the Maunder Minimum
+Deep-water gravity waves: nonlinear theory of wave groups
+Data assimilation of dead fuel moisture observations from remote automated weather stations
+Approximate Stokes Drift Profiles in Deep Water
+Hydrodynamic model of Fukushima-Daiichi NPP Industrial site flooding
+The Shifts Hypothesis - an alternative view of global climate change
+Identify the diapycnical eddy diffusivities by salt fingers and turbulence with vertical microstructure measurements
+A ray mode parabolic equation for shallow water acoustics propagation problems
+Simulation of the 2009 Harmanli fire (Bulgaria)
+The excitation of rogue waves in a variable medium: an experimental study on the interaction of water waves and currents
+Global Climate Modeling of the Martian water cycle with improved microphysics and radiatively active water ice clouds
+The complex singularity of a Stokes wave
+On stratification barotropic tides and secular changes in surface tidal elevations: Two-layer analytical model
+Hyperviscosity and statistical equilibria of Euler turbulence on the torus and the sphere
+Addendum to Coherent Lagrangian vortices: The black holes of turbulence
+Damping of glacial-interglacial cycles from anthropogenic forcing
+Experimental confirmation of long-memory correlations in star-wander data
+Predictability Horizon of Oceanic Rogue Waves
+Soliton Turbulence in Shallow Water Ocean Surface Waves
+Dynamics of vertical ionospheric inhomogeneities over Irkutsk during 06:00-06:20UT 11 03 2011 caused by the Tohoku earthquake
+Downscaling near-surface atmospheric fields with multi-objective Genetic Programming
+An amplitude equation for long nonlinear internal waves in a weak shear flow over topography
+Self-organization of the Earths climate system versus Milankovitch-Berger astronomical cycles
+Log-normal distribution based EMOS models for probabilistic wind speed forecasting
+The Role of Variability in Transport for Large-Scale Flow Dynamics
+Electromagnetic fields induced by surface ring waves in the deep sea
+Stable spatial Langmuir solitons as a model of long-lived atmospheric plasma structures
+Ray-based description of mode coupling by sound speed fluctuations in the ocean
+Data Assimilation by Artificial Neural Networks for an Atmospheric General Circulation Model: Conventional Observation
+Impacts of rainfall weather on urban traffic in beijing: analysis and modeling
+Wind and Wave Extremes over the World Oceans from Very Large Ensembles
+Influence of autocorrelation on the topology of the climate network
+Optical Observations of Meteors Generating Infrasound - I: Acoustic Signal Identification and Phenomenology
+Convective Ripening and Initiation of Rainfall
+Hydrodynamic provinces and oceanic connectivity from a transport network help designing marine reserves
+Global temperatures and sunspot numbers. Are they related? Yes but non linearly. A reply to Gil-Alana et al. (2014)
+On The Quasi-streamfunction Formalism for Waves and Vorticity
+Statistical characterisation of bio-aerosol background in an urban environment
+Super-Droplet Approach to Simulate Precipitating Trade-Wind Cumuli - Comparison of Model Results with RICO Aircraft Observations
+Tracer dispersion in the turbulent convective layer
+Object-oriented implementations of the MPDATA advection equation solver in C Python and Fortran
+libcloudph 0.2: single-moment bulk double-moment bulk and particle-based warm-rain microphysics library in C
+Mathematical and Physical Ideas for Climate Science
+A Numerical Study of Methods for Moist Atmospheric Flows: Compressible Equations
+Multifractal analyses of daily rainfall time series in Pearl River basin of China
+DIY the Integrated Climate Model and its computational performance
+Geometric phases of water waves
+Ensemble Kalman filtering with residual nudging: an extension to state estimation problems with nonlinear observation operators
+The effect of surface buoyancy gradients on oceanic Rossby wave propagation
+Note on specific chiral ensembles of statistical hydrodynamics: order function for transition of turbulence transfer scenarios
+Conceptual design of a tropical cyclone UAV based on the AR-6 Endeavor aircraft
+Artificial Micrometeorites
+Meteorological data for the astronomical site at Dome A Antarctica
+A new SATIRE-S spectral solar irradiance reconstruction for solar cycles 21--23 and its implications for stratospheric ozone
+Predictability of threshold exceedances in dynamical systems
+Quantifying photometric observing conditions on Paranal using an IR camera
+All-sky homogeneity of precipitable water vapour over Paranal
+Ising model for melt ponds on Arctic sea ice
+Surface Shear and Persistent Wave Groups
+Assessing the relationship between spectral solar irradiance and stratospheric ozone using Bayesian inference
+Can the vertical motions in the eyewall of tropical cyclones support persistent UAV flight?
+Experimental and theoretical studies on visible light attenuation in water
+Ensemble Kalman filtering with a divided state-space strategy for coupled data assimilation problems
+Localized vorticity enhancement through superhelical coherent structure in observed tornadic supercells
+Deep-water gravity waves: theoretical estimating of wave parameters
+A Hail Size Distribution Impact Transducer
+Modelling turbulence effects in wildland fire propagation by the randomized level-set method
+The growth of dry convection in the conditionally stable troposphere: Non-adiabatic effects
+Conservation Laws and Bounds on the Efficiency of Wind-Wave Growth
+Dissipative inertial transport patterns near coherent Lagrangian eddies in the ocean
+United Nations Basic Space Science Initiative: 2011 Status Report on the International Space Weather Initiative
+On finite-size Lyapunov exponents in multiscale systems
+Variational Downscaling Fusion and Assimilation of Hydrometeorological States via Regularized Estimation
+Fractal Potential Flows: An Idealized Model for Fully Developed Turbulence
+A measure theoretic approach to linear inverse atmospheric dispersion problems
+Functional derivatives applied to error propagation of uncertainties in topography to large-aperture scintillometer-derived heat fluxes
+Analysis of rainfall seasonality from observations and climate models
+A new framework for climate sensitivity and prediction: a modelling perspective
+Water isotope diffusion rates from the NorthGRIP ice core for the last 16 000 years - glaciological and paleoclimatic implications
+Origin of atmospheric aerosols at the Pierre Auger Observatory using studies of air mass trajectories in South America
+Study of the influence of solar variability on a regional (Indian) climate: 1901-2007
+Downburst Prediction Applications of Meteorological Geostationary Satellites
+Light scattering by hexagonal columns in the discrete dipole approximation
+A continuous stream flash evaporator for the calibration of an IR cavity ring down spectrometer for isotopic analysis of water
+Stochastic Climate Theory and Modelling
+Accounting for model error due to unresolved scales within ensemble Kalman filtering
+Radiative forcings for 28 potential Archean greenhouse gases
+Surface salinity fields in the Arctic Ocean and statistical approaches to predicting anomalies and patterns
+Ribbon Turbulence
+Transition to finger convection in double-diffusive convection
+Effect of Generation of Charged Particles Fluxes by Pulsed Gas Discharge
+Validation of Danish wind time series from a new global renewable energy atlas for energy system analysis
+Flow networks: A characterization of geophysical fluid transport
+Hidden Equilibration Driven Losses in Whitecapping
+Vertically Driven Waves: Energy Transfer Between Gravity Waves Revisited
+Numerical weather prediction in two dimensions with topography using a finite volume method
+Eight-year Climatology of Dust Optical Depth on Mars
+Two-soliton interaction in the framework of modified Korteweg - de Vries equation
+Using the Twentieth Century Reanalysis to assess climate variability for the European wind industry
+Footprints and footprint analysis for atmospheric dispersion problems
+Alternative application for the radiation background in the development of the atlas database of atmospheric radiation
+Comment on The Tropospheric Land-Sea Warming Contrast as the Driver of Tropical Sea Level Pressure Changes by Bayr and Dommenget
+Equivalence relations for Mueller matrix symmetries of laboratory LIDAR and planetary scattering geometries
+Concept of spinsonde for multi-cycle measurement of vertical wind profile of tropical cyclones
+Short-term solar irradiance and irradiation forecasts via different time series techniques: A preliminary study
+Impact of mesoscale eddies on water transport between the Pacific Ocean and the Bering Sea
+Nearshore sticky waters
+The Carbon Cycle as the Main Determinant of Glacial-Interglacial Transitions
+Lagrangian study of surface transport in the Kuroshio Extension area based on simulation of propagation of Fukushima-derived radionuclides
+Nanoemulsions obtained via bubble bursting at a compound interface
+Comparative simulations of the 2011 Tohoku tsunami with MOST and Cliffs
+Analytical Models of Exoplanetary Atmospheres. II. Radiative Transfer via the Two-stream Approximation
+Attraction-Based Computation of Hyperbolic Lagrangian Coherent Structures
+Fanning out of the f -mode in presence of nonuniform magnetic fields
+2D mode equations with the resonant mode interaction
+Submesoscale dispersion in the vicinity of the Deepwater Horizon spill
+Planetary boundary layer depth in Global climate models induced biases in surface climatology
+Mixed finite elements for global tide models
+Geothermal heating enhances atmospheric asymmetries on synchronously rotating planets
+The Idea and Concept of Metos3D: A Marine Ecosystem Toolkit for Optimization and Simulation in 3D
+Deriving the Young-Ben Jelloul model of near-inertial waves by Whitham averaging
+Direct Simulations of Wind-Driven Breaking Ocean Waves with Data Assimilation
+The impact of oceanic heat transport on the atmospheric circulation
+Bispectra of Internal Tides and Parametric Subharmonic Instability
+Drag coefficient for the air-sea exchange: foam impact in hurricane conditions
+Covariant Lyapunov Vectors of a Quasi-geostrophic Baroclinic Model: Analysis of Instabilities and Feedbacks
+Refraction of swell by surface currents
+Lagrangian analysis of the vertical structure of eddies simulated in the Japan Basin of the Japan East Sea
+Role of mesoscale eddies in transport of Fukushima-derived cesium isotopes in the ocean
+Lagrangian study of temporal changes of a surface flow through the Kamchatka Strait
+Trends in storm surge probability of occurrence along the Polish Baltic Sea coast
+The Impact of Oceanic Heat Transport on the Atmospheric Circulation: a Thermodynamic Perspective
+Applying Geospatial Semantic Array Programming for a Reproducible Set of Bioclimatic Indices in Europe
+Projected changes of rainfall seasonality and dry spells in a high concentration pathway 21st century scenario
+Use of GPS network data for HF Doppler measurements interpretation
+Modulational instability in wind-forced waves
+Optimisation of an idealised ocean model stochastic parameterisation of sub-grid eddies
+Comparison and verification of enthalpy schemes for polythermal glaciers and ice sheets with a one-dimensional model
+Reply to Comment by M. Rohloff T. Lapp and J. Vollmer
+Robust Source Localization in a Random Shallow Water Channel
+Nucleation at the contact line observed on nano-textured surfaces
+Temperature variability over the Po Valley Italy according to radiosounding data
+A Generalized Linear Transport Model for Spatially-Correlated Stochastic Media
+Past and future sea-level rise along the coast of North Carolina United States
+The core structure of presolar graphite onions
+The Rise of High Energy Neutrino Astronomy at Horizon
+Anoxia duirng the Late Permian Binary Mass Extinction and Dark Matter
+Origin of the Ocean on the Earth: Early Evolution of Water D H in a Hydrogen-rich Atmosphere
+Comparison of the atmosphere above the South Pole Dome C and Dome A: first attempt
+Atmospheric Consequences of Cosmic Ray Variability in the Extragalactic Shock Model II: Revised ionization levels and their consequences
+Minimum entropy production closure of the photo-hydrodynamic equations for radiative heat transfer
+Optical turbulence forecast: toward a new era of ground-based astronomy
+Empirical analysis of the solar contribution to global mean air surface temperature change
+Impact of turbulence on the stratified flow around small particles
+Tangling clustering instability for small particles in temperature stratified turbulence
+Air pollution forecasting by coupled atmosphere-fire model WRF and SFIRE with WRF-Chem
+Data assimilation of fuel moisture in WRF-SFIRE
+The dynamics of technology diffusion and the impacts of climate policy instruments in the decarbonisation of the global electricity sector
+Coupled Ostrovsky equations for internal waves in a shear flow
+S3T stability of the homogeneous state of barotropic beta-plane turbulence
+Comment on A test-tube model for rainfall by Wilkinson M. EPL 106 (2014) 40001
+Data Assimilation of Satellite Fire Detection in Coupled Atmosphere-Fire Simulation by WRF-SFIRE
+The influence of winter convection on primary production: a parameterisation using a hydrostatic three-dimensional biogeochemical model
+Daily pollution forecast using optimal meteorological data at synoptic and local scales
+Sloshing Model for ENSO
+Data-Driven Prediction of Thresholded Time Series of Rainfall and SOC models
+The significance of trends in long-term correlated records
+Theory of ball lightning
+Resonance enhancement by suitably chosen frequency detuning
+A plethora of generalised solitary gravity-capillary water waves
+Climate Stability of Habitable Earth-like Planets
+Hybrid variation-perturbation method for calculating rovibrational energy levels of polyatomic molecules
+Could the Earth's surface Ultraviolet irradiance be blamed for the global warming? A new effect may exist
+Most probable paths in temporal weighted networks: An application to ocean transport
+Universality of Sea Wave Growth and Its Physical Roots
+General stability criteria for inviscid rotating flow
+Stochastic Structural Stability Theory applied to roll streak formation in boundary layer shear flow
+The apparent surface roughness of moving sand transported by wind
+Analytical model for flux saturation in sediment transport
+Detection of 133 Xe from the Fukushima nuclear power plant in the upper troposphere above Germany
+Flux saturation length of sediment transport
+Climate of Earth-like planets with high obliquity and eccentric orbits: implications for habitability conditions
+Fractal and Multifractal Analysis of the Rise of Oxygen in Earth's Early Atmosphere
+Comparison of Ellison and Thorpe scales from Eulerian ocean temperature observations
+Arctic melt ponds and bifurcations in the climate system
+Time dependences of atmospheric Carbon dioxide fluxes
+Simulations of an offshore wind farm using large eddy simulation and a torque-controlled actuator disc model
+A new run-up algorithm based on local high-order analytic expansions
+Internal wave coupling processes in Earth's atmosphere
+Discussion on the spectral coherence between planetary solar and climate oscillations: a reply to some critiques
+Direct Statistical Simulation of a Jet
+Low-frequency variability and heat transport in a low-order nonlinear coupled ocean-atmosphere model
+Creation of a high spatiotemporal resolution global database of continuous mangrove forest cover for the 21st Century (CGMFC-21): A big-data fusion approach
+Combination of Lidar Elevations Bathymetric Data and Urban Infrastructure in a Sub-Grid Model for Predicting Inundation in New York City during Hurricane Sandy
+Influence of cosmic-ray variability on the monsoon rainfall and temperature
+Incorporating geostrophic wind information for improved space-time short-term wind speed forecasting
+Could the Earth's surface Ultraviolet irradiance be blamed for the global warming? (II) ----Ozone layer depth reconstruction via HEWV effect
+Wave Model and Wave Drift Caused by the Asymmetry of Crest and Trough
+An integrated assessment of the impact of precipitation and groundwater on vegetation growth in arid and semiarid areas
+Monte Carlo method for polarized radiative transfer in gradient-index media
+Jupiter's unearthly jets: a new turbulent model exhibiting statistical steadiness without large-scale dissipation
+Analysis of some solutions to protect the western tombolo of Giens
+Investigation of carbon dioxide phase shift possibility under extreme Antarctic winter conditions
+Information-Theoretic Methods for Identifying Relationships among Climate Variables
+On estimating the return values for wind speed and wind-wave heights
+Using a Normalized Sobolev Norm of the Difference rather than the Difference of Sobolev Norms for Quantitative Surface Comparison
+Long ring waves in a stratified fluid over a shear flow
+Well-balanced and flexible morphological modeling of swash hydrodynamics and sediment transport
+Spatial Variation of the Correlated Color Temperature of Lightning Channel
+Intensity distribution of the parhelic circle and embedded parhelia at low solar elevations: theory and experiments
+Statistical State Dynamics: a new perspective on turbulence in shear flow
+How complex climate networks complement eigen techniques for the statistical analysis of climatological data
+Complexity economic science and possible economic benefits of climate change mitigation policy
+Acceleration of raindrops formation due to tangling-clustering instability in turbulent stratified atmosphere
+Possible Implications of a Vortex Gas Model and Self-Similarity for Tornadogenesis and Maintenance
+On the state dependency of fast feedback processes in (palaeo) climate sensitivity
+Disperse two-phase flows with applications to geophysical problems
+Similarity theory based on the Dougherty-Ozmidov length scale
+Automated detection of coherent Lagrangian vortices in two-dimensional unsteady flows
+Shrunken Locally Linear Embedding for Passive Microwave Retrieval of Precipitation
+Ash plume properties retrieved from infrared images: a forward and inverse modeling approach
+A Low Mach Number Model for Moist Atmospheric Flows
+Optical Observations of Meteors Generating Infrasound - II: Weak Shock Theory and Validation
+Spectral diagonal ensemble Kalman filters
+Atmospheric rivers as Lagrangian coherent structures
+Low time resolution analysis of polar ice cores cannot detect impulsive nitrate events
+Century-Long Monitoring of Solar Irradiance and Earth's Albedo Using a Stable Scattering Target in Space
+Structure of Turbulence in Katabatic Flows below and above the Wind-Speed Maximum
+Computation of Scattering Kernels in Radiative Transfer
+Modeling water waves beyond perturbations
+On Oceanic Rogue Waves
+Assessing influence of some meteorological parameters on airborne particulate matters in the Himalayan hill-station of Darjeeling - A preliminary assessment
+The fluctuation energy balance in non-suspended fluid-mediated particle transport
+Dominant transport pathways in an atmospheric blocking event
+Emergence of non-zonal coherent structures
+Bragg grating rogue wave
+An Efficient Approach for Optical Radiative Transfer Tomography using the Spherical Harmonics Discrete Ordinates Method
+Global detection and analysis of coastline associated rainfall using an objective pattern recognition technique
+Steep sharp-crested gravity waves on deep water
+Fractional Fourier approximations for potential gravity waves on deep water
+Efficient statistical classification of satellite measurements
+Early 21st century snow cover state over the western river basins of the Indus River system
+On the nature of the sea ice albedo feedback in simple models
+Seasonality of the hydrological cycle in major South and Southeast Asian river basins as simulated by PCMDI CMIP3 experiments
+Recovery of ordered periodic orbits with increasing wavelength for sound propagation in a range-dependent waveguide
+Efficient Multigrid Preconditioners for Atmospheric Flow Simulations at High Aspect Ratio
+Nitrate Deposition following an Astrophysical Ionizing Radiation
+Dust in brown dwarfs and extra-solar planets IV. Assessing TiO2 and SiO nucleation for cloud formation modeling
+Adaptive modeling of shallow fully nonlinear gravity waves
+Ecuador's mangrove forest carbon stocks: A spatiotemporal analysis of living carbon holdings and their depletion since the advent of commercial aquaculture
+Hurricane Effects on Mangrove Canopies Observed from MODIS and SPOT Imagery
+Sand transverse dune aerodynamics: 3D Coherent Flow Structures from a computational study
+A Novel Statistical Channel Model for Turbulence-Induced Fading in Free-Space Optical Systems
+Reply to 'Influence of cosmic ray variability on the monsoon rainfall and temperature': a false-positive in the field of solar-terrestrial research
+The representation of boundary currents in a finite element shallow water model
+An early warning indicator for atmospheric blocking events using transfer operators
+Decarbonization and the time-delay between peak CO2 emissions and concentrations
+Seasonal cycle of Precipitation over Major River Basins in South and Southeast Asia: A Review of the CMIP5 climate models data for present climate and future climate projections
+Chaotic Lagrangian transport and mixing in the ocean
+Asynchronous rotation of Earth-like planets in the habitable zone of lower-mass stars
+Direct and Inverse Cascades in the Wind-Driven Sea
+Transient coupling relationships of the Holocene Australian monsoon
+Dynamic Transitions of Quasi-Geostrophic Channel Flow
+Preliminary Investigations on Uncertainty Analysis of Wind-Wave Predictions in Lake Michigan
+Wavelet correlations to reveal multiscale coupling in geophysical systems

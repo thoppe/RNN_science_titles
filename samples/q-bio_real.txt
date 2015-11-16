@@ -1,0 +1,1356 @@
+Evolution and extinction dynamics in rugged fitness landscapes
+A condition for the genotype-phenotype mapping: Causality
+Sentient Networks
+Effects of neutral selection on the evolution of molecular species
+Modelling coevolution in multispecies communities
+Emergence of Rules in Cell Society: Differentiation Hierarchy and Stability
+Diversity Stability Recursivity and Rule Generation in Biological System: Intra-inter Dynamics Approach
+Large-scale evolution and extinction in a hierarchically structured environment
+A dynamical theory of speciation on holey adaptive landscapes
+Rapid parapatric speciation on holey adaptive landscapes
+Life as Complex Systems --- Viewpoint from Intra-Inter Dynamics
+Cooperative mechanism of self-regulation in hierarchical living systems
+Dynamics of clade diversification on the morphological hypercube
+Decline in extinction rates and scale invariance in the fossil record
+Extinction diversity and survivorship of taxa in the fossil record
+Power spectra of extinction in the fossil record
+A Mathematical Model with Modified Logistic Approach for Singly-Peaked Population Processes
+Lattice three-species models of the spatial spread of rabies among foxes
+Extremal Coupled Map Lattices
+Model of self-replicating cell capable of self-maintenance
+Cumulant Dynamics of a Population under Multiplicative Selection Mutation and Drift
+Scaling in a Multispecies Network Model Ecosystem
+Phase Transition in Random Networks with Multiple States
+Models of Extinction: A Review
+Analysis of the optimality principles responsible for vascular network architectonics
+Simple models of evolution and extinction
+Mathematical description of the heat transfer in living tissue (Part I)
+Mathematical description of the heat transfer in living tissue (Part II)
+Intermittent olts of Galactic UV Radiation: Mutagenetic Effects
+Ecosystems from life to the Earth to the Galaxy
+Cross-spectral analysis of physiological tremor and muscle activity. I. Theory and application to unsynchronized EMG
+Cross-spectral analysis of physiological tremor and muscle activity. II. Application to synchronized EMG
+ROC Analysis and a Realistic Model of Heart Rate Variability
+Expansion-modificaction systems: an explanation for long range correlations in DNA
+Discrimination between Healthy and Sick Cardiac Autonomic Nervous System by Detrended Heart Rate Variability Analysis
+Adaptive estimation and control of unstable periodic dynamics in excitable biological systems
+Energy Absorption and Storage in a Hamiltonian System in Partial Contact with a Heat Bath
+Evolution of Multispecificity in an Immune Network
+Topology of Central Pattern Generators: Selection by Chaotic Neurons
+Cellular Automaton Model for Immunology of Tumor Growth
+Escape of a chain molecule over a barrier - the kink mechanism
+Shape anisotropy and Voids
+Odor recognition and segmentation by a model olfactory bulb and cortex
+Random deaths in a computational model for age-structured populations
+Why does a protein fold?
+Physical Questions Posed by DNA Condensation
+Topological and energetic factors: what determines the structural details of the transition state ensemble and on-route intermediates for protein folding? An investigation for small globular proteins
+Reading the three-dimensional structure of a protein from its amino acid sequence
+Correlated percolation patterns in PEF damaged cellular material
+Stabilization destabilization of cell membranes by multivalent ions: Implications for membrane fusion and division
+Statistical Mechanics of Recurrent Neural Networks I. Statics
+Statistical Mechanics of Recurrent Neural Networks II. Dynamics
+Pulling Hairpinned Polymers
+Parametrization of Multiple Pathways in Proteins: Fast Folding versus Tight Transitions
+Force-Induced Melting and Thermal Melting of a Double-Stranded Biopolymer
+Thermodynamical implications of a protein model with water interactions
+Understanding conserved amino acids in proteins
+Coherence in a coupled network: Implication for brain function
+Four-state quantum chain as a model of sequence evolution
+The Emergence of Spatial Complexity in the immune System
+On pinning and snapping of elastic strands
+Thermodynamic Capacity of a Protein
+Kinetic Capacity of a Protein
+A Model for Bone Strength and Osteoporotic Fractures
+A Statistical Mechanical Approach to Combinatorial Chemistry
+Structural and Energetic Heterogeneity in Protein Folding
+Speeding protein folding beyond the Go model: How a little frustration sometimes helps
+Unzipping DNA : A hypothesis on correlation during replication
+Stability Puzzles in Phage Lambda
+Simplification of protein representation from the contact potentials between residues
+Predicting and generating time series by neural networks: An investigation using statistical physics
+Protein Unfolding and the Diffusion Collision Model
+Novel Cholesteric Phase in Dispersions of Nucleic Acids due to Polymeric Chelate Bridges
+Small world patterns in food webs
+Complexity and fragility in ecological networks
+The Folding Thermodynamics and Kinetics of Crambin Using an All-Atom Monte Carlo Simulation
+Simulated emergence of cyclic sexual-asexual reproduction
+Computer Simulations for Biological Ageing and Sexual Reproduction
+Generalized-Ensemble Algorithms for Molecular Simulations of Biopolymers
+Rheology of Semi-dilute Solutions of Calf-thymus DNA
+Introducing Protein Folding Using Simple Models
+Biological Evolution and Statistical Physics
+Nondiffusive heat transfer in muscle tissue. Preliminary results
+ustification of Sexual Reproduction by Modified Penna Model of Ageing
+Bacterial evolution and the Bak-Sneppen model
+Automated assignment of SCOP and CATH protein structure classification from FSSP scores
+Free-Energy Calculations in Protein Folding by Generalized-Ensemble Algorithms
+Macroscopic equations for pattern formation in mixtures of microtubules and motors
+Kinetic non-optimality and vibrational stability of proteins
+Long-Tail Feature of DNA Words Over- and Under-Representation in Coding Sequences
+Neural Propagation of Beliefs
+Decomposition of Heartbeat Time Series: Scaling Analysis of the Sign Sequence
+Excluded Volume in Protein Sidechain Packing
+A dynamical approach to protein folding
+Tempo and mode in quasispecies evolution
+Dielectric Behavior of Nonspherical Cell Suspensions
+Tangled Nature: a model of evolutionary ecology
+Spectral Representation Theory for Dielectric Behavior of Nonspherical Cell Suspensions
+A Study of Sequence Distribution of a Painted Globule as a Model for Proteins with Good Folding Properties
+Understanding hierarchical protein evolution from first principles
+Self-consistent Treatment of Copolymers with Arbitrary Sequences
+Unsupervised learning and adaptation in a model of adult neurogenesis
+Efficiency of DNA replication in the Polymerase Chain Reactio
+Efficiency and persistence in models of adaptation
+Geometrical aspects of protein folding
+Comparative genomics study of inverted repeats in bacteria
+Evolution of networks
+The Mathematical Theory of Molecular Motor Movement and Chemomechanical Energy Transduction
+With a little help of DNA: Morphological diversity of colloidal self-assembly
+Connectivity of neutral networks and structural conservation in protein evolution
+The Onset of Mackey-Glass Leukemia at the Edge of Chaos
+Growing random networks under constraints
+Nonlinear Relaxation in Population Dynamics
+Extremely Dilute Modular Neuronal Networks: Neocortical Memory Retrieval Dynamics
+On Synchronization Persistence and Seasonality in some Spatially Inhomogeneous Models in Epidemics and Ecology
+A new monte carlo algorithm for growing compact Self Avoiding Walks
+Relaxation kinetics of biological dimer adsorption models
+Sidechain Dynamics and Protein Folding
+Extended dynamical range as a collective property of excitable cells
+Neural Representation of Probabilistic Information
+Comparison of the energy histograms and conformations between different models of copolymers on lattice
+Social Effects in Simple Computer Model of Ageing
+Higher-Order Neutral Networks Polya Polynomials and Fermi Cluster Diagrams
+Emergence of highly-designable protein-backbone conformations in an off-lattice model
+Synchronous phase clustering in a network of neurons with spatially decaying excitatory coupling
+Coil-Globule Transition for Regular Random and Specially Designed Copolymers: Monte Carlo Simulation and Self-Consistent Field Theory
+Thermodynamic control and dynamical regimes in protein folding
+Human Genome data analyzed by an evolutionary method suggests a decrease in cerebral protein-synthesis rate as cause of schizophrenia and an increase as antipsychotic mechanism
+Identifying Proteins of High Designability via Surface-Exposure Patterns
+Shake-up and shake-off excitations with associated electron losses in -ray studies of proteins
+Comparable system-level organization of Archaea and Eukaryotes
+Theoretical modeling of prion disease incubation
+Tautomeric Transitions in DNA
+Electrons on the double helix: optical experiments on native DNA
+Realistic modellization for the growth of a yeast colony
+Protein folding simulations with Interacting Growth Walk model
+Temperature- and Force-Induced beta-Sheet Unfolding in an Exactly Solvable Model
+Reply to the Comment by A. Hanke and R. Metzler on Why is the DNA Denaturation Transition First Order?
+Gauge Symmetry and Neural Networks
+Towards A Consistent Modeling Of Protein Thermodynamic And Kinetic Cooperativity: How Applicable Is The Transition State Picture To Folding and Unfolding?
+Anomalous properties of heat diffusion in living tissue caused by branching artery network. Qualitative description
+Dynamical Characteristics of a Hodgkin-Huxley neuron
+Cold and Warm Denaturation of Proteins
+A non extensive approach for DNA breaking by ionizing radiation
+Exact solutions of epidemic models on networks
+Structural transitions in biomolecules - a numerical comparison of two approaches for the study of phase transitions in small systems
+Statistical Physics of Feedforward Neural Networks
+Representational capacity of a set of independent neurons
+Anomalous relaxation kinetics of biological lattice-ligand binding models
+Anomalous Response Variability in a Balanced Cortical Network Model
+Dielectric behavior of oblate spheroidal particles: Application to erythrocytes suspensions
+Transitions in Oscillatory Dynamics of Two Connected Neurons with Excitatory Synapses
+Non-native beta-sheet formation: insights into protein amyloidosis
+Protein folding mediated by solvation: water expelling and formation of the hydrophobic core occurs after the structure collapse
+Design and Folding of Dimeric Proteins
+Molecular dynamics simulation of polymer insertion into lipid bilayers
+Scaling in DNA unzipping models: denaturated loops and end-segments as branches of a block copolymer network
+Topological and geometrical entanglement in a model of circular DNA undergoing denaturation
+Epidemics and immunization in scale-free networks
+A simple model for the relative stabilities of DNA hairpin structure
+Backbone-induced semiconducting behavior in short DNA wires
+Topological complexity contact order and protein folding rates
+Quantum Game Theory
+Theoretical models for single-molecule DNA and RNA experiments: from elasticity to unzipping
+Coupled dynamics of sequence selection and compactification in mean-field hetero-polymers
+Excluded Volume Effects in Gene Stretching
+A simple equation to calculate the diameters of biological vesicles
+The random model for simulation of the growth of small populations
+Mixed states on neural network with structural learning
+How the global structure of protein interaction networks evolves
+A simple model of DNA denaturation and mutually avoiding walks statistics
+Effect of Variable Surrounding on Species Creation
+Damage spreading in the Bak-Sneppen model: Sensitivity to the initial conditions and equilibration dynamics
+A model of large-scale proteome evolution
+Cytoskeleton confinement of red blood cell membrane fluctuations
+The human family tree and the Neandertal branch
+Reply to Comments on Kullback-Leibler and renormalized entropies: Applications to electroencephalograms of epilepsy patients
+Fractal noise maps reveal human brain activity: a key for unbiased fMRI analysis
+Selective advantage of topological disorder in biological evolution
+Duplication Models for Biological Networks
+Short- and Long-Term Statistical Properties of Heartbeat Time-Series in Healthy and Pathological Subects
+Real event detection and the treatment of congestive heart failure: an e fficient technique to help cardiologists to make crucial decisions
+Associative Memory by Recurrent Neural Networks with Delay Elements
+Conductivity and Thickness of DNAs
+Power-law temporal auto-correlations in day-long records of human physical activity and their alteration with disease
+Force-induced unzipping of DNA with long-range correlated sequence
+Managing catastrophic changes in a collective
+Finding Communities of Related Genes
+Stochastic Simulation of Gene Expression in a Single Cell
+Phase transitions in homogeneous biopolymers: basic concepts and methods
+Hydrophobic interaction in the liquid phases of globular protein solutions: structure factor parameters
+The Renormalization Group and the Dynamics of Genetic Systems
+An Electrical Network Model of Plant Intelligence
+A Simple Chaotic Neuron Model : Stochastic Behavior of Neural Networks
+Critical dynamics of DNA denaturation
+Dependence of folding rates on protein length
+Mixed states in a sparsely encoded associative memory model storing ultrametric patterns
+Charge Transport in DNA Segments with fractal structures
+Impact of deviation from precise balance of spike-timing-dependent plasticity
+Self-Organization Active Brownian Dynamics and Biological Applications
+Solvation Effects and Driving Forces for Protein Thermodynamic And Kinetic Cooperativity: How Adequate Is Native-Centric Topological Modeling?
+Conservation laws in biology and evolution their singularities and bans
+DNA denaturation as a new kind of phase transition
+A constant extension ensembles model of double-stranded chain molecules
+Contact Pair Dynamics During Folding of a Model Globular Protein Hp-
+The evolutionary advantage of diploid sex
+Parametrical Neural Network
+Random Networks Growing Under a Diameter Constraint
+Identification of essential and functionally moduled genes through the microarray assay
+Epidemic spreading in complex networks with degree correlations
+Correlation between mutation pressure selection pressure and occurrence of amino acids
+Scaling and universality in ontogenetic growth
+Dynamin recruitment by clathrin coats: a physical step?
+Distribution of infected mass in disease spreading in scale-free networks
+Information weights of nucleotides in DNA sequences
+Understanding the determinants of stability and folding of small globular proteins from their energetics
+Combining Hebbian and reinforcement learning in a minibrain model
+On Design of Optimal Nonlinear Kernel Potential Function for Protein Folding and Protein Design
+Biological universality yields new kind of laws
+Long range interaction yields a new kind of phase transition
+Simple Two-State Protein Folding Kinetics Requires Near-Levinthal Thermodynamic Cooperativity
+Reply to a revised comment on Why is the DNA denaturation transition first order?
+RNA denaturation: excluded volume pseudoknots and transition scenarios
+Dipole relaxation losses in DNA
+Sex and recombination in the H otzel aging model
+Outbreaks of Hantavirus induced by seasonality
+On the role of mismatches in DNA denaturation
+Nonuniform Donnan Equilibrium within Bacteriophages Packed with Dna
+Contact Order Dependent Protein Folding Rates: Kinetic Consequences of a Cooperative Interplay Between Favorable Nonlocal Interactions and Local Conformational Preferences
+Correlation matrix for quartet codon usage
+A Toy Model for Cooperative Phenomena in Molecular Biology and the Utilization of Biochemical Applications of PNS in Genetic Applications
+A chemically driven fluctuating ratchet model for actomyosin interaction
+A stochastic model for the stepwise motion in actomyosin dynamics
+Statics and Dynamics of Condensed DNA within Phages and Globules
+The Design of Life: Information Technology Knapsack and Synprops Used to Engineer the Sequence of Amino Acid Residues in Proteins
+Storage Capacity Diverges with Synaptic Efficiency in an Associative Memory Model with Synaptic Delay and Pruning
+Phase field approach for modeling intracellular dynamics
+Quantification of Sleep Fragmentation Through the Analysis of Sleep-Stage Transitions
+On Sexual contacts and epidemic thresholds models and inference for Sexual partnership distributions
+Focal adhesion: Physics of a Biological Mechano-Sensor
+Electrokinetic behavior of two touching inhomogeneous biological cells and colloidal particles: Effects of multipolar interactions
+Strand separation in negatively supercoiled dna
+Topological thermal instability and the length of proteins
+Folding of Proteins in Go Models with Angular Interactions
+Correspondence between time-evolution dynamics of a tumor and an attractively interacting Bose-Einstein Condensate with feeding and dissipation
+Systematic identification of statistically significant network measures
+Sum rules for free energy and frequency distribution of DNA dinucleotides
+Energetics of Protein Thermodynamic Cooperativity: Contributions of Local and Nonlocal Interactions
+Multi-state neural networks based upon spin-glasses: a biased overview
+Synchronous Dynamics of a Hopfield Model with Random Asymmetric Interactions
+Mechanisms of recoverable prevalence and extinction of viruses on linearly growing scale-free networks
+Far Infrared Sensing Of The Oxidation State Of Heme Proteins
+erogel Protein Substrates for Far Infrared Studies
+Maximisation Principles and Daisyworld
+A novel stochastic Hebb-like learning rule for neural networks
+Bidirectional communication in neural networks moderated by a Hebb-like learning rule
+Towards the Understanding of Stability Puzzles in Phage lambda
+Prediction of Peptide Conformation by the Multicanonical Algorithm
+Solvent-induced organization: A physical model of folding myoglobin
+Nonlinear Localized Excitations and the Dynamics of H-Bonds in DNA
+Protein-Machine model of a single enzymatic reaction
+Self-organized Critical Model Of Biological Evolution
+Efficient Monte Carlo Simulation of Biological Aging
+Influence of Refractory Periods in the Hopfield model
+Experimental Realizations of Integrable Reaction-Diffusion Processes in Biological and Chemical Systems
+Democratic Reinforcement: Learning via Self-Organization
+Design of Proteins with Specified Thermal Properties
+Kinetics of Phase Ordering in a Two-Component Fluid Membrane
+Monte Carlo Simulations of Sexual Reproduction
+Comment on A Criterion that determines foldability of proteins by D. Klimov and D. Thirumalai (PRL v. p. ())
+Relationship Between Structural Fractal and Possible Dynamic Scaling Properties in Protein Folding
+Cooperativity of Protein Folding and the Random-Field Ising Model
+Theory of Kinetic Partitioning in Protein Folding (With Application to Prions)
+How to derive a protein folding potential? A new approach to the old problem
+Solution of the Master Equation for Bak-Sneppen Model of Biological Evolution in Finite Ecosystem
+Factors Governing the Foldability of Proteins
+Suggested Model for the Origin of Mosaic Structure of DNA
+An exactly solved model of biological evolution
+Testing a new Monte Carlo Algorithm for Protein Folding
+A simple ansatz to describe thermodynamic quantities of peptides and proteins at low temperatures
+Dynamics of bilayer membranes. . Isolated membrane
+Elastically coupled molecular motors
+Topological interactions in DNA catenanes
+Twist dynamics of semiflexible polymer
+Elusive Unfoldability: Learning a Contact Potential to Fold Crambin
+Fixation in a cyclic Lotka-Volterra model
+Critical aspects of hierarchical protein folding
+Immune Network: An Example of Complex Adaptive Systems
+Protein Adsorption on Lipid Monolayers at their Coexistence Region
+Theory and Phenomenology of Mixed Amphiphilic Aggregates
+A Deterministic Approach to the Protein Design Problem
+Soliton mediated protein folding
+Species Formation in Simple Ecosystems
+Environmental changes co-extinction and patterns in the fossil record
+Highly Symmetric Neural Networks of Hopfield Type (exact results)
+Protein design: A perspective from simple tractable models
+Cooperativity in Protein Folding: From Lattice Models with Side Chains to Real Proteins
+Factors that Affect the Folding Ability of Proteins
+Phase Diagram and Storage Capacity of Sequence Processing Neural Networks
+Mutual Information of Three-State Low Activity Diluted Neural Networks with Self-Control
+From Neurons to Brain: Adaptive Self-Wiring of Neurons
+Motor Proteins Have Highly Correlated Brownian Engines
+A Minimal Off-Lattice Model for Alpha-helical Proteins
+Testing a New Monte Carlo Strategy for Folding Model Proteins
+Generic Modeling of Chemotactic Based Self-Wiring of Neural Networks
+Life and Death near a Windy Oasis
+Eigen's Error Threshold and Mutational Meltdown in a Quasispecies Model
+Physics of Solutions and Networks of Semiflexible Macromolecules and the Control of Cell Function
+A study of energy minimization techniques applied to protein design
+Fractional Populations in Sex-linked Inheritance
+Selection Mutations and Codon Usage in Bacterial Model
+Analysis of a Population Genetics Model with Mutation Selection and Pleiotropy
+Cellular Automata
+Realistic Models of Biological Motion
+Dynamic Properties of Random Heteropolymer with Correlations in Sequence
+The Folding Funnel Landscape of the Peptide Met-enkephalin
+Optimizing Smith-Waterman alignments
+Hydrodynamics of bacterial motion
+The role of the energy gap in protein folding dynamics
+Neutral evolution of model proteins: diffusion in sequence space and overdispersion
+Protein Foldability and Designability: General Physics and Pretty Chemistry
+Discrete molecular dynamics studies of the folding of a protein-like model
+Fixed points of Hopfield type neural networks
+Entropic Elasticity Cooperative Extensibility and Supercoiling Property of DNA: A Unified Viewpoint
+Cortical Potential Distributions and Cognitive Information Processing
+SOC in a population model with global control
+Protein Design is a Key Factor for Subunit-subunit Association
+Folding Lennard-ones proteins by a contact potential
+Determination of optimal effective interactions between amino acids in globular proteins
+Cold and Warm Denaturation of Hydrophobic Polymers
+Synchronous clusters in a noisy inhibitory neural network
+Fast global oscillations in networks of integrate-and-fire neurons with low firing rates
+Hiking in the energy landscape in sequence space: a bumpy road to good folders
+Self-Organization of Complex Systems
+An evolutionary model for simple ecosystems
+Simulation and Experimental Investigation of Cellular Material Breakage Using the Pulsed Electric Field Treatment
+Ocular dominance patterns in mammalian visual cortex: A wire length minimization approach
+Optimal sizes of dendritic and axonal arbors in a topographic proection
+Binocular disparity can explain the orientation of ocular dominance stripes in primate V
+Self-Assembly in Mixtures of Polymers and Small Associating Molecules
+From Car Parking to Protein Adsorption: An Overview of Sequential Adsorption Processes
+Monte Carlo procedure for protein folding in lattice model. Conformational rigidity
+Generic growth instabilities in one-layered tissue sheets
+Can pulling cause right- to left-handed structural transitions in negatively supercoiled DNA double-helix?
+Stable integration of isolated cell membrane patches in a nanomachined aperture: a step towards a novel device for membrane physiology
+Evolution of Fragments Formed at the Rupture of a Knotted Alkane Molecule
+Generalization in the Hopfield Model
+Conformation changes and folding of proteins mediated by Davidov's soliton
+Instantons in the working memory: implications for schizophrenia
+A Model for Double-Stranded Excitations of DNA
+Self-localization of directed polymers and oppressive population control
+Mixed state on a sparsely encoded associative memory model
+The Penna model for biological ageing on a lattice: spatial consequences of child-care
+Spike-train responses of a pair of Hodgkin-Huxley neurons coupled by excitatory and inhibitory synapses and axons with time delay
+Metastability and nucleation in the dilute fluid phase of a simple model of globular proteins
+Three-state neural network: from mutual information to the hamiltonian
+Correlation over Decomposed Signals: A Non-Linear Approach to Fast and Effective Sequences Comparison
+Fitness Uniform Selection to Preserve Genetic Diversity
+Application of Support Vector Machine to detect an association between a disease or trait and multiple SNP variations
+Predicting RNA Secondary Structures with Arbitrary Pseudoknots by Maximizing the Number of Stacking Pairs
+Covariance Plasticity and Regulated Criticality
+Barnacle: An Assembly Algorithm for Clone-based Sequences of Whole Genomes
+A Representation of Changes of Images and its Application for Developmental Biolology
+Modelling Biochemical Operations on RNA Secondary Structures
+A family of metrics on contact structures based on edge ideals
+SIMMUNE a tool for simulating and analyzing immune system behavior
+Ensembles of Radial Basis Function Networks for Spectroscopic Detection of Cervical Pre-Cancer
+A Mathematical Model Accounting for the Organisation in Multiplets of the Genetic Code
+Wigner-Eckart Theorem in the crystal and the organisation of the genetic code
+Lie Superalgebras and the Multiplet Structure of the Genetic Code I: Codon Representations
+Modeling the influence of TH and TH type cells in autoimmune diseases
+Destruction of CD T Lymphocytes Alone Cannot Account for their Long-term Decrease in AIDS
+The Dynamics of a Vertically Transmitted Disease
+Analysis of a Disease Transmission Model with two Groups of Infectives
+Multiple Equilibria for an SIRS Epidemiological System
+A Note on Applications of Support Vector Machine
+Stochastic spatial models of plant diseases
+Automated tuning of bifurcations via feedback
+A Model of Blood Flow in a Circulation Network
+Control of Spatially Heterogeneous and Time-Varying Cellular Reaction Networks: A New Summation Law
+Biological sequence analysis
+Rhythms of the nervous system: mathematical themes and variations
+Towards Dead Time Inclusion in Neuronal Modeling
+On Reidys and Stadler's metrics for RNA secondary structures
+Towards the Modeling of Neuronal Firing by Gaussian Processes
+Ecological Succession Model
+Estimating Vaccine Coverage by Using Computer Algebra
+Global Stability of McKeithan's Kinetic Proofreading Model for T-Cell Receptor Signal Transduction
+Phenotypical Behavior and Evolutionary Slavery
+The Influence of Predator-Prey Population Dynamics on the Long-term Evolution of Food Web Structure
+A Neural Chaos Model of Multistable Perception
+System-Level Genetic Codes: An Explanation for Biological Complexity
+Coherent Response in a Chaotic Neural Network
+System-Level Genetic Codes Using a Transposable Element-Like Mechanism with Applications to Cancer
+Deterministic site exchange cellular automata model for the spread of diseases in human settlements
+Waiting time to (and duration of) parapatric speciation
+Obtaining single stimulus evoked potentials with Wavelet Denoising
+Microscopic Discrete Proliferating Components Cause the Self-Organized Emergence of Macroscopic Adaptive Features in Biological Systems
+Effective Fitness Landscapes for Evolutionary Systems
+Effect of Mutation and Recombination on the Genotype-Phenotype Map
+Theory of Robustness of Irreversible Differentiation in a Stem Cell System: Chaos hypothesis
+Diversity patterns from ecological models at dynamical equilibrium
+Evolution of genetic code through isologous diversification of cellular states
+The shape of ecological networks
+Stochastic S-I-S-O-E Epidemic Model
+A Theory of Pragmatic Information and Its Application to the Quasispecies Model of Biological Evolution
+Competing Populations in Flows with Chaotic Mixing
+Self-localization of laser induced tumor coagulation limited by heat diffusion through active tissue
+igsaw model of the origin of life
+Complex Systems As Fundamental Theory Of Sports Coaching?
+Modelling Food Webs
+Neutrality: A Necessity for Self-Adaptation
+Spatial Patterns in Chemically and Biologically Reacting Flows
+Mating Instabilities Lead to Sympatric Speciation
+Exact Solutions and hypothesis on Phase Transition in the Polyelectrolite Model of DNA
+Dynamic Relationship between Diversity and Plasticity of Cell types in Multi-cellular State
+The Phase Information Associated to Synchronized Electronic Fireflies
+Adaptive learning and coloniality in birds
+Using of Phenomenological Piecewise Continuous Map for Modeling of Neurons Behaviour
+Selection of Catalysts through Cellular Reproduction
+Survival in the replicator model: Dynamics and statistics
+Emergence of a complex and stable network in a model ecosystem with extinction and mutation
+HebbNets: Dynamic network with Hebbian learning rule
+A model of cardiac tissue as a conductive system with interacting pacemakers and refractory time
+The structure of evolutionary exploration: On crossover buildings blocks and Estimation-Of-Distribution Algorithms
+Learning a world model and planning with a self-organizing dynamic neural system
+Deterministic uncertainty
+Two boundary model for freezing front propagation in biological tissue
+Statistical mechanics of neocortical interactions: Reaction time correlates of the g factor
+Statistical mechanics of neocortical interactions: EEG eigenfunctions of short-term memory
+Statistical mechanics of neocortical interactions: Training and testing canonical momenta indicators of EEG
+Formalizing the gene centered view of evolution
+Scaling in dynamical Turing pattern formation: density of defects frozen into permanent patterns
+Sampling Properties of the Spectrum and Coherency of Sequences of Action Potentials
+On the genealogy of a population of biparental individuals
+Crystalizing the genetic code
+Mechanism of Discordant Alternans in Spatially Homogeneous Tissue
+Signal Selection Based on Stochastic Resonance
+Quasispecies evolution on a fitness landscape with a fluctuating peak
+Optimal Mutation Rates in Dynamic Environments
+Contraction of a Bundle of Actin Filaments:  years after Szent-Gyorgyi
+Optimal Mutation Rates on Static Fitness Landscpes
+Large Scale-Invariant Fluctuations in Normal Blood Cell Counts: A sign of criticality?
+Coherence in a simple network: Implication for brain function
+Damage of cellular material under simultaneous application of pressure and pulsed electric field
+Evolution: The Case of the Glyceraldehyde--Phosphate Dehydrogenase Gene
+Time series model based on global structure of complete genome
+A time series model of CDS sequences in complete genome
+Equations for Stochastic Macromolecular Mechanics of Single Proteins: Equilibrium Fluctuations Transient Kinetics and Nonequilibrium Steady-State
+Theoretical prevision of physical chemical properties of amino acids from genetic code
+Noise Delays Bifurcation in a Positively Coupled Neural Circuit
+A minimum principle in mRNA editing ?
+On Optimality in Auditory Information Processing
+Compound Poisson Statistics and Models of Clustering of Radiation Induced DNA Double Strand Breaks
+Evolutionary conservation of the folding nucleus
+Biology and Thermodynamics: Seemingly-Opposite Phenomena in Search of a Unified Paradigm
+Laser Induced Heat Diffusion Limited Tissue Coagulation: Problem and General Properties
+Nonlinear Dynamics in the Binary DNA RNA Coding Problem
+Elastic wave propagation along DNA
+Mechanism of Anesthetic Action: Oxygen Pathway Perturbation Hypothesis
+Self-adaptive exploration in evolutionary search
+From features to expression: High-density oligonucleotide array analysis revisited
+Statistical Approach to Gene Evolution
+Errors drive the evolution of biological signalling to costly codes
+Compositional representation of protein sequences and the number of Eulerian loops
+From Discrete Protein Kinetics to Continuous Brownian Dynamics: A New Perspective
+On the Doublet Formation in the Flocculation Process of the east Cells
+Stochastic resonance as a collective property of ion channel assemblies
+Phase-Transitions in a model for the formation of herpes simplex ulcers
+Mechanical oscillations at the cellular scale
+Folding DNA into nucleosome and chromatin: dynamics
+Algorithm for Finding Optimal Gene Sets in Microarray Prediction
+Species Orthogonalization
+Finite genome size can halt Muller's ratchet
+Non-Linear Dynamics In Patients With Stable Angina Pectoris
+Maximum pull out force on DNA hybrids
+Molecular Theory of Hydrophobic Effects: She is too mean to have her name repeated.''
+ipf's law in human heartbeat dynamics
+Sucrose Solutions as Prospective Medium to Study the Vesicle Structure: SAS and SANS study
+Correlated noise induced control of prey extinction
+On the barcode functionality of the DNA or The phenomenon of Life in the physical Universe
+Intercellular Communication Via Intracellular Calcium Oscillations
+What is the optimal anthropoid primate diet?
+What does the correlation dimension of the human heart rate measure?
+The control of phenotype: connecting enzyme variation to physiology
+Translocation Properties of Primitive Molecular Machines and Their Relevance to the Structure of the Genetic Code
+Pattern Propagation Speed in Synfire Chains with Excitatory-Inhibitory Couplings
+Long range correlations in DNA sequences
+FAST CARS: Engineering a Laser Spectroscopic Technique for Rapid Identification of Bacterial Spores
+Characteristics of Molecular-biological Systems and Process-network Synthesis
+Geometry of compact tubes and protein structures
+Recoiling DNA Molecule: Simulation Experiment
+Collective Properties of the Exactly Solvable Model of Ion-Channel Assemblies in a Biological Cell Membrane
+The Loss of Multifractality in Migraines
+Determination of Functional Network Structure from Local Parameter Dependence Data
+Simple Mechanical Equivalents of Stepping Rotary Dynamics in F  -ATPase
+A study of accuracy and precision in oligonucleotide arrays: extracting more signal at large concentrations
+A possible role of chemotaxis in germinal center formation
+On size and growth of cells
+Cluster Analysis of Gene Expression Data
+Sensitivity Analysis of Stoichiometric Networks: An Extension of Metabolic Control Analysis to Non-equilibrium Traectories
+On the remote interaction of biological obects with identical genetic structures
+Clustering of SNPs along a chromosome: can the neutral model be reected?
+Thermodynamic and Kinetic Analysis of Sensitivity Amplification in Biological Signal Transduction
+Dynamical investigation of macromolecular hybridization bioassays
+Robustness and Optimality of Light Harvesting in Cyanobacterial Photosystem I
+Hamiltonian model for multidimensional epistasis
+Representative Pathways of Excitation Migration in Photosystem I
+Dynamical Monte Carlo method for stochastic epidemic models
+Equilibrium correlations in a model for multidimensional epistasis
+A Review of Salam Phase Transition in Protein Amino Acids: Implication for Biomolecular Homochirality
+Rapid Determination of Multiple Reaction Pathways in Molecular Systems: The Soft-Ratcheting Algorithm
+Self-assembly in the maor ampullate gland of Nephila clavipes
+A model of memory learning and recognition
+The Biosynthetic Order of Amino Acid Addition to the Genetic Code
+Brownian motion ionic flux catalytic reaction and heterogeneous nucleation in biological systems
+Monitoring of the Membrane Potential in Proteoliposomes with Incorporated Cytochrome-c Oxidase Using the Fluorescent Dye Indocyanine
+Red herrings and rotten fish
+Developing Mathematics for Insight into Sensorimotor Neurobiology
+Threadlike bundle of tubules running inside blood vessels: New anatomical structure
+Method for Observing Intravascular BongHan Duct
+A Problem in Paleobiology
+Changes in the Hurst exponent of heartbeat intervals during physical activities
+Prediction of protein secondary structure based on residue pairs
+Self-Similarity Limits of Genomic Signatures
+Physical limits to biochemical signaling
+Modeling DNA loops using the theory of elasticity
+Levy walk patterns in the foraging movements of spider monkeys (Ateles geoffroyi)
+Investigation by physical methods of the possible role of telomeres in DNA in aging process
+Fractal Rigidity in Migraine
+The Predictive Power of R in an Epidemic Probabilistic System
+The R Approach to Epidemic-non-Epidemic Phases Revisited
+Simplicial edge representation of protein structures and alpha contact potential with confidence measure
+Unbiased simulation of structural transitions in calmodulin
+Non-linear and scale-invariant analysis of the Heart Rate Variability
+Degeneracy in the genetic code and its symmetries by base substitutions
+Does tumor growth follow a 'universal law'?
+Long-Bone Allometry of Terrestrial Mammals and the Geometric-Shape and Elastic-Force Constraints of Bone Evolution
+Analytical description of finite size effects for RNA secondary structures
+A mathematical model for top-shelf vertigo: the role of sedimenting otoconia in BPPV
+On the origin of the deviation from the first order kinetics in inactivation of microbial cells by pulsed electric fields
+Virtual model of the differential pulse calorimeter
+Noise in an insect outbreak model
+Noise in Genotype Selection Model
+Correlated noise in a logistic growth model
+Sliding Mechanism for Actin Myosin System
+Folding of Cu n superoxide dismutase and Familial Amyotrophic Lateral Sclerosis
+Internal Motility in Stiffening Actin-Myosin Networks
+A Possible Mechanism of Biological Memories in terms of Quantum Fluids
+Unexpected trends in termite survival
+A stochastic model for retinocollicular map development
+Free Energy Transduction in a Chemical Motor Model
+Synchronization of active mechanical oscillators by an inertial load
+Numerical Comparisons of Three Recently Proposed Algorithms in the Protein Folding Problem
+Variation of the Energy Landscape of a Small Peptide under a Change from the ECEPP  Force Field to ECEPP 
+A theory for the membrane potential of cells
+Shape Changes of Self-Assembled Actin Bilayer Composite Membranes
+A mathematical model for Neanderthal extinction
+Do Topological Charge Solitons Participate in DNA Activity?
+The Hierarchy of Fast Motions in Protein Dynamics
+First experimental tests of the Peyrard-Bishop model applied to the melting of very short DNAs
+Switching model with two habitats and a predator involving group defence
+The geometry of the Fisher selection dynamics
+Nearly Closed Loops in Biological Systems as Electromagnetic Receptors
+Tertiary structure prediction of C-peptide of ribonuclease A by multicanonical algorithm
+Kinetics properties of voltage induced colicin Ia channels into a lipid bilayer
+Hydrophobic Effects on a Molecular Scale
+Comment on Statistical Mechanics of Membrane-Protein Conformation: A Homopolymer Model
+Systematics of the Genetic Code and Anticode: History Supersymmetry Degeneracy and Periodicity
+A Theory for the Membrane Potential of Living Cells
+Evolution in time-dependent fitness landscapes
+The Genetic Code as a Chronicle of Early Events in the Origin of Life
+Comment on Statistical Mechanics of a Nonlinear Model for DNA Denaturation''
+Elastic Properties of Nematic Liquid Crystals Formed by Living and Migrating Cells
+Receiver-Operating-Characteristic Analysis Reveals Superiority of Scale-Dependent Wavelet and Spectral Measures for Assessing Cardiac Dysfunction
+Effect of histamine on the electric activities of cerebellar Purkine cell
+Collective motion of organisms in three dimensions
+Locomotion and proliferation of glioblastoma cells in vitro: statistical evaluation of videomicroscopic observations
+Statistical properties of spike trains: universal and stimulus-dependent aspects
+Symbols and synergy in a neural code
+Darwinian Aspects of Molecular Evolution at Sublinear Propagation Rates
+Mechanical Aspect of Chirality and its Biological Significance
+Molecular Evolution in Time Dependent Environments
+Limit Cycle Oscillations in Pacemaker Cells
+Conditions for the Formation of Axisymmetric Biconcave Vesicles
+Effects of long-range dispersion in nonlinear dynamics of DNA molecules
+Models for energy and charge transport and storage in biomolecules
+Serine Proteases: an Ab Initio Molecular Dynamics Study
+Some Exact Results of Hopfield Neural Networks and Applications
+Microarrays for Amino Acid Analysis and Protein Sequencing
+Evolutionary implications of a power-law distribution of protein family sizes
+Scale Specific and Scale Independent Measures of Heart Rate Variability as Risk Indicators
+Modelling a Parasystolic Rhythm in a Heart-Transplant Patient
+Rescaled range and transition matrix analysis of DNA sequences
+Dimensions of fractals related to languages defined by tagged strings in complete genomes
+A biological unction with quantum-like characteristics
+Genetic Algorithms in Time-Dependent Environments
+Evaluation of the Extension of the Cerebral Blood Flow and its Main Parameters
+Residue profile in predivergence sequences as a guide to the origin of DNA replication
+Correlation Dimension Maps of EEG from Epileptic Absences
+On the Biological Advantage of Chirality
+A Model of Convergent Extension in Animal Morphogenesis
+Neural Networks with c-NOT Gated Nodes
+DNA Transcription Mechanism with a Moving Enzyme
+Sparsity vs. Statistical Independence in Adaptive Signal Representations: A Case Study of the Spike Process
+The Generalized Spike Process Sparsity and Statistical Independence
+Measurability of side chain rotational isomer populations: NMR and molecular mechanics of cobalt glycyl-leucine dipeptide model system
+In search of an evolutionary coding style
+Epidemic threshold in structured scale-free networks
+Semiclassical Neural Network
+Biased Random-Walk Learning: A Neurobiological Correlate to Trial-and-Error
+Imitation Games
+Chaos as a Source of Complexity and Diversity in Evolution
+Learning and Complexity in Genetic Auto-Adaptive Systems
+On Modelling Life
+Evolutionary Learning in the D Artificial Life System Avida
+Study of a New Neuron
+Mass-extinction: Evolution and the effects of external influences on unfit species
+An Evolutionary Approach to Associative Memory in Recurrent Neural Networks
+Comment on Linguistic Features of Noncoding DNA Sequences
+A Theory of Differentiation with Dynamic Clustering
+Evolutionary Dynamics and Optimization: Neutral Networks as Model-Landscapes for RNA Secondary-Structure Folding-Landscapes
+Self-Organization in Models of Populations with Two-Parent Reproduction on a Rugged Fitness Landscape
+Dynamic Entropies Long--Range Correlations and Fluctuations in Complex Linear Structures
+Evolving Neural Networks with Iterative Learning Scheme for Associative Memory
+A model for evolution and extinction
+Smoothing representation of fitness landscapes - the genotype-phenotype map of evolution
+Dynamical Model for Virus Spread
+Isologous Diversification: A Theory of Cell Differentiation
+Self-organized criticality evolution and the fossil extinction record
+Symmetry Breaking and Adaptation: The Genetic Code of Retroviral Env Proteins
+Spontaneous Origin of Topological Complexity in Self-Organizing Neural Networks
+A model of macroevolution with a natural system size
+Coevolution of Symbiotic Species
+A model of mass extinction
+Mass Extinction in a Simple Mathematical Biological Model
+Stochastic calculus: application to dynamic bifurcations and threshold crossings
+Coherence and clustering in ensembles of neural networks
+Learning from Mistakes
+Emergence of Algorithmic Languages in Genetic Systems
+Self-Adaptation in Evolving Systems
+Codon Bias and Mutability in HIV Sequences
+Symmetry Breaking and Adaptation: Evidence from a Toy Model of a Virus
+Coevolution of membranes and channels: A possible step in the origin of life
+Weakly Chaotic Population Dynamics in Random Ecological Networks
+Controlling Neuronal Noise Using Chaos Control
+On the Integrability and Chaotic behaviour of an ecological model
+Transition between immune and disease states in a cellular automaton model of clonal immune response
+Strange Attractor in Immunology of Tumor Growth
+A Growth Model for Dna Evolution (submitted to Nature)
+Protein Folding and Spin Glass
+Self-Organized Criticality in the Model of Biological Evolution Describing Interaction of Coenophilous and Coenophobous Species
+Dynamics of Random Networks: Connectivity and First Order Phase Transitions
+Mass Extinctions vs. Uniformitarianism in Biological Evolution
+Simple Model of Large Scale Organization in Evolution
+Spontaneous Expulsion of Giant Lipid Vesicles Induced by Laser Tweezers
+Energetics of thermal ratchet models
+Protein Folding Kinetics: Time Scales Pathways and Energy Landscapes in Terms of Sequence Dependent Properties
+Twist-Stretch Elasticity of DNA
+Mapping vesicle shapes into the phase diagram: A comparison of experiment and theory
+Sensitivity to Initial Conditions and Nonextensivity in Biological Evolution
+Conformations of Circular DNA
+A hierarchical scheme for cooperativity and folding in proteins
+Competition in a Fitness Landscape
+On the Kinetic Behavior and Folding Properties of an Off-Lattice Heteropolymer Model
+Actin a model semi-flexible polymer
+Quantitative analysis of a Schaffer collateral model
+Recovery of Protein Structure from Contact Maps
+Neural Networks
+Time ordering in the evolution of information processing and modulation systems
+Protein folding and heteropolymers
+Wilson renormalization of a reaction-diffusion process
+Speciation as Pattern Formation by Competition in a Smooth Fitness Landscape
+How fast can fluids squeeze through micro-pores?
+A Configurational Bias Monte Carlo Method for Linear and Cyclic Peptides
+Gauge theory of things alive and universal dynamics
+Group testing problems in experimental molecular biology
+Gain-induced oscillations in blood pressure
+A quantitative measurement of spatial order in ventricular fibrillation
+Cancer Detection via Determination of Fractal Cell Dimension
+Note on the dynamic instability of microtubules
+Folding pathways of a helix-turn-helix model protein
+On the codon assignment of chain termination signals and the minimization of the effects of frameshift mutations
+Distributions of Triplets in Genetic Sequences
+Poland-Scheraga models and the DNA denaturation transition
+New approach to Monte Carlo calculation of buckling of supercoiled DNA loops
+Morphological Instability and Dynamics of Fronts in Bacterial Growth Models with Nonlinear Diffusion
+Hamming distance geometry of a protein conformational space. Application to the clustering of a  ns molecular dynamics traectory of the HIV- integrase catalytic core
+Modeling diffusion of innovations with probabilistic cellular automata
+Stationarity and Redundancy of Multichannel EEG Data Recorded During Generalized Tonic-Clonic Seizures
+A Note on ipf's Law Natural Languages and Noncoding DNA regions
+Polymer Principles of Protein Calorimetric Two-State Cooperativity
+A Novel Method for Sampling Alpha-Helical Protein Backbones
+Comment on Elasticity Model of a Supercoiled DNA Molecule
+Unzipping dsDNA with a force: scaling theory
+Electronic properties of DNA: structural and chemical influence on the quest for high conductance and charge transfer
+Synapse efficiency diverges due to synaptic pruning following over-growth
+Coarse-grained simulation of polymer translocation through an artificial nanopore
+Neuro-flow Dynamics and the Learning Processes
+Kinetic Partitioning Mechanism as a Unifying Theme in the Folding of Biomolecules
+Kinetics Hydrodynamics and Stochastodynamics of Cellular Structure Coarsening
+The Lack of Long Range Correlations is a Necessary Condition for a Functional Biologically Active Protein
+Master equation approach to protein folding
+Design of Sequences with Good Folding Properties in Coarse-Grained Protein Models
+Identifying the protein folding nucleus using molecular dynamics
+Collectivity in the Brain Sensory Response
+A Modified Equation for Neural Conductance and Resonance
+Efficient pooling designs for library screening
+VLSI layouts and DNA physical mappings
+Large deviations for the Fleming-Viot process with neutral mutation and selection
+Writhing Geometry of Open DNA
+Scaling Laws and Similarity Detection in Sequence Alignment with Gaps
+Discrimination of the Healthy and Sick Cardiac Autonomic Nervous System by a New Wavelet Analysis of Heartbeat Intervals
+A dynamic programming algorithm for RNA structure prediction including pseudoknots
+Physical Parameters for Biconcave Shape Vesicles
+Cell Division Differentiation and Dynamic Clustering
+Self-organized Criticality in Living Systems
+Mutation Accumulation and the Catastrophic Senescence of Pacific Salmon
+Long Range Anticorrelations and Non-Gaussian Behavior of a Leaky Faucet
+Exact Results of the Bit-String Model for Catastrophic Senescence
+Coupled Maps with Growth and Death: An Approach to Cell Differentiation
+Ecological model of extinctions
+Evolution on a Rugged Landscape:Pinning and Aging
+Multiresolution wavelet analysis of heartbeat intervals discriminates healthy patients from those with cardiac pathology
+Statistics of extinction and survival in Lotka-Volterra systems
+Extinction events and species lifetimes in a simple ecological model
+Coupled Oscillators with Chemotaxis
+A simple model for the formation of a complex organism
+Stochastic group selection model for the evolution of altruism
+Evolution dynamics in terraced NK landscapes
+Noise-induced memory in extended excitable systems
+Functional Dynamics I : Articulation Process
+The Importance of Being Discrete - Life Always Wins on the Surface
+Relevance of Dynamic Clustering to Biological Networks
+A simplified model for red cell dynamics in small blood vessels
+Synchronous Behavior of Two Coupled Biological Neurons
+Characterization and control of small-world networks
+Helicoidal model for DNA opening
+A Robust Method for Detecting Interdependences: Application to Intracranially Recorded EEG
+Condensed Matter Physics - Biology Resonance
+Extinction transition in bacterial colonies under forced convection
+Glass Transition Temperature and Fractal Dimension of Protein Free Energy Landscapes
+Exact solution of site and bond percolation on small-world networks
+High Reproduction Rate versus Sexual Fidelity
+Partition Function eros and Finite Size Scaling of Helix-Coil Transitions in a Polypeptide
+Role of Secondary Motifs in Fast Folding Polymers: A Dynamical Variational Principle
+Temporal correlations versus noise in the correlation matrix formalism: an example of the brain auditory response
+Charge-Reversal Instability in Mixed Bilayer Vesicles
+Probing the basins of attraction of a recurrent neural network
+A recurrent neural network with ever changing synapses
+Structural Properties of the Sliding Columnar Phase in Layered Liquid Crystalline Systems
+Structure Factor of a Lamellar Smectic Phase with Inclusions
+Random Networks of Spiking Neurons: Instability in the enopus tadpole moto-neural pattern
+Hydrogen Bonds in Polymer Folding
+Investigation of routes and funnels in protein folding by free energy functional methods
+Generic Criticality in a Model of Evolution
+How native state topology affects the folding of Dihydrofolate Reductase and Interleukin-beta
+Elastic property of single double-stranded DNA molecules: Theoretical study and comparison with experiments
+Energy Storage in a Hamiltonian System in Partial Contact with a Heat Bath
+Exactness of the Annealed and the Replica Symmetric Approximations for Random Heteropolymers
+Analysis of Oscillator Neural Networks for Sparsely Coded Phase Patterns
+Random networks created by biological evolution
+Noise in neurons is message-dependent
+Random replicators with high-order interactions
+Fluctuation-Facilitated Charge Migration along DNA
+Time evolution of the Partridge-Barton Model
+Scale Invariance in the Nonstationarity of Physiological Signals
+Magnitude and Sign Correlations in Heartbeat Fluctuations
+Network of Hydrogen Bonds as a Medium for DNA Interaction in Solvents
+Dynamical chaos and power spectra in toy models of heteropolymers and proteins
+Statistical Analysis of Genealogical Trees for Polygamic Species
+Learning and generation of long-range correlated sequences
+A protein model exhibiting three folding transitions
+Why is the DNA Denaturation Transition First Order?
+Controlling chaos in diluted networks with continuous neurons
+Equilibrium Properties of Temporally Asymmetric Hebbian Plasticity
+Actively Contracting Bundles of Polar Filaments
+Bubble propagation in a helicoidal molecular chain
+Extended Kinetic Models with Waiting-Time Distributions: Exact Results
+On the Dynamics of the Evolution of the HIV Infection
+A Cellular Automata Model for Citrus Variagated Chlorosis
+Entropy concepts and DNA investigations
+Phase transition in a spatial Lotka-Volterra model
+Coiling Instability of Multilamellar Membrane Tubes with Anchored Polymers
+Microscopic Theory of Protein Folding Rates.I: Fine Structure of the Free Energy Profile and Folding Routes from a Variational Approach
+Microscopic Theory of Protein Folding Rates.II: Local Reaction Coordinates and Chain Dynamics
+Replica-exchange multicanonical algorithm and multicanonical replica-exchange method for simulating systems with rough energy landscape
+Group selection models in prebiotic evolution
+Active Fusion and Fission Processes on a Fluid Membrane
+Adaptive learning by extremal dynamics and negative feedback
+Geometry Selects Highly Designable Structures
+Theory of tunable pH sensitive vesicles of anionic and cationic lipids or anionic and neutral lipids
+Phase Behavior of a Simple Model for Membrane Proteins
+Structural Susceptibilities in Toy Models of Proteins
+Scaling in a continuous time model for biological aging
+Application of two-parameter dynamical replica theory to retrieval dynamics of associative memory with non-monotonic neurons
+Dynamic concentration of motors in microtubule arrays
+Putting Proteins back into Water
+Energetic Components of Cooperative Protein Folding
+Comparative statistical analysis of bacteria genomes in word context
+Amino acid classes and the protein folding problem
+The large-scale organization of metabolic networks
+Statistical Analysis of Native Contact Formation in the Folding of Designed Model Proteins
+Noise Effects on the Complex Patterns of Abnormal Heartbeats
+Simulated ecology-driven sympatric speciation
+ang-Lee zeros and the helix-coil transition in a continuum model of polyalanine
+Twirling Elastica: Kinks Viscous Drag and Torsional Stress
+Thermodynamically Important Contacts in Folding of Model Proteins
+Characterization of Sleep Stages by Correlations of Heartbeat Increments
+Solitons and  f Noise in Molecular Chains
+Statistical Mechanics and Visual Signal Processing
+Response Functions Improving Performance in Analog Attractor Neural Networks
+Criticality in Simple Models of Evolution
+A Bit-String Model for Biological Aging
+Elasticity of Semiflexible Biopolymer Networks
+Effective Breather Trapping Mechanism for DNA Transcription
+A New Algorithm for Protein Design
+On the kinks and dynamical phase transitions of alpha-helix protein chains
+How Accurate Must Potentials Be for Successful Modeling of Protein Folding?
+Entropic Barriers Frustration and Order: Basic Ingredients in Protein Folding
+Phase diagram of a semiflexible polymer chain in a theta solvent: application to protein folding
+Multifractal Analysis of the Coupling Space of Feed-Forward Neural Networks
+Interactions between Membrane Inclusions on Fluctuating Membranes
+Diffusion on a hypercubic lattice with pinning potential: exact results for the error-catastrophe problem in biological evolution
+Competing Patterns of Signaling Activity in Dictyostelium discoideum
+Growth in systems of vesicles and membranes
+Is Heteropolymer Freezing Well Described by the Random Energy Model?
+Branching Processes and Evolution at the Ends of a Food Chain
+A Population Genetic Approach to the Quasispecies Model
+Statistical mechanics of a correlated energy landscape model for protein folding funnels
+Chain length scaling of protein folding time
+Traveling-Wave Chemotaxis
+Reply to Comment on Criterion that Determines the Foldability of Proteins
+Entropic Sampling and Natural Selection in Biological Evolution
+Evolution on a smooth landscape
+Why DNA ?
+Landscape Paradigms in Physics and Biology: Introduction and Overview
+Electrostatics of Lipid Bilayer Bending
+Freezing Transition of Compact Polyampholytes
+Dynamically-Stabilized Pores in Bilayer Membranes
+Cooperativity and Stability in a Langevin Model of Protein Folding
+Conformations of Linear DNA
+Morphological Instabilities in a growing east Colony: Experiment and Theory
+Direct Determination of DNA Twist-Stretch Coupling
+Error threshold in the evolution of diploid organisms
+Denaturation of Heterogeneous DNA
+Statics metastable states and barriers in protein folding: A replica variational approach
+Comment on Chain Length Scaling of Protein Folding Time PRL   ()
+Gel-Electrophoresis and Diffusion of Ring-Shaped DNA
+Theory for Characterization of Hippocampal Long-Term Potentiation Induced by Time-Structured Stimuli
+Phase Transitions of Neural Networks
+Categorization by a three-state attractor neural network
+Stability Threshold as a Selection Principle for Protein Design
+A New Monte Carlo Algorithm for Protein Folding
+Stochastic learning in a neural network with adapting synapses
+Folding and Misfolding of Designed Heteropolymer Chains with Mutations
+Viscosity Dependence of the Folding Rates of Proteins
+An exact learning algorithm for autoassociative neural networks with binary couplings
+Elasticity model of a supercoiled DNA molecule
+Elasticity Theory of a Twisted Stack of Plates
+Multifractal analysis of perceptron learning with errors
+A coarse-grained realistic'' model for Protein Folding
+Flexive and Propulsive Dynamics of Elastica at Low Reynolds Numbers
+Dynamics of unbinding of polymers in a random medium
+Non-Hermitian Localization and Population Biology
+New Measurements of DNA Twist Elasticity
+Testing the helix model for protein folding on four simple proteins
+Parisi Phase in a Neuron
+The Modular Structure of Kauffman Networks
+Attractors in fully asymmetric neural networks
+Thermodynamic stability of folded proteins against mutations
+Stability of the replica symmetric solution for the information conveyed by by a neural network
+Phase-locking in weakly heterogeneous neuronal networks
+The topological structure of D disordered cellular systems
+Error threshold in finite populations
+Hard Spheres in Vesicles: Curvature-Induced Forces and Particle-Induced Curvature
+Highly Designable Protein Structures and Inter Monomer Interactions
+Stochastic Feedback and the Regulation of Biological Rhythms
+Equilibrium Chemical Engines
+Non-Markovian Configurational Diffusion and Reaction Coordinates for Protein Folding
+Statistical mechanics of warm and cold unfolding in proteins
+Entropic Elasticity of Twist-Storing Polymers
+Sliding Columnar Phase of DNA-Lipid Complexes
+Hydrophobicity and Unique Folding of Selected Polymers
+Genetic Polymorphism in Evolving Population
+Determination of Interaction Potentials of Amino Acids from Native Protein Structures: Test on Simple Lattice Models
+Effects of Noise in Symmetric Two-Species Competition
+Noise and Periodic Modulations in Neural Excitable Media
+Self-control in Sparsely Coded Networks
+Statics and dynamics of an Ashkin-Teller neural network with low loading
+Inference and Chaos by a Network of Non-monotonic Neurons
+Conformational transitions of heteropolymers in dilute solutions
+Folding Design and Determination of Interaction Potentials Using Off-Lattice Dynamics of Model Heteropolymers
+Bending and Twisting Elasticity: a Revised Marko-Siggia Model on DNA Chirality
+Master equation approach to protein folding and kinetic traps
+Nonstationary Stochastic Resonance in a Single Neuron-Like System
+Nonstationary Stochastic Resonance
+Mapping of mutation-sensitive sites in protein-like chains
+Non-Arrhenius modes in the relaxation of model proteins
+Folding and Aggregation of Designed Proteins
+STM Studies of Synthetic Peptide Monolayers
+Linking Rates of Folding in Lattice Models of Proteins with Underlying Thermodynamic Characteristics
+Retrieval dynamics of neural networks for sparsely coded sequential patterns
+Variational theory for site resolved protein folding free energy surfaces
+Designability thermodynamic stability and dynamics in protein folding: a lattice model study
+Statistical Mechanics of Membrane Protein Conformation: A Homopolymer Model
+Attractor neural networks storing multiple space representations: a model for hippocampal place fields
+Levy-flight spreading of epidemic processes leading to percolating clusters
+Fractal Analysis of Protein Potential Energy Landscapes
+Simple model of self-organized biological evolution as completely integrable dissipative system
+A Self-Assembled Microlensing Rotational Probe
+Lubricating Bacteria Model for Branching growth of Bacterial Colonies
+The kinesin walk: a dynamic model with elastically coupled heads
+Finite-size scaling of the error threshold transition in finite population
+Immunization and Aging: a Learning Process in the Immune Network
+Stability of Designed Proteins Against Mutations
+Lattice-gas model for collective biological motion
+Stretching DNA: Role of electrostatic interaction
+Bending and Base-Stacking Interactions in Double-Stranded Semiflexible Polymer
+Optimally adapted multi-state neural networks trained with noise
+Statistical Properties of Contact Maps
+Geometrically Reduced Number of Protein Ground State Candidates
+A replica approach to the state-dependent synapses neural network
+An Oscillator Neural Network Retrieving Sparsely Coded Phase Patterns
+Mean-Field HP Model Designability and Alpha-Helices in Protein Structures
+The Origin of the Designability of Protein Structures
+Competing Species Dynamics: Qualitative Advantage versus Geography
+Protein folding using contact maps
+Modelling Molecular Motors as Folding-Unfolding Cycles
+Derivation of Hebb's rule
+Oscillator neural network model with distributed native frequencies
+Statistical properties of genealogical trees
+Attractive forces between anisotropic inclusions in the membrane of a vesicle
+Punctuated equilibrium in an evolving bacterial population
+Multi-Self-Overlap Ensemble for protein folding: ground state search and thermodynamics
+Dynamical properties of a randomly diluted neural network with variable activity
+Population Dynamics and Non-Hermitian Localization
+A Hierarchical Approach to Protein Molecular Evolution
+Inclusions induced phase separation in mixed lipid film
+Thermal Noise Can Facilitate Energy Conversion by Ratchet System?
+Statistical Mechanics of Torque Induced Denaturation of DNA
+Energy Landscape of a Model Protein
+Coiling of Cylindrical Membrane Stacks with Anchored Polymers
+Modelling of spatio-temporal patterns in bacterial colonies
+An Analytical Approach to the Protein Designability Problem
+Simple models of proteins with repulsive non-native contacts
+Phase behaviour of a simple model of globular proteins
+Complexation of DNA with Cationic Surfactant
+Statistics of DNA sequences: a low frequency analysis
+Random walks in the space of conformations of toy proteins
+Coexistence of native and denatured phases in a single protein-like molecule
+Protein Ground State Candidates in a Simple Model: An Exact Enumeration
+Capture of the Lamb: Diffusing Predators Seeking a Diffusing Prey
+Early Stages of Homopolymer Collapse
+Multifractality in Human Heartbeat Dynamics
+Stretching Single Domain Proteins: Phase Diagram and Kinetics of Force-Induced Unfolding
+A Model for the Thermodynamics of Globular Proteins
+Fixed Points of Hopfield Type Neural Networks
+N-body Study of Anisotropic Membrane Inclusions: Membrane Mediated Interactions and Ordered Aggregation
+Multiscale analysis of blood pressure signals
+The Ashkin-Teller neural network near saturation
+Capture on High Curvature Region: Aggregation of Colloidal Particle Bound to Giant Phospholipid Vesicles
+Origin of Native Driving Force in Protein Folding
+A History-Dependent Stochastic Predator-Prey Model : Chaos and its Elimination
+Comment on Glassy Transition in a Disordered Model for the RNA Secondary Structure'
+Exact Solution of an Evolutionary Model without Ageing
+Folding in two-dimenensional off-lattice models of proteins
+Delineation of the Native Basin in Continuum Models of Proteins
+Reentrant Condensation of DNA induced by Multivalent Counterions
+The role of long-range forces in the phase behavior of colloids and proteins
+Bi-stability of mixed states in neural network storing hierarchical patterns
+Charge inversion in DNA-amphiphile complexes: Possible application to gene therapy
+Fast Response and Temporal Coding on Coherent Oscillations in Small-World Networks
+Thresholds in layered neural networks with variable activity
+A novel iterative strategy for protein design
+Oscillatory behaviour in a lattice prey-predator system
+A Simple Model for the DNA Denaturation Transition
+Emergence of stable and fast folding protein structures
+Fractals from genomes: exact solutions of a biology-inspired problem
+Simulated Coevolution in a Mutating Ecology
+On the structure pf genealogical trees in the presence of selection
+Theoretical study of collective modes in DNA at ambient temperature
+Sleep-Wake Differences in Scaling Behavior of the Human Heartbeat: Analysis of Terrestrial and Long-Term Space Flight Data
+Multiplicity of species in some replicative systems
+Electrostatic Interaction between Long Rigid Helical Macromolecules at All Interaxial Angles
+Epidemics and percolation in small-world networks
+Mutual information and self-control of a fully-connected low-activity neural network
+Unzipping DNA - towards the first step of replication
+Structurally constrained protein evolution: results from a lattice simulation
+Twirling and Whirling: Viscous Dynamics of Rotating Elastica
+Thermodynamics of Heat Shock Response
+Pathways in Two-State Protein Folding
+On the Critical Capacity of the Hopfield Model
+Lie Superalgebras and the Multiplet Structure of the Genetic Code II: Branching Schemes
+Synchronous Behavior of Two Coupled Electronic Neurons
+Analysis of immune network dynamical system model with small number of degrees of freedom
+Quantification of depth of anesthesia by nonlinear time series analysis of brain electrical activity
+Gause's exclusion principle revisited: artificial modified species and competition
+Origin of complexity in multicellular organisms
+Population dynamics advected by chaotic flows: a discrete-time map approach
+Regularization of Synchronized Chaotic Bursts
+Phase Diagram for the Winfree Model of Coupled Nonlinear Oscillators
+Unicellular algal growth: A biomechanical approach to cell wall dynamics
+Pattern formation of reaction-diffusion system having self-determined flow in the amoeboid organism of Physarum plasmodium
+Stochastic resonance in a model neuron with reset
+Hamiltonian Dynamics of Darwin Systems
+A Simple Model of Evolution with Variable System Size
+A soluble model of evolution and extinction dynamics in a rugged fitness landscape
+Parallel computing and molecular dynamics of biological membranes
+Parallel Tempering Algorithm for Conformational Studies of Biological Molecules
+Universal Statistical Behavior of Neural Spike Trains
+A crystal base for the genetic code
+Cooperative dynamics in auditory brain response
+Characteristic Temperatures of Folding of a Small Peptide
+Wavelet Analysis of Blood Pressure Waves in Vasovagal Syncope
+Quantitative analysis by renormalized entropy of invasive electroencephalograph recordings in focal epilepsy
+Spontaneous curvature-induced dynamical instability of Kirchhoff filaments: Application to DNA kink deformations
+Markov analysis of stochastic resonance in a periodically driven integrate-fire neuron
+Stochastic dynamics simulations in a new generalized ensemble
+Chance and Necessity in Evolution: Lessons from RNA
+Symmetry and Codon Usage Correlations in the Genetic Code
+Exponential Distribution of Locomotion Activity in Cell Cultures
+Collective Motion
+Effect of shape anisotropy on transport in a -dimensional computational model: Numerical simulations showing experimental features observed in biomembranes
+Unbinding of Retinoic Acid from its Receptor Studied by Steered Molecular Dynamics
+Error Thresholds on Dynamic Fittness-Landscapes
+Analytical Rebridging Monte Carlo: Application to cis trans Isomerization in Proline-Containing Cyclic Peptides
+Estimation of light transport parameters in biological media using coherent backscattering
+Force and Motion Generation of Molecular Motors: A Generic Description
+Kullback-Leibler and Renormalized Entropy: Applications to EEGs of Epilepsy Patients
+Metastability of life
+Coherence Resonance and Noise-Induced Synchronization in Globally Coupled Hodgkin-Huxley Neurons
+A twist in chiral interaction between biological helices
+Monte Carlo implementation of supercoiled double-stranded DNA
+DNA transport by a micromachined Brownian ratchet device
+Effective interaction between helical bio-molecules
+The importance of quantum decoherence in brain processes
+Life-time and hierarchy of memory in the dissipative quantum model of brain
+Swarming ring patterns in bacterial colonies exposed to ultraviolet radiation
+A simple model for DNA denaturation
+Mutual Information of Population Codes and Distance Measures in Probability Space
+Phase diagram of force-induced DNA unzipping in exactly solvable models
+Warm and Cold Denaturation in the Phase Diagram of a Protein Lattice Model
+Concerted motion of protons in hydrogen bonds of DNA-type molecules
+Epidemic dynamics and endemic states in complex networks
+Free Energy Self-Averaging in Protein-Sized Random Heteropolymers
+Analytical solution of a model for complex food webs
+Nucleation of the crystalline phase of proteins in the presence of semidilute non-adsorbing polymer
+Dynamic modeling of gene expression data
+Heat Capacity of Protein Folding
+An Unusual Antagonistic Pleiotropy in the Penna Model for Biological Ageing
+Epigenetics as a first exit problem
+Diffusing-wave spectroscopy of nonergodic media
+Robust Patterns in Food Web Structure
+A Stochastic Model of Human Gait Dynamics
+Dynamical scaling of the DNA unzipping transition
+Topological entropy of a stiff ring polymer and its connection to DNA knots
+A theoretical model of neuronal population coding of stimuli with both continuous and discrete dimensions
+Topological Properties of Citation and Metabolic Networks
+Modeling two-state cooperativity in protein folding
+Defensive alliances in spatial models of cyclical population interactions
+Deciphering the folding kinetics of transmembrane helical proteins
+A Multicanonical Molecular Dynamics Study on a Simple Bead-Spring Model for Protein Folding
+Mechanisms underlying sequence-independent beta-sheet formation
+Extinctions in the random replicator model
+Catastrophic senescence of the Pacific salmon without mutation-accumulation
+L 'evy statistics in coding and non-coding nucleotide sequences
+Effect of defects on thermal denaturation of DNA Oligomers
+Complexation of DNA with positive spheres: phase diagram of charge inversion and reentrant condensation
+Field theory for a reaction-diffusion model of quasispecies dynamics
+A Cooperative Stochastic Model of Gene Expression
+Predictability of large future changes in a competitive evolving population
+Lethality and centrality in protein networks
+Designability of lattice model heteropolymers
+Tilt Texture Domains on a Membrane and Chirality induced Budding
+DNA sequence from the unzipping force? : one mutation problem
+RNA Folding and Large N Matrix Theory
+The Web of Human Sexual Contacts
+Behavioral-Independent Features of Complex Heartbeat Dynamics
+Specific Heat upon Aqueous Unfolding of the Protein Interior: A Theoretical Approach
+Response to Invasion by Antigen and Effects of Threshold in an Immune Network Dynamical System Model with a Small Number of Degrees of Freedom
+Immunization of complex networks
+Gompertz law in simple computer model of aging of biological population
+Epidemic outbreaks in complex heterogeneous networks
+Diploid versus Haploid Organisms
+Reversible stretching of homopolymers and random heteropolymers
+Halting viruses in scale-free networks
+Diluted neural networks with adapting and correlated synapses
+The Heumann-Hotzel model for aging revisited
+Statistical and Dynamical Study of Disease Propagation in a Small World Network
+Green fluorescent proteins as optically-controllable elements in bioelectronics
+Memory beyond memory in heart beating: an efficient way to detect pathological conditions
+Elementary Derivative Tasks and Neural Net Multiscale Analysis of Tasks
+Echinocyte Shapes: Bending Stretching and Shear Determine Spicule Shape and Spacing
+Sampling rare events: statistics of local sequence alignments
+Molecular theory of hydrophobic mismatch between lipids and peptides
+Roles of stiffness and excluded volume in DNA denaturation
+Melting and unzipping of DNA
+Nonlinearity-induced conformational instability and dynamics of biopolymers
+Thermodynamics and Kinetics of Folding of a Small Peptide
+Phase diagram for unzipping DNA with long-range interactions
+Applications and Sexual Version of a Simple Model for Biological Ageing
+Percolation and epidemics in a two-dimensional small world
+A model of inversion of DNA charge by a positive polymer: fractionization of the polymer charge
+Statistical properties of contact vectors
+Proteinlike behavior of a spin system near the transition between ferromagnet and spin glass
+Monte Carlo simulation of the transmission of measles: Beyond the mass action principle
+Analysis of DNA chains by means of factorial moments
+The binding dynamics of tropomyosin on actin
+Discrete charge patterns Coulomb correlations and interactions in protein solutions
+Estimating the Strength of an Elastic Network Using Linear Response
+Mechanical denaturation of DNA: existence of a low temperature denaturation
+The spike-timing-dependent learning rule to encode spatiotemporal patterns in a network of spiking neurons
+Protein threading by learning
+New mechanism of membrane fusion
+Emergence of Hierarchy on a Network of Complementary Agents
+Correlation Differences in Heartbeat Fluctuations During Rest and Exercise
+Single Chain Force Spectroscopy: Sequence Dependence
+Mechanical response of random heteropolymers
+Generalized-ensemble simulations of spin systems and protein systems
+Numerical comparison of two approaches for the study of phase transitions in small systems
+Compact phases of polymers with hydrogen bonding
+An optimal Q-state neural network using mutual information
+Self-Segregation vs. Clustering in the Evolutionary Minority Game
+Base pair dynamic assisted charge transport in DNA
+A simple model for the kinetics of packaging of DNA in to a capsid against an external force
+Interaction of proteins in solution from small angle scattering: a perturbative approach
+Folding dynamics of the helical structures in a minimal model
+Punctuated evolution for the quasispecies model
+Retrieval and Chaos in Extremely Diluted Non-Monotonic Neural Networks
+Epidemic dynamics in finite size scale-free networks
+Transient dynamics for sequence processing neural networks
+Force and kinetic barriers in unzipping of DNA
+Gauged Neural Network: Phase Structure Learning and Associative Memory
+Comment on A simple model for DNA denaturation
+Neural Network Model for Apparent Deterministic Chaos in Spontaneously Bursting Hippocampal Slices
+Complementarity and diversity in a soluble model ecosystem
+Killer Geometries in Competing Species Dynamics
+How the Quasispecies Evolution Depends on the Topology of the Genome Space
+The spread of epidemic disease on networks
+The unbinding transition of mixed fluid membranes
+Inversion of DNA charge by a positive polymer via fractionalization of the polymer charge
+The topology of the transcription regulatory network in the yeast S. cerevisiae
+Helicase on DNA: A Phase coexistence based mechanism
+Specificity and stability in topology of protein networks
+Learning by a nerual net in a noisy environment - The pseudo-inverse solution revisited
+Non-monotonic variation with salt concentration of the second virial coefficient in protein solutions
+Helix Formation and Folding in an Artificial Peptide
+Epidemic spreading in correlated complex networks
+Exact Solution of the Munoz-Eaton Model for Protein Folding
+The range of the contact interactions and the kinetics of the Go models of proteins
+Bacterial Evolution and Bak-Sneppen Model
+Self-organization and Mechanical Properties of Active Filament Bundles
+Time delay as a key to Apoptosis Induction in the p Network
+Morphology of axisymmetric vesicles with encapsulated filaments and impurities
+Epidemic thresholds on scale-free graphs: the interplay between exponent and preferential choice
+Extreme self-organization in networks constructed from gene expression data
+Unzipping Dynamics of Long DNAs
+Slow nucleic acid unzipping kinetics from sequence-defined barriers
+Robustness of retrieval properties against imbalance between long-term potentiation and depression of spike-timing-dependent plasticity
+The role of body rotation in bacterial flagellar bundling
+Absence of epidemic threshold in scale-free networks with connectivity correlations
+Atomic Scale Fractal Dimensionality in Proteins
+The Tangled Nature model as an evolving quasi-species model
+Anomalous diffusion on dynamical networks: A model for interacting epithelial cell migration
+Structural Determinant of Protein Designability
+Simulating Male Selfish Strategy in Reproduction Dispute
+Hierarchical organization of modularity in metabolic networks
+Multifractal analysis of DNA walks and trails
+Survival-extinction phase transition in a bit-string population with mutation
+Unzipping Kinetics of Double-Stranded DNA in a Nanopore
+Statistical mechanics of RNA folding: importance of alphabet size
+Linear stability analysis of retrieval state in associative memory neural networks of spiking neurons
+Resistance proof folding-inhibitor drugs
+Adaptation using hybridized genetic crossover strategies
+Colloid-polymer mixtures in the protein limit
+Solution effects and the order of the helix-coil transition in polyalanine
+Structure of the Energy Landscape of Short Peptides
+Role of bulk and of interface contacts in the behaviour of model dimeric proteins
+Oscillations and dynamics in a two-dimensional prey-predator system
+Inter-strand distance distribution of DNA near melting
+A new dimension to Turing patterns
+Folding in lattice models with side chains
+Entropy loss in long-distance DNA looping
+Liquid-liquid phase separation of a surfactant-solubilized membrane protein
+The Social Behavior and the Evolution of Sexually Transmitted Diseases
+Design of Toy Proteins Capable to Rearrange Conformations in a Mechanical Fashion
+A nonlinear dynamical model of human gait
+A model for the force stretching double-stranded chain molecules
+DNA uptake into nuclei: Numerical and analytical results
+Reparametrizing loop entropy weights: Effect on DNA melting curves
+Evolutionary Minority Games: the benefits of imitation
+A possible mechanism for cold denaturation of proteins at high pressure
+Phase transitions in some epidemic models defined on small-world networks
+Origin of Scaling Behavior of Protein Packing Density: A Sequential Monte Carlo Study of Compact Long Chain Polymers
+Interactions between proteins bound to biomembranes
+On the formation of caveolae and similar membrane invaginations
+From polymers to proteins -- novel phases of short compact tubes
+Buffed energy landscapes: Another solution to the kinetic paradoxes of protein folding
+DNA unzipped under a constant force exhibits multiple metastable intermediates
+Chromatin dynamics: Nucleosomes go mobile through twist defects
+Elastic interaction between hard'' or soft pointwise inclusions on biological membranes
+Origins of Chevron Rollovers in Non-Two-State Protein Folding Kinetics
+Stochastic Modelling Approach to the Incubation Time of Prionic Diseases
+Structure optimization in an off-lattice protein model
+Networks in life: Scaling properties and eigenvalue spectra
+Properties of highly clustered networks
+Biology helps you to win a game
+Epidemic spreading with immunization and mutations
+Mean first passage time analysis reveals rate-limiting steps parallel pathways and dead ends in a simple model of protein folding
+Onset of DNA Aggregation in Presence of Monovalent and Multivalent Counterions
+Diffusion limited friendship network: A model for six degrees of separation
+Epidemic processes with immunization
+An Effective Membrane Model of the Immunological Synapse
+Universality and Shannon entropy of codon usage
+Equilibrium Distribution of Mutators in the Single Fitness Peak Model
+Multicanonical Chain Growth Algorithm
+Characterizing Width Uniformity by Wave Propagation
+Bubble dynamics in DNA
+Particle Dispersion on Rapidly Folding Random Hetero-Polymers
+Theory of Melting and the Optical Properties of Gold DNA Nanocomposites
+Information Flow in Social Groups
+A spherical Hopfield model
+A food-web based unified model of macro - and micro- evolution
+Recurrent biological neural networks: The weak and noisy limit
+Recoverable prevalence in growing scale-free networks and the effective immunization
+Biologically inspired learning in a layered neural net
+Protein Evolution within a Structural Space
+Modeling DNA Structure Elasticity and Deformations at the Base-pair Level
+The Error and Repair Catastrophes: A Two-Dimensional Phase Diagram in the Quasispecies Model
+DNA Spools under Tension
+Folding Mechanism of Small Proteins
+A Complex Network Approach to Topographical Connections
+An Analytical Approach to Neuronal Connectivity
+Biased Metropolis Sampling for Rugged Free Energy Landscapes
+When translocation dynamics becomes anomalous
+The internal states of active inclusions and the dynamics of an active membrane
+Simple Models of Plant Learning and Memory
+Adsorption of mono- and multivalent cat- and anions on DNA molecules
+Helicase activity on DNA as a propagating front
+Behavior of tumors under nonstationary theraphy
+Information decomposition of symbolic sequences
+Differentiation and Replication of Spots in a Reaction Diffusion System with Many Chemicals
+A Simple Model of Epidemics with Pathogen Mutation
+Large extinctions in an evolutionary model: The role of innovation and keystone species
+Dynamics of a simple evolutionary process
+An Epidemic Model on Small-World Networks and Ring Vaccination
+A model for predation pressure in colonial birds
+Small-scale structure of nonlinearly interacting species advected by chaotic flows
+Modeling of Spiking-Bursting Neural Behavior Using Two-Dimensional Map
+Multiple mechanisms of spiral wave breakup in a model of cardiac electrical activity
+Applicability of the Fisher Equation to Bacterial Population Dynamics
+Non-local Interaction Effects on Pattern Formation in Population Dynamics
+Promiscuity and the Evolution of Sexual Transmitted Diseases
+Self-organization of hierarchical structures in nonlocally coupled replicator models
+Protein Folding Simulations in a Deformed Energy Landscape
+Statistical mechanics of neocortical interactions: Canonical momenta indicators of electroencephalography
+Statistical mechanics of neocortical interactions: High resolution path-integral calculation of short-term memory
+The Genetic Code as a Periodic Table: Algebraic Aspects
+Nonlinear denoising of transient signals with application to event related potentials
+Rupture of multiple parallel molecular bonds under dynamic loading
+Is there a universality of the helix-coil transition in protein models?
+Spatial-temporal correlations in the process to self-organized criticality
+Auditory Sensitivity Provided by Self-tuned Critical Oscillations of Hair Cells
+Noise-based switches and amplifiers for gene expression
+Symmetry breaking and coarsening in spatially distributed evolutionary processes including sexual reproduction and disruptive selection
+Stochastic Resonance in Neuron Models: Endogenous Stimulation Revisited
+Modeling study on the validity of a possibly simplified representation of proteins
+Correlation property of length sequences based on global structure of complete genome
+Theory of periodic swarming of bacteria: application to Proteus mirabilis
+Minimum Entropy Aproach to Word Segmentation Problems
+Statistically Significant Strings are Related to Regulatory Elements in the Promoter Regions of Saccharomyces cerevisiae
+One way to Characterize the compact structures of lattice protein model
+Balanced Branching in Transcription Termination
+Spherical harmonic decomposition applied to spatial-temporal analysis of human high-density EEG
+Codon Distributions in DNA
+Optimality of the genetic code with respect to protein stability and amino acid frequencies
+The coherent dynamics of photoexcited green fluorescent proteins
+Designer Gene Networks: Towards Fundamental Cellular Control
+Phenomenological Theory of Survival
+Geometric and Statistical Properties of the Mean-Field HP Model the LS Model and Real Protein Sequences
+A simple atomistic model for the simulation of the gel phase of lipid bilayers
+Nonequilibrium phase transitions in a model for the origin of life
+Folding thermodynamics of model four-strand antiparallel beta-sheet proteins
+Rippling patterns in aggregates of myxobacteria arise from cell-cell collisions
+Quantum Field Theory and Phylogenetic Branching
+Multifractal characterisation of length sequences of coding and noncoding segments in a complete genome
+Multifractal characterisation of complete genomes
+Measure representation and multifractal analysis of complete genomes
+A Sucrose Solution Application to the Study of Model Biological Membranes
+Phase Transition of DNA-Linked Gold Nanoparticle
+DNA hybridization to mismatched templates: a chip study
+Scaling Properties of Fluctuations in Human Electroencephalogram
+Adaptive sampling by information maximization
+Solvation model dependency of helix-coil transition in polyalanine
+Microspectroscopy and Imaging in the THz Range Using Coherent CW Radiation
+Statistical Geometry of Packing Defects of Lattice Chain Polymer from Enumeration and Sequential Monte Carlo Method
+Class of self-limiting growth models in the presence of nonlinear diffusion
+On the nonlinear dynamics of topological solitons in DNA
+Molecular gyroscopes and biological effects of weak ELF magnetic fields
+Sum rules of codon usage probabilities
+Insulating behavior of lambda-DNA on the micron scale
+A model for mutation in bacterial populations
+Nucleosome repositioning via loop formation
+Recognition of an organism from fragments of its complete genome
+Information Optimization in Coupled Audio-Visual Cortical Maps
+Solving the riddle of the bright mismatches: hybridization in oligonucleotide arrays
+A stochastic model for heart rate fluctuations
+Protein induced morphological transitions in KCl crystal growth
+Atomic Force Microscopy of height fluctuations of fibroblast cells
+Observation of Mammalian Similarity Through Allometric Scaling Laws
+An evolution equation of the population genetics: relation to the density-matrix theory of quasiparticles with general dispersion laws
+ipf's Law in Gene Expression
+Resonant helical deformations in nonhomogeneous Kirchhoff filaments
+Simplified amino acid alphabets based on deviation of conditional probability from random background
+Distances and classification of amino acids for different protein secondary structures
+Perfect and near perfect adaptation in a model of bacterial chemotaxis
+Hierarchical population model with a carrying capacity distribution
+A Diffusion-Based Approach to Geminate Recombination of Heme Proteins with Small Ligands
+Spectral Statistics of RR Intervals in ECG
+A model of population dynamics - further investigations
+Wavelet analysis of epileptic spikes
+Growth Velocities of Branched Actin Networks
+The Active Traveling Wave in the Cochlea
+Modeling extracellular field potentials and the frequency-filtering properties of extracellular space
+Instabilities in the transient response of muscle
+Control of cardiac alternans in a mapping model with memory
+Universal behavior of localization of residue fluctuations in globular proteins
+Stability of Negative Image Equilibria in Spike-Timing Dependent Plasticity
+Analysis of the intraspinal calcium dynamics and its implications on the plasticity of spiking neurons
+Two adaptation processes in auditory hair cells together can provide an active amplifier
+Multiple Folding Pathways of the SH domain
+Motion of rotatory molecular motor and chemical reaction rate
+A Microscopic Mechanism for Muscle's Motion
+A Growth Model for Multicellular Tumor Spheroids
+Fast Quantum Search Algorithms in Protein Sequence Comparison - Quantum Biocomputing
+Distributed Self-regulation Induced by Negative Feedbacks in Ecological and Economic Systems
+Dreams endocannabinoids and itinerant dynamics in neural networks: re elaborating Crick-Mitchison unlearning hypothesis
+Generalized Ensemble Simulations for Complex Systems
+Neural Networks with Finite Width Action Potentials
+Instability and Sausage-String' Appearance in Blood Vessels during High Blood Pressure
+A Stochastic Analysis of a Brownian Ratchet Model for Actin-Based Motility and Integrate-and-Firing Neurons
+Emergent global oscillations in heterogeneous excitable media: The example of pancreatic beta cells
+Labyrinthine Turing Pattern Formation in the Cerebral Cortex
+A layered neural network with three-state neurons optimizing the mutual information
+Recurrence quantification analysis as a tool for the characterization of molecular dynamics simulations
+The future is noisy: on the role of spatial fluctuations in genetic switching
+Comment on Why is the DNA denaturation transition first order?
+Using Nonlinear Response to Estimate the Strength of an Elastic Network
+Linearity and Scaling of a Statistical Model for the Species Abundance Distribution
+Power of the power-laws: lessons from unification of small and large time scales for evolution
+A steepest descent calculation of RNA pseudoknots
+On a common circle: natural scenes and Gestalt rules
+On the Informativeness of the DNA Promoter Sequences Domain Theory
+Analysis of Three-Dimensional Protein Images
+Individual-based lattice model for spatial spread of epidemics

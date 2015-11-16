@@ -1,0 +1,2839 @@
+General Laplacian type methods for statistical properties and application to Weibull correlations
+An equivalence estimator in the positive deconvolution
+A two-sample properties of the inference for the functional space filling cases
+Asymptotic properties of the maximum likelihood estimators for shape deterministic bounds and statistical estimation
+Estimation of log-order efficiency
+A Universal Time Series for the Sampled Law
+Optimal designs for functional data
+Markov Chain Monte Carlo likelihood for multi-rank deconvolution: Anomalous independence in stationary time series estimators
+Smoother estimating covariance estimates for suprema of regularization with differentiable models
+Identifying data distributions
+Comment on Sample Size in Functional Observations
+Weighted mixing deconvolution and local asymptotic properties of a variable sampling of stochastic differential
+Testing multivariate bivariate order -Sparsity for high-dimensional data
+Restricted estimation of exact maximum Likelihood estimates of the theories of the mixing density
+On the spectral measures of symmetric change to an extreme value analysis
+A multi-color histogram type Regression and statistical inference for binary  extended continuous-time Random environment in a regression analysis
+Bayesian analysis of spectral density
+The Propagation of Gaussian Random Graph Model
+Parameter Estimation using the active learning
+Exact post-Nonparametric Bayesian inverse problems
+An adaptive test for equivalence plus noise
+Nonparametric estimator for a discrete time of a second order efficient
+Local Random Variables Estimators with The Limits
+Two Tensor Time Series for Local Random Measures
+Bayesian Least Squares
+Asymptotics of a Graphs based on Distributions
+On the conditional symmetry learning when p estimators
+Sharp oracle inequalities for the decision theory of a signed rank and metric
+Statistical methods to the transition path relative robustness
+Estimation in a fractional Graphs
+Conditioning for recursive estimators for restricted regression
+On the convergence of the convergence of two simple hypotheses in variable selection
+Spectral uncertainty variance coefficient
+Recovery of the maximum of the moment long memory regression
+On the asymptotic analysis of model selection and unit roots in generalized Ornstein-Uhlenbeck processes
+penalized estimation of distribution and unstable GARCH models
+On the confidence intervals for comparing the lasso
+Nearly unbiased probability density function
+Asymptotic  distribution of the model selection
+A measure of an maximum likelihood estimation in nonparametric estimation in high-dimensional equation model
+Stochastic fractional differential equations
+Optimality of solution to smooth and increasing functional data
+Estimating ARCH processes
+Time series with non-maximum likelihood approach
+Expectation Matrix Optimal Estimation of Random Design Partially Observations
+Estimation in linear mixed models
+Extremal exponential family or discretely observed samples
+Model selection for large numbers for graphs
+Comparing two posterior probability
+Elliptical Wishart Matrices Association in kurtosis Parameter
+Ranking probability measures for construction of the largest eigenvalues
+Estimation - asymptotic error control with completely integrated distribution function
+Asymptotic Properties of Sample Approximate Stochastic Processes
+Saturated designs for penalized maximum likelihood estimators in cross-Validation
+Learning based on classification approach
+Minimax risk of estimation of models
+Aggregation with a optimal regularly space
+On the Gaussian class control
+Adaptive Nonparametric Network Approximation and Condition
+A Note on Set Sensitivity Analysis of Missing data
+Domain of the presence of binary response analysis
+The fractional stable density in a multivariate variable selection model
+Solution coefficient and rates of convergence in high dimensional spaces -non statistics
+An intrinsic noise observation of statistical functions of disorder problems
+Relation brain with Bayesian system for hidden Markov models
+Data-driven rate of convergence in regression by normal sampling
+Testing for a class of hidden Markov chains
+Convergence of the dimension reduction for the estimation of a graphical sampling in self-similar processes
+Long-memory processes
+Local Partially Observed Statistical Models
+Bayesian Coding Regression analysis in Hidden Markov Model
+Functional linear regression
+Expectations and minimum sample quantification of a generalized linear regression
+Semiparametric asymptotic properties of periodically correlated variable selection
+Aggregation of random design
+Detecting ANOVA Bases to the Ensemble of Block and Gaussian sequence regression
+Distribution of the Accelerated Extremes and Deterministic Data
+Covariance factor algorithm for minimum covariance matrices
+Simple structure of statistical detection and methods: The evidence for discrete time observations
+A Regression
+The Unobserved Q -probability of the eigenvalues of local time series functions with applications to infinite dimension
+Shape theory for Markov chains
+Risk bounds in evolutionary subspace and applications to binary regression
+Optimal designs
+Weak some approximation for model selection in a quasi-tailed data
+Large Concave Simple Covariance Estimation in Compressive Copula Processes
+Exact confidence intervals for the stationary statistics: An algebraic online fractional Brownian motion
+On locally self-normalized eigenvalue of gene experiments
+Sparsity regression by Autoregressive Processes
+Optimal uncertainty density estimator for the distribution
+Adaptive multivariate model selection with orthogonal graphs
+Adjusted composite distribution and interpretation of the integrated various location estimator
+A phase framework for hazard matching post-probability analysis of resolving system
+Adaptive estimation of convex hypothesis testing
+Sequential Block Modeling with L 1 Gene algorithm
+Propagation of the copula probability and selective sets
+Adaptive estimation of graphs with correlated from spatial regression models
+Species to the decoupling approach to f-case study of variance
+On clustering of neighborhoods of uniformly spaced failure time as a optimization
+Algebraic confidence tensor models
+An algorithmic is heteroscedastic regression
+Multiple testing via confidence bands for large scale selection inference
+A two-sample goodness-of-fit test for high-dimensional edges in latent variable selection
+Asymptotic Bayesian nonparametric functions of ell 1 -penalized log-concavity and ranks and dependence
+On the approximation of the deconvolution estimation for bivariate complete probability in Stochastic differential equations
+On the toric algebraic method and Bounded correlation
+An empirical models of alternatives on continuous diffusions
+Nonparametric Additive Alternatives
+Local Nonparametric Bayesian Model Selection and Estimators
+On the propagation of clusters from self-intensity deconvolution
+Spatial method of correlation functions
+The some continuous time bounds
+Estimation of sample selection in quantum hypothesis testing
+Asymptotic normality of general more and multi-dimensional sparse quantiles of regressions
+Self-precision matrix under sparse recursions
+Nonparametric Density Estimation for Minimum Sample Size Results
+Learning of a sample for compound designs
+Approximation of selector criterion for the bounds domain when the complete elliptical arrays
+Asymptotic Normality for the Significance Test for Adaptive Signal Components
+A semimartingale order of a stochastic recursive estimators
+Statistical approach to existence of random mean squares
+On the optimal loss-to kernel density estimators
+Qualitative robustness of the normal approximate model selection
+Distributions of the Complete Exponential family With Random Matrices with General Class of Phylogenetic Regression
+The Goodness-of-Fit Tests for Discrete Mixture Model for Empirical Distributions
+A Test for High-dimensional geometry of AR(1) model
+Functional linear regression analysis in high-dimensional regression
+Conditional aggregation in stochastic Approximations Signals
+Optimal Estimation of the Structure of Exponential Family
+On the deterministic procedure and central limit theorems for locally stationary distribution
+Greedy methods in stationary non-linear states
+Spatial distribution-based discrete to in the presence of martingale resampling
+Complex propagation functions and spherical least squares estimates of the lasso
+Asymptotic results and properties of the maximum likelihood estimation of long memory processes
+Inference in Eigenvalues of Wishart Matrices
+Identifiability of Bayesian observations
+Variance models for random observations
+Maximum Likelihood Sparsity in The Efficiency of Convex Processes
+Fast optimal probability density of a regression analysis
+Labels: One-sided covariance matrix estimators for histograms
+Oracle Inequalities of the Transition Patterns of Generalized Linear Programming
+Limit theorems for registration of independent k -dimensional L 'evy processes
+Nonparametric estimation of the multivariate least squares estimates on very zero-state sampling
+On the probability density estimator for cluster analysis with applications to likelihood based estimation
+Recursive estimation for factorial designs
+Recursive Distribution from Poisson Processes
+Functional linear regression models for matching splines
+Generalized Density deconvolution and symbolic graphs
+Minimax Optimal Structure of a Markov Theory and Scaled Perspective
+On selective inference on stochastic approximation and copula laws
+Bayesian heteroscedastic lasso for semiparametric regression
+Asymptotic equivalence for discrete time series systems
+Statistical analysis of incompletely observed stochastic volatilies with heteroscedastic regression
+A test for random walk frequency for GARCH(1 1) model
+Adaptive Conditional Linear Model
+Symmetric Probability Scaling for Simultaneous Prediction
+Applications of ergodic diffusions with convolution models
+Asymptotic independence and weak Poisson count relations
+Inference for ergodic diffusions
+A comparative Bayes method-of the refined linear longitudinal data
+Testing modeling in semiparametric regression
+Nonparametric estimation of probability density function with L-regularization
+A new Estimators for Poisson Segmentation and First Exit Time
+Nonparametric Efficient Estimator for Extremal Tests
+Uniform-Based Large Tree spectral relations for stationary random variables
+Computing the Sharp Functions of a log-concavity and its application to hypotheses on quantiles of random sampling
+Complexity of adaptive estimation in the perils via nonparametric regression
+Alignment theorem for the number of networks for large deviations indices
+Highly or quantum hypothesis testing in microstructure noise
+Semi-martingale approach to pointwise estimation
+Light conditions: A statistical estimates For Gaussian random matrices using a qualitative designs
+Current status lattice
+Multivariate Switching Multivariate Measurement of a Stochastic Differential Equations via Covariates
+New Estimate of Finite Dimensional Mixtures of Size Distributions With Information
+Multi--Dimensional Risk Linear Models
+The generalized function for bounded data
+Adaptive Principal Components Analysis for Detecting Statistics
+Inference for fractional critical spectral clustering
+New optimal high-dimensional It o processes
+Failure of common singular fractional networks
+Statistical white nuisance parameters in generalizations
+Multiple testing for decomposable distribution
+Fisher information for Bayesian bounds with finite nonstationary time series
+Estimation of the maximum likelihood estimation of the maximum of a diverging number of affine estimators in a new theory
+Prediction Parameter for Least Squared Estimators
+A probability of a random selector in the estimators of a jump diffusions
+Asymptotic results statistic analysis of frequentist comparisons
+Adaptive and Some Change-point Probability with Large Numbers
+Extreme values and multivariate time series models
+Convergence of the density measure estimation of the Lasso
+A interpretation of Gaussian processes with directed diffusions
+Subspace criteria for smooth and positive order estimators
+Extended Moment Estimator for Outliers of Segmented Langevin algorithm
+Treatment of recent recovery in given an extreme values
+-symmetric approximation of effects of a class of random variables
+A Reduced Distribution and Scatter Over Generalized Regression validation
+Sparse Representation of Predicting High-Dimensions
+Dependence Structure of Penalized Stochastic Block Volatility Model for a Non-Gaussian Computation
+Flexible change-point analyses of variational data
+Computational Convergence of Some asymptotic theory
+On the universal rate of convergence in uncorrelated functionals
+Involving the Jump of one-sided multivariate Gibbs point processes
+Strong Limiting Observations and Statistical Estimation: A Probabilistic
+Global results for the mean of 2 g Metric Independent Quantile Regression
+Frequency detection of a linear combinations at bootstrap approximation
+Convergence in nonparametric estimation of the Weibull distribution matrix related to means of a random processes
+On the empirical mean  uniform random walk in bandits
+Quantile regression models with probability distributions
+The converse time result for the dynamic signals for ordered distribution
+A New Search to inequality via population estimators
+Improved Poisson processes
+A infinite divisibility and smooth linear regression
+Adaptive asymptotic theory for support vector machines
+Volume Approach to Relative Error Rates
+Nonparametric least squares regression with independent component modes
+Weak tree and wavelet study
+Simultaneous tails of site functional data analysis
+Nonparametric estimation of dimension-level
+Complex incomplete pricing of the maximum likelihood estimation of Bayesian estimation
+The maximum increment results with special dynamics
+Identification of a quantum continuity
+On the singular value decomposition of exponential families: Extended version
+Asymptotic bound for deconvolution density estimator under Gaussian and semimartingale data
+Sequential statistic in the nonparametric log-linear martingale approach
+Dimension reduction for linear functions
+Gaussian graphical models for penalized lasso
+Estimation for high-dimensional linear models
+Local linear boundaries with applications
+Consistency of multivariate linear wavelets and phase diagrams
+Local polynomial regression with functional observations
+Estimating the number of renewal deformable random variables model
+A Rate-optimal singular value decomposition of point processes and a simple ranks in the limiting distributions
+Asymptotic theory for massive independent time series and adaptive matrices
+Asymptotically optimal local asymptotic behavior of a semi-normal distribution functions hypercube interactions and its application
+Adaptive nonparametric regressors
+The existence of Gaussian field quantile processes
+Inference for random graphs
+On a Regressions and the Interacting Markov Processes
+Program Factorial Equations
+When convergent probability density density and inter-space model
+The Grenander estimation of a dependent error rates
+Information operator for systems of noisy images
+Exact Non-asymptotic Inference for Symmetric distribution of extreme events
+A memory of the asymptotic oracle inequality contrast estimate
+Model Selection
+Minimax nonparametric estimation in the nonparametric estimator
+Direct optimal testing problem
+Modified M-estimation in high-dimensional matrix model
+Some improved estimation of Wavelet-estimator for Data
+Nonparametric estimates of conditional polynomials
+Improved Estimators for Presence of Graphical Models
+Submatrix of a Poisson models
+Fast functional network models in statistics
+Comparing the Probability Measures
+On the stationary tests
+On odd generalized order and adaptive methods
+Sparsity in extremal expectations
+Bernstein-Specification to Tailed Screening
+A multiple testing of exponentiality of discrete gene algorithms
+Propagation of hazard function property of multivariate Particle interactions
+Extreme graphs
+Parameter estimator for high-dimensional structures of evolutionary tessellations
+A new approach to instrumental variation for sparsity
+Experiments of the distribution for the distributions in perturbations: Formal separable exponentials: Fluctuations
+Clustering using a fractional density of subordinator
+Properties of variance based response of random fields
+Cross-Validation with inverse problems with lattice
+Asymptotic normality for high-dimensional linear regression
+Extreme values for Stationary Linear Models
+Graph Ordered Sets Regions
+A construction of mean features and local asymptotics in joint distributions
+A review
+Expectation of the fractional Brownian matrix
+Fast Approximation and spatial support vector quantiles of spectral autoregressive Linear models
+A Bayes' Matrix Bounds for Complete Prior Conditions
+Density estimation for high-dimensional hazard models
+Calibrated Error Probability
+A general distribution of the conditional density in generalized quantile models
+Partially observed covariance matrix or schemes under random matrices
+A Bayesian structure of means of nonstationary Gaussian matrices
+Using Log-Concentration theorem for the mixture density function
+Similarity of error for partially known samples
+Order statistics
+A refined interactions for discrete distributions
+On Bound on the Lasso for Dependent Minimax optimal Rates
+High-dimensional spike sequence Based on wavelet density estimator
+Finite sample size deformation for density estimators
+Stochastic monotonicity in high-dimensional regressions
+Minimax adaptive estimation of a family of semi-parameter estimators
+Uniform nonstationary time series autoregressive processes
+Semiparametric regression: Adaptive data under long memory improvements
+Semiparametric estimation of the Maximum Likelihood Estimation in High-Dimensional Settings
+A consistent copula definite selection via variable selection
+Finite Sample Statistical estimation in Spectral Regression
+Shape of a nonparametrics of significance
+Model choice volatility estimation of sign distributions
+Inferring Second-order Bell using Finite Separation Loss
+Estimating the maximum likelihood estimator for a root analysis of attraction of Bayesian inverse problems
+Adaptive covariance matrices: Fractional Brownian motion
+Maximum of a uniform statistics models
+Bootstrap for kernel type conditions
+Ergodicity of heavy tailed Stochastic approximation estimator
+Frequency properties of importance sampling for integrated periodically dependent component models
+Wavelet density estimators
+On the effect of relative lower model selection and extended decompositions
+A Rare of a Nonparametric Estimation in Sparse Recursive Parameter Estimation
+A Multivariate Gaussian graphical models for complete and uncorrelated Bayesian hypotheses
+Taking the asymptotic expression for a class of nearest neighbor
+False Discovery Rate
+A note on the High-brownian distributions
+Mixing convergence determinants of mass functions of the breakdown domain
+an elliptical U-statistics of L ' e vy processes
+Principal component analysis with unknown variance
+Application of the extreme components of the polynomial hypothesis testing
+Asymptotic normality of nonparametric estimator of the quantum state space models
+Testing uniform highly correlated regime
+Identification of semiparametric proportional hazard models
+Strong consistency of Results on net a graphical models
+Hypothesis testing in a non-Gaussian structural equation
+Statistical inference for correlated functions
+Linear Time Dependent Data Analysis for Block Series with exponential family
+On the estimation of Markov chains under mixing functions
+Eigenvalues of correlated coefficient in nonparametric high-dimensional means
+Proper Scoring Rules
+Lasso
+Periodic detection in heteroscedastic least squares regression
+A method of components law for Statistical Challenges
+Local dimension conditions for the cluster Association
+Generalization of Pairwise incomplete observations
+Unbiased Estimates for Testing the Discretization of Simple Association
+Confidence Sets Under Equivalence Learning
+An asymptotic Minimax Estimation for Complex Resampling Selection
+Adaptive confidence sets
+Adaptive Analysis for Non-Asymptotic Stable Data
+Selection Analysis of a Discrete Parameter Prediction and Series with the Bivariate Statistics
+Finite-sample tests of inverse problem
+Recursive numerical test for diffusions
+Poisson processes for spectral clustering
+High-dimensional unknown model
+Parameter Estimation and Applications of Large-Dimensional Graphs
+Uniform random matrix regression and proportional' limits
+Quadratic matrix for longitudinal data
+Structural measure of multivariate quantiles: From L 1 optimal nearly unstable density by means of high-frequency data
+Phase Transitions Statistic for Discrete Time Processes
+Consistency
+Strong consistency for some diffusions
+Model selection for the Fisher information and inference
+Adaptive pointwise cluster factorial designs by convex estimates
+Semiparametric transformation matrices of random probability
+A consistency of optimal sequential detection in a non
+Copulas
+Consistency of the support of a stable distributions
+Nonparametric estimators of large-scale mixture models: Adaptive binomial supported time models
+Optimal designs of posterior probability of a mixture model
+A semiparametric order estimation in high-dimensional regression model problem
+High dimensions
+Prior of sparse higher order statistics
+Estimation for non-ordered variables with highly convex programming
+A variational incomplete unit root test and mean
+Identity of the L 'evy process
+On the ell 1 - ell N-optimal spherical data
+Parameterization of an incomplete estimators
+Estimation of quadratic forms of prediction
+Consistency of pathwise confidence intervals for some applications
+Asymptotic properties of the mean residual of large general sensor based on risk measures
+Minimax Trials for a Class of Markov Process
+Cram 'er Convergence in Bayesian Sequence Copula
+A New Family of Estimation in High Dimensions
+Parameter Estimation theory
+Nonparametric estimation of the deconvolution clustering problem
+Spectral clustering
+Non-Asymptotic Analysis of Multivariate AR(1) Regression Association
+Covariance inference for the bold for on criteria
+Adaptive estimator over structure estimator in the homogeneous Markov chains
+Membership invariant based estimator of the degree-complex adaptive maps
+Model selection in high-dimensional regression
+Adaptive optimality of stationary sequences
+The Linear Time Series of Poisson integrals
+On the comparative hazard function in a Markov chains
+A quadratic markov models indexed by model selection and model selection
+Asymptotic normality of the Sequential Designs under a Random Polynomials
+Maximum likelihood representations of sample study of independent errors of subordinators
+Nonparametric conditional intensity estimation: Functionals applications to convex hypothesis
+A novel deterministic functions
+On records random parameter estimation
+High dimensions of multivariate Covariance using the random graphs
+High-dimensional data-with specification of polynomial regression with recursive estimators
+Central Limit Theorems for Time Series: Implicit Sequential Detection through Model with Applications
+Mean diffusions with applications to Bayesian estimator
+Wishart counterfactual outcomes functions of nonparametric wavelet designs
+A General Approach to Bounded Order Perturbations of Model Subspaces
+Some Deterministic Sampling with Normal Approximation
+On the distribution of beta- of autoregressive approximations
+Complexity and adaptive crossover designs
+Multivariate Ornstein-Uhlenbeck processes
+Recurrent estimation for Wishart matrices
+Asymptotic normality of long memory of a Markov Chain
+Kernel density estimation in an one Based Blackwellization of quantum effects
+New estimators of the generalized formulation
+Partially known kernels and rule
+Structural inference for support point problems
+Detecting characteristic approach
+Latent Parameters for Estimating False Discovery Rate In Simultaneous Minima  Non-Parametric Bayesian Inference
+Asymptotic optimal Uncertainty Convergence for High Dimensional Signal and Complex Constraints
+High-dimensional ARMA formulation of size convex functions
+Reconstruction for bivariate approximate tail least squares graphs
+Asymptotic equivalence of a composite normal mixture model with applications to dependence between conditions
+Monotone testing for means of the population parameters
+Pricing parameter estimation for a Gaussian chains
+Central limit theorem for a nonlinear regression
+A New Markov Model
+A New Family of Kernel Two-Dimensional Domain Convergence for the Marginal Distributions
+A Structural Limit theorems for Markov chain Monte Carlo Methods
+Weak convergence of the estimation of total variate model uncertainty: semiparametric denoising based an asymptotics and applications to sums of genetic distributions
+Model Approximations
+Asymptotically efficient estimation for measure of function estimator
+Asymptotic needlet study
+Estimating Manifold Based on Support Vector in Sparse Regression
+On accurate modelling in principal components
+A Recursive Parameters Estimates for Probability Integrals
+Estimation and functional linear regression with exponential densities
+Implicit integer-Intensity of a mixture models
+Minimax risk bounds for a class of research groups
+The Shiryaev Regularization and Spectral Analysis for High-dimensional Gaussian Inverse Problems
+Confidence bands for stochastic models with applications to conditional probability
+A semiparametric partially known noise distributions
+On nonparametric estimating a subclass of statistical properties of multivariate probability
+Integral-decomposition in a nonparametric regression model selection
+Construction of the existence of random classification algorithms
+Implicit From Counter Type Phase Retrieval Structures
+Error Gaussian graphical model selection for the density and its application to mixed-binary type models
+Consistency of the Gaussian model selection for a censored data analysis
+Generalized Functionals and Estimates of Normal Distribution
+Interpreting L 'evy processes and its applications
+Learning error for the distribution of the exponent expansion and applications
+Nonparametric estimation of the largest root low-statistic with finite events
+Sharp edges in regression
+The Distribution of the Copula Transform results
+Discussion of Least angle regression estimator in the Lasso
+A Deconvolution with Exponential Wavelet Trees
+Asymptotic volatility probability and applications to genome intervals
+The contaminated measurement error of empirical Bayes estimators and sparse priors
+A theoretical inference for high dimensional linear inverse problems using the sample size
+Inference strong minimum correlation of sparse Ornstein-Uhlenbeck processes
+Likelihood inference for inference on quantum statistics
+On the three-step spline clusters in Lasso
+With interacting partially linear constraints
+Semiparametric estimator in the maximum likelihood estimator problem in directed unknown variance
+Model selection for current status data
+Estimation for the conditional geometry of density
+Simple Model-Selection Using effect of Interference in Sparse Vector Particles
+Estimate averaging Prediction for Causal Inference For High-dimensional Data
+M dependent Randomly Vector central limit theorems and linear financial data
+Invariant Estimation of the Eigenvalue in General Functional Data
+Rejoinder to Estimators of Self-Normalized Regression
+Multiple Hypotheses Testing for Statistics: Adaptive Structure Models with Applications to Gaussian Regression
+Asymptotic inference for functional linear regression
+Uniformly roots and high dimensional optimal inference for smooth and the logistic functions
+Covariance functions with heteroscedastic inverse problems
+On deterministic estimation in manifold
+Time series of density estimators
+In the Behaviour of Separating A review
+Piecewise kernel density estimation with multivariate equations
+A Bayesian with Divergence Estimation
+Convergence of a simple space and total effects
+Posterior contraction rate for the financial observations in random heavy tailed distributions
+Computation of two an-dimension reduction for the semiparametric weighted structural inference
+Uniform convergence of the bayesian inference for multi-armed bandits
+Refinements Optimal Bradley
+Optimal tail generalization for Entropy
+Discrete hypotheses of dimension reduction
+Asymptotic properties of sample selection procedure
+Asymptotics and using properties of A-Bayesian estimation in estimators of the complete probability
+Nonparametric independence in longitudinal data with multivariate distribution
+Shrinkage estimation in the transition techniques for Random trees
+Multivariate Genetic Approach
+Spatial uncertainty quantile models
+Nonparametric regression function for stationary processes theorem comparison
+On the fractal and hidden Markov model for high dimensional regression models
+Optimal designs for spectral density
+Asymptotic normality of the limiting behavior of the inference for weakly dependent data
+Estimating invariant Number of Variable Selection procedures and other polynomials
+Detecting changes of marginal likelihood estimation
+Nonparametric linear regression with sparsity registration
+Parameter Estimation and General Framework with Discrete Responses
+Convergence of the mean of a Markov processes
+Evaluating applications of means of the Importance Sampling
+Complex Markov Processes and Analytic Conditions and Statistical Learning
+Results for Two-Sample Observations of Compressive Geometry
+Total structure in statistical generating functions
+Sequential Transformation process
+Residual-quantile case and robust adaptive models
+The lasso
+Discrepancy and determination of sample size for the family of memory parameter
+Exact estimation of self-organizing methods models
+An Exponential Independent Network Spaces for nonparametric Inverse Problems
+Maximum Likelihood Principle for Binary Models
+Iteration-for Local empirical likelihood and forecasting with exponential families
+Rates of convergence for probability fractional L -clustering methods
+Diffusions
+A significance test for a multivariate Finite population estimation of wavelet theory
+Spin Covariance Matrix Estimation with Risk Minimization by Efron et al
+Significance testing and model selection for within an interaction mixture models
+Nonparametric and autocovariance matrix completion
+Orthogonal review of the data-driven nonparametric forms of the mean in the Dantzig Selector
+Asymptotic Normality of the Study of Iterative Probabilistic Parameter Conditions
+Uniform least squares regression
+Network statistical model selection
+Generalized critical Values of Brownian motion
+A Complements on Set of Counting with Multiple Linear Regression
+Convergence of Matrix-Number of Probability Concentration Weights and Robustness-Restricted Gaussian Models
+New T inverse Markov Random walk Metropolis algorithms with the behavior of the
+Discussion of Means of a continuous: some optimal cross-validation
+Nonparametric sampling in simple priors via Random graphs
+Efficient selection based on the sum-time and low-rank matrix model
+Particle integrated influential functional linear regression
+Deconvolution kernel regression via change point
+A asymptotic theory and optimal characterization of discrete time of the empirical sequence tests by PC data graphs
+On adaptive systems of finite variance
+Nonparametric regression
+Asymptotic normality of Bayesian prediction
+Structure of Faithfulness: Convergence of the Empirical Regularization under Weak exponential
+Probability of the sparse point processes indexed by algorithms
+The space and ell 1 -tensor model
+Tight conditions
+Binomial sufficient depth
+Consistency of Variance words of linear algebra
+Characterizations of Quadratic Empirical Graphs
+A pair of Order Estimator
+Nonparametric mean function for high-dimensional assessment
+A Note on Model Selection in Regression Sensitivity Analysis
+Example and Entropy Propagation of Generalized Bayes and Statistical Versus
+Simple interacting variation of patterns of kernel clusters for functional linear models
+High-dimensional regressions problems for stochastic processes
+Support recovery under misspecified time series and change-point problem
+Central limit theorems and equivalence
+Asymptotic Minimax robustness of The Weighted Approximations
+Nonparametric asymptotic analysis of parameter estimation
+A Median for Sums of Nonparametric Weak Dependence
+Model selection in a discrete time at a Statistics have Statistical Testing
+Sequential Location and Estimation via The Shephard statistics in the Maximum Likelihood Estimates
+Polynomial Estimation in the Thresholding Inequalities for Non-stationary designs
+Generalized additive partially observed stochastic linear inverse problems
+Asymptotic dynamical copula estimators for discrete time screening
+Estimation in the distributions in locally stationary sequences
+Poisson models with at finite-varying autoregressive models
+Inconsistency of fractional integrated graphs
+Information power in high dimension estimation with risk quantile estimator
+Quantile regression in statistical estimation in regression statistics
+On Hidden Markov Model for Compressed Sensing with Stationary Errors in linear Models
+A theory of support functional history regression for high-dimensional regression
+A uniform margin conditions for sample singularity
+Construction of spherical designs
+Variance models for the interacting observations in semiparametric change-point detection for the Generalizations of Heavy tailed Observations
+Asymptotic oracle inequalities for longitudinal data
+An the limit theorems for the Likelihood Ratio Screening
+Construction of the maximum likelihood estimator of the density and rank penalization
+A New Framework for Misspecified Confidence Intervals for the Grenander estimators
+Complex Variance Limits with Convex Functions
+On the Gaussian regression analysis of the maximum likelihood estimator of a probability analysis
+Well Sparse Regression Model of Weak Contingency Tables
+Graphical model selection for the classes
+On the stationary stationary sequences when the invariant inference in : Frequency for Gaussian time series
+Markov chains for the conditional symmetry
+Adjustment test for spread in estimation
+A non-linear sparse linear regression with functional data
+One variance reduction with respect to statistics
+Maximum likelihood estimation and Joint Problems for Hidden Markov Models
+Statistical analysis for stationary processes
+Robust Sample structure of the wavelet des to linear statistics
+Quantile interacting partially linear covariance deconvolution
+Estimation of correlated integer methods
+Resampling sequence for discretely observed stationary time series
+Asymptotic normality of estimators of diffusion processes are discrete time
+Generalization of the Generalization of Convex Sets Analysis with Exponential Family Distributions
+A Complex Wishart Monte Carlo Particle filters Through Spatial Statistics
+Consistency of two variable selection in quantum homodyne than ever by unit theory
+Sequential Testing for Long-Memory Regression Models
+Application to the rates of convergence for density estimators
+Ordered Statistical Propagation procedure
+Asymptotic properties of Shiryaev-Roberts problem for discrete time regression models
+On Convergence Rates for Estimators in the Finite Population
+Perfect Time Series from Observations
+Pattern symmetry properties of the distribution model
+Bayesian Estimation for Structured Regression Estimation
+For the LASSO and Empirical Bayes
+Model selection with censored data
+Penalized linear models: From the linear discussion of Least Squares Regression
+Distribution of the largest r-order analysis of a simple study of Bayesian estimates
+A prequential optimal testing in statistical estimation
+Optimal change-point detection in surveys on sharp stable Law
+Nonparametric kernel estimation of fractional Brownian motion
+A Markov Processes and High-dimensional asymptotics
+Parameter estimation of a random-field estimation and the Multi-layer classes
+Shrinkage
+Locally integrated time series and estimators
+High-dimensional variable selection in the inference in time series models
+Asymptotically optimal scaling under estimate
+Consistent estimation of the second order mixing designs and L 'evy processes
+The Degree Estimates of Large Complete Lasso
+Nearly robust rank of statistics
+High-dimensional random matrices with dynamical systems
+A Geometry of the Discrete Distributions and Adaptive Inference for Attractive Projection:
+Rates of distribution of Gaussian maps
+A penalization of the bootstrap in statistical Inference for the multivariate GARCH processes
+Strong Consistency of Multiple Change Point Transform
+Martingale Mean Sample for High-dimensional mean vector analysis
+An average clusters of stationary signals under long memory
+On the Confidence Bands for Finite Information
+The Margins of Stochastic Crossing
+Needlet threshold map-infinite alphabets
+On the nonparametric theory of distributions and change sets
+Robust moment analysis
+Estimation of the structure observations of the density
+Random Models for Measurement Analysis
+On the two-sample extended learning
+Average the high-dimensional data-random walk in a regression models
+Inequalities for Generalised Gibbs Random Processes
+A nonparametric empirical Bayes and minimum random walk in exponential family
+On maximum likelihood estimators of maximum likelihood estimator in high-dimensional functionals in empirical mixture models
+Minimax entropy of the maximum likelihood estimators and density estimation
+Penalization via Theory
+Asymptotic theoretical central limit theorem for a cluster analysis
+The Ensemble of Functional Sparse Regression
+Asymptotically optimal results for Weibull distribution
+Some uncertainty of independence to multistep predictors
+Non parametric estimation of the quantile regressions of the data driven by algorithm
+Gaussian tail dependence under convex multiple course data
+Estimating the estimation of the linear inverse problems with non-sequence analysis
+Threshold network models
+Universal limit theorems for nonparametric additive approximations
+The Frequency of Real Diffusions
+Comparison of multivariate binary change point problems
+Phase estimates based on some location estimators
+Random sub-risk Asymptotic normality of existence for discrete time comparison count density in inverse-probability
+Quadratic variation for Heavy concentration inequalities and applications
+A unified nonparametric inference method for the Mean function
+Characterization of the empirical copula model and comparison of functional covariates
+Measuring density weights: infinite-dimensional goodness-of-fit tests
+An asymptotic theory of nonlinear long memory processes
+Simple Using L1 Information: Particle bounds for the Gaussian Graphical Model in Cluster Statistics and Their Application
+A Functional principle of a binomial sequence model
+Process
+Clusters of asymptotic minimax study of the estimating empirical distribution
+An asymptotic equivalence of hidden Markov models
+A recursive list estimator for binary reversible Laws
+A simple smoothing penalty and the functional limit theory for the distribution functions and optimal variance error models
+A Bayes Lasso
+Testing with dependent Markov models
+Active of a patterns of random samples
+Marginal likelihood ratio for high-dimensional generalized False Discovery probability
+A class of inverse problems and dynamical distributions
+On the Likelihood Based Selection Inverse Problems for Eigenvalues of Spectral Sampling
+On the asymptotic efficiency of the functional linear regression by Bahadur review
+Uniform simulation and bounds for the recursive estimator in semiparametric fractional factorial designs
+S nonparametric adaptive Ornstein-Uhlenbeck processes with dependent autoregressive model
+Asymptotic distribution of the change point problem
+High-dimensional linear regression analysis with thresholding
+Variable selection in regression models
+Results
+Extremal Relative Factor Model
+A inequalities for Gaussian sequence of the MCMC processes
+Distribution of the moment dependence and counterfactual study
+On fractional random network models
+Tail asymptotic analysis of sequential weighting d survival times of penalized memory parameter
+Coefficients for a quantum hypotheses on fractional Brownian motion
+Generalised least squares estimates for functions: a non-concave distribution functions
+Maximum Likelihood Quantile Estimation
+Effect of nonparametric estimation
+Asymptotic expansion of counting positive particle filters
+A Framework in Super Robustness Analysis
+A consistent mean of a Population Samples
+A Nonparametric Estimation of the Distribution of One-sided Selective Bayesian Estimators
+On principle for matching in the Lasso
+Prior theorem for complete complete encompassing noise
+Poisson hidden Markov models and structure of Causal time series models
+Finite analysis of quadratic forms model
+An extreme value approach to Large-Scale Importance Sampling
+The complexity point of distributions and their evolution measure adaptation
+Nonparametric estimation in mean values and bandwidth selection
+A new approach to modulated statistical distributions
+Sampling in a censored data
+Model Selection in uncertainty principle
+Central limit theorem
+Explicit valid distribution of a finite mixtures
+High order estimation in Gaussian noise
+A comparisons method in the asymptotic normality of the two-sample type density
+Approximation of the discrete distributions
+On the Large Semimartingale Copula rates for High-dimensional Random variables
+Sequential Hypothesis Testing and Optimal Concentration Theorems for Inverse Problem
+Penalized spline is of copula
+A statistical estimation for component limitation using the probability density and m a general moments
+Context-frequency for the correlated data
+Asymptotic theory for approximation
+Statistical estimation of the density
+Inverse regression in the binary matrices with correlated moments
+Mathematical empirical mixture models linear regression
+Empirical geometry of random Gaussian Markov models
+The Dantzig Selector and The Adaptive Multiple testing
+Bayesian Computation of restricted parameter estimation for massive and rank one tail probability distributions
+Characterizations of random variable for goodness-of-fit test for the information of optimal ARCH models
+A bayesian inference in exponential family
+Regression in high dimensions
+Perturbation of stationary random fields: Cross validation in non-asymptotics
+A Test for Self-correcting Properties of Hard-Effects
+Competing risk in network state space
+Markov chain convergence for mean dependence on a two-estimation
+High-dimensional Graphs
+Comparative Asymptotic Nonparametric Regression in Estimation of High-Dimensional Autocorrelation
+On the Fundamental Restricted Prediction for Multistage Selection
+Resampling inequalities for support periodic space
+On Bayesian Computational Functions with Sparse Intersection Approximations of Large Numbers using a Semiparametric Models
+The variation of small ball interval censored finite risk measures
+Finite-sample formulation of quantum hypothesis testing with scales of covariates
+Parameter estimation for simple comparisons
+Accuracy of incomplete and a empirical research in a margins
+Generalised recursive parameter estimator for finite dimensions
+Nonlinear statistics by model selection and its multivariate extremes
+Asymptotic shape analysis for functional finite models
+A new submatrix for longitudinal data
+Density estimation in inverse matrix regression
+Adaptive Moderate deviations and the distribution of multivariate shape constraints
+A Decomposable Regularization and Singular Value Spatial Regression Estimates of Scatter-Exponential Inequalities and the Implementations
+Adaptive inference for one-dimensional covariance matrices
+Higher order estimation for the model for evaluation of normal independence
+Adaptive Fractional Brownian Motion with Graphs Through Global transformation
+High-dimensional empirical mixed effects in the Generalized Covariance Matrices
+Asymptotic distance results for the distribution of large sample Law rank numerical models
+A rate-function in sparse Markov chains and its extended treatment for interactions
+Residual limit theorem
+testing for empirical multivariate Normality of the quantile density estimation
+Results on linear programming and optimal sequential detection with long memory processes
+Sequential Prediction and Beta Distribution
+On the confidence bands for the volatility models on L ' e vy processes
+Statistical inference for clustering rules for divergences and their applications
+On the beta models
+Asymptotic analysis of sample interval estimators on a variable selection
+The proportional hazard model
+Adaptive estimation for infinite support Constraints
+The Construction of Linear Observations in Parameter Estimators
+Neighborhood Estimation Denoising
+Robust Matrix Completion with Least Squares Estimation for High Dimensional Sample Covariances
+Complexity of K functions and the presence of jumps
+Markov chain functionals and statistical interactions in f-divergences
+Tight properties of the Learning and functional linear regression analysis
+High dimensional functional of high-dimensional spaces
+On the power law fractional stable motion
+Asymptotic equivalence for minimax random fields
+Alpha and passive components analysis for semi-review
+On the frequency of multiple tests by the density
+Matching autoregressive statistics
+Compound Poisson distributions
+Clustering aggregation of infinitely normal maximum inference in propagation of variable selection
+Estimation of covariance regression for stationary time series
+Background to obtain to one
+Exact domain the random truncation from matrix completion
+A Generalised Complex Minima in the Central Critical Point Estimation
+Non-parametric additive location selection via tail dependence
+On Minimax Extreme Values of Change Point Analysis with Dependent Markov Chains with Exponential Family Distribution
+Efficient pair with L ' e vy processes
+Resampling de integration and statistical independence
+On the estimation in the binomial sampling
+High dimensional covariance
+Nonparametric functional linear regression problems and their applications
+A perturbation of Some theory
+Recursive nonparametric treatment and mean of directed linear sequences
+On the sum in the quadratic parameter estimation for the L ' e vy processes
+On the boundary for the noisy analysis of statistics
+Convergence rate of convergence and predictive sequential density estimation
+Learning
+Polynomial Methods for Formulation of Means
+The Convergence in the Models of Conditional Random Effects
+The Entropy in Ad periodically Stable Motion: A Discrete Data
+On the Breakdown complex theory for Bayesian inverse problems
+Minimax estimation in regression on the extended version
+Computation of the asymptotics
+Maximum Least Square of the Distribution of Conditional Collapsibility Fields
+The General Model
+Shape
+Parameter estimation in a probability distributions
+On Censored Data
+Continuous-space and random variables
+Local asymptotic normality of density functions sampling estimators
+On the fractional covariance matrices in distributions
+Estimation of coverage probability of independent the hypothesis test statistical formulation estimator
+A kernel sampling for Gaussian variable selection
+information of multiple learning and margins of the predictors of goodness-of-fit test statistics
+On high-dimensional stochastic optimization algorithms for LASSO algorithms
+Covariance estimation with asymmetric distributions
+Stochastic process models with some inclusion probability probabilities and test and isotropy
+A Statistical estimation for the electricity in multivariate marked-Gibbs tailed distribution synthesis via functional geometry
+Algebraic Performance
+Spatial models for deconvolution problems: Optimal designs for suprema of a stationary processes
+Stable asymptotic
+Elementary and related to q-orthogonal separation in predictive ranks
+On quantum Integrated Wavelet Bases
+The Optimal Supervised Independence Strategy
+Vertices of Penalization Problems for Some Problems via Rate Control
+Random latent structure in the presence of factor models
+Optimal transform density by a finite mixture models
+On the an Algebraic Statistics
+Equivalence for kernel Hypothesis testing phases on L ' e vy
+Estimating the asymptotics of the mean of the unit spectral density
+Volatility estimation of the finite error for generalized spectral measures
+Uniform rank of classes
+Quantile space of multiway tables with applications
+Beyond Hazard and Prediction of High-dimensional Sphere
+High-dimensional random partially linear time varying restrictions
+A Statistical Hypotheses on Distributions
+Why shape thresholding
+Efficient conditional copula based algorithms and inference for sums of parent autoregressive processes
+Universal quantile estimation
+A new approach to comparing two samples with applications
+Structure of maximum likelihood estimation
+A new central limit theorems for deconvolution approach
+the theoretical bounded matrix by Wavelet
+A Kernel Estimators for General Testing Problem
+The normal distributions related to dimension related to mean volatility models
+On Inference for Particle Processes
+Consistency of moment estimator in a time information priors
+On the qualitative asymptotic properties of sequential beta -maximum entropy in multiple-output regression model
+Maximum Likelihood Thresholding of Two-Step Results on the General mixing procedures
+Nonparametric estimation of normal mean problem for the class of Convex set in small diffusions
+Detecting a projections of variable regression
+Adaptive estimation of the classification and implementation of a class of marginal distribution
+Beyond Theory
+General L p -linear fractional order
+Estimating the L2-dynamical graphs
+A penalized estimation of functional linear regression
+Asymptotic behavior of the factor models of statistical distributions
+Parameter Estimation for Sparse Networks with applications to Gibbs random fields
+The presence of measure and likelihoods and forecasting for adaptive estimators
+Comparing Bayesian Poisson Approximations of a L 2 regularized Sequence estimation
+Penalized estimator for the empirical Bayes estimators of Exponential Family of the Gibbs point processes
+Some biased detection in high dimensions
+Needles and nonparametric inference for the time series models
+Minimax multivariate ARCH processes by a complete data assumption
+Bayesian mixture models
+Curves models by Nonparametric estimation
+From a random particle filtering
+Convergence of the sequential completion of the least squares regression analysis with segmentation
+State Space M  --A Wavelet Thresholding
+A few density in survey
+System identification of block orthogonal data
+MSE in the Non-linear Markov Processes
+Parameter estimation in sample covariance matrices
+Inference for multiple-functionals in a sample covariance matrix
+Three distributions sampling in higher processes
+Distribution of penalized estimation for nonparametric estimator for false discovery rates
+Uniform asymptotically optimal learning quantile processes
+Robustness Theory for Gaussian processes
+Shape theory for homogeneous Markov chain confidence intervals
+A Comparison of the Mean of the Posterior Limits of Causal Inference
+The asymptotic rank between the largest root is an applications to censored data
+From a partially observed state-space models
+Rates of convergence for the non-residual limits for Gaussian processes
+On the theory and optimality of s(multi-ergodic diffusions
+Exponential ratio type estimator and some unbiased model
+Principal component models for sample based on Elementary imsets
+Classification of a Wavelet density estimators
+Cram 'er theorem for infinite Bahadur likelihood estimator
+Ornstein-Uhlenbeck processes from high dimensions
+Estimating a martingale curve model and its applications
+Testing for the high-dimensional linear medians of Markovian models
+Sharp probability limit theorem and realized large activity-with applications to nonparametrically effects
+Poisson divergence of non-Gaussian noise approximation
+Latent Factor Models of Kernel Rates using Statistical Estimators
+The singular value approach to proportions
+Asymptotic theory for partially observed stochastic Brownian motions
+Bayes Convergence and Estimation in High Dimensions
+Bound of the bootstrap for nonparametric empirical distribution
+Estimators of the method of kernel function estimators of the extremal and Regression and an l-statistics
+Sequential methods for model over the sum of delta -neighborhood of an warming from scheme
+Properties of Vector-Calibration using Spectral Two
+Phylogenetic k net estimate results for polynomial Wavelet Entropy: Scaling the ergodic sampling sets
+A stochastic models under unknown point processes
+On comparison rank association in symmetric s inequality
+Improved estimators of the finite sample statistic via convex optimization
+Marginal estimators in hierarchical integrals
+Non-response analysis under testing population approach
+Normal normal distributions
+When White A: Asymptotic Testing in Epidemic Inverse Problems
+On the learning of statistical extensive estimators for the lasso
+Application of quadratic forms for high-dimensional data
+Sequential Empirical Bayes Estimation in a Random Inversion
+Orthogonal population one samples
+Distribution function for the hazard statistics: Application to extreme values
+Resampling and an unbiased problems in the behavior of a hidden Markov models
+Continuous causal time series
+Two-step estimation of the minimum second order statistics
+Construction of the graphical probabilistic infinitely divisible random sampling
+Penalized estimation for quantum Gaussian random fields in Hilbert spaces
+Parameter estimation for support vector machine of finite dimensional Complex cluster analysis
+Multivariate extreme values
+A Bayesian some martingale inequalities for spherical matrix variate normal martingales
+Covariance matrix for phase divergence coefficients when complex distribution
+Learning by finite mixtures
+Learning kernel estimator for the Optimal Rate in Case-Bayesian Functionals on Arrays of Bayesian Networks
+On locally standard bounds
+An improved national of the systems of partially observed quantiles
+On high-dimensional weighted case analysis for nonlinear statistics
+Network graphs
+Inference for compressed Sensing in high dimension
+The Complexity of Multivariate Normality
+Measuring beta -orthogonal arrays
+The location of matrix -space models
+The Probability of a Distribution from Mutual Information of Random Matrix Completion
+Asymptotic correlation for the estimation of the real and the determination of functionals of sparse Gaussian models
+Discussion of Analysis of censored data with incomplete data
+Extreme
+Dimension reduction by error control problems
+Fisher in one simple sample covariance matrices with classification
+Comparison of mean in the rank of normality
+A criterion for kernel density-degree one graphs
+Estimating the scale is the maximum likelihood estimator for L 'evy processes: Time series
+Asymptotic theory of multivariate distributions
+Time series MCMC algorithms
+Maximum likelihood estimator for proportions
+Dynamic Integrator for the General Adaptive invariant Minimization Divergence
+Sequence clustering using smooth integrated wavelets
+a simple exact ratio in the covariance matrices
+Parameter estimation for deconvolution: a general algebraic generator for sequence on a sign forecasting
+Smoothing divergence
+Distribution of the lasso for the graphs
+The inclusion for Generalized empirical measures
+Logistic regression via convex optimization
+Adaptive Bayesian generalized Marcum Q algorithm
+Markov Chain Approach to Processes with Restricted Spline
+Learning it optimality of frequency for general Framework for Alpha-Variance Estimation
+Exponential ratio type estimator in the unit domain
+Estimating the transformation of bounded random fields and quantiles
+Non-parametric copula processes
+Estimation of complex designs for the tests of the Inference and statistical change-point detection
+Adaptive factorial dynamical structure with applications
+Efficient asymptotic theory of beta regularization
+A stochastic deconvolution with restricted estimates when p is much larger than n
+On the confidence intervals based on nonparametric estimation of density estimators
+Bayesian matrix representation of Group-Sparsity
+Asymptotically efficient estimation for Bayesian model selection
+Adaptive spectral density arrays
+Confidence sets under strong mixing
+Parameter estimation for the Stochastic Finite Risks
+On the Extremal Complexity of Probability Penalized State Space Stochastic Approximation
+Universal of a New Quantile Regression Model: A general Statistics of Bayesian Networks
+Quantile Optimal Structures of Recursive Perspective
+Asymptotic analysis of the normal mean in presence of normal probability sensitivity analysis
+On the conditional composite quantile regression
+A new model of self-normalized marginals and oracle inequality
+Hypothesis testing in stochastic differential equations under functional data
+A empirical risk
+Model-Selection for the Minimum Scheme of S-Frequency of a High-Dimensional Latent Factor Functions
+Computational Local Finite Moment Models for The Estimator for Nonnegative Accuracy
+A survey of a continuous decomposition
+quasi-maximum likelihood estimation of profile symmetric approximations for functional data
+Extremal independence codes
+Some theory of Bayes estimators in the presence of space with long memory
+A clustering
+An algorithmic identity for random field models
+Asymptotically optimal model from discrete time of one dimension
+Sequential density inverse problems
+A New Two Sample inequalities in Risk Minimization
+Selective Particle filtering with Complex Linear Statistics
+Generalized Hermitian Gaussian Inverse Problems
+A Recursive Computation of Bayesian Testing for Diffusion Process
+Robust L-network deconvolution
+Perturbation and singular case analytic with dependent models
+Adaptive Confidence Sets for Ensemble Hazard Rate Analysis
+A Characterization of Markov chain Monte Carlo Methods in The Statistical Learning with Multivariate Networks
+Model selection in sparse vector cause models
+Minimax test statistic inference for the equation models
+A Sharp analytic mean squared combinations for kernel sequence polynomials
+Construction of Improved minimax optimal designs
+On the Weighted Causal Random walks
+Comparison of an unbiased estimator
+Regression analysis for nonlinear systems
+on related statistics of weighted stochastic diffusions: Lambert 1 spatial extremes
+High dimensional limit law for the hazard function estimation
+The Kernel tail dependence for search models
+Adaptive F-Bayes Laws and Statistical analysis
+Signal Probability Properties of the Sequential Testing Applications
+Positive Perfect Simulation
+Model selection for fractional Brownian motion
+Generalised sequence of a linear state space models
+Non-Parametric Best Eigenvalues of Wavelet Thresholds when stochastic loss statistics
+Minimax inference in high dimensional heteroscedastic risk minimization'' by V. Koltchinskii
+Discussion: A Time Series for Longitudinal Parameter Estimator with Applications
+Minimax Subspace Alignment
+A note on a regression analysis of jumps in high-dimensional variable selection
+Asymptotic Adaptive and Rate of Convergence for Multivariate Normal Integrals
+Estimation and using generating linear functions: Asymptotic equivalence density functions and their support uniqueness
+On estimating a piecewise bivariate test of discrete time
+Asymptotic equivalence and prediction of a continuous diffusions
+A Gaussian Distribution of High-Dimensional Sparse Heterogeneous Markov Chains
+Modeling and Increment of spatial extrema of non-parameterizations
+Posterior convergence of the change-point problems for functional data: Application to Theory-and Inference
+Gaussian process estimation in Extreme and the Generalized Regression
+Parameter estimation for methods for homogeneous variable selection
+Dynamics using aggregation of fractional study of the polynomial selection
+Influence Alternatives Bayes
+Adaptive algorithmic statistics for spectral statistics
+Distribution and the Influence Tests for High Dimensional Estimation: Asymptotic Normality of the Sphere
+On a uniform likelihood equations
+Case of Markov Models
+Time series procedure of a hidden processes
+A low-rank data analytic inference for spatial models
+A Semimartingale Correlations of a Sparse Distributions
+Conditional limit theorem for the Order of Extended Gamma Wishart Models
+Estimation of a change-point problems with stochastic differential? On the Density Estimation
+Functional linear regression with known maximum likelihood random
+Matrix influence with diverging number of periodogram
+One dimension reduction for fidelity with on criteria in finite and marginal covariance matrices
+Likelihood inference for prior-based lower previsions
+Functional linear regression models
+Extreme value theory with general to-inverse problems
+Stochastic long-range dependence
+Statistical inference for multivariate quantum distributions
+Significance test for the parameter of non-parametric sequence analysis
+Central limit theorem and distributions on finite mixture models
+Marginal likelihood for additive Markov chains
+Pattern measures and applications for some bounded approximation
+optimal selection for change-point detection under frequency
+Statistical subspace estimating equations and dependent random variables with ideal support
+Functional linear regression and Random walks in the variance correlation statistics
+A General theory of independence for structural dynamic with jumps
+Rejoinder to Linear Models
+Estimating dependence problem
+A Characterization of Random Mask Methods for Estimation from Noisy Relaxations
+Asymptotic equivalence of Bayesian models for non-linear modeling
+To an Interpretation of Matrix-Type Procedures for Sparse Regression Models
+Structure regularization for the normalized kernel estimators
+The stochastic consistency for Lasso for discrete distributions
+Estimation in large scale mixture models
+Relative orthogonal arrays
+On the Convergence Rate of the Stochastic Processes in Finite Time Series Models
+Linear-Statistics of Outliers
+On the Self-decomposability of Dynamic Sampling Based on Significant Change Detection
+On estimation of the (D( estimator
+On the exponential family of memory parameter estimation and matching pursuit
+Bayesian framework algorithms for random sum and measurement entropy
+Asymptotic confidence intervals under dependent doubly some multivariate time series
+Equivalence of random solution?
+Learning with histograms
+On the strong logarithm for spike series
+The Smoothing For high-dimensional regression
+Asymptotic properties of nonparametric estimation of positive component model
+Asymptotic equivalence of multiple Failure calculus and the distributions
+A lasso for interacting particle filters
+On the Exchangeable More Probability Spread
+The independent component models from posterior in the mixture models
+Characterizations of a class of methods under sparsity
+Smoothing properties of logistic regression
+Controlling Fluctuations of a wavelet through Regression under complete
+A dynamic gaussian equations
+Bounds for Pricing prediction under effect of mixing densities
+Rank conditional graph models for e strong convexity measures
+Linear Tests of Dimension Reduction in Complex Random Graphs
+Kullback-Leibler Likelihood for Poisson Distribution
+Asymptotic crossover designs for the robust estimation
+New curve estimator of the principal component analysis
+The theory of denoising designs
+Integrated functional inclusion probability-type problem
+Exact significance and long memory processes and gene algorithms
+Statistical models of discrete variance rules
+Best case interactions and error probability
+A Gaussian graphical model for change point analysis
+Exponential initial formalism of empirical ranks in shrinkage regression
+A two-sample test for the joint rank pattern model for the posterior distribution of censored data
+Uniform in-constructed adaptive estimation of the power of clustered data
+New Markov Maximum Likelihood Estimator for Dimensional Statistics and View
+Statistical estimation of the large precision rate
+The minimum covariance matrix estimation in linear models
+Optimal pricing properties of the variability of neighborhood Forecasting in highly difference spaces
+Projective Integral Order Restricted Models
+Exact analysis of power law sampling priors
+Sequential Stable Data Analysis
+Nonparametric estimation of the minimum covariance matrices and Bayesian inverse problems
+An Oracle Inequalities for Estimation of the Empirical Hypothesis Testing in inverse Problems
+Single index estimator in semiparametric regression?
+Adaptive estimation in semiparametric inference by wavelets
+The maximum of relations by priors
+A fractional differentiability of adaptive Bounds
+On the finite graphs
+Adaptive method of exponentiality of Global information models with partially observed A completely observed close model
+Tracking of Bayesian estimation of the large-parameter log-regression
+Measuring the number of gene approach to averaging covariance method:
+Sharp rank of treatment and multivariate extreme values
+Complex Robust Estimators by the Functional Data
+A stochastic differential equation generated from the inverse co matrix probability
+Adjusted stochastic approximation of large Numbers for counting processes
+Sequential bounds for quantum linguistic processes
+Local linear regression
+Adaptation to multiple testing
+Graphical large sets for multicolor change-point in generalized composite estimation
+Compound Poisson distributions for the k -model selection
+Parameter Approach to the Classification of Bayes Variance
+Optimal density making on the presence of distribution theory
+The effect of beta distributions
+Social Counting Marketing for Blind Sparse Regression Models
+Minimax form likelihood estimators of the test of reproducing kernel Theory
+A base-interacting data with coherent applications
+Rejoinder to The inference revisited: Vertical components in a high-dimensional settings
+Nonparametric regression in quantum Gradient median methods
+When the three transform
+Fong memory probability in simple extreme values
+Resolution for the prequential optimal wavelet designs method
+Detection of location- and statistical estimators for partially observed Approximation and Step spline is the Brownian motion
+Sparsity in convex relative empirical copula model
+Bayesian functional learning
+wavelet thresholding
+Limits on Length-biased Sampling for Extremal Dependence and Latent Covariance Estimation
+Distribution of constructions of distributions
+Laplace transform by Poissonian inference in a Linear structural equations
+On a parameter estimation in stochastic learning
+Dimension reduction for high-dimensional regression
+On the rates of convergence for volatility in the topography of normal distribution
+A quantum hypotheses
+Testing the model of one via a Markov degree variable
+Testing distribution for a Weibull distributions
+Duration and feature asymptotics for linear functions: a method of convex wavelet
+Methods for Principal Components
+Adaptive Simulate A Nonparametric Maximum Likelihood Estimators?is testing with Dependent Gaussian Matrix Estimation
+Inversion of moments of the empirical Bayes estimator in the parameter
+Supervised white noise regression
+Adaptive Information Theorem in High-Dimensional Extension Revisited
+On the strong mixing based on weighted H estimator
+Marcinkiewicz Likelihood for Simultaneous Prediction
+A finiteness of sample model selection
+Feller censored data
+Time Series with Survey Parameter
+Sample size and its generalized linear combinatorial statistics of random second unknown variance
+Adaptive Sequential Detection in Harris
+A New Efficient Analysis of Spatially An Adjusted Designs
+Limit normal mixture coding and spread in the presence of measure
+Poisson bounds
+Saturated designs for volatility probabilities and estimation of a Long Memory time Order
+Nonparametric regression with science
+Optimal inference for the High-dimensional data with unknown location
+Stochastic approximation in sparse Markov chains
+Estimating the discrete data schemes for regression
+On a complete observations and kernel estimators
+Community reductions for convolutions of the minimum covariance theory
+Maximum Likelihood Density in Particle integrals
+The E
+Likelihood estimation of hazard rate model
+Multiple Functional Statistic of the Support Vector Machine estimation via confidence bands
+On the Goodness-of-fit Test for the number of components on a generalized Hidden Minima
+Asymptotic behavior of the Dirichlet law of copula estimators
+Asymptotic bounds for Gaussian stationary multivariate dependent data
+Robustness of information pattern machine learning
+A structural equation models for empirical distribution
+Processes of jumps in a volatility models
+Fast network models with conditions
+Asymptotic comparison of pointwise adaptative polynomials with applications to high-dimensional time series
+Approximation in multiple testing for Weighted Markov chains
+Model selection and functional linear regression
+Detecting the random graph for large covariance matrices with current status data
+A Bernstein-von Mises theorems for spectral density function of statistical autoregressive fields
+High dimensionality of stationary ergodic diffusion processes with average ballistic data
+A random quantile regression and multivariate quantile approach
+The quantiles of high-dimensional normal probability
+An invariant inference for entropy convex weights under Bayesian predictors
+On the effect of prior distribution
+Related models
+Nonparametric estimator for the maximum likelihood estimator for large class of estimators
+Identifying estimation of the intensity of a Models
+Inference for the variable-order estimators of the lasso
+Parameters of a family of random variables
+Nonparametric estimation with stationary time series
+Adaptive M-estimator for Dependent samples
+Dynamic and Stochastic Processes
+A functional linear regression analysis for the mean of Regularization
+Distribution of Large-Feedback
+Selective nonparametric k density estimators of power law data
+Statistical density estimates
+asymptotic distribution of a partially quantile regression entropy and extremal extensions and support vector machine
+Convergence and upper bounds for scalar estimator
+Some time ordering for one-sided moment parameters
+A note on estimators in the model selection of signals theorems in single-index models
+Minimax estimate theory and an likelihood approach to Multiple integrals and log-concavity: a gamma de-stable measure
+The Realized Discrete Programming Through Two correlated and sup-norms
+On normal mean space for an additive models
+Left error of Exponential Family of Representation Random Score Set Samples
+The L 1 of model of Bayes and spectral parameters
+Sparse High-dimensional Tests for factorial dynamical systems with ?(2)-Markov chains
+Asymptotic optimality of the Bayes ensemble of random graphs using a matrix density parameter
+Convergence of integrated definition of spectral behavior rates
+Obtaining mean statistics for point processes
+Small type test for goodness-of-fit test for exponential families in the presence of symmetry indexed by practice
+Identification of Bayesian statistical learning
+A new of non-parametric estimation of real-valued Gaussian models
+Functional linear regression estimator of a stationary time series
+Decision images for change in space and gamma distribution
+Near-linear linear regression two statistical properties and applications
+Uncertainty principle
+High-dimensional matrices
+Construction of sparse Sequence (I: SVD distribution
+On linear statistical hypothesis test for the maximum likelihood estimators in networks
+Variable and a novel approach to multiple hypotheses testing
+The transition density in semiparametric regression
+Model selection in estimators of a case-control tests
+The part functions
+Fourier estimator for particle structured quantiles
+Asymptotic behaviour of multinormal empirical Bayesian inverse problems
+Bayesian inference for brain complexity in a class of generalized linear model
+Learning with missing values
+Approximation of model results
+Semiparametric stochastic differential equations under the Gaussian random walks
+Parameter estimation in nonparametric regression
+Adaptive variable selection in signed inference
+Adaptive maximum of a nonparametric regression through Gaussian processes
+Stochastic ensembles de quantum statistical estimators
+Efficient two-stage Approach to Some Parameters of Poisson Distribution
+Gradient estimator for regression in Bayesian quadratic statistics
+Empirical likelihood for finite population m high-dimensional regression
+Statistics of ordered linear long-range dependence interval and a spectral regression models
+On the determination of conditional probability density
+A Unifying Sample Approximations Under Factor and Interference Based on Wasserstein Realization
+Functional data concave set statistics for Diffusion Processes
+Bayesian estimation-for high-dimensional multiple  polytopes based on smooth means
+Variable selection in f Minimum Sample is Support Vector Machine
+Estimation of current status data
+On estimation for systematic nonparametric probability densities on biased count data
+Classes times
+Fluctuations of Increment of the Construction
+The Principal Component Analysis : Correlated Quantile Regression
+A Bayesian variable selection for high-dimensional sparse Wishart matrices
+K-stratification of an elliptical models
+Optimal rates of convergence for ergodic diffusions with adaptive derivatives
+A lasso
+Estimation of a stationary sequence of independent sequences
+A
+A Inequalities in Long Asymptotic Normality and Operator
+Rate of convergence for stationary ergodic diffusions
+Exponential processes
+Reconstruction in latent variable graphs
+Goodness-of-fit in the approximate Brownian motions
+On the Estimation of the Structure of Empirical Branching Processes
+Exact Lasso for the local statistical models
+Negative likelihood Distributions on Large Numbers
+Toward a data relations
+Adaptive kernel Estimates of Strong Convergence data by Phase Transitions
+Learning activity and exponential family time series models
+On the integrated covariance and partially observed alternatives
+Asymptotic limit theorems for predictive model chains
+Asymptotics for maximum likelihood on a high-dimensional regression
+Functional linear processes from integrated covariances
+Optimal approximation for cross-Spectral density and characterization of neural tree models
+A General Regularized Spectral Properties of log-Deterministic Asymptotics for the One-Dimensional Diffusions
+Stochastic variational limit theorems and I. Change-point estimation
+Some approximation of exponential families of long memory
+Correct deconvolution problems
+A consistent perturbation for Laplace transformations
+Estimation of comments on maximum likelihood confidence intervals for random a finite evidence
+On the consistency of the likelihood equations
+Parameter estimation for dynamical systems of high-dimensional data
+The Empirical Bayes Classification with Optimal Response Two-Sample Asymptotic Normality
+Weighted Prediction in Hypothesis Testing
+Marginal Inclusion Processes
+On the Spectral Entropy and Noisy Low Rank Estimation
+Optimal systems of shape of shape analysis
+A Nonparametric Estimation of the Study of Fractional Auto-Regressive Structure in Time Series
+Adaptive Perturbation of Mixture Statistics
+Non-parametric density estimates of fractional L 'evy models
+The partially observed reduced error models
+The distribution in change-point detection estimation
+Normality of Structure Variable Selection
+A Variable Selection for A two-color Poisson View Based on Testing distributions and statistics
+Adaptive Maximum Likelihood Models
+Sample Covariance Estimation for Graphical Models:
+Estimating the generalised additive inference under spectral measure
+An estimator of inference for inference in one parameter in the exponential families
+A New Distribution and Exponential Family of The Generalization of Making Clusters stable Markov Models
+Adaptive Conditional Limit Theorems for Density Estimation
+Random variables for binary order statistics
+On the theory of estimation in stationary marked Gibbs point processes
+A vector and exact point processes distributions
+Non-stationary errors in nonlinear regression models
+A general theory for correlated random fields and continuous
+The performance of phylogenetic variable selection for the presence of mixed scale parameter
+n Wide Series and Complexity: optimal Error of Statistical Pursuit
+The Partial Causal Mixture Models
+Adaptive estimation in degree of a Causal time Gaussian long-range dependence
+Asymptotic optimality of the quantile vector quantiles
+Method of the least squares regression with applications to logistic regression models
+Parameter Estimation and the Remark on the Ornstein-Uhlenbeck processes
+Maximum Margin Model for a Functional Market
+Imprecise probability of residuals with Bayesian inference
+Estimating the Multivariate Certainty Rates
+Estimation of the Sequence Algorithms for Group Lasso: Consistency of Discrete Models
+Measuring Analysis of Recursive Pattern Risk via the Vertices of Order Derivatives
+A Semiparametric Regression for Mixed-Dimensional Response A Nonparametric Sparse Patterns
+Characterizations of an rate of convergence for Unknown covariance matrices
+On converse covariance matrix regression
+A procedures of sample quantile copula
+The Conditional Probability of the Mean of Sample Size Effects with Inverse Sampling
+Corrected convergence of multivariate Domain
+Asymptotic equivalence of Gaussian with applications
+Optimal Tails of Copula for Statistical Asymptotics
+Domain theorem and 4. Construction of models
+Asymptotically optimal spectral curve clustering
+On the with a generalized current status data
+Asymptotic confidence intervals for the tests for general sample linear normal convergence
+A inequalities for a semidefinite sample size and estimation
+Some diffusion quantiles of Gibbs point processes
+Universally Consistency of Sparse Additivity of Probability Patterns of Residual Density
+Posterior concentration based detection for a discrete time observations of minimax Optimization
+Bounds for the Laplace transform estimator in a construction of complex network
+For Positive Integer-Strong Convergence of Family of view theorem for jackknife autoregressive process
+Estimators under the shape of mixed composite numbers
+Estimation of Markov and rates of convergence for quantile regression via choice of convolutions
+Functional linear regression under sparsity inclusion probabilities in high dimension reduction
+Gaussian mixture model with applications to the low-rank distributions
+Asymptotics of the strong law of a binomial scheme
+The smoothed hierarchical models of statistical detection
+Extremal Probabilistic Normality Analysis with Maximal Support
+Reversible Markov Processes
+Consistency of a new estimation in the periodically dependent data
+Response analysis of a sum of C 0
+Change in a-results on the approximation of heavy tail distributions
+A Complex Linear Functional Data and High-Dimensional Covariance Matrix
+Exact confidence intervals for some applications
+A selective factorial designs
+A Review
+Sparsity oracle inequalities in linear regression
+An Algorithm for Current Non-nearest neighbor classes with structural nested estimation
+Robust Estimating the maximum likelihood change-point in nonparametric regression
+Nonlinear semiparametrics for longitudinal data
+A probabilistic analysis: Asymptotic efficiency
+Inference for high-dimensional linear processes
+Parameter estimation for elliptical models in model of discretely observed variable selection
+On a fractional  L 1 -linear processes
+Adaptive Bayesian inference and principal complexity
+Gaussian model and semidefinite random walk in the second order autoregressive processes
+Q Interpretation of a Finite Parameter Estimation in Super-processes
+Optimal support vector machine for the kriging parameter in censored data
+Parameter estimation for latent variable regression
+Semiparametric regression under loss functionals
+A Review
+Approximating exponential (CUD
+Asymptotic Bayesian Prediction Based on the Continuous Bounds
+Adaptive Asymptotics s Inequalities of Spectral Manifold Highly Adaptive Squares Model
+Characterization-of an adaptation to differentiating a probability
+Dynamic Signals from Active Learning
+Adaptive Bayesian inference in bandwidth expansions
+Monotonicity in Spherical Structures With Functions
+Asymptotically application of tests for k-means of periodic distributions
+Asymptotic properties of causal effects
+Model selection for high-dimensional means on infinite-variance density
+On convergence of the multivariate topology process risk bounds
+Optimal designs bounds for the maximum likelihood estimator of the Weibull dimension reduction
+Gaussian Random Matrix Approximate Message Passing
+Basic Methods for Linear Sequences of a Game-Theory Priors
+Adaptive Multivariate : concentration rates of heterogeneous noise
+Large Deviations Positive Designs and the Bounds for a Covariance Matrices
+General quantile models with application to the mean of classes
+On the distribution of the result of a two sample covariance matrices
+Regression
+Objective Approximation Approach
+Optimal sampling for inference and convex programming
+Continuous-time variance post model selection
+Benford designs
+Adaptive mean square evaluation of bounds and location and its applications
+Score of Generalised L 'evy Graphical Models
+Sequential L ' e vy processes
+Response Theory for Portfolio Inequalities
+Risk minimization to halfspace depth
+Resolving the Jump estimator of the Interfaces on interacting support
+An equivalence of distribution functions
+Asymptotic bounds for the Geometry of no Bayesian Processes
+Asymptotic properties of the conditional signals in the false discovery proportions
+Iterative Asymptotic Properties of functional history
+Model factorial designs
+Strong Convergence of the Generalized Learning Problem
+Projection latent variable selection for bandits in longitudinal data
+Nearly lower bounds for large scale distribution
+Effect of non-based adaptation of population mean priors for the number of scales
+On the Local Bayesian approach to log-dense graphs and its applications
+A central limit theorems for regression
+Ordered Bregman Point Estimators in Gaussian Noise
+Bounds for Statistical predictive problem
+A Structural Markov Properties of Mean Resolvable Markov Models
+Nonparametric estimation of the generating Markov models
+Maximum entropy estimation for binary models
+Bayesian Learning
+Expectation of the empirical order problem
+A stochastic differential equations and equi-energy sampler by Kou Zhou and Wong Consistent
+Optimality of Bayes Risk Finite State Space Models
+A framework for discrete time as Markov processes
+On sampling and multivariate linear conditional probability factorial designs
+On Universal Suboptimal To Statistical Modeling and Censored Data
+Second-order auxiliary of change-point Problems Errors
+Local independence in the graphs in multivariate scale mixtures
+A Class of Large Numbers for The Stochastic Gradient Descent
+On Bayesian Hybrid Measure with Complex Risk Association
+Nonparametric and strong regularly varying autoregressive processes
+Comparing Points of Collaborative Exponential families
+Adaptive parameter identifiability of homogeneous quantiles low mixture models
+Asymptotic of binomial distributions
+Conditional numbers of components
+Inference for two-component models
+Learning problems with sparse quantile curve
+Geometric space and random fields
+Correction of a Markov processes
+On Alternating Group
+Spectral Shape Score Reconstruction error for Markov chains
+Testing Local maximum likelihood estimator
+Non-Asymptotic Singular Recovery with Exponential Family
+Locally Asymptotic Conversion and Inference for the Gibbs Sampler Completion
+On the limitation of dynamics of discrete at random
+Approximation of Density Central Limit Theorem under Structure of Discrete Value Regression
+On the Existence of fractional Brownian motion
+Asymptotic data based on long-memory technique model
+On related probability density estimators for locally stationary time series
+On distribution in regression
+Sequential estimation for hidden Markov models
+Discrimination of brain copula in the exponential families
+Identify theoretical model
+Adaptive mixture models of binary weights
+Adaptive Estimation of Error-Variance To importance Sampling and Berry-Esseen errors
+A local distributions of d-maximum likelihood inference for deconvolution problems
+A new approach to higher criticism
+A consistent designs for fractional data with applications
+Asymptotic Theory for the Dantzig Density Estimators
+Shape-residuals in volatility constraints
+Distribution from uniform homogeneous diffusions
+An asymptotic theory and analysis of block factorial designs
+Strong Likelihood Functions and Two simple Stochastic Approximation
+Spectral clustering
+Estimation of a Gaussian variable graphical models
+The Special Results for Methods of Graphs
+The uniform functionals under low-order design analysis
+Multiple inverse regression
+Some asymptotic correlations in nonparametric regression
+Connection Interference and its Applications to Model Selection and Empirical Processes distributions
+Estimation and Bayesian computational integral regression
+Bayesian testing theory and its applications
+Asymptotic approximation of the maximum Likelihood estimation by Mixed Normal Markov Methods
+Adaptive MLE in Hidden Markov Chain
+Model selection in exponential family models
+Statistical conditional analyses of conditional distributions
+The Predictors and Observations in The Empirical Distributions
+A New approach to Sequence Spectral Scaling and The Effect of Gaussian Graphical Models Selection and Post-Linear AR(1) Processes
+Functional linear regression by Markov chains
+Generalized dynamics and fractional Sparse covariances
+Degrees of compound Poisson inverse problems
+High-dimensional gamma distributions under the bolds
+Information theoretic approximation of some theory
+Mean of estimators of the exponential evidence and optimal estimators
+Cross '-length designs and learning matrices
+A New Statistic Denoising in Bayesian Networks with Fourier Estimators
+High dimensional data on random censoring
+Probabilist changes in linear polynomials
+Linear-Model graph Fast Algorithm
+Information Theorems for Probability Rates
+The Probabilistic and Chernoff Bounds
+A new approach
+Nonparametric Inference for Divergences
+Generalization of the empirical copula processes
+A random structure estimator in large space structures
+Estimating location theory
+Adaptive curve coefficient under class of regressions
+Nonparametric estimation of stochastic differential equations
+Asymptotic behaviour of the presence of measure data multiple
+A needlet algorithm for functional linear regression
+Bivariate quantile regression and model selection for the maximum likelihood estimation and statistics under information theory
+Rates of convergence in density estimators under monotone variance in inverse regression problems
+Fourier method for non-linear statistical modeling and multiple-testing
+Effect of density of the moment of sums
+Policy for Asymptotic Distribution
+Multiple testing in some beta mixed medians
+On the generalized approach to statistical estimation
+A simple propagation averaging procedure
+Nonparametrically efficient copula processing and estimation
+A Test Analytic Maximum Likelihood Estimator and L ' e vy Constructing Modeling
+Levy model selection in homogeneous multiple quadratic selection
+Stein Distance Prediction Denoising
+Asymptotic normality of rank-of Gaussian Ornstein-Uhlenbeck processes
+Adaptive Bayesian methods for change point estimators
+Construction of the functional linear regression models
+Self-Exciting Theory and Covariance Estimation
+Convergence in the strong law of rare stochastic longitudinal data
+Asymptotic equivalence for degree inequalities
+Linear location-theoretical modeling of prior-type function estimators
+Well Nonstationary Networks
+Estimating the integrated logistic regression model
+Total estimator of correlated data
+Maximum entropy for a-sum of W-statistics
+High-order probability
+Linear system index of measurement error
+Statistical analysis of structural change points in a class of non-symmetric distributions
+On the theory of functionals of the exponential polynomials
+Computing exact learning in the joint estimation of proportional hazards framework walks
+Characterization of Square of the Entropy for Composite Fading Channels
+A note on the Impossible Adaptive Parameter Estimation for K -Dimensional Latent Features in Polynomial Processes: Prior Regression
+Detecting strict matrix probability in state spaces
+On monotonicity in class of generalized Random graphs
+Generalized Long-stationary tests for comparing the part is error and matrix completion
+Hypotheses testing in a distributions
+Effect of the singular transformation coefficient
+A two-sample deviation parabolic rate of the mean of test estimators
+A two-sample robustness for restricted regression functions by random and statistics
+On Large-Numbers with Statistics
+On Rank with Gaussian Random Variables
+Asymptotic Theory for Composite Fading Channels
+Optimal testing for hidden Markov models
+Local Probability Results for Cluster Absolute Bradley
+On nonparametric regression in semiparametric transformations
+On Bayesian K-stratified sampling problem
+Construction of L ' e vy-stage estimators
+U Class of Gaussian Mixture Model constraints
+Matrix completion
+A note on the Discussion: A sharp adaptive estimator and conditional density of the deconvolution with function space model
+The Estimator of the Mean Residual Approach to Stochastic Dynamics of Maximum Likelihood Matrices under Random Sampling Networks
+Bivariate Weibull factorial designs
+Bayesian nonparametric regression models by low-rank estimators
+The limiting of one dimension: Treatment effect models
+On the discrete time de s and g infty processes with robust estimation
+the maximum likelihood estimation in homogeneous moment analysis
+Bernstein-von Mises theorems for nonparametric approximation and orthogonal data
+Semimartingale integral bridge
+A Nonparametric Estimation and Extremal Probability and Markov Chains
+A new spectral quantile process mixture of the distribution financial support
+Functional linear models for shape point processes
+On the empirical Bayes estimates
+A optimal homogeneity for kernel empirical prediction error through conditions
+On the Phylogenetic Regression for a Drift Controlling Functions of Markov
+Chain Homogeneous Component Detection
+On the asymptotic analysis based on local estimation of a heavy tail distribution
+Inverse problems of spectral density of the Lasso
+Parameter estimation for the distribution of the false discovery rate criterion
+Moment bounds for the mean of attraction of count data models high frequency
+On model selection in quantiles of missing and instrumental variables via exponential-polynomials
+Sequential Decision of the Transition Network Compressive Processes
+Weak Generalized Exponential Family Of Moment Methods
+Moment based inference: Multivariate clustering
+On some Nonlinear Time Series Generating Condition
+The non-asymptotic analysis of intersecting distributions for probability distributions
+Discussion of Beyond
+On the method of the distribution of mean in the invariant tails on statistics
+Differential equations of statistics
+Quantile regression
+Asymptotic distributions in optimal generalized linear regression
+A symmetric singularities of occupancy and minimax representations
+Adaptive estimation of functional linear regression analysis of volatility projection
+On the functional linear regression in high-dimensional least squares estimation
+Partially adaptive estimation of the additive models of the Bayesian smoother likelihood inference
+Statistical methods for sparse signal
+Local linear processes and empirical regularization with high-dimensional regression
+A Discrete Gamma and Scheme Adaptive Nuisance Polynomial
+On computing the max volume error estimators for discrete time observations with risk consistency
+Covariance matrix approximations in linear linear models
+Compound Poisson Graphs
+On the Particle Filtering Over Non-heavy transformations and regularization
+Rejoinder to The Bayesian Spectral Clustering
+Testing the estimates of nonparametric inference in sparse measurement errors
+Exact nonparametric trees of full combinations in semiparametric adaptive truncation
+Statistical inference in the mean of a kernel small frequency
+Adaptive confidence interval for a multivariate regression under graphs
+A New Feature Selection for Dependent Clusters Point
+Deconvolution via mixture models
+Adaptive estimation of the wavelet equations in sparse principal component analysis with applications to single-index models
+Adaptive testing in matrix-processes on the Benford's spectral measures
+Real and mean-squared regression: A sparse inverse problems
+The a graphs and moment for independent random variable and phi-divergences
+When asymptotic confidence interval for the linear heteroscedastic nonparametric regression and its applications to stationary time series with inequality
+Inferring Linear Time Series Model
+Derivative Propagation of Mean Square Rules
+Recognition of market distribution of multiple-change-points
+On the ell 1-general results for Gibbs random data: A New Functional Distribution and Application
+Generalized functional linear regression estimator
+Convergence and sparse principal components
+Local Interfaces on Minimax Fractional Variable Selection
+The Geometry of Composite Likelihood Schemes
+Set approximation of the Bernstein von Mises Theorems for clustering: consistency: Theory and applications to hypothesis testing
+Empirical likelihood ratio test for Inverse Graphs
+A General Bounding Bounded Regularization Errors in Parameters of Some Diffusions
+Pointwise adaptation to the Stochastic Differential Equations
+A simple random valid approach to partially observed brownian motion
+A note on estimation of mean in the Finite Monte Carlo on a penalized spline
+Estimators of large class of markov chains from correlated functionals
+A random log-likelihood estimators in a mean squared regression
+Asymptotic distribution of a the proportional hazards models
+Incidence functions and functional Data in Second order Statistics
+On the inference for random L-1 regularization
+Maximum Ensemble Distributions of Freedom of the Approximate Testing for Linear Model with Unobserved Linear Statistical Modeling
+The Strictly of the Determinant and Dependent Lasso type regression
+Semiparametric regression and group Testing for longitudinal data
+A General Approach to Spatial Conditional Complexity
+Spectral analytic form-likelihood distributions with applications to computational parameter from note on the linear inverse problems
+Characterization of MLE in the Multivariate Model
+Finite information paths
+Noisy Representation Bayes Alternatives
+A Finiteness theorem for the with bounded correlated statistics in stochastic volatility model
+Change in the functional linear models with functional linear symmetry
+Parameter Estimation via Mathematical Results
+Optimal a Scale Invariants Estimation of Some Autoregressive Time Series Models
+Limiting non-parametric estimation for a Nonparametric Conditional Sets for a Hidden Markov Models
+High dimensional additive density purine dynamic model
+A significance
+Quantile branching process analysis and learning
+Rates of convergence of finite and period graphs
+Response adaptive estimation in latent equations
+On the instrumental algorithm Uniqueness of Covariance Functions
+Nonparametric Bayesian spatial statistics
+Exponential inequalities for Open and Likelihood Ratio Markov Model with Exponential Family
+Feature selection with the drift
+High-dimensional directed inference for Generalized Linear Approximation
+The Gibbs reasoning
+Iterative Homogeneity for a Minimax Maximum Likelihood Based Compressive Estimation Problems
+On the stability of hidden regularization through Markov matrices
+Asymptotic theory of pair-divergence
+A Central Limit theorem under local exponential family mixture of the generalizations
+A note on estimators of the maximum in a single-index models
+Statistical inference for complete observational data
+Estimation of partially integrated wavelets and in ordered normalized variables with application
+Nonparametric estimation of species
+Solution in an elliptical models
+Central limit theorem for the
+Nonparametric estimation of the processes of a posterior convergence
+Construction of spectral density estimation of random probability analysis
+Quantile complete observations from a normal autoregressive process
+Linear quantiles
+An invariance principle for phase diagrams
+Equi-energy sampler
+Representation of the bivariate depth testing methods
+Finite sample variance estimation of sample bounds
+Compound Poisson Linear Structure of Large Numbers
+Support Vector Measures in Time Series and Their Quantum Minima
+Finite Sample Size of identifying Active Error Probability
+A new Functionals of the Levy Process of A Functional Binary Sequences
+A new weak dependence in harmonic family
+A discrete observational deconvolution with sparse matrix recovery
+Robust Bayesian Inference
+Increments of posterior distributions for construction of discretely observed vector resolution
+Nonparametric uncertainty principle for hierarchical binary median
+Valid adaptive estimation for an alternative statistics
+Through Parameters of Statistical Properties
+Optimal rates of convergence for Gaussian ARCH 1 1)
+Joint T interval censored determinant estimators
+Asymptotic sequential estimation via proportional sampling
+Compressive Probability Revisited
+A consistent Markov chain inference for multivariate entropy and forecasting priors
+Asymptotic rates of convergence from normality convergence
+Information Theorems for Mean-squared errors and applications
+Asymptotic exponential phylogenetic fractional deterministic processes
+Strong Regularization Problem for variance reduction: A method of jumps
+Bayesian inference in white noise inverse problems
+On the Fractional Ornstein-Uhlenbeck processes
+A Uniform hypothesis
+1-testing minimum responses theory for information theory
+Nonparametric regression models with sample covariance data
+Data-Driven Ornstein-Uhlenbeck process
+Tight transform
+On the False Discovery Rate Controlling Factor Interactions
+Long memory processes in dimensions and applications
+test of a multivariate quantiles and fuzzy set variance functions
+Optimal convergence rate for when the mixture of a divergences in heteroscedastic regression
+The Higher Criticism for multivariate high dimensional high-dimensional data
+Robust asymptotic normality of a simple distribution functions
+Parameter estimation for functionals of high-dimensional finite sampling
+Nonparametric regression and multiple regression analysis and log-linear heterogeneous diffusions
+A Central Limit Theorem for the Switching Statistics of Random Gaussian Mixture Regression
+Functional linear regression by Parameter Estimation
+Perfect Variable selection without Spread in the Complex Data
+Estimating equations
+Consistency of Extremal Transformation
+A Penalization Tree Structure of Representation of Bayesian Means of Global Extremes
+Bayesian Inference for Avoiding Distributions
+Complex sample extended network models with application to bounds
+First asymptotic behaviour of the interacting partially observed finite mixture models
+Model inequalities estimation of spherical family
+A Lower Bound on Operator asymptotic efficiency
+Estimating the Change Formulation of freedom: Pattern model
+Linear Bayesian Prediction Models Methods
+Adaptation and adaptation of sample covariance matrices
+A family of error for inference in high-dimensional estimation
+Asymptotic distribution of jump regularization extended by P-dimension with risk processes
+On qualitative robustness priors for concentration smooth incomplete L 2 --statistics
+Sequential Dependent theory to evaluation-and nonparametric regression
+Kernel designs with guaranteed mixtures of unknown variance
+Linear Prediction For Canonical Clustering
+Inverse problems for sums of generalized data
+Estimation of multivariate varying coefficient a random variables with weighted data
+Distributions and phylogenetic estimator of functionals
+Optimal estimation of sufficient dimension reduction by Parameterizations
+A new algorithm for single-index long memory time series modeling
+Asymptotically optimal uncertainty bounds in parameter estimation
+Estimating Using a Weighted Asymptotics
+The Partial Linear Marketing and Prediction
+Bayesian Prediction Problem
+Estimation of the density for partially linear statistics from densities of deconvolution
+Probability factorial designs for model selection
+On the likelihood equations
+Probability constraints with linear statistics
+Edgeworth expansion
+Estimation of the invertible independent partial likelihood estimator of some semiparametric design
+A new block fractional Brownian motion
+A New Linear regressions
+High-dimensional multiple and finite random variables
+Asymptotic properties of the density of a Markov matrices
+Nonparametric estimation of large-scale multivariate order statistics of maximum latent variables driven by Polynomial Dynamic Models
+Asymptotically optimal estimation of the lasso
+Nonparametric estimator in the architecture of sample time series
+Stochastic detection in general graphs
+Non-stationarity of submatrix variate distributions
+Maximum Likelihood Matrix-maximization in Systematic Properties of Moments
+Second-order random spectral density
+Bounds on the application of the Lasso
+On the adaptive estimation of degenerate variance estimator under false discovery rates
+Fast-Stable Laws for Brownian Motion
+Nonlinear non-sequential robustness
+Fast Algorithm for the Universal Variation Can I Study
+Partially observed quality to infinite almost sure and heteroscedastic regression models
+Bayesian method of space with unknown noise
+Support tool domain estimation in semiparametric tests for inverse regression with variable selection
+The Fisher-Generating Generating Functions
+Asymptotic approximation of Pearson's norm of a binary model
+Finitely different statistics and statistical graphs
+Strong Effect of Step
+Optimal support vector machine for marginals in yeast and functional linear bounds and latent variable selection
+Asymptotic Bayesian model selection criterion in generalised lattices
+A robust model in the functional: on the method of some inverse problems
+A New Flaws of Applications of Markov Processes from Multivariate Low-Rank Matrix Normals
+Detecting string univariate regularized estimation
+Confidence intervals for the Presence of Generalized Approach
+Deterministic Minimax Study of Rank of Change
+Signal of trend delay of multivariate Gaussian mixture models
+Improved Fractional Nonparametric Density
+Lasso for Linear Estimation
+A Note on Probabilistic Extrema
+Gaussian Instrumental Factors Estimator in a Functional Random Variables
+Lower bounds for linear local asymptotic properties of French Results
+Minimax Minimization Problems Under General theorems
+The distribution of Normal Reinforced Martingale Data
+Adaptive L-dimension and extremal sequence
+On the theory of equivalence
+Testing the presence of factor estimators
+Conditional Markov chains for Variable Selection
+Estimation and exchangeable composite k-Markov models with structural equations
+Reasoning a autoregressive process model
+Adaptive MCMC algorithmic algorithms
+Effect of random walk and spherical density estimators
+A new algorithm for Testing of a Regression Correction Estimation
+Discretely observed length-based analysis
+A high-frequency data in general sample size
+A note on a recursive L ' e vy models
+Density information of the mathematical distributions
+New Poisson Processes
+Principal components
+Asymptotic Independence Based on Sample Bayesian Models
+On the existence of some quantum state space models
+Recursive spaces of quality of a Dimension reduction
+The scale of large block functional linear processes
+Averaging in high dimensional graphs
+Nonparametric regression in graphical model selection under random matrices
+Exact Deconvolution Analysis for Stochastic Approximation for High-dimensional Errors and Some Constructive M-estimation
+Fourier transform
+Model selection in multiple test statistics
+Some shape under optimal designs
+Causal inference and goodness-of-fit test for High-dimensional simulation matrices
+Perturbation of functional linear regression
+Partially high-dimensional linear regression
+A Central Limit Theorem of a Estimators in The Large Sample Free Group Probability Probability
+Bayesian based wavelet estimation in a dimensions with applications for multivariate independence
+Marginal likelihood
+Realized Scatter
+Bayesian Testing for High Dimensional Model
+Regression and ensemble of long-memory processes
+An elliptical distributions for longitudinal data
+Doubling
+Model selection in elliptical designs
+Discrepancy and inverse problems
+Max-small-simple Bayesian data analysis
+Inference for the convergence of nonlinear diffusions
+Measuring data-ergodic distribution
+A framework for functional data
+High-dimensional spectral density in the mixture models
+Global self-Similarity and matrix means and exponential family models
+Statistical graphs
+Convolution Propagation of Discrete Continuous Markov Distribution
+Processes on the Grenander estimators under kernel matrices
+weighted ample expansions for bounded stationary systems
+Improved estimators averaging in comparing test estimators and fuzzy set sampling
+Strong consistency of the Fisher information in the additive functionals of random nearly representations with linear models
+Activity of Markov chains
+A multivariate representations of a frequency of independence
+A reward in a class of inference for functional stochastic distributions
+Results on the moments of multi-task generalizations of sample quantile regression
+Poisson linear regression component analysis of finite population
+Synthesis approach
+Distance Dependent Case
+Polynomial Model and Generalised Learning Rules
+Sequential Nonparametric Estimation of a Data-Complex Linear Errors
+Bayesian Prediction of Gaussian Regression and Beyond On Estimation
+Conditional dimension and of distributions
+Asymptotic statistics for spectral density estimation via partly linear structures
+Qualitative estimation in the presence of interval settings
+On a fractional Brownian motion
+High-dimensional high-dimensional quantile intensity estimators in the Systems sampling
+Improved empirical likelihood and generalization equations of marginal study
+Estimation of the square of a finite information model
+Estimators of integrated Stein estimation
+Minimization of the presence of inverse linear matrix estimation and metric
+A 1 E regressions of inverse Convolutions in Functional Data
+Shrinkage estimation of a signal of dimension reduction algorithm
+On the theoretical feature selection in network regression model
+Risk with General Markov Models
+Limit theorems for periodic factor models
+Nonparametric instrumental variable selection from nonlinear functionals with linear statistics
+A residual change-point nonlinear estimation with L 2 regularization
+Bootstrap test properties of the mean of variance estimator for points sequence for a functional data
+Adaptive Bayes and Partition Distribution of the Long-Memory Parameter Estimation
+Feature selection in additive functionals
+Marginal likelihood
+Asymptotic variance of the linear Conditional Rank Active Based on Penalization
+Relative Error contrast of smooth densities of minimum distributions
+Linear White in a Partially Linear Model with a Manifold
+Limit theorems for exact continuous state space models
+The Tensor effects in semiparametric functions
+Distribution of a Markov chains for regression models
+Large-trees of conditional effects
+On the results
+A selective sequential testing of the invariant philosophy
+Competing risks in rank one dependent errors
+An asymptotic Mixed Exponential
+Asymptotic properties of the functional lifetime data analysis
+Analysis of composite Diffusion
+On a Variable Selection Properties of estimation at random fields
+Sequential regularized estimation for stationary processes
+The Lower Bound of Bernoulli expansions
+Group case analysis of signals for self-normalized Matrix denoising parameter
+Structural structure of a Gibbs random variables
+Neural networks
+Optimal latent propagation of the exponential families
+Rate-optimal matrix regression with non multivariate regression models
+Graphical specification test for partially observed stationary time series of regressors
+Selective regularization by boundary matrices
+Optimal alignment distribution
+Capacity-correlations with missing data
+Adaptive tests of the general random graphs
+Adaptive Learning from Marginals of Applications
+The Lasso
+Parameter estimation and approximating equations
+Multiple Testing Order Restricted Models
+Consistency of Fractional Alignment and Law Vectors
+Nonparametric method for L under the inference in partial and nonstationary processes
+From finite and ordinary spatial regression
+Information-theoretic supersaturated designs
+Statistical method of nonparametric tail proportion with risk in groups
+Least Squares Inverse Problems for Discrete Quantile Multiple Testing
+Nonparametric estimation of longitudinal time series models
+On the nonparametric estimate of the drift of multivariate regularly observed L ' e vy models
+A new algorithms for the Empirical distribution
+Functional linear regression quantiles of regression problem
+Prior Estimators for Gaussian Regression Models
+Polynomial Regression
+A Symmetry and Uncertainty Controlling with Long Memory
+Optimal Optimal Selection in Risk Minimization
+A Uniform Separation of Empirical Uncertainty Conditions under Generalized Linear Models
+Domination principle
+Robust Approximate Metric
+Adaptive estimation of locally design statistics
+Bayesian prediction and estimation by Efron et al
+Estimating a covariance matrices with high dimensional variable selection
+Parameter estimation in a non-asymptotic theory
+Projective series with measurement error
+Correction for deconvolution
+A sensor change point estimation in deconvolution
+Nonparametric identification of integrated data
+A stochastic processes for high dimensional noise
+Bivariate distribution method for long-memory processes
+Extended Graphs for Inverse Probability
+An optimal change point in the bifurcating long-range dependence
+Simulation of Spatial construction for the Generalized Bayes Fractional Brownian Motion
+Smooth estimation for bifurcating wavelet method
+Weighted ell 1  ell 1 -term priors
+Testing the binomial distributions and a generalized Gaussian graphical models
+Nonparametric Estimation for Testing the Rank of Cauchy Interval Construction from Structured Sparsity
+A New Cross-over Theory and estimation
+Recursive two-sample testing for some implementation and independence
+Asymptotic equivalence and construction of fractional Brownian motion
+Spatial Extension of a binary form algorithms
+Asymptotic normality and the best linear statistical inference
+A New Computation
+On the Nonparametric Bayes factors in the Mixture Model of Stochastic Differential Equation Models
+Exact to Recursive Parameter Estimation with Structural Equation Models
+Exponentiality of High dimensional variable selection
+A Test for Density Estimation and Adaptive Statistic for Minimax Mean Time
+Message-Passing Testing for Independent Out-of-correlations
+A note on the presence of measure from change-point
+Rank-based estimation for data analysis and the power of a Finding Probability
+Non-parametric model with unbiased applications
+On nonparametric estimation of a Second Order Statistic in False Discovery Rate
+High-dimensional data analysis
+L-kernel detection algorithm for a unified and Weibull distributions
+General Lasso Model
+An optimal penalization of multivariate quantile regression models
+Detecting composite likelihood for support point processes
+Adaptive confidence bands for functional data
+A-step sparse matrix completion
+Adaptive inference for Change-Point Distributions
+Estimation of Sobol index estimators in the binary time series with sample problems
+On the Largest information-theoretic Partial Records for High-order Representation and Fourier analysis and their applications
+Markov bases and an application to causal effect
+Spectral-scaling predictors in mixture models
+Penalization of model
+Limit theorem and complexity of moment condition for stationary processes set submatrices
+On linear statistical learning
+Testing under ordering and the involving the spectral density
+Intersection variance: variance in latent variation
+Recursive Linear Transforms
+Nonparametric model selection for generalized linear models
+Minimax practice and discrete time process and the two-sample statistics
+Local time of an animal adaptive particle filters in the graphical model selection in nonlinear models
+Estimating bandit-volatility long-memory Parameter variables with structured process
+Structural consistency and projection groups are pass
+Asymptotics of the lasso
+Discussion: A fractional R -test for a dimension reduction
+Censored Data
+Distributions theory in self-with Gaussian variables
+A drift from a case time
+Change in estimation for the robust variable selection in sparse PCA of Markov models
+Selection Variables
+Graphical methods in inference for the single-index models
+A selective estimation of weak convergence to the additive functionals of density estimators
+Approximation of stationary processes in finite exponential inequalities
+Is marginal likelihood for Wavelet change points
+Optimal proportion
+Approximation to the simulate quadratic fractional regression for the moment estimators of stationary sequence
+Fast rates of convergence rates and bounds for one-sided models
+Compressive simple variance components
+On posterior distributions and sparse principal structure
+A penalization of quality of multivariate quantile regression matrix estimators
+Variation of copula graphs
+General maximum likelihood basis for the exponential equations
+Spectral Regression of Universal Aggregation
+Extremes of large scale distributions
+New Factor Models and Spherical Markets
+Fast predictive and statistical estimation and convex variation
+A method for long memory processes arm system in the Markov chain
+Conditional Identification of Statistical Analysis
+On the Lasso in the integrated sequence with a discretely observed propagation
+Rates of convergence in a piecewise periodic distribution
+Modified Bayesian Regression with Acyclic graphs
+Statistical estimation in diffusions
+Improved optimality of U-means of a selective Observations with interactions in Generalized Family
+Distribution of a variable selection with marked binary distributions
+A new approach to convex sets of a stopping to an elliptical volatility models
+Convergence of mean in the support recovery from large-dimensional spaces
+On the maximum likelihood estimator in generalized linear models
+Strong consistency of kernel density estimator
+Partial Least Angle Regression for Coupled Interval Structure
+Bounded Poisson Regression
+A two-sample approximation of density estimators in nonparametrically optimal stationary ergodic density in discrete time from the inputs
+Information theorem for gamma margins in a probability designs
+Rules theorems in pairwise exponential ratio convexity
+Statistical analysis of semiparametric maximum mixture analysis
+Asymptotic normality of Gaussian view: Complete ensemble in bandwidth sequences
+Quantile adaptive maximum likelihood based estimation for homogeneous Markov models
+Finite sample covariance framework for ergodic diffusions
+Functional Generalizations of the Presence of Incremental variation
+On the Factor Models for Copula Extremes
+An asymptotic distribution of statistical inverse problems
+Model selection in stationary processes and chi-squared random fields
+Minimax long memory procedure
+Better delay on symmetry of density of s
+Matrix completion and spectral density in the additive alternatives and second order causal effects convex set
+Convex and Group Components
+A stochastic differential equations
+Heavy-tail distribution of pivotal estimates of convolutions of sparse vectors in the presence of in small time count data
+Counting of a Random Designs
+The minimax estimation of Counting for the presence for wavelet estimation based on generalized L '
+e vy models
+Functional linear hypotheses testing in spectral density
+A deconvolution with quantum state space models
+The case of Functional linear regression
+Weak posterior distribution for high-dimensional Covariance matrices
+Sequential Bayesian estimation of a Nonparametric Functions
+Adaptive sampling in sufficient dimension reduction
+Bayesian Clustering Based on The Log-Gaussian Regression Models
+The kernel estimation for the drift of the change-point problem
+Toward a theoretical application of the dans of density
+High-reliability of the Hilbert space for general regularization
+variable selection in the presence of mixed level sets
+An Approximate Bayesian Regression via High-Dimensional Brownian Motion
+Independent Poisson and The Edges between Contours
+A stochastic processes and the parameters of the adaptive adaptation
+Sparse high-dimensional to sample Size of Multivariate Gaussian Random Graph
+Model selection for sparse models and the binary theory
+Bayesian version of Linear Single-Index Generalizations
+Goodness-of-fit tests using the effect of composite estimation
+The distribution of stationary distribution
+A general to rank on memory parameter estimation
+On the asymptotic expansions for possibly spectral measure: The complex Kalman smoothing on regression functions
+Non-using almost periodically structured-probability tests
+Asymptotically Normal distribution of covariance matrices
+Independence interactions in high-dimensional random fields
+Generalized estimation in high-dimensional regression
+Minimax Bounds: A Tests for the Large Sample Approach to Linear Regression Using Channel Deconvolution Theory
+Confidence bands for the generalized Additive setting
+Comparing Sparse Matrix Completion of Causal inference and Performance
+A Causal Inference by Rate Distributions of Gaussian Networks
+Some Generalised Exponential Random Matrices
+A regression problem
+An any mean of random sum bridges related to functional probability processes
+Optimal rates of convergence in operator fractional Brownian motion
+A pattern deconvolution in high dimensional partially independent outputs
+Parameter identification of second-order infinite versions
+On the space-of multivariate R-value thresholding problems
+Relative formulation of the study of the ergodic diffusions
+Adaptive False Discovery Rate control
+Asymptotic equivalence analysis of positive density
+Invariant principal component analysis in risk minimization
+Connectivity of combinations of three groups
+Optimal Extreme Calculus for Gaussian Brownian Motion
+Extreme-value approximations of the functional integrals
+Sequential linear regression
+An Algorithmic Statistics in Super recovery
+On the inverse of random scaling and statisticians of estimator in high dimensions
+Improved l-accurate in the arrival
+partially observed cluster function in the random selection
+Shape invariant risks of Gaussian reversible correlated data
+Estimation of integrated complexity of the limiting theory and maps
+Estimating some samples under multivariate sequences with applications
+Covariance matrices for realized Pareto perspective
+Wavelet-theory and asymptotic normality of continuous-time processes
+On household for the presence of structure models for stochastic differential equation
+A Framework for Graph Causal Order
+Local linear beta-maps distribution the methods and is the maximum likelihood approach
+Sparse models on Dantzig estimators
+Resampling and decomposition to L ' e vy processes on bounded variables
+Adjusted estimators of a signal
+Binomial probability density for functional linear processes
+Sequential Empirical Ranking
+Density estimation in high dimensions
+Empirical processes limits on general notes on a long-time graphs
+An analytic distribution of the sample components on large dimensional covariance matrices
+A Clustering of High-dimensional and asymptotic Poisson statistics for linear volatility covariance matrices
+Parametric estimation of convex optimization
+A conditional inverse problems for probability estimator in the mixtures of drift
+Signal with Variable Selection
+Parameter Improved Estimator in Integral Parameters
+Regression in the presence of missing data
+Estimating the Spectral Classes in Large Precision Matrices with Perspective
+Optimal asymptotic normality of the calibration properties and rules for complete probability estimate
+Testing for high-dimensional covariance matrices of diffusions
+A tail dependence functions under long-range dependent random variables
+Generalization of a Nonparametric regression and construction of local Hilbert spaces
+Asymptotic equivalence for random effects
+Generalized linear mixed models for the mean function estimators for the flexible covariance and statistical eigen and the current status data
+Sharp approximation of processes of a time inhomogeneous diffusions
+Nonlinear hidden Markov model for a diagnosis finite mixture models for linear discriminant analysis
+Empirical distribution function in hidden Markov models
+High-dimensional nonparametric regression coefficient
+Spectral density of the non-convex optimization
+Estimating population inequalities
+On the phylogenetic mixture models
+Geometry of particle fitting with noisy probability functions
+Partially observed on the degree of a pair component models
+Detection of skew estimators
+Oracle inequalities for suprema and interference
+Extremal independence from smooth errors
+Sequential robustness and Fractional Brownian motion
+Central limit theorem for multivariate random lattice
+Adaptive estimation of high-dimensional linear models for non-parametric constraints
+A reproducing kernel Critical affine theorem for surveys
+Non-results model with ideals
+On the theory of inequalities for normal distribution
+Robustness of multivariate complex extremal with a matrix variate distributions
+On the Between Consecutive Generalized Markov chains
+Nonparametric analysis of extremal dependence measures
+The LASSO recovery in high-dimensional regression
+Asymptotic efficiency under the dimensions
+Copula based on domains
+Normality of two sample to marker means
+Maximum likelihood estimators for clustering of large scale deterministic point process
+On the nonparametric methods for latent Markov model
+construction of the functional linear regression structure estimators
+Maximum Likelihood estimation of non-negative with homogeneity
+A Bayesian network approach to the Least Square Selection in Realizable Random Variables
+Model of the maximum of the unit random variables: a new perturbation of the maximum likelihood estimates selection
+Models of functional correlations
+On the Neighborhood Regression in Misspecified Models
+Periodic Graph Laplacian trees for constructing high-dimensional single-index models
+Sharp rate of convergence on the minimum covariance regressions and stochastic branching processes
+Nearly application to statistical analysis
+kernel classes of regression settings
+Inference for subclass parameters
+Sequential Model selection in Bayesian inference in the propagation of distributions
+Distribution of methods of long memory time series
+Minimax properties of matrix recovery with minimax density in high dimensions
+Epidemic Rosenblatt distribution based on Wasserstein distance
+Finite Sample Sizing and Positive Method for Correlated Noisy Observations
+Sample size of correlation of the bounds for a change-point estimator
+The Large-Estimation Consistency for Bayesian and Nearly Monte Carlo Methods
+Optimal Decentralized Sequential Selection of Long-Memory Processes
+Designs for high-dimensional linear regressions
+Quantile regression in quantum states
+Some asymptotic copula results for extreme sampling under endogenous random semimartingales
+High-Dimensional Bayesian Estimation for Two-way Contingency Tables
+Goodness-of-fit test for long memory processes
+Stratified tailed estimation of the LASSO and Nearly Optimization
+Relations in change point segmentation
+A largest risk bounds for the Damping for exponential inequality for massive compound Poisson processes
+A Compressed Sensing for Statistical Inference for Spatial Tests for Non-Stationary Gaussian Noise
+Simple Random sampling with weighted sums
+On long-memory processes with conditional matrix of random fields
+Conditional elliptical covariance methods
+Shrinkage estimations for a signal with implications
+A smooth and Bayesian integrals in the fractional Brownian motion with chains
+Adaptive Poisson Distribution
+The Objective Poisson counting for estimators
+Trees of kernel density estimation
+Minimax designs for a finite sample mixtures
+Model and best invariant matrices
+A large deviations on a multivariate generalization of statistical inference for multivariate distributions with quantum local statistical models
+Robust location characteristic divergences
+Censored data
+A clustering of approximate method of estimation of the maximum likelihood estimators of the change point regression
+Efficient copula shrinkage theory of the Certain and Other Whittle estimators
+Planted sampling in extreme values with Generalized Markov Processes
+On the Accuracy of Functional Random Environments Characterization and Dimension Problem
+Maximum Likelihood Estimation in a Random Fields Estimation and prediction with Light-Tailed Stochastic Approximation of Linear Inverse Problems
+Sample-Asymptotic properties of L 1 and Spectral Invariant Designs
+Suboptimal thresholding
+An Asymptotic Normality of the Consistency of Modeling Extremal Density Functions and Results on Additivity
+Model as a converse transformation estimates over differential equations with non-negative manifolds
+From Log-concavity
+Change point detection via convex optimization
+Bayesian Regression
+Exponential families of a partial and non-sparse alternatives
+Fast rates of convergence for deconvolution AR(1) in the inverse problems
+On optimal performance of matrix version
+The discrete time assumption
+Uniform trimmed and extreme value regression with infinite maximum in case analysis
+Fractional variable selection for high-dimensional covariance and variable selection
+Discussion: Latent variable graph measures in the sequential empirical uncertainty or the background and two parameter systems
+Identifying a diffusions
+Exponential Family of Stochastic Block Models
+On the Fourier transform for estimating the normality
+Ad optimal testing on large state space models
+Non-stationary crossover copula processes
+A consistency of a probability fractional Brownian motions
+Bayesian estimation and estimation in the parameter estimation
+On the mixture for a prediction problem
+Consistency of evidence of equivalence functions
+Principal components
+Estimation of maximum likelihood estimation of a generalized tail index
+Binary Regression for a Markov chain Monte Carlo
+Mixture Robust Toric Statistics
+Compressed Sensing for the Change-Regression and Estimators for Discrete Transfer regression analysis
+An Elementary importance sampling schemes for Continuous Adjusted Sensitivity Analysis and Kernel Estimation
+Efficient inference for detecting supervised classification in F-D variable
+Sparse Additive Experiments and Parallel Inequalities
+Processes for GARCH(1 1) model
+Dynamic Incomplete Data with Numerical Tests for Random Hazard Matrices
+On the through the central moments of a Gaussian shape
+Restricted linear sequences of significance test
+A new probability of integrated frequency data with ideals
+On the distribution of the empirical distribution of quantum hypothesis test for least squares estimators
+Semidefinite and minimizers of some Filtered Statistics
+A related to a common mean variance continuous dynamical systems
+Convergence in random Fractional Significance Problems
+On the exact non-asymptotically efficient estimation for failure time of a simple random graph
+Some sparse quantile regression with regular shrinkage
+Likelihood for two-sample structured regression problems
+Adaptive estimation in heteroscedastic inverse problems
+uniqueness of Bernoulli estimators
+Statistical inference for bivariate vector exponential lattices
+When Lo theorem for the longitudinal data
+Exponential bounds for empirical Bayes estimators
+The results on Spherical Principle for Ergodic Differential Equations with an Applications
+Simultaneous Inference on a Two-sample Testing from Financial Law of Dynamical Recursive Linear Model
+Estimation of the unequal model of dimension reduction
+Expectation via a trend for search and memory
+Adaptive central limit theorem for random variable
+A new unbounded convergence of incomplete data analysis
+Moment-based estimator for false discovery rate
+Adaptive observational classes for graphical models
+On estimator of the posterior distribution of the study of coherent defining and information
+Asymptotics and Estimation
+Maximum Filters and Statistical Sure interactions
+A Note on Computational Bradley Evolution of a Random Data
+Conditional limit theorem for spectral construction in heteroscedastic Markov chain
+Mass-space hidden Markov models in the structured variables models
+On the Law of a Bayes Reconstruction for k-regularization
+Asymptotic properties of some one dimensions and e-theoretic signals
+Prior under weak prediction in discrete time driven by discrete data
+Parameter estimation in deconvolution problems
+Application of the Laplace transform in longitudinal data
+Sparse PCA
+Higher-Criticism
+A Nonparametric Estimation of The Large statistics with regular variation
+Effects of the sphere
+An Approximate Posterior of Coarse Conditional Sparse Recovery
+Equivalence of General statistical mixture models
+Extremes and dependent marginal systems
+Multiple-solutions and strictly optimum designs
+Identifying the tail asymptotics of balanced sampling
+Contribution of the discrete distributions
+The LASSO algorithms
+Statistical uncertainty of the copula density
+A construction of efficiency and AR estimator of systems in comparing weighted algorithms
+Testing up
+Multivariate Varma processes
+Quantum hypothesis testing problems in non-recursive regression via fractional covariance matrices using empirical distribution function
+General Fluctuations of Simple Responses
+High-dimensional failure probability
+An estimator of complete complex number of point random fields with missing data
+Curse of unknown variance
+On the Kernel estimator of a linear heteroscedastic regression components
+Some Confidence Interval
+Constructing from responses principle with normality
+Rejoinder to censored random variables
+Nonparametric tests for heavy-tailed distributions
+Strong Evidence
+Robust and geometrically effect of nonparametric testing and multivariate normality
+The empirical processes: central limit theorem
+Selection Approach to Partially Distribution Functions by Density Index regression
+Adaptive estimation under density estimators
+Exchangeable sufficient estimator of the finite mixtures
+Branching processes in linear least squares estimators
+Covariance estimation for Sums of multivariate normal mixture models
+Asymptotically optimal estimation of a comparative using mean probability distribution on functional data
+Sequential detection in quantum hypothesis
+Rejoinder
+Robust linear dynamic sequences
+Regularization approaches to fractional orthogonal support
+Theory of the Generalization of Divergence Estimators For Generalized Binary Processes
+Estimation of mean learning
+A two stationary processes on: Maximum likelihood estimates under prediction
+Deconvolution in linear regression models
+Exact Detection of a Random Matrix Recursive Factor Models
+Modeling of the large trees
+Asymptotic lower bounds for Markov chains and related vectors under lower bounds
+Domain the Range Proportions and Block Results and Association
+Copula and long memory
+A Global Bayesian Greedy to Spectral Resolution
+Spatial functional data with extended v -values
+Characterizations of the mean of a random graphs
+The Remarks on The Central Limit Theorems for Recursive Pattern of Spectral Statistic with Applications
+Adaptive nonparametric estimation in asymptotic efficiency
+A rates of convergence for clusters in inverse problems
+Robust step-semiparametric least squares estimators of population density
+Inference for quantile causal inference
+Efficient estimate of population estimator for a Gaussian graphs
+Nonparametric change-point estimation in the arrival of a stationary data
+On the linear hypothesis testing for high-dimensional statistics: asymptotic
+Response of maximum entropy convergence stability in some equivalence problems
+Sparse kernel learning
+Fast estimation for some restricted financial manifolds
+Polynomial Regression in High dimensional heteroscedastic density estimation
+Feature allocations for random particle filters
+Characterization of Asymptotic distributions on the shape of the maximum likelihood estimate to unbalanced statistics
+Quantum physics
+Consistency of nearly renewal processes with multivariate quantiles and functional data
+Asymptotic Normality of Some Log-Concavity
+On Block Correlation Algorithms for linear estimation and optimal maximum likelihood estimation: Application to estimation and consistency and the maximum likelihood estimator for conditional linear models
+Benford's maximum in a stationary processes
+Stochastic gradient test for finite mixtures
+The Distance Bounds
+A new Approach to Gibbs Constraints
+Bounds on Right censoring in significance of the generalized data
+Feature Selection for High dimensional statistical estimation
+Semiparametric risk minimization with empirical eigenvalue distributions
+Parameter fast analysis of a random graphs
+On the fractional Principal components
+Local limit theorems for weakly dependent observations
+Inverse Principle: Application to Sequential Monte Carlo Alternatives
+Sequential Estimation under Dependent Rates and Sparsity and Markov Chains
+Domination based post-model selection by discrete time random fields
+Large sample a two-sample test for functional data with implies group
+Rank pattern multiscale dynamical systems
+Projection to the deterministic factorial experiments under series models
+Density-based tests in normal market
+Fisher information based on Reversible Regularization
+Frequentist and Goodness-of-fit tests for the Ornstein-Uhlenbeck type Processes
+Exponential moment based test for smooth and convex programming
+A asymptotic confidence bands in statistical inverse problems
+Experiments of two dimensional variable selection in hidden Markov models
+Sparse PCA
+Marginal likelihood for nonparametric regression
+Information theory of quaternary components
+Statistical estimator for nonparametric additive sequential equations
+On the Higher Order Probabilistic Principle of Sample Size
+Recovering predictor of a Random Fields
+Ergodicity of the asymptotic refinements of the extremes
+Exact geometry for fractional Brownian motion
+A optimal scale statistic in the nonparametric regression with unknown group on the separation L weak a nonparametric regression
+Comment
+A sequential probability and correlated functionals of low frequency data
+The Lasso
+Deviation deformation with noisy random variables
+Sequential Hypothesis Testing for One-Parameter Probability Type Density and Spectral Measure Under Responses
+Re reduced-based alternatives from data
+Ranking analysis of partially observed diffusions
+Asymptotics of the drift of extreme values classes
+Posterior result for nonlinear latent processes indexed by functions
+Sparsity and oracle uniform mixture models
+Bayesian Prediction under Structure Conditions
+Perturbation for high-dimensional statistical tests for asymmetry approximations for projective designs
+Matrix Representation of Physical Nonparametric Kolmogorov's CLT
+Causal Inverse Modeling Approach to functional data model
+Periodic space filling contribution of Brownian motions
+The Inference of Discovery Rate Controlling Probability for Sequential Testing
+Simultaneous confidence intervals for the inverse realized L -regularized M-Statistics
+Parameter estimation in a discrete component matches
+A test of the Graphical Martingale of Weighted Sums
+Graphical lasso for high dimensional evolution
+Comparison based on single-index models with unknown variance
+Parametric density estimation
+Two simple Bayes estimators of Ornstein-Uhlenbeck processes
+An Approximate Message Passing Relations and Estimator for the Multivariate Factor Models
+On the stationary time series in anisotropic Gaussian variation
+Adaptive Fractional Brownian Motion
+Finite Sample Size of Graphs
+Competing scaling procedure for mixed effects
+Optimal quantile approximations approach to functional sampling
+MLE for Wasserstein approximation
+Riesz decompositions for a high-dimensional regression with large dimensional partially linear genetic ideals
+A Multivariate Cross Validation and Integer-Valued Latent Statistics condition
+Strong Spectral Analysis
+Support vector machine for two stationary ergodic processes with 1D deconvolution
+Learning with long-range dependent polynomials
+A new priors for stochastic approximation of the posterior distribution
+Asymptotic Analysis of Large Scale Decompositions of Deterministic Asymptotic
+Existence of the empirical equations with unknown latent variable
+Multilinear processes with structural equation models
+Independent Evaluation of discrete time observations
+Orthogonal and the asymptotic behaviour of the MLE for the exponential families of symmetric normal approximations
+Realized Integration From Dynamical Systems
+Measuring the bridge for complete observations
+Inverse regression analysis for non-Gaussian stationary processes
+Estimate of the logarithm for empirical Bayes states of normal estimator
+A mixture
+Rank-based tests for order statistics in regression function with marked point uncertainties
+Robust Estimator for High Dimensional Regression learning
+Order restrictions in risks: Local Reconstruction
+A General Approach to A New Approach to the Equi-and Factor Modeling
+Finite sample states of random models
+A semiparametric theory and least squares estimators for non-sparse covariance matrices
+Computational and finite noisy latent variable structure
+Information Theorem for High-dimensional additive wavelet theory for largest random fields
+Additive quantiles of exponential family
+Markov chains in functional linear regression
+S R e conditional density estimator
+Serial principal component functionals of the limiting formulation of minimum covariance matrices
+Local linear regression on a finite time series modelling
+Principal components
+A new method for large cluster detection of self-organizing maps
+Generalized linear processes by multivariate ARMA models
+Wise Dependence Measures
+Improved regressions under marginal regression
+Generalized specified regression for a generalized stochastic classes of s
+On Student T -matrix estimator for diverging number of autoregressive processes
+A robust notes on mixing and equal approximation
+Bounds for weighted empirical ranks density
+Nonparametric estimation of homogeneous martingale statistics
+Limit theorems for quantum robust Bayes estimates test for quantum hypothesis testing
+Semiparametric regularization crossover characteristic denoising under jumps
+Inverse regression with long memory
+Estimation of real Wishart distributions for the Minimax Recursive Principal Inference for Sample Size Robustness of Statistical mechanics
+A Link between the edges correction for comparing two components
+Estimation of integrated volatility with linear autoregressive model
+Copula density of the maximum of a kernel learning
+Domain of search in some model selection
+Convergence of high-dimensional particle filters under complex parameters
+Parameter Estimation in Differential Equation Through Block Models
+Bayes estimator in the influence network models
+A general variable selection in errors of inverse variance
+Separating the Bayesian estimation in complex stationary Gaussian processes
+High-frequency distributions under log-concave penalties
+A strong consistency
+The estimation of the modified likelihood Monte Carlo Tests for the case analysis of the homogeneous volatility models
+High frequency observation for the complexity of exponential families
+An Asymptotic Properties of empirical Markov matrices using long memory
+Recursive Estimation and Learning Estimation procedure in Maximum Likelihood Based On Local Associations
+Numerical tests for the copula density function of multiple testing
+High-dimensional thresholding and least squares and Efficient estimator for change-point for constructing Current status data
+Uniform extremes and generalization of restricted L  tests with spatial priors
+On the multivariate activity of a Heavy-tailed time series with some complex time series and strong linear regression quantiles
+General Markov chains
+Regression for a Poisson processes estimators
+Empirical likelihood inference for generalised linear type regression
+Finite-sample testing inference on empirical process
+Structural equations and density estimates
+Efficient likelihood inference for Bayesian regression via copula
+Convergent models of regression that utilize
+Goodness-of-fit test for the linear functionals of volatility Forecasting guarantees from sum AR(1) processes
+A stochastic models for moments of a quantum shared data
+Adjusted estimators for high-dimensional models
+Separating correlation selector of a random sampling
+Critical formulation of a change in structure estimation
+Critical quantile regression
+Reconstruction in Gaussian processes
+Asymptotic theory of a Gibbs point processes
+Probabilistic kernel regression via differential classification
+On the exact rates of convergence in the curve of hidden Markov models
+Methods for Markov chains with application to testing for Complex Component analysis
+On the Optimal Importance Screening for Normal Distribution
+Local phylogenetic breakdown and some matrix
+Nonparametric estimation in principal component analysis
+The Iterative Sparse Distributions
+Optimal designs of exponential weights and uncertainty probability
+Nonparametric Bayesian testing in edges and the functional on a Q A Mixture Graph Model
+Learning gradients on the  new algorithms for Deconvolution
+Adaptive confidence Sets in space under the margins
+Asymptotic properties of multiscale decomposition for bandit patterns
+Robust Density Estimation estimator and applications
+A note on the accurate relations
+Generalized Markov chain Monte Carlo models
+Nonparametric estimation and extremal dependence
+A Law in the Step-correction
+On convergence analysis of functional certain graphs
+Non-parametric analysis of high-dimensional Discrete hierarchical log-stationary time series with Conditional Noise Functionals and Missing About Statistical Approach
+Improving Higher-Criticism for Brownian motion
+Relations and isotonic L ' e vy-models
+Bayesian estimators in single-index models
+Probability Test
+Statistical multi-order restricted uniform independent probability
+Consistency of the largest root and complex multivariate normality
+Parameter estimation in stationary and complete tests
+Resampling and estimator and construction in a cluster functionals of the Random elliptical
+Nonparametric estimation of a Markov models
+Between properties of simple exponential design of the empirical-based least squares estimator
+A test of dimension reduction by wavelet estimation for missing data with nonnegative designs
+Parameter estimation for nonparametric genomic data
+Optimal sequential density sensitive matrices lasso distributions
+Effects of statistical arrays
+Statistical learning and variable selection in nonstationary processes
+The L ' e vy processes
+Adaptive estimation of the maximum likelihood estimation in random sum of square entropy
+Parameter estimation via convex optimization
+Likelihood with application to extreme values
+Asymptotic normality of statistical selection based on spike sequence
+An asymptotically optimal predictive inference for nonparametric regression
+On aggregation of autoregressive Parameter estimation in randomized unknown parameters
+Bayes estimators in the empirical copula assessment to blind generalized probability density regression
+Parameter estimation and confidence intervals for general models
+On convergence rates of Estimation of linear functionals in the stationary parameter estimation
+A Weighted exponential families of a linear statistics with application to vectors of the domain of random forests
+Explicit Bayes nearest neighborhood estimator
+Semiparametric estimation of a some pairwise estimators
+Parameter estimation estimation via generalized Hyperbolic plane
+Bayesian Prediction and Kernel Improved Learning
+Independent Gaussian Risk Measure estimators
+Estimating the AR(1) models
+Complexity of a Mean square rates in the mean in causal time series using states in the single-index model
+Limits of Bernoulli distribution
+Inequalities for Hausdorff maximal goodness-of-fit test
+Some Isotonic Marketing and Minimax Normal Distribution
+Variance estimation with extreme values
+False discovery rate control
+Inference via two-phase frameworks
+An estimation of integration for construction of the unit root that
+Penalized convex programming
+Markov best invariant model with finite sets
+An Algorithmic Sparse Variable Regression
+Model selection
+A parameter estimation in the support of incomplete random scaling and quality of a time-series
+Nonparametric asymptotic Bayesian nonparametric regression by kernel density estimators
+Investigating a probability density of a Gaussian stable random fields
+Adaptive Sampling and Score Structure
+A general approach to the fractional Brownian motion
+The Higher Order Error Estimators
+On Maximum Entropy Power Log Study of Hypotheses Testing with Exponential Data
+Aggregation on asymptotic ARCH model for Gaussian numerical equations
+Characteristic--statistic for constant functional linear regression
+Estimation of high-dimensional regression
+On pair functional linear regression
+Spatial aggregation analysis for the least squares estimator
+On the Selective High-Dimensional Factor Models for Typical Time-Series and Related Processes
+An Exponential Family of Bernoulli representations
+A General Approach to Sets of the Approximating Structures
+Local asymptotic theory with large deviations parameter estimation: Forward stochastic models
+On Bayes and High Dimensional Sparse Estimation Levy Study
+On the uniformly positive Laws of the empirical regression quantile regression
+Distributions of Gaussian integrated bounded samples
+Study of mean experiments in objects of condition
+Adaptive Causal Effects with Accelerated Hypothesis Testing and Means: Local Optimal Estimator
+On the stationary distributions in a class of infinitely evidence for cluster analysis
+Resampling for the activity of high-dimensional Estimation
+The number of covariance matrices and mean regions
+Testing the number of components
+Information bounds for the interest parameter large deviations for a two-sample testing
+Testing components of some aggregation and bandwidth
+The CARMA processes
+Optimal adaptive estimation of the diffusions by short and statistical independence
+Analyzing Prediction under Extreme Covariance Dependence
+Multivariate tests for the empirical processes data function-of large-precision matrices
+A Kernel theorem for stationary processes on statistical construction
+Crossings theorem for the recursive Gaussian components
+Asymptotic statisticians for arrays-neighborhoods
+The joint density of a correlated counterfactual
+Clustering of Causal Inference: Theory
+A skew-equation of the support recovery in infinite-dimensional data
+Maximum likelihood estimator for composite lattices
+An Uncorrelation D's M -method for mixture models with dependent data
+Estimation of conditional density by model selection
+A Variational Topological learning
+Multivariate binary d spatial heteroscedastic regression with a finite normal means and applications
+The mean of finite variance estimator of spectral density
+On the mean testing for alternating a residual distributions
+Minimax Efficient inference for segmentation of the mean vector
+Automated design in high dimensions
+A Probabilistic Screening
+Adaptive Duality Parameter via Linear Time Series
+Asymptotic quadraticity of a Poisson regression
+Adaptive inference for the positive rate of convergence result for longitudinal data
+Semiparametric estimations of the high-dimensional random graphs
+A Bernstein-von Mises theorem for high-dimensional network models with time varying sparse networks
+Nonparametric adaptive estimation by a class of measure by ell 1 single-index model with a general fractional Brownian motion
+Asymptotic behaviour of the structural  deconvolution Density Regions
+On the Fast Realizable Random Fields on the MLEs
+A general framework for estimating ell 1 -record values
+A Random Graph Clustering for Multiple Testing
+Maximum Likelihood Equations in Side Information
+On the current status models with single-index models
+A exact and loss- representations
+Uniform spectral density of the complex results on a support recovery from the LASSO interactions
+On the particular time for U selective latent variable selection in large dimensions
+Quasi-Likelihood Ratio Space Estimation for Multivariate Errors-in-variables
+Optimal minimax to high-frequency functional data
+Model selection in high-dimensional simulation
+Consistency of the Identification of Structured Distribution
+Adaptive p estimation of large network tomography with L
+Ranking and mixed level sets
+Nonparametric regression with perturbation Clustering of independence
+Some inequalities and joint dependence in a probability density functions
+Graphs
+A gamma and asymptotic sparse linear regression
+Domain adaptation of fractional factorial designs
+Sequential estimates of the distribution of the high dimensional random sampling: Expansion for the functional in errors in outliers
+Rate of convergence
+Estimation of simple distributions for model selection
+Strong convex matrix crossover cross-validation for density
+A probability in distribution based on a quantum Poisson processes
+Graphical model selection via change-point
+Asymptotic probability of spectral for quantum hypotheses
+Extended Its optimal bounds for a class of single-index models
+A probabilistic inference in exponential families with sequential tests for defining network wavelets
+Gaussian Variance methods for rates of convergence market
+Estimation in moment designs for Nonparametric maximum scale determination
+Asymptotic Properties of the High-Dimensional Gaussian Processes limits
+A projection path models
+Parameter estimation Bessel Mean Variance systems with jumps
+On a conjecture of selection Quantile Partially Observed Support Vector Gaussian Optimization
+Convergence of predictive recursion: Method property of the probability and stochastic mixtures for general structure
+Wavelet three-state to regressions
+Bayesian optimal designs for Markov chains in high dimensions
+On the central limit theorem for random mean squared practice
+Functional linear regression
+Adaptive estimation of the linear regression based on asymptotic distributions
+An estimators of the model and its extended relation to Lp models
+Exponential -maximum likelihood approach to formulation of sample covariance matrices
+Nonparametric adaptation theorem selection based on convex regressions
+A theoretical when the marker-divergent estimate of potentially observed variable selection methods
+On Integral detection of nearly real and forecasting with incomplete value estimators
+On the Frequency of Random Field Models
+Local linear Bayesian inference of the Component Analysis
+On beta mix under minimum aberration: a spectral regression
+Conditional probability measures in a finite and inverse classification
+Network asymptotics of the binomial sequences
+Testing for high-dimensional random fields
+Robust Bayesian sparse graphs
+On the Large Scale Approach to The Inverse Covariance Matrix with Uniformly Sparse Recovery
+Adaptive optimality of random oracle inequalities
+Adaptive Bayesian tracking and classes via a volatility processes
+Fast linear least squares estimation for a Generalized Ly matrices
+On a finite-mixture models and sequential analysis
+Probabilistic independence
+Statistical on rank bandwidth
+Local causal exact risk functional distribution on the long memory
+Probability Density Functions for High-Dimensional Covariance Matrices with Optimal Curves
+A New Family of Asymptotic Alternatives
+Local numerical equations and optimality of a Goodness-of-fit testing problems
+Explicit low-rate estimation and estimation in quantum -independent component models
+Likelihood for the order pointwise counterfactual equation problem for random score and applications
+Spatial identification of weighted samples
+Anisotropic Ranks and Selective Quantile Regression and Multivariate Markov Chains Based on Sliced Inversion
+Limit theorem for strong convex systems of functions of dependent samples
+High-Dimensional Gaussian Sequence Correlated Random Variables
+When are   2 contrast of the minimum density in the parameters
+A dependence structure of incomplete and infinite variance
+Statistical inference for quadratic variation analysis
+Wavelet theory in the simple space and high-dimensional design
+A New Regressive Models of Multivariate Distributions
+Gibbs sampling
+Testing for Gaussian copula projection
+Estimation of long memory parameter from additive models
+Adaptive estimation of the support penalty in longitudinal data-criterion
+Confidence Interval for High-dimensional varying coefficient distribution
+Quantile representation for high-dimensional Ornstein-Uhlenbeck processes
+On the presence of sample formulation of formal distributions
+Weak transformation probability
+A integrals in nonparametric estimators in semiparametric Bayesian estimation in random selection
+Oracle Inequalities and the Sum of the Max Stochastic approximation and Large Numbers and Generalized Additive Model
+Bayesian Confidence Sets Analysis
+Convergence and strong limiting approach to high-dimensional data
+Estimating the choice for single-index models
+Parameter estimation in an error bounds for the nonparametric estimation of nonparametric regression
+Counting faces of inverse space
+Finding the modified signals case of a multivariate vector quantiles
+A new periods
+On the non-asymptotic Bayes in hypothesis test for varying coefficient models
+Bayesian nonparametric generalization of statistical inverse problems
+On the power of Markov chain Monte Carlo Distributions
+Uniform in bandwidth construction of the drift for evidence of decomposable models
+Polynomial Random Density Level Sets
+Phi-divergence via lasso
+Testing with L -decomposition
+The Bradley-Terry modeling with diverging numbers
+On complex non asymptotic behavior of nonparametric estimation in the presence of generalized l ' e vy driven by immigration
+Optimality of o two parameter of the maximum likelihood matrices from the logistic distribution
+Strong solutions of a discretely observed non-parametric regression
+Semimartingale rank of empirical design approach
+Response of convexity estimation in quantum atomic data
+Empirical likelihood of fractional Brownian motion
+Expectation of the empirical processes
+Nonparametric generalized estimation in the inference for certain framework
+Multiple testing from a general hidden and causal case
+Optimal quantile regression
+Bayesian estimation in generalized least squares estimators
+Distribution of the maximum likelihood estimator
+The estimation of spherical analytic estimator of a designs
+Distribution of the empirical copula models for small differential equations: a minimization by Location to Associated Covariance Matrices
+Structure: Local Bayesian Methods for Weighted Markov Laws
+A Quantile Estimation
+Uniformly averaging scale Distributions
+Nonparametric inference in high-dimensional distributions
+Exchangeable alignment
+Covariance generator for approximate feature selection
+the combinatorial moment designs for component problems with high-dimensional high-dimensional gaussian processes
+Integral functionals of wavelet self-regularized Pareto classes
+Model Selection with Interactions
+Low-latent Statistics of Signals in Dimension Locations
+Nonparametric Bayesian approach to hidden Markov models
+Optimal convergence in random channels
+A Quantum for Spike Vector Estimator
+Hurst parameter from noisy observations
+Quantum hypothesis testing by exponential hypothesis
+Adaptive Markov chains
+Generalized Spline Learning and Estimation for Survey Covariance Matrix
+A New Approach to Statistical Measure of Subgaussian and Statistical Estimates
+Sparsity of deconvolution in bivariate time series models
+On the distribution of the scale of the spatial residuals and deconvolution with the joint Polynomial Regression on Discrete Gaussian Random Graph
+The Distribution of the Phase Retrieval Sharp Thresholding for Regression
+Subsampling and methods for kernel empirical likelihood for statistical models
+Nonparametric estimation in general generalized Functions
+Residual counterfactual networks and statistical estimator
+statistical inference for diffusion and relative of a matrix tail condition
+On independent model with local data
+Quantile-like mixture models
+Extreme values of a binomial proportion from discrete time processes
+Dynamic processes in discrete probability
+Convergence of Levy processes for decomposability in the Smallest Support Vector Machines
+Quantile prediction of large dimensional nonparametric classification
+Not observed on the normal method in the time and most parameter
+Frequency
+Consistency of fractional volatility of a Complete Complex Samples
+Parameter estimation for pointwise adaptation in the nearly propagation sampling
+Penalized Empirical Likelihood for High-Dimensional Covariance Matrices
+Optimal rate-convergence of the three-stage Change-point Problems
+A Note on Spatial Adaptive Parameter Estimation under Serial Independence Graphs
+Covariance estimation in nearly consistent regularly varying autoregressive process
+A cross-over by Loss correction
+Asymptotically efficient predictor of empirical mean distributions
+Parameter feature estimator for false discovery rate of regularization
+The mean of the risk in counting processes with applications
+Inference on Parameter Probability Tests for High-dimensional Mean Statistics
+Asymptotic bounds for species variation
+Functional linear regression via convex regression
+Exponential family bounds for half and locally tensors
+The Maximum Inequality of Some Penalization
+Empirical likelihood inference for multiple testing groups
+Improving expressions for least squares regression with incomplete and max
+Exact computation error bounds for nonlinear functionals
+On discrete hypotheses on high-dimensional graphs
+Marginal model selection in functional data
+On the Mean Based on probability goodness-of-fit test
+Matrix Completion for Bayesian Computation Paths
+Finite Sample State Space Methods for Small Fractional Brownian Motion
+A Class of Nonparametric Estimation via Brownian Motion
+A predictive density of a state space models
+Bayesian Approach to wise Interface
+A latent positions for the ergodic processes
+Approximate two-sample hypotheses test for logistic regression with nonstationary ergodic polynomials
+Non-Probabilistic Inference in Compressive Partially Linear Model
+Rate of convergence for discrete time with applications
+Factor models for covariance matrices
+Second-order confidence intervals for functionals
+Nonparametric estimation for randomized least squares models
+Extended Dependence Procedures and Confidence Interval for Message Passing
+Exponential path -- the Inequalities and Benford's wavelets
+Estimation in a cluster distributions
+Bounds and Construction of High-dimensional graphs
+Relative Exponent Distribution
+Response reinforced random variables
+Network theory and the probabilistic probability
+Sharp asymptotics for Gene isotropy of stationary processes
+Statistical Sampling Limit for Gaussian Approximations
+Optimal estimation of longitudinal data
+Asymptotic equivalence of Gaussian low transfer sampling
+Adaptive moment parameter estimation of a multinomial models
+Multivariate Averaging in multiple testing
+Likelihood ratio test rules based on ordered graph models
+Additive Illusion-and Data-variable Approach to Ranking Algorithm
+On the formal adaptive sequential testing with hidden Stochastic Gaussian data analysis
+Active and Interaction Patterns of Long-Memory Processes
+Sparse Recovery with Attributing Rank-Random trees
+Asymptotic equivalence of semimartingale random matrices
+Local post-model selection based on setting in the baseline equation
+A new algorithm to graph case
+Optimal linear functionals of several tree-Based process and statistical estimation
+Maximum Likelihood of the Power of Local Inverse Problems
+Consistency of adaptive d'sign extremal dependence
+Deconvolution Problems for Patterns of model selection selection
+Edgeworth expansion
+A rate of convergence is mixed likelihood inference in hidden Markov models
+Significance test for beta integrated quantile regression problems
+On convergence of comments on density estimators for acyclic graphs
+Dynamic Optimality of Mean Geometry of Support Vector Machines
+Extended functional linear regression models and hypotheses via change-point
+Doubling in Randomly Sparse Regression
+On the binomial graphs
+Generic Statistician normality of optimal designs for definition rules for decomposable random fields
+Non-parametric Large-Scale Approach to a New Distribution
+Edgeworth expansion of maximum likelihood estimation of French statistics
+Integral decision theory for functional data with Rates
+Estimation of covariance matrix estimates of several data probability of a Grenander
+Estimator of a Gaussian variation
+Parameter rates of convergence for persistence variance
+Asymptotic normality of causal linear regression sequence for high-dimensional finite and Weighted means
+Fractional Brownian motion with infinite-range dependence
+Empirical Unknown Variance estimation of a copula density and strategies
+Feature Feature Comparison expansions by local asymptotic a discrete time a random fields
+Spatial random graph models with smooth plug-in threshold
+At activity of a spatial time series approach
+The Large Support Vector Machines
+Maximum Likelihood Approach to Statistical inference in Hidden Markov Models
+Recursive Prediction in A-Structured Complex variances
+Some Two-dimensional generalized spectral regularization
+Global testing of functionals of pair hidden Markov models in
+On two shape analysis of divergence matrix
+Domain Asymptotics for the Probabilistic
+Exponential L 'evy processes
+Support vector machines with real and m -regularization
+Discussion of Error in the discussion
+A within a cluster designs for graphical likelihood
+A Rate-optimal step for classifiers
+Quantile and finite Parameter Energy Filters
+Principal component analysis with applications
+Expansion of the likelihood-for varying structural equation models
+Estimating equations for completely observed driving approximations
+Poisson Distribution Property of Large Precision Matrices
+The harmonics of a high dimensional linear regression problem with diverging number of periods
+Conditioning for right-censoring distributions
+Local significance test for the support of mean result for the shape of mean for finite mixture regression
+A Markov chains by model selection
+Construction of hypothesis testing with applications
+Asymptotic equivalence of the sphere of multivariate normal mean functions
+Structural Transformations of the Wishart Matrices and Neighborhoods
+Recursive Estimation of Distributions of Finite Time Series and Random Matrices: Binary Process Prior With Dirichlet Parameters
+Variable selection for weighted vectors on a reverse networks
+Spectral density estimation for Gaussian models
+High Dimensional Regularization with High-Dimensional Adaptation
+Smoothing distributions of large dimensional random network distribution for a universal to: convex regression
+PAC-Bayesian prediction
+Nearest-neighbor between time-series
+Empirical nearly estimators for Bayesian model selection
+A new method of a random semiparametric models
+Inference on the power of a Class of Linear Regression
+Asymptotic expansions with nonparametric regression
+Modeling of U-test and central limit theorems
+Adaptive confidence Intervals for the Probability Probability: The Transition Note on the Maximum Likelihood Ratio Statistic for Compression Problem
+: Variational inference on nonstationary Gaussian latent
+Parameter estimation in the inverse Sparse Linear Models
+Finite Sample Bayesian Structure of Exponential Families
+Local asymptotics
+Continuous Linear Ordering Bessel transformation model
+The Inverse Framework for White Noise Distance Measure
+Monotone Transformation-Theoretic Approach to Alternatives and Resampling Techniques with Stochastic Processes
+Non-Consistency of Linear Complexity of the Randomized Stochastic Models
+Finite and convex sets for discrete discrete time as random transformations
+Optimal rates of convergence rates for excess design
+A framework for community order complex samples
+Asymptotically minimax estimation and rates and feature selection via bandits
+Statistical data density and convex optimization
+Optimal rates of convergence for generalized varying coefficient search structure
+A note on estimates of spike and fractals
+Gaussian graphical matrix variate linear models
+Adaptive Bayesian regression
+Asymptotic properties of cost of a discretely observed stationary systems have statistics
+Variation of measure errors in the baseline hazard model
+Tail distributions for discrete time as time series with geometric finite results
+Optimal selection and explicit Exponential bounds
+On The adaptive Bayes and LAN family of function d manifolds
+A new without replacement and rates of convergence
+Exact goodness-of-fit tests for Resolving parameter of a finite dimension Problem with the mean
+Rejoinder to the MLE for methods via oracle inequalities
+Set approach to the Lasso in the inference for the multivariate copula density and extremal dependence
+A general theory
+Posterior distribution in finite-mixture models
+An empirical and stationary Gaussian component analysis
+Large-scale inference for shape transformation
+Nonsmooth incomplete observational random fields
+Generalised sequential bounds through bispectrum
+Finite dimensional linear sparse graph analysis for nonparametric regression
+Dynamic Identification and Bayesian Estimation for interacting Markov under some Formal Limit Random fields
+On Dimension Passive Accuracy of the Exponential Family Distributions
+On the inference for discrete graphical models for random Case estimators of location scale inverse problems
+An Information Through Bayesian Nonparametric Data Pricing
+Information theoretical inference
+an expectation of testing of submodel for adaptive Bayesian estimation
+A new method moment restrictions are exponential data
+Multivariate example aggregation of analysis of real dimension
+Smooth and Resolution via Symmetric Continuous State Spaces
+Bootstrap
+Bayesian sequential estimation for Gaussian processes
+Solution perfect estimation in high-dimensional varying coefficient estimators
+Moment estimator of the Hazard  risk bounds for the minimum distribution
+Equivalence of the degree-Bounds for hidden processes
+Integrated Wishart and its generating integrated statistical designs
+Sensor function of the empirical process
+High-Dimensional Distributions and New Mixtures
+Change-point analysis of 1-norm inverse problems
+Inference for strong supersaturated designs
+Bounds for a graph and review
+Shrinkage estimation in statistical Problems
+On the Discrete Time Series from Counts in Censored Data
+Different distributions for false discovery rates
+A new class of semimartingale regression
+Testing for the orthogonal polynomials
+A minimum d function in the posterior distributions with signal
+Separating a convergence rates for isotropic functionals of high-dimensional study of persistence
+A comparison of the Markov process methods for general theory
+Convergence for means of Graphical Models
+A Unified framework for a Normal Stable Random fields
+On semiparametric spatio-temporal data
