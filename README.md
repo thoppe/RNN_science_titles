@@ -1,6 +1,9 @@
 # RNN Science titles
-A recurrent neural network with long short term memory to predict titles of scientific articles. Uses karpathy's [char-rnn](https://github.com/karpathy/char-rnn) as the base implementation. 
+
+#### A recurrent neural network with long short term memory to predict titles of scientific articles. Uses karpathy's [char-rnn](https://github.com/karpathy/char-rnn) as the base implementation. 
+
 --------------------------------
+
 I used _every_ title from the [arXiv.org](http://arxiv.org/) to generate models of scientific papers. Each subtopic (over 160!) generated a unique model. 
 
 ## Presentation
@@ -26,7 +29,7 @@ You can recreate these models by using the pre-wrangled input files in the sampl
      1024 RNN size
      2 layers
      30 max epochs
-     0.5 dropout,
+     0.5 dropout
      50 sequence length
      0.002 learning rate
      0.97 decay
