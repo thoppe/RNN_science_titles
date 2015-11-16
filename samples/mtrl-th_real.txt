@@ -1,0 +1,262 @@
+Exciton effects in soliton and bipolaron lattice states of doped electron-phonon Peierls systems
+Model for the thermal conductivity of a quasicrystalline alloy
+On thermoelastic phenomena around orientational ordering transition in crystalline C60
+Excitons in soliton and bipolaron lattice states of doped Peierls systems
+Surface States Surface Metal-Insulator and Surface Insulator-Metal Transitions
+Metallic and insulating states in two-dimensional C60-polymers
+Hohenberg-Kohn theorem is valid
+Nonlinear optical response from excitons in soliton lattice systems of doped conugated polymers
+Lattice-Gas Models of Adsorption in the Double Layer
+Roughness of Randomly Crumpled Elastic Sheets
+Swelling Kinetics of Layered Structures: Triblock Copolymer Mesogels
+First-principles molecular dynamics of liquid alkali metals based on the quantal hyper-netted chain theory
+Theory of interstitial oxygen in silicon and germanium
+Numerical Studies on the Magnetism of Fe-Ni-Mn Alloys in the Invar Region
+Sliding Friction in the Frenkel-Kontorova Model
+A fractal model for the first stages of thin film growth
+Effect of Crack Blunting on Subsequent Crack Propagation
+Stable distribution in fragmentation processes
+Charge transfer excitons in optical absorption spectra of C60-dimers and polymers
+Statistics and Microphysics of the Fracture of Glass
+Nonlinear optical response from excitons in soliton lattice systems
+Metal-Insulator Transition in C60-Polymers
+On the Stability of Endohedral Rare Gas Fullerenes
+Charge transfer excitons in C60-dimers and polymers
+On a Thomas-Fermi model of hollow atom
+Relation between a Screened Polyelectrolyte and a Field Theory
+Doping Effects and Electronic States in C60-Polymers
+Strongly-interacting model for antiferromagnetism in one-dimensional C60-polymers: A1C60
+Exciton effects and nonlinear optical response in soliton lattice states of doped conugated polymers
+Optical absorption spectra and geometric effects in higher fullerenes
+Nonlinear Optical Response from Excitons in Soliton Lattice Systems of Doped Conducting Polymers
+Electronic Structures in C60-Polymers (review)
+Electrostriction of Polar Glasses
+Long-Range Excitons in Optical Absorption Spectra of Electroluminescent Polymer Poly(para-phenylenevinylene)
+Band gap and stability in the ternary intermetallic compounds NiSnM (M  Ti r Hf): A first principles study
+Three-dimensional electronic instabilities in polymerized solid A1C60
+Competing structural instabilities in cubic perovskites
+Ab-initio Calculations of Energies and Self-Diffusion on Flat and Stepped Surfaces of Al and their Implications on Crystal Growth
+A Classification Scheme for Toroidal Molecules
+Frustrated H-induced Instability of Mo(110)
+Structure and shear response in nanometer thick films
+High Pressure Effects on Thermal Properties of MgO
+Electrostatic Energy Calculations for Molecular Dynamics
+Study of Oxygen Diffusion and Clustering in Silicon using an Empirical Interatomic Potential
+Polymorphism and metastability in NbN: Structural predictions from first principles
+Mechanism of Laser Induced Compaction
+Localization and band-gap pinning in semiconductor superlattices with layer-thickness fluctuations
+Interlayer Coupling in Magnetic Pd Multilayers
+Density-Functional Theory of the nonlinear optical susceptibility: application to cubic semiconductors
+The Effect of Strain on Thermodynamics of the Weakly First-Order Phase Transition
+The Influence of Gradient Corrections on Bulk and Surface Properties of TiO2 and SnO2
+Molecular Dynamics Simulation of Electron Trapping in the Sapphire Lattice
+Enhanced electron-phonon coupling at the Mo and W(110) surfaces induced by adsorbed hydrogen
+nusually Large Thermal Expansion of Ag(111)
+Parallelisation of algorithms for ab initio computation of material properties
+Formation Energy Stress and Relaxations of Low-Index Rhodium Surfaces
+First-Principles Calculation of the Structure of Mercury
+Development of a Kohn-Sham like potential in the Self-Consistent Atomic Deformation Model
+Applications of a tight-binding total energy method for transition and noble metals: Elastic Constants Vacancies and Surfaces of Monatomic Metals
+Density functional theory study of Na at Al(111) and O at Ru(0001)
+On metallic clusters squeezed in atomic cages
+On The Low-Frequency Vibrational Modes of C 60
+The Melting Curve and Premelting of MgO
+Multigrid Methods in Electronic Structure Calculations
+Reconstructions and faceting of H-covered Al(111)
+Ab initio Molecular Dynamics Study of D 2 Desorption from Si(100)
+The equilibrium shape of InAs quantum dots grown on a GaAs(001) substrate
+Microscopic Estimates for Electromigration Velocities of Intragranular Voids in Aluminum Lines
+Anomalous effective charges and far IR optical absorption of Al 2 Ru from first principles
+Reciprocity Theorems for Ab Initio Force Calculations
+Surface Effects in Ferroelectrics: Periodic Slab Computations for BaTiO 3
+Role of defects and impurities in doping of GaN
+Steering and isotope effects in the dissociative adsorption of H 2 Pd(100)
+Diffusivity of Ga and Al adatoms on GaAs(001)
+A Model for the Thermal Expansion of Ag(111) and other Metal Surfaces
+Nonlinear optical response in doped conugated polymers
+Phonon Assisted Multimagnon Optical Absorption and Long Lived Two-Magnon States in ndoped Lamellar Copper Oxides
+Analytical and computational study of magnetization switching in kinetic Ising systems with demagnetizing fields
+Scalable Parallel Numerical Methods and Software Tools for Material Design
+Packing Transitions in Nanosized Li Clusters
+The Markoff-Automaton - a New Algorithm for Simulating the Time--Evolution of Large Stochastic Dynamic Systems
+A generalized local approximation to the exchange potential
+He Scattering from Compact Clusters and from Diffusion-Limited Aggregates on Surfaces: Observable Signatures of Structure
+Motional diminishing of optical activity: a novel method for studying molecular dynamics in liquids and plastic crystals
+Stability and Tellers Theorem: A Thomas-Fermi Theory of Fullerenes
+A Lattice-Gas Model of Microemulsions
+Dynamic Scaling of Ion-Sputtered Surfaces
+Gamma phonons and microscopic structure of orthorhombic KNbO3 from first-principles calculations
+Deviations from Fermi-liquid behavior above T c in 2D short coherence length superconductors
+Magnetization switching in nanoscale ferromagnetic grains: description by a kinetic Ising model
+se of the Generalized Gradient Approximation in Pseudopotential Calculations of Solids
+Theoretical Study of Cubic Structures Based on Fullerene Carbon Clusters: C 2 C and (C 2 ) 2
+Disorder-Driven Pretransitional Tweed in Martensitic Transformations
+Magnetocrystalline Anisotropy Energy of a Transition Metal Monolayer: A Non-perturbative Theory
+Microscopic Modeling of the Growth of Order in an Alloy: Nucleated and Continuous Ordering
+A Method to Study Relaxation of Metastable Phases: Macroscopic Mean-Field Dynamics
+Temperature dependence of surface reconstructions of Au on Pd(110)
+Viscosities of the Gay-Berne nematic liquid crystal
+Proection of plane-wave calculations into atomic orbitals
+Existence of long-range order in the steady state of a two dimensional two-temperature  model
+Novel Phases of Planar Fermionic Systems
+Adaptive coordinate real-space electronic structure calculations on parallel computers
+Elastic forces that do no work and the dynamics of fast cracks
+Prediction of an undimerized insulating antiferromagnetic ground-state in halogen-bridged linear-chain Ni compounds
+Occupation numbers in density-functional calculations
+A reaction-diffusion model for the hydration setting of cement
+Diffusion processes and growth on stepped metal surfaces
+Structure and Magnetism of Fe Si Multilayers Grown by Ion-Beam Sputtering
+Response of Kinetic Ising System to Oscillating External Fields: Amplitude and Frequency Dependence
+Analysis of atomic-orbital basis sets from the proection of plane-wave results
+Non-uniform deformations in liquid crystalline elastomers
+Surface energy and stability of stress-driven discommensurate surface structures
+Oscillatory Thickness Dependence of Magnetic Moments and interface-induced Changes of the Exchange Coupling in Co Cu and Co-Ni Cu Multilayers
+Dislocation Mediated Melting Near Isostructural Critical Points
+nderpotential deposition of Cu on Au(111) in sulfate-containing electrolytes: a theoretical and experimental study
+Stochastic Model for Surface Erosion Via Ion-Sputtering: Dynamical Evolution from Ripple Morphology to Rough Morphology
+Non-collinear magnetism in Al-Mn topologically disordered systems
+Atomic and electronic structure of ideal and reconstructed alpha -Sn (111) surface
+Role of Layering Oscillations at Liquid Metal Surfaces in Bulk Recrystallization and Surface Melting
+Selfconsistent order-N density-functional calculations for very large systems
+Stress-free Spatial Anisotropy in Phase-Ordering
+First principles studies of modulated Co Cu superlattices with strongly and weakly exchange biased Co-monolayers
+Slow relaxation in granular compaction
+Multifractality and multiscaling in two dimensional fragmentation
+Calculated optical properties of Si Ge and GaAs under hydrostatic pressure
+Nonequilibrium brittle fracture propagation: Steady state oscillations and intermittency
+Anharmonic Decay of Vibrational States in Amorphous Silicon
+Multiple-Scattering Theory of -Ray Magnetic Circular Dichroism: Implementation and Results for Iron K-edge
+Surprises in the Orbital Magnetic Moment and g-Factor of the Dynamic ahn-Teller Ion C 60 -
+Exact results concerning multifield moduli of two-phase composites
+Electron Wave Filters from Inverse Scattering Theory
+Theoretical study of hydrogen-covered diamond (100) surfaces: A chemical potential analysis
+Event-based relaxation of continuous disordered systems
+Size Shape and Low Energy Electronic Structure of Carbon Nanotubes
+A Variational Approach to Nonlocal Exciton-Phonon Coupling
+Reciprocal Space Analysis of Short Range Order Intensities by the Cluster Variation Method
+Frustrated H-Induced Instability of Mo(110)
+Localized Basis for Effective Lattice Hamiltonians: Lattice Wannier Functions
+Density-Functional-Based Determination of the CH3-CH Hydrogen Exchange Reaction Barrier
+High-dimensional quantum dynamics of adsorption and desorption of H 2 at Cu(111)
+Order-N Density-Matrix Electronic-Structure Method for General Potentials
+Born Effective Charges of Barium Titanate: band by band decomposition and sensitivity to structural features
+Commensurate and modulated magnetic phases in orthorhombic A1C60
+Real Space Approach to Electronic-Structure Calculations
+Theory of adsorption and desorption of H 2 Si(001)
+Total energy global optimizations using non orthogonal localized orbitals
+First-Principles Determination of Chain-Structure Instability in KNbO 3
+Phase Coexistence of a Stockmayer Fluid in an Applied Field
+Localized Excitons and Breaking of Chemical Bonds at III-V (110) Surfaces
+Theory of alkali metal adsorption on close-packed metal surfaces
+Electronic structure of intentionally disordered AlAs GaAs superlattices
+A Self-Consistent First-Principles Technique Having Linear Scaling
+Density-Polarization Functional Theory of the response of a periodic insulating solid to an electric field
+First-principle study of excitonic self-trapping in diamond
+First-principles theory of ferroelectric phase transitions for perovskites: The case of BaTiO3
+Static displacements and chemical correlations in alloys
+The Static Dynamic and Electronic Properties of Liquid Gallium Studied by First-Principles Simulation
+Ab initio studies of structural instabilities in magnesium silicate perovskite
+Application of a new Tight-Binding method for transition metals: Manganese
+Ab initio Molecular Dynamics in Adaptive Coordinates
+Atomistic Aspects of Diffusion and Growth on the Si and Ge (111) Surfaces
+Electronic-structure-induced deformations of liquid metal clusters
+A direct pathway for sticking desorption of H 2 on Si(100)
+The Energetics and Electronic Structure of Defective and Irregular Surfaces on MgO
+Chemical Hardness Linear Response and Pseudopotential Transferability
+Monte-Carlo simulations of the recombination dynamics in porous silicon
+ELECTRONIC STRCTRE OF FeSi
+Fracture driven by a Thermal Gradient
+Periodic Slab LAPW Computations for Ferroelectric BaTiO 3
+A scaling hypothesis for corrections to total energy and stress in plane- wave based ab initio calculations
+Ferroelectric Phase Transitions from First Principles
+Metastability of NbN in the ordered vacancy NbO phase
+The Structure of the Stoichiometric and Reduced SnO2 (110) Surface
+Insulator-metal transition in solid hydrogen: Implication of electronic structure calculations for recent experiments
+Complex ion formation in liquid Ag-Se alloys
+Molecular geometry optimization with a genetic algorithm
+Real-Space Adaptive-Coordinate Electronic Structure Calculations
+Large Scale Electronic Structure Calculations with Multigrid Acceleration
+Spin-polarization-induced structural selectivity in Pd 3 and Pt 3 ( 3d ) compounds
+Ab-initio simulation of high-temperature liquid selenium
+Structural and Magnetic Properties of Trigonal Iron
+Six-Dimensional uantum Dynamics of Adsorption and Desorption of H 2 at Pd(100): Steering and Steric Effects
+The Ab-Initio Simulation of the Liquid Ga-Se System
+Water Chemisorption and Reconstruction of the MgO Surface
+Spin-dependent resonant tunneling through semimetallic ErAs quantum wells
+Band structure analysis of the conduction-band mass anisotropy in 6H and H SiC
+Comparison of the Electronic Structures and Energetics of Ferroelectric LiNbO3 and LiTaO3
+Towards a Linear-Scaling DFT Technique: The Density Matrix Approach
+The Adsorption of H2O on TiO2 and SnO2(110) Studied by First-Principles Calculations
+Theoretical Study of One-dimensional Chains of Metal Atoms in Nanotubes
+Electronic Structure and Valence Band Spectra of BiTi3O12
+Ab initio study of the volume dependence of dynamical and thermodynamical properties of silicon
+Stability of Liquid Crystalline Macroemulsions
+The de Haas-van Alphen effect in canonical and grand canonical multiband Fermi liquid
+Effect of quantum fluctuations on structural phase transitions in SrTiO 3 and BaTiO 3
+First-principles investigation of 10-degree domain walls in BaTiO 3
+Composition Dependence of the Structure and Electronic Properties of Liquid Ga-Se Alloys Studied by Ab Initio Molecular Dynamics Simulation
+Pressure Dependence of Born Effective Charges Dielectric Constant and Lattice Dynamics in SiC
+Ab initio pseudopotential study of Fe Co and Ni employing the spin-polarized LAPW approach
+Theoretical study of O adlayers on Ru(0001)
+Force calculation and atomic-structure optimization for the full-potential linearized augmented plane-wave code WIEN
+Potential Energy Surface for H 2 Dissociation over Pd(100)
+A model of linear chain submonolayer structures Application to Li W(112) and Li Mo(112)
+Adlayer core-level shifts of admetal monolayers on transition metal substrates and their relation to the surface chemical reactivity
+Scattering of rare-gas atoms at a metal surface: evidence of anticorrugation of the helium-atom potential-energy surface and the surface electron density
+The Effective Particle-Hole Interaction and the Optical Response of Simple Metal Clusters
+Role of Self-Interaction Effects in the Geometry Optimization of Small Metal Clusters
+Wetting of the Au(110) substrate: Homoepitaxial islands and layers
+Separable Dual Space Gaussian Pseudo-potentials
+Linear-Response Calculation of Electron-Phonon Coupling Parameters
+Coulomb interaction and ferroelectric instability of BaTiO3
+Semiconductor effective charges from tight-binding theory
+The Structure Dynamics and Electronic Structure of Liquid Ag-Se Alloys Investigated by Ab Initio Simulation
+Third order dielectric susceptibility in a model quantum paraelectric
+Statistical Properties of the Dense Hydrogen Plasma: an ab initio Molecular Dynamics Investigation
+Dynamical uantum Processes of Molecular Beams at Surfaces: Dissociative Adsorption of Hydrogen on Metal Surfaces
+Six-Dimensional uantum Dynamics of Adsorption and Desorption of H 2 at Pd(100): No Need for a Molecular Precursor Adsorption State
+Vibrational Spectra of Defects in Silicon: An Orbital Radii Approach
+Deformation of Small Compressed Droplets
+A Model for the Elasticity of Compressed Emulsions
+First-principles study of stability and vibrational properties of tetragonal PbTiO 3
+Mechanism of Poisoning the Catalytic Activity of Pd(100) by a Sulfur Adlayer
+Modeling of Dislocation Structures in Materials
+Inelastic Collapse of Three Particles
+Structure barriers and relaxation mechanisms of kinks in the 0-degree partial dislocation in silicon
+Modeling of Covalent Bonding in Solids by Inversion of Cohesive Energy Curves
+Generalized Stacking Fault Energy Surfaces and Dislocation Properties of Silicon: A First-Principles Theoretical Study
+Slip energy barriers in aluminum and implications for ductile versus brittle behavior
+Magnetic susceptibility of insulators from first principles
+Anomalies in He atom scattering spectra of the H-covered Mo(110) and W(110) surfaces
+Semiempirical Hartree-Fock calculations for KNbO3
+Phonon softening and superconductivity in tellurium under pressure
+Effects of crack tip geometry on dislocation emission and cleavage: A possible path to enhanced ductility
+Structure and Stability of Si(11)-(2x1)
+Point-charge electrostatics in disordered alloys
+Inhibited Al diffusion and growth roughening on Ga-coated Al (100)
+Gross and Scheffler Reply
+Potential core-level and d band shifts at transition metal surfaces
+The GaAs Equilibrium Crystal Shape from First-Principles
+Influence of molecular vibrations on dissociative adsorption
+Anisotropy of Growth of the Close-Packed Surfaces of Silver
+Variational quantum Monte Carlo ground state of GaAs
+Scattering of hydrogen molecules from a reactive surface: Strong off-specular and rotationally inelastic diffraction
+Local Isoelectronic Reactivity of Solid Surfaces
+Structure and stability of a high-coverage (1x1) oxygen phase on Ru(0001)
+Ab initio statistical mechanics of the ferroelectric phase transition in PbTiO3
+Ab-initio study of the anomalies in the He atom scattering spectra of H Mo(110) and H W(110)
+Polymers in Curved Boxes
+Band Structure and Transport Properties of CrO 2
+Reconstruction and thermal stability of the cubic SiC(001) surfaces
+Ab initio simulations of liquid systems: Concentration dependence of the electric conductivity of NaSn alloys
+Correlation effects in MgO and CaO: Cohesive energies and lattice constants
+Basis Functions for Linear-Scaling First-Principles Calculations
+Substrate-adsorbate coupling in CO-adsorbed copper
+Ab initio molecular dynamics study of the desorption of D 2 from Si(100)
+Reconstructions of Ir (110) and (100): an ab initio study
+Strained tetragonal states and Bain paths in metals
+Theory of Alkali Induced Reconstruction of the Cu(100) Surface
+Solitonic-exchange mechanism of surface diffusion
+Mobility and diffusivity in a generalized Frenkel-Kontorova model
+Many-body and Covalence Effects in the Polarization of Ferroelectric Perovskites
+Dynamical ahn-Teller Effect and Berry Phase in Positively Charged Fullerene I Basic Considerations

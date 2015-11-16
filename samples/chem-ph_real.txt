@@ -1,0 +1,251 @@
+Theory of DDT in Unconfined Flames
+Optical Absorption in Higher Fullerenes: Effects of Symmetry Reduction
+Optical absorption spectra of A6C60 and A6C0: Reduction of effective Coulomb interactions in Frenkel excitons
+Solvent-induced organization: A physical model of folding myoglobin
+Optimum Paths for Systems Subect to Internal Noise
+Exciton effects in soliton and bipolaron lattice states of doped electron-phonon Peierls systems
+Coadsorption of Copper and Sulfate on Au111 Electrodes: Monte Carlo Simulation of a Lattice-Gas Model
+On thermoelastic phenomena around orientational ordering transition in crystalline C60
+Excitons in soliton and bipolaron lattice states of doped Peierls systems
+Metallic and insulating states in two-dimensional C60-polymers
+Nonlinear optical response from excitons in soliton lattice systems of doped conugated polymers
+Lattice-Gas Models of Adsorption in the Double Layer
+Imbibition: An Example of Nonconserved Cellular Automaton
+Short-time rotational diffusion in monodisperse charge-stabilized colloidal suspensions
+Charge transfer excitons in optical absorption spectra of C60-dimers and polymers
+Microscopic Reversibility and Macroscopic Behavior: Physical Explanations and Mathematical Derivations
+Kinetics of Surfactant Adsorption at Fluid-Fluid Interfaces
+Nonlinear optical response from excitons in soliton lattice systems
+Tunneling with the Lorentz Force and the Friction
+Optical absorption of non-interacting tight-binding electrons in a Peierls-distorted chain at half band-filling
+Exact results for the optical absorption of strongly correlated electrons in a half-filled Peierls-distorted chain
+Optical absorption of strongly correlated half-filled Mott-Hubbard chains
+Glass Formation in the Gay-Berne Nematic Liquid Crystal
+Real Space Renormalization-Group for Configurational Random Walk Models on a Hierarchical Lattice The Asymptotic End-to-End Distance of a Weakly SARW in Dimension Four
+Solving the Coulomb Schrodinger Equation in d 1 via Sinc Collocation
+On a Generalized Oscillator System: Interbasis Expansions
+Conventional Quantum Chemical Correlation Energy versus Density-Functional Correlation Energy
+Nuclear spin--rotation interaction in the hydrogen molecular ion
+On the Use of Quantum Algebras in Rotation-Vibration Spectroscopy
+The Periodic Table in Flatland
+Coulomb Energy Averaged over the n ell N -Atomic States with a Definite Spin
+Variational calculations of dispersion coefficients for interactions between H He and Li atoms
+Monte Carlo Studies of the Orientational Order-Disorder Phase Transition in Solid Ammonium Chloride
+The Aqueous Solvation of Water: A Comparison of Continuum Methods with Molecular Dynamics
+Ion Pair Potentials-of-Mean-Force in Water
+Tests of Dielectric Model Descriptions of Chemical Charge Displacements in Water
+Optical response of C60 and C0 fullerenes: Exciton and lattice fluctuation effects
+Transferable Tight-Binding Potential for Hydrocarbons
+Theoretical Study of Time-Resolved Fluorescence Anisotropy from Coupled Chromophore Pairs
+Comment on Monte Carlo Simulation of a First-Order Transition
+Funnels Pathways and the Energy Landscape of Protein Folding: A Synthesis
+Radiative association and inverse predissociation of oxygen atoms
+Microwave detected microwave-optical double resonance of NH NHD NHD and ND I Sturcture and force field of the A state
+Specific heat in the thermodynamics of clusters
+Metal-Insulator Transition in C60-Polymers
+Sequence Dependence in an Off-Lattice Model for Protein Folding
+On the free energy of ionic hydration
+Thermodynamics of helix-coil transitions studied by multicanonical algorithms
+Chemistry of Nanoscale Semiconductor Clusters
+Titrating Polyelectrolytes - Variational Calculations and Monte Carlo Simulations
+The hydration free energy of water
+Electrostatic potential of a homogeneously charged square and cube in two and three dimensions
+A Heuristic Molecular Model of Hydrophobic Interactions
+Mixed Direct-Iterative Methods for Boundary Integral Formulations of Dielectric Solvation Models
+Boundary Integral Methods for the Poisson Equation of Continuum Dielectric Solvation Models
+The Atomic and Electronic Structure of Liquid N- Methylformamide as Determined from Diffraction Experiments
+Monte-Carlo studies of bosonic van der Waals clusters
+On the geometry and conformation of starburst dendrimers
+Binary Assignments of Amino Acids from Pattern Conservation
+Liquid Crystal Analogue of Abrikosov Vortex Flow in Superconductors
+A Symmetry Adapted Approach to Molecular Spectroscopy: The Anharmonic Oscillator Symmetry Model
+On the relation between algebraic and configuration space calculations of molecular vibrations
+Bond angle distribution in amorphous germania and silica
+On the energy spectrum of the C60-fullerene anion
+Solvent mode participation in the non-radiative relaxation of the hydrated electron
+Symmetry-adapted algebraic description of stretching and bending vibrations of ozone
+On the Stability of Endohedral Rare Gas Fullerenes
+Charge transfer excitons in C60-dimers and polymers
+A local anharmonic treatment of vibrations of methane
+On a Thomas-Fermi model of hollow atom
+Monte Carlo Optimization of Trial Wave Functions in Quantum Mechanics and Statistical Mechanics
+Relation between a Screened Polyelectrolyte and a Field Theory
+Applications of the Optimized Effective Potential Method of Density Functional Theory to Atomic and Molecular Systems
+A Variational Approach to the Structure and Thermodynamics of Linear Polyelectrolytes with Coulomb and Screened Coulomb Interactions
+Recent Developments in Supersymmetric Quantum Mechanics
+Doping Effects and Electronic States in C60-Polymers
+Strongly-interacting model for antiferromagnetism in one-dimensional C60-polymers: A1C60
+Exciton effects and nonlinear optical response in soliton lattice states of doped conugated polymers
+Optical absorption spectra and geometric effects in higher fullerenes
+Nonlinear Optical Response from Excitons in Soliton Lattice Systems of Doped Conducting Polymers
+Electronic Structures in C60-Polymers review
+Weak Chirality in Ordered DNA Phases
+Long-Range Excitons in Optical Absorption Spectra of Electroluminescent Polymer Polypara-phenylenevinylene
+Hyper-Systolic Parallel Computing
+Study of Oxygen Diffusion and Clustering in Silicon using an Empirical Interatomic Potential
+Density-Functional Theory of the nonlinear optical susceptibility: application to cubic semiconductors
+The Effect of Strain on Thermodynamics of the Weakly First-Order Phase Transition
+On The Low-Frequency Vibrational Modes of C 60
+Quantum Algebraic Symmetries in Nuclei and Molecules
+Quantum Algebraic Symmetries in Nuclear and Molecular Physics
+Perturbation of Embedded Eigenvalue by a Near-Lying Resonance
+Algebraic model of an oblate top
+Nonlinear optical response in doped conugated polymers
+Generalized Bloch equations for a strongly driven tunneling system
+Theoretical calculation of the water ion product K W
+Two-Photon Spectroscopy Between States of Opposite Parities
+Uniform Semiclassical Wavepacket Propagation and Eigenstate Extraction in a Smooth Chaotic System
+Fourier Path Integral Monte Carlo Method for the Calculation of the Microcanonical Density of States
+Stability of the Hydrogen and Hydrogen-like Molecules
+Comparison of electron density functional models
+Density Functional Calculations On First-Row Transition Metals
+Magic Numbers of Silicon Clusters
+Vibrational States of the Hydrogen Isotopes on Pd111
+Li  as a pseudorotating planar cluster
+Quantum Annealing: A New Method for Minimizing Multidimensional Functions
+Chemical Reactions of Silicon Clusters
+Decisions Decisions: Noise and its Effects on Integral Monte Carlo Algorithms
+Magic Numbers for Classical Lennard-ones Cluster Heat Capacities
+Dynamical Fluctuating Charge Force Fields: Application to Liquid Water
+Many-body trial wave functions for atomic systems and ground states of small noble gas clusters
+The Construction of Double-Ended Classical Traectories
+Methods for molecular dynamics with nonadiabatic transitions
+C0: Fulleren Bowl or Ring New Results from Coupled-Cluster Calculations
+Locating transition states using double-ended classical traectories
+On the Mechanism of the Primary Charge Separation in Bacterial Photosynthesis
+Many-Body effects and resonances in universal quantum sticking of cold atoms to surfaces
+Packing Transitions in Nanosized Li Clusters
+Dimensional Perturbation Theory on the Connection Machine
+Comparative Study of Multicanonical and Simulated Annealing Algorithms in the Protein Folding Problem
+Low-temperature dynamical simulation of spin-boson systems
+A Hybrid Decomposition Parallel Implementation of the Car-Parrinello Method
+Molecular Dynamics Simulations of a Pressure-induced Glass Transition
+Reversible Work Transiton State Theory: Application to Dissociative Adsorption of Hydrogen
+Microwave detected microwave-optical double resonance of NH NHD NHD and ND II Predissociation dynamics of the A state
+Two-Color Coherent Photodissociation of Nitrogen Oxide in Intense Laser Fields
+Integral equation theory for the electrode-electrolyte interface with the central force water model Results for an aqueous solution of sodium chloride
+Structure of Si1 Cluster
+Structure of Silicon Clusters
+Spectral Shifts of Semiconductor Clusters
+The numerical accuracy of truncated Ewald sums for periodic systems with long-range Coulomb interactions
+Critical Behavior of the Widom-Rowlinson Lattice Model
+Sequence Dependence of Self-Interacting Random Chains
+A Variational Approach for Minimizing Lennard-ones Energies
+Application of Gradient-Corrected Density Functional Theory to the Structures and Thermochemistries of mbox ScF  mbox TiF  mbox VF  and mbox CrF 6
+A Monte Carlo study of temperature-programmed desorption spectra with attractive lateral interactions
+Nonlinearity and trapping in excitation transfer: Dimers and Trimers
+Excitonic - vibronic coupled dimers: A dynamic approach
+Temperature Dependence of the Optical Response of Small Sodium Clusters
+Application of A Distributed Nucleus Approximation In Grid Based Minimization of the Kohn-Sham Energy Functional
+Density functional theory using an optimized exchange-correlation potential
+On finite-size effects in computer simulations using the Ewald potential
+Global geometry optimization of clusters using a growth strategy optimized by a genetic algorithm
+Studies of an Off-Lattice Model for Protein Folding: Sequence Dependence and Improved Sampling at Finite Temperature
+Quantum Confinement Effects in Semiconductor Clusters II
+Growth Pattern of Silicon Clusters
+The Markoff-Automaton - a New Algorithm for Simulating the Time--Evolution of Large Stochastic Dynamic Systems
+Spectrum Generating Algebra for   Molecules
+Kinetic and thermodynamic analysis of proteinlike heteropolymers: Monte Carlo histogram technique
+Bifurcation in Rotational Spectra of Nonlinear AB  Molecules
+A generalized local approximation to the exchange potential
+Coherent Control of Isotope Separation in HD Photodissociation by Strong Fields
+Bond Orientational Order Molecular Motion and Free Energy of High Density DNA Mesophases
+Iterative Solution of the Ornstein-ernike Equation with Various Closures Using Vector Extrapolation
+A Blocking Technique for Emulating Very Large Polyelectrolytes
+Influence of surfactants on the structure of titanium oxide gels : experiments and simulations
+Fractal Dimension of Disordered Submonolayers: Determination from He Scattering Data
+Optical Theorem and the Inversion of Cross Section Data for Atom Scattering from Defects on Surfaces
+Evidence for Non-Random Hydrophobicity Structures in Protein Chains
+Direct subsurface absorption of hydrogen on Pd111
+Quantum Effects in Barrier Dynamics
+He Scattering from Compact Clusters and from Diffusion-Limited Aggregates on Surfaces: Observable Signatures of Structure
+Dynamics of Proton Transfer in Mesoscopic Clusters
+Molecular dynamics study of solvation effects on acid dissociation in aprotic media
+Lyapunov instability of fluids composed of rigid diatomic molecules
+Exact and Semiclassical Density Matrix of a Particle Moving in a Barrier Potential with Bound States
+Protein dynamics with off-lattice Monte Carlo moves
+Scaling and Scale Breaking in Polyelectrolyte
+Computational Study of the Structure and Thermodynamic Properties of Ammonium Chloride Clusters Using a Parallel -Walking Approach
+From Heisenberg matrix mechanics to EBK quantization: theory and first applications
+Motional diminishing of optical activity: a novel method for studying molecular dynamics in liquids and plastic crystals
+Van der Waals clusters in the ultra-quantum limit: a Monte Carlo study
+Boson-realization model for the vibrational spectra of tetrahedral molecules
+A Criterion That Determines Fast Folding of Proteins: A Model Study
+A general algebraic model for molecular vibrational spectroscopy
+Ion-Chain Dynamics in Polymer Electrolytes
+Theory for the Ultrafast Structural Response of optically excited small clusters: Time-dependence of the Ionization Potential
+Identification of Amino Acid Sequences with Good Folding Properties in an Off-Lattice Model
+Extended Two--Particle Greens Functions and Optical Potentials for Two--Particle Scattering by Many--Body Targets
+Stability and Tellers Theorem: A Thomas-Fermi Theory of Fullerenes
+A Dynamical Theory of Electron Transfer: Crossover from Weak to Strong Electronic Coupling
+Delta I and Delta I bifurcations in rotational bands of diatomic molecules
+A Computational Study of Thirteen-atom Ar-Kr Cluster Heat Capacities
+Renormalized Equilibria of a Schloegl Model Lattice Gas
+A Lattice-Gas Model of Microemulsions
+Quasi-classical path integral approach to supersymmetric quantum mechanics
+Supersymmetric classical mechanics
+Infrared and Raman Evidence for Dimers and Polymers in Rb1C60
+Free Thermal Convection Driven by Nonlocal Effects
+Critical point and coexistence curve properties of the Lennard-ones fluid: A finite-size scaling study
+EQUIVALENCES BETWEEN STOCHASTIC SSTEMS
+Viscosities of the Gay-Berne nematic liquid crystal
+Liquids with Chiral Bond Order
+Calculation of the Density of States Using Discrete Variable Representation and Toeplitz Matrices
+Solid-to-solid isostructural transition in the hard sphere attractive ukawa system
+Occupation numbers in density-functional calculations
+A reaction-diffusion model for the hydration setting of cement
+Molecular ordering of precursor films during spreading of tiny liquid droplets
+Response of Kinetic Ising System to Oscillating External Fields: Amplitude and Frequency Dependence
+Individual Entanglements in a Simulated Polymer Melt
+Dynamical simulation of transport in one-dimensional quantum wires
+Theory of Chiral Order in Random Copolymers
+Dislocation Mediated Melting Near Isostructural Critical Points
+Underpotential deposition of Cu on Au111 in sulfate-containing electrolytes: a theoretical and experimental study
+Is surface melting a surface phase transition
+How Accurate Must Potentials Be for Successful Modeling of Protein Folding
+Corrections to scaling in --dimensional polymer statistics
+Entropic Barriers Frustration and Order: Basic Ingredients in Protein Folding
+Memory Loss and Auger Processes in a Many Body Theory of Charge Transfer
+Diffusive Dynamics of the Reaction Coordinate for Protein Folding Funnels
+Diffusion-annihilation dynamics in one spatial dimension
+Kinetics of fragmentation-annihilation processes
+Slow relaxation in granular compaction
+Fluid mixtures of parallel hard cubes
+Chain length dependence of the polymer-solvent critical point parameters
+Equation of State of the Hard-Sphere Crystal
+Theoretical Approach to the Correlations of a Hard-Sphere Crystal
+Elastic Scattering by Deterministic and Random Fractals: Self-Affinity of the Diffraction Spectrum
+Surprises in the Orbital Magnetic Moment and g-Factor of the Dynamic ahn-Teller Ion C 60 -
+Influence of hydrodynamic interactions on the ballistic deposition of colloidal particles on solid surfaces
+Separation of the Exchange-Correlation Potential into Exchange plus Correlation: an Optimized Effective Potential Approach
+On the Microscopic Origin of Cholesteric Pitch
+Cooperative Chiral Order in Copolymers of Chiral and Achiral Units
+Electrostatics of Lipid Bilayer Bending
+Perturbation Theory for Classical Solids
+Fluid Vesicles in Shear Flow
+A Variational Approach to Nonlocal Exciton-Phonon Coupling
+Giant vesicles at the prolate-oblate transition: A macroscopic bistable system
+Why a Particle Physicist is Interested in DNA Branch Migration
+Phase Coexistence of a Stockmayer Fluid in an Applied Field
+Molecular geometry optimization with a genetic algorithm
+Towards a Linear-Scaling DFT Technique: The Density Matrix Approach
+Vibrational Spectra of Defects in Silicon: An Orbital Radii Approach
+Variational quantum Monte Carlo ground state of GaAs
+Polymers in Curved Boxes
+Ab initio simulations of liquid systems: Concentration dependence of the electric conductivity of NaSn alloys
+Correlation effects in MgO and CaO: Cohesive energies and lattice constants
+Basis Functions for Linear-Scaling First-Principles Calculations
+Substrate-adsorbate coupling in CO-adsorbed copper
+Chaos in Axially Symmetric Potentials with Octupole Deformation
+Periodic Orbits and Shell Structure in Octupole Deformed Potentials
+A Monte-Carlo Approach to ero Energy Quantum Scattering
+On the Numerical Solution of the Time-Dependent Schroedinger Equation
+Connection Between q-Deformed Anharmonic Oscillators and Quasi-Exactly Soluble Potentials
+Scaling property of variational perturbation expansion for general anharmonic oscillator
+Variational perturbation expansion for strong-coupling coefficients of the anharmonic oscillator
+Classical and quantum Malus law
+The Schroedinger Problem Levy Processes Noise in Relativistic Quantum Mechanics
+Feynman-Kac Kernels in Markovian Representations of the Schroedinger Interpolating Dynamics
+On the absence of bound-state stabilization through short ultra-intense fields
+On the Influence of Pulse Shapes on Ionization Probability
+Correlation Energy Estimators based on M o ller-Plesset Perturbation Theory

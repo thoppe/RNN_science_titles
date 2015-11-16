@@ -1,0 +1,2727 @@
+An architecture-based dependability modeling framework using AADL
+A Disciplined Approach to Adopting Agile Practices: The Agile Adoption Framework
+On How Developers Test Open Source Software Systems
+PERCEVAL: a Computer-Driven System for Experimentation on Auditory and Visual Perception
+Closed source versus open source in a model of software bug dynamics
+DISCO: An object-oriented system for music composition and sound design
+Compiling Language Definitions: The ASF SDF Compiler
+From Syntactic Theories to Interpreters: A Specification Language and Its Compilation
+Proceedings of the Fourth International Workshop on Automated Debugging (AADEBUG 2000)
+Collecting Graphical Abstract Views of Mercury Program Executions
+Non-intrusive on-the-fly data race detection using execution replay
+Execution replay and debugging
+Extension Language Automation of Embedded System Debugging
+Automatic Debugging Support for UML Designs
+On-the-fly Query-Based Debugging with Examples
+Apache web server execution tracing using Third Eye
+Extended Abstract - Model-Based Debugging of Java Programs
+Systematic Debugging of Attribute Grammars
+Value Withdrawal Explanation in CSP
+Support for Debugging Automatically Parallelized Programs
+Kima - an Automated Error Correction System for Concurrent Logic Programs
+Finding Failure Causes through Automated Testing
+Slicing of Constraint Logic Programs
+Performance and Scalability Models for a Hypergrowth e-Commerce Web Site
+Automated Debugging In Java Using OCL And JDI
+Slicing Event Traces of Large Software Systems
+Assertion checker for the C programming language based on computations over event traces
+Generation of and Debugging with Logical Pre and Postconditions
+Reverse Engineering from Assembler to Formal Specifications via Program Transformations
+Using Dependence Analysis to Support Software Architecture Understanding
+On Assessing the Complexity of Software Architectures
+HTTP Cookies: Standards Privacy and Politics
+Model Checking Contractual Protocols
+L.T.Kuzin: Research Program
+Event Driven Objects
+Logic Individuals and Concepts
+Tracing Execution of Software for Design Coverage
+Automated Real-Time Testing (ARTT) for Embedded Control Systems (ECS)
+Application Software Structure Enables Nif Operations Kirby W. Fong
+Application of digital regulated Power Supplies for Magnet Control at the Swiss Light Source
+System Integration of High Level Applications during the Commissioning of the Swiss Light Source
+Data Access - Experiences Implementing an Object Oriented Library on Various Platforms
+User-friendly explanations for constraint programming
+An Integrated Development Environment for Declarative Multi-Paradigm Programming
+Combining Propagation Information and Search Tree Visualization using ILOG OPL Studio
+On the Design of a Tool for Supporting the Construction of Logic Programs
+Proceedings of the Eleventh Workshop on Logic Programming Environments (WLPE'01)
+Prototyping CLP(FD) Tracers: a Trace Model and an Experimental Validation Environment
+The Overview of the National Ignition Facility Distributed Computer Control System
+HyperPro An integrated documentation environment for CLP
+A Backward Analysis for Constraint Logic Programs
+Model-Based Software Engineering and Ada: Synergy for the Development of Safety-Critical Systems
+Software Validation using Power Profiles
+A Refinement Calculus for Logic Programs
+BSML: A Binding Schema Markup Language for Data Interchange in Problem Solving Environments (PSEs)
+An Assessment of the Consistency for Software Measurement Methods
+Monitoring and Debugging Concurrent and Distributed Object-Oriented Systems
+Semantic Properties for Lightweight Specification in Knowledgeable Development Environments
+Semantic Component Composition
+Three-Tiered Specification of Micro-Architectures
+The analysis of the IFPUG method sensitivity
+Declarative program development in Prolog with GUPU
+COINS: a constraint-based interactive solving system
+Tracing and Explaining Execution of CLP(FD) Programs
+CLPGUI: a generic graphical user interface for constraint logic programming over finite domains
+Value withdrawal explanations: a theoretical tool for programming environments
+Exporting Prolog source code
+Proceedings of the 12th International Workshop on Logic Programming Environments
+An Architecture for Making Object-Oriented Systems Available from Prolog
+Enhancing Usefulness of Declarative Programming Frameworks through Complete Integration
+Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way
+Subclassing errors OOP and practically checkable rules to prevent them
+Experimental Software Schedulability Estimation For Varied Processor Frequencies
+Techniques and Applications of Computation Slicing
+Numerical Coverage Estimation for the Symbolic Simulation of Real-Time Systems
+Power Law Distributions in Class Relationships
+An Abstract Programming System
+Concrete uses of XML in software development and data analysis
+OVAL: the CMS Testing Robot
+IceCube's Development Environment
+FAYE: A Java Implement of the Frame Stream Stop Analysis Model
+The Community Authorization Service: Status and Future
+The Athena Startup Kit
+GANGA: a user-Grid interface for Atlas and LHCb
+The StoreGate: a Data Model for the Atlas Software Architecture
+Making refactoring decisions in large-scale Java systems: an empirical stance
+Web Engineering
+Contributions to the Development and Improvement of a Regulatory and Pre-Regulatory Digitally System for the Tools within Flexible Fabrication Systems
+Efficient Instrumentation for Performance Profiling
+Open source software and peer review
+Proceedings of the Fifth International Workshop on Automated Debugging (AADEBUG 2003)
+Model-Based Debugging using Multiple Abstract Models
+Timestamp Based Execution Control for C and Java Programs
+Towards declarative diagnosis of constraint programs over finite domains
+Postmortem Object Type Identification
+Causes and Effects in Computer Programs
+A mathematical framework for automated bug localization
+A Performance Analysis Tool for Nokia Mobile Phone Software
+Event-based Program Analysis with DeWiz
+Debugging Tool for Localizing Faulty Processes in Message Passing Programs
+A Monitoring Language for Run Time and Post-Mortem Behavior Analysis and Visualization
+Generalized Systematic Debugging for Attribute Grammars
+Automated Fault Localization Using Potential Invariants
+Rigorous design of tracers: an experiment for constraint logic programming
+Managing Evolving Business Workflows through the Capture of Descriptive Information
+DUCT: An Interactive Define-Use Chain Navigation Tool for Relative Debugging
+Idempotent I O for safe time travel
+MammoGrid: Large-Scale Distributed Mammogram Analysis
+Resolving Clinicians Queries Across a Grids Infrastructure
+A Preliminary Study for the development of an Early Method for the Measurement in Function Points of a Software Product
+A Service-Based Approach for Managing Mammography Data
+Pattern Reification as the Basis for Description-Driven Systems
+Culture and International Usability Testing: The Effects of Culture in Structured Interviews
+Uncovering the epistemological and ontological assumptions of software designers
+Notions of Equivalence in Software Design
+Improving Prolog Programs: Refactoring for Prolog
+Bug shallowness in open-source Macintosh software
+Roles Are Really Great
+On the Theory of Structural Subtyping
+On computing the fixpoint of a set of boolean equations
+CrocoPat 2.1 Introduction and Reference Manual
+Using a hierarchy of Domain Specific Languages in complex software systems design
+Robust Dialogue Understanding in HERALD
+The Cyborg Astrobiologist: First Field Experience
+On Spatial Conjunction as Second-Order Logic
+Inter-Package Dependency Networks in Open-Source Software
+Mass Storage Management and the Grid
+Enabling Agents to Dynamically Select Protocols for Interactions
+Under-approximation of the Greatest Fixpoint in Real-Time System Verification
+Under-approximation of the Greatest Fixpoints in Real-Time System Verification
+Extending Design by Contract for Aspect-Oriented Programming
+EPspectra: A Formal Toolkit for Developing DSP Software Applications
+Testing Systems of Concurrent Black-boxes--an Automata-Theoretic and Decompositional Approach
+Local and Global Analysis: Complementary Activities for Increasing the Effectiveness of Requirements Verification and Validation
+An Objectives-Driven Process for Selecting Methods to Support Requirements Engineering Activities
+Effective Requirements Generation: Synchronizing Early Verification Validation Methods and Method Selection Criteria
+A Systematic Aspect-Oriented Refactoring and Testing Strategy and its Application to JHotDraw
+Systematic Method for Path-Complete White Box Testing
+A Survey of Reverse Engineering and Program Comprehension
+Prototype of Fault Adaptive Embedded Software for Large-Scale Real-Time Systems
+Pluggable AOP: Designing Aspect Mechanisms for Third-party Composition
+The Workshop - Implementing Well Structured Enterprise Applications
+Measuring Woody: The Size of Debian 3.0
+Software Architecture Overview
+Proceedings of the 15th Workshop on Logic-based methods in Programming Environments WLPE'05 -- October 5 2005 -- Sitges (Barcelona) Spain
+Extending Prolog with Incomplete Fuzzy Information
+A Tracer Driver for Versatile Dynamic Analyses of Constraint Logic Programs
+Proving or Disproving likely Invariants with Constraint Reasoning
+Enhancing the Alloy Analyzer with Patterns of Analysis
+A Generic Framework for the Analysis and Specialization of Logic Programs
+A Model-driven Approach for Grid Services Engineering
+Telling Great Stories: An NSDL Content and Communications System for Aggregation Display and Distribution of News and Features
+Diophantus' 20th Problem and Fermat's Last Theorem for n4: Formalization of Fermat's Proofs in the Coq Proof Assistant
+From General Systems to Soft Systems to Soft Computing: Applications for Large and Complex Real World Systems
+Amazing geometry of genetic space or are genetic algorithms convergent?
+Deductive Object Programming
+A Formal Architecture-Centric Model-Driven Approach for the Automatic Generation of Grid Applications
+Engineering Conceptual Data Models from Domain Ontologies: A Critical Evaluation
+Digital Libraries: From Process Modelling to Grid-based Service Oriented Architecture
+Object-Oriented Modeling of Programming Paradigms
+Language Support for Optional Functionality
+Inter-component communication methods in object-oriented frameworks
+Deriving Conceptual Data Models from Domain Ontologies for Bioinformatics
+minimUML: A Minimalist Approach to UML Diagraming for Early Computer Science Education
+The Case for Modeling Security Privacy Usability and Reliability (SPUR) in Automotive Software
+Octave-GTK: A GTK binding for GNU Octave
+Applied MVC Patterns. A pattern language
+On the Design of Agent-Based Systems using UML and Extensions
+A framework of reusable structures for mobile agent development
+Mobile Agent Based Solutions for Knowledge Assessment in elearning Environments
+An Unfolding-Based Semantics for Logic Programming with Aggregates
+Ontological Representations of Software Patterns
+Knowledge Flow Analysis for Security Protocols
+Modeling Aspect Mechanisms: A Top-Down Approach
+Building a logical model in the machining domain for CAPP expert systems
+Static Analysis using Parameterised Boolean Equation Systems
+A Product Oriented Modelling Concept: Holons for systems synchronisation and interoperability
+Product Centric Holons for Synchronisation and Interoperability in Manufacturing Environments
+Formalizing typical crosscutting concerns
+Applying and Combining Three Different Aspect Mining Techniques
+Use of UML and Model Transformations for Workflow Process Definitions
+Prioritizing Software Inspection Results using Static Profiling
+Program Spectra Analysis in Embedded Software: A Case Study
+Web-Based Enterprise Information Systems Development: The Integrated Methodology
+Object-Based Groupware: Theory Design and Implementation Issues
+Enterprise Content Management: Theory and Engineering for Entire Lifecycle Support
+Enterprise Portal Development Tools: Problem-Oriented Approach
+ConceptModeller: a Problem-Oriented Visual SDK for Globally Distributed Enterprise Systems
+Enterprise Portal: from Model to Implementation
+Abstract Machine as a Model of Content Management Information System
+Integrating Enterprise Software Applications with Web Portal Technology
+The Integrated Approach to ERP: Embracing the Web
+Enterprise Resource Planning Systems: the Integrated Approach
+Towards Implementing an Enterprise Groupware-Integrated Human Resources Information System
+Morphisms of Coloured Petri Nets
+An Architectural Style for Ajax
+Linux Open Source and Unicode
+A XML Schema Definition based Universal User Interface
+On Verifying Complex Properties using Symbolic Shape Analysis
+Verification Validation and Integrity of Distributed and Interchanged Rule Based Policies and Contracts in the Semantic Web
+Rule-based Knowledge Representation for Service Level Agreement
+ECA-LP ECA-RuleML: A Homogeneous Event-Condition-Action Logic Programming Language
+Symbolic Simulation-Checking of Dense-Time Systems
+Migrating Multi-page Web Applications to Single-page AJAX Interfaces
+Partial Evaluation for Program Comprehension
+Reuse of Specification Patterns with the B Method
+ECA-RuleML: An Approach combining ECA Rules with temporal interval-based KR Event Action Logics and Transactional Update Logics
+Capabilities Engineering: Constructing Change-Tolerant Systems
+Reconciling Synthesis and Decomposition: A Composite Approach to Capability Identification
+Design approaches in technology enhanced learning
+The Implications of Network-Centric Software Systems on Software Architecture: A Critical Evaluation
+Knowledge Representation Concepts for Automated SLA Management
+Developing efficient parsers in Prolog: the CLF manual (v1.0)
+Agile Adoption Process Framework
+Architecting Network-Centric Software Systems: A Style-Based Beginning
+Determining the Applicability of Agile Practices to Mission and Life-critical Systems
+Fingerprinting Logic Programs
+Certifying controls and systems software
+On the Software and Knowledge Engineering Aspects of the Educational Process
+Reasoning from a schema and from an analog in software code reuse
+Improving Prolog programs: Refactoring for Prolog
+Designing a Resource Broker for Heterogeneous Grids
+Pre-Requirement Specification Traceability: Bridging the Complexity Gap through Capabilities
+Addressing Components' Evolvement and Execution Behavior to Measure Component-Based Software Reliability
+Recommender System for Online Dating Service
+Portlet Wrappers using JavaScript
+A Systematic Approach to Web-Application Development
+Spoken Language Dialogue Systems and Components: Best practice in development and evaluation (DISC 24823) - Periodic Progress Report 1: Basic Details of the Action
+Object-Oriented Design of Graph Oriented Data Structures
+Broy-Lamport Specification Problem: A Gurevich Abstract State Machine Solution
+Equivalence is in the Eye of the Beholder
+Evolving Algebras and Partial Evaluation
+An Offline Partial Evaluator for Evolving Algebras
+The Railroad Crossing Problem: An Experiment with Instantaneous Actions and Immediate Reactions
+Second Product Line Practice Workshop Report
+Case Study in Survivable Network System Analysis
+Abstract State Machines 1988-1998: Commented ASM Bibliography
+Managing Object-Oriented Integration and Regression Testing
+An Algebraic Programming Style for Numerical Software and its Optimization
+LuaJava - A Scripting Tool for Java
+A Machine-Independent Debugger--Revisited
+Events in Property Patterns
+SCR3: towards usability of formal methods
+Events in Linear-Time Properties
+Formal Modeling in a Commercial Setting: A Case Study
+A Reasonable C Wrappered Java Native Interface
+Computation in an algebra of test selection criteria
+A General Methodology for Designing Self-Organizing Systems
+The ATLAS Tile Calorimeter Test Beam Monitoring Program
+Logarithmic growth dynamics in software networks
+A Generic Model of Contracts for Embedded Systems
+Une s 'emantique observationnelle du mod ele des bo ites pour la r 'esolution de programmes logiques (version 'etendue)
+A common framework for aspect mining based on crosscutting concern sorts
+Identifying Crosscutting Concerns Using Fan-in Analysis
+Managing Separation of Concerns in Grid Applications Through Architectural Model Transformations
+Interface groups and financial transfer architectures
+An Integrated Crosscutting Concern Migration Strategy and its Application to JHotDraw
+Parsimony Principles for Software Components and Metalanguages
+A Comparison of Push and Pull Techniques for Ajax
+A Language for Generic Programming in the Large
+Improved Linear Parallel Interference Cancellers
+Heap Reference Analysis for Functional Programs
+Cross-Participants : fostering design-use mediation in an Open Source Software community
+Implementation Compilation Optimization of Object-Oriented Languages Programs and Systems - Report on the Workshop ICOOOLPS'2006 at ECOOP'06
+Interpolant-Based Transition Relation Approximation
+Source-to-source optimizing transformations of Prolog programs based on abstract interpretation
+Declarative Diagnosis of Floundering
+Automatic Coding Rule Conformance Checking Using Logic Programs
+A Prolog-based Environment for Reasoning about Programming Languages (Extended abstract)
+Compiling ER Specifications into Declarative Programs
+Spreadsheet Engineering: A Research Framework
+Exploring the Composition of Unit Test Suites
+PIDoc: Wiki style Literate Programming for Prolog
+Applying Software Defect Estimations: Using a Risk Matrix for Tuning Test Effort
+Knowware: the third star after Hardware and Software
+Implementation Compilation Optimization of Object-Oriented Languages Programs and Systems - Report on the Workshop ICOOOLPS'2007 at ECOOP'07
+Experiments with a Convex Polyhedral Analysis Tool for Logic Programs
+Software (Re-)Engineering with PSF
+Optimizing Queries in a Logic-based Information Integration System
+Software (Re-)Engineering with PSF II: from architecture to implementation
+Proceedings of the 17th Workshop on Logic-based methods in Programming Environments (WLPE 2007)
+Software (Re-)Engineering with PSF III: an IDE for PSF
+Survey of Technologies for Web Application Development
+Increased security through open source
+A topological formal treatment for scenario-based software specification of concurrent real-time systems
+Algorithmically independent sequences
+An Empirical Study of Cache-Oblivious Priority Queues and their Application to the Shortest Path Problem
+Program Promises
+Using Alloy to model-check visual design notations
+Software graphs and programmer awareness
+Dynamic data models: an application of MOP-based persistence in Common Lisp
+Pattern-Oriented Analysis and Design (POAD) Theory
+Knowledge Technologies
+Complexity Metrics for Spreadsheet Models
+Recommended Practices for Spreadsheet Testing
+A Typical Model Audit Approach: Spreadsheet Audit Methodologies in the City of London
+Applying the CobiT Control Framework to Spreadsheet Developments
+Comparison of Spreadsheets with other Development Tools (limitations solutions workarounds and alternatives)
+Computational Models of Spreadsheet Development: Basis for Educational Approaches
+Spreadsheet Debugging
+Source Code Protection for Applications Written in Microsoft Excel and Google Spreadsheet
+Spreadsheet Assurance by Control Around is a Viable Alternative to the Traditional Approach
+Investigating the Potential of Test-Driven Development for Spreadsheet Engineering
+A New Approach to Spreadsheet Analytics Management in Financial Markets
+Spreadsheet Errors: What We Know. What We Think We Can Do
+Spreadsheet Development Methodologies using Resolver: Moving spreadsheets into the 21st Century
+Fun Boy Three Were Wrong: it is what you do not the way that you do it
+It Ain't What You View But The Way That You View It: documenting spreadsheets with Excelsior semantic wikis and literate programming
+Spreadsheet Structure Discovery with Logic Programming
+EuSpRIG 2006 Commercial Spreadsheet Review
+A Software Development Methodology for Research and Prototyping in Financial Markets
+Rapid Spreadsheet Reshaping with Excelsior: multiple drastic changes to content and layout are easy when you represent enough structure
+Considering Functional Spreadsheet Operator Usage Suggests the Value of Example Driven Modelling for Decision Support Systems
+A Computational Framework for the Near Elimination of Spreadsheet Risk
+TellTable Spreadsheet Audit: from Technical Possibility to Operating Prototype
+Excelsior: Bringing the Benefits of Modularisation to Excel
+Archiving: The Overlooked Spreadsheet Risk
+Merging Object and Process Diagrams for Business Information Modeling
+Sarbanes-Oxley: What About all the Spreadsheets?
+Reducing Overconfidence in Spreadsheet Development
+The Wall and The Ball: A Study of Domain Referent Spreadsheet Errors
+Philosophical Smoke Signals: Theory and Practice in Information Systems Design
+Plat Forms -- a contest: The web development platform comparison
+State and history in operating systems
+Managing Critical Spreadsheets in a Compliant Environment
+A Structured Methodology for Spreadsheet Modelling
+Building Financial Accuracy into Spreadsheets
+Classification of Spreadsheet Errors
+Risk Assessment For Spreadsheet Developments: Choosing Which Models to Audit
+GuiLiner: A Configurable and Extensible Graphical User Interface for Scientific Analysis and Simulation Software
+Design Patterns for Complex Event Processing
+VPOET: Using a Distributed Collaborative Platform for Semantic Web Applications
+A Process Algebra Software Engineering Environment
+In Pursuit of Spreadsheet Excellence
+Quantitative Paradigm of Software Reliability as Content Relevance
+Increase of Software Safety
+A Counterexample Guided Abstraction-Refinement Framework for Markov Decision Processes
+CPBVP: A Constraint-Programming Framework for Bounded Program Verification
+Reducing Spreadsheet Risk with FormulaDataSleuth
+Audit and Change Analysis of Spreadsheets
+Accuracy in Spreadsheet Modelling Systems
+When why and how to test spreadsheets
+Interface Matching and Combining Techniques for Services Integration
+Encapsulation theory fundamentals
+Research Challenges in Management and Compliance of Policies on the Web
+Integrating OPC Data into GSN Infrastructures
+Towards a Process for Developing Maintenance Tools in Academia
+Comparison between CPBPV ESC Java CBMC Blast EUREKA and Why for Bounded Program Verification
+Initial Results on the F-logic to OWL Bi-directional Translation on a Tabled Prolog Engine
+Correctness is not enough
+Network Motifs in Object-Oriented Software Systems
+Scientific Workflow Systems for 21st Century e-Science New Bottle or New Wine?
+The Prolog Interface to the Unstructured Information Management Architecture
+Metrics-Based Spreadsheet Visualization: Support for Focused Maintenance
+Automating Spreadsheet Discovery Risk Assessment
+Spreadsheet modelling for solving combinatorial problems: The vendor selection problem
+Spreadsheet Components For All
+A Primer on Spreadsheet Analytics
+Spreadsheet End-User Behaviour Analysis
+Information and Data Quality in Spreadsheets
+Revisiting the Panko-Halverson Taxonomy of Spreadsheet Errors
+The ADAPT Tool: From AADL Architectural Models to Stochastic Petri Nets through Model Transformation
+Software dependability modeling using an industry-standard architecture description language
+Control software analysis Part I Open-loop properties
+Interpolation in local theory extensions
+A Call-Graph Profiler for GNU Octave
+Domain Specific Software Architecture for Design Center Automation
+Pilotage des processus collaboratifs dans les syst emes PLM. Quels indicateurs pour quelle 'evaluation des performances ?
+Collaborative process control: Observation of tracks generated by PLM system
+A Transformation--Based Approach for the Design of Parallel Distributed Scientific Software: the FFT
+Encapsulation theory: the configuration efficiency limit
+chi2TeX Semi-automatic translation from chiwriter to LaTeX
+Dynamic System Adaptation by Constraint Orchestration
+Solving package dependencies: from EDOS to Mancoosi
+Description of the CUDF Format
+Benchmarking the solar dynamo with Maxima
+Ensuring Query Compatibility with Evolving XML Schemas
+Revisiting the Core Ontology and Problem in Requirements Engineering
+Quality Control Testing and Deployment Results in NIF ICCS
+Visual DCT - Visual EPICS Database Configuration Tool
+Extending the code generation capabilities of the Together CASE tool to support Data Definition languages
+The Athena Data Dictionary and Description Language
+IGUANA Architecture Framework and Toolkit for Interactive Graphics
+ROOT Status and Future Developments
+BOA: Framework for Automated Builds
+An approach to control collaborative processes in PLM systems
+Lissom a Source Level Proof Carrying Code Platform
+Structure and Interpretation of Computer Programs
+Design and Implementation of a Tracer Driver: Easy and Efficient Dynamic Analyses of Constraint Logic Programs
+The Complexity of Coverage
+Pattern-based Model-to-Model Transformation: Long Version
+Cardinality heterogeneities in Web service composition: Issues and solutions
+Control software analysis part II: Closed-loop analysis
+XML Static Analyzer User Manual
+Context-aware adaptation for group communication support applications with dynamic architecture
+Architecture Logicielles pour des Applications h 'et 'erog enes distribu 'ees et reconfigurables
+Bootstrapping Inductive and Coinductive Types in HasCASL
+XML Rewriting Attacks: Existing Solutions and their Limitations
+Techniques for Distributed Reachability Analysis with Partial Order and Symmetry based Reductions
+Encapsulation theory: the transformation equations of absolute information hiding
+An e-Infrastructure for Collaborative Research in Human Embryo Development
+Grammatic -- a tool for grammar definition reuse and modularity
+Enterprise model verification and validation: an approach
+Performance of Buchberger's Improved Algorithm using Prime Based Ordering
+CPAchecker: A Tool for Configurable Software Verification
+Towards a Theory of Requirements Elicitation: Acceptability Condition for the Relative Validity of Requirements
+Package upgrades in FOSS distributions: details and challenges
+Creating modular and reusable DSL textual syntax definitions with Grammatic ANTLR
+ImageSpace: An Environment for Image Ontology Management
+OntoELAN: An Ontology-based Linguistic Multimedia Annotator
+A distributed editing environment for XML documents
+Software Engineering Systems Design Nature
+Workflow Patterns in Process Modeling
+Considerations on Resource Usage in Exceptions and Failures in Workflows
+Adaptation of Black-Box Software Components
+A Domain-Specific Language for Programming in the Tile Assembly Model
+Artificial table testing dynamically adaptive systems
+Better Termination for Prolog with Constraints
+On the Generation of Test Data for Prolog by Partial Evaluation
+Prolog Visualization System Using Logichart Diagrams
+A Semantics-Aware Editing Environment for Prolog in Eclipse
+CloudSim: A Novel Framework for Modeling and Simulation of Cloud Computing Infrastructures and Services
+Personal report of the 3rd ECMDA-FA'07 conference
+Delving into Transition to the Semantic Web
+Analysis Paralysis: when to stop?
+A classification of invasive patterns in AOP
+Modeling and verifying a broad array of network properties
+Footprints in Local Reasoning
+Business Process Modeling Notation - An Overview
+Tailored business solutions by workflow technologies
+Computer Aided Optimization of the Unconventional Processing
+Semantic Linkage of Control Systems
+Failover of Software Services with State Replication
+Architecture of the Neurath Basic Model View Controller
+Ing 'enierie syst eme d'un syst eme d'information d'entreprise centr 'e sur le produit bas 'ee sur un cadre de mod 'elisation multi- 'echelles : application a un cas d' 'etude de l'AIP lorrain
+Non Homogeneous Poisson Process Model based Optimal Modular Software Testing using Fault Tolerance
+Quality Classifiers for Open Source Software Repositories
+Software Model Checking via Large-Block Encoding
+Reliable Process for Security Policy Deployment
+The Distribution of Program Sizes and Its Implications: An Eclipse Case Study
+Modeling System Safety Requirements Using Input Output Constraint Meta-Automata
+Formalizing Safety Requirements Using Controlling Automata
+A Language-theoretic View on Guidelines and Consistency Rules of UML
+Empirical study of software quality evolution in open source projects using agile practices
+An Analysis of Bug Distribution in Object Oriented Systems
+Strong Dependencies between Software Components
+Mod 'elisation des facteurs influen c c ant la performance de la cha ine logistique
+Athos - The C GUI Generator
+Derivation of UML Based Performance Models for Design Assessment in a Reuse Based Software Development Approach
+Enabling and Optimizing Pilot Jobs using Xen based Virtual Machines for the HPC Grid Applications
+Am 'eliorer les performances de l'industrie logicielle par une meilleure compr 'ehension des besoins
+Analyser Framework to verify Software Component
+Creating Textual Language Dialects Using Aspect-like Techniques
+Towards Improving Validation Verification Crash Investigations and Event Reconstruction of Flight-Critical Systems with Self-Forensics
+Goal-oriented Data Warehouse Quality Measurement
+ModelTalk: A Framework for Developing Domain Specific Executable Models
+XML Data Integrity Based on Concatenated Hash Function
+An Introduction to Simulation-Based Techniques for Automated Service Composition
+Fairness as a QoS Measure for Web Services
+Service-oriented Context-aware Framework
+Towards a Unifying View of QoS-Enhanced Web Service Description and Discovery Approaches
+Adaptive Process Management in Highly Dynamic and Pervasive Scenarios
+Proceedings Fourth European Young Researchers Workshop on Service Oriented Computing
+The DataFlow System of the ATLAS Trigger and DAQ
+Ftklipse - Design and Implementation of an Extendable Computer Forensics Environment: Software Requirements Specification Document
+Ftklipse - Design and Implementation of an Extendable Computer Forensics Environment: Specification Design Document
+On Implementation of a Safer C Library ISO IEC TR 24731
+Measurable Scalable NFRs using Fuzzy Logic and Likert Scale
+Teaching Quality Assurance and Project Management to Undergraduate Computing Students in Pakistan
+Agent based Model for providing optimized synchronized and failure free execution of workflow process
+ChOrDa: a methodology for the modeling of business processes with BPMN
+BPDMN: A Conservative Extension of BPMN with Enhanced Data Representation Capabilities
+Refining interfaces: the case of the B method
+SMT-Based Bounded Model Checking for Embedded ANSI-C Software
+A Metric Encoding for Bounded Model Checking (extended version)
+Aneka: A Software Platform for .NET-based Cloud Computing
+Service-oriented high level architecture
+The Levels of Conceptual Interoperability Model: Applying Systems Engineering Principles to M S
+Top-down Paradigm in Engineering Software Integration
+Automated Spreadsheet Development
+Some Spreadsheet Poka-Yoke
+An Exploratory Analysis of the Impact of Named Ranges on the Debugging Performance of Novice Users
+Checks and Controls in Spreadsheets
+Documenting Spreadsheets with Pseudo-Code: an Exercise with Cash-Flow and Loans
+Error Estimation in Large Spreadsheets using Bayesian Statistics
+Documenting Problem-Solving Knowledge: Proposed Annotation Design Guidelines and their Application to Spreadsheet Tools
+NLP-SIR: A Natural Language Approach for Spreadsheet Information Retrieval
+Reducing the Risk of Spreadsheet Usage - a Case Study
+Software Engineering with Process Algebra: Modelling Client Server Architectures
+An approach for the automated risk assessment of structural differences between spreadsheets (DiffXL)
+Machine structure oriented control code logic
+Optimizing Service Orchestrations
+A Step towards Software Corrective Maintenance Using RCM model
+Statechart Verification with iState
+High level architecture evolved modular federation object model
+Using Ellipsoidal Domains to Analyze Control Systems Software
+Context Aware Adaptable Applications - A global approach
+MESURE Tool to benchmark Java Card platforms
+A general XML-based distributed software architecture for accessing and sharing ressources
+A Survey on Service Composition Middleware in Pervasive Environments
+Excel Modelling - Transparency Auditing and Business Use
+Three-dimensional conceptual model for service-oriented simulation
+Modelling and Analysing Dynamic Decentralised Systems
+IRPF90: a programming environment for high performance computing
+Towards maintainer script modernization in FOSS distributions
+Expressing advanced user preferences in component installation
+Applying Slicing Technique to Software Architectures
+Approximate Computation of Reach Sets in Hybrid Systems
+More Precise Yet Efficient Type Inference for Logic Programs
+Instrumenting self-modifying code
+Debugging Backwards in Time
+Availability Guarantee for Deterministic Replay Starting Points in Real-Time Systems
+Modeling State in Software Debugging of VHDL-RTL Designs -- A Model-Based Diagnosis Approach
+An Integrated Approach for Extraction of Objects from XML and Transformation to Heterogeneous Object Oriented Databases
+A Use-Case Driven Approach in Requirements Engineering : The Mammogrid Project
+A perspective on the Healthgrid initiative
+Model-checking Driven Black-box Testing Algorithms for Systems with Unspecified Components
+Benchmarking Blunders and Things That Go Bump in the Night
+Model Checking of Statechart Models: Survey and Research Directions
+Software Libraries and Their Reuse: Entropy Kolmogorov Complexity and ipf's Law
+Fast Frequent Querying with Lazy Control Flow Compilation
+A Proposal for Proquints: Identifiers that are Readable Spellable and Pronounceable
+Digital Ecosystems in the Clouds: Towards Community Cloud Computing
+Community Cloud Computing
+From Requirements to code: an Architecture-centric Approach for producing Quality Systems
+Pessimistic Testing
+Tool-Assisted Multi-Facet Analysis of Formal Specifications (Using Alelier-B and ProB)
+Distributed Object Medical Imaging Model
+Can Component Service-Based Systems Be Proved Correct?
+How to Complete an Interactive Configuration Process?
+Temporal Debugging using URDB
+A brief overview of the MAD debugging activities
+A Knowledge-based Automated Debugger in Learning System
+Checking Behavioral Consistency Constraints for Pervasive Context in Asynchronous Environments
+From Method Fragments to Method Services
+Enhancing the Guidance of the Intentional Model MAP : Graph Theory Application
+SOAP Serialization Performance Enhancement Design And Implementation Of A Middleware
+Software Security Rules SDLC Perspective
+Situational Method Engineering: Fundamentals and Experiences
+Method Chunks Selection by Multicriteria Techniques: an Extension of the Assembly-based Approach
+Improving Software Development Processes with Multicriteria Methods
+Expressing the Behavior of Three Very Different Concurrent Systems by Using Natural Extensions of Separation Logic
+Performance Analysis of MANET Routing Protocols Using An Elegant Visual Simulation Tool
+Fault-Tolerance through Message-logging and Check-pointing: Disaster Recovery for CORBA-based Distributed Bank Servers
+Software Engineering Education by Example
+Continuous Verification of Large Embedded Software using SMT-Based Bounded Model Checking
+G3 : GENESIS software envrionment update
+Software systems as complex networks: structure function and evolvability of software collaboration graphs
+Bug propagation and debugging in asymmetric software structures
+Punctuated Equilibrium in Software Evolution
+The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with Geological Significance
+Towards Hybrid Intensional Programming with JLucid Objective Lucid and General Imperative Compiler Framework in the GIPSY
+Proof Theory at Work: Complexity Analysis of Term Rewrite Systems
+Symbolic Implementation of Connectors in BIP
+On the issues of building Information Warehouses
+Inferring Information from Feature Diagrams to Product Line Economic Models
+Modular Workflow Engine for Distributed Services using Lightweight Java Clients
+Ethics Understanding of Software Professional In Risk Reducing Reusability Coding Using Inclusion Set Theory
+Architectural Design Activities for JAS
+Verifying Real-Time Systems using Explicit-time Description Methods
+Fault Predictions in Object Oriented Software
+Identifying the Importance of Software Reuse in COCOMO81 COCOMOII
+An Efficient Explicit-time Description Method for Timed Model Checking
+Parallelizing Deadlock Resolution in Symbolic Synthesis of Distributed Programs
+DiVinE-CUDA - A Tool for GPU Accelerated LTL Model Checking
+Proceedings 8th International Workshop on Parallel and Distributed Methods in verifiCation
+Process Description of COM Object Life Cycle
+The Cyborg Astrobiologist: Porting from a wearable computer to the Astrobiology Phone-cam
+Complex Dependencies in Large Software Systems
+Introducing Automated Regression Testing in Open Source Projects
+LXG Compiler - Design and Implementation
+A Framework for Validation of Object Oriented Design Metrics
+Towards Improving the Mental Model of Software Developers through Cartographic Visualization
+Grammatical Aspects for Language Descriptions
+Software Metrics Evaluation Based on Entropy
+Multicore Applications in Real Time Systems
+Effective Defect Prevention Approach in Software Process for Achieving Better Quality Levels
+Estimation of Defect proneness Using Design complexity Measurements in Object- Oriented Software
+Type-Safe Feature-Oriented Product Lines
+Effectiveness Of Defect Prevention In I.T. For Product Development
+Software Components for Web Services
+Defect Prevention Approaches in Medium Scale it Enterprises
+Mapping General System Characteristics to Non- Functional Requirements
+Inclusion Analysis
+Self-Checks In Spreadsheets: A Survey Of Current Practice
+Defect Prevention Approaches In Medium Scale It Enterprises
+Review and Analysis of The Issues of Unified Modeling Language for Visualizing Specifying Constructing and Documenting the Artifacts of a Software-Intensive System
+Studying the Feasibility and Importance of Software Testing: An Analysis
+Spreadsheet Auditing Software
+Identification of Logical Errors through Monte-Carlo Simulation
+Structure and Behaviour of Virtual Organisation Breeding Environments
+Strategies in PRholog
+Specification of Products and Product Lines
+Proceedings Ninth International Workshop on Reduction Strategies in Rewriting and Programming
+Formal Modelling of a Usable Identity Management Solution for Virtual Organisations
+A Mathematical Basis for the Chaining of Lossy Interface Adapters
+Proceedings Second Workshop on Formal Aspects of Virtual Organisations
+Design of Run time Architectures for Real time UML Models an Actor Centric Approach
+Usages et conception des TIC : Proposition d'un mod ele d'aide a la repr 'esentation de probl eme de conception
+FORMT: Form-based Mutation Testing of Logical Specifications
+Performance and Stability of the Chelonia Storage Cloud
+Virtual Machine Support for Many-Core Architectures: Decoupling Abstract from Concrete Concurrency Models
+A Framework for Agile Development of Component-Based Applications
+Framework for Visualizing Model-Driven Software Evolution and its Application
+Reliable Mining of Automatically Generated Test Cases from Software Requirements Specification (SRS)
+Extensible type checker for parser generation
+The Importance Analysis of Use Case Map with Markov Chains
+Test Case Generation using Mutation Operators and Fault Classification
+Performance Analysis of View Maintenance Techniques for DW
+Dynamic Cognitive Process Application of Blooms Taxonomy for Complex Software Design in the Cognitive Domain
+Cognitive Process of Comprehension in Requirement Analysis in IT Applications
+GPRS Based Intranet Remote Administration GIRA
+Quantifying the Deign Quality of Object Oriented System The metric based rules and heuristic
+Deriving Relationship Between Semantic Models - An Approach for cCSP
+Theory of Regulatory Compliance for Requirements Engineering
+Accelerating sequential programs using FastFlow and self-offloading
+A Trustability Metric for Code Search based on Developer Karma
+Fixed-Parameter Algorithms in Analysis of Heuristics for Extracting Networks in Linear Programs
+Applying MVC and PAC patterns in mobile applications
+Mapping of SOA and RUP: DOA as Case Study
+Improvement in RUP Project Management via Service Monitoring: Best Practice of SOA
+Developing Experimental Models for NASA Missions with ASSL
+An Entry Point for Formal Methods: Specification and Analysis of Event Logs
+Cloud Process Execution Engine - Evaluation of the Core Concepts
+An Algebraic Formalization of the GoF Design Patterns
+Bounded Model Checking of Multi-threaded Software using SMT solvers
+Mapping The Best Practices of XP and Project Management: Well defined approach for Project Manager
+Graph Creation Visualisation and Transformation
+Proceedings FM-09 Workshop on Formal Methods for Aerospace
+Towards physical laws for software architecture
+A Methodology for Empirical Quality Assessment of Object-Oriented Design
+Concurrent Approach to Flynn's SPMD Classification through Java
+Modeling and Reasoning over Distributed Systems using Aspect-Oriented Graph Grammars
+An Implementation of Nested Pattern Matching in Interaction Nets
+Object-oriented Programming Laws for Annotated Java Programs
+Analysis of Empirical Software Effort Estimation Models
+Mathematical Principles in Software Quality Engineering
+A Model of Cloud Based Application Environment for Software Testing
+The Socceral Force
+G 'en 'eSyst : G 'en 'eration d'un syst eme de transitions 'etiquet 'ees a partir d'une sp 'ecification B 'ev 'enementiel
+SMT-based Verification of LTL Specifications with Integer Constraints and its Application to Runtime Checking of Service Substitutability
+Code forking in open-source software: a requirements perspective
+Watermarking Java Programs using Dummy Methods with Dynamically Opaque Predicates
+Multiple Criteria Decision-Making Preprocessing Using Data Mining Tools
+DRMS Co-design by F4MS
+Optimized Fuzzy Logic Based Framework for Effort Estimation in Software Development
+A Pedagogical Evaluation and Discussion about the Lack of Cohesion in Method (LCOM) Metric Using Field Experiment
+An Object-Oriented Metamodel for Bunge-Wand-Weber Ontology
+Maintainability Estimation Model for Object-Oriented Software in Design Phase (MEMOOD)
+A Metrics Based Model for Understandability Quantification
+Formal Proof of SCHUR Conjugate Function
+Dimensions of Formality: A Case Study for MKM in Software Engineering
+Lessons from the Failure and Subsequent Success of a Complex Healthcare Sector IT Project
+Software Requirements Specification of the IUfA's UUIS -- a Team 4 COMP5541-W10 Project Approach
+Software Design Document Testing Deployment and Configuration Management and User Manual of the UUIS -- a Team 4 COMP5541-W10 Project Approach
+Software Requirements Specification of the IUfA's UUIS -- a Team 1 COMP5541-W10 Project Approach
+Software Design Document Testing and Deployment and Configuration Management of the UUIS - a Team 1 COMP5541-W10 Project Approach
+Software Requirements Specification of the IUfA's UUIS -- a Team 3 COMP5541-W10 Project Approach
+Software Design Document Testing Deployment and Configuration Management of the UUIS--a Team 2 COMP5541-W10 Project Approach
+Software Requirements Specification of the IUfA's UUIS -- a Team 2 COMP5541-W10 Project Approach
+Software Design Document Testing Deployment and Configuration Management of the IUfA's UUIS -- a Team 3 COMP5541-W10 Project Approach
+Variable elimination for building interpreters
+A UI Design Case Study and a Prototype of a Travel Search Engine
+Incorporating prediction models in the SelfLet framework: a plugin approach
+On Testing Constraint Programs
+A Structured Framework for Assessing the Goodness of Agile Methods
+Selection of Architecture Styles using Analytic Network Process for the Optimization of Software Architecture
+A model for semantic integration of business components
+Montage: a grid portal and software toolkit for science-grade astronomical image mosaicking
+Towards an architecture for semantic integration of business components
+Filling the Gap between Business Process Modeling and Behavior Driven Development
+File Managing and Program Execution in Web Operating Systems
+Syntactic Abstraction of B Models to Generate Tests
+Detecting Coordination Problems in Collaborative Software Development Environments
+Exploring the Impact of Socio-Technical Core-Periphery Structures in Open Source Software Development
+Object-oriented modelling with unified modelling language 2.0 for simple software application based on agile methodology
+Timed Games for Computing Worst-Case Execution-Times
+Distributed Agile Software Development: A Review
+Software Must Move A Description of the Software Assembly Line
+Component Interaction Graph: A new approach to test component composition
+A Complexity measure based on Requirement Engineering Document
+Contents of COMP5541 Winter 2010 Final UUIS SRS and SDD Reports
+Applying Constraint Solving to the Management of Distributed Applications
+Reflection and Hyper-Programming in Persistent Programming Systems
+sTeX - a System for Flexible Formalization of Linked Data
+Engineering Semantic Web Applications by Using Object-Oriented Paradigm
+An Overview: Extensible Markup Language Technology
+Support for Evolving Software Architectures in the ArchWare ADL
+Constructing Active Architectures in the ArchWare ADL
+Mapping Business Process Modeling constructs to Behavior Driven Development Ubiquitous Language
+Advances in the Design and Implementation of a Multi-Tier Architecture in the GIPSY Environment
+Toward a Formal Semantics for Autonomic Components
+On Generation of Firewall Log Status Reporter (SRr) Using Perl
+A security framework for SOA applications in mobile environment
+Software Effort Estimation using Radial Basis and Generalized Regression Neural Networks
+A Parsing Scheme for Finding the Design Pattern and Reducing the Development Cost of Reusable Object Oriented Software
+Static and Dynamic Quality Assurance by Aspect Oriented Techniques
+Automated co-evolution of GMF editor models
+Observation-Driven Configuration of Complex Software Systems
+Dynamic and Transparent Analysis of Commodity Production Systems
+Proceedings First International Workshop on Logics for Component Configuration
+Comparison of PBO solvers in a dependency solving domain
+CONFIGEN: A tool for managing configuration options
+A tool stack for implementing Behaviour-Driven Development in Python Language
+A methodological approach on the architectural development of integrated e-learning systems
+Testing and Debugging Techniques for Answer Set Solver Development
+On the Cooperation of Independent Registries
+Embedding Spatial Software Visualization in the IDE: an Exploratory Study
+Proceedings Ninth International Workshop on the Foundations of Coordination Languages and Software Architectures
+CREOLE: a Universal Language for Creating Requesting Updating and Deleting Resources
+Implementing Distributed Controllers for Systems with Priorities
+Handling Data-Based Concurrency in Context-Aware Service Protocols
+On Coordinating Collaborative Objects
+A Compositional Semantics for Stochastic Reo Connectors
+Bayesian Network Based XP Process Modelling
+Code Quality Evaluation Methodology Using The ISO IEC 9126 Standard
+Building Reusable Software Component For Optimization Check in ABAP Coding
+Examining Requirements Change Rework Effort: A Study
+Towards Performance Measurement And Metrics Based Analysis of PLA Applications
+Test Case Generation for Object-Oriented Imperative Languages in CLP
+HepML an XML-based format for describing simulated data in high energy physics
+Towards Design and Implementation of a Language Technology based Information Processor for PDM Systems
+A Simplification of a Real-Time Verification Problem
+A Parsing Scheme for Finding the Design Pattern and Reducing the Development Cost of Reusable Object Oriented Software
+Integration of Design Patterns and Mobile Applications in a Management System for Monitoring Maintenance Cathode Plates of Mining Company Quebrada Blanca SA
+Searching publications on software testing
+Runtime-Flexible Multi-dimensional Arrays and Views for C 98 and C 0x
+Software Development Standard and Software Engineering Practice: A Case Study of Bangladesh
+Spreadsheets Grow Up: Three Spreadsheet Engineering Methodologies for Large Financial Planning Models
+An Influence Diagram-Based Approach for Estimating Staff Training in Software Industry
+WiNV: A Framework for Web-based Interactive Scalable Network Visualization
+Three Controlled Experiments in Software Engineering with the Two-Tier Programming Toolkit: Final Report
+System Description: H-PILoT (Version 1.9)
+LinBox founding scope allocation parallel building blocks and separate compilation
+Simplifying Complex Software Assembly: The Component Retrieval Language and Implementation
+A Practical Approach to Managing Spreadsheet Risk in a Global Business
+Transforming Critical Spreadsheets into Web Applications at urich Financial
+Spreadsheet Refactoring
+How do Range Names Hinder Novice Spreadsheet Debugging Performance?
+Spreadsheet Risk Management in Organisations
+The Detection of Human Spreadsheet Errors by Humans versus Inspection (Auditing) Software
+Teaching Spreadsheets: Curriculum Design Principles
+What we understand is what we get: Assessment in Spreadsheets
+Informal Control code logic
+Proceedings Fourth International Workshop on Testing Analysis and Verification of Web Software
+On Modelling and Analysis of Dynamic Reconfiguration of Dependable Real-Time Systems
+Optimizing Computation of Recovery Plans for BPEL Applications
+Structural Learning of Attack Vectors for Generating Mutated XSS Attacks
+Preventing SQL Injection through Automatic Query Sanitization with ASSIST
+Relational Constraint Driven Test Case Synthesis for Web Applications
+Browser-based Analysis of Web Framework Applications
+Contracting the Facebook API
+Analysis and Verification of Service Interaction Protocols - A Brief Survey
+Software for physics of tau lepton decay in LHC experiments
+Deriving Specifications of Dependable Systems: toward a Method
+Modeling and Analyzing Adaptive User-Centric Systems in Real-Time Maude
+Extending the Real-Time Maude Semantics of Ptolemy to Hierarchical DE Models
+Lightweight Time Modeling in Timed Creol
+A Rewriting-Logic-Based Technique for Modeling Thermal Systems
+Distributed Real-Time Emulation of Formally-Defined Patterns for Safe Medical Device Control
+Deadline aware virtual machine scheduler for scientific grids and cloud computing
+Bus Protocols: MSC-Based Specifications and Translation into Program of Verification Tool for Formal Verification
+Modelling Variability for System Families
+Defending the future: An MSc module in End User Computing Risk Management
+Spreadsheets - the Good the Bad and the Downright Ugly
+Productivity tools to study constrained motion: electrician's approach to mechanician's problem
+Automatic Verification of Parametric Specifications with Complex Topologies
+Proceedings International Workshop on Component and Service Interoperability
+Predicting Coding Effort in Projects Containing XML Code
+Contract Aware Components 10 years after
+Partition Refinement of Component Interaction Automata: Why Structure Matters More Than Size
+Components Interoperability through Mediating Connector Patterns
+Tau Be or not Tau Be? - A Perspective on Service Compatibility and Substitutability
+Multilevel Contracts for Trusted Components
+The Emerging Web of Social Machines
+On Object-Orientation
+Model-Based Development of Distributed Embedded Systems by the Example of the Scicos SynDEx Framework
+Primitives for Contract-based Synchronization
+An Introduction to Time-Constrained Automata
+A linear programming approach to general dataflow process network verification and dimensioning
+Norms and Commitment for iOrgs(TM) Information Systems: Direct Logic(TM) and Participatory Grounding Checking
+Automated Validation of Security-sensitive Web Services specified in BPEL and RBAC (Extended Version)
+Proceedings 12th International Workshop on Verification of Infinite-State Systems
+Well-formedness and typing rules for UML Composite Structures
+A Game-theoretic Approach for Synthesizing Fault-Tolerant Embedded Systems
+Formalization of the data flow diagram rules for consistency check
+From UML Specification into Implementation using Object Mapping
+Developing courses with HoloRena a framework for scenario- and game based e-learning environments
+Heuristic Approach of Automated Test Data Generation for Program having Array of Different Dimensions and Loops with Variable Number of Iteration
+Improving the Technical Aspects of Software Testing in Enterprises
+What's the point of documentation?
+An Introduction to Software Engineering and Fault Tolerance
+Component Based Development
+Introducing Business Language Driven Development
+A Formal Model for Dynamically Adaptable Services
+Towards Increase in Quality by Preprocessed Source Code and Measurement Analysis of Software Applications
+Reducing the Number of Annotations in a Verification-oriented Imperative Language
+A Model for Configuration Management of Open Software Systems
+The Virtual Monte Carlo
+Web of Lossy Adapters for Interface Interoperability: An Algorithm and NP-completeness of Minimization
+A Case Study in Matching Service Descriptions to Implementations in an Existing System
+DAME: A Web Oriented Infrastructure for Scientific Data Mining Exploration
+Testing by C template metaprograms
+Mobiles ortsbezogenes Projektmanagement
+Constraint-Guided Workflow Composition Based on the EDAM Ontology
+UCMExporter: Supporting Scenario Transformations from Use Case Maps
+A Progressive Network Management Architecture Enabled By Java Technology
+Selling Culture: Implementation of e-Commerce and WAP-based Prototypes
+Service-Oriented Simulation Framework: An Overview and Unifying Methodology
+Business Mereology: Imaginative Definitions of Insourcing and Outsourcing Transformations
+Software Effort Estimation with Ridge Regression and Evolutionary Attribute Selection
+DD-EbA: An algorithm for determining the number of neighbors in cost estimation by analogy using distance distributions
+Integration of Communication Analysis and the OO Method: Manual derivation of the Conceptual Model. The SuperStationery Co. lab demo
+Cryptolysis v.0.0.1 - A Framework for Automated Cryptanalysis of Classical Ciphers
+Precise Schedulability Analysis for unfeasible to notify separately for comprehensive - EDF Scheduling of interrupted Hard Real-Time Tasks on the similar Multiprocessors
+A Factorial Experiment on Scalability of Search Based Software Testing
+Wiselib: A Generic Algorithm Library for Heterogeneous Sensor Networks
+Ensuring Correctness at the Application Level: a Software Framework Approach
+Context Capture in Software Development
+Proceedings Foundations for Interface Technologies
+Online Verification of Control Parameter Calculations in Communication Based Train Control System
+Interface Theories for (A)synchronously Communicating Modal I O-Transition Systems
+An Overview of the Security Concerns in Enterprise Cloud Computing
+Detecting Errors in Spreadsheets
+The Lookup Technique to Replace Nested-IF Formulas in Spreadsheet Programming
+From error detection to behaviour observation: first results from screen capture analysis
+Views Program Transformations and the Evolutivity Problem in a Functional Language
+A practical guide to Message Structures: a modelling technique for information systems analysis and design
+Dialog interface for dynamic data models
+A Kind of Representation of Common Knowledge and its Application in Requirements Analysis
+Thin Client Web-Based Campus Information Systems for Fiji National University
+Proceedings 6th International Workshop on Computing with Terms and Graphs
+PORGY: Strategy-Driven Interactive Transformation of Graphs
+A method to develop mission critical data processing systems for satellite based instruments. The spinning mode case
+A Tool for the Certification of PLCs based on a Coq Semantics for Sequential Function Charts
+Comparative Study on DFD to UML Diagrams Transformations
+Mixed-Variable Requirements Roadmaps and their Role in the Requirements Engineering of Adaptive Systems
+Runtime Adaptability driven by Negotiable Quality Requirements
+Lightweight Service Oriented Architecture for Pervasive Computing
+On the Detection of High-Impact Refactoring Opportunities in Programs
+Mayavi: a package for 3D visualization of scientific data
+Cause Clue Clauses: Error Localization using Maximum Satisfiability
+BP Variability Case Studies Development using different Modeling Approaches
+Theoretical Count of Function Points for Non-Measurable Items
+Search-based software test data generation using evolutionary computation
+Drag and Drop: Influences on the Design of Reusable Software Components
+Symbolic Execution for Verification
+Transforming ASN.1 Specifications into CafeOBJ to assist with Property Checking
+A study of the existing linear algebra libraries that you can use from C (Une 'etude des biblioth eques d'alg ebre lin 'eaire utilisables en C )
+A study of the existing libraries to read from configuration files (from C )
+Detect Related Bugs from Source Code Using Bug Information
+Validation Measures in CMMI
+Framework for Clique-based Fusion of Graph Streams in Multi-function System Testing
+Composition of Management System for Smart Homes
+Course on System Design (structural approach)
+Software is a directed multigraph (and so is software process)
+An implementation of range trees with fractional cascading in C
+Lost in translation: data integration tools meet the Semantic Web (experiences from the Ondex project)
+Programming Massively Parallel Architectures using MARTE: a Case Study
+To Parallelize or Not to Parallelize Speed Up Issue
+A Comparative Case Study of Code Reuse With Language Oriented Programming
+Precisely Analyzing Loss in Interface Adapter Chains
+Program Optimization Based Pointer Analysis and Live Stack-Heap Analysis
+Platform for Assessing Strategic Alignment Using Enterprise Architecture: Application to E-Government Process Assessment
+Expectations and Reality: Why an enterprise software system didn't work as planned
+Responsibility Modeling for the Sociotechnical Risk Analysis of Coalitions of Systems
+Probabilistic Analysis of Loss in Interface Adapter Chaining
+RESID: A Practical Stochastic Model for Software Reliability
+Model based system engineering approach of a lightweight embedded TCP IP
+The Development of Electronic Payment System for Universities in Indonesia: On Resolving Key Success Factors
+MCA Based Performance Evaluation of Project Selection
+Software Architecture for Fiji National University Campus Information Systems
+A Real-Time Model-Based Reinforcement Learning Architecture for Robot Control
+Hierarchical Complexity: Measures of High Level Modularity
+Community structure of complex software systems: Analysis and applications
+Standardization of information systems development processes and banking industry adaptations
+Synchronous Control of Reconfiguration in Fractal Component-based Systems -- a Case Study
+MDA based-approach for UML Models Complete Comparison
+Poplar: A Java Extension for Evolvable Component Integration
+Improving Web Page Readability by Plain Language
+The MathScheme Library: Some Preliminary Experiments
+QIS-XML: An Extensible Markup Language for Quantum Information Science
+Automated Software Testing Using Metahurestic Technique Based on An Ant Colony Optimization
+Distributed Transactions for Google App Engine: Optimistic Distributed Transactions built upon Local Multi-Version Concurrency Control
+Proceedings 15th International Refinement Workshop
+Discovery of Invariants through Automated Theory Formation
+Bigraphical Refinement
+Building a refinement checker for 
+Refinement for Probabilistic Systems with Nondeterminism
+Model exploration and analysis for quantitative safety refinement in probabilistic B
+Formalising the Continuous Discrete Modeling Step
+A CSP Account of Event-B Refinement
+Perspicuity and Granularity in Refinement
+Verifying Eiffel Programs with Boogie
+Enhanced Management of Personal Astronomical Data with FITSManager
+Proceedings Second International Workshop on Algebraic Methods in Model-based Software Engineering
+Required Behavior of Sequence Diagrams: Semantics and Conformance
+Integration of Communication Analysis and the OO-Method: Rules for the manual derivation of the Conceptual Model
+Understanding Code Patterns - Analysis Interpretation Measurement
+Formal Model Engineering for Embedded Systems Using Real-Time Maude
+Rascal: From Algebraic Specification to Meta-Programming
+Formal Visual Modeling of Real-Time Systems in e-Motions: Two Case Studies
+Prototyping the Semantics of a DSL using ASF SDF: Link to Formal Verification of DSL Models
+Tracing Properties of UML and OCL Models with Maude
+Optimal Divide and Query (extended version)
+Reachability Analysis of Time Basic Petri Nets: a Time Coverage Approach
+QuantUM: Quantitative Safety Analysis of UML Models
+Towards a Calculus of Object Programs
+An IDE to Build and Check Task Flow Models
+Applying whole system design in a sportscar factory
+Estimation of Characteristics of a Software Team for Implementing Effective Inspection Process through Inspection Performance Metric
+Semantic annotation of requirements for automatic UML class diagram generation
+Metrics of Risk Associated with Defects Rediscovery
+Introducing Sourcements
+Proceedings 10th International Workshop on the Foundations of Coordination Languages and Software Architectures
+Modelling and Simulation of Asynchronous Real-Time Systems using Timed Rebeca
+Decoupled execution of synchronous coordination models via behavioural automata
+A Methodology for assessing Agile Software Development Approaches
+On the reaction time of some synchronous systems
+Contracts in distributed systems
+Security Model For Service-Oriented Architecture
+Program slicing techniques and its applications
+Impact of Software Requirement Volatility Pattern on Project Dynamics: Evidences from a Case Study
+Input-output Conformance Testing for Channel-based Service Connectors
+Uniform Labeled Transition Systems for Nondeterministic Probabilistic and Stochastic Process Calculi
+Proceedings 7th International Workshop on Automated Specification and Verification of Web Systems
+Specification and Verification of Context-dependent Services
+Product Lines for Service Oriented Applications - PL for SOA
+Automated Functional Testing based on the Navigation of Web Applications
+Debugging of Web Applications with Web-TLR
+Maximal Structuring of Acyclic Process Models
+Patterns for Business-to-consumer E-Commerce Applications
+A Classification Framework for Web Browser Cross-Context Communication
+Function Based Nonlinear Least Squares and Application to Jelinski--Moranda Software Reliability Model
+Checking Finite State Machine Conformance when there are Distributed Observations
+Optimization of Lyapunov Invariants in Verification of Software Systems (Extended Version)
+Logical Concurrency Control from Sequential Proofs
+OSD: A Source Level Bug Localization Technique Incorporating Control Flow and State Information in Object Oriented Program
+Proceedings Second Workshop on Logics for Component Configuration
+Towards Configuration of applied Web-based information system
+DNA Lossless Differential Compression Algorithm based on Similarity of Genomic Sequence Database
+Assessing the Feasibility of Developing a Federated ERP System
+Critical Aspects of Modern Open Source SoftwareTechnology to Support Emerging Demands
+A qos ontology-based component selection
+Aligning component upgrades
+Visual Inference Specification Methods for Modularized Rulebases. Overview and Integration Proposal
+A Domain-Specific Language for Incremental and Modular Design of Large-Scale Verifiably-Safe Flow Networks (Preliminary Report)
+SAGA: A DSL for Story Management
+MELT - a Translated Domain Specific Language Embedded in the GCC Compiler
+Accurate Programming: Thinking about programs in terms of properties
+BRIDGE: A Model for Modern Software Development Process to Cater the Present Software Crisis
+SRS BUILDER 1.0: An Upper Type CASE Tool For Requirement Specification
+Comprehensive measurement framework for enterprise architectures
+Constraint-Based Deadlock Checking of High-Level Specifications
+Timed Automata Semantics for Visual e-Contracts
+Distributed System Contract Monitoring
+A Software Tool for Legal Drafting
+Leveraging Software Architectures to Guide and Verify the Development of Sense Compute Control Applications
+MDA-based ATL transformation to generate MVC 2 web models
+Large-scale Complex IT Systems
+Actor Continuation Passing: Efficient and Extensible Request Routing for Event-Driven Architectures
+Designing a CPU model: from a pseudo-formal document to fast code
+Empirical study of sensor observation services server instances
+On the Simulation of Time-Triggered Systems on a Chip with BIP
+Service-Oriented Architectures and Web Services: Course Tutorial Notes
+Integrating Testing and Interactive Theorem Proving
+Evidence-Based Comparison of Modularity Support Between Java and Object Teams
+SLALOM: a Language for SLA specification and monitoring
+Do Software Languages Engineers Evaluate their Languages?
+An overview of metrics-based approaches to support software components reusability assessment
+Conditional Model Checking
+Feature-Aware Verification
+Generalization Strategies for the Verification of Infinite State Systems
+Performance improvement of the software development project using the Value Management approach
+Predicting User Actions in Software Processes
+Discovering patterns of correlation and similarities in software project data with the Circos visualization tool
+Sources of Inter-package Conflicts in Debian
+Putting Instruction Sequences into Effect
+Stratified Outsourcing Theory
+Open Source Software: How Can Design Metrics Facilitate Architecture Recovery?
+A comparative study of process mediator components that support behavioral incompatibility
+Identifying Reference Objects by Hierarchical Clustering in Java Environment
+X-ray view on a Class using Conceptual Analysis in Java Environment
+Semantic conflict resolution for integration of business components
+An Ontology-Based Method for Semantic Integration of Business Components
+WeSSQoS: A Configurable SOA System for Quality-aware Web Service Selection
+UML 2.0 - Overview and Perspectives in SoC Design
+Applying UML and MDA to Real Systems Design
+A Decompilation Approach to Partitioning Software for Microprocessor FPGA Platforms
+Model Reuse through Hardware Design Patterns
+Unified Modeling of Complex Real-Time Control Systems
+AutoMoDe - Model-Based Development of Automotive Software
+QIS-XML: A metadata specification for Quantum Information Science
+Computation of WCET using Program Slicing and Real-Time Model-Checking
+Synthesis from Recursive-Components Libraries
+Incorporating Agile with MDA Case Study: Online Polling System
+CTL Model Update for System Modifications
+Proceedings 10th International Workshop on Parallel and Distributed Methods in verifiCation
+Applying Fuzzy ID3 Decision Tree for Software Effort Estimation
+Platform Dependent Verification: On Engineering Verification Tools for 21st Century
+Distributed Parametric and Statistical Model Checking
+Lazy Decomposition for Distributed Decision Procedures
+CoInDiVinE: Parallel Distributed Model Checker for Component-Based Systems
+Distributed MAP in the SpinJa Model Checker
+The HIVE Tool for Informed Swarm State Space Exploration
+Model-driven system development: Experimental design and report of the pilot experiment
+Partial Redundancy Elimination for Multi-threaded Programs
+A Formal Approach for Agent Based Large Concurrent Intelligent Systems
+Towards the integration of formal specification in the 'Ancora methodology
+Evaluation of Computability Criterions for Runtime Web Service Integration
+Design and Validation of Safety Cruise Control System for Automobiles
+Monitoring Software Reliability using Statistical Process control: An MMLE approach
+Aspects of Assembly and Cascaded Aspects of Assembly: Logical and Temporal Properties
+Proceedings 13th International Workshop on Verification of Infinite-State Systems
+Finite State Machine Based Evaluation Model for Web Service Reliability Analysis
+Model-Based Trace-Checking
+Concurrent Development of Model and Implementation
+A Comprehensive Study of Commonly Practiced Heavy and Light Weight Software Methodologies
+vFlow: A GUI-Based Tool for Building Batch Applications for Cloud Computing
+Model Checking Probabilistic Real-Time Properties for Service-Oriented Systems with Service Level Agreements
+Offloadable Apps using SmartDiet: Towards an analysis toolkit for mobile application developers
+A Tool for Model-Based Language Specification
+Proceedings Fifth Transformation Tool Contest
+GMF: A Model Migration Case for the Transformation Tool Contest
+Program Understanding: A Reengineering Case for the Transformation Tool Contest
+HelloWorld An Instructive Case for the Transformation Tool Contest
+Solving the TTC 2011 Model Migration Case with Edapt
+Solving the TTC 2011 Model Migration Case with UML-RSDS
+Solving the TTC 2011 Compiler Optimization Case with QVTR-XSLT
+Solving the TTC 2011 Compiler Optimization Task with metatools
+Solving the TTC 2011 Compiler Optimization Case with GReTL
+Solving the TTC 2011 Compiler Optimization Case with GROOVE
+Solving the TTC 2011 Reengineering Case with GReTL
+Solving the TTC 2011 Reengineering Case with VIATRA2
+Solving the TTC 2011 Reengineering Case with Edapt
+Solving the TTC 2011 Reengineering Case with MOLA and Higher-Order Transformations
+Solving the TTC 2011 Reengineering Case with Henshin
+Saying Hello World with Edapt - A Solution to the TTC 2011 Instructive Case
+Saying Hello World with GROOVE - A Solution to the TTC 2011 Instructive Case
+Saying Hello World with MOLA - A Solution to the TTC 2011 Instructive Case
+Saying Hello World with Henshin - A Solution to the TTC 2011 Instructive Case
+Saying Hello World with VIATRA2 - A Solution to the TTC 2011 Instructive Case
+Saying HelloWorld with QVTR-XSLT - A Solution to the TTC 2011 Instructive Case
+Saying Hello World with GReTL - A Solution to the TTC 2011 Instructive Case
+Saying Hello World with UML-RSDS - A Solution to the 2011 Instructive Case
+Saying Hello World with Epsilon - A Solution to the 2011 Instructive Case
+Drivers of the Cost of Spreadsheet Audit
+Leveraging User Profile and Behaviour to Design Practical Spreadsheet Controls for the Finance Function
+Concurrent Models for Function Execution
+Communicating Concurrent Functions
+Evolution of a Modular Software Network
+Modelling Competences for Partner Selection in Service-Oriented Virtual Organization Breeding Environments
+A New Proposed Technique to Improve Software Regression Testing Cost
+MAPSS a Multi-Aspect Partner and Service Selection Method
+Social Service Brokerage based on UDDI and Social Requirements
+Minimizing the Risk of Architectural Decay by using Architecture-Centric Evolution Process
+Workbook Structure Analysis - Coping with the Imperfect
+Spreadsheets in Financial Departments: An Automated Analysis of 65 000 Spreadsheets using the Luminous Technology
+Beyond The Desktop Spreadsheet
+Effect of Range Naming Conventions on Reliability and Development Time for Simple Spreadsheet Formulas
+From Good Practices to Effective Policies for Preventing Errors in Spreadsheets
+A Platform for Spreadsheet Composition
+Breviz: Visualizing Spreadsheets using Dataflow Diagrams
+Requirements for Automated Assessment of Spreadsheet Maintainability
+Towards Evaluating the Quality of a Spreadsheet: The Case of the Analytical Spreadsheet Model
+In Search of a Taxonomy for Classifying Qualitative Spreadsheet Errors
+Spreadsheet on Cloud -- Framework for Learning and Health Management System
+Modeling and Validating Hybrid Systems Using VDM and Mathematica
+Aggregation of Composite Solutions: strategies models examples
+A Framework for Automated and Certified Refinement Steps
+Exact Safety Verification of Hybrid Systems Using Sums-Of-Squares Representation
+A Classical Fuzzy Approach for Software Effort Estimation on Machine Learning Technique
+The Study and Approach of Software Re-Engineering
+ITIL frameworks to ITD Company for improving capabilities in service management
+An Adaptive Design Methodology for Reduction of Product Development Risk
+TEMANEJO - a debugger for task based parallel programming models
+Dynamic Composition of Evolving Process Types
+INFRAWEBS axiom editor - a graphical ontology-driven tool for creating complex logical expressions
+Enhance accuracy in Software cost and schedule estimation by using Uncertainty Analysis and Assessment in the system modeling process
+An Inventory of UTC Dependencies for IRAF
+Empirical study of performance of data binding in ASP.NET web applications
+Formalizing Traceability and Derivability in Software Product Lines
+Order Handling in Convergent Environments
+Rapid Application Development Using Software Factories
+Structural Analysis: Shape Information via Points-To Computation
+Abstracting Runtime Heaps for Program Understanding
+A MDA approach for defining WS-Policy semantic non-functional properties
+Identifying Clusters of Concepts in a Low Cohesive Class for Extract Class Refactoring Using Metrics Supplemented Agglomerative Clustering Technique
+Morphological methods for design of modular systems (a survey)
+Investigating the Awareness of Applying the Important Web Application Development and Measurement Practices in Small Software Firms
+General Methodology for developing UML models from UI
+Event Space Theory and Its Application
+Empirical Confirmation (and Refutation) of Presumptions on Software
+Verifying Real-time Commit Protocols Using Dense-time Model Checking Technology
+Perturbation Analysis of the Wholesale Energy Market Equilibrium in the Presence of Renewables
+About Instruction Sequence Testing
+Fault Localization for Java Programs using Probabilistic Program Dependence Graph
+Identifying Coordination Problems in Software Development: Finding Mismatches between Software and Project Team Structures
+Requirements and the baseline plan
+Reengineering multi tiered enterprise business applications for performance enhancement and reciprocal or rectangular hyperbolic relation of variation of data transportation time with row pre-fetch size of relational database drivers
+Functional Programming and Security
+Deconcentration of Attention: Addressing the Complexity of Software Engineering
+Compact Symbolic Execution (technical report)
+Understanding need of Uncertainty Analysis in the system Design process
+Semantics and Algorithms for Parametric Monitoring
+tComment: Testing Javadoc Comments to Detect Comment-Code Inconsistencies
+Cryptographic Path Hardening: Hiding Vulnerabilities in Software through Cryptography
+Generating a Performance Stochastic Model from UML Specifications
+Agile Research
+Assessment of OGC Web Processing Services for REST principles
+STANSE: Bug-finding Framework for C Programs
+Open Data: Reverse Engineering and Maintenance Perspective
+Collaboration for enhancing the system development process in open source diligence
+A transformation approach for collaboration based requirement models
+Arduino Tool: For Interactive Artwork Installations
+Temporal Analysis of Literary and Programming Prose
+The artifacts of component-based development
+Autonomic html interface generator for web applications
+Building sustainable ecosystem-oriented architectures
+Survey-Based Analysis of the Proposed Component-Based Development Process
+Evaluation of the Improved XP Software Development Model
+An Improved XP Software Development Model
+Seamless Long Term Learning in Agile Teams for Sustainable Leadership
+Improvement of Key Problems of Software Testing in Quality Assurance
+A Validation of the Proposed Component-Based Development Process
+A New Teaching Model For The Subject Of Software Project Management
+A Step Forward To Component-based Software Cost Estimation in Object-oriented Environment
+Empirical Evaluation of the Proposed eXScrum Model: Results of a Case Study
+A Comprehensive Study of Commonly Practiced Heavy Light Weight Software Methodologies
+A Framework for Next Generation Mobile and Wireless Networks Application Development using Hybrid Component Based Development Model
+Novel Component Based Development Model For Sip-Based Mobile Application
+Risk Assessment Techniques and Survey Method for COTS Components
+Novel Component-Based Development Model for SIP-Based Mobile Application (1202)
+Web Services-Enhanced Agile Modeling and Integrating Business Processes
+Study Paper on Test Case generation for GUI Based Testing
+Conceptual Level Design of Semi-structured Database System: Graph-semantic Based Approach
+Fault Based Techniques for Testing Boolean Expressions: A Survey
+CMS Workflow Execution using Intelligent Job Scheduling and Data Access Strategies
+Reusable Services from the neuGRID Project for Grid-Based Health Applications
+Research Traceability using Provenance Services for Biomedical Analysis
+A Framework Studio for Component Reusability
+Proceedings 7th Workshop on Model-Based Testing
+FLOW-Methode - Methodenbeschreibung zur Anwendung von FLOW
+Model-Based Security Testing
+Reusing Test-Cases on Different Levels of Abstraction in a Model Based Development Tool
+Applying SMT Solvers to the Test Template Framework
+Exact Gap Computation for Code Coverage Metrics in ISO-C
+Using Built-In Domain-Specific Modeling Support to Guide Model-Based Test Generation
+Towards Symbolic Model-Based Mutation Testing: Combining Reachability and Refinement Checking
+Talking quiescence: a rigorous theory that supports parallel composition action hiding and determinisation
+Rule-based Test Generation with Mind Maps
+Constraint-Based Heuristic On-line Test Generation from Non-deterministic I O EFSMs
+Model-Based Testing of Safety Critical Real-Time Control Logic Software
+Decentralised LTL Monitoring
+First steps towards the certification of an ARM simulator using Compcert
+On the Role of Service Concept in IT
+Aspects of SOA: An Entry Point for Starters
+An Interface using SOA Framework For Mediclaim Provider
+Bridging the Gap between Technical Heterogeneity of Context-Aware Platforms: Experimenting a Service Based Connectivity between Adaptable Android WComp and OpenORB
+On Compositional Reasoning for Guaranteeing Probabilistic Properties
+Towards Electronic Shopping of Composite Product
+The cloud paradigm: Are you tuned for the lyrics?
+Model based Software Develeopment: Issues Challenges
+Performance Analysis of HR Portal Domain Components Extraction
+Requirements Engineering Methods: A Classification Framework and Research Challenges
+BPEL-RF: A formal framework for BPEL orchestrations integrating distributed resources
+Design of modular wireless sensor
+A model and framework for reliable build systems
+An Agile Method for E-Service Composition
+Originator usage control with business process slicing
+CloudGenius: Decision Support for Web Server Cloud Migration
+Semi-Automatically Extracting FAQs to Improve Accessibility of Software Development Knowledge
+Distributed Cross-Platform and Regression Testing Architecture for Service-Oriented Architecture
+Self-Healing by Means of Runtime Execution Profiling
+A Programmer-Centric Approach to Program Verification in ATS
+An Analytical Approach for Project Managers in Effective Defect Management in Software Process
+Towards a Tool-based Development Methodology for Pervasive Computing Applications
+A Novel Method on ISO 27001 Reviews: ISMS Compliance Readiness Level Measurement
+Identification of the Risk Related to a Process on Hospital Emergency Service: a Case Study
+Urgency Emergency Health Processes' Modelling: A Case Study
+Generating Program Invariants via Interpolation
+Invertible Program Restructurings for Continuing Modular Maintenance
+Analysis of Test Efficiency during Software Development Process
+State Space Exploration of RT Systems in the Cloud
+Communication Language Specifications For Digital Ecosystems
+Management Language Specifications For Digital Ecosystems
+Integrated Solution Modeling Software: A New Paradigm on Information Security Review
+An Approach for Agile SOA Development using Agile Principals
+Experimenting with Component-Based Middleware for Adaptive Fault Tolerant Computing
+Web service selection based on ranking of qos using associative classification
+An Intelligent Software Workflow Process Design for Location Management on Mobile Devices
+Four Conceptions of Instruction Sequence Faults
+A Semantic-Based Approach for Detecting and Decomposing God Classes
+A Theoretical and Empirical Evaluation of Software Component Search Engines Semantic Search Engines and Google Search Engine in the Context of COTS-Based Development
+Investigating Effort Prediction of Software Projects on the ISBSG Dataset
+Tackling the testing migration problem with SAT-Solvers
+Airborne software tests on a fully virtual platform
+Evaluating CRM Implementation in Healthcare Organization
+EDCC 2012 - Fast Abstracts Student Forum Proceedings
+Evaluation of the Design Metric to Reduce the Number of Defects in Software Development
+Weakest Preconditions and Cumulative Subgoal Fulfillment: A Comparison
+Multi-model-based Access Control in Construction Projects
+A structured approach to VO reconfigurations through Policies
+Using entropy measures for comparison of software traces
+From Boolean Functional Equations to Control Software
+Comparing Soft Computing Techniques For Early Stage Software Development Effort Estimations
+An Eclipse Plugin to Support Code Smells Detection
+The Design and Algorithms of a Verification Condition Generator
+jpf-concurrent: An extension of Java PathFinder for java.util.concurrent
+Migration of data for iKnow application at EURM - a case study
+Towards a new metamodel for the Task Flow Model of the Discovery Method
+Integrated Development Environment Gesture for modeling workflow diagrams
+Development of application for discovering and binding to published geospatial processes in distributed environments
+Communication Analysis modelling techniques
+Invariant stream generators using automatic abstract transformers based on a decidable logic
+Deployment of software components: Application to Wireless System
+Examining the Impact of Platform Properties on Quality Attributes
+Issues of Architectural Description Languages for Handling Dynamic Reconfiguration
+Grey-box GUI Testing: Efficient Generation of Event Sequences
+A Literature Review of Code Clone Analysis to Improve Software Maintenance Process
+Model Driven Mutation Applied to Adaptative Systems Testing
+Current Web Application Development and Measurement Practices for Small Software Firms
+Decision Taking versus Action Determination
+Querying Source Code with Natural Language
+What Should Developers Be Aware Of? An Empirical Study on the Directives of API Documentation
+Forming Teams for Teaching Programming based on Static Code Analysis
+Monitoring Software Reliability using Statistical Process Control An Ordered Statistics Approach
+Towards a better understanding of testing if conditionals
+Cross-View of Testing Techniques Toward Improving Web-Based Application Testing
+Formalization and Validation of Safety-Critical Requirements
+Predicting Bugs' Components via Mining Bug Reports
+Class Schema Evolution for Persistent Object-Oriented Software: Model Empirical Study and Automated Support
+Collaborative Software Development on the Web
+A visual programming language for drawing and executing flowcharts
+Speculative Symbolic Execution
+A Simulation Model for the Waterfall Software Development Life Cycle
+ACME vs PDDL: support for dynamic reconfiguration of software architectures
+Defect Management Using Depth of Inspection and the Inspection Performance Metric
+Generation and Optimization of Test cases for Object-Oriented Software Using State Chart Diagram
+The COMICS Tool - Computing Minimal Counterexamples for Discrete-time Markov Chains
+Timed Test Case Generation Using Labeled Prioritized Time Petri Nets
+Experience on Re-engineering Applying with Software Product Line
+Modeling Languages: metrics and assessing tools
+Revisiting Timed Specification Theories: A Linear-Time Perspective
+Automatic Test Generation for Space
+Linking Quality Attributes and Constraints with Architectural Decisions
+Making life better one large system at a time: Challenges for UAI research
+Home Healthcare Process: Challenges and Open Issues
+Managing Distributed Software Development in the Virtual Astronomical Observatory
+Automated Improvement for Component Reuse
+PyCUDA and PyOpenCL: A Scripting-Based Approach to GPU Run-Time Code Generation
+An efficient high-quality hierarchical clustering algorithm for automatic inference of software architecture from the source code of a software system
+Towards Ecology Inspired Software Engineering
+An Adaptive XP-based approach to Agile Development
+Detection of Configuration Vulnerabilities in Distributed (Web) Environments
+Challenges of Upgrading a Virtual Appliance
+Proceedings First Workshop on Synthesis
+Significance of Quality Metrics in Software Development Process
+Theory and Techniques for Synthesizing a Family of Graph Algorithms
+Measuring Progress of Probabilistic LTL Model Checking
+MDM: A Mode Diagram Modeling Framework for Periodic Control Systems
+A Comprehensive Model to achieve Service Reusability for Multi level stakeholders using Non-Functional attributes of Service Oriented Architecture
+Single-window Integrated Development Environment
+Proceedings 2nd Workshop on Formal Methods in the Development of Software
+Using Constraints for Equivalent Mutant Detection
+Verified System Development with the AutoFocus Tool Chain
+Predictive Software Measures based on  Specifications - A Case Study
+Towards the Formal Specification and Verification of Maple Programs
+Full Data Controlled Web-Based Feed Aggregator
+Ontology for Mobile Phone Operating Systems
+An Approach For Integration Testing In Online Retail Applications
+ROSA Analyser: An automatized approach to analyse processes of ROSA
+A model driven method for promoting reuse in SOA-solutions by managing variability
+On Methods for the Formal Specification of Fault Tolerant Systems
+A Web Interface for Matita
+Dynamic Web Service Composition based on Network Modeling with Statistical Analysis and Backtracking
+Quality Assurance And Integration Testing Aspects In Web Based Applications
+Design for Distributed Moroccan Hospital Pharmacy Information Environment with Service Oriented Architecture
+GenASiS: General Astrophysical Simulation System. I. Fundamentals
+Proceedings Fourth Workshop on Foundations of Interface Technologies
+Top Down Approach: SIMULINK Mixed Hardware Software Design
+Automatic Control Software Synthesis for Quantized Discrete Time Hybrid Systems
+A Parametric Counterexample Refinement Approach for Robust Timed Specifications
+Sequentializing Parameterized Programs
+A Methodology to manage victim components using CBO measure
+Ontology for Cellular Communication
+Service Oriented Architecture A Revolution For Comprehensive Web Based Project Management Software
+Semantic web based Sensor Planning Services (SPS) for Sensor Web Enablement (SWE)
+A New P2N Approach to Software Development Under the Clustering
+An analysis of social network connect services
+Technical Report: CSVM format for scientific tabular data
+Archimedes the Free Monte Carlo simulator
+Une approche IDM de transformation exog ene de Wright vers Ada
+A model-driven approach for processing complex events
+OTS CafeOBJ2JML: An attempt to combine Design By Contract with Behavioral Specifications
+V 'erification d'assemblages de composants logiciels : Application aux mod eles de composants UML2.0 et Ugatze
+Software Verification for Weak Memory via Program Transformation
+Maintenance de l'outil Wr2fdr de traduction de Wright vers CSP
+Debugging Memory Issues In Embedded Linux: A Case Study
+Guidelines for a Dynamic Ontology - Integrating Tools of Evolution and Versioning in Ontology
+Batch Spreadsheet for C Programmers
+MIDI-LAB a Powerful Visual Basic Program for Creating MIDI Music
+The Offline Software of the Pierre Auger Observatory: Lessons Learned
+Minimal TestCase Generation for Object-Oriented Software with State Charts
+Decision Taking for Selling Thread Startup
+Towards a Formalization of the OSGi Component Framework
+Software Security analysis static and dynamic testing in java and C environment a comparative study
+Concurrent Models for Object Execution
+Modeling and Verification of Agent based Adaptive Traffic Signal using Symbolic Model Verifier
+Composite Design Pattern for Feature Oriented Service Injection and Composition of Web Services for Distributed Computing Systems with Service Oriented Architecture
+Statistical Model Checking for Stochastic Hybrid Systems
+Coordination Level Modeling and Analysis of Parallel Programs using Petri Nets
+BPM Agile and Virtualization Combine to Create Effective Solutions
+Significance of Rapid Solutions Development to Business Process Management
+Proceedings 11th International Workshop on Foundations of Coordination Languages and Self Adaptation
+An Open Framework for Extensible Multi-Stage Bioinformatics Software
+A Case Study on Formal Verification of Self-Adaptive Behaviors in a Decentralized System
+Decreasing defect rate of test cases by designing and analysis for recursive modules of a program structure: Improvement in test cases
+TLA Proofs
+The Boost.Build System
+Exact Safety Verification of Hybrid Systems Based on Bilinear SOS Representation
+Mining Event Logs to Support Workflow Resource Allocation
+Debugging Invariant Issues in Pseudo Embedded Program: an Analytical Approach
+A Novel Service Oriented Model for Query Identification and Solution Development using Semantic Web and Multi Agent System
+Teaching cloud computing: a software engineering perspective
+The frog and the octopus: a conceptual model of software development
+Challenges and Directions for Engineering Multi-agent Systems
+Category Theory and Model-Driven Engineering: From Formal Semantics to Design Patterns and Beyond
+The Meaning of Requirements and Adaptation
+Proceedings Sixth Workshop on Formal Languages and Analysis of Contract-Oriented Software
+Load Distribution Composite Design Pattern for Genetic Algorithm-Based Autonomic Computing Systems
+Improved Robust DWT-Watermarking in YCbCr Color Space
+Conformance Verification of Normative Specifications using C-O Diagrams
+A History of BlockingQueues
+Efficient Indicators to Evaluate the Status of Software Development Effort Estimation inside the Organizations
+Optimization of fuzzy analogy in software cost estimation using linguistic variables
+Reliability improvement with PSP of Web-based software application
+Simplifying Contract-Violating Traces
+Pattern Detection with Rare Item-set Mining
+Measuring Spreadsheet Formula Understandability
+On the Interpretation of Spreadsheets within their Environment
+Content Management in Ruby on Rails
+A Metric for the Activeness of a Distributed Object Oriented Component Library
+A Metric For The Activeness Of An Object-Oriented Component Library
+A Metric for the Activeness of a Class
+DolNet: A Division Of Labour Based Distributed Object Oriented Software Process Model
+Information requirements for enterprise systems
+A Graphical Tool for Testing Timed Systems based on Meta- Modeling and Graph Grammars
+Consistent Layout for Thematic Software Maps
+Defect Management Strategies in Software Development
+Lessons Learned from Evaluating MDE Abstractions in an Industry Case Study
+On the correctness of a branch displacement algorithm
+From Functions to Object-Orientation by Abstraction
+Optimisation of hybrid high-modulus high-strength carbon fiber reinforced plastic composite drive
+The Management and Use of Social Network Sites in a Government Department
+Java Source-code Clustering: Unifying Syntactic and Semantic Features
+Four-Step Approach Model of Inspection (FAMI) for Effective Defect Management in Software Development
+Feature Subset Selection for Software Cost Modelling and Estimation
+Extending OWL-S for the Composition of Web Services Generated With a Legacy Application Wrapper
+Elegant Object-oriented Software Design via Interactive Evolutionary Computation
+Further developments in generating type-safe messaging
+Graphical Visualization of Risk Assessment for Effective Risk Management during Software Development Process
+Annotation of Logic Programs for Independent AND-Parallelism by Partial Evaluation
+Session Communication and Integration
+Annotating Answer-Set Programs in LANA?
+Interface Simulation Distances
+A lightweight forum-based distributed requirement elicitation process for open source community
+Modelling an Automatic Proof Generator for Functional Dependency Rules Using Colored Petri Net
+Contemporary Semantic Web Service Frameworks: An Overview and Comparisons
+User-Centric Optimization for Constraint Web Service Composition using a Fuzzy-guided Genetic Algorithm System
+Conducting Verification And Validation Of Multi- Agent Systems
+A Conceptual Framework to Analyze Enterprise Business Solutions from a Software Architecture Perspective
+On verification of software components
+Application of classical compilation techniques for syntactic and semantic analysis of specification written in Object 
+Coalesced communication: a design pattern for complex parallel scientific software
+Black-Box Verification for GUI Applications
+Foundations and Tools for End-User Architecting
+Hands-Off Spreadsheets
+Timing Constraints Support on Petri-Net Model for Healthcare System Design
+Quality of Service Support on High Level Petri-Net Based Model for Dynamic Configuration of Web Service Composition
+Managing Changes in Citizen-Centric Healthcare Service Platform using High Level Petri Net
+Proceedings 8th International Workshop on Automated Specification and Verification of Web Systems
+An Automated Petri-Net Based Approach for Change Management in Distributed Telemedicine Environment
+Automatic WSDL-guided Test Case Generation for PropEr Testing of Web Services
+Model Validation in Ontology Based Transformations
+Analyzing Consistency of Behavioral REST Web Service Interfaces
+Informaticology: combining Computer Science Data Science and Fiction Science
+Formally Checking Large Data Sets in the Railways
+Lessons Learned Sharing the Experience of Developing a Metro System Case Study
+Dependability-Explicit Engineering with Event-B: Overview of Recent Achievements
+Building on the DEPLOY Legacy: Code Generation and Simulation
+Development of Fault Tolerant MAS with Cooperative Error Recovery by Refinement in Event-B
+Towards Refinement Strategy Planning for Event-B
+Formal Data Validation with Event-B
+Influence of Context on Decision Making during Requirements Elicitation
+Legacy Software Restructuring: Analyzing a Concrete Case
+Abstract Data Types in Event-B - An Application of Generic Instantiation
+A Tutorial on Principal Component Analysis with the Accord.NET Framework
+Study on the Availability Prediction of the Reconfigurable Networked Software System
+Scalability of Data Binding in ASP.NET Web Applications
+An Exploratory Study of Forces and Frictions affecting Large-Scale Model-Driven Development
+Reusability Framework for Cloud Computing
+Requirements of a Recovery Solution for Failure of Composite Web Services
+From user requirements to UML class diagram
+Estimation of Effort in Software Cost Analysis for Heterogenous Dataset using Fuzzy Analogy
+Proof Hints for Event-B
+Composite Strategy for Multicriteria Ranking Sorting (methodological issues examples)
+Proceedings: Workshop on the experience of and advances in developing dependable systems in Event-B (DS-Event-B 2012)
+Extending Refusal Testing by Stochastic Refusals for Testing Non-deterministic Systems
+Fault Localization Using Textual Similarities
+Context-Awareness for Service Oriented Systems
+The Benefits of Model-Driven Development in Institutional Repositories - Los Beneficios del Desarrollo Dirigido por Modelos en los Repositorios Institucionales
+Interaction-Oriented Software Engineering: Concepts and Principles
+WiSANCloud: a set of UML-based specifications for the integration of Wireless Sensor and Actor Networks (WSANs) with the Cloud Computing
+Mutually Exclusive Rules in LogicWeb
+Scaling Genetic Programming for Source Code Modification
+Service Composition Design Pattern for Autonomic Computing Systems using Association Rule based Learning and Service-Oriented Architecture
+Bypassing the Combinatorial Explosion: Using Similarity to Generate and Prioritize T-wise Test Suites for Large Software Product Lines
+Efficient Hybrid Execution of C Applications using Intel(R) Xeon Phi(TM) Coprocessor
+Prototype for Extended XDB Using Wiki
+Proceedings Seventh Conference on Systems Software Verification
+Automatic Verification of Message-Based Device Drivers
+Lessons Learned From Microkernel Verification -- Specification is the New Bottleneck
+A Formal Model of a Virtual Filesystem Switch
+CTGEN - a Unit Test Generator for C
+Metamodel Instance Generation: A systematic literature review
+Increasing the failure recovery probability of atomic replacement approaches
+User Defined Spreadsheet Functions in Excel
+The Jasper Framework: Towards a Platform Independent Formal Treatment of Web Programming
+Adaptation of Web services to the context based on workflow: Approach for self-adaptation of service-oriented architectures to the context
+A Composite Design Pattern for Service Injection and Composition of Web Services for Peer-To-Peer Computing with Service Oriented Architecture
+Virtual Simulation Objects Concept as a Framework for System-Level Simulation
+Governance of Spreadsheets through Spreadsheet Change Reviews
+Investigating Effects of Common Spreadsheet Design Practices on Correctness and Maintainability
+JooFlux : modification de code a chaud et injection d'aspects directement dans une JVM 7
+Software Reuse in Medical Database for Cardiac Patients using Pearson Family Equations
+A Change Support Model for Distributed Collaborative Work
+On Extracting Unit Tests from Interactive Programming Sessions
+Bring out your codes Bring out your codes (Increasing Software Visibility and Re-use)
+WorkingWiki: a MediaWiki-based platform for collaborative research
+Recapitulation of Web Services based on Tree Structure
+Automated verification of termination certificates
+Model-order reduction of biochemical reaction networks
+Accelerating Inference: towards a full Language Compiler and Hardware stack
+A use case driven approach for system level testing
+The application of cause effect graph for the college placement process
+A survey of service oriented architecture systems testing
+Large Scale Estimation in Cyberphysical Systems using Streaming Data: a Case Study with Smartphone Traces
+Proceedings Quantities in Formal Methods
+Proceedings Fifth Interaction and Concurrency Experience
+Learning Markov Decision Processes for Model Checking
+Sysml Knowledge base for Designing Dependable Complex System
+Information model for model driven safety requirements management of complex systems
+Compositional Verification of Evolving Software Product Lines
+Enforcing Architectural Styles in Presence of Unexpected Distributed Reconfigurations
+Filtergraph: A Flexible Web Application for Instant Data Visualization of Astronomy Datasets
+D'Event-B vers UML OCL en passant par UML EM-OCL
+Dead code elimination based pointer analysis for multithreaded programs
+Recognition of Logically Related Regions Based Heap Abstraction
+Proving linearisability via coarse-grained abstraction
+FReD: Automated Debugging via Binary Search through a Process Lifetime
+XML parser GUI using .NET Technology
+Using the DiaSpec design language and compiler to develop robotics systems
+Query Driven Visualization
+A Formal Approach for the Development of Service-Oriented Applications
+Explicit-Value Analysis Based on CEGAR and Interpolation
+Proceedings First International Workshop on Formal Techniques for Safety-Critical Systems
+Merging Process Algebra and Action-based Computation Tree Logic
+Formal Verification Engineering and Business Value
+PALS-Based Analysis of an Airplane Multirate Control System in Real-Time Maude
+Generating Property-Directed Potential Invariants By Backward Analysis
+Model Checking with Program Slicing Based on Variable Dependence Graphs
+Property-based Code Slicing for Efficient Verification of OSEK VDX Operating Systems
+Formal Model-Driven Engineering: Generating Data and Behavioural Components
+A Timed Calculus for Mobile Ad Hoc Networks
+MDM: A Mode Diagram Modeling Framework
+EELA Operations: A standalone regional dashboard implementation
+From EGEE OPerations Portal towards EGI OPerations Portal
+CA4IOT Context Awareness for Internet of Things
+Connecting Mobile Things to Global Sensor Network Middleware using System-generated Wrappers
+An Information System to Support and Monitor Clinical Trial Process
+Cloud Penetration Testing
+API Blender: A Uniform Interface to Social Platform APIs
+Event-B SLP
+Towards an Application of Update Propagation on Logic Programs Representing Java Source Code
+Clone Removal in Java Programs as a Process of Stepwise Unification
+Dynamic Transparent General Purpose Process Migration For Linux
+On Formal Reasoning on the Semantics of PLC using Coq
+Design Pattern-Based Extension of Class Hierarchies to Support Runtime Invariant Checks
+A new approach towards the self-adaptability of Service-Oriented Architectures to the context based on workflow
+Requirements Management for Service Providers: the Case of Services for Citizens
+Interactive Traceability Querying and Visualization for Coping With Development Complexity
+The Importance of Continuous Value Based Project Management in the Context of Requirements Engineering
+Requirements Issues in SoC and SoS
+How do you know your spreadsheet is right?
+On the Current Measurement Practices in Agile Software Development
+Improving the lifecycle of robotics components using Domain-Specific Languages
+An Application of Uncertain Reasoning to Requirements Engineering
+Dexpler: Converting Android Dalvik Bytecode to Jimple for Static Analysis with Soot
+On Model Based Synthesis of Embedded Control Software
+Data management and analysis with WRF and SFIRE
+Testing MapReduce-Based Systems
+Enabling Reusability in Agile Software Development
+Real-Time Specification Patterns and Tools
+On the need for optimization of the software development processes in short-term projects
+Characterizing and Evaluating The Impact of Software Interface Clones
+Semantic integration process of business components to support information system designers
+Automatically Mining Program Build Information via Signature Matching
+Testing and Evaluation of Service Oriented Systems
+Circumstantial-Evidence-Based Judgment for Software Effort Estimation
+Towards Technology Independent Strategies for SOA Implementations
+Software Cost Estimation Framework for Service-Oriented Architecture Systems using Divide-and-Conquer Approach
+Effort-Oriented Classification Matrix of Web Service Composition
+Metrics for Assessing The Design of Software Interfaces
+Effective factors in agile transformation process from change management perspective
+A Systematic Literature Review on relationship between agile methods and Open Source Software Development methodology
+Design Features for the Social Web: The Architecture of Deme
+Proceedings 10th International Workshop on Formal Engineering Approaches to Software Components and Architectures
+End to End Verification and Validation with SPIN
+An Empirical Study of Path Feasibility Queries
+Model-driven engineering approach to design and implementation of robot control system
+Extensible Technology-Agnostic Runtime Verification
+Sequence Diagram Test Case Specification and Virtual Integration Analysis using Timed-Arc Petri Nets
+Software model refactoring based on performance analysis: better working on software or performance side?
+Towards a Formal Framework for Mobile Service-Oriented Sensor-Actuator Networks
+Towards a Framework for Behavioral Specifications of OSGi Components
+Development Of Ontology-Based Intelligent System For Software Testing
+Statistical Approach for Predicting Factors of Mood Method for Object Oriented
+Towards Python-based Domain-specific Languages for Self-reconfigurable Modular Robotics Research
+Unified Modeling Language for Describing Business Value Chain Activities
+Proceedings Fifth Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software
+Exact Safety Verification of Interval Hybrid Systems Based on Symbolic-Numeric Computation
+A Domain-Specific Language for Rich Motor Skill Architectures
+On Algorithms and Complexity for Sets with Cardinality Constraints
+Analysing the Control Software of the Compact Muon Solenoid Experiment at the Large Hadron Collider
+A Computational Model for the Direct Execution of General Specifications with Multi-way Constraints
+A Formalization of Social Requirements for Human Interactions with Service Protocols
+A Network Perspective on Software Modularity
+Automatically Securing Permission-Based Software by Reducing the Attack Surface: An Application to Android
+A Quantitative Study of Social Organisation in Open Source Software Communities
+Modelling the Strategic Alignment of Software Requirements using Goal Graphs
+Categorizing Bugs with Social Networks: A Case Study on Four Open Source Software Communities
+The Rise and Fall of a Central Contributor: Dynamics of Social Organization and Performance in the Gentoo Community
+Proceedings Eighth Workshop on Model-Based Testing
+ICT System Design Implementation Using Wireless Sensors to Support Elderly In-home Assistance
+Industrial-Strength Model-Based Testing - State of the Art and Current Challenges
+Towards the Usage of MBT at ETSI
+Testing Java implementations of algebraic specifications
+Decomposability in Input Output Conformance Testing
+Runtime Verification Based on Executable Models: On-the-Fly Matching of Timed Traces
+Top-Down and Bottom-Up Approach for Model-Based Testing of Product Lines
+Toward the Integration of Traditional and Agile Approaches
+Statistical Proof Pattern Recognition: Automated or Interactive?
+Improving the management of cost and scope in software projects using agile practices
+Artifact Lifecycle Discovery
+Work Issues in Software Engineering
+Using State Infection Conditions to Detect Equivalent Mutants and Speed up Mutation Analysis
+Automatic instantiation of abstract tests on specific configurations for large critical control systems
+A weaving process to define requirements for Cooperative Information System
+Lowering the Barrier to Reuse through Test-Driven Search
+BIMS: Biomedical Information Management System
+STC: Semantic Taxonomical Clustering for Service Category Learning
+The Two Paradigms of Software Design
+High Quality Requirement Engineering and Applying Priority Based Tools for QoS Standardization in Web Service Architecture
+A Graphical Language for Real-Time Critical Robot Commands
+Exponential-Condition-Based Barrier Certificate Generation for Safety Verification of Hybrid Systems
+Model Based Synthesis of Control Software from System Level Formal Specifications
+Control Explicit---Data Symbolic Model Checking: An Introduction
+The Illusion of Requirements in Software Development
+Software Cognitive Information Measure based on Relation Between Structures
+A Goal Question Metric Approach for Evaluating Security in a Service Oriented Architecture Context
+A Literature Survey on Empirical Evidence in Software Engineering
+Research on Potential Semantic Web Service Discovery Mechanisms
+Bug Classification: Feature Extraction and Comparison of Event Model using Na ive Bayes Approach
+Verification of Artifact-Centric Systems: Decidability and Modeling Issues
+Web Services Modeling and Composition Approach using Object-Oriented Petri Nets
+Sharing of Semantically Enhanced Information for the Adaptive Execution of Business Processes
+On PROGRESS Operation. How to Make Object-Oriented Programming System More Object-Oriented (DRAFT)
+The Removal of Numerical Drift from Scientific Models
+From Declarative Model to Solution: Scheduling Scenario Synthesis
+Comparative Study and Analysis of Variability Tools
+A Survey of Software Reliability Models
+Product line Development Architectural Model
+Expressando Atributos N ao-Funcionais em Workflows Cient 'ificos
+Some approximations in Model Checking and Testing
+What Makes Code Hard to Understand?
+K model for designing Data Driven Test Automation Frameworks and its Design Architecture Snow Leopard
+GPU Scripting and Code Generation with PyCUDA
+On Integrating Deductive Synthesis and Verification Systems
+Apricot - An Object-Oriented Modeling Language for Hybrid Systems
+Software Design Principles of a DFS Tower A-CWP Prototype
+Toward Recovering Complete SRS for Softbody Simulation System and a Sample Application - a Team 4 SOEN6481-W13 Project Report
+A new modeling approach to the safety evaluation of N-modular redundant computer systems in presence of imperfect maintenance
+SOA Embedded in BPM: A High Level View of Object Oriented Paradigm
+Revisiting Timed Specification Theory II : Realisability
+Heap Reference Analysis Using Access Graphs
+MARFCAT: Transitioning to Binary and Larger Data Sets of SATE IV
+Software systems through complex networks science: Review analysis and applications
+A multi-level model for self-adaptive systems
+Lending Petri nets and contracts
+Verifying a platform for digital imaging: a multi-tool strategy
+SBVR vs OCL: A Comparative Analysis of Standards
+Proof Pad: A New Development Environment for ACL2
+A Syntactic-Semantic Approach to Incremental Verification
+The Software Garden
+A Community Based Algorithm for Large Scale Web Service Composition
+A Comparative Study of Web Services Composition Networks
+Analyzing Web Services Networks: a WS-NEXT Application
+Similartity Network For Semantic Web Services Substitution
+On Topological Structure of Web Services Networks for Composition
+Endow a service-oriented architecture by a decisional aspect
+Context Aware Computing for The Internet of Things: A Survey
+Vers une Substitution des Services Web sans Inconsistance S 'emantique
+HTTP Mailbox - Asynchronous RESTful Communication
+A Heuristic Approach for Web-Service Discovery and Selection
+Requirements Engineering of a Web Portal using Organizational Semiotics Artifacts and Participatory Practices
+A Comparison of Maps Application Programming Interfaces
+Semantic Guidance and Feedback for the Construction of Specifications and Implementations
+Software Requirements Specification - Softbody Simulation System
+SHARE: A Web Service Based Framework for Distributed Querying and Reasoning on the Semantic Web
+Classification of automatic software build methods
+System error of project ETONN and EIAS
+Proceedings 16th International Refinement Workshop
+The Dynamics of Creativity in Software Development
+Modelling and Refinement in CODA
+Relaxing Behavioural Inheritance
+Domain Types: Selecting Abstractions Based on Variable Usage
+Reusing Precisions for Efficient Regression Verification
+Software Mutational Robustness
+How many software engineering professionals hold this certificate?
+Integration of SOA and Cloud Computing in RM-ODP
+Analysing the Assumed Benefits of Software Requirements
+On the Concept of Variable Roles and its Use in Software Analysis
+Towards a More Systematic Approach to Secure Systems Design and Analysis
+Details of an Automotive Sub-System: Saab Instrument Cluster Module
+Mashup of Meta-Languages and its Implementation in the Kermeta Language Workbench
+Detecting Missing Method Calls as Violations of the Majority Rule
+RuleRunner technical report
+SArF Map: Visualizing Software Architecture from Feature and Layer Viewpoints
+Software Process Models and Analysis on Failure of Software Development Projects
+Designing Run-Time Environments to Have Predefined Global Dynamics
+A model driven engineering approach to develop a cooperative information system
+Agents and owl-s based semantic web service discovery with user preference support
+Are Happy Developers more Productive? The Correlation of Affective States of Software Developers and their self-assessed Productivity
+Making Sense out of a Jungle of JavaScript Frameworks: towards a Practitioner-friendly Comparative Analysis
+A Formal Approach To Firewalls Testing Techniques
+Software Testing Models Against Information Security Requirements
+Feature-Gathering Dependency-Based Software Clustering Using Dedication and Modularity
+Action Research Can Swing the Balance in Experimental Software Engineering
+Case Study Based Software Engineering Project Development: State of Art
+Enhancing Unsatisfiable Cores for LTL with Information on Temporal Relevance
+Improving production process performance thanks to neuronal analysis
+The essence of component-based design and coordination
+A New Approach for Quality Management in Pervasive Computing Environments
+Web Service Testing Tools: A Comparative Study
+Pair versus Solo Programming -- An Experience Report from a Course on Design of Experiments in Software Engineering
+Towards a Graph-Based Approach for Web Services Composition
+V 'erification Formelle des Processus Workflow Collaboratifs
+Modeling a repository of modules for ports Terminals Operating System (TOS)
+Dynamic Code Coverage with Progressive Detail Levels
+On Behavioral Types for OSGi: From Theory to Implementation
+A Study of Library Migration in Java Software
+Decision Taking versus Promise Issuing
+Developing Autonomic Properties for Distributed Pattern-Recognition Systems with ASSL: A Distributed MARF Case Study
+Refactoring Composite to Visitor and Inverse Transformation in Java
+Verifying Fixed-Point Digital Filters using SMT-Based Bounded Model Checking
+Software Engineering Process Theory: A Multi-Method Comparison of Sensemaking-CoevoIution-Implementation Theory and Function-Behavior-Structure Theory
+Suggest an Aspect-Oriented Design Approach for UML Communication Diagram
+Identifying change patterns in software history
+Proof in Context -- Web Editing with Rich Modeless Contextual Feedback
+Towards a Good ABS Design for more Reliable Vehicles on the Roads
+Artificial Intelligence MArkup Language: A Brief Tutorial
+Alias and Change Calculi Applied to Frame Inference
+Action-based Character AI in Video-games with CogBots Architecture: A Preliminary Report
+Comparative Study on Agile software development methodologies
+Software as a Service - Common Service Bus (SAAS-CSB)
+Agent Based Software Testing Framework (ABSTF) for Application Maintenance
+Numerical LTL Synthesis for Cyber-Physical Systems
+Ontology Based Feature Driven Development Life Cycle
+Profile Trees for B uchi Word Automata with Application to Determinization
+A Design Methodology for Software Measurement Programs
+The Use of Cuckoo Search in Estimating the Parameters of Software Reliability Growth Models
+Supporting 64-bit global indices in Epetra and other Trilinos packages -- Techniques used and lessons learned
+Specification Construction Using Behaviours Equivalences and SMT Solvers
+Toward Recovering Complete SRS for Softbody Simulation System and a Sample Application -- a Team 9a SOEN6481 W13 Project Report
+Fit or Unfit : Analysis and Prediction of 'Closed Questions' on Stack Overflow
+Using SOA with Web Services for effective Integration of Hospital Information Systems via an Enterprise Service Bus
+Inferring Loop Invariants using Postconditions
+Steps towards a theory and calculus of aliasing
+Specifying Reusable Components
+Behavioral subtyping through typed assertions
+Code-based Automated Program Fixing
+Stateful Testing: Finding More Errors in Code and Contracts
+MOMCC: Market-Oriented Architecture for Mobile Cloud Computing Based on Service Oriented Architecture
+What Good Are Strong Specifications?
+The Search for the Laws of Automatic Random Testing
+Mahotas: Open source software for scriptable computer vision
+Asymptotic Bounds for Quantitative Verification of Perturbed Probabilistic Systems
+Modal Interface Automata
+From Design to Implementation: an Automated Credible Autocoding Chain for Control Systems
+Empirical Evidence of Large-Scale Diversity in API Usage of Object-Oriented Software
+Cloud Template a Big Data Solution
+Using SOA with Web Services for effective data integration of Enterprise Pharmaceutical Information Systems
+Using Inhabitation in Bounded Combinatory Logic with Intersection Types for Composition Synthesis
+Reconciling positional and nominal binding
+Compiling symbolic attacks to protocol implementation tests
+Proceedings 9th International Workshop on Automated Specification and Verification of Web Systems
+Blind-date Conversation Joining
+Effects of Individual Success on Globally Distributed Team Performance
+Distributed Object Store Principles of Operation The Case for Intelligent Storage
+RBioCloud: A Light-weight Framework for Bioconductor and R-based Jobs on the Cloud
+Communication Practices in a Distributed Scrum Project
+Collective Mind: cleaning up the research and experimentation mess in computer engineering using crowdsourcing big data and machine learning
+Path Conditions Help to Locate and Localize Faults from Programs
+Accelerating R-based Analytics on the Cloud
+Work Breakdown Structure: A Tool for Software Project Scope Verification
+Improving the Testability of Object-oriented Software during Testing and Debugging Processes
+Source Code Retrieval Using Sequence Based Similarity
+Using Modularity Metrics to assist Move Method Refactoring of Large System
+Efficient Leverage of Symbolic ATG Tools to Advanced Coverage Criteria
+Understanding Rulelog Computations in Silk
+Bit Rate of Programs
+Traverse the landscape of the mind by walking: an exploration of a new brainstorming practice
+An Integrated Framework for Diagnosis and Prognosis of Hybrid Systems
+Sampling-based Decentralized Monitoring for Networked Embedded Systems
+Development of a language and its enacting engine for the unified discovery of heterogeneous services
+Raw Report on the Model Checking Contest at Petri Nets 2012
+Monitoring Control Updating Period In Fast Gradient Based NMPC
+Best Practices for Scientific Computing
+MintHint: Automated Synthesis of Repair Hints
+A Web-based modeling tool for the SEMAT Essence theory of Software Engineering
+A Verifiable and Correct-by-Construction Controller for Robot Functional Levels
+The Harmony Platform
+Machines are benchmarked by code not algorithms
+A Case-Study on Teaching Undergraduate-Level Software Engineering Course Using Inverted-Classroom Large-Group Real-Client and Studio-Based Instruction Model
+Simplifying the Development Use and Sustainability of HPC Software
+Bug Tracking and Reporting System
+Experiments in Sustainable Software Practices for Future Architectures
+Semantic-driven Configuration of Internet of Things Middleware
+Toward a Research Software Security Maturity Model
+DUNE as an Example of Sustainable Open Source Scientific Software Development
+VisIt: Experiences with Sustainable Software
+nanoHUB.org: Experiences and Challenges in Software Sustainability for a Large Scientific Community
+Software Engineering as Instrumentation for the Long Tail of Scientific Software
+Niche Modeling: Ecological Metaphors for Sustainable Software in Science
+Context Aware Sensor Configuration Model for Internet of Things
+Cactus: Issues for Sustainable Simulation Software
+Reusability in Science: From Initial User Engagement to Dissemination of Results
+Initial Findings from a Study of Best Practices and Models for Cyberinfrastructure Software Sustainability
+Integration of the OpenIGTLink Network Protocol for Image-Guided Therapy with the Medical Platform MeVisLab
+A Machine-Checked Proof for a Translation of Event-B Machines to JML
+Implementation of Function Point Analysis in Measuring The Volume Estimation of Software System in Object Oriented and Structural Model of Academic System
+Model Checking Contest Petri Nets Report on the 2013 edition
+A Brief Study of Open Source Graph Databases
+Sustainable Software Ecosystems for Open Science
+Robust Dynamic Selection of Tested Modules in Software Testing for Maximizing Delivered Reliability
+Transformations between Composite and Visitor implementations in Java
+Automatically Extracting Instances of Code Change Patterns with AST Analysis
+Robustness analysis of finite precision implementations
+Semantics Abstract Interpretation and Reasoning about Programs: Essays Dedicated to David A. Schmidt on the Occasion of his Sixtieth Birthday
+Measuring the Success of Software Process Improvement: The Dimensions
+Online partial evaluation of sheet-defined functions
+Denotational Semantics of A User-Oriented Domain-Specific Language
+Higher-Order Process Modeling: Product-Lining Variability Modeling and Beyond
+Automatic Repair of Overflowing Expressions with Abstract Interpretation
+A Case for Dynamic Reverse-code Generation to Debug Non-deterministic Programs
+Extensible Generic Data Management Software
+Advanced Techniques for Scientific Programming and Collaborative Development of Open Source Software Packages at the International Centre for Theoretical Physics (ICTP)
+Revised Modularity Index to Measure Modularity of OSS Projects with Case Study of Freemind
+Modularity Index Metrics for Java-Based Open Source Software Projects
+An Approach to Modularization of Distributed Systems
+OntoMaven: Maven-based Ontology Development and Management of Distributed Ontology Repositories
+Modelling Variability for System Families
+In-Vivo Bytecode Instrumentation for Improving Privacy on Android Smartphones in Uncertain Environments
+Taverna Mobile: Taverna workflows on Android
+Retargeting GCC: Do We Reinvent the Wheel Every Time?
+Semi-structured data extraction and modelling: the WIA Project
+Software Interfaces: On The Impact of Interface Design Anomalies
+Managing and Analysing Software Product Line Requirements
+Towards Base Rates in Software Analytics
+Introducing Enriched Concrete Syntax Trees
+Cudagrind: A Valgrind Extension for CUDA
+The failure tolerance of mechatronic software systems to random and targeted attacks
+Analysis of Errors: A Support System for Teachers to Analyse the Error Occurring to a Novice Programmer
+A Scratch-like visual programming system for Microsoft Windows Phone 8
+Codeless Screen-Oriented Programming for Enterprise Mobile Applications
+Impacting the bioscience progress by backporting software for Bio-Linux
+GENIUS: Generating Usable User Interfaces
+The Unified Approach For Organizational Network Vulnerability Assessment
+Semi Symmetric Method Of SAN Storage Virtualization
+Eclipse-IT 2013: Proceedings of VIII Workshop of the Italian Eclipse Community
+Measuring Software Diversity with Applications to Security
+A Preliminary Field Study of Game Programming on Mobile Devices
+Enabling Context-awareness by Predicate Detection in Asynchronous Pervasive Computing Environments
+Extended Connectors: Structuring Glue Operators in BIP
+On Recovering from Run-time Misbehaviour in ADR
+Do System Test Cases Grow Old?
+Multi criteria decision making approach for selecting effort estimation model
+Soft computing techniques for software effort estimation
+Effect of data preprocessing on software effort estimation
+A practical approach to ontology-enabled control systems for astronomical instrumentation
+SymbolicData:SDEval - Benchmarking for Everyone
+RBAC Architecture Design Issues in Institutions Collaborative Environment
+SensorCloud: Towards the Interdisciplinary Development of a Trustworthy Platform for Globally Interconnected Sensors and Actuators
+Identifying Potential Risks and Benefits of Using Cloud in Distributed Software Development
+Estado Actual de la Pr 'actica de la Ingenier 'ia de Software en M 'exico
+IC3 Modulo Theories via Implicit Predicate Abstraction
+Mining the Temporal Evolution of the Android Bug Reporting Community via Sliding Windows
+Towards an Assessment-oriented Model for External Information System Quality Characterization
+Confluent Hasse diagrams
+Current practice in software development for computational neuroscience and how to improve it
+Possible Directions for Improving Dependency Versioning in R
+A Dataflow Language for Decentralised Orchestration of Web Service Workflows
+Chaining Test Cases for Reactive System Testing (extended version)
+Dynamics of Open-Source Software Developer's Commit Behavior: An Empirical Investigation of Subversion
+Towards Applying Text Mining Techniques on Software Quality Standards and Models
+Improving Software Developer's Competence: Is the Personal Software Process Working?
+Toward a New Approach for Modeling Dependability of Data Warehouse System
+Software Reuse in Cardiology Related Medical Database Using K-Means Clustering Technique
+Modelling Families of Business Process Variants: A Decomposition Driven Method
+How Does Kanban Impact Communication and Collaboration in Software Engineering Teams?
+Onboarding in Open Source Software Projects: A Preliminary Analysis
+Verification for Reliable Product Lines
+Experiences and Insights from Applying GQM Strategies in a Systems Product Development Organisation
+A Survey on the State of the Practice in Distributed Software Development: Criteria for Task Allocation
+Managing Requirement Elicitation Issues Using Step-Wise Refinement Model
+Mining Crash Fix Patterns
+PLOS Mozilla Scientific Code Review Pilot: Summary of Findings
+Issues about the Adoption of Formal Methods for Dependable Composition of Web Services
+Verifiable Source Code Documentation in Controlled Natural Language
+An Experience based Evaluation Process for ERP bids
+Incrementally Introducing Process Model Rationale Support in an Organization
+Proceedings 1st Workshop on Advances in Systems of Systems
+Systems Variability Modeling: A Textual Model Mixing Class and Feature Concepts
+Mining Software Repair Models for Reasoning on the Search Space of Automated Program Fixing
+Verification and Validation Issues in Systems of Systems
+Variability and Evolution in Systems of Systems
+Systems of Systems Modeled by a Hierarchical Part-Whole State-Based Formalism
+System-of-Systems Complexity
+Challenges for modelling and analysis in embedded systems and systems-of-systems design
+Contracts and Behavioral Patterns for SoS: The EU IP DANSE approach
+SoS contract verification using statistical model checking
+Integrating Inspection and Test Processes Based on Context-Specific Assumptions
+Problems in Systematic Application of Software Metrics and Possible Solution
+Applying Formal Methods to Networking: Theory Techniques and Applications
+A Notion of Dynamic Interface for Depth-Bounded Object-Oriented Packages
+Composable Languages for Bioinformatics: The NYoSh experiment
+Dynamic Integration of ALM Tools for Agile Software Development
+Platform-Based Design Methodology and Modeling for Aircraft Electric Power Systems
+Towards a Formalism-Based Toolkit for Automotive Applications
+The Effects of GQM Strategies on Organizational Alignment
+Linking Software Development and Business Strategy Through Measurement
+Distributed-Pair Programming can work well and is not just Distributed Pair-Programming
+Inspection and Test Process Integration Based on Explicit Test Prioritization Strategies
+Random Grammar-based Testing for Covering All Non-Terminals
+MARTE Profile-based MDA approach for semantic NFP-aware Web services
+Attaining High-performing Software Teams with Agile and Lean Practices: An Empirical Case Study
+A UML-based Approach to Design Parallel and Distributed Applications
+Context-Driven Elicitation of Default Requirements: an Empirical Validation
+The Case for Explicit Coupling Constraints
+A Formal Model of QoS-Aware Web Service Orchestration Engine
+A Survey on Formal Methods for Web Service Composition
+Case study: Class diagram restructuring
+Formally expressing the semantics of observer-based fault detection software
+Enabling Reproducible Science with VisTrails
+Automated Feature Identification in Web Applications
+Improving CASA Runtime Performance by Exploiting Basic Feature Model Analysis
+Proceedings Sixth Transformation Tool Contest
+A Combined Approach for Constraints over Finite Domains and Arrays
+Reuse of existing applications during the development of Enterprise Portals integrating Web Services
+The TTC 2013 Flowgraphs Case
+Analyzing Flowgraphs with ATL
+An NMF solution for the Flowgraphs case at the TTC 2013
+Solving the Flowgraphs Case with Eclectic
+Solving the TTC 2013 Flowgraphs Case with FunnyQT
+A Solution to the Flowgraphs Case Study using Triple Graph Grammars and eMoflon
+Solving the Class Diagram Restructuring Transformation Case with FunnyQT
+Class Diagram Restructuring with GROOVE
+Solving the Petri-Nets to Statecharts Transformation Case with FunnyQT
+Solving the Petri-Nets to Statecharts Transformation Case with UML-RSDS
+PN2SC Case Study: An EMF-IncQuery solution
+Applying AOSE Concepts to Model Crosscutting Variability in Variant-Rich Processes
+Abmash: Mashing Up Legacy Web Applications by Automated Imitation of Human Actions
+An NMF solution for the Petri Nets to State Charts case study at the TTC 2013
+Formal Model of Web Service Composition: An Actor-Based Approach to Unifying Orchestration and Choreography
+Guiding Testing Activities by Predicting Defect-prone Parts Using Product and Inspection Metrics
+The Relevance of Assumptions and Context Factors for the Integration of Inspections and Testing
+A Deployment Process for Strategic Measurement Systems
+Adapting Software Quality Models: Practical Challenges Approach and First Empirical Results
+Using Early Quality Assurance Metrics to Focus Testing Activities
+M3: An Open Model for Measuring Code Artifacts
+Developer Experience: Concept and Definition
+Java File Security System (JFSS) Evaluation Using Software Engineering Approaches
+Code Coverage Based Test Case Selection and Prioritization
+Engineering Cooperative JADE Agents with the AMCIS Methodology: The Transportation Management Case Study
+Business and technical requirements of Software-as-a-Service: Implications in portuguese enterprise business context
+A Risk-driven Model for Work Allocation in Global Software Development Projects
+Architectural Pattern of Health Care System Using GSM Networks
+Pattern Based Adaptive Architecture for Internet Banking
+Strategy pattern: payment pattern for Internet banking
+Visitor Pattern: Implementation of Enquiry Pattern for Internet Banking
+Evaluation of Software Architecture Quality Attribute for an Internet Banking System
+Request and notification Pattern for an internet banking System
+Towards Ontological Support for Principle Solutions in Mechanical Engineering
+A Novel Software Tool for Analysing NT File System Permissions
+A Decision Model for Supporting Task Allocation Processes in Global Software Development
+Software Process Commonality Analysis
+Typing linear algebra: A biproduct-oriented approach
+Predictive Monitoring of Business Processes
+A Platform for Teaching Applied Distributed Software Development: The Ongoing Journey of the Helsinki Software Factory
+Teaching Software Process Modeling
+Semantic Jira - Semantic Expert Finder in the Bug Tracking Tool Jira
+Coverage Games for Testing Nondeterministic Systems
+Fuzzy Logic Approach for Threat Prioritization in Agile Security Framework using DREAD Model
+Detection of Syntactic Aspect Interaction in UML State Diagrams Using Critical Pair Analysis in Graph Transformation
+Proceedings 2nd Workshop on GRAPH Inspection and Traversal Engineering
+Towards supporting simultaneous use of process-based quality approaches
+Probabilistic Model Checking for Energy Analysis in Software Product Lines
+A static theory of promises
+Loop invariants: analysis classification and examples
+Towards an Approach for Analysing the Strategic Alignment of Software Requirements using Quantified Goal Graphs
+Towards a Software Product Sustainability Model
+Towards Statistical Prioritization for Software Product Lines Testing
+Dynamic Package Interfaces - Extended Version
+Knowledge-based Expressive Technologies within Cloud Computing Environments
+Audit Maturity Model
+Reasoning and Improving on Software Resilience against Unanticipated Exceptions
+Process Based Unification for Multi-Model Software Process Improvement
+Proceedings First Latin American Workshop on Formal Methods
+On Verifying Resource Contracts using Code Contracts
+Actions and Events in Concurrent Systems Design
+Fluent Logic Workflow Analyser: A Tool for The Verification of Workflow Properties
+BEval: A Plug-in to Extend Atelier B with Current Verification Technologies
+The DynAlloy Visualizer
+HeteroGenius: A Framework for Hybrid Analysis of Heterogeneous Software Specifications
+Analyzing Behavioural Scenarios over Tabular Specifications Using Model Checking
+Implementing Software Project Control Centers: An Architectural View
+Program Verification of Numerical Computation
+Transparent Combination of Expert and Measurement Data for Defect Prediction: An Industrial Case Study
+Visualization of Software and Systems as Support Mechanism for Integrated Software Project Control
+Aligning Software-related Strategies in Multi-Organizational Settings
+Model-based Product Quality Evaluation with Multi-Criteria Decision Analysis
+Capturing Evidence From Wireless Internet Services Development
+Estimating the Effort Overhead in Global Software Development
+A Rule-based Model for Customized Risk Identification in Distributed Software Development Projects
+Transformation of Attributed Structures with Cloning (Long Version)
+Predicting Defect Content and Quality Assurance Effectiveness by Combining Expert Judgment and Defect Data - A Case Study
+Use Case Point Approach Based Software Effort Estimation using Various Support Vector Regression Kernel Methods
+Reflective and Refractive Variables: A Model for Effective and Maintainable Adaptive-and-Dependable Software
+mathcal R raise2pt hbox varepsilon hbox mathcal L : A Fault Tolerance Linguistic Structure for Distributed Applications
+Engineering the Hardware Software Interface for Robotic Platforms - A Comparison of Applied Model Checking with Prolog and Alloy
+Goal-oriented Composition of Software Process Patterns
+Lessons Learned and Results from Applying Data-Driven Cost Estimation to Industrial Data Sets
+The Secret Life of a Process Description: A Look into the Evolution of a Large Process Model
+Multidisciplinary Engineering Models: Methodology and Case Study in Spreadsheet Analytics
+Process Evolution Supported by Rationale: An Empirical Investigation of Process Changes
+Maintaining a Large Process Model Aligned with a Process Standard: An Industrial Example
+Process Model Difference Analysis for Supporting Process Evolution
+The Art of Software Design a Video Game for Learning Software Design Principles
+A Genetic Algorithm based Approach for Test Data Generation in Basis Path Testing
+Transition from Analysis to Software Design: A Review and New Perspective
+Goal-Oriented Setup and Usage of Custom-Tailored Software Cockpits
+Detecting Requirements Defects Utilizing A Mathematical Framework for Behavior Engineering
+Service Oriented Paradigm for Massive Multiplayer Online Games
+An Integrated Approach for Identifying Relevant Factors Influencing Software Development Productivity
+Towards a Benchmark and a Comparison Framework for Combinatorial Interaction Testing of Software Product Lines
+SoaDssPm: A new Service-Oriented Architecture of the decision support system for the Project Management
+Formalization and Verification of Hierarchical Use of Interaction Overview Diagrams Using Timing Diagrams
+Towards a Software Architecture Maturity Model for Improving Ultra-Large-Scale Systems Interoperability
+A Prediction Model for System Testing Defects using Regression Analysis
+SAP Speaks PDDL: Exploiting a Software-Engineering Model for Planning in Business Process Management
+State of the Practice in Software Effort Estimation: A Survey and Literature Review
+A Brief Review on Models for Performance Evaluation in DSS Architecture
+Performance Impact of Lock-Free Algorithms on Multicore Communication APIs
+On measuring team stability in cooperative learning: An example of consecutive course projects on software engineering
+How the Sando Search Tool Recommends Queries
+Acquisition of a Project-Specific Process
+RProtoBuf: Efficient Cross-Language Data Serialization in R
+Automatic Reference Models Development: A Framework
+Practical Challenges with Spreadsheet Auditing Tools
+Excel 2013 Spreadsheet Inquire
+Introducing Morphit a new type of spreadsheet technology
+A Maintainability Checklist for Spreadsheets
+Certifying Machine Code Safe from Hardware Aliasing: RISC is not necessarily risky
+Focusing Testing by Using Inspection and Product Metrics
+Defect Detection Efficiency A Combined Approach
+Scoping Software Process Models - Initial Concepts and Experience from Defining Space Standards
+Novel Integrated Approach of Software Development and Design Pattern with X-CM
+UML Artifacts Reuse: State of the Art
+A framework for reuse of multi-view UML artifacts
+GQM Strategies: A Comprehensive Methodology for Aligning Business Strategies with Software Measurement
+Systematic Task Allocation Evaluation in Distributed Software Development
+Axis2UNO: Web Services Enabled Openoffice.org
+Model performance indicators ERP systems
+Engineering Adaptive Digital Investigations using Forensics Requirements
+Sequencing Participatory Action Research and i Modeling Framework in Capturing Multiple Roles Requirements
+On Designing Better Tools for Learning APIs
+Towards a Multi-criteria Development Distribution Model: An Analysis of Existing Task Distribution Approaches
+Survey on software testing techniques in cloud computing
+Generating Logical Specifications from Requirements Models for Deduction-based Formal Verification
+A Framework for Enhancing Performance and Handling Run-Time Uncertainty in Self-Adaptive Systems
+An Optimized Semantic Web Service Composition Method Based on Clustering and Ant Colony Algorithm
+Design Patterns as Quality Influencing Factor in Object Oriented Design Approach
+Visualization of Object Oriented Modeling from the Perspective of Set theory
+Factors Modulating Software Design Quality
+Significance of Coupling and Cohesion on Design Quality
+Prediction of Human Performance Capability during Software Development using Classification
+Empirical Study on Selection of Team Members for Software Projects - Data Mining Approach
+Enhancing Human Aspect of Software Engineering using Bayesian Classifier
+Supporting Process Maturation with the Enhanced CoBRA Method
+Quality-aware Approach for Engineering Self-adaptive Software Systems
+Rigorous Description Of Design Components Functionality: An Approach Based Contract
+Efficient and Generalized Decentralized Monitoring of Regular Languages
+A Hybrid Modified Semantic Matching Algorithm Based on Instances Detection With Case Study on Renewable Energy
+Context-driven Software Project Estimation
+Fine-grained Patches for Java Software Upgrades
+Guided Support for Collaborative Modeling Enactment and Simulation of Software Development Processes
+Turning Time from Enemy into an Ally Using the Pomodoro Technique
+Artificial Mutation inspired Hyper-heuristic for Runtime Usage of Multi-objective Algorithms
+Empirically Driven Design of Software Development Processes for Wireless Internet Services
+IVOA Recommendation: DALI: Data Access Layer Interface Version 1.0
+Simulation-Based Risk Reduction for Planning Inspections
+Web Service Composition - BPEL vs cCSP Process Algebra
+Logic Verification of Product-Line Variant Requirements
+A new model for Context-Oriented Programs
+Distributed Data and Programs Slicing
+Providing Traceability for Neuroimaging Analyses
+CRISTAL : A Practical Study in Designing Systems to Cope with Change
+An Integrated e-science Analysis Base for Computation Neuroscience Experiments and Analysis
+Designing Reusable Systems that Can Handle Change - Description-Driven Systems : Revisiting Object-Oriented Principles
+Model Driven Engineering for Science Gateways
+A Description Driven Approach for Flexible Metadata Tracking
+Multi-Dimensional Customization Modelling Based On Metagraph For Saas Multi-Tenant Applications
+Towards rational and minimal change propagation in model evolution
+Towards Provenance and Traceability in CRISTAL for HEP
+Estimating verification time
+CRISTAL-ISE : Provenance Applied in Industry
+A method to identify potential ambiguous Malay words through Ambiguity Attributes mapping: An exploratory Study
+Synthesis of Parametric Programs using Genetic Programming and Model Checking
+The Application and Extension of Retrograde Software Analysis
+An overview to Software Architecture in Intrusion Detection System
+How to perform research in Hadoop environment not losing mental equilibrium - case study
+Accelerating Parametric Probabilistic Verification
+A Novel Approach for Computing Dynamic Slices of Aspect-Oriented Programs
+Analyzing a practitioner perspective on relevance of published empirical research in Requirements Engineering
+Automatically finding atomic regions for fixing bugs in Concurrent programs
+Elicitation and Modeling Non-Functional Requirements - A POS Case Study
+Baselining Wireless Internet Service Development: An Experience Report
+An Approach for Discovering Traceability Links between Regulatory Documents and Source Code Through User-Interface Labels
+Observation-based Development of Software Process Baselines: An Experience Report
+The jsonlite Package: A Practical and Consistent Mapping Between JSON Data and R Objects
+Towards system development methodologies: From software to cyber-physical domain
+Towards an Agent-Oriented Modeling and Evaluation Approach For Vehicular Systems Security
+Consolidated Model of Procedures for Workflow Management
+Encapsulating Formal Methods within Domain Specific Languages: A Solution for Verifying Railway Scheme Plans
+Fulfillment Request Management (The approach)
+Comparison Of Document Management Systems By Meta Modelling And Workforce Centric Tuning Measures
+Using Cluster Curves to Control Software Development Projects
+A Systematic Methodology for Developing Discrete Event Simulation Models of Software Development Processes
+Modular Verification of Hybrid System Code with VCC
+Martta: A C Language Workbench
+A Bootstrap Theory: the SEMAT Kernel Itself as Runnable Software
+Goal-oriented Data Visualization with Software Project Control Centers
+Using the Business Process Model and Notation for Modeling Enterprise Integration Patterns
+Quick Safari Through Software Design
+Debugging Quantum Processes Using Monitoring Measurements
+Bracing Heterogeneous Distributed Systems via Built-in Frameworks
+SMT-Based Bounded Model Checking of Fixed-Point Digital Controllers
+State Machine Flattening: Mapping Study and Assessment
+Comprehensive Landscapes for Software-related Quality Models
+A New Complete Class Complexity Metric
+A Pattern based methodology for evolution management in business process reuse
+Do the Fix Ingredients Already Exist? An Empirical Inquiry into the Redundancy Assumptions of Program Repair Approaches
+tinyNBI: Distilling an API from essential OpenFlow abstractions
+Probabilistic Model Checking of DTMC Models of User Activity Patterns
+ICT Support for Regulatory Compliance of Business Processes
+Proceedings Ninth Workshop on Model-Based Testing
+Using Formal Specifications to Support Model Based Testing ASDSpec: A Tool Combining the Best of Two Techniques
+Verifying Web Applications: From Business Level Specifications to Automated Model-Based Testing
+Coverage Criteria for Model-Based Testing using Property Patterns
+Spinal Test Suites for Software Product Lines
+Generating Complete and Finite Test Suite for ioco: Is It Possible?
+Bounded Model Checking of Temporal Formulas with Alloy
+The Role of Emotions in Contributors Activity: A Case Study on the GENTOO Community
+A framework for systematic analysis of Open Access journals and its application in software engineering and information systems
+Learning Natural Coding Conventions
+An Institutional Framework for Heterogeneous Formal Development in UML
+Proceedings 11th International Workshop on Formal Engineering approaches to Software Components and Architectures
+Adaptability Checking in Multi-Level Complex Systems
+Towards Verifying Safety Properties of Real-Time Probabilistic Systems
+Execution Time Analysis for Industrial Control Applications
+Comprehensive Monitor-Oriented Compensation Programming
+Application of Ontologies in Identifying Requirements Patterns in Use Cases
+A model-driven approach to broaden the detection of software performance antipatterns at runtime
+Automated Mapping of UML Activity Diagrams to Formal Specifications for Supporting Containment Checking
+Correct-by-construction model composition: Application to the Invasive Software Composition method
+Transformation of UML Behavioral Diagrams to Support Software Model Checking
+Experiences in Developing Time-Critical Systems - The Case Study Production Cell
+Formale Entwicklung einer Steuerung f ur eine Fertigungszelle mit SYSYFOS
+Threats Management Throughout the Software Service Life-Cycle
+Towards the Model-Driven Engineering of Secure yet Safe Embedded Systems
+An Efficient Solution for Model Checking Abstract State Machine Using Bogor
+Transaction Handling in COM EJB and .NET
+Modeling Enterprise Architecture Using Timed Colored PETRI Net: Single Processor Scheduling
+Automatic Repair of Buggy If Conditions and Missing Preconditions with SMT
+An Ontology Oriented Architecture for Context Aware Services Adaptation
+An Approach for Computing Dynamic Slice of Concurrent Aspect-Oriented Programs
+BeSpaceD: Towards a Tool Framework and Methodology for the Specification and Verification of Spatial Behavior of Distributed Software Component Systems
+Locating Crashing Faults based on Crash Stack Traces
+Knowledge-Driven Game Design by Non-Programmers
+Prediction of rate of improvement of software quality and development effort on the basis of Degreeof excellence with respect to number of lines of code
+Converging Work-Talk Patterns in Online Task-Oriented Communities
+Proceedings 1st Workshop on Formal Integrated Development Environment
+Development of an open source software module for enhanced visualization during MR-guided interstitial gynecologic brachytherapy
+Une approche CSP pour l'aide a la localisation d'erreurs
+The Dafny Integrated Development Environment
+Who watches the watchers: Validating the ProB Validation Tool
+Teaching Formal Methods and Discrete Mathematics
+SPEEDY: An Eclipse-based IDE for invariant inference
+Experience in using a typed functional language for the development of a security application
+OpenJML: Software verification for Java 7 using JML OpenJDK and Eclipse
+Checking Computations of Formal Method Tools - A Secondary Toolchain for ProB
+A Formal Approach to System Integration Testing
+Nothing is Certain but Doubt and Tests
+Formalism of Requirements for Safety-Critical Software: Where Does the Benefit Come From?
+Towards Assessing Necessary Competence
+The Efficacy of DO-178B
+On the efficacy of safety-related software standards
+Orthogonal Fault Tolerance for Dynamically Adaptive Systems
+Unit verification procedure as a test of real time messaging-based processes
+Evaluating the Assessment of Software Fault-Freeness
+An Approach to Maintaining Safety Case Evidence After A System Change
+Human Factors of Formal Methods
+Refinement-Based Specification: Requirements and Architecture
+Do we really need to write documentation for a system? CASE tool add-ons: generator editor for a precise documentation
+I know what leaked in your pocket: uncovering privacy leaks on Android Apps with Static Taint Analysis
+Contracts in Practice
+Distributed Business Processes - A Framework for Modeling and Execution
+First Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE): Submission and Peer-Review Process and Results
+Flexible Invariants Through Semantic Collaboration
+From abstract modelling to remote cyber-physical integration interoperability testing
+Automated Fixing of Programs with Contracts
+User Centered Development of Agent-based Business Process Models and Notations
+A LabVIEW based user-friendly X-ray phase-contrast imaging system software platform
+On Cloud-Based Engineering of Dependable Systems
+A formal approach for correct-by-construction system substitution
+The Utility and Practicality of Quantifying Software Reliability
+A formal experiment to assess the efficacy of certification standards
+Monitoring service quality: methods and solutions to implement a managerial dash-board to improve software development
+Integrated Maintenance: analysis and perspective of innovation in railway sector
+End-users needs and requirements for tools to support critical infrastructures protection
+Investigating SCADA Failures in Interdependent Critical Infrastructure Systems
+Modeling and Execution of Multienterprise Business Processes
+Deployment Calculation and Analysis for a Fail-Operational Automotive Platform
+SoS Fault Modelling at the Architectural Level in an Emergency Response Case Study
+Towards Verification of Constituent Systems through Automated Proof
+A tlm-based platform to specify and verify component-based real-time systems
+LTLf and LDLf Monitoring: A Technical Report
+Natural User Interfaces: Trend in Virtual Interaction
+On Formalisms for Dynamic Reconfiguration of Dependable Systems
+Big Data in Critical Infrastructures Security Monitoring: Challenges and Opportunities
+Big Data Analytics for QoS Prediction Through Probabilistic Model Checking
+Proceedings Third International Workshop on Engineering Safety and Security Systems
+Configuration in ERP SaaS Multi-Tenancy
+Fault Localization in a Software Project using Back-Tracking Principles of Matrix Dependency
+Translating UML State Machines to Coloured Petri Nets Using Acceleo: A Report
+Formal Safety and Security Assessment of an Avionic Architecture with Alloy
+Data-flow Analysis of Programs with Associative Arrays
+System Software: Concepts and Approach
+Stream processing components: Isabelle HOL formalisation and case studies
+Complete Separation of the 3 Tiers - Divide and Conquer
+Evaluation of A Resilience Embedded System Using Probabilistic Model-Checking
+Change Management and Version Control of Scientific Applications
+Structured Approach to Web Development
+How and When to Flatten Java Classes?
+Proceedings of the First Workshop on Resource Awareness and Adaptivity in Multi-Core Computing (Racing 2014)
+Automatic Detection of Performance Anomalies in Task-Parallel Programs
+Autotuning and Self-Adaptability in Concurrency Libraries
+Semantic Support for Log Analysis of Safety-Critical Embedded Systems
+The Tenth European Dependable Computer Conference
+Formalisation and Analysis of Component Dependencies
+Flowgen: Flowchart-Based Documentation for C Codes
+Current Concepts in Version Control Systems
+Integration of Inter-Connectivity of Information System (i3) using Web Services
+An Efficient Binary Technique for Trace Simplifications of Concurrent Programs
+Probabilistic Alias Analysis for Parallel Programming in SSA Forms
+Measuring Cost of Quality (CoQ) on SDLC Projects is Indispensible for Effective Software Quality Assurance
+HyperForce: Hypervisor-enForced Execution of Security-Critical Code
+Metrics for BPEL Process Reusability Analysis in a Workflow System
+Application of Sizing Estimation Techniques for Business Critical Software Project Management
+Kevoree Modeling Framework (KMF): Efficient modeling techniques for runtime use
+Interactive Ant Colony Optimisation (iACO) for Early Lifecycle Software Design
+Declarative Ajax Web Applications through SQL on a Unified Application State
+Don't sit on the fence: A static analysis approach to automatic fence insertion
+How are identifiers named in open source software? About popularity and consistency
+A Framework for the Implementation of Industrial Automation Systems Based on PLCs
+Mining Idioms from Source Code
+Sustaining IT PMOs during Cycles of Global Recession
+Analyzing the Non-Functional Requirements in the Desharnais Dataset for Software Effort Estimation
+Software developers moods emotions and performance
+EACOF: A Framework for Providing Energy Transparency to enable Energy-Aware Software Development
+An LTL Semantics of Business Workflows with Recovery
+Linguistic Analysis of Requirements of a Space Project and their Conformity with the Recommendations Proposed by a Controlled Natural Language
+Platform-Centric Android Monitoring---Modular and Efficient
+Stochastically timed predicate-based communication primitives for autonomic computing
+Formal and Informal Methods for Multi-Core Design Space Exploration
+RuleCNL: A Controlled Natural Language for Business Rule Specifications
+ClassSpy: Java Object Pattern Visualization Tool
+Automatic Test Data Generation and Model Checking with CHR
+Fault-Tolerant but Paradoxical Path-Finding in Physical and Conceptual Systems
+Industrial-Strength Documentation for ACL2
+Explaining Violation Traces with Finite State Natural Language Generation Models
+A new approach for formal behavioral modeling of protection services in antivirus systems
+Compositional Testing For FSM-Based Models
+A Framework for the Evaluation of SaaS Impact
+A Hitchhiker's Guide to Search-Based Software Engineering for Software Product Lines
+Some Ideas for Program Verifier Tactics
+Towards Reversible Sessions
+Multiparty Session Actors
+Verifying Parallel Loops with Separation Logic
+Towards Composable Concurrency Abstractions
+Methodological Societies
+Trace checking of Metric Temporal Logic with Aggregating Modalities using MapReduce
+A methodology to identify the level of reuse using template factors
+Component Based Software Development: A State of Art
+A strategy to identify components using clustering approach for component reusability
+Vector Clocks in Coq: An Experience Report
+Comments on A model-based design methodology for the development of mechatronic systems
+A Quality Framework for Agile Requirements: A Practitioner's Perspective
+The OpenCPU System: Towards a Universal Interface for Scientific Computing through Separation of Concerns
+On the Reverse Engineering of the Citadel Botnet
+Runtime Enforcement for Component-Based Systems
+Guidelines to minimize cost of software quality in agile scrum process
+Refinement Calculus of Reactive Systems
+A Model-Based Approach to Impact Analysis Using Model Differencing
+A Family of Simulation Criteria to Guide DEVS Models Validation Rigorously Systematically and Semi-Automatically
+Towards a Pattern-based Automatic Generation of Logical Specifications for Software Models
+Verifying Component and Connector Models against Crosscutting Structural Views
+Chunks and Tasks: a programming model for parallelization of dynamic algorithms
+A metric for software vulnerabilities classification
+IEC 61499 vs. 61131: A Comparison Based on Misperceptions
+When Agile Is Not Good Enough: an initial attempt at understanding how to make the right decision
+ARSENAL: Automatic Requirements Specification Extraction from Natural Language
+Proposal of a multiagent-based smart environment for the IoT
+Summary of the First Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE1)
+Managing LTL properties in Event-B refinement
+From a Competition for Self-Driving Miniature Cars to a Standardized Experimental Platform: Concept Models Architecture and Evaluation
+Toward Software Measurement and Quality Analysis of MARF and GIPSY Case Studies a Team 13 SOEN6611-S14 Project Report
+Modelling an Aircraft Landing System in Event-B (Full Report)
+CBM-Of-TRaCE: An Ontology-Driven Framework for the Improvement of Business Service Traceability Consistency Management and Reusability
+Dynamic Checking of Safe Concurrent Memory Access using Shared Ownership
+Usage of Optimal Restructuring Plan in Detection of Code Smells
+Toward Software Measurement and Quality Analysis of MARF and GIPSY Case Studies a Team 8 SOEN6611-S14 Project Report
+Proceedings 2nd French Singaporean Workshop on Formal Methods and Applications
+soCloud: A service-oriented component-based PaaS for managing portability provisioning elasticity and high availability across multiple clouds
+A Cyber-Physical System-based Approach for Industrial Automation Systems
+Is Fortran Still Relevant? Comparing Fortran with Java and C
+Synthetic Minority Over-sampling TEchnique(SMOTE) for Predicting Software Build Outcomes
+Mining Software Metrics from Jazz
+Run-time extensibility and librarization of simulation software
+The Need for a Versioned Data Analysis Software Environment
+UCov: a User-Defined Coverage Criterion for Test Case Intent Verification
+Elements of Design for Containers and Solutions in the LinBox Library
+Case Study Of GIPSY and MARF
+Correct-by-design Control Synthesis for Multilevel Converters using State Space Decomposition
+Experience using Coloured Petri Nets to Model Railway Interlocking Tables
+Verified Subtyping with Traits and Mixins
+Bridging the Research-Practice Gap in Requirements Engineering through Effective Teaching and Peer Learning
+Web API Fragility: How Robust is Your Web API Client
+Faults in Linux 2.6
+Leveraging Time Distortion for seamless Navigation into Data Space-Time Continuum
+An Analysis of Research in Software Engineering: Assessment and Trends
+Sliced Slices: Separating Data and Control Influences
+Proceedings 3rd Workshop on Synthesis
+An Alloy Verification Model for Consensus-Based Auction Protocols
+Abstractions Algorithms and Data Structures for Structural Bioinformatics in PyCogent
+Impact Analysis of Allocation of Resources by Project Manager on Success of Software Projects
+A Parametric Analysis of Project Management Performance to Enhance Software Development Process
+Low-Effort Specification Debugging and Analysis
+The Highly Accurate N-DEterminant (HANDE) quantum Monte Carlo project: Open-source stochastic diagonalisation for quantum chemistry
+Research of Load Testing and Result Based on Loadrunner
+TFPaaS : Test-first Performance as a Service to Cloud for Software Testing Environment
+Sustainable Software Ecosystems: Software Engineers Domain Scientists and Engineers Collaborating for Science
+Autonomous requirements specification processing using natural language processing
+Requirements engineering current practice and capability in small and medium software development enterprises in New ealand
+An automatic architecture reconstruction and refactoring framework
+Mining developer communication data streams
+A Genetic Algorithm for Software Design Migration from Structured to Object Oriented Paradigm
+RTL2RTL Formal Equivalence: Boosting the Design Confidence
+Your data is your dogfood: DevOps in the astronomical observatory
+Parameterized Synthesis Case Study: AMBA AHB
+Contribution a la mod 'elisation explicite des plates-formes d'ex 'ecution pour l'IDM
+Service Level Agreement Complexity: Processing Concerns for Standalone and Aggregate SLAs
+Strategic Port Graph Rewriting: An Interactive Modelling and Analysis Framework
+Four Layered Approach to Non-Functional Requirements Analysis
+Decision Taking as a Service
+Engineering Crowdsourced Stream Processing Systems
+Component Substitution through Dynamic Reconfigurations
+Type Variability and Completeness of Interfaces in Java Applications
+An Implementation of Web Services for Inter-Connectivity of Information Systems
+SLI a New Metric to determine Success of a Software Project
+The Size of Software Projects Developed by Mexican Companies
+Early Development of UVM based Verification Environment of Image Signal Processing Designs using TLM Reference Model of RTL
+System Analysis and Design for integrated sponsored SMS USSD Based M-Services (A case study of Maternal Health M-Service in Tanzania)
+Do feelings matter? On the correlation of affects and the self-assessed productivity in software engineering
+Change Impact Analysis Based Regression Testing of Web Services
+Context-awareness of the IoT through the on-the-fly preference modeling
+A Critical Review of Automatic Patch Generation Learned from Human-Written Patches : Essay on the Problem Statement and the Evaluation of Automatic Software Repair
+Rethinking Security Incident Response: The Integration of Agile Principles
+What Java Developers Know About Compatibility And Why This Matters
+A Noble Methodology for Users Work Process Driven Software Requirements for Smart Handheld Devices
+The Influence of Architectural Styles on Security Using the Example of a Certification Authority
+An Extended Stable Marriage Problem Algorithm for Clone Detection
+Simulations on Consumer Tests: A Perspective for Driver Assistance Systems
+A measurement based software quality framework
+Static Analysis for Extracting Permission Checks of a Large Scale Framework: The Challenges And Solutions for Analyzing Android
+The Correlation among Software Complexity Metrics with Case Study
+Cloud WorkBench - Infrastructure-as-Code Based Cloud Benchmarking
+Developer Belief vs. Reality: The Case of the Commit Size Distribution
+Making FPGAs Accessible to Scientists and Engineers as Domain Expert Software Programmers with LabVIEW
+High Level Hardware Software Embedded System Design with Redsharc
+Software Cloning in Extreme Programming Environment
+A Model of the Commit Size Distribution of Open Source
+The Empirical Commit Frequency Distribution of Open Source Projects
+Objektorientierte Graphendarstellung von Simulink-Modellen zur einfachen Analyse und Transformation
+Verifiable UML Artifact-Centric Business Process Models (Extended Version)
+Validation of the development methodologies
+From Software Architecture Structure and Behavior Modeling to Implementations of Cyber-Physical Systems
+Meta-Metrics for Simulations in Software Engineering on the Example of Integral Safety Systems
+A Case Study on Model-Based Development of Robotic Systems using MontiArc with Embedded Automata
+Model Matching Challenge: Benchmarks for Ecore and BPMN Diagrams
+Using Lightweight Activity Diagrams for Modeling and Generation of Web Information Systems
+Synthesis of Component and Connector Models from Crosscutting Structural Views
+Report on the Aachen OCL Meeting
+Proactive Quality Guidance for Model Evolution in Model Libraries
+Report on the First Workshop On the Globalization of Modeling Languages
+Modeling Cloud Architectures as Interactive Systems
+Staged Evolution with Quality Gates for Model Libraries
+Virtual Observatory Publishing with DaCHS
+A Dual Model of Open Source License Growth
+First-Class Variability Modeling in Matlab Simulink
+Engineering Delta Modeling Languages
+A comparison of model view controller and model view presenter
+Enabling FPGAs for the Masses
+Integration of Heterogeneous Systems as Multi-Agent Systems
+Timed Runtime Monitoring for Multiparty Conversations
+The Power of Proofs: New Algorithms for Timed Automata Model Checking (with Appendix)
+The proposal of a novel software testing framework
+The proposal of improved component selection framework
+Significance of the teamwork in agile software engineering
+Scrum of scrums solution for large size teams using scrum methodology
+The proposal of improved inexact isomorphic graph algorithm to detect design patterns
+Estimation of the new agile XP process model for medium-scale projects using industrial case studies
+Design and Implementation of Parallel Debugger and Profiler for MPJ Express
+Extensible Component Based Architecture for FLASH A Massively Parallel Multiphysics Simulation Code
+Tailored Source Code Transformations to Synthesize Computationally Diverse Program Variants
+Autofolding for Source Code Summarization
+MPISE: Symbolic Execution of MPI Programs
+Principles of Antifragile Software
+Code Review For and By Scientists
+Can I Implement Your Algorithm? : A Model for Reproducible Research Software
+Which Sustainable Software Practices Do Scientists Find Most Useful?
+Collaboration on Social Media: Analyzing Successful Projects on Social Coding
+Usability Engineering of Games: A Comparative Analysis of Measuring Excitement Using Sensors Direct Observations and Self-Reported Data
+An Interim Summary on Semantic Model Differencing
+Cyber-Physical Systems -- eine Herausforderung an die Automatisierungstechnik?
+A Requirements Modeling Language for the Component Behavior of Cyber Physical Robotics Systems
+Modeling Cyber-Physical Systems: Model-Driven Specification of Energy Efficient Buildings
+Supporting acceptance testing in distributed software projects with integrated feedback systems: Experiences and requirements
+Autonomous Driving - 5 Years after the Urban Challenge: The Anticipatory Vehicle as a Cyber-Physical System
+SSELab: A Plug-In-Based Framework for Web-Based Project Portals
+The Energy Navigator - A Web-Platform for Performance Design and Management
+Dynamic Component Composition
+Enablers and Impediments for Collaborative Research in Software Testing: An Empirical Exploration
+Taming the Concurrency: Controlling Concurrent Behavior while Testing Multithreaded Software
+An Aspect-Oriented Approach for SaaS Application Customization
+The Handbook of Engineering Self-Aware and Self-Expressive Systems
+Bio-inspired Mechanism and Model Exploration of Software Aging
+Improving Efficiency and Scalability of Formula-based Debugging
+Assessment of classification techniques on predicting success or failure of Software reusability
+Proceedings 10th International Workshop on Automated Specification and Verification of Web Systems
+On Demand Data Analysis and Filtering for Inaccurate Flight Trajectories
+State-Based Modeling of Buildings and Facilities
+Summarizing Semantic Model Differences
+A Domain Specific Transformation Language
+MontiArcAutomaton: Modeling Architecture and Behavior of Robotic Systems
+Evolving Delta-oriented Software Product Line Architectures
+Semantically Configurable Consistency Analysis for Class and Object Diagrams
+CD2Alloy: Class Diagrams Analysis Using Alloy Revisited
+Towards a Family-based Analysis of Applicability Conditions in Architectural Delta Models
+Delta-oriented Architectural Variability Using MontiCore
+Hierarchical Variability Modeling for Software Architectures
+ADDiff: Semantic Differencing for Activity Diagrams
+Modal Object Diagrams
+CDDiff: Semantic Differencing for Class Diagrams
+An Operational Semantics for Activity Diagrams using SMV
+Delta Modeling for Software Architectures
+Metamodelling: State of the Art and Research Challenges
+Model Evolution and Management
+The Energy Navigator - A Web based Platform for functional Quality Mangement in Buildings
+Towards a Semantics of Activity Diagrams with Semantic Variation Points
+MontiCore: a Framework for Compositional Development of Domain Specific Languages
+Generative Software Development
+Rapid Integration and Calibration of New Sensors Using the Berkeley Aachen Robotics Toolkit (BART)
+Towards Architectural Programming of Embedded Systems
+Extensible Validation Framework for DSLs using MontiCore on the Example of Coding Guidelines
+ProcDSL ProcEd - a Web-based Editing Solution for Domain Specific Process-Engineering
+Design Guidelines for Domain Specific Languages
+MontiWeb - Modular Development of Web Information Systems
+Black-box Integration of Heterogeneous Modeling Languages for Cyber-Physical Systems
+A Manifesto for Semantic Model Differencing
+High-Level Requirements Management and Complexity Costs in Automotive Development Projects: A Problem Statement
+Verification of Reachability Problems for Time Basic Petri Nets
+Design and Implementation of Intelligent Community System Based on Thin Client and Cloud Computing
+Extended distributed UML-based protocol synthesis method
+Test Case Purification for Improving Fault Localization
+Building Program Vector Representations for Deep Learning
+Object-Oriented Programming Functional Programming and R
+Static Enforcement of Role-Based Access Control
+Aligning a Service Provisioning Model of a Service-Oriented System with the ITIL v.3 Life Cycle
+Concept-Oriented Programming: References Classes and Inheritance Revisited
+Models for Integrating UX into Software Engineering Practice: an Industrial Validation
+Three Metrics to Explore the Openness of GitHub projects
+Resolute: An Assurance Case Language for Architecture Models
+Automatic Error Localization for Software using Deductive Verification
+Offline Trace Checking of Quantitative Properties of Service-Based Applications
+Software Cognitive Complexity Measure Based on Scope of Variables
+TBCNN: A Tree-Based Convolutional Neural Network for Programming Language Processing
+Incremental Bounded Model Checking for Embedded Software (extended version)
+Constructing Coverability Graphs for Time Basic Petri Nets
+The Making of Cloud Applications An Empirical Study on Software Development for the Cloud
+MontiArc - Architectural Modeling of Interactive Distributed and Cyber-Physical Systems
+Engineering Autonomous Driving Software
+Modeling Language Variability
+Product Line Metrics for Legacy Software in Practice
+Modeling Language Variability
+Measuring the Ability to Form a Product Line from Existing Products
+Variability within Modeling Language Definitions
+Scaling-Up Model-Based-Development for Large Heterogeneous Systems with Compositional Modeling
+Orchestration of Global Software Engineering Projects
+Assessing usability of model driven development in industrial projects
+System Model-Based Definition of Modeling Language Semantics
+Automated Testing of Graphical Models in Heterogeneous Test Environments
+Manifesto - Model Engineering for Complex Systems
+A Framework for Realtime Online Auctions
+The WebShop E-Commerce Framework
+Executable Modeling with UML. A Vision or a Nightmare?
+The Amsterdam Manifesto on OCL
+Quantitative Survey on Extreme Programming Projects
+Limitations of Agile Software Processes
+A New Skill Based Robot Programming Language Using UML P Statecharts
+Retrofitting Security into a Web-Based Information System
+Model-Based Testing of Object-Oriented Systems
+Scaling the Management of Extreme Programming Projects
+Testing Agile Requirements Models
+Critical Systems Development Using Modeling Languages. (CSDUML-04): Current Developments and Future Challenges (Report on the Third International Workshop)
+Techniques Enabling Generator Refactoring
+Assumptions Underlying Agile Software Development Processes
+Model Transformations in Practice Workshop (MTiP)
+Towards Enabling Architectural Refactorings through Source Code Annotations
+Towards a System Model for UML. The Structural Data Model
+Agile Test-based Modeling
+Model Driven Testing of Time Sensitive Distributed Systems
+Roles in Software Development using Domain Specific Modeling Languages
+UML 2 Semantics Symposium: Formal Semantics for UML
+Model-Driven Development of Complex Software: A Research Roadmap
+An Algebraic View on the Semantics of model Composition
+System-Model-Based Simulation of UML Models
+Textbased Modeling
+Integrated Definition of Abstract and Concrete Syntax for Textual Languages
+Efficient Editor Generation for Compositional DSLs in Eclipse
+View-Based Modeling of Function Nets
+Modelling Automotive Function Nets with Views for Features Variants and Modes
+Modeling Variants of Automotive Systems using Views
+View-Centric Modeling of Automotive Logical Architectures
+MontiCore: A Framework for the Development of Textual Domain Specific Languages
+MontiCore: Modular Development of Textual Domain Specific Languages
+Evolving and Implanting Web-based E-Government Systems in Universities
+System Model Semantics of Class Diagrams
+System Model Semantics of Statecharts
+Modular Description of a Comprehensive Semantics Model for the UML (Version 2.0)
+Agile Modeling with the UML
+Hierarchical XP
+Model Checking Software Programs with First Order Logic Specifications using AIG Solvers
+UML-F: A Modeling Language for Object-Oriented Frameworks
+Defining UML Family Members Using Prefaces
+Meta-Modeling Semantics of UML
+The UML as a Formal Modeling Notation
+Second ECOOP Workshop on Precise Behavioral Semantics (with an Emphasis on OO Business Specifications)
+Modeling Dynamic Component Interfaces
+A Note on Semantics (with an Emphasis on UML)
+Developing the UML as a Formal Modelling Notation
+Towards a Precise Semantics for Object-Oriented Modeling Techniques
+BMW-ROOM An Object-Oriented Method for ASCET
+Refinement of Information Flow Architectures
+A manager's view on large scale XP projects
+Software Systems Engineering Process and Tools for the Development of Autonomous Driving Intelligence
+Heterogeneous Metric Learning with Content-based Regularization for Software Artifact Retrieval
+Exemplary and Complete Object Interaction Descriptions
+Feature Specification and Refinement with State Transition Diagrams
+State Based Service Description
+Towards a Formalization of the Unified Modeling Language
+A stream-based mathematical model for distributed information processing systems - SysLab system model
+Refining Business Processes
+Stepwise Refinement of Data Flow Architectures
+Event Handling in ET - A Case Study in the Algebraic Specification of Object-Oriented Application Frameworks
+A Study on the Sectors of Economy serviced by Pre-industry System Developers among companies in Metro Manila: A Tool for Business Reengineering
+The Multiple Facets of Software Diversity: Recent Developments in Year 2000 and Beyond
+Similarity-based matching meets Malware Diversity
+A Survey on Deadline Constrained Workflow Scheduling Algorithms in Cloud Environment
+From High-Level Modeling Towards Efficient and Trustworthy Circuits
+Concurrent object-oriented development with behavioral design patterns
+Handling Parallelism in a Concurrency Model
+Software Abstractions and Methodologies for HPC Simulation Codes on Future Architectures
+Experiences from Software Engineering of Large Scale AMR Multiphysics Code Frameworks
+Challenges in Selecting Software to be Reused
+Collaborative Verification-Driven Engineering of Hybrid Systems
+Fault Modelling in System-of-Systems Contracts
+Simplification of Training Data for Cross-Project Defect Prediction
+Formal Consistency Checking over Specifications in Natural Languages
+Expression-based aliasing for OO-languages
+An Agent-Based Approach to Component Management
+An introduction to Docker for reproducible research with examples from the R environment
+Contributions of natural ventilation on thermal performance of alternative floor plan designs
+A Systematic Approach to Setting Up Distributed Global Collaborations for Software-based Products in the Automotive Domain
+Understanding Class-level Testability Through Dynamic Analysis
+Cyber-Virtual Systems: Simulation Validation Visualization
+A Formal Model of Distributed Systems For Test Generation Missions
+A Formal Approach to Distributed System Tests Design
+Semantic Web Approach towards Interoperability and Privacy issues in Social Networks
+Workshop Summary of the 1st International Workshop on Requirements and Testing (RET'14)
+An exploratory study of the suitability of UML-based aspect modeling techniques with respect to their integration into Model-Driven Engineering context
+A Time-Triggered Constraint-Based Calculus for Avionic Systems
+Softwaretechnische Absicherung intelligenter Systeme im Fahrzeug
+Product Line Annotations with UML-F
+Towards Development of Correct Software using Views
+Model the System from Adversary Viewpoint: Threats Identification and Modeling
+ALICE: An Advanced Logic for Interactive Component Engineering
+Factors Influencing Quality of Mobile Apps:Role of Mobile App Development Life Cycle
+Applications of different metaheuristic techniques for finding optimal tst order during integration testing of object oriented systems and their comparative study
+Applying Genetic Algorithm for Prioritization of Test Case Scenarios Derived from UML Diagrams
+Pirus: A Web-based File Hosting Service with Object Oriented Logic in Cloud Computing
+Software in e-Learning Architecture Processes and Management
+The Tomaco Hybrid Matching Framework for SAWSDL Semantic Web Services
+Testing Security Policies for Distributed Systems: Vehicular Networks as a Case Study
+ASTOR: Evolutionary Automatic Software Repair for Java
+Contract-Based General-Purpose GPU Programming
+Applying Agile Requirements Engineering Approach for Re-engineering Changes in existing Brownfield Adaptive Systems
+The Karlskrona manifesto for sustainability design
+Proceedings 7th Interaction and Concurrency Experience
+Approximation Algorithms for Steiner Tree Problems Based on Universal Solution Frameworks
+A Generative Model of Software Dependency Graphs to Better Understand Software Evolution
+On Recursive Operations Over Logic LTS
+Product Backlog Rating: A Case Study On Measuring Test Quality In Scrum
+ComReg: A Complex Network Approach to Prioritize Test Cases for Regression Testing
+Event-Flow Graphs for Efficient Path-Sensitive Analyses
+Building Sustainable Software - The CSDMS Approach
+Variability Modeling for Customizable SaaS Applications
+Towards Refactoring DMARF and GIPSY OSS
+Addressing the non-functional requirements of computer vision systems: A case study
+DDTS: A Practical System Testing Framework for Scientific Software
+Synthesis from Formal Partial Abstractions
+Enhancing software module reusability using port plug-ins: an experiment with the iCub robot
+A Survey on Software Testing Techniques using Genetic Algorithm
+An Open Distributed Architecture for Flexible Hybrid Assembly Systems: A Model Driven Engineering Approach
+Reverse Engineering of Middleware for Verification of Robot Control Architectures
+A Guide To Deal With Uncertainties In Software Project Management
+State of the Art of Agile Governance: A Systematic Review
+Systematic Review on Project Actuality
+Investigation of the relationship between code change set n-grams and change in energy consumption
+JCloudScale: Closing the Gap Between IaaS and PaaS
+Automata Describing Object Behavior
+Software and System Modeling Based on a Unified Formal Semantics
+Refinement of Pipe-and-Filter Architectures
+Agile governance in Information and Communication Technologies: shifting paradigms
+Measuring the impact of input data on energy consumption of software
+Monotonic Abstraction Techniques: from Parametric to Software Model Checking
+An Approach to Model Checking of Multi-agent Data Analysis
+A Language Support for Exhaustive Fault-Injection in Message-Passing System Models
+Automated user documentation generation based on the Eclipse application model
+Formal Semantic Annotations for Models Interoperability in a PLM environment
+Towards Cross-Project Defect Prediction with Imbalanced Feature Sets
+Automatic Synthesis of Test Cases to Identify Software Redundancy
+An Institution for Simple UML State Machines
+A Rewriting Logic Approach for Automatic Composition of Web Services
+Developing a SAAS-Cloud Integrated Development Environment (IDE) for C C and Java
+Identifying Talented Software Engineering Students through Data-driven Skill Assessment
+An Empirical Analysis of Task Allocation in Scrum-based Agile Programming
+A Tool to Automate the Sizing of Application Process for SOA based Platform
+Early Experience with ASDL in lcc
+Formalizing common sense for scalable inconsistency-robust information integration using Direct Logic(TM) reasoning and the Actor Model
+Stochastic Semantics and Statistical Model Checking for Networks of Priced Timed Automata
+The Sensemaking-Coevolution-Implementation Theory of Software Design
+An Empirical Study on Software Defect Prediction with a Simplified Metric Set
+Inferring Loop Invariants by Mutation Dynamic Analysis and Static Checking
+Property-Driven Fence Insertion using Reorder Bounded Model Checking
+Humanizing Software Artifacts: Software Engineering with Intelligent and Social Software Artifacts as our Friends
+A Comparative Study of Various Distance Measures for Software fault prediction
+An Infra-Structure for Performance Estimation and Experimental Comparison of Predictive Models in R
+Automatic adaptor synthesis for protocol transformation
+Proceedings First Workshop on Horn Clauses for Verification and Synthesis
+Dynamic Verification of SystemC with Statistical Model Checking
+Complexity in the Context of Systems Approach to Project Management
+An Implementation Framework (IF) for the National Information Assurance and Cyber Security Strategy (NIACSS) of Jordan
+Verification of Programs by Combining Iterated Specialization with Interpolation
+Horn Clauses for Communicating Timed Systems
+On the Behavioural Formalization of the Cognitive Middleware AWDRAT
+Systems Views and Models of UML
+Enhancing the SysLab System Model with State
+Integrating goals after prioritization and evaluation-A Goal-oriented requirements engineering method
+Analogue-digital systems with modes of operation
+Integrating Heterogeneous Building and Periphery Data Models at the District Level: The NIM Approach
+Multi-Platform Generative Development of Component Connector Systems using Model and Code Libraries
+The Influence of the Generator's License on Generated Artifacts
+A Review of Software Quality Models for the Evaluation of Software Products
+A multi-protocol framework for the development of collaborative virtual environments
+Optimization of Software Quality Using Management and Technical Review Techniques
+User-driven Privacy Enforcement for Cloud-based Services in the Internet of Things
+Integrating formal methods into traditional practices for software development: an overview
+Towards Logical Architecture and Formal Analysis of Dependencies Between Services
+Modelling common cause failures of large digital I C systems with coloured Petri nets
+A Systematic Review of Uncertainties in Software Project Management
+Considering Polymorphism in Change-Based Test Suite Reduction
+LUU - A Framework for Linked Data Quality Assessment
+The OCDF diagram. A metamodel for object-oriented systems visual design
+A Canonical Representation of Data-Linear Visualization Algorithms
+A Survey of Software Engineering Practices in Turkey (extended version)
+Towards Interactive Incremental Programming of ROS Nodes
+A representation of robotic behaviors using component port arbitration
+Report on a User Test and Extension of a Type Debugger for Novice Programmers
+Detecting Redundant CSS Rules in HTML5 Applications: A Tree-Rewriting Approach
+Testing MCMC code
+FlexDM: Enabling robust and reliable parallel data mining using WEKA
+An approach for improving the concept of Cyclomatic Complexity for Object-Oriented Programming
+An Empirical Study on Refactoring Activity
+Toward Refactoring of DMARF and GIPSY Case Studies a Team 7 SOEN6471-S14 Project Report
+Artifact Centric Business Process Management Logging Schema
+Software for Distributed Computation on Medical Databases: A Demonstration Project
+DMARF AND GIPSY High Level Architecture and Requirements Analysis
+Toward Refactoring of DMARF and GIPSY Case Studies -- a Team 9 SOEN6471-S14 Project Report
+Toward Refactoring of DMARF and GIPSY Case Studies -- a Team 12 SOEN6471-S14 Project Report
+Toward Refactoring of DMARF and GIPSY Case Studies -- a Team 10 SOEN6471-S14 Project Report
+Toward Refactoring of DMARF and GIPSY Case Studies -- A Team XI SOEN6471-S14 Project Report
+Towards Refactoring of DMARF and GIPSY Case Studies -- A Team 5 SOEN6471-S14 Project Report
+Toward Refactoring of DMARF and GIPSY Case Studies -- a Team 4 SOEN6471-S14 Project Report
+Towards Refactoring of DMARF and GIPSY Case Studies -- a Team 8 SOEN6471-S14 Project Report
+Case Studies: Business and Technical Perspectives in Migration of Legacy Systems to Service Oriented Architecture
+Runtime Verification Based on Register Automata
+Architecture and Production Readiness Reviews in Practice
+A System for Deduction-based Formal Verification of Workflow-oriented Software Models
+A Comparative Study of Programming Languages in Rosetta Code
+SPIKY: A graphical user interface for monitoring spike train synchrony
+SAMP the Simple Application Messaging Protocol: Letting applications talk to each other
+Requirement analysis Architectural design and Formal verification of a multi-agent based University Information Management System
+The Cost of Problem-Based Learning: An Example in Information Systems Engineering
+Autonomous Fault Detection in Self-Healing Systems using Restricted Boltzmann Machines
+Survey of Uncertainty Handling in Cloud Service Discovery and Composition
+LeoTask: a fast flexible and reliable framework for computational research
+Proceedings XIV Jornadas sobre Programaci 'on y Lenguajes
+SpecSatisfiabilityTool: A tool for testing the satisfiability of specifications on XML documents
+Design and Implementation of rowe a Web-Friendly Communication Library
+Stochastic Contracts for Runtime Checking of Component-based Real-time Systems
+Open-Source Software Implications in the Competitive Mobile Platforms Market
+Crafting a Systematic Literature Review on Open-Source Platforms
+Closing the Gap -- Formally Verifying Dynamically Typed Programs like Statically Typed Ones Using Hoare Logic -- Extended Version --
+Benchmarking Obfuscators of Functionality
+A Hybrid Approach to Web Service Recommendation Based on QoS-Aware Rating and Ranking
+Realization and Extension of Abstract Operation Contracts for Program Logic
+AAPPeC: Agent-based Architecture for Privacy Payoff in eCommerce
+Enabling High-Level Application Development for the Internet of Things
+Requirements Formal Verification and Model transformations of an Agent-based System: A CASE STUDY
+Formal requirement and architecture specifications of a multi-agent robotic system
+A Direct Symbolic Execution of SQL Code for Testing of Data-Oriented Applications
+A Symbolic Execution Algorithm for Constraint-Based Testing of Database Programs
+Anonymously Analyzing Clinical Datasets
+A New Efficient Method for Calculating Similarity Between Web Services
+Average probability of a dangerous failure on demand: Different modelling methods similar results
+Measuring the local GitHub developer community
+JMS: A workflow management system and web-based cluster front-end for the Torque resource manager
+Enhancing Reuse of Constraint Solutions to Improve Symbolic Execution
+Benefits of Semantics on Web Service Composition from a Complex Network Perspective
+MATAWS: A Multimodal Approach for Automatic WS Semantic Annotation
+On Flexible Web Services Composition Networks
+High-level Counterexamples for Probabilistic Automata
+Exploiting Binary Floating-Point Representations for Constraint Propagation
+Refinement in the Function-Behaviour-Structure Framework
+Distributed CTL Model Checking in the Cloud
+Parameterized Synthesis Case Study: AMBA AHB (extended version)
+Architecture implementation and parallelization of the software to search for periodic gravitational wave signals
+Second Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE2): Submission Peer-Review and Sorting Process and Results
+Wise Computing: Towards Endowing System Development with True Wisdom
+Towards Resolving Software Quality-in-Use Measurement Challenges
+Domain-Type-Guided Refinement Selection Based on Sliced Path Prefixes
+Combining k-Induction with Continuously-Refined Invariants
+Towards a Systems Engineering Essence
+Assessing the Fault Proneness Degree (DFP) by Estimating the Impact of Change Request Artifacts Correlation
+Software that Learns from its Own Failures
+Learning from FITS: Limitations in use in modern astronomical research
+Machine-Checked Proofs For Realizability Checking Algorithms
+A Study of Wheat and Chaff in Source Code
+Facilitating Evolution during Design and Implementation
+Casper: Debugging Null Dereferences with Ghosts and Causality Traces
+Real World Applications of Machine Learning Techniques over Large Mobile Subscriber Datasets
+Model Checking C Programs with Loops via k-Induction and Invariants
+YesWorkflow: A User-Oriented Language-Independent Tool for Recovering Workflow Information from Scripts
+Dear CAV We Need to Talk About Reproducibility
+Verifying the Safety of a Flight-Critical System
+An Integrated Semantic Web Service Discovery and Composition Framework
+Towards Realizability Checking of Contracts using Theories
+Proceedings 13th International Workshop on Foundations of Coordination Languages and Self-Adaptive Systems
+Requirements Analysis of a Quad-Redundant Flight Control System
+Distributed Enforcement of Service Choreographies
+On Synchronous and Asynchronous Monitor Instrumentation for Actor-based systems
+Verifying the correct composition of distributed components: Formalisation and Tool
+An Empirical Evaluation of Impact of Refactoring On Internal and External Measures of Code Quality
+Single Page Application and Canvas Drawing
+Project Risk Management Model Based on PRINCE2 and Scrum Frameworks
+A Novel Approach for Clone Group Mapping by using Topic Modeling
+Stakeholders Viewpoints and Languages of a Modelling Framework for the Design and Development of Data-Intensive Mobile Apps
+Human Factors in Agile Software Development
+Counterexample-Guided Polynomial Loop Invariant Generation by Lagrange Interpolation
+A Conceptual Framework for Web Development Projects Based on Project Management and Agile Development Principles
+Synthesis of Attributed Feature Models From Product Descriptions: Foundations
+Node mixing and group structure of complex software networks
+Dependability Tests Selection Based on the Concept of Layered Networks
+NEFI: Network Extraction From Images
+An Approach For Transforming of Relational Databases to OWL Ontology

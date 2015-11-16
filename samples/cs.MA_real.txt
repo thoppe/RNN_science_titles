@@ -1,0 +1,1054 @@
+Extensive Games with Possibly Unaware Players
+Scalability and Optimisation of a Committee of Agents Using Genetic Algorithm
+A competitive multi-agent model of interbank payment systems
+Collectives for the Optimal Combination of Imperfect Objects
+Product Distribution Field Theory
+Information Theory - The Bridge Connecting Bounded Rational Game Theory and Statistical Physics
+A model of student's dilemma
+Microscopic activity patterns in the Naming Game
+Predicting the expected behavior of agents that learn about agents: the CLRI framework
+Applying Maxi-adjustment to Adaptive Information Filtering Agents
+Multiagent Control of Self-reconfigurable Robots
+Modeling Ambiguity in a Multi-Agent System
+Improving Performance of heavily loaded agents
+A Price Dynamics in Bandwidth Markets for Point-to-point Connections
+Market-Based Reinforcement Learning in Partially Observable Worlds
+Learning to Cooperate via Policy Search
+Software Toolkit for Building Embedded and Distributed Knowledge-based Systems
+Using Methods of Declarative Logic Programming for Intelligent Information Agents
+A computer scientist looks at game theory
+On Learning by Exchanging Advice
+Capturing Knowledge of User Preferences: ontologies on recommender systems
+Interface agents: A review of the field
+NetNeg: A Connectionist-Agent Integrated System for Representing Musical Knowledge
+Exploiting Synergy Between Ontologies and Recommender Systems
+From Alife Agents to a Kingdom of N Queens
+Effectiveness of Preference Elicitation in Combinatorial Auctions
+Vote Elicitation: Complexity and Strategy-Proofness
+Complexity Results about Nash Equilibria
+Complexity of Mechanism Design
+What is a Joint Goal? Games with Beliefs and Defeasible Desires
+Geometric Aspects of Multiagent Systems
+Intelligence and Cooperative Search by Coupled Local Minimizers
+Thinking Adaptive: Towards a Behaviours Virtual Laboratory
+Modelling intracellular signalling networks using behaviour-based systems and the blackboard architecture
+Integration of Computational Techniques for the Modelling of Signal Transduction
+A Method for Solving Distributed Service Allocation Problems
+Finding Traitors in Secure Networks Using Byzantine Agreements
+Semi-metric Behavior in Document Networks and its Application to Recommendation Systems
+Transient Diversity in Multi-Agent Systems
+Data mining and Privacy in Public Sector using Intelligent Agents (discussion paper)
+Running C models undet the Swarm environment
+EcoLab: Agent Based Modeling for C programmers
+Anonymity and Information Hiding in Multiagent Systems
+Distributed Control by Lagrangian Steepest Descent
+Mathematical Analysis of Multi-Agent Systems
+Dealing With Curious Players in Secure Networks
+Tycoon: A Distributed Market-based Resource Allocation System
+Multi-agent coordination using nearest neighbor rules: revisiting the Vicsek model
+An agent-based intelligent environmental monitoring system
+An agent framework for dynamic agent retraining: Agent academy
+Parallel Computing Environments and Methods for Power Distribution System Simulation
+RRL: A Rich Representation Language for the Description of Agent Behaviour in NECA
+Robust Dialogue Understanding in HERALD
+Negotiating over Bundles and Prices Using Aggregate Knowledge
+Online Learning of Aggregate Knowledge about Non-linear Preferences Applied to Negotiating Prices and Bundles
+Enabling Agents to Dynamically Select Protocols for Interactions
+Tables Memorized Semirings and Applications
+Self-Replicating Strands that Self-Assemble into User-Specified Meshes
+Coalition Formation: Concessions Task Relationships and Complexity Reduction
+Stabilization of Cooperative Information Agents in Unpredictable Environment: A Logic Programming Approach
+Dichotomy for Voting Systems
+Cooperative Game Theory within Multi-Agent Systems for Systems Scheduling
+A T Step Ahead Optimal Target Detection Algorithm for a Multi Sensor Surveillance System
+Emergent Statistical Wealth Distributions in Simple Monetary Exchange Models: A Critical Review
+Anyone but Him: The Complexity of Precluding an Alternative
+Truth-telling Reservations
+Selfish vs. Unselfish Optimization of Network Creation
+Polymorphic Self- Agents for Stigmergic Fault Mitigation in Large-Scale Real-Time Embedded Systems
+Traders imprint themselves by adaptively updating their own avatar
+Friends for Free: Self-Organizing Artificial Social Networks for Trust and Cooperation
+Effect of door delay on aircraft evacuation time
+The Impact of Social Networks on Multi-Agent Recommender Systems
+Parameters Affecting the Resilience of Scale-Free Networks to Random Failures
+Societal Implicit Memory and his Speed on Tracking Extrema over Dynamic Environments using Self-Regulatory Swarms
+Self-Regulated Artificial Ant Colonies on Digital Image Habitats
+Improving the CSIEC Project and Adapting It to the English Teaching and Learning in China
+Emergence Explained
+Building Scenarios for Environmental Management and Planning: An IT-Based Approach
+Reasoning About Knowledge of Unawareness
+If a tree casts a shadow is it telling the time?
+Open at the Top Open at the Bottom and Continually (but Slowly) Evolving
+Complex Systems Systems Engineering  Complex Systems Engineeri
+Naming Games in Spatially-Embedded Random Networks
+The emergence of knowledge exchange: an agent-based model of a software market
+Modeling and Mathematical Analysis of Swarms of Microscopic Robots
+Analysis of Dynamic Task Allocation in Multi-Robot Systems
+On the Design of Agent-Based Systems using UML and Extensions
+A framework of reusable structures for mobile agent development
+Mobile Agent Based Solutions for Knowledge Assessment in elearning Environments
+Curve Shortening and the Rendezvous Problem for Mobile Autonomous Robots
+An Internet-enabled technology to support Evolutionary Design
+Stable partitions in coalitional games
+Self-Replication and Self-Assembly for Manufacturing
+Primitive operations for the construction and reorganization of minimally persistent formations
+A Richer Understanding of the Complexity of Election Systems
+Rule-based Knowledge Representation for Service Level Agreement
+Characterizing Solution Concepts in Games Using Knowledge-Based Programs
+CHAC. A MOACO Algorithm for Computation of Bi-Criteria Military Unit Path in the Battlefield
+Community Detection in Complex Networks Using Agents
+ECA-RuleML: An Approach combining ECA Rules with temporal interval-based KR Event Action Logics and Transactional Update Logics
+Distributed Control of Microscopic Robots in Biomedical Applications
+Artificiality in Social Sciences
+Observable Graphs
+On Approximating Optimal Weighted Lobbying and Frequency of Correctness versus Average-Case Polynomial Time
+Computing Good Nash Equilibria in Graphical Games
+Novelty and Social Search in the World Wide Web
+Semantics and Conversations for an Agent Communication Language
+Document Archiving Replication and Migration Container for Mobile Web Users
+Learning Nested Agent Models in an Information Economy
+Anytime Coalition Structure Generation with Worst Case Guarantees
+An Adaptive Agent Oriented Software Architecture
+A Discipline of Evolutionary Programming
+Resource Discovery in Trilogy
+SIMMUNE a tool for simulating and analyzing immune system behavior
+Collective Choice Theory in Collaborative Computing
+General Principles of Learning-Based Multi-Agent Systems
+An Introduction to Collective Intelligence
+Adaptivity in Agent-Based Routing for Data Networks
+Avoiding Braess' Paradox through Collective Intelligence
+Method of Additional Structures on the Objects of a Monoidal Kleisli Category as a Background for Information Transformers Theory
+Classification of Finite Dynamical Systems
+Characterizations of scoring methods for preference aggregation
+From Incomplete Preferences to Ranking via Optimization
+A Spin Glass Model of Human Logic Systems
+Self-organizing Traffic Control: First Results
+Spontaneous Emergence of Complex Optimal Networks through Evolutionary Adaptation
+Detecting synchronization in spatially extended discrete systems by complexity measurements
+Self-Organizing Traffic Lights
+Metamimetic Games : Modeling Metadynamics in Social Cognition
+Modeling Endogenous Social Networks: the Example of Emergence and Stability of Cooperation without Refusal
+Three Logistic Models for the Ecological and Economic Interactions: Symbiosis Predator-Prey and Competition
+Statistical User Model for the Internet Access
+Sharp transition towards shared vocabularies in multi-agent systems
+Topology Induced Coarsening in Language Games
+Modeling Epidemic Spread in Synthetic Populations - Virtual Plagues in Massively Multiplayer Online Games
+Multi-Agent Modeling Using Intelligent Agents in the Game of Lerpa
+Guarantees for the Success Frequency of an Algorithm for Finding Dodgson-Election Winners
+Autonomy with regard to an Attribute
+Geographic Gossip on Geometric Random Graphs via Affine Combinations
+Distributed Decision Through Self-Synchronizing Sensor Networks in the Presence of Propagation Delays and Nonreciprocal Channels
+Moderate Growth Time Series for Dynamic Combinatorics Modelisation
+Multi-agent systems Equiprobability Gamma distributions and other Geometrical questions
+On Real-Time Communication Systems with Noisy Feedback
+Power Efficient Scheduling under Delay Constraints over Multi-user Wireless Channels
+Rigidity and persistence for ensuring shape maintenance of multiagent meta formations (ext'd version)
+Non-equilibrium phase transition in negotiation dynamics
+Copeland Voting Fully Resists Constructive Control
+Nonuniform Bribery
+Computational Chemotaxis in Ants and Bacteria over Dynamic Environments
+Automata-based adaptive behavior for economic modeling using game theory
+Les Agents comme des interpr 'eteurs Scheme : Sp 'ecification dynamique par la communication
+On the Complexity of Nash Equilibria of Action-Graph Games
+A Study On Distributed Model Predictive Consensus
+Computational Solutions for Today's Navy
+Shallow Models for Non-Iterative Modal Logics
+Prediction and Mitigation of Crush Conditions in Emergency Evacuations
+AGNOSCO - Identification of Infected Nodes with artificial Ant Colonies
+SANA - Network Protection through artificial Immunity
+SANA - Security Analysis in Internet Traffic through Artificial Immune Systems
+Swarm-Based Spatial Sorting
+Distributed Self Management for Distributed Security Systems
+Next Challenges in Bringing Artificial Immune Systems to Production in Network Security
+A Network Protection Framework through Artificial Immunity
+Steganographic Routing in Multi Agent System Environment
+Development of Hybrid Intelligent Systems and their Applications from Engineering Systems to Complex Systems
+Frequency of Correctness versus Average-Case Polynomial Time and Generalized Juntas
+Cooperation with Complement is Better
+Cultural route to the emergence of linguistic categories
+In-depth analysis of the Naming Game dynamics: the homogeneous mixing case
+The F.A.S.T.-Model
+Logic Engines as Interactors
+Personal Semantic Web Through A Space Based Computing Environment
+How Hard Is Bribery in Elections?
+Fame Emerges as a Result of Small Memory
+Coexistence of Social Norms based on In- and Out-group Interactions
+Distributed Consensus Algorithms in Sensor Networks: Link Failures and Channel Noise
+Tableau-based decision procedures for logics of strategic ability in multi-agent systems
+Pedestrian Flow at Bottlenecks - Validation and Calibration of Vissim's Social Force Model of Pedestrian Traffic and its Empirical Foundations
+Separability in the Ambient Logic
+TrustMAS: Trusted Communication Platform for Multi-Agent Systems
+Tableau-based decision procedure for the multi-agent epistemic logic with operators of common and distributed knowledge
+ECOLANG - Communications Language for Ecological Simulations Network
+Agent-based Ecological Model Calibration - on the Edge of a New Approach
+Mathematical Tool of Discrete Dynamic Modeling of Complex Systems in Control Loop
+Mathematical and computer tools of discrete dynamic modeling and analysis of complex systems in control loop
+Llull and Copeland Voting Computationally Resist Bribery and Control
+A Computational Study on Emotions and Temperament in Multi-Agent Systems
+Hybrid Elections Broaden Complexity-Theoretic Resistance to Control
+Biology of Applied Digital Ecosystems
+Three New Complexity Results for Resource Allocation Problems
+Social Learning Methods in Board Games
+A Novel Clustering Algorithm Based on a Modified Model of Random Walk
+Conjectural Equilibrium in Water-filling Games
+A computational model of affects
+Going Stupid with EcoLab
+An Economic Model of Coupled Exponential Maps
+A O( log m) deterministic polynomial-time computable approximation of Lewis Carroll's scoring rule
+Parimutuel Betting on Permutations
+On the Expressiveness and Complexity of ATL
+Collaborative model of interaction and Unmanned Vehicle Systems' interface
+Multi Site Coordination using a Multi-Agent System
+Multi-agents architecture for supply chain management
+Multi-Agent Reinforcement Learning and Genetic Policy Sharing
+Emergence of Spontaneous Order Through Neighborhood Formation in Peer-to-Peer Recommender Systems
+Towards a Framework for Observing Artificial Evolutionary Systems
+Simulation of mitochondrial metabolism using multi-agents system
+Complex Agent Networks explaining the HIV epidemic among homosexual men in Amsterdam
+Tableau-based decision procedure for full coalitional multiagent temporal-epistemic logic of linear tim
+Tableau-based procedure for deciding satisfiability in the full coalitional multiagent epistemic logic
+A Systematic Approach to Artificial Agents
+Deaf Dumb and Chatting Robots Enabling Distributed Computation and Fault-Tolerance Among Stigmergic Robot
+Strategies of Voting in Stochastic Environment: Egoism and Collectivism
+On Krause's multi-agent consensus model with state-dependent connectivity (Extended version)
+Object Classification by means of Multi-Feature Concept Learning in a Multi Expert-Agent System
+Coordination in multiagent systems and Laplacian spectra of digraphs
+General Game Management Agent
+Multiagent Learning in Large Anonymous Games
+Positive Logic with Adjoint Modalities: Proof Theory Semantics and Reasoning about Information
+Multi-Agent Crisis Response systems - Design Requirements and Analysis of Current Systems
+A Constructive Generalization of Nash Equilibrium for Better Payoffs and Stability
+An Investigation Report on Auction Mechanism Design
+Why Global Performance is a Poor Metric for Verifying Convergence of Multi-agent Learning
+Towards an Intelligent System for Risk Prevention and Management
+Agent-Based Decision Support System to Prevent and Manage Risk Situations
+Incentive Compatible Budget Elicitation in Multi-unit Auctions
+Collaborative systems and multiagent systems
+Pedestrian Traffic: on the Quickest Path
+Self-stabilizing Determinsitic Gathering
+Information Modeling for a Dynamic Representation of an Emergency Situation
+Sincere-Strategy Preference-Based Approval Voting Fully Resists Constructive Control and Broadly Resists Destructive Control
+Managing Requirement Volatility in an Ontology-Driven Clinical LIMS Using Category Theory. International Journal of Telemedicine and Applications
+A Novel Bid Optimizer for Sponsored Search Auctions based on Cooperative Game Theory
+Degenerate neutrality creates evolvable fitness landscapes
+Agent-Oriented Approach for Detecting and Managing Risks in Emergency Situations
+Strategyproof Approximation Mechanisms for Location on Networks
+On Cyclic and Nearly Cyclic Multiagent Interactions in the Plane
+Self-adaptive web intrusion detection system
+On the Size Complexity of Non-Returning Context-Free PC Grammar Systems
+Cooperative Training for Attribute-Distributed Data: Trade-off Between Data Transmission and Performance
+Collaborative Training in Sensor Networks: A graphical model approach
+A multidimensional approach for context-aware recommendation in mobile commerce
+Multi-Agent Model Predictive Control: A Survey
+Human-Robot Teams in Entertainment and Other Everyday Scenarios
+Distributed Consensus Algorithms in Sensor Networks: Quantized Data and Random Link Failures
+Offloading Cognition onto Cognitive Technology
+Cooperative interface of a swarm of UAVs
+Denial of service attack in the Internet: agent-based intrusion detection and reaction
+Bridging the Gap between Crisis Response Operations and Systems
+From Declarative Languages to Declarative Processing in Computer Games
+Finite-time Consensus for Nonlinear Multi-agent Systems with Fixed Topologies
+Leader-following Consensus Problems with a Time-varying Leader under Measurement Noises
+AWESOME: A General Multiagent Learning Algorithm that Converges in Self-Play and Learns a Best Response Against Stationary Opponents
+How many candidates are needed to make elections hard to manipulate?
+BL-WoLF: A Framework For Loss-Bounded Learnability In ero-Sum Games
+Complexity of Determining Nonemptiness of the Core
+Universal Voting Protocol Tweaks to Make Manipulation Hard
+Learning in Multiagent Systems: An Introduction from a Game-Theoretic Perspective
+A Novel Clustering Algorithm Based on Quantum Games
+Digital Ecosystems
+Computing of Applied Digital Ecosystems
+Bidding for Representative Allocations for Display Advertising
+A Random Dynamical Systems Approach to Filtering in Large-scale Networks
+Towards Participatory Design of Multi-agent Approach to Transport Demands
+A Framework For Intelligent Multi Agent System Based Neural Network Classification Model
+Variance Analysis of Randomized Consensus in Switching Directed Networks
+Congestion games with resource reuse and applications in spectrum sharing
+Collective Intelligence for Control of Distributed Dynamical Systems
+Geometrical derivation of the Boltzmann factor
+Distributed Decision Through Self-Synchronizing Sensor Networks in the Presence of Propagation Delays and Asymmetric Channels
+Pareto and Boltzmann-Gibbs behaviors in a deterministic multi-agent system
+Distributed Consensus over Wireless Sensor Networks Affected by Multipath Fading
+Language structure in the n-object naming game
+An ML-based Multi-Agent System for Supporting Online Recruitment Services
+Multi-Agent System Interaction in Integrated SCM
+Optimal Approximation Algorithms for Multi-agent Combinatorial Problems with Discounted Price Functions
+Simulation of Pedestrians Crossing a Street
+-Learn: An ML-Based Multi-agent System for Supporting User-Device Adaptive E-learning
+Applications of the Dynamic Distance Potential Field Method
+Coordination of Decisions in a Spatial Agent Model
+Improving Search Algorithms by Using Intelligent Coordinates
+Evolution and anti-evolution in a minimal stock market model
+A network analysis of committees in the United States House of Representatives
+Modeling bursts and heavy tails in human dynamics
+Community Structure in the United States House of Representatives
+Online-offline activities and game-playing behaviors of avatars in a massive multiplayer online role-playing game
+An iterative approach for generating statistically realistic populations of households
+A Formal Framework for Mobile Robot Patrolling in Arbitrary Environments with Adversaries
+Enhancing Multi-Agent Based Simulation with Human-Agents Interactive Spatial Behaviour
+Multi-Agent Model using Secure Multi-Party Computing in e-Governance
+Consensus Dynamics in a non-deterministic Naming Game with Shared Memory
+Local and Global Trust Based on the Concept of Promises
+The use of dynamic distance potential fields for pedestrian flow around corners
+Computation Speed of the F.A.S.T. Model
+Developing Artificial Herders Using Jason
+Optimal Reverse Carpooling Over Wireless Networks - A Distributed Optimization Approach
+Distributed Control of the Laplacian Spectral Moments of a Network
+A Formal Framework of Virtual Organisations as Agent Societies
+Structure and Behaviour of Virtual Organisation Breeding Environments
+A Framework to Manage the Complex Organisation of Collaborating: Its Application to Autonomous Systems
+Optimization and Analysis of Distributed Averaging with Short Node Memory
+An Agent-Based Modeling for Pandemic Influenza in Egypt
+Moment-Based Analysis of Synchronization in Small-World Networks of Oscillators
+Spectral Analysis of Virus Spreading in Random Geometric Networks
+A Grey-Box Approach to Automated Mechanism Design
+The Hot Potato Case: Challenges in Multiplayer Pervasive Games Based on Ad hoc Mobile Sensor Networks and the Experimental Evaluation of a Prototype Game
+Reverse Engineering Financial Markets with Majority and Minority Games using Genetic Algorithms
+The Potluck Problem
+Multi-agent Coordination in Directed Moving Neighborhood Random Networks
+When group level is different from the population level: an adaptive network with the Deffuant model
+A Hybrid System based on Multi-Agent System in the Data Preprocessing Stage
+Reconfigurable Parallel Data Flow Architecture
+Strategic Cooperation in Cost Sharing Games
+What's in a Session: Tracking Individual Behavior on the Web
+Remembering what we like: Toward an agent-based model of Web traffic
+Modelling and Verification of Multiple UAV Mission Using SMV
+Agent Based Approaches to Engineering Autonomous Space Software
+GRASP for the Coalition Structure Formation Problem
+On Asymptotic Consensus Value in Directed Random Networks
+Artificial Immune Systems Metaphor for Agent Based Modeling of Crisis Response Operations
+Improving Supply Chain Coordination by Linking Dynamic Procurement Decision to Multi-Agent System
+Crowd simulation influenced by agent's socio-psychological state
+Fairness in Combinatorial Auctioning Systems
+Bucklin Voting is Broadly Resistant to Control
+Facial Recognition Technology: An analysis with scope in India
+Fairness in Combinatorial Auctions
+A Formal Specification of Dynamic Protocols for Open Agent Systems
+On graph theoretic results underlying the analysis of consensus in multi-agent systems
+The Shield that Never Was: Societies with Single-Peaked Preferences are More Open to Manipulation and Control
+Which Digraphs with Ring Structure are Essentially Cyclic?
+Separating Agent-Functioning and Inter-Agent Coordination by Activated Modules: The DECOMAS Architecture
+A Semi-distributed Reputation Based Intrusion Detection System for Mobile Adhoc Networks
+Design specifications of the Human Robotic interface for the biomimetic underwater robot yellow submarine project
+Using Intelligent Agents to understand organisational behaviour
+Using Intelligent Agents to Understand Management Practices and Retail Productivity
+An Agent-Based Simulation of In-Store Customer Experiences
+Artificial Immune Systems Tutorial
+Artificial Dendritic Cells: Multi-faceted Perspectives
+Modeling the emergence of universality in color naming patterns
+An Agent Based Classification Model
+Comparing Simulation Output Accuracy of Discrete Event and Agent Based Models: A Quantitive Approach
+Multi-Agent Simulation and Management Practices
+Simulating Customer Experience and Word Of Mouth in Retail - A Case Study
+Investigating Output Accuracy for a Discrete Event Simulation Model and an Agent Based Simulation Model
+Development of a Cargo Screening Process Simulator: A First Approach
+Modelling Reactive and Proactive Behaviour in Simulation
+Towards the Development of a Simulator for Investigating the Impact of People Management Practices on Retail Performance
+Artificial Immune Systems (2)
+Soft Control on Collective Behavior of a Group of Autonomous Agents by a Shill Agent
+Multimode Control Attacks on Elections
+A Hybrid Model for Disease Spread and an Application to the SARS Pandemic
+Computational approach to the emergence and evolution of language - evolutionary naming game model
+Network Synchronization in a Noisy Environment with Time Delays: Fundamental Limits and Trade-Offs
+Model-Checking an Alternating-time Temporal Logic with Knowledge Imperfect Information Perfect Recall and Communicating Coalitions
+Intervention Mechanism Design for Networks With Selfish Users
+Timing matters: Lessons From The CA Literature On Updating
+The Naming Game in Social Networks: Community Formation and Consensus Engineering
+An early warning method for crush
+Proceedings First Workshop on Applications of Membrane computing Concurrency and Agent-based modelling in POPulation biology
+An Individual-based Probabilistic Model for Fish Stock Simulation
+Modelling of Multi-Agent Systems: Experiences with Membrane Computing and Future Challenges
+Noise in Naming Games partial synchronization and community detection in social networks
+Efficient Collaborative Application Monitoring Scheme for Mobile Networks
+Efficient delay-tolerant particle filtering
+A Novel Approach for Cardiac Disease Prediction and Classification Using Intelligent Agents
+A Mathematical Framework for Agent Based Models of Complex Biological Networks
+Comments on Consensus and Cooperation in Networked Multi-Agent Systems
+Spectral Control of Mobile Robot Networks
+Multi-Agent Programming Contest 2 - The Jason-DTU Team
+Implementing Lego Agents Using Jason
+An Investigation of the Advantages of Organization-Centered Multi-Agent Systems
+Selfish Response to Epidemic Propagation
+Blocking Underhand Attacks by Hidden Coalitions (Extended Version)
+On the Stability of Swarm Consensus Under Noisy Control
+Proceedings Third Interaction and Concurrency Experience: Guaranteed Interaction
+Norms and Commitment for iOrgs(TM) Information Systems: Direct Logic(TM) and Participatory Grounding Checking
+Analysing the behaviour of robot teams through relational sequential pattern mining
+Decidability Classes for Mobile Agents Computing
+The Inverse Task of the Reflexive Game Theory: Theoretical Matters Practical Applications and Relationship with Other Issues
+Static and Expanding Grid Coverage with Ant Robots : Complexity Results
+Visibility maintenance via controlled invariance for leader-follower Dubins-like vehicles
+The Total s-Energy of a Multiagent System
+An Agent-Based Model of Collective Emotions in Online Communities
+Multi-Agent Deployment for Visibility Coverage in Polygonal Environments with Holes
+Inner Product Spaces for MinSum Coordination Mechanisms
+Handling Confidential Data on the Untrusted Cloud: An Agent-based Approach
+Considerate Equilibrium
+The Rule Responder eScience Infrastructure
+An Experimental Approach for Optimising Mobile Agent Migrations
+Comparison of Various Methods for the Calculation of the Distance Potential Field
+Counterflow Extension for the F.A.S.T.-Model
+Synchronized Task Decomposition for Cooperative Multi-agent Systems
+From Local Measurements to Network Spectral Properties: Beyond Degree Distributions
+Emotionally Colorful Reflexive Games
+Decentralized Formation Control Part I: Geometric Aspects
+Decentralized Formation Control Part II: Algebraic aspects of information flow and singularities
+Parallelization Strategies for Ant Colony Optimisation on GPUs
+Simulating Opinion Dynamics in Heterogeneous Communication
+Parameter Optimization of Multi-Agent Formations based on LQR Design
+The Computing of Digital Ecosystems
+Multi-Vehicle Cooperative Control Using Mixed Integer Linear Programming
+Aging in language dynamics
+Active Markov Information-Theoretic Path Planning for Robotic Environmental Sensing
+Efficient Bayesian Social Learning on Trees
+Graph Coalition Structure Generation
+Knowledge Management System Design using Extended Gaia
+Model-checking ATL under Imperfect Information and Perfect Recall Semantics is Undecidable
+Asymptotic Properties of One-Bit Distributed Detection with Ordered Transmissions
+Role of feedback and broadcasting in the naming game
+Fault-tolerant Cooperative Tasking for Multi-agent Systems
+Convergence to consensus in multiagent systems and the lengths of inter-communication intervals
+Reasoning about Social Choice Functions
+Context Aware Multisensor Image Fusion for Military Sensor Networks using Multi Agent System
+An Agent-based Architecture for a Knowledge-work Support System
+Subexponential convergence for information aggregation on regular trees
+Distributed Self-Organization Of Swarms To Find Globally epsilon -Optimal Routes To Locally Sensed Targets
+Tight Bounds for Black Hole Search with Scattered Agents in Synchronous Rings
+Analysis of Collectivism and Egoism Phenomena within the Context of Social Welfare
+An FPTAS for Bargaining Networks with Unequal Bargaining Powers
+Exponential wealth distribution in a random market. A rigorous explanation
+A Generalized Continuous Model for Random Markets
+Parallel and Distributed Simulation: Five W's (and One H)
+Complex Adaptive Digital EcoSystems
+Analytical Expression of the Expected Values of Capital at Voting in the Stochastic Environment
+Decentralized Markets versus Central Control: A Comparative Study
+Robust Agent Teams via Socially-Attentive Monitoring
+Optimal Sensor Configurations for Rectangular Target Dectection
+Eliciting Forecasts from Self-interested Experts: Scoring Rules for Decision Makers
+Learning Equilibria with Partial Information in Decentralized Wireless Networks
+Communicate only when necessary: Cooperative tasking for multi-agent systems
+Interactive Execution Monitoring of Agent Teams
+Dominating Manipulations in Voting with Partial Information
+Existence of Multiagent Equilibria with Limited Agents
+An Agent-based Strategy for Deploying Analysis Models into Specification and Design for Distributed APS Systems
+From decision to action : intentionality a guide for the specification of intelligent agents' behaviour
+Real-time retrieval for case-based reasoning in interactive multiagent-based simulations
+Performance and Convergence of Multi-user Online Learning
+Strategies for fast convergence in semiotic dynamics
+Human Heuristics for Autonomous Agents
+Symmetry in behavior of complex social systems - discussion of models of crowd evacuation organized in agreement with symmetry conditions
+Chance-constrained Model Predictive Control for Multi-Agent Systems
+Autonomous Traffic Control System Using Agent Based Technology
+Public Announcement Logic in Geometric Frameworks
+Co-evolution of Content Popularity and Delivery in Mobile P2P Networks
+Hybrid -D Formation Control for Unmanned Helicopters
+A Multiagent Simulation for Traffic Flow Management with Evolutionary Optimization
+Model of skyscraper evacuation with the use of space symmetry and fluid dynamic approximation
+Voting in a Stochastic Environment: The Case of Two Groups
+Application of distributed constraint satisfaction problem to the agent-based planning in manufacturing systems
+Multi Agent Communication System for Online Auction with Decision Support System by JADE and TRACE
+A Real-time Localization System Using RFID for Visually Impaired
+Extremal Behaviour in Multiagent Contract Negotiation
+Hybrid BDI-POMDP Framework for Multiagent Teaming
+A Framework for Sequential Planning in Multi-Agent Settings
+Agent-Based Modeling of Intracellular Transport
+Cooperative Information Sharing to Improve Distributed Learning in Multi-Agent Systems
+Negotiating Socially Optimal Allocations of Resources
+Distributed Air Traffic Control : A Human Safety Perspective
+Multi-Agent Programming Contest 2 - The Python-DTU Team
+Multi-Issue Negotiation with Deadlines
+The Strategy-Proofness Landscape of Merging
+Resource Allocation Among Agents with MDP-Induced Preferences
+A Dynamic Framework of Reputation Systems for an Agent Mediated e-market
+Swarmrobot.org - Open-hardware Microrobotic Project for Large-scale Artificial Swarms
+The Cubical Homology of Trace Monoids
+Preference fusion when the number of alternatives exceeds two: indirect scoring procedures
+FIPA-based Interoperable Agent Mobility Proposal
+A mathematical formalism for agent-based modeling
+Agents Bookmarks and Clicks: A topical model of Web traffic
+A simulation of the Neolithic transition in Western Eurasia
+Machine Learning Markets
+A distributed optimization-based approach for hierarchical model predictive control of large-scale systems with coupled dynamics and constraints
+Cancer Networks: A general theoretical and computational framework for understanding cancer
+On the Formal Semantics of Speech-Act Based Communication in an Agent-Oriented Programming Language
+The Homology Groups of a Partial Trace Monoid Action
+A Survey on Open Problems for Mobile Robots
+Networked estimation under information constraints
+Agent Development Toolkits
+Autonomic Management for Multi-agent Systems
+A dynamical model of a GRID market
+Semantic results for ontic and epistemic change
+Asynchronous Distributed Searchlight Scheduling
+Avoiding bias in cards cryptography
+Why the Maxwellian Distribution is the Attractive Fixed Point of the Boltzmann Equation
+Bargaining dynamics in exchange networks
+Fuzzy Consensus and Synchronization: Theory and Application to Critical Infrastructure Protection Problems
+Stability of Evolving Multi-Agent Systems
+Digital Ecosystems: Ecosystem-Oriented Architectures
+Mesoscopic approach to minority games in herd regime
+Connectivity and Set Tracking of Multi-agent Systems Guided by Multiple Moving Leaders
+Adaptive Forgetting Factor Fictitious Play
+Universal Reconfiguration of (Hyper-)cubic Robots
+Consensus in networks of mobile communicating agents
+Multi-sensor Information Processing using Prediction Market-based Belief Aggregation
+A Dynamic Model for Sharing Reputation of Sellers among Buyers for Enhancing Trust in Agent Mediated e-market
+Modelling and simulation of complex systems: an approach based on multi-level agents
+Agent-Based mu -Tools Integrated into a Co-Design Platform
+Voting Power : A Generalised Framework
+The Cooperative Cleaners Problem in Stochastic Dynamic Environments
+Multi-agent Robust Consensus: Convergence Analysis and Application
+The Projection Method for Reaching Consensus and the Regularized Power Limit of a Stochastic Matrix
+A Cyclic Representation of Discrete Coordination Procedures
+Learning RoboCup-Keepaway with Kernels
+Modification of the Elite Ant System in Order to Avoid Local Optimum Points in the Traveling Salesman Problem
+An Intelligent Mobile-Agent Based Scalable Network Management Architecture for Large-Scale Enterprise System
+Decentralized Multi-agent Plan Repair in Dynamic Environments
+Modeling Internet-Scale Policies for Cleaning up Malware
+Deterministic Leader Election Among Disoriented Anonymous Sensors
+A Cryptographic Moving-Knife Cake-Cutting Protocol
+Rich Counter-Examples for Temporal-Epistemic Logic Model Checking
+Leader Election Problem Versus Pattern Formation Problem
+Self-organizing urban transportation systems
+Randomized Optimal Consensus of Multi-agent Systems
+Robustness of Information Diffusion Algorithms to Locally Bounded Adversaries
+Reaching an Optimal Consensus: Dynamical Systems that Compute Intersections of Convex Sets
+The Role of Persistent Graphs in the Agreement Seeking of Social Networks
+A study of distributed QoS adapter in large-scale wireless networks
+Search versus Decision for Election Manipulation Problems
+Controlling Candidate-Sequential Elections
+Online Voter Control in Sequential Elections
+Modelling Social Structures and Hierarchies in Language Evolution
+Establishing linguistic conventions in task-oriented primeval dialogue
+Agent-time Epistemics and Coordination
+Graph-Theoretic Characterizations of Structural Controllability for Multi-Agent System with Switching Topology
+A Multi-Agent Prediction Market based on Partially Observable Stochastic Game
+Complexity of Terminating Preference Elicitation
+Dealing with incomplete agents' preferences and an uncertain agenda in group decision making via sequential majority voting
+Manipulating Tournaments in Cup and Round Robin Competitions
+Manipulability of Single Transferable Vote
+Contribution Games in Social Networks
+An Empirical Study of the Manipulability of Single Transferable Voting
+Where are the hard manipulation problems?
+Stable marriage problems with quantitative preferences
+Online Cake Cutting (published version)
+A georeferenced Agent-Based Model to analyze the climate change impacts on the Andorra winter tourism
+Distributed Multi-view Matching in Networks with Limited Communications
+A note on anti-coordination and social interactions
+Organizing the Aggregate: Languages for Spatial Computing
+Multi-level agent-based modeling with the Influence Reaction principle
+A new approach of designing Multi-Agent Systems
+No big deal: introducing roles to reduce the size of ATL models
+An existing ecologically-successful genus of collectively intelligent artificial creatures
+Coupling Clinical Decision Support System with Computerized Prescriber Order Entry and their Dynamic Plugging in the Medical Workflow System
+Friendship Altruism and Reward Sharing in Stable Matching and Contribution Games
+Proceedings Third Workshop on Formal Aspects of Virtual Organisations
+Multi-model-based Access Control in Construction Projects
+Towards a Formal Model of Privacy-Sensitive Dynamic Coalitions
+A structured approach to VO reconfigurations through Policies
+Distributed Parameter Estimation in Sensor Networks: Nonlinear Observation Models and Imperfect Communication
+Malthusian assumptions Boserupian response in models of the transitions to agriculture
+A simulation of the Neolithic transition in the Indus valley
+Modelling the emergence of spatial patterns of economic activity
+Modelling spatial patterns of economic activity in the Netherlands
+Ring Exploration with Oblivious Myopic Robots
+Chebyshev Polynomials in Distributed Consensus Applications
+Engineering hierarchical complex systems: an agent-based approach. The case of flexible manufacturing systems
+Timely Coordination in a Multi-Agent System
+Learning When to Take Advice: A Statistical Test for Achieving A Correlated Equilibrium
+A distributed classification estimation algorithm for sensor networks
+Cooperative localization using angle of arrival measurements: sequential algorithms and non-line-of-sight suppression
+Ant Robotics: Covering Continuous Domains by Multi-A(ge)nt Systems
+MAINWAVE: Multi Agents and Issues Negotiation for Web using Alliance Virtual Engine
+Decentralized Data Fusion and Active Sensing with Mobile Sensors for Modeling and Predicting Spatiotemporal Traffic Phenomena
+The Complexity of Manipulative Attacks in Nearly Single-Peaked Electorates
+Truthfulness Proportional Fairness and Efficiency
+The Dynamics of Influence Systems
+Stochastic Optimal Control in Continuous Space-Time Multi-Agent Systems
+MITRA: A Meta-Model for Information Flow in Trust and Reputation Architectures
+Counter-Factual Reinforcement Learning: How to Model Decision-Makers That Anticipate The Future
+Automated Verification of Quantum Protocols using MCMAS
+NAAS: Negotiation Automation Architecture with Buyer's Behavior Pattern Prediction Component
+Genetic agent approach for improving on-the-fly web map generalization
+Designing Information Revelation and Intervention with an Application to Flow Control
+Multi-parameter models of innovation diffusion on complex networks
+Social Information Processing in Social News Aggregation
+Cooperative Tasking for Deterministic Specification Automata
+Control Complexity in Bucklin and Fallback Voting
+Understanding the Social Cascading of Geekspeak and the Upshots for Social Cognitive Systems
+Control Complexity in Bucklin Fallback and Plurality Voting: An Experimental Approach
+Directed Random Markets: Connectivity determines Money
+Mechanism Design for Time Critical and Cost Critical Task Execution via Crowdsourcing
+Distributed Pareto Optimization via Diffusion Strategies
+How Agreement and Disagreement Evolve over Random Dynamic Networks
+Spectral Design of Dynamic Networks via Local Operations
+Epistemic Temporal Logic for Information Flow Security
+A Novel Service Oriented Model for Query Identification and Solution Development using Semantic Web and Multi Agent System
+Spread of Influence and Content in Mobile Opportunistic Networks
+Optimizing Supply Chain Management using Gravitational Search Algorithm and Multi Agent System
+Characterizing Successful Formulas: the Multi-agent Case
+Blackboard Rules for Coordinating Context-aware Applications in Mobile Ad Hoc Networks
+Challenges and Directions for Engineering Multi-agent Systems
+Parametric Constructive Kripke-Semantics for Standard Multi-Agent Belief and Knowledge (Knowledge As Unbiased Belief)
+Modeling and Verification of a Multi-Agent Argumentation System using NuSMV
+Reliability of swarming algorithms for mobile sensor network applications
+Discrete Opinion models as a limit case of the CODA model
+The Complexity of Online Manipulation of Sequential Elections
+QD -Learning: A Collaborative Distributed Strategy for Multi-Agent Reinforcement Learning Through Consensus Innovations
+Safe and Stabilizing Distributed Multi-Path Cellular Flows
+Decision-Theoretic Coordination and Control for Active Multi-Camera Surveillance in Uncertain Partially Observable Environments
+Multi-Agent Programming Contest 22 - The Python-DTU Team
+Modelling Implicit Communication in Multi-Agent Systems with Hybrid Input Output Automata
+Robust Analog Function Computation via Wireless Multiple-Access Channels
+Stochastic Surveillance Strategies for Spatial Quickest Detection
+Distributed Formation of Balanced and Bistochastic Weighted Diagraphs in Multi-Agent Systems
+A Rule-based Model of a Hypothetical ombie Outbreak: Insights on the role of emotional factors during behavioral adaptation of an artificial population
+Submodularity and Optimality of Fusion Rules in Balanced Binary Relay Trees
+Mean-Field Learning: a Survey
+Uncertain Congestion Games with Assorted Human Agent Populations
+Toward Large-Scale Agent Guidance in an Urban Taxi Service
+Scaling Up Decentralized MDPs Through Heuristic Search
+Incentive Decision Processes
+Semi-Definite Programming Relaxation for Non-Line-of-Sight Localization
+Stuck in Traffic (SiT) Attacks: A Framework for Identifying Stealthy Attacks that Cause Traffic Congestion
+Mod 'elisation multi-niveaux dans AAMM
+A Structured Systems Approach for Optimal Actuator-Sensor Placement in Linear Time-Invariant Systems
+Sensor networks security based on sensitive robots agents. A conceptual model
+Study on the Availability Prediction of the Reconfigurable Networked Software System
+A Bayesian Framework for Opinion Updates
+On the sensitivity of the simulated European Neolithic transition to climate extremes
+Discrete modelling of bacterial conjugation dynamics
+Random Utility Theory for Social Choice
+Quantum Consciousness Soccer Simulator
+Gliders22: Development and Competition Results
+Interaction-Oriented Software Engineering: Concepts and Principles
+Rendezvous of two robots with visible bits
+Distributed team formation in multi-agent systems: stability and approximation
+Network Coordination and Synchronization in a Noisy Environment with Time Delays
+Emergence of Self-Organized Amoeboid Movement in a Multi-Agent Approximation of Physarum polycephalum
+Strategy-Proof Prediction Markets
+A Game-Theoretic Model Motivated by the DARPA Network Challenge
+Fully Proportional Representation as Resource Allocation: Approximability Results
+Hybrid Behaviour of Markov Population Models
+Design of Intelligent Agents Based System for Commodity Market Simulation with JADE
+MANCaLog: A Logic for Multi-Attribute Network Cascades (Technical Report)
+Algebraic Semantics of Similarity-Based Bitten Rough Set Theory
+The forest consensus theorem
+Verification of Agent-Based Artifact Systems
+Multi-agent learning using Fictitious Play and Extended Kalman Filter
+Achieving Fully Proportional Representation is Easy in Practice
+Sensor Scheduling for Energy-Efficient Target Tracking in Sensor Networks
+Fashion Cooperation and Social Interactions
+Logic of Non-Monotonic Interactive Proofs (Formal Theory of Temporary Knowledge Transfer)
+Average Consensus in the Presence of Delays and Dynamically Changing Directed Graph Topologies
+A multi-lane traffic simulation model via continuous cellular automata
+Multi-Robot Informative Path Planning for Active Sensing of Environmental Phenomena: A Tale of Two Algorithms
+A distributed accelerated gradient algorithm for distributed model predictive control of a hydro power valley
+Multi-agent RRT : Sampling-based Cooperative Pathfinding (Extended Abstract)
+The Biological Origin of Linguistic Diversity
+Learning Conventions in Multiagent Stochastic Domains using Likelihood Estimates
+A theoretical framework for conducting multi-level studies of complex social systems with agent-based models and empirical data
+An event-based model for contracts
+Models of Consensus for Multiple Agent Systems
+Time Scales in Probabilistic Models of Wireless Sensor Networks
+Proceedings st International Workshop on Strategic Reasoning
+How to Be Both Rich and Happy: Combining Quantitative and Qualitative Strategic Reasoning about Multi-Player Games (Extended Abstract)
+Strategic Analysis of Trust Models for User-Centric Networks
+Concurrent Game Structures with Roles
+Reasoning about Strategies under Partial Observability and Fairness Constraints
+Reducing Validity in Epistemic ATL to Validity in Epistemic CTL
+A Cooperative Q-learning Approach for Real-time Power Allocation in Femtocell Networks
+Towards a serious games evacuation simulator
+Using Serious Games to Train Evacuation Behaviour
+Crowd Simulation Modeling Applied to Emergency and Evacuation Simulations using Multi-Agent Systems
+NetLogo Implementation of an Evacuation Scenario
+Agent-based modelling of social organisations
+Modelling and analysing relations between entities using the multi-agents and social network approaches
+Decentralized Eigenvalue Algorithms for Distributed Signal Detection in Cognitive Networks
+Convergence of type-symmetric and cut-balanced consensus seeking systems (extended version)
+Optimal Coalition Structures in Cooperative Graph Games
+Coherence in Large-Scale Networks: Dimension-Dependent Limitations of Local Feedback
+Optimal Control of Vehicular Formations with Nearest Neighbor Interactions
+A Consensual Linear Opinion Pool
+Relay Selection for OFDM Wireless Systems under Asymmetric Information: A Contract-Theory Based Approach
+A tournament of order 2 with two disjoint TEQ-retentive sets
+Agent-based environment for knowledge integration
+Evaluating Reputation Systems for Agent Mediated e-Commerce
+Information and Multi-Sensor Coordination
+Coordinating metaheuristic agents with swarm intelligence
+Interactive POMDP Lite: Towards Practical Planning to Predict and Exploit Intentions for Interacting with Self-Interested Agents
+Designing Electronic Markets for Defeasible-based Contractual Agents
+Satisfiability and Canonisation of Timely Constraints
+A Social Welfare Optimal Sequential Allocation Procedure
+Assessment of Path Reservation in Distributed Real-Time Vehicle Guidance
+Introduction to Multi-Agent Simulation
+Modelling and simulating retail management practices: a first approach
+Diffusion Adaptation over Networks
+Lending Petri nets and contracts
+Distributed stochastic optimization via correlated scheduling
+Regret Minimization in Non-ero-Sum Games with Applications to Building Champion Multiplayer Computer Poker Agents
+Weighted Electoral Control
+Fast Collision Checking: From Single Robots to Multi-Robot Teams
+Disappointment in Social Choice Protocols
+Running Consensus for Decentralized Detection
+Formation control with pole placement for multi-agent systems
+Online Leader Selection for Multi-Agent Collective Tracking and Formation Maintenance
+Agent Based Intelligent Alert System for Smart-Phones
+Information-Theoretic Approach to Efficient Adaptive Path Planning for Mobile Robotic Environmental Sensing
+Gaussian Process-Based Decentralized Data Fusion and Active Sensing for Mobility-on-Demand System
+New Results on Equilibria in Strategic Candidacy
+Rendezvous of Two Robots with Constant Memory
+A variant of the multi-agent rendezvous problem
+Dynamics of Boltzmann Q-Learning in Two-Player Two-Action Games
+Solving Weighted Voting Game Design Problems Optimally: Representations Synthesis and Enumeration
+Measurements of collective machine intelligence
+The effectiveness of altruistic lobbying: A model study
+Recursive Bayesian Initialization of Localization Based on Ranging and Dead Reckoning
+The Complexity of Fully Proportional Representation for Single-Crossing Electorates
+Systems Dynamics or Agent-Based Modelling for Immune Simulation?
+Variance in System Dynamics and Agent Based Modelling Using the SIR Model of Infectious Disease
+Modularity and Openness in Modeling Multi-Agent Systems
+Satisfiability of ATL with strategy contexts
+Avoiding Whitewashing in Unstructured Peer-to-Peer Resource Sharing Network
+Decentralized Multi-Robot Target Encirclement in D Space
+Modeling Cultural Dynamics
+An Agent-based Simulation of the Effectiveness of Creative Leadership
+Towards an intelligence based conceptual framework for e-maintenance
+Graph diameter eigenvalues and minimum-time consensus
+Artificial Ant Species on Solving Optimization Problems
+Control in the Presence of Manipulators: Cooperative and Competitive Cases
+Coevolutionary networks of reinforcement-learning agents
+Can Agent Intelligence be used to Achieve Fault Tolerant Parallel Computing Systems?
+Communication Network Design: Balancing Modularity and Mixing via Optimal Graph Spectra
+History Based Coalition Formation in Hedonic Context Using Trust
+Alert-BDI: BDI Model with Adaptive Alertness through Situational Awareness
+Decentralized Online Big Data Classification - a Bandit Framework
+How Did Humans Become So Creative? A Computational Approach
+World Automata: a compositional approach to model implicit communication in hierarchical Hybrid Systems
+Optimal strategies in the average consensus problem
+An Intelligent System to Detect Avoid and Maintain Potholes: A Graph Theoretic Approach
+Opinion dynamics under opposition
+Randomized Consensus with Attractive and Repulsive Links
+(Failure of the) Wisdom of the crowds in an endogenous opinion dynamics model with multiply biased agents
+The Random Bit Complexity of Mobile Robots Scattering
+In-network Sparsity-regularized Rank Minimization: Algorithms and Applications
+Dynamic Network Cartography
+Inducing Honest Reporting Without Observing Outcomes: An Application to the Peer-Review Process
+Meme and Variations: A Computer Model of Cultural Evolution
+Optimal Routing and Scheduling of Charge for Electric Vehicles: Case Study
+Practical Verification of Decision-Making in Agent-Based Autonomous Systems
+An Agent-based Model of the Cognitive Mechanisms Underlying the Origins of Creative Cultural Evolution
+Cucker-Smale flocking with alternating leaders
+Society Functions Best with an Intermediate Level of Creativity
+Cultural Evolution as Distributed Computation
+Utility-based Decision-making in Distributed Systems Modelling
+A Hierarchical Dynamic Programming Algorithm for Optimal Coalition Structure Generation
+IRMMLS: the influence reaction model for multi-level simulation
+Multi-level agent-based modeling - A literature survey
+Towards an Integrated Approach to Crowd Analysis and Crowd Synthesis: a Case Study and First Results
+Cooperative localization by dual foot-mounted inertial sensors and inter-agent ranging
+Modelling Complexity for Policy: Opportunities and Challenges
+Diffusion LMS for clustered multitask networks
+A Message Passing Strategy for Decentralized Connectivity Maintenance in Agent Removal
+Observation of large-scale multi-agent based simulations
+Ants: Mobile Finite State Machines
+Evolutionary perspectives on collective decision making: Studying the implications of diversity and social network structure with agent-based simulations
+A message-passing algorithm for multi-agent trajectory planning
+Multitask Diffusion Adaptation over Networks
+A Methodology to Engineer and Validate Dynamic Multi-level Multi-agent Based Simulations
+Agent Approach in Support of Enterprise Application Integration
+Intelligent Agent for Prediction in E- Negotiation: An Approach
+Agent Based Negotiation using Cloud - an Approach in E-Commerce
+Multi-agent based protection system for distribution system with DG
+Systems Theoretic Techniques for Modeling Control and Decision Support in Complex Dynamic Systems
+On the genericity properties in networked estimation: Topology design and sensor placement
+Engineering Cooperative JADE Agents with the AMCIS Methodology: The Transportation Management Case Study
+Achieving Fully Proportional Representation: Approximability Results
+Toward an agent based distillation approach for protesting crowd simulation
+Modification of Contract Net Protocol(CNP) : A Rule-Updation Approach
+Adaptive Penalty-Based Distributed Stochastic Convex Optimization
+Developing a model of evacuation after an earthquake in Lebanon
+A static theory of promises
+Logic of Negation-Complete Interactive Proofs (Formal Theory of Epistemic Deciders)
+Embedding agents in business applications using enterprise integration patterns
+Cellular Automata based Feedback Mechanism in Strengthening biological Sequence Analysis Approach to Robotic Soccer
+Design of a GIS-based Assistant Software Agent for the Incident Commander to Coordinate Emergency Response Operations
+Power Grid Defense Against Malicious Cascading Failure
+Cortical prediction markets
+Pedestrian Route Choice by Iterated Equilibrium Search
+Crowd Research at School: Crossing Flows
+Foresighted Demand Side Management
+Scale-free interpersonal influences on opinions in complex systems
+Promises Impositions and other Directionals
+A Multiagent Reinforcement Learning Algorithm with Non-linear Dynamics
+An Anytime Algorithm for Optimal Coalition Structure Generation
+Resource-Driven Mission-Phasing Techniques for Constrained Agents in Stochastic Environments
+A Probabilistic Approach for Maintaining Trust Based on Evidence
+Automated Search for Impossibility Theorems in Social Choice Theory: Ranking Sets of Objects
+False-Name Manipulations in Weighted Voting Games
+Determining Possible and Necessary Winners Given Partial Orders
+Multi-Robot Adversarial Patrolling: Facing a Full-Knowledge Opponent
+Embodied social interaction constitutes social cognition in pairs of humans: A minimalist virtual reality experiment
+Intelligent Techniques for Resolving Conflicts of Knowledge in Multi-Agent Decision Support Systems
+Location-Based Reasoning about Complex Multi-Agent Behavior
+Cloning in Elections: Finding the Possible Winners
+Complex Objects in the Polytopes of the Linear State-Space Process
+Interactions between Knowledge and Time in a First-Order Logic for Multi-Agent Systems: Completeness Results
+A Market-Inspired Approach for Intersection Management in Urban Road Traffic Networks
+Complexity of Judgment Aggregation
+Dynamic Hybrid Traffic Flow Modeling
+The phenotypic expansion and its boundaries
+Moore and more and symmetry
+Extended Range Telepresence for Evacuation Training in Pedestrian Simulations
+Counterflow in Evacuations
+Reasoning About Strategies: On the Model-Checking Problem
+Mechanism Design for Fair Division
+Multi-Directional Flow as Touch-Stone to Assess Models of Pedestrian Dynamics
+Route Swarm: Wireless Network Optimization through Mobility
+Quantitative Comparison Between Crowd Models for Evacuation Planning and Evaluation
+Dynamic Assignment in Microsimulations of Pedestrians
+Heterogeneous Speed Profiles in Discrete Models for Pedestrian Simulation
+Fuzzy Decision Analysis in Negotiation between the System of Systems Agent and the System Agent in an Agent-Based Model
+On the Computation of Fully Proportional Representation
+Decentralized Anti-coordination Through Multi-agent Learning
+Learning by Observation of Agent Software Images
+Graphic-theoretic distributed inference in social networks
+How to Apply Assignment Methods that were Developed for Vehicular Traffic to Pedestrian Microsimulations
+Hierarchical organization versus self-organization
+Frequency-Based Patrolling with Heterogeneous Agents and Limited Communication
+Periodic Behaviors in Constrained Multi-agent Systems
+Coordinated Output Regulation of Heterogeneous Linear Systems under Switching Topologies
+Game theoretic controller synthesis for multi-robot motion planning Part I : Trajectory based algorithms
+Planning for Decentralized Control of Multiple Robots Under Uncertainty
+Finding a Collective Set of Items: From Proportional Multirepresentation to Group Recommendation
+Potential Games are Necessary to Ensure Pure Nash Equilibria in Cost Sharing Games
+Collective Decision-Making in Ideal Networks: The Speed-Accuracy Tradeoff
+Simulating urban expansion in the parcel level for all Chinese cities
+Decentralized Goal Assignment and Trajectory Generation in Multi-Robot Networks
+Simulating Congestion Dynamics of Train Rapid Transit using Smart Card Data
+New Mechanism for Multiagent Extensible Negotiations
+Finding Preference Profiles of Condorcet Dimension k via SAT
+Diffusion Least Mean Square: Simulations
+The Anatomy of a Modular System for Media Content Analysis
+Characterizing correlations of flow oscillations at bottlenecks
+F.A.S.T. - Floor field- and Agent-based Simulation Tool
+A General Framework for Interacting Bayes-Optimally with Self-Interested Agents using Arbitrary Parametric Model and Model Prior
+Accuracy of Range-Based Cooperative Localization in Wireless Sensor Networks: A Lower Bound Analysis
+On the Learning Behavior of Adaptive Networks - Part II: Performance Analysis
+On the Learning Behavior of Adaptive Networks - Part I: Transient Analysis
+Learning Stationary Correlated Equilibria in Constrained General-Sum Stochastic Games
+Extending Agents by Transmitting Protocols in Open Systems
+Automating Fault Tolerance in High-Performance Computational Biological Jobs Using Multi-Agent Approaches
+A Metric for Modelling and Measuring Complex Behavioural Systems
+Application of Asynchronous Weak Commitment Search in Autonomous Quality of Service Provision in Cognitive Radio Networks
+Towards an Agent-Oriented Modeling and Evaluation Approach For Vehicular Systems Security
+Multiagent Conflict Resolution for a Specification Network of Discrete-Event Coordinating Agents
+Software Agents Interaction Algorithms in Virtual Learning Environment
+Management of dangerous goods in container terminal with MAS model
+Throughput Analysis of Cognitive Wireless Networks with Poisson Distributed Nodes Based on Location Information
+Effects of Crowding Perception on Self-organized Pedestrian Flows Using Adaptive Agent-based Model
+Distributed Algorithms for Stochastic Source Seeking with Mobile Robot Networks: Technical Report
+Application des techniques d'ench eres dans les r 'eseaux de radio cognitive
+Proceedings 2nd International Workshop on Strategic Reasoning
+Games for the Strategic Influence of Expectations
+Refining and Delegating Strategic Ability in ATL
+Partial Preferences for Mediated Bargaining
+Distributed Hypothesis Testing with Social Learning and Symmetric Fusion
+Congestion Management by Interval Signaling
+How Credible is the Prediction of a Party-Based Election?
+Distributed Local Linear Parameter Estimation using Gaussian SPAWN
+Joint Estimation and Localization in Sensor Networks
+Multiplicative weights in monotropic games
+Control of Robotic Mobility-On-Demand Systems: a Queueing-Theoretical Perspective
+A Control Dichotomy for Pure Scoring Rules
+Concurrent bandits and cognitive radio networks
+Pre-vote negotiations and binary voting with constraints
+A Formal Analysis of Required Cooperation in Multi-agent Planning
+Computing Consensus Curves
+Automatic Verification of Parameterised Interleaved Multi-Agent Systems
+Distributed Business Processes - A Framework for Modeling and Execution
+Computing Agents for Decision Support Systems
+Conservative collision prediction and avoidance for stochastic trajectories in continuous time and space
+An Analysis of Rank Aggregation Algorithms
+Time-Inconsistent Planning: A Computational Problem in Behavioral Economics
+Logic and Constraint Logic Programming for Distributed Constraint Optimization
+Cooperative Decentralized Multi-agent Control under Local LTL Tasks and Connectivity Constraints
+The Metrics Matter On the Incompatibility of Different Flavors of Replanning
+Towards an ASP-Based Architecture for Autonomous UAVs in Dynamic Environments (Extended Abstract)
+Allocating Indivisible Resources under Price Rigidities in Polynomial Time
+A Parallel Elicitation-Free Protocol for Allocating Indivisible Goods
+Possible Winners in Noisy Elections
+Big but not unruly: Tractable norms for anonymous game structures
+Schulze and Ranked-Pairs Voting are Fixed-Parameter Tractable to Bribe Manipulate and Control
+ THEN : Manipulation of Same-System Runoff Elections
+Distributed Learning of Distributions via Social Sampling
+Voter Model with Arbitrary Degree Dependence: Clout Confidence and Irreversibility
+Simulation leagues: Analysis of competition formats
+The Hegselmann-Krause dynamics for equally spaced agents
+Don't Believe Everything ou Hear Preserving Relevant Information by Discarding Social Information
+Towards designing artificial universes for artificial agents under interaction closure
+The Common Structure of Paradoxes in Aggregation Theory
+Dynamics Underneath Symbols: A Case Study in Autonomous Agents
+Smartphone sensing platform for emergency management
+Studying Collective Human Decision Making and Creativity with Evolutionary Computation
+Combinatorial Voter Control in Elections
+LUNES: Agent-based Simulation of P2P Systems (Extended Version)
+Quickest Paths in Simulations of Pedestrians
+From Unbalanced Initial Occupant Distribution to Balanced Exit Usage in a Simulation Model of Pedestrian Dynamics
+Distributed Energy Trading: The Multiple-Microgrid Case
+User Equilibrium Route Assignment for Microscopic Pedestrian Simulation
+Protecting Privacy through Distributed Computation in Multi-agent Decision Making
+Outdoor flocking and formation flight with autonomous aerial robots
+Discrete preference games: social influence through coordination and beyond
+Together we stand Together we fall Together we win: Dynamic Team Formation in Massive Open Online Courses
+A Checklist for the Evaluation of Pedestrian Simulation Software Functionalities
+Coalition Formation and Combinatorial Auctions Applications to Self-organization and Self-management in Utility Computing
+Crowdsourcing for Participatory Democracies: Efficient Elicitation of Social Choice Functions
+Congestion Management by Obfuscation
+Modeling Attitude Change from Political Dialogues
+Distributed Diffusion-based LMS for Node-Specific Parameter Estimation over Adaptive Networks
+Novelty Search in Competitive Coevolution
+Systematic Derivation of Behaviour Characterisations in Evolutionary Robotics
+Continuous On-line Evolution of Agent Behaviours with Cartesian Genetic Programming
+A Coordinated MDP Approach to Multi-Agent Planning for Resource Allocation with Applications to Healthcare
+Parameterized Algorithmics for Computational Social Choice: Nine Research Challenges
+N 'egociation de spectre dans les r 'eseaux de radio cognitive
+R 'eseaux de radio cognitive : Allocation des ressources radio et acc es dynamique au spectre
+Computational Aspects of Multi-Winner Approval Voting
+How network temporal dynamics shape a mutualistic system with invasive species?
+Artificial Life and the Web: WebAL Comes of Age
+Multi-agents adaptive estimation and coverage control using Gaussian regression
+Finite-time consensus using stochastic matrices with positive diagonals
+Quantum network exploration with a faulty sense of direction
+WebAL-: Workshop on Artificial Life and the Web 2 Proceedings
+Fence patrolling by mobile agents with distinct speeds
+A Framework for learning multi-agent dynamic formation strategy in real-time applications
+The Pricing War Continues: On Competitive Multi-Item Pricing
+An Abstract Formal Basis for Digital Crowds
+Using FLAME Toolkit for Agent-Based Simulation: Case Study Sugarscape Model
+Stability and Performance Limits of Adaptive Primal-Dual Networks
+A Study of Proxies for Shapley Allocations of Transport Costs
+Integration of Heterogeneous Systems as Multi-Agent Systems
+Experimental Study of Phase Transition in Pedestrian Flow
+A Multi-agent Based Digital Preservation Model
+Definition and properties to assess multi-agent environments as social intelligence tests
+A Logic of Interactive Proofs (Formal Theory of Knowledge Transfer)
+Distributed Supervisory Control of Discrete-Event Systems with Communication Delay
+Excess-Risk of Distributed Stochastic Learners
+Decentralized Rigidity Maintenance Control with Range Measurements for Multi-Robot Systems
+EVOC: A Computer Model of the Evolution of Culture
+On symmetric continuum opinion dynamics
+Single-Peaked Consistency for Weak Orders Is Easy
+Distributed Computing by Mobile Robots: Solving the Uniform Circle Formation Problem
+Justified Representation in Approval-Based Committee Voting
+Team Behavior in Interactive Dynamic Influence Diagrams with Applications to Ad Hoc Teams
+Modelling Electrical Car Diffusion Based on Agents
+Comparing Stochastic Differential Equations and Agent-Based Modelling and Simulation for Early-stage Cancer
+Statics and dynamics of selfish interactions in distributed service systems
+A One-Line Proof of the Fundamental Theorem of Algebra with Newton's Method as a Consequence
+Prioritized Planning Algorithms for Trajectory Coordination of Multiple Mobile Robots
+Strategies for Utility Maximization in Social Groups with Preferential Exploration
+Extensive-Form Game Imperfect-Recall Abstractions With Bounds
+Probabilistic Selection in AgentSpeak(L)
+Decentralised Multi-Agent Reinforcement Learning for Dynamic and Uncertain Environments
+On the fundamental limitations of performance for distributed decision-making in robotic networks
+An Agent-Based Algorithm exploiting Multiple Local Dissimilarities for Clusters Mining and Knowledge Discovery
+Distributed Clustering and Learning Over Networks
+Efficient Algorithms for the Consensus Decision Problem
+Generalized Opinion Dynamics from Local Optimization Rules
+How good is the Shapley value-based approach to the influence maximization problem?
+Reaching Consensus Among Mobile Agents: A Distributed Protocol for the Detection of Social Situations
+Modeling Infection with Multi-agent Dynamics
+Onboard Dynamic Rail Track Safety Monitoring System
+Dynamic Stride Length Adaptation According to Utility And Personal Space
+An agent-driven semantical identifier using radial basis neural networks and reinforcement learning
+An Agent-Based Approach to Component Management
+Evaluation of a Conversation Management Toolkit for Multi Agent Programming
+More Natural Models of Electoral Control by Partition
+Optimal load-side control for frequency regulation in smart grids
+DISARM: A Social Distributed Agent Reputation Model based on Defeasible Logic
+Anatomy of a Crash
+Distributed Methods for Constrained Nonconvex Multi-Agent Optimization-Part I: Theory
+A Parallel Stochastic Approximation Method for Nonconvex Multi-Agent Optimization Problems
+OHMF: A Query Based Optimal Healthcare Medication Framework
+The Probabilistic Structure of Discrete Agent-Based Models
+Coalition Structure Generation on Graphs
+Success and Failure of Adaptation-Diffusion Algorithms for Consensus in Multi-Agent Networks
+Optimal topology of multi-agent systems with two leaders: a zero-sum game perspective
+A Statistical Decision-Theoretic Framework for Social Choice
+Using synchronous Boolean networks to model several phenomena of collective behavior
+Modeling multistage decision processes with Reflexive Game Theory
+Dobrushin ergodicity coefficient for Markov operators on cones and beyond
+Trust in the CODA model: Opinion Dynamics and the reliability of other agents
+Multi-agent Systems with Compasses
+Distributed Policy Evaluation Under Multiple Behavior Strategies
+Optimal one-dimensional coverage by unreliable sensors
+Minimal Actuator Placement with Bounds on Control Effort
+An Application of Fixed-point Theory to Probabilistic Social Choice
+The Relationship between Creativity Imitation and Cultural Diversity
+Communication-Free Multi-Agent Control under Local Temporal Tasks and Relative-Distance Constraints
+Learning of Agent Capability Models with Applications in Multi-agent Planning
+Playing the Wrong Game: Smoothness Bounds for Congestion Games with Risk Averse Agents
+Proceedings First Workshop on Logics and Model-checking for Self- Systems
+An Approach to Model Checking of Multi-agent Data Analysis
+Verification of Relational Multiagent Systems with Data Types (Extended Version)
+Aggregating partial rankings with applications to peer grading in massive online open courses
+Plurality Voting under Uncertainty
+Agent-Based Model for Rural-Urban Migration: A Dynamic Consideration
+Spacetimes with Semantics
+Fairness and Social Welfare in Incentivizing Participatory Sensing
+An Evolutionary Approach for Optimizing Hierarchical Multi-Agent System Organization
+Logics of Temporal-Epistemic Actions
+Cooperative learning in multi-agent systems from intermittent measurements
+To Relay or Not to Relay: Learning Device-to-Device Relaying Strategies in Cellular Networks
+Modeling Oligarchs' Campaign Donations and Ideological Preferences with Simulated Agent-Based Spatial Elections
+A DDoS-Aware IDS Model Based on Danger Theory and Mobile Agents
+Complexity of Equilibrium in Diffusion Games on Social Networks
+Elections with Few Voters: Candidate Control Can Be Easy
+Analysis of the Effects of Failure and Noise in the Distributed Connectivity Maintenance of a Multi-robot System
+Guaranteed sensor coverage with the weighted- D 2 sampling
+Game-theoretical control with continuous action sets
+Information-Sharing over Adaptive Networks with Self-interested Agents
+Information Exchange and Learning Dynamics over Weakly-Connected Adaptive Networks
+Multitask diffusion adaptation over asynchronous networks
+Resolving multi-proxy transitive vote delegation
+Binary Log-Linear Learning with Stochastic Communication Links
+Converting a Systems Dynamic Model to an Agent-based model for studying the Bicoid morphogen gradient in Drosophila embryo
+Distributed Detection via Bayesian Updates and Consensus
+Game-Theoretic Analysis of the Hegselmann-Krause Model for Opinion Dynamics in Finite Dimensions
+Visualizing the Invisible Hand of Markets: Simulating complex dynamic economic interactions
+Online Distributed ADMM on Networks
+Online Distributed Optimization on Dynamic Networks
+Safe Sequential Path Planning of Multi-Vehicle Systems via Double-Obstacle Hamilton-Jacobi-Isaacs Variational Inequality
+Distributed Parameter Estimation with Quantized Communication via Running Average
+Multi Time Scale Behaviour of The Formation of Multiple Groups of Nonholonomic Wheeled Mobile Robots
+Sharing Information Without Regret in Managed Stochastic Games
+Technical Report: Cooperative Multi-Target Localization With Noisy Sensors
+Changing minds about electric cars: An empirically grounded agent-based modeling approach
+Solving Games with Functional Regret Estimation
+Comparison of Selection Methods in On-line Distributed Evolutionary Robotics
+Algorithms for two variants of Satisfaction Approval Voting
+Statistical inference of long-term causal effects in multiagent systems under the Neyman-Rubin model
+Bridge Consensus: Ignoring Initial Inessentials
+Towards Gathering Robots with Limited View in Linear Time: The Closed Chain Case
+Requirements Formal Verification and Model transformations of an Agent-based System: A CASE STUD
+Formal requirement and architecture specifications of a multi-agent robotic system
+Proceedings th Workshop on Hybrid Autonomous Systems
+Edge Agreement of Multi-agent System with Quantized Measurements via Directed Edge Laplacian
+Massively-concurrent Agent-based Evolutionary Computing
+Recognizing Members of the Tournament Equilibrium Set is NP-hard
+Set-Rationalizable Choice and Self-Stability
+Set-Monotonicity Implies Kelly-Strategyproofness
+On Decentralized Estimation with Active Queries
+Detecting Possible Manipulators in Elections
+Are Effective Leaders Creative?
+Prices Matter for the Parameterized Complexity of Shift Bribery
+Can Other People Make ou Less Creative?
+Building Robust Crowdsourcing Systems with Reputation-aware Decision Support Techniques
+Contextual Online Learning for Multimedia Content Aggregation
+Mathematical Modeling of Insurance Mechanisms for E-commerce Systems
+On Distributed Density in Tuple-based Coordination Languages
+Extracting Hidden Groups and their Structure from Streaming Interaction Data
+The robustness of democratic consensus
+Sample Complexity for Winner Prediction in Elections
+Real-Time Stochastic Optimal Control for Multi-agent Quadrotor Swarms
+Approval Voting and Incentives in Crowdsourcing

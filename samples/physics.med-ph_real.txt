@@ -1,0 +1,1441 @@
+Speckle reduction in ocular wave-front sensing
+Artificial Tongue-Placed Tactile Biofeedback for perceptual supplementation: application to human disability and biomedical engineering
+Pr 'evention des escarres chez les parapl 'egiques : une nouvelle approche par 'electrostimulation linguale
+Controlling posture using a plantar pressure-based tongue-placed tactile biofeedback system
+Aid to Percutaneous Renal Access by Virtual Projection of the Ultrasound Puncture Tract onto Fluoroscopic Images
+Discrimination between Healthy and Sick Cardiac Autonomic Nervous System by Detrended Heart Rate Variability Analysis
+A Study of Circadian Rhythm and Meteorological Factors Influencing Acute Myocardial Infarction
+Spatio-temporal speckle correlations for imaging in turbid media
+Transverse NMR relaxation as a probe of mesoscopic structure
+On-Off Intermittency in Time Series of Spontaneous Paroxysmal Activity in Rats with Genetic Absence Epilepsy
+Two boundary model for freezing front propagation in biological tissue
+Mechanism of Discordant Alternans in Spatially Homogeneous Tissue
+Shuffling east Gene Expression Data
+Heart Rate Variability: Measures and Models
+A Historical Perspective on Cancer
+Laser Induced Heat Diffusion Limited Tissue Coagulation: Problem and General Properties
+Image reconstruction without prior information
+Mechanism of Anesthetic Action: Oxygen Pathway Perturbation Hypothesis
+Extraction of Cs-13 by alcohol-water solvents from plants containing cardiac glycosides
+Military use of depleted uranium: assessment of prolonged population exposure
+Information preserved guided scan pixel difference coding for medical images
+Algorithm for Finding Optimal Gene Sets in Microarray Prediction
+DMSO-Induced Dehydration of DPPC Membranes Studied by X-ray Diffraction Small-Angle Neutron Scattering and Calorimetry
+Biot's theory of propagation of elastic waves in a fluid-saturated porous solid revisited: introduction of non-zero boundary slip velocity
+The Uncertainty Relationship In Magnetic Resonance Imaging (MRI)
+Non-Linear Dynamics In Patients With Stable Angina Pectoris
+ipf's law in human heartbeat dynamics
+Sporadic electron jets from cathodes - The main breakdown-triggering mechanism in gaseous detectors
+What does the correlation dimension of the human heart rate measure?
+A Classical Probabilistic Computer Model of Consciousness
+Recurrence Plot Based Measures of Complexity and its Application to Heart Rate Variability Data
+The Loss of Multifractality in Migraines
+Source separation as an exercise in logical induction
+Separation of multiple evoked responses using differential amplitude and latency variability
+A Bayesian approach to source separation
+On the Kinematics of Protein Folding
+Bayesian Source Separation and Localization
+Spherical Harmonics Interpolation Computation of Laplacians and Gauge Theory
+X-ray multi-energy radiography with scintillator-photodiode detectors
+A comparison of delayed radiobiological effects of depleted-uranium munitions versus fourth-generation nuclear weapons
+Non-linear quantization for arbitrary distributions and applications to Medical Image Processing
+Threadlike bundle of tubules running inside blood vessels: New anatomical structure
+Method for Observing Intravascular BongHan Duct
+Position-Sensitive Detector with Depth-of-Interaction Determination for Small Animal PET
+Development of liquid xenon detectors for medical imaging
+Changes in the Hurst exponent of heartbeat intervals during physical activities
+Gamma-ray measurements of naturally occurring radioactive samples from Cyprus characteristic geological rocks
+Gamma radiation measurements and dose rates in commercially-used natural tiling rocks (granites)
+Indoor radon (Rn-222) concentration measurements in Cyprus using high-sensitivity portable detectors
+Fractal Rigidity in Migraine
+Electron capture decay of indium-111 human carbonic anhydrase I: A time differential K X ray coincidence perturbed angular correlation study
+Non-linear and scale-invariant analysis of the Heart Rate Variability
+Does tumor growth follow a 'universal law'?
+GPCALMA a mammographic CAD in a GRID connection
+Radiometric Determination of Uranium in Natural Waters after Enrichment and Separation by Cation-Exchange and Liquid-Liquid Extraction
+A mathematical model for top-shelf vertigo: the role of sedimenting otoconia in BPPV
+A Computer Aided Detection system for mammographic images implemented on a GRID infrastructure
+Free ion yield observed in liquid isooctane irradiated by gamma rays. Comparison with the Onsager theory
+Determination of thorium uranium and potassium elemental concentrations in surface soils in Cyprus
+A Comprehensive Study of Natural Gamma Radioactivity Levels and Associated Dose Rates from Surface Soils in Cyprus
+SQUID Magnetometry for Cancer Screening a Feasibility Study
+Dosimetry for radiocolloid therapy of cystic craniopharyngiomas
+3-Dimensional Mapping of Corneal Topography and Thickness
+Local shear waves attenuation measurements by the MR methods
+Coherent Anti-Stokes Raman Scattering Heterodyne Interferometry
+GePEToS : A Geant4 Monte Carlo simulation package for Positron Emission Tomography
+The Enhancement of Confocal Images of Tissues at Bulk Optical Immersion
+MRI of the lung using hyperpolarized He-3 at very low magnetic field (3 mT)
+The Signal Space Separation method
+Tubulin dipole moment dielectric constant and quantum behavior: computer simulations experimental results and suggestions
+The impact of field shape optimization: A feasibility study
+3He Lung Imaging in an Open Access Very-Low-Field Human MRI System
+Gauss-Hermite Approximation Formula
+Diagnosis of human breast cancer through wavelet transform of polarized fluorescence
+Blind dispersion compensation for optical coherence tomography
+The noisy image retrieval for fluorescence digital microscopy
+Extending Granger causality to nonlinear systems
+Open-source software for generating electrocardiogram signals
+Effects of T2 Relaxation and Diffusion on Longitudinal Magnetization State and Signal Build for HOMOGENIED Cross Peaks
+Radiostrontium activity concentrations in milk in the Republic of Croatia for 11 - 2001 and dose assessment
+Quantitative Approach to Intensity-Modulated Radiation Therapy Quality Assurance Based on Film Dosimetry and Optimization
+Visualization of Cytoskeletal Elements by the Atomic Force Microscope
+3D Reconstruction Using Optical Images
+Cell inactivation by diverse ions along their tracks
+Natural radioelement concentration in the Troodos Ophiolite Complex of Cyprus
+CADe tools for early detection of breast cancer
+GPCALMA: A Tool For Mammography With A GRID-Connected Distributed Database
+GPCALMA: a Grid-based tool for Mammographic Screening
+Modelling the mechanism of cell inactivation by light ions at different energy values
+Estimation of the Adriatic sea water turnover time using fallout 0Sr as a radioactive tracer
+Probabilistic two-stage model of cell inactivation by ionizing particles
+Reconstruction Algorithms for Positron Emission Tomography and Single Photon Emission Computed Tomography and their Numerical Implementation
+Effect of noise and modeling errors on the reliability of fully 3D Monte Carlo reconstruction in SPECT
+The effect of the primary collimator and flattening filter on asymmetric fields for a Siemens PRIMUS linear accelerator
+Real time noninvasive cancer diagnostics
+Review of Nonlinear Methods and Modelling
+Local driving and global interactions in the progression of seizure dynamics
+Multiple Projection Optical Diffusion Tomography with Plane Wave Illumination
+Preliminary study of metabolic radiotherapy with 1Re via small animal imaging
+Influence of Correlated Noises on Growth of a Tumor
+Diffraction-Attenuation Resistant Beams in Absorbing Media
+An X-ray vision of cataract
+Experimental demonstration of an analytic method for image reconstruction in optical tomography with large data sets
+Superresolution and Corrections to the Diffusion Approximation in Optical Tomography
+Neutrons from fragmentation of light nuclei in tissue-like media: a study with GEANT4 toolkit
+Force Plate Monitoring of Human Hemodynamics
+A pixel-based approach to massive lesion detection in X-ray mammography
+Pre-processing methods for nodule detection in lung CT
+Noise-induced first-order transition in anti-tumor immunotherapy
+Detailed analysis of the cell-inactivation mechanism by accelerated protons and light ions
+A dry electrophysiology electrode using CNT arrays
+Isotopic separation during plasma expansion
+Multiscale analysis of heart rate blood pressure and respiration time series
+Multifractal analysis of the long-range correlations in the cardiac dynamics of Drosophila melanogaster
+Using probability and rules of interaction to simulate the spin relaxation in a MRI
+Mechanism of cell inactivation by different ions: Damage induction probabilities per single tracks
+Towards biology-oriented treatment planning in hadrontherapy
+Time delay and partial coherence analyses to identify cortical connectivities
+An Inexpensive Arterial Pressure Wave Sensor and its application in different physiological condition
+Changed reference models in proportionality analysis
+Transformation of equations in analysis of proportionality through referent models
+Physical basis of SATRO - a new method for analysis of the cardiac muscle depolarisation
+Niederhauser's model for epilepsy and wavelet methods
+Age-related alterations of relaxation processes and non-Markov effects in stochastic dynamics of R-R intervals variability from human ECGs
+Regular and stochastic behavior of Parkinsonian pathological tremor signals
+Manifestation of Chaos in Real Complex Systems: Case of Parkinson's Disease
+Application of Unit Time Block Entropy to Fetal Distress Heart Rate
+ENOBIO - First tests of a dry electrophysiology electrode using carbon nanotubes
+A generalized spatiotemporal covariance model for stationary background in analysis of MEG data
+Indoor-Atmospheric Radon-Related Radioactivity Affected by a Change of Ventilation Strategy
+MTF Optimization in Digital Dental X-ray Systems
+Computer assisted planning and orbital surgery: patient-related prediction of osteotomy size in proptosis reduction
+Orbital and Maxillofacial Computer Aided Surgery: Patient-Specific Finite Element Models To Predict Surgical Outcomes
+Prediction of tissue decompression in orbital surgery
+Biomechanical models to simulate consequences of maxillofacial surgery
+Computer-aided hepatic tumour ablation : requirements and preliminary results
+A 3D dynamical biomechanical tongue model to study speech motor control
+A simulator for maxillo-facial surgery integrating cephalometry and orthodontia
+Computer-aided hepatic tumour ablation
+Rigid Registration of Freehand 3D Ultrasound and CT-Scan Kidney Images
+A finite element study of the influence of the osteotomy surface on the backward displacement during exophthalmia reduction
+Comparison of linear and non-linear soft tissue models with post-operative CT scan in maxillofacial surgery
+Physical modelling of the airflow-walls interactions to understand the sleep apnea syndrome
+Models for Planning and Simulation in Computer Assisted Orthognatic Surgery
+Simulation of the Exophthalmia Reduction using a Finite Element Model of the Orbital Soft Tissues
+A 3D Finite Element model of the face for simulation in plastic and maxillo-facial surgery
+The mesh-matching algorithm: an automatic 3D mesh generator for Finite element structures
+The geometric calibration of cone-beam imaging and delivery systems in radiation therapy
+The dual-gain mode: a way to enhance the dynamic range of X-ray detectors
+The dual-dose imaging technique: a way to enhance the dynamic range of X-ray detectors
+Utilisation de la substitution sensorielle par ' e lectro-stimulation linguale pour la pr ' e vention des escarres chez les parapl ' e giques. Etude pr ' e liminaire
+A two phase harmonic model for left ventricular function
+Distributions of positron-emitting nuclei in proton and carbon-ion therapy studied with GEANT4
+Growth Laws in Cancer: Implications for Radiotherapy
+Improving human ankle joint position sense using an artificial tongue-placed tactile biofeedback
+FIRST: Fast Iterative Reconstruction Software for (PET) tomography
+Morphological Instability and Cancer Invasion: A 'Splashing Water Drop' Analogy
+Simulation of Multicellular Tumor Spheroids Growth Dynamics
+Pr ' e sentation d'une m ' e thodologie d' ' e valuation de la faisabilit ' e de la substitution sensorielle par ' e lectrostimulation linguale pour la pr ' e vention des escarres chez le bl ' e ss ' e m ' e dullaire parapl ' e gique
+Modeling the production of VCV sequences via the inversion of a biomechanical model of the tongue
+A non-invasive device to measure mechanical interaction between tongue palate and teeth during speech production
+Multimodal registration of the face for computer-aided maxillofacial surgery
+A stiffness sensor to help in the diagnosis and the surgery of orbital pathologies
+Computer-aided planning for zygomatic bone reconstruction in maxillofacial traumatology
+Control of Surgical Gesture under Lingual Electro-Tactile Stimulation
+Optimizing the Use of an Artificial Tongue-Placed Tactile Biofeedback for Improving Ankle Joint Position Sense in Humans
+Automatic finite elements mesh generation from planar contours of the brain: an image driven 'blobby' approach
+Biomechanics applied to computer-aided diagnosis: examples of orbital and maxillofacial surgeries
+A New Health Strategy to Prevent Pressure Ulcer Formation in Paraplegics using Computer and Sensory Substitution via the Tongue
+Framework and Bio-Mechanical Model for a Per-Operative Image-Guided Neuronavigator Including 'Brain-Shift' Compensation
+Mod ' e liser le physique pour comprendre le contr o le : le cas de l'anticipation en production de parole
+Evaluating soft tissue simulation in maxillofacial surgery using pre and post-operative CT scan
+Reproduction of hypopnea phenomenon using a physical and numerical model
+Mod ' e lisation biom ' e canique tri-dimensionnelle de l'articulateur lingual pour ' e tudier le contr o le de la parole
+Evaluation of a lingual interface as a passive surgical guiding system
+Maxillofacial computer aided surgery: a  years experience and future
+A 3D Finite Element evaluation of the exophthalmia reduction
+Percutaneous renal puncture: requirements and preliminary results
+Computer aided planning for orthognatic surgery
+Size of Memory Objects
+Development and characteristics of the HANARO ex-core neutron irradiation facility for applications in the boron neutron capture therapy field
+Magnetophoretic separation of blood cells at the microscale
+Dose distribution in water for monoenergetic photon point sources in the energy range of interest in brachytherapy: Monte Carlo simulations with PENELOPE and GEANT4
+Demonstration of Circadian Rhythm in Heart Rate Turbulence using Novel Application of Correlator Functions
+A Model for Predicting Magnetic Targeting of Multifunctional Particles in the Microvasculature
+A scalable Computer-Aided Detection system for microcalcification cluster identification in a pan-European distributed database of mammograms
+An Automatic System to Discriminate Malignant from Benign Massive Lesions on Mammograms
+A scalable system for microcalcification cluster automated detection in a distributed mammographic database
+Computer-aided detection of pulmonary nodules in low-dose CT
+First human trials of a dry electrophysiology sensor using a carbon nanotube array interface
+Lung Nodule Detection in Screening Computed Tomography
+Long-term investigations of radiocaesium activity concentrations in carps in north Croatia after the Chernobyl accident
+Radiocaesium Activity Concentrations in Potatoes in Croatia after the Chernobyl Accident and Dose Assessment
+A 3D biomechanical vocal tract model to study speech production control: How to take into account the gravity?
+Intra-operative quantification of the surgical gesture in orbital surgery: Application to the proptosis reduction
+Planar Atom Trap and Magnetic Resonance 'Lens' Designs
+A Conceptual DFT Approach Towards Developing New QSTR Models
+Passive Exposure to Mobile Phones: Enhancement of Intensity by Reflection
+Guiding the surgical gesture using an electro-tactile stimulus array on the tongue: A feasibility study
+An Uncontrolled Toy That Can Walk But Cannot Stand Still
+Entropy Index as a Measure of Heartbeat Irregularity
+Receiver-Operating-Characteristic Analysis Reveals Superiority of Scale-Dependent Wavelet and Spectral Measures for Assessing Cardiac Dysfunction
+Assessing the risk from the depleted uranium weapons used in Operation Allied Force
+Conditions for the Formation of Axisymmetric Biconcave Vesicles
+Nuclear Data Requirements for the Production Of Medical Isotopes in Fission Reactors and Particle Accelerators
+Scale Specific and Scale Independent Measures of Heart Rate Variability as Risk Indicators
+Modelling a Parasystolic Rhythm in a Heart-Transplant Patient
+Is the best estimate of power equal to the power of the best estimate?
+The RR interval spectrum the ECG signal and aliasing
+Evaluation of the Extension of the Cerebral Blood Flow and its Main Parameters
+Correlation Dimension Maps of EEG from Epileptic Absences
+Diagnostics of the Synchronization of Self-Oscillatory Systems by an External Force with Varying Frequency with the Use of Wavelet Analysis
+Nonlinear Dynamics of Infectious Diseases Transfer with Possible Applications for Tubercular Infection
+A novel method for the evaluation of uncertainty in dose volume histogram computation
+Optical Marking of Alcohol Induced Hemoglobin Modification
+Inter-individual variability in sensory weighting of a plantar pressure-based tongue-placed tactile biofeedback for controlling posture
+Intensity-Based Registration of Freehand 3D Ultrasound and CT-scan Images of the Kidney
+Computer-assisted access to the kidney
+Automated detection of lung nodules in low-dose computed tomography
+Interacion of Heavy Metal Ions with C-Phycocyanin: Binding Isotherms and Cooperative Effects
+Posture-Dependent Human 3He Lung Imaging in an Open Access MRI System: Initial Results
+Visual Saliency and Attention as Random Walks on Complex Networks
+Review of criticisms of ballistic pressure wave experiments the Strasbourg goat tests and the Marshall and Sanow data
+Relaxational Singularities of Human Motor System at Aging Due to Short-Range and Long-Range Time Correlations
+Relative incapacitation contributions of pressure wave and wound channel in the Marshall and Sanow data set
+Ballistic pressure wave contributions to rapid incapacitation in the Strasbourg goat tests
+A method for testing handgun bullets in deer
+In-vivo measurement of the human soft tissues constitutive laws. Applications to Computer Aided Surgery
+Pressure sensor-based tongue-placed electrotactile biofeedback for balance improvement - Biomedical application to prevent pressure sores formation and falls
+Framework for a low-cost intra-operative image-guided neuronavigator including brain shift compensation
+Bio-Mechanical Model of the Brain for a Per-Operative Image-Guided Neuronavigator Compensating for Brain-Shift Deformations
+A Plantar-pressure Based Tongue-placed Tactile Biofeedback System for Balance Improvement
+Degrees of freedom of tongue movements in speech may be constrained by biomechanics
+How a plantar pressure-based tongue-placed tactile biofeedback modifies postural control mechanisms during quiet standing
+Modeling the consequences of tongue surgery on tongue mobility
+Computer aided planning and navigation for orbito-zygomatic reconstruction
+SQUID-based instrumentation for ultra-low-field MRI
+Tongue-placed tactile biofeedback suppresses the deleterious effects of muscle fatigue on joint position sense at the ankle
+Techniques on mesh generation for the brain shift simulation
+Simulations of the consequences of tongue surgery on tongue mobility: implications for speech production in post-surgery conditions
+A Bayesian Hierarchical Model for the Analysis of a Longitudinal Dynamic Contrast-Enhanced MRI Cancer Study
+Mechanical Design Control Choices and first Return of Use of a Prosthetic Arm
+FDTD Computation of Human Eye Exposure to Ultra-wideband Electromagnetic Pulses
+Monte Carlo Simulation and Experimental Characterization of a Dual Head Gamma Camera
+Displaying perfusion MRI images as color intensity projections
+Temporal evolution of mechanical properties of skeletal tissue regeneration in rabbits. An experimental study
+Suppl 'eance perceptive par 'electro-stimulation linguale embarqu 'ee : perspectives pour la pr 'evention des escarres chez le bless 'e m 'edullaire
+A superstatistical model of metastasis and cancer survival
+Detecting and localizing the foci in human epileptic seizures
+Tongue Liminary Threshold Identification to Electrotactile Stimulation
+A suggestion for B-10 imaging during boron neutron capture therapy
+The Jacobian as a measure of planar dose congruence
+Fractal scale-invariant and nonlinear properties of cardiac dynamics remain stable with advanced age: A new mechanistic picture of cardiac control in healthy elderly
+Computational study of the vibrating disturbances to the lung function
+Global dynamical model of the cardiovascular system
+Numerical simulations of cardiovascular diseases and global matter transport
+Propagation of travelling waves in sub-excitable systems driven by noise and periodic forcing
+Towards 3D ultrasound image based soft tissue tracking: a transrectal ultrasound prostate image alignment system
+Strength stimuli on the quadriceps femoris influences the physiological tremor of the index finger
+3D 4D ultrasound registration of bone
+Effect of fatigue on the intra-cycle acceleration in front crawl swimming: A time-frequency analysis
+Nanomaterials and nanoparticles: Sources and toxicity
+A Semi-parametric Technique for the Quantitative Analysis of Dynamic Contrast-enhanced MR Images Based on Bayesian P-splines
+Pixels simultaneous detection probabilities and spatial resolution determination of pixelized detectors by means of correlation measurements
+Mathematical Model of DSB formation by Ionizing Radiation
+Ab Initio Study of Different Acid Molecules Interacting with H2O
+Amplified Dispersive Optical Tomography
+Sensory supplementation system based on electrotactile tongue biofeedback of head position for balance control
+In vivo endoscopic autofluorescence microspectro-imaging of bronchi and alveoli
+The detective Modulation Transfer Function applied to scanned digital radiographic detectors
+Characterization of mammographic masses using a gradient-based segmentation algorithm and a neural classifier
+A very simple robust and fast method for estimating and displaying average time constants of T2 decays from multiecho MRI images using color intensity projections
+Scientific Evidence for Hydrostatic Shock
+The Ballistic Pressure Wave Theory of Handgun Bullet Incapacitation
+Color intensity projections provides a fast simple and robust method of summarizing the grayscale images from a renal scan in a single color image
+On the action potential as a propagating density pulse and the role of anesthetics
+The thermodynamics of general anesthesia
+CLUSTER: a high frequency H-mode coupled cavity linac for low and medium energies
+The Model of the Theory of the Quantum Brain Dynamics can be cast on the Heisenberg Spin Hamiltonian
+Computational modeling of beam-customization devices for heavy-charged-particle radiotherapy
+Study of Micro Pixel Photon Counter for the Application to Positron Emission Tomography
+Accelerating Protons to Therapeutic Energies with Ultra-Intense Ultra-Clean and Ultra-Short Laser Pulses
+Movement and Man at the end of the Random Walks
+Experimental and theoretical study of light scattering by individual mature red blood cells by use of scanning flow cytometry and discrete dipole approximation
+Spectral Density of Sample Covariance Matrices of Colored Noise
+Robustness of a Cellular Automata Model for the HIV Infection
+Generalized Optimal Current Patterns and Electrical Safety in EIT
+EIT Reconstruction Algorithms: Pitfalls Challenges and Recent Developments
+Study of Correlation Between Glucose Concentration and Reduced Scattering Coefficients in Turbid media using Optical Coherence Tomography
+A 3D discrete model of the diaphragm and human trunk
+Physical understanding of an echo-Doppler test with voice-induced vibration
+Links between traumatic brain injury and ballistic pressure waves originating in the thoracic cavity and extremities
+Plasma and cavitation dynamics during pulsed laser microsurgery in vivo
+Some proves of integrated influence of geomagnetic activity and weather changes on human health
+Detection of organic materials by spectrometric radiography method
+Further progress in ion back-flow reduction with patterned gaseous hole-multipliers
+Microtesla MRI of the human brain combined with MEG
+Alternative scattering power for Gaussian beam model of heavy charged particles
+Non-Invasive Glucose Monitoring Techniques: A review and current trends
+Computer Simulations of Pulsatile Human Blood Flow Through 3D-Models of the Human Aortic Arch Vessels of Simple Geometry and a Bifurcated Artery: Investigation of Blood Viscosity and Turbulent Effects
+Conditionally Gaussian Hypermodels for Cerebral Source Localization
+Modeling the Heating of Biological Tissue based on the Hyperbolic Heat Transfer Equation
+Mechanics of Stabbing: Biaxial Measurement of Knife Stab Penetration of Skin Simulant
+Modelling the human pharyngeal airway: validation of numerical simulations using in vitro experiments
+GATE : a simulation toolkit for PET and SPECT
+Advances in imaging THGEM-based detectors
+Indoor and Outdoor in Situ High-Resolution Gamma Radiation Measurements in Urban Areas of Cyprus
+Multi-Channel SQUID System for MEG and Ultra-Low-Field MRI
+Monte Carlo simulation of the electron transport through thin slabs: A comparative study of PENELOPE GEANT3 GEANT4 EGSnrc and MCNPX
+Parallel MRI at microtesla fields
+Imaging with the invisible light
+Haptic guidance improves the visuo-manual tracking of trajectories
+Use of a biomechanical tongue model to predict the impact of tongue surgery on speech production
+A biomechanical model of the face including muscles for the prediction of deformations during speech production
+Tongue pressure recordings during speech using complete denture
+Ghost imaging in scattering media
+Collimator effects in proton planning
+On convergence of the optimization process in Radiotherapy treatment planning
+On the blind source separation of human electroencephalogram by approximate joint diagonalization of second order statistics
+A pseudo active kinematic constraint for a biological living soft tissue: an effect of the collagen network
+Analysis of Discrete Signals with Stochastic Components using Flicker Noise Spectroscopy
+Identifying Relevant Eigenimages - a Random Matrix Approach
+Apparent measurement errors in Development of biomechanical response corridors of the thorax to blunt ballistic impacts
+A Thoracic Mechanism of Mild Traumatic Brain Injury Due to Blast Pressure Waves
+Misleading reference to unpublished wound ballistics data regarding distant injuries
+Comments on Ballistics: a primer for the surgeon
+A method for testing bullets at reduced velocity
+Experimental study of a liquid Xenon PET prototype module
+Measuring Value in Healthcare
+Vega library for processing DICOM data required in Monte Carlo verification of radiotherapy treatment plans
+Synthesis of DNA Templated Tri-functional Electrically Conducting Optical and Magnetic nanochain of Nicore-Aushell for Bio-device
+Miniaturised Spotter-Compatible Multicapillary Stamping Tool for Microarray Printing
+Cell-to-Cell stochastic fluctuations in apoptotic signaling can decide between life and death
+Semi-empirical formulation of multiple scattering for Gaussian beam model of heavy charged particles stopping in tissue-like matter
+A liquid Xenon Positron Emission Tomograph for small animal imaging : first experimental results of a prototype cell
+Severe Vesico-ureteral Reflux and Urine Sequestration: Mathematical Relations and Urodynamic Consequences
+PRESLA: An original device to measure the mechanical interaction between tongue and teeth or palate during speech production
+Proposal of a method for detecting dull images
+Cyclinacs: Fast-Cycling Accelerators for Hadrontherapy
+Broken Arrows: Radiological hazards from nuclear warhead accidents (the Minot USAF base nuclear weapons incident)
+Analysis of Biomedical Signals by Flicker-Noise Spectroscopy: Identification of Photosensitive Epilepsy using Magnetoencephalograms
+Dynamic splitting of Gaussian pencil beams in heterogeneity-correction algorithms for radiotherapy with heavy charged particles
+Somatic Development Analysis of Handball Players using Computer Programs
+Could Adrenaline Positive Help to Prevent Psychosomatic Illnesses ?
+Markov Random Field Segmentation of Brain MR Images
+Mapping of transrectal ultrasonographic prostate biopsies: quality control and learning curve assessment by image processing
+Ternary complexes of albumin-Mn(II)-bilirubin and Electron Spin Resonance studies of gallstones
+Enhanced imaging of microcalcifications in digital breast tomosynthesis through improved image-reconstruction algorithms
+On the Influence of Weak Magnetic and Electric Fields on the Fluctuations of Ionic Electric Currents in Blood Circulation
+In vivo measurement of human brain elasticity using a light aspiration device
+Dosimetric equivalence of non-standard high dose rate (HDR) brachytherapy catheter patterns
+Multi-scale analysis of lung computed tomography images
+Incorporating Human Body Mass in Standards of Helmet Impact Protection against Traumatic Brain Injury
+Diaphragm as an anatomic surrogate for lung tumor motion
+Accurate image reconstruction from few-views and limited-angle data in divergent-beam CT
+Multi-sensor system for simultaneous ultra-low-field MRI and MEG
+A multi-scale approach to the computer-aided detection of microcalcification clusters in digital mammograms
+An automatic system to discriminate malignant from benign massive lesions in mammograms
+Lung nodule detection in low-dose and high-resolution CT scans
+Single-Scattering Optical Tomography
+X-ray Imaging Using a Hybrid Photon Counting GaAs Pixel Detector
+Experimental neck muscle pain impairs standing balance in humans
+A feasibility study of treatment verification using EPID cine images for hypofractionated lung radiotherapy
+A device to assess the upper limb isometric muscle strength
+Spatio-Temporal Structuring of Brain Activity - Description of Interictal EEG in Paediatric Frontal Lobe Epilepsy
+Accurate description of optical precursors and their relation to weak-field coherent optical transients
+Endogenous versus Exogenous Origins of Diseases
+Assessment of Spatial-variant Noise Level in Real-time Dynamic MR Images - a Random Matrix Approach
+Treating Cancer with Strong Magnetic Fields and Ultrasound
+A mathematical aid decision tool for RT planning
+Computational time-reversal imaging with a small number of random and noisy measurements
+Evaluation of the global optimisation method within the upper limb kinematics analysis
+Two-Dimensional ARMA Modeling for Breast Cancer Detection and Classification
+Gyrosonics a Novel Stimulant for Autonomic Nervous System
+SQUID-based microtesla MRI for in vivo relaxometry of the human brain
+Terahertz Biomems for Enzymatic Catalysis Monitoring
+Las ondas viajeras son los ojos nuevos de la resonancia en medicina
+RD1 an R D collaboration for micropattern gaseous detectors
+Metamaterial radiofrequency lens for magnetic resonance imaging
+Stable States of Biological Organisms
+Protection Strategy of Sensitive Body Organs in Radiation Therapy
+Carbon nanotube based biomedical agents for heating temperature sensoring and drug delivery
+Comparative study of nonlinear properties of EEG signals of a normal person and an epileptic patient
+On the scattering power of radiotherapy protons
+Distribution Principle of Bone Tissue
+Comparison of reconstruction algorithms for digital breast tomosynthesis
+Design construction and tests of a 3 GHz proton linac booster (LIBO) for cancer therapy
+Digital image restoration based on pixel simultaneous detection probabilities
+Predicting the Drug Release Kinetics of Matrix Tablets
+New mechanism of solution of the kT -problem in magnetobiology
+Simultaneous reconstruction of scintillation light and ionization charge produced by 11 keV photons in liquid xenon : potential application to PET
+A room temperature 1-channel magnetic field mapping device for cardiac signals
+Arbitrary multi-site two-photon excitation in four dimensions
+GPU-based ultra fast dose calculation using a finite pencil beam model
+GPU-based ultra fast IMRT plan optimization
+On the applications of mu-1 metamaterial lenses for magnetic resonance imaging
+Implementation and evaluation of various demons deformable image registration algorithms on GPU
+Estimation of urinary stone composition by automated processing of CT images
+The number of beams in IMRT - theoretical investigations and implications for single-arc IMRT
+Towards Humanlike Social Touch for Sociable Robotics and Prosthetics: Comparisons on the Compliance Conformance and Hysteresis of Synthetic and Human Fingertip Skins
+A dynamic network approach for the study of human phenotypes
+The influence of scattered photons on the accurate determination of microcalcification thickness in digital mammography
+Nuclear Magnetic Resonance with the Distant Dipolar Field
+Depth of Interaction Enhanced Gamma-Ray Imaging for Medical Applications
+Discrimination of the Healthy and Sick Cardiac Autonomic Nervous System by a New Wavelet Analysis of Heartbeat Intervals
+SparseCodePicking: feature extraction in mass spectrometry using sparse coding algorithms
+Optimized Unequal Pulse Spacing in Multiple Echo Sequences Improves Refocusing
+Supramolecular Stacking of Doxorubicin on Carbon Nanotubes for in vivo Cancer Therapy
+Sivian and White revisited: the role of resonant thermal noise pressure on the eardrum in auditory thresholds
+On the tradeoff between treatment time and plan quality in rotational arc radiation delivery
+eno Effect (FREQUENT Inhibition of the Effector Cells Regulators) in Cancer Therapy
+Multiresolution wavelet analysis of heartbeat intervals discriminates healthy patients from those with cardiac pathology
+Magnitude and Sign Correlations in Heartbeat Fluctuations
+Noise Effects on the Complex Patterns of Abnormal Heartbeats
+Theory of Coherent and Incoherent Nuclear Spin-Dephasing in the Heart
+Wavelet Analysis of Blood Pressure Waves in Vasovagal Syncope
+Quantitative analysis by renormalized entropy of invasive electroencephalograph recordings in focal epilepsy
+A Bayesian test for the appropriateness of a model in the biomagnetic inverse problem
+A Method to Determine the In-Air Spatial Spread of Clinical Electron Beams
+Estimation of light transport parameters in biological media using coherent backscattering
+Kullback-Leibler and Renormalized Entropy: Applications to EEGs of Epilepsy Patients
+Dirac's Representation Theory as a Framework for Signal Theory. I. Discrete Finite Signals
+Dirac's Representation Theory as a Framework for Signal Theory. II. Infinite Duration and Continuous Signals
+An automated system for lung nodule detection in low-dose computed tomography
+Continuous Magnetophoretic Separation of Blood Cells from Plasma at the Microscale
+Monitoring noise-resonant effects in cancer growth influenced by external fluctuations and periodic treatment
+A patient-specific respiratory model of anatomical motion for radiation treatment planning
+A robust and reliable method for detecting signals of interest in multiexponential decays
+Resonance Raman measurements of carotenoids using light emitting diodes
+CIX - A Detector for Spectral Enhanced X-ray Imaging by Simultaneous Counting and Integrating
+Radiotherapy using a laser proton accelerator
+Amplified Dispersive Fourier-Transform Imaging for Ultrafast Displacement Sensing and Barcode Reading
+Experimental demonstration of a mu-1 metamaterial lens for magnetic resonance imaging
+Can a microscopic stochastic model explain the emergence of pain cycles in patients?
+Physics of ion beam cancer therapy: a multi-scale approach
+Simultaneous estimation of attenuation and structure parameters of aggregated red blood cells from backscatter measurements
+Differential Operator in Seizure Detection
+Etude m 'ecanique des articles de contention et de leurs effets sur la jambe humaine. Mechanical investigation of compression stockings and of their effects on the human leg
+Shannon entropies of the distributions of various electroencephalograms from epileptic humans
+Effect of fingerprints orientation on skin vibrations during tactile exploration of textured surfaces
+Hydrodynamics of catheter biofilm formation
+Techniques for the generation of 3D Finite Element Meshes of human organs
+Effets d'une suppl 'eance perceptive visuelle auditive et tactile sur le contr ole des pressions fessi eres en position assise
+A wireless lingual feedback device to reduce overpressures in seated posture: a feasibility study
+Magnetic Resonance Imaging with a Dielectric Lens
+The role of fingerprints in the coding of tactile information probed with a biomimetic sensor
+Dynamic behavior and microstructural properties of cancellous bone
+Living Tissue Self-Regulation as a Self-Organization Phenomenon
+Nonlinear parametric model for Granger causality of time series
+On the performance of different synchronization measures in real data: a case study on EEG signals
+Nonlinear denoising of transient signals with application to event related potentials
+On the uniqueness of the surface sources of evoked potentials
+Noise-based switches and amplifiers for gene expression
+Scaling-violation phenomena and fractality in the human posture control systems
+Approximate 3-Dimensional Electrical Impedance Imaging
+Designer Gene Networks: Towards Fundamental Cellular Control
+Phenomenological Theory of Survival
+Prediction of stable walking for a toy that cannot stand
+Ice Formation in Model Biological Membranes in the Presence of Cryoprotectors
+Phase Transition of DNA-Linked Gold Nanoparticle
+Scaling Properties of Fluctuations in Human Electroencephalogram
+Energy degrader optimization for medical beam lines
+Multi-energy techniques for radiographic monitoring of chemical composition
+Maximum-likelihood absorption tomography
+In-Vivo NMR of Hyperpolarized Helium-3 in the Human Lung at Very Low Magnetic Fields
+A stochastic model for heart rate fluctuations
+Perspectives for Positron Emission Tomography with RPCs
+Spectral Statistics of RR Intervals in ECG
+Wavelet analysis of epileptic spikes
+Interplay between geometry and flow distribution in an airway tree
+Interpretation of heart rate variability via detrended fluctuation analysis and alpha-beta filter
+Diagnostic performance of radiologists with and without different CAD systems for mammography
+The CALMA system: an artificial neural network method for detecting masses and microcalcifications in digitized mammograms
+Modeling Amyloid Beta Peptide Insertion into Lipid Bilayers
+GPCALMA: a Grid Approach to Mammographic Screening
+Critical Behavior in a Cellular Automata Animal Disease Transmission Model
+Direct reconstruction of the effective atomic number of materials by the method of multi-energy radiography
+Response of Autonomic Nervous System to Body Positions: Fourier and Wavelet Analysis
+Simulation of cellular irradiation with the CENBG microbeam line using GEANT4
+Dosimetry characterization of 32 P intravascular brachytherapy source wires using Monte Carlo codes PENELOPE and GEANT4
+Algorithm and performance of a clinical IMRT beam-angle optimization system
+Nonlinear optical contrast enhancement for optical coherence tomography
+Analysis of skin tissues spatial fluorescence distribution by the Monte Carlo simulation
+Stratification of the phase clouds and statistical effects of the non-Markovity in chaotic time series of human gait for healthy people and Parkinson patients
+Phase shifts of synchronized oscillators and the systolic diastolic blood pressure relation
+A simplified model of the source channel of the Leksell GammaKnife tested with PENELOPE
+Steady-state visual evoked potentials and phase synchronization in migraine
+Spatially Varying Steady State Longitudinal Magnetization in Distant Dipolar Field-based Sequences
+A simplified model of the source channel of the Leksell Gamma Knife (R) : testing multisource configurations with PENELOPE
+Optimization and performance of an optical cardio-magnetometer
+FDTD Simulation of Exposure of Biological Material to Electromagnetic Nanopulses
+Estimation of time delay by coherence analysis
+Leave-one-out prediction error of systolic arterial pressure time series under paced breathing
+Development and operation of a pixel segmented liquid-filled linear array for radiotherapy quality assurance
+The Unique Determination of Neuronal Currents in the Brain via Magnetoencephalography
+Polarized Helium to Image the Lung
+Pneumatic capillary gun for ballistic delivery of microparticles
+Theory of Frozen Waves
+Nonlinear Statistical Modelling and Model Discovery for Cardiorespiratory Data
+Mammographic image restoration using maximum entropy deconvolution
+Three-Dimensional FDTD Simulation of Biomaterial Exposure to Electromagnetic Nanopulses
+Estimation of coupling between oscillators from short time series via phase dynamics modeling: limitations and application to EEG data
+Performance of three-photon PET imaging: Monte Carlo simulations
+Leakage Tests for Am-241 Solid Sources Used for Liquid Xenon Detector Monitoring
+Effects of bone- and air-tissue inhomogeneities on the dose distributions of the Leksell Gamma Knife circledR calculated with PENELOPE
+Fully 3D Monte Carlo image reconstruction in SPECT using functional regions
+Characterization of charge collection in CdTe and CT using the transient current technique
+Analytical expressions for the longitudinal evolution of nondiffracting pulses truncated by finite apertures
+Integrated structural and functional optical imaging combining spectral-domain optical coherence and multiphoton microscopy
+Stray Field Magnetic Resonance Tomography using Ferromagnetic Spheres
+Spatiotemporal Fluctuation Induced Transition in a Tumor Model with Immune Surveillance
+Cancer and nonextensive statistics
+Time-invariant person-specific frequency templates in human brain activity
+Influences of tongue biomechanics on speech movements during the production of velar stop consonants: a modeling study
+Near-field imaging in the megahertz range by strongly coupled magnetoinductive surfaces: theoretical model and experimental validation
+How random is your heart beat?
+Strong Memory in Time Series of Human Magnetoencephalograms Can Identify Photosensitive Epilepsy
+Relaxation and phase space singularities in time series of human magnetoencephalograms as indicator of photosensitive epilepsy
+Application of Macro Response Monte Carlo method for electron spectrum simulation
+Experimental evidence for phase synchronization transitions in human cardio-respiratory system
+MPGDs in Compton imaging with liquid-xenon
+Comparison of Fluid Attenuated Inversion Recovery Sequence with Spin Echo T2-Weighted MRI for Characterization of Brain Pathology
+Posterior Basicranium Asymmetry and Idiopathic Scoliosis
+Ex-vivo detection of neural events using THz BioMEMS
+Distribution of Action Potential Duration and T-wave Morphology: a Simulation Study
+Application of Generalized Fokker-Planck Theory To Electron And Photon Transport In Tissue
+Intrinsic dynamics of heart regulatory systems on short time-scales: from experiment to modelling
+Heart Rate Variability Analysis Using Threshold of Wavelet Package Coefficients
+Air pollution modelling using a graphics processing unit with CUDA
+Anomalous Light Absorption by Small Particles
+Ex-vivo detection of neural events using THz BioMEMS
+Hyperthermia HeLa cell treatment with silica coated manganese oxide nanoparticles
+Validation of a New Method for Stroke Volume Variation Assessment: a Comparaison with the PiCCO Technique
+Nuclear Emulsion Film Detectors for Proton Radiography: Design and Test of the First Prototype
+Scientific and Technological Development of Hadrontherapy
+Measurement of Nuchal Translucency Thickness for Detection of Chromosomal Abnormalities using First Trimester Ultrasound Fetal Images
+Nano-Biotechnology: Structure and Dynamics of Nanoscale Biosystems
+Hybrid Workflow Policy Management for Heart Disease Identification
+Trends in Pixel Detectors: Tracking and Imaging
+Infrared Surface-Plasmon-Resonance -- a novel biophysical tool for studying living cell
+PCA-based lung motion model
+A Study of Multiple Refractive Scattering of Monoenergetic X-Rays from Ensembles of Monodisperse Spheres
+Monte Carlo Simulation of X-rays Multiple Refractive Scattering from Fine Structure Objects imaged with the DEI Technique
+Minimax Current Density Coil Design
+Development of a GPU-based Monte Carlo dose calculation code for coupled electron-photon transport
+Origin of broad polydispersion in functionalized dendrimers and its effects on cancer cell binding affinity
+Semi-Circular Canals Anomalies Idiopathic Scoliosis
+Dark-field Tomography: Modeling and Reconstruction
+Stochastic Aspect of the Tomographic Reconstruction Problems in a Transport Model
+Higher-order Reconstruction Method of Differential Phase Shift
+Experimental Study of Pollutant Transfer within Dwellings
+Experimental Evaluation of Ventilation Systems in a Single-Family Dwelling
+Assessment of Pollutant Spread from a Building Basement with three Ventilation Systems
+A proposed increase in retinal field-of-view may lead to spatial shifts in images
+GPU-based ultra-fast direct aperture optimization for online adaptive radiation therapy
+Emulsion Cloud Chamber technique to measure the fragmentation of a high-energy carbon beam
+GPU-based Fast Low-dose Cone Beam CT Reconstruction via Total Variation
+GPU-based Fast Cone Beam CT Reconstruction from Undersampled and Noisy Projection Data via Total Variation
+Real-time volumetric image reconstruction and 3D tumor localization based on a single x-ray projection image for lung cancer radiotherapy
+Influence of spatially modified tissue on atrial fibrillation patterns: Insight from solutions of the FitzHugh-Nagumo equations
+Anisotropic Anomalous Diffusion assessed in the human brain by scalar invariant indices
+Compressed Sensing with off-axis frequency-shifting holography
+Frequency and Phase Synchronization in Neuromagnetic Cortical Responses to Flickering-Color Stimuli
+Modulation of Autonomous Nervous System activity by gyrosonic stimulation
+Minimal Protocol for MRS Quality Control and Acceptance Test for Philips-Achieva MRS Tool
+A modified porous titanium sheet prepared by plasma activated sintering for biomedical applications
+Bone regenerative potential of mesenchymal stem cells on a micro-structured titanium processed by wire-type electric discharge machining
+Anxiety as a Factor in the Development of Autistic Spectrum Symptoms: an Experimental Study
+Detecting the Most Unusual Part of Two and Three-dimensional Digital Images
+Filter banks and the Intensity Analysis of EMG
+ECG Feature Extraction Techniques - A Survey Approach
+Optimal branching asymmetry of hydrodynamic pulsatile trees
+Multiscale approach to radiation damage induced by ion beams: complex DNA damage and effects of thermal spikes
+Tissue equivalence of some phantom materials for proton beams
+Ultra-fast treatment plan optimization for volumetric modulated arc therapy (VMAT)
+Mathematical model of fluid flow in an osteon influence of cardiac system
+Classification of interstitial lung disease patterns with topological texture features
+Lagged Poincar ' e and auto-correlation analysis of Heart rate variability in diabetes
+A fast and robust patient specific Finite Element mesh registration technique: application to 0 clinical cases
+The thermodynamics of lipid ion channel formation in the absence and presence of anesthetics. BLM experiments and simulations
+Deterministic Partial Differential Equation Model for Dose Calculation in Electron Radiotherapy
+Transient Anomaly Imaging in Visco-Elastic Media Obeying a Frequency Power-Law
+Peristaltic Transport of a Physiological Fluid in an Asymmetric Porous Channel in the Presence of an External Magnetic Field
+Anomalous scaling law for noise variance and spatial resolution in differential phase contrast computed tomography
+A system outlook on the vision problem associated with observation of light flickering at the micro-saccades' frequency
+Fast Mojette Transform for Discrete Tomography
+Stabilized Radiation Pressure Dominated Ion Acceleration from Thin-foil Targets
+Non-extensive radiobiology
+Cross-correlation markers in stochastic dynamics of complex systems
+A Monte Carlo Simulation study of Most Likely Position (MLP) and Position Vector (PV) methods in TOFPET
+A new approach to position reconstruction in TOFPET
+The effects of nonlinear wave propagation on the stability of inertial cavitation
+A Q-Ising model application for linear-time image segmentation
+On axoplasmic pressure waves and their possible role in nerve impulse propagation
+Tailored RF pulse optimization for magnetization inversion at ultra high field
+A fast and robust patient specific Finite Element mesh registration technique: application to 0 clinical cases
+Effect of induced magnetic field on peristaltic flow of a micropolar fluid in an asymmetric channel
+Flow and Heat Transfer of a MHD Viscoelastic Fluid in a Channel with Stretching Walls: Some Applications to Haemodynamics
+Mapping cellular magnesium using X-ray microfluorescence and atomic force microscopy
+Physics-related epistemic uncertainties in proton depth dose simulation
+Buffering blood pressure fluctuations by respiratory sinus arrhythmia may in fact enhance them: a theoretical analysis
+Magnetically modulated fluorescent probes in turbid media
+Perception of Surface Defects by Active Exploration with a Biomimetic Tactile Sensor
+Homeostatic competition drives tumor growth and metastasis nucleation
+A High-Resolution Human Contact Network for Infectious Disease Transmission
+The Entropy of Morbidity Trauma and Mortality
+Machine Science in Biomedicine: Practicalities Pitfalls and Potential
+Toward A Quantitative Understanding of Gas Exchange in the Lung
+Large specific absorption rates in the magnetic hyperthermia properties of metallic iron nanocubes
+Integral equation models for thermoacoustic imaging of dissipative tissue
+Perturbation Resilience and Superiorization of Iterative Algorithms
+Approximated segmentation considering technical and dosimetric constraints in intensity-modulated radiation therapy with electrons
+The Electron Capture Hypothesis - A Challenge to Neuroscientists
+Computer Aided Interpretation Approach for Optical Tomographic Images
+Production of Medical Radioisotopes with High Specific Activity in Photonuclear Reactions with gamma Beams of High Intensity and Large Brilliance
+A method for the determination of nuclear cross sections of proton beams by the collective model and extended nuclear-shell theory
+Foundation of an analytical proton beamlet model for inclusion in a general proton dose calculation system
+An adaptive algorithm for the cornea modeling from keratometric data
+Spatially regularized compressed sensing of diffusion MRI data
+Top-Down Multilevel Simulation of Tumor Response to Treatment in the Context of In Silico Oncology
+Laboratory Report (LR) to the paper Foundation of an analytical proton beamlet model for inclusion in a general proton dose calculation system arXiv:100.032
+How can we kill cancer cells: insights from the computational models of apoptosis
+How is the Monoclonal Antibodies Kinetic Affected by Changes of Their Physical Parameters?
+Radiation therapy calculations using an on-demand virtual cluster via cloud computing
+Chemotactic predator-prey dynamics
+Functional data analytic approach of modeling ECG T-wave shape to measure cardiovascular behavior
+Microtesla MRI with dynamic nuclear polarization
+Transcranial stimulability of phosphenes by long lightning electromagnetic pulses
+Longitudinal acoustic properties of poly(lactic acid) and poly(lactic-co-glycolic acid)
+Is it Possible to Extract Metabolic Pathway Information from In Vivo H Nuclear Magnetic Resonance Spectroscopy Data?
+Robust dual-field optimization of scanned ion beams against range and setup uncertainties
+Emergent Properties of Tumor Microenvironment in a Real-life Model of Multicell Tumor Spheroids
+Physiological modeling of isoprene dynamics in exhaled breath
+Multi-focal laser surgery: cutting enhancement by hydrodynamic interactions between cavitation bubbles
+Comparative study of depth-dose distributions for beams of light and heavy nuclei in tissue-like media
+MCHIT - Monte Carlo model for proton and heavy-ion therapy
+PET monitoring of cancer therapy with He-3 and C-12 beams: a study with the GEANT4 toolkit
+Total variation superiorization schemes in proton computed tomography image reconstruction
+High Performance In Vivo Near-IR (1 mu m) Imaging and Photothermal Cancer Therapy with Carbon Nanotubes
+A GPU implementation of a track-repeating algorithm for proton radiotherapy dose calculations
+Ultrafast vibrational motion of carbon nanotubes in different pH environments
+A constrained total-variation minimization algorithm for low-intensity X-ray CT
+Proton scattering power of some tissue-equivalent plastics
+Ball on a beam: stabilization under saturated input control with large basin of attraction
+Analytical expressions for stopping-power ratios relevant for accurate dosimetry in particle therapy
+IPIP: A New Approach to Inverse Planning for HDR Brachytherapy by Directly Optimizing Dosimetric Indices
+Outflow boundary conditions for 3D simulations of non-periodic blood flow and pressure fields in deformable arteries
+GPU-based fast gamma index calcuation
+Increasing risk behavior can outweigh the benefits of anti-retroviral drug treatment on the HIV incidence among men-having-sex-with-men in Amsterdam
+Single-Scattering Optical Tomography: Simultaneous Reconstruction of Scattering and Absorption
+Inversion formulas for the broken-ray Radon transform
+Theoretical methods for the calculation of Bragg curves and 3D distributions of proton beams
+GPU-based Low-dose 4DCT Reconstruction via Temporal Non-local Means
+GPU-based Low Dose CT Reconstruction via Edge-preserving Total Variation Regularization
+Site-specific Quantification of Bone Quality using Highly Nonlinear Solitary Waves
+Progress in the Development of Plasma Panel Radiation Detectors
+Iterative method for solution of radiation emission transmission matrix equations
+The impact of a carbon nanotube on the cholesterol domain localized on a protein surface
+Generation of Medical X-ray and Terahertz Beams of Radiation Using Table-Top Accelerators
+GPUMCD: a new GPU-oriented Monte Carlo dose calculation platform
+ECG beats classification using waveform similarity and RR interval
+Determination of Different Biological Factors on the Base of Dried Blood Spot Technology
+Beam Orientation Optimization for Intensity Modulated Radiation Therapy using Adaptive l1 Minimization
+A Primer on Computational Simulation in Congenital Heart Disease for the Clinician
+Gamma Radiation Measurements and Dose Rates in Commonly Used Building Materials in Cyprus
+Natural gaits of the non-pathological flat foot and high-arched foot
+Working toward exposure thresholds for blast-induced traumatic brain injury: thoracic and acceleration mechanisms
+A Table-top Blast Driven Shock Tube
+History and evidence regarding hydrostatic shock
+3D tumor localization through real-time volumetric x-ray imaging for lung cancer radiotherapy
+Theoretical signal-to-noise ratio of a slotted surface coil for magnetic resonance imaging
+Active split-ring metamaterial slabs for magnetic resonance imaging
+Electrostriction Effects During Defibrillation
+Statistical mechanics formulation of radiobiology
+Stable laser-driven proton beam acceleration from a two-specie ultra-thin foil
+Deuteron-induced reactions generated by intense Lasers for PET isotope production
+A Comparison of Two Human Brain Tumor Segmentation Methods for MRI Data
+Evaluation of a Novel Approach for Automatic Volume Determination of Glioblastomas Based on Several Manual Expert Segmentations
+Aorta Segmentation for Stent Simulation
+A Flexible Semi-Automatic Approach for Glioblastoma multiforme Segmentation
+Pituitary Adenoma Segmentation
+Multi-parameter acoustic imaging of uniform objects in inhomogeneous media
+4D Wavelet-Based Regularization for Parallel MRI Reconstruction: Impact on Subject and Group-Levels Statistical Sensitivity in fMRI
+Magnetic properties and energy absorption of CoFe2O4 nanoparticles for magnetic hyperthermia
+A simple model of cerebral blood flow dependence on arterial blood pressure
+Peculiarities of Brain's Blood Flow : Role of Carbon Dioxide
+Oxygenation and Blood Volume Periodic Waveforms in the Brain
+Simple exercises that significantly increase cerebral blood flow and cerebral oxygenation
+Probing brain oxygenation with near infrared spectroscopy
+A Parametric Level Set Approach to Simultaneous Object Identification and Background Reconstruction for Dual Energy Computed Tomography
+Prosthetic finger phalanges with lifelike skin compliance for low-force social touching interactions
+Observations of Fallout from the Fukushima Reactor Accident in San Francisco Bay Area Rainwater
+Effect of time and storing conditions on iron forms in ferrous gluconate and Ascofer
+Simple models for dynamic hysteresis loops calculation: Application to hyperthermia optimization
+Homologous Control of Protein Signaling Networks
+A GPU-based finite-size pencil beam algorithm with 3D-density correction for radiotherapy dose calculation
+Direct creation of micro-domains with positive and negative surface potential on hydroxyapatite coatings
+Dosimetric uncertainties related to the elasticity of bladder and rectal walls: Adenocarcinoma of the prostate
+High resolution image reconstruction with constrained total-variation minimization
+Prosper: image and robot-guided prostate brachytherapy
+Toward optimal X-ray flux utilization in breast CT
+Algorithmic choice of coordinates for injections into the brain: encoding a neuroanatomical atlas on a grid
+Commissioning of a Geant4 based treatment plan simulation tool: linac model and dicom-rt interface
+Xampling in Ultrasound Imaging
+An MRI-Derived Definition of MCI-to-AD Conversion for Long-Term Automati c Prognosis of MCI Patients
+An artifact in fits to conic-based surfaces
+GPU-based Iterative Cone Beam CT Reconstruction Using Tight Frame Regularization
+Spatio-temporal structure of cell distribution in cortical Bone Multicellular Units: a mathematical model
+Abnormal effective connectivity in migraine with aura under photic stimulation
+Sharp bounds on the volume fractions of two materials in a two-dimensional body from electrical boundary measurements: the translation method
+A CAD Interface for GEANT4
+Patient-Specific Prosthetic Fingers by Remote Collaboration - A Case Study
+Technical Note: Radiotherapy dose calculations using GEANT4 and the Amazon Elastic Compute Cloud
+Mechanical Characterization of Amyloid Fibrils Using Coarse-Grained Normal Mode Analysis
+X-ray phase contrast imaging of biological specimens with tabletop synchrotron radiation
+Deep-Tissue Anatomical Imaging of Mice Using Carbon Nanotube Fluorophores in the Second Near Infrared Window
+Cerebrovascular injury caused by a high strain rate insult in the thorax
+Optimal radiotherapy treatment planning using minimum entropy models
+Degassing of Bioliquids in Low Electromagnetic Fields
+Desynchronization of systems of coupled Hindmarsh-Rose oscillators
+Harmonic analysis of spherical sampling in diffusion MRI
+Omni-tomography Multi-tomography -- Integrating Multiple Modalities for Simultaneous Imaging
+The OPFOS microscopy family: High-resolution optical-sectioning of biomedical specimens
+Analysis and Optimisation of Pulse Dynamics for Magnetic Stimulation
+Study on radon and radium concentrations in drinking water in west region of Iran
+Measurement of airborne 131I 134Cs and 13Cs nuclides due to the Fukushima reactors accident in air particulate in Milan (Italy)
+Fourier transform based iterative method for x-ray differential phase-contrast computed tomography
+Performance simulation of a MRPC-based PET Imaging System
+Decay of nuclear hyperpolarization in silicon microparticles
+Variable stars magnitudes estimations exploiting the eye physiology
+Detecting single viruses and nanoparticles using whispering gallery microlasers
+Failure of Mineralized Collagen Microfibrils Using Finite Element Simulation Coupled to Mechanical Quasi-brittle Damage
+Evidence-Based Filters for Signal Detection: Application to Evoked Brain Responses
+Prostate biopsy tracking with deformation estimation
+GPU-based fast Monte Carlo simulation for radiotherapy dose calculation
+Gafchromic film dosimetry: calibration methodology and error analysis
+Multiscale approach for bone remodeling simulation based on finite element and neural network computation
+State-space solutions to the dynamic magnetoencephalography inverse problem using high performance computing
+A model for red blood cells in simulations of large-scale blood flows
+Fast multi-scale edge-detection in medical ultrasound signals
+An acoustically-driven biochip - Impact of flow on the cell-association of targeted drug carriers
+Peristaltic flow of a fluid in a porous channel: A study having relevance to flow of bile within ducts in a pathological state
+Instability and Sausage-String' Appearance in Blood Vessels during High Blood Pressure
+A preliminary study of acoustic propagation in thick foam tissue scaffolds composed of poly(lactic-co-glycolic acid)
+Nonparametric tests of structure for high angular resolution diffusion imaging in Q-space
+On spatial and temporal multilevel dynamics and scaling effects in epileptic seizures
+Elimination of Specular reflection and Identification of ROI: The First Step in Automated Detection of Cervical Cancer using Digital Colposcopy
+Nanodiamond as a vector for siRNA delivery to Ewing sarcoma cells
+An Assessment of What does photon energy tell us about cellphone safety by Dr. William Bruno
+The physical condition from the perspective of complexity: Application of a physical activity program for Alzheimer's disease
+Differential Phase-contrast Interior Tomography
+Multi-Criteria Optimization for Image Guidance
+Liquid Xenon Detectors for Positron Emission Tomography
+Deconvolution of a linear combination of Gaussian kernels by an inhomogeneous Fredholm integral equation of second kind and applications to image processing
+Monte Carlo study of a 3D Compton imaging device with GEANT4
+Aerial Measurement of Radioxenon Concentration off the West Coast of Vancouver Island following the Fukushima Reactor Accident
+Differing self-similarity in light scattering spectra: A potential tool for pre-cancer detection
+Implementation of the direct evaluation of strains using a phase analysis code for random patterns
+The role of electron capture and energy exchange of positively charged particles passing through matter
+Artificial Skin Ridges Enhance Local Tactile Shape Discrimination
+Direct strain and slope measurement using 2D DSPSI Title
+A Scintillating Fiber Dosimeter for Radiology and Brachytherapy with photodiode readout
+Theory of coupled electromagnetic circuits the connection to quantum mechanical resonance interactions and relevance to chronobiology
+Identification of Heterogeneous Elastic Properties in Stenosed Arteries: a Numerical Plane Strain Study
+The grid-dose-spreading algorithm for dose distribution calculation in heavy charged particle radiotherapy
+Theoretical study of Acousto-optical coherence tomography using random phase jumps on US and light
+Low probability Bid-Bax reaction generates heterogeneity in apoptosis resistance of cancer and cancer stem cells
+Fast Monte Carlo Simulation for Patient-specific CT CBCT Imaging Dose Calculation
+Radiation Measurements at the Campus of Fukushima Medical University through the 2011 off the Pacific Coast of Tohoku Earthquake and Subsequent Nuclear Power Plant crisis
+Ensuring convergence in total-variation-based reconstruction for accurate microcalcification imaging in breast X-ray CT
+Magnetic Resonance Connectome Automated Pipeline
+Effect of acoustic streaming on tissue heating due to high-intensity focused ultrasound
+Automated Seizure Detection: Unrecognized Challenges Unexpected Insights
+Towards a Probabilistic Definition of Seizures
+Magnetoencephalography based on high-Tc superconductivity: a closer look into the brain?
+Lung Function Measurement with Multiple-Breath-Helium Washout System
+Dynamic Properties of Human Bronchial Airway Tissues
+Effect of Encoding Method on the Distribution of Cardiac Arrhythmias
+Stress Clamp Experiments on Multicellular Tumor Spheroids
+Label-free bacteria detection using evanescent mode of a suspended core terahertz fiber
+Ultrasonic imaging with limited-diffraction beams
+3D Meshes Registration : Application to statistical skull model
+3D statistical facial reconstruction
+Statistical skull models from 3D X-ray images
+Measurement Limits to 134Cs Concentration in Soil
+The role of mathematical modeling in VOC analysis using isoprene as a prototypic example
+Effect of intense ultrashort laser pulses on DNA plasmids in their native state: strand breakages induced by it in-situ electrons and radicals
+Multicriteria VMAT optimization
+Probing Tissue Multifractality Using Wavelet based Multifractal Detrended Fluctuation Analysis: Applications in Precancer Detection
+Radiobiological investigations at tumor cell lines by exploiting chrono-biological aspects of chronological dose distributions
+Radiation Damping for Speeding-up NMR Applications
+Finite element 3D modeling of mechanical behavior of mineralized collagen microfibrils
+A 3D Multiscale Modelling of Cortical Bone Structure Using the Inverse Identification Method: Microfibril Scale Study
+Non-invasive estimation of the metabolic heat production of breast tumors using digital infrared imaging
+Image acceleration in parallel magnetic resonance imaging by means of metamaterial magnetoinductive lenses
+Increased Coupling in the Saliency Network is the main cause effect of Attention Deficit Hyperactivity Disorder
+Exact method for determining subsurface radioactivity depth profiles from gamma spectroscopy measurements
+Including robustness in multi-criteria optimization for intensity-modulated proton therapy
+Establishing versus Maintaining Brain Function: A Neuro-computational Model of Cortical Reorganization after Injury to the Immature Brain
+Dose calculation algorithm of fast fine-heterogeneity correction for heavy charged particle radiotherapy
+Modeling of beam customization devices in the pencil beam splitting algorithm for heavy charged particle radiotherapy
+Dengue disease basic reproduction number and control
+Investigation of bone resorption within a cortical basic multicellular unit using a lattice-based computational model
+Calculation of complex DNA damage induced by ions
+A comprehensive study on the relationship between image quality and imaging dose in low-dose cone beam CT
+Modeling of biological doses and mechanical effects on bone transduction
+Concept to assess the human perception of odour by estimating short-time peak concentrations from one-hour mean values. Reply to a comment by M uller et al
+Four-dimensional Cone Beam CT Reconstruction and Enhancement using a Temporal Non-Local Means Method
+Cyclic Correlation of Diffuse Reflected Signal with Glucose Concentration and scatterer size
+Double strand breaks in DNA resulting from double-electron-emission events
+Comparison of Image Registration Based Measures of Regional Lung Ventilation from Dynamic Spiral CT with Xe-CT
+Neural network prediction of load from the morphology of trabecular bone
+A Dynamic Programming Approach to Adaptive Fractionation
+Submillimeter nuclear medical imaging with a Compton Camera using triple coincidences of collinear beta annihilation photons and gamma-rays
+A von Neumann Alternating Method for Finding Common Solutions to Variational Inequalities
+Asymptotics of the resonances for a continuously stratified layer
+Explicit Reconstructions in QPAT QTAT TE and MRE
+A Hierachical Evolutionary Algorithm for Multiobjective Optimization in IMRT
+When is Better Best? A multiobjective perspective
+Polarization Sensitive Optical Coherence Tomography for Blood Glucose Monitoring in Human Subjects
+Computational Models of Material Interfaces for the Study of Extracorporeal Shock Wave Therapy
+Large Field High Resolution Full Field Optical Coherence Tomography: A Pre-clinical study of human breast tissue and cancer assessment
+Bone in vivo: Surface mapping technique
+Undulation Instability of Epithelial Tissues
+Simulations of a micro-PET System based on Liquid Xenon
+Structural Optimisation: Biomechanics of the Femur
+Convex optimization problem prototyping for image reconstruction in computed tomography with the Chambolle-Pock algorithm
+Effect of glycerol and dimethyl sulfoxide on the phase behavior of lysozyme: Theory and experiments
+Hybrid tomography for conductivity imaging
+Controllability of 3D Low Reynolds Swimmers
+High-resolution Time-Of-Flight PET with Depth-Of-Interaction becomes feasible: a proof of principle
+Quantification of depletion-induced adhesion of Red Blood Cells
+Simultaneous measurement of quality factor and wavelength shift by phase shift microcavity ring down spectroscopy
+Measurements of Dose Distribution outside the Treatment Area in case of Radiotherapy Treatment using Polystyrene Phantom
+Fluorescence microscopy beyond the ballistic regime by ultrasound pulse guided digital phase conjugation
+Automated Estimation of Collagen Fibre Dispersion in the Dermis and its Contribution to the Anisotropic Behaviour of Skin
+Finite element modelling of shock-induced damages on ceramic hip prostheses
+Shock machine for the mechanical behaviour of hip prostheses: a description of performance capabilities
+Nuclear fragmentation reactions in extended media studied with Geant4 toolkit
+Oxy-acetylene driven laboratory scale shock tubes for studying blast wave effects
+Study of the time and space distribution of beta emitters from 0 MeV u carbon ion beam irradiation on PMMA
+Synchronous phase-demodulation of high spatial frequency concentric-rings Placido fringe patterns
+Thermal modelling for endocardiac radiofrequency ablation: comparison of hyperbolic bioheat equation and Pennes bioheat equation with finite element method
+Two-dimensional finite element simulation of fracture and fatigue behaviours of alumina microstructures for hip prosthesis
+Computational comparison of the bending behavior of aortic stent-grafts
+Mechanical identification of layer-specific properties of mouse carotid arteries using 3D-DIC and a hyperelastic anisotropic constitutive model
+Digital interferometric demodulation of Placido mires applied to corneal topography
+Noninvasive method for electrocardiogram recording in conscious rodents with the electro-conductive liquid electrodes
+Cine cone beam CT reconstruction using low-rank matrix factorization: algorithm and a proof-of-princple study
+Microcanonical processing methodology for ECG and intracardial potential: application to atrial fibrillation
+Extrapolation and Local Acceleration of an Iterative Process for Common Fixed Point Problems
+Optimal Surface Marker Locations for Tumor Motion Estimation in Lung Cancer Radiotherapy
+Recognition of Words from the EEG Laplacian
+CT to Cone-beam CT Deformable Registration With Simultaneous Intensity Correction
+Determination of the Defining Boundary in Nuclear Magnetic Resonance Diffusion Experiments
+Acoustic Communication for Medical Nanorobots
+Techniques of Proton Radiotherapy: Transport Theory
+A GPU Tool for Efficient Accurate and Realistic Simulation of Cone Beam CT Projections
+Analysis of theoretical NMR spectra generated by exact solutions of the Bloch-McConnell and the Bloch-Torrey equations for a two-compartment radial diffusive exchange model
+Characteristic spectral features of the polarized fluorescence of human breast cancer in the wavelet domain
+NMR Based Diffusion Pore Imaging by Double Wave Vector Measurements
+Optimal partial-arcs in VMAT treatment planning
+Beam Energy Considerations for Gold Nano-Particle Enhanced Radiation Treatment
+Can persistent Epstein-Barr virus infection induce Chronic Fatigue Syndrome as a Pavlov reflex of the immune response?
+Analysis of cross-correlations in electroencephalogram signals as an approach to proactive diagnosis of schizophrenia
+Companding technique for high dynamic range measurements using gafchromic films
+Convergence and Perturbation Resilience of Dynamic String-Averaging Projection Methods
+High-power test results of a 3 GHz single-cell cavity
+A Dual-Beam Irradiation Facility for a Novel Hybrid Cancer Therapy
+Systematic grid-wise radon concentration measurements and first radon map in Cyprus
+Toxicity of lunar dust
+Magnetocardiography with a modular spin-exchange relaxation free atomic magnetometer array
+Reduced-order modeling for cardiac electrophysiology. Application to parameter identification
+Spatial Modulation Microscopy for Real-Time Imaging of Plasmonic Nanoparticles and Cells
+Three Dimensional Expansion of Margins for Single-fraction Treatments: Stereotactic Radiosurgery Brain Cases
+Resolution of Identity Crisis of Events in Pile-up
+Opportunities in Delivery of Preventive Services in Retail Settings
+Electromagnetic Hydrophone with Tomographic System for Absolute Velocity Field Mapping
+Model of cell response to alpha -particle radiation
+Pulsatile Drug Delivery System Based on Electrohydrodynamic Method
+Telerobotic Pointing Gestures Shape Human Spatial Cognition
+Calculation of Droplet Size and Formation Time in Electrohydrodynamic Based Pulsatile Drug Delivery System
+Assessment of the radiological impact of a decommissioning nuclear power plant in Italy
+The ERA2 facility: towards application of a fiber-based astronomical spectrograph for imaging spectroscopy in life sciences
+The Impacts of Subsidy Policies on Vaccination Decisions in Contact Networks
+Microwave Spectrometry for the Evaluation of the Dimensions of Coronary Stents
+Ionization Cluster Size Distributions Created by Low Energy Electrons and Alpha Particles in Nanometric Track Segment in Gases
+Diverse routes to oscillation death in a coupled oscillator system
+Rapid Simultaneous Mapping of Total and Myelin Water Content T1 and T2 in Multiple Sclerosis
+Quantifying admissible undersampling for sparsity-exploiting iterative image reconstruction in X-ray CT
+Statistical characterization of tissue images for detection and classification of cervical precancers
+EEG-assisted retrospective motion correction for fMRI: E-REMCOR
+From individual to population: Challenges in Medical Visualization
+Inference of Time-Evolving Coupled Dynamical Systems in the Presence of Noise
+Simultaneous Reduction of Two Common Autocalibration Errors in GRAPPA EPI Time Series Data
+Superiorization: An optimization heuristic for medical physics
+Dynamics of Snoring Sounds and Its Connection with Obstructive Sleep Apnea
+Geometric optimal control of the contrast imaging problem in Nuclear Magnetic Resonance
+Breaking the spatial resolution barrier via iterative sound-light interaction in deep tissue microscopy
+Exploring the physical limits of saturation contrast in Magnetic Resonance Imagign
+Imaging cardiac dynamics using low-cost ultra-high-power light emitting diodes and voltage-sensitive dyes
+Schroedinger Eigenmaps for the Analysis of Bio-Medical Data
+Position Reconstruction in a Dual Phase Xenon Scintillation Detector
+Long Brief Pulse Method for Pulse-wave modified Electroconvulsive Therapy
+Charged particle's flux measurement from PMMA irradiated by 0 MeV u carbon ion beam
+Convolution deconvolution of generalized Gaussian kernels with applications to proton photon physics and electron capture of charged particles
+Development of a Novel Robot for Transperineal Needle Based Interventions: Focal Therapy Brachytherapy and Prostate Biopsies
+First Clinical Experience in Urologic Surgery with a Novel Robotic Lightweight Laparoscope Holder
+Application of a spring-dashpot system to clinical lung tumor motion data
+Automated Image Analysis of Hodgkin lymphoma
+Gigapixel microscopy using a flatbed scanner
+Identifying Brain Image Level Endophenotypes in Epilepsy
+Modeling the long term dynamics of pre-vaccination pertussis
+Wavelet-based multifractal analysis of laser biopsy imagery
+A toy model of fractal glioma development under RF electric field treatment
+Unipolar Time-Differential Pulse Response with a Solid-State Charpak Photoconductor
+In Vivo Renal Clearance Biodistribution Toxicity of Gold nanoclusters
+Size-dependent radiosensitization of PEG-coated gold nanoparticles for cancer radiation therapy
+A Quantum Mechanical Review of Magnetic Resonance Imaging
+Assessment of Radio-Frequency Radiation Exposure Level from Selected Mobile Base Stations (MBS) in Lokoja Kogi State Nigeria
+A Simulation of the Effects of Receive Field Contrast on Motion-Corrected EPI Time Series
+Acoustic Noise of MRI Scans of the Internal Auditory Canal and Potential for Intracochlear Physiological Changes
+A Multi-Criteria Framework with Voxel-Dependent Parameters for Radiotherapy Treatment Plan Optimization
+X-ray Fluorescence Sectioning
+Speed-of-sound compensated photoacoustic tomography for accurate imaging
+Investigation of iterative image reconstruction in three-dimensional optoacoustic tomography
+A simple Fourier transform-based reconstruction formula for photoacoustic computed tomography with a circular or spherical measurement geometry
+Deliverable navigation for multicriteria step and shoot IMRT treatment planning
+Multifunctional in vivo vascular imaging using near-infrared II fluorescence
+Influence of paroxysmal activity on background synchronization in epileptic records
+Skull Flexure from Blast Waves: A Mechanism for Brain Injury with Implications for Helmet Design
+Peristaltic Pumping of Blood Through Small Vessels of Varying Cross-section
+Peristaltic Transport of a Couple Stress Fluid: Some Applications to Hemodynamics
+A modeling-based evaluation of isothermal rebreathing for breath gas analyses of highly soluble volatile organic compounds
+Peristaltic Transport of a Rheological Fluid: Model for Movement of Food Bolus Through Esophagus
+Toward reducing impact induced brain injury: Lessons from a computational study of army and football helmet pads
+Novel multifunctional 0-labelled albumin magnetic microspheres for cancer therapy
+Monitoring spike train synchrony
+Extracting respiratory signals from thoracic cone beam CT projections
+Demonstrating the Usefulness of CAELinux for Computer Aided Engineering using an Example of the Three Dimensional Reconstruction of a Pig Liver
+Digestion Modelling in the Small Intestine : Impact of Dietary Fibre
+Sparse and Optimal Acquisition Design for Diffusion MRI and Beyond
+An intelligent system for continuous blood pressure monitoring on remote multi-patients in real time
+Few-view single photon emission computed tomography (SPECT) reconstruction based on a blurred piecewise constant object model
+Verification of TG-1 dose for synchrotron-produced monochromatic x-ray beams using fluence-normalized MCNP calculations
+Dose-response curve of EBT EBT2 and EBT3 radiochromic films to synchrotron-produced monochromatic x-ray beams
+Diffusion Pore Imaging by Hyperpolarized Xenon-12 Nuclear Magnetic Resonance
+Using a Cocontraction Ratio to Predict Antagonistic Behavior During Elbow Motion
+Trend Validation of a Musculoskeletal Model with a Workstation Design Parameter
+Physics of Wound Healing I: Energy Considerations
+Compartmental analysis of renal physiology using nuclear medicine data and statistical optimization
+Sodium Magnetic Resonance Imaging: Biomedical Applications
+Investigation of the signature of lung tissue in X-ray grating-based phase-contrast imaging
+Anatomical MRI with an atomic magnetometer
+Multigap RPC for PET: development and optimisation of the detector design
+Omni-tomography: Next-generation Biomedical Imaging
+Diffusive Suppression of AC-Stark Shifts in Atomic Magnetometers
+Tsallis entropy approach to radiotherapy treatments
+Relationship between electron density and effective densities of body tissues for stopping scattering and nuclear interaction of proton and ion beams
+Exchange-dependent relaxation in the rotating frame for slow and intermediate exchange - modeling off-resonant spin-lock and chemical exchange saturation transfer
+Hot Electron and Pair Production from the Texas Petawatt Laser Irradiating Thick Gold Targets
+Dynamical Bayesian Inference of Time-evolving Interactions: From a Pair of Coupled Oscillators to Networks of Oscillators
+Relative acceleration approach for conduction failure of cardiac excitation propagation on anisotropic curved surfaces
+Directly created electrostatic micro-domains on hydroxyapatite: probing with a Kelvin Force probe and a protein
+A Contour-Guided Deformable Image Registration Algorithm for Adaptive Radiotherapy
+Polycrystal model of the mechanical behavior of a Mo-TiC30vol. metal-ceramic composite using a 3D microstructure map obtained by a dual beam FIB-SEM
+Thermo-mechanical FE model with memory effect for 304L austenitic stainless steel presenting microstructure gradient
+Travelling Wave Magnetic Resonance Imaging at 3 Tesla
+In vitro investigation of the effects of X- rays carried by a photon beam upon the cell cycle progression in Vero cells
+Spread spectrum compressed sensing MRI using chirp radio frequency pulses
+On the birefringence of healthy and malaria-infected red blood cells
+Performance of solenoids vs. quadrupoles in focusing and energy selection of laser accelerated protons
+Effect of Statistical Fluctuation in Monte Carlo Based Photon Beam Dose Calculation on Gamma Index Evaluation
+First-order convex feasibility algorithms for iterative image reconstruction in X-ray CT
+Investigation of activation cross-sections of proton induced nuclear reactions on natTl up to 42 MeV: review new data and evaluation
+Sparse MRI for motion correction
+The Invalidity of the Laplace Law for Biological Vessels and of Estimating Elastic Modulus from Total Stress vs. Strain: a New Practical Method
+Test Sensitivity in the Computer-Aided Detection of Breast Cancer from Clinical Mammographic Screening: a Meta-analysis
+Untersuchungen zur Sprechtraktakustik
+Characterising the Anisotropic Mechanical Properties of Excised Human Skin
+A High Rate Tension Device for Characterizing Brain Tissue
+Mechanical Characterization of Brain Tissue in Compression at Dynamic Strain Rates
+Extracting Three Dimensional Surface Model of Human Kidney from the Visible Human Data Set using Free Software
+A high-field 3He Metastability Exchange Optical Pumping polarizer operating in a 1. T medical scanner for lung MRI
+Boundary element method and simulated annealing algorithm applied to electrical impedance tomography image reconstruction
+3T MR-Guided Brachytherapy for Gynecologic Malignancies
+Singlet oxygen luminescence detection with a fiber-coupled superconducting nanowire single-photon detector
+Tensile material properties of human rib cortical bone under quasi-static and dynamic failure loading and influence of the bone microstucture on failure characteristics
+Temporal Heterogeneities Increase the Prevalence of Epidemics on Evolving Networks
+An optimized ultrasound detector for photoacoustic breast tomography
+Temperature Effects on Brain Tissue in Compression
+Inhomogeneous Deformation of Brain Tissue During Tension Tests
+Determination of Friction Coefficient in Unconfined Compression of Brain Tissue
+Imaging of non tumorous and tumorous human brain tissue with full-field optical coherence tomography
+On Systemic Destruction of Human Locomotor System
+The fixed-point iteration method for IMRT optimization with truncated dose deposition coefficient matrix
+Separating Topology and Geometry in Space Planning
+A study of volatile compounds in the breath of children with type 1 diabetes
+EndoTOFPET-US a Novel Multimodal Tool for Endoscopy and Positron Emission Tomography
+3D Residual Stress Field in Arteries: Novel Inverse Method Based on Optical Full-field Measurements
+Using evolutionary design to interactively sketch car silhouettes and stimulate designer's creativity
+Hydrogen nanobubbles in a water solution of dietary supplement
+Full-Wave Iterative Image Reconstruction in Photoacoustic Tomography with Acoustically Inhomogeneous Media
+Creation of high energy intensity bremsstrahlung by a multitarget and focusing of the scattered electrons by small-angle backscatter at a cone wall and a magnetic field II - Enhancement of the outcome of linear accelerators in radiotherapy
+Application of a stochastic modeling to evaluate tuberculosis onset in patients treated with tumor necrosis factor inhibitors
+Molecular imaging by optically-detected electron spin resonance of nitrogen-vacancies in nanodiamond
+Testing time series irreversibility using complex network methods
+Analytical modeling of pulse-pileup distortion using the true pulse shape applications to Fermi-GBM
+In Vivo Quantification of Clot Formation in Extracorporeal Circuits
+An Analytical Link Loss Model for On-Body Propagation Around the Body Based on Elliptical Approximation of the Torso with Arms' Influence Included
+Reducing Poisson noise and baseline drift in X-ray spectral images with bootstrap Poisson regression and robust nonparametric regression
+SURF imaging beams in an aberrative medium: generation and postprocessing enhancement
+The 'nanobig rods' class of gold nanorods: optimized dimensions for improved in vivo therapeutic and imaging efficacy
+Bayesian Odds-Ratio Filters: A Template-Based Method for Online Detection of P300 Evoked Responses
+Analytic Comparison between X-ray Fluorescence CT and K-edge CT
+Accelerating Image Reconstruction in Three-Dimensional Optoacoustic Tomography on Graphics Processing Units
+Relating the spectrum of cardiac signals to the spatiotemporal dynamics of cardiac sources
+Guaranteed epsilon-optimal treatment plans with minimum number of beams for stereotactic body radiation therapy
+Fabrication and modeling of piezoelectric transducers for High-Frequency medical imaging
+A numerical method for imaging of biological microstructures by VHF waves
+Pulmonary Vascular Tree Segmentation from Contrast-Enhanced CT Images
+Scalable Non-Invasive Glucose Sensor Based on Boronic Acid Functionalized Carbon Nanotube Transistors
+Dynamic Bowtie for Fan-beam CT
+Anomalous diffusion in the dynamics of complex processes
+Diffusion pore imaging with generalized temporal gradient profiles
+Comparison of two analysis methods for nuclear reaction measurements of 12C 12C interactions at  MeV u for hadrontherapy
+Meaning of Interior Tomography
+Properties of para-terphenyl as detector for alpha beta and gamma radiation
+Detection and size measurement of individual hemozoin nanocrystals in aquatic environment using a whispering gallery mode resonator
+Automatic Calibration Method of Voxel Size for Cone-beam 3D-CT Scanning System
+Multi-criteria optimization methods in radiation therapy planning: a review of technologies and directions
+NMR-Based Diffusion Lattice Imaging
+Sensitivity Enhancement of (Hyper-)CEST Image Series by Exploiting Redundancies in the Spectral Domain
+Experimental measurement of radiation dose in a dedicated breast CT system
+Early Detection of Alzheimer's - A Crucial Requirement
+A new acoustic lens material for large area detectors in photoacoustic breast tomography
+Two Effective Heuristics for Beam Angle Optimization in Radiation Therapy
+Bullet Retarding Forces in Ballistic Gelatin by Analysis of High Speed Video
+Critical values of the external magnetic field leading biological effects in the human organism
+Influence of Tissue Geometry on Transversal Relaxation
+Fluctuation Analysis of Human Electroencephalogram
+Quantifying Changes in the Spatial Structure of Trabecular Bone
+Electron and nuclear spin dynamics in the thermal mixing model of dynamic nuclear polarization
+Long Lived NMR Signal in Bone
+On the role of electron-nucleus contact and microwave saturation in Thermal Mixing DNP
+GPU-based Monte Carlo radiotherapy dose calculation using phase-space sources
+Nanoscale resolution immersion scanning thermal microscopy
+Diffusion imaging with stimulated echoes: signal models and experiment design
+Influence of Preservation Temperature on the Measured Mechanical Properties of Brain Tissue
+Measurement and Analysis of Radio-frequency Radiation Exposure Level from Different Mobile Base Transceiver Stations in Ajaokuta and Environs Nigeria
+Non-linear relationship of cell hit and transformation probabilities in low dose of inhaled radon progenies
+A Mass-Conserving 4D XCAT Phantom for Dose Calculation and Accumulation
+Monte Carlo investigation into feasibility and dosimetry of flat Flattening Filter Free beams
+Morphological instabilities of stratified epithelia: a mechanical instability in tumour formation
+Three-Dimensional Reconstruction of Erythrocyte in the Capillary
+Evaluation of imaging protocol for ECT based on CS image reconstruction algorithm
+Frequency Doubling Nanocrystals for Cancer Theranostics
+Temporal and Spatial Independent Component Analysis for fMRI data sets embedded in a R package
+Dependence of nuclear spin singlet lifetimes on RF spin-locking power
+Evaluation of plastic materials for range shifting range compensation and solid-phantom dosimetry in carbon-ion radiotherapy
+Microdosimetry of radiation field from therapeutic C-12 beam in water: a study with Geant4 toolkit
+The joint use of the tangential electric field and surface Laplacian in EEG classification
+Construction of a Gas Electron Multiplier (GEM) Detector for Medical Imaging
+A biomechanical model of swallowing for understanding the influence of saliva and food bolus viscosity on flavour release
+A Compact High Performance Atomic Magnetometer for Biomedical Applications
+A biomechanical modeling study of the effects of the orbicularis oris muscle and jaw posture on lip shape
+Study of characteristics for heavy water photoneutron source in boron neutron capture therapy
+A Muscle Model Based on Feldman's Lambda Model: 3D Finite Element Implementation
+Gap Cycling for SWIFT
+Dosimetric and Deformation Effects of Image-Guided Interventions during Stereotactic Body Radiation Therapy of the Prostate using an Endorectal Balloon
+Comparison of volume-selective z-shim and conventional EPI in fMRI studies using face stimuli
+Clinical output factors for carbon-ion beams passing through polyethylene
+Biomechanical caracterisation of lumbar belt by full-field techniques: Preliminary results
+Tensor-based formulation and nuclear norm regularization for multi-energy computed tomography
+Numerical Methods for Coupled Reconstruction and Registration in Digital Breast Tomosynthesis
+Simultaneous maximum-likelihood reconstruction for x-ray grating based phase-contrast tomography avoiding intermediate phase retrieval
+Non-Newtonian characteristics of peristaltic flow of blood in micro-vessels
+In vivo interactions between tungsten microneedles and peripheral nerves
+Rheological fluid motion in tube by metachronal wave of cilia
+The role of blood circulatory system in thermal regulation of animals explained by entropy production analysis
+Highly sensitive ammonia sensor using reflection of light at a glass - photonic crystal interface
+Intraoral Pressure in Ethnic Wind Instruments
+Spin lock composite and shaped pulses for efficient and robust pumping of dark states in magnetic resonance
+Biological effects and equivalent doses in radiotherapy: a software solution
+To what extent does not wearing shoes affect the local dynamic stability of the gait? Effect size and intra-session repeatability
+Inverse -spectrum analysis for MT- and spillover-corrected and T1-compensated steady-state pulsed CEST-MRI - application to pH-weighted MRI of acute stroke
+Double di ffential fragmentation cross sections measurements of  MeV u 12C on thin targets for hadrontherapy
+Characterization and performances of a monitoring ionization chamber dedicated to IBA-universal irradiation head for Pencil Beam Scanning
+Conceptual Foundations of Diffusion in Magnetic Resonance
+Enhanced Tumor Accumulation of Sub-2 nm Gold Nanoclusters for Cancer Radiation Therapy
+Quantum associative memory for the diagnosis of some tropical diseases
+Fluid Flow at Branching Junctions
+Monte Carlo Simulation of MV Elekta Synergy Platform Linac photon beam using Gate Geant4
+Measurement of acoustic and anatomic changes in oral and maxillofacial surgery patients
+Reliability calibration and metrology in ionizing radiation dosimetry
+Stored Luminescence Computed Tomography
+Mechanical Therapy as a Potential Green Way to Attack Cancer Disease
+Comprehensive Evaluations of Cone-beam CT dose in Image-guided Radiation Therapy via GPU-based Monte Carlo simulations
+Image-guided therapy system for interstitial gynecologic brachytherapy in a multimodality operating suite
+Asymmetric-detection time-stretch optical microscopy (ATOM) for ultrafast high-contrast cellular imaging in flow
+Reduced interhemispheric functional connectivity of children with autism: evidence from functional near infrared spectroscopy studies
+Spatio-temporal wavelet regularization for parallel MRI reconstruction: application to functional MRI
+Modelling the spreading rate of controlled communicable epidemics through an entropy-based thermodynamic model
+Novel detector systems for the Positron Emission Tomography
+TOF-PET detector concept based on organic scintillators
+STRIP-PET: a novel detector concept for the TOF-PET scanner
+Preparation of Nuclear Spin Singlet States using Spin-Lock Induced Crossing
+Applications of neutron activation spectroscopy
+Pre-treatment radiotherapy dose verification using Monte Carlo doselet modulation in a spherical phantom
+Technologies for Delivery of Proton and Ion Beams for Radiotherapy
+AIR: fused Analytical and Iterative Reconstruction method for computed tomography
+Application of Compressive Sensing Theory for the Reconstruction of Signals in Plastic Scintillators
+System Response Kernel Calculation for List-mode Reconstruction in Strip PET Detector
+Cyclostationary Approach for Heart and Respiration Rates Monitoring with Body Movement Cancellation Using Radar Doppler System
+Geometric analysis on the unidirectionality of the pulmonary veins for atrial reentry
+A simulation study of a dual-plate in-room PET system for dose verification in carbon ion therapy
+Elucidating the turbulence nature of the intracardiac flow: from medical images to multi-cycle Large Eddy Simulations
+The Potential of the Human Connectome as a Biomarker of Brain Disease
+Electrotactile vision substitution for 3D trajectory following
+Effect of saccades in tongue electrotactile stimulation for vision substitution applications
+SQUID-based multichannel system for Magnetoencephalography
+Fluid fragmentation from hospital toilets
+Determination Calculation and Representation of the Upper and Lower Sealing ones During Virtual Stenting of Aneurysms
+Feasibility Study of Real-Time Planning for Stereotactic Radiosurgery
+Is there any information on micro-structure in microwave tomography of bone tissue?
+AlfaMC: a fast alpha particle transport Monte Carlo code
+Studies on the Cherenkov Effect for Improved Time Resolution of TOF-PET
+Monitor backscatter factors for the Varian 21EX and TrueBeam linear accelerators: measurements and Monte Carlo modeling
+Prefrontal control of the amygdala during real-time fMRI neurofeedback training of emotion regulation
+The Life Potential : a new complex algorithm to assess Heart Rate Variability from Holter records for cognitive and diagnostic aims. Preliminary experimental results showing its dependence on age gender and health conditions
+A Convex Optimization Approach to pMRI Reconstruction
+Rotating-crystal Malaria Diagnosis: Pre-clinical validation
+Micro-modulated luminescence tomography
+Characteristics of multiplexing parallel beam (MPB) by using Monte Carlo simulation
+A Fast local Reconstruction algorithm by selective backprojection for Low-Dose in Dental Computed Tomography
+Degradation of alumina and zirconia toughened alumina (TA) hip prostheses tested under microseparation conditions in a shock device
+The Structural Stability of Wild-type Horse Prion Protein - Molecular Dynamics Studies
+Sparse regularization for fiber ODF reconstruction: from the suboptimality of ell 2 and ell 1 priors to ell 0
+Self-regulation of human brain activity using simultaneous real-time fMRI and EEG neurofeedback
+A Link Loss Model for the On-body Propagation Channel for Binaural Hearing Aids
+Aggregated motion estimation for real-time MRI reconstruction
+Dictionary-Learning-Based Reconstruction Method for Electron Tomography
+Radiotherapy planning for glioblastoma based on a tumor growth model: Improving target volume delineation
+Predicting the steady state thickness of passive films with the Point Defect Model in fretting corrosion experiments
+Fracture simulation for zirconia toughened alumina microstructure
+Metabolizable Bi2Se3 Nanoplates: Biodistribution Toxicity and Uses for Cancer Radiation Therapy and Imaging
+Modelling of the dielectric properties of trabecular bone samples at microwave frequency
+Top-level Design and Pilot Analysis of Low-end CT Scanners Based on Linear Scanning for Developing Countries
+Attenuation map reconstruction from TOF PET data
+Minimizing Metastatic Risk in Radiotherapy Fractionation Schedules
+Using synchrosqueezing transform to discover breathing dynamics from ECG signals
+Automatic Segmentation of Fluorescence Lifetime Microscopy Images of Cells Using Multi-Resolution Community Detection
+Malaria pigment crystals as magnetic micro-rotors: key for high-sensitivity diagnosis
+Pseudometrically Constrained Centroidal Voronoi Tessellations: Generating uniform antipodally symmetric points on the unit sphere with a novel acceleration strategy and its applications to Diffusion and 3D radial MRI
+In-vivo magnetic resonance imaging of hyperpolarized silicon particles
+Medical Image Fusion: A survey of the state of the art
+Percentage depth dose distributions in inhomogeneous phantoms with lung and bone equivalent media for small fields of CyberKnife
+Time series analysis of Parkinson's disease Huntington's disease and Amyotrophic Lateral Sclerosis
+On multichannel film dosimetry with channel-independent perturbations
+Superparamagnetic iron oxide polyacrylic acid coated gamma -Fe2O3 nanoparticles does not affect kidney function but causes acute effect on the cardiovascular function in healthy mice
+Monte Carlo Simulation of Indoor External Exposure due to Gamma-emitting Radionuclides in Building Materials
+Solution of the inverse scattering problem by T-matrix completion
+Patient-specific simulation of stent-graft deployment within an abdominal aortic aneurysm
+Anisotropy mapping in rat brains using Intermolecular Multiple Quantum Coherence Effects
+Predicting the steady state thickness of passive films in order to prevent degradations of implant
+Nonlinear Acoustics FDTD method including Frequency Power Law Attenuation for Soft Tissue Modeling
+Raman spectroscopic detection of rapid reversible early-stage inflammatory cytokine-induced apoptosis of adult hippocampal progenitors stem cells
+The effects of using Cesium-13 teletherapy sources as a radiological weapon (dirty bomb)
+Sub-millimeter nuclear medical imaging with high sensitivity in positron emission tomography using beta-gamma coincidences
+Multiplicative Modeling of Children's Growth and Its Statistical Properties
+Averaging VMAT treatment plans for multi-criteria navigation
+Microdosimetry spectra and RBE of H-1 He-4 Li- and C-12 nuclei in water studied with Geant4
+Extended calibration range for prompt photon emission in ion beam irradiation
+MARS spectral molecular imaging of lamb tissue: data collection and image analysis
+A Study of Speed of the Boundary Element Method as applied to the Realtime Computational Simulation of Biological Organs
+Application of Computational Physics: Blood Vessel Constrictions and Medical Infuses
+3D conformal planning using low segment multi-criteria IMRT optimization
+Feasibility-Seeking and Superiorization Algorithms Applied to Inverse Treatment Planning in Radiation Therapy
+Performance of Hull-Detection Algorithms For Proton Computed Tomography Reconstruction
+The Tongue as an Excitable Medium
+Sliding window and compressive sensing for low-field dynamic magnetic resonance imaging
+String-Averaging Expectation-Maximization for Maximum Likelihood Estimation in Emission Tomography
+Lorentz Force Electrical Impedance Tomography
+Lorentz-Force Hydrophone Characterization
+First CT-MRI Scanner for Multi-dimensional Synchrony and Multi-physical Coupling
+An anthropomorphic multimodality (CT MRI) phantom prototype for end-to-end tests in radiation therapy
+First steps to Virtual Mammography: Simulating external compressions of the breast with the Surface Evolver
+A new calculation formula of the nuclear cross-section of therapeutic protons
+Dependence of the thermoluminescent high-temperature ratio (HTR) of LiF:Mg Ti detectors on proton energy and dose
+The Effects of Nuclear Terrorism: Fizzles
+Direct leaf trajectory optimization for volumetric modulated arc therapy planning with sliding window delivery
+Motionless Phase Stepping in X-Ray Phase Contrast Imaging with a Compact Source
+Three independent one-dimensional margins for single-fraction frameless stereotactic radiosurgery brain cases using CBCT
+A novel method based solely on FPGA units enabling measurement of time and charge of analog signals in Positron Emission Tomography
+A novel method for calibration and monitoring of time synchronization of TOF-PET scanners by means of cosmic rays
+J-PET analysis framework for the prototype TOF-PET detector
+Liquid-Solid Phase Transition Alloy as Reversible and Rapid Molding Bone Cement
+A novel radioguided surgery technique exploiting beta - decays
+Developing classification indices for Chinese pulse diagnosis
+A Fast robust algorithm for power line interference cancellation in neural recording
+Monte Carlo simulation of carbon ion radiotherapy for Human Eye
+Magnetically Multiplexed Heating of Single Domain Nanoparticles
+Analysis of Femoral Components of Cemented Total Hip- Arthroplasty
+Multiscale approach including microfibril scale to assess elastic constants of cortical bone based on neural network computation and homogenization method
+Gafchromic EBT2 film dosimetry in reflection mode with a novel plan-based calibration method
+Thorotrast and in vivo thorium dioxide: numerical simulation of 30 years of alpha radiation absorption by the tissues near a large compact source
+Stabilizing dual-energy X-ray computed tomography reconstructions using patch-based regularization
+Dimensional Analysis and the Time Required to Urinate
+Estimation of conductivity changes in a region of interest with electrical impedance tomography
+Probing the viscoelastic properties of polyacrylamide polymer gels in a wide frequency range
+Biophysical modelling of the effects of inhaled radon progeny on the bronchial epithelium for the estimation of the relationships applied in the two stage clonal expansion model of carcinogenesis
+Reducing beam hardening effects and metal artefacts using Medipix3RX: With applications from biomaterial science
+Reconstructing human organ cross-sectional imaging along any axis
+Comparative study of RBE and cell survival fractions for 1 H 4 He 12 C and 1 O beams using Geant4 and Microdosimetric Kinetic model
+CT Reconstruction from Simultaneous Projections: A Step towards Capturing CT in One Go
+Couple Control Model Implementation on Antagonistic Mono- and Bi-Articular Actuators
+Smart Diabetic Socks: Embedded device for diabetic foot prevention
+Cellular burdens and biological effects on tissue level caused by inhaled radon progenies
+Liquid Metal as Connecting or Functional Recovery Channel for the Transected Sciatic Nerve
+Prediction of flu epidemic activity with dynamical model based on weather forecast
+Sinogram constrained TV-minimization for metal artifact reduction in CT
+Computed-torque method for the control of a 2 DOF orthosis actuated through pneumatic artificial muscles: a specific case for the rehabilitation of the lower limb
+Attenuation Correction of L-shell X-ray Fluorescence Computed Tomography Imaging
+The influence of bone surface availability in bone remodelling - A mathematical model including coupled geometrical and biomechanical regulations of bone cells
+Endocortical bone loss in osteoporosis: The role of bone surface availability
+Swallowing a cellular automaton pill: predicting drug release from a matrix tablet
+Bone refilling in cortical bone multicellular units: Insights into tetracycline double labelling from a computational model
+Discrete Imaging Models for Three-Dimensional Optoacoustic Tomography using Radially Symmetric Expansion Functions
+Exploiting tumor shrinkage through temporal optimization of radiotherapy
+Rheology of dense suspensions of elastic capsules: normal stresses yield stress jamming and confinement effects
+Direct determination of internal radiation dose in human blood
+Direct determination of external radiation dose in human blood
+Computing support for advanced medical data analysis and imaging
+A LabVIEW based user-friendly X-ray phase-contrast imaging system software platform
+Shear loading of costal cartilage
+Mid-IR fiber optic light source around  micron through parametric wavelength translation
+Ultrasmall Au10-12(SG)10-12 Nanomolecules for High Tumor Specificity and Cancer Radiotherapy
+Towards Laser Driven Hadron Cancer Radiotherapy: A Review of Progress
+Scalable Production of Highly-Sensitive Nanosensors Based on Graphene Functionalized with a Designed G Protein-Coupled Receptor
+Fast T2 Mapping with Improved Accuracy Using Undersampled Spin-echo MRI and Model-based Reconstructions with a Generating Function
+Spreading of diseases through comorbidity networks across life and gender
+Mathematical modeling of mechanical vibration assisted conductivity imaging
+Magnetic resonance in human brain examinations. A brief outline of the techniques
+Direct determination of radiation dose in human blood
+Heart-induced movements in the thorax as detected by MRI
+Benchmarking GEANT4 nuclear models for hadron therapy with  MeV nucleon carbon ions
+Screening of Obstructive Sleep Apnea with Empirical Mode Decomposition of Pulse Oximetry
+Effects of the Artificial Skin Thickness on the Subsurface Pressure Profiles of Flat Curved and Braille Surfaces
+Entropy of leukemia on multidimensional morphological and molecular landscapes
+Generalized coordinate transformations for Monte Carlo (DOSXnrc and VMC ) verifications of DICOM compatible radiotherapy treatment plans
+Real time evaluation of overranging in helical computed tomography
+A Novel Light Source Design for Spectral Tuning in Biomedical Imaging
+The Increase of the Functional Entropy of the Human Brain with Age
+Multigap RPC time resolution to 11 keV annihilation photons
+Point spread function modeling and images restoration for cone-beam CT
+On Existence of L 1 -solutions for Coupled Boltzmann Transport Equation and Radiation Therapy Treatment Optimization
+Sleep apnea-hypopnea quantification by cardiovascular data analysis
+Asymmetric Data Acquisition System for an Endoscopic PET-US Detector
+Trace element distribution in human teeth by x-ray fluorescence spectrometry and multivariate statistical analysis
+Predictive Modelling of Bone Age through Classification and Regression of Bone Shapes
+Initial results of finger imaging using Photoacoustic Computed Tomography
+Mathematical modeling applied to the left ventricle of heart
+Ultra-Fast Fluorescence Imaging in Vivo with Conjugated Polymer Fluorophores in the Second Near-Infrared Window
+Support vector machine classification of dimensionally reduced structural MRI images for dementia
+Bayesian Nonparametric Dictionary Learning for Compressed Sensing MRI
+Ion track reconstruction in 3D using alumina-based fluorescent nuclear track detectors
+Single track coincidence measurements of fluorescent and plastic nuclear track detectors in therapeutic carbon beams
+Changes of statistical structural fluctuations unveils an early compacted degraded stage of PNS myelin
+Monte Carlo validation of optimal material discrimination using spectral x-ray imaging
+A method for real-time volumetric imaging in radiotherapy using single x-ray projection
+Current Density Imaging through Acoustically Encoded Magnetometry: A Theoretical Exploration
+Quantitative read-out of Al2O3:C Mg-based fluorescent nuclear track detectors using a commercial confocal microscope
+Skewness and kurtosis as measures of range mixing in time resolved diode dosimetry
+Transient and secular radioactive equilibrium revisited
+Development of a highly pixelated direct charge sensor Topmetal-I for ionizing radiation imaging
+Multichannel Compressive Sensing MRI Using Noiselet Encoding
+Mini-review on the temporal resolution of fluorescence imaging systems
+Evaluation of Spatial Resolution and Noise Sensitivity of sLORETA Method for EEG Source Localization Using Low-Density Headsets
+Impact of blood rheology on wall shear stress in a model of the middle cerebral artery
+Evolving networks in the human epileptic brain
+Parallel Magnetic Resonance Imaging as Approximation in a Reproducing Kernel Hilbert Space
+Application of WLS strips for position determination in Strip PET tomograph based on plastic scintillators
+Simulations of gamma quanta scattering in a single module of the J-PET detector
+Calibration of photomultipliers gain used in the J-PET detector
+Imaging of Shear Waves Induced by Lorentz Force in Soft Tissues
+Development of Multi-gap Resistive Plate Chamber (MRPC) for medical imaging
+Artificial Left Ventricle
+Parallel MRI Reconstruction by Convex Optimization
+Delivery of Liquid Metal to the Target Vessels as Vascular Embolic Agent to Starve Diseased Tissues or Tumors to Death
+Ventricular torsional relation to ventricular fiber arrangement
+Through Skull Fluorescence Imaging of the Brain in a New Near-Infrared Window
+Characterization and suppression techniques for degree of radiation damping in inversion recovery measurements
+Applications of Lorentz force in medical acoustics: Lorentz force hydrophone Lorentz Force Electrical Impedance Tomography Imaging of shear waves induced by Lorentz force
+The rotate-plus-shift C-arm trajectory: Complete CT data with less than 10 deg rotation
+Mixed integer programming improves comprehensibility and plan quality in inverse optimization of prostate HDR-brachytherapy
+Simulation of Cone Beam CT System Based on Monte Carlo Method
+Full-wave nonlinear ultrasound simulation on distributed clusters with applications in high-intensity focused ultrasound
+Unsupervised Spike Sorting Based on Discriminative Subspace Learning
+Surrogate-assisted analysis of weighted functional brain networks
+Image-driven parameter estimation for low grade gliomas
+A new variable for SRS plan quality evaluation based on normal tissue sparing: The Effect of Prescription Isodose Levels
+Verification and comparison of four numerical schemes for a 1D viscoelastic blood flow model
+A closed parameterization of DNA-damage by charged particles as a function of energy - A geometrical approach
+A microfluidic device to sort capsules by deformability: A numerical study
+PET image reconstruction with system matrix containing point spread function derived from single photon incidence response
+Test of a single module of the J-PET scanner based on plastic scintillators
+Metal artifact reduction based on the combined prior image
+A New Proton CT Scanner
+Neutron Therapy in the 21st Century
+Nuclear halo of a 1 MeV proton beam in water: theory measurement and parameterization
+Traveling Wave MRI at 21.1 T: Propagation below Cut-off for Ultrahigh Field Vertical Bore System
+Correlation between amygdala BOLD activity and frontal EEG asymmetry during real-time fMRI neurofeedback training in patients with depression
+Impact of atrial fibrillation on the cardiovascular system through a lumped-parameter approach
+Increasing the Analytical Accessibility of Multishell and Diffusion Spectrum Imaging Data Using Generalized Q-Sampling Conversion
+Fat to Muscle Ratio Measurements with Dual Energy X Ray Absorbtiometry
+Using Topological Data Analysis for diagnosis pulmonary embolism
+Physiologically motivated multiplex Kuramoto model describes phase diagram of cortical activity
+Simultaneous submicrometric 3D imaging of the micro-vascular network and the neuronal system in a mouse spinal cord
+Efficiency and comfort of knee braces: A parametric study based on computational modelling
+A graphics processor-based intranuclear cascade and evaporation simulation
+Monte Carlo simulation of MLC-shaped TrueBeam electron fields benchmarked against measurement
+Neural Hypernetwork Approach for Pulmonary Embolism diagnosis
+Joint Reconstruction of Multi-channel Spectral CT Data via Constrained Total Nuclear Variation Minimization
+A fast GPU-based Monte Carlo simulation of proton transport with detailed modeling of non-elastic interactions
+Assess Sleep Stage by Modern Signal Processing Techniques
+Modelling beam transport and biological effectiveness to develop treatment planning for ion beam radiotherapy
+A Novel Vectorcardiogram System
+Mumford-Shah and Potts Regularization for Manifold-Valued Data with Applications to DTI and Q-Ball Imaging
+Validation of the Geant4 simulation of bremsstrahlung from thick targets below 3 MeV
+Effects of Packaging Shape Polarization Irradiation Geometry and Frequency on the Computation of Electric and Magnetic Fields and SAR in Water Containers
+Stochastic model for computer simulation of the number of cancer cells and lymphocytes in homogeneous sections of cancer tumors
+Analysis of EEG signal by Flicker Noise Spectroscopy: Identification of right left hand movement imagination
+Track structure modelling for ion radiotherapy
+Prediction of Synchrostate Transitions in EEG Signals Using Markov Chain Models
+Fractional Dynamical Model for the Generation of ECG like Signals from Filtered Coupled Van-der Pol Oscillators
+A novel approach for the diagnosis of ventricular tachycardia based on phase space reconstruction of ECG
+Artifact reduction in multichannel pervasive EEG using hybrid WPT-ICA and WPT-EMD signal decomposition techniques
+Automated placement of stereotactic injections using a laser scan of the skull
+Spherical deconvolution of multichannel diffusion MRI data with non-Gaussian noise models and total variation spatial regularization
+Efficient high-speed ablation of soft tissue with few-microjoule femtosecond pulse bursts
+A method for context-based adaptive QRS clustering in real-time
+Classification of Autism Spectrum Disorder Using Supervised Learning of Brain Connectivity Measures Extracted from Synchrostates
+Specific Absorbed Fractions of Electrons and Photons for Rad-HUMAN Phantom Using Monte Carlo Method
+Improved Scatter Correction in X-Ray Cone Beam CT with Moving Beam Stop Array Using Johns' Equation
+First results on proton radiography with nuclear emulsion detectors
+Cyclinac Medical Accelerators Using Pulsed C H2 Ion Sources
+Correlation-stability approach to elasticity mapping in OCT: comparison with displacement-based mapping and textit in vivo demonstrations
+Radiation Exposure Theory Comparison of data on Mutation Frequencies of Mice
+Efficient calculation of local dose distribution for response modelling in proton and ion beams
+Absorbed Dose in Ion Beams: Comparison of Ionisation and Fluence-based Measurements
+The Surface Laplacian Technique in EEG: Theory and Methods
+A model for simulating speckle-pattern evolution based on close to reality procedures used in spectral-domain OCT
+Single-scan scatter correction in CBCT by using projection correlation based view interpolation (PC-VI) and a stationary ring-shaped beam stop array (BSA)
+Hybrid M-mode-like OCT imaging of 3D microvasculature in vivo using reference-free processing of complex-valued B-scans
+Why are public health authorities not concerned about Ebola in the US? Part I. Fat tailed distributions
+Rotation Effects on the Target-Volume Margin Determination
+Feasibility of Simulated Annealing Tomography
+A new algorithm for wavelet-based heart rate variability analysis
+Exact Modeling of Cardiovascular System Using Lumped Method
+Beat Pressure and Comparing it with Ascending Aorta Pressure in Normal and Abnormal Conditions
+Computational study for investigating acoustic streaming and heating during acoustic hemostasis
+Biological effects of pulsating magnetic fields: role of solitons
+First tests for an online treatment monitoring system with in-beam PET for proton therapy
+Holographic imaging of unlabelled sperm cells for semen analysis: a review
+A Tutorial on Time-Evolving Dynamical Bayesian Inference
+Mechanical formalism for tissue dynamics
+Optimization of Radiation Therapy Fractionation Schedules in the Presence of Tumor Repopulation
+A Mathematical Programming Approach to the Fractionation Problem in Chemoradiotherapy
+Total variation regularization for manifold-valued data
+Maximum therapeutic effect of glioma treatment by radio-frequency electric field
+The Effects of Long Pulse Durations and Radiation Damping in Selective Inversion Recovery Experiments
+Raman spectroscopy as a tool for reagent free estimation
+Improvement in quantification of urine components: Alternate technique
+Nuclear halo of a 1 MeV proton beam in water
+How important is the seizure onset zone for seizure dynamics?
+Alternative statistical methods for cytogenetic radiation biological dosimetry
+Evaluation of the productivity of Brazilian hospitals by the methodology of diagnosis related group (DRG)
+A Pilot Clinical Study to Investigate the Human Whole Blood Spectrum Characteristics in the Sub-THz Region
+A New System For Recording The Radiological Effective Doses For Patients Investigated by Imaging Methods
+Attenuation correction with Region Growing Method used in the Positron Emission Mammography System
+Physical Foundation for General Interior Tomography
+Spin Echo Studies on Cellular Water
+X-optogenetics and U-optogenetics: Feasibility and Possibilities
+Predictive Modelling of Toxicity Resulting from Radiotherapy Treatments of Head and Neck Cancer
+Spherical-Wave Far-Field Interferometer for Hard X-Ray Phase Contrast Imaging
+Stochastic biophysical modeling of irradiated cells
+Photoacoustics meets ultrasound: micro-Doppler photoacoustic effect and detection by ultrasound
+Photoacoustic elastic oscillation and characterization
+Hybrid modeling of tumor-induced angiogenesis
+A Pilot Study on Coupling CT and MRI through Use of Semiconductor Nanoparticles
+Aspects of structural landscape of human islet amyloid polypeptide
+Precise measurement of prompt photon emission for carbon ion therapy
+A user-friendly nano-CT image alignment and 3D reconstruction platform based on LabVIEW
+Inversion of the star transform
+BABSCAN - a whole body counter for small children in Fukushima
+A Simple Model for Identifying Critical Structures in Atrial Fibrillation
+Joint Image Reconstruction and Segmentation Using the Potts Model
+Gold nanoparticles-based brachytherapy enhancement in choroidal melanoma using a full Monte Carlo modelling of human eye
+Compressed sensing for longitudinal MRI: An adaptive-weighted approach
+Whole-body counter survey results 4 months after the Fukushima Daiichi NPP accident in Minamisoma City Fukushima
+Precise On-line Position Measurement for Particle Therapy
+SPIK: A graphical user interface for monitoring spike train synchrony
+Statistical models and regularization strategies in statistical image reconstruction of low-dose X-ray CT: a survey
+On using the Microsoft Kinect rm TM sensor in the analysis of human motion
+Towards a Radio-guided Surgery with beta - Decays: Uptake of a somatostatin analogue (DOTATOC) in Meningioma and High Grade Glioma
+Waveform Inversion with Source Encoding for Breast Sound Speed Reconstruction in Ultrasound Computed Tomography
+Comb models for transport along spiny dendrites
+Spaser as Novel Versatile Biomedical Tool
+Mechanics of collective unfolding
+Functional optoacoustic neuro-tomography (FONT) for whole-brain monitoring of calcium indicators
+Whole body counter surveys of Miharu-town school children for four consecutive years after the Fukushima NPP accident
+Oscillometric continuous blood pressure sensing for wearable health monitoring system
+Future Supply of Medical Radioisotopes for the UK Report 2014
+Higher dimensional homodyne filtering for suppression of incidental phase artifacts in multichannel MRI
+Calculating tumor trajectory and dose-of-the-day using cone-beam CT projections
+A fast marching method based back projection algorithm for photoacoustic tomography in heterogeneous media
+Feature Selection based on Machine Learning in MRIs for Hippocampal Segmentation
+A patient-specific scatter artifacts correction method
+Fast Scatter Artifacts Correction for Cone-Beam CT without System Modification and Repeat Scan
+Comment on Update of 40K and 22Ra and 232Th series gamma -to-dose conversion factors for soil'
+Difficulties applying recent blind source separation techniques to EEG and MEG
+Convergent Bayesian formulations of blind source separation and electromagnetic source estimation
+Parallel Magnetic Resonance Imaging
+Single-side access isotropic resolution and multispectral 3D photoacoustic imaging with rotate-translate scanning of ultrasonic detector array
+Iterative reconstruction of the detector response for medical gamma cameras
+Modelling the anabolic response of bone using a cell population model
+Myoelectric Control of Artificial Limb Inspired by Quantum Information Processing
+Modelling and simulation of acrylic bone cement injection and curing within the framework of vertebroplasty
+Gradient-based quantitative image reconstruction in ultrasound-modulated optical tomography: first harmonic measurement type in a linearised diffusion formulation
+Simultaneous measurement of localized diffusion and flow using optical coherence tomography
+Study on Microdosimetric Characteristics of 120MeV u to 430MeV u Carbon Ions
+Quantum mechanical aspects of friction and electric resistance in microscopic problems with applications to radiation physics
+Gibbs-Ringing Artifact Removal Based on Local Subvoxel-shifts
+Theoretical analysis on x-ray cylindrical grating interferometer
+Performance Analysis of Cone Detection Algorithms
+Fluorescence Imaging In Vivo up to 100 nm
+Topographic Effects on Ambient Dose Equivalent Rates from Radiocesium Fallout
+Tomographic X-ray data of a walnut
+Towards the modeling of mucus draining from human lung: role of airways deformation on air-mucus interaction
+Areal distortion of ultrasound images due to speed of sound variations
+Robust diffusion imaging framework for clinical studies

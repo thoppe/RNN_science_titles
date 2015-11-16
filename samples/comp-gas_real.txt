@@ -1,0 +1,221 @@
+Computations on Nondeterministic Cellular Automata
+Lindenmayer systems as a model of computations
+Effect of Boundary Conditions on Cellular Automata that Classify Density
+Generalized Thermal Lattice Gases
+Lattice-Boltzmann Simulations of Fluid Flows in MEMS
+Inverse Chapman-Enskog Derivation of the Thermohydrodynamic Lattice-BGK Model for the Ideal Gas
+Lattice-Gas Simulations of Ternary Amphiphilic Fluid Flow in Porous Media
+Cellular Automaton Model for Immunology of Tumor Growth
+Crystalline Computation
+Lattice Gases and Cellular Automata
+Garden of Eden states in traffic models
+Complexity of Two-Dimensional Patterns
+Coherent Moving States in Highway Traffic Originally: Moving Like a Solid Block
+Maxwell Model of Traffic Flows
+Synchronization and Maximum Lyapunov Exponents of Cellular Automata
+A Lattice Boltzmann Model for ave and Fracture phenomena
+Discrete Schr o dinger equation on finite field and associated cellular automaton
+Reverberation mapping of active galactic nuclei : The SOLA method for time-series inversion
+Symplectic Integration without Roundoff Error
+A Parallel Processing Algorithm for Computing Short-Range Particle Forces with Inhomogeneous Particle Distributions
+Braid analysis of low-dimensional chaos
+A Dynamical Simulation Facility for Hybrid Systems
+Exhibiting Randomness in Arithmetic using Mathematica and C
+Dependence of extensive chaos on the spatial correlation length substantial revision
+Prediction of Large Events on a Dynamical Model of a Fault
+Chaotic time series Part II: System identification and prediction
+Chaotic time series Part I: Estimation of invariant properies in state space
+The creation of high-dimensional oscillations from low-dimensional systems
+Some comments on the correlation dimension of  f alpha noise
+Statistical error in a chord estimator of correlation dimension: the rule of five
+Detecting Nonlinearity in Data with Long Coherence Times
+Message-Passing Multi-Cell Molecular Dynamics on the Connection Machine 
+The Lattice Boltzmann Equation Method for the Simulation of Compressible Fluid Flow
+avelets and Fast Numerical Algorithms
+Identification of Continuous-Time Dynamical Systems: Neural Network Based Algorithms and Parallel Implementation
+Convergence of Convective-Diffusive Lattice Boltzmann Methods
+Stability Analysis of Lattice Boltzmann Methods
+Numerical Solution of the Schroedinger Equation using a Quantum Lattice Boltzmann Equation
+A Vectorized Algorithm for Molecular Dynamics of Short Range Interacting Particles
+Accuracy of Discrete-Velocity BGK Models for the Simulation of the Incompressible Navier-Stokes Equations
+Abstracts on Pattern Formation and Lattice-Gas Automata
+Lattice Boltzmann-Langevin Equations
+Instabilities and Patterns minor technical modifications
+Elimination of Nonlinear Deviations in Thermal Lattice BGK Models
+Lattice Methods and Their Applications To Reacting Systems
+A Lattice Boltzmann Subgrid Model for High Reynolds Number Flows
+Estimating Functions of Probability Distributions from a Finite Set of Samples Part : Bayes Estimators and the Shannon Entropy
+Estimating Functions of Distributions from A Finite Set of Samples Part : Bayes Estimators for Mutual Information Chi-Squared Covariance and other Statistics
+A Lattice-Gas with Long-Range Interactions Coupled to a Heat Bath
+Lattice-Gas Automata Fluids on Parallel Supercomputers
+Application of Complex Daubechies avelets to Numerical Simulation of a Nonlinear Signal Propagation Model
+Lattice Gas Automata: a discrete model for simulation of continuous transport phenomena in packages of agricultural products
+Generalized redundancies for time series analysis
+Abstracts for the une - Princeton Conference: Discrete Models for Fluid Mechanics
+Testing For Nonlinearity sing Redundancies: Quantitative and Qualitative Aspects
+Cellular Automaton for Realistic Modelling of Landslides
+Nonlinear Analysis of Experimental Noisy Time Series in Fluidized Bed Systems
+Recognition of Temporal Sequences of Patterns
+Renormalization of Lattice Gas Transport Coefficients
+Algebraic Spatial Correlations and Non-Gibbsian Equilibrium States
+A Method for Near-Equilibrium Discrete-Velocity Gas Flows
+Plane aves in a Multispeed Discrete-Velocity Gas
+Nonlinear stability analysis of plane Poiseuille flow by normal forms
+Lattice Boltzmann Model For Magnetic Fluids
+On reconstruction of chaotic attractor from time series represented as clusters
+Predicting and characterizing data sequences from structure-variable systems
+SAMPLING ALMOST PERIODIC FNCTIONS ITH RANDOM PROBES OF FINITE DENSIT
+Analysis and boundary condition of the lattice Boltzmann BGK model with two velocity components
+On pressure and velocity flow boundary conditions for the lattice Boltzmann BGK model
+CAM-: A Computer Architecture Based on Cellular Automata
+Detecting Nonlinearity in Pressure Data Inside the Draft Tube of a Real Francis Turbine
+On Surrogate Data Testing for Linearity based on the Periodogram
+The developing structure of dynamical systems
+Parallel Algorithms on the ASTRA SIMD Machine
+Mutual Information as a Bayesian Measure of Independence
+Investigations of a Two-Phase Fluid Model
+Coarse-grained entropy rates for characterization of complex time series
+Generating high-dimensional chaotic signals by the sum
+State Space Reconstruction Parameters in the Analysis of Chaotic Time Series - the Role of the Time indow Length
+Constrained-Realization Monte-Carlo Method for Hypothesis Testing
+Two-Dimensional Navier-Stokes Simulation of Breaking aves
+Non-Gaussian statistics in space plasma turbulence fractal properties and pitfalls
+Lattice Boltzmann Equation: Failure or Success
+Lattice kinetic theory for numerical combustion
+Turbulent channel flow simulations using a coarse-grained extension of the Lattice Boltzmann method
+Data Analysis Techniques for Resolving Nonlinear Processes in Plasmas : a Review
+A New Fast Method for Determining Local Properties of Striped Patterns
+Lattice Gas Prediction is P-complete
+Dynamic Predictions from Time Series Data- An Artificial Neural Network Approach
+Driven Morse Oscillator: Model for Multi-photon Dissociation of Nitrogen Oxide
+New tests of random numbers for simulations in physical systems
+Macros and Multiscale Dynamics in Spin Glasses
+Phase Transitions in a Probabilistic Cellular Automaton with Two Absorbing States
+Simulation of Self-Reproducing Micelles using a Lattice-Gas Automaton
+Variational description of statistical field theories using Daubechies wavelets
+Hyper-Systolic Parallel Computing
+Artificial Neural Networks for Solving Ordinary and Partial Differential Equations
+A Quantum Lattice-Gas Model for the Many-Particle Schroedinger Equation
+nitarity in one dimensional nonlinear quantum cellular automata
+Limits to Extensions of Burgers Equation
+Approximate Lie Group Analysis of a Model Advection Equation on an nstructured Grid
+Construction of Molecular Dynamics Like Cellular Automata Models for Simulation of Compressible Fluid Dynamic Systems
+Quasi-Linear Cellular Automata
+Influence of Cooling-Induced Compressibility on the Structure of Turbulent Flows and Gravitational Collapse
+Explicit Lie-Poisson integration and the Euler equations
+Spatial Variation of Correlation Times for D Phase Turbulence
+Mean Field Theory for Lyapunov Exponents and KS Entropy in Lorentz Lattice Gases
+Two-dimensional Navier--Stokes simulation of deformation and break up of liquid patches
+Lyapunov spectral analysis of a nonequilibrium Ising-like transition
+Simulating Three-Dimensional Hydrodynamics on a Cellular-Automata Machine
+Stabilizing the Richardson Algorithm by Controlling Chaos
+A Lattice Boltzmann Model for Multi-phase Fluid Flows
+Comparison of Spectral Method and Lattice Boltzmann Simulations of Two-Dimensional Hydrodynamics
+Domain Growth etting and Scaling in Porous Media
+Lattice Boltzmann Equation for Quantum Mechanics
+Hydrodynamic Spinodal Decomposition: Growth Kinetics and Scaling Functions
+Lattice Boltzmann Thermohydrodynamics
+Dont bleach chaotic data
+The non-linear response of the magnetosphere:  October 
+Global Bifurcations in Rayleigh-Benard Convection: Experiments Empirical Maps and Numerical Bifurcation Analysis
+A New Class of Cellular Automata for Reaction-Diffusion Systems
+Initial and Boundary Conditions for the Lattice Boltzmann Method
+Exact Results for the Asymmetric Simple Exclusion Process with a Blockage
+Numerical Simulations of Particulate Suspensions via a Discretized Boltzmann Equation Part I Theoretical Foundation
+Numerical Simulations of Particulate Suspensions via a Discretized Boltzmann Equation Part II Numerical Results
+Hydrodynamic behaviour of Lattice Boltzmann and Lattice BGK models
+Particle-Mesh Methods on the Connection Machine
+Cellular automaton model of reaction-transport processes
+Simulation of non-ideal gases and liquid-gas phase transitions by lattice Boltzmann equation
+Lattice Boltzmann Magnetohydrodynamics
+Simulation of Cavity Flow by the Lattice Boltzmann Method
+Correlations and Renormalization in Lattice Gases
+Transforming Signs to Phase Distributions in Quantum Simulations
+Generalized Boltzmann Equation for Lattice Gas Automata
+Generating surrogate data for time series with several simultaneously measured variables
+Growth Kinetics in Multicomponent Fluids
+A Class of Fast Methods for Processing Irregularly Sampled or Otherwise Inhomogeneous One-Dimensional Data
+The correlation dimension of differenced data
+Theoretical approach to two-dimensional traffic flow models
+Flow in the Driven Cavity Calculated by the Lattice Boltzmann Method
+Heat Transfer in Lattice BGK Modeled Fluid
+Deterministic Chaos in Tropical Atmospheric Dynamics
+Renormalized Equilibria of a Schloegl Model Lattice Gas
+New Results for Diffusion in Lorentz Lattice Gas Cellular Automata
+Analytical solutions of the lattice Boltzmann BGK model
+Prandtl number of lattice Bhatnagar-Gross-Krook fluid
+Diffusion in Lorentz Lattice Gas Cellular Automata: the honeycomb and quasi-lattices compared with the square and triangular lattices
+Shock structure in a nine-velocity gas
+An Euler Solver Based on Locally Adaptive Discrete Velocities
+Lattice Boltzmann Simulation of Non-Ideal Fluids
+Lattice Boltzmann Approach to Viscous Flows Between Parallel Plates
+Cellular automaton model of precipitation dissolution coupled with solute transport
+Multi-component lattice-Boltzmann model with interparticle interaction
+Lattice gas with interaction potential
+A Lattice-Gas Model of Microemulsions
+Detecting nonlinearity in multivariate time series
+A non-slip boundary condition for lattice Boltzmann simulations
+A Lattice Boltzmann Model of Binary Fluid Mixture
+Lattice Gas Automata for Reactive Systems
+Integer Lattice Gases
+Lattice-gas simulations of Domain Growth Saturation and Self-Assembly in Immiscible Fluids and Microemulsions
+Estimating the Fractal Dimension K -entropy and the Predictability of the Atmosphere
+Diffusion in a multi-component Lattice Boltzmann Equation model
+Long-range correlations in non-equilibrium systems: Lattice gas automaton approach
+The Computational Complexity of the Lorentz Lattice Gas
+Computer simulations of domain growth and phase separation in two-dimensional binary immiscible fluids using dissipative particle dynamics
+Adaptive Mesh Refinement for Singular Current Sheets in Incompressible Magnetohydrodynamic Flows
+Parallel Algorithm and Dynamic Exponent for Diffusion-limited Aggregation
+On pressure and velocity flow boundary conditions and bounceback for the lattice Boltzmann BGK model
+Simulation of Rayleigh-B enard convection using lattice Boltzmann method
+Solution of the Density Classification Problem with Two Cellular Automata Rules
+Phase Segregation Dynamics in Particle Systems with Long Range Interactions I: Macroscopic Limits
+Lattice Fluid Dynamics from Perfect Discretizations of Continuum Flows
+Discretization of the velocity space in solution of the Boltzmann equation
+Lattice Boltzmann simulations of three-dimensional single droplet deformation and breakup under simple shear flow
+Exact results for deterministic cellular automata traffic models
+Cellular Automaton Rule C A Simple Model for the Complex Dynamics of Various Particles Flow
+A new discrete velocity method for Navier-Stokes equations
+Density waves and  f density fluctuations in granular flow
+Monte Carlo with Absorbing Markov Chains: Fast Local Algorithms for Slow Dynamics
+Eddy diffusivities in scalar transport
+Spatial Organization in the Reaction A B -- inert for Particles with a Drift
+Similarity-Detection and Localization
+A Simple Model for Deep Bed Filtration
+Mean Field Behavior of Cluster Dynamics
+Interface Roughening in a Hydrodynamic Lattice-Gas Model with Surfactant
+Maority-Vote Cellular Automata Ising Dynamics and P-Completeness
+amming transition in a cellular automaton model for traffic flow
+Obect orientation and visualization of physics in two dimensions
+Effect of shear on droplets in a binary mixture
+Shear-Induced Isotropic-to-Lamellar Transition in a Lattice-Gas Model of Ternary Amphiphilic Fluids
+Block Spins for Partial Differential Equations
+An H-Theorem for the Lattice Boltzmann Approach to Hydrodynamics
+Self-organization of traffic ams in cities: effects of stochastic dynamics and signal periods
+A thermodynamically reversible generalization of Diffusion Limited Aggregation
+Spatio-selection in Expanding Bacterial Colonies
+Self-Organized States in Cellular Automata: Exact Solution
+Cellular Automata Simulating Experimental Properties of Traffic Flows
+Competing Species Dynamics: Qualitative Advantage versus Geography
+Global Phase Diagram of a One-Dimensional Driven Lattice Gas
+Microscopic Motion of Particles Flowing through a Porous Medium
+A three-dimensional lattice gas model for amphiphilic fluid dynamics
+The rate of entropy increase at the edge of chaos
+A Ternary Lattice Boltzmann Model for Amphiphilic Fluids
+Large scale molecular dynamics simulation of self-assembly processes in short and long chain cationic surfactants
+A Particulate Basis for an Immiscible Lattice-Gas Model
+Spinodal decomposition of off-critical quenches with a viscous phase using dissipative particle dynamics in two and three spatial dimensions
+nbiased Estimators for Correlation Measurements
+Perturbation theory predictions and Monte Carlo simulations for the -d On non-linear sigma-model
+Complex Patterns in a Simple System
+Predicting Non-linear Cellular Automata Quickly by Decomposing Them into Linear Ones
+A Selective Relaxation Method for Numerical Solution of Schr odinger Problems
+From quantum cellular automata to quantum lattice gases
+On the absence of homogeneous scalar unitary cellular automata
+Quantum mechanics of lattice gas automata I One particle plane waves and potentials
+Simulating Ising Spin Glasses on a Quantum Computer
+Quantum lattice-gas models for the many-body Schrodinger equation
+Simulating quantum mechanics on a quantum computer
+Quantum lattice gases and their invariants
+Artificial Neural Network Methods in Quantum Mechanics
+Estimating Predictability: Redundancy and Surrogate Data Method

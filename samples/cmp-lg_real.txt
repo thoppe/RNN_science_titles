@@ -1,0 +1,894 @@
+Use of Weighted Finite State Transducers in Part of Speech Tagging
+Tagging French Without Lexical Probabilities -- Combining Linguistic Knowledge And Statistical Learning
+Disambiguating with Controlled Disjunctions
+Parsing syllables: modeling OT computationally
+Attaching Multiple Prepositional Phrases: Generalized Backed-off Estimation
+Learning Features that Predict Cue Usage
+A Corpus-Based Investigation of Definite Description Use
+Probabilistic Event Categorization
+Probabilistic Constraint Logic Programming
+Approximating Context-Free Grammars with a Finite-State Calculus
+Probabilistic Parsing Using Left Corner Language Models
+Variation and Synthetic Speech
+Some apparently disjoint aims and requirements for grammar development environments: the case of natural language generation
+Contextual Information and Specific Language Models for Spoken Language Understanding
+Language Modelling For Task-Oriented Domains
+On the use of expectations for detecting and repairing human-machine miscommunication
+Towards an Improved Performance Measure for Language Models
+Application-driven automatic subgrammar extraction
+The effect of alternative tree representations on tree bank grammars
+Proof Nets and the Complexity of Processing Center-Embedded Constructions
+Features as Resources in R-LFG
+Type-driven semantic interpretation and feature dependencies in R-LFG
+Applying Explanation-based Learning to Control and Speeding-up Natural Language Generation
+Machine Learning of User Profiles: Representational Issues
+Context as a Spurious Concept
+Multi-document Summarization by Graph Search and Matching
+Topic Graph Generation for Query Navigation: Use of Frequency Classes for Topic Extraction
+I don't believe in word senses
+Foreground and Background Lexicons and Word Sense Disambiguation for Information Extraction
+What is word sense disambiguation good for?
+Speech Repairs Intonational Boundaries and Discourse Markers: Modeling Speakers' Utterances in Spoken Dialog
+Hierarchical Non-Emitting Markov Models
+Identifying Discourse Markers in Spoken Dialog
+Do not forget: Full memory in memory-based learning of word pronunciation
+Modularity in inductively-learned word pronunciation systems
+A General Sound and Efficient Natural Language Parsing Algorithm based on Syntactic Constraints Propagation
+Look-Back and Look-Ahead in the Conversion of Hidden Markov Models into Finite State Transducers
+A Hybrid Environment for Syntax-Semantic Tagging
+Automating Coreference: The Role of Annotated Training Data
+Time Tense and Aspect in Natural Language Database Interfaces
+Nymble: a High-Performance Learning Name-finder
+The Proper Treatment of Optimality in Computational Phonology
+Treatment of Epsilon-Moves in Subset Construction
+Corpus-Based Word Sense Disambiguation
+On the existence of certain total recursive functions in nontrivial axiom systems I
+Group Theory and Grammatical Description
+Models of Co-occurrence
+Annotation Style Guide for the Blinker Project
+Manual Annotation of Translational Equivalence: The Blinker Project
+Word-to-Word Models of Translational Equivalence
+Parsing Inside-Out
+A Descriptive Characterization of Tree-Adjoining Languages (Full Version)
+Integrating Text Plans for Conciseness and Coherence
+Automatic summarising: factors and directions
+Recognizing Syntactic Errors in the Writing of Second Language Learners
+Learning Correlations between Linguistic Indicators and Semantic Constraints: Reuse of Context-Dependent Descriptions of Entities
+Computing Dialogue Acts from Features with Transformation-Based Learning
+Lazy Transformation-Based Learning
+Rationality Cooperation and Conversational Implicature
+Eliminating deceptions and mistaken belief to infer conversational implicature
+Dialogue Act Tagging with Transformation-Based Learning
+An Investigation of Transformation-Based Learning in Discourse
+Unlimited Vocabulary Grapheme to Phoneme Conversion for Korean TTS
+Methods and Tools for Building the Catalan WordNet
+Towards a single proposal is spelling correction
+A Memory-Based Approach to Learning Shallow Natural Language Patterns
+Bayesian Stratified Sampling to Assess Corpus Utility
+Can Subcategorisation Probabilities Help a Statistical Parser?
+Word Sense Disambiguation using Optimised Combinations of Knowledge Sources
+Building Accurate Semantic Taxonomies from Monolingual MRDs
+Using WordNet for Building WordNets
+Anchoring a Lexicalized Tree-Adjoining Grammar for Discourse
+Never Look Back: An Alternative to Centering
+An Empirical Investigation of Proposals in Collaborative Dialogues
+Textual Economy through Close Coupling of Syntax and Semantics
+Evaluating a Focus-Based Approach to Anaphora Resolution
+The Role of Verbs in Document Analysis
+Centering in Dynamic Semantics
+Word Clustering and Disambiguation Based on Co-occurrence Data
+Graph Interpolation Grammars as Context-Free Automata
+A Maximum-Entropy Partial Parser for Unrestricted Text
+Chunk Tagger - Statistical Recognition of Noun Phrases
+A Linguistically Interpreted Corpus of German Newspaper Text
+A Projection Architecture for Dependency Grammar and How it Compares to LFG
+Automatically Creating Bilingual Lexicons for Machine Translation from Bilingual Text
+Statistical Models for Unsupervised Prepositional Phrase Attachment
+Improving Data Driven Wordclass Tagging by System Combination
+An Empirical Evaluation of Probabilistic Lexicalized Tree Insertion Grammars
+Indexing with WordNet synsets can improve Text Retrieval
+Parallel Strands: A Preliminary Investigation into Mining the Web for Bilingual Text
+Word Length Frequency and Distribution in English: Observations Theory and Implications for the Construction of Verse Lines
+Combining Expression and Content in Domains for Dialog Managers
+Isometric Lineation in English Texts: An Empirical and Mathematical Examination of its Character and Consequences
+Some Properties of Preposition and Subordinate Conjunction Attachments
+Deriving the Predicate-Argument Structure for a Free Word Order Language
+Letter to Sound Rules for Accented Lexicon Compression
+Primitive Part-of-Speech Tagging using Word Length and Sentential Structure
+Separating Surface Order and Syntactic Relations in a Dependency Grammar
+Partial Evaluation for Efficient Access to Inheritance Lexicons
+Spotting Prosodic Boundaries in Continuous Speech in French
+Error-Driven Pruning of Treebank Grammars for Base Noun Phrase Identification
+Segregatory Coordination and Ellipsis in Text Generation
+A Variant of Earley Parsing
+Towards an implementable dependency grammar
+Some Ontological Principles for Designing Upper Level Lexical Resources
+A Comparison of WordNet and Roget's Taxonomy for Measuring Semantic Similarity
+Lessons from a Restricted Turing Test
+Restricting the Weak-Generative Capacity of Synchronous Tree-Adjoining Grammars
+An Empirically Motivated Reinterpretation of Dependency Grammar
+Memoization in Constraint Logic Programming
+SPANISH  (S): corpus-based analysis of present-day Spanish for medical purposes
+Constraint-Based Categorial Grammar
+Principles and Implementation of Deductive Parsing
+A Deductive Account of Quantification in LFG
+Intensional Verbs Without Type-Raising or Lexical Ambiguity
+Adjuncts and the Processing of Lexical Rules
+Similarity-Based Estimation of Word Cooccurrence Probabilities
+Temporal Relations: Reference or Discourse Coherence?
+Some Bibliographical References on Intonation and Intonational Meaning
+Syntactic-Head-Driven Generation
+Pearl: A Probabilistic Chart Parser
+Efficiency Robustness and Accuracy in Picky Chart Parsing
+Towards History-based Grammars: Using Richer Models for Probabilistic Parsing
+A Stochastic Finite-State Word-Segmentation Algorithm for Chinese
+Common Topics and Coherent Situations: Interpreting Ellipsis in the Context of Discourse Inference
+A Plan-Based Model for Response Generation in Collaborative Task-Oriented Dialogues
+Integration Of Visual Inter-word Constraints And Linguistic Knowledge In Degraded Text Recognition
+Collaboration on reference to objects that are not mutually known
+Classifying Cue Phrases in Text and Speech Using Machine Learning
+Intention-based Segmentation: Human Reliability and Correlation with Linguistic Cues
+Precise n-gram Probabilities from Stochastic Context-free Grammars
+Best-first Model Merging for Hidden Markov Model Induction
+Memory-Based Lexical Acquisition and Processing
+Determination of referential property and number of nouns in Japanese sentences for machine translation into English
+Capturing CFLs with Tree Adjoining Grammars
+Generating Precondition Expressions in Instructional Text
+Grammar Specialization through Entropy Thresholds
+An Integrated Heuristic Scheme for Partial Parse Evaluation
+Abductive Equivalential Translation and its application to Natural Language Database Interfacing
+An Optimal Tabular Parsing Algorithm
+An Extended Theory of Head-Driven Parsing
+Acquiring Receptive Morphology: A Connectionist Model
+Semantics of Complex Sentences in Japanese
+Structural Tags Annealing and Automatic Word Classification
+Priority Union and Generalization in Discourse Grammars
+An Attributive Logic of Set Descriptions and Set Operations
+Modularity in a Connectionist Model of Morphology Acquisition
+Relating Complexity to Practical Performance in Parsing with Wide-Coverage Unification Grammars
+Extracting Noun Phrases from Large-Scale Texts: A Hybrid Approach and Its Automatic Evaluation
+Dual-Coding Theory and Connectionist Lexical Selection
+Intentions and Information in Discourse
+Speech Dialogue with Facial Displays: Multimodal Human-Computer Conversation
+A Learning Approach to Natural Language Understanding
+Towards a Principled Representation of Discourse Plans
+Word-Sense Disambiguation Using Decomposable Models
+Detecting and Correcting Speech Repairs
+Aligning a Parallel English-Chinese Corpus Statistically with Lexical Criteria
+Parsing Turkish with the Lexical Functional Grammar Formalism
+Multiset-Valued Linear Index Grammars: Imposing Dominance Constraints on Derivations
+Some Advances in Transformation-Based Part of Speech Tagging
+Exploring the Statistical Derivation of Transformational Rule Sequences for Part-of-Speech Tagging
+Self-Organizing Machine Translation: Example-Driven Induction of Transfer Functions
+Graded Unification: A Framework for Interactive Processing
+A Hybrid Reasoning Model for Indirect Answers
+Statistical Augmentation of a Chinese Machine-Readable Dictionary
+Corpus-Driven Knowledge Acquisition for Discourse Analysis
+An Automatic Method of Finding Topic Boundaries
+TDL--- A Type Description Language for Constraint-Based Grammars
+A Complete and Recursive Feature Theory
+DPOCL: A Principled Approach to Discourse Planning
+A symbolic description of punning riddles and its computer implementation
+An implemented model of punning riddles
+A Spanish Tagset for the CRATER Project
+Learning Fault-tolerant Speech Parsing with SCREEN
+Emergent Parsing and Generation with Generalized Chart
+The Very Idea of Dynamic Semantics
+Analyzing and Improving Statistical Language Models for Speech Recognition
+Resolution of Syntactic Ambiguity: the Case of New Subjects
+A Computational Model of Syntactic Processing: Ambiguity Resolution from Interpretation
+The complexity of normal form rewrite sequences for Associativity
+A Psycholinguistically Motivated Parser for CCG
+Anytime Algorithms for Speech Parsing?
+Verb Semantics and Lexical Selection
+Decision Lists for Lexical Ambiguity Resolution: Application to Accent Restoration in Spanish and French
+DISCO---An HPSG-based NLP System and its Application for Appointment Scheduling (Project Note)
+Multi-Paragraph Segmentation of Expository Text
+An Empirical Model of Acknowledgment for Spoken-Language Systems
+Three studies of grammar-based surface-syntactic parsing of unrestricted English text A summary and orientation
+Learning unification-based grammars using the Spoken English Corpus
+Morphology with a Null-Interface
+Syntactic Analysis by Local Grammars Automata: an Efficient Algorithm
+Compact Representations by Finite-State Transducers
+A Corrective Training Algorithm for Adaptive Learning in Bag Generation
+Interleaving Syntax and Semantics in an Efficient Bottom-Up Parser
+GEMINI: A Natural Language System for Spoken-Language Understanding
+Tricolor DAGs for Machine Translation
+Estimating Performance of Pipelined Spoken Language Translation Systems
+Combining Knowledge Sources to Reorder N-Best Speech Hypothesis Lists
+Discourse Obligations in Dialogue Processing
+Phoneme Recognition Using Acoustic Events
+The Acquisition of a Lexicon from Paired Phoneme Sequences and Semantic Representations
+Abstract Machine for Typed Feature Structures
+Specifying Intonation from Context for Speech Synthesis
+The Role of Cognitive Modeling in Achieving Communicative Intentions
+Generating Context-Appropriate Word Orders in Turkish
+Generating Multilingual Documents from a Knowledge Base: The TECHDOC Project
+Tracking Point of View in Narrative
+A Sequential Algorithm for Training Text Classifiers
+K-vec: A New Approach for Aligning Parallel Texts
+Comparative Discourse Analysis of Parallel Texts
+Multi-Tape Two-Level Morphology: A Case Study in Semitic Non-linear Morphology
+Recovering From Parser Failures: A Hybrid Statistical Symbolic Approach
+Tagging and Morphological Disambiguation of Turkish Text
+Parsing as Tree Traversal
+Automated Postediting of Documents
+Building a Large-Scale Knowledge Base for Machine Translation
+Computing FIRST and FOLLOW Functions for Feature-Theoretic Grammars
+The Correct and Efficient Implementation of Appropriateness Specifications for Typed Feature Structures
+Computational Analyses of Arabic Morphology
+Typed Feature Structures as Descriptions
+Parsing with Principles and Probabilities
+A Modular and Flexible Architecture for an Integrated Corpus Query System
+LHIP: Extended DCGs for Configurable Robust Parsing
+Emergent Linguistic Rules from Inducing Decision Trees: Disambiguating Discourse Clue Words
+Statistical versus symbolic parsing for captioned-information retrieval
+Tagging accurately -- Don't guess if you know
+On Using Selectional Restriction in Language Models for Speech Recognition
+Distributional Clustering of English Words
+Approximate N-Gram Markov Model for Natural Language Generation
+Training and Scaling Preference Functions for Disambiguation
+Qualitative and Quantitative Models of Speech Translation
+Experimentally Evaluating Communicative Strategies: The Effect of the Task
+On Implementing an HPSG theory -- Aspects of the logical architecture the formalization and the implementation of head-driven phrase structure grammars
+Reaping the Benefits of Interactive Syntax and Semantics
+Uniform Representations for Syntax-Semantics Arbitration
+Building a Parser That can Afford to Interact with Semantics
+Having our Cake and Eating It Too: Autonomy and Interaction in a Model of Sentence Processing
+A Unified Process Model of Syntactic and Semantic Error Recovery in Sentence Understanding
+Integrating Knowledge Bases and Statistics in MT
+Conceptual Association for Compound Noun Analysis
+A Probabilistic Model of Compound Nouns
+An Experiment on Learning Appropriate Selectional Restrictions from a Parsed Corpus
+Focusing for Pronoun Resolution in English Discourse: An Implementation
+Situated Modeling of Epistemic Puzzles
+Treating Free Word Order' in Machine Translation
+Parsing of Spoken Language under Time Constraints
+Linguistics Computation Automatic Model Generation and Intensions
+Inducing Probabilistic Grammars by Bayesian Model Merging
+Aligning Noisy Parallel Corpora Across Language Groups : Word Pair Feature Matching by Dynamic Time Warping
+Towards an Automatic Dictation System for Translators: the TransTalk Project
+Improving Language Models by Clustering Training Sentences
+Lexikoneintraege fuer deutsche Adverbien (Dictionary Entries for German Adverbs)
+Principle Based Semantics for HPSG
+Spelling Correction in Agglutinative Languages
+A Centering Approach to Pronouns
+Evaluating Discourse Processing Algorithms
+A Formal Look at Dependency Grammars and Phrase-Structure Grammars with Special Consideration of Word-Order Phenomena
+Recognizing Text Genres with Simple Metrics Using Discriminant Analysis
+Lexical Functions and Machine Translation
+TAG system - A Wide Coverage Grammar for English
+Dilemma - An Instant Lexicographer
+Does Baum-Welch Re-estimation Help Taggers?
+Automatic Error Detection in Part of Speech Tagging
+A Freely Available Syntactic Lexicon for English
+Lexicalization and Grammar Development
+Dutch Cross Serial Dependencies in HPSG
+Concurrent Lexicalized Dependency Parsing: The ParseTalk Model
+Part-of-Speech Tagging with Neural Networks
+Concurrent Lexicalized Dependency Parsing: A Behavioral View on ParseTalk Events
+Construction of a Bilingual Dictionary Intermediated by a Third Language
+Reference Resolution Using Semantic Patterns in Japanese Newspaper Articles
+Automated tone transcription
+Korean to English Translation Using Synchronous TAGs
+A Freely Available Wide Coverage Morphological Analyzer for English
+Syntactic Analysis Of Natural Language Using Linguistic Rules And Corpus-based Patterns
+A Rule-Based Approach To Prepositional Phrase Attachment Disambiguation
+Probabilistic Tagging with Feature Structures
+Minimal Change and Bounded Incremental Parsing
+Disambiguation of Super Parts of Speech (or Supertags): Almost Parsing
+Feature-Based TAG in place of multi-component adjunction: Computational Implications
+Planning Argumentative Texts
+Default Handling in Incremental Generation
+A Comparison of Two Smoothing Methods for Word Bigram Models
+Sublanguage Terms: Dictionaries Usage and Automatic Classification
+CLARE: A Contextual Reasoning and Cooperative Response Framework for the Core Language Engine
+Adnominal adjectives code-switching and lexicalized TAG
+Determining Determiner Sequencing: A Syntactic Analysis for English
+Constraining Lexical Selection Across Languages Using TAGs
+Status of the TAG System
+The Linguistic Relevance of Quasi-Trees
+Parsing Free Word-Order Languages in Polynomial Time
+Bootstrapping A Wide-Coverage CCG from FB-LTAG
+The Whiteboard Architecture: a way to integrate heterogeneous components of NLP systems
+Acquiring Knowledge from Encyclopedic Texts
+From Regular to Context Free to Mildly Context Sensitive Tree Rewriting Systems: The Path of Child Language Acquisition
+Phoneme-level speech and natural language intergration for agglutinative languages
+Automatically Identifying Morphological Relations in  Machine-Readable Dictionaries
+Parsing Using Linearly Ordered Phonological Rules
+Extending DRT with a Focusing Mechanism for Pronominal Anaphora and Ellipsis Resolution
+Interlanguage Signs and Lexical Transfer Errors
+Focus on only and Not
+Extraction in Dutch with Lexical Rules
+Free-ordered CUG on Chemical Abstract Machine
+Adaptive Sentence Boundary Disambiguation
+Abstract Generation based on Rhetorical Structure Extraction
+Reverse Queries in DATR
+Multi-Dimensional Inheritance
+Manipulating Human-oriented Dictionaries with very simple tools
+Classifier Assignment by Corpus-based Approach
+The Speech-Language Interface in the Spoken Language Translator
+An Efficient Probabilistic Context-Free Parsing Algorithm that Computes Prefix Probabilities
+Complexity of Scrambling: A New Twist to the Competence - Performance Distinction
+Automatic Generation of Technical Documentation
+Has a Consensus NL Generation Architecture Appeared and is it Psycholinguistically Plausible?
+Dependency Grammar and the Parsing of Chinese Sentences
+N-Gram Cluster Identification During Empirical Knowledge Representation Generation
+An Extended Clustering Algorithm for Statistical Language Models
+Knowledge Representation for Lexical Semantics: Is Standard First Order Logic Enough?
+Segmenting speech without a lexicon: The roles of phonotactics and speech source
+Robust stochastic parsing using the inside-outside algorithm
+Coupling Phonology and Phonetics in a Constraint-Based Gestural Model
+Analysis of Japanese Compound Nouns using Collocational Information
+Using default inheritance to describe LTAG
+NL Understanding with a Grammar of Constructions
+An HPSG Parser Based on Description Logics
+Lexical Knowledge Representation in an Intelligent Dictionary Help System
+A Tool for Collecting Domain Dependent Sortal Constraints From Corpora
+Interlingual Lexical Organisation for Multilingual Lexical Databases in NADIA
+Learning Unification-Based Natural Language Grammars
+ProFIT: Prolog with Features Inheritance and Templates
+Bottom-Up Earley Deduction
+Off-line Optimization for Earley-style HPSG Processing
+Rapid Development of Morphological Descriptions for Full Language Processing Systems
+Utilization of a Lexicon for Spelling Correction in Modern Greek
+A Robust and Efficient Three-Layered Dialogue Component for a Speech-to-Speech Translation System
+On Learning More Appropriate Selectional Restrictions
+NPtool a detector of English noun phrases
+Specifying a shallow grammatical representation for parsing purposes
+A syntax-based part-of-speech analyser
+Ambiguity resolution in a reductionistic parser
+Ellipsis and Quantification: a substitutional approach
+The Semantics of Resource Sharing in Lexical-Functional Grammar
+Higher-order Linear Logic Programming of Categorial Deduction
+Deterministic Consistency Checking of LP Constraints
+Algorithms for Analysing the Temporal Structure of Discourse
+Integrating Free Word Order Syntax and Information Structure
+Formalization and Parsing of Typed Unification-Based ID LP Grammars
+A Tractable Extension of Linear Indexed Grammars
+Stochastic HPSG
+Splitting the Reference Time: Temporal Anaphora and Quantification in DRT
+A Robust Parser Based on Syntactic Information
+Principle Based Semantics for HPSG
+On Reasoning with Ambiguities
+Towards an Account of Extraposition in HPSG
+Lexical Acquisition via Constraint Solving
+Topic Identification in Discourse
+Bi-directional memory-based dialog translation: The KEMDT approach
+Cooperative Error Handling and Shallow Processing
+An NLP Approach to a Specific Type of Texts: Car Accident Reports
+An Algorithm to Co-Ordinate Anaphora Resolution and PPS Disambiguation Process
+Grouping Words Using Statistical Context
+Incorporating Unconscious Reanalysis into an Incremental Monotonic Parser
+Literal Movement Grammars
+A State-Transition Grammar for Data-Oriented Parsing
+Implementation and evaluation of a German HMM for POS disambiguation
+Multilingual Sentence Categorization according to Language
+Using a Corpus for Teaching Turkish Morphology
+Computational dialectology in Irish Gaelic
+Tagging French -- comparing a statistical and a constraint-based method
+Creating a tagset lexicon and guesser for a French tagger
+A specification language for Lexical Functional Grammars
+ParseTalk about Sentence- and Text-Level Anaphora
+The Semantics of Motion
+Ellipsis and Higher-Order Unification
+Distributional Part-of-Speech Tagging
+Corpus-based Method for Automatic Identification of Support Verbs for Nominalizations
+Improving Statistical Language Model Performance with Automatically Generated Word Hierarchies
+Incremental Interpretation: Applications Theory and Relationship to Dynamic Semantics
+Non-Constituent Coordination: Theory and Practice
+Incremental Interpretation of Categorial Grammar
+Natural Language Interfaces to Databases - An Introduction
+Redundancy in Collaborative Dialogue
+Discourse and Deliberation: Testing a Collaborative Strategy
+SAT - An Adaptive Sentence Segmentation System
+A Note on the Complexity of Restricted Attribute-Value Grammars
+Assessing Complexity Results in Feature Theories
+A fast partial parse of natural language sentences using a connectionist method
+From compositional to systematic semantics
+Co-occurrence Vectors from Corpora vs Distance Vectors from Dictionaries
+Automatic processing proper names in texts
+Tagset Design and Inflected Languages
+Collaborating on Referring Expressions
+A Computational Treatment of HPSG Lexical Rules as Covariation in Lexical Entries
+Constraint Logic Programming for Natural Language Processing
+Cues and control in Expert-Client Dialogues
+Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation
+SKOPE: A connectionist symbolic architecture of spoken Korean processing
+Abstract Machine for Typed Feature Structures
+MAIMUM LIKELIHOOD AND MINIMUM ENTROP IDENTIFICATION OF GRAMMARS
+A Processing Model for Free Word Order Languages
+Linear Logic for Meaning Assembly
+NLG vs Templates
+LexGram - a practical categorial grammar formalism -
+Estimating Lexical Priors for Low-Frequency Syncretic Forms
+Memoization of Top Down Parsing
+A Uniform Treatment of Pragmatic Inferences in Simple and Complex Utterances and Sequences of Utterances
+An Implemented Formalism for Computing Linguistic Presuppositions and Existential Commitments
+A Formalism and an Algorithm for Computing Pragmatic Inferences and Detecting Infelicities
+Computational Interpretations of the Gricean Maxims in the Generation of Referring Expressions
+Phonological Derivation in Optimality Theory
+Constraints Exceptions and Representations
+TAKTAG: Two-phase learning method for hybrid statistical rule-based part-of-speech disambiguation
+A Morphographemic Model for Error Correction in Nonconcatenative Strings
+Discourse Processing of Dialogues with Multiple Threads
+The intersection of Finite State Automata and Definite Clause Grammars
+An Efficient Generation Algorithm for Lexicalist MT
+Memoization of Coroutined Constraints
+Quantifiers Anaphora and Intensionality
+Statistical Decision-Tree Models for Parsing
+Error-tolerant Finite State Recognition with Applications to Morphological Analysis and Spelling Correction
+The Replace Operator
+Corpus Statistics Meet the Noun Compound: Some Empirical Results
+Bayesian Grammar Induction for Language Modeling
+Response Generation in Collaborative Negotiation
+New Techniques for Context Modeling
+Compiling HPSG type constraints into definite clause programs
+DATR Theories and DATR Models
+Learning Syntactic Rules and Tags with Genetic Algorithms for Information Retrieval and Filtering: An Empirical Basis for Grammatical Rules
+Treating Coordination with Datalog Grammars
+Parsing a Flexible Word Order Language
+Conciseness through Aggregation in Text Generation
+Compilation of HPSG to TAG
+Tagset Reduction Without Information Loss
+Evaluation of Semantic Clusters
+A Symbolic and Surgical Acquisition of Terms through Variation
+Utilizing Statistical Dialogue Act Processing in Verbmobil
+Compositionality for Presuppositions over Tableaux
+Efficient Analysis of Complex Diagrams using Constraint-Based Parsing
+A Pattern Matching method for finding Noun and Proper Noun Translations from Noisy Parallel Corpora
+Robust Parsing of Spoken Dialogue Using Contextual Knowledge and Recognition Probabilities
+Acquiring a Lexicon from Unsegmented Speech
+Measuring semantic complexity
+CRSTAL: Inducing a Conceptual Dictionary
+Improving the Efficiency of a Generation Algorithm for Shake and Bake Machine Translation Using Head-Driven Phrase Structure Grammar
+Generating One-Anaphoric Expressions: Where Does the Decision Lie?
+Some Novel Applications of Explanation-Based Learning to Parsing Lexicalized Tree-Adjoining Grammars
+Exploring the role of Punctuation in Parsing Natural Text
+Combining Multiple Knowledge Sources for Discourse Segmentation
+Tagging the Teleman Corpus
+Quantifier Scope and Constituency
+D-Tree Grammars
+Mapping Scrambled Korean Sentences into English Using Synchronous TAGs
+Encoding Lexicalized Tree Adjoining Grammars with a Nonmonotonic Inheritance Hierarchy
+The Compactness of Construction Grammars
+Context and ontology in understanding of dialogs
+User-Defined Nonmonotonicity in Unification-Based Formalisms
+Semantic Ambiguity and Perceived Ambiguity
+Development of a Spanish Version of the erox Tagger
+Integrating Gricean and Attentional Constraints
+Identifying Word Translations in Non-Parallel Texts
+Ubiquitous Talker: Spoken Language Interaction with Real World Objects
+Generating efficient belief models for task-oriented dialogues
+On Descriptive Complexity Language Complexity and GB
+Robust Parsing Based on Discourse Information: Completing partial parses of ill-formed sentences on the basis of discourse information
+Using Decision Trees for Coreference Resolution
+Automatic Evaluation and Uniform Filter Cascades for Inducing N-Best Translation Lexicons
+Hybrid Transfer in an English-French Spoken Language Translator
+Ma(r)king concessions in English and German
+Weak subsumption Constraints for Type Diagnosis: An Incremental Algorithm
+Syllable parsing in English and French
+Using Higher-Order Logic Programming for Semantic Interpretation of Coordinate Constructs
+A Support Tool for Tagset Mapping
+Automatic Extraction of Tagset Mappings from Parallel-Annotated Corpora
+Features and Agreement
+Filling Knowledge Gaps in a Broad-Coverage Machine Translation System
+Two-level Many-Paths Generation
+Presenting Punctuation
+A Study of the Context(s) in a Specific Type of Texts: Car Accident Reports
+Inducing Features of Random Fields
+Ambiguity in the Acquisition of Lexical Information
+Indefeasible Semantics and Defeasible Pragmatics
+The Effect of Pitch Accenting on Pronoun Referent Resolution
+Intelligent Voice Prosthesis: Converting Icons into Natural Language Sentences
+Review of Charniak's Statistical Language Learning
+GLR-Parsing of Word Lattices Using a Beam Search Method
+Prepositional Phrase Attachment through a Backed-Off Model
+Deriving Procedural and Warning Instructions from Device and Environment Models
+Empirical Discovery in Linguistics
+An Approach to Proper Name Tagging for German
+A Categorial Framework for Composition in Multiple Linguistic Domains
+A Computational Approach to Aspectual Composition
+Constraint Categorial Grammars
+A framework for lexical representation
+Robust Processing of Natural Language
+GRAMPAL: A Morphological Processor for Spanish implemented in Prolog
+Comparative Ellipsis and Variable Binding
+Transfer in a Connectionist Model of the Acquisition of Morphology
+An Efficient Algorithm for Surface Generation
+A Constraint-based Case Frame Lexicon Architecture
+Specifying Logic Programs in Controlled Natural Language
+On-line Learning of Binary Lexical Relations Using Two-dimensional Weighted Majority Algorithms
+Generalizing Case Frames Using a Thesaurus and the MDL Principle
+A Grammar Formalism and Cross-Serial Dependencies
+Indexed Languages and Unification Grammars
+Co-Indexing Labelled DRSs to Represent and Reason with Ambiguities
+Bridging as Coercive Accommodation
+A Compositional Treatment of Polysemous Arguments in Categorial Grammar
+A Robust Parsing Algorithm For Link Grammars
+Parsing English with a Link Grammar
+A Matching Technique in Example-Based Machine Translation
+Bi-Lexical Rules for Multi-Lexeme Translation in Lexicalist MT
+A Dynamic Approach to Rhythm in Language: Toward a Temporal Phonology
+On Constraint-Based Lambek Calculi
+A Labelled Analytic Theorem Proving Environment for Categorial Grammar
+Heuristics and Parse Ranking
+The Use of Knowledge Preconditions in Language Processing
+A Natural Law of Succession
+How much is enough?: Data requirements for statistical NLP
+Conserving Fuel in Statistical Language Learning: Predicting Data Requirements
+Cluster Expansions and Iterative Scaling for Maximum Entropy Language Models
+The Development and Migration of Concepts from Donor to Borrower Disciplines: Sublanguage Term Use in Hard Soft Sciences
+ParseTalk about Textual Ellipsis
+POS Tagging Using Relaxation Labelling
+Using Chinese Text Processing Technique for the Processing of Sanskrit Based Indian Languages: Maximum Resource Utilization and Maximum Compatibility
+A Proposal for Word Sense Disambiguation using Conceptual Distance
+Disambiguating bilingual nominal entries against WordNet
+Developing and Evaluating a Probabilistic LR Parser of Part-of-Speech and Punctuation Labels
+Incorporating Discourse Aspects in English -- Polish MT: Towards Robust Implementation
+Automatic Identification of Support Verbs: A Step Towards a Definition of Semantic Weight
+Toward an MT System without Pre-Editing --- Effects of New Methods in ALT-J E ---
+Countability and Number in Japanese-to-English Machine Translation
+Letting the Cat out of the Bag: Generation for Shake-and-Bake MT
+The Effect of Resource Limits and Task Complexity on Collaborative Planning in Dialogue
+An investigation into the correlation of cue phrases unfilled pauses and the structuring of spoken discourse
+Chart-driven Connectionist Categorial Parsing of Spoken Korean
+Disambiguating Noun Groupings with Respect to WordNet Senses
+Using Information Content to Evaluate Semantic Similarity in a Taxonomy
+Analysis of the Arabic Broken Plural and Diminutive
+The Unsupervised Acquisition of a Lexicon from Continuous Speech
+Limited Attention and Discourse Structure
+Natural language processing: she needs something old and something new (maybe something borrowed and something blue too)
+Term Encoding of Typed Feature Structures
+Automatic Inference of DATR Theories
+Generic rules and non-constituent coordination
+Report of the Study Group on Assessment and Evaluation
+Similarity between Words Computed by Spreading Activation on an English Dictionary
+Text Segmentation Based on Similarity between Words
+Possessive Pronouns as Determiners in Japanese-to-English Machine Translation
+Context-Sensitive Measurement of Word Distance by Adaptive Scaling of a Semantic Space
+Noun Phrase Reference in Japanese-to-English Machine Translation
+A General Architecture for Language Engineering (GATE) - a new approach to Language Engineering R D
+Parsing with Typed Feature Structures
+Parsing with Typed Feature Structures
+How Part-of-Speech Tags Affect Text Retrieval and Filtering Performance
+Situations and Computation: An Overview of Recent Research
+Text Windows and Phrases Differing by Discipline Location in Document and Syntactic Structure
+Assessing agreement on classification tasks: the kappa statistic
+Speech Recognition by Composition of Weighted Finite Automata
+Finite-State Approximation of Phrase-Structure Grammars
+Attempto Controlled English (ACE)
+Attempto - From Specifications in Controlled Natural Language towards Executable Specifications
+Integrated speech and morphological processing in a connectionist continuous speech understanding for Korean
+Extraction of V-N-Collocations from Text Corpora: A Feasibility Study for German
+Combining Hand-crafted Rules and Unsupervised Learning in Constraint-based Morphological Disambiguation
+A Constraint-based Case Frame Lexicon
+Error-tolerant Tree Matching
+Apportioning Development Effort in a Probabilistic LR Parsing System through Evaluation
+Better Language Models with Model Merging
+The Role of the Gricean Maxims in the Generation of Referring Expressions
+Collocational Grammar
+Efficient Algorithms for Parsing the DOP Model
+Another Facet of LIG Parsing
+Off-line Constraint Propagation for Efficient HPSG Processing
+Multi-level post-processing for Korean character recognition using morphological analysis and linguistic evaluation
+SemHe: A Generalised Two-Level System
+Syntactic Analyses for Parallel Grammars: Auxiliaries and Genitive NPs
+The importance of being lazy -- using lazy evaluation to process queries to HPSG grammars
+Computing Prosodic Morphology
+Processing Metonymy: a Domain-Model Heuristic Graph Traversal Approach
+Fast Parsing using Pruning and Grammar Specialization
+The Measure of a Model
+Magic for Filter Optimization in Dynamic Bottom-up Processing
+Translating into Free Word Order Languages
+Extended Dependency Structures and their Formal Interpretation
+Unsupervised Learning of Word-Category Guessing Rules
+A Model-Theoretic Framework for Theories of Syntax
+Connectivity in Bag Generation
+Learning Part-of-Speech Guessing Rules from Lexicon: Extension to Non-Concatenative Operations
+Towards a Workbench for Acquisition of Domain Knowledge from Natural Language
+Compiling a Partition-Based Two-Level Formalism
+Building Natural-Language Generation Systems
+et Another Paper about Partial Verb Phrase Fronting in German
+Higher-Order Coloured Unification and Natural Language Semantics
+Focus and Higher-Order Unification
+Active Constraints for a Direct Interpretation of HPSG
+Resolving Anaphors in Embedded Sentences
+Tactical Generation in a Free Constituent Order Language
+Learning similarity-based word sense disambiguation from sparse data
+Best-First Surface Realization
+Counting Coordination Categorially
+A New Statistical Parser Based on Bigram Lexical Dependencies
+Learning Dependencies between Case Frame Slots
+Clustering Words with the MDL Principle
+Adapting the Core Language Engine to French and Spanish
+Parsing for Semidirectional Lambek Grammar is NP-Complete
+A Chart Generator for Shake and Bake Machine Translation
+Efficient Tabular LR Parsing
+Noun-Phrase Analysis in Unrestricted Text for Information Retrieval
+Where Defaults Don't Help: the Case of the German Plural System
+Functional Centering
+Processing Complex Sentences in the Centering Framework
+A Simple Transformation for Offline-Parsable Grammars and its Termination Properties
+Using Terminological Knowledge Representation Languages to Manage Linguistic Resources
+A Conceptual Reasoning Approach to Textual Ellipsis
+Trading off Completeness for Efficiency --- The textsc ParseTalk Performance Grammar Approach to Real-World Text Parsing
+Restricted Parallelism in Object-Oriented Lexical Parsing
+Towards Understanding Spontaneous Speech: Word Accuracy vs Concept Accuracy
+Learning Word Association Norms Using Tree Cut Pair Models
+Incremental Centering and Center Ambiguity
+Efficient Algorithms for Parsing the DOP Model? A Reply to Joshua Goodman
+Synchronous Models of Language
+Notes on LR Parser Design
+Handling Sparse Data by Successive Abstraction
+Example-Based Optimization of Surface-Generation Tables
+Parsing Algorithms and Metrics
+Combining Trigram-based and Feature-based Methods for Context-Sensitive Spelling Correction
+Efficient Normal-Form Parsing for Combinatory Categorial Grammar
+A Bayesian hybrid method for context-sensitive spelling correction
+Clustered Language Models with Context-Equivalent States
+Morphological Cues for Lexical Semantics
+Classification in Feature-based Default Inheritance Hierarchies
+Part-of-Speech-Tagging using morphological information
+Coordination in Tree Adjoining Grammars: Formalization and Implementation
+Word Sense Disambiguation using Conceptual Density
+Coordination as a Direct Process
+Modularizing Contexted Constraints
+An Information Structural Approach to Spoken Language Generation
+An Empirical Study of Smoothing Techniques for Language Modeling
+An Efficient Inductive Unsupervised Semantic Tagger
+Relating Turing's Formula and ipf's Law
+Building Probabilistic Models for Natural Language
+A Probabilistic Disambiguation Method Based on Psycholinguistic Principles
+With raised eyebrows or the eyebrows raised ? A Neural Network Approach to Grammar Checking for Definiteness
+Compilation of Weighted Finite-State Transducers from Decision Trees
+Computational Complexity of Probabilistic Disambiguation by means of Tree-Grammars
+Computing Optimal Descriptions for Optimality Theory Grammars with Context-Free Position Structures
+An Iterative Algorithm to Build Chinese Language Models
+Two Questions about Data-Oriented Parsing
+A Robust System for Natural Spoken Dialogue
+A Data-Oriented Approach to Semantic Interpretation
+Two Sources of Control over the Generation of Software Instructions
+An Efficient Compiler for Weighted Rewrite Rules
+Linguistic Structure as Composition and Perturbation
+Maximizing Top-down Constraints for Unification-based Systems
+Directed Replacement
+Minimizing Manual Annotation Cost In Supervised Training From Corpora
+Research on Architectures for Integrated Speech Language Systems in Verbmobil
+Integrating Multiple Knowledge Sources to Disambiguate Word Sense: An Exemplar-Based Approach
+GramCheck: A Grammar and Style Checker
+Inducing Constraint Grammars
+Domain and Language Independent Feature Extraction for Statistical Text Categorization
+Integrating Syntactic and Prosodic Information for the Efficient Detection of Empty Categories
+Head Automata and Bilingual Tiling: Translation with Minimal Representations
+Head Automata for Speech Translation
+Parallel Replacement in Finite State Calculus
+From Submit to Submitted via Submission: On Lexical Rules in Large-Scale Lexicon Acquisition
+Semantic-based Transfer
+Efficient Implementation of a Semantic-based Transfer Approach
+Pattern-Based Context-Free Grammars for Machine Translation
+MBT: A Memory-Based Part of Speech Tagger-Generator
+Unsupervised Discovery of Phonological Categories through Supervised Learning of Morphological Rules
+A Corpus Study of Negative Imperatives in Natural Language Instructions
+Learning Micro-Planning Rules for Preventative Expressions
+Beyond Word N-Grams
+Natural Language Processing: Structure and Complexity
+TSNLP - Test Suites for Natural Language Processing
+Mental State Adjectives: the Perspective of Generative Lexicon
+A Divide-and-Conquer Strategy for Parsing
+Morphological Analysis as Classification: an Inductive-Learning Approach
+A Machine Learning Approach to the Classification of Dialogue Utterances
+Phonological modeling for continuous speech recognition in Korean
+Applying Winnow to Context-Sensitive Spelling Correction
+New Methods Current Trends and Software Infrastructure for NLP
+Building Knowledge Bases for the Generation of Software Documentation
+Learning Translation Rules From A Bilingual Corpus
+The Grammar of Sense: Is word-sense tagging much more than part-of-speech tagging?
+Design and Implementation of a Tactical Generator for Turkish a Free Constituent Order Language
+Using Multiple Sources of Information for Constraint-Based Morphological Disambiguation
+Compositional Semantics in Verbmobil
+A Lexical Semantic Database for Verbmobil
+Multiple Discourse Relations on the Sentential Level in Japanese
+Using textual clues to improve metaphor processing
+Completeness of Compositional Translation for Context-Free Grammars
+Connected Text Recognition Using Layered HMMs and Token Passing
+Automatic Construction of Clean Broad-Coverage Translation Lexicons
+Storage of Natural Language Sentences in a Hopfield Network
+Controlling Functional Uncertainty
+Stylistic Variation in an Information Retrieval Experiment
+Patterns of Language - A Population Model for Language Structure
+CLEARS - An Education and Research Tool for Computational Semantics
+Grapheme-to-Phoneme Conversion using Multiple Unbounded Overlapping Chunks
+Centering in Italian
+The discourse functions of Italian subjects: a centering approach
+Centering theory and the Italian pronominal system
+Fishing for Exactness
+Punctuation in Quoted Speech
+Multilingual Text Analysis for Text-to-Speech Synthesis
+A Word Grammar of Turkish with Morphophonemic Rules
+Classifiers in Japanese-to-English Machine Translation
+Morphological Productivity in the Lexicon
+A Sign-Based Phrase Structure Grammar for Turkish
+Automatic Alignment of English-Chinese Bilingual Texts of CNS News
+Algorithms for Speech Recognition and Language Processing
+Using sentence connectors for evaluating MT output
+Phonetic Ambiguity : Approaches Touchstones Pitfalls and New Approaches
+Isolated-Word Confusion Metrics and the PGPfone Alphabet
+Corrections and Higher-Order Unification
+Inferring Acceptance and Rejection in Dialogue by Default Rules of Inference
+Cue Phrase Classification Using Machine Learning
+A Principled Framework for Constructing Natural Language Interfaces To Temporal Databases
+Centering in Japanese Discourse
+Japanese Discourse and the Process of Centering
+Discourse Coherence and Shifting Centers in Japanese Texts
+Designing Statistical Language Learners: Experiments on Noun Compounds
+A Geometric Approach to Mapping Bitext Correspondence
+Automatic Detection of Omissions in Translations
+Death and Lightness: Using a Demographic Model to Find Support Verbs
+Gathering Statistics to Aspectually Classify Sentences with a Genetic Algorithm
+Stochastic Attribute-Value Grammars
+A Faster Structured-Tag Word-Classification Method
+Learning string edit distance
+A Morphology-System and Part-of-Speech Tagger for German
+Unsupervised Language Acquisition
+Data-Oriented Language Processing An Overview
+Nonuniform Markov models
+Integrating HMM-Based Speech Recognition With Direct Manipulation In A Multimodal Korean Natural Language Interface
+A Framework for Natural Language Interfaces to Temporal Databases
+Comparative Experiments on Disambiguating Word Senses: An Illustration of the Role of Bias in Machine Learning
+Specialized Language Models using Dialogue Predictions
+Metrics for Evaluating Dialogue Strategies in a Spoken Language System
+Dialogos: a Robust System for Human-Machine Spoken Dialogue on the Telephone
+Maximum Entropy Modeling Toolkit
+Exploiting Context to Identify Lexical Atoms -- A Statistical View of Linguistic Context
+Hybrid language processing in the Spoken Language Translator
+Generating Information-Sharing Subdialogues in Expert-User Consultation
+An Efficient Implementation of the Head-Corner Parser
+SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis Using Artificial Neural Networks
+Automatic Extraction of Subcategorization from Corpora
+An Annotation Scheme for Free Word Order Languages
+Software Infrastructure for Natural Language Processing
+Information Extraction - A User Guide
+Natural Language Dialogue Service for Appointment Scheduling Agents
+Sequential Model Selection for Word Sense Disambiguation
+Fast Statistical Parsing of Noun Phrases for Document Indexing
+Selective Sampling of Effective Example Sentence Sets for Word Sense Disambiguation
+How much has information technology contributed to linguistics?
+Design and Implementation of a Computational Lexicon for Turkish
+Knowledge Acquisition for Content Selection
+Building a Generation Knowledge Source using Internet-Accessible Newswire
+Improvising Linguistic Style: Social and Affective Bases for Agent Personality
+Instructions for Temporal Annotation of Scheduling Dialogs
+Domain Adaptation with Clustered Language Models
+Concept Clustering and Knowledge Integration from a Children's Dictionary
+A Semantics-based Communication System for Dysphasic Subjects
+Insights into the Dialogue Processing of VERBMOBIL
+Semi-Automatic Acquisition of Domain-Specific Translation Lexicons
+Evaluating Multilingual Gisting of Web Pages
+A Maximum Entropy Approach to Identifying Sentence Boundaries
+PARADISE: A Framework for Evaluating Spoken Dialogue Agents
+Tracking Initiative in Collaborative Dialogue Interactions
+Representing Constraints with Automata
+Combining Unsupervised Lexical Knowledge Methods for Word Sense Disambiguation
+Intonational Boundaries Speech Repairs and Discourse Markers: Modeling Spoken Dialog
+Developing a hybrid NP parser
+The Theoretical Status of Ontologies in Natural Language Processing
+Morphological Disambiguation by Voting Constraints
+Emphatic generation: employing the theory of semantic emphasis for text generation
+A Theory of Parallelism and the Case of VP Ellipsis
+Centering in-the-large: Computing referential discourse segments
+Co-evolution of Language and of the Language Acquisition Device
+Sloppy Identity
+Grammatical analysis in the OVIS spoken-dialogue system
+Computing Parallelism in Discourse
+Document Classification Using a Finite Mixture Model
+Quantitative Constraint Logic Programming for Weighted Grammar Applications
+Recycling Lingware in a Multilingual MT System
+The TreeBanker: a Tool for Supervised Training of Parsed Corpora
+Charts Interaction-Free Grammars and the Compact Representation of Ambiguity
+Memory-Based Learning: Using Similarity for Smoothing
+A Lexicon for Underspecified Semantic Tagging
+A Comparative Study of the Application of Different Learning Techniques to Natural Language Interfaces
+FASTUS: A Cascaded Finite-State Transducer for Extracting Information from Natural-Language Text
+Incorporating POS Tagging into Language Modeling
+Translation Methodology in the Spoken Language Translator: An Evaluation
+Sense Tagging: Semantic Tagging with a Lexicon
+Assigning Grammatical Relations with a Back-off Model
+Three New Probabilistic Models for Dependency Parsing: An Exploration
+An Empirical Comparison of Probability Models for Dependency Grammar
+Comparing a Linguistic and a Stochastic Tagger
+Mistake-Driven Learning in Text Categorization
+Aggregate and mixed-order Markov models for statistical language processing
+Distinguishing Word Senses in Untagged Text
+Exemplar-Based Word Sense Disambiguation: Some Recent Improvements
+Applying Reliability Metrics to Co-Reference Annotation
+Probabilistic Coreference in Information Extraction
+A Corpus-Based Approach for Building Semantic Lexicons
+A Linear Observed Time Statistical Parser Based on Maximum Entropy Models
+Determining Internal and External Indices for Chart Generation
+Text Segmentation Using Exponential Models
+Name Searching and Information Retrieval
+A Model of Lexical Attraction and Repulsion
+Evaluating Competing Agent Strategies for a Voice Email Agent
+An Empirical Approach to Temporal Reference Resolution
+An Efficient Distribution of Labor in a Two Stage Robust Interpretation Process
+Three Generative Lexicalised Models for Statistical Parsing
+An Information Extraction Core System for Real World German Text Processing
+A Lexicalist Approach to the Translation of Colloquial Text
+A Portable Algorithm for Mapping Bitext Correspondence
+A Word-to-Word Model of Translational Equivalence
+Automatic Discovery of Non-Compositional Compounds in Parallel Data
+Efficient Construction of Underspecified Semantics under Massive Ambiguity
+Learning Parse and Translation Decisions From Examples With Rich Context
+Reluctant Paraphrase: Textual Restructuring under an Optimisation Model
+Automatic Detection of Text Genre
+A Flexible POS tagger Using an Automatically Acquired Language Model
+Discourse Preferences in Dynamic Logic
+Intrasentential Centering: A Case Study
+Finite State Transducers Approximating Hidden Markov Models
+Tailored Patient Information: Some Issues and Questions
+Stressed and Unstressed Pronouns: Complementary Preferences
+Recognizing Referential Links: An Information Extraction Perspective
+Experiences with the GTU grammar development environment
+A lexical database tool for quantitative phonological research
+Adjunction As Substitution: An Algebraic Formulation of Regular Context-Free and Tree Adjoining Languages
+On Cloning Context-Freeness
+Towards a PURE Spoken Dialogue System for Information Access
+Tagging Grammatical Functions
+On aligning trees
+Stochastic phonological grammars and acceptability
+Multilingual phonological analysis and speech synthesis
+Generating Coherent Messages in Real-time Decision Support: Exploiting Discourse Theory for Discourse Practice
+A Czech Morphological Lexicon
+Expectations in Incremental Discourse Processing
+Natural Language Generation in Healthcare: Brief Review
+Structure and Ostension in the Interpretation of Discourse Deixis
+Centering Anaphora Resolution and Discourse Structure
+Global Thresholding and Multiple Pass Parsing
+A complexity measure for diachronic Chinese phonology
+Fast Context-Free Parsing Requires Fast Boolean Matrix Multiplication
+DIA-MOLE: An Unsupervised Learning Approach to Adaptive Dialogue Models for Spoken Dialogue Systems
+Similarity-Based Methods For Word Sense Disambiguation
+Similarity-Based Approaches to Natural Language Processing
+Encoding Frequency Information in Lexicalized Grammars
+explanation-based learning of data oriented parsing
+The Complexity of Recognition of Linguistically Adequate Dependency Grammars
+Learning Methods for Combining Linguistic Indicators to Classify Verbs
+Combining Multiple Methods for the Automatic Construction of Multilingual WordNets
+Integrating a Lexical Database and a Training Collection for Text Categorization
+A generation algorithm for f-structure representations
+Semantic Processing of Out-Of-Vocabulary Words in a Spoken Dialogue System
+Using WordNet to Complement Training Information in Text Categorization
+Semantic Similarity Based on Corpus Statistics and Lexical Taxonomy
+Evaluating Parsing Schemes with Entropy Indicators
+Message-Passing Protocols for Real-World Parsing -- An Object-Oriented Model and its Preliminary Evaluation
+Off-line Parsability and the Well-foundedness of Subsumption
+Using Single Layer Networks for Discrete Sequential Data: An Example from Natural Language Processing
+An Abstract Machine for Unification Grammars
+Amalia -- A Unified Platform for Parsing and Generation
+Segmentation of Expository Texts by Hierarchical Agglomerative Clustering
+An Alternative Conception of Tree-Adjoining Derivation
+Natural Language Parsing as Statistical Pattern Recognition
+Text Analysis Tools in Spoken Language Processing
+Japanese word sense disambiguation based on examples of synonyms
+PRINCIPAR---An Efficient Broad-coverage Principle-based Parser
+Towards a More User-friendly Correction
+Comlex Syntax: Building a Computational Lexicon
+A Note on ipf's Law Natural Languages and Noncoding DNA regions
+Different Issues in the Design of a Lemmatizer Tagger for Basque
+Text Chunking using Transformation-Based Learning
+Unification-Based Glossing
+OT SIMPLE - a construction-kit approach to Optimality Theory implementation
+A Robust Text Processing Technique Applied to Lexical Error Recovery
+Learning Parse and Translation Decisions From Examples With Rich Context
+Library of Practical Abstractions Release 
+Epistemic NP Modifiers
+Graph Interpolation Grammars: a Rule-based Approach to the Incremental Parsing of Natural Languages
+Valence Induction with a Head-Lexicalized PCFG
+Discovery of Linguistic Relations Using Lexical Attraction
+Character design for soccer commmentary
+How to define a context-free backbone for DGs: Implementing a DG in the LFG formalism
+Stabilizing the Richardson Algorithm by Controlling Chaos
+Machine Transliteration
+CLiFF Notes: Research in the Language Information and Computation Laboratory of the University of Pennsylvania
+Orthographic Structuring of Human Speech and Texts: Linguistic Application of Recurrence Quantification Analysis

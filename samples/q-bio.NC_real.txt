@@ -1,0 +1,2365 @@
+Behavioral response to strong aversive stimuli: A neurodynamical model
+A balanced memory network
+Effect of beta-Dystroglycan Processing on Utrophin DP11 Anchorage in Normal and MD Mouse Schwann Cell Membrane
+Artificial Tongue-Placed Tactile Biofeedback for perceptual supplementation: application to human disability and biomedical engineering
+Pr 'evention des escarres chez les parapl 'egiques : une nouvelle approche par 'electrostimulation linguale
+Predicting the connectivity of primate cortical networks from topological and spatial node properties
+A Model of Late Long-Term Potentiation Simulates Aspects of Memory Maintenance
+Controlling posture using a plantar pressure-based tongue-placed tactile biofeedback system
+Global and regional brain metabolic scaling and its functional consequences
+Neural network design for J function approximation in dynamic programming
+Chaotic Dynamics in Iterated Map Neural Networks with Piecewise Linear Activation Function
+Beyond storage capacity in a single model neuron: Continuous replica symmetry breaking
+Computational Capacity of an Odorant Discriminator: the Linear Separability of Curves
+Metabolically Efficient Information Processing
+Metabolically Efficient Codes in The Retina
+A Wavelet Analysis of Transient Spike Trains of Hodgkin-Huxley Neurons
+Hebbian imprinting and retrieval in oscillatory neural networks
+Measuring information spatial densities
+A measure for the complexity of Boolean functions related to their implementation in neural networks
+Physics of Psychophysics: Stevens and Weber-Fechner laws are transfer functions of excitable media
+Independent neurons representing a finite set of stimuli: dependence of the mutual information on the number of units sampled
+Threshold Disorder as a Source of Diverse and Complex Behavior in Random Nets
+Responses of Ensemble Neurons to Spike-Train Signals with Independent Noises: Stochastic Resonance and Spike Variability
+Order-disorder transition in the Chialvo-Bak minibrain' controlled by network geometry
+Winner-Relaxing Self-Organizing Maps
+Associative Recall in Non-Randomly Diluted Neuronal Networks
+Processing of information in synchroneously firing chains in networks of neurons
+Spike propagation for spatially correlated inputs through noisy multilayer networks
+Scale-free brain functional networks
+An Analytical Approach to Connectivity in Regular Neuronal Networks
+Dynamical Motifs: Building Blocks of Complex Network Dynamics
+Reinforcing the Resilience of Complex Networks
+Analyzing Stability of Equilibrium Points in Neural Networks: A General Approach
+Self-organized Criticality and Scale-free Properties in Emergent Functional Neural Networks
+Geographical Coarsegraining of Complex Networks
+Spatial small-world networks: A wiring-cost perspective
+Dynamical response of the Hodgkin-Huxley model in the high-input regime
+Synchronization is optimal in non-diagonalizable networks
+Maximum Performance at Minimum Cost in Network Synchronization
+Does dynamics reflect topology in directed networks?
+On the stationary state of a network of inhibitory spiking neurons
+A Generalized Rate Model for Neuronal Ensembles
+Threshold Noise as a Source of Volatility in Random Synchronous Asymmetric Neural Networks
+Predictive Information
+Robust gamma oscillations in networks of inhibitory Hippocampal interneurons
+Quantitative Neural Network Model of the Tip-of-the-Tongue Phenomenon Based on Synthesized Memory-Psycholinguistic-Metacognitive Approach
+Three-Stage Quantitative Neural Network Model of the Tip-of-the-Tongue Phenomenon
+Artificial Neurons with Arbitrarily Complex Internal Structures
+The tip-of-the-tongue phenomenon: Irrelevant neural network localization or disruption of its interneuron links ?
+Computer modeling of feelings and emotions: a quantitative neural network model of the feeling-of-knowing
+A Neural Network Assembly Memory Model with Maximum-Likelihood Recall and Recognition Properties
+Controlled hierarchical filtering: Model of neocortical sensory processing
+ROC Curves Within the Framework of Neural Network Assembly Memory Model: Some Analytic Results
+A Neural Network Assembly Memory Model Based on an Optimal Binary Signal Detection Theory
+Neural Architectures for Robot Intelligence
+The Cyborg Astrobiologist: First Field Experience
+Ultrametric Distance in Syntax
+P-model Alternative to the T-model
+A simple mechanism for balancing at the border of instability with applications to persistent neural activity
+Use of an Hourglass Model in Neuronal Coding
+Intelligent systems in the context of surrounding environment
+Synchronization in model networks of class I neurons
+Towards Modeling of Consciousness
+Measurement of synchronization properties in systems with different excitation levels
+Quaternion Dynamics of the Brain
+Manipulating Consciousness
+Stabilizing near-nonhyperbolic chaotic systems and its potential applications in neuroscience
+Rotating waves in the Theta model for a ring of synaptically connected neurons
+Awaking and Sleeping a Complex Network
+From collective rhythm to adaptive synchronization
+Nonlinear Dynamics in Psychophysiology - Importance of Time Scales
+Periodic travelling waves in the theta model for synaptically connected neurons
+Creative Thought as a nonDarwinian Evolutionary Process
+Imaginary Fields
+Nonlinear multivariate analysis of Neurophysiological Signals
+Distributed Sources Accelerated Universe Consciousness and Quantum Entanglement
+Reliable and unreliable dynamics in driven coupled oscillators
+Self-organising mechanism of neuronal avalanche activity
+Real time encoding of motion: Answerable questions and questionable answers from the fly's visual system
+Universality and individuality in a neural code
+Synchronisation binding and the role of correlated firing in fast information transmission
+Neural coding of naturalistic motion stimuli
+Spike timing and the coding of naturalistic sounds in a central auditory area of songbirds
+Timing and Counting Precision in the Blowfly Visual System
+Presynaptic calcium dynamics of learning neurons
+Separation of multiple evoked responses using differential amplitude and latency variability
+Thinking about the brain
+Spherical Harmonics Interpolation Computation of Laplacians and Gauge Theory
+A computational theory for the classification of natural biosonar targets based on a spike code
+Does Corticothalamic Feedback Control Cortical Velocity Tuning?
+Spatiotemporal adaptation through corticothalamic loops: A hypothesis
+Maximally informative dimensions: Analyzing neural responses to natural signals
+A quantitative model for presynaptic free calcium dynamics during different stimulation protocols
+Analyzing neural responses to natural signals: Maximally informative dimensions
+Computation in a single neuron: Hodgkin and Huxley revisited
+What causes a neuron to spike?
+Alternative model of propagation of spikes along neurons
+Branching Law for Axons
+Reading Neural Encodings using Phase Space Methods
+Has the Brain Maximized its Information Storage Capacity?
+The Intrinsic Time Scale of Transient Neuronal Responses
+A dry electrophysiology electrode using CNT arrays
+Complex networks in brain electrical activity
+Utilisation de la substitution sensorielle par ' e lectro-stimulation linguale pour la pr ' e vention des escarres chez les parapl ' e giques. Etude pr ' e liminaire
+Pr ' e sentation d'une m ' e thodologie d' ' e valuation de la faisabilit ' e de la substitution sensorielle par ' e lectrostimulation linguale pour la pr ' e vention des escarres chez le bl ' e ss ' e m ' e dullaire parapl ' e gique
+Control of Surgical Gesture under Lingual Electro-Tactile Stimulation
+Optimizing the Use of an Artificial Tongue-Placed Tactile Biofeedback for Improving Ankle Joint Position Sense in Humans
+Guiding the surgical gesture using an electro-tactile stimulus array on the tongue: A feasibility study
+Odor recognition and segmentation by coupled olfactory bulb and cortical networks
+A unified approach to the study of temporal correlational and rate coding
+Fractal features of dark maintained and driven neural discharges in the cat visual system
+Quantum noise entanglement and chaos in the quantum field theory of mind brain states
+Synchronization and oscillatory dynamics in heterogeneous mutually inhibited neurons
+Frequency control in synchronized networks of inhibitory neurons
+Coding Strategies in Monkey V1 and Inferior Temporal Cortices
+Measuring the dynamics of neural responses in primary auditory cortex
+Bayesian Inference Applied to the Electromagnetic Inverse Problem
+Synaptic Transmission: An Information-Theoretic Perspective
+Metric-space analysis of spike trains: theory algorithms and application
+The power ratio and the interval map: spiking models and extracellular data
+Sensory Coding with Dynamically Competitive Networks
+Temporal structure in neuronal activity during working memory in Macaque parietal cortex
+Comorbidity and Anticomorbidity: Autocognitive developmental disorders of structured psychosocial stress
+Structured psychosocial stress and therapeutic failure
+Resilience reconsidered: Case histories from disease ecology
+Complex Independent Component Analysis of Frequency-Domain Electroencephalographic Data
+How does connectivity between cortical areas depend on brain size? Implications for efficient computation
+Pattern Excitation-Based Processing: The Music of The Brain
+Do reductionist cures select for holistic diseases? Adaptive chronic infection structured stress and medical magic bullets
+What do neural nets and quantum theory tell us about mind and reality?
+Ocular dominance patterns and the wire length minimization: a numerical study
+Systemic lupus erythematosus in African-American women: Cognitive physiological modules autoimmune disease and structured psychosocial stress
+Comparation based bottom-up and top-down filtering model of the hippocampus and its environment
+Coronary heart disease chronic inflammation and pathogenic social hierarchy: a biological limit to possible reductions in morbidity and mortality
+The cognitive homunculus: do tunable languages-of-thought convey adaptive advantage?
+Structured psychosocial stress and the US obesity epidemic
+Noise-driven transition to quasi-deterministic limit cycle dynamics in excitable systems
+Fast Computation with Neural Oscillators
+K-Winners-Take-All Computation with Neural Oscillators
+How to find decision makers in neural circuits?
+Two hypotheses about natural intelligence
+Graded persisting activity of heterogeneous neuron ensembles subject to white noises
+Switching Time Statistics for Driven Neuron Models: Analytic Expressions versus Numerics
+Consciousness cognition and context: extending the global neuronal workspace model
+Quantum Physics in Neuroscience and Psychology: A New Theory With Respect to Mind Brain Interaction
+Regulation of Neuromodulator Receptor Efficacy - Implications for Whole-Neuron and Synaptic Plasticity
+Response variability in balanced cortical networks
+Mean field methods for cortical network dynamics
+High conductance states in a mean field cortical network model
+Fluctuation-dissipation theorem and models of learning
+Stability diagrams for bursting neurons modeled by three-variable maps
+Fine Discrimination of Analog Patterns by Nonlinear Dendritic Inhibition
+Performance of networks of artificial neurons: The role of clustering
+Can repulsion be induced by attraction: a role of ephrin-B1 in retinotectal mapping?
+Edge vulnerability in neural and metabolic networks
+Intelligent encoding and economical communication in the visual stream
+A Dynamical Similarity Approach to the Foundations of Complexity and Coordination in Multiscale Systems
+The perception of melodic consonance: an acoustical and neurophysiological explanation based on the overtone series
+Mean field theory for a balanced hypercolumn model of orientation selectivity in primary visual cortex
+Towards comparative theoretical neuroanatomy of the cerebral cortex
+Information Processing in Brain Microtubules
+A toy model of the brain
+General representation of collective neural dynamics with columnar modularity
+Role of calcium and noise in the persistent activity of an isolated neuron
+Cortical Dynamics and Awareness State: An Interpretation of Observed Interstimulus Interval Dependence in Apparent Motion
+Statistics of lines of natural images and implications for visual detection
+Predicting spike times of a detailed conductance-based neuron model driven by stochastic spike arrival
+Existence and Stability of Standing Pulses in Neural Networks: II Stability
+A subjective distance between stimuli: quantifying the metric structure of representations
+How to compute using globally coupled oscillators
+Intensity Coding in Two-Dimensional Excitable Neural Networks
+Model of the early development of thalamo-cortical connections and area patterning via signaling molecules
+Can Neural Networks Recognize Parts?
+Human and computer learning: An experimental study
+Theory of localized synfire chain
+Stimulus competition by inhibitory interference
+Neural Graphs and Category of Memory States
+Effect of Synchronous Incoming Spikes on Activity Pattern in A Network of Spiking Neurons
+Neurokinematic Modeling of Complex Swimming Patterns of the Larval ebrafish
+Action Potential Onset Dynamics and the Response Speed of Neuronal Populations
+Activity-dependent brain model explaining EEG spectra
+Cognitive styles sex the brain compete neurally and quantify deficits in autism
+Active percolation analysis of pyramidal neurons of somatosensory cortex: A comparison of wildtype and p21H-ras Val12 transgenic mice
+Spike timing precision and neural error correction: local behavior
+Comment on: Characterization of subthreshold voltage fluctuations in neuronal membranes by M. Rudolph and A. Destexhe
+Autoassociative Memory Retrieval and Spontaneous Activity Bumps in Small-World Networks of Integrate-and-Fire Neurons
+Transient Information Flow in a Network of Excitatory and Inhibitory Model Neurons: Role of Noise and Signal Autocorrelation
+Optimal Spike-Timing Dependent Plasticity for Precise Action Potential Firing
+Spectral representation: analyzing single-unit activity in extracellularly recorded neuronal data without spike sorting
+Complete structure of topographic maps in ephrin-A deficient mice
+Inhibitory synchrony as a mechanism for attentional gain modulation
+Extracellular-to-intracellular signal transfer via G-proteins
+Extraclassical receptive field phenomena short-range connectivity in V1
+Features and dimensions: Motion estimation in fly vision
+Noise-enhanced computation in a model of a cortical column
+The Dynamics of Image Processing by Feature Maps in the Primary Visual Cortex
+Receptive Field and Feature Map Formation in the Primary Visual Cortex via Hebbian Learning with Inhibitory Feedback
+Characterizing Self-Developing Biological Neural Networks: A First Step Towards their Application To Computing Systems
+Search for optimal measure for discriminating spike trains with different randomness
+Traveling wave solutions of Fitzhugh model with cross-diffusion
+Transitions in Microtubule C-termini conformations as a possible Dendritic signaling phenomenon
+A learning rule for place fields in a cortical model: theta phase precession as a network effect
+Nonlinear brain dynamics and many-body field dynamics
+Network Topology influences Synchronization and Intrinsic Read-out
+A framework for detection and classification of events in neural activity
+Effects of fast presynaptic noise in attractor neural networks
+Self-Sustained Thought Processes in a Dense Associative Network
+Fully Complex Magnetoencephalography
+Stimulus-invariant processing and spectrotemporal reverse correlation in primary auditory cortex
+Should you believe that this coin is fair?
+Control of neural chaos by synaptic noise
+Some Theoretical Investigations in EEG Studies
+Bending a slab of neural tissue
+When Response Variability Increases Neural Network Robustness to Synaptic Noise
+Context-dependent selection of visuomotor maps
+Biological nonlocality and the mind-brain interaction problem: comments on a new empirical approach
+The role of inhibitory feedback for information processing in thalamocortical circuits
+Stable Concurrent Synchronization in Dynamic System Networks
+Temporal correlation based learning in neuron models
+Response of electrically coupled spiking neurons: a cellular automaton approach
+Attentional modulation of firing rate and synchrony in a model cortical network
+A hypothesis on the selective advantage for sleep
+Egocentric Path Integration Models and their Application to Desert Arthropods
+Contextual Emergence of Mental States from Neurodynamics
+Ambiguous model learning made unambiguous with 1 f priors
+Waveform sample method of excitable sensory neuron
+Sleep as the solution to an optimization problem
+Glial activation in white matter following ischemia in the neonatal P rat brain
+Gradient learning in spiking neural networks by dynamic perturbation of conductances
+Fuzzy Cognitive Maps Of Local People Impacted By Dam Construction: Their Demands Regarding Resettlement
+Optimal Dynamical Range of Excitable Networks at Criticality
+Quantifying the information transmitted in a single stimulus
+On the use of analytic expressions for the voltage distribution to analyze intracellular recordings
+Structured thalamocortical connectivity revealed by random walks on complex networks
+Concurrent encoding of frequency and amplitude modulation in human auditory cortex: MEG evidence
+Grandmother cells and the storage capacity of the human brain
+Ecosystems in the Mind: Fuzzy Cognitive Maps of the Kizilirmak Delta Wetlands in Turkey
+Synchronization in Electrically Coupled Neural Networks
+Conductance versus current noise in a neuronal model for noisy subthreshold oscillations and related spike generation
+Competition between synaptic depression and facilitation in attractor neural networks
+Chaotic hopping between attractors in neural networks
+Instability of attractors in autoassociative networks with bioinspired fast synaptic noise
+Combinatorial on off Model for Olfactory Coding
+The role of synaptic facilitation in coincidence spike detection
+Episodic synchronization in dynamically driven neurons
+Spatial embedding of neuronal trees modeled by diffusive growth
+Neural integrator - a sandpile model
+Triangular lattice neurons may implement an advanced numeral system to precisely encode rat position over large ranges
+Relevance of Quantum Mechanics in Circuit Implementation of Ion channels in Brain Dynamics
+Scaling law for the transient behavior of type-II neuron models
+Perception proximale et distale a l'aide du dispositif de Lenay
+Cerebellar Purkinje Cell Loss in Heterozygous Rora -Mice: A Longitudinal Study
+Self-wiring in neural nets of point-like cortical neurons fails to reproduce cytoarchitectural differences
+Temporal differentiation and the optimization of system output
+Pushing it to the Limit: Adaptation With Dynamically Switching Gain Control
+Synergy from Silence in a Combinatorial Neural Code
+Activity-dependent self-wiring is a basis of structural plastisity in neural networks
+Structural network heterogeneities and network dynamics: a possible dynamical mechanism for hippocampal memory reactivation
+From systems biology to dynamical neuropharmacology: proposal for a new methodology
+Nonoptimal Component Placement but Short Processing Paths due to Long-Distance Projections in Neural Systems
+Unbalanced synaptic inhibition can create intensity-tuned auditory cortex neurons
+Learning with incomplete information - and the mathematical structure behind it
+Temporal Symmetry in Primary Auditory Cortex: Implications for Cortical Connectivity
+Frequency decomposition of conditional Granger causality and application to multivariate neural field potential data
+Searching for memories Sudoku implicit check-bits and the iterative use of not-always-correct rapid neural computation
+Calculating event-triggered average synaptic conductances from the membrane potential
+Evolution of cooperation and communication skills as a consequence of environment fluctuations
+The Hilbert transform of horizontal gaze position during natural image classification by saccades
+Toward an adequate mathematical model of mental space: conscious unconscious dynamics on m -adic trees
+Correlation entropy of synaptic input-output dynamics
+The brain near the edge
+Loss of AP-3 function affects spontaneous and evoked release at hippocampal mossy fiber synapses
+Coding static natural images using spiking event times: do neurons cooperate?
+Feature detection using spikes: the greedy approach
+Mind model seems necessary for the emergence of communication
+Physics of Psychophysics: it is critical to sense
+Attentional modulation in layer  of the visual cortex could be mediated by interneurons with complex receptive field characteristics
+Action for perception : influence of handedness in visuo-auditory sensory substitution
+Analyse cin ' e matique de l' ' e paule chez des patients h ' e mipar ' e tiques lors de la saisie d'objets pesants
+Adaptive Filtering Enhances Information Transmission in Visual Cortex
+Ising models for networks of real neurons
+Face Recognition in the Machine Reveals Properties of Human Face Recognition
+The Neurobiology Of Thinking Identity And Geniality
+The astrocyte as a gatekeeper of synaptic information transfer
+Single neuron computation: from dynamical system to feature detector
+Cognitive Maps of Complex Systems Show Hierarchical Structure and Scale-Free Properties
+How behavioral constraints may determine optimal sensory representations
+Using Adaptive Dynamic Programming to Understand and Replicate Brain Intelligence: the Next Level Design
+Neural coding of a natural stimulus ensemble: Uncovering information at sub-millisecond resolution
+High level modeling of tonic dopamine mechanisms in striatal neurons
+Community structure and modularity in networks of correlated brain activity
+Stochastic dynamics of a finite-size spiking neural network
+Modelling the brain as a n Apollonian network
+Influence of Temperature on Neuronal Excitability in Cochlear Nucleus
+The multifractal fly: a dynamically multilayered visual system
+Topological coding in hippocampus
+Excitable Scale Free Networks
+The functional structure of cortical neuronal networks grown in vitro
+Sensory Substitution : Perception Dedicated to Action
+Neural Decision Boundaries for Maximal Information Transmission
+From a quantum mechanical description of the assembly processes in microtubules to their semiclassical nonlinear dynamics
+The dissipative quantum model of brain: how do memory localize in correlated neuronal domains
+Quantum Pattern Recognition
+Quantum computing in neural networks
+Does consciousness really collapse the wave function? A possible objective biophysical resolution of the measurement problem
+Comment on Experimental motivation and empirical consistency in minimal no-collapse quantum mechanics
+Effects of Hebbian learning on the dynamics and structure of random networks with inhibitory and excitatory neurons
+Inter-individual variability in sensory weighting of a plantar pressure-based tongue-placed tactile biofeedback for controlling posture
+Pattern Formation in a Two-Dimensional Array of Oscillators with Phase-Shifted Coupling
+Conservation rules their breakdown and optimality in Caenorhabditis sinusoidal locomotion
+Speculations on the emergence of self-awareness in big-brained organisms
+A structural and a functional aspect of stable information processing by the brain
+Optimal stimulus and noise distributions for information transmission via suprathreshold stochastic resonance
+Two computational regimes of a single-compartment neuron separated by a planar boundary in conductance space
+Transient termination of synaptically sustained spiking by stochastic inputs in a pair of coupled Type 1 neurons
+Technical aspects of an impact acceleration traumatic brain injury rat model with potential suitability for both microdialysis and PtiO2 monitoring
+Point singularities and suprathreshold stochastic resonance in optimal coding
+The fitness value of information
+Post-ischaemic treatment with the cyclooxygenase-2 inhibitor nimesulide reduces blood-brain barrier disruption and leukocyte infiltration following transient focal cerebral ischaemia in rats
+Wide therapeutic time window for nimesulide neuroprotection in a model of transient focal cerebral ischemia in the rat
+Do we understand the emergent dynamics of grid cell activity?
+Reliability of temporal coding on pulse-coupled networks of oscillators
+Co-operativity in neurons and the role of noise in brain
+Molecular Aspect of Annelid Neuroendocrine system
+Reliability of Coupled Oscillators I: Two-Oscillator Systems
+Reliability of Coupled Oscillators II: Larger Networks
+Simulation of Spread and Control of Lesions in Brain
+Relating Neural Dynamics to Neural Coding
+Pressure sensor-based tongue-placed electrotactile biofeedback for balance improvement - Biomedical application to prevent pressure sores formation and falls
+A Plantar-pressure Based Tongue-placed Tactile Biofeedback System for Balance Improvement
+Extreme Synergy in a Retinal Code: Spatiotemporal Correlations Enable Rapid Image Reconstruction
+Biomimetic Space-Variant Sampling in a Vision Prosthesis Improves the User's Skill in a Localization Task
+How a plantar pressure-based tongue-placed tactile biofeedback modifies postural control mechanisms during quiet standing
+Gradient Representations and the Perception of Luminosity
+Statistical Mechanics Characterization of Neuronal Mosaics
+Hierarchical Features of Large-Scale Cortical Connectivity
+A simple spontaneously active Hebbian learning model: homeostasis of activity and connectivity and consequences for learning and epileptogenesis
+Emergence of Scale-Free Syntax Networks
+Tongue-placed tactile biofeedback suppresses the deleterious effects of muscle fatigue on joint position sense at the ankle
+Dynamics and robustness of familiarity memory
+Theory of input spike auto- and cross-correlations and their effect on the response of spiking neurons
+An analysis of the abstracts presented at the annual meetings of the Society for Neuroscience from 2001 to 200
+Discrete 3D distributed linear imaging methods of electric neuronal activity. Part 1: exact zero error localization
+Stability of the splay state in pulse--coupled networks
+Dynamic Moment Analysis of the Extracellular Electric Field of a Biologically Realistic Spiking Neuron
+Comparison of two models of electric neuro-stimulation and consequences for the design of retinal prostheses
+Computer Model of a Sense of Humour . I. General Algorithm
+Computer Model of a Sense of Humour . II. Realization in Neural Networks
+High-resolution intracellular recordings using a real-time computational model of the electrode
+Can a Computer Laugh ?
+Filter Out High Frequency Noise in EEG Data Using The Method of Maximum Entropy
+How to realize a sense of humour in computers ?
+Suppl 'eance perceptive par 'electro-stimulation linguale embarqu 'ee : perspectives pour la pr 'evention des escarres chez le bless 'e m 'edullaire
+Frequency and phase synchronization of two coupled neurons with channel noise
+Outline of a novel architecture for cortical computation
+Tongue Liminary Threshold Identification to Electrotactile Stimulation
+Distributed delays stabilize neural feedback systems
+A Brand-new Research Method of Neuroendocrine System
+ECoG observations of power-law scaling in the human cortex
+Dynamical synapses causing self-organized criticality in neural networks
+Consciousness brains and the replica problem
+Faster solutions of the inverse pairwise Ising problem
+Perception and recognition in a neural network theory in which neurons exhibit hysteresis
+Topological Maps from Signals
+Efficient representation as a design principle for neural coding and computation
+Low Dimensional Embedding of fMRI datasets
+Locality and low-dimensions in the prediction of natural experience from fMRI
+Information processing at single neuron level
+Comparison of objective functions for estimating linear-nonlinear models
+Recurrent infomax generates cell assemblies avalanches and simple cell-like selectivity
+Hebbian Inspecificity in the Oja Model
+Non Markovian Noise mediated through Anamolous Diffusion within Ion Channels
+Pinwheel stability pattern selection and the geometry of visual space
+Type I and type II neuron models are selectively driven by differential stimulus features
+Inter-areal coordination of columnar architectures during visual cortical development
+Detecting Neuronal Communities from Beginning of Activation Patterns
+Communities in Neuronal Complex Networks Revealed by Activation Patterns
+Simulation of networks of spiking neurons: A review of tools and strategies
+A discrete time neural network model with spiking neurons. Rigorous results on the spontaneous dynamics
+Dynamic range of hypercubic stochastic excitable media
+Transient and Equilibrium Synchronization in Complex Neuronal Networks
+Novel insights into the dynamics of intractable human epilepsy
+Avalanches of Activation and Spikes in Neuronal Complex Networks
+Sperry versus Hebb: Topographic mapping in Isl2 EphA3 mutant mice
+Postural control during quiet standing following cervical muscular fatigue: effects of changes in sensory inputs
+How performing a mental arithmetic task modify the regulation of centre of foot pressure displacements during bipedal quiet standing
+The magnitude of the effect of calf muscles fatigue on postural control during bipedal quiet standing with vision depends on the eye-visual target distance
+Re-weighting of somatosensory inputs from the foot and the ankle for controlling posture during quiet standing following trunk extensor muscles fatigue
+Criticality of spreading dynamics in hierarchical cluster networks without inhibition
+Developmental time windows for spatial growth generate multiple-cluster small-world networks
+Bistable MAP Kinase Activity: A Plausible Mechanism Contributing to Maintenance of Late Long-Term Potentiation
+Hebbian Crosstalk Prevents Nonlinear Unsupervised Learning
+Brain architecture: A design for natural computation
+Attractor Neural Networks
+Entropy and Information in Neural Spike Trains
+Inferring Neuronal Network Connectivity using Time-constrained Episodes
+Discovering Patterns in Multi-neuronal Spike Trains using the Frequent Episode Method
+From the entropy to the statistical structure of spike trains
+Vortices in brain waves
+Inferring Neuronal Network Connectivity from Spike Data: A Temporal Datamining Approach
+Shannon Information Capacity of Discrete Synapses
+Constraint satisfaction problems and neural networks: a statistical physics perspective
+Combinatorial coding in neural populations
+Neuronal networks and controlled symmetries a generic framework
+A mathematical analysis of the effects of Hebbian learning rules on the dynamics and structure of discrete-time random recurrent neural networks
+Emergent complexity: what uphill analysis or downhill invention can not do
+Quantum Mechanical Basis of Vision
+Does Face Image Statistics Predict a Preferred Spatial Frequency for Human Face Processing?
+A novel canard-based mechanism for mixed-mode oscillations in a neuronal model
+Optimal axonal and dendritic branching strategies during the development of neural circuitry
+Learning in cognitive systems with autonomous dynamics
+Model of the hippocampal formation explains the coexistence of grid cells and place cells
+Explaining the Logical Nature of Electrical Solitons in Neural Circuits
+An FFT based measure of phase synchronization
+Automated identification of neurons and their locations
+Deterministic excitable media under Poisson drive: power law responses spiral waves and dynamic range
+The silencing of neuronal activity by noise and the phenomenon of inverse stochastic resonance
+Connectivity and Dynamics of Neuronal Networks as Defined by the Shape of Individual Neurons
+A model of dissociated cortical tissue
+Reliability of Layered Neural Oscillator Networks
+Fast recursive filters for simulating nonlinear dynamic systems
+Systems level circuit model of C. elegans undulatory locomotion: mathematical modeling and molecular genetics
+Flexible Logic from Neuronal Dynamics
+Phase Transitions Chaos and Joint Action in the Life Space Foam
+Cluster structure of functional networks estimated from high-resolution EEG data
+Two Potential Mechanisms of Spatial Attention in Early Visual Areas
+Population coding by globally coupled phase oscillators
+Emergence of scale-free properties in Hebbian networks
+Ensembles of Protein Molecules as Statistical Analog Computers
+Identification of functional information subgraphs in complex networks
+Information In The Non-Stationary Case
+Unveiling the mystery of visual information processing in human brain
+Burst firing is a neural code in an insect auditory system
+Neuronal Shot Noise and Brownian 1 f 2 Behavior in the Local Field Potential
+Differential postural effects of plantar-flexor muscles fatigue under normal altered and improved vestibular and neck somatosensory conditions
+Simulation of Robustness against Lesions of Cortical Networks
+Maximally Informative Stimuli and Tuning Curves for Sigmoidal Rate-Coding Neurons and Populations
+Functional gradients through the cortex multisensory integration and scaling laws in brain dynamics
+A multi-etiology model of systemic degeneration in schizophrenia
+Conditional probability based significance tests for sequential patterns in multi-neuronal spike trains
+A Framework for Conscious Information Processing
+On the statistical significance of temporal firing patterns in multi-neuronal spike trains
+I'm sorry to say but your understanding of image processing fundamentals is absolutely wrong
+Correlated connectivity and the distribution of firing rates in the neocortex
+Functioning of the dimeric GABA(B) receptor extracellular domain revealed by glycan wedge scanning
+Molecular determinants involved in the allosteric control of agonist affinity in the GABAB receptor by the GABAB2 subunit
+Dominant role of GABAB2 and Gbetagamma for GABAB receptor-mediated-ERK1 2 CREB pathway in cerebellar neurons
+infty- Dimensional Cerebellar Controller for Realistic Human Biodynamics
+The role of the extra cellular matrix on memory
+Online detection and sorting of extracellularly recorded action potentials in human medial temporal lobe recordings in vivo
+Self-Reduction Rate of a Microtubule
+Technical Report - Automatic Contour Extraction from 2D Neuron Images
+Macro- and Microscopic Self-Similarity in Neuro- and Psycho-Dynamics
+Stimulus-dependent correlations and population codes
+Natural Image Coding in V1: How Much Use is Orientation Selectivity?
+Statistics of spikes trains synaptic plasticity and Gibbs distributions
+To which extend is the neural code a metric ?
+Neuronal synchrony during anaesthesia - A thalamocortical model
+Simulating neurobiological localization of acoustic signals based on temporal and volumetric differentiations
+Detection of subthreshold pulses in neurons with channel noise
+Inferring coupling strength from event-related dynamics
+On critical State Transitions between different levels in Neural Systems
+Pairwise maximum entropy models for studying large biological systems: when they can and when they can't work
+Ising-like dynamics in large-scale functional brain networks
+Bifurcation From Networks of Unstable Attractors to Heteroclinic Switching
+Haptic guidance improves the visuo-manual tracking of trajectories
+A Wireless Embedded Tongue Tactile Biofeedback System for Balance Control
+Muscle fatigue degrades force sense at the ankle joint
+Postural destabilization induced by trunk extensor muscles fatigue is suppressed by use of a plantar pressure-based electro-tactile biofeedback
+Can a Plantar Pressure-Based Tongue-Placed Electrotactile Biofeedback Improve Postural Control Under Altered Vestibular and Neck Proprioceptive Conditions?
+Extra-auditory effects of noise in laboratory animals: the relationship between noise and sleep
+Information transmission in oscillatory neural activity
+On the blind source separation of human electroencephalogram by approximate joint diagonalization of second order statistics
+Improved Volterra Kernel Methods with Applications to the Visual System
+A functional clustering algorithm for the analysis of dynamic network data
+A physical model of nicotinic ACh receptor kinetics
+Within-burst synchrony changes for coupled elliptic bursters
+Modeling of neuron-semiconductor interactions in neuronal networks interfaced with silicon chips
+Time-varying perturbations can distinguish among integrate-to-threshold models for perceptual decision-making in reaction time tasks
+Cooperative Dynamics of an Artificial Stochastic Resonant System
+Emotions diffusive emotional control and the motivational problem for autonomous cognitive systems
+From Three-Dimensional Electrophysiology to the Cable Model: an Asymptotic Study
+A proposal for a coordinated effort for the determination of brainwide neuroanatomical connectivity in model organisms at a mesoscopic scale
+Accurate path integration in continuous attractor network models of grid cells
+Granger causality for circular variables
+How Does the Brain Organize Information?
+Modeling thalamocortical cell: impact of Ca2 channel distribution and cell geometry on firing pattern
+Introducing numerical bounds to improve event-based neural network simulation
+Cognitive computation with autonomously active neural networks: an emerging field
+Statistical Inference of Functional Connectivity in Neuronal Networks using Frequent Episodes
+Two-dimensional wave patterns of spreading depolarization: retracting re-entrant and stationary waves
+Data Processing Approach for Localizing Bio-magnetic Sources in the Brain
+Free actions and Grassmanian variety
+Statistical Mechanical Study on a Neural Network Model with Time Dependent Interactions
+Network inference - with confidence - from multivariate time series
+Equivalent Dynamics from Disparate Synaptic Weights in a Prevalent Visual Circuit
+Neural network model with discrete and continuous information representation
+Semi-passivity and synchronization of diffusively coupled neuronal oscillators
+Degree distributions in mesoscopic and macroscopic functional brain networks
+Neuronal Coding of pacemaker neurons - A random dynamical systems approach
+Characterizing synaptic conductance fluctuations in cortical neurons and their influence on spike generation
+Extracting synaptic conductances from single membrane potential traces
+Mental States as Macrostates Emerging from EEG Dynamics
+Performance augmentation in hybrid bionic systems: techniques and experiment
+Retinal oscillations carry visual information to cortex
+Modular organization as a basis for the functional integration segregation in large-scale brain networks
+An artificial spiking synapse made of molecules and nanoparticles
+Why dream? A Conjecture on Dreaming
+Fourier Uniformity: An Useful Tool for Analyzing EEG Signals with An Application to Source Localization
+Self-organization of feedforward structure and entrainment in excitatory neural networks with spike-timing-dependent plasticity
+Statistical Complexity and Nontrivial Collective Behavior in Electroencephalografic Signals
+The Ising Model for Neural Data: Model Quality and Approximate Methods for Extracting Functional Connectivity
+Systematic fluctuation expansion for neural network activity equations
+Role of Glia cells in the formation of memory in the brain
+Memory Retrieved from Single Neurons
+How synchronization protects from noise
+A multivariate phase distribution and its estimation
+Stimulus-dependent correlations in threshold-crossing spiking neurons
+Controlling the spontaneous spiking regularity via channel blocking on Newman-Watts networks of Hodgkin-Huxley neurons
+Coherent states fractals and brain waves
+Emergence of resonances in neural systems: the interplay between threshold adaptation and short-term synaptic plasticity
+Delay-induced multiple stochastic resonances on scale-free neuronal networks
+Regions of multistability in some low-dimensional logistic models with excitation type coupling
+Quasi-static approximation of the interspike interval distribution of neurons driven by time-dependent inputs
+Averaging Transformations of Synaptic Potentials on Networks
+The Statistical Analysis of fMRI Data
+wanzig-Mori projection operators and EEG dynamics: deriving a simple equation of motion
+Physical Foundations of Consciousness: Brain Organisation: The Role of Synapses
+Signal processing in local neuronal circuits based on activity-dependent noise and competition
+Codimension Two Bifurcations and Rythms in Neural Mass Models
+A Fast mathcal L p Spike Alignment Metric
+The structure of human olfactory space
+Event--related desynchronization in diffusively coupled oscillator models
+Firing Rate of Noisy Integrate-and-fire Neurons with Synaptic Current Dynamics
+Synchronization transitions on scale-free neuronal networks due to finite information transmission delays
+How informative are spatial CA3 representations established by the dentate gyrus?
+A comment on A fast L p spike alignment metric by A. J. Dubbs B. A. Seiler and M. O. Magnasco ariv:00.313
+The thermodynamics of human reaction times
+The baseline for response latency distributions
+The Influence of Sodium and Potassium Dynamics on Excitability Seizures and the Stability of Persistent States: I. Single Neuron Dynamics
+The Influence of Sodium and Potassium Dynamics on Excitability Seizures and the Stability of Persistent States: II. Network and Glial Dynamics
+Dynamics of path aggregation in the presence of turnover
+Neural Population Coding is Optimized by Discrete Tuning Curves
+Stability of splay states in globally coupled rotators
+Major and minor. The formula of musical emotions
+Dynamical structures in binary media of potassium-driven neurons
+Recording from two neurons: second order stimulus reconstruction from spike trains and population coding
+ATP Hysteresis in Tripartite Synapses
+Maximally informative pairwise interactions in networks
+The firing statistics of Poisson neuron models driven by slow stimuli
+A possible low-level explanation of temporal dynamics of brightness induction and White's illusion
+Redundancy and synergy arising from correlations in large ensembles
+A quantitative comparison between spike-train responses of the Hodgkin-Huxley and integrate-and-fire neurons
+An information theoretic approach to the functional classification of neurons
+Entropy and information in neural spike trains: Progress on the sampling problem
+Postsynaptic mechanisms for the induction of long-term potentiation and long-term depression of synaptic transmission in CA1 pyramidal neurons of the hippocampus
+Participatory Ecosystem Management Planning at Tuzla Lake (Turkey) Using Fuzzy Cognitive Mapping
+A new stimulus approach in the search for biological nonlocality
+Quantum formalism to describe binocular rivalry
+Self-sustained asynchronous irregular states and Up Down states in thalamic cortical and thalamocortical networks of nonlinear integrate-and-fire neurons
+Correlation-distortion based identification of Linear-Nonlinear-Poisson models
+On Bootstrap Percolation in Living Neural Networks
+Dissecting the Phase Response of a Model Bursting Neuron
+Sequence reproduction single trial learning and mimicry based on a mammalian-like distributed code for time
+Beyond Hebb: Exclusive-OR and Biological Learning
+An associative memory of Hodgkin-Huxley neuron networks with Willshaw-type synaptic couplings
+Techniques of replica symmetry breaking and the storage problem of the McCulloch-Pitts neuron
+Spike-Train Responses of a Pair of Hodgkin-Huxley Neurons with Time-Delayed Couplings
+Neural networks with high order connections
+Chaotic Dynamics of High Order Neural Networks
+Self-Wiring of Neural Networks
+Response of an Excitatory-Inhibitory Neural Network to External Stimulation: An Application to Image Segmentation
+Chaos in neural networks with a nonmonotonic transfer function
+Responses of a Hodgkin-Huxley Neuron to Various Types of Spike-Train Inputs
+Sparse and Dense Encoding in Layered Associative Network of Spiking Neurons
+A modified cable formalism for modeling neuronal membranes at high frequencies
+Calcium and synaptic dynamics underlying reverberatory activity in neuronal networks
+Efficient supervised learning in networks with binary synapses
+Auto and crosscorrelograms for the spike response of LIF neurons with slow synapses
+Influence of synaptic interaction on firing synchronization and spike death in excitatory neuronal networks
+Temporal decorrelation of collective oscillations in neural networks with local inhibition and long-range excitation
+Chaotic oscillations in a map-based model of neural activity
+Transmission of Information in Active Networks
+Self-organization and the selection of pinwheel density in visual cortical development
+New dynamics in cerebellar Purkinje cells: torus canards
+The brain: What is critical about it?
+Sparse Spike Coding : applications of Neuroscience to the processing of natural images
+Life-Space Foam: a Medium for Motivational and Cognitive Dynamics
+Activity-dependent stochastic resonance in recurrent neuronal networks
+Influence of firing mechanisms on gain modulation
+On the Dynamical Complexity of Small-World Networks of Spiking Neurons
+Macroscopic models of local field potentials and the apparent 1 f noise in brain activity
+Phase Response Curves of Coupled Oscillators
+Population rate codes carried by mean fluctuation and synchrony of neuronal firings
+Noise-assisted spike propagation in myelinated neurons
+Evolution of network structure by temporal learning
+A noise-driven attractor switching device
+Asynchronous response of coupled pacemaker neurons
+Compatibility between itinerant synaptic receptors and stable postsynaptic structure
+Prediction of spatio-temporal patterns of neural activity from pairwise correlations
+Multiplicatively interacting point processes and applications to neural modeling
+Statistical physics of pairwise probability models
+Neuronal avalanches imply maximum dynamic range in cortical networks at criticality
+Dynamical aspects of mean field plane rotators and the Kuramoto model
+Delay before synchronization and its role in latency of sensory awareness
+Contribution of the kinetics of G protein dissociation to the characteristic modifications of N-type calcium channel activity
+Coaching the Wii : evaluation of a physical training experiment assisted by a video game
+Self-organized critical neural networks
+Stochastic Resonance of Ensemble Neurons for Transient Spike Trains: A Wavelet Analysis
+Prevalence of unstable attractors in networks of pulse-coupled oscillators
+Dynamical mean-field theory of spiking neuron ensembles: response to a single spike with independent noises
+Coexistence of regular and irregular dynamics in complex networks of pulse-coupled oscillators
+Unstable attractors induce perpetual synchronization and desynchronization
+Emergence of memory
+Response of Spiking Neurons to Correlated Inputs
+Efficient Hopfield pattern recognition on a scale-free neural network
+A replica free evaluation of the neuronal population information with mixed continuous and discrete stimuli: from the linear to the asymptotic regime
+Dynamical mean-field theory of noisy spiking neuron ensembles: Application to the Hodgkin-Huxley model
+Mean-field dynamics of sequence processing neural networks with finite connectivity
+Topological Speed Limits to Network Synchronization
+Heterogeneity in oscillator networks: Are smaller worlds easier to synchronize?
+Neuromorphometric characterization with shape functionals
+Neural network learning dynamics in a path integral framework
+Breaking Synchrony by Heterogeneity in Complex Networks
+What's in a name?
+Symmetry considerations and development of pinwheels in visual maps
+Long Chaotic Transients in Complex Networks
+Strength Distribution in Derivative Networks
+Unstable Attractors: Existence and Robustness in Networks of Oscillators With Delayed Pulse Coupling
+Point process model of 1 f noise versus a sum of Lorentzians
+Learning by message-passing in networks of discrete synapses
+Desynchronized stable states in diluted neural networks
+Revealing Network Connectivity From Dynamics
+The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with Geological Significance
+The Physics of 'Now'
+Entrainment and chaos in a pulse-driven Hodgkin-Huxley oscillator
+Dynamical model of sequential spatial memory: winnerless competition of patterns
+Spatial representation of temporal information through spike timing dependent plasticity
+A propensity criterion for networking in an array of coupled chaotic systems
+Self-sustained activity in a small-world network of excitable neurons
+Associative memory on a small-world neural network
+A topological approach to neural complexity
+Temporal correlations and neural spike train entropy
+Signal detection by means of phase coherence induced through phase resetting
+Subthreshold dynamics of the neural membrane potential driven by stochastic synaptic input
+Robustness and Enhancement of Neural Synchronization by Activity-Dependent Coupling
+Understanding visual map formation through vortex dynamics of spin Hamiltonian models
+Network information and connected correlations
+Steady-state visual evoked potentials and phase synchronization in migraine
+Coherence resonance in models of an excitable neuron with both fast and slow dynamics
+Analysis of Dynamic Brain Imaging Data
+Superpositional Quantum Network Topologies
+Brain neurons as quantum computers: it in vivo support of background physics
+Diffusion Entropy Approach to Dynamical Characteristics of a Hodgkin-Huxley Neuron
+Random Walks for Spike-Timing Dependent Plasticity
+Spectra and waiting-time densities in firing resonant and nonresonant neurons
+Mathematical Analysis and Simulations of the Neural Circuit for Locomotion in Lamprey
+Effects of Noise in a Cortical Neural Model
+Pulse-coupled resonate-and-fire models
+Subthreshold oscillations in a map-based neuron model
+Quantum Brain: A Recurrent Quantum Neural Network Model to Describe Eye Tracking of Moving Targets
+Existence and Stability of Standing Pulses in Neural Networks : I Existence
+A neural mechanism for binaural pitch perception via ghost stochastic resonance
+Growth-Driven Percolations: The Dynamics of Community Formation in Neuronal Systems
+Computational Models of Adult Neurogenesis
+Signal buffering in random networks of spiking neurons: microscopic vs. macroscopic phenomena
+Comment on Critical branching captures activity in living neural networks and maximizes the number of metastable states''
+Wiring cost in the organization of a biological network
+Dynamics of learning in coupled oscillators tutored with delayed reinforcements
+Asymptotic construction of pulses in the Hodgkin Huxley model for myelinated nerves
+Nonlinear aspects of the EEG during sleep in children
+Synchronization and spindle oscillation in noisy integrate-and-fire-or-burst neurons with inhibitory coupling
+Identifying Biomagnetic Sources in the Brain by the Maximum Entropy Approach
+Stimulus - response curves of a neuronal model for noisy subthreshold oscillations and related spike generation
+Speed of synchronization in complex networks of neural oscillators Analytic results based on Random Matrix Theory
+Weak pairwise correlations imply strongly correlated network states in a neural population
+Designing the Dynamics of Spiking Neural Networks
+A Model of the Roles of Essential Kinases in the Induction and Expression of Late Long-Term Potentiation
+Self-Organized Criticality model for Brain Plasticity
+Instability of synchronized motion in nonlocally coupled neural oscillators
+Algorithms for identification and categorization
+Stable Propagation of a Burst Through a One-Dimensional Homogeneous Excitatory Chain Model of Songbird Nucleus HVC
+Theory of Interaction of Memory Patterns in Layered Associative Networks
+Designing Complex Networks
+Does the 1 f frequency-scaling of brain signals reflect self-organized critical states?
+Brain Music and non-Poisson Renewal Processes
+Capacitance fluctuations causing channel noise reduction in stochastic Hodgkin-Huxley systems
+Many Attractors Long Chaotic Transients and Failure in Small-World Networks of Excitable Neurons
+Dissipation and spontaneous symmetry breaking in brain dynamics
+Autonomous Dynamics in Neural networks: The dHAN Concept and Associative Thought Processes
+Thermal Impact on Spiking Properties in Hodgkin-Huxley Neuron with Synaptic Stimulus
+Formation and life-time of memory domains in the dissipative quantum model of brain
+An Illustrated Introduction to the Basic Biological Principles
+A simple rule for axon outgrowth and synaptic competition generates realistic connection lengths and filling fractions
+Comment on Breakdown of the Luttinger sum rule within the Mott-Hubbard insulator by J. Kokalj and P. Prelovsek Phys. Rev. B  13103 (200) ariv:ariv:003.
+Ex-vivo detection of neural events using THz BioMEMS
+On the computational complexity of spiking neural P systems
+Network structure determines patterns of network reorganization during adult neurogenesis
+The information transmitted by spike patterns in single neurons
+A comparative study of different integrate-and-fire neurons: spontaneous activity dynamical response and stimulus-induced correlation
+Are the input parameters of white-noise-driven integrate-and-fire neurons uniquely determined by rate and CV?
+Glutamate regulation of calcium and IP3 oscillating and pulsating dynamics in astrocytes
+Multimodal encoding in a simplified model of intracellular calcium signaling
+Comparison of Langevin and Markov channel noise models for neuronal signal generation
+Bursts generate a non-reducible spike pattern code
+From modes to movement in the behavior of C. elegans
+The emergence of stereotyped behaviors in C. elegans
+Scaling properties of neuronal avalanches are consistent with critical dynamics
+Spin glass models for a network of real neurons
+Mapping the spatiotemporal dynamics of calcium signaling in cellular neural networks using optical flow
+A novel method for determining the phase-response curves of neurons based on minimizing spike-time prediction error
+Fluid limit theorems for stochastic hybrid systems with application to neuron models
+Salience-Affected Neural Networks
+Self-organization without conservation: Are neuronal avalanches generically critical?
+Stochastic firing rate models
+Eigenvalue Distributions for a Class of Covariance Matrices with Applications to Bienenstock-Cooper-Munro Neurons Under Noisy Conditions
+Systems biology: From the cell to the brain
+Adaptivity and Per learning'
+Neural networks with transient state dynamics
+Network algorithmics and the emergence of the cortical synaptic-weight distribution
+Mean-field theory of a plastic network of integrate-and-fire neurons
+An organic nanoparticle transistor behaving as a biological synapse
+Redundant variables and Granger causality
+Stability and Bifurcation Analysis of Coupled Fitzhugh-Nagumo Oscillators
+Some considerations on how the human brain must be arranged in order to make its replication in a thinking machine possible
+MSE-based analysis of optimal tuning functions predicts phenomena observed in sensory neurons
+Entropy analyses of spatiotemporal synchronizations in brain signals from patients with focal epilepsies
+On the scaling law for cortical magnification factor
+Topological Effects of Synaptic Time Dependent Plasticity
+Indisputable facts when implementing spiking neuron networks
+Evolving Networks and the Development of Neural Systems
+Mesoscopic organization reveals the constraints governing C. elegans nervous system
+Can power-law scaling and neuronal avalanches arise from stochastic dynamics?
+A comparison of methods to determine neuronal phase-response curves
+Sparse incomplete representations: A novel role for olfactory granule cells
+Semi-Circular Canals Anomalies Idiopathic Scoliosis
+Mean Field Analysis of Stochastic Neural Network Models with Synaptic Depression
+Learning as a phenomenon occurring in a critical state
+Exact feature probabilities in images with occlusion
+Investigating the Morphological Categories in the NeuroMorpho Database by Using Superparamagnetic Clustering
+Optimal hierarchical modular topologies for producing limited sustained activation of neural networks
+A Formal Approach to Modeling the Memory of a Living Organism
+Stochastic incoherence in the response of rebound bursters
+Complete synchronization in coupled Type-I neurons
+A ratchet mechanism for amplification in low-frequency mammalian hearing
+The constructive role of diversity on the global response of coupled neuron systems
+Corticothalamic projections control synchronization in locally coupled bistable thalamic oscillators
+Leadership in 2D living neural networks
+Density-dependence of functional development in spiking cortical networks grown in vitro
+Statistical mechanics of neocortical interactions: Nonlinear columnar electroencephalography
+Fractals in the Nervous System: conceptual Implications for Theoretical Neuroscience
+History dependent dynamics in a generic model of ion channels - an analytic study
+The Computational Structure of Spike Trains
+Multivariate Granger Causality and Generalized Variance
+Response of a Hodgkin-Huxley neuron to a high-frequency input
+Spontaneous coordinated activity in cultured networks: Analysis of multiple ignition sites primary circuits burst phase delay distributions and functional structures
+Nonnegative Decomposition of Multivariate Information
+Leader neurons in leaky integrate and fire neural network simulations
+Approximate Methods for State-Space Models
+Neocortical Dynamics at Multiple Scales: EEG Standing Waves Statistical Mechanics and Physical Analogs
+STDP-driven networks and the emph C. elegans neuronal network
+Discovering Functional Communities in Dynamical Networks
+Adaptive self-organization in a realistic neural network model
+Evidence for frequency-dependent extracellular impedance from the transfer function between extracellular and intracellular potentials
+Cognition and Emotion: Perspectives of a Closing Gap
+Comparative power spectral analysis of simultaneous elecroencephalographic and magnetoencephalographic recordings in humans suggests non-resistive extracellular media
+Spatial and Temporal Correlates of Vesicular Release at Hippocampal Synapses
+Noise and Neuronal Heterogeneity
+Can Centre Surround Model Explain the Enhancement of Visual Perception through Stochastic Resonance?
+Mechanism dynamics and biological existence of multistability in a large class of bursting neurons
+Sequential Desynchronization in Networks of Spiking Neurons with Partial Reset
+Observers for canonic models of neural oscillators
+A framework for simulating and estimating the state and functional topology of complex dynamic geometric networks
+Granger causality and the inverse Ising problem
+Landau Theory of Adaptive Integration in Computational Intelligence
+The probabilistic analysis of language acquisition: Theoretical computational and experimental analysis
+Collective behavior of heterogeneous neural networks
+Grouping time series by pairwise measures of redundancy
+Inductive Game Theory and the Dynamics of Animal Conflict
+Chaotic itinerancy temporal segmentation and spatio-temporal combinatorial codes
+Role of homeostasis in learning sparse representations
+Maximum memory capacity on neural networks with short-term depression and facilitation
+Remarks on Bootstrap Percolation in Metric Networks
+Optimization of the leak conductance in the squid giant axon
+Towards Google matrix of brain
+Non-uniform state space reconstruction and coupling detection
+Quadratic Sinusoidal Analysis of Neurons in Voltage Clamp
+An uncertainty principle underlying the pinwheel structure in the primary visual cortex
+Sequential Sparsening by Successive Adaptation in Neural Populations
+Illusions in the Ring Model of visual orientation selectivity
+Irregular dynamics in up and down cortical states
+Percolation Approach to Study Connectivity in Living Neural Networks
+Percolation in living neural networks
+Quorum Percolation in Living Neural Networks
+Dreams endocannabinoids and itinerant dynamics in neural networks: re elaborating Crick-Mitchison unlearning hypothesis
+Semantic learning in autonomously active recurrent neural networks
+Experimental demonstration of associative memory with memristive neural networks
+Stimulus-Dependent Suppression of Chaos in Recurrent Neural Networks
+Interactions between Intrinsic and Stimulus-Evoked Activity in Recurrent Neural Networks
+Learning by random walks in the weight space of the Ising perceptron
+Entropy-based parametric estimation of spike train statistics
+The Physics of Living Neural Networks
+A big-world network in ASD: Dynamical connectivity analysis reflects a deficit in long-range connections and an excess of short-range connections
+Development of input connections in neural cultures
+Neuronal Response Clamp
+Efficient statistical analysis of large correlated multivariate datasets: a case study on brain connectivity matrices
+Information transfer with small-amplitude signals
+Information capacity in the weak-signal approximation
+Metabifurcation analysis of a mean field model of the cortex
+To which extent is the membrane potential in a neuron between successive spikes adequately modelled by a (continuous) semimartingale?
+Brain as Quantum-like Machine for Transferring Time into Mind
+Stochastic cellular automata model of neural networks
+Non-equilibrium dynamics of stochastic point processes with refractoriness
+Exploring Two Novel Features for EEG-based Brain-Computer Interfaces: Multifractal Cumulants and Predictive Complexity
+OR at a Single Vertex -- Artificial Dendrites
+An explanation of the distribution of inter-seizure intervals
+Observed network dynamics from altering the balance between excitatory and inhibitory neurons in cultured networks
+The Electron Capture Hypothesis - A Challenge to Neuroscientists
+Artificial Learning in Artificial Memories
+Effects of correlated Gaussian noise on the mean firing rate and correlations of an electrically coupled neuronal network
+Long-tail Behavior in Locomotion of Caenorhabditis elegans
+Not only a lack of right definitions: Arguments for a shift in information-processing paradigm
+Self-Sustaining Oscillations in Complex Networks of Excitable Elements
+Dynamic interactions in terms of senders hubs and receivers (SHR) using the singular value decomposition of time series: Theory and brain connectivity applications
+Estimating the synaptic current in a multi-conductance AMPA receptor model
+In-vivo two-photon imaging of the honey bee antennal lobe
+Storage of phase-coded patterns via STDP in fully-connected and sparse network: a study of the network capacity
+Nonlinear gap junctions enable long-distance propagation of pulsating calcium waves in astrocyte networks
+An analytically tractable model of neural population activity in the presence of common input explains higher-order correlations and entropy
+When perceptual time stands still: Long stable memory in binocular rivalry
+What is a space? Computations in emergent algebras and the front end visual system
+Leaders of neuronal cultures in a quorum percolation model
+The thermodynamic temperature of a rhythmic spiking network
+Generalization of the event-based Carnevale-Hines integration scheme for integrate-and-fire models
+Artificial Brain Based on Credible Neural Circuits in a Human Brain
+Saturation Probabilities of Continuous-Time Sigmoidal Networks
+Inverse problems in spin models
+Emergent complex neural dynamics
+Curiosity and Pleasure
+Grounded Symbols in the Brain Computational Foundations for Perceptual Symbol System
+Analysis of Nonlinear Noisy Integrate Fire Neuron Models: blow-up and steady states
+The Bonds of Laughter: A Multidisciplinary Inquiry into the Information Processes of Human Laughter
+Are biological neurons that vicious ? Or only their models ?
+On Dynamics of Integrate-and-Fire Neural Networks with Conductance Based Synapses
+A constructive mean field analysis of multi population neural networks with random synaptic weights and stochastic inputs
+A view of Neural Networks as dynamical systems
+From modular to centralized organization of synchronization in functional areas of the cat cerebral cortex
+Characterizing mixed mode oscillations shaped by noise and bifurcation structure
+Brain covariance selection: better individual functional connectivity models using population prior
+SCIENCE AND RELIGION: Scientific Understanding and Mathematical Modeling of Emotions of the Spiritually Sublime
+The perfect integrator driven by Poisson input and its approximation in the diffusion limit
+Voltage clamp analysis of nonlinear dendritic propertie in prepositus hypoglossi neurons
+Theory of spike timing based neural classifiers
+Fractionally Predictive Spiking Neurons
+Deciphering subsampled data: adaptive compressive sampling as a principle of brain communication
+Effect of the duration of the synaptic activity on a delayed recurrent neuronal loop
+Complex sequencing rules of birdsong can be explained by simple hidden Markov processes
+Optimal Design of Minimum-Power Stimuli for Spiking Neurons
+Modeling Image Structure with Factorized Phase-Coupled Boltzmann Machines
+Neuronal networks with coupling through amyloid beta: towards a theory for Alzheimer's disease
+Rescaling thinning or complementing? On goodness-of-fit procedures for point process models and Generalized Linear Models
+More than discrete or continuous: a bird's view
+A Graph Theoretic Interpretation of Neural Complexity
+Probabilistic pathway representation of cognitive information
+On the Theoretical Possibility of Quantum Visual Information Transfer to the Human Brain
+The spike train statistics for consonant and dissonant musical accords
+Synchronization of coupled limit cycles
+Multimodal transition and stochastic antiresonance in squid giant axons
+Finite volume and asymptotic methods for stochastic neuron models with correlated inputs
+Information theoretic interpretation of frequency domain connectivity measures
+Hocus-Socus: An Error Catastrophe for Complex Hebbian Learning Implies Neocortical Proofreading
+Enhancing neural-network performance via assortativity
+Time and category information in pattern-based codes
+Information capacity and transmission are maximized in balanced cortical networks with neuronal avalanches
+Estimation of the number of biophotons involved in the visual perception of a single-object image: Biophoton intensity can be considerably higher inside cells than outside
+Beauty and Art. Cognitive Function Evolution and Mathematical Models of the Mind
+Physics of the mind: Concepts emotions language cognition consciousness beauty music and symbolic culture
+Searching for simplicity: Approaches to the analysis of neurons and behavior
+Free Will and Advances in Cognitive Science
+Electric Stimulation of the Retina
+When are correlations strong?
+Regularity of Position Sequences
+Contractive piecewise continuous maps modeling networks of inhibitory neurons
+Localization of Simultaneous Multiple Sources using SMS-LORETA
+Functional modularity of background activities in normal and epileptic brain networks
+The type II phase resetting curve is optimal for stochastic synchrony
+Complex networks: new trends for the analysis of brain connectivity
+Dynamical Entropy Production in Spiking Neuron Networks in the Balanced State
+Modeling Basal Ganglia for understanding Parkinsonian Reaching Movements
+Synchronous bursts on scale-free neuronal networks with attractive and repulsive coupling
+Fast dynamics of odor rate coding in the insect antennal lobe
+A Graphical Approach to a Model of Neuronal Tree with Variable Diameter
+Mass synchronization: Occurrence and its control with possible applications to brain dynamics
+Dual-task Coordination in Children and Adolescents with Attention Deficit Hyperactivity Disorder (ADHD)
+Spike Avalanches Exhibit Universal Dynamics across the Sleep-Wake Cycle
+Neural development features: Spatio-temporal development of the Caenorhabditis elegans neuronal network
+Processes of the correlation of space (lengths) and time (duration)in human perception
+Defecting or not defecting: how to read human behavior during cooperative games by EEG measurements
+Impact of EEG biofeedback on event-related potentials (ERPs) in attention-deficit hyperactivity (ADHD) children
+Stochastic Integrate and Fire Models: a review on mathematical methods and their applications
+Synchronized dynamics of cortical neurons with time-delay feedback
+Structural Properties of the Caenorhabditis elegans Neuronal Network
+Fast non-negative deconvolution for spike train inference from population calcium imaging
+Spatial Networks
+Stochastic Continuous Time Neurite Branching Models with Tree and Segment Dependent Rates
+Modular organization enhances the robustness of attractor network dynamics
+Collective oscillations of excitable elements: order parameters bistability and the role of stochasticity
+Hebbian learning of recurrent connections: a geometrical perspective
+Total variation regularization for fMRI-based prediction of behaviour
+Adaptive Cluster Expansion for Inferring Boltzmann Machines with Noisy Data
+Causality as a unifying approach between activation and connectivity analysis of fMRI data
+Fast Inference of Interactions in Assemblies of Stochastic Integrate-and-Fire Neurons from Spike Recordings
+Backpropagation training in adaptive quantum networks
+Broken chaotic clocks of brain neurons and depression
+Emission of Mitochondrial Biophotons and their Effect on Electrical Activity of Membrane via Microtubules
+Emergence of Intrinsic Representations of Images by Feedforward and Feedback Processes and Bioluminescent Photons in Early Retinotopic Areas
+Relational Dynamics in Perception: Impacts on trial-to-trial variation
+Reservoirs of Stability: Flux Tubes in the Dynamics of Cortical Circuits
+How to take turns: the fly's way to encode and decode rotational information
+Spike Onset Dynamics and Response Speed in Neuronal Populations
+The collective brain is critical
+Consciousness Viewed in the Framework of Brain Phase Space Dynamics Criticality and the Renormalization Group
+Drive for Creativity
+Adaptive Drift-Diffusion Process to Learn Time Intervals
+The effect of neural adaptation of population coding accuracy
+Interaction patterns of brain activity across space time and frequency. Part I: methods
+Nonlocal mechanism for cluster synchronization in neural circuits
+Control of the repetitive firing in the squid giant axon using electrical fields
+Reorganization of columnar architecture in the growing visual cortex
+The combined effect of chemical and electrical synapses in small Hindmarsch-Rose neural networks on synchronisation and on the rate of information
+Dynamics on networks I. Combinatorial categories of modular continuous-time systems
+Attractor Dynamics with Synaptic Depression
+On stochastic differential equation models for ion channel noise in Hodgkin-Huxley neurons
+Synchronization and Redundancy: Implications for Robustness of Neural Learning and Decision Making
+Chaotic neuron clock
+Foundations for Understanding and Building Conscious Systems using Stable Parallel Looped Dynamics
+Neural Dynamics in Parkinsonian Brain:The Boundary Between Synchronized and Nonsynchronized Dynamics
+Visible light induced ocular delayed bioluminescence as a possible origin of negative afterimage
+Computing with space: a tangle formalism for chora and difference
+The Narrow Escape problem in a flat cylindrical microdomain with application to diffusion in the synaptic cleft
+Can intrinsic noise induce various resonant peaks?
+Short-term memory effects of an auditory biofeedback on isometric force control: Is there a differential effect as a function of transition trials?
+Simulating Spiking Neural P systems without delays using GPUs
+Effects of noise on models of spiny dendrites
+Algorithmic choice of coordinates for injections into the brain: encoding a neuroanatomical atlas on a grid
+Estimating the number of neurons in multi-neuronal spike trains
+How shoud prey animals respond to uncertain threats?
+Relativistic virtual worlds: an emerging framework
+The what and where of adding channel noise to the Hodgkin-Huxley equations
+An MRI-Derived Definition of MCI-to-AD Conversion for Long-Term Automati c Prognosis of MCI Patients
+A Surprising Clarification of the Mechanism of Ion-channel Voltage-Gating
+Adaptive compressed sensing - a new class of self-organizing coding models for neuroscience
+A Stochastic Compartmental Model for Fast Axonal Transport
+A discrete time neural network model with spiking neurons II. Dynamics with noise
+Self-similar correlation function in brain resting-state fMRI
+Adaptation Reduces Variability of the Neuronal Population Code
+The Ising decoder: reading out the activity of large neural ensembles
+Bistability and resonance in the periodically stimulated Hodgkin-Huxley model with noise
+Abnormal effective connectivity in migraine with aura under photic stimulation
+Modelling hippocampal neurogenesis across the lifespan in seven species
+Marker Genes for Anatomical Regions in the Brain: Insights from the Allen Gene Expression Atlas
+Self-organized adaptation of a simple neural circuit enables complex robot behaviour
+Collective stability of networks of winner-take-all circuits
+Failure of adaptive self-organized criticality during epileptic seizure attacks
+Desynchronization of systems of coupled Hindmarsh-Rose oscillators
+Timescales of spike-train correlation for neural oscillators with common drive
+Exponential Random Graph Modeling for Complex Brain Networks
+Testing of information condensation in a model reverberating spiking neural network
+Formation and Stability of Synaptic Receptor Domains
+Searching and fixating: scale-invariance vs. characteristic timescales in attentional processes
+Recursive Shortest Path Algorithm with Application to Density-integration of Weighted Graphs
+Brain Network Analysis: Separating Cost from Topology using Cost-integration
+Statistics of spike trains in conductance-based neural networks: Rigorous results
+The A-current and Type I Type II transition determine collective spiking from common input
+Storage capacity of phase-coded patterns in sparse neural networks
+Old equations for a new system: A possible use of Navier-Stokes equations to model the circulation of spikes in the nervous system
+If Experts Converge on the Same Answer are they Less Creative than Beginners? Redefining Creativity in Terms of Adaptive Landscapes
+BEM-based SMS-LORETA - an advanced method to localize multiple simultaneously active sources in the cerebral cortex
+An analysis of the emergence of adaptive Bayesian priors from Hebbian learning in a simple attractor network model
+Evolutionary Approaches to Creativity
+How Insight Emerges in a Distributed Content-addressable Memory
+The cell-type specific connectivity of the local cortical network explains prominent features of neuronal activity
+Comment on Energy and information in Hodgkin-Huxley neurons
+Output Stream of Binding Neuron with Feedback
+A Comprehensive Workflow for General-Purpose Neural Modeling with Highly Configurable Neuromorphic Hardware Systems
+Plausibility of Quantum Coherent States in Biological Systems
+Network algorithmics and the emergence of information integration in cortical models
+Two-photon imaging and analysis of neural network dynamics
+Weight-conserving characterization of complex functional brain networks
+Transitions in active rotator systems: invariant hyperbolic manifold approach
+Competing synapses with two timescales: a basis for learning and forgetting
+A showcase of torus canards in neuronal bursters
+Quantitative aspects of L-type calcium currents
+Properties of IA in a serotonergic neuron of the dorsal raphe nucleus
+Integrating temporal and spatial scales: Human structural network motifs across age and region-of-interest size
+A Bayesian approach for inferring neuronal connectivity from calcium fluorescent imaging data
+Point process analysis of large-scale brain fMRI dynamics
+A Cognitive Model of an Epistemic Community: Mapping the Dynamics of Shallow Lake Ecosystems
+Flexible Memory Networks
+On spatial and temporal multilevel dynamics and scaling effects in epileptic seizures
+Assessment of synchrony in multiple neural spike trains using loglinear point process models
+Cortical current source connectivity by means of partial coherence fields
+Generalised elastic nets
+Storing events to retell them (Commentary on Suddendorf and Corballis: 'The evolution of foresight')
+On the evolution of phenomenal consciousness
+Why is language well-designed for communication? (Commentary on Christiansen and Chater: 'Language as shaped by the brain')
+Experience-driven formation of parts-based representations in a model of layered visual memory
+The Information Theory of Emotions of Musical Chords
+Event-driven simulations of a plastic spiking neural network
+Spatiotemporal dynamics on small-world neuronal networks: The roles of two types of time-delayed coupling
+Detecting emergent processes in cellular automata with excess information
+Power-law forgetting in synapses with metaplasticity
+Anticipated Synchronization in a Biologically Plausible Model of Neuronal Motifs
+Intermittent synchronization in a network of bursting neurons
+The Organization of Strong Links in Complex Networks
+Relaxation and self-sustained oscillations in the time elapsed neuron network model
+Some inverse problems in biophysics
+Charge-Balanced Minimum-Power Controls for Spiking Neuron Oscillators
+Analysing properties of the C. Elegans neural network: mathematically modeling a biological system
+Role of correlations in population coding
+Learning with a network of competing synapses
+Optimizing the quantity quality trade-off in connectome inference
+Computation of Object Approach by a Biophysical Model of a Wide-Field Visual Neuron: Dynamics Peaks and Fits
+Onset of negative interspike interval correlations in adapting neurons
+A Theory of Consciousness Founded on Neurons That Behave Like Qubits
+Cortical phase transitions non-equilibrium thermodynamics and the time-dependent Ginzburg-Landau equation
+About the Neuronal Mechanism of Lateral Hypothalamic Self-Stimulation Response
+Mean Field description of and propagation of chaos in recurrent multipopulation networks of Hodgkin-Huxley and Fitzhugh-Nagumo neurons
+Impact of network structure and cellular response on spike time correlations
+Feature selection in simple neurons: how coding depends on spiking dynamics
+The Local Field Potential Reflects Surplus Spike Synchrony
+Pattern formation in oscillatory complex networks consisting of excitable nodes
+Pacer cell response to periodic eitgebers
+Recording and Reproduction of Pattern Memory Trace in EEG by Direct Electrical Stimulation of Brain Cortex
+A generalized theory for current-source density analysis in brain tissue
+A Lower Bound for the First Passage Time Density of the Suprathreshold Ornstein-Uhlenbeck Process
+Integrated information increases with fitness in the evolution of animats
+Information content of colored motifs in complex networks
+Collective Animal Behavior from Bayesian Estimation and Probability Matching
+On the dynamics of mean-field equations for stochastic neural fields with delays
+A sparse coding model with synaptically local plasticity and spiking neurons can account for the diverse shapes of V1 simple cell receptive fields
+Heterogeneity-Induced Inhibitory Coherence in An Ensemble of Subthreshold and Suprathreshold Type-I Neurons
+Strange Nonchaotic Bursting in A Quasiperiodially-Forced Hindmarsh-Rose Neuron
+Statistical-Mechanical Measure of Stochastic Spiking Coherence in A Population of Inhibitory Subthreshold Neurons
+Influence of Alcohol Smell and Imagination on the Condition of the Human Organism and Subjective Human Experience
+Coherent states of the Euclidean group and activation regions of primary visual cortex
+Strange Nonchaotic Oscillations in The Quasiperiodically Forced Hodgkin-Huxley Neuron
+Magnetic Field-Assisted Gene Delivery: Achievements and Therapeutic Potential
+Magnetic Resonance Connectome Automated Pipeline
+Portosystemic hepatic encephalopathy model shows reversal learning impairment and dysfunction of neural activity in the prefrontal cortex and regions involved in motivated behavior
+Automated Seizure Detection: Unrecognized Challenges Unexpected Insights
+Towards a Probabilistic Definition of Seizures
+Polarization Theory of Motivations Emotions and Attention
+Magnetoencephalography based on high-Tc superconductivity: a closer look into the brain?
+Coherence stability and effect of random natural frequencies in populations of coupled oscillators
+Scaling of brain metabolism and blood flow in relation to capillary and neural scaling
+Signal Propagation in Feedforward Neuronal Networks with Unreliable Synapses
+Toward molecular neuroeconomics of obesity
+A neuroeconomic theory of bidirectional synaptic plasticity and addiction
+Perception of Motion and Architectural Form: Computational Relationships between Optical Flow and Perspective
+Neural integrators for decision making: A favorable tradeoff between robustness and sensitivity
+Measuring Shared Information and Coordinated Activity in Neuronal Networks
+The secret world of shrimps: polarisation vision at its best
+Coverage Continuity and Visual Cortical Architecture
+A Tutorial in Connectome Analysis: Topological and Spatial Features of Brain Networks
+Adaptive probabilistic neural coding from deterministic spiking neurons: analysis from first principles
+Efficient methods for sampling spike trains in networks of coupled neurons
+A tale of two stories: astrocyte regulation of synaptic depression and facilitation
+Emotional control - conditio sine qua non for advanced artificial intelligences?
+A Novel Phase Portrait to Understand Neuronal Excitability
+Increased Coupling in the Saliency Network is the main cause effect of Attention Deficit Hyperactivity Disorder
+Dynamic effective connectivity of inter-areal brain circuits
+Synchronous chaos and broad band gamma rhythm in a minimal multi-layer model of primary visual cortex
+Biologically-Inspired Electronics with Memory Circuit Elements
+Evolution of sustained foraging in 3D environments with physics
+Evolution and development of Brain Networks: From Caenorhabditis elegans to Homo sapiens
+Establishing versus Maintaining Brain Function: A Neuro-computational Model of Cortical Reorganization after Injury to the Immature Brain
+State dependent computation using coupled recurrent networks
+Active dendrites enhance neuronal dynamic range
+Coordinated optimization of visual cortical maps (I) Symmetry-based analysis
+Subspace-based Identification Algorithm for Characterizing Causal Networks in Resting Brain
+Statistical Physics approach to dendritic computation: The excitable-wave mean-field approximation
+Optimal Region of Latching Activity in an Adaptive Potts Model for Networks of Neurons
+A cell-type based model explaining co-expression patterns of genes in the brain
+Limitations of perturbative techniques in the analysis of rhythms and oscillations
+Generalized Functions Experimental Methods of Obtaining Statistical Variable-Quantities Which Fully Determine Preferences in Choice-Rich Environments
+Maximally informative stimulus energies in the analysis of neural responses to natural signals
+Let us first agree on what the term semantics means: An unorthodox approach to an age-old debate
+A race model for singular olfactory receptor expression
+Noninvasive Realistic Stimulation Recording of Freely Swimming Weakly Electric Fish: Movement Detection and Discharge Entropy to Infer Fish Behavior
+Photo-Thermal Neural Excitation by Extrinsic and Intrinsic Absorbers: A Temperature-Rate Model
+Coordinated optimization of visual cortical maps (II) Numerical studies
+On Reverse Engineering in the Cognitive and Brain Sciences
+Effect of synaptic plasticity in the structure and dynamics of disordered networks of coupled neurons
+A point process framework for modeling electrical stimulation of the auditory nerve
+Homoclinic Orbits of the FitzHugh-Nagumo Equation: The Singular-Limit
+A Neuron Based Switch: Application to Low Power Mixed Signal Circuits
+Spontaneous formation of synchronization clusters in homogenous neuronal ensembles induced by noise and interaction delays
+Homoclinic Orbits of the FitzHugh-Nagumo Equation: Bifurcations in the Full System
+When are microcircuits well-modeled by maximum entropy methods?
+Hunting French Ducks in a Noisy Environment
+Let Us Dance Just a Little Bit More --- On the Information Capacity of the Human Motor System
+Intrinsic adaptation in autonomous recurrent neural networks
+A memristive nanoparticle organic hybrid synapstor for neuro-inspired computing
+Short-term synaptic facilitation improves information retrieval in noisy neural networks
+Markov models for fMRI correlation structure: is brain functional connectivity small world or decomposable into networks?
+A hybrid bio-organic interface for neuronal photo-activation
+Bayesian Inference of Whole-Brain Networks
+The Complexity of Synaptic Transmission Revealed by a Multiscale Analysis Approach From The Molecular to The Cellular Level
+Neurogenesis Drives Stimulus Decorrelation in a Model of the Olfactory Bulb
+Analysis of inverse stochastic resonance and the long-term firing of Hodgkin-Huxley neurons with Gaussian white noise
+Multistability local pattern formation and global collective firing in a small-world network of non-leaky integrate-and-fire neurons
+Perception Lie Paradox: Mathematically Proved Uncertainty about Humans Perception Similarity
+Modeling rhythmic patterns in the hippocampus
+Fractal-based Correlation Analysis for Resting State Functional Connectivity of the Rat Brain in Functional MRI
+Optimal Entrainment of Neural Oscillator Ensembles
+Can humans see beyond intensity images?
+On the Fitzhugh-Nagumo model
+Hierarchical organization of brain functional network during visual task
+Collinear features impair visual detection by rats
+Perception of categories: from coding efficiency to reaction times
+Naturally Supervised Learning in Manipulable Technologies
+A self-organizing state-space-model approach for parameter estimation in Hodgkin-Huxley-type models of single neurons
+Non-random walks in monkeys and humans
+Recurrent Interactions in Spiking Networks with Arbitrary Topology
+Synthetic reverberating activity patterns embedded in networks of cortical neurons
+Existence uniqueness and a priori estimates for a non linear integro-differential equation
+On a Model of Superconductivity and Biology
+Efficient synchronization of structurally adaptive coupled Hindmarsh-Rose neurons
+Computational modeling of neuronal networks
+Diversity of Intrinsic Frequency Encoding Patterns in Rat Cortical Neurons -Mechanisms and Possible Functions
+Weber's law implies neural discharge more regular than a Poisson process
+Cortical free association dynamics: distinct phases of a latching network
+On the Relation between Encoding and Decoding of Neuronal Spikes
+Gender differences in time perception and its relation with academic performance: non-linear dynamics in the formation of cognitive systems
+Grid Alignment in Entorhinal Cortex
+Desynchronizing effect of high-frequency stimulation in a generic cortical network model
+Modeling Quantum Mechanical Observers via Neural-Glial Networks
+Agent-based Social Psychology: from Neurocognitive Processes to Social Data
+Phase-Oscillator Computations as Neural Models of Stimulus-Response Conditioning and Response Selection
+Dynamical Synapses Enhance Neural Information Processing: Gracefulness Accuracy and Mobility
+Dynamical aspects of Kinouchi-Copelli model: emergence of avalanches at criticality
+Competition through selective inhibitory synchrony
+Information flow in a network model and the law of diminishing marginal returns
+Activity-dependent neuronal model on complex networks
+TRPC ion channel protein is selectively expressed in a subpopulation of dopamine neurons in the ventral tegmental area
+Diffusion Based Modeling of Human Brain Response to External Stimuli
+Optogenetic control of genetically-targeted pyramidal neuron activity in prefrontal cortex
+Control over stress induces plasticity of individual prefrontal cortical neurons: A conductance-based neural simulation
+mGluR Knockout mice exhibit normal conditioned place-preference to cocaine
+Nicotinic alpha  acetylcholine receptor-mediated currents are not modulated by the tryptophan metabolite kynurenic acid in adult hippocampal interneurons
+Efficient and optimal binary Hopfield associative memory storage using minimum probability flow
+Quantifying impacts of short-term plasticity on neuronal information transfer
+Strong surround antagonism in the dLGN of the awake rat
+Energy efficiency of information transmission by electrically coupled neurons
+Energy cost reduction in the synchronization of a pair of nonidentical coupled Hindmarsh-Rose neurons
+Approximate invariance of metabolic energy per synapse during development in mammalian brains
+Cortical columns for quick brains
+Improving the Entropy Estimate of Neuronal Firings of Modeled Cochlear Nucleus Neurons
+An organizing center in a planar model of neuronal excitability
+Recognition of Words from the EEG Laplacian
+The balance between excitation and inhibition controls the temporal organization of neuronal avalanches
+Which coordinate system for modelling path integration?
+A small-world of weak ties provides optimal global integration of self-similar modules in functional brain networks
+Qubit-wannabe Neural Networks
+Simple Fast and Accurate Implementation of the Diffusion Approximation Algorithm for Stochastic Ion Channels with Multiple States
+Model-free reconstruction of neuronal network connectivity from calcium imaging signals
+Multiple firing coherence resonances in excitatory and inhibitory coupled neurons
+Signal integration enhances the dynamic range in neuronal systems
+Phase lagging model of brain response to external stimuli - modeling of single action potential
+Decorrelation of neural-network activity by inhibitory feedback
+A first passage problem for a bivariate diffusion process: numerical solution with an application to neuroscience
+Neuronal avalanches of a self-organized neural network with active-neuron-dominant structure
+Rapid parallel path planning by propagating wavefronts of spiking neural activity
+Are insight problems really different from noninsight problems?
+The effect of temporal pattern of injury on disability in learning networks
+Wandering bumps in stochastic neural fields
+The conundrum of functional brain networks: small-world efficiency or fractal modularity
+The relationship between structure and function in complex networks observed locally
+Triggering up states in all-to-all coupled neurons
+Stochastic stability of continuous time consensus protocols
+Prime numbers and spontaneous neuron activity
+A Mathematical Model of Tripartite Synapse: Astrocyte Induced Synaptic Plasticity
+The geometry of spontaneous spiking in neuronal networks
+A Mathematical model for Astrocytes mediated LTP at Single Hippocampal Synapses
+Shaping bursting by electrical coupling and noise
+A structural model of emotions of cognitive dissonances
+Energy and information in Hodgkin-Huxley neurons
+Formation of antiwaves in gap-junction-coupled chains of neurons
+Long-term memory stabilized by noise-induced rehearsal
+Speed and accuracy in a visual motion discrimination task as performed by rats
+What does the Allen Gene Expression Atlas tell us about mouse brain evolution?
+The Poincare map of randomly perturbed periodic motion
+The information content of Local Field Potentials: experiments and models
+A Quantum-mechanical description of ion motion within the confining potentials of voltage gated ion channels
+Thermodynamic Model of Criticality in the Cortex Based On EEG ECOG Data
+Compressive neural representation of sparse high-dimensional probabilities
+Frequency decoding of periodically timed action potentials through distinct activity patterns in a random neural network
+Motif Statistics and Spike Correlations in Neuronal Networks
+Unsupervised adaptation of brain machine interface decoders
+Stochastic Amplification of Fluctuations in Cortical Up-states
+Complex synchronous behavior in interneuronal networks with delayed inhibitory and fast electrical synapses
+A phase transition in the first passage of a Brownian process through a fluctuating boundary: implications for neural coding
+Neuromorphic Digital and Quantum Computation with Memory Circuit Elements
+Mixed-mode oscillations and interspike interval statistics in the stochastic FitzHugh-Nagumo model
+The use of information theory in evolutionary biology
+Recognizing recurrent neural networks (rRNN): Bayesian inference for recurrent neural networks
+Nonnormal amplification in random balanced neuronal networks
+Formation of feedforward networks and frequency synchrony by spike-timing-dependent plasticity
+Speed and Accuracy of Static Image Discrimination by Rats
+A Simple Probabilistic and Point-process Response Model for Predicting Every Spike in Optogenetics
+Impact of correlated neural activity on decision making performance
+Open-source software for studying neural codes
+The simplest maximum entropy model for collective behavior in a neural network
+Pitch Perception of Complex Sounds: Nonlinearity Revisited
+Nonlinear Dynamics of the Perceived Pitch of Complex Sounds
+Pitch perception: A dynamical-systems perspective
+An algorithm for detecting oscillatory behavior in discretized data: the damped-oscillator oscillator detector
+A First-Order Non-Homogeneous Markov Model for the Response of Spiking Neurons Stimulated by Small Phase-Continuous Signals
+What kind of noise is brain noise: anomalous scaling behavior of the resting brain activity fluctuations
+Coherent periodic activity in excitatory Erdos-Renyi neural networks:The role of network connectivity
+Splay states in finite pulse-coupled networks of excitable neurons
+Avalanche analysis from multi-electrode ensemble recordings in cat monkey and human cerebral cortex during wakefulness and sleep
+Nearly extensive sequential memory lifetime achieved by coupled nonlinear neurons
+Group Analysis of Self-organizing Maps based on Functional MRI using Restricted Frechet Means
+Visualization in Connectomics
+Molecular Constraints on Synaptic Tagging and Maintenance of Long-Term Potentiation: A Predictive Model
+On the Origin of Tremor in Parkinson's Disease
+Exploring Neuronal Bistability at the Depolarization Block
+Binary Willshaw learning yields high synaptic capacity for long-term familiarity memory
+Hebbian Crosstalk and Input Segregation
+Fractal analysis of resting state functional connectivity of the brain
+Fractal-driven distortion of resting state functional networks in fMRI: a simulation study
+Simultaneous Reduction of Two Common Autocalibration Errors in GRAPPA EPI Time Series Data
+Spatial constraints underlying the retinal mosaics of two types of horizontal cells in cat and macaque
+Retinal and post-retinal contributions to the quantum efficiency of the human eye
+Input Statistics and Hebbian Crosstalk Effects
+High fidelity optogenetic control of individual prefrontal cortical pyramidal neurons in vivo
+Model of the Human Sleep Wake System
+States of Enhanced Activity in a Network of Pulse Coupled Oscillators with Dynamic Coupling
+Structual Vulnerability of the Nematode Worm Neural Graph
+A blind deconvolution approach to recover effective connectivity brain networks from resting state fMRI data
+Functional Imaging of Conceptual Representations
+The dynamics of H-bonds of the hydration shells of ions ATPase and NE-activated adenylyl cyclase on the coupling of energy and signal transduction
+Coupling continuous neural networks to the electromagnetic field in nervous tissue
+Long Brief Pulse Method for Pulse-wave modified Electroconvulsive Therapy
+Discrimination of low-frequency tones employs temporal fine structure
+Can brains generate random numbers?
+Motion clouds: model-based stimulus synthesis of natural-like random textures for the study of motion perception
+Motion-based prediction is sufficient to solve the aperture problem
+Achieving Control of Lesion Growth in CNS with Minimal Damage
+Operation of a Brain-Computer Interface Walking Simulator by Users with Spinal Cord Injury
+Limits and dynamics of stochastic neuronal networks with random heterogeneous delays
+Heterogeneous connections induce oscillations in large scale networks
+Agent-based Exploration of Wirings of Biological Neural Networks: Position Paper
+A Computational Model of the Effects of Drug Addiction on Neural Population Dynamics
+Minimum and maximum entropy distributions for binary systems with known means and pairwise correlations
+Self-organized criticality in a network of interacting neurons
+Mozart Effect Cognitive Dissonance and the Pleasure of Music
+Apparent extracellular current density and extracellular space: basis for the current source density analysis in neural tissue
+Electrophysiological correlates of non-stationary BOLD functional connectivity fluctuations
+Implicit embedding of prior probabilities in optimally efficient neural populations
+Sparse Codes for Speech Predict Spectrotemporal Receptive Fields in the Inferior Colliculus
+Diversity and noise effects in a model of homeostatic regulation of the sleep-wake cycle
+Spike Timing Dependent Competitive Learning in Recurrent Self Organizing Pulsed Neural Networks Case Study: Phoneme and Word Recognition
+A Model of Decision-Making in Groups of Humans
+Towards a learning-theoretic analysis of spike-timing dependent plasticity
+Identifying Brain Image Level Endophenotypes in Epilepsy
+Multimodal transition and excitability of a neural oscillator
+Dorsal lateral geniculate substructure in the Long-Evans rat: A cholera toxin B-subunit study
+Quantum-like model of behavioral response computation using neural oscillators
+How to suppress undesired synchronization
+Haptic BCI Paradigm based on Somatosensory Evoked Potential
+Cooperation in Neural Systems: Bridging Complexity and Periodicity
+Response Selection Using Neural Phase Oscillators
+Evidence for early identification of Alzheimer's disease
+Evidence for an additive inhibitory component of contrast adaptation
+Super-resolution using Sparse Representations over Learned Dictionaries: Reconstruction of Brain Structure using Electron Microscopy
+A network of spiking neurons for computing sparse representations in an energy efficient way
+Reconstruction of Sparse Circuits Using Multi-neuronal Excitation (RESCUME)
+Reply to Comments on Neuroelectrodynamics: Where are the Real Conceptual Pitfalls?
+Natural electromagnetic waveguide structures based on myelin sheath in the neural system
+Differences in the Brain Waves of 3D and 2.D Motion Picture Viewers
+Transient to ero-Lag Synchronization in Excitable Networks
+Vibrotactile Stimulus Frequency Optimization for the Haptic BCI Prototype
+Auditory Steady-State Response Stimuli based BCI Application - The Optimization of the Stimuli Types and Lengths
+Spatial Auditory BCI Paradigm Utilizing N200 and P300 Responses
+The Spatial Real and Virtual Sound Stimuli Optimization for the Auditory BCI
+Psychophysical Responses Comparison in Spatial Visual Audiovisual and Auditory BCI-Spelling Paradigms
+Observing scale-invariance in non-critical dynamical systems
+Critical brain dynamics at large scale
+A Simulation of the Effects of Receive Field Contrast on Motion-Corrected EPI Time Series
+Online computation of sparse representations of time varying stimuli using a biologically motivated neural network
+A Biologically Realistic Model of Saccadic Eye Control with Probabilistic Population Codes
+Leg-tracking and automated behavioral classification in Drosophila
+Regulating the information in spikes: a useful bias
+Open-source tools for dynamical analysis of Liley's mean-field cortex model
+Operational Design Considerations for Retinal Prostheses
+Interplay: Dispersed Activation in Neural Networks
+On the geometric structure of fMRI searchlight-based information maps
+Associative memory of phase-coded spatiotemporal patterns in leaky Integrate and Fire networks
+Attractor networks and memory replay of phase coded spike patterns
+The impact of short term synaptic depression and stochastic vesicle dynamics on neural variability
+Cellular Adaptation Accounts for the Sparse and Reliable Sensory Stimulus Representation
+Sensitivity to the cutoff value in the quadratic adaptive integrate-and-fire model
+A Markovian event-based framework for stochastic spiking neural networks
+On the simulation of nonlinear bidimensional spiking neuron models
+Finite-size and correlation-induced effects in Mean-field Dynamics
+Noise-induced behaviors in neural mean field dynamics
+The neural computation of Sherlock Holmes' old maxim
+Neutral stability rate propagation and critical branching in feedforward networks
+Predicted selective increase of cortical magnification due to cortical folding
+Brain complexity born out of criticality
+Transient localized wave patterns and their application to migraine
+Online Discrimination of Nonlinear Dynamics with Switching Differential Equations
+Handwritten digit recognition by bio-inspired hierarchical networks
+State-dependent changes of connectivity patterns and functional brain network topology in Autism Spectrum Disorder
+Critical and resonance phenomena in neural networks
+Neural networks with dynamical synapses: from mixed-mode oscillations and spindles to chaos
+Decision under ambiguity: Effects of sign and magnitude
+Influence of paroxysmal activity on background synchronization in epileptic records
+Visual illusion due to the interaction of flickering and acoustic vibrotactile signals
+Metabolic efficiency with fast spiking in the squid axon
+Measuring multiple spike train synchrony
+Reverse engineering of complex dynamical networks in the presence of time-delayed interactions based on noisy time series
+Decorrelation by recurrent inhibition in heterogeneous neural circuits
+Neuroeconomics of suicide
+Stress hormones predict hyperbolic time-discount rates six months later in adults
+Depressive patients are more impulsive and inconsistent in intertemporal choice behavior for monetary gain and loss than healthy subjects- an analysis based on Tsallis' statistics
+Theoretical frameworks for neuroeconomics of intertemporal choice
+A computational model of inhibitory control in frontal cortex and basal ganglia
+Minimal model of associative learning for cross-situational lexicon acquisition
+A common rule for decision-making in animal collectives across species
+Persistent and anti-persistent pattern in stride-to-stride variability of treadmill walking: influence of rhythmic auditory cueing
+A power-law distribution of phase-locking intervals does not imply critical interaction
+Synchronization with mismatched synaptic delays: A unique role of elastic neuronal latency
+Dead leaves and the dirty ground: low-level image statistics in transmissive and occlusive imaging environments
+Monitoring spike train synchrony
+Short term synaptic depression improves information transfer in perceptual multistability
+From the decoding of cortical activities to the control of a JACO robotic arm: a whole processing chain
+Observables Generalizing Positive Operator Valued Measures
+Computational modeling of spike generation in serotonergic neurons of the dorsal raphe nucleu
+Biophysical properties and computational modeling of calcium spikes in serotonergic neurons of the dorsal raphe nucleus
+Self-organized criticality in neural network models
+A Behavioural Perspective on the Early Evolution of Nervous Systems: A Computational Model of Excitable Myoepithelia
+Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation
+Combinatorial neural codes from a mathematical coding theory perspective
+Statistical patterns of visual search for hidden objects
+Odor response features of projection neurons and local interneurons in the honeybee antennal lobe
+Measuring spike train synchrony
+Robust short-term memory without synaptic learning
+A Network Analysis Approach to fMRI Condition-Specific Functional Connectivity
+Delayed feedback causes non-Markovian behavior of neuronal firing statistics
+Gibbs distribution analysis of temporal correlations structure in retina ganglion cells
+Consciousness and the structuring property of typical data
+A biophysical observation model for field potentials of networks of leaky integrate-and-fire neurons
+Linear-Nonlinear-Poisson Neuron Networks Perform Bayesian Inference On Boltzmann Machines
+Finite element analysis of neuronal electric fields: the effect of heterogeneous resistivity
+Multicommand Tactile Brain Computer Interface based on Fingertips or Head Stimulation
+Applications of fMRI for Brain Mapping
+Higher Order Correlations within Cortical Layers Dominate Functional Connectivity in Microcolumns
+Minimal Bounds on Nonlinearity in Auditory Processing
+Finite Volume Model to Study Calcium Diffusion in Neuron Involving JRR JSERCA and JLEAK
+Afferent specificity feature specific connectivity influence orientation selectivity: A computational study in mouse primary visual cortex
+Synchronization Implies Seizure or Seizure Implies Synchronization?
+Computational neuroanatomy and co-expression of genes in the adult mouse brain analysis tools for the Allen Brain Atlas
+Artificial Synaptic Arrays Intercoupled by Nanogranular Proton Conductors for Building Neuromorphic Systems
+Application of Hopfield Network to Saccades
+Solving the Cable Equation Using a Compact Difference Scheme -- Passive Soma Dendrite
+Delivery of time-varying stimuli using ChR2
+The Neural Representation Benchmark and its Evaluation on Brain and Machine
+Functional Magnetic Resonance Imaging: a study of malnourished rats
+Limit-cycle-based control of the myogenic wingbeat rhythm in the fruit fly Drosophila
+Statistical mechanics of complex neural systems and high dimensional data
+Emergence of Connectivity Motifs in Networks of Model Neurons with Short- and Long-term Plastic Synapses
+The simulation of the activity dependent neural network growth
+Effects of Compensation Connectivity and Tau in a Computational Model of Alzheimer's Disease
+An excitable electronic circuit as a sensory neuron model
+Metabolic cost as an organizing principle for cooperative learning
+The Effect of Nonstationarity on Models Inferred from Neural Data
+Echoes in correlated neural systems
+Critical Avalanches and Subsampling in Map-based Neural Networks
+A decaying factor accounts for contained activity in neuronal networks with no need of hierarchical or modular organization
+Potential mechanisms for imperfect synchronization in parkinsonian basal ganglia
+Pushing the Communication Speed Limit of a Noninvasive BCI Speller
+Synchronization of delayed coupled neurons in presence of inhomogeneity
+Real-Time Phase Masks for Interactive Stimulation of Optogenetic Neurons
+Phase-amplitude descriptions of neural oscillator models
+Pavlov's dog associative learning demonstrated on synaptic-like organic transistors
+Bayesian Learning of Loglinear Models for Neural Connectivity
+Large-scale neural network model for functional networks of the human cortex
+Interplay between Network Topology and Dynamics in Neural Systems
+On-off intermittency of thalamo-cortical oscillations in the electroencephalogram of rats with genetic predisposition to absence epilepsy
+Features of the second-order visual filters sensitive to the spatial frequency modulations
+Frequency dependence of signal power and spatial reach of the local field potential
+Resting-State Functional Connectivity in Late-Life Depression: Higher Global Connectivity and More Long Distance Connections
+Spreading dynamics on spatially constrained complex brain networks
+An exponential random graph modeling approach to creating group-based representative whole-brain connectivity networks
+Synaptic potentiation facilitates memory-like attractor dynamics in cultured in vitro hippocampal networks
+Towards structured sharing of raw and derived neuroimaging data across existing resources
+A Balance Equation Determines a Switch in Neuronal Excitability
+Topological and Dynamical Complexity of Random Neural Networks
+A Self-Organized Neural Comparator
+Control of synchronization patterns in neural-like Boolean networks
+Impact of noise and damage on collective dynamics of scale-free neuronal networks
+When you talk about Information processing what actually do you have in mind?
+How (not) to assess the importance of correlations for the matching of spontaneous and evoked activity
+Failure of Delayed Feedback Deep Brain Stimulation for Intermittent Pathological Synchronization in Parkinson's Disease
+Short desynchronization episodes prevail in synchronous dynamics of human brain rhythms
+A Brief History of Excitable Map-Based Neurons and Neural Networks
+Organizational properties of second-order visual filters sensitive to the orientation modulations
+Intrinsically discrete channel-gating dynamics at small membrane patch area for the Hodgkin-Huxley neurons
+Multivariate Temporal Dictionary Learning for EEG
+LT 2C 2: A language of thought with Turing-computable Kolmogorov complexity
+Patterns of interval correlations in neural oscillators with adaptation
+Percept formation from neural populations in sensory decision-making tasks
+Parsimonious Description of Generalized Gibbs Measures : Decimation of the 2d-Ising Model
+Computing Motion with 3D Memristive Grid
+How (not) to assess the importance of correlations for the matching of spontaneous and evoked activity: a response
+Frequency preference in two-dimensional neural models: a linear analysis of the interaction between resonant and amplifying currents
+Modular dynamical systems on networks
+Neurally Implementable Semantic Networks
+Linking dynamical and functional properties of intrinsically bursting neurons
+Sequential sampling models in computational psychiatry: Bayesian parameter estimation model selection and classification
+Large-Scale Automatic Reconstruction of Neuronal Processes from Electron Microscopy Images
+Design for a Darwinian Brain: Part 1. Philosophy and Neuroscience
+Synchrony with Shunting Inhibition
+Computational Models For Epilepsy
+Robust Detection of Dynamic Community Structure in Networks
+Noise Suppression and Surplus Synchrony by Coincidence Detection
+Chaos and reliability in balanced spiking networks with temporal drive
+Six networks on a universal neuromorphic computing substrate
+Memcomputing: a computing paradigm to store and process information on the same physical platform
+Remote synchronization reveals network symmetries and functional modules
+Modeling geometric-optical illusions: A variational approach
+Analytical Condition for Synchrony in a Neural Network with Two Periodic Inputs
+Pulsed chaos synchronization in networks with adaptive couplings
+Modeling of interstitial branching of axonal networks
+The Sense of Place: Grid Cells in the Brain and the Transcendental Number e
+Genome wide identification of regulatory networks associated with general cognitive ability using a normalized alignment free similarity measure of promoter regions
+Bayesian Odds-Ratio Filters: A Template-Based Method for Online Detection of P300 Evoked Responses
+Synaptic Scaling Balances Learning in a Spiking Model of Neocortex
+Universal Organization of Resting Brain Activity at the Thermodynamic Critical Point
+Learning and comparing functional connectomes across subjects
+Asymptotic effects of boundary perturbations in excitable systems
+A priori estimates for excitable models
+Neural network function density or geometry?
+Computational Modeling of Channelrhodopsin-2 Photocurrent Characteristics in Relation to Neural Signaling
+Direct coupling and inhomogeneity assist neurons to detect correlation in low amplitude noises
+Synthesis of neural networks for spatio-temporal spike pattern recognition and processing
+Synaptic Plasticity with Discrete state synapses
+Synaptic plasticity of Inhibitory synapse promote synchrony in inhibitory network in presence of heterogeneity and noise
+Dynamical Phase Transitions In Driven Integrate-And-Fire Neurons
+Toward a statistical mechanics of four letter words
+Thermodynamics of natural images
+Pinwheel stabilization by ocular dominance segregation
+Dynamical and Statistical Criticality in a Model of Neural Tissue
+Correlations and Synchrony in Threshold Neuron Models
+Rhythmogenic neuronal networks pacemakers and k-cores
+Reconstructing the Hopfield network as an inverse Ising problem
+Self-organized chaos through polyhomeostatic optimization
+Josephson junction simulation of neurons
+Adaptive Oscillator Networks with Conserved Overall Coupling: Sequential Firing and Near-Synchronized States
+Correlation transfer in stochastically driven oscillators over long and short time scales
+Response of the Hodgkin-Huxley neuron to a periodic sequence of biphasic pulses
+Neuron as a reward-modulated combinatorial switch and a model of learning behavior
+Violation of the Leggett-Garg inequality in cognitive processes
+Influence of macrocolumnar EEG on Ca waves
+Dynamic Network Centrality Summarizes Learning in the Human Brain
+Identification of criticality in neuronal avalanches: I. A theoretical investigation of the non-driven case
+Statistical modelling of higher-order correlations in pools of neural activity
+Encoding binary neural codes in networks of threshold-linear neurons
+The neural ring: an algebraic tool for analyzing the intrinsic structure of neural codes
+A cortical-inspired geometry for contour perception and motion integration
+Multi-command Tactile and Auditory Brain Computer Interface based on Head Position Stimulation
+Comparison of P300 Responses in Auditory Visual and Audiovisual Spatial Speller BCI Paradigms
+Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input
+Optogenetic manipulation of neural activity in C. elegans: from synapse to circuits and behavior
+Emergence of slow collective oscillations in neural networks with spike timing dependent plasticity
+Phase transition in the economically modeled growth of a cellular nervous system
+Theory and experiment reveal unexpected calcium profiles in one-dimensional systems
+Tensor Decompositions: A New Concept in Brain Data Analysis?
+HERMES: towards an integrated toolbox to characterize functional and effective brain connectivity
+The overlap of neural selectivity between faces and words: evidences from the N10 adaptation effect
+Computer simulation of inhibition-dependent binding in a neural network
+A generative spike train model with time-structured higher order correlations
+Multi-command Tactile Brain Computer Interface: A Feasibility Study
+Synchrony suppression in ensembles of coupled oscillators via adaptive vanishing feedback
+Distribution of Human Response Times
+Complex patterns arise through spontaneous symmetry breaking in dense homogeneous networks of neural oscillators
+Different ocular dominance map formation by influence of orientation columns in visual cortices
+On the role of chemical synapses in coupled neurons with noise
+Universal properties of correlation transfer in integrate-and-fire neurons
+Metastable Chimera States in Community-Structured Oscillator Networks
+Dynamic reconfiguration of human brain networks during learning
+Network algorithmics and the emergence of synchronization in cortical models
+Stimulus-dependent maximum entropy models of neural population codes
+Retinal metric: a stimulus distance measure derived from population neural responses
+Robust exponential binary pattern storage in Little-Hopfield networks
+A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity
+The evolutionary origins of modularity
+Learning quadratic receptive fields from neural responses to natural stimuli
+Intra- and Inter-Frequency Brain Network Structure in Health and Schizophrenia
+Neuronal functional connectivity among multiple areas of the rat somatosensory system during spontaneous and evoked activities
+A large deviation principle for networks of rate neurons with correlated synaptic weights
+Stochastic dynamics of lexicon learning in an uncertain and nonuniform world
+Cross-talk and transitions between multiple spatial maps in an attractor neural network model of the hippocampus: phase diagram (I)
+Beyond Spikes: Neural Codes and the Chemical Vocabulary of Cognition
+Continuous Dynamic Photostimulation - inducing in-vivo-like fluctuating conductances with Channelrhodopsins
+A methodology for detecting and exploring non-convulsive seizures in patients with SAH
+Multi-pulse phase resetting curve
+Neuronal Alignment On Asymmetric Textured Surfaces
+Autonomous search for a diffusive source in an unknown environment
+The Compositional Nature of Verb and Argument Representations in the Human Brain
+Resolving structural variability in network models and the brain
+The Ripple Pond: Enabling Spiking Networks to See
+Third-Order Edge Statistics: Contour Continuation Curvature and Cortical Connections
+Simple learning models can illuminate biased results from choice titration experiments
+The Open Connectome Project Data Cluster: Scalable Analysis and Vision for High-Throughput Neuroscience
+Statistical mechanics of the US Supreme Court
+A simple mechanism for higher-order correlations in integrate-and-fire neurons
+Characterizing Ambiguity in Light Source Invariant Shape from Shading
+A Gauge Field Model of Modal Completion
+Analysis of the stabilized supralinear network
+Optimal Channel Efficiency in a Sensory Network
+Self-organized stochastic tipping in slow-fast dynamical systems
+A mathematical model of the metabolic and perfusion effects on cortical spreading depression
+Complexity without chaos: Plasticity within random recurrent networks generates robust timing and motor control
+The joint use of the tangential electric field and surface Laplacian in EEG classification
+Development of spatial coarse-to-fine processing in the visual pathway
+Generating functionals for autonomous latching dynamics in attractor relict networks
+How Information Transfer works: interpretation of Information Contents in Bayes Theorem. Understanding Negative Information
+Predictive information in a sensory population
+Functional Hubs in Mild Cognitive Impairment
+Finite size effects in the correlation structure of stochastic neural networks: analysis of different connectivity matrices and failure of the mean-field theory
+Transmodal Analysis of Neural Signals
+Neural Dust: An Ultrasonic Low Power Solution for Chronic Brain-Machine Interfaces
+The derivation of continuum limits of neuronal networks with gap-junction couplings
+Correlation structure of stochastic neural networks with generic connectivity matrices
+High-Fidelity Coding with Correlated Neurons
+Human Brain Mapping based on COLD Signal Hemodynamic Response and Electrical Neuroimaging
+Efficient Micro-electrode Recording Modeling using a Filtered Point Process
+Chimera states in networks of nonlocally coupled Hindmarsh-Rose neuron models
+Using a Dynamic Neural Field Model to Explore a Direct Collicular Inhibition Account of Inhibition of Return
+Understanding Humans' Strategies in Maze Solving
+The operad of temporal wiring diagrams: formalizing a graphical language for discrete-time processes
+Memcapacitive neural networks
+On the Technology Prospects and Investment Opportunities for Scalable Neuroscience
+Multi-command Chest Tactile Brain Computer Interface for Small Vehicle Robot Navigation
+Energy Distribution of EEG Signals: EEG Signal Wavelet-Neural Network Classifier
+Toward an Ecological Theory of Concepts
+The Cultural Evolution of Socially Situated Cognition
+Modeling Cultural Dynamics
+A model of the emergence and evolution of integrated worldviews
+Incorporating characteristics of human creativity into an evolutionary art algorithm
+Fast scalable Bayesian spike identification for multi-electrode arrays
+A compact statistical model of the song syntax in Bengalese finch
+Natural images from the birthplace of the human eye
+An Evolutionary Framework for Culture: Selectionism versus Communal Exchange
+The evolution of representation in simple cognitive networks
+Evolutionary instability of ero Determinant strategies demonstrates that winning isn't everything
+Human Time-Frequency Acuity Beats the Fourier Uncertainty Principle
+Impact of intrinsic biophysical diversity on the activity of spiking neurons
+Nonlinear dynamics of human locomotion: effects of rhythmic auditory cueing on local dynamic stability
+Maximum entropy distributions on graphs
+Reward-based learning under hardware constraints - Using a RISC processor embedded in a neuromorphic substrate
+Multi-Scale Codes in the Nervous System: The Problem of Noise Correlations and the Ambiguity of Periodic Scales
+Learning theories reveal loss of pancreatic electrical connectivity in diabetes as an adaptive response
+Synchronization in Phase-Coupled Kuramoto Oscillator Networks with Axonal Delay and Synaptic Plasticity
+Dip and Buffering in a fast-slow system associated to Brain Lactacte Kinetics
+Quantum-like perception entanglement leads to advantageous collective decisions
+Reply to Commentaries on 'An Evolutionary Framework for Cultural Change: Selectionism versus Communal Exchange'
+Global Dynamics of a Stochastic Neuronal Oscillator
+The human and mammalian cerebrum scale by computational power and information resistance
+Learning Features and their Transformations by Spatial and Temporal Spherical Clustering
+Guiding synchrony through random networks
+How Chaotic is the Balanced State?
+Equating information-theoretic and likelihood-based methods for neural dimensionality reduction
+Gene and Gene-Set Analysis for Genome-Wide Association Studies
+Creative Interference and States of Potentiality in Analogy Problem Solving
+Evidence that Threatening Situations Enhance Creativity
+Scale-Free and Multifractal Time Dynamics of fMRI Signals during Rest and Task
+The Cross-Domain Re-interpretation of Artistic Ideas
+The Recognizability of Authenticity
+How Did Humans Become So Creative? A Computational Approach
+The Evolution of Intelligence
+Revenge of the 'Neurds': Characterizing Creative Thought in terms of the Structure and Dynamics of Memory
+Encoding certainty in bump attractors
+Relativistic conformal symmetry of neural field propagation in the brain
+Inference Methods for Interaction and Noise Intensities Using Only Spike-time Data on Coupled Oscillators
+Ideas are Not Replicators but Minds Are
+The Violation of Bell Inequalities in the Macroworld
+Integrate and Fire Neural Networks Piecewise Contractive Maps and Limit Cycles
+Firing statistics of inhibitory neuron with delayed feedback. I. Output ISI probability density
+In-phase and anti-phase synchronization in noisy Hodgkin-Huxley neurons
+Dynamic State Estimation Based on Poisson Spike Trains: Towards a Theory of Optimal Encoding
+Firing statistics of inhibitory neuron with delayed feedback. II. Non-Markovian behavior
+Exploring the notion of space constant under different geometric and physical conditions
+Information transfer of an Ising model on a brain network
+Large Deviations for Nonlocal Stochastic Neural Fields
+The correlation structure of local cortical networks intrinsically results from recurrent dynamics
+Generalized cable theory for neurons in complex and heterogeneous media
+A unified view on weakly correlated recurrent networks
+An experimental evidence-based computational paradigm for new logic-gates in neuronal activity
+Physical Principles for Scalable Neural Recording
+L 'evy flights in human behavior and cognition
+Factors determining nestedness in complex networks
+Solving Hodgkin-Huxley equations using the compact difference scheme - somadendrite
+Solving Hodgkin-Huxley equations using the compact difference scheme -tapering dendrite
+Imaging electrical activity of neurons with metamaterial nanosensors
+Notes on Leibniz thought experiment
+Characterization of high frequency oscillations and EEG frequency spectra using the damped-oscillator oscillator detector (DOOD)
+A Generic Approach to Solving Jump Diffusion Equations with Applications to Neural Populations
+Beyond visual P300 based brain-computer interfacing paradigms
+Collective stochastic coherence and synchronizability in weighted scale-free networks
+The Green's function formalism as a bridge between single and multi-compartmental modeling
+Contextual Focus: A Cognitive Explanation for the Cultural Revolution of the Middle Upper Paleolithic
+Five clarifications about cultural evolution
+High-dimensional cluster analysis with the Masked EM Algorithm
+A Non-Phylogenetic Conceptual Network Architecture for Organizing Classes of Material Artifacts into Cultural Lineages
+Dynamical Disequilibrium Transformation and the Evolution and Development of Sustainable Worldviews
+Spin Neurons: A Possible Path to Energy-Efficient Neuromorphic Computers
+Visibility predicts priming within but not between people: a cautionary tale for studies of cognitive individual differences
+Cultural Evolution Entails (Creativity Entails (Concept Combination Entails Quantum Structure))
+An Analysis of the 'Blind Variation and Selective Retention' Theory of Creativity
+Distilling the Essence of an Evolutionary Process and Implications for a Formal Description of Culture
+Modeling the Role of Context Dependency in the Recognition and Manifestation of Entrepreneurial Opportunity
+Mean-Field Models for Heterogeneous Networks of Two-Dimensional Integrate and Fire Models
+Recognizing Speech in a Novel Accent: The Motor Theory of Speech Perception Reframed
+Spike Synchronization Dynamics of Small-World Networks
+Applying Complexity Theory to a Dynamical Process Model of the Development of Pathological Belief Systems
+Introduction to the Special Issue on Quantum Cognition
+Reduced interhemispheric functional connectivity of children with autism: evidence from functional near infrared spectroscopy studies
+A Quantitative Overview of Biophysical Forces Governing Neural Function
+Nanoscale elucidation of Na K-ATPase isoforms in dendritic spines
+Should I Stay or Should I Go: Coordinating Biological Needs with Continuously-updated Assessments of the Environment
+Mind: An Archaeological Perspective
+Conceptual Closure: How Memories are Woven into an Interconnected Worldview
+Multiscale Computations on Neural Networks: From the Individual Neuron Interactions to the Macroscopic-Level Analysis
+Coarse-Grained Analysis of Microscopic Neuronal Simulators on Networks: Bifurcation and Rare-events computations
+Statistical Properties of Avalanches in Networks
+Task-Based Core-Periphery Organisation of Human Brain Dynamics
+Analyzing complex functional brain networks: fusing statistics and network science to understand the brain
+Kernel methods on spike train space for neuroscience: a tutorial
+Cell-type-specific microarray data and the Allen atlas: quantitative analysis of brain-wide patterns of correlation and density
+A primer on information theory with applications to neuroscience
+Adaptation controls synchrony and cluster states of coupled threshold-model neurons: Supplemental Material
+Synchronization in random balanced networks
+Highly Scalable Neuromorphic Hardware with 1-bit Stochastic nano-Synapses
+Concept Combination and the Origins of Complex Cognition
+The Beer Can Theory of Creativity
+Vortex Dynamics in Cerebral Aneurysms
+The Emergence of Animal Social Complexity: theoretical and biobehavioral evidence
+Nonlinear Observer Design and Synchronization Analysis for Classical Models of Neural Oscillators
+Evidence that Cross-Domain Re-interpretations of Creative Ideas are Recognizable
+Toward a Theory of Creative Inklings
+Toward robust phase-locking in Melibe swim central pattern generator models
+Why the Creative Process is Not Darwinian
+Synopsis of the workshop on humor and cognition
+Cognitive Mechanisms Underlying the Creative Process
+On the electrodynamics of neural networks
+Neural Avalanches at the Critical Point between Replay and Non-Replay of Spatiotemporal Patterns
+On a voltage-conductance kinetic system for integrate and fire neural networks
+Brain temperature: what it means and what it can do for (cognitive) neuroscientists
+A Quantum Information Retrieval Approach to Memory
+Creative ideas for actualizing student potential
+Dark Side of Creativity - Dangling from a Tassel on the Fabric of Socially Constructed Reality: Reflections on the Creative Writing Process
+Disruption of transfer entropy and inter-hemispheric brain functional connectivity in patients with disorder of consciousness
+Optimizing working memory with heterogeneity of recurrent cortical excitation
+A no-go theorem for one-layer feedforward networks
+The Potential of the Human Connectome as a Biomarker of Brain Disease
+A mathematical model for distinguishing bias from sensitivity effects in multialternative detection tasks
+Critical phenomena and noise-induced phase transitions in neuronal networks
+Effect of saccades in tongue electrotactile stimulation for vision substitution applications
+Society Functions Best with an Intermediate Level of Creativity
+Synthetic biocomputation design using supervised gene regulatory networks
+Aspects of randomness in neural graph structures
+A Cell-Level Mechanism of Contrast Gain Control
+Randomized co-training: from cortical neurons to machine learning and back again
+Sparse Predictive Structure of Deconvolved Functional Brain Networks
+Generalized activity equations for spiking neural network dynamics
+The coordination dynamics of social neuromarkers
+Spectral dissociation of lateralized pairs of brain rhythms
+Intrinsic Contextuality as the Crux of Consciousness
+Toward a Formal Model of the Shifting Relationship between Concepts and Contexts during Associative Thought
+Sudden synchrony leaps accompanied by frequency multiplications in neuronal activity
+Electroencephalographic field influence on calcium momentum waves
+Current practice in software development for computational neuroscience and how to improve it
+Predator confusion is sufficient to evolve swarming behavior
+Input nonlinearities shape beyond-pairwise correlations and can improve information transmission by neural populations
+Sparse Hopfield network reconstruction with ell 1 regularization
+The nonlinear heat equation on dense graphs and graph limits
+Single-Neuron Criticality Optimizes Analog Dendritic Computation
+Adaptation controls synchrony and cluster states of coupled threshold-model neurons
+Can retinal ganglion cell dipoles seed iso-orientation domains in the visual cortex?
+Dale's Principle is necessary for an optimal neuronal network's dynamics
+Small-world networks of Kuramoto oscillators
+Reinforcement and inference in cross-situational word learning
+How adaptation currents change threshold gain and variability of neuronal spiking
+The Perceptual Arrow of Time and the Sensory Transduction Process
+Potentiation Decay of Synapses and the Length Distributions of Synfire Chains Self-organized in Recurrent Neural Networks
+Theory and learning protocols for the material tempotron model
+Impact of adaptation currents on synchronization of coupled exponential integrate-and-fire neurons
+Contextualizing concepts using a mathematical generalization of the quantum formalism
+Point-process deconvolution of fMRI reveals effective connectivity alterations in chronic pain patients
+Sequential dependencies between trials in free choice tasks
+Testing our conceptual understanding of V1 function
+Self-sustained activity bursts and variability in recurrent networks
+Modulation and Robustness of Endogenous Neuronal Spiking
+Modulation of beta oscillations during movement initiation: modeling the ionic basis of a functional switch
+Coupling layers regularizes wave propagation in laminar stochastic neural fields
+Subjective physics
+Stochastic inference with deterministic spiking neurons
+Mapping cognitive ontologies to and from the brain
+A Method for Neuronal Source Identification
+On the Rationality of the Appearance of Consciousness
+Evolving functional network properties and synchronizability during human epileptic seizures
+A non-parametric efficient evaluation of Partial Directed Coherence
+Simultaneous optogenetic manipulation and calcium imaging in freely moving C. elegans
+Bayesian spike inference from calcium imaging data
+Contextualizing Concepts using a Mathematical Generalization of the Quantum Formalism
+Self-organized criticality in single neuron excitability
+Parametric inference in the large data limit using maximally informative models
+Local paths to global coherence: cutting networks down to size
+Self-regulation of human brain activity using simultaneous real-time fMRI and EEG neurofeedback
+An Adaptive Threshold in Mammalian Neocortical Evolution
+On 1 f alpha power laws originating from linear neuronal cable theory: power spectral densities of the soma potential transmembrane current and single-neuron contribution to the EEG
+Dendritic signal transmission induced by intracellular charge inhomogeneities
+An Integral Equation Approach to the Dynamics of L2-3 Cortical Neurons
+EEG Signal Processing and Classification for the Novel Tactile-Force Brain-Computer Interface Paradigm
+Event-Driven Contrastive Divergence for Spiking Neuromorphic Systems
+Channel noise induced stochastic facilitation in an auditory brainstem neuron model
+Spike timing prediction with active dendrites
+Maximum likelihood q-estimator reveals nonextensivity regulated by extracellular potassium in the mammalian neuromuscular junction
+New insights in gill buccal rhythm spiking activity and CO2 sensitivity in pre- and post-metamorphic tadpoles (Pelophylax ridibundus)
+On the properties of input-to-output transformations in networks of perceptrons
+Synchronization and Noise: A Mechanism for Regularization in Neural Systems
+Identifying Combinatorial Biomarkers by Association Rule Mining in the CAMD Alzheimer's Database
+Input-output relations in biological systems: measurement information and the Hill equation
+Revisiting the two-mass model of the vocal folds
+Auditory Brain-Computer Interface Paradigm with Head Related Impulse Response-based Spatial Cues
+Single-trial estimation of stimulus and spike-history effects on time-varying ensemble spiking activity of multiple neurons: a simulation study
+Saccade learning with concurrent cortical and subcortical basal ganglia loops
+Resolving Structure in Human Brain Organization: Identifying Mesoscale Organization in Weighted Network Representations
+How to enhance the dynamic range of excitatory-inhibitory excitable networks
+A neuronal device for the control of multi-step computations
+Trans-generational effect of trained aversive and appetitive experiences in Drosophila
+Key bifurcations of bursting polyrhythms in 3-cell central pattern generators
+The phase response of the cortical slow oscillation
+Modeling effect of GABAergic current in a basal ganglia computational model
+Sleep Neuroengineering and Dynamics
+How effective delays shape oscillatory dynamics in neuronal networks
+Anti-phase synchronization of phase-reduced oscillators using open-loop control
+Retinal adaptation and invariance to changes in higher-order stimulus statistics
+Small-world topology of functional connectivity in randomly connected dynamical systems
+A new class of metrics for spike trains
+Efficiency characterization of a large neuronal network: a causal information approach
+Multi-scale community organization of the human structural connectome and its relationship with resting-state functional connectivity
+Noise-induced phase transitions in neuronal networks
+Searching for collective behavior in a network of real neurons
+The sign rule and beyond: Boundary effects flexibility and noise correlations in neural population codes
+Intramembrane Cavitation as a Predictive Bio-Piezoelectric Mechanism for Ultrasonic Brain Stimulation
+Novel Virtual Moving Sound-based Spatial Auditory Brain-Computer Interface Paradigm
+Neuromorphic Learning towards Nano Second Precision
+Hearing the Maximum Entropy Potential of neuronal networks
+Bistable dynamics underlying excitability of ion homeostasis in neuron models
+Echo-processing mechanisms in bottlenose dolphins
+Pulse bifurcations in stochastic neural fields
+Cortical prediction markets
+Optimal Subharmonic Entrainment
+Bidirectional Control of Absence Seizures by the Basal Ganglia: A Computational Evidence
+An EMG study of the lip muscles during covert auditory verbal hallucinations in schizophrenia
+Frequency adjustment and synchrony in networks of delayed pulse coupled oscillators
+Percolation under Noise: Detecting Explosive Percolation Using the Second Largest Component
+Detection of Phase Shift Events
+Efficient transfer entropy analysis of non-stationary neural time series
+Consciousness and Learning based on DNA Recombination and Memristor Quality of Microtubules
+The Gabor-Einstein Wavelet: A Model for the Receptive Fields of V1 to MT Neurons
+Synaptotagmin  Functions as a Ca2 -sensor for Synaptic Vesicle Replenishment
+The Morris-Lecar neuron model embeds a leaky integrate-and-fire model
+Supervised Learning of Logical Operations in Layered Spiking Neural Networks with Spike Train Encoding
+Supervised Learning in Multilayer Spiking Neural Networks
+On selective influences marginal selectivity and Bell CHSH inequalities
+On designing heteroclinic networks from graphs
+Dynamics of large cooperative pulsed-coupled networks
+A general theory of intertemporal decision-making and the perception of time
+Low-dimensional functionality of complex network dynamics: Neuro-sensory integration in the Caenorhabditis elegans connectome
+Emergence of small-world anatomical networks in self-organizing clustered neuronal cultures
+Delay Learning Architectures for Memory and Classification
+Heterogeneous Delays in Neural Networks
+Analog and digital codes in the brain
+Structured chaos shapes spike-response noise entropy in balanced neural networks
+Sparse complex-valued representations of natural sounds learned with phase and amplitude continuity priors
+Modeling correlations in spontaneous activity of visual cortex with centered Gaussian-binary deep Boltzmann machines
+Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
+Searchlight-based multi-voxel pattern analysis of fMRI by cross-validated MANOVA
+Pulsatile localized dynamics in delayed neural-field equations in arbitrary dimension
+A comparison of Euclidean metrics and their application in statistical inferences in the spike train space
+Cell-type-specific transcriptomes and the Allen Atlas (II): discussion of the linear model of brain-wide densities of cell types
+Intrinsically Motivated Learning of Visual Motion Perception and Smooth Pursuit
+Fractional Dynamics and Multi-Slide Model of Human Memory
+Feedback Control as a Framework for Understanding Tradeoffs in Biology
+The Cerebellum: New Computational Model that Reveals its Primary Function to Calculate Multibody Dynamics Conform to Lagrange-Euler Formulation
+Electrocorticogram encoding of upper extremity movement trajectories
+Time-resolved and spectral-resolved optical imaging to study brain hemodynamics in songbirds
+Noise-enhanced nonlinear response and the role of modular structure for signal detection in neuronal networks
+Causal Event Networks: Cognition Complexity and Physical Laws
+Macroscopic equations governing noisy spiking neuronal populations
+Mice Infected with Low-virulence Strains of Toxoplasma gondii Lose their Innate Aversion to Cat Urine Even after Extensive Parasite Clearance
+A Semiparametric Bayesian Model for Detecting Synchrony Among Multiple Neurons
+Transformation of stimulus correlations by the retina
+Complexity Reduction of Rate-Equations Models for Two-Choice Decision-Making
+A hierarchical coding-window model of Parkinson's disease
+Statistical Network Analysis for Functional MRI: Summary Networks and Group Comparisons
+Short-term synaptic plasticity in the deterministic Tsodyks-Markram model leads to unpredictable network dynamics
+Synaptic metaplasticity underlies tetanic potentiation in Lymnaea: a novel paradigm
+Crosstalk and transitions between multiple spatial maps in an attractor neural network model of the hippocampus: Collective motion of the activity (II)
+Power laws and Self-Organized Criticality in Theory and Nature
+Efficient coding of spectrotemporal binaural sounds leads to emergence of the auditory space representation
+Neuronal Synchrony in Complex-Valued Deep Networks
+Natural statistics of binaural sounds
+Ambiguity in language networks
+Recurrent events of synchrony in complex networks of pulse-coupled oscillators
+Synchronization in populations of sparsely connected pulse-coupled oscillators
+A Control-System Perspective on Parkinsonian Tremor with Implications on Diagnosis and Disease Monitoring
+Coupling-Induced Population Synchronization in An Excitatory Population of Subthreshold Izhikevich Neurons
+Realistic Thermodynamic and Statistical-Mechanical Measures for Neural Synchronization
+Desynchronization in an ensemble of globally coupled chaotic bursting neuronal oscillators by dynamic delayed feedback control
+Biased perception leads to biased action: Validating a Bayesian model of interception
+Gating of neural error signals during motor learning
+Bright and fast voltage reporters across the visible spectrum via electrochromic FRET (eFRET)
+Synaptic polarity of the interneuron circuit controlling C. elegans locomotion
+Spatiotemporal Dissociation of Brain Activity underlying Subjective Awareness Objective Performance and Confidence
+Learning-Induced Autonomy of Sensorimotor Systems
+Brain modularity controls the critical behavior of spontaneous activity
+Hub-activated signal transmission in complex networks
+Neuromorphic electronic circuits for building autonomous cognitive systems
+Can scale-freeness offset delayed signal detection in neuronal networks?
+Understanding brain networks and brain organization
+The Informative Herd: why humans and other animals imitate more when conditions are adverse
+Stochastic modeling of a serial killer
+System level mechanisms of adaptation learning memory formation and evolvability: the role of chaperone and other networks
+Dynamics on networks of manifolds
+Spatio-temporal spike trains analysis for large scale networks using maximum entropy principle and Monte-Carlo method
+Invariance of visual operations at the level of receptive fields
+Dynamics and spike trains statistics in conductance-based Integrate-and-Fire neural networks with chemical and electric synapses
+Spike train statistics and Gibbs distributions
+Inhibition causes ceaseless dynamics in networks of excitable nodes
+Generating functionals for guided self-organization
+Bimanual proprioception: are two hands better than one?
+A Study on Stroke Rehabilitation through Task-Oriented Control of a Haptic Device via Near-Infrared Spectroscopy-Based BCI
+The Optimal Size of Stochastic Hodgkin-Huxley Neuronal Systems for Maximal Energy Efficiency in Coding of Pulse Signals
+Beyond the quantum formalism: consequences of a neural-oscillator model to quantum cognition
+Spatially extended networks with singular multi-scale connectivity patterns
+Firing-rate symbolic dynamics and frequency dependence in periodically driven spiking models: a piecewise-smooth approach
+Distributed simulation of polychronous and plastic spiking neural networks: strong and weak scaling of a representative mini-application benchmark executed on a small-scale commodity cluster
+Exploration in Free Word Association Networks: Models and Experiment
+Connectomic Constraints on Computation in Feedforward Networks of Spiking Neurons
+Preferential Detachment During Human Brain Development: Age- and Sex-Specific Structural Connectivity in Diffusion Tensor Imaging (DTI) Data
+Contextual emergence of intentionality
+Temporal sequences of spikes during practice code for time in a complex motor sequence
+Millisecond-scale motor encoding in a cortical vocal area
+On a Model of Quantum Mechanics and the Mind
+Biological Impact on Military Intelligence: Application or Metaphor?
+Notes on Generalized Linear Models of Neurons
+Idealized computational models for auditory receptive fields
+Error correction and fast detectors implemented by ultra-fast neuronal plasticity
+Spin switches for compact implementation of neuron and synapse
+How to test cognitive theory with fMRI
+Parameters estimation for spatio-temporal maximum entropy distributions: application to neural spike trains
+Fast sampling for Bayesian inference in neural circuits
+Protein accumulation in the endoplasmic reticulum as a non-equilibrium phase transition
+MEG Decoding Across Subjects
+Rosetta Brains: A Strategy for Molecularly-Annotated Connectomics
+Learning selectivity and invariance through spatiotemporal Hebbian plasticity in a hierarchical neural network
+Understanding migraine using dynamical network biomarkers
+Sensitivity to Timing and Order in Human Visual Cortex
+A normalization model of visual search predicts single trial human fixations in an object search task
+Interaction information in human electrocorticography data of temporal lobe epilepsy
+Dynamic and integrated mechanical movements of a rat brain associated with evoked potentials
+Thermodynamic constraints on neural dimensions firing rates brain temperature and size
+An ancestral axial twist explains the contralateral forebrain and the optic chiasm in vertebrates
+Uncertainty of visual measurement and efficient allocation of sensory resources
+Model Cortical Association Fields Account for the Time Course and Dependence on Target Complexity of Human Contour Perception
+Propagation of chaos in neural fields
+Spiking input-output relation for general biophysical neuron models
+Brain organization into resting state networks emerges at criticality on a model of the human connectome
+The neuron's response at extended timescales
+Mechanisms of ero-Lag Synchronization in Cortical Motifs
+Invisible stimuli implicit thresholds: Why invisibility judgments cannot be interpreted in isolation
+Limits and dynamics of randomly connected neuronal networks
+Transfer Entropy reconstruction and labeling of neuronal connections from simulated calcium imaging
+Initiation and blocking of the action potential in the axon in weak ultrasonic or microwave fields
+Google matrix analysis of C.elegans neural network
+Bursting transition in a linear self-exciting point process
+Constancy and trade-offs in the neuroanatomical and metabolic design of the cerebral cortex
+Computational paradigm for dynamic logic-gates in neuronal activity
+Chaotic and non-chaotic phases in experimental responses of a single neuron
+Goal-Driven Cognition in the Brain: A Computational Framework
+Is Consciousness Computable? Quantifying Integrated Information Using Algorithmic Information Theory
+Optimal measurement of visual motion across spatial and temporal scales
+Spatial Neural Networks and their Functional Samples: Similarities and Differences
+Mathematically Modeling the GPe STN Neuronal Cluster to Account for Parkinsonian Tremor and Developing a Novel Method to Accurately Diagnose Parkinson's Disease Using Speech Measurements and an Artificial Neural Network
+A Neuron as a Signal Processing Device
+Graphic Processing Unit Simulation of Axon Growth and Guidance through Cue Diffusion on Massively Parallel Processors
+Mapping neuron positions to curved cortical surfaces
+Common Connectome Constraints: From C. elegans and Drosophila to Homo sapiens
+A hierarchical network organization helps to retain comparable oscillation patterns in rats and human-sized brains
+Exact computation of the Maximum Entropy Potential of spiking neural networks models
+Self-organized criticality of a simplified integrate-and-fire neural model on random and small-world network
+Direct extraction of phase dynamics from fluctuating rhythmic data based on a Bayesian approach
+What can a mathematician do in neuroscience?
+Distributed classifier based on genetically engineered bacterial cell cultures
+A Note on Quantum States and Observables in Psychological Measurements
+Correlation of multiple sclerosis (MS) incidence trends with solar and geomagnetic indices: time to revise the method of reporting MS epidemiological data
+Activity Modulation of Motor and Somatosensory Neurons in Learning
+Consciousness: Here There but Not Everywhere
+Presynaptic modulation as fast synaptic switching: state-dependent modulation of task performance
+Memorization in a neural network with adjustable transfer function and conditional gating
+Learning intrinsic excitability in medium spiny neurons
+Breakdown of fast-slow analysis in an excitable system with channel noise
+Balanced networks of spiking neurons with spatially dependent recurrent connections
+Long-Term Memory: Scaling of Information to Brain Size
+Stochasticity in Ca 2 increase in spines enables robust and sensitive information coding
+Mean-Field Analysis of Orientation Selectivity in Inhibition-Dominated Networks of Spiking Neurons
+To react or not to react? Intrinsic stochasticity of human control in virtual stick balancing
+Detection of dependence patterns with delay
+Illusory Shapes via Phase Transition
+Brain-wide 3D imaging of neuronal activity in Caenorhabditis elegans with sculpted light
+Computational role of eccentricity dependent cortical magnification
+A brain-wide association study of DISC1 genetic variants reveals a relationship with the structure and functional connectivity of the precuneus in schizophrenia
+The Increase of the Functional Entropy of the Human Brain with Age
+Conjunction and Negation of Natural Concepts: A Quantum-theoretic Modeling
+Deep Neural Networks Rival the Representation of Primate IT Cortex for Core Visual Object Recognition
+Neural tuning size is a key factor underlying holistic face processing
+Functional brain networks: great expectations hard times and the big leap forward
+Bayesian Inference with Spiking Neurons
+A Unified Quantitative Model of Vision and Audition
+A Quantitative Neural Coding Model of Sensory Memory
+Optimal Population Codes for Control and Estimation
+Efficacy of high frequency switched-mode stimulation in activating Purkinje cells
+Brain Gene Expression Analysis: a MATLAB toolbox for the analysis of brain-wide gene-expression data
+Finding role communities in directed networks using Role-Based Similarity Markov Stability and the Relaxed Minimum Spanning Tree
+Enlarging the scope: grasping brain complexity
+Mathematical models for sleep-wake dynamics: comparison of the two-process model and a mutual inhibition neuronal model
+Cognitive Robotics: for never was a story of more woe than this
+Reconstruction of network structures from repeating spike patterns in simulated bursting dynamics
+The causal inference of cortical neural networks during music improvisations
+Modeling the Complex Dynamics and Changing Correlations of Epileptic Events
+New Ideas for Brain Modelling
+Quantum(-like) decision making: on validity of the Aumann theorem
+Quantum(-like) common knowledge: Binmore-Brandenburger operator approach
+Odors in olfactory bulb are defined by a short discrete temporal sequence: recognition by brute-force conversion to a spatial pattern (chunking)
+Noise-Induced Burst and Spike Synchronizations in An Inhibitory Small-World Network of Subthreshold Bursting Neurons
+Controllability of Brain Networks
+Pattern-wave model of brain. Mechanisms of information processing memory organization
+Are Performance Limitations in Visual Short-Term Memory Tasks Due to Capacity Limitations or Model Mismatch?
+Noise transient dynamics and the generation of realistic interspike interval variation in square-wave burster neurons
+The Hamiltonian Brain
+Classification of EEG recordings in auditory brain activity via a logistic functional linear regression model
+Periodic solutions to a mean-field model for electrocortical activity
+Resilience of human brain functional coactivation networks under thresholding
+A Vision Architecture
+A Wavelet Based Algorithm for the Identification of Oscillatory Event-Related Potential Components
+Transition to chaos in random networks with cell-type-specific connectivity
+What you need to know about the state-of-the-art computational models of object-vision: A tour through the models
+Photonic spike processing: ultrafast laser neurons and an integrated photonic network
+Proprioceptive feedback modulates coordinating information in a system of segmentally-distributed microcircuits
+Learning Through Time in the Thalamocortical Loops
+A Framework for Exploring Non-Linear Functional Connectivity and Causality in the Human Brain: Mutual Connectivity Analysis (MCA) of Resting-State Functional MRI with Convergent Cross-Mapping and Non-Metric Clustering
+Stability of twisted states in the Kuramoto model on Caley and random graphs
+Automatic discovery of cell types and microcircuitry from neural connectomics
+Unconscious lie detection as an example of a widespread fallacy in the Neurosciences
+From Dyson to Hopfield: Processing on hierarchical networks
+Pixels to Voxels: Modeling Visual Representation in the Human Brain
+Dynamic network drivers of seizure generation propagation and termination in human epilepsy
+What happens next and when next happens: Mechanisms of spatial and temporal prediction
+Hypothesis Testing For Network Data in Functional Neuroimaging
+Learning about Learning: Human Brain Sub-Network Biomarkers in fMRI Data
+Thermodynamics for a network of neurons: Signatures of criticality
+A binary Hopfield network with 1 log(n) information rate and applications to grid cell decoding
+Maximally reliable spatial filtering of steady state visual evoked potentials
+Unsupervised Learning of Precise Spike Times with Membrane Potential Dependent Synaptic Plasticity
+Motor Learning Mechanism on the Neuron Scale
+ipf's law arises naturally in structured high-dimensional data
+Rounding of abrupt phase transitions in brain networks
+On the coherent behavior of pancreatic beta cell clusters
+Induction of slow oscillations by rhythmic acoustic stimulation
+Prediction
+Migraine generator network and spreading depression dynamics as neuromodulation targets in episodic migraine
+Cross-Linked Structure of Network Evolution
+Towards dynamical network biomarkers in neuromodulation of episodic migraine
+Evolving networks in the human epileptic brain
+Spatial dependency between task positive and task negative networks
+ipf's law and criticality in multivariate data without fine-tuning
+Data-driven modeling of the olfactory neural codes and their dynamics in the insect antennal lobe
+Cognitive Aging as Interplay between Hebbian Learning and Criticality
+Linking a genetic defect in migraine to spreading depression in a computational model
+Penetration of action potentials during collision in the median and lateral giant axons of invertebrates
+Dynamics of desynchronized episodes in intermittent synchronization
+Robots that can adapt like natural animals
+Brain Network Adaptability Across Task States
+Speech earthquakes: scaling and universality in human voice
+Simulations Suggest Pharmacological Methods for Rescuing Long-Term Potentiation
+Gabor-like Image Filtering using a Neural Microcircuit
+The physics of hearing: fluid mechanics and the active process of the inner ear
+A Tentative Role for FOP2 in the Evolution of Dual Processing Modes and Generative Abilities
+Cell-type-specific neuroanatomy of brain-wide expression of autism-related genes
+Computational Evidence that Self-regulation of Creativity is Good for Society
+High accuracy decoding of dynamical motion from a large retinal population
+How stochastic synchrony could work in cerebellar Purkinje cells
+The cerebellum as a predictor of error increase in a controller
+Unresolvable human mental states based on a parallel universe theory
+Dissociable changes in functional network topology underlie early category learning and development of automaticity
+EURETILE D.3 - Dynamic DAL benchmark coding measurements on MPI version of DPSNN-STDP (distributed plastic spiking neural net) and improvements to other DAL codes
+Non-smooth Bifurcations of Mean Field Systems of Two-Dimensional Integrate and Fire Neurons
+Exploring spatiotemporal network transitions in task functional MRI
+Neural Mechanism of Language
+Surrogate-assisted analysis of weighted functional brain networks
+Quantitative assessment of computational models for retinotopic map formation
+Fast Approximate Quadratic Programming for Large (Brain) Graph Matching
+Stability of the splay state in networks of pulse-coupled neurons
+Resolution enhancement in neural networks with dynamical synapses
+Human pitch is pre-cortical: The essential role of the cochlear fluid
+Multiscale Topological Properties Of Functional Brain Networks During Motor Imagery After Stroke
+The Recognizability of Individual Creative Styles Within and Across Domains
+Linear stability in networks of pulse-coupled neurons
+Balanced condition in networks leads to Weibull statistics
+Phase Diagram of Spiking Neural Networks
+Short-term plasticity as cause-effect hypothesis testing in distal reward learning
+Emergence of assortative mixing between clusters of cultured neurons
+Frustrated hierarchical synchronization and emergent complexity in the human connectome network
+Stable chaos in fluctuation driven neural circuits
+Effect of Small-World Connectivity on Fast Sparsely Synchronized Cortical Rhythms
+Exact detection of direct links in networks of interacting dynamical units
+Sisyphus Effect in Pulse Coupled Excitatory Neural Networks with Spike-Timing Dependent Plasticity
+Arguments for Nested Patterns in Neural Ensembles
+Human brain distinctiveness based on EEG spectral coherence connectivity
+Multifractal analysis of sEMG signal of the complex muscle activity
+Image Segmentation Using Frequency Locking of Coupled Oscillators
+Emergence of clustering: Role of inhibition
+Stochastic modeling of excitable dynamics: improved Langevin model for mesoscopic channel noise
+Spontaneous excitability in the Morris--Lecar model with ion channel noise
+Graph analysis of functional brain networks: practical issues in translational neuroscience
+Hierarchy of neural organization in the embryonic spinal cord: Granger-causality graph analysis of in vivo calcium imaging data
+Cognitive States of Potentiality in Art-making
+Neuronal control of locomotor handedness in Drosophila
+OTA based 200 G Omega resistance on 00 mu m2 in 10 nm CMOS for neuromorphic applications
+Perceptual decision-making as probabilistic inference by neural sampling
+Neural coordination can be enhanced by occasional interruption of normal firing patterns: A self-optimizing spiking neural network model
+Automatic Neuron Type Identification by Neurite Localization in the Drosophila Medulla
+Correlation between amygdala BOLD activity and frontal EEG asymmetry during real-time fMRI neurofeedback training in patients with depression
+Fluctuation-response Relation Unifies Dynamical Behaviors in Neural Fields
+Convolution Metric for Neuron Membrane Potential Recordings
+The Shifting Sands of Creative Thinking: Connections to Dual Process Theory and Implications for Creativity Training
+Why Blind-Variation Selective-Retention is an Inappropriate Explanatory Framework for Creativity
+Dynamics of Random Neural Networks with Bistable Units
+The neural ring: using algebraic geometry to analyze neural codes
+Critical and maximally informative encoding between neural populations in the retina
+Efficient sampling of Gaussian graphical models using conditional Bayes factors
+Increasing the Analytical Accessibility of Multishell and Diffusion Spectrum Imaging Data Using Generalized Q-Sampling Conversion
+General markers of conscious visual perception and their timing
+A structured matrix factorization framework for large scale calcium imaging data analysis
+A role for recurrent processing in object completion: neurophysiological psychophysical and computational evidence
+A New Course on Creativity in an Engineering Program: Foundations and Issues
+Probing the Mind Behind the (Literal and Figurative) Lightbulb
+The frustrated brain: From dynamics on motifs to communities and networks
+Can spurious indications for phase synchronization due to superimposed signals be avoided?
+Can Sol's Explanation for the Evolution of Animal Innovation Account for Human Innovation?
+Parsimony exhaustivity and balanced detection in neocortex
+Perspective: network-guided pattern formation of neural dynamics
+Virtual Electrode Recording Tool for Etracellular potentials (VERTE): Comparing multi-electrode recordings from simulated and biological mammalian cortical tissue
+Physiologically motivated multiplex Kuramoto model describes phase diagram of cortical activity
+Cumulants of Hawkes point processes
+Extracting spatial-temporal coherent patterns in large-scale neural recordings using dynamic mode decomposition
+Cerebral functional connectivity periodically (de)synchronizes with anatomical constraints
+A few points suffice: Efficient large-scale computation of brain voxel-wise functional connectomes from a sparse spatio-temporal point-process
+Predicting upcoming actions by observation: some facts models and challenges
+A Two-Part Mixed-Effects Modeling Framework For Analyzing Whole-Brain Network Data
+On the spike train variability characterized by variance-to-mean power relationship
+How close are we to understanding image-based saliency?
+Approximate discrete dynamics of EMG signal
+Avalanches in self-organized critical neural networks: A minimal model for the neural SOC universality class
+Observability and Controllability of Nonlinear Networks: The Role of Symmetry
+Identification of criticality in neuronal avalanches: II. A theoretical and empirical investigation of the driven case
+The importance of stimulus noise analysis for self-motion studies
+Average synaptic activity and neural networks topology: a global inverse problem
+Director Field Model of the Primary Visual Cortex for Contour Detection
+Anomalous Consistency in Mild Cognitive Impairment: a complex networks approach
+Consciousness results when communication modifies the form of self-estimated fitness
+Affective and cognitive prefrontal cortex projections to the lateral habenula in humans
+Spatial Information in Large-Scale Neural Recordings
+Thermodynamic Order Parameters and Statistical-Mechanical Measures for Characterization of the Burst and Spike Synchronizations of Bursting Neurons
+Frequency-Domain Order Parameters for the Burst And Spike Synchronization Transitions of Bursting Neurons
+Markers of criticality in phase synchronisation
+A reaction-diffusion model of cholinergic retinal waves
+Correlations and functional connections in a population of grid cells
+Behavioral criteria of feedforward processing in rapid-chase theory: Some formal considerations
+Untangling cross-frequency coupling in neuroscience
+Cortical spatio-temporal dimensionality reduction for visual grouping
+Group Minds and the Case of Wikipedia
+Voltage dependence of Hodgkin-Huxley rate functions for a multi-stage K channel voltage sensor within a membrane
+Mechanical Surface Waves Accompany Action Potential Propagation
+Clique of functional hubs orchestrates population bursts in developmentally regulated neural networks
+Slow synaptic dynamics in a network: from exponential to power-law forgetting
+Avoiding catastrophic failure in correlated networks of networks
+Elastic Nanocomputation in an Ideal Brain (1p abstract 3 pages  endnotes)
+From Caenorhabditis elegans to the Human Connectome: A Specific Modular Organisation Increases Metabolic Functional and Developmental Efficiency
+Simulated Cytoskeletal Collapse via Tau Degradation
+Identification of Dynamic functional brain network states Through Tensor Decomposition
+Generating functionals for computational intelligence: the Fisher information as an objective function for self-limiting Hebbian learning rules
+Two-trace model for spike-timing-dependent synaptic plasticity
+Feature Learning from Incomplete EEG with Denoising Autoencoder
+A catastrophe theory approach to cognitive decline
+Bayesian synaptic plasticity makes predictions about plasticity experiments in vivo
+Exact Dynamically Routable Current Propagation in Pulse-Gated Synfire Chains
+A Unified Framework for Information Coding: Oscillations Memory and ombie Modes
+A Holistic Non-algorithmic View of Cultural Evolution: Commentary on Review Article by Prof. Liane Gabora
+Effect of age on the variability and stability of gait: a cross-sectional treadmill study in healthy individuals between 20 and  years of age
+On the Hamiltonian structure of large deviations in stochastic hybrid systems
+Multiscale Balance of Excitation and Inhibition in Single-Unit ensemble Recordings in Human and Monkey Neocortex
+Hierarchical models for neural population dynamics in the presence of non-stationarity
+Descriptive and Foundational Aspects of Quantum Cognition
+Analysis of EEG signal by Flicker Noise Spectroscopy: Identification of right left hand movement imagination
+Neural wave interference in inhibition-stabilized networks
+Identifying features in spike trains using binless similarity measures
+The brain as a trigger system
+Probabilistic Inference in Discrete Spaces with Networks of LIF Neurons
+Prediction of Synchrostate Transitions in EEG Signals Using Markov Chain Models
+Detecting event-related recurrences by symbolic analysis: Applications to human language processing
+Automated placement of stereotactic injections using a laser scan of the skull
+Demixed principal component analysis of population activity in higher cortical areas reveals independent representation of task parameters
+Motor skill learning by increasing the movement planning horizon
+The Influence of Decoding Accuracy on Perceived Control: A Simulated BCI Study
+Estimating the intrinsic dimension in fMRI space via dataset fractal analysis - Counting the cpu cores' of the human brain
+A neural circuit for navigation inspired by C. elegans Chemotaxis
+Sub-threshold CMOS Spiking Neuron Circuit Design for Navigation Inspired by C. elegans Chemotaxis
+A novel brain partition highlights the modular skeleton shared by structure and function
+Personality cannot be predicted from the power of resting state EEG
+Intrinsic gain modulation and adaptive neural coding
+Using causal models to distinguish between neurogenesis-dependent and -independent effects on behaviour
+Reward and adversity processing circuits their competition and interactions with dopamine and serotonin signaling
+Griffiths phases and the stretching of criticality in brain networks
+Head-related Impulse Response-based Spatial Auditory Brain-computer Interface
+Spatial Tactile Brain-Computer Interface Paradigm Applying Vibration Stimuli to Large Areas of User's Back
+Oscillations in Spurious States of the Associative Memory Model with Synaptic Depression
+Quantifying the behavioural relevance of hippocampal neurogenesis
+Enhanced repertoire of brain dynamical states during the psychedelic experience
+Distribution of Orientation Selectivity in Recurrent Networks of Spiking Neurons with Different Random Topologies
+'A Vehicle of Symbols and Nothing More.' George Romanes Theory of Mind Information and Samuel Butler
+Cognitive Surveillance: Why does it never appear among the AVSS Conferences topics?
+Generalized cable formalism to calculate the magnetic field of single neurons and neuronal populations
+Racing to Learn: Statistical Inference and Learning in a Single Spiking Neuron with Adaptive Kernels
+Origin of the computational hardness for learning with binary synapses
+Neural computation at the thermal limit
+Mammalian cochlea as a physics guided evolution-optimized hearing sensor
+The Relationship between Creativity Imitation and Cultural Diversity
+An Online Algorithm for Learning Selectivity to Mixture Means
+Frequently Asked Questions for: The Atoms of Neural Computation
+Cognitive image processing: the time is right to recognize that the world does not rest more on turtles and elephants
+Can Humans Really Discriminate 1 Trillion Odors?
+Random feedback weights support learning in deep neural networks
+Primary visual cortex as a saliency map: parameter-free prediction of behavior from V1 physiology
+Further insights into the interareal connectivity of a cortical network
+Towards an optimal decision strategy of visual search
+Low Frequency LFP in Macaque MT Predicts Reaction Time in an Attentive Task
+Field theory for biophysical neural networks
+Effect of Activity and Inter-Cluster Correlations on Information-Theoretic Properties of Neural Networks
+The resting microstate networks (RMN): cortical distributions dynamics and frequency specific information flow
+Revealing cell assemblies at multiple levels of granularity
+Probable nature of higher-dimensional symmetries underlying mammalian grid-cell activity patterns
+One-Dimensional Population Density Approaches to Recurrently Coupled Networks of Neurons with Noise
+Turn Down that Noise: Synaptic Encoding of Afferent SNR in a Single Spiking Neuron
+An exploration of synergistic and redundant information sharing in static and dynamical Gaussian systems
+Constructing precisely computing networks with biophysical spiking neurons
+Images from the Mind: BCI image evolution based on RSVP of polygon primitives
+Two-population model for MTL neurons: The vast majority are almost silent
+A framework for studying synaptic plasticity with neural spike train data
+Task-driven intra- and interarea communications in primate cerebral cortex
+How does Spreading Depression Spread? - Physiology and Modeling
+Robust exponential memory in Hopfield networks
+Toward a Universal Cortical Algorithm: Examining Hierarchical Temporal Memory in Light of Frontal Cortical Function
+Deep Brain Stimulation for Parkinson's Disease: a survey of experiences perceived by recipients and carers
+Scalability of asynchronous networks is limited by one-to-one mapping between effective connectivity and correlations
+Integration of rule-based models and compartmental models of neurons
+Neuronal impedance mechanism implementing cooperative networks with low firing rates and mu s precision
+Affordances Provide a Fundamental Categorization Principle for Visual Scenes
+Johnson-Lindenstrauss Compression with Neuroscience-Based Constraints
+Salient Object Detection: A Survey
+Hardware-Amenable Structural Learning for Spike-based Pattern Classification using a Simple Model of Active Dendrites
+Oscillatory Survival Probability: Analytical Numerical Study for oscillatory narrow escape and applications to neural network dynamics
+Kickback cuts Backprop's red-tape: Biologically plausible credit assignment in neural networks
+Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Brain's Ventral Visual Pathway
+Comparing different muscle activation dynamics using sensitivity analysis
+Hypotheses of neural code and the information model of the neuron-detector
+Short-Term Memory Through Persistent Activity: Evolution of Self-Stopping and Self-Sustaining Activity in Spiking Neural Networks
+Decision-making and interacting neuron populations
+Spontaneous spiking in an autaptic Hodgkin-Huxley set up
+State sampling dependence of the Hopfield network inference
+Is a -bit synaptic weight resolution enough? - Constraints on enabling spike-timing dependent plasticity in neuromorphic hardware
+The failure of the law of brevity in two New World primates. Statistical caveats
+The span of correlations in dolphin whistle sequences
+The law of brevity in macaque vocal communication is not an artifact of analyzing mean call durations
+Compression as a universal principle of animal behavior
+Networks in Cognitive Science
+A shotgun sampling solution for the common input problem in neural connectivity inference
+Why SOV might be initially preferred and then lost or recovered? A theoretical framework
+Dynamics of interacting finite-sized networks of spiking neurons with adaptation
+Efficient Visual Coding: From Retina To V2
+The Scalable Brain Atlas: instant web-based access to public brain atlases and related content
+Violation of contextual generalization of the Leggett-Garg inequality for recognition of ambiguous figures
+Simultaneous whole-animal 3D-imaging of neuronal activity using light field microscopy
+Practopoiesis: Or how life fosters a mind
+The OpenPicoAmp : an open-source planar lipid bilayer amplifier for hands-on learning of neuroscience
+Dynamics from seconds to hours in Hodgkin-Huxley model with time-dependent ion concentrations and buffer reservoirs
+Quantum model for psychological measurements: from the projection postulate to interference of mental observables represented as positive operator valued measures
+Spatial statistics and attentional dynamics in scene viewing
+Predicting age of human subjects based on structural connectivity from diffusion tensor imaging
+Quasi-Critical Brain Dynamics on a Non-Equilibrium Widom Line
+Applying Quantum Principles to Psychology
+Elastic instabilities in a layered cerebral cortex: A revised axonal tension model for cortex folding
+Affine differential geometry and smoothness maximization as tools for identifying geometric movement primitives
+Annotating Synapses in Large EM Datasets
+Untersuchungen zur Implementierung von Bildverarbeitungsalgorithmen mittels pulsgekoppelter neuronaler Netze
+Untersuchungen zur Modellierung und Schaltungsrealisierung von synaptischer Plastizitaet
+A positive feedback at the cellular level promotes robustness and modulation at the circuit level
+Delay stabilizes stochastic motion of bumps in layered neural fields
+Universality of Power Law Coding for Principal Neurons
+Synthetic Cognitive Development: where intelligence comes from
+Deep Gaze I: Boosting Saliency Prediction with Feature Maps Trained on ImageNet
+Self-organization of microcircuits in networks of neurons with plastic synapses
+Neuromimetic Circuits with Synaptic Devices based on Strongly Correlated Electron Systems
+A statistical model for in vivo neuronal dynamics
+A Nonparametric Bayesian Approach to Uncovering Rat Hippocampal Population Codes During Spatial Navigation
+The effect of heterogeneity on decorrelation mechanisms in spiking neural networks: a neuromorphic-hardware study
+Bits from Biology for Computational Intelligence
+Impact of triplet correlations on neural population codes
+Scalability and Optimization Strategies for GPU Enhanced Neural Networks (GeNN)
+Statistical model of evolution of brain parcellation
+How important is the seizure onset zone for seizure dynamics?
+The Self-Organization of Grid Cells in 3D
+Complementary action of chemical and electrical synapses to perception
+Networks that learn the precise timing of event sequences
+Output stream of binding neuron with delayed feedback
+The hippocampal-striatal circuit for goal-directed and habitual choice
+Circumventing the Curse of Dimensionality in Prediction: Causal Rate-Distortion for Infinite-Order Markov Processes
+Homomorphisms of connectome graphs
+Stochastic motion of bumps in planar neural fields
+Region segmentation for sparse decompositions: better brain parcellations from rest fMRI
+Neuronal noise as a physical resource for human cognition
+Bootstrap testing for differences in cross-correlation
+A theoretical basis for efficient computations with noisy spiking neurons
+Teaching Computational Neuroscience
+Dynamic changes in network synchrony reveal resting-state functional networks
+Connectome graphs and maximum flow problems
+SPySort: Neuronal Spike Sorting with Python
+A hidden Markov model for decoding and the analysis of replay in spike trains
+Detecting Epileptic Seizures from EEG Data using Neural Networks
+Generative Modeling of Hidden Functional Brain Networks
+Unsupervised Learning through Prediction in a Model of Cortex
+Properties of networks with partially structured and partially random connectivity
+Investigating complex networks with inverse models: analytical aspects of spatial leakage and connectivity estimation
+Stochastic Representations of Ion Channel Kinetics and Exact Stochastic Simulation of Neuronal Dynamics
+Ideomotor feedback control in a recurrent neural network
+Quantum Models for Psychological Measurements: An Unsolved Problem
+Topological determinants of self-sustained activity in a simple model of excitable dynamics on graphs
+Airborne Ultrasonic Tactile Display Brain-computer Interface Paradigm
+Generic construction of scale-invariantly coarse grained memory
+Nonlinear network dynamics under perturbations of the underlying graph
+Physical Light as a Metaphor for Inner Light
+Neural Population Coding of Multiple Stimuli
+Nonlinear Langevin equations for wandering patterns in stochastic neural fields
+Efficient transmission of subthreshold signals in complex networks of spiking neurons
+A model for neural activity in the absence of external stimuli
+SPIK: A graphical user interface for monitoring spike train synchrony
+Asymptotic Phase for Stochastic Oscillators
+Lognormal distribution of firing time and rate from a single neuron?
+The Budapest Reference Connectome Server v2.0
+Local inhibitory plasticity tunes global brain dynamics and allows the emergence of functional brain networks
+Evidence for Dynamic Excitation-Inhibition Ratio in Networks of Cortical Neurons
+Nuancing the Neuron: A Review of 'The Memory Process: Neuroscientific and Humanistic Perspectives' by Suzanne Nalbantian Paul M. Matthews and James L. McClelland (Eds.)
+Comb models for transport along spiny dendrites
+Spatio-temporal patterns in multi-electrode array local field potential recordings
+Quantum Cognition based on an Ambiguous Representation Derived from a Rough Set Approximation
+Modeling the ballistic-to-diffusive transition in nematode motility reveals low-dimensional behavioral variation across species
+An adapting auditory-motor feedback loop can contribute to generating vocal repetition
+Quasi-Conscious Multivariate Systems
+Graph Theoretical Analysis Reveals: Women's Brains are Better Connected than Men's
+Neural codes and homotopy types: mathematical models of place field recognition
+Hemodynamically informed parcellation of cerebral FMRI data
+Physiologically Informed Bayesian Analysis of ASL fMRI Data
+Airborne Ultrasonic Tactile Display BCI
+The influence of infant-directed speech on 12-month-olds' intersensory perception of fluent speech
+The emergence of power-law distributions of inter-spike intervals characterizes status epilepticus induced by pilocarpine administration in rats
+Summary of Information Theoretic Quantities
+Applications of Information Theory to Analysis of Neural Data
+Estimating Information-Theoretic Quantities
+Interaction Contrast for Mental Architectures: A New Theoretical Approach
+Functional optoacoustic neuro-tomography (FONT) for whole-brain monitoring of calcium indicators
+A note on choice and detect probabilities in the presence of choice bias
+We Did See This Coming: Response to We Should Have Seen This Coming by D. Sam Schwarzkopf
+Adaptive behavior can produce maladaptive anxiety due to individual differences in experience
+Neural Implementation of Probabilistic Models of Cognition
+Whole-brain calcium imaging with cellular resolution in freely behaving C. elegans
+Mean Time-to-Fire for the Noisy LIF Neuron - A Detailed Derivation of the Siegert Formula
+Spatial Auditory Brain-computer Interface using Head Related Impulse Response
+The 'Power of Then': The Uniquely Human Capacity to Imagine Beyond the Present
+How a Generation Was Misled About Natural Selection
+How Creative Ideas Take Shape
+Sparse Bayesian Learning for EEG Source Localization
+The paradoxical relationship of difficulty and lateral frontal cortex activity
+Output stream of leaky integrate and fire neuron
+Testing quantum-like models of judgment for question order effects
+Characterizing the neural correlates of reasoning
+Ordering Dynamics in Neuron Activity Pattern Model: An insight to Brain Functionality
+Consolidating a Link Centered Neural Connectivity Framework with Directed Transfer Function Asymptotics
+Inferring and Learning from Neuronal Correspondences
+From dynamics to links: a sparse reconstruction of the topology of a neural network
+Temperature manipulation in songbird brain implicates the premotor nucleus HVC in birdsong syntax
+Comment on Human Time-Frequency Acuity Beats the Fourier Uncertainty Principle
+Development of modularity in the neural activity of children's brains
+Stochastic Wilson-Cowan models of neuronal network dynamics with memory and delay
+Dynamics of Neural Networks with Continuous Attractors
+When can dictionary learning uniquely recover sparse data from subsamples?
+Active causation and the origin of meaning
+Optimistic Risk Perception in the Temporal Difference error Explains the Relation between Risk-taking Gambling Sensation-seeking and Low Fear
+Attractor Metadynamics in Adapting Neural Networks
+Characterization and Compensation of Network-Level Anomalies in Mixed-Signal Neuromorphic Modeling Platforms
+Probabilistic Contextuality in EPR Bohm-type Systems with Signaling Allowed
+Inferring Synaptic Structure in presence of Neural Interaction Time Scales
+On the dynamics of random neuronal networks
+Non-stationary filtered shot noise processes and applications to neuronal membranes
+Dynamical criticality in the collective activity of a population of retinal neurons
+Reduction of colored noise in excitable systems to white noise and dynamic boundary conditions
+Spectral properties of excitable systems subject to colored noise
+Stochastic synchronization of neural activity waves
+Relation between firing statistics of spiking neuron with instantaneous feedback and without feedback
+Renewal Approach to the Analysis of the Asynchronous State for Coupled Noisy Oscillators
+Deep learning of fMRI big data: a novel approach to subject-transfer decoding
+Advanced Mean Field Theory of Restricted Boltzmann Machine
+Neuronal calculus for the auditory pathway
+A 0.02 mm 2 programmable biphasic stimulator for cochlear implants suitable for a large number of channels
+A specialized face-processing network consistent with the representational geometry of monkey face patches
+Neuronal micro-culture engineering by microchannel devices of cellular scale dimensions
+Microscopic instability in recurrent neural networks
+A guide to time-resolved and parameter-free measures of spike train synchrony
+Can rodents conceive hyperbolic spaces?
+The Modeling and Quantification of Rhythmic to Non-rhythmic Phenomenon in Electrocardiography during Anesthesia
+Musical practice and cognitive aging: two cross-sectional studies point to phonemic fluency as a potential candidate for a use-dependent adaptation
+On the role of time in perceptual decision making
+Backward Renormalization Priors and the Cortical Source Localization Problem with EEG or MEG
+A Rich Spectrum of Neural Field Dynamics in the Presence of Short-Term Synaptic Depression
+Phase synchronization of coupled bursting neurons and the generalized Kuramoto model
+Information flow through a model of the C. elegans klinotaxis circuit
+Reliability of signal transmission in stochastic nerve axon equations
+Dwelling Quietly in the Rich Club: Brain Network Determinants of Slow Cortical Fluctuations
+Time Perception in an Adaptive Excitable System
+Advances in Artificial Intelligence: Are you sure we are on the right track?
+Measuring and Understanding Sensory Representations within Deep Networks Using a Numerical Optimization Framework
+Reconstruction of recurrent synaptic connectivity of thousands of neurons from simulated spiking activity
+Humans can discriminate trillions of olfactory stimuli or more or fewer
+Heterogeneity and dynamics of cortical populations coding visual detection
+Network Events on Multiple Space and Time Scales in Cultured Neural Networks and in a Stochastic Rate Model
+Emergence of slow-switching assemblies in structured neuronal networks
+The Organisation of the Elderly Connectome

@@ -1,0 +1,875 @@
+Revisiting the Issues On Netflow Sample and Export Performance
+Optimal Synthesis of Multiple Algorithms
+Availability assessment of SunOS Solaris Unix Systems based on Syslogd and wtmpx logfiles : a case study
+Empirical analysis and statistical modeling of attack processes based on honeypots
+An architecture-based dependability modeling framework using AADL
+A Hierarchical Approach for Dependability Analysis of a Commercial Cache-Based RAID Storage Architecture
+Towards Informative Statistical Flow Inversion
+Mean Field Models of Message Throughput in Dynamic Peer-to-Peer Systems
+An Autonomous Distributed Admission Control Scheme for IEEE 802.11 DCF
+Non-equilibrium Surface Growth and Scalability of Parallel Algorithms for Large Asynchronous Systems
+Going through Rough Times: from Non-Equilibrium Surface Growth to Algorithmic Scalability
+Solaris System Resource Manager: All I Ever Wanted Was My Unfair Advantage (And Why ou Can't Have It )
+UNIX Resource Managers: Capacity Planning and Resource Issues
+The X-Files: Investigating Alien Performance in a Thin-client World
+Multicast-based Architecture for IP Mobility: Simulation Analysis and Comparison with Basic Mobile IP
+Efficient cache use for stencil operations on structured discretization grids
+The Role of Commutativity in Constraint Propagation Algorithms
+Performance and Scalability Models for a Hypergrowth e-Commerce Web Site
+Faster-than-light effects and negative group delays in optics and electronics and their applications
+Analysis of Network Traffic in Switched Ethernet Systems
+Experiences with advanced CORBA services
+Hypernets -- Good (G)news for Gnutella
+Weaves: A Novel Direct Code Execution Interface for Parallel High Performance Scientific Codes
+A generalization of Amdahl's law and relative conditions of parallelism
+Narses: A Scalable Flow-Based Network Simulator
+Modelling Delay Jitter in Voice over IP
+A Performance Study of Monitoring and Information Services for Distributed Systems
+GridMonitor: Integration of Large Scale Facility Fabric Monitoring with Meta Data Service in Grid Environment
+Worldwide Fast File Replication on Grid Datafarm
+Efficient Instrumentation for Performance Profiling
+Using Propagation for Solving Complex Arithmetic Constraints
+A Performance Analysis Tool for Nokia Mobile Phone Software
+Improving TCP IP Performance over Wireless IEEE 802.11 Link
+Performance of TCP UDP under Ad Hoc IEEE802.11
+Benchmarking and Implementation of Probability-Based Simulations on Programmable Graphics Cards
+Analysis of Implementation Hierocrypt- algorithm (and its comparison to Camellia algorithm) using ALTERA devices
+On the Security of the i-Tan-Siew Chaos-Based Cipher
+A Quick Look at SATA Disk Performance
+Characterization of the Burst Stabilization Protocol for the RR RR CICQ Switch
+Performance Evaluation of Packet-to-Cell Segmentation Schemes in Input Buffered Packet Switches
+On the Practicality of Intrinsic Reconfiguration As a Fault Recovery Method in Analog Systems
+Elements for Response Time Statistics in ERP Transaction Systems
+Business Process Measures
+Performance Analysis of the Globus Toolkit Monitoring and Discovery Service MDS2
+Roaming Real-Time Applications - Mobility Services in IPv6 Networks
+Performance Analysis of Multicast Mobility in a Hierarchical Mobile IP Proxy Environment
+Parallel Computing Environments and Methods for Power Distribution System Simulation
+DiPerF: an automated DIstributed PERformance testing Framework
+Fast Query Processing by Distributing an Index over CPU Caches
+An Empirical Analysis of Internet Protocol Version 6 (IPv6)
+Optimal Union-Find in Constraint Handling Rules
+Shawn: A new approach to simulating wireless sensor networks
+Performance Considerations for Gigabyte per Second Transcontinental Disk-to-Disk File Transfers
+Sequential File Programming Patterns and Performance with .NET
+Efficient Parallel Simulations of Asynchronous Cellular Arrays
+Improving PARMA Trailing
+Software Performance Analysis
+Disks Partitions Volumes and RAID Performance with the Linux Operating System
+Random Walks with Anti-Correlated Steps
+Compression Scheme for Faster and Secure Data Transmission Over Internet
+The Computational and Storage Potential of Volunteer Computing
+Benchmark Problems for Constraint Solving
+On Conditional Branches in Optimal Search Trees
+A Delay Analysis of Maximal Matching Switching with Speedup
+Fast and Generalized Polynomial Time Memory Consistency Verification
+On symmetric sandpiles
+Methods for Partitioning Data to Improve Parallel Execution Time for Sorting on Heterogeneous Clusters
+A Generic Lazy Evaluation Scheme for Exact Geometric Computations
+The Effect of Scheduling on Link Capacity in Multi-hopWireless Networks
+Analysis of a Reputation System for Mobile Ad-Hoc Networks with Liars
+Memory and compiler optimizations for low-power and -energy
+On Degree-Based Decentralized Search in Complex Networks
+Distributed Link Scheduling with Constant Overhead
+A Multi-server Scheduling Framework for Resource Allocation in Wireless Multi-carrier Networks
+A Combined LIFO-Priority Scheme for Overload Control of E-commerce Web Servers
+Lossy Bulk Synchronous Parallel Processing Model for Very Large Scale Grids
+Queue Model of Leaf Degree Keeping Process in Gnutella Network
+Towards Parallel Computing on the Internet: Applications Architectures Models and Programming Tools
+Exact Failure Frequency Calculations for Extended Systems
+Exact solutions for the two- and all-terminal reliabilities of a simple ladder network
+On High Spatial Reuse Link Scheduling in STDMA Wireless Ad Hoc Networks
+Exact solutions for the two- and all-terminal reliabilities of the Brecht-Colbourn ladder and the generalized fan
+On the Correlation of Geographic and Network Proximity at Internet Edges and its Implications for Mobile Unicast and Multicast Routing
+Thousands of DebitCredit Transactions-Per-Second: Easy and Inexpensive
+A Measure of Transaction Processing 20 ears Later
+The parallel implementation of the Astr ' e e static analyzer
+A Static Analyzer for Large Safety-Critical Software
+An Abstract Monte-Carlo Method for the Analysis of Probabilistic Programs
+High Performance Direct Gravitational N-body Simulations on Graphics Processing Units
+In Search of Simplicity: A Self-Organizing Multi-Source Multicast Overlay
+Differentiated End-to-End Internet Services using a Weighted Proportional Fair Sharing TCP
+Performance Price Sort
+C Templates as Partial Evaluation
+Algorithms of Two-Level Parallelization for DSMC of Unsteady Flows in Molecular Gasdynamics
+The ATLAS Tile Calorimeter Test Beam Monitoring Program
+A Technical Report On Grid Benchmarking using ATLAS V.O
+A Technical Report On Grid Benchmarking using SEE V.O
+Differential Diversity Reception of MDPSK over Independent Rayleigh Channels with Nonidentical Branch Statistics and Asymmetric Fading Spectrum
+Fast and Simple Relational Processing of Uncertain Data
+Analysis of Stochastic Service Guarantees in Communication Networks: A Basic Calculus
+On Conditional Branches in Optimal Decision Trees
+Cache Analysis of Non-uniform Distribution Sorting Algorithms
+A Comparison of Push and Pull Techniques for Ajax
+Formally Verified Argument Reduction with a Fused-Multiply-Add
+Computational performance of a parallelized high-order spectral and mortar element toolbox
+Effectiveness of Garbage Collection in MIT GNU Scheme
+Wireless Local Area Networks with Multiple-Packet Reception Capability
+Superrecursive Features of Interactive Computation
+Implementation Compilation Optimization of Object-Oriented Languages Programs and Systems - Report on the Workshop ICOOOLPS'2006 at ECOOP'06
+Effects of Non-Identical Rayleigh Fading on Differential Unitary Space-Time Modulation
+Optimized Design of Survivable MPLS over Optical Transport Networks. Optical Switching and Networking
+On the Behavior of the Distributed Coordination Function of IEEE 802.11 with Multirate Capability under General Transmission Conditions
+Survivable MPLS Over Optical Transport Networks: Cost and Resource Usage Analysis
+The Fast Fibonacci Decompression Algorithm
+Back-of-the-Envelope Computation of Throughput Distributions in CSMA Wireless Networks
+RBENCH: Performance evaluation of current HPC architectures using low-level and application benchmarks
+Noise Limited Computational Speed
+Data access optimizations for highly threaded multi-core CPUs with multiple memory controllers
+A System Theoretic Approach to Bandwidth Estimation
+Sketch-Based Estimation of Subpopulation-Weight
+Proportional Fairness in Multi-channel Multi-rate Wireless Networks-Part I: The Case of Deterministic Channels
+Proportional Fairness in Multi-channel Multi-rate Wireless Networks-Part II: The Case of Time-Varying Channels
+Note sur les temps de service r 'esiduels dans les syst emes type M G c
+JiTS: Just-in-Time Scheduling for Real-Time Sensor Data Dissemination
+Heavy-Tailed Limits for Medium Size Jobs and Comparison Scheduling
+SPARK00: A Benchmark Package for the Compiler Evaluation of Irregular Sparse Codes
+Energy and Time Efficient Scheduling of Tasks with Dependencies on Asymmetric Multiprocessors
+Significant Diagnostic Counterexamples in Probabilistic Model Checking
+Estimation of available bandwidth and measurement infrastructure for Russian segment of Internet
+Asymptotic Mean Time To Failure and Higher Moments for Large Recursive Networks
+Exact two-terminal reliability of some directed networks
+Session Initiation Protocol (SIP) Server Overload Control: Design and Evaluation
+Measurement and Evaluation of ENUM Server Performance
+Restricted Mobility Improves Delay-Throughput Trade-offs in Mobile Ad-Hoc Networks
+Optimization of Location Management for PCS Networks with CTRW Mobility Model
+A General Theory of Computational Scalability Based on Rational Functions
+Optimizing Compiler for Engineering Problems
+Understanding the Paradoxical Effects of Power Control on the Capacity of Wireless Networks
+Amdahl's and Gustafson-Barsis laws revisited
+Multidimensional Visualization of Oracle Performance Using Barry00
+Getting in the one for Successful Scalability
+SP2Bench: A SPARQL Performance Benchmark
+Occupancy distributions of homogeneous queueing systems under opportunistic scheduling
+Mobility Management Framework
+A Call-Graph Profiler for GNU Octave
+Non-linear estimation is easy
+Middleware-based Database Replication: The Gaps between Theory and Practice
+Performance Modeling and Evaluation for Information-Driven Networks
+A Monitoring System for the BaBar INFN Computing Cluster
+Performance comparison between iSCSI and other hardware and software solutions
+Quiescence of Self-stabilizing Gossiping among Mobile Agents in Graphs
+SAFIUS - A secure and accountable filesystem over untrusted storage
+Performance Evaluation of Multiple TCP connections in iSCSI
+Link Enhancer for Vehicular Wireless ATM Communications
+Performability Aspects of the Atlas Vo Using Lmbench Suite
+An Approximation of the Outage Probability for Multi-hop AF Fixed Gain Relay
+Unasssuming View-Size Estimation Techniques in OLAP
+A Comparison of Five Probabilistic View-Size Estimation Techniques in OLAP
+Self- overload control for distributed web systems
+Forward Correction and Fountain codes in Delay Tolerant Networks
+A Holistic Approach to Information Distribution in Ad Hoc Networks
+Analysis of bandwidth measurement methodologies over WLAN systems
+Node Weighted Scheduling
+A Proof of Concept for Optimizing Task Parallelism by Locality Queues
+Random Fruits on the ielonka Tree
+The Multi-Branched Method of Moments for Queueing Networks
+Stability of Finite Population ALOHA with Variable Packets
+EXtensible Animator for Mobile Simulations: EXAMS
+Lightweight Task Analysis for Cache-Aware Scheduling on Heterogeneous Clusters
+Measuring Independence of Datasets
+ScALPEL: A Scalable Adaptive Lightweight Performance Evaluation Library for application performance monitoring
+Modeling Multi-Cell IEEE 802.11 WLANs with Application to Channel Assignment
+MANETS: High mobility can make up for low transmission power
+Adaptive Mesh Approach for Predicting Algorithm Behavior with Application to Visibility Culling in Computer Graphics
+Optimized Implementation of Elliptic Curve Based Additive Homomorphic Encryption for Wireless Sensor Networks
+Asymptotic Optimality of the Static Frequency Caching in the Presence of Correlated Requests
+An Extensible Timing Infrastructure for Adaptive Large-scale Applications
+WCET analysis of multi-level set-associative instruction caches
+A Model for Probabilistic Reasoning on Assume Guarantee Contracts
+Using constraint programming to resolve the multi-source multi-site data movement paradigm on the Grid
+Stabilizing Maximal Independent Set in Unidirectional Networks is Hard
+Effect of cell residence time variance on the performance of an advanced paging algorithm
+Bounds on series-parallel slowdown
+Broadcasting in Prefix Space: P2P Data Dissemination with Predictable Performance
+Introducing a Performance Model for Bandwidth-Limited Loop Kernels
+A Mean Field Approach for Optimization in Particles Systems and Applications
+Stochastic Service Guarantee Analysis Based on Time-Domain Models
+Enabling and Optimizing Pilot Jobs using Xen based Virtual Machines for the HPC Grid Applications
+Similarity Analysis in Automatic Performance Debugging of SPMD Parallel Programs
+Methodology for assessing system performance loss within a proactive maintenance framework
+AIS for Misbehavior Detection in Wireless Sensor Networks: Performance and Design Principles
+Application of non-uniform laxity to EDF for aperiodic tasks to improve task utilisation on multicore platforms
+A Performance Analysis of HICCUPS - a Steganographic System for WLAN
+Global Stability Analysis for an Internet Congestion Control Model with a Time-Varying Link Capacity
+A New Approach to Manage QoS in Distributed Multimedia Systems
+Towards a Statistical Methodology to Evaluate Program Speedups and their Optimisation Techniques
+Gossip-based Search in Multipeer Communication Networks
+Performance of Network and Service Monitoring Frameworks
+Throughput metrics and packet delay in TCP IP networks
+Approximate mechanism for measuring stability of Internet link in aggregated Internet pipe
+Dynamic Bandwidth Management in Distributed VoD based on the User Class Using Agents
+Applicability of a Novel Integer Programming Model for Wireless Sensor Networks
+Performance Evaluation of Mesh based Multicast Reactive Routing Protocol under Black Hole Attack
+Nuzzer: A Large-Scale Device-Free Passive Localization System for Wireless Environments
+Transmission Performance Analysis of Digital Wire and Wireless Optical Links in Local and Wide Areas Optical Networks
+Enhanced Algorithm for Link to System level Interface Mapping
+Generalized Analysis of a Distributed Energy Efficient Algorithm for Change Detection
+Experimental Performances Analysis of Load Balancing Algorithms in IEEE 802.11
+Snap-Stabilization in Message-Passing Systems
+Understanding Fairness and its Impact on Quality of Service in IEEE 802.11
+Characterizing the Robustness of Complex Networks
+Adaptive Point-to-Multipoint Transmission for Multimedia Broadcast Multicast Services in LTE
+Statistical End-to-end Performance Bounds for Networks under Long Memory FBM Cross Traffic
+Teaching an Old Elephant New Tricks
+Visualizing the robustness of query execution
+uFLIP: Understanding Flash IO Patterns
+Energy Efficiency: The New Holy Grail of Data Management Systems Research
+A Lightweight Distributed Solution to Content Replication in Mobile Networks
+Characteristics of multithreading models for high-performance IO driven network applications
+Minimizing Cache Misses in Scientific Computing Using Isoperimetric Bodies
+A New Interpretation of Amdahl's Law and Geometric Scalability
+Benchmarking Blunders and Things That Go Bump in the Night
+Programmable Ethernet Switches and Their Applications
+An End-to-End Probabilistic Network Calculus with Moment Generating Functions
+Brittle System Analysis
+An Axiomatic Theory of Fairness in Network Resource Allocation
+Analytical Models for Energy Consumption in Infrastructure WLAN STAs Carrying TCP Traffic
+An Analysis of Energy Consumption on ACK plus Rate Packet in Rate Based Transport Protocol
+Performance Evaluation of Wimax Physical Layer under Adaptive Modulation Techniques and Communication Channels
+On Metric Skyline Processing by PM-tree
+High availability using virtualization
+Scalable Distributed-Memory External Sorting
+Multi-core architectures: Complexities of performance prediction and the impact of cache topology
+Undecidability of performance equivalence of Petri nets
+Routing Technique Based on Clustering for Data Duplication Prevention in Wireless Sensor Network
+AES Implementation and Performance Evaluation on 8-bit Microcontrollers
+GoS Proposal to Improve Trust and Delay of MPLS Flows for MCN Services
+SOAP Serialization Performance Enhancement Design And Implementation Of A Middleware
+Throughput Limits of IEEE 802.11 and IEEE 802.1.
+Global communications in multiprocessor simulations of flames
+Extending Firewall Session Table to Accelerate NAT QoS Classification and Routing
+Efficient Local Unfolding with Ancestor Stacks
+Search in Power-Law Networks
+An Enhanced Mathematical Model for Performance Evaluation of Optical Burst Switched Networks
+A Simple Performance Analysis of a Core Node in an Optical Burst Switched Network
+Simulation of Resource Usage in Parallel Evolutionary Peptide Optimization using JavaSpaces Technology
+Q-ESP: a QoS-compliant Security Protocol to enrich IPSec Framework
+Adaptive Scheduling of Data Paths using Uppaal Tiga
+Markovian Testing Equivalence and Exponentially Timed Internal Actions
+Strong Weak and Branching Bisimulation for Transition Systems and Markov Reward Chains: A Unifying Matrix Approach
+Proceedings First Workshop on Quantitative Formal Methods: Theory and Applications
+Sharp utilization thresholds for some real-time scheduling problems
+A note on uniform power connectivity in the SINR model
+In-packet Bloom filters: Design and networking applications
+Integrating Post-Newtonian Equations on Graphics Processing Units
+Tiling for Performance Tuning on Different Models of GPUs
+Classifying Application Phases in Asymmetric Chip Multiprocessors
+On the Model Transform in Stochastic Network Calculus
+Fault Tolerant Real Time Systems
+Fundamental delay bounds in peer-to-peer chunk-based real-time streaming systems
+Vertical partitioning of relational OLTP databases using integer programming
+OMI4papps: Optimisation Modelling and Implementation for Highly Parallel Applications
+RapidMind: Portability across Architectures and its Limitations
+A Multi-Stage CUDA Kernel for Floyd-Warshall
+Constraint solvers: An empirical evaluation of design decisions
+The Hot Potato Case: Challenges in Multiplayer Pervasive Games Based on Ad hoc Mobile Sensor Networks and the Experimental Evaluation of a Prototype Game
+A Performance Study of GA and LSH in Multiprocessor Job Scheduling
+Performance Analysis of Software to Hardware Task Migration in Codesign
+Performance Evaluation of Unicast and Broadcast Mobile Ad hoc Network Routing Protocols
+Ahb Compatible DDR Sdram Controller Ip Core for Arm Based Soc
+Modeling the Probability of Failure on LDAP Binding Operations in Iplanet Web Proxy .6 Server
+Window-Based Greedy Contention Management for Transactional Memory
+Automatic Performance Debugging of SPMD Parallel Programs
+An Analytical Model of Information Dissemination for a Gossip-based Protocol
+Precise Request Tracing and Performance Debugging for Multi-tier Services of Black Boxes
+Decreasing log data of multi-tier services for effective request tracing
+A Rank Based Replacement Policy for Multimedia Server Cache Using ipf-Like Law
+Measuring Bandwidth for Super Computer Workloads
+PhoenixCloud: Provisioning Resources for Heterogeneous Cloud Workloads
+Importance of Explicit Vectorization for CPU and GPU Software Performance
+On Memory Accelerated Signal Processing within Software Defined Radios
+Performance Evaluation of Components Using a Granularity-based Interface Between Real-Time Calculus and Timed Automata
+Applying Stochastic Network Calculus to 802.11 Backlog and Delay Analysis
+Automatic Mapping Tasks to Cores - Evaluating AMTHA Algorithm in Multicore Architectures
+Comparison of the Performance of Two Service Disciplines for a Shared Bus Multiprocessor with Private Caches
+Space-efficient scheduling of stochastically generated tasks
+A New Benchmark For Evaluation Of Graph-Theoretic Algorithms
+Saturation Throughput - Delay Analysis of IEEE 802.11 DCF in Fading Channel
+In Cloud Do MTC or HTC Service Providers Benefit from the Economies of Scale
+Highly Parallel Sparse Matrix-Matrix Multiplication
+Leveraging shared caches for parallel temporal blocking of stencil codes on multicore processors and clusters
+Sustainable Throughput of Wireless LANs with Multi-Packet Reception Capability under Bounded Delay-Moment Requirements
+Decentralized Fair Scheduling in Two-Hop Relay-Assisted Cognitive OFDMA Systems
+A Virtual Queue Approach for Online Estimation of Loss Probability Based on MVA Theory
+Performance Evaluation of Components Using a Granularity-based Interface Between Real-Time Calculus and Timed Automata
+A new tool for the performance analysis of massively parallel computer systems
+Proceedings Eighth Workshop on Quantitative Aspects of Programming Languages
+Information Ranking and Power Laws on Trees
+LIKWID: A lightweight performance-oriented tool suite for x86 multicore environments
+Analyzing the Performance of Active Queue Management Algorithms
+Simulation de traces r 'eelles d'E S disque de PC
+Limits of responsiveness concerning human-readable knowledge bases: an operational analysis
+A Compositional Semantics for Stochastic Reo Connectors
+A Multiobjective Optimization Framework for Routing in Wireless Ad Hoc Networks
+Fundamentals of the Backoff Process in 802.11: Dichotomy of the Aggregation
+Estimating Self-Sustainability in Peer-to-Peer Swarming Systems
+Performance bounds in wormhole routing a network calculus approach
+A Foundation for Stochastic Bandwidth Estimation of Networks with Random Service
+Fast Mixing of Parallel Glauber Dynamics and Low-Delay CSMA Scheduling
+An ODE for an Overloaded X Model Involving a Stochastic Averaging Principle
+Scaling Turbo Boost to a 1000 cores
+EVM as generic QoS trigger for heterogeneous wieless overlay network
+Faster Radix Sort via Virtual Memory and Write-Combining
+Doubly Exponential Solution for Randomized Load Balancing Models with General Service Times
+Multiple Timescale Dispatch and Scheduling for Stochastic Reliability in Smart Grids with Wind Generation Integration
+An analytical model for evaluating outage and handover probability of cellular wireless networks
+Analyzing the performance of probabilistic algorithm in noisy manets
+Performance Evaluation of an OMPR Algorithm for Route Discovery in Noisy MANETs
+On the Performance Evaluation and Analysis of the Hybridised Bittorrent Protocol with Partial Mobility Characteristics
+Dynamic scheduling of virtual machines running hpc workloads in scientific grids
+Deadline aware virtual machine scheduler for scientific grids and cloud computing
+Performance analysis of Xen virtual machines in real-world scenarios
+Concurrent Processing Memory
+Low Power Reversible Parallel Binary Adder Subtractor
+Mantis: Predicting System Performance through Program Analysis and Modeling
+Performance of wireless network coding: motivating small encoding numbers
+State Dependent Attempt Rate Modeling of Single Cell IEEE 802.11 WLANs with Homogeneous Nodes and Poisson Packet Arrivals
+Towards Transactional Load over XtreemFS
+Magnetohydrodynamics on Heterogeneous architectures: a performance comparison
+A Generalized Coupon Collector Problem
+Fast Histograms using Adaptive CUDA Streams
+Fast GPGPU Data Rearrangement Kernels using CUDA
+Optimizing real-time RDF data streams
+A framework to experiment optimizations for real-time and embedded software
+Analysis of Non-Persistent CSMA Protocols with Exponential Backoff Scheduling
+Jointly Optimal Channel Pairing and Power Allocation for Multi-channel Multi-hop Relaying
+Enhancing neural-network performance via assortativity
+Seeing Through Black Boxes : Tracking Transactions through Queues under Monitoring Resource Constraints
+Statistical Analysis of Link Scheduling on Long Paths
+An Algebra of Synchronous Scheduling Interfaces
+A Novel Unified Expression for the Capacity and Bit Error Probability of Wireless Communication Systems over Generalized Fading Channels
+Accurate Performance Analysis of Opportunistic Decode-and-Forward Relaying
+On the stability of flow-aware CSMA
+Scheduling in a random environment: stability and asymptotic optimality
+Maximizing Cloud Providers Revenues via Energy Aware Allocation Policies
+Profit-Aware Server Allocation for Green Internet Services
+On Allocation Policies for Power and Performance
+Towards Autonomic Service Provisioning Systems
+Allocation and Admission Policies for Service Streams
+High-Performance Physics Simulations Using Multi-Core CPUs and GPGPUs in a Volunteer Computing Context
+Performance Analysis of Markov Modulated 1-Persistent CSMA CA Protocols with Exponential Backoff Scheduling
+General-purpose molecular dynamics simulations on GPU-based clusters
+Generic Approach for Hierarchical Modulation Performance Analysis: Application to DVB-SH
+Generic Approach for Hierarchical Modulation Performance Analysis: Application to DVB-SH and DVB-S2
+Optimal Power Cost Management Using Stored Energy in Data Centers
+Measuring NUMA effects with the STREAM benchmark
+Bayesian inference for queueing networks and modeling of internet services
+Performance of CSMA in Multi-Channel Wireless Networks
+A Comparative Study of Relaying Schemes with Decode-and-Forward over Nakagami-m Fading Channels
+A Note on Parallel Algorithmic Speedup Bounds
+Secured Message Transmission in Mobile AD HOC Networks through Identification and Removal of Byzantine Failures
+Serial Concatenation of RS Codes with Kite Codes: Performance Analysis Iterative Decoding and Design
+A Framework for QoS-aware Execution of Workflows over the Cloud
+Mean field for Markov Decision Processes: from Discrete to Continuous Optimization
+A Performance Comparison of CUDA and OpenCL
+User Mode Memory Page Allocation: A Silver Bullet For Memory Allocation
+User Mode Memory Page Management: An old idea applied anew to the memory wall problem
+Distributed Semantic Web Data Management in HBase and MySQL Cluster
+A Methodology for Optimizing Multithreaded System Scalability on Multi-cores
+Reserved or On-Demand Instances A Revenue Maximization Model for Cloud Providers
+Performance Acceleration of Kernel Polynomial Method Applying Graphics Processing Units
+A Modeling Framework for Gossip-based Information Spread
+Asynchronous Bounded Expected Delay Networks
+On the random access performance of Cell Broadband Engine with graph analysis application
+Super-Exponential Solution in Markovian Supermarket Models: Framework and Challenge
+HMTT: A Hybrid Hardware Software Tracing System for Bridging Memory Trace's Semantic Gap
+A Characterization of the SPARC T-4 System
+Efficient implementation of the overlap operator on multi-GPUs
+The Missing Piece Syndrome in Peer-to-Peer Communication
+Forever oung: Aging Control For Smartphones In Hybrid Networks
+Mathematical Model for the Optimal Utilization Percentile in M M 1 Systems: A Contribution about Knees in Performance Curves
+GPU-Based Heuristic Solver for Linear Sum Assignment Problems Under Real-time Constraints
+Proceedings Ninth Workshop on Quantitative Aspects of Programming Languages
+A Stochastic Broadcast Pi-Calculus
+Accelerating Lossless Data Compression with GPUs
+The M M Infinity Service System with Ranked Servers in Heavy Traffic
+An EM Algorithm for Continuous-time Bivariate Markov Chains
+Non-equilibrium Information Envelopes and the Capacity-Delay-Error-Tradeoff of Source Coding
+AWRP: Adaptive Weight Ranking Policy for Improving Cache Performance
+On the Performance of Space Shift Keying (SSK) Modulation with Imperfect Channel Knowledge
+Optimal Content Placement for Peer-to-Peer Video-on-Demand Systems
+An Efficient Architecture for Information Retrieval in P2P Context Using Hypergraph
+A Stochastic Calculus for Network Systems with Renewable Energy Sources
+Read Operators and their Expressiveness in Process Algebras
+Analysis of an M M 1 Queue Using Fixed Order of Search for Arrivals and Service
+Weighted Centroid Algorithm for Estimating Primary User Location: Theoretical Analysis and Distributed Implementation
+Just-In-Time compilation of OCaml byte-code
+Computationally Efficient Modulation Level Classification Based on Probability Distribution Distance Functions
+Modelling on the Guaranteed QoS for Wireless Sensor Networks: A Network Calculus Approach
+Fixed-delay Events in Generalized Semi-Markov Processes Revisited
+An Empirical Study on variants of TCP over AODV routing protocol in MANET
+Profiling parallel Mercury programs with ThreadScope
+An Empirical Study of UDP (CBR) Packet Performance over AODV Single Multi-Channel Parallel Transmission in MANET
+Parallel Breadth-First Search on Distributed Memory Systems
+Queries mining for efficient routing in P2P communities
+Towards a native toplevel for the OCaml language
+Performance improvement of the software development project using the Value Management approach
+An Improved Analytical Expression for Write Amplification in NAND Flash
+A Survey on Delay-Aware Resource Control for Wireless Systems --- Large Deviation Theory Stochastic Lyapunov Drift and Distributed Stochastic Learning
+Nano-Sim: A Step Wise Equivalent Conductance based Statistical Simulator for Nanotechnology Circuit Design
+Generic Pipelined Processor Modeling and High Performance Cycle-Accurate Simulator Generation
+A Prediction Packetizing Scheme for Reducing Channel Traffic in Transaction-Level Hardware Software Co-Emulation
+Simulation Methodology for Analysis of Substrate Noise Impact on Analog RF Circuits Including Interconnect Resistance
+Optimization strategies for parallel CPU and GPU implementations of a meshfree particle method
+A Generalized Loss Network Model with Overflow for Capacity Planning of a Perinatal Network
+Exploring Oracle RDBMS latches using Solaris DTrace
+Updatable Queue Protocol Based On TCP For Virtual Reality Environment
+Performance Evaluation of Different Scheduling Algorithms in WiMAX
+Model Checking Probabilistic Real-Time Properties for Service-Oriented Systems with Service Level Agreements
+Parametric Estimation of the Ultimate Size of Hypercomputers
+Greening File Distribution: Centralized or Distributed
+The Potential of Synergistic Static Dynamic and Speculative Loop Nest Optimizations for Automatic Parallelization
+Correlated dynamics in human printing behavior
+A Markov Chain based method for generating long-range dependence
+Markov-modulated on off processes for long-range dependent internet traffic
+Data Traffic Dynamics and Saturation on a Single Link
+Bandwidth sharing networks with priority scaling
+Cost of Virtual Machine Live Migration in Clouds: A Performance Evaluation
+Performance engineering for the Lattice Boltzmann method on GPGPUs: Architectural requirements and performance results
+Stabilization of Branching Queueing Networks
+Improving TCP Performance over Wireless Network with Frequent Disconnections
+A Temporal Approach to Stochastic Network Calculus
+Implementation of a Parallel Tree Method on a GPU
+On the flow-level stability of data networks without congestion control: the case of linear networks and upstream trees
+Performance Analysis of Sequential Method for Handover in Cognitive Radio Systems
+Sensing Matrix Setting Schemes for Cognitive Networks and Their Performance Analysis
+Transmission capacity of wireless networks
+Early Performance Prediction of Web Services
+Reengineering multi tiered enterprise business applications for performance enhancement and reciprocal or rectangular hyperbolic relation of variation of data transportation time with row pre-fetch size of relational database drivers
+Cross-entropy optimisation of importance sampling parameters for statistical model checking
+Performance Analysis of Sequential Method for HandOver in Cognitive Radio Networks
+Simple and Effective Dynamic Provisioning for Power-Proportional Data Centers
+Distributed Multiuser Sequential Channel Sensing Schemes in Multichannel Cognitive Radio Networks
+A Note on Disk Drag Dynamics
+Generating a Performance Stochastic Model from UML Specifications
+Technical Report on Hypergraph-Partitioning-Based Models and Methods for Exploiting Cache Locality in Sparse-Matrix Vector Multiplication
+On the Reliability of RAID Systems: An Argument for More Check Drives
+Delay Asymptotics with Retransmissions and Incremental Redundancy Codes over Erasure Channels
+Performance Evaluation of the Random Replacement Policy for Networks of Caches
+Secure Compressed Reading in Smart Grids
+Performance limitations for sparse matrix-vector multiplications on current multicore environments
+Multicore-aware parallel temporal blocking of stencil codes for shared and distributed memory
+Efficient multicore-aware parallelization strategies for iterative stencil computations
+A Flexible Patch-Based Lattice Boltzmann Parallelization Approach for Heterogeneous GPU-CPU Clusters
+Parallel sparse matrix-vector multiplication as a test case for hybrid MPI OpenMP programming
+Structural Analysis of Network Traffic Matrix via Relaxed Principal Component Pursuit
+Effect of Packet Delay Variation on Video-Voice over DiffServ-MPLS in IPv4-IPv6 Networks
+Scaling Datalog for Machine Learning on Big Data
+Performance Analysis for Bandwidth Allocation in IEEE 802.16 Broadband Wireless Networks using BMAP Queueing
+A Comprehensive Study and Performance Comparison of M-ary Modulation Schemes for an Efficient Wireless Mobile Communication System
+Performance Evaluation of Realistic Vanet Using Traffic Light Scenario
+On the Power of Centralization in Distributed Processing
+Minimizing Slowdown in Heterogeneous Size-Aware Dispatching Systems (full version)
+Memory Hierarchy Sensitive Graph Layout
+Robust methods for LTE and WiMAX dimensioning
+Improving Seek Time for Column Store Using MMH Algorithm
+Mathematical Modeling of Competitive Group Recommendation Systems with Application to Peer Review Systems
+Effect of Thread Level Parallelism on the Performance of Optimum Architecture for Embedded Applications
+Stochastic Analysis of Mean Interference for RTS CTS Mechanism
+Revisiting the D-iteration method: runtime comparison
+Model for Predicting End User Web Page Response Time
+Capacity of Large-scale CSMA Wireless Networks
+Stability of a Peer-to-Peer Communication System
+Reliable Generation of High-Performance Matrix Algebra
+Performance Measurement of Cloud Computing Services
+Evaluation of Proactive Reactive and Hybrid Ad hoc Routing Protocol for various Battery models in VANET using Qualnet
+A Comparative Study on the Performance of the Top DBMS Systems
+A Method for the Characterisation of Observer Effects and its Application to OML
+Implicit Renewal Theory and Power Tails on Trees
+Throughput-optimal Scheduling in Multi-hop Wireless Networks without Per-flow Information
+On the Asymptotic Validity of the Decoupling Assumption for Analyzing 802.11 MAC Protocol
+Solving Dense Generalized Eigenproblems on Multi-threaded Architectures
+A Cross-Layer Design Based on Geographic Information for Cooperative Wireless Networks
+Power Grid Vulnerability to Geographically Correlated Failures - Analysis and Control Implications
+Astrophysical Particle Simulations on Heterogeneous CPU-GPU Systems
+Uncertainty Analysis of the Adequacy Assessment Model of a Distributed Generation System
+Heavy Traffic Optimal Resource Allocation Algorithms for Cloud Computing Clusters
+Fault-tolerant linear solvers via selective reliability
+To Compress or Not To Compress: Processing vs Transmission Tradeoffs for Energy Constrained Sensor Networking
+On Mean Field Convergence and Stationary Regime
+On Modelling and Prediction of Total CPU Usage for Applications in MapReduce Environments
+On the Computation of the Higher Order Statistics of the Channel Capacity over Generalized Fading Channels
+Squeezing out the Cloud via Profit-Maximizing Resource Allocation Policies
+A Multi-State Power Model for Adequacy Assessment of Distributed Generation via Universal Generating Function
+Proceedings 10th Workshop on Quantitative Aspects of Programming Languages and Systems
+Hybrid performance modelling of opportunistic networks
+Cramer-Rao Bounds for Joint RSS DoA-Based Primary-User Localization in Cognitive Radio Networks
+A Generic Library for Stencil Computations
+Impact of Different Spreading Codes Using FEC on DWT Based MC-CDMA System
+Automated Inference System for End-To-End Diagnosis of Network Performance Issues in Client-Terminal Devices
+Performance Analysis of Wavelet Based MC-CDMA System with Implementation of Various Antenna Diversity Schemes
+Transmission of Voice Signal: BER Performance Analysis of Different FEC Schemes Based OFDM System over Various Channels
+Cluster Based Hierarchical Routing Protocol for Wireless Sensor Network
+WEP: An Energy Efficient Protocol for Cluster Based Heterogeneous Wireless Sensor Network
+Effect of Interleaved FEC Code on Wavelet Based MC-CDMA System with Alamouti STBC in Different Modulation Schemes
+Analysis Framework for Opportunistic Spectrum OFDMA and its Application to the IEEE 802.22 Standard
+Throughput and Collision Analysis of Multi-Channel Multi-Stage Spectrum Sensing Algorithms
+Jointly Optimal Channel and Power Assignment for Dual-Hop Multi-channel Multi-user Relaying
+Expression Templates Revisited: A Performance Analysis of the Current ET Methodology
+Parallel Sparse Matrix-Matrix Multiplication and Indexing: Implementation and Experiments
+Mixed-mode implementation of PETSc for scalable linear algebra on multi-core processors
+Hierarchical Performance Modeling for Ranking Dense Linear Algebra Algorithms
+Criticality of Large Delay Tolerant Networks via Directed Continuum Percolation in Space-Time
+Doing More for Less -- Cache-Aware Parallel Contraction Hierarchies Preprocessing
+Performance Tuning Of J48 Algorithm For Prediction Of Soil Fertility
+Impact of Connection Admission Process on the Direct Retry Load Balancing Algorithm in Cellular Network
+Online Advertisement Optimization and Stochastic Networks
+Relativistic Hydrodynamics on Graphic Cards
+Channel Assignment in Dense MC-MR Wireless Networks: Scaling Laws and Algorithms
+Toward a New Protocol to Evaluate Recommender Systems
+Acquisition probability of multi-user UWB systems in the presence of a novel synchronization approach
+A framework for the analytical performance assessment of matrix and tensor-based ESPRIT-type algorithms
+Storage Workload Modelling by Hidden Markov Models: Application to FLASH Memory
+A Resource Intensive Traffic-Aware Scheme for Cluster-based Energy Conservation in Wireless Devices
+Delay-Optimal Data Forwarding in Vehicular Sensor Networks
+Locating Disruptions on Internet Paths through End-to-End Measurements
+OpenCL OpenGL approach for studying active Brownian motion
+Evaluating the SiteStory Transactional Web Archive With the ApacheBench Tool
+Fast Packed String Matching for Short Patterns
+Scalable Analysis for Large Social Networks: the data-aware mean-field approach
+Quantum Monte Carlo for large chemical systems: Implementing efficient strategies for petascale platforms and beyond
+PCNM: A New Platform for Cellular Networks Measurements and Optimization
+Exploiting Network Cooperation in Green Wireless Communication
+Solid State Disk Object-Based Storage with Trim Commands
+Performance Evaluation: Ball-Tree and KD-Tree in the Context of MST
+Delay-Based Back-Pressure Scheduling in Multihop Wireless Networks
+Eigenvalue-based Cyclostationary Spectrum Sensing Using Multiple Antennas
+Performance Indicator for MIMO MMSE Receivers in the Presence of Channel Estimation Error
+Multiple Antenna Cyclostationary Spectrum Sensing Based on the Cyclic Correlation Significance Test
+Stochastic Superoptimization
+Data-parallel programming with Intel Array Building Blocks (ArBB)
+Hybrid MPI-OpenMP Paradigm on SMP Clusters: MPEG-2 Encoder and N-Body Simulation
+Performance Evaluation of Treecode Algorithm for N-Body Simulation Using GridRPC System
+Deriving Pareto-optimal performance bounds for 1 and 2-relay wireless networks
+The Universe at Extreme Scale: Multi-Petaflop Sky Simulation on the BG Q
+Critical Utility Infrastructural Resilience
+Modeling the resilience of large and evolving systems
+Performance Modeling for Dense Linear Algebra
+Information model for model driven safety requirements management of complex systems
+Opportunistic Relaying in Wireless Body Area Networks: Coexistence Performance
+Operational semantics for product-form solution
+A Blind Time-Reversal Detector in the Presence of Channel Correlation
+A Fluid Limit for an Overloaded X Model Via a Stochastic Averaging Principle
+LIKWID: Lightweight Performance Tools
+A Study on Using Uncertain Time Series Matching Algorithms in MapReduce Applications
+Some Observations on Optimal Frequency Selection in DVFS-based Energy Consumption Minimization
+Fluid Model Checking
+Network Load Analysis and Provisioning of MapReduce Applications
+Hybrid Behaviour of Markov Population Models
+Power Consumption Analysis of a Modern Smartphone
+Exploring mutexes the Oracle RDBMS retrial spinlocks
+A Multi-GPU Programming Library for Real-Time Applications
+Throughput-Optimal Distributed Algorithm for WLANs over Fading Channels
+Video Tester -- A multiple-metric framework for video quality assessment over IP networks
+Best practices for HPM-assisted performance engineering on modern multicore processors
+Performance Evaluation of Sparse Matrix Multiplication Kernels on Intel Xeon Phi
+On a Catalogue of Metrics for Evaluating Commercial Cloud Services
+Towards a Taxonomy of Performance Evaluation of Commercial Cloud Services
+Comprehensive Resource Measurement and Analysis for HPC Systems with TACC Stats
+Impact of Pointing Errors on the Performance of Mixed RF FSO Dual-Hop Transmission Systems
+Asynchronous MPI for the Masses
+Optimal Discriminant Functions Based On Sampled Distribution Distance for Modulation Classification
+Software model refactoring based on performance analysis: better working on software or performance side
+Blind Estimation of Primary User Traffic Parameters Under Sensing Errors
+Criticisms of modelling packet traffic using long-range dependence
+Pushing the limits for medical image reconstruction on recent standard multicore processors
+Sparse matrix-vector multiplication on GPGPU clusters: A new storage format and a scalable implementation
+Performance Analysis of l 0 Norm Constraint Least Mean Square Algorithm
+Proof of Convergence and Performance Analysis for Sparse Recovery via ero-point Attracting Projection
+Distributing an Exact Algorithm for Maximum Clique: maximising the costup
+Queuing Theoretic Analysis of Power-performance Tradeoff in Power-efficient Computing
+Stochastic Service Curve and Delay Bound Analysis: A Single Node Case
+Statistical Regression to Predict Total Cumulative CPU Usage of MapReduce Jobs
+Optimization of FASTEST-D for Modern Multicore Systems
+Stochastic Modeling of Large-Scale Solid-State Storage Systems: Analysis Design Tradeoffs and Optimization
+Stochastic Analysis on RAID Reliability for Solid-State Drives
+A Performance Comparison of Different Graphics Processing Units Running Direct N-Body Simulations
+A Taxonomy of Performance Assurance Methodologies and its Application in High Performance Computer Architectures
+Multithreaded Input-Sensitive Profiling
+Investigating Randomly Generated Adjacency Matrices For Their Use In Modeling Wireless Topologies
+Ball-Larus Path Profiling Across Multiple Loop iterations
+Superluminal FITS File Processing on Multiprocessors: ero Time Endian Conversion Technique
+Paging with dynamic memory capacity
+An Upper Bound on the Convergence Time for Distributed Binary Consensus
+An Upper Bound on the Convergence Time for Quantized Consensus
+Computing Petaflops over Terabytes of Data: The Case of Genome-Wide Association Studies
+Optimal Power Allocation for Outage Minimization in Fading Channels with Energy Harvesting Constraints
+Model-guided Performance Analysis of the Sparse Matrix-Matrix Multiplication
+Performance of a Multiple-Access DCSK-CC System over Nakagami- m Fading Channels
+Stationary analysis of the Shortest Queue First service policy
+Stationary analysis of the Shortest Queue First service policy: the asymmetric case
+Analysis of a non-work conserving Generalized Processor Sharing queue
+Determinism Complexity and Predictability in Computer Performance
+A class of equivalent idle-time-order-based routing policies for heterogeneous multi-server systems
+Understanding BitTorrent Through Real Measurements
+Predicting Intermediate Storage Performance for Workflow Applications
+Towards a Workload for Evolutionary Analytics
+HTTPI Based Web Service Security over SOAP
+Ber Performance Analysis of WiMAX PH Layer under different channel conditions
+The Effect of Communication and Synchronization on Amdahl Law in Multicore Systems
+Performance Bounds for Multiclass FIFO in Communication Networks: A Deterministic Case
+Block Iterative Eigensolvers for Sequences of Correlated Eigenvalue Problems
+Sharp Bounds in Stochastic Network Calculus
+Search in Random Media with L 'evy Flights
+A Simple Policy for Multiple Queues with Size-Independent Service Times
+Toward a Unified Performance and Power Consumption NAND Flash Memory Model of Embedded and Solid State Secondary Storage Systems
+The tail wags the dog : A study of anomaly detection in commercial application performance
+Dynamic Partial Cooperative MIMO System for Delay-Sensitive Applications with Limited Backhaul Capacity
+Measuring the Optimality of Hadoop Optimization
+A Performance Comparison of Network Simulators for Wireless Networks
+Spatial Fluid Limits for Stochastic Mobile Networks
+Performance study and simulation of an anycast protocol for wireless mobile ad hoc networks
+On the Catalyzing Effect of Randomness on the Per-Flow Throughput in Wireless Networks
+The Implications of Diverse Applications and Scalable Data Sets in Benchmarking Big Data Systems
+Characterizing Data Analysis Workloads in Data Centers
+TOFEC: Achieving Optimal Throughput-Delay Trade-off of Cloud Storage Using Erasure Codes
+Fitting Square Pegs Through Round Pipes: Unordered Delivery Wire-Compatible with TCP and TLS
+Congestion Control of TCP Flows in Internet Routers by Means of Index Policy
+Exploiting the Past to Reduce Delay in CSMA Scheduling: A High-order Markov Chain Approach
+Approximately Optimal Scheduling of an M G 1 Queue with Heavy Tails
+Proceedings 11th International Workshop on Quantitative Aspects of Programming Languages and Systems
+Towards a System Theoretic Approach to Wireless Network Capacity in Finite Time and Space
+Performance comparison of IEEE 802.11g and IEEE 802.11n in the presence of interference from 802.1.4 networks
+RBioCloud: A Light-weight Framework for Bioconductor and R-based Jobs on the Cloud
+Parallel Simulations for Analysing Portfolios of Catastrophic Event Risk
+First experiences with the Intel MIC architecture at LR
+Performance Analysis of Connection Admission Control Scheme in IEEE 802.16 OFDMA Networks
+Measurement and Prediction of Centrical Peripheral Network Properties based on Regression Analysis - A Parametric Foundation for Performance Self-Management in WSNs
+A Computational Framework for the Mixing Times in the QBD Processes with Infinitely-Many Levels
+Using Chip Multithreading to Speed Up Scenario-Based Design Space Exploration
+On Polynomial Multiplication in Chebyshev Basis
+Decay of tails at equilibrium for FIFO join the shortest queue networks
+Balancing Work and Size with Bounded Buffers
+An analysis of energy-optimized lattice-Boltzmann CFD simulations from the chip to the highly parallel level
+Machines are benchmarked by code not algorithms
+Optimizing the performance of Lattice Gauge Theory simulations with Streaming SIMD extensions
+A General Tractable and Accurate Model for a Cascade of Caches
+When Backpressure Meets Predictive Scheduling
+Mixed Polling with Rerouting and Applications
+An Aggregation Technique For Large-Scale PEPA Models With Non-Uniform Populations
+Flashmon V2: Monitoring Raw NAND Flash Memory I O Requests on Embedded Linux
+Software Autotuning for Sustainable Performance Portability
+Memory transfer optimization for a lattice Boltzmann solver on Kepler architecture nVidia GPUs
+On the tradeoff of average delay and average power for fading point-to-point links with monotone policies
+Lower Bound on the BER of a Decode-and-Forward Relay Network Under Chaos Shift Keying Communication System
+Algorithm Runtime Prediction: Methods Evaluation
+Technical Report: Beaconless Geo-Routing Under The Spotlight: Practical Link Models and Application Scenarios
+BEEBS: Open Benchmarks for Energy Measurements on Embedded Platforms
+Accelerating a Cloud-Based Software GNSS Receiver
+Improved Spectrum Mobility using Virtual Reservation in Collaborative Cognitive Radio Networks
+Efficient Modular Arithmetic for SIMD Devices
+Extreme Scaling of Lattice Quantum Chromodynamics
+Self-Organizing Mobility Robustness Optimization in LTE Networks with eICIC
+The Implications from Benchmarking Three Big Data Systems
+Performance of SSE and AVX Instruction Sets
+Product-form solutions for integrated services packet networks and cloud computing systems
+Comparative Performance Analysis of Intel Xeon Phi GPU and CPU
+On the optimal tradeoff of average service cost rate average utility rate and average delay for the state dependent M M 1 queue
+Performance Modeling of BitTorrent Peer-to-Peer File Sharing Networks
+Significance Relations for the Benchmarking of Meta-Heuristic Algorithms
+Proactive bottleneck performance analysis in parallel computing using openMP
+When Do Redundant Requests Reduce Latency 
+HS06 Benchmark for an ARM Server
+Distributed Multiscale Computing with MUSCLE 2 the Multiscale Coupling Library and Environment
+Delay Bounds for Networks with Heavy-Tailed and Self-Similar Traffic
+Analysis of Buffer Starvation with Application to Objective QoE Optimization of Streaming Services
+On Benchmarking Embedded Linux Flash File Systems
+A Hardware Time Manager Implementation for the Xenomai Real-Time Kernel of Embedded Linux
+Wireless Network Coding via Modified 802.11 MAC PH: Design and Implementation on SDR
+RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers
+Technical Report: An MGF-based Unified Framework to Determine the Joint Statistics of Partial Sums of Ordered i.n.d. Random Variables
+An Empirical Study of Intel Xeon Phi
+Energy Efficient Spectrum Sensing and Handoff Strategies in Cognitive Radio Networks
+High Throughput Virtual Screening with Data Level Parallelism in Multi-core Processors
+Dominant block guided optimal cache size estimation to maximize IPC of embedded software
+Advanced Antenna Techniques and High Order Sectorization with Novel Network Tessellation for Enhancing Macro Cell Capacity in DC-HSDPA Network
+A Survey of Embedded Software Profiling Methodologies
+Building An Information System for a Distributed Testbed
+On the Effectiveness of Polynomial Realization of Reed-Solomon Codes for Storage Systems
+The Chaos of Propagation in a Retrial Supermarket Model
+Identifying Compiler Options to Minimise Energy Consumption for Embedded Platforms
+Analysis of Optimization Techniques to Improve User Response Time of Web Applications and Their Implementation for MOODLE
+On the Stability of Random Multiple Access with Feedback Exploitation and Queue Priority
+Removing Dynamic Type Tests with Context-Driven Basic Block Versioning
+Self-Optimizing Mechanisms for EMF Reduction in Heterogeneous Networks
+Performance Engineering for a Medical Imaging Application on the Intel Xeon Phi Accelerator
+Power Aware Wireless File Downloading: A Constrained Restless Bandit Approach
+An algorithm for calculating steady state probabilities of M E r c K queueing systems
+MRRR-based Eigensolvers for Multi-core Processors and Supercomputers
+A Brief Review on Models for Performance Evaluation in DSS Architecture
+Performance Impact of Lock-Free Algorithms on Multicore Communication APIs
+BigOP: Generating Comprehensive Big Data Workloads as a Benchmarking Framework
+Comparing the Performance of Different x86 SIMD Instruction Sets for a Medical Imaging Application on Modern Multi- and Manycore Chips
+Scalability of the plasma physics code GEM
+Modelling Load Balancing and Carrier Aggregation in Mobile Networks
+A Measurement-based Analysis of the Energy Consumption of Data Center Servers
+Constructing Performance Models for Dense Linear Algebra Algorithms on Cray XE Systems
+Characterizing Workload of Web Applications on Virtualized Servers
+On Big Data Benchmarking
+Exact Simulation for Assemble-To-Order Systems
+A Study on the Influence of Caching: Sequences of Dense Linear Algebra Kernels
+Exact Analysis of TTL Cache Networks: The Case of Caching Policies driven by Stopping Times
+Exploring performance and power properties of modern multicore chips via simple machine models
+Achieving Optimal Throughput and Near-Optimal Asymptotic Delay Performance in Multi-Channel Wireless Networks with Low Complexity: A Practical Greedy Scheduling Policy
+Throughput Optimal Scheduling Policies in Networks of Interacting Queues
+The abstract Cauchy problem for the non-stationary bulk queue M(t) M k B 1
+Performance Evaluation of Java File Security System (JFSS)
+Failure-aware Lifespan Performance Analysis of Network Fabric in Modular Data Centers: Toward Deployment in Canada's North
+Theoretical Evaluation of Offloading through Wireless LANs
+Bandwidth-Aware Scheduling with SDN in Hadoop: A New Trend for Big Data
+Performance Benefits of DataMPI: A Case Study with BigDataBench
+A Survey on Network Tomography with Network Coding
+Acceleration of a Full-scale Industrial CFD Application with OP2
+The Cost of Address Translation
+Smart Streaming for Online Video Services
+Cache-aware Parallel Programming for Manycore Processors
+An Efficient Thread Mapping Strategy for Multiprogramming on Manycore Processors
+A model-driven approach to broaden the detection of software performance antipatterns at runtime
+Analysis of Petri Net Models through Stochastic Differential Equations
+Enhanced Cluster Computing Performance Through Proportional Fairness
+On Time-Sensitive Revenue Management and Energy Scheduling in Green Data Centers
+SleepScale: Runtime Joint Speed Scaling and Sleep States Management for Power Efficient Data Centers
+Degradation Analysis of Probabilistic Parallel Choice Systems
+When Queueing Meets Coding: Optimal-Latency Data Retrieving Scheme in Storage Clouds
+Separation of timescales in a two-layered network
+Characterizing the Impact of the Workload on the Value of Dynamic Resizing in Data Centers
+Distribution of the Number of Retransmissions of Bounded Documents
+On the importance of nonlinear modeling in computer performance prediction
+Movers and Shakers: Kinetic Energy Harvesting for the Internet of Things
+Effect of Spatial Interference Correlation on the Performance of Maximum Ratio Combining
+Markovian multiserver queues with staggered setup for data centers
+Asymptotic and Numerical Analysis of Multiserver Retrial Queue with Guard Channel for Cellular Networks
+Performance Provisioning and Energy Efficiency in Cloud and Distributed Computing Systems
+Signalling Storms in G Mobile Networks
+Automatic Detection of Performance Anomalies in Task-Parallel Programs
+Mean-Field approximation and Quasi-Equilibrium reduction of Markov Population Models
+A unified approach to the performance analysis of caching systems
+Parallelism Via Concurrency at Multiple Levels
+Block-Structured Supermarket Models
+Approximate analysis of biological systems by hybrid switching jump diffusion
+Proceedings Twelfth International Workshop on Quantitative Aspects of Programming Languages and Systems
+Extended Differential Aggregations in Process Algebra for Performance and Biology
+Patch-based Hybrid Modelling of Spatially Distributed Systems by Using Stochastic HPE - ebraNet as an Example
+Formal and Informal Methods for Multi-Core Design Space Exploration
+Exact Solutions for M M c Setup Queues
+A hybrid neuro--wavelet predictor for QoS control and stability
+Near-Optimal Virtual Machine Packing Based on Resource Requirement of Service Demands Using Pattern Clustering
+Queuing with future information
+Dealing with ero Density Using Piecewise Phase-type Approximation
+Exploring Task Mappings on Heterogeneous MPSoCs using a Bias-Elitist Genetic Algorithm
+COFFEE: an Optimizing Compiler for Finite Element Local Assembly
+Analysis and Approximation of Dual Tandem Queues with Finite Buffer Capacity
+Optimizing Performance of Continuous-Time Stochastic Systems using Timeout Synthesis
+Synthetic Generation of Solar States for Smart Grid: A Multiple Segment Markov Chain Apptoach
+Program Synthesis and Linear Operator Semantics
+Parallelism-Aware Memory Interference Delay Analysis for COTS Multicore Systems
+Quantifying the Effect of Matrix Structure on Multithreaded Performance of the SpMV Kernel
+Substitute Valuations: Generation and Structure
+Effects of Diversity and Procrastination in Priority Queuing Theory: the Different Power Law Regimes
+Low Latency Datacenter Networking: A Short Survey
+An Alternating Direction Method Approach to Cloud Traffic Management
+A Two-Queue Polling Model with Two Priority Levels in the First Queue
+Mixed Gated Exhaustive Service in a Polling Model with Priorities
+A Polling Model with Reneging at Polling Instants
+Closed-Form Waiting Time Approximations for Polling Systems
+Applications of polling systems
+On open problems in polling systems
+Waiting times in queueing networks with a single shared server
+A Polling Model with Multiple Priority Levels
+High Level Programming for Heterogeneous Architectures
+A Domain Specific Approach to Heterogeneous Computing: From Availability to Accessibility
+Accelerating unstructured finite volume computations on field-programmable gate arrays
+Performance Analysis of Linear-Equality-Constrained Least-Squares Estimation
+EPOBF: Energy Efficient Allocation of Virtual Machines in High Performance Computing Cloud
+Analysis and Optimization of Random Sensing Order in Cognitive Radio Networks
+Catalog Dynamics: Impact of Content Publishing and Perishing on the Performance of a LRU Cache
+Delays at signalised intersections with exhaustive traffic control
+Queueing networks with a single shared server: light and heavy traffic
+Proceedings of the 1st OMNeT Community Summit Hamburg Germany September 2 2014
+Performance Portability Study of Linear Algebra Kernels in OpenCL
+Characterizing and Subsetting Big Data Workloads
+Primary User Traffic Classification in Dynamic Spectrum Access Networks
+Quality of Service Improvement for High-Speed Railway Communications
+Heavy Traffic Limits for GI H n Queues: Theory and Application
+DW C:Dollops Wise Curtail IPv4 IPv6 Transition Mechanism using NS2
+Store-Forward and its implications for Proportional Scheduling
+Rank-Aware Dynamic Migrations and Adaptive Demotions for DRAM Power Management
+Instability of Sharing Systems in the Presence of Retransmissions
+Intel Cilk Plus for Complex Parallel Algorithms: Enormous Fast Fourier Transform (EFFT) Library
+A Queueing Network Approach to the Analysis and Control of Mobility-On-Demand Systems
+Tolls and Welfare Optimization for Multiclass Traffic in Multiqueue Systems
+Optimizing the Performance of Streaming Numerical Kernels on the IBM Blue Gene P PowerPC 40 Processor
+Real-Time Welfare-Maximizing Regulation Allocation in Dynamic Aggregator-EVs System
+Staying Alive: System Design for Self-Sufficient Sensor Networks
+Joint Channel Assignment and Opportunistic Routing for Maximizing Throughput in Cognitive Radio Networks
+A Parallel Task-based Approach to Linear Algebra
+Cache-aware Performance Modeling and Prediction for Dense Linear Algebra
+On the Performance Prediction of BLAS-based Tensor Contractions
+Multi-step Uniformization with Steady-State Detection in Nonstationary M M s Queuing Systems
+Introducing SLAMBench a performance and accuracy benchmarking methodology for SLAM
+Efficient State-based CRDTs by Delta-Mutation
+Efficient HTTP based I O on very large datasets for high performance computing with the libdavix library
+On Bootstrapping Machine Learning Performance Predictors via Analytical Models
+Performance Engineering of the Kernel Polynomial Method on Large-Scale CPU-GPU Systems
+Towards energy efficiency and maximum computational intensity for stencil algorithms using wavefront diamond temporal blocking
+QoE Modelling Measurement and Prediction: A Review
+Energy-Aware Lease Scheduling in Virtualized Data Centers
+Performance analysis of a 240 thread tournament level MCTS Go program on the Intel Xeon Phi
+Estimating the Spatial Reuse with Configuration Models
+Cloud Benchmarking for Performance
+Branch-Avoiding Graph Algorithms
+Dimensioning of PA for massive MIMO system with load adaptive number of antennas
+Investigation of the relationship between code change set n-grams and change in energy consumption
+Optimization of Discrete-parameter Multiprocessor Systems using a Novel Ergodic Interpolation Technique
+Buffer occupancy asymptotics in rate proportional sharing networks with heterogeneous long-tailed inputs
+Performance Analysis for Energy Harvesting Communication Protocols with Fixed Rate Transmission
+The Implementation of a Real-Time Polyphase Filter
+Stochastic HPE: Flow-based modelling of stochastic hybrid systems
+On The Modeling of OpenFlow-based SDNs: The Single Node Case
+Least Recently Used caches under the Shot Noise Model
+Resource Allocation Frameworks for Network-coded Layered Multimedia Multicast Services
+Energy-Efficient Strategies for Cooperative Multi-Channel MAC Protocols
+Analyzing DISH for Multi-Channel MAC Protocols in Wireless Networks
+A Metric for DISH Networks: Analysis Implications and Applications
+Efficient analysis of caching strategies under dynamic content popularity
+Perfect Simulation of M G c Queues
+Pipelined Iterative Solvers with Kernel Fusion for Graphics Processing Units
+A Flexible Framework for Accurate Simulation of Cloud In-Memory Data Stores
+Fair Collaborative In-Network Caching Game and Its Cost Analysis on General Network Topologies
+Optimizing Large-Scale ODE Simulations
+On Transitory Queueing
+Proceedings of the th International Workshop on Adaptive Self-tuning Computing Systems 201 (ADAPT'1)
+Fast Product-Matrix Regenerating Codes
+Dynamic Channel Allocation for Class-Based QoS Provisioning and Call Admission in Visible Light Communication
+Class-Based Service Connectivity using Multi-Level Bandwidth Adaptation in Multimedia Wireless Networks
+Modelling common cause failures of large digital I C systems with coloured Petri nets
+Easy-to-Use On-the-Fly Binary Program Acceleration on Many-Cores
+Graph-Based Minimum Dwell Time and Average Dwell Time Computations for Discrete-Time Switched Linear Systems
+Renewable Energy-Aware Information-Centric Networking
+Performance comparison between Java and JNI for optimal implementation of computational micro-kernels
+Accelerating Correlation Power Analysis Using Graphics Processing Units
+To Use or Not to Use: Graphics Processing Units for Pattern Matching Algorithms
+A Structured Hardware Software Architecture for Peptide Based Diagnosis - Sub-string Matching Problem with Limited Tolerance (ICIAfS14)
+Efficient Spherical Harmonic Transforms aimed at pseudo-spectral numerical simulations
+Control of parallel non-observable queues: asymptotic equivalence and optimality of periodic policies
+Quantifying performance bottlenecks of stencil computations using the Execution-Cache-Memory model
+A Case Study: Task Scheduling Methodologies for High Speed Computing Systems
+Beam-searching and Transmission Scheduling in Millimeter Wave Communications
+Binary Systematic Network Coding for Progressive Packet Decoding
+Sleep Period Optimization Model For Layered Video Service Delivery Over eMBMS Networks
+Optimized Network-coded Scalable Video Multicasting over eMBMS Networks
+Solving the Klein-Gordon equation using Fourier spectral methods: A benchmark test for computer performance
+Global finite element matrix construction based on a CPU-GPU implementation
+A Roofline Visualization Framework
+Analysis of Load Balancing in Large Heterogeneous Processor Sharing Systems
+Network calculus for parallel processing
+Architecture implementation and parallelization of the software to search for periodic gravitational wave signals
+On Optimization of Network-coded Scalable Multimedia Service Multicasting
+Online Electric Vehicle Charging Control with Multistage Stochastic Programming
+Effective RAT Selection Approach for G Dense Wireless Networks
+Patterns and Rewrite Rules for Systematic Code Generation (From High-Level Functional Patterns to High-Performance OpenCL Code)
+OMP2MPI: Automatic MPI code generation from OpenMP programs
+Dynamic Bandwidth-Efficient BCube Topologies for Virtualized Data Center Networks
+Numerical simulation of skin transport using Parareal
+Randomized Assignment of Jobs to Servers in Heterogeneous Clusters of Shared Servers for Low Delay

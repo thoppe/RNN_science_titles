@@ -1,0 +1,804 @@
+Double Sided Watermark Embedding and Detection with Perceptual Analysis
+Stochastic Model Checking for Multimedia
+Data sonification and sound visualization
+A Benchmark for Image Retrieval using Distributed Systems over the Internet: BIRDS-I
+Open Access beyond cable: The case of Interactive TV
+Media Objects in Time - A Multimedia Streaming System
+Reconciling MPEG- and MPEG-21 Semantics through a Common Event-Aware Metadata Model
+Global Platform for Rich Media Conferencing and Collaboration
+A Flexible Pragmatics-driven Language Generator for Animated Agents
+Analysis and Visualization of Index Words from Audio Transcripts of Instructional Videos
+From Digital Television to Internet
+RRL: A Rich Representation Language for the Description of Agent Behaviour in NECA
+Self-Organizing the Abstract: Canvas as a Swarm Habitat for Collective Memory Perception and Cooperative Distributed Creativity
+On the Implicit and on the Artificial - Morphogenesis and Emergent Aesthetics in Autonomous Collective Systems
+The MC2 Project Machines of Collective Conscience : A possible walk up to Life-like Complexity and Behaviour from bottom basic and simple bio-inspired heuristics - a walk up into the morphogenesis of information
+Fedora: An Architecture for Complex Objects and their Relationships
+On the security of the Yen-Guos domino signal encryption algorithm (DSEA)
+On the Design of Perceptual MPEG-Video Encryption Algorithms
+Augmented Segmentation and Visualization for Presentation Videos
+A hybrid MLP-PNN architecture for fast image superresolution
+Semi-automatic vectorization of linear networks on rasterized cartographic maps
+Wikis in Tuple Spaces
+A Distributed Multimedia Communication System and its Applications to E-Learning
+Data Visualization on Shared Usage Multi-Screen Environment
+Alternative security architecture for IP Telephony based on digital watermarking
+Can Small Museums Develop Compelling Educational and Accessible Web Resources The Case of Accademia Carrara
+Security Problems with Improper Implementations of Improved FEA-M
+New security and control protocol for VoIP based on steganography and digital watermarking
+A constructive and unifying framework for zero-bit watermarking
+Fault-Tolerant Real-Time Streaming with FEC thanks to Capillary Multi-Path Routing
+Security Analysis of A Chaos-based Image Encryption Algorithm
+A Fast Block Matching Algorithm for Video Motion Estimation Based on Particle Swarm Optimization and Motion Prejudgment
+A Fast Image Encryption Scheme based on Chaotic Standard Map
+P2P IPTV Measurement: A Comparison Study
+Lightweight security mechanism for PSTN-VoIP cooperation
+Accommodating Sample Size Effect on Similarity Measures in Speaker Clustering
+Alignment of Speech to Highly Imperfect Text Transcriptions
+Multimodal Meaning Representation for Generic Dialogue Systems Architectures
+Document Archiving Replication and Migration Container for Mobile Web Users
+Adaptive Multicast of Multi-Layered Video: Rate-Based and Credit-Based Approaches
+Image compression and entanglement
+Watermark Embedding and Detection
+On the Performance of Joint Fingerprint Embedding and Decryption Scheme
+Characterization of P2P IPTV Traffic: Scaling Analysis
+Robust Audio Watermarking Against the D A and A D conversions
+Understanding the Characteristics of Internet Short Video Sharing: YouTube as a Case Study
+Authentication with Distortion Criteria
+Image Authentication Based on Neural Networks
+Secure Fractal Image Coding
+On the Robustness of the Delay-Based Fingerprint Embedding Scheme
+An Application of Chromatic Prototypes
+On the Capacity and Design of Limited Feedback Multiuser MIMO Uplinks
+Some Aspects of Testing Process for Transport Streams in Digital Video Broadcasting
+Implementing a Test Strategy for an Advanced Video Acquisition and Processing Architecture
+Acquisition Accuracy Evaluation in Visual Inspection Systems - a Practical Approach
+Multi-dimensional sparse time series: feature extraction
+SecMon: End-to-End Quality and Security Monitoring System
+On the Superdistribution of Digital Goods
+Scalar Quantization for Audio Data Coding
+Avatar Mobility in Networked Virtual Environments: Measurements Analysis and Implications
+An Analysis of the Skype Peer-to-Peer Internet Telephony Protocol
+Multimedia Capacity Analysis of the IEEE 0211e Contention-based Infrastructure Basic Service Set
+Steganography of VoIP Streams
+A Reliable SVD based Watermarking Schem
+Computer Art in the Former Soviet Bloc
+A First Step to Convolutive Sparse Representation
+An Export Architecture for a Multimedia Authoring Environment
+Initial Offset Placement in p2p Live Streaming Systems
+Optimization of automatically generated multi-core code for the LTE RACH-PD algorithm
+Characterization and collection of information from heterogeneous multimedia sources with users parameters for decision support
+Approximate Sparse Decomposition Based on Smoothed L0-Norm
+LACK - a VoIP Steganographic Method
+Characterizing Video Responses in Social Networks
+Wide spread spectrum watermarking with side information and interference cancellation
+Fast and Quality-Guaranteed Data Streaming in Resource-Constrained Sensor Networks
+The Good the Bad and the Ugly: three different approaches to break their watermarking system
+Informed stego-systems in active warden context: statistical undetectability and capacity
+Trellis-coded quantization for public-key steganography
+Information-theoretic resolution of perceptual WSS watermarking of non iid Gaussian signals
+A new Contrast Based Image Fusion using Wavelet Packets
+Decomposition Principles and Online Learning in Cross-Layer Optimization for Delay-Sensitive Applications
+A New Trend in Optimization on Multi Overcomplete Dictionary toward Inpainting
+Probabilistic SVM GMM Classifier for Speaker-Independent Vowel Recognition in Continues Speech
+Kalinahia: Considering Quality of Service to Design and Execute Distributed Multimedia Applications
+The Korrontea Data Modeling
+Heterogeneous component interactions: Sensors integration into multimedia applications
+Exact Histogram Specification Optimized for Structural Similarity
+Condition for Energy Efficient Watermarking with Random Vector Model without WSS Assumption
+Un filtre temporel cr edibiliste pour la reconnaissance dactions humaines dans les vid eos
+A Standalone Markerless 3D Tracker for Handheld Augmented Reality
+ImageSpace: An Environment for Image Ontology Management
+OntoELAN: An Ontology-based Linguistic Multimedia Annotator
+Ontology-Based Annotation of Multimedia Language Data for the Semantic Web
+A Systematic Framework for Dynamically Optimizing Multi-User Wireless Video Transmission
+A Novel Approach for Compression of Images Captured using Bayer Color Filter Arrays
+Efficiently Learning a Detection Cascade with Sparse Eigenvectors
+Gradient-based adaptive interpolation in super-resolution image restoration
+Overlay Structure for Large Scale Content Sharing: Leveraging Geography as the Basis for Routing Locality
+Virtual Reality
+CliqueStream: an efficient and fault-resilient live streaming network on a clustered peer-to-peer overlay
+A Distributed Software Architecture for Collaborative Teleoperation based on a VR Platform and Web Application Interoperability
+The Multimedia Product - between Design and Information Design and Utility and Design and Entertainment
+The new multimedia educational technologies used in open and distance learning
+Structural Solutions for Cross-Layer Optimization of Wireless Multimedia Transmission
+Development and Optimization of a Multimedia Product
+Generalized Kernel-based Visual Tracking
+CoPhIR: a Test Collection for Content-Based Image Retrieval
+Quality assessment of the MPEG- scalable video CODEC
+Web Publishing of the Files Obtained by Flash
+Robust Watermarking in Multiresolution Walsh-Hadamard Transform
+A Bandwidth Characterization Tool For MPEG-2 File
+A New Approach to Manage QoS in Distributed Multimedia Systems
+TTSS Packet Classification Algorithm to enhance Multimedia Applications in Network Processor based Router
+The Modular Audio Recognition Framework (MARF) and its Applications: Scientific and Software Engineering Notes
+Interworking Scheme Using Optimized SIP Mobility for MultiHomed Mobile Nodes in Wireless Heterogeneous Networks
+Component based platform for multimedia applications
+Optimization of Bit Plane Combination for Efficient Digital Image Watermarking
+Retrieval of Remote Sensing Images Using Colour and Texture Attribute
+Over-enhancement Reduction in Local Histogram Equalization using its Degrees of Freedom
+Dynamic Multimedia Content Retrieval System in Distributed Environment
+Enhanced Mode Selection Algorithm for H2 encoder for Application in Low Computational power devices
+Efficient Quality-Based Playout Buffer Algorithm
+Robustness of the Digital Image Watermarking Techniques against Brightness and Rotation Attack
+Analysis Design and Simulation of a New System for Internet Multimedia Transmission Guarantee
+On Metric Skyline Processing by PM-tree
+Prefetching of VoD Programs Based On ART1 Requesting Clustering
+Prefix based Chaining Scheme for Streaming Popular Videos using Proxy servers in VoD
+Media-TCP: A Quality-Centric TCP-Friendly Congestion Control for Multimedia Transmission
+Very fast watermarking by reversible contrast mapping
+Covert Channels in SIP for VoIP signalling
+A Wavelet-Based Digital Watermarking for Video
+An Innovative Scheme For Effectual Fingerprint Data Compression Using Bezier Curve Representations
+G3 : GENESIS software envrionment update
+A Hybrid Quantum Encoding Algorithm of Vector Quantization for Image Compression
+Cryptanalysis of an Image Encryption Scheme Based on a Compound Chaotic Sequence
+Performance analysis of Non Linear Filtering Algorithms for underwater images
+A Reliable Replication Strategy for VoD System using Markov Chain
+Genetic Programming Framework for Fingerprint Matching
+Breaking a modified substitution-diffusion image cipher based on chaotic standard and logistic maps
+Speech Recognition Oriented Vowel Classification Using Temporal Radial Basis Functions
+How Do Interactive Virtual Operas Shift Relationships between Music Text and Image
+Music-ripping: des pratiques qui provoquent la musicologie
+On Design and Implementation of the Distributed Modular Audio Recognition Framework: Requirements and Specification Design Document
+Tutoring System for Dance Learning
+Semantic Modeling and Retrieval of Dance Video Annotations
+Modeling and Annotating the Expressive Semantics of Dance Videos
+Discovering Knowledge from Multi-modal Lecture Recordings
+Distributed Rate Allocation Policies for Multi-Homed Video Streaming over Heterogeneous Access Networks
+Designing a Truly Integrated (Onsite and Online) Conference: Concept Processes Solutions
+A New Image Steganography Based On First Component Alteration Technique
+Evaluating Effectiveness of Tamper Proofing on Dynamic Graph Software Watermarks
+Comparative Evaluation and Analysis of IA and RSW
+Multicast Transmission Prefix and Popularity Aware Interval Caching Based Admission Control Policy
+Cooperative Proxy Servers Architecture for VoD to Achieve High QoS with Reduced Transmission Time and Cost
+An Adaptive Dynamic Replacement Approach for a Multicast based Popularity Aware Prefix Cache Memory System
+Fundamental delay bounds in peer-to-peer chunk-based real-time streaming systems
+Avoiding Interruptions - QoE Trade-offs in Block-coded Streaming Media Applications
+A Strategy to enable Prefix of Multicast VoD through dynamic buffer allocation
+Shape-Adaptive Motion Estimation Algorithm for MPEG- Video Coding
+Stochastic Model Based Proxy Servers Architecture for VoD to Achieve Reduced Client Waiting Time
+Image Retrieval Techniques based on Image Features A State of Art approach for CBIR
+The Fast Haar Wavelet Transform for Signal Image Processing
+Vision Based Game Development Using Human Computer Interaction
+Using Statistical Moment Invariants and Entropy in Image Retrieval
+Dual Watermarking Scheme with Encryption
+New System for Secure Cover File of Hidden Data in the Image Page within Executable File Using Statistical Steganography Techniques
+Iterative exact global histogram specification and SSIM gradient ascent: a proof of convergence step size and parameter selection
+What are suspicious VoIP delays
+Effect of Embedding Watermark on Compression of the Digital Images
+Optimization Digital Image Watermarking Technique for Patent Protection
+Structure-Aware Stochastic Control for Transmission Scheduling
+An Algorithm for Index Multimedia Data (Video) using the Movement Oriented Method for Real-time Online Services
+Towards Automated Lecture Capture Navigation and Delivery System for Web-Lecture on Demand
+An Optimal Prefix Replication Strategy for VoD Services
+Voice Recognition Algorithms using Mel Frequency Cepstral Coefficient (MFCC) and Dynamic Time Warping (DTW) Techniques
+New Classification Methods for Hiding Information into Two Parts: Multimedia Files and Non Multimedia Files
+Overview: Main Fundamentals for Steganography
+Context-Oriented Web Video Tag Recommendation
+A stochastic model of human visual attention with a dynamic Bayesian network
+Psychophysiological Correlations with Gameplay Experience Dimensions
+Affective Ludology Flow and Immersion in a First- Person Shooter: Measurement of Player Experience
+From Playability to a Hierarchical Game Usability Model
+Trends and Techniques in Visual Gaze Analysis
+Gameplay experience in a gaze interaction game
+Feature-Based Adaptive Tolerance Tree (FATT): An Efficient Indexing Technique for Content-Based Image Retrieval Using Wavelet Transform
+A reversible high embedding capacity data hiding technique for hiding secret data in images
+Design And Implementation Of Multilevel Access Control In Medical Image Transmission Using Symmetric Polynomial Based Audio Steganography
+Processor Based Active Queue Management for providing QoS in Multimedia Application
+Review of Robust Video Watermarking Algorithms
+SAR Image Segmentation using Vector Quantization Technique on Entropy Images
+Reversible Image data Hiding using Lifting wavelet Transform and Histogram Shifting
+C Implementation comparison of companding silence audio compression techniques
+Access-Network Association Policies for Media Streaming in Heterogeneous Environments
+Policies and Economics of Digital Multimedia Transmission
+Error Concealment in Image Communication Using Edge Map Watermarking and Spatial Smoothing
+Combination of Subtractive Clustering and Radial Basis Function in Speaker Identification
+Visual Infrared Video Fusion for Night Vision using Background Estimation
+Audio enabled information extraction system for cricket and hockey domains
+Influence of distortions of key frames on video transfer in wireless networks
+Proviola: A Tool for Proof Re-animation
+A Study on Potential of Integrating Multimodal Interaction into Musical Conducting Education
+Content Base Image Retrieval Using Phong Shading
+A basic gesture and motion format for virtual reality multisensory applications
+Cryptanalysis of an image encryption scheme based on a new total shuffling algorithm
+Cryptanalysis of an MPEG-Video Encryption Scheme Based on Secret Huffman Tables
+Cryptanalysis of an Encryption Scheme Based on Blind Source Separation
+Image Compression and Watermarking scheme using Scalar Quantization
+Integrating identity-based cryptography in IMS service authentication
+Architecture for Cooperative Prefetching in P2P Video-on- Demand System
+Client-to-Client Streaming Scheme for VOD Applications
+An Automated Algorithm for Approximation of Temporal Video Data Using Linear BEIER Fitting
+A novel technique for image steganography based on Block-DCT and Huffman Encoding
+Perceptual Copyright Protection Using Multiresolution Wavelet-Based Watermarking And Fuzzy Logic
+Fully automatic extraction of salient objects from videos in near real-time
+Web Video Categorization based on Wikipedia Categories and Content-Duplicated Open Resources
+Optimized Image Steganalysis through Feature Selection using MBEGA
+Structural Solutions to Dynamic Scheduling for Multimedia Transmission in Unknown Wireless Environments
+M-Learning: A New Paradigm of Learning Mathematics in Malaysia
+A Block Based Scheme for Enhancing Low Luminated Images
+Network evolution and QOS provisioning for integrated femtocell macrocell networks
+Handover Control for WCDMA Femtocell Networks
+Improved Iterative Techniques to Compensate for Interpolation Distortions
+A Gossip-based optimistic replication for efficient delay-sensitive streaming using an interactive middleware support system
+Morphological dilation image coding with context weights prediction
+Profile Based Sub-Image Search in Image Databases
+Transmitting Video-on-Demand Effectively
+Alternatives to speech in low bit rate communication systems
+Colour Guided Colour Image Steganography
+Compensating Interpolation Distortion by New Optimized Modular Method
+Web Conferencing Traffic - An Analysis using DimDim as Example
+Image Inpainting Using Sparsity of the Transform Domain
+An Effective Method of Image Retrieval using Image Mining Techniques
+Image Deblurring and Super-resolution by Adaptive Sparse Domain Selection and Adaptive Regularization
+Evaluating Modelling Approaches for Medical Image Annotations
+A Survey on Cross-Layer Design Frameworks for Multimedia Applications over Wireless Networks
+Digital watermarking : An approach based on Hilbert transform
+Texture feature extraction in the spatial-frequency domain for content-based image retrieval
+Image Sterilization to Prevent LSB-based Steganographic Transmission
+Digital watermarking in the singular vector domain
+Packet Scheduling in Switches with Target Outflow Profiles
+Alchymical Mirror: Real-time Interactive Sound- and Simple Motion-Tracking Set of Jitter Max MSP Patches
+Selection of network coding nodes for minimal playback delay in streaming overlays
+A Color Image Digital Watermarking Scheme Based on SOFM
+Using Planetlab to Implement Multicast at the Application Level
+On Steganography in Lost Audio Packets
+Peer-to-Peer Multimedia Sharing based on Social Norms
+On the Capacity of p2p Multipoint Video Conference
+Ontology based approach for video transmission over the network
+Multimedia Database Applications: Issues and Concerns for Classroom Teaching
+Interdisciplinary Collaboration through Designing 3D Simulation Case Studies
+An Algorithm for Repairing Low-Quality Video Enhancement Techniques Based on Trained Filter
+Hiding Secret Information in Movie Clip: A Steganographic Approach
+Priority based Interface Selection for Overlaying Heterogeneous Networks
+Stage Staffing Scheme for Copyright Protection in Multimedia
+Distributed Video Coding: Codec Architecture and Implementation
+2D Sparse Signal Recovery via 2D Orthogonal Matching Pursuit
+SLDs for Visualizing Multicolor Elevation Contour Lines in Geo-Spatial Web Applications
+Liquidsoap: a High-Level Programming Language for Multimedia Streaming
+Duplication of Key Frames of Video Streams in Wireless Networks
+Content-Based Spam Filtering on Video Sharing Social Networks
+A proposed Optimized Spline Interpolation
+Optimized Spline Interpolation
+Survey of Cognitive Radio Techniques in Wireless Network
+Robust Sign Language Recognition System Using ToF Depth Cameras
+Using Logistic Regression to Analyze the Balance of a Game: The Case of StarCraft II
+Streaming Multimedia Information Using the Features of the DVB-S Card
+Analytical Classification of Multimedia Index Structures by Using a Partitioning Method-Based Framework
+Learning content similarity for music recommendation
+Improving Performance of Speaker Identification System Using Complementary Information Fusion
+View subspaces for indexing and retrieval of 3D models
+Salient Local 3D Features for 3D Shape Retrieval
+Service Level Agreement for the QoS Guaranteed Mobile IPTV Services over Mobile WiMA Networks
+High Quality of Service on Video Streaming in P2P Networks using FST-MDC
+Scale-Invariant Local Descriptor for Event Recognition in 1D Sensor Signals
+Towards Hardware implementation of video applications in new telecommunications devices
+A Frequency-domain Compensation Scheme for IQ-Imbalance in OFDM Receivers
+Simulating the Electroweak Phase Transition: Sonification of Bubble Nucleation
+On Macroscopic Complexity and Perceptual Coding
+SIP APIs for Voice and Video Communications on the Web
+Flash-based Audio and Video Communication in the Cloud
+Study of a Hybrid - Analog TV and Ethernet- Home Data Link using a Coaxial Cable
+Aspects of Entertainment Distribution in an Intelligent Home Environment
+Label-Specific Training Set Construction from Web Resource for Image Annotation
+Lost Audio Packets Steganography: The First Practical Evaluation
+MediaWiki Grammar Recovery
+Mobile Cloud Computing: A Comparison of Application Models
+An end-to-end machine learning system for harmonic analysis of music
+Efficient Image Transmission Through Analog Error Correction
+An Efficient Real Time Method of Fingertip Detection
+Compression and Quantitative Analysis of Buffer Map Message in P2P Streaming System
+Buffer Map Message Compression Based on Relevant Window in P2P Streaming Media System
+Evaluation of Huffman and Arithmetic Algorithms for Multimedia Compression Standards
+Transmission of Successful Route Error Message(RERR) in Routing Aware Multiple Description Video Coding over Mobile Ad-Hoc Network
+SAGA: A DSL for Story Management
+A Survey on Web Multimedia Mining
+Optimization and Evaluation of a Multimedia Streaming Service on Hybrid Telco cloud
+Secured color image watermarking technique in DWT-DCT domain
+Low-rank data modeling via the Minimum Description Length principle
+A quick search method for audio signals based on a piecewise linear representation of feature trajectories
+Compositional Memory Systems for Multimedia Communicating Tasks
+Integration Verification and Layout of a Complex Multimedia SOC
+A High Quality Low Computational Cost Technique for Block Matching Motion Estimation
+Multimedia Applications of Multiprocessor Systems-on-Chips
+A Coprocessor for Accelerating Visual Information Processing
+An Integrated Design and Verification Methodology for Reconfigurable Multimedia Systems
+Storage Balancing in Self-organizing Multimedia Delivery Systems
+Network Characteristics of Video Streaming Traffic
+Using Transcoding for Hidden Communication in IP Telephony
+The UWB Solution for Multimedia Traffic in Wireless Sensor Networks
+A Survey on Web-based AR Applications
+Fingerprinting with Equiangular Tight Frames
+Enhancement of Image Resolution by Binarization
+A Frame Rate Optimization Framework For Improving Continuity In Video Streaming
+Distributed Representation of Geometrically Correlated Images with Compressed Linear Measurements
+A Scalable Video Search Engine Based on Audio Content Indexing and Topic Segmentation
+A New Digital Watermarking Algorithm Using Combination of Least Significant Bit (LSB) and Inverse Bit
+Peer-to-Peer Live Streaming and Video On Demand Design Issues and its Challenges
+Sparse Transfer Learning for Interactive Video Search Reranking
+Bits from Photons: Oversampled Image Acquisition Using Binary Poisson Statistics
+Channel Reordering with Time-shifted Streams to Improve Channel Change Latency in IPTV Networks
+Automatic Classification of -rated Videos using Obscene Sound Analysis based on a Repeated Curve-like Spectrum Feature
+Recent Trends and Research Issues in Video Association Mining
+Statistical Information of the Increased Demand for Watch the VOD with the Increased Sophistication in the Mobile Devices Communications and Internet Penetration in Asia
+Modelling Gesture Based Ubiquitous Applications
+Lossless Digital Image Compression Method for Bitmap Images
+Steganography Algorithm to Hide Secret Message inside an Image
+Chaotic iterations for steganography: Stego-security and topological-security
+Chaotic iterations versus Spread-spectrum: topological-security and stego-security
+Online Learning for Classification of Low-rank Representation Features and Its Applications in Audio Segment Classification
+Critical Data Compression
+Multimedia Content Distribution in Hybrid Wireless Networks using Weighted Clustering
+Interactive multiview video system with non-complex navigation at the decoder
+Stereo image Transference Retrieval over SMS
+Identifying and Analysis of Scene Mining Methods Beased on Scenes Extracted Features
+Throughput Scaling Of Convolution For Error-Tolerant Multimedia Applications
+A New Color Feature Extraction Method Based on Dynamic Color Distribution Entropy of Neighborhoods
+An Authoring System for Editing Lessons in Phonetic English in SMIL30
+Influence of Speech Codecs Selection on Transcoding Steganography
+FEBER: Feedback Based Erasure Recovery for Real-Time Multicast over 0211 Networks
+Estimation of the Embedding Capacity in Pixel-pair based Watermarking Schemes
+Personalised product design using virtual interactive techniques
+An evaluation of local shape descriptors for 3D shape retrieval
+A Frequency Domain Steganography using  Transform (FDST)
+Real-time detection and tracking of multiple objects with partial decoding in H2 AVC bitstream domain
+Analysis and implementation of the Large Scale Video-on-Demand System
+Reliable Multicasting for Device-to-Device Radio Underlaying Cellular Networks
+Lyapunov exponent evaluation of a digital watermarking scheme proven to be secure
+Enhancement Techniques for Local Content Preservation and Contrast Improvement in Images
+A Hybrid Image Cryptosystem Based On OMFLIP Permutation Cipher
+Blind 3D Model Watermarking Based on Multi-Resolution Representation and Fuzzy Logic
+QoE-aware Media Streaming in Technology and Cost Heterogeneous Networks
+Experimenting with the Novel Approaches in Text Steganography
+Quantitative Multiscale Analysis using Different Wavelets in 1D Voice Signal and 2D Image
+Compressed Sensing for Moving Imagery in Medical Imaging
+On-the-fly erasure coding for real-time video applications
+Characterization and exploitation of community structure in cover song networks
+I-SolFramework: An Integrated Solution Framework Six Layers Assessment on Multimedia Information Security Architecture Policy Compliance
+Query Language for Complex Similarity Queries
+Online multipath convolutional coding for real-time transmission
+User-based key frame detection in social web video
+An Overview of Video Allocation Algorithms for Flash-based SSD Storage Systems
+Genetic Algorithm to Make Persistent Security and Quality of Image in Steganography from RS Analysis
+Compensating Interpolation Distortion by Using New Optimized Modular Method
+Efficient Video Indexing on the Web: A System that Leverages User Interactions with a Video Player
+Image Enhancement with Statistical Estimation
+Content based video retrieval systems
+Text Steganography using LSB insertion method along with Chaos Theory
+An Adaptive Watermarking Technique for the copyright of digital images and Digital Image Protection
+Transference Retrieval of Pulse-code modulation Audio over Short Messaging Service
+ISWAR: An Imaging System with Watermarking and Attack Resilience
+A Novel Video Compression Approach Based on Underdetermined Blind Source Separation
+Rateless Codes with Progressive Recovery for Layered Multimedia Delivery
+Perceptual quality comparison between single-layer and scalable videos at the same spatial temporal and amplitude resolutions
+MediaWise - Designing a Smart Media Cloud
+Q-STAR:A Perceptual Video Quality Model Considering Impact of Spatial Temporal and Amplitude Resolutions
+Architecture for Automated Tagging and Clustering of Song Files According to Mood
+Generic Subsequence Matching Framework: Modularity Flexibility Efficiency
+Rate Model for Compressed Video Considering Impacts Of Spatial Temporal and Amplitude Resolutions and Its Applications for Video Coding and Adaptation
+A Novel Effective Secure and Robust CDMA Digital Image Watermarking in YUV Color Space Using DWT2
+Joint Reconstruction of Multi-view Compressed Images
+Improved DWT Based Watermarking Using JPEG-YCbCr
+Effective Digital Image Watermarking in YCbCr Color Space Accompanied by Presenting a Novel Technique Using DWT
+A Comparison between Digital Image Watermarking in Tow Different Color Spaces Using DWT2
+Bayesian Watermark Attacks
+Measuring the evolution of contemporary western popular music
+Improvement of ISOM by using filter
+Erasure Coding and Congestion Control for Interactive Real-Time Communication
+Usability Design and Content Issues of Mobile Apps for Cultural Heritage Promotion: The Malta Culture Guide Experience
+Haar Wavelet Based Approach for Image Compression and Quality Assessment of Compressed Image
+Quasi-Optimal Network Utility Maximization for Scalable Video Streaming
+Content-Aware Rate Control for Video Transmission with Buffer Constraints in Multipath Networks
+A new hybrid jpeg image compression scheme using symbol reduction technique
+Streaming Codes for Channels with Burst and Isolated Erasures
+A Session based Multiple Image Hiding Technique using DWT and DCT
+Stereo Acoustic Perception based on Real Time Video Acquisition for Navigational Assistance
+Social Event Detection with Interaction Graph Modeling
+Anthropomorphic User Interface Feedback in a Sewing Context and Affordances
+Exploiting Image Local And Nonlocal Consistency For Mixed Gaussian-Impulse Noise Removal
+An Improved DC Recovery Method from AC Coefficients of DCT-Transformed Images
+Cross-Layer Protocols for Multimedia Communications over Wireless Networks
+Signal and Image Processing with Sinlets
+Behavioral Systel Level Power Consumption Modeling of Mobile Video Streaming applications
+Approximate Similarity Search for Online Multimedia Services on Distributed CPU-GPU Platforms
+Alternative Astronomical FITS imaging
+Video Data Visualization System: Semantic Classification And Personalization
+Video Chat with Multiple Cameras
+Recovering Missing Coefficients in DCT-Transformed Images
+Improved Robust DWT-Watermarking in YCbCr Color Space
+Content-based Multi-media Retrieval Technology
+Investigating Streaming Techniques and Energy Efficiency of Mobile Video Services
+Surveying the Social Smart and Converged TV Landscape: Where is Television Research Headed
+A Simultaneous-Movement Mobile Multiplayer Game Design based on Adaptive Background Partitioning Technique
+Celerity: A Low-Delay Multi-Party Conferencing Solution
+Decision-Theoretic Coordination and Control for Active Multi-Camera Surveillance in Uncertain Partially Observable Environments
+Comparison of Speech Activity Detection Techniques for Speaker Recognition
+Video De-fencing
+Epitome for Automatic Image Colorization
+Steganalysis of Transcoding Steganography
+Multilayer image watermarking scheme for providing high security
+Convolutional Compressed Sensing Using Deterministic Sequences
+Beltrami Representation and its applications to texture map and video compression
+Mugshot Identification from Manipulated Facial Images
+Public key Steganography Using Discrete Cross-Coupled Chaotic Maps
+Sampling and Reconstruction of Spatial Fields using Mobile Sensors
+Some New Methodologies for Image Hiding using Steganographic Techniques
+Ordered Statistics Vertex Extraction and Tracing Algorithm (OSVETA)
+Teichm uller extremal mapping and its applications to landmark matching registration
+A Non-Blind Watermarking Scheme for Gray Scale Images in Discrete Wavelet Transform Domain using Two Subbands
+Intermediate Performance Analysis of Growth Codes
+Network Coding Meets Multimedia: a Review
+Five Modulus Method For Image Compression
+Content based video retrieval
+Collaborative P2P Streaming of Interactive Live Free Viewpoint Video
+Embedding grayscale halftone pictures in QR Codes using Correction Trees
+SVD Based Image Processing Applications: State of The Art Contributions and Research Challenges
+Towards semantic and affective coupling in emotionally annotated databases
+An Image Steganography Scheme using Randomized Algorithm and Context-Free Grammar
+Enhanced Mobile Digital Video Broadcasting with Distributed Space-Time Coding
+Self Authentication of color image through Wavelet Transformation Technique (SAWT)
+Image Steganography Method Based on Brightness Adjustment
+High Quality Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization
+Computer-Assisted Interactive Documentary and Performance Arts in Illimitable Space
+Latent Semantic Learning with Structured Sparse Representation for Human Action Recognition
+Video OCR for Video Indexing
+Single-sided Real-time PESQ Score Estimation
+Bounding Lossy Compression using Lossless Codes at Reduced Precision
+A Poisson Hidden Markov Model for Multiview Video Traffic
+An Extensive Analysis of Query by Singing Humming System Through Query Proportion
+Content-Based Video Browsing by Text Region Localization and Classification
+AViTExt: Automatic Video Text Extraction A new Approach for video content indexing Application
+A Visual Grammar Approach for TV Program Identification
+A Novel Digital Watermarking Algorithm using Random Matrix Image
+Video Tester -- A multiple-metric framework for video quality assessment over IP networks
+A Study on Digital Video Broadcasting to a Handheld Device (DVB-H) Operating in UHF Band
+WNtags: A Web-Based Tool For Image Labeling And Retrieval With Lexical Ontologies
+Comparision and analysis of photo image forgery detection techniques
+The Robust Digital Image Watermarking using Quantization and Fuzzy Logic Approach in DWT Domain
+An Optical Watermarking Solution for Color Personal Identification Pictures
+P3: Toward Privacy-Preserving Photo Sharing
+The impact of teaching two courses (electronic curriculum design multimedia) on the acquisition of electronic content design skills
+A new compressive video sensing framework for mobile broadcast
+Secure Video Streaming Plug-In
+Medical Information Embedding in Compressed Watermarked Intravascular Ultrasound Video
+Image compression using anti-forensics method
+Proposed Video Encryption Algorithm v s Other Existing Algorithms: A Comparative Study
+StegTorrent: a Steganographic Method for the P2P File Sharing Service
+Odd-Even Embedding Scheme Based Modified Reversible Watermarking Technique using Blueprint
+VoIP Steganography and Its Detection - A Survey
+Real-Time Peer-to-Peer Streaming Over Multiple Random Hamiltonian Cycles
+A Hash based Approach for Secure Keyless Steganography in Lossless RGB Images
+A Modified LSB Technique of Digital Watermarking in Spatial Domain
+A local fingerprinting approach for audio copy detection
+A Review on P2P Video Streaming
+Hiding Image in Image by Five Modulus Method for Image Steganography
+Genetic Soundtracks: Creative Matching of Audio to Video
+Anticipatory Buffer Control and Resource Allocation for Wireless Video Streaming
+A Secure And High Capacity Image Steganography Technique
+Metrics for Video Quality Assessment in Mobile Scenarios
+Combinaison dinformation visuelle conceptuelle et contextuelle pour la construction automatique de hierarchies semantiques adaptees a lannotation dimages
+Joint On-the-Fly Network Coding Video Quality Adaptation for Real-Time Delivery
+Security Issues In Speech Watermarking for Information Transmission
+A new Watermarking Technique for Secure Database
+A Novel approach for Hybrid Database
+Adaptive Software Radio Steganography
+Tracking Large-Scale Video Remix in Real-World Events
+Multi-View Video Packet Scheduling
+Multi-Resolution Video Streaming in Peer-to-peer Networks
+Secure Transmission of Password Using Speech Watermarking
+Image Compression By Embedding Five Modulus Method Into JPEG
+Video Segmentation via Diffusion Bases
+Performance Evaluation of Video Communications over G Network
+Wave Atom Based Watermarking
+Utility Optimal Scheduling and Admission Control for Adaptive Video Streaming in Small Cell Networks
+Sparse Norm Filtering
+Using Bias Optimization for Reversible Data Hiding Using Image Interpolation
+Loss-resilient Coding of Texture and Depth for Free-viewpoint Video Conferencing
+The Story of Telebrain: A multi-performer telematic platform for performatization
+Online Reinforcement Learning for Dynamic Multimedia Systems
+Transmitting important bits and sailing high radio waves: a decentralized cross-layer approach to cooperative video transmission
+Rendering of 3D Dynamic Virtual Environments
+A Framework for Designing 3D Virtual Environments
+Markov Decision Process Based Energy-Efficient On-Line Scheduling for Slice-Parallel Video Decoders on Multicore Systems
+Navigation domain representation for interactive multiview imaging
+Non-uniform Quantization of Detail Components in Wavelet Transformed Image for Lossy JPEG2000 Compression
+SkyDe: a Skype-based Steganographic Method
+Fast Autocorrelated Context Models for Data Compression
+Survey on QoE QoS Correlation Models For Multimedia Services
+CUDA Based Performance Evaluation of the Computational Efficiency of the DCT Image Compression Technique on Both the CPU and GPU
+Sparse Representation-based Image Quality Assessment
+Document watermarking based on digital holographic principle
+Development Trends in Steganography
+Simplification Resilient LDPC-Coded Sparse-QIM Watermarking for 3D-Meshes
+Topological study and Lyapunov exponent of a secure steganographic scheme
+Enhanced Tiny Encryption Algorithm with Embedding (ETEA)
+Increasing Compression Ratio in PNG Images by k-Modulus Method for Image Transformation
+A Novel Steganography Algorithm for Hiding Text in Image using Five Modulus Method
+Single Video Performance Analysis for Video-on-Demand Systems
+A Novel Robust Method to Add Watermarks to Bitmap Images by Fading Technique
+Anisotropic Diffusion for Details Enhancement in Multi-Exposure Image Fusion
+Comparison of secure and high capacity color image steganography techniques in RGB and YCbCr domains
+A dwt dct and svd based watermarking technique to protect the image piracy
+Digital Watermarking for Image AuthenticationBased on Combined DCT DWT and SVD Transformation
+Resource Efficient LDPC Decoders for Multimedia Communication
+Study of Encryption and Decryption of Wave File in Image Formats
+A simple technique for steganography
+MAS for video objects segmentation and tracking based on active contours and SURF descriptor
+Improved Watermarking Scheme Using Discrete Cosine Transform and Schur Decomposition
+Image Integrity Authentication Scheme Based On Fixed Point Theory
+Multimodal Approach for Video Surveillance Indexing and Retrieval
+Benchmarking Soundtrack Recommendation Systems with SRBench
+Semantic Computing of Moods Based on Tags in Social Media of Music
+Model and Performance of a No-Reference Quality Assessment Metric for Video Streaming
+An Efficient Transport Protocol for delivery of Multimedia An Efficient Transport Protocol for delivery of Multimedia Content in Wireless Grids
+An Enhanced Time Space Priority Scheme to Manage QoS for Multimedia Flows transmitted to an end user in HSDPA Network
+Arabic Text Recognition in Video Sequences
+Compressive Sampling for the Packet Loss Recovery in Audio Multimedia Streaming
+Coded Acquisition of High Frame Rate Video
+A Unified Framework for Multi-Sensor HDR Video Reconstruction
+A Novel Method for Image Integrity Authentication Based on Fixed Point Theory
+A Multi-View Embedding Space for Modeling Internet Images Tags and their Semantics
+NOVA: QoE-driven Optimization of DASH-based Video Delivery in Networks
+Achieving the Optimal Steaming Capacity and Delay Using Random Regular Digraphs in P2P Networks
+Band Codes for Energy-Efficient Network Coding with Application to P2P Mobile Streaming
+Speech Enhancement using Kernel and Normalized Kernel Affine Projection Algorithm
+Robust watermarking based on DWT SVD
+Evaluation of the Performance Energy Overhead in DSP Video Decoding and its Implications
+Progressive Compression of 3D Objects with an Adaptive Quantization
+Exploring Image Virality in Google Plus
+Adaptive Temporal Compressive Sensing for Video
+An Efficient Authorship Protection Scheme for Shared Multimedia Content
+Steganography using the Extensible Messaging and Presence Protocol (MPP)
+Spatially Scalable Compressed Image Sensing with Hybrid Transform and Inter-layer Prediction Model
+Early Fire Detection Using HEP and Space-time Analysis
+Blind and robust images watermarking based on wavelet and edge insertion
+Improving Mobile Video Streaming with Mobility Prediction and Prefetching in Integrated Cellular-WiFi Networks
+Multiview Navigation based on Extended Layered Depth Image Representation
+A Markov Decision Model for Adaptive Scheduling of Stored Scalable Videos
+Loss Visibility Optimized Real-time Video Transmission over MIMO Systems
+Cache-Enabled Opportunistic Cooperative MIMO for Video Streaming in Wireless Systems
+Tracking Deformable Parts via Dynamic Conditional Random Fields
+An Efficient Method for Image and Audio Steganography using Least Significant Bit (LSB) Substitution
+Increasing Compression Ratio of Low Complexity Compressive Sensing Video Encoder with Application-Aware Configurable Mechanism
+Image Steganography using Karhunen-Loeve Transform and Least Bit Substitution
+Chaotic Arithmetic Coding for Secure Video Multicast
+Optimal Foresighted Multi-User Wireless Video
+Traffic and Statistical Multiplexing Characterization of 3D Video Representation Formats (Extended Version)
+Exploration in Interactive Personalized Music Recommendation: A Reinforcement Learning Approach
+Modeling the Time-varying Subjective Quality of HTTP Video Streams with Rate Adaptations
+Rate Adaptation and Admission Control for Video Transmission with Subjective Quality Constraints
+A Survey: Various Techniques of Image Compression
+Optimal Control of a Single Queue with Retransmissions: Delay-Dropping Tradeoffs
+Multi-Level Steganography: Improving Hidden Communication in Networks
+Analysis of Buffer Starvation with Application to Objective QoE Optimization of Streaming Services
+Optimal Frame Transmission for Scalable Video with Hierarchical Prediction Structure
+Multiview Hessian Discriminative Sparse Coding for Image Annotation
+An interactive engine for multilingual video browsing using semantic content
+Cross-Layer MIMO Transceiver Optimization for Multimedia Streaming in Interference Networks
+Fake View Analytics in Online Video Services
+Codebook based Audio Feature Representation for Music Information Retrieval
+Graph-based representation for multiview image coding
+Manifold regularized kernel logistic regression for web image annotation
+State-of-the Art Motion Estimation in the Context of 3D TV
+Mobile Multimedia Recommendation in Smart Communities: A Survey
+Deriving Latent Social Impulses to Determine Longevous Videos
+Evaluating the Performance of IPTV over Fixed WiMA
+Fast restoration of natural images corrupted by high-density impulse noise
+Towards a provably resilient scheme for graph-based watermarking
+Multimedia stimuli databases usage patterns: a survey report
+IVSS Integration of Color Feature Extraction Techniques for Intelligent Video Search Systems
+System Analysis And Design For Multimedia Retrieval Systems
+Non-stationary Resource Allocation Policies for Delay-constrained Video Streaming: Application to Video over Internet-of-Things-enabled Networks
+Content Based Image Indexing and Retrieval
+STIMONT: A core ontology for multimedia stimuli description
+Wireless Video Multicast with Cooperative and Incremental Transmission of Parity Packets
+Modeling Emotion Influence from Images in Social Networks
+Streaming Video over HTTP with Consistent Quality
+Service Oriented Paradigm for Massive Multiplayer Online Games
+A Study of Various Steganographic Techniques Used for Information Hiding
+On Image Block Loss Restoration Using the Sparsity Pattern as Side Information
+Efficient Image Encryption and Decryption Using Discrete Wavelet Transform and Fractional Fourier Transform
+Differenciated Bandwidth Allocation in P2P Layered Streaming
+Control of Multiple Remote Servers for Quality-Fair Delivery of Multimedia Contents
+Adaptive Video Streaming in MU-MIMO Networks
+Reduction of Blocking Artifacts In JPEG Compressed Image
+Joint Video and Text Parsing for Understanding Events and Answering Queries
+Congestion Control using FEC for Conversational Multimedia Communication
+Collaborative Receptive Field Learning
+A Study on the Optimal Implementation of Statistical Multiplexing in DVB Distribution Systems
+Analyzing Peer Selection Policies for BitTorrent Multimedia On-Demand Streaming Systems in Internet
+Twofold Video Hashing with Automatic Synchronization
+DCT-like Transform for Image and Video Compression Requires 10 Additions Only
+A DCT Approximation for Image Compression
+Fundamental Limits of Video Coding: A Closed-form Characterization of Rate Distortion Region from First Principles
+Minimum Distortion Variance Concatenated Block Codes for Embedded Source Transmission
+A Conformal Approach for Surface Inpainting
+A Novel approach as Multi-place Watermarking for Security in Database
+The Effect of Block-wise Feedback on the Throughput-Delay Trade-off in Streaming
+Saving Energy in Mobile Devices for On-Demand Multimedia Streaming -- A Cross-Layer Approach
+A Methodology for Implementation of MMS Client on Embedded Platforms
+Pervasive Image Computation: A Mobile Phone Application for getting Information of the Images
+WaterRPG: A Graph-based Dynamic Watermarking Model for Software Protection
+Automatic Segmentation of Broadcast News Audio using Self Similarity Matrix
+Nested Graph Words for Object Recognition
+Wireless Device-to-Device Caching Networks: Basic Principles and System Performance
+Smart Streaming for Online Video Services
+Three Metrics for Measuring User Engagement with Online Media and a YouTube Case Study
+Building A Large Concept Bank for Representing Events in Video
+Energy-Efficient Adaptive Video Transmission: Exploiting Rate Predictions in Wireless Networks
+Color to Gray and Back transformation for distributing color digital images
+Robust Video Watermarking Schemes in Phase domain Using Binary Phase Shift Keying
+Text Based Approach For Indexing And Retrieval Of Image And Video: A Review
+Steganography - coding and intercepting the information from encoded pictures in the absence of any initial information
+Wireless Transmission of Video for Biomechanical Analysis
+Analysis of Computer Hardware Affecting Video Transmission via IEEE 13a connection
+Reduction of Field Loss by a Video Processing System
+A blind robust watermarking scheme based on svd and circulant matrices
+Enhancing User Experience for Multi-Screen Social TV Streaming over Wireless Networks
+Motion-Compensated Coding and Frame-Rate Up-Conversion: Models and Analysis
+Improving Low Bit-Rate Video Coding using Spatio-Temporal Down-Scaling
+Prediction of Transformed (DCT) Video Coding Residual for Video Compression
+A Novel Approach for Video Temporal Annotation
+Leveraging video annotations in video-based e-learning
+A Smart Intelligent Way of Video Authentication Using Classification and Decomposition of Watermarking Methods
+Antescofo Intermediate Representation
+Human Daily Activities Indexing in Videos from Wearable Cameras for Monitoring of Patients with Dementia Diseases
+Activities of Daily Living Indexing by Hierarchical HMM for Dementia Diagnostics
+Multi-Layer Local Graph Words for Object Recognition
+Hierarchical Hidden Markov Model in Detecting Activities of Daily Living in Wearable Videos for Studies of Dementia
+Mobile Multimedia Streaming Techniques : QoE and Energy Consumption Perspective
+VSCAN: An Enhanced Video Summarization using Density-based Spatial Clustering
+Multiplierless Approximate -point DCT VLSI Architectures for Transform Block Coding
+Image Restoration Using Joint Statistical Modeling in Space-Transform Domain
+An Adaptive Watermarking Process in Hadamard Transform
+MicroCast: Cooperative Video Streaming using Cellular and D2D Connections
+YouTube QoE Evaluation Tool for Android Wireless Terminals
+Block matching algorithm based on Differential Evolution for motion estimation
+Trends and Perspectives for Signal Processing in Consumer Audio
+Steganalysis: Detecting LSB Steganographic Techniques
+An Incomplete Cryptography based Digital Rights Management with DCFF
+A hybrid video quality metric for analyzing quality degradation due to frame drop
+Low-complexity video encoder for smart eyes based on underdetermined blind signal separation
+Jpeg Image Compression Using Discrete Cosine Transform - A Survey
+Multi-view Metric Learning for Multi-view Video Summarization
+A scenario based approach for dealing with challenges in a pervasive computing environment
+JPEG Noises beyond the First Compression Cycle
+QoE assessment for SVC streaming in ENVISION
+Majority Vote of Diverse Classifiers for Late Fusion
+Detection Bank: An Object Detection Based Video Representation for Multimedia Event Recognition
+Analysis and Forecasting of Trending Topics in Online Media Streams
+Towards Quality of Experience Determination for Video in Augmented Reality Settings
+Perceptual Quality of Video with Periodic Frame Rate and Quantization Variation-Subjective Studies and Analytical Modeling
+On Importance of Steganographic Cost For Network Steganography
+real-time audio translation module between iax and rsw
+Low-cost Augmented Reality prototype for controlling network devices
+A Bengali HMM Based Speech Synthesis System
+3DTouch: A wearable 3D input device with an optical sensor and a -DOF inertial measurement unit
+Designing Sound Collaboratively - Perceptually Motivated Audio Synthesis
+Performance Comparison of Linear Prediction based Vocoders in Linux Platform
+Securing Medical Images by Watermarking Using DWT DCT and SVD
+A Latent Social Approach to YouTube Popularity Prediction
+Subjective and Objective Quality Assessment of Image: A Survey
+A Data-Driven Approach for Tag Refinement and Localization in Web Videos
+Sonic interaction with a virtual orchestra of factory machinery
+Genetic Algorithm in Audio Steganography
+Numerical investigation of lensless zoomable holographic multiple projections to tilted planes
+A Survey of Digital Watermarking Techniques and its Applications
+Analysis of Attacks on Hybrid DWT-DCT Algorithm for Digital Image Watermarking With MATLAB
+Speaker-following Video Subtitles
+An Easy yet Effective Method for Detecting Spatial Domain LSB Steganography
+Detection of Clones in Digital Images
+When Augmented Reality Meets Big Data
+An Alternative Approach of Steganography using Reference Image
+An Adaptive Statistical Non-uniform Quantizer for Detail Wavelet Components in Lossy JPEG2000 Image Compression
+Quantum Image Representation Through Two-Dimensional Quantum States and Normalized Amplitude
+Anticipatory Buffer Control and Quality Selection for Wireless Video Streaming
+Robust Lossless Semi Fragile Information Protection in Images
+Impact of video quality and wireless network interface on power consumption of mobile devices
+ITEM: Immersive Telepresence for Entertainment and Meetings - A Practical Approach
+Improved Object Tracking via Bags of Affine Subspaces
+Video Face Editing Using Temporal-Spatial-Smooth Warping
+Entropy Conserving Binarization Scheme for Video and Image Compression
+Digital Image Data Hiding Techniques: A Comparative Study
+High Security Image Steganography with Modified Arnold cat map
+Object Segmentation in Images using EEG Signals
+Characterizing Internet Video for Large-scale Active Measurements
+Fast Disk Conformal Parameterization of Simply-connected Open Surfaces
+Image Retrieval And Classification Using Local Feature Vectors
+An Approach for Text Steganography Based on Markov Chains
+Toward Green Media Delivery: Location-Aware Opportunities and Approaches
+A Crowdsourcing Procedure for the Discovery of Non-Obvious Attributes of Social Image
+A new Watermarking Technique for Medical Image using Hierarchical Encryption
+Developing a Video Steganography Toolkit
+Audio Surveillance: a Systematic Review
+Subband coding for large-scale scientific simulation data using JPEG 2000
+Optimized Adaptive Streaming Representations based on System Dynamics
+Fast Adaptive Algorithm for Robust Evaluation of Quality of Experience
+Co-Localization of Audio Sources Using Binaural Features and Locally-Linear Regression
+Adaptive Prioritized Random Linear Coding and Scheduling for Layered Data Delivery from Multiple Servers
+An adaptive quasi harmonic broadcasting scheme with optimal bandwidth requirement
+A New Method for Estimating the Widths of JPEG Images
+Image compression overview
+Recommendation Scheme Based on Converging Properties for Contents Broadcasting
+An Efficient Bit Plane -OR Algorithm for Irreversible Image Steganography
+Secret Image Sharing Using Grayscale Payload Decomposition and Irreversible Image Steganography
+Multi-View 3D Video Multicast for Broadband IP Networks
+Human Motion Capture Data Tailored Transform Coding
+Olfactory Signals and Systems
+Hiding Sound in Image by K-LSB Mutation
+StegExpose - A Tool for Detecting LSB Steganography
+Steganography in Modern Smartphones and Mitigation Techniques
+Fisher-Yates Chaotic Shuffling Based Image Encryption
+MSPlayer: Multi-Source and multi-Path LeverAged YoutubER
+DeepSentiBank: Visual Sentiment Concept Classification with Deep Convolutional Neural Networks
+A Novel No-reference Video Quality Metric for Evaluating Temporal Jerkiness due to Frame Freezing
+Child Education Through Animation: An Experimental Study
+Interactive Digital Learning Materials for Kindergarten Students in Bangladesh
+Precision-Energy-Throughput Scaling Of Generic Matrix Multiplication and Convolution Kernels Via Linear Projections
+ Seconds of Sound and Vision: Creativity in Micro-Videos
+Maximizing compression efficiency through block rotation
+Cross-Modal Similarity Learning : A Low Rank Bilinear Formulation
+The Art of Data Hiding with Reed-Solomon Error Correcting Codes
+Resource Allocation Frameworks for Network-coded Layered Multimedia Multicast Services
+A Tag Identification Approach Based On Fragile Watermark
+Audio Splicing Detection and Localization Using Environmental Signature
+Corpus Development for Affective Video Indexing
+Comparing CSI and PCA in Amalgamation with JPEG for Spectral Image Compression
+Optimized Packet Scheduling in Multiview Video Navigation Systems
+Annotating Video with Open Educational Resources in a Flipped Classroom Scenario
+Modeling Dynamics of Online Video Popularity
+EgoSampling: Fast-Forward and Stereo for Egocentric Videos
+Class-Based Service Connectivity using Multi-Level Bandwidth Adaptation in Multimedia Wireless Networks
+Radio Resource Allocation for Scalable Video Services over Wireless Cellular Networks
+Call Admission Control based on Adaptive Bandwidth Allocation for Wireless Networks
+Adaptive Resource Management for Multimedia Applications in Femtocellular and Macrocellular Networks
+Multi-Hypothesis Compressed Video Sensing Technique
+Energy Efficiency Optimization for MIMO-OFDM Mobile Multimedia Communication Systems with QoS Constraints
+Block Based Medical Image Watermarking Technique for Tamper Detection and Recovery
+Compression of Video Tracking and Bandwidth Balancing Routing in Wireless Multimedia Sensor Networks
+Mobile Instant Video Clip Sharing: Modeling and Enhancing View Experience
+PAC-Bayesian Majority Vote for Late Classifier Fusion
+Constructing the L2-Graph for Robust Subspace Learning and Subspace Clustering
+Computing a k-sparse n-length Discrete Fourier Transform using at most k samples and O(k log k) complexity
+Physical Light as a Metaphor for Inner Light
+Iterative network-channel decoding with cooperative space-time transmission
+Improving image watermarking based on Tabu search by Chaos
+Minimization of image watermarking side effects through subjective optimization
+Enhance Robustness of Image-in-Image Watermarking through Data Partitioning
+Optimization of Unequal Error Protection Rateless Codes for Multimedia Multicasting
+A Systematic Scheme for Measuring the Performance of the Display-Camera Channel
+PacMap: Transferring PacMan to the Physical Realm
+Watermarking PDF Documents using Various Representations of Self-inverting Permutations
+A Modified No Search Algorithm for Fractal Image Compression
+Improved -point Approximate DCT for Image and Video Compression Requiring Only 1 Additions
+Binary Systematic Network Coding for Progressive Packet Decoding
+Sleep Period Optimization Model For Layered Video Service Delivery Over eMBMS Networks
+Optimized Network-coded Scalable Video Multicasting over eMBMS Networks
+LTE enhancements for Public Safety and Security communications to support Group Multimedia Communications
+Service Provisioning and Profit Maximization in Network-assisted Adaptive HTTP Streaming
+Transductive Multi-view ero-Shot Learning
+Embedding of binary image in the Gray planes
+The Beauty of Capturing Faces: Rating the Quality of Digital Portraits
+Web-Based Visualization of Very Large Scientific Astronomy Imagery
+Quality of Experience (QoE) beyond Quality of Service (QoS) as its baseline: QoE at the Interface of Experience Domains
+A Digital Watermarking Approach Based on DCT Domain Combining QR Code and Chaotic Theory
+Scalable high-dimensional indexing and searching with Hadoop
+Robust Subjective Visual Property Prediction from Crowdsourced Pairwise Labels
+On Optimization of Network-coded Scalable Multimedia Service Multicasting
+Fragile Watermarking Using Finite Field Trigonometrical Transforms
+A Discrete Tchebichef Transform Approximation for Image and Video Coding
+A Class of DCT Approximations Based on the Feig-Winograd Algorithm
+Optimization of Quality of Experience through File Duplication in Video Sharing Servers
+Hash Chain Links Resynchronization Methods in Video Streaming Security Performance Comparison
+A Secure Electronic Prescription System Using Steganography with Encryption Key Implementation
+CS reconstruction of the speech and musical signals
+Wavelet based Watermarking approach in the Compressive Sensing Scenario
+Contextual Online Learning for Multimedia Content Aggregation
+An SVD-based Fragile Watermarking Scheme With Grouped Blocks
+A Control-Theoretic Approach to Adaptive Video Streaming in Dense Wireless Networks
+A DCT And SVD based Watermarking Technique To Identify Tag
+MAP: Microblogging Assisted Profiling of TV Shows
+A two-stage video coding framework with both self-adaptive redundant dictionary and adaptively orthonormalized DCT basis
+Joint Optimization of Masks and Deep Recurrent Neural Networks for Monaural Source Separation
+On Crowdsourced Interactive Live Streaming: A TwitchTV-Based Measurement Study
+Efficient Synthesis of Room Acoustics via Scattering Delay Networks
