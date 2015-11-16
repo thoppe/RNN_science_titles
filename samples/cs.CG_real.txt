@@ -1,0 +1,2035 @@
+Novel algorithm to calculate hypervolume indicator of Pareto approximation set
+Euclidean Shortest Paths in Simple Cube Curves at a Glance
+Algorithms for laying points optimally on a plane and a circle
+An Approximation Algorithm for Shortest Descending Paths
+Unfolding Manhattan Towers
+A Branch and Cut Algorithm for the Halfspace Depth Problem
+Voronoi Diagram of Polygonal Chains under the Discrete Fr 'echet Distance
+Optimal Separable Algorithms to Compute the Reverse Euclidean Distance Transformation and Discrete Medial Axis in Arbitrary Dimension
+The Distance Geometry of Music
+Bezier Curves Intersection Using Relief Perspective
+PushPush is NP-hard in 2D
+Computational Geometry Column 3
+Connectivity Compression for Irregular Quadrilateral Meshes
+Examples Counterexamples and Enumeration Results for Foldings and Unfoldings between Polygons and Polytopes
+PushPush and Push-1 are NP-hard in 2D
+Computational Geometry Column 3
+Flipturning polygons
+Pattern Matching for sets of segments
+Computing the Depth of a Flat
+Internet Packet Filter Management and Rectangle Geometry
+Computational Geometry Column 40
+When Can You Fold a Map?
+Optimal Moebius Transformations for Information Visualization and Meshing
+Computational Geometry Column 41
+Nice point sets can have nasty Delaunay triangulations
+Notes on computing peaks in k-levels and parametric spanning trees
+The Gibbs Representation of 3D Rotations
+Optimization Over Zonotopes and Training Support Vector Machines
+A note on radial basis function computing
+Hinged Kite Mirror Dissection
+Enumerating Foldings and Unfoldings between Polygons and Polytopes
+Computational Geometry Column 42
+Dense point sets have sparse Delaunay triangulations
+Vertex-Unfoldings of Simplicial Manifolds
+Nonorthogonal Polyhedra Built from Rectangles
+Long Proteins with Unique Optimal Foldings in the H-P Model
+Small Strictly Convex Quadrilateral Meshes of Point Sets
+The efficient generation of unstructured control volumes in 2D and 3D
+Computational Geometry Column 43
+Sufficiently Fat Polyhedra are not 2-castable
+Conformal Geometry Euclidean Space and Geometric Algebra
+Coin-Moving Puzzles
+Solitaire Clobber
+Preprocessing Chains for Fast Dihedral Rotations Is Hard or Even Impossible
+Computing Homotopic Shortest Paths Efficiently
+Instabilities of Robot Motion
+A quasi-RBF technique for numerical discretization of PDE's
+Distance function wavelets - Part II: Extended results and conjectures
+Building Space-Time Meshes over Arbitrary Spatial Domains
+High-order fundamental and general solutions of convection-diffusion equation and their applications with boundary particle method
+Distance function wavelets - Part III: Exotic transforms and series
+On Simultaneous Graph Embedding
+Simultaneous Embedding of a Planar Graph and Its Dual on the Grid
+Optimally cutting a surface into a disk
+Symmetric boundary knot method
+New advances in dual reciprocity and boundary-only RBF methods
+Relationship between boundary integral equation and radial basis function
+New Insights in Boundary-only and Domain-type RBF Methods
+Definitions of distance function in radial basis function approach
+Reducing the Computational Requirements of the Differential Quadrature Method
+A Lyapunov Formulation for Efficient Solution of the Poisson and Convection-Diffusion Equations by the Differential Quadrature Method
+Dual reciprocity BEM and dynamic programming filter for inverse elastodynamic problems
+RBF-based meshless boundary knot method and boundary particle method
+A meshless integration-free and boundary-only RBF technique
+Parallel Delaunay Refinement: Algorithms and Analyses
+Moebius-Invariant Natural Neighbor Interpolation
+A direct time-domain FEM modeling of broadband frequency-dependent absorption with the presence of matrix fractional power: Model I
+Remarks on d-Dimensional TSP Optimal Tour Length Behaviour
+An Algorithmic Study of Manufacturing Paperclips and Other Folded Structures
+On the Reflexivity of Point Sets
+Compact Floor-Planning via Orderly Spanning Trees
+Tetris is Hard Even to Approximate
+Optimized Color Gamuts for Tiled Displays
+Computing Conformal Structure of Surfaces
+Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way
+Open Problems from CCCG 2002
+Improved Compact Visibility Representation of Planar Graph via Schnyder's Realizer
+Practical and Robust Stenciled Shadow Volumes for Hardware-Accelerated Rendering
+Tiling space and slabs with acute tetrahedra
+Relaxed Scheduling in Dynamic Skin Triangulation
+Quasiconvex Analysis of Backtracking Algorithms
+Partitioning Regular Polygons into Circular Pieces I: Convex Partitions
+Computational Geometry Column 44
+The one-round Voronoi game replayed
+On multiple connectedness of regions visible due to multiple diffuse reflections
+State complexes for metamorphic robots
+Optimal Adaptive Algorithms for Finding the Nearest and Farthest Point on a Parametric Black-Box Curve
+A Note on Objects Built From Bricks without Corners
+Two- versus three-dimensional connectivity testing of first-order queries to semi-algebraic sets
+A Bernstein-Bezier Sufficient Condition for Invertibility of Polynomial Mapping Functions
+Optimal Covering Tours with Turn Costs
+Fast Verification of Convexity of Piecewise-linear Surfaces
+Circle and sphere blending with conformal geometric algebra
+On the continuous Fermat-Weber problem
+A weak definition of Delaunay triangulation
+A combinatorial characterization of higher-dimensional orthogonal packing
+Maximum dispersion and geometric maximum weight cliques
+A rigorous definition of axial lines: ridges on isovist fields
+The Geometric Thickness of Low Degree Graphs
+Surface Triangulation -- The Metric Approach
+A General Framework for Bounds for Higher-Dimensional Orthogonal Packing Problems
+Polynomial-time computing over quadratic maps I: sampling in real algebraic sets
+Visualising the structure of architectural open spaces based on shape analysis
+Computational Geometry Column 4
+Single-Strip Triangulation of Manifolds with Arbitrary Topology
+Convex Hull of Planar H-Polyhedra
+Algorithms for Drawing Media
+Optimal Free-Space Management and Routing-Conscious Dynamic Placement for Reconfigurable Devices
+The Computational Complexity of Orientation Search Problems in Cryo-Electron Microscopy
+An algorithm for two-dimensional mesh generation based on the pinwheel tiling
+Minimum Enclosing Polytope in High Dimensions
+Unfolding Smooth Primsatoids
+Fast Construction of Nets in Low Dimensional Metrics and Their Applications
+A 2-chain can interlock with a k-chain
+Quasiconvex Programming
+Partitioning Regular Polygons into Circular Pieces II:Nonconvex Partitions
+Implementation of Motzkin-Burger algorithm in Maple
+A Time-Optimal Delaunay Refinement Algorithm in Two Dimensions
+Improved Approximation Algorithms for Geometric Set Cover
+Compatible Triangulations and Point Partitions by Series-Triangular Graphs
+The Weighted Maximum-Mean Subtree and Other Bicriterion Subtree Problems
+Point set stratification and Delaunay depth
+A Simple Proof of the F 'a ry-Wagner Theorem
+An explicit formula for the number of tunnels in digital objects
+An Efficient Approximation Algorithm for Point Pattern Matching Under Noise
+An O(n log n)-Time Algorithm for the Restricted Scaffold Assignment
+Strictly convex drawings of planar graphs
+Upper Bound on the Number of Vertices of Polyhedra with 0 1 -Constraint Matrices
+The Skip Quadtree: A Simple Dynamic Data Structure for Multidimensional Data
+Skip-Webs: Efficient Distributed Data Structures for Multi-Dimensional Data Sets
+Quantum Algorithm Processors to Reveal Hamiltonian Cycles
+Grid Vertex-Unfolding Orthogonal Polyhedra
+Planar Earthmover is not in L 1
+The Hunting of the Bump: On Maximizing Statistical Discrepancy
+Delta-confluent Drawings
+Deterministic boundary recognition and topology extraction for large sensor networks
+A pair of trees without a simultaneous geometric embedding in the plane
+Lower bounds on Locality Sensitive Hashing
+A simple effective method for curvatures estimation on triangular meshes
+The Signed Distance Function: A New Tool for Binary Classification
+Which n-Venn diagrams can be drawn with convex k-gons?
+Points on Computable Curves
+Computing shortest non-trivial cycles on orientable surfaces of bounded genus in almost linear time
+Data Structures for Halfplane Proximity Queries and Incremental Voronoi Diagrams
+Mathematical models of the complex surfaces in simulation and visualization systems
+The density of iterated crossing points and a gap result for triangulations of finite point sets
+Epsilon-Unfolding Orthogonal Polyhedra
+On comparing sums of square roots of small integers
+Guard Placement For Wireless Localization
+Minimum-Cost Coverage of Point Sets by Disks
+Inner and Outer Rounding of Boolean Operations on Lattice Polygonal Regions
+Efficient algorithm for computing the Euler-Poincar 'e characteristic of a semi-algebraic set defined by few quadratic inequalities
+Restricted Strip Covering and the Sensor Cover Problem
+A parent-centered radial layout algorithm for interactive graph visualization and animation
+Good Illumination of Minimum Range
+Characterization of Pentagons Determined by Two -rays
+Simple Methods For Drawing Rational Surfaces as Four or Six Bezier Patches
+On the Efficiency of Strategies for Subdividing Polynomial Triangular Surface Patches
+Trees with Convex Faces and Optimal Angles
+Geometric definition of a new skeletonization concept
+Stability in multidimensional Size Theory
+A Generic Lazy Evaluation Scheme for Exact Geometric Computations
+Spherical Indexing for Neighborhood Queries
+Choosing Colors for Geometric Graphs via Color Space Embeddings
+Topology Control and Network Lifetime in Three-Dimensional Wireless Sensor Networks
+On Bus Graph Realizability
+Polygon Convexity: A Minimal O(n) Test
+Substitutions for tilings p q
+A disk-covering problem with application in optical interferometry
+Power Assignment Problems in Wireless Communication
+On the Complexity of the Circular Chromatic Number
+Polygon Convexity: Another O(n) Test
+About the domino problem in the hyperbolic plane a new solution
+Signature Sequence of Intersection Curve of Two Quadrics for Exact Morphological Classification
+Hadwiger and Helly-type theorems for disjoint unit spheres
+On a family of strong geometric spanners that admit local routing strategies
+Can we Compute the Similarity Between Surfaces?
+Computing a Minimum-Dilation Spanning Tree is NP-hard
+An Efficient Local Approach to Convexity Testing of Piecewise-Linear Hypersurfaces
+Some problems in asymptotic convex geometry and random matrices motivated by numerical algorithms
+The periodic domino problem is undecidable in the hyperbolic plane
+Separation-Sensitive Collision Detection for Convex Objects
+A role of constraint in self-organization
+Object-Oriented Design of Graph Oriented Data Structures
+Computational Geometry Column 33
+Computational Geometry Column 32
+Locked and Unlocked Polygonal Chains in 3D
+Analysis of approximate nearest neighbor searching with clustered point sets
+Zero-Parity Stabbing Information
+Computational Geometry Column 3
+Hinged Dissection of Polyominoes and Polyforms
+On Deletion in Delaunay Triangulation
+Improved Incremental Randomized Delaunay Triangulation
+The union of unit balls has quadratic complexity even if they all contain the origin
+Further Results on Arithmetic Filters for Geometric Predicates
+A Probabilistic Analysis of the Power of Arithmetic Filters
+Ununfoldable Polyhedra with Convex Faces
+Polygonal Chains Cannot Lock in 4D
+Computational Geometry Column 3
+Computational Geometry Column 3
+Quadrilateral Meshing by Circle Packing
+Emerging Challenges in Computational Topology
+Convex Tours of Bounded Curvature
+Computing largest circles separating two sets of segments
+Motion Planning of Legged Robots
+Circular Separability of Polygons
+Finding an ordinary conic and an ordinary hyperplane
+Geometric compression for progressive transmission
+Locked and Unlocked Polygonal Chains in 3D
+Finite-resolution hidden surface removal
+On Reconfiguring Tree Linkages: Trees can Lock
+PushPush is NP-hard in 3D
+Separating Geometric Thickness from Book Thickness
+Qualitative Visualization of Distance Information
+Separating Thickness from Geometric Thickness
+Common transversals and tangents to two lines and two quadrics in P 3
+Algebraic methods for computing smallest enclosing and circumscribing cylinders of simplices
+Perfect Delaunay Polytopes and Perfect Inhomogeneous Forms
+Embeddability of Arrangements of Pseudocircles into the Sphere
+Pebble Game Algorithms and Sparse Graphs
+The Average-Case Area of Heilbronn-Type Triangles
+Number sequence representation of protein structures based on the second derivative of a folded tetrahedron sequence
+Measuring and Localing Homology Classes
+An Improved Tight Closure Algorithm for Integer Octagonal Constraints
+Deterministic Sampling and Range Counting in Geometric Data Streams
+Minimum Dilation Stars
+Confluent Layered Drawings
+Cubic Partial Cubes from Simplicial Arrangements
+Unfolding Orthogonal Terrains
+Clifford Algebra of the Vector Space of Conics for decision boundary Hyperplanes in m-Euclidean Space
+A Continuum Theory for Unstructured Mesh Generation in Two Dimensions
+Nodally 3-connected planar graphs and convex combination mappings
+Lower Bounds for the Complexity of the Voronoi Diagram of Polygonal Curves under the Discrete Frechet Distance
+Algorithmic Semi-algebraic Geometry and Topology -- Recent Progress and Open Problems
+Unfolding Restricted Convex Caps
+Connecting Polygonizations via Stretches and Twangs
+Bregman Voronoi Diagrams: Properties Algorithms and Applications
+New Complexity Bounds for Certain Real Fewnomial Zero Sets
+Incremental Satisfiability and Implication for UTVPI Constraints
+A New Lower Bound on Guard Placement for Wireless Localization
+A Fast and Accurate Nonlinear Spectral Method for Image Recognition and Registration
+Constructing a uniform plane-filling path in the ternary heptagrid of the hyperbolic plane
+Band Unfoldings and Prismatoids: A Counterexample
+Degeneracy of Angular Voronoi Diagram
+Discrete differential geometry of tetrahedrons and encoding of local protein structure
+A Condition Number Analysis of a Line-Surface Intersection Algorithm
+Geometric Spanners With Small Chromatic Number
+On the Centroids of Symmetrized Bregman Divergences
+Spanners of Complete k -Partite Geometric Graphs
+Delaunay Edge Flips in Dense Surface Triangulations
+Towards Persistence-Based Reconstruction in Euclidean Spaces
+How to Complete a Doubling Metric
+Spanners of Additively Weighted Point Sets
+A Class of Convex Polyhedra with Few Edge Unfoldings
+A Locked Orthogonal Tree
+Faster Algorithms for Rigidity in the Plane
+Minimal Committee Problem for Inconsistent Systems of Linear Inequalities on the Plane
+Discrete Complex Structure on Surfel Surfaces
+Geometric Set Cover and Hitting Sets for Polytopes in R 3
+Quantifying Homology Classes
+Staged Self-Assembly:Nanomanufacture of Arbitrary Shapes with O(1) Glues
+The Domino Problem of the Hyperbolic Plane Is Undecidable
+Almost 2-SAT is Fixed-Parameter Tractable
+A Simple Yao-Yao-Based Spanner of Bounded Degree
+Trajectory Networks and Their Topological Changes Induced by Geographical Infiltration
+Spacetime Meshing for Discontinuous Galerkin Methods
+Efficient Spacetime Meshing with Nonlocal Cone Constraints
+Cauchy's Arm Lemma on a Growing Sphere
+On the Stretch Factor of Convex Delaunay Graphs
+Discrete schemes for Gaussian curvature and their convergence
+A Lower Bound on the Area of a 3-Coloured Disk Packing
+Natural pseudo-distance and optimal matching between reduced size functions
+Toric ideals real toric varieties and the algebraic moment map
+Algorithms for eps-approximations of Terrains
+Geodesic Fr 'echet Distance Inside a Simple Polygon
+Straight Skeletons of Three-Dimensional Polyhedra
+Searching for Frequent Colors in Rectangles
+Approximation Algorithms for Shortest Descending Paths in Terrains
+An optimization problem on the sphere
+Succinct Geometric Indexes Supporting Point Location Queries
+On the 3-distortion of a path
+Hinged Dissections Exist
+Succinct Greedy Graph Drawing in the Hyperbolic Plane
+Steiner trees and spanning trees in six-pin soap films
+Self-overlapping Curves Revisited
+Biased Range Trees
+Upright-Quad Drawing of st-Planar Learning Spaces
+Dispersion of Mass and the Complexity of Randomized Geometric Algorithms
+A note on equipartition
+Speeding up Simplification of Polygonal Curves using Nested Approximations
+On the metric distortion of nearest-neighbour graphs on random point sets
+Locality and Bounding-Box Quality of Two-Dimensional Space-Filling Curves
+On stars and Steiner stars. II
+Decomposition of Multiple Coverings into More Parts
+Line Transversals of Convex Polyhedra in reals 3
+The Johnson-Lindenstrauss lemma almost characterizes Hilbert space but not quite
+Ranking Unit Squares with Few Visibilities
+Isometric Diamond Subgraphs
+Really Straight Graph Drawings
+The Topology of Bendless Three-Dimensional Orthogonal Graph Drawing
+Isotropic PCA and Affine-Invariant Clustering
+Triangulation of Simple 3D Shapes with Well-Centered Tetrahedra
+Eigenvalue bounds spectral partitioning and metrical deformations via flows
+Dynamic Connectivity: Connecting to Networks and Geometry
+Spatial planning with constraints on translational distances between geometric objects
+Finding the theta-Guarded Region
+An Efficient Algorithm for 2D Euclidean 2-Center with Outliers
+Improved Approximations for Guarding 1.-Dimensional Terrains
+Minkowski Sum Selection and Finding
+Obtaining Exact Interpolation Multivariate Polynomial by Approximation
+A Simple Framework to Typify Social Bibliographic Communities
+Communication-Efficient Construction of the Plane Localized Delaunay Graph
+Simulated annealing for weighted polygon packing
+Minimizing the stabbing number of matchings trees and triangulations
+Simultaneous Diagonal Flips in Plane Triangulations
+Existence of a polyhedron which does not have a non-overlapping pseudo-edge unfolding
+Moving Vertices to Make Drawings Plane
+Characterizing 1-Dof Henneberg-I graphs with efficient configuration spaces
+Characterizing Graphs of Zonohedra
+Configuration spaces of convex and embedded polygons in the plane
+Sparsity-certifying Graph Decompositions
+On sign conditions over real multivariate polynomials
+On the Computation of the Topology of a Non-Reduced Implicit Space Curve
+On the Topology of the Restricted Delaunay Triangulation and Witness Complex in Higher Dimensions
+An Affine-invariant Time-dependent Triangulation of Spatio-temporal Data
+3D Building Model Fitting Using A New Kinetic Framework
+On Computing the Vertex Centroid of a Polyhedron
+Zigzag Persistence
+k-means requires exponentially many iterations even in the plane
+Rigid Components of Random Graphs
+Stability of Curvature Measures
+The convex hull of a regular set of integer vectors is polyhedral and effectively computable
+Unfolding Convex Polyhedra via Quasigeodesic Star Unfoldings
+Shape Fitting on Point Sets with Probability Distributions
+Comparison of Binary Classification Based on Signed Distance Functions with Support Vector Machines
+Chain-Based Representations for Solid and Physical Modeling
+Untangling a Planar Graph
+Area-Universal Rectangular Layouts
+A polynomial time algorithm to approximate the mixed volume within a simply exponential factor
+Properties of polynomial bases used in a line-surface intersection algorithm
+Modularity clustering is force-directed layout
+Planar Visibility Counting
+Computing k-Centers On a Line
+Probabilistic Matching of Planar Regions
+Characterizing graphs with convex and connected configuration spaces
+Algorithms for Marketing-Mix Optimization
+Reconstructing Curves from Points and Tangents
+A new universal cellular automaton on the ternary heptagrid
+Spatial Skyline Queries: An Efficient Geometric Algorithm
+Hyperbolic Voronoi diagrams made easy
+Ambient Isotopic Meshing of Implicit Algebraic Surface with Singularities
+Algorithmic Solutions to Some Transportation Optimization Problems with Applications in the Metallurgical Industry
+On the Necessary and Sufficient Condition of Greedy Routing Supporting Geographical Data Networks
+Approximation and Inapproximability Results for Maximum Clique of Disc Graphs in High Dimensions
+Highway Hull Revisited
+Space Efficient Multi-Dimensional Range Reporting
+Hardness of embedding simplicial complexes in R d
+Learning convex bodies is hard
+Orientation-Constrained Rectangular Layouts
+Discrepancy-Sensitive Dynamic Fractional Cascading Dominated Maxima Searching and 2-d Nearest Neighbors in Any Minkowski Metric
+Generalized D-Forms Have No Spurious Creases
+Complexity and algorithms for computing Voronoi cells of lattices
+Drawing Binary Tanglegrams: An Experimental Evaluation
+Studying Geometric Graph Properties of Road Networks Through an Algorithmic Lens
+The number of generalized balanced lines
+Decomposing Coverings and the Planar Sensor Cover Problem
+On Lines Joints and Incidences in Three Dimensions
+Summing a polynomial function over integral points of a polygon. User's guide
+Some Properties of Yao Y4 Subgraphs
+On the Expected Maximum Degree of Gabriel and Yao Graphs
+Some Results On Convex Greedy Embedding Conjecture for 3-Connected Planar Graphs
+The Convergence of Bird Flocking
+Bounding the Sum of Square Roots via Lattice Reduction
+Testing Bipartiteness of Geometric Intersection Graphs
+Star Unfolding Convex Polyhedra via Quasigeodesic Loops
+A Generalized Carpenter's Rule Theorem for Self-Touching Linkages
+Persistent Cohomology and Circular Coordinates
+On lines and Joints
+Efficient Algorithms for Several Constrained Resource Allocation Management and Discovery Problems
+Continuous Blooming of Convex Polyhedra
+Maximal digital straight segments and convergence of discrete geometric estimators
+Constructing Two-Dimensional Voronoi Diagrams via Divide-and-Conquer of Envelopes in Space
+Lower Bounds for Pinning Lines by Balls
+Convex shapes and convergence speed of discrete tangent estimators
+Optimal Constrained Resource Allocation Strategies under Low Risk Circumstances
+Clarksons Algorithm for Violator Spaces
+(Non)existence of Pleated Folds: How Paper Folds Between Creases
+About the domino problem in the hyperbolic plane a new solution: complement
+Edges and Switches Tunnels and Bridges
+Canonical polygon Queries on the plane: a New Approach
+The injectivity of the global function of a cellular automaton in the hyperbolic plane is undecidable
+Randomized Incremental Construction of Compressed Quadtrees
+Quasi-Polynomial Time Approximation Schemes for Target Tracking
+Approximating Spanning Trees with Low Crossing Number
+The Complexity of Guarding Terrains
+A new intrinsic numerical method for PDE on surfaces
+GMap: Drawing Graphs as Maps
+Iterative pushdown automata and hyperbolic contour words
+About the domino problem in the hyperbolic plane from an algorithmic point of view
+Squarepants in a Tree: Sum of Subtree Clustering and Hyperbolic Pants Decomposition
+The finite tiling problem is undecidable in the hyperbolic plane
+An asymptotically tight bound on the number of semi-algebraically connected components of realizable sign conditions
+Necessary Conditions for Discontinuities of Multidimensional Size Functions
+k-Means has Polynomial Smoothed Complexity
+Exact Join Detection for Convex Polyhedra and Other Numerical Abstractions
+Algebraic methods for counting Euclidean embeddings of rigid graphs
+Planar Drawings of Higher-Genus Graphs
+Being Fat and Friendly is Not Enough
+Reconfiguration of 3D Crystalline Robots Using O(log n) Parallel Moves
+Detecting all regular polygons in a point set
+Minimum feature size preserving decompositions
+Optimal Geometric Partitions Covers and K-Centers
+Carnival of Samplings: Nets Approximations Relative and Sensitive
+Graph-Theoretic Solutions to Computational Geometry Problems
+Complexity of Planar Embeddability of Trees inside Simple Polygons
+Semi-algebraic Range Reporting and Emptiness Searching with Applications
+Inapproximability for metric embeddings into R d
+The Emergence of Sparse Spanners and Greedy Well-Separated Pair Decomposition
+A Dihedral Acute Triangulation of the Cube
+On the Set Multi-Cover Problem in Geometric Settings
+On Finding Non-dominated Points using Compact Voronoi Diagrams
+Minimum clique partition in unit disk graphs
+Navigation in tilings of the hyperbolic plane and possible applications
+Going Off-road: Transversal Complexity in Road Networks
+Succinct Representation of Well-Spaced Point Clouds
+The directed Hausdorff distance between imprecise point sets
+A Universal Crease Pattern for Folding Orthogonal Shapes
+On the Development of the Intersection of a Plane with a Polytope
+Implementation and complexity of the watershed-from-markers algorithm computed as a minimal cost forest
+Physical Traces: Quantum vs. Classical Information Processing
+A Survey and a New Competitive Method for the Planar min- Problem
+When Crossings Count - Approximating the Minimum Spanning Tree
+An Example of Clifford Algebras Calculations with GiNaC
+Approximate Weighted Farthest Neighbors and Minimum Dilation Stars
+Pants Decomposition of the Punctured Plane
+Computational Euclid
+Outlier Robust ICP for Minimizing Fractional RMSD
+Localization for Anchoritic Sensor Networks
+Applications of Polyhedral Computations to the Analysis and Verification of Hardware and Software Systems
+An Upper Bound on the Average Size of Silhouettes
+Computational Geometry Column 34
+Randomization yields simple O(n log star n) algorithms for difficult Omega(n) problems
+Succinct Greedy Geometric Routing in the Euclidean Plane
+Data Structures for Approximate Range Counting
+Improvements of the 3D images captured with Time-of-Flight cameras
+On Finding Ordinary or Monochromatic Intersection Points
+Simple efficient maxima-finding algorithms for multidimensional samples
+A Branch and Cut Algorithm for the Halfspace Depth Problem
+Consistency on cubic lattices for determinants of arbitrary orders
+Complementary Space for Enhanced Uncertainty and Dynamics Visualization
+Digital Curvatures Applied to 3D Object Analysis and Recognition: A Case Study
+Piercing translates and homothets of a convex body
+Guarding curvilinear art galleries with vertex or point guards
+The fully connected N-dimensional skeleton: probing the evolution of the cosmic web
+A Fast Algorithm for Computing Geodesic Distances in Tree Space
+On the largest empty axis-parallel box amidst n points
+Distributed Abstract Optimization via Constraints Consensus: Theory and Applications
+On convexification of polygons by pops
+Querying Two Boundary Points for Shortest Paths in a Polygonal Domain
+On the geometry of similarity search: dimensionality curse and concentration of measure
+A method to discern complexity in two-dimensional patterns generated by coupled map lattices
+A condition number analysis of an algorithm for solving a system of polynomial equations with one degree of freedom
+Delaunay Triangulations in Linear Time? (Part I)
+A Weakly-Robust PTAS for Minimum Clique Partition in Unit Disk Graphs
+Minkowski Sum Construction and other Applications of Arrangements of Geodesic Arcs on the Sphere
+Approximating Loops in a Shortest Homology Basis from Point Data
+About a new splitting for the algorithmic study of the tilings p q of the hyperbolic plane when q is odd
+Optimal lower bounds for locality sensitive hashing (except when q is tiny)
+Steinitz Theorems for Orthogonal Polyhedra
+Abstract Milling with Turn Costs
+Computing Hulls And Centerpoints In Positive Definite Space
+Lexicographic Multi-objective Geometric Programming Problems
+Set Systems and Families of Permutations with Small Traces
+Geometric and Combinatorial Properties of Well-Centered Triangulations in Three and Higher Dimensions
+Life and Times of Georgy Voronoi
+Geometry and Morphology of the Cosmic Web: Analyzing Spatial Patterns in the Universe
+Spherical Layout Implementation using Centroidal Voronoi Tessellations
+Genus Computing for 3D digital objects: algorithm and implementation
+Lipschitz Unimodal and Isotonic Regression on Paths and Trees
+Computing Principal Components Dynamically
+Sparse geometric graphs with small dilation
+Well-Centered Triangulation
+A Pseudopolynomial Algorithm for Alexandrov's Theorem
+Relative (p epsilon) -Approximations in Geometry
+On a Tree and a Path with no Geometric Simultaneous Embedding
+Asynchronous deterministic rendezvous in bounded terrains
+Multidimensional Data Structures and Techniques for Efficient Decision Making
+Planar Visibility: Testing and Counting
+Point Location in Disconnected Planar Subdivisions
+Size of the medial axis and stability of Federer's curvature measures
+Minimum Vertex Cover in Rectangle Graphs
+Ant Colony Algorithm for the Weighted Item Layout Optimization Problem
+Improved Approximation for Guarding Simple Galleries from the Perimeter
+An Improved Bound on the Number of Unit Area Triangles
+Vertex-Unfoldings of Simplicial Polyhedra
+Flipping Cubical Meshes
+Regression Depth and Center Points
+Incremental and Decremental Maintenance of Planar Width
+Optimal Point Placement for Mesh Smoothing
+Linear Complexity Hexahedral Mesh Generation
+Setting Parameters by Example
+Algorithms for Coloring Quadtrees
+Beta-Skeletons have Unbounded Dilation
+Multivariate Regression Depth
+Criteria for Balance in Abelian Gain Graphs with Applications to Piecewise-Linear Geometry
+Long non-crossing configurations in the plane
+Topological De-Noising: Strengthening the Topological Signal
+Relaxed spanners for directed disk graphs
+The Traveling Salesman Problem Under Squared Euclidean Distances
+Maximal f-vectors of Minkowski sums of large numbers of polytopes
+Discovery of Convoys in Trajectory Databases
+Odds-On Trees
+Recursive tilings and space-filling curves with little fragmentation
+Persistence Diagrams and the Heat Equation Homotopy
+Design of Optimal Topology of Satellite-Based Terrestrial Communication Networks
+Range Reporting for Moving Points on a Grid
+On the Number of Higher Order Delaunay Triangulations
+Happy endings for flip graphs
+Stability of boundary measures
+Cutting a Convex Polyhedron Out of a Sphere
+On Low Distortion Embeddings of Statistical Distance Measures into Low Dimensional Spaces
+Automated Proofs in Geometry : Computing Upper Bounds for the Heilbronn Problem for Triangles
+Low Dimensional Euclidean Volume Preserving Embeddings
+A Unified Algorithmic Framework for Multi-Dimensional Scaling
+Randomly removing g handles at once
+Flattening single-vertex origami: the non-expansive case
+Geometric reconstruction from point-normal data
+Stability of Reeb graphs under function perturbations: the case of closed curves
+Bounded Degree Planar Geometric Spanners
+Contractible Hamiltonian Cycles in Triangulated Surfaces
+Stability of epsilon-Kernels
+The envelope of lines meeting a fixed line that are tangent to two spheres
+The number of transversals to line segments in R 3
+Largest Empty Circle Centered on a Query Line
+Quantifying Transversality by Measuring the Robustness of Intersections
+Randomized Interior Point methods for Sampling and Optimization
+Patrolling a Street Network is Strongly NP-Complete but in P for Tree Structures
+Approximate Point-to-Face Shortest Paths in R 3
+Approximate Euclidean Ramsey theorems
+Complexity Analysis of Balloon Drawing for Rooted Trees
+Structural Stability and Immunogenicity of Peptides
+Approximation Algorithms for Dominating Set in Disk Graphs
+Convergent discrete Laplace-Beltrami operators over surfaces
+Simulating Parallel Algorithms in the MapReduce Framework with Applications to Parallel Computational Geometry
+Fr 'echet Distance Problems in Weighted Regions
+Minimum-weight triangulation is NP-hard
+A polynomial bound for untangling geometric planar graphs
+Uniqueness of certain polynomials constant on a line
+Dilation smoothed distance and minimization diagrams of convex functions
+Combinatorial Ricci Curvature and Laplacians for Image Processing
+Stability of multidimensional persistent homology with respect to domain perturbations
+Triangular Decomposition of Semi-algebraic Systems
+Optimal stochastic planarization
+Invariance properties of the multidimensional matching distance in Persistent Topology and Homology
+Using Smith Normal Forms and mu-Bases to Compute all the Singularities of Rational Planar Curves
+Lower Bounds on Near Neighbor Search via Metric Expansion
+A Kinetic Triangulation Scheme for Moving Points in The Plane
+No embedding of the automorphisms of a topological space into a compact metric space endows them with a composition that passes to the limit
+Incidences in Three Dimensions and Distinct Distances in the Plane
+Overlap properties of geometric expanders
+Maximizing Maximal Angles for Plane Straight-Line Graphs
+On the Maximum Span of Fixed-Angle Chains
+Approximating the volume of unions and intersections of high-dimensional geometric objects
+The complexity of the normal surface solution space
+The Yao Graph Y  is a Spanner
+Minimum Manhattan network problem in normed planes with polygonal balls: a factor 2. approximation algorithm
+Simple Wriggling is Hard unless You Are a Fat Hippo
+The dilation of the Delaunay triangulation is greater than pi 2
+Body-and-cad Geometric Constraint Systems
+Cloning Voronoi Diagrams via Retroactive Data Structures
+Conflict-Free Coloring Made Stronger
+Approximation Algorithm for Line Segment Coverage for Wireless Sensor Network
+Approximating the Euclidean circle in the square grid using neighbourhood sequences
+Small grid embeddings of 3-polytopes
+Covering Points by Disjoint Boxes with Outliers
+Dispersion in disks
+Distance k-Sectors Exist
+Approximate Dynamic Programming using Halfspace Queries and Multiscale Monge decomposition
+The Convex Hull of a Variety
+Regular Labelings and Geometric Structures
+Minimum Sum Dipolar Spanning Tree in R 3
+On Flat Polyhedra deriving from Alexandrov's Theorem
+A Tight Bound on the Maximum Interference of Random Sensors in the Highway Model
+Geometric Tomography With Topological Guarantees
+On Folding a Polygon to a Polyhedron
+Improved Bounds for Geometric Permutations
+On k-Convex Polygons
+Spreading grid cells
+Polynomial Bounds on the Slicing Number
+Surface Parametrization of Nonsimply Connected Planar B 'ezier Regions
+Witness Gabriel Graphs
+Witness (Delaunay) Graphs
+Coloring translates and homothets of a convex body
+Proximity Drawings of High-Degree Trees
+Fully Automatic Trunk Packing with Free Placements
+Connectivity of Graphs Induced by Directional Antennas
+Reachability by Paths of Bounded Curvature in a Convex Polygon
+Evacuation of rectilinear polygons
+The Hadwiger Number of Jordan Regions is Unbounded
+Aperture-Angle and Hausdorff-Approximation of Convex Figures
+Constructing Optimal Highways
+Transforming triangulations on non planar-surfaces
+Drawing (Complete) Binary Tanglegrams: Hardness Approximation Fixed-Parameter Tractability
+Polygon Exploration with Time-Discrete Vision
+New Approximation Algorithms for Minimum Enclosing Convex Shapes
+Circle Packing for Origami Design Is Hard
+Optimal 3D Angular Resolution for Low-Degree Graphs
+Layered Depth-Normal Images: a Sparse Implicit Representation of Solid Models
+Multitriangulations pseudotriangulations and some problems of realization of polytopes
+Privacy-Preserving Data-Oblivious Geometric Algorithms for Geographic Data
+Clustering Encoding and Diameter Computation Algorithms for Multidimensional Data
+On Isosceles Triangles and Related Problems in a Convex Polygon
+Some New Equiprojective Polyhedra
+Radon partitions in convexity spaces
+An Improved Algorithm for Reconstructing a Simple Polygon from the Visibility Angles
+Connectivity graphs of uncertainty regions
+Priority Range Trees
+Decomposition of Geometric Set Systems and Graphs
+Integer Point Sets Minimizing Average Pairwise L1-Distance: What is the Optimal Shape of a Town?
+How to Extract the Geometry and Topology from Very Large 3D Segmentations
+On the number of solutions of the discretizable molecular distance geometry problem
+Transdichotomous Results in Computational Geometry II: Offline Search
+An upper bound on the volume of the symmetric difference of a body and a congruent copy
+Flat Zipper-Unfolding Pairs for Platonic Solids
+Simplification of cross-field topology
+Unifying the Landscape of Cell-Probe Lower Bounds
+On Graph Crossing Number and Edge Planarization
+Online Square Packing
+Fast Continuous Haar and Fourier Transforms of Rectilinear Polygons from VLSI Layouts
+Computing Multidimensional Persistence
+Computation of the highest coefficients of weighted Ehrhart quasi-polynomials of rational polyhedra
+Forward Kinematics Analysis and Tension Distribution of a Cable-Driven Sinking Winches Mechanism
+Shape Calculus: Timed Operational Semantics and Well-formedness
+Reverse Nearest Neighbors Search in High Dimensions using Locality-Sensitive Hashing
+Computation of the shortest path between two curves on a parametric surface by geodesic-like method
+On Short Cuts - or - Fencing in Rectangular Strips
+Video Stippling
+A New Computational Framework For 2D Shape-Enclosing Contours
+Natural realizations of sparsity matroids
+Linear-Time Algorithms for Geometric Graphs with Sublinearly Many Edge Crossings
+Farthest-Polygon Voronoi Diagrams
+Querying for the Largest Empty Geometric Object in a Desired Location
+The potential to improve the choice: list conflict-free coloring for geometric hypergraphs
+Measuring Shape with Topology
+A near optimal algorithm for finding Euclidean shortest path in polygonal domain
+Approximate Shortest Path through a Weighted Planar Subdivision
+Improved Algorithms for the Point-Set Embeddability problem for Plane 3-Trees
+An Algorithm for the Graph Crossing Number Problem
+Tight lower bounds for the size of epsilon-nets
+An Approximation Algorithm for the Euclidean Bottleneck Steiner Tree Problem
+Covering Cubes and the Closest Vector Problem
+The 2-Center Problem in Three Dimensions
+Curve Reconstruction in Riemannian Manifolds: Ordering Motion Frames
+Stable comparison of multidimensional persistent homology groups with torsion
+Generalized Delaunay Graphs with respect to any Convex Set are Plane Graphs
+Exploring Grid Polygons Online
+Exploring Simple Triangular and Hexagonal Grid Polygons Online
+Optimal competitive online ray search with an error-prone robot
+Uniqueness of models in persistent homology: the case of curves
+Every Large Point Set contains Many Collinear Points or an Empty Pentagon
+On the convex hull of a space curve
+Optimal Homologous Cycles Total Unimodularity and Linear Programming
+Specular holography
+On a linear programming approach to the discrete Willmore boundary value problem and generalizations
+On the Non-Termination of Ruppert's Algorithm
+Fast Approximation Algorithms for Art Gallery Problems in Simple Polygons
+Minimum Covering with Travel Cost
+Geodesics in CAT(0) Cubical Complexes
+Small components in k-nearest neighbour graphs
+Sweeping an oval to a vanishing point
+Untangling polygons and graphs
+Bounding the radii of balls meeting every connected component of semi-algebraic sets
+On the number of simple arrangements of five double pseudolines
+Fast Vertex Guarding for Polygons
+A correspondence-less approach to matching of deformable shapes
+Helly numbers of acyclic families
+Spatially-Aware Comparison and Consensus for Clusterings
+Conical Existence of Closed Curves on Convex Polyhedra
+On joint triangulations of two sets of points in the plane
+Cellular Automata and Discrete Geometry
+An Approximation Algorithm for Computing Shortest Paths in Weighted 3-d Domains
+Homology and Robustness of Level and Interlevel Sets
+On Gromov's Method of Selecting Heavily Covered Points
+Orphan-Free Anisotropic Voronoi Diagrams
+Witnessed k-Distance
+Guarding curvilinear art galleries with edge or mobile guards via 2-dominance of triangulation graphs
+Comparing Distributions and Shapes using the Kernel Distance
+Rank Bounds for Design Matrices with Applications to Combinatorial Geometry and Locally Correctable Codes
+The Least Spanning Area of a Knot and the Optimal Bounding Chain Problem
+On ( le k) -edges crossings and halving lines of geometric drawings of K n
+Complete Subdivision Algorithms II: Isotopic Meshing of Singular Algebraic Curves
+Polynomial cases of the Discretizable Molecular Distance Geometry Problem
+Approximation Algorithms for Maximum Independent Set of Pseudo-Disks
+A Gentle Introduction to the Kernel Distance
+Computing the Fr ' e chet Distance Between Folded Polygons
+Improved Examples of Non-Termination for Ruppert's Algorithm
+Computing Shortest Paths among Curved Obstacles in the Plane
+Undirected Connectivity of Sparse Yao Graphs
+Hardness of discrepancy computation and epsilon-net verification in high dimension
+An implementation of range trees with fractional cascading in C
+Arrangement Computation for Planar Algebraic Curves
+Numerical Experiments for Darcy Flow on a Surface Using Mixed Exterior Calculus Methods
+Orthogonal Range Searching on the RAM Revisited
+The FEM approach to the 3D electrodiffusion on 'meshes' optimized with the Metropolis algorithm
+On a characterization of cellular automata in tilings of the hyperbolic plane
+AxialGen: A Research Prototype for Automatically Generating the Axial Map
+Colorful Strips
+A Nonlinear Approach to Dimension Reduction
+Analyzing Midpoint Subdivision
+On the Complexity of Real Root Isolation
+Streaming Algorithms from Precision Sampling
+Small (2 s)-colorable graphs without 1-obstacle representations
+Embedding a pair of graphs in a surface and the width of 4-dimensional prismatoids
+A Doubly Exponentially Crumbled Cake
+Kinetic Stable Delaunay Graphs
+Optimal Polygonal Representation of Planar Graphs
+Self-Assembly with Geometric Tiles
+Inplace Algorithm for Priority Search Tree and its use in Computing Largest Empty Axis-Parallel Rectangle
+Collective Construction of 2D Block Structures with Holes
+Relativistic virtual worlds: an emerging framework
+On the Complexity of Solving a Bivariate Polynomial System
+Untangling planar graphs from a specified vertex position - Hard cases
+Self-Improving Algorithms
+A Fast Algorithm for Three-Dimensional Layers of Maxima Problem
+Quickest Path Queries on Transportation Network
+Defining and Computing Topological Persistence for 1-cocycles
+On Isolating Points Using Disks
+Consistent Labeling of Rotating Maps
+Tracking Moving Objects with Few Handovers
+Adjacency-Preserving Spatial Treemaps
+Connecting a Set of Circles with Minimum Sum of Radii
+Pruned Continuous Haar Transform of 2D Polygonal Patterns with Application to VLSI Layouts
+Retrieval and Clustering from a 3D Human Database based on Body and Head Shape
+Planar Pixelations and Image Recognition
+Illumination problems on translation surfaces with planar infinities
+Collinearities in Kinetic Point Sets
+Visibility-preserving convexifications using single-vertex moves
+Benchmarks Performance Evaluation and Contests for 3D Shape Retrieval
+Voronoi Diagram: The Generator Recognition Problem
+The chromatic number of the convex segment disjointness graph
+Computing Geodesic Distances in Tree Space
+Convex hulls of spheres and convex hulls of convex polytopes lying on parallel hyperplanes
+Geodesic diameter of a polygonal domain in O(n 4 log n) time
+The Pachner graph and the simplification of 3-sphere triangulations
+Enumerative Lattice Algorithms in Any Norm via M-Ellipsoid Coverings
+Detecting genus in vertex links for the fast enumeration of 3-manifold triangulations
+On the properties of the combinatorial Ricci flow for surfaces
+Minimum cell connection and separation in line segment arrangements
+Common Edge-Unzippings for Tetrahedra
+Interleaved computation for persistent homology
+Random hyperplane search trees in high dimensions
+k -quasi planar graphs
+Nearest Prime Simplicial Complex for Object Recognition
+On Alfred Gray's Elliptical Catenoid
+Finding the Maximal Empty Rectangle Containing a Query Point
+Convex Geometry and Stoichiometry
+Calculating ellipse overlap areas
+Algorithms for Solving Rubik's Cubes
+Zone and double zone diagrams in abstract spaces
+Perspective Drawing of Surfaces with Line Hidden Line Elimination Dibujando Superficies En Perspectiva Con Eliminacion De Lineas Ocultas
+Embedding into the rectilinear plane in optimal O (n 2)
+Inaccessibility-Inside Theorem for Point in Polygon
+Speeding Up the 3D Surface Generator VESTA
+On Initial Data in the Problem of Consistency on Cubic Lattices for 3 times 3 Determinants
+Ice-Creams and Wedge Graphs
+Operations on polytopes: application to tolerance analysis
+An algorithm for autonomously plotting solution sets in the presence of turning points
+Motion Planning via Manifold Samples
+Optimal Point Movement for Covering Circular Regions
+Bidirected minimum Manhattan network problem
+Computing the Distance between Piecewise-Linear Bivariate Functions
+Bottom-Left Placement Theorem for Rectangle Packing
+Analysis of the Incircle predicate for the Euclidean Voronoi diagram of axes-aligned line segments
+Dualities in persistent (co)homology
+Space Program Language (SPL SQL) for the Relational Approach of the Spatial Databases
+Shallow Low and Light Trees and Tight Lower Bounds for Euclidean Spanners
+Morphing of Triangular Meshes in Shape Space
+Removing Local Extrema from Imprecise Terrains
+An Optimal-Time Construction of Euclidean Sparse Spanners with Tiny Diameter
+The MST of Symmetric Disk Graphs (in Arbitrary Metrics) is Light
+Counting large distances in convex polygons
+Hypothesize and Bound: A Computational Focus of Attention Mechanism for Simultaneous N-D Segmentation Pose Estimation and Classification Using Shape Priors
+Probabilistic Bounds on the Length of a Longest Edge in Delaunay Graphs of Random Points in d-Dimensions
+Homological Coordinatization
+Computing the obstacle number of a plane graph
+Symmetric Connectivity with Directional Antennas
+Efficient computation of the branching structure of an algebraic curve
+Witness Rectangle Graphs
+How to Cover a Point Set with a V-Shape of Minimum Width
+Homological Error Correcting Codes and Systolic Geometry
+Applications of Zigzag Persistence to Topological Data Analysis
+Interactions between Digital Geometry and Combinatorics on Words
+The complexity of tangent words
+Complexity of a Single Face in an Arrangement of s-Intersecting Curves
+Algorithms for the Problems of Length-Constrained Heaviest Segments
+A Note on Separable Nonlinear Least Squares Problem
+Balancing Degree Diameter and Weight in Euclidean Spanners
+Forcing nonperiodicity with a single tile
+Treemaps with Bounded Aspect Ratio
+Bounds on the maximum multiplicity of some common geometric graphs
+The geometric stability of Voronoi diagrams with respect to small changes of the sites
+Solving the Closest Vector Problem with respect to l p Norms
+Convex obstacle numbers of outerplanar graphs and bipartite permutation graphs
+Reducing Interpolation on Multi-Grid to Quantizing Grid's Data-Base as a Recursion
+Reducing Interpolation on Multi-Dimensional Grid to Quantizing Grid's Data-Base as a Recursion
+Discrete Conservation Law on Curved Surfaces
+Fully Retroactive Approximate Range and Nearest Neighbor Searching
+Planar and Poly-Arc Lombardi Drawings
+A Space-Optimal Hidden Surface Removal Algorithm for Iso-Oriented Rectangles
+Dynamic Maintenance of Half-Space Depth for Points and Contours
+Pinning Balloons with Perfect Angles and Optimal Area
+Deconstructing Approximate Offsets
+An inventory of three-dimensional Hilbert space-filling curves
+Spherical coverage verification
+No O(N) queries for checking if N intervals cover everything or for piercing N pairs of intervals. An O(N log N)-steps algorithm for piercing
+Angle-Restricted Steiner Arborescences for Flow Map Layout
+A Dynamic Stabbing-Max Data Structure with Sub-Logarithmic Query Time
+Alexander Duality for Functions: the Persistent Behavior of Land and Water and Shore
+Hypothesize and Bound: A Computational Focus of Attention Mechanism for Simultaneous 3D Shape Reconstruction Pose Estimation and Classification from a Single 2D Image
+Failure Filtrations for Fenced Sensor Networks
+From symmetry break to Poisson point process in 2D Voronoi tessellations: the generic nature of hexagons
+Minimizing the Maximum Interference is Hard
+Three-dimensional Random Voronoi Tessellations: From Cubic Crystal Lattices to Poisson Point Processes
+Multidimensional Online Robot Motion
+Optimally fast incremental Manhattan plane embedding and planar tight span construction
+The maximum number of faces of the Minkowski sum of two convex polytopes
+Spectral descriptors for deformable shapes
+Simplification paths in the Pachner graphs of closed orientable 3-manifold triangulations
+Toward the Rectilinear Crossing Number of K n : New Drawings Upper Bounds and Asymptotics
+Layout of Graphs with Bounded Tree-Width
+Track Layouts of Graphs
+Polyhedral representation conversion up to symmetries
+Moving Walkways Escalators and Elevators
+Quantifying Homology Classes II: Localization and Stability
+Triangulating the Real Projective Plane
+Algorithmic and topological aspects of semi-algebraic sets defined by quadratic polynomial
+On collinear sets in straight line drawings
+Optimizing the double description method for normal surface enumeration
+Evolutionary Construction of Geographical Networks with Nearly Optimal Robustness and Efficient Routing Properties
+Counting Plane Graphs: Flippability and its Applications
+Refined bounds on the number of connected components of sign conditions on a variety
+Bidimensionality and Geometric Graphs
+On the homotopy test on surfaces
+Optimum Partition Parameter of Divide-and-Conquer Algorithm for Solving Closest-Pair Problem
+Integer realizations of disk and segment graphs
+On the Expected Complexity of Random Convex Hulls
+A graph theoretical Gauss-Bonnet-Chern Theorem
+On the Orchard crossing number of prisms ladders and other related graphs
+On empty pentagons and hexagons in planar point sets
+Erd H o s-Szekeres and Testing Weak epsilon-Nets are NP-hard in 3 dimensions - and what now?
+The Clique Problem in Ray Intersection Graphs
+Bounding Interference in Wireless Ad Hoc Networks with Nodes in Random Position
+On the communication between cells of a cellular automaton on the penta- and heptagrids of the hyperbolic plane
+Enumeration of non-orientable 3-manifolds using face pairing graphs and union-find
+The tropical double description method
+Lombardi Drawings of Graphs
+Cohomologous Harmonic Cochains
+Geometric Packing under Non-uniform Constraints
+On the minimum of a polynomial function on a basic closed semialgebraic set and applications
+Approximating Low-Dimensional Coverage Problems
+On the Expected Complexity of Voronoi Diagrams on Terrains
+The Dimension of Spline Spaces with Highest Order Smoothness over Hierarchical T-meshes
+A spectral sequence for parallelized persistence
+Tight lower bounds on the number of faces of the Minkowski sum of convex polytopes via the Cayley trick
+The number of edges in k-quasi-planar graphs
+Approximating the Edge Length of 2-Edge Connected Planar Geometric Graphs on a Set of Points
+Complexity and Algorithms for Euler Characteristic of Simplicial Complexes
+Unfolding Orthogonal Polyhedra with Quadratic Refinement: The Delta-Unfolding Algorithm
+On the Dimension and Euler characteristic of random graphs
+Universal Reconfiguration of (Hyper-)cubic Robots
+Hodge Theory on Metric Spaces
+The Geodesic Diameter of Polygonal Domains
+Approximating the Fr 'echet Distance for Realistic Curves in Near Linear Time
+Conflict-Free Coloring and its Applications
+A Bichromatic Incidence Bound and an Application
+Polyominoes and Polyiamonds as Fundamental Domains of Isohedral Tilings with Rotational Symmetry
+Searching Polyhedra by Rotating Half-Planes
+Computing Cartograms with Optimal Complexity
+Non-crossing Connectors in the Plane
+A graph theoretical Poincare-Hopf Theorem
+Covering and Piercing Disks with Two Centers
+Exact Symbolic-Numeric Computation of Planar Algebraic Curves
+Two Hands Are Better Than One (up to constant factors)
+Finding Convex Hulls Using Quickhull on the GPU
+Spring Embedders and Force Directed Graph Drawing Algorithms
+Visualizing Flat Spacetime: Viewing Optical versus Special Relativistic Effects
+Universal Meshes: A new paradigm for computing with nonconforming triangulations
+A toolkit to describe and interactively display three-manifolds embedded in four-space
+Discrete Variational Calculus for B-spline Approximated Curves
+Normal art galleries: wall in - all in
+Unsolved Problems in Visibility Graphs of Points Segments and Polygons
+PyDEC: Software and Algorithms for Discretization of Exterior Calculus
+Embedding a pair of graphs in a surface and the width of 4-dimensional prismatoids
+Efficient Squares and Turing Universality at Temperature 1 with a Unique Negative Glue
+Inapproximability of Orthogonal Compaction
+A Lower Bound for Shallow Partitions
+Higher dimensional analogues of the map colouring problem
+Fatgraph Algorithms and the Homology of the Kontsevich Complex
+An evaluation of local shape descriptors for 3D shape retrieval
+A sufficient condition for the existence of plane spanning trees on geometric graphs
+Bottleneck Non-Crossing Matching in the Plane
+Locally Linear Embedding Clustering Algorithm for Natural Imagery
+Integrating DGSs and GATPs in an Adaptative and Collaborative Blended-Learning Web-Environment
+The Stretch Factor of L 1 - and L infty -Delaunay Triangulations
+Fr 'echet Distance Revisited and Extended
+Computing L1 Shortest Paths among Polygonal Obstacles in the Plane
+Maximum Inner-Product Search using Tree Data-structures
+Local Routing in Graphs Embedded on Surfaces of Arbitrary Genus
+Drawing Graphs in the Plane with a Prescribed Outer Face and Polynomial Area
+Connection errors in networks of linear features and the application of geometrical reduction in spatial data algorithms
+Duals of Orphan-Free Anisotropic Voronoi Diagrams are Triangulations
+Locating a service facility and a rapid transit line
+Randomized Optimal Consensus of Multi-agent Systems
+Higher-order Erdos--Szekeres theorems
+Practical Conditions for Well-behaved-ness of Anisotropic Voronoi Diagrams
+A discrete geometric approach for simulating the dynamics of thin viscous threads
+Homeomorphic approximation of the intersection curve of two rational surfaces
+Certified Approximation of Parametric Space Curves with Cubic B-spline Curves
+Modeling the geographical studies with GeoGebra-software
+Lower bounds for Arrangement-based Range-Free Localization in Sensor Networks
+Constructing subset partition graphs with strong adjacency and end-point count properties
+Metric Ricci curvature for PL manifolds
+Conflict-free graph orientations with parity constraints
+Distributed Position Localization and Tracking (DPLT) of Malicious Nodes in Cluster Based Mobile Ad hoc Networks (MANET)
+EASAL: Efficient Atlasing Analysis and Search of Molecular Assembly Landscapes
+Traffic Analysis in Random Delaunay Tessellations and Other Graphs
+Optimal Private Halfspace Counting via Discrepancy
+Skeletal Rigidity of Phylogenetic Trees
+Adding one edge to planar graphs makes crossing number and 1-planarity hard
+Circle separability queries in logarithmic time
+General Analysis Tool Box for Controlled Perturbation
+Optimal topological simplification of discrete functions on surfaces
+The Burbea-Rao and Bhattacharyya centroids
+On Approximating the Riemannian 1-Center
+Space-Efficient Data-Analysis Queries on Grids
+Approximating Minimum Manhattan Networks in Higher Dimensions
+epsilon-Samples of Kernels
+Phyllotaxis: a non conventional crystalline solution to packing efficiency in situations with radial symmetry
+Polylogarithmic Approximation for Generalized Minimum Manhattan Networks
+On the number of radial orderings of planar point sets
+Hardness of approximation for crossing number
+Certified Rational Parametric Approximation of Real Algebraic Space Curves with Local Generic Position Method
+Adaptive Techniques to find Optimal Planar Boxes
+Vie Physarale: Evaluation of Roman roads with slime mould
+Space-efficient Algorithms for Visibility Problems in Simple Polygon
+Alternative Tilings for the Fast Multipole Method on the Plane
+Simple Agents Learn to Find Their Way: An Introduction on Mapping Polygons
+Higher Order City Voronoi Diagrams
+Sorted Range Reporting
+0 1 Polytopes with Quadratic Chvatal Rank
+Computation of the topological type of a real Riemann surface
+Computing the Discrete Fr 'echet Distance in Subquadratic Time
+The traveling salesman problem for lines and rays in the plane
+Upper bounds for centerlines
+Annotating Simplices with a Homology Basis and Its Applications
+Efficient cache oblivious algorithms for randomized divide-and-conquer on the multicore model
+Geometric Computations on Indecisive and Uncertain Points
+An index formula for simple graphs
+Indexing Reverse Top-k Queries
+Source Unfoldings of Convex Polyhedra via Certain Closed Curves
+Divide-and-Conquer 3D Convex Hulls on the GPU
+Volumetric Mapping of Genus Zero Objects via Mass Preservation
+Locating a single facility and a high-speed line
+The 1-Center and 1-Highway problem
+Unfolding Prismatoids as Convex Patches: Counterexamples and Positive Results
+Flip Distance Between Two Triangulations of a Point-Set is NP-complete
+Signed Simplicial Decomposition and Overlay of n-D Polytope Complexes
+A Hough Transform Approach to Solving Linear Min-Max Problems
+Robust Non-Parametric Data Approximation of Pointsets via Data Reduction
+Zone diagrams in compact subsets of uniformly convex normed spaces
+Multitriangulations pseudotriangulations and primitive sorting networks
+Volume-Enclosing Surface Extraction
+Generating k-Facets by Induction on the Dimension
+Minimum Average Distance Triangulations
+A Note on Interference in Random Point Sets
+Coloring and Guarding Arrangements
+Simultaneous Embeddings with Vertices Mapping to Pre-Specified Points
+Large convex holes in random point sets
+From Pop-Up Cards to Coffee-Cup Caustics: The Knight's Visor
+Multidimensional Interleavings and Applications to Topological Inference
+Hidden Mobile Guards in Simple Polygons
+Visibility-Monotonic Polygon Deflation
+An Infinite Class of Sparse-Yao Spanners
+Equal Aperture Angles Curve for some Convex Sets in the Plane
+Planarizing an Unknown Surface
+Bend-Bounded Path Intersection Graphs: Sausages Noodles and Waffles on a Grill
+The 2-page crossing number of K n
+A New Upper Bound for the VC-Dimension of Visibility Regions
+Planar Lombardi Drawings for Subcubic Graphs
+Locally Correct Frechet Matchings
+Augmenting a Geometric Matching is NP -complete
+Estimacao Temporal da Deformacao entre Objectos utilizando uma Metodologia Fisica
+The rigidity transition in random graphs
+Coloring Planar Homothets and Three-Dimensional Hypergraphs
+Minimizing interference in ad-hoc networks with bounded communication radius
+Algorithms for Low-Dimensional Topology
+Packing anchored rectangles
+On Computing Optimal Locally Gabriel Graphs
+Determining a rotation of a tetrahedron from a projection
+The Price of Matching Selfish Vertices
+Geometric Pricing: How Low Dimensionality Helps in Approximability
+A Note on Minimum-Sum Coverage by Aligned Disks
+Single-Source Dilation-Bounded Minimum Spanning Trees
+Faster Geometric Algorithms via Dynamic Determinant Computation
+A note on coloring line arrangements
+Online Exploration of Polygons with Holes
+An ML-Format for Conjectures in Geometry (Work-in-Progress)
+Genetic agent approach for improving on-the-fly web map generalization
+Minimal Convex Decompositions
+A correct even-odd algorithm for the point-in-polygon (PIP) problem for complex polygons
+The Graphs of Planar Soap Bubbles
+Computation of the Hausdorff distance between sets of line segments in parallel
+On Locally Gabriel Geometric Graphs
+Online and quasi-online colorings of wedges and intervals
+Fault Tolerance in Cellular Automata at Low Fault Rates
+Computing optimal k-regret minimizing sets with top-k depth contours
+Algorithms on Minimizing the Maximum Sensor Movement for Barrier Coverage of a Linear Domain
+A New Rose : The First Simple Symmetric 11-Venn Diagram
+The Medusa of Spatial Sorting: Topological Construction
+Two player game variant of the Erdos-Szekeres problem
+A Center Transversal Theorem for Hyperplanes and Applications to Graph Drawing
+Computing pseudotriangulations via branched coverings
+Disjoint edges in complete topological graphs
+Complementary vertices and adjacency testing in polytopes
+Delaunay Hodge Star
+An Algorithmic Solution for Computing Circle Intersection Areas and its Applications to Wireless Communications
+Triangulating the Square and Squaring the Triangle: Quadtrees and Delaunay Triangulations are Equivalent
+Complete topology of cells grains and bubbles in three-dimensional microstructures
+The Complexity of MaxMin Length Triangulation
+Fuel Efficient Computation in Passive Self-Assembly
+Stochastic linear programming with a distortion risk constraint
+Compressive Sensing with Local Geometric Features
+Small Strong Epsilon Nets
+On the existence of a neutral region
+Faster Clustering via Preprocessing
+Optimal Fillings - A new spatial subdivision problem related to packing and covering
+G2 Matrix Manifold: A Software Construct
+Opaque sets
+Approximate Nearest Neighbor Search for Low Dimensional Queries
+An improved bound on the number of point-surface incidences in three dimensions
+The inverse moment problem for convex polytopes
+Flow Computations on Imprecise Terrains
+Localized Geometric Query Problems
+Shortest Non-trivial Cycles in Directed and Undirected Surface Graphs
+Chromatic Clustering in High Dimensional Space
+Linear Time Algorithm for Projective Clustering
+Improved Implementation of Point Location in General Two-Dimensional Subdivisions
+Good covers are algorithmically unrecognizable
+Point-Separable Classes of Simple Computable Planar Curves
+Combinatorial Gradient Fields for 2D Images with Empirically Convergent Separatrices
+Counting Plane Graphs: Cross-Graph Charging Schemes
+Minimum Weight Euclidean t-spanner is NP-Hard
+Force-Directed Graph Drawing Using Social Gravity and Scaling
+Progress on Partial Edge Drawings
+A Generalization of the Convex Kakeya Problem
+Unit Disk Cover Problem
+How Many Potatoes are in a Mesh?
+Edge Routing with Ordered Bundles
+Approximation Schemes for Covering and Packing
+Packing identical simple polygons is NP-hard
+The Medusa of Spatial Sorting: 3D Kinetic Alpha Complexes and Implementation
+An Exponential Lower Bound on the Complexity of Regularization Paths
+Geodesic Paths On 3D Surfaces: Survey and Open Problems
+No dimension independent Core-Sets for Containment under Homothetics
+A deterministic algorithm for fitting a step function to a weighted point-set
+On the general position subset selection problem
+On the Sensitivity of Shape Fitting Problems
+A Cheeger-Type Inequality on Simplicial Complexes
+Sparse Modeling of Intrinsic Correspondences
+Exhaustive Search-based Model for Hybrid Sensor Network
+Planar shape manipulation using approximate geometric primitives
+Classification of Hepatic Lesions using the Matching Metric
+Schr o dinger Diffusion for Shape Analysis with Texture
+A presentation of general multipersistence modules computable in polynomial time?
+The optimal drawings of K  n
+Optimization in Differentiable Manifolds in Order to Determine the Method of Construction of Prehistoric Wall-Paintings
+Angular Convergence during Bezier Curve Approximation
+Plane-Sweep Incremental Algorithm: Computing Delaunay Tessellations of Large Datasets
+Inapproximability of the Smallest Superpolyomino Problem
+Hamiltonian Tetrahedralizations with Steiner Points
+Empty Monochromatic Simplices
+Index notation of grid graphs
+On Numbers of Pseudo-Triangulations
+Computational Lower Bounds for Colourful Simplicial Depth
+An interactive programme for Steiner trees
+Solving Linear System of Equations Via A Convex Hull Algorithm
+Interleaved equivalence of categories of persistence modules
+Limited-Capacity Many-To-Many Point Matching in One Dimension
+Minimum Opaque Covers for Polygonal Regions
+Spanners for Geometric Intersection Graphs
+On Computing the Shadows and Slices of Polytopes
+Pi 2-Angle Yao Graphs are Spanners
+On the Fermat-Weber Point of a Polygonal Chain
+Random Projection Trees Revisited
+A Static Optimality Transformation with Applications to Planar Point Location
+The Cost of Bounded Curvature
+Extended formulations for polygons
+Automatically Creating Design Models from 3D Anthropometry Data
+Cayley Configuration Spaces of 1-dof Tree-decomposable Linkages Part II: Combinatorial Characterization of Complexity
+Random Feature Maps for Dot Product Kernels
+Four Soviets Walk the Dog - with an Application to Alt's Conjecture
+Improving the Numerical Robustness of Sphere Swept Collision Detection
+Harmonious Hilbert curves and other extradimensional space-filling curves
+Improved rank bounds for design matrices and a new proof of Kelly's theorem
+Sylvester-Gallai type theorems for approximate collinearity
+Ordered Statistics Vertex Extraction and Tracing Algorithm (OSVETA)
+Hardness Results on Curve Point Set Matching with Fr 'echet Distance
+Trees in simple Polygons
+Discrete Dubins Paths
+Guarding and Searching Polyhedra
+Teichm uller extremal mapping and its applications to landmark matching registration
+Sequential Voronoi diagram calculations using simple chemical reactions
+Fixed-Orientation Equilateral Triangle Matching of Point Sets
+Shattering-Extremal Systems
+Computational topology and normal surfaces: Theoretical and experimental complexity bounds
+Determining the Number of Holes of a 2D Digital Component is Easy
+Towards a Scalable Dynamic Spatial Database System
+Visiting All Sites with Your Dog
+Notes on Convex Transversals
+Hardware-Accelerated Raycasting: Towards an Effective Brain MRI Visualization
+Rendezvous of two robots with visible bits
+The maximum number of faces of the Minkowski sum of three convex polytopes
+Recognition of collapsible complexes is NP-complete
+Graph Laplacians on Singular Manifolds: Toward understanding complex spaces: graph Laplacians on manifolds with singularities and boundaries
+The monotonicity of f-vectors of random polytopes
+Ramsey partitions and proximity data structures
+Convex Hull of Points Lying on Lines in o(n log n) Time after Preprocessing
+Computing the crosscap number of a knot using integer programming and normal surfaces
+Computing links and accessing arcs
+Circular-Arc Cartograms
+Rigidity and flexibility of biological networks
+Flip Distance Between Triangulations of a Planar Point Set is AP-Hard
+Continuum Percolation Thresholds in Two Dimensions
+The hyperbolic Voronoi diagram in arbitrary dimension
+Properties of the dual planar triangulations
+Greedy is good: An experimental study on minimum clique cover and maximum independent set problems for randomly generated rectangles
+How many vertex locations can be arbitrarily chosen when drawing planar graphs?
+Small-Size Relative (p Epsilon)-Approximations for Well-Behaved Range Spaces
+Making Triangles Colorful
+Rectangular tileability and complementary tileability are undecidable
+One Tile to Rule Them All: Simulating Any Turing Machine Tile Assembly System or Tiling System with a Single Puzzle Piece
+Convex Hull and Linear Programming in Read-only Setup with Limited Work-space
+Weak Visibility Queries of Line Segments in Simple Polygons
+Efficient Algorithmic Techniques for Several Multidimensional Geometric Data Management and Analysis Problems
+A Faster Algorithm for Solving One-Clock Priced Timed Games
+Which point sets admit a k-angulation?
+Fault-Tolerant Spanners for Doubling Metrics: Better and Simpler
+Crossings in Grid Drawings
+Explicit Bounding Circles for IFS Fractals
+The McKean-Singer Formula in Graph Theory
+Active Self-Assembly of Algorithmic Shapes and Patterns in Polylogarithmic Time
+Many to Many Matching with Demands and Capacities
+From Quantitative Spatial Operator to Qualitative Spatial Relation Using Constructive Solid Geometry Logic Rules and Optimized -IM Model A Semantic Based Approach
+From 3D Point Clouds To Semantic Objects An Ontology-Based Detection Approach
+A Rank-based Convex Hull method for Dense Data Sets
+Integration of knowledge to support automatic object reconstruction from images and 3D data
+Toward the Automatic Generation of a Semantic VRML Model from Unorganized 3D Point Clouds
+Approximation of Polyhedral Surface Uniformization
+Extremal antipodal polygons and polytopes
+On the definition of homological critical value
+An Invariance Principle for Polytopes
+Drawing Trees with Perfect Angular Resolution and Polynomial Area
+An Optimized Divide-and-Conquer Algorithm for the Closest-Pair Problem in the Planar Case
+A tree traversal algorithm for decision problems in knot theory and 3-manifold topology
+Persistence for Circle Valued Maps
+Vertex unfoldings of tight polyhedra
+Dynamic Planar Point Location with Sub-Logarithmic Local Updates
+The complexity of detecting taut angle structures on triangulations
+Computational topology with Regina: Algorithms heuristics and implementations
+Graph Layouts via Layered Separators
+Closed choice: Cardinality vs convex dimension
+Local Redesigning of Airspace Sectors
+Persistence modules: Algebra and algorithms
+Diffuse Reflections in Simple Polygons
+Extendability of continuous maps is undecidable
+Minimum-Link Paths Revisited
+Peeling the Grid
+Distributed boundary tracking using alpha and Delaunay-Cech shapes
+Quasi-Parallel Segments and Characterization of Unique Bichromatic Matchings
+Greedy is as Good as Delaunay (Almost)
+STEVE - Space-Time-Enclosing Volume Extraction
+The Unified Segment Tree and its Application to the Rectangle Intersection Problem
+Eppstein's bound on intersecting triangles revisited
+Stabbing simplices by points and flats
+Improved bounds and new techniques for Davenport-Schinzel sequences and their generalizations
+Lower bounds for weak epsilon-nets and stair-convexity
+Entropy Triangulation and Point Location in Planar Subdivisions
+Notes on large angle crossing graphs
+Memoryless Routing in Convex Subdivisions: Random Walks are Optimal
+Comparison of Persistent Homologies for Vector Functions: from continuous to discrete and back
+Object-image correspondence for curves under projections
+Linear-Size Approximations to the Vietoris-Rips Filtration
+The number of distinct distances from a vertex of a convex polygon
+Embedding the dual complex of hyper-rectangular partitions
+The structure and stability of persistence modules
+On the possibility of simple parallel computing of Voronoi diagrams and Delaunay graphs
+A combinatorial approach to colourful simplicial depth
+Tatami Maker: A combinatorially rich mechanical game board
+Applications of a new separator theorem for string graphs
+Simple Curve Embedding
+Equilateral L-Contact Graphs
+Computing Similarity between a Pair of Trajectories
+New Hardness Results for Guarding Orthogonal Polygons with Sliding Cameras
+Point Set Isolation Using Unit Disks is NP-complete
+Using Mathematica Matlab for CAGD CAD research and education
+Object-Image Correspondence for Algebraic Curves under Projections
+A 3D Curve Offset Approach for Ruled Surface Generation in Engineering Design
+Computation of the Travelling Salesman Problem by a Shrinking Blob
+Efficient Sparseness-Enforcing Projections
+On the stretch factor of the Theta-4 graph
+Line-Constrained Geometric Server Placement
+A Faster Algorithm for Computing Motorcycle Graphs
+Trajectory Grouping Structures
+Simulation of Fractional Brownian Surfaces via Spectral Synthesis on Manifolds
+Constructing Intrinsic Delaunay Triangulations of Submanifolds
+A Review of Dynamic NURBS Approach
+Parameterized Complexity of Discrete Morse Theory
+Efficient Construction of Spanners in d -Dimensions
+On the boundedness of an iteration involving points on the hypersphere
+Nonsingular Efficient Modeling of Rotations in 3-space using three components
+An Oracle-based Output-sensitive Algorithm for Projections of Resultant Polytopes
+Down the Rabbit Hole: Robust Proximity Search and Density Estimation in Sublinear Space
+Computing a visibility polygon using few variables
+On the Stretch Factor of Randomly Embedded Random Graphs
+Approximating Local Homology from Samples
+Functional Currents : a new mathematical tool to model and analyse functional shapes
+On the computation of zone and double zone diagrams
+The geometric stability of Voronoi diagrams in normed spaces which are not uniformly convex
+Similarity of Polygonal Curves in the Presence of Outliers
+A New Approach to Output-Sensitive Voronoi Diagrams and Delaunay Triangulations
+Topological properties of sets represented by an inequality involving distances
+Measuring Similarity Between Curves on 2-Manifolds via Homotopy Area
+Finding a largest empty convex subset in space is W 1 -hard
+Approximating Minimization Diagrams and Generalized Proximity Search
+A Fast Algorithm for Well-Spaced Points and Approximate Delaunay Graphs
+Graph Induced Complex on Point Data
+Edge Contractions and Simplicial Homology
+Filtrations induced by continuous functions
+On growing connected beta-skeletons
+On the predictability of the number of convex vertices
+Convex hull: Incremental variations on the Akl-Toussaint heuristics Simple optimal and space-saving convex hull algorithms
+The Stability of Delaunay Triangulations
+On the Average Number of Edges in Theta Graphs
+On topological changes in the Delaunay triangulation of moving points
+Geometry driven collapses for converting a Cech complex into a triangulation of a nicely triangulable shape
+Range Counting Coresets for Uncertain Data
+Developing a General algorithm for Ball Curve with GC2
+A Competitive Strategy for Distance-Aware Online Shape Allocation
+Hilbert curves in 2 dimensions generated by L-systems
+The Compressed Annotation Matrix: an Efficient Data Structure for Computing Persistent Cohomology
+Higher-order compatible discretization on hexahedrals
+Fast Clustering with Lower Bounds: No Customer too Far No Shop too Small
+Non-positive curvature and the planar embedding conjecture
+Computing higher homotopy groups is W 1 -hard
+Zone Diagrams in Euclidean Spaces and in Other Normed Spaces
+Optimization over Geodesics for Exact Principal Geodesic Analysis
+Generalized Semimagic Squares for Digital Halftoning
+Minimum-Area Enclosing Triangle with a Fixed Angle
+Dynamic Range Selection in Linear Space
+Polynomial-time homology for simplicial Eilenberg-MacLane spaces
+Multiple-Source Shortest Paths in Embedded Graphs
+Sharp Bounds on Davenport-Schinzel Sequences of Every Order
+Near-Linear-Time Deterministic Plane Steiner Spanners and TSP Approximation for Well-Spaced Point Sets
+On Range Searching with Semialgebraic Sets II
+Angle Optimization of Graphs Embedded in the Plane
+A near-optimal approximation algorithm for Asymmetric TSP on embedded graphs
+Producibility in hierarchical self-assembly
+Optimal Time-Convex Hull under the Lp Metrics
+From Hierarchical Partitions to Hierarchical Covers: Optimal Fault-Tolerant Spanners for Doubling Metrics
+An Optimal Algorithm for the Euclidean Bottleneck Full Steiner Tree Problem
+Gromov-Hausdorff Approximation of Metric Spaces with Linear Structure
+A Clifford Algebra approach to the Discretizable Molecular Distance Geometry Problem
+Geometric Optimization Methods for Adaptive Filtering
+The complexity of generalized domino tilings
+Determination and (re)parametrization of rational developable surfaces
+Tiling simply connected regions with rectangles
+Dynamic Top- k Dominating Queries
+Geometric primitive feature extraction - concepts algorithms and applications
+Correcting self-intersecting polygons using minimal memory A simple and efficient algorithm and thoughts on line-segment intersection algorithms
+Power to the Points: Validating Data Memberships in Clusterings
+A Note on the Unsolvability of the Weighted Region Shortest Path Problem
+The Web Geometry Laboratory Project
+Optimal rates of convergence for persistence diagrams in Topological Data Analysis
+Stability of persistence spaces of vector-valued continuous functions
+Drawing the double circle on a grid of minimum size
+Jaywalking your Dog - Computing the Fr 'echet Distance with Shortcuts
+Colouring the Triangles Determined by a Point Set
+On sequences of projections of the cubic lattice
+Memory-Constrained Algorithms for Simple Polygons
+Partial Searchlight Scheduling is Strongly PSPACE-Complete
+A Characterization of Bispecial Sturmian Words
+Robust Geometric Spanners
+Approximating Majority Depth
+Progress on Dirac's Conjecture
+The Modified Direct Method: an Approach for Smoothing Planar and Surface Meshes
+T-Base: A Triangle-Based Iterative Algorithm for Smoothing Quadrilateral Meshes
+Ear-clipping Based Algorithms of Generating High-quality Polygon Triangulation
+Bringing Order to Special Cases of Klee's Measure Problem
+The Relation Between Offset and Conchoid Constructions
+Distinct distances on two lines
+The Complexity of Simultaneous Geometric Graph Embedding
+Local and Global Analysis of Parametric Solid Sweeps
+Tracing cross-free polylines oriented by a N-symmetry direction field on triangulated surfaces
+KamiWaAi - Interactive 3D Sketching with Java Based on Cl(4 1) Conformal Model of Euclidean Space
+Special positions of body-and-cad frameworks
+Rendezvous of Two Robots with Constant Memory
+On the zone of the boundary of a convex body
+Map Matching with Simplicity Constraints
+Graphs with Plane Outside-Obstacle Representations
+Cole's Parametric Search Technique Made Practical
+Approximate Nearest Neighbor Search in ell p
+Some Results on Open Edge and Open Mobile Guarding of Polygons and Triangulations
+Computing the Greedy Spanner in Linear Space
+Empty triangles in good drawings of the complete graph
+A variant of the multi-agent rendezvous problem
+Euclidean Greedy Drawings of Trees
+Self-Approaching Graphs
+Computing the Fr 'echet Distance with a Retractable Leash
+Automatic Generation of the Axial Lines of Urban Environments to Capture What We Perceive
+Computing the Fewest-turn Map Directions based on the Connectivity of Natural Roads
+Bounds on the Complexity of Halfspace Intersections when the Bounded Faces have Small Dimension
+Making triangulations 4-connected using flips
+Simplification Resilient LDPC-Coded Sparse-QIM Watermarking for 3D-Meshes
+A History of Flips in Combinatorial Triangulations
+Density theorems for intersection graphs of t-monotone curves
+Linear Time Algorithm for Optimal Feed-link Placement
+Flip Distance Between Triangulations of a Simple Polygon is NP-Complete
+Non Total-Unimodularity Neutralized Simplicial Complexes
+Staged Self-Assembly and Polyomino Context-Free Grammars
+On lattices distinct distances and the Elekes-Sharir framework
+Efficient and Global Optimization-Based Smoothing Methods for Mixed-Volume Meshes
+Approximation Schemes for Maximum Weight Independent Set of Rectangles
+Distance domination guarding and vertex cover for maximal outerplanar graph
+Fault Tolerant Clustering Revisited
+Measuring Distance between Reeb Graphs
+Approximate Cech Complexes in Low and High Dimensions
+Estimating the number of disjoint edges in simple topological graphs via cylindrical drawings
+A QPTAS for Maximum Weight Independent Set of Polygons with Polylogarithmically Many Vertices
+Polynomiality for Bin Packing with a Constant Number of Item Types
+Efficient Range Reporting of Convex Hull
+Fixed Parameter Complexity and Approximability of Norm Maximization
+Minimum d-dimensional arrangement with fixed points
+Applied Similarity Problems Using Frechet Distance
+Tight Lower Bounds for Homology Inference
+Local Smooth and Consistent Jacobi Set Simplification
+Schwerdtfeger-Fillmore-Springer-Cnops Construction Implemented in GiNaC
+A Matlab Implementation of a Flat Norm Motivated Polygonal Edge Matching Method using a Decomposition of Boundary into Four 1-Dimensional Currents
+Cluster Identification and Characterization of Physical Fields
+On affine rigidity
+The Stretch Factor of the Delaunay Triangulation Is Less Than 1.
+A Simple Proof of the Existence of a Planar Separator
+Approximating Tverberg Points in Linear Time for Any Fixed Dimension
+Cone fields and topological sampling in manifolds with bounded curvature
+Coloring intersection graphs of x-monotone curves in the plane
+The Coalitional Switch off Game of Service Providers
+On Universal Point Sets for Planar Graphs
+Efficient Inner-product Algorithm for Stabilizer States
+Computing closed essential surfaces in knot complements
+Fast Arithmetic in Algorithmic Self-Assembly
+The Yao Graph Y  is a Spanner
+A Size-Sensitive Discrepancy Bound for Set Systems of Bounded Primal Shatter Dimension
+Means and medians of sets of persistence diagrams
+Drawing Arrangement Graphs In Small Grids Or How To Play Planarity
+Applications of continuous functions in topological CAD data
+A deterministic pseudorandom perturbation scheme for arbitrary polynomial predicates
+Coding and Compression of Three Dimensional Meshes by Planes
+A Simple Circle Discretization Algorithm With Applications
+Isometric embedding of Busemann surfaces into L 1
+Lower bounds for oblivious subspace embeddings
+Drawing Planar Graphs with a Prescribed Inner Face
+A Variational Principle for Improving 2D Triangle Meshes based on Hyperbolic Volume
+A 2-chain can interlock with an open 10-chain
+Morphing Planar Graphs Drawings Efficiently
+On Obstacle Numbers
+Simple and Robust Boolean Operations for Triangulated Surfaces
+On the Impossibility of Dimension Reduction for Doubling Subsets of ell p p2
+1-Visibility Representations of 1-Planar Graphs
+Fitting Voronoi Diagrams to Planar Tesselations
+Few distinct distances implies no heavy lines or circles
+Neighborly inscribed polytopes and Delaunay triangulations
+Many collinear k-tuples with no k 1 collinear points
+Approximate Bregman near neighbors in sublinear time: Beyond the triangle inequality
+The visible perimeter of an arrangement of disks
+An Algorithm for Finding Convex Hulls of Planar Point Sets
+A Hybrid Approach for Optimizing Planar Triangular Meshes
+Algebraic Topology
+Fractal and Mathematical Morphology in Intricate Comparison between Tertiary Protein Structures
+Fixed parameter tractability of crossing minimization of almost-trees
+Transforming planar graph drawings while maintaining height
+Achieving Good Angular Resolution in 3D Arc Diagrams
+Many-to-One Boundary Labeling with Backbones
+Strict Confluent Drawing
+Strip Planarity Testing of Embedded Planar Graphs
+Interpreting a Classical Geometric Proof with Interactive Realizability
+Intrinsic universality and the computational power of self-assembly
+Aggregate-Max Nearest Neighbor Searching in the Plane
+Computing and Analyzing Recoverable Supports for Sparse Reconstruction
+SINR Diagram with Interference Cancellation
+On topological and geometric (1 4) configurations
+Progressive Compression of 3D Objects with an Adaptive Quantization
+Geodesic-Preserving Polygon Simplification
+Trajectory-Based Dynamic Map Labeling
+Algorithms for Computing Topological Invariants in 2D and 3D Digital Spaces
+How good is the Chord algorithm?
+On the Internal Topological Structure of Plane Regions
+A Characterization Theorem and An Algorithm for A Convex Hull Problem
+Probabilistic Range Query over Uncertain Moving Objects in Constrained Two-dimensional Space
+Universal point sets for planar three-tree
+Embedding a balanced binary tree on a bounded point set
+Multiple Bernoulli series and volumes of moduli spaces of flat bundles over surfaces
+Addendum to Uniqueness of certain polynomials constant on a line
+Beyond Locality-Sensitive Hashing
+Approximating Minimum Steiner Point Trees in Minkowski Planes
+A ( 2)-Approximation Algorithm for Guarding Orthogonal Art Galleries with Sliding Cameras
+Shellable drawings and the cylindrical crossing number of K n
+Analysis of the spatial and dynamical properties of a multiscale model of intestinal crypts
+Near Optimal Line Segment Weak Visibility Queries in Simple Polygons
+Distributed computation of persistent homology
+Revisiting the Problem of Searching on a Line
+Flipping Edge-Labelled Triangulations
+Landmark and Intensity Based Registration with Large Deformations via Quasi-conformal Maps
+Four-connected triangulations of planar point sets
+Practical Reduction of Edge Flip Sequences in Two-Dimensional Triangulations
+Testing Graph Isotopy on Surfaces
+Finding the Largest Disk Containing a Query Point in Logarithmic Time with Linear Storage
+Unfolding Orthogrids with Constant Refinement
+Bounding Helly numbers via Betti numbers
+Calibration of an Articulated Camera System with Scale Factor Estimation
+Discriminative Measures for Comparison of Phylogenetic Trees
+Union of Random Minkowski Sums and Network Vulnerability Analysis
+Monotone Grid Drawings of Planar Graphs
+Domain Mapping for Volumetric Parameterization using Harmonic Functions
+Weak Visibility Queries of Line Segments in Simple Polygons and Polygonal Domains
+Hypothesis Testing for Topological Data Analysis
+Delaunay stability via perturbations
+Reducing complexes in multidimensional persistent homology theory
+Maxwell-independence: a new rank estimate for 3D rigidity matroids
+Simplicial Flat Norm with Scale
+Confluent Hasse diagrams
+On projections of arbitrary lattices
+Bichromatic compatible matchings
+Persistence stability for geometric complexes
+Finding Achievable Region among Line-segment Obstacles in the Plane
+Sketches of a platypus: persistent homology and its algebraic foundations
+Rational Univariate Representations of Bivariate Systems and Applications
+Solving Linear Programming with Constraints Unknown
+Approximation algorithms for Euler genus and related problems
+Kinetic Data Structures for the Semi-Yao Graph and All Nearest Neighbors in R d
+Small Superpatterns for Dominance Drawing
+Delaunay triangulation of manifolds
+A Quantitative Steinitz Theorem for Plane Triangulations
+The Complexity of Order Type Isomorphism
+On the Number of Edges of Fan-Crossing Free Graphs
+Local Event Boundary Detection with Unreliable Sensors: Analysis of the Majority Vote Scheme
+Analysis of Farthest Point Sampling for Approximating Geodesics in a Graph
+Semantic Word Cloud Representations: Hardness and Approximation Algorithms
+Computing the Coverage of an Opaque Forest
+Nucleation-free 3D rigidity
+Computing Covers of Plane Forests
+Visual Representation of 3D Language Constructs Specified by Generic Depictions
+Reducing Linear Programs into Min-max Problems
+Packing and Covering a Polygon with Geodesic Disks
+Picking Planar Edges or Drawing a Graph with a Planar Subgraph
+Improved Optimal and Approximate Power Graph Compression for Clearer Visualisation of Dense Graphs
+Fat Polygonal Partitions with Applications to Visualization and Embeddings
+Computing Linear Matrix Representations of Helton-Vinnikov Curves
+G-invariant Persistent Homology
+The varifold representation of non-oriented shapes for diffeomorphic registration
+Average Stretch Factor: How Low Does It Go?
+Randomized incremental construction of the Hausdorff Voronoi diagram of non-crossing clusters
+Computing the Fr ' e chet distance with shortcuts is NP-hard
+Helly-Type Theorems in Property Testing
+Compact families of Jordan curves and convex hulls in three dimensions
+On Optimal Disc Covers and a New Characterization of the Steiner Center
+Stochastic Convergence of Persistence Landscapes and Silhouettes
+On Strong Centerpoints
+Output sensitive algorithm for covering many points
+Linear transformation distance for bichromatic matchings
+Study on Delaunay tessellations of 1-irregular cuboids for 3D mixed element meshes
+The Morse theory of v C ech and Delaunay filtrations
+The self-assembly of paths and squares at temperature 1
+Quasi-Polynomial Time Approximation Scheme for Sparse Subsets of Polygons
+Fast Subspace Approximation via Greedy Least-Squares
+Approximating persistent homology for a cloud of n points in a subquadratic time
+Outerstring graphs are chi -bounded
+Book embeddings of Reeb graphs
+Uncertainty Measures and Limiting Distributions for Filament Estimation
+Geometric graphs on convex point sets
+On Kinetic Delaunay Triangulations: A Near Quadratic Bound for Unit Speed Motions
+Are two given maps homotopic? An algorithmic viewpoint
+Computing the abelian heap of unpointed stable homotopy classes of maps
+On the approximability of covering points by lines and related problems
+A Simple Sweep Line Algorithm for Counting Triangulations and Pseudo-triangulations
+Decomposition of multiple packings with subquadratic union complexity
+Smooth Orthogonal Drawings of Planar Graphs
+A closed-form solution for the flat-state geometry of cylindrical surface intersections bounded on all sides by orthogonal planes
+A Randomized Incremental Approach for the Hausdorff Voronoi Diagram of Non-crossing Clusters
+On the degree of the polynomial defining a planar algebraic curves of constant width
+The Flip Diameter of Rectangulations and Convex Subdivisions
+Indecomposable coverings with homothetic polygons
+Counting Triangulations and other Crossing-free Structures via Onion Layers
+Bar 1-Visibility Graphs and their relation to other Nearly Planar Graphs
+Output-Sensitive Tools for Range Searching in Higher Dimensions
+Dihedral angles and orthogonal polyhedra
+How beta-skeletons lose their edges
+Covering with Excess One: Seeing the Topology
+Reverse nearest neighbor queries in fixed dimension
+Intermediate Sums on Polyhedra: Computation and Real Ehrhart Theory
+Medians and means in Finsler geometry
+Computing all maps into a sphere
+Resolutions and Cohomologies of Toric Sheaves. The affine case
+Enumerating fundamental normal surfaces: Algorithms experiments and invariants
+A Pseudoline Counterexample to the Strong Dirac Conjecture
+Robust statistics hypothesis testing and confidence intervals for persistent homology on metric measure spaces
+Pseudometrically Constrained Centroidal Voronoi Tessellations: Generating uniform antipodally symmetric points on the unit sphere with a novel acceleration strategy and its applications to Diffusion and 3D radial MRI
+Unions of Onions: Preprocessing Imprecise Points for Fast Onion Decomposition
+Separating linear forms for bivariate systems
+The Fiber Walk: A Model of Tip-Driven Growth with Lateral Expansion
+A note on order-type homogeneous point sets
+Geometric Inference on Kernel Density Estimates
+New bounds on the maximum number of edges in k -quasi-planar graphs
+Matching colored points with rectangles
+Quantitative Homotopy Theory in Topological Data Analysis
+Independent and Hitting Sets of Rectangles Intersecting a Diagonal Line : Algorithms and Complexity
+How To Place a Point to Maximize Angles
+On the Bootstrap for Persistence Diagrams and Landscapes
+A Simple Faster Method for Kinetic Proximity Problems
+A Fast and Practical Method to Estimate Volumes of Convex Polytopes
+Selection Lemmas for various geometric objects
+Sphere Packing with Limited Overlap
+Computational Aspects of the Hausdorff Distance in Unbounded Dimension
+On the Complexity of Randomly Weighted Voronoi Diagrams
+Upper Bounds on the Spanning Ratio of Constrained Theta-Graphs
+Computational Topology for Approximations of Knots
+A programme to determine the exact interior of any connected digital picture
+Decidability of the extension problem for maps into odd-dimensional spheres
+Theta : Any-Angle Path Planning on Grids
+Nonidentical circle packing problem: multiple disks installed in a rotating circular container
+Light spanners for snowflake metrics
+Study of Neural Network Algorithm for Straight-Line Drawings of Planar Graphs
+Improved Online Square-into-Square Packing
+How to Walk Your Dog in the Mountains with No Magic Leash
+Bases of T-meshes and the refinement of hierarchical B-splines
+Large Deformation Diffeomorphic Metric Mapping And Fast-Multipole Boundary Element Method Provide New Insights For Binaural Acoustics
+Sparser Johnson-Lindenstrauss Transforms
+Minimum Convex Partitions and Maximum Empty Polytopes
+Cayley configuration spaces of 2D mechanisms Part I: extreme points continuous motion paths and minimal representations
+Relaxing the Constraints of Clustered Planarity
+Effective Topological Degree Computation Based on Interval Arithmetic
+Geometric simulation of locally optimal tool paths in three-axis milling
+Polyhedral computational geometry for averaging metric phylogenetic trees
+A polynomial-time approximation scheme for Euclidean Steiner forest
+Statistical Analysis of Metric Graph Reconstruction
+Correlation of Automorphism Group Size and Topological Properties with Program-size Complexity Evaluations of Graphs and Complex Networks
+A Lattice for Persistence
+Bijective Mappings Of Meshes With Boundary And The Degree In Mesh Processing
+More ties than we thought
+Exploration via Structured Triangulation by a Multi-Robot System with Bearing-Only Low-Resolution Sensors
+Embeddability in the 3-sphere is decidable
+Counting Euclidean embeddings of rigid graphs
+A Duality Transform for Constructing Small Grid Embeddings of 3d Polytopes
+Surfaces Representation with Sharp Features Using Sqrt(3) and Loop Subdivision Schemes
+A graph-theoretical approach for the computation of connected iso-surfaces based on volumetric data
+Morphing Planar Graph Drawings Optimally
+On the reconstruction of convex sets from random normal measurements
+Diffuse Reflection Radius in a Simple Polygon
+Dual Power Assignment via Second Hamiltonian Cycle
+Bounded-Angle Spanning Tree: Modeling Networks with Angular Constraints
+Efficiently navigating a random Delaunay triangulation
+Points defining triangles with distinct circumradii
+Large Deformation Registration via n-dimensional Quasi-conformal Maps
+Analysis of Agglomerative Clustering
+A further generalization of the colourful Carath 'eodory theorem
+Anisotropic k-Nearest Neighbor Search Using Covariance Quadtree
+On a Linear Program for Minimum-Weight Triangulation
+Computing Topological Persistence for Simplicial Maps
+A Conformal Approach for Surface Inpainting
+Efficient Algorithms for One-Dimensional k-Center Problems
+On the Complexity of Barrier Resilience for Fat Regions
+Geometric Registration of High-genus Surfaces
+Convex Polygons are Self-Coverable
+New and Improved Spanning Ratios for Yao Graphs
+Pattern recognition issues on anisotropic smoothed particle hydrodynamics
+Critical Transitions In a Model of a Genetic Regulatory System
+Monotone Simultaneous Embedding of Directed Paths
+Spectral Generalized Multi-Dimensional Scaling
+Automatic recognition and tagging of topologically different regimes in dynamical systems
+Polynomials vanishing on grids: The Elekes-R 'onyai problem revisited
+Algorithms for Dynamic Reeb Graphs
+Cayley Analysis of Mechanism Configuration Spaces using CayMos: Software Functionalities and Architecture
+Intersection of paraboloids and application to Minkowski-type problems
+A Novel Method for Vectorization
+An Extension Of Weiler-Atherton Algorithm To Cope With The Self-intersecting Polygon
+Computational search of small point sets with small rectilinear crossing number
+A-infinity Persistence
+Multiple coverings with closed polygons
+Courcelle's theorem for triangulations
+Complexity of the General Chromatic Art Gallery Problem
+Two-Point L 1 Shortest Path Queries in the Plane
+On the continuous Fermat-Weber problem for a convex polygon using Euclidean distance
+Efficient Computation of Visibility Polygons
+There are Plane Spanners of Maximum Degree 4
+Disjoint compatibility graph of non-crossing matchings of points in convex position
+Online Square-into-Square Packing
+The Density of Fan-Planar Graphs
+QCMC: Quasi-conformal Parameterizations for Multiply-connected domains
+On sub-determinants and the diameter of polyhedra
+Pixelations of planar semialgebraic sets and shape recognition
+Self-improving Algorithms for Coordinate-wise Maxima
+Outerplanar graph drawings with few slopes
+Analytical Solution for the Generalized Fermat-Torricelli Problem
+Some Results On Point Visibility Graphs
+Contributions to Persistence Theory
+Self-improving Algorithms for Coordinate-Wise Maxima and Convex Hulls
+Knots in collapsible and non-collapsible balls
+Lower bounds for k-distance approximation
+Random Discrete Morse Theory and a New Library of Triangulations
+Face-Guarding Polyhedra
+Detecting Similarity of Rational Plane Curves
+Distinct Distances on Curves via Rigidity
+Superpatterns and Universal Point Sets
+The Discrete and Semi-continuous Fr 'echet Distance with Shortcuts via Approximate Distance Counting and Selection
+The guillotine approach for TSP with neighborhoods revisited
+Nonlinear Dimensionality Reduction via Path-Based Isometric Mapping
+Optimal detection of intersections between convex polyhedra
+Efficient Random-Walk Methods for Approximating Polytope Volume
+On Packing Almost Half of a Square with Anchored Rectangles: A Constructive Approach
+QPTAS for Geometric Set-Cover Problems via Optimal Separators
+A lower bound on opaque sets
+Defining and computing persistent Z-homology in the general case
+Embedding Stacked Polytopes on a Polynomial-Size Grid
+Implementation of interaction between soft tissues and foreign bodies using modified voxel model
+Covering nearly surface-embedded graphs with a fixed number of balls
+Causal Dynamics of Discrete Surfaces
+A Computational Framework for Boundary Representation of Solid Sweeps
+Counting Triangulations and other Crossing-Free Structures Approximately
+A directed isoperimetric inequality with application to Bregman near neighbor lower bounds
+Density of range capturing hypergraphs
+Proximal Navigation Graphs and t-spanners
+Evaluation of Labeling Strategies for Rotating Maps
+The Stretch - Length Tradeoff in Geometric Networks: Average Case and Worst Case Study
+From Proximity to Utility: A Voronoi Partition of Pareto Optima
+Approximation Schemes for Partitioning: Convex Decomposition and Surface Approximation
+Extremal examples of collapsible complexes and random discrete Morse theory
+On Level persistence (Relevant level persistence numbers)
+Three-monotone interpolation
+Kinetic Voronoi Diagrams and Delaunay Triangulations under Polygonal Distance Functions
+Matching Curves to Imprecise Point Sets using Fr 'echet Distance
+A Polynomial Time Algorithm for Minimax-Regret Evacuation on a Dynamic Path
+A decomposition theory for vertex enumeration of convex polyhedra
+Straightening out planar poly-line drawings
+Reflections on Tiles (in Self-Assembly)
+The fshape framework for the variability analysis of functional shapes
+Towards Tight Bounds on Theta-Graphs
+ILATO Project: Fusion of Optical Surface Models and Volumetric CT Data
+Theta-3 is connected
+Size-Separable Tile Self-Assembly: A Tight Bound for Temperature-1 Mismatch-Free Systems
+On the Power of Manifold Samples in Exploring Configuration Spaces and the Dimensionality of Narrow Passages
+Categorification of persistent homology
+A short proof for the polyhedrality of the Chv 'atal-Gomory closure of a compact convex set
+Polynomial-time computation of homotopy groups and Postnikov systems in fixed dimension
+Computing Consensus Curves
+A Polynomial Time Algorithm for Finding Area-Universal Rectangular Layouts
+An Algorithm for Computing Constrained Reflection Paths in Simple Polygon
+Making Octants Colorful and Related Covering Decomposition Problems
+Querying Geometric Figures Using a Controlled Language Ontological Graphs and Dependency Lattices
+Finding a Curve in a Point Set
+Halving Balls in Deterministic Linear Time
+Complexity of Higher-Degree Orthogonal Graph Embedding in the Kandinsky Model
+Covering Folded Shapes
+The cusped hyperbolic census is complete
+A Straightforward Preprocessing Approach for Accelerating Convex Hull Computations on the GPU
+Dimension Detection with Local Homology
+The Higher-Order Voronoi Diagram of Line Segments
+Improved algorithm for computing separating linear forms for bivariate systems
+ANN queries: covering Voronoi diagram with hyperboxes
+Space-Time Trade-offs for Stack-Based Algorithms
+Clipping of Arbitrary Polygons with Degeneracies
+Multi-Sided Boundary Labeling
+Layered Separators in Minor-Closed Families with Applications
+A Piano Movers Problem Reformulated
+Separating a Voronoi Diagram via Local Search
+Threesomes Degenerates and Love Triangles
+Ultrarigid periodic frameworks
+Kahler: An Implementation of Discrete Exterior Calculus on Hermitian Manifolds
+Collection of abstracts of the Workshop on Triangulations in Geometry and Topology at CG Week 2014 in Kyoto
+Peeling potatoes near-optimally in near-linear time
+Generalized Mode and Ridge Estimation
+Subsampling Methods for Persistent Homology
+Distinct Distances: Open Problems and Current Bounds
+Optimizing Budget Allocation in Graphs
+Point visibility graph recognition is NP-hard
+Intersection graphs of segments and exists mathbb R
+Disjoint edges in topological graphs and the tangled-thrackle conjecture
+On largest volume simplices and sub-determinants
+Riemannian simplices and triangulations
+A fast 2 -approximation for the minimum unit disk cover problem
+The Minimum Bends in a Polyline Drawing with Fixed Vertex Locations
+Maintaining Contour Trees of Dynamic Terrains
+Scaled pier fractals do not strictly self-assemble
+Local Doubling Dimension of Point Sets
+Properties and Complexity of Fan-Planarity
+Approximating the Maximum Overlap of Polygons under Translation
+On the Complexity of Clustered-Level Planarity and T-Level Planarity
+Semi-algebraic Ramsey numbers
+Convex Hulls under Uncertainty
+A new approach to crushing 3-manifold triangulations
+On Improved Bounds on Bounded Degree Spanning Trees for Points in Arbitrary Dimension
+A fast and robust algorithm to count topologically persistent holes in noisy clouds
+Distribution-Sensitive Construction of the Greedy Spanner
+Fixed parameter tractable algorithms in combinatorial topology
+Constructive discrepancy minimization for convex sets
+A Faster Algorithm for Computing Straight Skeletons
+A PTAS for the continuous 1.D Terrain Guarding Problem
+Smooth Parametrizations in Dynamics Analysis Diophantine and Computational Geometry
+Dense forests and Danzer sets
+Noncooperative algorithms in self-assembly
+Interference Minimization in Asymmetric Sensor Networks
+Universality theorems for inscribed polytopes and Delaunay triangulations
+The Convex Configurations of Sei Shonagon Chie no Ita and Other Dissection Puzzles
+Approximation and Streaming Algorithms for Projective Clustering via Random Projections
+Multicore Homology via Mayer Vietoris
+Persistent Homology Over Directed Acyclic Graphs
+Detecting Weakly Simple Polygons
+Spanning Properties of Theta-Theta Graphs
+Classification of Passes in Football Matches using Spatiotemporal Data
+A Constant-Factor Approximation for Multi-Covering with Disks
+Optimization Techniques on Riemannian Manifolds
+Topological Similarity of Random Cell Complexes and Applications to Dislocation Configurations
+Strict Self-Assembly of Fractals using Multiple Hands
+Diamond-Kite Adaptive Quadrilateral Meshing
+Moving robots efficiently using the combinatorics of CAT(0) cubical complexes
+The theta  -graph is a spanner
+The two-handed tile assembly model is not intrinsically universal
+Algorithmic solvability of the lifting-extension problem
+Seven mutually touching infinite cylinders
+Algorithms and Bounds for Drawing Non-planar Graphs with Crossing-free Subgraphs
+Coloring intersection graphs of arc-connected sets in the plane
+Guaranteed Collision Detection With Toleranced Motions
+String graphs and separators
+Why walking the dog takes time: Frechet distance has no strongly subquadratic algorithms unless SETH fails
+Faster Reductions for Straight Skeletons to Motorcycle Graphs
+Fence patrolling by mobile agents with distinct speeds
+Normal variation for adaptive feature size
+Improved approximation for Fr 'echet distance on c-packed curves matching conditional lower bounds
+The Galois Complexity of Graph Drawing: Why Numerical Solutions are Ubiquitous for Force-Directed Spectral and Circle Packing Drawings
+A Point Counting Algorithm for Cyclic Covers of the Projective Line
+PSPACE-hardness of unlabeled motion planning and variants
+Compatible Connectivity-Augmentation of Planar Disconnected Graphs
+Increasing-Chord Graphs On Point Sets
+Advances on Testing C-Planarity of Embedded Flat Clustered Graphs
+Simultaneous Drawing of Planar Graphs with Right-Angle Crossings and Few Bends
+Discrete Systolic Inequalities and Decompositions of Triangulated Surfaces
+Continuous Yao Graphs
+Balanced Circle Packings for Planar Graphs
+Embedding Four-directional Paths on Convex Point Sets
+Gradient of the Objective Function for an Anisotropic Centroidal Voronoi Tessellation (CVT) - A revised detailed derivation
+Planar Induced Subgraphs of Sparse Graphs
+Simultaneous Embeddability of Two Partitions
+Robust Geometry Estimation using the Generalized Voronoi Covariance Measure
+Voronoi Grid-Shell Structures
+Flat Foldings of Plane Graphs with Prescribed Angles and Edge Lengths
+Accelerating Nearest Neighbor Search on Manycore Systems
+Unstructured Geometric Multigrid in Two and Three Dimensions on Complex and Graded Meshes
+RE2L: An Efficient Output-sensitive Algorithm for Computing Boolean Operation on Circular-arc Polygons
+Algorithms for Tolerant Tverberg Partitions
+Moser's Shadow Problem
+Geometric complexity of embeddings in mathbb R d
+Approximating the Bottleneck Plane Perfect Matching of a Point Set
+Combining persistent homology and invariance groups for shape comparison
+Geometric Random Edge
+Polynomial partitioning on varieties of codimension two and point-hypersurface incidences in four dimensions
+Kinetic Reverse k -Nearest Neighbor Problem
+Distributed Computing by Mobile Robots: Solving the Uniform Circle Formation Problem
+Dimension reduction techniques for ell p 1 le p  infty with applications
+Weak Unit Disk and Interval Representation of Planar Graphs
+Fast Disk Conformal Parameterization of Simply-connected Open Surfaces
+On k -Gons and k -Holes in Point Sets
+A Variant of the Maximum Weight Independent Set Problem
+On the Recognition of Fan-Planar and Maximal Outer-Fan-Planar Graphs
+Drawing Graphs within Restricted Area
+A variant of the Hadwiger-Debrunner (p q)-problem in the plane
+Algorithms in Real Algebraic Geometry: A Survey
+Intermittent Map Matching with the Discrete Fr 'echet Distance
+Efficient Algorithms for Discrepancy Minimization in Convex Sets
+Colorful linear programming Nash equilibrium and pivots
+Aspects of an internal logic for persistence
+Facility location problems in the constant work-space read-only memory model
+Planar Embeddings with Small and Uniform Faces
+A bound on a convexity measure for point sets
+Equivariant semidefinite lifts of regular polygons
+Fair and Square: Cake-cutting in Two Dimensions
+A Note on Rectangle Covering with Congruent Disks
+Similarity of closed polygonal curves in Frechet metric
+Fast algorithmic self-assembly of simple shapes using random agitation
+Higher-Order Triangular-Distance Delaunay Graphs: Graph-Theoretical Properties
+1-String CZ-Representation of Planar Graphs
+Optimal local routing on Delaunay triangulations defined by empty equilateral triangles
+Net and Prune: A Linear Time Algorithm for Euclidean Distance Problems
+Combinatorial presentation of multidimensional persistent homology
+Shortest path problem in rectangular complexes of global nonpositive curvature
+LR characterization of chirotopes of finite planar families of pairwise disjoint convex bodies
+On 2-Site Voronoi Diagrams under Geometric Distance Functions
+A Szemeredi-Trotter type theorem in mathbb R 4
+An upper bound on Euclidean embeddings of rigid graphs with  vertices
+Improved bounds for incidences between points and circles
+Enumerating topological (n k) -configurations
+A fast branching algorithm for unknot recognition with experimental polynomial-time behaviour
+The traveling salesman problem for lines balls and planes
+Characterization of Rational Ruled Surfaces
+Efficient and Robust Persistent Homology for Measures
+Algorithms for distance problems in planar complexes of global nonpositive curvature
+Note on the number of edges in families with linear union-complexity
+Robust Proximity Search for Balls using Sublinear Space
+A Leapfrog Strategy for Pursuit-Evasion in a Polygonal Environment
+Graph matching: relax or not?
+Distinct values of bilinear functions on algebraic curves
+Probably Approximately Symmetric: Fast rigid Symmetry Detection with Global Guarantees
+Fun with Fonts: Algorithmic Typography
+Finding Largest Rectangles in Convex Polygons
+Homotopy equivalence of finite digital images
+A fast algorithm for computing irreducible triangulations of closed surfaces in E d
+Matching in Gabriel Graphs
+A Note on Archetypal Analysis and the Approximation of Convex Hulls
+A Survey on Small-Area Planar Graph Drawing
+Further results on the hyperbolic Voronoi diagrams
+Fast Approximation and Randomized Algorithms for Diameter
+Computing minimum area homologies
+Epsilon-Nets for Halfspaces Revisited
+Multi-Scale Local Shape Analysis and Feature Selection in Machine Learning Applications
+Topological Features In Cancer Gene Expression Data
+Randomized Triangle Algorithms for Convex Hull Membership
+General Position Subsets and Independent Hyperplanes in d-Space
+An upper bound on the k-modem illumination problem
+Geometric Algorithms for Minimal Enclosing Discs in Strictly Convex Normed Planes
+Optimal randomized incremental construction for guaranteed logarithmic planar point location
+Algorithms for Art Gallery Illumination
+Computing the Skorokhod Distance between Polygonal Traces (Full Paper)
+Filling a Hole in a Crease Pattern: Isometric Mapping from Prescribed Boundary Folding
+Spectral Experiments
+Only distances are required to reconstruct submanifolds
+Drawing Partially Embedded and Simultaneously Planar Graphs
+Towards the Evolution of Vertical-Axis Wind Turbines using Supershapes
+On a numerical algorithm for computing topological characteristics of three-dimensional bodies
+Numerical analysis of topological characteristics of three-dimensional geological models of oil and gas fields
+Confidence sets for persistence diagrams
+Network Farthest-Point Diagrams
+Probabilistic Fr 'echet Means for Time Varying Persistence Diagrams
+Spectral Sequences Exact Couples and Persistent Homology of filtrations
+Flips in combinatorial pointed pseudo-triangulations with face degree at most four
+Shortest Paths in Intersection Graphs of Unit Disks
+A Comparison and Evaluation of Map Construction Algorithms
+Covering the Boundary of a Simple Polygon with Geodesic Unit Disks
+Variable sets over an algebra of lifetimes: a contribution of lattice theory to the study of computational topology
+Betweenness Centrality in Dense Random Geometric Networks
+Engineering Art Galleries
+Low Rank Matrix Approximation in Linear Time
+epsilon -Kernel Coresets for Stochastic Points
+On-line coloring between two lines
+A QPTAS for the Base of the Number of Triangulations of a Planar Point Set
+Flat Norm Decomposition of Integral Currents
+Optimal program-size complexity for self-assembly at temperature 1 in 3D
+On Covering a Solid Sphere with Concentric Spheres in mathbb Z 3
+Approximate k-flat Nearest Neighbor Search
+The edit distance for Reeb graphs of surfaces
+On Chord and Sagitta in mathbb Z 2 : An Analysis towards Fast and Robust Circular Arc Detection
+Independent sets and hitting sets of bicolored rectangular families
+The Johnson-Lindenstrauss lemma is optimal for linear dimensionality reduction
+A Mountaintop View Requires Minimal Sorting: A Faster Contour Tree Algorithm
+Tiling rectangles with holey polyominoes
+Linear-Time Algorithms for the Farthest-Segment Voronoi Diagram and Related Tree Structures
+Scaled tree fractals do not strictly self-assemble
+Numeric Invariants from Multidimensional Persistence
+Adaptive tracking of representative cycles in regular and zigzag persistent homology
+Generalized beta -skeletons
+beta -skeletons for a set of line segments in R 2
+Planar beta -skeletons via point location in monotone subdivisions of subset of lunes
+Multidimensional beta -skeletons in L 1 and L infty metric
+Morphing Planar Graph Drawings with Unidirectional Moves
+Morphing Schnyder drawings of planar triangulations
+Folding a Paper Strip to Minimize Thickness
+Pattern overlap implies runaway growth in hierarchical tile systems
+Discretization of Planar Geometric Cover Problems
+Simple strategies versus optimal schedules in multi-agent patrolling
+All-Pairs Minimum Cuts in Near-Linear Time for Surface-Embedded Graphs
+Algorithms for ball hulls and ball intersections in strictly convex normed planes
+Partial-Matching and Hausdorff RMS Distance Under Translation: Combinatorics and Algorithms
+1 -String B 2 -VPG Representation of Planar Graphs
+Coordinate-Free Quantification of Coverage in Dynamic Sensor Networks
+On Unit Distances in a Convex Polygon
+Triangle-free intersection graphs of line segments with large chromatic number
+On Top- k Weighted SUM Aggregate Nearest and Farthest Neighbors in the L 1 Plane
+Triangle-free geometric intersection graphs with large chromatic number
+Coloring triangle-free rectangle overlap graphs with O( log log n) colors
+Facets for Art Gallery Problems
+Terrain visibility with multiple viewpoints
+Alpha-Concave Hull a Generalization of Convex Hull
+Sharpening Geometric Inequalities using Computable Symmetry Measures
+Recursively-Regular Subdivisions and Applications
+Toward a unified theory of sparse dimensionality reduction in Euclidean space
+Distinct volume subsets
+Region-based approximation of probability distributions (for visibility between imprecise points among obstacles)
+Quasi-configurations: building blocks for point-line configurations
+Triangle-free geometric intersection graphs with no large independent sets
+Bottleneck Partial-Matching Voronoi Diagrams and Applications
+On Self-Approaching and Increasing-Chord Drawings of 3-Connected Planar Graphs
+On the Chain Pair Simplification Problem
+Vertex Guarding in Weak Visibility Polygons
+Toward the Hanani-Tutte Theorem for Clustered Graphs
+On Low Discrepancy Samplings in Product Spaces of Motion Groups
+Uniformity of point samples in metric spaces using gap ratio
+Randomized Rounding for the Largest j -Simplex Problem
+Topology preserving representations of compact 2D manifolds by digital 2-surfaces. Compressed digital models and digital weights of compact 2D manifolds. Classification of closed surfaces by digital tools
+Competitive Local Routing with Constraints
+Shortest Path in a Polygon using Sublinear Space
+Batched Point Location in SINR Diagrams via Algebraic Tools
+Using Optimization to Find Maximum Inscribed Balls and Minimum Enclosing Balls
+Convex Hull for Probabilistic Points
+On the number of rich lines in truly high dimensional sets
+Combinatorial Redundancy Detection
+Space Exploration via Proximity Search
+Throat Finding Algorithms based on Throat Types
+Efficient algorithms to decide tightness
+Topological analysis of scalar fields with outliers
+Low-quality dimension reduction and high-dimensional Approximate Nearest Neighbor
+On the Beer index of convexity and its variants
+A higher homotopic extension of persistent (co)homology
+Adjusted least squares fitting of algebraic hypersurfaces
+Minimizing the Aggregate Movements for Interval Coverage
+Minkowski sum of HV-polytopes in Rn
+Minkowski sum of polytopes defined by their vertices
+Numeric certified algorithm for the topology of resultant and discriminant curves
+Computational Aspects of the Colorful Caratheodory Theorem
+The rank invariant stability via interleavings
+Size sensitive packing number for Hamming cube and its consequences
+Almost Tight Bounds for Conflict-Free Chromatic Guarding of Orthogonal Galleries
+Efficient edge-skeleton computation for polytopes defined by oracles
+On the Complexity of Immersed Normal Surfaces
+The rectilinear Steiner tree problem with given topology and length restrictions
+Area and Perimeter of the Convex Hull of Stochastic Points
+Shallow Packings in Geometry
+Kinetic k -Semi-Yao Graph and its Applications
+A Fire Fighter's Problem
+Planar lower envelope of monotone polygonal chains
+Strong Equivalence of the Interleaving and Functional Distortion Metrics for Reeb Graphs
+On the Richter-Thomassen Conjecture about Pairwise Intersecting Closed Curves
+Discrete Conformal Deformation: Algorithm and Experiments
+Coloring graphs using topology
+Robust Topological Inference: Distance To a Measure and Kernel Distance
+Statistical topological data analysis using persistence landscapes
+Clustered planarity testing revisited
+Induced Matchings of Barcodes and the Algebraic Stability of Persistence
+Efficient Multi-Robot Motion Planning for Unlabeled Discs in Simple Polygons
+Computing the L 1 Geodesic Diameter and Center of a Simple Polygon in Linear Time
+Recurrence for Multidimensional Space-Filling Functions
+On-line approach to off-line coloring problems on graphs with geometric representations
+Approximating Persistent Homology in Euclidean Space Through Collapses
+Persistence Barcodes versus Kolmogorov Signatures: Detecting Modes of One-Dimensional Signals
+The Offset Filtration of Convex Objects
+A Danzer set for Axis Parallel Boxes
+Physical Light as a Metaphor for Inner Light
+The Unreasonable Success of Local Search: Geometric Optimization
+Introduction to the R package TDA
+Spiral Toolpaths for High-Speed Machining of 2D Pockets with or without Islands
+On The Number of Similar Instances of a Pattern in a Finite Set
+A persistence landscapes toolbox for topological statistics
+Primal-Dual Representations of Planar Graphs and L-Contact Representations of Optimal 1-Planar Graphs
+Contact Representations of Sparse Planar Graphs
+A polynomial time algorithm for finding an approximate shortest path amid weighted regions
+The number of unit-area triangles in the plane: Theme and variations
+A linear-time algorithm for the geodesic center of a simple polygon
+Approximation Algorithms for Low-Density Graphs
+Two-Level Rectilinear Steiner Trees
+Derivative coordinates for analytic tree fractals and fractal engineering
+Upper and Lower Bounds for Competitive Online Routing on Delaunay Triangulations
+Central Trajectories
+Range Queries on Uncertain Data
+Visibility in Proximal Delaunay Meshes
+Tighter Estimates for epsilon-nets for Disks
+BITS-Tree-An Efficient Data Structure for Segment Storage and Query Processing
+Liftings and stresses for planar periodic frameworks
+Geometric auxetics
+Deforming Diamond
+On Computability and Triviality of Well Groups
+Packing Plane Perfect Matchings into a Point Set
+A faster algorithm for the discrete Fr 'echet distance under translation
+Size-optimal Steiner points for Delaunay-refinement on curved surfaces
+Ricci Curvature of the Internet Topology
+Categorified Reeb Graphs
+A Novel Implementation of QuickHull Algorithm on the GPU
+Discrete Voronoi Games and epsilon -Nets in Two and Three Dimensions
+3-Monotone Expanders
+Structure of Schnyder labelings on orientable surfaces
+GPU Programming - Speeding Up the 3D Surface Generator VESTA
+Mixed Map Labeling
+Label Placement in Road Maps
+The parameterized complexity of some geometric problems in unbounded dimension
+Fixed-parameter tractability and lower bounds for stabbing problems
+The Theory of the Interleaving Distance on Multidimensional Persistence Modules
+On the Shape of Curves that are Rational in Polar Coordinates
+Empty pentagons in point sets with collinearities
+Computing the Gromov hyperbolicity of a discrete metric space
+Coloring Hypergraphs Induced by Dynamic Point Sets and Bottomless Rectangles
+Using ILP SAT to determine pathwidth visibility representations and other grid-based graph drawings
+Path-Based Distance for Street Map Comparison
+A Hermite interpolatory subdivision scheme for C 2 -quintics on the Powell-Sabin 12-split
+Metrics for generalized persistence modules
+Sphere Recognition: Heuristics and Examples
+Computing maximal copies of polytopes contained in a polytope
+A new algorithm for solving the rSUM problem
+10-Gabriel graphs are Hamiltonian
+Asymmetric polygons with maximum area
+Implicitization of rational hypersurfaces via linear syzygies: a practical overview
+Multicuts in Planar and Bounded-Genus Graphs with Bounded Number of Terminals
+A polynomial regularity lemma for semi-algebraic hypergraphs and its applications in geometry and property testing
+The Number of Holes in the Union of Translates of a Convex Set in Three Dimensions
+An Extension of the Dirichlet Density for Sets of Gaussian Integers
+Interactive 3D Face Stylization Using Sculptural Abstraction
+Simultaneous Time-Space Upper Bounds for Certain Problems in Planar Graphs
+A geometric approach for the upper bound theorem for Minkowski sums of convex polytopes
+An improved lower bound for one-dimensional online unit clustering
+Optimum-width upward drawings of trees I: Rooted pathwidth
+Characterization of Curved Creases and Rulings: Design and Analysis of Lens Tessellations
+Semi-dynamic connectivity in the plane
+A Constant Factor Approximation for Orthogonal Order Preserving Layout Adjustment
+A local strategy for cleaning expanding cellular domains by simple robots
+Geometric Spanning Cycles in Bichromatic Point Sets
+On the Minimum Cost Range Assignment Problem
+P -persistent homology of finite topological spaces
+A PTAS for the Weighted Unit Disk Cover Problem
+Point sets with many non-crossing matchings
+The number of non-crossing perfect plane matchings is minimized (almost) only by point sets in convex position
+It's a Tough Nanoworld: in Tile Assembly Cooperation is not (strictly) more Powerful than Competition
+Planar Linkages Following a Prescribed Motion
+Locked and Unlocked Chains of Planar Shapes

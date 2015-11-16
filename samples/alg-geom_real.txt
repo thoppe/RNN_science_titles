@@ -1,0 +1,1423 @@
+Convex polytopes and linear algebra
+The Gross-Kohnen-Zagier theorem in higher dimensions
+A sparse effective Nullstellensatz
+Algorithmic Computation of Local Cohomology Modules and the Cohomological Dimension of Algebraic Varieties
+Ladders on Fano varieties
+Special Lagrangian Fibrations I: Topology
+Inequalities for semistable families of arithmetic varieties
+On the index of a vector field at an isolated singularity
+On The Projective Normality of Smooth Surfaces of degree nine
+Isolated rational curves on K3-fibered Calabi-Yau threefolds
+Canonical rational equivalence of intersections of divisors
+Invariant stable bundles over modular curves (p)
+Quasi-algebraic geometry of curves I. Riemann-Roch theorem and Jacobian
+The product formula for Gromov-Witten invariants
+Moduli of Trigonal Curves
+Generalized Reed-Muller codes and curves with many points
+Un th 'eor eme de Rao pour les familles de courbes gauches
+Generation of k -jets on Toric Varieties
+On a conjecture of Lange
+Birational Calabi--Yau n-folds have equal Betti numbers
+Cohomology of complete intersections in toric varieties
+Real deformations and complex topology of plane curve singularities
+The Geometry of the Space of Holomorphic Maps from a Riemann Surface into Complex Projective Space
+Minimal even sets of nodes
+Hyperkaehler structures on total spaces of holomorphic cotangent bundles
+Injective resolutions of BG and derived moduli spaces of local systems
+On the infinitesimal rigidity of homogeneous varieties
+Irreducibility of the moduli space of vector bundles on surfaces and Brill-Noether theory on singular curves
+The universal rank-(n-1) bundle on G(1 n) restricted to subvarieties
+Involutions on Moduli Spaces and Refinements of the Verlinde Formula
+Frobenius Manifolds and Formality of Lie Algebras of Polyvector Fields
+On the k-normality of some projective manifolds
+On the variety of rational space curves
+On higher order embeddings of Fano threefolds by the anticanonical linear system
+Resonant Hypergeometric Systems and Mirror Symmetry
+Pure Hodge structure on the L 2 -cohomology of varieties with isolated singularities
+Approximation by smooth curves near the tangent cone
+Beyond the Manin obstruction
+Construction de familles minimales de courbes gauches
+Stringy Hodge numbers of varieties with Gorenstein canonical singularities
+Constructing curves over finite fields with many points by solving linear equations
+Hypergeometric functions on reductive groups
+First quantum correction for the moduli space of stable bundles over a Riemann surface
+Topological Triviality of mu -constant Deformations of Type f(x) tg(x)
+Weak approximation Brauer and R-equivalence in algebraic groups over arithmetical fields
+On the theta divisor of SU(2 1)
+Chern Classes of Bundles over Rational Surfaces
+Stringy Hodge numbers and Virasoro algebra
+Semistable reduction in characteristic 0 for families of surfaces and three-folds
+A geometric approach to the fundamental lemma for unitary groups
+Equations of the moduli of pointed curves in the infinite Grassmannian
+Cellular Resolutions of Monomial Modules
+Complements on surfaces
+Cycles on Siegel 3-folds and derivatives of Eisenstein series
+Symmetric matrices and quantum codes
+Mathematical Instantons In Characteristic Two
+On moduli spaces of 4- or -instanton bundles
+Classification of Exceptional Complements: Elliptic Curve Case
+Quantum cohomology of the moduli space of stable bundles over a Riemann surface
+The enumerative geometry of K3 surfaces and modular forms
+On the classification of hyperbolic root systems of the rank three. Part I
+Uniform Zariski's Theorem On Fundamental Groups
+Minimal discrepancies of hypersurface singularities
+On the Euler Characteristic of Generalized Kummer Varieties
+Coupled Contact Systems and Rigidity of Maximal Dimensional Variations of Hodge Structure
+Tamagawa numbers of polarized algebraic varieties
+Real Algebraic Surfaces
+Real Algebraic Threefolds I: Terminal Singularities
+Real Algebraic Threefolds II: Minimal Model Program
+Homological infiniteness of Torelli groups
+Toric varieties and minimal complexes
+Quantum Hyperplane Section Theorem For Homogeneous Spaces
+The Character of the Infinite Wedge Representation
+Structures du cube et fibres d'intersection
+Eigenvalues of products of unitary matrices and quantum Schubert calculus
+Subadjunction of log canonical divisors II
+The universal regular quotient of the Chow group of 0-cycles on a singular projective variety
+Deformations of canonical singularities
+On the cone of curves of an abelian variety
+Secondary Kodaira-Spencer classes and nonabelian Dolbeault cohomology
+Analogue of Weil representation for abelian schemes
+Poisson structures and birational morphisms associated with bundles on elliptic curves
+A canonical lift of Chern-Mather classes
+Symplectic cutting of Kaehler manifolds
+Heisenberg-invariant Kummer surfaces
+Degenerations of (1 3) abelian surfaces and Kummer surfaces
+The arithmetic-geometric mean and isogenies for curves of higher genus
+Zero-pole interpolation for matrix meromorphic functions on a compact Riemann surface and a matrix Fay trisecant identity
+The L 2 dbar method weak Lefschetz theorems and the topology of Kahler manifolds
+Descent for Shimura Varieties
+A morphism of intersection homology induced by an algebraic map
+On the classification of hyperbolic root systems of the rank three. Part II
+Toric Degenerations of Fano Varieties and Constructing Mirror Manifolds
+Comparison of the algebraic and the symplectic Gromov-Witten invariants
+Uhlenbeck compactness and transversality for the moduli space of PU(2) monopoles
+PU(2) Monopoles I: Regularity Uhlenbeck Compactness and Transversality
+PU(2) monopoles. II: Top-level Seiberg-Witten moduli spaces and Witten's conjecture in low degrees
+Projectivity of moment map quotients
+Homotopy types of complements of 2-arrangements in R 4
+Factorizable sheaves and quantum groups
+Five Lectures on Soliton Equations
+The quantum Euler class and the quantum cohomology of the Grassmannians
+On hypergeometric functions connected with quantum cohomology of flag spaces
+Integrability in 3 1 Dimensions: Relaxing a Tetrahedron Relation
+The Space of Triangles Vanishing Theorems and Combinatorics
+Homology of iterated semidirect products of free groups
+Parabolic Higgs bundles and Teichm uller spaces for punctured surfaces
+Rational Curves on Calabi-Yau Threefolds
+Gorenstein Threefold Singularities with Small Resolutions via Invariant Theory for Weyl Groups
+Complex Contact Threefolds and Their Contact Curves
+Mirror symmetry and rational curves on quintic threefolds: a guide for mathematicians
+On the difference between real and complex arrangements
+Twistors Kaehler Manifolds and Bimeromorphic Geometry II
+The algebraic de Rham theorem for toric varieties
+On irregular links at infinity of algebraic plane curves
+Another Relation Between Approaches to the Schottky Problem
+The Geometry and Arithmetic of Elliptic Surfaces
+Cohomology of coherent sheaves on a proper scheme
+Deformations of Semi-Euler Characteristics
+Degenerations of generalized KNN algebras on tori
+Note on curves in a Jacobian
+Congruences for real algebraic curves on an ellipsoid
+Extensions of Rokhlin congruence for curves on surfaces
+Arithmetically Cohen-Macaulay Curves cut out by Quadrics
+The cohomological Brauer group of a toric variety
+Disproving Hibi's Conjecture with CoCoA or Projective Curves with bad Hilbert Functions
+Grobner bases and extension of scalars
+Classical Polylogarithms
+Regulators and characteristic classes of flat bundles
+Sur la cohomologie de certains espaces de modules de fibr 'es vectoriels
+The Singularities of the parameter surface of a minimal elliptic threefold
+Picard-Fuchs equations and mirror maps for hypersurfaces
+Cohomological and Cycle-theoretic connectivity
+Complex Divisors on Algebraic Curves and Some Applications to String Theory
+Exceptional linear systems on curves on Enriques surfaces
+Prym Varieties and Integrable Systems
+Computing the Cohomological Brauer Group of a Toric Variety
+On the Abel-Jacobi Map for Divisors of Higher Rank on a Curve
+Homotopy groups of the complements to singular hypersurfaces II
+Weierstrass Gap Sequence at Total Inflection Points of Nodal Plane Curves
+Report on the Torsion of the Differential Module of an algebraic Curve
+Cohomology Symmetry and Perfection
+Chern classes and degenerations of hypersurfaces and their lines
+Notes on Kodaira energies of polarized varieties
+Upper Bounds for the Betti Numbers of a given Hilbert Function
+On the Tangent Space to the Universal Teichmuller Space
+Affine like Surfaces
+Extremal Rays and Null Geodesics on a Complex Conformal Manifold
+Two Two-dimensional Terminations
+Corps quadratiques dont le -rang du groupe des classes est =3
+Rang de courbes elliptiques d'invariant donne
+The fibers of the Prym map
+The complex separation and extensions of Rokhlin congruence for curves on surfaces
+Completions of mapping class groups and the cycle C - C -
+Abelian varieties over Q and modular forms
+Weierstrass weight of Gorenstein singularities with one or two branches
+Torsion Sections of Semistable Elliptic Surfaces
+On the (-1) -curve conjecture of Friedman and Morgan
+Arrangements of Hyperplanes and Vector Bundles on P n
+Chow quotients of Grassmannian I
+The simple method of distinguishing the underlying differentiable structures of algebraic surfaces
+Points of Low Degree on Smooth Plane Curves
+Degrees of Curves in Abelian Varieties
+Reductive group actions on K ahler manifolds
+Stable pairs linear systems and the Verlinde formula
+Elliptic Three-folds I: Ogg-Shafarevich Theory
+Stable pairs on curves and surfaces
+Algebraic approximations of holomorphic maps from Stein domains to projective manifolds
+The enumeration of simultaneous higher-order contacts between plane curves
+Automorphisms and the K ahler cone of certain Calabi-Yau manifolds
+Lines on Calabi Yau complete intersections mirror symmetry and Picard Fuchs equations
+Minimal Cohomology Classes and Jacobians
+Non-trivial Linear Systems on Smooth Plane Curves
+The Geometry of Bielliptic Surfaces in P 4
+The topology of the space of rational curves on a toric variety
+Rational curves on Calabi-Yau manifolds: verifying predictions of Mirror Symmetry
+Bounds of automorphism groups of genus 2 fibrations
+A note on non-vanishing and applications
+On the surjectivity of Wahl maps on a general curve
+Lefschetz Fixed Point Theorem and Lattice Points in Convex Polytopes
+Intersection homology Betti numbers
+A Finiteness Theorem for Quaternionic-Kaehler Manifolds with Positive Scalar Curvature
+Semistable Minimal Models of Threefolds in Positive or Mixed Characteristic
+Projective varieties with many degenerate subvarieties
+Deformations of cones over hyperelliptic curves
+Theta Functions for SL(n) versus GL(n)
+Free pencils on divisors
+Seshadri constants gonality of space curves and restriction of stable bundles
+The Variety of Positive Superdivisors of a Supercurve (Supervortices)
+Birational Equivalences of Vortex Moduli
+Refined intersection products and limiting linear subspaces of hypersurfaces
+What can be computed in algebraic geometry
+Holomorphic Slices Symplectic Reduction and Multiplicities of Representations
+Schur quadrics cubic surfaces and rank 2 vector bundles over the projective plane
+Recovering of curves with involution by extended Prym data
+Compactifications of moduli spaces inspired by mirror symmetry
+A General Noether-Lefschetz Theorem and applications
+A Finiteness Theorem for Elliptic Calabi-Yau Threefolds
+Log contractions and equidimensional models of elliptic threefolds
+Kodaira energies of polarized log varieties
+Inequality of Bogomolov-Gieseker's type on arithmetic surfaces
+The Noether exponent and Jacobi formula
+An inequality for polynomial mappings
+Injectivity on one line
+On the approximate roots of polynomials
+Finding Sparse Systems of Parameters
+On the fundamental group of an abelian cover
+The automorphism group of the moduli space of semi stable vector bundles
+Picard groups of Hilbert schemes of curves
+Linear Structure on Calabi-Yau Moduli Spaces
+Very ample linear systems on abelian varieties
+Gromov Invariants for Holomorphic Maps from Riemann Surfaces to Grassmannians
+Bogomolov Instability and Kawamata-Viehweg Vanishing
+Trisecant Lines And Jacobians II
+Distribution of Energy Levels of a Quantum Free Particle on a Surface of Revolution
+Classification of smooth congruences with a fundamental curve
+On stability of tangent bundles of Fano manifolds with b 2=1
+On the Hodge Structure of Projective Hypersurfaces in Toric Varieties
+Localization for nonabelian group actions
+Vector bundles and SO(3) invariants for elliptic surfaces I
+Vector bundles and SO(3) invariants for elliptic surfaces II: The case of even fiber degree
+Arithmetic Bogomolov-Gieseker's inequality
+Duistermaat-Heckman measures in a non-compact setting
+Boundary of the Picard Group of a Singular Curve
+Compactified Jacobian of some Singular Curves
+Hyperholomorphic bundles
+Hyperkaehler and holomorphic symplectic geometry
+On the Griffiths group of the cubic sevenfold
+The Euler Series of Restricted Chow Varieties
+Some remarks on the Kronheimer-Mrowka classes of algebraic surfaces
+Vector bundles and SO(3) invariants for elliptic surfaces III: The case of odd fiber degree
+The existence of higher logarithms
+Unobstructedness of Calabi-Yau OrbiKleinfolds
+Theoremes de connexites et varietes abeliennes
+A family of 'etale coverings of the affine line
+Generic Singularities of Holomorphic Foliations
+Differential-geometric methods for the lifting problem and linear systems on plane curves
+Conic bundles in projective fourspace
+The Monomial-Divisor Mirror Map
+Towards the Mirror Symmetry for Calabi-Yau Complete intersections in Gorenstein Toric Fano Varieties
+General hyperplane sections of nonsingular flops in dimension 3
+Dual Polyhedra and Mirror Symmetry for Calabi-Yau Hypersurfaces in Toric Varieties
+Quantum Cohomology Rings of Toric Manifolds
+Teichm uller Theory and the Universal Period Mapping via Quantum Calculus and the H 1 2 Space on the Circle
+Torsion Sections of Elliptic Surfaces
+Initial ideals Veronese subrings and rates of algebras
+A Propos de l'Existence de Fibr 'es Stables sur les Surfaces
+On Banica sheaves and Fano manifolds
+Geometric height inequality on varieties with ample cotangent bundles
+On discrete Zariski-dense subgroups of algebraic groups
+Irreducibility of Moduli Spaces of Vector Bundles on Birationally Ruled Surfaces
+Surfaces of Degree 10 in the Projective Fourspace via Linear Systems and Linkage
+On the Picard Number of Fano 3-Folds with Terminal Singularities
+Spin polynomial invariants for Dolgachev surfaces
+On Brauer Groups of Real Enriques Surfaces
+On the Brauer Group of Real Algebraic Surfaces
+On the Topological Classification of Real Enriques Surfaces. I
+Remarks on Ein-Lazarsfeld criterion of spannedness of adjoint bundles of polarized threefolds
+The Functor of a Smooth Toric Variety
+Complete ideals defined by sign conditions and the real spectrum of a two-dimensional local ring
+Thickening Calabi-Yau moduli spaces
+On Koszul property of the homogeneous coordinate ring of a curve
+On the Hilbert Schemes of Canonically-Embedded Curves of Genus  and 6
+An algorithmic criterion for basicness in dimension 2
+Rational curves on Calabi-Yau threefolds
+On the Harder-Narasimhan Filtration for Coherent Sheaves on P2: I
+Components of the Stack of Torsion-Free Sheaves of Rank 2 on Ruled Surfaces
+Enumeration of n -fold tangent hyperplanes to a surface
+Binomial Ideals
+Holomorphic functions on an algebraic group invariant under a Zariski-dense subgroup
+The Fundamental Group of Some Siegel Modular Threefolds
+Matrix identities connected with the jacobian conjecture
+Stable cohomology of the mapping class group with symplectic coefficients and of the universal Abel-Jacobi map
+A common generalization of the Fr olicher-Nijenhuis bracket and the Schouten bracket for symmetry multi vector fields
+Stable triples equivariant bundles and dimensional reduction
+The Connectedness of Space Curve Invariants
+Diagram Method for 3-Folds and its Application to Kahler Cone and Picard Number of Calabi-Yau 3-Folds I. with Appendix by Vyacheslav V. Shokurov: Anticanonical boundedness for curves
+The theta divisior of the bidegree (2 2) threefold in bf P 2 times bf P 2
+Dual Cones and Mirror Symmetry for Generalized Calabi-Yau Manifolds
+The combinatorics of the Verlinde formulas
+Boundedness theorem for Fano log-threefolds
+The Tangent Space at a Special Symplectic Instanton Bundle on P 2n 1
+On surfaces in P 4 and 3-folds in P 
+Boundedness and K 2 for log surfaces
+Variation of Geometric Invariant Theory Quotients
+On the Locus of Hodge Classes
+On Polarized Manifolds of Sectional Genus Three
+Degree of the generalized Pl ucker embedding of a Quot scheme and Quantum cohomology
+Factorization theorems for the representations of the fundamental groups of quasiprojective varieties and some applications
+Faltings modular height and self-intersection of dualizing sheaf
+The Deformation Space of Calabi-Yau n-folds with canonical singularities can be obstructed
+Residual Intersections and Some Applications
+Intersection Theory on Toric Varieties
+Toric Q-Gorenstein Singularities
+The versal Deformation of an isolated toric Gorenstein Singularity
+Siegel modular forms generated by invariants of cubic hypersurfaces
+Hyperkaehler Embeddings II
+Towards a Schubert calculus for maps from a Riemann surface to a Grassmannian
+Torus embeddings and algebraic intersection complexes
+Torus embeddings and algebraic intersection complexes II
+On Quantum Cohomology Rings of Fano Manifolds and a Formula of Vafa and Intriligator
+Hodge index theorem for arithmetic cycles of codimension one
+Minimal discrepancies of toric singularities
+Complexes inattendus de droites de saut (Unexpected complex of jumping lines)
+On Chow Rings of Fine Moduli Spaces of Modules
+Torelli Groups and Geometry of Moduli Spaces of Curves
+Groupe de Picard de la vari 'et e de modules des th eta-caracteristiques des courbes planes
+Vector bundles on curves and generalized theta functions: recent results and open problems
+Nonnormal del Pezzo surfaces
+Bogomolov unstability on arithmetic surfaces
+Moduli of vector bundles on projective surfaces: some basic results
+On curves and surfaces with projectively equivalent hyperplane sections
+Degenerations of abelian surfaces and Hodge structures
+On the Existence of Supersingular Curves of Given Genus
+Crepant resolution of trihedral singularities
+Moduli of abelian surfaces with a (1 p 2) polarisation
+Computing Multidimensional Residues
+Group cohomology construction of the cohomology of moduli spaces of flat connections on 2-manifolds
+Symplectic Forms on Moduli Spaces of Flat Connections on 2-manifolds
+Conformal blocks fusion rules and the Verlinde formula
+The blowup formula for Donaldson invariants
+An Algorithmic Proof of Suslin's Stability Theorem over Polynomial Rings
+Geometric invariant theory and flips
+Higher-order differentials of the period map and higher Kodaira-Spencer classes
+A Fourier-Mukai Transform for Stable Bundles on K3 Surfaces
+On the A-D-E classification of the simple singularities of functions
+Infinitesimal Deformations and Obstructions for Toric Singularities
+Some properties of Fano manifolds that are zeros of sections in homogenous vector bundles over Grassmannians
+Adjoints of ideals in regular local rings
+Algebraic Surfaces with Log-Terminal Singularities and nef Anticanonical Class and Reflection Groups in Lobachevsky Spaces. I (Basics of the Diagram Method)
+Local structure of the moduli space of vector bundles over curves
+Deformation theory and Lie algebra homology
+On Riemann-Roch Formulas for Multiplicities
+Gorenstein Quotient Singularities of Monomial Type in Dimension Three
+Spin canonical invariants of 4-manifolds and algebraic surfaces
+Universal Hodge Bundle and Mumford Isomorphisms on the Abelian Inductive Limit of Teichm uller Spaces
+Log Smooth Deformation Theory
+Pfaffian Subschemes
+Infinite-dimensional Lie algebras and the period map for curves
+Some glueing formulas for spin polynomials and a proof of the Van de Ven conjecture
+Combinatorial and algebro-geometric cohomology classes on the moduli spaces of curves
+Quadrature Mirror Filters and Loop Groups
+Differential-geometric characterizations of complete intersections
+Canonical Generators for the Cohomology of Moduli of Parabolic Bundles on Curves
+On the stability of the tangent bundle of Fano manifolds
+Generating Functions in Algebraic Geometry and Sums over Trees
+Reduction of the Manin map modulo p
+Beyond the K ahler cone
+Natural transformations from constructible functions to homology
+Mordell-Weil problem for cubic surfaces
+Real Grassmann Polylogarithms and Chern Classes
+Complex monodromy and the topology of real algebraic sets
+On certain N--sheeted coverings and numerical semigroups which cannot be realized as Weierstrass semigroups
+Hodge numbers of moduli spaces of stable bundles on K3 surfaces
+cal H -cohomologies versus algebraic cycles
+Local Positivity of Ample Line Bundles
+Cubics Integrable Systems and Calabi-Yau Threefolds
+Moduli of Brill-Noether pairs on algebraic curves
+On Landsberg's criterion for complete intersections
+A surface of general type with ( p g =q =0 K 2 =1 )
+Various Notions of Associated Prime Ideals
+Ternary quartics and 3-dimensional commutative algebras
+Rationality of the Moduli Variety of Curves of Genus 3
+Lectures on Linear Series
+The Number of Rational Quartics on Calabi-Yau hypersurfaces in Weighted Projective Space P(2 1 4)
+Dynkin Graphs and Triangle Singularities
+Variation of the Gieseker and Uhlenbeck Compactifications
+Riemann reciprocity in higher dimensions
+Non-symmetric orthogonal geometry of Grothendieck rings of coherent sheaves on projective spaces
+Semistable sheaves on Del Pezzo surfaces and Kronecker modules
+Chamber structure of polarizations and the moduli of stable sheaves on a ruled surface
+Strong McKay Correspondence String-theoretic Hodge Numbers and Mirror Symmetry
+Topology of Conjugate Varieties
+Moduli spaces M g n (W) for surfaces
+Moduli of high rank Vector bundles over Surface
+Variation of moduli spaces and Donaldson invariants under change of polarization
+Automorphisms and moduli spaces of varieties with ample canonical class via deformations of abelian covers
+Flips of moduli spaces and transition formulas for Donaldson polynomial invariants of rational surfaces
+Applications of iterated curve blowup to set-theoretic complete intersections in P3
+Coherent functors with application to torsion in the Picard group
+Functorial structure of units in a tensor product
+Ample Line Bundles on Blown Up Surfaces
+The principle describing possible combinations of singularities in deformations of a fixed singularity
+On the Malcev completion of K ahler groups
+On the linearization of the automorphism groups of algebraic domains
+On the Hitchin System
+Mumford-Thaddeus Principle on the Moduli Space of Vector Bundles on an Algebraic Surface
+Toric Residues
+A Matsusaka-type Theorem for Surfaces
+Recursive relations for the cohomology ring of moduli spaces of stable bundles
+On the prime-to- p part of the groups of connected components of N 'eron models
+The Theta Divisor of SU C(2 2d) s is very Ample if C is not Hyperelliptic
+L 2 vanishing theorems for positive line bundles and adjunction theory Lecture Notes of a CIME course on Transcendental Methods of Algebraic Geometry (Cetraro Italy July 14)
+Remarks on rational points of varieties whose cotangent bundles are generated by global sections
+Quantum Schubert Calculus
+On the automorphism groups of algebraic bounded domains
+Exceptional vector bundle on Enriques surfaces
+Submodules of the deficiency modules and an extension of Dubreil's Theorem
+Quantum Cohomology of Rational Surfaces
+Contractions on a manifold polarized by an ample vector bundle
+Self-linking number of a real algebraic link
+On the Picard group: torsion and the kernel
+The geometry of A-graded algebras
+Towards a separation theorem of points by adjoint linear systems on polarized threefolds
+The minimal number of singular fibers of a semistable curves over P 1
+On the invariants of base changes of pencils of curves II
+Operads and moduli spaces of genus 0 Riemann surfaces
+Bott's formula and enumerative geometry
+Logarithmic Embeddings and Logarithmic Semistable Reductions
+Conformal Differential Forms of an Analytic Germ
+On the Corank of Gaussian Maps for General Embedded K3 Surfaces
+Rational Points of Bounded Height on Compactifications of Anisotropic Tori
+The McKay correspondence for finite subgroups of SL(3 C)
+Classification of Varieties with Canonical Curve Section via Gaussian maps on Canonical Curves
+On sextic surfaces having only nodes (preliminary report)
+A New Approach to Characterise all the Transitive Orientations for an Undirected Graph
+A Borel-Weil Theorem for Schur Modules
+Uniformity of rational points over all quadratic fields
+Bounding the order of automorphisms of certain curves
+Prym Varieties and the Moduli of Spin Bundles
+Homological Algebra of Mirror Symmetry
+Mirror symmetry and moduli spaces of superconformal field theories
+Higher l -adic Abel-Jacobi mappings and filtrations on Chow groups
+Cellular decompositions of compactified moduli spaces of pointed curves
+A lecture on Kac--Moody Lie algebras of the arithmetic type
+Fulton-Hansen and Barth-Lefschetz Theorems for Subvarieties of Abelian Varieties
+Sous-vari 'et 'es de codimension 2 d'une vari 'et 'e ab 'elienne
+On the Deligne--Beilinson cohomology sheaves
+Characteristic classes and quadric bundles
+Characteristic classes in the Chow ring
+beta -nbc bases for cohomology of local systems on hyperplane complements
+The multiple-point schemes of a finite curvilinear map of codimension one
+Quadratic forms generalized Hamming weights of codes and curves with many points
+On Degenerate Secant and Tangential Varieties and Local Differential Geometry
+Even Linkage Classes
+Hilbert schemes of points on some K3 surfaces and Gieseker stable bundles
+On CR mappings between algebraic Cauchy--Riemann manifolds and separate algebraicity for holomorphic functions
+On the Hilbert Function of Fat Points on a Rational Normal Cubic
+On Calabi-Yau Complete Intersections in Toric Varieties
+Moduli of Polarised Abelian Surfaces
+Mixed Buchsbaum--Rim Multiplicities
+An elementary approach to the abelianization of the Hitchin system for arbitrary reductive groups
+Remarks on S. Lang's conjecture over function fields
+Grothendieck duality via homotopy theory
+Cohomology of compact hyperkaehler manifolds
+Remarks on the Obstructedness of Cones Over Curves of Low Genus
+Moduli of curves with non-abelian level structure
+An improved bound for the degree of smooth surfaces in P4 not of general type.
+Boundary behaviour of Hurwitz schemes
+Quantum cohomology of complete intersections
+On the Hilbert scheme of curves in higher-dimensional projective space
+Some homogeneous coordinate rings that are Koszul algebras
+On the homogeneous ideal of a projective nonsingular toric variety
+The motive of some moduli spaces of vector bundles over a curve
+A sextic surface cannot have 66 nodes
+A Generalization of the Kodaira Vanishing and Embedding Theorem
+A Calabi-Yau threefold with non-Abelian fundamental group
+Duality of Weights Mirror Symmetry and Arnold's Strange Duality
+Mirror symmetry for lattice polarized K3 surfaces
+Homology of moduli spaces of curves and commutative homotopy algebras
+Log Sarkisov Program
+On singularities of cal M I P 3 (c 1 c 2)
+Braid Group techniques in Complex Geometry V: The fundamental group of the complement of a Veronese generic projection
+Operads Grothendieck topologies and Deformation theory
+Height inequality of algebraic points on curves over functional fields
+k-very ample line bundles on Del Pezzo Surfaces
+Abelian automorphism groups of threefolds of general type
+Self-intersection of dualizing sheaves of arithmetic surfaces with reducible fibers
+Fundamental groups of complements of curves as solvable groups
+Embeddings of homogeneous spaces in prime characteristics
+Poncelet theorems
+On the cohomology ring of the moduli space of rank 2 vector bundles on a curve
+Algebraic cohomology of the moduli space of rank 2 vector bundles on a curve
+A Compactification Over overline M g Of The Universal Moduli Space of Slope-Semistable Vector Bundles
+Koszul Property and Frobenius Splitting of Schubert Varieties
+Torsion-Free Sheaves and Moduli of Generalized Spin Curves
+Extremal contractions from 4-dimensional manifolds to 3-folds
+Traces and Differential Operators over Beilinson Completion Algebras
+Linear bound for abelian automorphisms of varieties of general type
+Algebraic surfaces and Seiberg-Witten invariants
+Quasi-parabolic Siegel Formula
+Reflection groups in hyperbolic spaces and the denominator formula for Lorentzian Kac--Moody Lie algebras
+The canonical class and the C infty properties of K ahler surfaces
+An algebraic version of Demailly's asymptotic Morse Inequalities
+The Langlands lemma and the Betti numbers of stacks of G --bundles on a curve
+Quotient Spaces Modulo Algebraic Groups
+Bloch's conjecture revisited
+Geometric Properties of the Double-Point Divisor
+Hitchin systems higher Gaudin operators and r -matrices
+Equianalytic and equisingular families of curves on surfaces
+The irreducibility of the moduli space of stable vector bundles of rank 2 on a quintic in pp 3
+Moduli spaces of semiquasihomogeneous singularities with fixed principal part
+Stable Parabolic Bundles over Elliptic Surfaces and over Orbifold Riemann Surfaces
+The nil Hecke ring and singularity of Schubert varieties
+Akizuki's counterexample
+A gem of the modular universe
+An orbifold partition of overline M g n
+Th 'eor emes De Connexit 'e Pour Les Produits D'Espaces Projectifs et Les Grassmanniennes
+Moduli of pre- cal D -modules perverse sheaves and the Riemann-Hilbert morphism -I
+Roitman's theorem for singular complex projective surfaces
+The Mumford relations and the moduli of rank three stable bundles
+Degrees of generators of ideals defining subschemes of projective space
+Local Homology and Cohomology on Schemes
+Hyperbolic Planes
+On number of hypersurfaces containing projective curves
+Severi Degrees in Cogenus 3
+Intersections of Q-Divisors on Kontsevich's Moduli Space bar M 0 n (P r d) and Enumerative Geometry
+Intersection-theoretical computations on Mgbar
+Siegel automorphic form corrections of some Lorentzian Kac--Moody Lie algebras
+Some Donaldson invariants of CP 2
+Integral Subschemes of Codimension Two
+The quantum cohomology of homogeneous varieties
+The first two Betti numbers of the moduli spaces of vector bundles on surfaces
+Picard groups of the moduli spaces of vector bundles over algebraic surfaces
+On irreducible four--manifolds
+Making enumerative predictions by means of mirror symmetry
+Relative Geometric Invariant Theory and Universal Moduli Spaces
+Orbifold Riemann Surfaces and the Yang-Mills-Higgs Equations
+Gauge fixing for logarithmic connections over curves and the Riemann-Hilbert-Problem
+A Non-Linear Deformation of the Hitchin Dynamical System
+Pieri's rule for flag manifolds and Schubert polynomials
+Quantum cohomology of flag varieties
+Bogomolov conjecture over function fields for stable curves with only irreducible fibers (Version 2.0)
+A weighted version of Zariski's hyperplane section theorem and fundamental groups of complements of plane curves
+Sequences of stable bundles over a compact complex surface
+Blowups and gauge fields
+A note on Zariski pairs
+Un crit ere d'extension d'un foncteur d 'efini sur les sch 'emas lisses
+Spectral Covers
+Algebraic Barth-Lefschetz theorems
+Les Invariants de Seiberg-Witten et la Conjecture de Van De Ven
+The Coupled Seiberg-Witten Equations vortices and Moduli spaces of stable pairs
+Seiberg-Witten Invariants and the Van De Ven Conjecture
+Seiberg-Witten Invariants and Rationality of Complex Surfaces
+Stratified Picard--Lefschetz theory
+On projective plane curves whose complements have finite non-abelian fundamental groups
+Rational Blowdowns of Smooth 4-Manifolds
+Mapping threefolds onto three-quadrics
+Lang's conjectures Conjecture H and uniformity
+Rational surfaces in P 4 containing a plane curve
+A Geometric Invariant Theory Compactification of M g n Via the Fulton-MacPherson Configuration Space
+A Note On Elliptic Plane Curves With Fixed j-Invariant
+Determinant Bundles Quillen Metrics and Mumford Isomorphisms Over the Universal Commensurability Teichm uller Space
+Topological invariants of a fan associated to a toric variety
+On the local geometry of moduli spaces of vector bundles
+Determinant of Period Integral
+Flips from semi-stable 4-folds whose degenerate fibers are unions of Cartier divisors which are terminal factorial 3-folds
+How to tell you're hearing a Calabi-Yau: Universal variations of Hodge structure and local Schottky relations for Calabi-Yau manifolds
+Minimal sections of conic bundles
+The fiber of the Griffiths map for the non-hyperelliptic Fano threefolds of genus 6
+Symmetric subgroups of rational groups of hermitian type
+Semistable 3-fold flips
+Del Pezzo surfaces over Dedekind schemes
+Hodge groups of abelian varieties with purely multiplicative reduction
+Uniformity of stably integral points on elliptic curves
+Composite Differentiable Functions
+The index of grad f(x y)
+A note on the genus of certain curves over finite fields
+On exotic algebraic structures on affine spaces
+Open problems on open algebraic varieties
+On localization and Riemann-Roch numbers for symplectic quotients
+Hermitian-Einstein Inequalities and Harder-Narasimhan Filtration
+Curves that change genus can have arbitrarily many rational points
+Rang maximal pour T P n
+Stability of the Poincar 'e bundle
+Semiorthogonal decomposition for algebraic varieties
+Fundamental group of locally symmetric varieties
+Higher cohomology triples and holomorphic extensions
+On the separate algebraicity along the families of algebraic curves
+Cycles alg 'ebriques sur les surfaces K3 r 'eelles
+Minimal Siegel modular threefolds
+Modular forms and Donaldson invariants for 4-manifolds with b =1
+Wall-crossing formulas Bott residue formula and the Donaldson invariants of rational surfaces
+Instantons and affine algebras I: The Hilbert scheme and vertex operators
+A Vector Bundle of Rank 2 on P1 x P3
+Deforming Calabi-Yau Threefolds
+Stacks of Stable Maps and Gromov-Witten Invariants
+Residues in Toric Varieties
+Automorphisms of crepant resolutions for quotient spaces
+On triple coverings of irrational curves
+General n-canonical divisors on two-dimensional smoothable semi-log-terminal singularities
+The line bundles on the stack of parabolic G -bundles over curves and their sections
+A note on scrolls of smallest embedded codimension
+On a class of rational cuspidal plane curves
+On the number of singular points of plane curves
+A Noether-Lefschetz theorem for vector bundles
+On the diffeomorphism groups of elliptic surfaces
+Remarks on Seshadri constants
+A Projective Surface of Degree Eight with 16 Nodes
+Heisenberg algebra and Hilbert schemes of points on projective surfaces
+Descent Motives and K-theory
+Correlation for Surfaces of General Type
+Degenaration of Calabi-Yau Manifold with W-P Metric
+Spectral curves algebraically completely integrable Hamiltonian systems and moduli of bundles
+Localization in equivariant intersection theory and the Bott residue formula
+Modular subvarieties of arithmetic quotients of bounded symmetric domains
+Heights for line bundles on arithmetic surfaces
+Grothendieck topologies and deformation theory II
+Canonical desingularization in characteristic zero by blowing up the maximum strata of a local invariant
+Topological Classifying Spaces of Lie Algebras and the Natural Completion of Contractions
+Geometry of plane curves via Tschirnhausen resolution tower
+Zagier's conjecture on L(E 2)
+Frobenius morphisms over Z p 2 and Bott vanishing
+Actions of groups of birationally extendible automorphisms
+On the quantum cohomology of the plane old and new
+Quotients by Groupoids
+The Canonical Class of overline M 0 n (P r d) And Enumerative Geometry
+Gorenstein algebras symmetric matrices self-linked ideals and symbolic powers
+Obstruction bundles semiregularity and Seiberg-Witten invariants
+Bogomolov conjecture for curves of genus 2 over function fields
+The weight-two Hodge structure of moduli spaces of sheaves on a K3 surface
+Finiteness Theorem for Sp(4 Z)
+On Fujita's freeness conjecture for 3-folds and 4-folds
+On the Brill-Noether Problem for Vector Bundles
+Some Remarks on Beilinson Adeles
+Smooth Formal Embeddings and the Residue Complex
+K3 surfaces Lorentzian Kac--Moody algebras and Mirror Symmetry
+Nilpotent groups and universal coverings of smooth projective varieties
+Quantum cohomology of projective bundles over Pee n
+Lectures on Seiberg-Witten Invariants
+Manin's conjecture for toric varieties
+Rational curves of degree at most  on a general quintic threefold
+Infinite Grassmannians and Moduli Spaces of G-bundles
+Explicit Enumerative Geometry for the Real Grassmannian of Lines in Projective Space
+Mixed Hodge structures of configuration spaces
+Geography of Brill-Noether loci for small slopes
+Faisceaux automorphes pour GL(n): la premiere construction de Drinfeld
+How to Construct Curves over Finite Fields With Many Points
+On the intersections of rational curves with cubic plane curves
+Perverse sheaves on a Loop group and Langlands' duality
+Evolutions Symbolic Squares and Fitting Ideals
+Cohomology of compact hyperkaehler manifolds and its applications
+On discriminants of polylinear forms
+The 2-dimensional jacobian conjecture via Klein's program
+Picard group of the moduli spaces of G-bundles
+Normal presentation on Elliptic Ruled surfaces
+A few general points of the Hilbert scheme of K3 surfaces
+Subadjunction of log canonical divisors for a subvariety of codimension 2
+Exceptional and Rigid Sheaves on Surfaces with Anticanonical Class without Base Components
+On the structure of semistable rigid sheaves on algebraic surfaces
+Symplectic biextensions and a generalization of the Fourier-Mukai transform
+Construction of rank two bundles on bf P 4 in positive characteristic
+Infinitesimal presentations of the Torelli groups
+Primitive Calabi-Yau Threefolds
+Quot schemes for flags and Gromov invariants for flag varieties
+Varieties of CM-type
+Higher Syzygies of Elliptic Ruled Surfaces
+On non-strict notions of n -category and n -groupoid via multisimplicial sets
+Non-symplectic involutions of a K3 surface
+Applications of Koszul homology to numbers of generators and syzygies
+On Macaulayfication of certain quasi-projective schemes
+Mathematics in and out of String Theory
+On Invariant Theory
+Remarks on numerical semigroups
+In 'egalit 'es de Morse et vari 'et 'es de Moishezon
+Degenerations of elliptic curves and cusp singularities
+Lang maps and Harris's conjecture - a note in search for content
+Deninger's conjecture on L -function of elliptic curves at s=3
+Residue construction of Hecke algebras
+The Remark on Discriminants of K3 Surfaces Moduli as Sets of Zeros of Automorphic Forms
+Determinant of complexes and higher Hessians
+Birational models for varieties of Poncelet curves
+A sharp slope inequality for general stable fibrations of curves
+Uniform boundedness for rational points
+Pieri's Formula Via Explicit Rational Equivalence
+Sur les espaces de modules des fibres vectoriels de rang deux sur des hypersurfaces de P 3
+On a theorem of Harer
+Holomorphic Rank Two Vector Bundles on Blow-ups
+Super Curves their Jacobians and super KP equations
+Severi Degrees in Cogenus 4
+Global properties of families of plane curves
+Birational symplectic manifolds and their deformations
+The canonical modifications by weighted blow-ups
+Bounds for Seshadri Constants
+Principle bundles admitting a holomorphic structure
+Geometry of families of nodal curves on rational surfaces
+Volumes of hyperbolic manifolds and mixed Tate motives
+Compactifications of families of curves
+Toward Clemens' Conjecture in degrees between 10 and 24
+Singularities of Pairs
+On Cohomology of the Square of an Ideal Sheaf
+Algebraic Chern Simons Theory
+Flatness of families induced by hypersurfaces on flag varieties
+A Hitchin-Kobayashi Correspondence for Coherent Systems on Riemann Surfaces
+Alexander Stratifications of Character Varieties
+Real enumerative geometry and effective algebraic equivalence
+Chapters on algebraic surfaces
+Virtual moduli cycles and Gromov-Witten invariants of algebraic varieties
+Spin Verlinde spaces and Prym theta functions
+On the monodromy at infinity of a polynomial map II
+Non-abelian monopoles and vortices
+Residues and Differential Operators on Schemes
+Nodal curves on surfaces of general type
+Rational points on some Fano cubic bundles
+Reduction of abelian varieties
+Semicontinuity for representations of one-dimensional Cohen-Macaulay rings
+Conics Touching a Quartic Surface with 13 Nodes
+Topology of Conic Bundles - II
+P-Resolutions of Cyclic Quotients from the Toric Viewpoint
+Formulas for Lagrangian and orthogonal degeneracy loci the Q-polynomials approach
+The Eisenbud-Koh-Stillman Conjecture on Linear Syzygies
+Bounds on cohomology and Castelnuovo-Mumford regularity
+Towards a theory of arithmetic degrees
+Sheaves with connection on abelian varieties
+Even sets of nodes are bundle symmetric
+Images of ell -adic representations and automorphisms of abelian varieties
+Connectedness extensions for abelian varieties
+Seiberg-Witten invariants for manifolds with b =1 and the universal wall crossing formula
+Transformation de Fourier generalisee
+Weak approximation and Manin group of R-equivalences
+p-adic abelian integrals and commutative Lie groups
+Equivariant intersection theory
+A Note on the Cohomology of Moduli of Rank Two Stable Bundles
+The Igusa modular forms and the simplest'' Lorentzian Kac--Moody algebras
+The Hilbert Schemes of Degree Three Curves are Connected
+On curves over finite fields with many rational points
+Maximal Degeneracy Points of GKZ Systems
+An intersection number for the punctual Hilbert scheme of a surface
+Espaces abstraits de morphismes et mutations
+Singularities of Theta Divisors and the Birational Geometry of Irregular Varieties
+Smoothness Semistability and Toroidal Geometry
+Weak Hironaka theorem
+Calabi-Yau Varieties and Pencils of K3 Surfaces
+Equivariant Gromov - Witten Invariants
+On freeness theorem of the adjoint bundle on a normal surface
+Higher dimensional examples of manifolds whose adjoint bundles are not spanned
+d-gonality of modular curves and bounding torsions
+Seiberg-Witten invariants for manifolds with b =1
+Threefolds in Bbb P  with a 3-dimensional family of plane curves
+Bornes effectives pour la torsion des courbes elliptiques sur les corps des nombres
+Rationality of almost simple algebraic groups
+The Hodge filtration on nonabelian cohomology
+On the constellations of Weierstrass points
+On degree of polynomial mappings of C 2 to C 2
+On a result of Imin Chen
+Arf Rings and Characters
+A connectivity lemma for the Albanese map
+Elementary counterexamples to Kodaira vanishing in prime characteristic
+On Classification of the extremal contraction from a smooth fourfold
+Symmetries of Surface Singularities
+Floppy Curves with Applications to Real Algebraic Curves
+Theta line bundles and the determinant of the Hodge bundle
+Eisenstein series and quantum affine algebras
+Recursive Formulas for the Characteristic Numbers of Rational Plane Curves
+Commutative Algebras of Ordinary Differential Operators with Matrix Coefficients
+The Symmetric Function h 0( bar M 0 n L 1 x 1 tensor... tensor L n x n )
+The Chow Ring of the Non-Linear Grassmannian
+On an unusual conjecture of Kontsevich and variants of Castelnuovo's lemma
+Vector Bundles and Arithmetical Groups I. The higher Bruhat-Tits tree
+Rank-2 ample vector bundles on some smooth rational surfaces
+Donaldson and Seiberg-Witten invariants of algebraic surfaces
+Curves in the complement of a smooth plane cubic whose normalizations are Bbb A 1
+On Genera of Smooth Curves in Higher Dimensional Varieties
+Sixth Painlev 'e Equation Universal Elliptic Curve and Mirror of bold P 2
+Cycles on the Moduli Space of Abelian Varieties
+Complete Intersections K-Theory and Chern Classes
+On Contractions of smooth varieties
+Symmetric polynomials and divided differences in formulas of intersection theory
+Descent from the form ring and Buchsbaum rings
+On the period map for abelian covers of algebraic varieties
+Height Zeta Functions of Toric Varieties
+Algebraically constructible functions
+Nonrational Covers of CP m times CP n
+Algebraic cycles and topology of real Enriques surfaces
+Finite sets in fibres of holomorphic maps
+The algebraic formalism of soliton equations over arbitrary base fields
+Descent of Deligne groupoids
+Flips from 4-folds with isolated complete intersection singularities whose downstairs have rational bi-elephants
+Lengths of Periods and Seshadri Constants of Abelian Varieties
+Composition law and Nodal genus-2 curves in P 2
+On a relative version of the Krichever correspondence
+Recent developments in toric geometry
+Positivite et discretion des points algebriques des courbes
+Non-Hermitian Yang-Mills connections
+Quantum cohomology of flag manifolds G B and quantum Toda lattices
+A relative notion of algebraic Lie group and applications to n -stacks
+A remark on the jet bundles over the projective line
+Mapping Class Groups and Moduli Spaces of Curves
+The orbifold fundamental group of Persson-Noether-Horikawa surfaces
+On the algebraic dimension of twistor spaces over the connected sum of four complex projective planes
+Conjugacy classes in loop groups and G-bundles on elliptic curves
+Contractible Extremal Rays on overline M 0 n
+Equivalence de la th 'eorie homotopique des n -groupo i des et celle des espaces topologiques n -tronqu 'es
+Quantum integrable systems and differential Galois theory
+A lower bound for K  L of quasi-polarized surfaces ( L) with non-negative Kodaira dimension
+Torsion Points on an Algebraic Subset of an Affine Torus
+Master Spaces for stable pairs
+Low degree polynomial equations: arithmetic geometry and topology
+On imaginary plane curves and Spin quotients of complex surfaces by complex conjugation
+Torelli groups and Jacobian varieties of non-orientable compact Klein surfaces
+The Hodge de Rham theory of relative Malcev completion
+Filtered Perverse Complexes
+Embeddings of curves and surfaces
+Ample divisors on the blow up of P 3 at points
+The Equivariant Chow Ring of SO(4)
+The Chow Ring of the Hilbert Scheme of Rational Normal Curves
+Projective structures on a Riemann surface
+The Braid Monodromy of Plane Algebraic Curves and Hyperplane Arrangements
+The Picard group of the moduli of G-bundles on a curve
+A relation between standard conjectures and their arithmetic analogues
+Mirror Symmetry via 3-tori for a class of Calabi-Yau Threefolds
+Residues and duality for Cousin complexes
+The Geometry Underlying Mirror Symmetry
+Vanishing Theorems and Syzygies for K3 Surfaces and Fano Varieties
+Residues in intersection homology and L p-cohomology
+Lower Bounds for diophantine Approximation
+Notes on stable maps and quantum cohomology
+Compactified jacobians
+Log canonical singularities and complete moduli of stable pairs
+On Mumford's construction of degenerating abelian varieties
+Complete intersections and rational equivalence
+On the Thomae formula for Z N curves
+Balanced Varieties
+Rank Two Bundles on Algebraic Curves and Decoding of Goppa Codes
+The genus of curves on the three dimensional quadric
+A finiteness theorem for low-codimensional nonsingular subvarieties of quadrics
+Codimension two nonsingular subvarieties of quadrics: scrolls and classification in degree d leq 10
+Some adjunction-theoretic properties of codimension two nonsingular subvarieties of quadrics
+Enumerating curves on rational surfaces: the rational fibration method
+Parameter spaces for curves on surfaces and enumeration of rational curves
+Counting plane curves of any genus
+The intersection form in the cohomology of the moduli space of genus 0 n -pointed curves H ( overline M 0 n ) and the explicit K unneth formula in quantum cohomology
+Holomorphic bundles on O(-k) are algebraic
+Algebraic Cuts
+Intersection theory on moduli spaces of holomorphic bundles of arbitrary rank on a Riemann surface
+Genus one enumerative invariants in P n with fixed j invariant
+Monodromy of hypergeometric functions arising from arrangements of hyperplanes
+Virtual moduli cycles and Gromov-Witten invariants of general symplectic manifolds
+The ring of global sections of multiples of a line bundle on a toric variety
+Equations of (1 d)-polarized Abelian Surfaces
+Algebraically Constructible Functions and Signs of Polynomials
+Polar Varieties and Efficient Real Equation Solving: The Hypersurface Case
+Polar Varieties Real Equation Solving and Data-Structures: The hypersurface case
+Straight--Line Programs in Geometric Elimination Theory
+One-parameter families containing three-dimensional toric Gorenstein singularities
+Enumerative geometry for real varieties
+Density and completeness of subvarieties of moduli spaces of curves or abelian varieties
+Resolution for Sheaf of Differential Operators on Smooth Free Geometric Quotient of Linear Action of Algebraic Group
+Counting rational curves with multiple points and Gromov-Witten invariants of blow-ups
+Algebraic structures on hyperkaehler manifold
+A linear lower bound on the gonality of modular curves
+Equivariant resolution of singularities in characteristic 0
+Algebraic (geometric) n -stacks
+Moduli of vector-bundles on surfaces
+Torsion algebraic cycles and complex cobordism
+The Verlinde formula for PGL(p)
+Equivariant intersection theory
+Secants of Abelian Varieties Theta functions and Soliton Equations
+Non-abelian Seiberg-Witten theory and projectively stable pairs
+Automorphic forms with singularities on Grassmannians
+Crepant Terminalisations and Orbifold Euler Numbers for SL(4) Singularities
+Linearization of group stack actions and the Picard group of the moduli of SL r mu s -bundles on a curve
+Specialization of integral dependence for modules
+Partial Resolutions of Orbifold Singularities via Moduli Spaces of HYM-type Bundles
+Resolutions of Orbifold Singularities and Flows on the McKay Quiver
+Bounds for the Hilbert function of polynomial ideals and for the degrees in the Nullstellensatz
+Chow motives of elliptic modular surfaces and threefolds
+The Rank Stable Topology of Instantons on cpbar
+Hilbert-Kunz functions of cubic curves and surfaces
+Deformations of trianalytic subvarieties of hyperk ahler manifolds
+Special points on the product of two modular curves
+Monomial Resolutions
+Rationality of Moduli Spaces of Parabolic Bundles
+Moduli Spaces of Parabolic Higgs Bundles and Parabolic K(D) Pairs over Smooth Curves: I
+Universal Einstein-Hermitian Metrics
+Arithmetically Cohen--Macaulay curves in P 4 of degree 4 and genus 0
+Prime rings with PI rings of constants
+Equations Defining Toric Varieties
+The Laumon's resolution of Drinfeld's compactification is small
+Weil-Petersson geometry and determinant bundles on inductive limits of moduli spaces
+Jack polynomials and Hilbert schemes of points on surfaces
+Automorphic Forms and Lorentzian Kac--Moody Algebras. Part I
+On maximal curves
+On framed instanton bundles and their deformations
+Segre Numbers and Hypersurface Singularities
+Resolving mixed Hodge modules on configuration spaces
+The Second Cohomology with Symplectic Coefficients of the Moduli Space of Smooth Projective Curves
+Bott-Chern Forms and Arithmetic Intersections
+Arithmetic Intersection Theory on Flag Varieties
+Higher Bott Chern forms and Beilinson's regulator
+Projective Moduli for Hitchin Pairs
+Birational automorphisms of algebraic varieties with a pencil of cubic surfaces
+On the Complexity of Smooth Projective Toric Varieties
+Dynkin Graphs Gabri ' e lov Graphs and Triangle Singularities
+The quantum cohomology of blow-ups of P 2 and enumerative geometry
+On the semi-simplicity of the U p -operator on modular forms
+Andre-Quillen cohomology of monoid algebras
+Desingularization of singular hyperkaehler varieties I
+A view on contractions of higher dimensional varieties
+Algebraic Differential Characters
+Bott-Samelson Varieties and Configuration Spaces
+Liouville and Carath 'eodory coverings in Riemannian and complex geometry
+Virtual neighborhoods and pseudo-holomorphic curves
+Bornes effectives pour la torsion des courbes elliptiques sur les corps de nombres
+Separation of Semialgebraic Sets
+Existence of good divisors on Mukai manifolds
+On symmetric degeneracy loci spaces of symmetric matrices of constant rank and dual varieties
+On the density of ratios of Chern numbers of embedded threefolds
+Differential forms on singular varieties and cyclic homology
+Automorphic Forms and Lorentzian Kac-Moody Algebras. Part II
+Counting curves on surfaces: a guide to new techniques and results
+Irregular canonical double surfaces
+On Kodaira energy and adjoint reduction of polarized threefolds
+Rankin-Cohen Operators for Jacobi and Siegel Forms
+Sch 'emas de Fano
+Residue in intersection homology for quasihomogeneous singularities
+On the semi-simplicity of the quantum cohomology algebras of complete intersections
+Stationary Phase Integrals Quantum Toda Lattices Flag Manifolds and the Mirror Conjecture
+A correspondence dual to McKay's
+Intersection theory on Mbar 1 4 and elliptic Gromov-Witten invariants
+The semi-classical approximation for modular operads
+Geometry of cohomology support loci for local systems I
+Intermediate Jacobians of moduli spaces
+Instantons on S 4 and cpbar rank stabilization and Bott periodicity
+The elliptic Gromov-Witten invariants of CP 3
+Strange duality mirror symmetry and the Leech lattice
+Relative Bogomolov's inequality and the cone of positive divisors on the moduli space of stable curves
+Scaling Behavior on the Space of Calabi-Yau Manifolds
+Desingularization of singular hyperkaehler varieties II
+Blowing up determinantal cerves and varieties of codim 2
+Recent Developments in Seiberg-Witten Theory and Complex Geometry
+Integrability of the twistor space for a hypercomplex manifold
+Weil classes on abelian varieties
+Effective base point freeness on a normal surface
+Is a linear space contained in a variety - On the number of derivatives needed to tell
+Jacobi forms and the structure of Donaldson invariants for 4-manifolds with b =1
+A smooth surface in P4 not of general type has degree at most 66
+A smooth surface in P4 not of general type has degree at most 46
+Hodge numbers attached to a polynomial map
+Simultaneous minimal model of homogeneous toric deformation
+Quotients par des groupes non r 'eductifs et vari 'et 'es de modules de complexes
+On the cone of divisors of Calabi-Yau fiber spaces
+On Hitchin's Connection
+Adelic Formulas for Gamma- and Beta-functions in Algebraic Numbers Fields
+On the singularities of the theta divisors on Jacobians
+Subvarieties of SU C(2) and 2 theta-divisors in the Jacobian
+K3 surfaces with interesting groups of automorphisms
+A Prym construction for the cohomology of a cubic hypersurface
+Families of K3 surfaces
+Geometry of cohomology support loci II: integrability of Hitchin's map
+A remark on an algebraic Riemann-Roch formula for flat bundles
+A mirror theorem for toric complete intersections
+Heights and Geometric Invariant Theory
+Exemples de composantes irr 'eductibles et non r 'eduites du sch 'ema de Hilbert des courbes lisses et connexes de bf P 3 (II)
+Counting rational curves on K3 surfaces
+Residues and Resultants
+Dual varieties and the duality of the second fundamental form
+Semistable reduction of abelian varieties over extensions of small degree
+Moishezon Manifolds
+On exponential sums
+Commutator coverings of Siegel threefolds
+The Gromov Invariants of Ruan-Tian and Taubes
+Global Intersection Cohomology of Quasimaps' Spaces
+Universal Schubert polynomials
+Numerical Criteria for vey Ampleness of Divisors on Projective Bundles over an elliptic curve
+Semisimple Frobenius (super)manifolds and quantum cohomology of P r
+Degenerations of Planar Linear Systems
+McKay correspondence
+Braid Group Algebraic Surfaces and Fundamental Groups of complements of Branch Curves
+On delta m constant locus of versal deformations of nondegenerate hypersurface simple K3 singularities
+Five Definitions of Critical Point at Infinity
+Schubert polynomials the Bruhat order and the geometry of flag manifolds
+Complex projective surfaces and infinite groups
+Basepoint freeness for big line bundles in positive characteristic with applications to M g and to 3-fold MMP
+Geometry of Moduli Spaces of Flat Bundles on Punctured Surfaces
+Applications of Braid Group Techniques to algebraic Surfaces New examples
+Examples of smooth non-general type surfaces in P 4
+The degree of the generators of the canonical ring of surfaces with p g=0
+The deformation theory of local complete intersections
+A Remark on the Geometry of Elliptic Scrolls and Bielliptic Surfaces
+Perverse Sheaves on Loop Grassmannians and Langlands Duality
+Moduli of flat bundles on open Kaehler manifolds
+Moduli of regular holonomic D-modules with normal crossing singularities
+Contact Cohomology of the Projective Plane
+Derivation algebras of toric varieties
+Associativity relations in quantum cohomology
+Hypercomplex Varieties
+Chern Classes of Fibered Products of Surfaces
+Mixed Segre Numbers and Integral Closure of Ideals
+A New look at the vortex equations and dimensional reduction
+Determinant bundles for abelian schemes
+Geometric Realization of Whittaker Functions and the Langlands Conjecture
+On Betti numbers and Chern classes of varieties with trivial odd cohomology groups
+A note on P-resolutions of cyclic quotient singularities
+On the quotient of the braid group by commutators of transversal half-twists and its group actions
+Heisenberg invariant quartics and SU C(2) for a curve of genus four
+Three-block exceptional collections over Del Pezzo surfaces
+Interpolation on Jets
+Generic Hypersurface Singularities
+On the topology of holomorphic bundles
+Projections of Grassmannians of lines and characterization of Veronese varieties
+Rankin-Cohen Type Differential Operators for Siegel Modular Forms
+Testing S-duality conjecture and exceptional bundles
+The Ideal Generation Problem for Fat Points
+Very Ampleness and Higher Syzygies for Algebraic Surfaces and Calabi-Yau Threefolds
+On Punctual Quot Schemes for Algebraic Surfaces
+Tempered currents and the cohomology of the remote fiber of a real polynomial map
+Birational Models of the Moduli Spaces of Stable Vector Bundles over Curves
+Bend break and count
+The global nilpotent variety is Lagrangian
+A closed model structure for n -categories internal Hom n -stacks and generalized Seifert-Van Kampen
+All Abelian Quotient C.I.-Singularities Admit Projective Crepant Resolutions in All Dimensions
+Rozansky-Witten invariants via Atiyah classes
+On Degenerations of Fibre Spaces of Curves of Genus = 2
+On fundamental groups of elliptically connected surfaces
+Connected components in the intersection of two open opposite Schubert cells in real complete flag manifold
+Intersection Homology of Toric Varieties and a Conjecture of Kalai
+Non-Abelian Brill-Noether theory and Fano 3-folds
+On the irreducibility of the punctual Quotient Scheme of a Surface
+An algorithm for computing the integral closure
+Bertini and his two fundamental theorems
+Towards a Halphen theory of linear series on curves
+Second order theta divisors on Pryms
+Le probleme de Brill-Noether pour des fibres stables de petites pentes
+A simply connected numerical Godeaux surface with ample canonical class
+Generalized Fourier-Mukai Transforms
+Fourier-Mukai transforms for elliptic surfaces
+The Singular Supports of IC sheaves on Quasimaps' Spaces are Irreducible
+Trianalytic subvarieties of the Hilbert scheme of points on a K3 surface
+A base point free theorem for log canonical surfaces
+Mixed twistor structures
+Some notes on the moduli of stable sheaves on elliptic surfaces
+On the rationality of SU(r d)
+Birational maps of moduli of Brill-Noether pairs
+Existence of good divisors on Mukai varieties
+Identities of Structure Constants for Schubert polynomials and Orders on S n
+Riemann-Roch theorems via deformation quantization
+Boundedness for codimension two submanifolds of quadrics
+A geometric construction of Getzler's relation
+Stable extensions by line bundles
+Constructing new ample divisors out of old ones
+On Lange's Conjecture
+Curves in Grassmannians
+Values of zeta functions at negative integers Dedekind sums and toric geometry
+On surfaces in P 6 with no trisecant lines
+Hodge and Tate conjectures for hypergeometric sheaves
+Quantum multiplication of Schur polynomials
+Compact Hyperkaehler Manifolds: Basic Results
+Minimal model theorem for toric divisors
+An application of exceptional bundles to the moduli of stable sheaves on a K3 surface
+Through the Looking Glass
+Generalization of Arnold-Viro inequalities for real singular algebraic curves
+Subgroups of inertia groups arising from abelian varieties
+Numerical Schubert calculus
+Algorithms for computing intersection numbers on moduli spaces of curves with an application to the class of the locus of Jacobians
+Drinfeld Moduli Schemes and Infinite Grassmannians
+A Vanishing Result for the Universal Bundle on a Toric Quiver Variety
+Prym varieties and the infinite Grassmannian
+Painlev ' e - Calogero correpondence
+Solvable fundamental groups of algebraic varieties and K ahler manifolds
+The Deligne-Lusztig curve associated to the Suzuki group
+An Application of a Log Version of the Kodaira Vanishing Theorem to Embedded Projective Varieties
+Stable pairs and log flips
+GKZ Systems Gr obner Fans and Moduli Spaces of Calabi-Yau Hypersurfaces
+Irreducibility of bar M 0 n (G P beta)
+The intrinsic complexity of parametric elimination methods
+Symplectic Deformations of Calabi-Yau threefolds
+Flops Type III contractions and Gromov-Witten invariants on Calabi-Yau threefolds
+Simplex associahedron and cyclohedron
+Semiinfinite Flags. I. Case of global curve P 1
+The tangent space at a special symplectic instanton bundle on P 2n 1
+Weak semistable reduction in characteristic 0
+Borel-Weil-Bott theory for Loop Groups
+Fano contact manifolds and nilpotent orbits
+Rational Curves on Quasi-Projective Surfaces
+New evidence for Green's conjecture on syzygies of canonical curves
+On Simplicial Commutative Rings with Vanishing Andr 'e-Quillen Homology
+Localization of virtual classes
+Discriminant Complements and Kernels of Monodromy Representations
+Singular hermitian metrics on vector bundles
+Effective nonvanishing effective global generation
+A remark on virtual orientations for complete intersections
+Duality and flat base change on formal schemes
+Torsion of abelian varieties Weil classes and cyclotomic extensions
+Local structure of moduli spaces
+Desingularized moduli spaces of sheaves on a K3 I
+Limits in n -categories
+Some finiteness results for Calabi-Yau threefolds
+Euler number of the compactified Jacobian and multiplicity of rational curves
+Bend break and count II : elliptics cuspidals linear genera
+A stratification of the moduli space of vector bundles on curves
+Nef Divisors on Moduli Spaces of Abelian Varieties
+On algebra generated by Chern-Bott forms on SL n B
+Conormal Geometry of Maximal Minors
+Stability of the Rational Homotopy Type of Moduli Spaces
+Determinantal schemes and Buchsbaum-Rim sheaves
+Buchsbaum-Rim sheaves and their multiple sections
+Duality Construction of Moduli Spaces
+Pieri-type formulas for maximal isotropic Grassmannians via triple intersections
+Rational cuspidal plane curves of type (d d-3)
+Wall-crossing formulae for algebraic surfaces with q0
+Counting curves of any genus on rational ruled surfaces
+Genus g Gromov-Witten invariants of Del Pezzo surfaces: Counting plane curves with fixed multiple points
+Very ampleness for Theta on the compactified Jacobian
+Product formulas for modular forms on O(2 n) (after R.Borcherds)
+The enumerative geometry of rational and elliptic curves in projective space
+Separation properties of theta functions
+Compactifying the relative Jacobian over families of reduced curves
+Height zeta functions of toric bundles over flag varieties
+Local-global intersection homology
+The Pontryagin rings of moduli spaces of arbitrary rank holomorphic bundles over a Riemann surface
+On Weierstrass points and optimal curves
+Fibr 'es prioritaires g 'en 'eriques instables sur le plan projectif
+Multiplier Ideals Vanishing Theorem and Applications
+The Determinant of a Hypergeometric Period Matrix
+Degeneracy Schemes and Schubert Varieties
+Kawachi's invariant for normal surface singularities
+Very ampleness of adjoint linear systems on smooth surfaces with boundary
+The family G T of graded quotients of k x y of given Hilbert function
+Wall-Crossing functors and D-modules
+A generalization of curve genus for ample vector bundles II
+A generalization of curve genus for ample vector bundles I
+On the width of lattice-free simplices
+On Mirror Symmetry Conjecture for Schoen's Calabi-Yau 3 folds
+Resolution of Singularities
+Vector Bundles over Elliptic Fibrations
+A Survey of the Hodge Conjecture for Abelian Varieties
+K3 Surfaces with Nine Cusps
+Dimension of linear systems: a combinatorial and differential approach
+On fibre space structures of a projective irreducible symplectic manifold
+Skew Schubert functions and the Pieri formula for flag manifolds
+An algebraic cell decomposition of the nonnegative part of a flag variety
+Dynamical Systems Accepting the Normal Shift
+Dynamical Zeta Functions Nielsen theory and Reidemeister torsion
+Convexity Properties of the Moment Mapping Re-examined
+Rokhlin Conjecture and Topology of Quotients of Complex Surfaces by Complex Conjugation
+Localisation of the Donaldson's invariants along Seiberg-Witten classes
+Introduction to Seiberg-Witten's Invariants Part I: Theory of Spinors
+4-Manifolds without Einstein Metrics
+Quotients by complex conjugation for real complete intersection surfaces
+Equivariant Holomorphic Morse Inequalities II: Torus and Non-Abelian Group Actions
+Connectedness of spaces of symplectic embeddings
+Symplectic packing in dimension 4
+Twistor spaces of non-flat Bochner-K ahler manifolds
+Gromov-Witten invariants of general symplectic manifolds
+The Penrose transform on conformally Bochner-K ahler manifolds
+Canonical coordinates and Bergman metrics
+Heat kernel and moduli spaces II
+Bott-type and equivariant Seiberg-Witten Floer homology I
+Moduli Spaces of Stable Polygons and Symplectic Structures on bar M 0 n
+Kodaira Dimension and the Yamabe Problem
+Gerstenhaber algebras and BV-algebras in Poisson geometry
+Rozansky-Witten invariants via formal geometry
+On the Scalar Curvature of Einstein Manifolds
+Fedosov Manifolds
+Exterior differential systems: a geometric approach to PDE. Lecture notes from the 1 Daewoo workshop
+Deformations of representations of fundamental groups of open Kaehler manifolds
+Corrigenda to: Introduction to Symplectic Topology
+PU(2) monopoles and relations between four-manifold invariants
+Infinite-Dimensional Geometry of the Universal Deformation of the Complex Disk
+Supermatrix Representations of Semigroup Bands
+Representation Theory of Analytic Holonomy C Algebras
+Integrable Systems and Classification of 2-dimensional Topological Field Theories
+Lie-algebraic approach to the theory of polynomial solutions. I. Ordinary differential equations and finite-difference equations in one variable
+Lie-algebraic approach to the theory of polynomial solutions. II. Differential equations in one real and one Grassmann variables and 2x2 matrix differential equations
+Lie-algebraic approach to the theory of polynomial solutions. III. Differential equations in two real variables and general outlook
+Surgical invariants of four-manifolds
+On Solvable Lattice Models and Knot Invariants
+Graph IRF Models and Fusion Rings
+Where is the large radius limit
+Differential Geometry of Toda Systems
+Spacetime Topology Change: The Physics of Calabi-Yau Moduli Space
+A Generalized Surfaceless'' Stokes' Theorem
+Infinite Dimensional Geometry and Quantum Field Theory of Strings. I. Infinite Dimensional Geometry of Second Quantized Free String
+Supercoherent States Super K ahler Geometry and Geometric Quantization
+Infinite Dimensional Geometry and Quantum Field Theory of Strings. II. Infinite Dimensional Noncommutative Geometry of a Self-Interacting String Field
+The Algebra of Chern-Simons Classes and the Poisson Bracket on it
+String Theory on K3 Surfaces
+Enumeration of rational curves via torus actions
+The Role of Solvable Groups in Quantization of Lie Algebras
+Group-like Structures in Quantum Lie Algebras and the Process of Quantization
+Topics in Hidden Symmetries
+Mirror Symmetry Constructions: A Review
+Lagrangian Formalism Over Graded Algebras
+Operator Formalism on General Algebraic Curves
+Localization of frak u -modules. I. Intersection cohomology of real arrangements
+Local systems over complements of hyperplanes and the Kac-Kazhdan conditions for singular vectors
+Holomorphic Yang-Mills Theory and Variation of the Donaldson Invariants
+Topological QCD
+Thermodynamic Bethe Ansatz and Dilogarithm Identities I
+N=2 Supersymmetric QCD and Four Manifolds (I) the Donaldson and the Seiberg-Witten Invariants
+Matrix Models and Geometry of Moduli Spaces
+Topological Quantum Field Theory: A Progress Report
+Central Extensions of Gauge Groups Revisited
+BPS States String Duality and Nodal Curves on K3
+Mirror Symmetry for hyperkaehler manifolds
+D-branes Quivers and ALE Instantons
+D-branes Black Holes and SU( infty) Gauge Theory
+Novel algebraic structures from the polysymplectic form in field theory
+The Geometry of Supersymmetric Gauge Theories in Four Dimensions
+Lyapunov exponents and Hodge theory
+New Geometrical Approach to Superstrings
+Grassmannian Cohomolgy Rings and Fusion Rings from Algebraic Equations
+Non-Perturbative Superpotentials in Landau-Ginzburg Compactification
+The Higher Cohomologies of E  Lie Algebra
+Picture changing operators in supergeometry and superstring theory
+A representation theoretic approach to the WZW Verlinde formula
+Iterated Residues and Multiple Bernoulli Polynomials
+Topology and physics-a historical essay
+Quantum Cohomology and Free Field Representation
+Lectures in Topological Quantum Field Theory
+Highest Weight Representations of Quantum Current Algebras
+Localization of frak u -modules. II. Configuration spaces and quantum groups
+Is a Knot Classification possible
+Langlands Reciprocity for Algebraic Surfaces
+A Novel Aprroach to Knot Classification
+On the spaces of polynomial knots
+Elliptic Algebras and Equivariant Elliptic Cohomology
+Affine Algebras Langlands Duality and Bethe Ansatz
+Modular functor and representation theory of hat sl 2 at a rational level
+Sugawara Construction and Casimir Operators for Krichever-Novikov Algebras
+Berezin-Toeplitz Quantization of compact Kaehler manifolds
+On the D-module and formal-variable approaches to vertex algebras
+Separation of variables for Gaudin-Calogero systems
+Flexible sheaves
+Noninvertibility and Semi-'' Analogs of (Super) Manifolds Fiber Bundles and Homotopies
+Deformation quantization of compact K ahler manifolds via Berezin-Toeplitz operators
+Screenings and a universal Lie-de Rham cocycle
+Dynamical Systems Accepting the Normal Shift
+Holomorphic Curves and Toda Systems
+Syzygies of Abelian and Bielliptic Surfaces in P 4
+Empty real Enriques surfaces and Enriques-Einstein-Hitchin 4-manifolds
+On the Pontrjagin-Viro form
+Semiinfinite Flags. II. Local and Global Intersection Cohomology of Quasimaps' Spaces
+The Chow Ring of the Moduli Space of Abelian Threefolds
+On the Instanton Contributions to the Masses and Couplings of E 6 Singlets
+A Remark on Integrable Poisson Algebras and Two Dimensional Manifolds
+Mirror Symmetry is T-Duality
+Non-Split Geometry on Products of Vector Bundles
+Sheaves on Toric Varieties for Physics
+Non-Recursive Multiplicity Formulas for A N Lie Algebras
+Elliptic Genera and N=2 Superconformal Field Theory
+Derived categories of coherent sheaves on abelian varieties and equivalences between them
+Algebras BPS States and Strings
+Elliptic Genera of Symmetric Products and Second Quantized Strings
+Anticanonical Rational Surfaces
+Free Resolutions of Fat Point Ideals on P 2
+Gale Duality and Free Resolutions of Ideals of Points
+Mathematical Aspects of Mirror Symmetry
+Giambelli-type formula for subbundles of the tangent bundle
+An Assympotic Vanishing Theorem for Generic Unions of Multiple Points
+Seiberg-Witten integrable systems
+G 'eom 'etrie d'Arakelov des vari 'et 'es toriques et fibr 'es en droites int 'egrables
+Rational and Non-Rational Algebraic Varieties: Lectures of J 'anos Koll 'ar
+An elliptic conic bundle in P 4 arising from a stable rank-3 vector bundle
+On Moduli of G-bundles over Curves for exceptional G
+Boundary Manifolds of Line Arrangements
+Mirror Principle I
+Modular operads
+Holomorphic Anomalies in Topological Field Theories
+Differential Operator Algebras on compact Riemann Surfaces
+On a Grauert-Riemenschneider vanishing theorem for Frobenius split varieties in characteristic p
+String Branchings on Complex Tori and Algebraic Representations of Generalized Krichever-Novikov Algebras
+Open String Diagrams I: Topological Type
+Existence and Deformation Theory for Scalar-Flat Kaehler Metrics on Compact Complex Surfaces
+A Kaehler Structure on the Space of String World-Sheets
+Generalized Hypergeometric Functions and Rational Curves on Calabi-Yau Complete Intersections in Toric Varieties
+Conformal blocks and generalized theta functions
+Projective Degenerations of K3 Surfaces Gaussian Maps and Fano Threefolds
+On complex surfaces diffeomorphic to rational surfaces
+On the tautological ring of M g
+On a conjecture of Varchenko
+Quaternionic Monopoles
+On Alternative Supermatrix Reduction
+The Toda hierarchy and the KdV hierarchy
+Mirror duality and string-theoretic Hodge numbers
+Second N=1 Superanalog of Complex Structure
+GKZ-Generalized Hypergeometric Systems in Mirror Symmetry of Calabi-Yau Hypersurfaces
+Higher genus symplectic invariants and sigma model coupled with gravity
+The intrinsic normal cone
+Gromov-Witten invariants in algebraic geometry
+Space of conformal blocks in 4D WZW theory
+Geometry of Deligne cohomology
+Weight systems for toric Calabi-Yau varieties and reflexivity of Newton polyhedra
+Vanishing theorems for ample vector bundles
+Higher Weil-Petersson Volumes of Moduli Spaces of Stable n -pointed Curves
+A Lie algebra attached to a projective variety
+A high fibered power of a family of varieties of general type dominates a variety of general type
+Double coset construction of moduli space of holomorphic bundles and Hitchin systems
+Standard Monomial Theory for Bott-Samelson Varieties of GL(n)
+Divisors on elliptic Calabi-Yau 4-folds and the superpotential in F-theory I
+Plane curves of minimal degree with prescribed singularities
+Mirror symmetry on K3 surfaces via Fourier-Mukai transform
+Intersection Numbers and Rank One Cohomological Field Theories in Genus One
+Exact Random Walk Distributions using Noncommutative Geometry
+Relations between the correlators of the topological sigma-model coupled to gravity
+A Complex Hyperbolic Structure for Moduli of Cubic Surfaces
+Conifold Transitions and Mirror Symmetry for Calabi-Yau Complete Intersections in Grassmannians
+A conjectural generating function for numbers of curves on surfaces
+Invariance of Plurigenera
+Quantum theory of non-abelian differential forms and link polynomials
+On polynomial solutions of differential equations
+Singularity complexity and quasi--integrability of rational mappings
+Super Elliptic Curves
+Generalized Calabi-Yau Manifolds and the Mirror of a Rigid Manifold
+Uniformization theory and 2D gravity I. Liouville action and intersection numbers
+Effective action in spherical domains
+On operad structures of moduli spaces and string theory
+Mirror Symmetry for Two Parameter Models -- I
+The Seven-sphere and its Kac-Moody Algebra
+A zeta function approach to the relation between the numbers of symmetry planes and axes of a polytope
+Calabi-Yau Moduli Space Mirror Manifolds and Spacetime Topology Change in String Theory
+Equivariant Topological Sigma Models
+Toeplitz Quantization of K ahler Manifolds and gl(N) N to infty
+Universal Teichm uller space in geometry and physics
+Liouville Equation And Schottky Problem
+Mirror Symmetry for Hypersurfaces in Weighted Projective Space and Topological Couplings
+Infinite dimensional geometry and quantum field theory of strings. III. Infinite dimensional W-geometry of a second quantized free string
+A bigraded version of the Weil algebra and of the Weil homomorphism for Donaldson invariants
+Nonperturbative Model Of Liouville Gravity
+Large N 2D Yang-Mills Theory and Topological String Theory
+Setting Hidden Symmetries Free by the Noncommutative Veronese Mapping
+Gromov-Witten classes quantum cohomology and enumerative geometry
+Baxterization dynamical systems and the symmetries of integrability
+BRST Structures and Symplectic Geometry on a Class of Supermanifolds
+Chiral Rings Do Not Suffice: N=(2 2) Theories with Nonzero Fundamental Group
+Three-dimensional BF Theories and the Alexander-Conway Invariant of Knots
+Nonperturbative 2D Gravity Punctured Spheres and Theta -Vacua in String Theories
+Solitons and Helices: The Search for a Math-Physics Bridge
+Orthogonal Decomposition of Some Affine Lie Algebras in Terms of their Heisenberg Subalgebras
+Arithmetic Properties of Mirror Map and Quantum Coupling
+Laughlin states on the sphere as representations of Uq(sl(2))
+Representations of Composite Braids and Invariants for Mutant Knots and Links in Chern-Simons Field Theories
+Mirror Symmetry for Calabi-Yau Hypersurfaces in Weighted P 4 and Extensions of Landau Ginzburg Theory
+Algebraic-geometrical formulation of two-dimensional quantum gravity
+The Donaldson-Witten Invariants in Pure QCD with Order and Disorder 't Hooft-like Operators
+Holomorphic Bundles and Many-Body Systems
+Stable Singularities in String Theory
+Non-Abelian Monopoles on Four-Manifolds
+Higher Grading Generalisations of the Toda Systems
+Dual Polyhedra Mirror Symmetry and Landau-Ginzburg Orbifolds
+Polynomial Invariants for SU(2) Monopoles
+Four-Dimensional Avatars of Two-Dimensional RCFT
+Gromov-Witten Invariants via Algebraic Geometry
+On Semi-Periods
+On the Connectedness of the Moduli Space of Calabi--Yau Manifolds
+On the Classification of Reflexive Polyhedra
+Current Algebraic Structures over Manifolds: Poisson Algebras q-Deformations and Quantization
+Twisted N=2 Supersymmetry with Central Charge and Equivariant Cohomology
+Local BRST cohomology and covariance
+Nonperturbative Relations in N=2 SUSY Yang-Mills and WDVV equation
+An Explicit Construction of Casimir Operators and Eigenvalues : I
+Mirror Symmetry of Calabi-Yau Manifolds and Flat Coordinates
+Solving N=2 SYM by Reflection Symmetry of Quantum Vacua
+Searching for K3 Fibrations
+Modular Invariance and Structure of the Exact Wilsonian Action of N=2 SYM
+On the Structure of the Small Quantum Cohomology Rings of Projective Hypersurfaces
+On moduli spaces of flat connections with non-simply connected structure group
+Families of Singular and Subsingular Vectors of the Topological N=2 Superconformal Algebra
+Calabi-Yau 4-folds and toric fibrations
+Twisted Baryon Number in N=2 Supersymmetric QCD
+Quantum Cohomology and Virasoro Algebra
+Supersymmetry and the cohomology of (hyper)Kaehler manifolds
+Chiral Determinant Formulae and Subsingular Vectors for the N=2 Superconformal Algebras
+Reducible Connections in Massless Topological QCD and 4-manifolds
+Transmutations between Singular and Subsingular Vectors of the N=2 Superconformal Algebras
+Multidimensional Dynamical Systems Accepting the Normal Shift
+An Explicit Construction of Casimir Operators and Eigenvalues:II
+Quantum Cohomology of a Product
+Universal R-matrix for null-plane quantized Poincar 'e algebra
+Self-duality of the SL 2 Hitchin integrable system at genus two
+Equivalences of derived categories and K3 surfaces
+Reconstruction of a variety from the derived category and groups of autoequivalences
+Basic cohomology of associative algebras
+Principal G-bundles over elliptic curves
+Monopoles and Four-Manifolds
+On S-Duality in Abelian Gauge Theory
+Supersymmetric Yang-Mills Systems And Integrable Systems
+Vector Bundles And F Theory
+Integration over the u-plane in Donaldson theory
+On Extremal Contractions from Threefolds to Surfaces: the Case of One non-Gorenstein Point
+On the existence of good divisors on Fano varieties of coindex 3
+On the general elephant conjecture for Mori conic bundles
+On extremal contractions from threefolds to surfaces: the case of one non-Gorenstein point and non-singular base surface
+On the blowups of numerical Godeaux surfaces
+Non--trivial harmonic spinors on generic algebraic surfaces
+The Gauss map and the dual variety of real-analytic submanifolds in a sphere or in a hyperbolic space
+Some fundamental problems on real-analytic sets
+Alexander Invariants of Complex Hyperplane Arrangements
+Resolution of simple singularities yielding particle symmetries in a space-time
+Mirror Symmetry Mirror Map and Applications to Calabi-Yau Hypersurfaces
+Mirror Symmetry for Two Parameter Models -- II
+Mirror Symmetry and String Vacua from a Special Class of Fano Varieties
+On the algebras of BPS states
+Mirror Symmetry and the Web of Landau-Ginzburg String Vacua
+Spin-Flavour Symmetry and Contractions Towards Classical Space-Time Symmetry
+Deformation quantization of Poisson manifolds I
+Instantons and affine Lie algebras
+Measuring Small Distances in N=2 Sigma Models
+Interrelations between Quantum Groups and Reflection Equation (Braided) Algebras
+Principal bundles on elliptic fibrations
+Mirror Manifolds in Higher Dimension
+Summing the Instantons: Quantum Cohomology and Mirror Symmetry in Toric Varieties
+Generators for Symbolic Powers of Ideals Defining General Points of P 2
+A property deducible from the generic initial ideal
+On the stable rationality of  G
+Counting twisted cubic curves on general complete intersections
+Linear orbits of d-tuples of points in P 1
+Linear orbits of smooth plane curves
+A blow-up construction and graph coloring
+Chern classes for singular hypersurfaces
+Hyperholomorphic sheaves and new examples of hyperkaehler manifolds
+A construction of separated quotient space and boundaries of symmetric spaces
+On top Chern classes of universal bundles on moduli spaces of rank two coherent sheaves on the projective plane or How to calculate the correlation function in SYM N=2 Nf=4 quantum field theory on complex projective plane
+Equivariant Holomorphic Morse Inequalities I: A Heat Kernel Proof
+Koszul duality and Galois cohomology
+All strictly exceptional collections in D b coh (P m) consist of vector bundles
+Moduli spaces of PU(2)-monopoles
+Erratum to The Homogeneous Coordinate Ring of a Toric Variety along with the original paper
+bf C -extensions of tori higher Chow groups and applications to incidence equivalence relations for algebraic cycles.
+Constructing Indecomposable Motivic Cohomology Classes on Algebraic Surfaces
+Motives of uniruled 3-folds
+A lecture on Arithmetic Mirror Symmetry and Calabi-Yau manifolds
+Mirror Symmetry and the Moduli Space for Generic Hypersurfaces in Toric Varieties
+Duality Between the Webs of Heterotic and Type II Vacua
+Equivalence between Chain Categories of Representations of Affine sl(2) and N=2 Superconformal Algebras
+Special Kahler Manifolds
+Hyperbolicity of the complement of plane algebraic curves
+On the Hyperbolicity of the Complements of Curves in Algebraic Surfaces: The Three Component Case
+Plane Curves with Hyperbolic and C-hyperbolic Complements
+Iitaka-Severi's Conjecture for Complex Threefolds
+Plane curves with a big fundamental group of the complement
+Estimates of the number of rational mappings from a fixed variety to varieties of general type

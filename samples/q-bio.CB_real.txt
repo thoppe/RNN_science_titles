@@ -1,0 +1,907 @@
+Origin of adaptive mutants: a quantum measurement?
+Velocity oscillations in actin-based motility
+A quantitative study on the growth variability of tumour cell clones in vitro
+Self assembly of a model multicellular organism resembling the Dictyostelium slime molds
+Orientation field model for chiral branching growth of bacterial colonies
+Computer Simulations Reveal Motor Properties generating stable anti-parallel Microtubule interactions
+Cellular Automata Simulation of Medication-Induced Autoimmune Diseases
+Elastic interactions of active cells with soft materials
+Onset of Shear Waves In A Bacterial Bath: A Novel Effect
+Micromanipulation of magnetotactic bacteria with a microelectromagnet matrix
+Diversity-induced synchronized oscillations in close-to-threshold excitable elements arranged on regular networks: effects of network topology
+Transport in one dimensional Coulomb gases: From ion channels to nanopores
+Effect of Poisson ratio on cellular structure formation
+Collective effects in cellular structure formation mediated by compliant environments: a Monte Carlo study
+Efficiency of initiating cell adhesion in hydrodynamic flow
+Modeling branching and chiral colonial patterning of lubricating bacteria
+Modelling intracellular signalling networks using behaviour-based systems and the blackboard architecture
+Integration of Computational Techniques for the Modelling of Signal Transduction
+Mathematical models in biology
+Global existence results for complex hyperbolic models of bacterial chemotaxis
+Origin of genetic information from minority control in a replicating system with mutually catalytic molecules
+From Coupled Dynamical Systems to Biological Irreversibility
+Temporal patterns of gene expression via nonmetric multidimensional scaling analysis
+A Historical Perspective on Cancer
+Does Recycling in Germinal Centers Exist?
+A mathematical model for the germinal center morphology and affinity maturation
+The relation of morphology and affinity maturation in germinal centers
+The type of seeder cells determines the efficiency of germinal center reactions
+Keynote Paper: Cell-Surface Adhesive Interactions in Microchannels and Microvessels
+Dynamics of Immobilized Flagella
+Interactions Between Stably Rolling Leukocytes In Vivo
+Visualization of Cytoskeletal Elements by the Atomic Force Microscope
+On Chemotaxis
+Spiral Phyllotaxis Pattern in an Animal Cell: A Fluid- Driven Mechanism for Red Cell Echinocytosis and Programmed Cell Death
+Fluids as transducers of gravity in biological systems
+Effects of Static Magnetic Field on Growth of Leptospire Leptospira interrogans serovar canicola: Immunoreactivity and Cell Division
+Measurement of the cell membrane capacitance and conductance of colonic crypt cells of the rat using the patch clamp technique
+Filament attachment dynamics in actin-based propulsion
+Hydrodynamic flow patterns and synchronization of beating cilia
+Magnetic Susceptibility: Further Insights into Macroscopic and Microscopic Fields and the Sphere of Lorentz
+Brownian Motion after Einstein: Some new applications and new experiments
+Cytokinesis: the initial linear phase crosses over to a multiplicity of non-linear endings
+Complexity in the Immune System
+A graph model for the evolution of specificity in humoral immunity
+Dynamical Systems Basis of Metamorphosis: Diversity and Plasticity of Cellular States in Reaction Diffusion Network
+Power laws in biological networks
+Mathematical model of solid tumor formation
+Mathematical modeling of filamentous microorganisms
+A Simple Cellular Automaton Model for Influenza A Viral Infections
+Global organization of metabolic fluxes in the bacterium Escherichia coli
+An ordinary differential equation model for the multistep transformation to cancer
+On Strong control conservative point estimation and simultaneous conservative consistency of false discovery rates : Does a large number of tests obviate confidence intervals of the FDR?
+Probabilities of spurious connections in gene networks: Application to expression time series
+Aggregation of foraging swarms
+A model for African trypanosome cell motility and quantitative description of flagellar dynamics
+Single Cancer Cell Detection by Near Infrared Microspectroscopy Infrared Chemical Imaging and Fluorescence Microspectroscopy
+Tumor Gompertzian growth by cellular energetic balance
+Simulating the Impact of a Molecular 'Decision-Process' on Cellular Phenotype and Multicellular Patterns in Brain Tumors
+Model for the robust establishment of precise proportions in the early Drosophila embryo
+A simple derivation of the Gompertz law for human mortality
+Geometry of Axoneme-like Filament Bundles
+Modeling network dynamics: the lac operon a case study
+A Structured-Population Model of Proteus mirabilis Swarm-Colony Development
+Pattern formation in a stochastic model of cancer growth
+The Effects of EGF-Receptor Density on Multiscale Tumor Growth Patterns
+Stochastic gene expression in switching environments
+The reaction-diffusion approach to morphogenesis
+Non-Maxwellian velocity distribution and anomalous diffusion of it in vitro kidney cells
+Simulation of stem cell survival in small crypts
+Statistical modeling of primary Ewing tumours of the bone
+On Recursive Production and Evolvabilty of Cells: Catalytic Reaction Network Approach
+Probing the Effects of the Well-mixed Assumption on Viral Infection Dynamics
+Alternative mechanisms of structuring biomembranes: Self-assembly vs. self-organization
+Turing Pattern with Proportion Preservation
+Vascular network remodeling via vessel cooption regression and growth in tumors
+Microbial origin of excess greenhouse gases in glacial ice
+Life in solid ice
+Integrin activation - the importance of a positive feedback
+Differential gene expression in Bacillus subtilis
+Spontaneous polarization in eukaryotic gradient sensing: A mathematical model based on mutual inhibition of frontness and backness pathways
+Modeling Human Erythrocyte Shape and Size Abnormalities
+Modeling the Role of the Cell Cycle in Regulating Proteus mirabilis Swarm-Colony Development
+How to formulate membrane potential in a spatially homogeneous myocyte model?
+How Noise and Coupling Induce Bursting Action Potentials in Pancreatic beta-cells
+Networks of Mobile Elements for Biological Systems
+Sexual replication in the quasispecies model
+Role of transport performance on neuron cell morphology
+NF-kappa B oscillations and cell-to-cell variability
+Genetically engineered cardiac pacemaker: stem cells transfected with HCN2 gene and myocytes - a model
+Protocell Self-Reproduction in a Spatially Extended Metabolism-Vesicle System
+Transient pattern formation in a stochastic model of cancer growth
+Bacterial self-organisation and computation
+A hypothesis on the selective advantage for sleep
+The Activity Reaction Core and Plasticity of Metabolic Networks
+Taxis Equations for Amoeboid Cells
+Structural Kinetic Modeling of Metabolic Networks
+A model for regulated fatty acid metabolism in liver equilibria and their changes
+Conductance versus current noise in a neuronal model for noisy subthreshold oscillations and related spike generation
+The adaptive filter of the yeast galactose pathway
+Analysis of a microscopic stochastic model of microtubule dynamic instability
+When does division of labor lead to increased system output?
+Sequential recruitment and combinatorial assembling of multiprotein complexes in transcriptional activation
+Synthetic Turing protocells: vesicle self-reproduction through symmetry-breaking instabilities
+Hysteresis and bi-stability by an interplay of calcium oscillations and action potential firing
+Stochastic Gene Expression in a Lentiviral Positive Feedback Loop: HIV-1 Tat Fluctuations Drive Phenotypic Diversity
+Supplemental Data: Stochastic Gene Expression in a Lentiviral Positive Feedback Loop: HIV-1 Tat Fluctuations Drive Phenotypic Diversity
+Bacterial gene regulation in diauxic and nondiauxic growth
+A mass conserved reaction-diffusion system captures properties of cell polarity
+Force balance and membrane shedding at the Red Blood Cell surface
+Modulation of the reaction rate of regulating protein induces large morphological and motional change of amoebic cell
+Migration and proliferation dichotomy in tumor cell invasion
+Senescence Can Explain Microbial Persistence
+Directionality of glioblastoma invasion in a 3d in vitro experiment
+A Dynamical Model of Lipoprotein Metabolism
+An analysis of B cell selection mechanisms in germinal centers
+Mechanisms of organogenesis of primary lymphoid follicles
+Microcolony and Biofilm Formation as a Survival Strategy for Bacteria
+The electrophysiology of the betacell based on single transmembrane protein characteristics
+Effect of DNA looping on the induction kinetics of the lac operon
+Continuum model of actin-mediated bacterial propulsion
+Mixed-Cultures and Alcoholic Fermentations
+An allosteric model for circadian KaiC phosphorylation - Supporting Information
+From a quantum mechanical description of the assembly processes in microtubules to their semiclassical nonlinear dynamics
+Simulating non-small cell lung cancer with a multiscale agent-based model
+Relating Biophysical Properties Across Scales
+Elasticities and stabilities: lipid membranes vs cell membranes
+Computational investigations into the orgins of 'short term' biochemical memory in T cell activation
+Bistability of the lac operon during growth of Escherichia coli on lactose and lactose glucose
+Post-transcriptional Regulation Drives Temporal Compartmentalization of the east Metabolic Cycle
+Simple Mathematical Model Of Pathologic Microsatellite Expansions: When Self-Reparation Does Not Work
+Mean first passage times for bond formation for a Brownian particle in linear shear flow above a wall
+Immune response to a malaria infection: properties of a mathematical model
+Multi-strain virus dynamics with mutations: A global analysis
+A Map-Based Model of the Cardiac Action Potential
+Landscape phage phage display stripped phage biosensors detection affinity reagent nanotechnology Salmonella typhimurium Bacillus anthracis
+A probabilistic regulatory network for the human immune system
+Intermittent dynamics and 1 f beta noise in single cardiac muscle cells
+A Multiscale Model of Biofilm as a Senescence-Structured Fluid
+Selective advantage for sexual reproduction with random haploid fusion
+Dissecting Subsecond Cadherin Bound States Reveals an Efficient Way for Cells to Achieve Ultrafast Probing of their Environment
+Cell adhesion and cortex contractility determine cell patterning in the Drosophila retina
+Fluctuation theorem applied to Dictyostelium discoideum system
+Steady-State Chemotactic Response in E. coli
+Regulative Differentiation as Bifurcation of Interacting Cell Population
+An Empirical Study of Immune System Based On Bipartite Network
+Gene regulation in continuous cultures: A unified theory for bacteria and yeasts
+Hydrodynamic and rheology of active polar filaments
+Determinants of bistability in induction of the Escherichia coli lac operon
+The diffusive influx and carrier efflux have a strong effect on the bistability of the lac operon in Escherichia coli
+Enhanced reaction kinetics in biological cells
+Positive feedback and noise activate the stringent response regulator Rel in mycobacteria
+An introduction to the immune network
+Predicting synthetic rescues in metabolic networks
+Dynamic states of cells adhering in shear flow: from slipping to rolling
+Epidermal corneocytes: dead guards of the hidden treasure
+Aging and Immortality in a Cell Proliferation Model
+Persistent Cell Motion in the Absence of External Signals: A Search Strategy for Eukaryotic Cells
+Epigenetic Tracking a Method to Generate Arbitrary Shapes By Using Evolutionary-Developmental Techniques
+A model of dissociated cortical tissue
+Diversity against adversity: How adaptive immunity evolves potent antibodies
+The limits of filopodium stability
+Anapedesis: Implications and Applications of Bio-Structural Robustness
+Bacterial tracking of motile algae assisted by algal cell's vorticity field
+How enopus laevis embryos replicate reliably: investigating the random-completion problem
+Coexistence of amplitude and frequency modulations in intracellular calcium dynamics
+Multi-Scale Multi-Resolution Brain Cancer Modeling
+Cancer Cell Motility: Optimizing Spatial Search Strategies
+Mean encounter times for cell adhesion in hydrodynamic flow: analytical progress by dimensional reduction
+Agent-Based Modeling of Host-Pathogen Systems: The Successes and Challenges
+Shoot regeneration seedlings from transverse thin cell layer explants excised from cotyledon petiole hypocotyl of Brassica uncea L. Czern. in the presence of CdCl 2
+Consistency Principle in Biological Dynamical Systems
+Robustness of a Cellular Automata Model for the HIV Infection
+Dynamics of gene expression under feedback
+A Theoretical Model of Chaotic Attractor in Tumor Growth and Metastasis
+Network Evolution of Body Plans
+Modeling of anti-tumor immune response: immunocorrective effect of weak centimeter electromagnetic waves
+Ricci Flow and Entropy Model for Avascular Tumor Growth and Decay Control
+Power-law scaling in protein synthesis of a stochastic regulon
+Functional Analysis of Spontaneous Cell Movement under Different Physiological Conditions
+Law of Genome Evolution Direction : Coding Information Quantity Grows
+Multicellular Tumor Spheroid in an off-lattice Voronoi Delaunay cell model
+A stochastic model for tumor growth with immunization
+Contact-inhibited chemotaxis in de novo and sprouting blood-vessel growth
+Stochastic models and numerical algorithms for a class of regulatory gene networks
+A Mathematical Model of Chaotic Attractor in Tumor Growth and Decay
+Different Strategies for Cancer Treatment: Mathematical Modeling
+Quantitative Resolution to some Absolute Discrepancies in Cancer Theories: a View from Phage lambda Genetic Switch
+Self-organized periodicity of protein clusters in growing bacteria
+VE-cadherin and claudin-: it takes two to tango
+Protein Kinase C-related Kinase and ROCK Are Required for Thrombin-induced Endothelial Cell Permeability Downstream from G alpha 12 13 and G alpha 11 q
+Spatial signal amplification in cell biology: a lattice-gas model for self-tuned phase ordering
+The motility of normal and cancer cells in response to the combined influence of substrate rigidity and anisotropic microstructure
+Nanomechanical detection of antibiotic-mucopeptide binding in a model for superbug drug resistance
+The Dynamic Replicon: adapting to a changing cellular environment
+From random to directed motion: Understanding chemotaxis in E. Coli within a simplified model
+Breaking the VE-cadherin bonds
+A physical model of nicotinic ACh receptor kinetics
+Spontaneous Reaction Silencing in Metabolic Optimization
+Similar self-organizing scale-invariant properties characterize early cancer invasion and long range species spread
+Genetic noise control via protein oligomerization
+Pushing off the walls: a mechanism of cell motility in confinement
+Functional models for large-scale gene regulation networks: realism and fiction
+Force and length-dependent catastrophe activities explain interphase microtubule organization in fission yeast
+Universal features of cell polarization processes
+Modeling tumor cell migration: from microscopic to macroscopic
+Cells cancer and rare events: homeostatic metastability in stochastic non-linear dynamics models of skin cell proliferation
+Quantitative interpretation of binding reactions of rapidly diffusing species using fluorescence recovery after photobleaching
+Cortical Factor Feedback Model for Cellular Locomotion and Cytofission
+Genome-scale reconstruction of the metabolic network in ersinia pestis strain 1001
+Collective Langevin Dynamics of Flexible Cytoskeletal Fibers
+Molecular Dynamics Simulation of Vascular Network Formation
+Microscale adhesion patterns for the precise localization of amoeba
+Ratio control in a cascade model of cell differentiation
+Anomalous dynamics of cell migration
+Stability and Hopf bifurcation in a mathematical model of pluripotent stem cell dynamics
+On the stability of a maturity structured model of cellular proliferation
+A mathematical study of the hematopoiesis process with applications to chronic myelogenous leukemia
+Global Asymptotic Stability and Hopf Bifurcation for a Blood Cell Production Model
+Modelling hematopoiesis mediated by growth factors with applications to periodic hematological diseases
+Logic Integer Programming Models for Signaling Networks
+Probing embryonic tissue mechanics with laser hole-drilling
+Epigenetic Tracking: Towards a Proect for an Artificial Biology
+General coarse-grained red blood cell models: I. Mechanics
+A mathematical model for period-memorizing behavior in Physarum plasmodium
+Volume exclusion and elasticity driven directional transport: an alternative model for bacterium motility
+Endogenous versus Exogenous Origins of Diseases
+Nonlinear Dynamics of Cilia and Flagella
+Accuracy of direct gradient sensing by single cells
+Mathematical analysis of stochastic models for tumor-immune systems
+Robustness of the Drosophila segment polarity network to transient perturbations
+Accuracy of direct gradient sensing by cell-surface receptors
+On the parabolic-elliptic limit of the doubly parabolic Keller--Segel system modelling chemotaxis
+Oscillatory Notch pathway activity in a delay model of neuronal differentiation
+An Optimization Algorithm for Finding Parameters for Bistability
+Effect of adhesion geometry and rigidity on cellular force distributions
+The role of spatial averaging in the precision of gene expression patterns
+Stable States of Biological Organisms
+Phyllotaxis a model
+Modelling radiation-induced cell cycle delays
+The rate of decline of CD T-cells in people infected with HIV
+Protein micro patterned lattices to probe a fundamental lengthscale involved in cell adhesion
+Morphogenesis by coupled regulatory networks: Reliable control of positional information and proportion regulation
+Flow-correlated dilution of a regular network leads to a percolating network during tumor induced angiogenesis
+On two quantum approaches to adaptive mutations in bacteria
+Actin based propulsion: Intriguing interplay between material properties and growth processes
+PAKing up to the endothelium
+Maximum likelihood and the single receptor
+Patterns that Grow
+Recycling probability and dynamical properties of germinal center reactions
+Application of Coarse Integration to Bacterial Chemotaxis
+Auto-reverse nuclear migration in bipolar mammalian cells on micropatterned surfaces
+Relational patterns of gene expression via nonmetric multidimensional scaling analysis
+Minimal model of self-replicating nanocells: a physically embodied information-free scenario
+Efficiency selectivity and robustness of the nuclear pore complex transport
+Balance between cell survival and death: a minimal quantitative model of tumor necrosis factor alpha cytotoxicity
+Quantifying mRNA synthesis and decay rates using small RNAs
+Arginine-rich peptides destabilize the plasma membrane consistent with a pore formation translocation mechanism of cell penetrating peptides
+A model for signal transduction during quorum sensing in emph Vibrio harveyi
+A mathematical model of intercellular signaling during epithelial wound healing
+Rebuilding cytoskeleton roads: Active-transport-induced polarization of cells
+Adaptation and Optimal Chemotactic Strategy for E. Coli
+Robust and Irreversible Development in Cell Society as a General Consequence of Intra-Inter Dynamics
+Trapping Dynamics with Gated Traps: Stochastic Resonance-Like Phenomenon
+Nonequilibrium Fluctuations Travelling Waves and Instabilities in Active Membranes
+Aggregation Patterns in Stressed Bacteria
+Self-organized Vortex State in Two-dimensional Dictyostelium Dynamics
+Magnetic Susceptibility: Solutions Emulsions and Cells
+Inverse Geometric Approach to the Simulation of the Circular Growth. The Case of Multicellular Tumor Spheroids
+Relationship between cellular response and behavioral variability in bacterial chemotaxis
+Kinetics of cell division in epidermal maintenance
+Critical mass of bacterial populations and critical temperature of self-gravitating Brownian particles in two dimensions
+A simple model for dynamic phase transitions in cell spreading
+Distinguishing cancerous from non-cancerous cells through analysis of electrical noise
+Kinetic limitations of cooperativity based drug delivery systems
+Rectification of Swimming Bacteria and Self Driven Particle Systems by Arrays of Asymmetric Barriers
+Curvature and torsion in growing actin networks
+Intracellular microrheology of motile Amoeba proteus
+Contraction-induced cluster formation in cardiac cell culture
+Probabilistic approach to a proliferation and migration dichotomy in the tumor cell invasion
+Exponential sensitivity of noise-driven switching in genetic networks
+Generation and escape of local waves from the boundary of uncoupled cardiac tissue
+Mechanism of murine epidermal maintenance: Cell division and the Voter Model
+Entropy Production in a Cell and Reversal of Entropy Flow as an Anticancer Therapy
+New Proposed Mechanism of Actin-Polymerization-Driven Motility
+The phase diagram of random threshold networks
+Pattern Formation of Glioma Cells: Effects of Adhesion
+Nonlinearity in Bacterial Population Dynamics: Proposal for Experiments for the Observation of Abrupt Transitions in Patches
+Memristive model of amoeba's learning
+Creation and Reproduction of Model Cells with Semipermeable Membrane
+Patch coalescence as a mechanism for eukaryotic directional sensing
+Estimating the rate constant of cyclic GMP hydrolysis by activated phosphodiesterase in photoreceptors
+Small RNAs Establish Delays and Temporal Thresholds in Gene Expression
+Morphogen Profiles Can Be Optimised to Buffer Against Noise
+Theoretical analyses predict A20 regulates period of NF-kB oscillation
+Ab initio computational modeling of tumor spheroids
+Influence of Protein Electromagnetic Field on Hydrogen Bonding
+Modelling Cell Cycle using Different Levels of Representation
+Chemical and Mechanical Signaling in Epithelial Spreading
+When it Pays to Rush: Interpreting Morphogen Gradients Prior to Steady-State
+Curved Tails in Polymerization-Based Bacterial Motility
+Elastic Interactions of Cells
+Diffusion of Asymmetric Swimmers
+Percolation Morphogenesis and Burgers Dynamics in Blood Vessels Formation
+Cell organization in soft media due to active mechanosensing
+Rheology of Active-Particle Suspensions
+Interplay of chemotaxis and chemokinesis mechanisms in bacterial dynamics
+Microrheology stress fluctuations and active behavior of living cells
+Soft Listeria: actin-based propulsion of liquid drops
+Multiple stalk formation as a pathway of defect-induced membrane fusion
+Symmetry-Breaking Motility
+Rounding of aggregates of biological cells: Experiments and simulations
+Modelling tubular shapes in the inner mitochondrial membrane
+Conductance of ion channels and nanopores with charged walls: a toy model
+Ion exchange phase transitions in doped water--filled channels
+Branching Capping and Severing in Dynamic Actin Structures
+System-Size Effects on the Collective Dynamics of Cell Populations with Global Coupling
+Avalanche of Bifurcations and Hysteresis in a Model of Cellular Differentiation
+A lattice model for the kinetics of rupture of fluid bilayer membranes
+Growth Patterns of Microscopic Brain Tumors
+Control of catalytic activity of proteins in vivo by nanotube ropes excited with infrared light
+Electrostatic colloid-membrane complexation
+An equation-free computational approach for extracting population-level behavior from individual-based models of biological dispersal
+Ab initio phenomenological simulation of the growth of large tumor cell populations
+Continuous macroscopic limit of a discrete stochastic model for interaction of living cells
+Probing subtle fluorescence dynamics in cellular proteins by streak camera based Fluorescence Lifetime Imaging Microscopy
+Quantitative Imaging of Protein-Protein Interactions by Multiphoton Fluorescence Lifetime Imaging Microscopy using a Streak camera
+The east Cell-Cycle Network Is Robustly Designed
+Mechanisms of pattern formation during T cell adhesion
+Fluctuations and noise in cancer development
+Dynamic Phase Transitions in Cell Spreading
+Subthreshold oscillations in a map-based neuron model
+Effects of receptor clustering on ligand dissociation: Theory and simulations
+Physical Schemata Underlying Biological Pattern Formation - Examples Issues and Strategies
+Chemotactic Collapse and Mesenchymal Morphogenesis
+Strong-coupling dynamics of a multi-cellular chemotactic system
+Dynamic model for failures in biological systems
+Power laws of complex systems from Extreme physical information
+Dynamics and pattern formation in invasive tumor growth
+A stochastic model for wound healing
+Selective advantage for multicellular replicative strategies: A two-cell example
+Glucose metabolism and oscillatory behavior of pancreatic islets
+Force Modulating Dynamic Disorder: Physical Theory of Catch-slip bond Transitions in Receptor-Ligand Forced Dissociation Experiments
+Thresholds long delays and stability from generalized allosteric effect in protein networks
+The Bacterial Chemotactic Response Reflects a Compromise Between Transient and Steady State Behavior
+Amplified biochemical oscillations in cellular systems
+Evolutionary Analysis of Biological Excitability
+The role of cell-cell adhesion in wound healing
+Phase transition in the collective migration of tissue cells: experiment and model
+Modeling emergent tissue organization involving high-speed migrating cells in a flow equilibrium
+Asexual and sexual replication in sporulating organisms
+Network formation of tissue cells via preferential attraction to elongated structures
+An allosteric model of KaiC phosphorylation
+From differential equations to Boolean networks: A Case Study in modeling regulatory networks
+Photodynamic therapy influence on anti-cancer immunity
+A Biomechanical Model for Dictyostelium Motility
+Mathematical description of bacterial traveling pulses
+Use of high throughput sequencing to observe genome dynamics at a single cell level
+Scale-free dynamics of somatic adaptability in immune system
+Human cell recovery after microwave irradiation
+Inspiration from genetics to promote recognition and protection within ad hoc sensor networks
+Extrinsic noise passing through a Michaelis-Menten reaction: A universal response of a genetic switch
+Epigenetic Tracking: Implementation Details
+A statistical mechanics approach to autopoietic immune networks
+Switch and template pattern formation in a discrete reaction diffusion system inspired by the Drosophila eye
+A spatial model of autocatalytic reactions
+Coupling biochemistry and mechanics in cell adhesion: a model for inhomogeneous stress fiber contraction
+Contractile prestress controls stiffening and fluidization of living cells in response to large external forces
+Nucleation dynamics in 2d cylindrical Ising models and chemotaxis
+Resonant activation: a strategy against bacterial persistence
+Modularity map of the network of human cell differentiation
+Regulatory assembly of the vacuolar proton pump VOV1-ATPase in yeast cells by FLIM-FRET
+Linear dielectric response of clustered living cells
+Targeting cytochrome C oxidase in mitochondria with Pt(II)-porphyrins for Photodynamic Therapy
+Continuum Electrostatics in Cell Biology
+A symmetry breaking mechanism for epithelial cell polarization
+On the asymptotic behavior of the solutions to the replicator equation
+Nih-3T3 Fibroblast Studied by Fourier Transform Infrared Spectroscopy
+Monocyte and T-lymphocyte trans-endothelial migration in relation to cardiovascular disease: some alternative boundary conditions in a model recently proposed by Little et al. (PLoS Comput Biol 200 (10) e10003)
+Stress relaxation and creep experiments with the atomic force microscope: a unified method to calculate elastic moduli and viscosities of biomaterials (and cells)
+Mathematical Modelling of Allergy and Specific Immunotherapy: Th1-Th2-Treg Interactions
+Affinity Discrimination in B cells in Response to Membrane Antigen Requires Kinetic Proofreading
+A stem-cell ageing hypothesis on the origin of Parkinson's disease
+Coupling of cytoplasm and adhesion dynamics determines cell polarization and locomotion
+In silico estimates of the free energy rates in growing tumor spheroids
+Swimming speeds of filaments in nonlinearly viscoelastic fluids
+Modelling an Ammonium Transporter with SCLS
+Global convergence of quorum-sensing networks
+A modified porous titanium sheet prepared by plasma activated sintering for biomedical applications
+Bone regenerative potential of mesenchymal stem cells on a micro-structured titanium processed by wire-type electric discharge machining
+Chemotactic response and adaptation dynamics in Escherichia coli
+Modelling the spatial organization of cell proliferation in the developing central nervous system
+A biophysical model of cell adhesion mediated by immunoadhesin drugs and antibodies
+Reproduction of a Protocell by Replication of Minority Molecule in Catalytic Reaction Network
+Bridging Time Scales in Cellular Decision Making with a Stochastic Bistable Switch
+Mechanisms explaining transitions between tonic and phasic firing in neuronal populations as predicted by a low dimensional firing rate model
+Determining the accuracy of spatial gradient sensing using statistical mechanics
+Analysis of a mathematical model for interactions between T cells and macrophages
+Frequency-dependent Chemolocation and Chemotactic Target Selection
+Theoretical results for chemotactic response and drift of E. coli in a weak attractant gradient
+Modelling Immunological Memory
+System Dynamics Modelling of the Processes Involving the Maintenance of the Naive T Cell Repertoire
+Do Longer Delays Matter? The Effect of Prolonging Delay in CTL Activation
+Hysteresis in the cell response to time-dependent substrate stiffness
+Mapping cellular magnesium using -ray microfluorescence and atomic force microscopy
+Neuroglobin protects nerve cells from apoptosis by inhibiting the intrinsic pathway of cell death
+Bcl-2 inhibits apoptosis by increasing the time-to-death and intrinsic cell-to-cell variations in the mitochondrial pathway of cell death
+A population-based microbial oscillator
+Dynamics of the bacterial flagellar motor with multiple stators
+Dispersion of biased swimming microorganisms in a fluid flowing through a tube
+Predicting rare events in chemical reactions: application to skin cell proliferation
+Size distribution and waiting times for the avalanches of the Cell Network Model of Fracture
+Pearling in cells: A clue to understanding cell shape
+Global dynamics of cell mediated immunity in viral infection models with distributed delays
+Immune System Inspired Strategies for Distributed Systems
+Modeling the Intercelular Exchange of Signalling Molecules depending on Intra- and Inter-Cellular Environmental Parameters
+Stability of Intercelular Exchange of Biochemical Substances Affected by Variability of Environmental Parameters
+On the Swimming of textit Dictyostelium amoebae
+Adhesion between cells diffusion of growth factors and elasticity of the AER produce the paddle shape of the chick limb
+Dynamics of a microorganism moving by chemotaxis in its own secretion
+Nonlinear gap unctions enable long-distance propagation of pulsating calcium waves in astrocyte networks
+How is the Monoclonal Antibodies Kinetic Affected by Changes of Their Physical Parameters?
+Hydrodynamics of a Micro-Hunter: Chemotactic Scenario
+Critical dynamics in the evolution of stochastic strategies for the iterated Prisoner's Dilemma
+Analysis of a Mathematical Model of Apoptosis: Individual Differences and Malfunction in Programmed Cell Death
+Intercellular spiral waves of calcium in a two dimensional network of cells
+Subdiffusion superdiffusion and chemotaxis
+Spontaneous contractility--mediated cortical flow generates cell migration in 3-dimensional environments
+Dickkopf1 - a new player in modelling the Wnt pathway
+Physarum boats: If plasmodium sailed it would never leave a port
+Programmable reconfiguration of Physarum machines
+Exact solution of a two-type branching process: Clone size distribution in cell division kinetics
+Inference of plasmid copy number mean and noise from single cell gene expression data
+Toward an Ising Model of Cancer and Beyond
+The zipper mechanism in phagocytosis: energetic requirements and variability in phagocytic cup shape
+Force-extension curves of bacterial flagella
+Implications of 3-step swimming patterns in bacterial chemotaxis
+A computational model of cell polarization and motility coupling mechanics and biochemistry
+Noisy-threshold control of cell death
+Viral epidemics in a cell culture: novel high resolution data and their interpretation by a percolation theory based model
+Asymptotic and bifurcation analysis of wave-pinning in a reaction-diffusion model for cell polarization
+Some thoughts on the ontogenesis in B-cell immune networks
+Deterministic and stochastic aspects of VEGF-A production and the cooperative behavior of tumoral cell colony
+Discrimination of Membrane Antigen Affinity by B cells Requires Dominance of Kinetic Proofreading over Serial Triggering
+Measurement of phase synchrony of coupled segmentation clocks
+Intercellular synchronization of diffusively coupled astrocytes
+Transient dynamics around unstable periodic orbits in the generalized repressilator model
+Dynamical quorum-sensing and synchronization of nonlinear oscillators coupled through an external medium
+Dynamics of glucose-lactose diauxic growth in E. coli
+Single--crossover recombination in discrete time
+Competing HIV Strains and Immune System Response
+Timing is everything: on the stochastic origins of cell-to-cell variability in cancer cell death decisions
+A Model of Electrodiffusion and Osmotic Water Flow and its Energetic Structure
+Cell motility: a viscous fingering analysis of active gels
+The in silico macrophage: toward a better understanding of inflammatory disease
+Circadian rhythm and cell population growth
+Critical analysis of data concerning Saccharomyces cerevisiae free-cell proliferations and fermentations assisted by magnetic and electromagnetic fields
+Noise characteristics of the Escherichia coli rotary motor
+Bright Solitary Waves in Malignant Gliomas
+Cell death induced by the application of alternating magnetic fields to nanoparticle-loaded dendritic cells
+Transcription factor search for a DNA promoter in a three-states model
+Noise Filtering Strategies of Adaptive Signaling Networks: The Case of E. Coli Chemotaxis
+Stochastic approximation to the specific response of the immune system
+Effective temperature of active matter
+Role of Antibodies: A Novel Paradigm in Mathematical Modeling for Cancer Treatment
+Spatio-temporal structure of cell distribution in cortical Bone Multicellular Units: a mathematical model
+Effective temperature of active complex matter
+Towards Modeling HIV Long Term Behavior
+Modeling the dynamics of Hepatitis C Virus with combined antiviral drug therapy: Interferon and Ribavirin
+Quantitative model for efficient temporal targeting of tumor cells and neovasculature
+On the origin and extent of mechanical variation among cells
+Modelling Erythroblastic Islands: Using a Hybrid Model to Assess the Function of Central Macrophage
+Decomposing Noise in Biochemical Signalling Systems Highlights the Role of Protein Degradation
+The mechanical creep compliance of tissue cells is gamma distributed
+Differential Dynamic Microscopy of Bacterial Motility
+The Interplay of Nonlinearity and Architecture in Equilibrium Cytoskeletal Mechanics
+Equivalence between two-dimensional cell-sorting and one-dimensional generalized random walk -- spin representations of generating operators
+Resistance to TB drugs in Kwaulu-Natal: causes and prospects for control
+Self-assisted Amoeboid Navigation in Complex Environments
+An acoustically-driven biochip - Impact of flow on the cell-association of targeted drug carriers
+Multiple steady states in a mathematical model for interactions between T cells and macrophages
+How enopus laevis replicates DNA reliably even though its origins of replication are located and initiated stochastically
+On the Law of Directionality of Genome Evolution
+Theory of cooperation in a micro-organismal snow-drift game
+Migration of chemotactic bacteria in soft agar: role of gel concentration
+Growth states of catalytic reaction networks exhibiting energy metabolism
+Monte Carlo study of gating and selection in potassium channels
+Oscillation arrest in the mouse somitogenesis clock presumably takes place via an infinite period bifurcation
+Universality in Bacterial Colonies
+Collective Cell Migration: Leadership Invasion and Segregation
+Collective mechanics of embryogenesis: Formation of ventral furrow in Drosophila
+Ion Concentration Dynamics as a Mechanism for Neuronal Bursting
+Cytoskeleton and Cell Motility
+Finding the ciliary beating pattern with optimal efficiency
+Proceedings Third International Workshop on Computational Models for Cell Processes
+Reaction-Diffusion-Delay Model for EPO TNF- alpha ? Interaction in Articular Cartilage Lesion Abatement
+Programmable models of growth and mutation of cancer-cell populations
+Testing an agent-based model of bacterial cell motility: How nutrient concentration affects speed distribution
+Study on Multicellular Systems Using a Phase Field Model
+Role of fluctuations in membrane models: thermal versus non-thermal
+Growth of bioluminescent bacteria under modelled gravity of different astronomical bodies in the Solar system
+CARS and SHG microscopy to follow the collagen production in living human corneal fibroblasts and mesenchymal stem cells in fibrin gel 3D cultures
+A new homeostatic model of the T cell system
+Mathematical Properties of Pump-Leak Models of Cell Volume Control and Electrolyte Balance
+Prospects of using Antagonist Histamine H2-Receptor (Cimetidinum) as Aduvant for Melanoma Biotherapy Treatment
+About the Neuronal Mechanism of Lateral Hypothalamic Self-Stimulation Response
+Phenomenological understanding of aggregation and dispersion of chemotactic cells
+Model for curvature-driven pearling instability in membranes
+Substrate rigidity deforms and polarizes active gels
+Active amming: Self-propelled soft particles at high density
+Spatiotemporal evolution in a (2 1)-dimensional chemotaxis model
+Dependence of MAPK mediated signaling on Erk isoforms and differences in nuclear shuttling
+Cancer Networks: A general theoretical and computational framework for understanding cancer
+Measuring the viscous and elastic properties of single cells using video particle tracking microrheology
+Scaling of brain metabolism and blood flow in relation to capillary and neural scaling
+Reversibility of Red blood Cell deformation
+Spatiotemporal Pattern Formation in BioFluids I: Cell Shape Perturbants As Evidence of Spatially-Organised Membrane Flows
+Multipolar Reactive DPD: A Novel Tool for Spatially Resolved Systems Biology
+ODE RDE and SDE Models of Cell Cycle Dynamics and Clustering in east
+Models of Microbial Dormancy in Biofilms and Planktonic Cultures
+Chemotaxis When Bacteria Remember: Drift versus Diffusion
+Turing instabilities in a mathematical model for signaling networks
+Mitochondrial Variability as a Source of Extrinsic Cellular Noise
+Clustering in Cell Cycle Dynamics with General Response Signaling Feedback
+Collective and single cell behavior in epithelial contact inhibition
+The stochastic evolution of a protocell. The Gillespie algorithm in a dynamically varying volume
+Mechanical Stress Inference for Two Dimensional Cell Arrays
+Inducing phase-locking and chaos in cellular oscillators by modulating the driving stimuli
+Investigation of bone resorption within a cortical basic multicellular unit using a lattice-based computational model
+Structure of Cell Networks Critically Determines Oscillation Regularity
+Statistical mechanics model of angiogenic tumor growth
+Symmetrical charge-charge interactions in ionic solutions: implications for biological interactions
+Force localization in contracting cell layers
+Contractile network models for adherent cells
+Bridging the gap between the micro- and the macro-world of tumors
+Randomly Evolving Idiotypic Networks: Modular Mean Field Theory
+Randomly Evolving Idiotypic Networks: Structural Properties and Architecture
+Correlating Cell Behavior with Tissue Topology in Embryonic Epithelia
+The DNA Single-Strand Break Repair Machinery Facilitates CAF-1-Mediated Histone Deposition at Oxidative DNA Strand Breaks
+Modeling Regulation of inc Uptake via IP Transporters in east and Plant Roots
+Formation of BCR Oligomers Provides a Mechanism for B cell Affinity Discrimination
+Human sperm cells swimming in micro-channels
+Extensions of the chemostat model with flocculation
+An analysis of overall network architecture reveals an infinite-period bifurcation underlying oscillation arrest in the segmentation clock
+Scaling of Traction Forces with Size of Cohesive Cell Colonies
+Fixed-points in Random Boolean Networks: The impact of parallelism in the scale-free topology case
+Does buckling instability of the pseudopodium limit how well an amoeba can climb?
+A Unified Term for Directed and Undirected Motility in Collective Cell Invasion
+Exact solution of a two-type branching process: Models of tumor progression
+A thermodynamical perspective of immune capabilities
+Model of pathogenesis of psoriasis. Part 1. Systemic psoriatic process
+Model of pathogenesis of psoriasis. Part 2. Local processes
+Immunity to Plasmodium knowlesi H strain malaria in olive baboons
+TRPC ion channel protein is selectively expressed in a subpopulation of dopamine neurons in the ventral tegmental area
+Stripe formation in bacterial systems with density-suppressed motility
+Optogenetic control of genetically-targeted pyramidal neuron activity in prefrontal cortex
+Nicotinic alpha  acetylcholine receptor-mediated currents are not modulated by the tryptophan metabolite kynurenic acid in adult hippocampal interneurons
+Routing Physarum with electrical flow current
+Soluble oligomerization provides a beneficial fitness effect on destabilizing mutations
+Plasmodium knowlesi H strain pregnancy malaria immune responses in olive baboons (Papio anubis)
+Characterisation of placental malaria in olive baboons (Papio anubis) infected with Plasmodium knowlesi H strain
+Tensegrity and Motor-Driven Effective Interactions in a Model Cytoskeleton
+On the spontaneous collective motion of active matter
+Two models of protoplasm microstructure of the living cell in resting state
+A chemotactic model for interaction of antagonistic microflora colonies: front asymptotics and numerical simulations
+Reconciling cyanobacterial fixed-nitrogen distributions and transport experiments with quantitative modelling
+Scaling laws for the response of nonlinear elastic media with implications for cell mechanics
+Active contractility in actomyosin networks
+Modelling of light driven CO2 concentration gradient and photosynthetic carbon assimilation flux distribution at the chloroplast level
+The effects of environmental disturbances on tumor growth
+Optimal cellular mobility for synchronization arising from the gradual recovery of intercellular interactions
+Mechanical state material properties and continuous description of an epithelial tissue
+Collective modes of coupled phase oscillators with delayed coupling
+Drug hypersensitivity caused by alteration of the MHC-presented self-peptide repertoire
+Changes in chromatin state in donors subected to physical stress
+Towards Physarum Binary Adders
+Can persistent Epstein-Barr virus infection induce Chronic Fatigue Syndrome as a Pavlov reflex of the immune response?
+A Mathematical Model of Tripartite Synapse: Astrocyte Induced Synaptic Plasticity
+A Mathematical model for Astrocytes mediated LTP at Single Hippocampal Synapses
+Slime mould solves maze in one pass ... assisted by gradient of chemo-attractants
+The receptor-toxin-antibody interaction: Mathematical model and numerical simulation
+Heterocyst placement strategies to maximize growth of cyanobacterial filaments
+Developing a computational model of blood platelets with fluid dynamics applications
+Cytokine expression in malaria-infected non-human primate placentas
+The size shape and dynamics of cellular blebs
+Finding the Ion Current Density of Microtubules by defining a potential function for the same and Solving the time independent Schrodinger Equation
+Screening of antibacterial activity of lactic acid bacteria isolated from fermented vegetables against food borne pathogens
+Model of cell response to alpha -particle radiation
+Quality Control System Response to Stochastic Growth of Amyloid Fibrils
+Unified approach to growth and aging in biological technical and biotechnical systems
+The Medusa of Spatial Sorting: Topological Construction
+A Markovian growth dynamics on rooted binary trees evolving according to the Gompertz curve
+Slime mould logical gates: exploring ballistic approach
+Macroscopic model of self-propelled bacteria swarming with regular reversals
+Thermodynamics of pharmacological action for electron-accepting compounds on activated or damaged cell in the context of Ling's model of the living cell
+Mechanobiological regulation of bone remodeling -- Theoretical development of a coupled systems biology-micromechanical approach
+Broad-tailed force distributions and velocity ordering in a heterogeneous membrane model for collective cell migration
+Synthetic spatially graded Rac activation drives directed cell polarization and locomotion
+The chaos within: exploring noise in cellular biology
+A New Approach to Understanding Ontogenesis and The Theory of Aging
+Modelling the effect of gap unctions on tissue-level cardiac electrophysiology
+Effects of delayed immune-response in tumor immune-system interplay
+Stabilization of microtubules due to microtubule-associated proteins: A simple model
+Acid-mediated tumor invasion: How does vasculature affect the growth characteristics?
+Contractile stresses in cohesive cell layers on finite-thickness substrates
+Diffusive transport without detailed balance in motile bacteria: Does microbiology need statistical physics?
+Achieving Control of Lesion Growth in CNS with Minimal Damage
+Quorum sensing contributes to activated B cell homeostasis and to prevent autoimmunity
+Tessellations and Pattern Formation in Plant Growth and Development
+Automated Image Analysis of Hodgkin lymphoma
+Qualitative Modelling via Constraint Programming: Past Present and Future
+A stochastic model for virus growth in a cell population
+A toy model of fractal glioma development under RF electric field treatment
+Signalling noise enhances chemotactic drift of E. coli
+Time in the cell: a plausible role for the plasma membrane
+Cellular compartments cause multistability in biochemical reaction networks and allow cells to process more information
+One lump or two?
+The 'Swiss cheese' instability of bacterial biofilms
+Cadherin-Based Intercellular Adhesions Organize Epithelial Cell-Matrix Traction Forces
+Digital clocks: simple Boolean models can quantitatively describe circadian systems
+Application of magnetically induced hyperthermia on the model protozoan Crithidia fasciculata as a potential therapy against parasitic infections
+Thick collagen-based 3D matrices including growth factors to induce neurite outgrowth
+Discrete modelling of bacterial conugation dynamics
+Emergent Run-and-Tumble Behavior in a Simple Model of Chlamydomonas with Intrinsic Noise
+Modeling the effects of tetanus vaccination on chronically infected HIV patients
+Emergence of Self-Organized Amoeboid Movement in a Multi-Agent Approximation of Physarum polycephalum
+Biomembranes report
+Anergy in self-directed B lymphocytes from a statistical mechanics perspective
+Simulating strange attraction of acellular slime mould Physarum polycephaum to herbal tablets
+Network-level dynamics of diffusively coupled cells
+Cellular polarization: interaction between extrinsic bounded noises and wave-pinning mechanism
+Stability Analysis of a Simplified et Complete Model for Chronic Myelegenous Leukemia
+Dynamic evolution of precise regulatory encodings creates the clustered signature of developmental enhancers
+A Structured Population Model of Cell Differentiation
+Slow dynamics of neuronal excitability under pulse stimulation
+Ag-dependent (in silico) approach implies a deterministic kinetics for homeostatic memory cell turnover
+Finite Volume Model to Study the Effect of ER flux on Cytosolic Calcium Distribution in Astrocytes
+Finite Volume Model to Study Calcium Diffusion in Neuron Involving RR SERCA and LEAK
+Spontaneous motion in hierarchically assembled active matter
+Virtual-organism toy-model as a tool to develop bioinformatics approaches of Systems Biology for medical-target discovery
+In vitro investigation of the effects of - rays carried by a photon beam upon the cell cycle progression in Vero cells
+The effects of nutrient chemotaxis on bacterial aggregation patterns with non-linear degenerate cross diffusion
+Cell Migration Model with Multiple Chemical Compasses
+Quantitative predictions on auxin-induced polar distribution of PIN proteins during vein formation in leaves
+L 'evy Fluctuations and Tracer Diffusion in Dilute Suspensions of Algae and Bacteria
+The contribution of age structure to cell population responses to targeted therapeutics
+Biased swimming cells do not disperse in pipes as tracers: a population model based on microscale behaviour
+Dispersion of swimming algae in laminar and turbulent channel flows: consequences for photobioreactors
+Chemical sensing by cell-surface chemoreceptor arrays: the roles of receptor cooperativity and adaptation
+Non-homogeneous random walks subdiffusive migration of cells and anomalous chemotaxis
+Noisy NFkB oscillations stabilize and sensitize cytokine signaling in space
+A three-sphere swimmer for flagellar synchronization
+Collective motion and nonequilibrium cluster formation in colonies of gliding bacteria
+Dynamical quorum sensing and clustering dynamics in a population of spatially distributed active rotators
+Multiscale model for the effects of adaptive immunity suppression on the viral therapy of cancer
+Mechanotaxis and cell motility
+Parallel processing in immune networks
+Controlling cell-matrix traction forces by extracellular geometry
+Machine learning prediction of cancer cell sensitivity to drugs based on genomic and chemical properties
+Immune networks: multi-tasking capabilities at medium load
+Naturally Occurring Genetic Variation Influences the Severity of Drosophila Eye Degeneration Induced by Expression of a Mutant Human Insulin Gene
+How Uncertainty bounds the shape index of simple cells
+Localization of protein aggregation in Escherichia coli is governed by diffusion and nucleoid macromolecular crowding effect
+Quantifying stretching and rearrangement in epithelial sheet migration
+Stress induces remodelling of yeast interaction and co-expression networks
+Stem-Like Adaptive Aneuploidy and Cancer Quasispecies
+The Myogenic Response in Isolated Rat Cerebrovascular Arteries: Smooth Muscle Cell Model
+A Biophysical Model of the Mitochondrial ATP-Mg Pi Carrier
+Exclusion processes: short range correlations induced by adhesion and contact interactions
+Negative-feedback self-regulation contributes to robust and high-fidelity transmembrane signal transduction
+A pathway-based mean-field model for E. coli chemotaxis: Mathematical derivation and Keller-Segel limit
+Minimal Model for Stem-Cell Differentiation
+Classification of Human Epithelial Type 2 Cell Indirect Immunofluoresence Images via Codebook Based Descriptors
+Tumor can originate from not only rare cancer stem cells
+Quorum sensing inhibitory compounds from extremophilic microorganisms isolated from a hypersaline cyanobacterial mat
+Genetic analysis of differentiation of T-helper lymphocytes
+Vitamin D sensitivity to the immune responses and autoimmunity: A chemical network model study
+Self-Sustained Collective Oscillation Generated in an Array of Non-Oscillatory Cells
+A Monte Carlo Simulation on Clustering Dynamics of Social Amoebae
+Comparing System Dynamics and Agent-Based Simulation for Tumour Growth and its Interactions with Effector Cells
+Polymorphism and bistability in adherent cells
+Spatial and Temporal Sensing Limits of Microtubule Polarization in Neuronal Growth Cones by Intracellular Gradients and Forces
+The Role of Osteocytes in Targeted Bone Remodeling: A Mathematical Model
+Stem cell population asymmetry can reduce rate of replicative aging
+Retrieving Infinite Numbers of Patterns in a Spin-Glass Model of Immune Networks
+Capacity of a Simple Intercellular Signal Transduction Channel
+Modeling the Dichotomy of the Immune Response to Cancer: Cytotoxic Effects and Tumor-Promoting Inflammation
+Moderate stem cell telomere shortening rate postpones cancer onset in stochastic model
+Immune networks: multi-tasking capabilities near saturation
+Optimal Path to Epigenetic Switching
+Thymic selection of T-cell receptors as an extreme value problem
+Brownian motion and temperament of living cells
+The influence of T cell development on pathogen specificity and autoreactivity
+Vascular networks due to dynamically arrested crystalline ordering of elongated cells
+Nutrient Shielding in Clusters of Cells
+Delayed self-regulation leads to novel states in epigenetic landscapes
+Lateral migration of living cells in inertial microfluidic systems explored by fully three-dimensional numerical simulation
+Confinement Stabilizes a Bacterial Suspension into a Spiral Vortex
+An active poroelastic model for mechanochemical patterns in protoplasmic droplets of Physarum polycephalum
+Switching of swimming modes in Magnetospirillium gryphiswaldense
+Motor function in interpolar microtubules during metaphase
+Nonlinear subdiffusive fractional equations and aggregation phenomenon
+Phase Dependent Forcing and Synchronization in the three-sphere model of Chlamydomonas
+Learning theories reveal loss of pancreatic electrical connectivity in diabetes as an adaptive response
+Relevance of intracellular polarity to accuracy of eukaryotic chemotaxis
+The Cancer Diaspora: Metastasis beyond the seed and soil hypothesis
+Distinct cell shapes determine accurate chemotaxis
+Evolving cellular automata for diversity generation and pattern recognition: deterministic versus random strategy
+Do cancer cells undergo phenotypic switching? The case for imperfect cancer stem cell markers
+AQP1 Is Not Only a Water Channel: It Contributes to Cell Migration through Lin Beta-Catenin
+Cytoplasmic Streaming in Plant Cells Emerges Naturally by Microfilament Self-Organization
+Self tolerance in a minimal model of the idiotypic network
+The role of input noise in transcriptional regulation
+Viscoelastic Properties of Vascular Endothelial Cells Exposed to Stretch
+Distribution of Traction Forces and Intracellular Markers Associated with Shape Changes During Amoeboid Cell Migration
+Physics of adherent cells
+A High-Performance Cellular Automaton Model of Tumor Growth with Dynamically Growing Domains
+Signal transduction and directional sensing in eukaryotes
+Memory models of adaptive behaviour
+Antiphase Synchronization in a Flagellar-Dominance Mutant of Chlamydomonas
+Three-Dimensional Quantification of Cellular Traction Forces and Mechanosensing of Thin Substrata by Fourier Traction Force Microscopy
+Mechanical fluidity of fully suspended biological cells
+High Throughput Screening of Natural Phenolic Compounds Against Migration of Metastatic Triple-Negative Breast Cancer (TNBC) Cells
+Analysis of the spatial and dynamical properties of a multiscale model of intestinal crypts
+Periodic migration in a physical model of cells on micropatterns
+Aggregation of Red Blood Cells: From Rouleaux to Clot Formation
+Dynamics of Natural Killer cell receptor revealed by quantitative analysis of photoswitchable protein
+Geometric friction directs cell migration
+Spatial anisotropy and heterogeneity in contractility and adhesion distribution may contribute to cell steering during migration
+Stable and flexible system for glucose homeostasis
+Rigidity sensing by stochastic sliding friction
+Cell body rocking is a dominant mechanism for flagellar synchronization in a swimming alga
+Cell Growth and Size Homeostasis in Silico
+Cell responses only partially shape cell-to-cell variations in protein abundances in Escherichia coli chemotaxis
+Application of CellDesigner to the Selection of Anticancer Drug Targets: Test Case using P3
+Study on Antibody-Virus Interaction using Molecular Dynamics: Two Dimensional Simulation on Immunoglobulin Reaction against Human Papillomavirus
+Sepsis is a syndrome with hyperactivity of TH1-like innate immunity and hypoactivity of adaptive immunity
+Oscillations in a neurite growth model with extracellular feedback
+Unstable Angina is a syndrome correlated to mixed Th1 and Th1 immune disorder
+Effects of electropermeabilization and gene electrotransfert on the lateral mobility of a GPi anchored protein
+Parameter identification problems in the modelling of cell motility
+A storage-based model of heterocyst commitment and patterning in cyanobacteria
+Model for tumour growth with treatment by continuous and pulsed chemotherapy
+Input-output relations in biological systems: measurement information and the Hill equation
+Mathematical Model of Colorectal Cancer with Monoclonal Antibody Treatments
+Towards slime mould colour sensor: Recognition of colours by Physarum polycephalum
+Towards slime mould chemical sensor: Mapping chemical inputs onto electrical potential dynamics of Physarum Polycephalum
+Comment on Masanari Asano et al. A model of epigenetic evolution based on theory of open quantum systems. Syst Synth Biol 2013
+A Comparison and Catalog of Intrinsic Tumor Growth Models
+Optimal shapes and stresses of adherent cells on patterned substrates
+Dynamical Modeling of the Interaction between Autophagy and Apoptosis in Mammalian Cells:A Systems Pharmacology Framework
+Patterns in Space: Coordinating Adhesion and Actomyosin Contractility at E-cadherin unctions
+Collective behavior of penetrable self-propelled rods in two dimensions
+Accounting for Randomness in Measurement and Sampling in Study of Cancer Cell Population Dynamics
+The Effects of Latent Infection on the Dynamics of HIV
+Analysis and Simulation of the Three-Component Model of HIV Dynamics
+Protein-induced membrane curvature changes membrane tension
+Myxococcus xanthus gliding motors are elastically coupled to the substrate as predicted by the focal adhesion model of gliding motility
+On the conflict between precision and robustness in the proportion regulation of cell types
+Epigenetic Landscape of Interacting Cells: A Model Simulation for Developmental Process
+Athermal Phase Separation of Self-Propelled Particles with no Alignment
+Large number of receptors may reduce cellular response time variation
+Active polar fluid flow in finite droplets
+Energy barriers govern glassy dynamics in tissues
+Lag lock sync slip: the many phases of coupled flagella
+Cancer-driven dynamics of immune cells in a microfluidic environment
+The role of mechanical forces in the planar-to-bulk transition in growing Escherichia coli microcolonies
+Robustness of force and stress inference in an epithelial tissue
+Border forces and friction control epithelial closure dynamics
+Spontaneous oscillations from turnover of an elastic contractile material
+Microbial metabolism: optimal control of uptake versus synthesis
+System Level Numerical Analysis of a Monte Carlo Simulation of the E. Coli Chemotaxis
+Frustration-induced inherent instability and growth oscillations in pollen tubes
+Electrodiffusive model for astrocytic and neuronal ion concentration dynamics
+Symmetric vs asymmetric stem cell divisions: an adaptation against cancer?
+In silico Modeling of Itk Activation Kinetics in Thymocytes Suggests Competing Positive and Negative IP Mediated Feedbacks Increase Robustness
+Cooperative Motion of Active Brownian Spheres in Three-Dimensional Dense Suspensions
+Unraveling Adaptation in Eukaryotic Pathways: Lessons from Protocells
+Shape-dependent bounds on cell growth rates
+Cytoskeletal turnover and Myosin contractility drive cell autonomous oscillations in a model of Drosophila Dorsal Closure
+MHC Restriction of V-V Interactions in Serum IgG
+Flagellar Synchronization Through Direct Hydrodynamic Interactions
+Stochastic noise reduction upon complexification: positively correlated birth-death type systems
+Contractile and mechanical properties in epithelia with perturbed actomyosin dynamics
+Bistability in Apoptosis by Receptor Clustering
+Non-conservative forces and effective temperatures in active polymers
+Microtubule dynamic instability: the role of cracks between protofilaments
+Three-dimensional Multiscale Model of Deformable Platelets Adhesion to Vessel Wall in Blood Flow
+Cell size regulation in microorganisms
+Automatic Classification of Human Epithelial Type 2 Cell Indirect Immunofluorescence Images using Cell Pyramid Matching
+Motor regulation results in distal forces that bend partially disintegrated Chlamydomonas axonemes into circular arcs
+Thermodynamic constraints on neural dimensions firing rates brain temperature and size
+The influence of bone surface availability in bone remodelling - A mathematical model including coupled geometrical and biomechanical regulations of bone cells
+Bone refilling in cortical bone multicellular units: Insights into tetracycline double labelling from a computational model
+The energy costs of biological insulators
+Stability of localized wave fronts in bistable systems
+Bending forces plastically deform growing bacterial cell walls
+A multi-phenotypic cancer model with cell plasticity
+Understanding Cancer via Cell Evolution
+Dynamics of Cell Shape and Forces on Micropatterned Substrates Predicted by a Cellular Potts Model
+Rheotaxis facilitates upstream navigation of mammalian sperm cells
+Diffusion of Macromolecules across the Nuclear Pore Complex
+Breakdown of fast-slow analysis in an excitable system with channel noise
+Modeling the functional network of primary intercellular Ca 2 wave propagation in astrocytes and its application to study drug effects
+Collective motion of cells: from experiments to models
+Velocity alignment leads to high persistence in confined cells
+Biocompatibility of Pristine Graphene Monolayers Nanosheets and Thin Films
+Extensive regulation of metabolism and growth during the cell division cycle
+Motility-Induced Phase Separation
+From Intracellular Signaling to Population Oscillations: Bridging Scales in Collective Behavior
+Efficacy of high frequency switched-mode stimulation in activating Purkine cells
+Protrusion fluctuations direct cell motion
+Active phase and amplitude fluctuations of flagellar beating
+Catastrophic shifts and lethal thresholds in a propagating front model of unstable tumour progression
+The dynamics of sperm cooperation in a competitive environment
+Transient Leadership and Collective Cell Movement in Early Diverged Multicellular Animals
+Universality in stochastic exponential growth
+Emerging Allee effect in tumor growth
+Instant Response of Live HeLa Cells to Static Magnetic Field and Its Magnetic Adaptation
+Universal relationship in gene-expression changes for cells in steady-growth state
+Fluid Flows Created by Swimming Bacteria Drive Self-Organization in Confined Suspensions
+Expression proteomics reveals protein targets and highlights mechanisms of action of small molecule drugs
+Stress reorganisation and response in active solids
+Rare event simulation in immune biology: Models of negative selection in T-cell maturation
+Variation in Microbial Growth under Hypergravity
+Irreducible Representations Of Oscillatory And Swirling Flows In Active Soft Matter
+Mechanical cell-matrix feedback explains pairwise and collective endothelial cell behavior in vitro
+A hybrid mathematical model for self-organizing cell migration in the zebrafish lateral line
+Numerical simulation of growth of Escherichia coli in unsaturated porous media
+Numerical study of cancer cell invasion dynamics using adaptive mesh refinement: the urokinase model
+An integrative approach for modeling and simulation of Heterocyst pattern formation in Cyanobacteria strands
+Transition to diversification by competition for resources in catalytic reaction networks
+Cell resolved multiparticle model of plastic tissue deformations and morphogenesis
+Lymphocyte repertoire selection and intracellular self not-self discrimination: historical overview
+Protein translocation without specific quality control in a computational model of the Tat system
+Interplay of packing and flip-flop in local bilayer deformation. How phosphatidylglycerol could rescue mitochondrial function in a cardiolipin-deficient yeast mutant
+Global Hopf Bifurcation in the IP regulatory system
+Spontaneous excitability in the Morris--Lecar model with ion channel noise
+Multiscale modeling of oscillations and spiral waves in Dictyostelium populations
+Mathematical modeling to elucidate brain tumor abrogation by immunotherapy with T11 target structure
+Green Algae as Model Organisms for Biological Fluid Dynamics
+Bacterial fitness shapes the population dynamics of antibiotic-resistant and -susceptible bacteria in a model of combined antibiotic and anti-virulence treatment
+Modeling the dynamics of hypoxia inducible factor-1 alpha (HIF-1 alpha ) within single cells and 3D cell culture systems
+Computational Screening of Angiogenesis Model Variants Predicts that Differential Chemotaxis Helps Tip Cells Move to the Sprout Tip and Accelerates Sprouting
+Remodeling of Fibrous Extracellular Matrices by Contractile Cells: Predictions from Discrete Fiber Network Simulations
+Long Range Force Transmission in Fibrous Matrices Enabled by Tension-Driven Alignment of Fibers
+The viscoelastic properties of chromatin and the nucleoplasm revealed by scale-dependent protein mobility
+Scaling laws governing stochastic growth and division of single bacterial cells
+Why so many sperm cells?
+Clonal selection and therapy resistance in acute leukemias: Mathematical modelling explains different proliferation patterns at diagnosis and relapse
+Thermodynamics of statistical inference by cells
+Motile Geobacter Dechlorinators Migrate into a Model Source one of Trichloroethene Dense Non-aqueous Phase Liquid: Experimental Evaluation and Modeling
+Hydrodynamical random walker with chemotactic memory
+Bistable forespore engulfment in Bacillus subtilis by a zipper mechanism in absence of the cell wall
+Cellular Uptake and Biocompatibility of Bismuth Ferrite Harmonic Advanced Nanoparticles
+Single-cell analysis of growth in budding yeast and bacteria reveals a common size regulation strategy
+Geometrical model for malaria parasite migration in structured environments
+The mechanism of phagocytosis: two stages of engulfment
+Predicting chemical environments of bacteria from receptor signaling
+Small Open Chemical Systems Theory and Its Implications to Darwinian Evolutionary Dynamics Complex Self-Organization and Beyond
+Modelling proportionate growth
+Host Cell Factors Necessary for Influenza A Infection: Meta-Analysis of Genome Wide Studies
+Epigenetic Tracking: a Model for Multicellular Biology
+Bubbly vertex dynamics: a dynamical and geometrical model for epithelial tissues with curved cell shapes
+Replicator Dynamics of of Cancer Stem Cell Selection in the Presence of Differentiation and Plasticity
+Propagating stress waves during epithelial expansion
+Studies of protein adsorption on implant materials in relation to biofilm formation I. Activity of Pseudomonas aeruginosa on Polypropylene and High density Polyethylene in presence of serum albumin
+Well-posedness and asymptotic behavior of a multidimensional model of morphogen transport
+Mechanical formalism for tissue dynamics
+How cells feel: stochastic model for a molecular mechanosensor
+On the modeling of endocytosis in yeast
+Modeling Epidermis Homeostasis and Psoriasis Pathogenesis
+Osteocytes as a record of bone formation dynamics: A mathematical model of osteocyte generation in bone matrix
+Maximum therapeutic effect of glioma treatment by radio-frequency electric field
+Non-genetic heterogeneity criticality and cell differentiation
+Limits of feedback control in bacterial chemotaxis
+Rhythmicity Recurrence and Recovery of Flagellar Beating
+Colored Correlated Noises in Growth Model of Tumor
+Properties of Cooperatively Induced Phases in Sensing Models
+A Kinetic Model for Cell Damage Caused by Oligomer Formation
+Activation of effector immune cells promotes tumor stochastic extinction: A homotopy analysis approach
+Cell reorientation under cyclic stretching
+Persistent random walk of cells involving anomalous effects and random death
+Model for Acid-Mediated Tumour Invasion with Chemotherapy Intervention I: Homogeneous Populations
+Growth-dependent bacterial susceptibility to ribosome-targeting antibiotics
+Close Contact Fluctuations: Time of Contact
+A mechanism for cell motility by active polar gels
+Optimal Observation Time Points in Stochastic Chemical Kinetics
+Optimal census by quorum sensing
+Collective Dynamics of Dividing Chemotactic Cells
+Collective dynamics of actomyosin cortex endow cells with intrinsic mechanosensing properties
+A steering mechanism for phototaxis in Chlamydomonas
+Cancer Metastasis: Collective Invasion in Heterogeneous Multicellular Systems
+Comparison between the amount of environmental change and the amount of transcriptome change
+east caspase 1 suppresses the burst of reactive oxygen species and maintains mitochondrial stability in Saccharomyces cerevisiae
+Numerical Model for the Deformation of Nucleated Cells by Optical Stretchers
+Mathematical Modelings for Angiogenesis - A Cellular Automaton Model and its Continuous Model
+How to get moving: lessons in eukaryotic motility from a prototypic model of cell polarization
+Motility initiation in active gels
+Maximum velocity of self-propulsion for an active segment
+Effect of intracellular diffusion on current-voltage curves in potassium channels
+Nanomechanical and topographical imaging of living cells by Atomic Force Microscopy with colloidal probes
+Individuality and universality in the growth-division laws of single E. coli cells
+Death ligand concentration and the membrane proximal signaling module regulate the type 1 type 2 choice in apoptotic death signaling
+Kinetic Monte Carlo study of the type1 type 2 choice in apoptosis elucidates selective killing of cancer cells under death ligand induction
+An Extended Filament Based Lamellipodium Model Produces Various Moving Cell Shapes in the Presence of Chemotactic Signals
+Stiffening of Red Blood Cells Induced by Disordered Cytoskeleton Structures: A oint Theory-experiment Study
+Amoeboid motion in confined geometry

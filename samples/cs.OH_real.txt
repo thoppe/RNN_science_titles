@@ -1,0 +1,1311 @@
+Supporting Knowledge and Expertise Finding within Australia's Defence Science and Technology Organisation
+Performance Analysis of the IEEE 802.11e Enhanced Distributed Coordination Function using Cycle Time Approach
+The Use of ITIL for Process Optimisation in the IT Service Centre of Harz University exemplified in the Release Management Process
+Von Neumann Quantum Logic vs. Classical von Neumann Architecture?
+On the theory of system administration
+The Competitiveness of On-Line vis-a-vis Conventional Retailing: A Preliminary Study
+A Virtual Java Simulation Lab for Computer Science Students
+How to Commission Operate and Maintain a Large Future Accelerator Complex from Far Remote
+The Expresso Microarray Experiment Management System: The Functional Genomics of Stress Responses in Loblolly Pine
+Automated Real-Time Testing (ARTT) for Embedded Control Systems (ECS)
+First Experiences Integrating PC Distributed I O Into Argonne's ATLAS Control System
+Gemini MCAO Control System
+SNS Standard Power Supply Interface
+Overview of the NSTX Control System
+Evolutionary Circuit Design: Information Theory Perspective on Signal Propagation
+A universal alphabet and rewrite system
+On probabilistic analog automata
+Semiclassical Quantum Computation Solutions to the Count to Infinity Problem: A Brief Discussion
+Verification of Process Rewrite Systems in normal form
+Using biased coins as oracles
+New Visualization of Surfaces in Parallel Coordinates - Eliminating Ambiguity and Some Over-Plotting
+Algebraic Curves in Parallel Coordinates - Avoiding the Over-Plotting Problem
+What we should teach but don't: Proposal for a cross pollinated HCI-SE curriculum
+An approach to membrane computing under inexactitude
+Model checking for Process Rewrite Systems and a class of action--based regular properties
+Effects of wireless computing technology
+Scheduling with Fuzzy Methods
+Business Processes: The Theoretical Impact of Process Thinking on Information Systems Development
+Demo or Practice: Critical Analysis of the Language Action Perspective
+Toward a Human-Centered Uml for Risk Analysis
+Successful E-Business Systems - Paypal
+Collective Intelligence Quanitifed for Computer-Mediated Group Problem Solving
+High efficiency and low absorption Fresnel compound zone plates for hard X-ray focusing
+A Fast Combined Decimal Adder Subtractor
+Improved direct sum theorem in classical communication complexity
+Asynchronous pseudo-systems
+f2mma: FORTRAN to Mathematica translator
+Mapping DEVS Models onto UML Models
+Quasi-Linear Soft Tissue Models Revisited
+Computational Modeling in Applied Problems: collected papers on econometrics operations research game theory and simulation
+An Electronic Payment System to Ensure Cost Effectiveness with Easy Security Incorporation for the Developing Countries
+Authorised Translations of Electronic Documents
+Models simulation and interoperability using MDA and HLA
+Syst e me de repr ' e sentation d'aide au besoin dans le domaine architectural
+Levels of Product Differentiation in the Global Mobile Phones Market
+Exploring Computer Science Concepts with a Ready-made Computer Game Framework
+A multipurpose Hopf deformation of the Algebra of Feynman-like Diagrams
+Domain Wall Displacement Detection Technology Research Report
+Developing strategies to produce better scientific papers: a Recipe for non-native users of English
+Relatively inertial delays
+Safety Evaluation of Critical Applications Distributed on TDMA-Based Networks
+Hard Disk Drive as a Magnetomechanical Logic Device
+Analysing viewpoints in design through the argumentation process
+A Dynamic I O Model for TRACON Traffic Management
+Authentication via wireless networks
+A Sum-Product Model as a Physical Basis for Shadow Fading
+Comparing Architectures of Mobile Applications
+Automatic Annotation of XHTML Pages with Audio Components
+Domain Directed Dialogs for Decision Processes
+Numeration systems on a regular language
+The Sources of Certainty in Computation and Formal Systems
+About the globular homology of higher dimensional automata
+The branching nerve of HDA and the Kan condition
+Hypercomputation: computing more than the Turing machine
+Gaussian limits for multidimensional random sequential packing at saturation (extended version)
+Homotopy invariants of higher dimensional categories and concurrency in computer science
+Combinatorics of branchings in higher dimensional automata
+Galton Board
+Modeling Endogenous Social Networks: the Example of Emergence and Stability of Cooperation without Refusal
+Stochastic Model for Power Grid Dynamics
+On Quantum Cellular Automata
+Self-Testing of Universal and Fault-Tolerant Sets of Quantum Gates
+Collaborative product and process model: Multiple Viewpoints approach
+Remote laboratories: new technology and standard based architecture
+Bandlimited Field Reconstruction for Wireless Sensor Networks
+Design of Multistage Decimation Filters Using Cyclotomic Polynomials: Optimization and Design Issues
+On the Polyphase Decomposition for Design of Generalized Comb Decimation Filters
+Products of irreducible random matrices in the (Max ) Algebra
+Blocking a transition in a Free Choice net and what it tells about its throughput
+Fairness Provision in the IEEE 802.11e Infrastructure Basic Service Set
+Modeling Context Collaboration and Civilization in End-User Informatics
+A polynomial axles-detection algorithm for a four-contacts treadle
+Information Measures in Detecting and Recognizing Symmetries
+Towards Efficient Calculation of Information Measures for Reordering of Binary Decision Diagrams
+Kekul 'e Cells for Molecular Computation
+Conception individuelle et collective. Approche de l'ergonomie cognitive Individual and Collective Design. The Cognitive-Ergonomics Approach
+Applying Software Defect Estimations: Using a Risk Matrix for Tuning Test Effort
+Microsystem Product Development
+Parasitic Effects Reduction for Wafer-Level Packaging of RF-Mems
+Surface Conditioning Effect on Vacuum Microelectronics Components Fabricated by Deep Reactive Ion Etching
+3-D Self-Assembled Soi Mems: An Example of Multiphysics Simulation
+Influence of the Feedback Filter on the Response of the Pulsed Digital Oscillator
+Concave Microlens Array Mold Fabrication in Photoresist Using UV Proximity Printing
+The annealing induced extraordinary properties of SI based ZNO film grown by RF sputtering
+Parametric ield Analysis of Mems via Statistical Methods
+Electrostatically-Driven Resonator on Soi with Improved Temperature Stability
+Electromechanical Reliability Testing of Three-Axial Silicon Force Sensors
+An Active Chaotic Micromixer Integrating Thermal Actuation Associating PDMS and Silicon Microtechnology
+Resolution Limits for Resonant Mems Sensors Based on Discrete Relay Feedback Techniques
+A Silicon-Based Micro Gas Turbine Engine for Power Generation
+Energy Conversion Using New Thermoelectric Generator
+Above Ic Micro-Power Generators for RF-Mems
+Packaging of RF Mems Switching Functions on Alumina Substrate
+Recent Developments in Mems-Based Micro Fuel Cells
+Influence of Micro-Cantilever Geometry and Gap on Pull-in Voltage
+Design and Development of Novel Electroplating Spring Frame Mems Structure Specimens for the Microtensile Testing of Thin Film Materials
+Characterisation of the Etching Quality in Micro-Electro-Mechanical Systems by Thermal Transient Methodology
+The Effects of Additives on the Physical Properties of Electroformed Nickel and on the Stretch of Photoelectroformed Nickel Components
+A Novel Contact Resistance Model of Anisotropic Conductive Film for FPD Packaging
+Measurement Technique for Elastic and Mechanical Properties of Polycrystalline Silicon-Germanium Films Using Surface Acoustic Waves and Projection Masks
+Effect of Surface Finish of Substrate on Mechanical Reliability of in-48SN Solder Joints in Moems Package
+Non Linear Techniques for Increasing Harvesting Energy from Piezoelectric and Electromagnetic Micro-Power-Generators
+Optimization of Piezoelectric Electrical Generators Powered by Random Vibrations
+Power Processing Circuits for Mems Inertial Energy Scavengers
+Motion-Based Generators for Industrial Applications
+Design and Fabrication of a Micro Electrostatic Vibration-to-Electricity Energy Converter
+Macro and Micro Scale Electromagnetic Kinetic Energy Harvesting Generators
+Impact of Thermal Behavior on Offset in a High-Q Gyroscope
+Scaling Effects for Electromagnetic Vibrational Power Generators
+A Generic Surface Micromachining Module for Mems Hermetic Packaging at Temperatures Below 200 degrees C
+A Ku-Band Novel Micromachined Bandpass Filter with Two Transmission Zeros
+The Design and Fabrication of Platform Device for Dna Amplification
+Design and Modeling of a Mems-Based Valveless Pump Driven by an Electromagnetic Force
+Electrostatic Actuators Operating in Liquid Environment : Suppression of Pull-in Instability and Dynamic Response
+Au-SN Flip-Chip Solder Bump for Microelectronic and Optoelectronic Applications
+Contactless Thermal Characterization Method of PCB-s Using an IR Sensor Array
+Miniaturized Fluorescence Excitation Platform with Optical Fiber for Bio-Detection Chips
+Characterization of Flexible RF Microcoil Dedicated to Surface Mri
+Integration of Micro-Electro-Mechanical Deformable Mirrors in Doped Fiber Amplifiers
+Micro-Ball Lens Array Fabrication in Photoresist Using Ptfe Hydrophobic Effect
+Reduced-Order Modelling of the Bending of an Array of Torsional Micromirrors
+Model of Electrostatic Actuated Deformable Mirror Using Strongly Coupled Electro-Mechanical Finite Element
+New Internal Stress Driven on-Chip Micromachines for Extracting Mechanical Properties of Thin Films
+Process Issues for a Multi-Layer Microelectrofluidic Platform
+Fabrication of Switches on Polymer-Based by Hot Embossing
+A New Model of Fringing Capacitance and its Application to the Control of Parallel-Plate Electrostatic Micro Actuators
+Fluoroscopy-based navigation system in spine surgery
+Robot-based tele-echography: clinical evaluation of the TER system in abdominal aortic exploration
+Development of miniaturized light endoscope-holder robot for laparoscopic surgery
+Prostate biopsies guided by three-dimensional real-time (4-D) transrectal ultrasonography on a phantom: comparative study versus two-dimensional transrectal ultrasound-guided biopsies
+The Fast Fibonacci Decompression Algorithm
+Knowledge Engineering Technique for Cluster Development
+MRI TRUS data fusion for brachytherapy
+Medical image computing and computer-aided medical interventions applied to soft tissues. Work in progress in urology
+Computer- and robot-assisted urological surgery
+A Framework for Providing E-Services to the Rural Areas using Wireless Ad Hoc and Sensor Networks
+Cyberspace security: How to develop a security strategy
+Towards 3D ultrasound image based soft tissue tracking: a transrectal ultrasound prostate image alignment system
+Cell mapping description for digital control system with quantization effect
+The Physical World as a Virtual Reality
+MRI TRUS data fusion for prostate brachytherapy. Preliminary results
+3D 4D ultrasound registration of bone
+3D-Ultrasound probe calibration for computer-guided diagnosis and therapy
+Framework for 3D TransRectal Ultrasound
+TER: A Robot for Remote Ultrasonic Examination: Experimental Evaluations
+Abstractions for biomolecular computations
+Biopsies prostatiques sous guidage 'echographique 3D et temps r 'eel (4D) sur fant ome. Etude comparative versus guidage 2D
+Graceful Degradation of Air Traffic Operations
+On Breaching Enterprise Data Privacy Through Adversarial Information Fusion
+Partitioning the Threads of a Mobile System
+Generic and Typical Ranks of Three-Way Arrays
+Structural aspects of tilings
+Fabrication of Miniaturized Variable-focus Lens Using Liquid Filling Technique
+A Novel X-Axis Tuning Fork Gyroscope with 8 Vertical Springs-Proofmass Structure on (111)-Silicon
+Fabrication of MEMS Resonators in Thin SOI
+Usage of Porous Al2O3 Layers for RH Sensing
+Modeling of large area hot embossing
+Liquid Density Sensing Using Resonant Flexural Plate Wave Device with Sol-Gel PZT Thin Films
+Design Fabrication and Characterization of a Piezoelectric Microgenerator Including a Power Management Circuit
+A complete study of electroactive polymers for energy scavenging: modelling and experiments
+Step-up converter for electromagnetic vibrational energy scavenger
+Gas Damping Coefficient Research for MEMS Comb Linear Vibration Gyroscope
+Comparison of Two Low-Power Electronic Interfaces for Capacitive Mems Sensors
+High Efficiency 3-Phase Cmos Rectifier with Step Up and Regulated
+Silicon on Nothing Mems Electromechanical Resonator
+Copper Planar Microcoils Applied to Magnetic Actuation
+Ni-MH battery modelling for ambient intelligence applications
+Analysis of polysilicon micro beams buckling with temperature-dependent properties
+Parameter Identification of Pressure Sensors by Static and Dynamic Measurements
+New Horizontal Frustum Optical Waveguide Fabrication Using UV Proximity Printing
+A Fully Parameterized Fem Model for Electromagnetic Optimization of an RF Mems Wafer Level Package
+Development of a Nanostructual Microwave Probe Based on GaAs
+Characterisation of an Electrostatic Vibration Harvester
+Surface Generation Analysis in Micro End-Milling Considering the Influences of Grain
+An Integrated Circuit Compatible Compact Package for Thermal Gas Flowmeters
+A High Power Density Electrostatic Vibration-to-Electric Energy Converter Based On An In-Plane Overlap Plate (IPOP) Mechanism
+Formation of Embedded Microstructures by Thermal Activated Solvent Bonding
+Design and Modeling of Micromechanical GaAs based Hot Plate for Gas Sensors
+Set-up and characterization of a humidity sensor realized in LTCC-technology
+Micromachined Polycrystalline Sige-Based Thermopiles for Micropower Generation on Human Body
+Silicon microneedles array with biodegradable tips for transdermal drug delivery
+2-D Analysis of Enhancement of Analytes Adsorption Due to Flow Stirring by Electrothermal Force in The Microcantilever Sensor
+Development and Application of a Diaphragm Micro-Pump with Piezoelectric Device
+Simulation of valveless micropump and mode analysis
+Enhanced Sensing Characteristics in MEMS-based Formaldehyde Gas Sensor
+Mems Q-Factor Enhancement Using Parametric Amplification: Theoretical Study and Design of a Parametric Device
+Biodegradable Polylactic Acid (PLA) Microstructures for Scaffold Applications
+Solving functional reliability issue for an optical electrostatic switch
+Identification of Test Structures for Reduced Order Modeling of the Squeeze Film Damping in Mems
+Out-of-Plane Cmos Compatible Magnetometers
+Tuneable Capacitor based on dual picks profile of the sacrificial layer
+Reduced 30 scanning time 3D multiplexer integrated circuit applied to large array format 20KHZ frequency inkjet print heads
+Analysis of Asymmetric Piezoelectric Composite Beam
+A High-Q Microwave MEMS Resonator
+Lamination And Microstructuring Technology for a Bio-Cell Multiwell array
+Monotonic and fatigue testing of spring-bridged freestanding microbeams application for MEMS
+Selection of High Strength Encapsulant for MEMS Devices Undergoing High Pressure Packaging
+A Two-Step Etching Method to Fabricate Nanopores in Silicon
+A Reconfigurable Impedance Matching Network Employing RF-MEMS Switches
+Towards a Methodology for Analysis of Interconnect Structures for 3D-Integration of Micro Systems
+Modeling of a piezoelectric micro-scanner
+A novel method for fatigue testing of MEMS devices containing movable elements
+Noise and thermal stability of vibrating micro-gyrometers preamplifiers
+0-level Vacuum Packaging RT Process for MEMS Resonators
+From MEMS Devices to Smart Integrated Systems
+Interconnect Challenges in Highly Integrated MEMS ASIC Subsystems
+Experimental Characterization of the static behaviour of microcatntilevers electrostatically actuated
+Nanobiosensors based on individual olfactory receptors
+Bridge configurations in piezoresistive two-axis accelerometers
+Online Sensor Testing through Superposition of Encoded Stimulus
+Modeling of T-Shaped Microcantilever Resonators
+Novel Bonding technologies for wafer-level transparent packaging of MOEMS
+Design and Fabrication of the Suspended High-Q Spiral Inductors with X-Beams
+One MEMS Design Tool with Maximal Six Design Flows
+Studies of Polymer Deformation and Recovery in Hot Embossing
+Evaluation of the thermal and hydraulic performances of a very thin sintered copper flat heat pipe for 3D microsystem packages
+Architecture for Integrated Mems Resonators Quality Factor Measurement
+Optimization of Cricket-inspired Biomimetic Artificial Hair Sensors for Flow Sensing
+An Improved Scheme for Initial Ranging in OFDMA-based Networks
+Qtier-Rapor: Managing Spreadsheet Systems Improving Corporate Performance Compliance and Governance
+Geographic Information Systems in Evaluation and Visualization of Construction Schedule
+Reductionism emergence and levels of abstractions
+From a set of parts to an indivisible whole. Part I: Operations in a closed mode
+From a set of parts to an indivisible whole. Part II: Operations in an open comparative mode
+Climate modification directed by control theory
+Testability of AND-EXOR Based Iterative Logic Arrays
+From a set of parts to an indivisible whole. Part III: Holistic space of multi-object relations
+Problems of robustness for universal coding schemes
+Range Medians
+Collaborative Virtual Queue: Fair Management of Congested Departure Operations and Benefit Analysis
+Random XML sampling the Boltzmann way
+Fixed-Point Design of Generalized Comb Filters: A Statistical Approach
+A First Step to Convolutive Sparse Representation
+A Reconfigurable Programmable Logic Block for a Multi-Style Asynchronous FPGA resistant to Side-Channel Attacks
+Enhanced Energy-Aware Feedback Scheduling of Embedded Control Systems
+Integrated Design and Implementation of Embedded Control Systems with Scilab
+Performance-Aware Power Management in Embedded Controllers with Multiple-Voltage Processors
+Asynchronous Event-Driven Particle Algorithms
+Design of a Fractional Order PID Controller Using Particle Swarm Optimization Technique
+Approximation of a Fractional Order System by an Integer Order Model Using Particle Swarm Optimization Technique
+A Swarm Intelligence Based Scheme for Complete and Fault-tolerant Identification of a Dynamical Fractional Order Process
+The Application of Stochastic Optimization Algorithms to the Design of a Fractional-order PID Controller
+A Deterministic Model for Analyzing the Dynamics of Ant System Algorithm and Performance Amelioration through a New Pheromone Deposition Approach
+Tuning PID and FOPID Controllers using the Integral Time Absolute Error Criterion
+A Study of the Grunwald-Letnikov Definition for Minimizing the Effects of Random Noise on Fractional Order Differential Equations
+Complete Identification of a Dynamic Fractional Order System Under Non-ideal Conditions Using Fractional Differintegral Definitions
+A Novel Approach for Complete Identification of Dynamic Fractional Order Systems Using Stochastic Optimization Algorithms and Fractional Calculus
+String Art: Circle Drawing Using Straight Lines
+CASTOR status and evolution
+Monitoring Systems and Services
+Evaluation and exploitation of knowledge robustness in knowledge-based systems
+Science mapping with asymmetrical paradigmatic proximity
+Some properties of the regular asynchronous systems
+Sub- mu structured Lotus Surfaces Manufacturing
+Linear and Non Linear Behaviour of Mechanical Resonators for Optimized Inertial Electromagnetic Microgenerators
+Design And Fabrication of Condenser Microphone Using Wafer Transfer And Micro-electroplating Technique
+Porous Alumina Based Capacitive MEMS RH Sensor
+Integrated RF MEMS CMOS Devices
+Design Methodology and Manufacture of a Microinductor
+Megasonic Enhanced Electrodeposition
+UV Direct-Writing of Metals on Polyimide
+Micro Embossing of Ceramic Green Substrates for Micro Devices
+Characterization and Modeling of an Electro-thermal MEMS Structure
+Measurement of Large Forces and Deflections in Microstructures
+Contactless Thermal Characterization of High Temperature Test Chamber
+Processing and Characterization of Precision Microparts from Nickel-based Materials
+Manufacturing of A micro probe using supersonic aided electrolysis process
+Large Area Roller Embossing of Multilayered Ceramic Green Composites
+Study of mechanical response in embossing of ceramic green substrate by micro-indentation
+Top-Down Behavioral Modeling Methodology of a Piezoelectric Microgenerator For Integrated Power Harvesting Systems
+Hybridization of Magnetism and Piezoelectricity for an Energy Scavenger based on Temporal Variation of Temperature
+Simulation of an Electrostatic Energy Harvester at Large Amplitude Narrow and Wide Band Vibrations
+Optimization and AMS Modeling for Design of an Electrostatic Vibration Energy Harvester's Conditioning Circuit with an Auto-Adaptive Process to the External Vibration Changes
+Fabrication of Nanostructured PLGA Scaffolds Using Anodic Aluminum Oxide Templates
+High Performance Microreactor for Rapid Fluid Mixing and Redox Reaction of Ascorbic Acid
+Cell Trapping Utilizing Insulator-based Dielectrophoresis in The Open-Top Microchannels
+Design and Analysis of a Chaotic Micromixer with Vortices Modulation
+Portable Valve-less Peristaltic Micro-pump Design and Fabrication
+Microfluidic Device for Continuous Magnetophoretic Separation of Red Blood Cells
+Fabrication of Embedded Microvalve on PMMA Microfluidic Devices through Surface Functionalization
+Hot Roller Embossing for the Creation of Microfluidic Devices
+Geometrical Variation Analysis of an Electrothermally Driven Polysilicon Microactuator
+In-Plane Bistable Nanowire For Memory Devices
+RF-MEMS Switched Varactors for Medium Power Applications
+Low-Drift Flow Sensor with Zero-Offset Thermopile-Based Power Feedback
+Single Chip Sensing of Multiple Gas Flows
+Comparison Between Damping Coefficients of Measured Perforated Micromechanical Test Structures and Compact Models
+RF-MEMS beam components : FEM modelling and experimental identification of pull-in in presence of residual stress
+Validation of compact models of microcantilever actuators for RF-MEMS application
+Numerical Investigation of Laser-Assisted Nanoimprinting on a Copper Substrate from a Perspective of Heat Transfer Analysis
+Micro-electroforming metallic bipolar electrodes for mini-DMFC stacks
+On the determination of Poisson's ratio of stressed monolayer and bilayer submicron thick films
+New high fill-factor triangular micro-lens array fabrication method using UV proximity printing
+Design Optimization for an Electro-Thermally Actuated Polymeric Microgripper
+Design And Fabrication of High Numerical Aperture And Low Aberration Bi-Convex Micro Lens Array
+Micromachined Inclinometer Based on Fluid Convection
+Model Based Sensor System for Temperature Measurement in R44 Air Conditioning Systems
+Integrated 3D Sound Intensity Sensor with Four-Wire Particle Velocity Sensors
+High Aspect Pattern Formation by Integration of Micro Inkjetting and Electroless Plating
+A Nanostructual Microwave Probe Used for Atomic Force Microscope
+High Density out-of-Plane Microprobe Array
+Simulation of Coating -Visco-Elastic liquid in the Mico-Nip of Metering Size Press
+A Microcantilever-based Gas Flow Sensor for Flow Rate and Direction Detection
+Process nano scale mechanical properties measurement of thin metal films using a novel paddle cantilever test structure
+High Q-factor CMOS-MEMS inductor
+Copper Electrodeposition for 3D Integration
+Technologies for 3D Heterogeneous Integration
+Through Silicon Vias as Enablers for 3D Systems
+Fabrication of 3D Packaging TSV using DRIE
+Study of First-Order Thermal Sigma-Delta Architecture for Convective Accelerometers
+High Density Through Silicon Via (TSV)
+Rejection of Power Supply Noise in Wheatstone Bridges : Application to Piezoresistive MEMS
+Next Generation of TCAD Environments for MEMS Design
+Noise Analysis and Noise-based Optimization for Resonant MEMS Structures
+Haptic sensing for MEMS with application for cantilever and Casimir effect
+On-Chip Hotplate for Temperature Control of Cmos Saw Resonators
+Modelling methodology of MEMS structures based on Cosserat theory
+Low Voltage Totally Free Flexible RF MEMS Switch With Anti-Stiction System
+High Quality Factor Silicon Cantilever Driven by PZT Actuator for Resonant Based Mass Detection
+A New Four States High Deflection Low Actuation Voltage Electrostatic Mems Switch for RF Applications
+Design and Fabrication of a Novel Micro Electromagnetic Actuator
+Flexible Micro Thermoelectric Generator based on Electroplated Bi2Te3
+A Novel Piezoelectric Microtransformer for Autonmous Sensors Applications
+Optimization of efficiency and energy density of passive micro fuel cells and galvanic hydrogen generators
+Design and Fabrication of Acoustic Wave Actuated Microgenerator for Portable Electronic Devices
+Package Hermeticity Testing with Thermal Transient Measurements
+Micro-tensile tests on micromachined metal on polymer specimens: elasticity plasticity and rupture
+Open Ended Microwave Oven for Packaging
+Mechanical Fatigue on Gold MEMS Devices: Experimental Results
+Fusion d'images: application au contr ole de la distribution des biopsies prostatiques
+Fuzzy Feedback Scheduling of Resource-Constrained Embedded Control Systems
+Neural Feedback Scheduling of Real-Time Control Tasks
+Control-Scheduling Codesign: A Perspective on Integrating Control and Computing
+Atlas-Based Prostate Segmentation Using an Hybrid Registration
+The Impact of New Technologies in Public Financial Management and Performance: Agenda for Public Financial Management Reformance in the Context of Global Best Practices
+Measures for classification and detection in steganalysis
+Developments in ROOT I O and trees
+Fault Masking By Probabilistic Voting
+Self-assembly of the discrete Sierpinski carpet and related fractals
+Adaptive Fault Masking With Incoherence Scoring
+Information science and technology as applications of the physics of signalling
+An Alternative Cracking of The Genetic Code
+Hierarchical Triple-Modular Redundancy (H-TMR) Network For Digital Systems
+MicroSim: Modeling the Swedish Population
+On Why and What of Randomness
+Roughening of the (1 1) interfaces in two-component surface growth with an admixture of random deposition
+Hilbert Manual
+Further Comments on Residue-to-Binary Converters Based on New Chinese Remainder Theorems
+Directing RF Terminals Using TELNET Applications
+Airport Gate Assignment A Hybrid Model and Implementation
+Analysis of some properties for a basic Petri net model
+Pipeline Leak Detection Techniques
+Computer Systems to Oil Pipeline Transporting
+ShopList: Programming PDA applications for Windows Mobile using C
+Mapping of transrectal ultrasonographic prostate biopsies: quality control and learning curve assessment by image processing
+Modeling of aerodynamic Space-to-Surface flight with optimal trajectory for targeting
+Mathematical Modeling of Aerodynamic Space -to - Surface Flight with Trajectory for Avoid Intercepting Process
+Boolean Logic with Fault Tolerant Coding
+-axis High Speed Milling Optimisation
+Usinage de poches en UGV - Aide au choix de strat 'egies
+P vs NP Problem in the field anthropology
+Internet: Romania vs. Europe
+On the Ambiguity of Commercial Open Source
+Output Width Signal Control In Asynchronous Digital Systems Using External Clock Signal
+Output Width Signal Control In Asynchronous Digital Systems Using Monostable Circuits
+Mesh
+Pancake Flipping with Two Spatulas
+The Role of Self-Forensics in Vehicle Crash Investigations and Event Reconstruction
+Predictability of PV power grid performance on insular sites without weather stations: use of artificial neural networks
+Multimedia Aplication for Solving a Sudoku Game
+Mathematical Models in Danube Water Quality
+Proposition d'une methode de qualification et de selection d'un logiciel d'analyse et de suivi du referencement dans les moteurs de recherche
+XML Technologies in Computer Assisted Learning and Testing Systems
+Designing a Framework to Develop WEB Graphical Interfaces for ORACLE Databases - Web Dialog
+The Effectiveness of Computer Assisted Classes for English as a Second Language
+Les technologies de l'information et de la communication au niveau mondial et en Roumanie dans les dernieres annees
+Informatics Issues Used in the Production Dashboard
+Flexible frontiers for text division into rows
+Specific Characteristics of Applying the Paired Comparison Method for Parameterization of Consumer Wants
+Decision Support Systems Architectures
+Adobe AIR Bringing Rich Internet Applications to the Desktop
+Upon the Modeling and the Optimization of the Debiting Process through Computer Aided Non-Conventional Technologies
+PayPal in Romania
+The morpho-topographic and cartographic analysis of the archaeological site Cornesti Iarcuri Timis County Romania using computer sciences methods (GIS and Remote Sensing techniques)
+Towards Activity Context using Software Sensors
+Generating Hierarchically Modular Networks via Link Switching
+The Nondeterministic Waiting Time Algorithm: A Review
+Mathematical Modeling of Aerodynamic Space -to - Surface Flight with Trajectory for Avoid Intercepting Process for Safety and Security Issues
+On the Expressiveness of Line Drawings
+Fast Monte Carlo Estimation of Timing ield: Importance Sampling with Stochastic Logical Effort (ISLE)
+First Person Singular
+Estimation of urinary stone composition by automated processing of CT images
+Towards a General Definition of Biometric Systems
+Dynamically Generated Interfaces in XML Based Architecture
+Multiple antenna technologies
+SCRAM: Software configuration and management for the LHC Computing Grid project
+Two-body problem on a sphere. Reduction stochasticity periodic orbits
+On the Interesting World of Fractals and Their Applications to Music
+An Empirical Comparative Study of Checklist based and Ad Hoc Code Reading Techniques in a Distributed Groupware Environment
+Through-Wall Tracking Using Variance-Based Radio Tomography Networks
+Prostate Biopsy Assistance System with Gland Deformation Estimation for Enhanced Precision
+Co-Channel Interference Cancellation in OFDM Networks using Coordinated Symbol Repetition and Soft Decision MLE CCI Canceler
+A methodology for semi-automatic classification schema building
+Some Thoughts on Hypercomputation
+Assessment of a percutaneous iliosacral screw insertion simulator
+Can we debug the Universe?
+Data Streams from the Low Frequency Instrument On-Board the Planck Satellite: Statistical Analysis and Compression Efficiency
+Performance of Linear Field Reconstruction Techniques with Noise and Uncertain Sensor Locations
+Profile Control of a Borosilicate-Glass Groove Formed by Deep Reactive Ion Etching
+Diversity-Integration Trade-offs in MIMO Detection
+A piecewise-linear reduced-order model of squeeze-film damping for deformable structures including large displacement effects
+Knowledge Extraction for Discriminating Male and Female in Logical Reasoning from Student Model
+An Alternative To Common Content Management Techniques
+Radio Transmission Performance of EPCglobal Gen-2 RFID System
+One-bit stochastic resonance storage device
+Diffusion Controlled Reactions Fluctuation Dominated Kinetics and Living Cell Biochemistry
+Rule-based Modelling and Tunable Resolution
+Le travail coop 'eratif comme vecteur d' 'evolution de nos syst emes d'information
+AnAmeter: The First Steps to Evaluating Adaptation
+Probability Bracket Notation Probability Vectors Markov Chains and Stochastic Processes
+Induced Hilbert Space Markov Chain Diffusion Map and Fock Space in Thermophysics
+Preferential attachment in the growth of social networks: the case of Wikipedia
+Discussion on Supervisory Control by Solving Automata Equation
+Alternate methods of evaluation for web sites concordant to IAS IFRS Standards
+Web Based Cross Language Plagiarism Detection
+Speed Control of Multi Level Inverter Designed DC Series Motor with Neuro-Fuzzy Controllers
+Analysis on the Study of QoS-Aware Web Services Discovery
+Advanced Technology in Speech Disorder Therapy of Romanian Language
+The Effected Oxide Capacitor in CMOS Structure of Integrated Circuit Level  Micrometer Technology
+Teaching Result Analysis Using Rough Sets and Data Mining
+Retail Market analysis in targeting sales based on Consumer Behaviour using Fuzzy Clustering - A Rule Based Mode
+Piecewise Certificates of Positivity for matrix polynomials
+Design and Analysis of a Spurious Switching Suppression Technique Equipped Low Power Multiplier with Hybrid Encoding Scheme
+Measurement of Nuchal Translucency Thickness for Detection of Chromosomal Abnormalities using First Trimester Ultrasound Fetal Images
+An Efficient Inter Carrier Interference Cancellation Schemes for OFDM Systems
+High Precision HalfWave Rectifier Circuit In Dual Phase Output Mode
+High Precision MultiWave Rectifier Circuit Operating in Low Voltage 1. Volt Current Mode
+Sinusoidal Frequency Doublers Circuit With Low Voltage 1. Volt CMOS Inverter
+A Study of VLSI Technology Wafers and Impact on Nanotechnology
+Hybrid Workflow Policy Management for Heart Disease Identification
+Use of L-system mathematics for making new subfamily members of olfactory receptor full length genes OR1D2 OR1D4 and OR1D
+Modeling of 2D and 3D Assemblies Taking Into Account Form Errors of Plane Surfaces
+Caract 'erisation des d 'efauts d'une surface sph 'erique par d 'ecomposition modale
+A proposition of 3D inertial tolerancing to consider the statistical combination of the location and orientation deviations
+Optimization of a Classical Stamping Progression by Modal Correction of Anisotropy Ears
+Inertial tolerancing and capability indices in an assembly production
+ICT in Universities of the Western Himalayan Region of India II: A Comparative SWOT Analysis
+Modified EESM Based Link Adaptation Algorithm for Multimedia Transmission in Multicarrier Systems
+Understanding Formulation of Social Capital in Online Social Network Sites (SNS)
+New Insights from an Analysis of Social Influence Networks under the Linear Threshold Model
+Design of Current Controller for Two Quadrant DC Motor Drive by Using Model Order Reduction Technique
+An Intelligent System For Effective Forest Fire Detection Using Spatial Data
+IT in Power Sector A KPCL Implementation
+Effect of different substrates on Compact stacked square Microstrip Antenna
+Limited Memory Prediction for Linear Systems with Different types of Observation
+FPGA Based Sinusoidal Pulse Width Modulated Waveform Generation for Solar (PV) Rural Home Power Inverter
+Low-complexity Fusion Filtering for Continuous-Discrete Systems
+Processing of Communication Signal Using Operational Transconductance Amplifier
+How does certainty enter into the mind?
+SVM Model for Identification of human GPCRs
+Optimized reversible BCD adder using new reversible logic gates
+Determining the quality evaluation procedures using the expert systems
+The Role of the XBRL Standard in Optimizing the Financial Reporting
+Equal Power Distribution and Dynamic Subcarrier Assignment in OFDM Using Minimum Channel Gain Flow with Robust Optimization Uncertain Demand
+Central Force Optimization Applied to the PBM Suite of Antenna Benchmarks
+Verifying Recursive Active Documents with Positive Data Tree Rewriting
+New clustering method to decrease probability of failure nodes and increasing the lifetime in WSNs
+Current Conveyor Based Multifunction Filter
+Creating A Model HTTP Server Program Using java
+QoS Based Dynamic Web Services Composition Execution
+Knowledge Management
+Wireless IP Telephony
+Model Based Ceramic tile inspection using Discrete Wavelet Transform and Euclidean Distance
+FP-tree and COFI Based Approach for Mining of Multiple Level Association Rules in Large Databases
+Dual-hop transmissions with fixed-gain relays over Generalized-Gamma fading channels
+Simulating Grover's Quantum Search in a Classical Computer
+Automated selection of LEDs by luminance and chromaticity coordinate
+Plagiarism Detection using ROUGE and WordNet
+Bit Error Rate Performance Analysis on Modulation Techniques of Wideband Code Division Multiple Access
+A Mobile Message Scheduling and Delivery System using m-Learning framework
+Performance Analysis of Best suited Adaptive Equalization Algorithm for Optical Communication
+Web-Based Learning and Training for Virtual Metrology Lab
+Analysis of the Relationships among Longest Common Subsequences Shortest Common Supersequences and Patterns and its application on Pattern Discovery in Biological Sequences
+Heat Sink Performance Analysis through Numerical Technique
+Nonlinear System Identification and Behavioral Modeling
+Flexible Lyapunov Functions and Applications to Fast Mechatronic Systems
+A New Variable Threshold and Dynamic Step Size Based Active Noise Control System for Improving Performance
+Effect of Weighting Scheme to QoS Properties in Web Service Discovery
+An Improved Fixed Switching Frequency Direct Torque Control of Induction Motor Drives Fed by Direct Matrix Converter
+Predictive Gain Estimation - A mathematical analysis
+Kinematic modelling of a 3-axis NC machine tool in linear and circular interpolation
+Modelling of Human Glottis in VLSI for Low Power Architectures
+Adaptive Neuro-Fuzzy Extended Kalman Filtering for Robot Localization
+A General Simulation Framework for Supply Chain Modeling: State of the Art and Case Study
+Propose a Fuzzy Queuing Maximal Benefit Location Problem
+An approximate analytical (structural) superposition in terms of two or more alfa -circuits of the same topology: Pt.1 - description of the superposition
+Intelligent Technologies in Model Base Management System Design Automation
+An approximate analytical (structural) superposition in terms of two or more alfa -circuits of the same topology: Pt. 2 - the internal circuit mechanism
+Plagiarism Detection Using Graph-Based Representation
+Crosstalk Noise Modeling for RC and RLC interconnects in Deep Submicron VLSI Circuits
+Prediction of Retained Capacity and EODV of Li-ion Batteries in LEO Spacecraft Batteries
+Modelling and Design of a Microstrip Band-Pass Filter Using Space Mapping Techniques
+Clustering of Content Supporting Computer Mediated Courseware Development
+Video shot boundary detection using motion activity descriptor
+Evaluation of Burst Loss Rate of an Optical Burst Switching (OBS) Network with Wavelength Conversion Capability
+Performance Evaluation of SCM-WDM System Using Different Linecoding
+Quantum Information Science and Nanotechnology
+A Note on Mathematical Modelling of Practical Multicampaign Assignment and Its Computational Complexity
+Pseudorandomness in Central Force Optimization
+Comparative Results: Group Search Optimizer and Central Force Optimization
+Parameter-Free Deterministic Global Search with Central Force Optimization
+Modelling and Implementation of ITWS: An ultimate solution to ITS
+The New Embedded System Design Methodology For Improving Design Process Performance
+Implementation of the Six Channel Redundancy to achieve fault tolerance in testing of satellites
+Tunable Multifunction Filter Using Current Conveyor
+CrystalGPU: Transparent and Efficient Utilization of GPU Power
+Defuzzification Method for a Faster and More Accurate Control
+A Discussion of Thin Client Technology for Computer Labs
+On the Module of Internet Banking System
+Reduction in iron losses in Indirect Vector-Controlled IM Drive using FLC
+E-Speed Governors For Public Transport Vehicles
+Effective Query Retrieval System In Mobile Business Environment
+A Novel Algorithm for Informative Meta Similarity Clusters Using Minimum Spanning Tree
+Parallel QR decomposition in LTE-A systems
+Radio Frequency Identifiers: What are the Possibilities?
+Overview of the Experimental Physics and Industrial Control System (EPICS) Channel Archiver
+Integrating LabVIEW into a Distributed Computing Environment
+Programmable Quantum Networks with Pure States
+Classical simulators of quantum computers and no-go theorems
+Scalable Time-Responsive Digital Energy-Efficient Molecular Circuits using DNA Strand Displacement
+Towards MKM in the Large: Modular Representation and Scalable Software Architecture
+sTeXIDE: An Integrated Development Environment for sTeX Collections
+On the Utility of Directional Information for Repositioning Errant Probes in Central Force Optimization
+Rectangular and Circular Antenna Design on Thick Substrate
+Mutual Coupling Reduction in Two-Dimensional Array of Microstrip Antennas Using Concave Rectangular Patches
+Improving GPS Precision and Processing Time using Parallel and Reduced-Length Wiener Filters
+Novel method for planar microstrip antenna matching impedance
+To Optimally Design Microstrip Nonuniform Transmission Lines as Lowpass Filters
+Simple ROI untuk justifikasi investasi proyek Data Warehouse pada perguruan tinggi swasta
+Rancangan Infrastruktur E-Bisnis Business Intelligence Pada Perguruan Tinggi
+Sistem Pengambilan Keputusan Penanganan Bencana Alam Gempa Bumi Di Indonesia
+Efektifitas Teknologi Informasi Dalam Proses Belajar Mengajar Pada Universitas Budi Luhur
+Pemanfaatan Teknologi Sistem Informasi Geografis Untuk Menunjang Pembangunan Daerah
+Pembobolan website KPU (Komisi Pemilihan Umum) Apakah melanggar UU RI no.3 tahun 1 tentang telekomunikasi ?
+Virtual On-demand Test Lab using Cloud based Architecture
+High Speed Reconfigurable FFT Design by Vedic Mathematics
+Effect of Distributed Shield Insertion on Crosstalk in Inductively Coupled VLSI Interconnects
+MIMO Detection Algorithms for High Data Rate Wireless Transmission
+A Community Membership Life Cycle Model
+Analysis of Microprocessor Based Protective Re-lay's (MBPR) Differential Equation Algorithms
+Algorithm and Implementation of the Blog-Post Supervision Process
+Gender Based Emotion Recognition System for Telugu Rural Dialects Using Hidden Markov Models
+Search Engine Optimization Techniques Practiced in Organizations: A Study of Four Organizations
+Analytical Study on Internet Banking System
+Optimization of reversible sequential circuits
+Design of A Low Power Low Voltage CMOS Opamp
+Arithmetic Operations in Multi-Valued Logic
+Variable Threshold MOSFET Approach (Through Dynamic Threshold MOSFET) For Universal Logic Gates
+Implementing and Evaluating a Wireless Body Sensor System for Automated Physiological Data Acquisition at Home
+The Forecasting of 3G Market in India Based on Revised Technology Acceptance Model
+Critical Success factors for Enterprise Resource Planning implementation in Indian Retail Industry: An Exploratory study
+Scheduling Periodic Real-Time Tasks with Heterogeneous Reward Requirements
+WLAN PIDS
+Contributions of PDM Systems in Organizational Technical Data Management
+Semantic Oriented Intelligent Electronic Learning
+Web to Semantic Web Role of Ontology
+How Does Ontology Contribute in Semantic Web Development?
+I-SOAS towards Product Data Management (PDM) based Application's Problems
+Efficient Wrapper TAM Co-Optimization for SOC Using Rectangle Packing
+Wrapper TAM Co-Optimization and Test Scheduling for SOCs Using Rectangle Bin Packing Considering Diagonal Length of Rectangles
+Wrapper TAM Co-Optimization and constrained Test Scheduling for SOCs Using Rectangle Bin Packing
+Continuous history variable for programmable quantum processors
+Towards Autopoietic Computing
+Home Automation
+Aero Fighter - 2D Gaming
+Testing of Bridging Faults in AND-EXOR based Reversible Logic Circuits
+ARMrayan Multimedia Mobile CMS: a Simplified Approach towards Content-Oriented Mobile Application Designing
+A Mobile Application for Smart House Remote Control System
+Solar Still Coupled With Solar Collector and Storage Tank
+Towards brain-inspired computing
+Instantaneous noise-based logic
+Heuristic approach to optimize the number of test cases for simple circuits
+Statistical Modelling of ft to Process Parameters in 30 nm Gate Length Finfets
+Server Consolidation: An Approach to make Data Centers Energy Efficient and Green
+Biochemical Filter with Sigmoidal Response: Increasing the Complexity of Biomolecular Logic
+Level Shifter Design for Low Power Applications
+Automatic Short -Answer Grading System (ASAGS)
+Reusing optical supports using a simple software
+Towards Greener and Safer Mines
+Biopsym : a learning environment for transrectal ultrasound guided prostate biopsies
+Usability Meets Instant Gratification on the Semantic Web
+The emergence of the physical world from information processing
+iCare: A Mobile Health Monitoring System for the Elderly
+The Use of Rapid Digital Game Creation to Learn Computational Thinking
+VHDL Implementation and Verification of ARINC-42 Core
+Simulating space and time
+Using the C4ISR Architecture Framework as a Tool to Facilitate VV A for Simulation Systems within the Military Application Domain
+Decision Support Systems - Technical Prerequisites and Military Requirements
+A Note on the Membrane Computer
+Extending ArXiv.org to Achieve Open Peer Review and Publishing
+Functional Categories of Support to Operations in Military Information Systems
+Avoiding another Green Elephant - A Proposal for the Next Generation HLA based on the Model Driven Architecture
+Communication model of emuStudio emulation platform
+Towards a Spiking Neural P Systems OS
+Linked Environment Data for the Life Sciences
+Fundamentals of Semantic Web Technologies in Medical Environments: a case in breast cancer risk estimation
+semanticSBML 2.0 - A Collection of Online Services for SBML Models
+Online traffic state estimation based on floating car data
+Solving a real-life large-scale energy management problem
+A simple circuit with dynamic logic architecture of basic logic gates
+The dependence on the initial states and the transitivity of the regular autonomous asynchronous systems
+Software Oriented Data Monitoring System
+The model of the ideal rotary element of Morita
+A Chronology of Torah Cryptography
+A unifying framework for seed sensitivity and its application to subset seeds (Extended abstract)
+Estimating seed sensitivity on homogeneous alignments
+Mortality and Longevity Valuation - A Quantitative Approach
+Control of Noise in Chemical and Biochemical Information Processing
+Computer Aided Tolerancing Based on Analysis and Synthetizes of Tolerances Method
+Numerical investigation of a solar greenhouse tunnel drier for drying of copra
+P ORTOLAN: a Model-Driven Cartography Framework
+Cluster quantum computer on the basis of quasi-part
+An Autonomous Long Range Monitoring System For Emergency Operators
+Transient Stability Assessment of Smart Power System using Complex Networks Framework
+Modelling dynamic route choice of pedestrians to assess the criticality of building evacuation
+Medical Image Denoising using Adaptive Threshold Based on Contourlet Transform
+Generating contour lines using different elevation data file formats
+Distributed k-Core Decomposition
+Implementation of the Trigonometric LMS Algorithm using Original Cordic Rotation
+Performance evaluation of FD-SOI Mosfets for different metal gate work function
+Simulation and Performance Analysis of Adaptive Filtering Algorithms in Noise Cancellation
+Evolutionary Foundations of Mathematics
+Access Control Mechanisms for Semantic Web services-A Discussion on Requirements Future Directions
+Comparative analysis of the accuracy of the distance to the observed object for geometric methods
+Impact of Limited Feedback on MIMO-OFDM Systems using Joint Beamforming
+Design of Thin-Film-Transistor (TFT) arrays using current mirror circuits for Flat Panel Detectors (FPDs)
+Development of Active Pixel Photodiode Sensors for Gamma Camera Application
+A Novel Method for Calculating Demand Not Served for Transmission Expansion Planning
+Book review: Katy B orner Atlas of Science: Visualizing What We Know. Cambridge MA London UK: The MIT Press 2010
+A Knowledge base model for complex forging die machining
+Publicity of the intimate text (the blog studying and publication)
+Re-thinking Enrolment in Identity Card Schemes
+A Comparative Study Between a Micromechanical Cantilever Resonator and MEMS-based Passives for Band-pass Filtering Application
+Characterization of 3D surface topography in -axis milling
+Optimisation de la taille de la s 'erie: illustration par un cas industriel de sous-traitance m 'ecanique
+A new DFM approach to combine machining and additive manufacturing
+Adaptive Monte Carlo applied to uncertainty estimation in a five axis machine tool link errors identification
+The impact of energy constraints on the medium access
+Symmetric and anti-symmetric quantum functions
+Self-Assembly of a Statistically Self-Similar Fractal
+Detecting communities of triangles in complex networks using spectral optimization
+A novel methodology for antenna design and optimization: Variable Zo
+Cloud Computing Future Framework for e-management of NGO's
+Feed drive modelling for the simulation of tool path tracking in multi-axis High Speed Machining
+Evaluation of servo geometric and dynamic error sources on five axis high-speed machine tool
+The Impact of Information Technology in Nigeria's Banking Industry
+System Support for Managing Invalid Bindings
+Knowledge Audit Framework
+A New System Architecture for Pervasive Computing
+Classification of Emergency Scenarios
+Modeling Smart Grid using Generalized Stochastic Petri Net
+Simplicity Effects in the Experience of Near-Miss
+Emotion in good luck and bad luck: predictions from simplicity theory
+A structural model of intuitive probability
+Quality Evaluation of Conceptual Level Object Multidimensional Data Model
+What Does Artificial Life Tell Us About Death?
+A Novel VSWR-Protected and Controllable CMOS Class E Power Amplifier for Bluetooth Applications
+Complexity
+The Aware Cricket Ground
+Outsourcing Competence
+Towards an interoperable information infrastructure providing decision support for genomic medicine
+The Dynamics of Vehicular Networks in Urban Environments
+A binary noisy channel to model errors in printing process
+Fault Tolerant Matrix Pencil Method for Direction of Arrival Estimation
+Biological Computation as the Revolution of Complex Engineered Systems
+An Efficient Approach towards Mitigating Soft Errors Risks
+The Axiomatic Foundation of Space in GFO
+Generation of Test Vectors for Sequential Cell Verification
+Hypocomputation
+RS-232 Led Board
+The Accidental Detection Index as a Fault Ordering Heuristic for Full-Scan Circuits
+Modeling and Propagation of Noisy Waveforms in Static Timing Analysis
+RIP: An Efficient Hybrid Repeater Insertion Scheme for Low Power
+HEBS: Histogram Equalization for Backlight Scaling
+Noise Figure Evaluation Using Low Cost BIST
+Efficient Feasibility Analysis for Real-Time Systems with EDF Scheduling
+Q-DPM: An Efficient Model-Free Dynamic Power Management Technique
+A New Approach to Component Testing
+Embedded Automotive System Development Process
+An Iterative Algorithm for Battery-Aware Task Scheduling on Portable Computing Platforms
+Exploiting Dynamic Workload Variation in Low Energy Preemptive Task Scheduling
+Rapid Generation of Thermal-Safe Test Schedules
+System Synthesis for Networks of Programmable Blocks
+Access Pattern-Based Code Compression for Memory-Constrained Embedded Systems
+Mutation Sampling Technique for the Generation of Structural Test Data
+System Level Analysis of the Bluetooth Standard
+LC Oscillator Driver for Safety Critical Applications
+A CMOS-Based Tactile Sensor for Continuous Blood Pressure Monitoring
+A Tool and Methodology for AC-Stability Analysis of Continuous-Time Closed-Loop Systems
+An Assembler Driven Verification Methodology (ADVM)
+A Stochastic Net Model for Controlling Bullwhip Effect in Virtual Multi-Tier Retail Network
+Solar Power Systems Web Monitoring
+Architecture and Design of Medical Processor Units for Medical Networks
+Using Scalp Electrical Biosignals to Control an Object by Concentration and Relaxation Tasks: Design and Evaluation
+A Novel Approach for Periodic Assessment of Business Process Interoperability
+Reference Model for Performance Management in Service-Oriented Virtual Organization Breeding Environments
+Social Protocols for Agile Virtual Teams
+Modeling Virtual Organization Architecture with the Virtual Organization Breeding Methodology
+Enhancing Information Systems Security in Educational Organizations in KSA through proposing security model
+Multimedia-based Medicinal Plants Sustainability Management System
+Efficient generation of rotating workforce schedules
+L-Fuzzy Valued Inclusion Measure L-Fuzzy Similarity and L-Fuzzy Distance
+The Lattice of Fuzzy Intervals and Sufficient Conditions for its Distributivity
+Multi-valued Connectives for Fuzzy Sets
+Fat Tailed Distributions in Catastrophe Prediction
+The Fibonacci Sequence Mod m
+Natural Economics
+2-State 3-Symbol Universal Turing Machines Do Not Exist
+Optimal Control Strategies in Delayed Sharing Information Structures
+The differences between natural and artificial life. Towards a definition of life
+Instantaneous non-squeezed noise-based logic
+Relaxing Tight Frame Condition in Parallel Proximal Methods for Signal Restoration
+Framework to Integrate Business Intelligence and Knowledge Management in Banking Industry
+Gas turbine diagnostic system
+Two Squares of Opposition: for Analytic and Synthetic Propositions
+Employees Adoption of E-Procurement System: An Empirical Study
+Partial order approach to compute shortest paths in multimodal networks
+Multi databases in Health Care Networks
+Verification Across Intellectual Property Boundaries
+Quantum theory can be collectively verified
+Simulating City-level Airborne Infectious Diseases
+Methods and Techniques of Quality Management for ICT Audit Processes
+Compressed Beamforming Applied to B-Mode Ultrasound Imaging
+Transparent caching of virtual stubs for improved performance in ubiquitous environments
+An Example for the Use of Bitwise Operations in Programming
+Single bit full adder design using 8 transistors with novel 3 transistors XNOR gate
+Low Power Low Voltage Bulk Driven Balanced OTA
+Improvement of Anomoly Detection Algorithms in Hyperspectral Images using Discrete Wavelet Transform
+Fostering continuous innovation in design with an integrated knowledge management approach
+A New Design Technique of Reversible BCD Adder Based on NMOS With Pass Transistor Gates
+A Genetic Algorithm for the Calibration of a Micro-Simulation Model
+On Some Entertaining Applications of the Concept of Set in Computer Science Course
+An Entertaining Example for the Usage of Bitwise Operations in Programming
+Construction of Learning Path Using Ant Colony Optimization from a Frequent Pattern Graph
+Learners' Quanta based Design of a Learning Management System
+A comparison algorithm to check LTSA Layer 1 and SCORM compliance in e-Learning sites
+The milling process monitoring using 3D envelope method
+New Approach of Envelope Dynamic Analysis for Milling Process
+The Knowledge-Based Economy and the Triple Helix Model
+Logical operations with Localized Structures
+A Knowledge Engineering Method for New Product Development
+On an Approach to the Design of a Logical Model of Innovation Project Data
+Channel Estimation Study for Block - Pilot Insertion in OFDM Systems under Slowly Time Varying Conditions
+Design of wireless electronic stethoscope based on zigbee
+Design and Fabrication of Micromachined Resonators
+Towards Maximum Spanning Tree Model in Web 3.0 Design and Development for Students using Discriminant Analysis
+Innovative SQA Service Maturity Model using CMMI and ITIL
+Computer applications in clinical psychology
+Verification and Diagnosis Infrastructure of SoC HDL-model
+Performance Evaluation of Biometric Template Update
+Analysis of neighbour and isolated node of intersection area based geocasting protocol (IBGP) in VANET
+Spread spectrum magnetic resonance imaging
+An Optimum Time Quantum Using Linguistic Synthesis for Round Robin Scheduling Algorithm
+System on Programable Chip for Performance Estimation of Loom Machine
+Modified Quine-McCluskey Method
+High Speed Low Power Current Comparators with Hysteresis
+A Semantic Without Syntax 1
+On the Impact of Information Technologies on Society: an Historical Perspective through the Game of Chess
+Designing of RF Single Balanced Mixer with a nm CMOS Technology Dedicated to Low Power Consumption Wireless Applications
+Health Information Systems (HIS): Concept and Technology
+A tour about Isaac Newton's life
+Autonomic Model for Self-Configuring C .NET Applications
+A 100 mA Low Voltage Linear Regulators for Systems on Chip Applications Using 0.18 mu m CMOS Technology
+UWB Array Design Using Variable Zo Technology and Central Force Optimization
+Being space and time in the Web
+A Scheme for Automation of Telecom Data Processing for Business Application
+Critical Task Re-assignment under Hybrid Scheduling Approach in Multiprocessor Real-Time Systems
+A Simulation Approach Paradigm: An Optimization and Inventory Challenge Case Study
+A procedural framework and mathematical analysis for solid sweeps
+Exploring Application Logs
+Towards Quranic reader controlled by speech
+Mobile Web - Strategy for Enterprise Success
+Construction of Community Web Directories based on Web usage Data
+Introducing convex layers to the Traveling Salesman Problem
+Applying convex layers nearest neighbor and triangle inequality to the Traveling Salesman Problem (TSP)
+Optimal tree for Genetic Algorithms in the Traveling Salesman Problem (TSP)
+Cloud Computing For Microfinances
+Teaching Chemistry in a Social Learning Environment: Facing Drivers and Barriers
+Towards Fuzzy-Hard Clustering Mapping Processes
+SaVi: satellite constellation visualization
+Improving Customer Service in Healthcare with CRM 2.0
+E-Health Initiative and Customer's Expectation: Case Brunei
+Stimulus and correlation matching measurement technique in computer based characterization testing
+A Cost- Effective Design of Reversible Programmable Logic Array
+Towards the Solution of Power Dissipation in Electronics Systems through Thermodynamics
+Specification and Verification of Uplink Framework for Application of Software Engineering using RM-ODP
+A Novel Window Function ielding Suppressed Mainlobe Width and Minimum Sidelobe Peak
+Visitor schedule management system- an intelligent decision support system
+Traductor Writing System Web
+The necessities for building a model to evaluate Business Intelligence projects- Literature Review
+The impact of pharmacybernetic in reducing medication error
+Factors affecting acceptance of web-based training system: Using extended UTAUT and structural equation modeling
+Dynamic Grouping of Web Users Based on Their Web Access Patterns using ART1 Neural Network Clustering Algorithm
+Analysis of WiMAX Physical Layer Using Spatial Multiplexing
+Maximum Spanning Tree Model on Personalized Web Based Collaborative Learning in Web 3.0
+Juppix: a Linux Live-CD for Undergraduate Students
+A Full Performance Analysis of Channel Estimation Methods for Time Varying OFDM Systems
+Finite State Machine based Vending Machine Controller with Auto-Billing Features
+Adaptive Reduced-Rank LCMV Beamforming Algorithms Based on Joint Iterative Optimization of Filters: Design and Analysis
+CloudPass - a passport system based on Cloud Computing and Near Field Communication
+Determination of RF source power in WPSN using modulated backscattering
+Designing the Mode solving of the photonic crystal fiber via BPM and Exploring the Single-Mode Properties
+MIPS code compression
+Universal regular autonomous asynchronous systems: omega-limit sets invariance and basins of attraction
+A Greedy Double Swap Heuristic for Nurse Scheduling
+Open source based cadastral information system : ANCFCC-MOROCCO
+DSTN (Distributed Sleep Transistor Network) for Low Power Programmable Logic array Design
+An Architecture for Context-Aware Knowledge Flow Management Systems
+Dynamic Threshold Optimization - A New Approach?
+Transformation of Traditional Marketing Communications in to Paradigms of Social Media Networking
+Implementation of a Real Time Passenger Information System
+ICT's role in e-Governance in India and Malaysia: A Review
+Soft Computing in Product Recovery: A Survey Focusing on Remanufacturing System
+Iterated tabu search for the circular open dimension problem
+Reciprocally induced coevolution: A computational metaphor in Mathematics
+Analytical Study for Seeking Relation Between Customer Relationship Management and Enterprise Resource Planning
+C-Band VSAT Data Communication System and RF Impairments
+The Use of Fuzzy Cognitive Maps in Analyzing and Implementation of ITIL Processes
+Combining configuration and recommendation to define an interactive product line configuration approach
+Information Security Awareness Within Business Environment: An IT Review
+A Novel Low Power UWB Cascode SiGe BiCMOS LNA with Current Reuse and Zero-Pole Cancellation
+Pricing of insurance policies against cloud storage price rises
+The decomposition of the regular asynchronous systems as parallel connection of regular asynchronous systems
+It takes two to tango. A Review of the Empirical Literature on Information Technology Outsourcing Relationship Satisfaction
+The Light of Existence
+Improved Strategies for Enhanced Business Performance in Cloud based IT Industries
+A Multi-State Power Model for Adequacy Assessment of Distributed Generation via Universal Generating Function
+Topological model for machining of parts with complex shapes
+Prediction of under pickling defects on steel strip surface
+Design and Performance Analysis Of Ultra Low Power T SRAM Using Adiabatic Technique
+Design and Development of Low Cost PC Based Real Time Temperature and Humidity Monitoring System
+Statistical Simulation Models for Cascaded Rayleigh Fading Channels
+Acquiring IT Solutions through Open Source Software
+Developing an Activity-Based Costing Approach to Maximize the Efficiency of Customer Relationship Management Projects
+Clown: a Microprocessor Simulator for Operating System Studies
+The Effectiveness of Virtual R D Teams in SMEs: Experiences of Malaysian SMEs
+Institutional repository eKMAIR': establishing and populating a research repository for the National University Kyiv Mohyla Academy
+Building Healthcare - Patient Relationship with CRM 2.0: Lesson Learnt from Prita Mulyasari's Case
+CRM 2.0 within E-Health Systems: Towards Achieving Health Literacy Customer Satisfaction
+Universal Numeric Segment Display for Indian Scheduled Languages: an Architectural View
+Portals and Task Innovation: A Theoretical Framework Founded on Business Intelligence Thinking
+Establishing Virtual R D Teams: Obliged Policy
+Performance of MIMO Relay DCSK-CD Systems over Nakagami Fading Channels
+Compressed Sensing based Protocol for Efficient Reconstruction of Sparse Superimposed Data in a Multi-Hop Wireless Sensor Network
+Deploying Health Monitoring ECU Towards Enhancing the Performance of In-Vehicle Network
+Design For Change: Information-Centric Architecture to Support Agile Disaster Response
+Analysis of Trim Commands on Overprovisioning and Write Amplification in Solid State Drives
+CodeAliker' - Plagiarism Detection on the Cloud
+Empowered Customers in E-Health Business Process
+Personal Safety Triggering System on Android Mobile Platform
+Adding Methodological Testing to Naur's Anti-formalism
+Business Intelligence: A Rapidly Growing Option through Web Mining
+An Open Question about Dependency of Life Time of Hardware Components and Dynamic Voltage Scaling
+Usage and Impact of ICT in Education Sector A Study of Pakistan
+Simulating Lattice Spin Models on Graphics Processing Units
+Sociotechnical Management Model for Governance of an Ecosystem
+CrowdInside: Automatic Construction of Indoor Floorplans
+Performance Analysis of MIMO Radar Waveform using Accelerated Particle Swarm Optimization Algorithm
+AutoAmp : An Open-Source Analog Amplifier Design Tool - For Classroom and Lab Purposes
+A Connected Enterprise - Transformation through Mobility and Social Networks
+Controlling and securing a Digital Home using Multiple Sensor Based Perception system Integrated with Mobile and Voice technology
+Automatic Electric Meter Reading System: A Cost-Feasible Alternative Approach In Meter Reading For Bangladesh Perspective Using Low-Cost Digital Wattmeter And Wimax Technology
+Secure electronic lock using pic 1f28a microcontroller
+A Tutorial for Creating and Publishing Open Source Lisp Software
+Support of Interactive 3D 4D Presentations by the Very First Ever Made Virtual Laboratories of Antennas
+Quantum Relativistic Computation of Security and Efficiency of Electrical Power System for a Day-Ahead
+The Expectation Monad in Quantum Foundations
+Vulnerability Management for an Enterprise Resource Planning System
+PCNM: A New Platform for Cellular Networks Measurements and Optimization
+A Review Paper on Microprocessor Based Controller Programming
+Integration of CAD and rapid manufacturing for sand casting optimisation
+Customised high-value document generation
+VCS: Value Chains Simulator a Tool for Value Analysis of Manufacturing Enterprise Processes (A Value-Based Decision Support Tool)
+Minimum Component Based First-Order Inverting and Non-inverting Outputs of All-Pass Filter at the Same Circuit
+Minimum Grounded Component Based Voltage-Mode Quadrature Oscillator using DVCC
+Performance Evaluation of Mobile U-Navigation based on GPS WLAN Hybridization
+Microelectromechanical system cantilever-based frequency doublers
+Varactor-Based Dynamic Load Modulation of High Power Amplifiers
+Dimensions and issues of mobile agent technology
+A Robust Lot Sizing Problem with Ill-known Demands
+Propuesta de sistema GeoInform 'atico con representaci 'on de escenarios para auxiliar en la nueva metodolog 'ia propuesta por INETER y la UNI para el estudio a gran escala de la vulnerabilidad y da nos debido a sismos en las edificaciones
+Designing a High Efficiency Pulse Width Modulation Step-Down DC DC Converter for Mobile Phone Applications
+Modified Stage-Gate: A Conceptual Model of Virtual Product Development Process
+Plagiarism Detection: Keeping Check on Misuse of Intellectual Property
+Virtual Collaborative R D Teams in Malaysia Manufacturing SMEs
+Bayesian inference and the world mind
+A Synthesis Method for Quaternary Quantum Logic Circuits
+'Economie des biens immat 'eriels - Economics of Intangible Goods
+Project G.N.O.S.I.S.: Geographical Network Of Synoptic Information System
+An Evaluation of Arabic Language Learning Websites
+Information and Communication Technology in Combating Counterfeit Drugs
+A Semi-Structured Tailoring-Driven Approach for ERP Selection
+Performance Evaluation of DOA Estimation using MATLAB
+From the Closed Classical Algorithmic Universe to an Open World of Algorithmic Constellations
+Secured Ontology Mapping
+Memoization technique for optimizing functions with stochastic input
+Understanding Complex Service Systems Through Different Lenses: An Overview
+Value Variety and Viability: New Business Models for Co-Creation in Outcome-based Contracts
+Universal Programmable Quantum Circuit Schemes to Emulate an Operator
+Performance Improvement by Changing Modulation Methods for Software Defined Radios
+Centralized Integrated Spectrum Sensing for Cognitive Radios
+Review of Knowledge Management Systems As Socio-Technical System
+BigFoot: Analysis monitoring tracking and sharing of bio-medical features of human appendages using consumer-grade home and office based imaging devices
+Hidden Markov Estimation of Bistatic Range From Cluttered Ultra-wideband Impulse Responses
+Foundations of scientific research (Foundations of Research Activities)
+Controlling Home Appliances Remotely through Voice Command
+Generating Strategic IS: Towards the Winning Strategy
+Enhanced Image Analysis Using Cached Mobile Robots
+Brain Connectivity Analysis Methods for Better Understanding of Coupling
+Guadalupe: a browser design for heterogeneous hardware
+Green WSUS
+Design and Performance Study of Smart Antenna Systems for WIMAX Applications
+Beamforming Techniques for Multichannel audio Signal Separation
+Development of Low Cost Private Office Access Control System (OACS)
+Building design in tropical climates. Elaboration of the ECODOM standard in the french tropical islands
+New noise-based logic representations to avoid some problems with time complexity
+Noise based logic: why noise? A comparative study of the necessity of randomness out of orthogonality
+Binary Sequences with Minimum Peak Sidelobe Level up to Length 8
+AGI Antenna Design for Signal Phone Jammer
+URI Identity and Web Architecture Revisited
+On Neighborhood Tree Search
+Application of polynomial vector (pv) processing to improve the estimation performance of bio diesel in variable compression ratio diesel engine
+Microelectromechanical Resonators for Radio Frequency Communication Applications
+Generic System Verilog Universal Verification Methodology based Reusable Verification Environment for Efficient Verification of Image Signal Processing IPs SoCs
+Aplikasi belajar membaca iqro' berbasis mobile
+Data Analysis on the High-Frequency Pollution Data Collected in India
+MFLP: Most Frequent Least Power Encoding
+Transfers of entanglement qudit states in quantum networks
+Circuit proposition for copying the value of a resistor into a memristive device supported by HSPICE simulation
+Improving Mixed-Criticality System Consistency and Behavior on Multiprocessor Platforms by Means of Multi-Moded Approaches
+Embedding of Deterministic Test Data for In-Field Testing
+Design and Implementation of BCM Rule Based on Spike-Timing Dependent Plasticity
+Resonant Clocking Circuits for Reversible Computation
+Smart Charging Technologies for Portable Electronic Devices
+An Approach to Select Cost-Effective Risk Countermeasures Exemplified in CORAS
+Adaptive Modulation (QPSK QAM)
+Energy Aware Task Scheduling for Soft Real Time Systems using an Analytical Approach for Energy Estimation
+Joint Ultra-wideband and Signal Strength-based Through-building Tracking for Tactical Operations
+A Multi-objective Perspective for Operator Scheduling using Fine-grained DVS Architecture
+A Digital Automatic Sliding Door with a Room Light Control System
+Design and Development of an Ultrasonic Motion Detector
+An electronic digital combination lock: A precise and reliable security system
+Mixed Maps for Kolmogoroff-Nagumo-Type Averaging on the Compact Stiefel Manifold
+Speaking Plant Approach for Automatic Fertigation System in Greenhouse
+Proposition d'une technique de gestion de projet dans les startups
+Multi-User Multi-Carrier Differential Chaos Shift Keying Communication System
+Independent Component Analysis for Filtering Airwaves in Seabed Logging Application
+Adaptive Transmission Techniques for Mobile Satellite Links
+Performance Analysis of LMS Filter for SSPA Linearization in Different Modulation Conditions
+Medical Process Modeling: an Artifact-Centric Approach
+Using UWB for Human Trajectory Extraction
+Universal Numerical Encoder and Profiler Reduces Computing's Memory Wall with Software FPGA and SoC Implementations
+Principle synthesis for the solution of tasks of class NP
+Online Energy Generation Scheduling for Microgrids with Intermittent Energy Sources and Co-Generation
+Development of a Device for Remote Monitoring of Heart Rate and Body Temperature
+Hubs and Authorities of the English Premier League for 2010-2011
+Scheduling Cutting Process for Large Paper Rolls
+Design and Development of a Heart Rate Measuring Device using Fingertip
+The design of high-speed data transmission method for a small nuclear physics DAQ system
+Hardware Acceleration of the Gipps Model for Real-Time Traffic Simulation
+Marketplaces for Energy Demand-Side Management based on Future-Internet Technology
+Patterns to analyze requirements of a Decisional Information System
+Policy Aware Geospatial Data
+The Role of Management Practices in Closing the Productivity Gap
+A General Framework for Sound and Complete Floyd-Hoare Logics
+Nations At War I: Why do we keep building weapons?
+Survey of Multiscale and Multiphysics Applications and Communities
+Device-Free Person Detection and Ranging in UWB Networks
+Priority Based Pre-emptive Task Scheduling for Android Operating System
+Object Oriented Model for Evaluation of On-Chip Networks
+GUI Based Automatic Remote Control of Gas Reduction System using PIC Microcontroller
+Augmented Reality in ICT for Minimum Knowledge Loss
+Enabling Self-Powered Autonomous Wireless Sensors with New-Generation I2C-RFID Chips
+Calculation of geometric characteristics of land cover and urban canyon for multi-scale parameterization of megalopolis meteorological models
+A model for quantum queue
+Design and Analysis of a Multi-Carrier Differential Chaos Shift Keying Communication System
+Field Programmable DSP Arrays - A Novel Reconfigurable Architecture for Efficient Realization of Digital Signal Processing Functions
+An UHF RFID Energy-Harvesting System Enhanced by a DC-DC Charge Pump in Silicon-on-Insulator Technology
+A Compact Dual Band Dielectric Resonator Antenna For Wireless Applications
+Stable equilibrium study cascaded one bit sigma-delta modulator
+An Optimized Design of Reversible Sequential Digital Circuits
+Valuating Surface Surveillance Technology for Collaborative Multiple-Spot Control of Airport Departure Operations
+Impact of Gate Assignment on Gate-Holding Departure Control Strategies
+Roughening Methods to Prevent Sample Impoverishment in the Particle PHD Filter
+A Comparative study of Analog and digital Controller On DC DC Buck-Boost Converter Four Switch for Mobile Device Applications
+Defining the symmetry of the universal semi-regular autonomous asynchronous systems
+On the basins of attraction of the regular autonomous asynchronous systems
+Universal Regular Autonomous Asynchronous Systems: Fixed Points Equivalencies and Dynamic Bifurcations
+Voltage Temperature Monitoring System (VTMS) for a BTS Room
+Universality in symbolic dynamics constrained by Medvedev degrees
+Dipole-Loaded Monopole Optimized Using VSO v.3
+How to Build an RSS Feed using ASP
+Wireless sensor network technology for moisture monitoring of wood
+Machining of complex-shaped parts with guidance curves
+Design of One-Dimensional Linear Phase Digital IIR Filters Using Orthogonal Polynomials
+CMOS Low Power Cell Library For Digital Design
+Design and Implementation of Car Parking System on FPGA
+Solving the Parity Problem with Rule 0 in Array Size of the Power of Two
+Computational Universality and 1 f Noise in Elementary Cellular Automata
+Abstract Geometrical Computation 8: Small Machines Accumulations and Rationality
+An Integrated Geographic Information System and Marketing Information System Model
+Complexity Analysis in Cyclic Tag System Emulated by Rule 110
+Analisis laporan tugas akhir mahasiswa Diploma I dari sudut pandang kaidah ilmiah dan penggunaan teknologi informasi
+Perangkat lunak bantu mengenal huruf arab melayu ke bentuk huruf latin bahasa Indonesia
+Improved Median Polish Kriging for Simulation Metamodeling
+Sistem Informasi Penjualan Dan Perbaikan Komputer (Studi Kasus: CV Computer Plus Palembang)
+On Two Conversion Methods of Decimal-to-Binary
+Introduction to Management Information system
+A New Mattress Development Based on Pressure Sensors for Body-contouring Uniform Support
+Services in Android can Share our Personal Information in Background
+How to implement Marketing 2.0 Successfully
+Numerical Analysis of Gate Conflict Duration and Passenger Transit Time in Airport
+Implementation and optimization of Wavelet modulation in Additive Gaussian channels
+BiEntropy - The Approximate Entropy of a Finite Binary String
+Multiparameter Monitoring and Fault Indication Using Inductive Power Transfer System
+Survey of Insurance Fraud Detection Using Data Mining Techniques
+Design and Implementation of Wireless Energy Meter System for Monitoring the Single Phase Supply
+Condition-Based Maintenance using Sensor Arrays and Telematics
+DyPS: Dynamic Processor Switching for Energy-Aware Video Decoding on Multi-core SoCs
+Inadmissible Class of Boolean Functions under Stuck-at Faults
+A Simple Solution To The Uncertain Delay Problem in USRP Based SDR-Radar Systems
+Context-dependent Trust Decisions with Subjective Logic
+A Calibration Algorithm for Microelectromechanical Systems Accelerometers in Inertial Navigation Sensors
+Formal Contexts Formal Concept Analysis and Galois Connections
+Human Resource Management System
+Demodulation of Sparse PPM Signals with Low Samples Using Trained RIP Matrix
+3D Printing for Math Professors and Their Students
+Evolution of choices over time: The U.S. Presidential election 2012 and the N City Mayoral Election 2013
+Optical Disk with Blu-Ray Technology
+Emergency and Normal Navigation in Confined Spaces
+Implementation of the Cluster Based Tunable Sleep Transistor Cell Power Gating Technique for a 4x4 Multiplier Circuit
+Value-chain oriented identification of indicators to establish a comprehensive process improvement framework
+Optimal Energy Consumption Model for Smart Grid Households with Energy Storage
+Ear-Phone: A Context-Aware Noise Mapping using Smart Phones
+Passive In-home Estimation of Gait Velocity From Motion Sensors
+Flickers Forecasting In CRT Using Stochastic Analysis
+Using CamiTK for rapid prototyping of interactive Computer Assisted Medical Intervention applications
+The Energetic Reasoning Checker Revisited
+Multivalued Logic Circuit Design for Binary Logic Interface
+Stacked Patch Antenna With Cross Slot Electronic Band Gap Structure
+E-Business Implications for Productivity and Competitiveness
+Comparative Study of ERP Implementation Methodology Case Study: Accelerated SAP VS Dantes Hasibuan Methodology
+Information System as a Service: Issues and Challenges
+On the Optimum Energy Efficiency for Flat-fading Channels with Rate-dependent Circuit Power
+Automatic Airspace Sectorisation: A Survey
+SolarStat: Modeling Photovoltaic Sources through Stochastic Markov Processes
+Road Accident Prevention Unit: An prototyping approach towards mitigating an omnipresent threat
+Unfaithful Glitch Propagation in Existing Binary Circuit Models
+Tasks and architecture of documentation subsystem in multi-level modeling environment MARS
+Une repr 'esentation en graphe pour l'enseignement de XML
+The structure and functions of an automated project management system for the centers of scientific and technical creativity of students
+Smart: Semantically mashup rest web services
+Current Services In Cloud Computing: A Survey
+Wireless Computing and IT Ecosystems
+Intuitionistic Neutrosophic Soft Set
+An Improved Variable Step-size Affine Projection Sign Algorithm for Echo Cancellation
+Classification of ST and Q Type MI variant using thresholding and neighbourhood estimation method after cross wavelet based analysis
+Criticality estimation of IT business functions with the Business Continuity Testing Points method for implementing effective recovery exercises of crisis scenarios
+Simulation Model Of Functional Stability Of Business Processes
+Spreading huge free software without internet connection via self-replicating USB keys
+Distributed Power Loss Minimization in Residential Micro Grids: a Communications Perspective
+A customized flocking algorithm for swarms of sensors tracking a swarm of targets
+Channel Sounding for the Masses: Low Complexity GNU 802.11b Channel Impulse Response Estimation
+A Fraud Detection Visualization System Utilizing Radial Drawings and Heat-maps
+Theoretical Foundation for Research in Communication using Information and Communication Technology Devices in Healthcare: An Interdisciplinary Scoping Review
+Unconventional research in USSR and Russia: short overview
+FELFCNCA: Fast Efficient Log File Compression Using Non Linear Cellular Automata Classifier
+Solve of problems of mathematical theory of learning with using computer modeling methods
+A New Variable Step-size Zero-point Attracting Projection Algorithm
+Personalized real time weather forecasting
+Abridged Petri Nets
+Maturity Model for IT Service Outsourcing in Higher Education Institutions
+Various models of process of the learning based on the numerical solution of the differential equations
+The solution of complex problems on calculation of the electrostatic fields on lessons on computer modeling
+Technical Report: A New Multi-Device Wireless Power Transfer Scheme Using an Intermediate Energy Storage Circuit
+Cyclostationary Spectrum Sensing in Cognitive Radios Using FRESH Filters
+Heuristics for Routing and Spiral Run-time Task Mapping in NoC-based Heterogeneous MPSOCs
+Advanced Data Processing in the Business Network System
+A Novel Carrier Waveform Inter-Displacement Modulation Method in Underwater Communication Channel
+Routing Diverse Evacuees with Cognitive Packets
+Design and implementation of the Customer Experience Data Mart in the Telecommunication Industry: Application Order-To-Payment end to end process
+Smart Grid Demand Monitoring Model
+Advanced Self-interference Cancellation and Multiantenna Techniques for Full-Duplex Radios
+Accelerating SystemVerilog UVM Based VIP to Improve Methodology for Verification of Image Signal Processing Designs Using HW Emulator
+Transport Information System using Query Centric Cyber Physical Systems (QCPS)
+The Energy Frequency Convexity Rule: Modeling and Experimental Validation on Mobile Devices
+Antifragility  Elasticity Resilience Machine Learning: Models and Algorithms for Open System Fidelity
+Beyond Reuse Distance Analysis: Dynamic Analysis for Characterization of Data Locality Potential
+Simulating Behaviours to face up an Emergency Evacuation
+Intelligent Product: Mobile Agent Architecture Integrating the End of Life Cycle (EOL) For minimizing the lunch phase PLM
+GreenMail: Reducing Email Service's Carbon Emission with Minimum Cost
+Specification of the State Lifetime in the DEVS Formalism by Fuzzy Controller
+Software Architecture and Subclassing Technique for Semiconductor Manufacturing Machines
+A Software Design through Electrical System for a Building
+Modeling Life as Cognitive Info-Computation
+ICT technologies for the refurbishment of wooden structure buildings
+Introducing E-maintenance 2.0
+Planar Shielded-Loop Resonators
+Deployment of an Innovative Resource Choice Method for Process Planning
+Real Time Industrial Monitoring System
+dRTI: Directional Radio Tomographic Imaging
+Tasks for Temporal Graph Visualisation
+Evaluating ECG Capturing Using Sound-Card of PC Laptop
+QTC3D: Extending the Qualitative Trajectory Calculus to Three Dimensions
+Control Loop Feedback Mechanism for Generic Array Logic Chip Multiprocessor
+A Hybrid Estimation of Distribution Algorithm with Random Walk local Search for Multi-mode Resource-Constrained Project Scheduling problems
+Recommendation System for Outfit Selection (RSOS)
+Complex Beauty
+Three Experiments to Analyze the Nature of the Heat Spreader
+A Three-State Received Signal Strength Model for Device-free Localization
+Efficient Teamwork
+A new class of SETI beacons that contain information (22-aug-2010)
+Vulnerability of LTE to Hostile Interference
+Pi Fractions for Generating Uniformly Distributed Sampling Points in Global Search and Optimization Algorithms
+On the Behavioral Interpretation of System-Environment Fit and Auto-Resilience
+Frequency-Shift Filtering for OFDM Signal Recovery in Narrowband Power Line Communications
+The Unambiguous Distance in a Phase-based Ranging System with Hopping Frequencies
+ARM  Based Controller Area Network for Accident Avoidance in Automobiles
+Distributed Transformer Monitoring System Based On Zigbee Technology
+Behavior Organization Substance: Three Gestalts of General Systems Theory
+A Quantitative Approach to Painting Styles
+Load flow analysis of radial distribution network using linear data structure
+Mapping parcel-level urban areas for a large geographical area
+Marine Buoy Location Finding and Tracking System for Linux Supporting Mobiles
+Finite-size effects in the dependency networks of free and open-source software
+Use of root in vehicular accident reconstruction
+Graphical Methods for Defense Against False-data Injection Attacks on Power System State Estimation
+Multiple-Population Moment Estimation: Exploiting Inter-Population Correlation for Efficient Moment Estimation in Analog Mixed-Signal Validation
+Development of Wearable Systems for Ubiquitous Healthcare Service Provisioning
+Design of Reversible Counter
+Steerable Antennas for Automotive Communication Systems
+Visual and Predictive Analytics on Singapore News: Experiments on GDELT Wikipedia and STI
+Apple IOS Devices for Network Administrators
+Teaching Network Storage Technology Assessment Outcomes and Directions
+Automation Security
+Energy and Latency Aware Application Mapping Algorithm Optimization for Homogeneous 3D Network on Chip
+Substrate integrated waveguide power divider circulator and coupler in 10-1 GHz band
+Elevation Contour Analysis and Water body Extraction for Finding Water Scarcity Locations using DEM
+Invisibility System Using Image Processing and Optical Camouflage Technology
+Big Data: Overview
+Web Mining using Artificial Ant Colonies: A Survey
+Journey from Data Mining to Web Mining to Big Data
+Trust Evaluation using an Improved Context Similarity Measurement
+Design of a Low Voltage Class-AB CMOS Super Buffer Amplifier with Sub Threshold and Leakage Control
+Design and considerations of ADC0808 as interleaved ADCs
+Big Spectrum Data: The New Resource for Cognitive Wireless Networking
+Implementation of Sensor Network using Efficient CAN Interface
+Food Redistribution as Optimization
+Computer Simulation Codes for the Quine-McCluskey Method of Logic Minimization
+Estimation of Optimized Energy and Latency Constraints for Task Allocation in 3d Network on Chip
+Coal Blending: Business Value Analysis and Optimization
+Rapture in the Cartesian Wall between Real World Entities and their Abstract Models
+Use of ARAS 30 to Facilitate Rapid Development of Articulated Total Body Biomechanical Physics Simulations
+A New Multi-Tiered Solid State Disk Using Slc Mlc Combined Flash Memory
+The Eve of 3D Printing in Telemedicine: State of the Art and Future Challenges
+A Layered Modeling and Simulation Approach to investigate Resource-aware Computing in MPSoCs
+GREEND: An Energy Consumption Dataset of Households in Italy and Austria
+Recognition and Ranking Critical Success Factors of Business Intelligence in Hospitals -- Case Study: Hasheminejad Hospital
+Using the Expectation Maximization Algorithm with Heterogeneous Mixture Components for the Analysis of Spectrometry Data
+Extended AIGER Format for Synthesis
+Real-Time Estimation of the Distribution of Brake Response Times for an Individual Driver Using Vehicular Ad Hoc Network
+Mobile Application for GBAS Air Traffic Status Unit
+Odr v z avanje ra v c unarskih sistema
+Big Data Representation as High Dimensional Configuration
+Revised Version of a JCIT Paper-Comparison of Feature Point Extraction Algorithms for Vision Based Autonomous Aerial Refueling
+Cognitive Coordination of Global Service Delivery
+VirtuMob : Remote Desktop Virtualization Solution for Smarphones
+Optimizing the flash-RAM energy trade-off in deeply embedded systems
+A.Q.M.E.I.S.: Air Quality Meteorological and Enviromental Information System in Western Macedonia Hellas
+Load Hiding of Household's Power Demand
+Faithful Glitch Propagation in Binary Circuit Models
+Optimal Gaussian Filter for Effective Noise Filtering
+Integration of Legacy Appliances into Home Energy Management Systems
+Simulation of Pedestrian Movements Using Fine Grid Cellular Automata Model
+High Performance Network-on-Chips (NoCs) Design: Performance Modeling Routing Algorithm and Architecture Optimization
+Implementation of Tic-Tac-Toe Game in LabVIEW
+Midiendo la calidad de la informacion gestionada: algunas reflexiones conceptuales-metodologicas
+Big Models: From Beijing to the whole China
+Low-Complexity Variable Forgetting Factor Constrained Constant Modulus RLS Algorithm for Adaptive Beamforming
+Effect of Carouseling on Angular Rate Sensor Error Processes
+E-Learning Quality Criteria and Aspects
+A Dynamic Simulation-Optimization Model for Adaptive Management of Urban Water Distribution System Contamination Threats
+How to Track Online SLA
+Business types classification via e-commerce stage model in oil industry in Iran
+Sequential Data Mining using Correlation Matrix Memory
+A Wavelet Based Algorithm for the Identification of Oscillatory Event-Related Potential Components
+Intelligent Fatigue Detection and Automatic Vehicle Control System
+A New Fuzzy DEMATEL-TODIM Hybrid Method for evaluation criteria of Knowledge management in supply chain
+Data Transfer between Two USB Flash SCSI Disks using a Touch Screen
+Channel Modeling for Metamaterial-Enhanced Underground Wireless Communications
+Supporting Read Write Applications in Embedded Real-time Systems via Suspension-aware Analysis
+A Novel Hybrid Algorithm for Permutation Flow Shop Scheduling
+Adaptive Fault Diagnosis using Self-Referential Reasoning
+Simulation and optimization of container terminal operations: a case study
+Solving container terminals problems using computer-based modeling
+Informatics Perspectives on Decision Taking a Case Study on Resolving Process Product Ambiguity
+Training-Free Non-Intrusive Load Monitoring of Electric Vehicle Charging with Low Sampling Rate
+Study on FLOWSIM and its Application for Isolated Signal-ized Intersection Assessment
+Triple Patterning Lithography (TPL) Layout Decomposition using End-Cutting (JM3 Special Session)
+e-Installation: Synesthetic Documentation of Media Art via Telepresence Technologies
+A New Approach to Customization of Collision Warning Systems to Individual Drivers
+Stress-Minimizing Orthogonal Layout of Data Flow Diagrams with Ports
+Tools and Techniques for Efficient High-Level System Design on FPGAs
+OpenHEC: A Framework for Application Programmers to Design FPGA-based Systems
+High-Level Design of Portable and Scalable FPGA Accelerators
+Stream Processor Generator for HPC to Embedded Applications on FPGA-based System Platform
+High-Level Synthesis Case Study: Implementation of a Memcached Server
+SFA Referee Allocation Scheme
+A Computational Algorithm for Metrical Classification of Verse
+A CMOS Tailed Tent Map for the Generation of Uniformly Distributed Chaotic Sequences
+Forecasting Intermittent Demand by Hyperbolic-Exponential Smoothing
+Analytical and experimental stability investigation of a hardware-in-the-loop satellite docking simulator
+ProMC: Input-output data format for HEP applications using varint encoding
+Data Driven Energy Efficiency in Buildings
+Modeling Stability Analysis and Testing of a Hybrid Docking Simulator
+Population spatialization and synthesis with open data
+Evaluating the Electrification of Vehicle Fleets Using the Veins Framework
+Exercises for Children with Dyslalia-Software Infrastructure
+V2V Propagation Modeling with Imperfect RSSI Samples
+Co-Emulation of Scan-Chain Based Designs Utilizing SCE-MI Infrastructure
+oMo - The Arduino based Smart Metering Board
+Computational Gravitational Dynamics with Modern Numerical Accelerators
+Profiling underprivileged residents with mid-term public transit smartcard data of Beijing
+An Efficient Topology-Based Algorithm for Transient Analysis of Power Grid
+Filtering from Observations on Stiefel Manifolds
+An Application of Topological Data Analysis to Hockey Analytics
+Modeling In vivo Wireless Path Loss
+A Smart Cushion for Real-Time Heart Rate Monitoring
+The output distribution of important LULU-operators
+Design and Realization of an S-Band Microwave Low-Noise Amplifier for Wireless RF Subsystems
+Poster Abstract: Bits and Watts: Improving energy disaggregation performance using power line communication modems
+GraphState - a tool for graph identification and labelling
+The Impact of Surface Size on the Radiative Thermal Behavior of Embedded Systems
+Adaptive two-dimensional wavelet transformation based on the Haar system
+Programing implementation of the Quine-McCluskey method for minimization of Boolean expression
+A Novel Design of IEEE 802.1.4 and Solar Based Autonomous Water Quality Monitoring Prototype using ECHERP
+Area Versus Speed Trade-off Analysis of a WiMAX Deinterleaver Circuit Design
+3D simulation of complex shading affecting PV systems taking benefit from the power of graphics cards developed for the video game industry
+Crawford-Sobel meet Lloyd-Max on the grid
+On The Dynamical Nature Of Computation
+Adaptive Minimum-Maximum Exclusive Mean Filter for Impulse Noise Removal
+Demo Abstract: NILMTK v0.2: A Non-intrusive Load Monitoring Toolkit for Large Scale Data Sets
+Requisite Variety Autopoiesis and Self-organization
+Photomapping Using Aerial Vehicle
+Systems Resilience and Organization: Analogies and Points of Contact with Hierarchy Theory
+Semantic-based Detection of Segment Outliers and Unusual Events for Wireless Sensor Networks
+High gain two-stage amplifier with positive capacitive feedback compensation
+A dynamic mechanism of Alzheimer based on artificial neural network
+Hostile Intent Enumeration using Soft Computing Techniques
+Applying GIS Concepts to a Pervasive Game: Spatiotemporal Modeling and Analysis Using the Triad Representational Framework
+Supporting Dynamic Ad hoc Collaboration Capabilities
+Low Power Dual Edge-Triggered Static D Flip-Flop
+Exact Reconstruction of Spatially Undersampled Signals in Evolutionary Systems
+Compressive Periodogram Reconstruction Using Uniform Binning
+Precision of Pulse-Coupled Oscillator Synchronization on FPGA-Based Radios
+The Solving of the Problems with Random Division of an Interval with Use of Computer Analytic Programs
+Qubit Data Structures for Analyzing Computing Systems
+Autonomous Load Disaggregation Approach based on Active Power Measurements
+Personal Multi-threading
+Domotic Embedded System
+Neuronal noise as a physical resource for human cognition
+Modified Design of Microstrip Patch Antenna for WiMAX Communication System
+A Simulation and Modeling of Access Points with Definition Language
+Comprehensive Analysis and Measurement of Frequency-Tuned and Impedance-Tuned Wireless Non-Radiative Power Transfer Systems
+UK-DALE: A dataset recording UK Domestic Appliance-Level Electricity demand and whole-house demand
+Explicit Integration with GPU Acceleration for Large Kinetic Networks
+Routing Diverse Crowds in Emergency with Dynamic Grouping
+Cloud Enabled Emergency Navigation Using Faster-than-real-time Simulation
+Time-Symmetric Physics: A Radical Approach to the Decoherence Problem
+Mapping and Matching Algorithms: Data Mining by Adaptive Graphs
+PC Guided Automatic Vehicle System
+Micro-location for Internet of Things equipped Smart Buildings
+Design Analysis and Simulation of a Pipe-Welding Robot with Fixed Plinth
+Binary and Polytomous Responses Modeling: Multiple-Campaign Ad-Targeting Without Personal User Information
+Image Processing Code for Sharpening Photoelastic Fringe Patterns and Its Usage in Determination of Stress Intensity Factors in a Sample Contact Problem
+Complexity of Power Draws for Load Disaggregation
+Extended Report: Fine-grained Recognition of Abnormal Behaviors for Early Detection of Mild Cognitive Impairment
+Sparsity based Efficient Cross-Correlation Techniques in Sensor Networks
+A Simulation Modeling Approach for Optimization of Storage Space Allocation in Container Terminal
+Contemporary Internet of Things platforms
+Asynchronous Linear Modulation Classification with Multiple Sensors via Generalized EM Algorithm
+ECPR: Environment- and Context-aware Combined Power and Rate Distributed Congestion Control for Vehicular Communications
+E-BLOW: E-Beam Lithography Overlapping aware Stencil Planning for MCC System
+CHAOS: Accurate and Realtime Detection of Aging-Oriented Failure Using Entropy
+Etude des d 'eterminants psychologiques de la persistance dans l'usage d'un jeu s 'erieux : 'evaluation de l'environnement optimal d'apprentissage avec Mecagenius?
+FRAME: Fast and Realistic Attacker Modeling and Evaluation for Temporal Logical Correlation in Static Noise
+Physical Biomodeling: a new field enabled by 3-D printing in biomodeling
+Privately Information Sharing with Delusive Paths for Data Forwarding in Vehicular Networks
+Analysis of Lithography Based Approaches In deveopment of Semi Conductors
+Converting ECG and other paper legated biomedical maps into digital signals
+Improved Model for Wire-Length Estimation in Stochastic Wiring Distribution

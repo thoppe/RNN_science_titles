@@ -1,0 +1,782 @@
+Minimum Metrics
+Triangulating Faces and Low Dimensional Distance
+Search center in simplicial Comparison
+The Curves in string Graphs
+The Point Sets
+A Point Sets
+Polyhedra
+Curves bounded Algorithms
+Free Discretization
+Polygon Voronoi Diagrams in graphs
+Surfaces
+Unfoldings
+Applications
+Curves
+Fast
+Stability in a Line
+Geometric Circle
+Shape on a Single Polygons
+Minimum Reconstruction of a Linear points
+Metrics
+A Linear Trees
+Triangulations
+Geometry Problem
+On Graphs
+Distance of Projections
+Approximating Embedding
+Structures in similarity
+An Universal straight Size Applications
+Unfolding Crossing
+Maximum Curves
+Application Theorem
+The Convex Hull
+A New comparison
+Approximating Convex plane
+The Packing
+Minimum Weight Geometry
+Embedded Polygons in Simple Polygons
+Generation of Multidimensional Matching Method
+A Convex polyhedra
+Graphs
+Bounds for Uncertain Problems
+The number of Regular Sets
+On the persistent Homology
+for Euclidean Geometry Problems
+Triangulation Theory
+Problem
+Unfoldings in point Sets
+Lower Minimum Diagrams
+The maximum Optimal distance
+Trees
+Time
+A Bounded Spanners from 3D surface
+Approximations
+Pair
+Metrics
+Curves
+Polygons
+A Constrained
+Geometric Problem
+for Bounds: Discrete
+A Bounds for Drawing Networks
+A Dimension
+3 -rectangles
+Computing Trees
+Depth
+Analysis
+Metrics
+Polygons
+Planar graphs
+A Planarity
+Drawings
+Approximability of Geometric Surface Bounds for Collinear Space
+Set
+A Nodes of Rigid
+Shape Dimension
+Point Sets
+Computing Applications
+Convex Polygons
+Cubic Graph
+The variant curves
+1
+Problems
+Reporting Convex Approximation
+Geometric Drawing
+New Polygon
+Efficient Voronoi Diagrams
+Size Networks
+On translation
+Planar Graph Graphs
+1 distance framework
+Distances
+Maps
+Revisited of Delaunay Triangulation
+Optimal Computing the Approximating String graphs
+Algorithm
+The Polynomial
+Mechanism for convexity of the Projective Meshes
+Interference)
+On-finding
+A Graphs On 2D
+Graphs
+Networks
+On Partition problem
+Triangulation
+On the Network
+Problem
+An Surfaces
+Curves
+Computation
+Optimal Decomposition-for lines Computing Complexity Paths
+The Class
+Minimizing Triangulation
+On The
+Networks
+Computing Geometric diagrams
+The Number of Point Sets
+An Approximations
+Curves
+The Tight Space
+Optimal Sensor Networks
+On the Curves
+Comparison
+Variant and topological Graphs
+Embedded-Polygon
+Size Data
+Partial Analysis of measure
+Delaunay graphs
+Point Set
+An Algorithms
+Sensor Networks
+The Surfaces
+Data
+Structures on Cost Graphs
+Similarity Metrics
+Approximation graphs
+The Geodesic Problem
+Simultaneous Embedded and at a Graph Spatial Dilation
+A directed construction
+Planar and application 2-Spanners
+A Polytopes
+Efficient Polygonal Distance
+Embedding
+On simple Polytopes
+Deforming transforms
+On a single triangulations
+A Geometric Minimum Algorithm
+Geometric Ball
+for Shapes
+Point Sets
+On Plane
+Minimizing Linear Dimensions
+Efficient Algorithm
+String graph
+Embedded Algorithms
+Delaunay Triangulations
+Revisited
+Regular point set
+Optimal Modeling in the Numerical Partition
+Minimum Unit Applications
+Surfaces on Analysis in a Polygonal Geometry
+Properties of Dimension Minkowski sums of topological Triangulation
+Interactive Complexity and a Line
+Sensitive Constraints
+An Discrete Networks
+On Shape
+A polygonal sets
+A Distances
+Planar and Planar Spanners
+On Reducing Point in Edge Plane
+Crossing Partitions
+The Graphs
+Dimensions
+The Low Maps
+On circle an Arrangements
+On the Plane
+Average on Graphs
+Minimum Vertex Problem
+Density Network Methods
+Planar Surfaces
+The D-Decomposition
+Optimal Data Structure
+Probabilistic Distance
+On the 2-dimensional spaces
+A Minimum Sensors
+On the by Visibility in Programming:
+Voronoi Diagrams
+Implementation
+Scaling for the Computation
+Fractional Visibility constraints
+Spaces
+Dynamic Plane
+The Base
+Convex hull
+Minimum continuous Graphs
+Trees
+On the planar curves with Convex Polyhedra
+Approximate characterization Theory
+Fast Stability Geometric spanners
+Curves
+Geometric Method
+Measure spaces
+Optimal Construction
+graph theory
+Bounding o  Points
+Point Sets
+An Applications
+Multidimensional Curves
+Topology of a Plane
+Pseudo-line Sets
+A Simple Polygon
+Efficient Graphs
+Free model
+A Planes in the Plane
+Persistent 1-spanners
+Related Properties
+Distance Boundary From Problem
+On the Clustering
+On Comparison of triangulations in the Plane
+Scale
+A Shortest Drawings
+A New  out Drawings
+Segments in subdivisions
+Random the Boundary Angles
+Two-Dimensional pairing Tracking in a Graphs
+The Simulating hyperbolic plane Part Application
+Constructions
+Metrics with Tree Domain
+String graphs
+The k-Shape
+Monotone curve And Applications
+Convex Polyhedra
+Function of Curves
+On the an analysis and Bases
+Point Problem
+The
+Graph Drawing
+Simulating Trees
+Efficient Delaunay Triangulation is a convex Polygons
+Improved
+T Algorithm for the Geometric Matrices
+Free Distance graphs
+Optimized Problems for Persistent Homology
+Interference
+A partitions
+Tile Systems
+Independent sets
+On The point sets
+Network
+Monotone Geometric Map
+Geometry Creases in plane
+Properties
+Implicit Random with Configurations
+On the Drawings
+A Points
+A Convex Polygons
+Persistence
+The number
+Embedding Triangulations
+Graphs
+Diagrams
+On 2D
+Optimization-Structures
+Computing Trees
+Optimal Graphs
+Communication Problems
+Ad Embedded Model
+On the parameter graphs
+Metric Graph
+Planar paths
+Spatially plane
+The Covering of the Visibility
+Approximation Graphs
+Computation
+Trees on graphs with Optimal Drawings
+Minimum Colors with an Applications for Geometric Point Sets
+A Disks
+Persistent Topology
+in arbitrary curves
+Computing Crossing triangulations
+An Random Mode(
+Good Graphs
+On the Persistence
+Separating Plane Drawings
+unfoldings
+A Graph Graphs with Maximum Point Sets
+Components
+Problems in and Linear Points in Application
+Queries in Graphs
+Optimal Point Sets
+Graphs
+On the plane
+Universal Voronoi Diagrams
+Measure hyperplane
+On the Surfaces
+On Planarity
+Distribution
+A simple Polygon
+On Simple Optimized
+Meshing graphs
+A Boundary technique trees
+PCA Corners
+On Improved Approximability of 2D -dimensional Polytopes of and rectangle
+Problems
+On the Curves
+Higher graph
+A Polygons
+Non-crossing construction
+Curve
+Surfaces in Random Self-Assembly
+An Linear Complexes
+Between Polygons
+Unfoldings with Persistence for Two Dimensional Structures
+Spatial Graph Drawings
+Minimum 3D Algorithm
+An Approximate Persistent homology
+Minimum Matrices
+The manifolds
+Minimum curves
+On the projection of Convex polygon
+Approximations
+Geometric Plane
+Approximating the Delaunay Algebraic curves
+On any-Generalized Distributed Meshes
+Applications
+Modules
+Convex Polyhedra
+Parametric Model
+Greedy Topology
+Complexity of the terrains
+Functions
+Finding 2
+A Data Structures
+Dimensions
+polytopes
+Point sets
+Many t-space
+Approximation
+Polygons
+Computing the curves
+Strictly polygons
+Unions
+Computation of plane
+Computing the Function
+Persistence graphs
+Graphs
+En the Hyperbolic plane
+Minimum Pairs
+An Affine-line and Persistence of the Discrete depth
+Optimally Embeddings
+Surfaces
+Comparison
+On Nearest Neighbors in R-1
+Geometric Objects
+An Approximate Delaunay Generation
+on 2-Simple polygon
+Approximate normed interferometry
+Packing Sets
+Distributed Computations
+Computing the NP
+A Computing Linear-Tree
+Overlap surfaces
+Computing Euclidean Space
+1
+Tree
+Optimal Cases in optical Linear Time
+1)-Cover and Geometry
+Number of Application of Graphs
+An Approximations
+Transformations
+Function
+A Data Reduction of -connectivity sets
+Optimal Geometry Computing the Curves
+Convex Homology
+A fast Problems
+L
+1-methods
+On intersection problems
+Computing graphs
+On Curves
+Sets times
+Queries of Linear Dimension
+How Complexity of Multidimensional Packing
+On simultaneous Embedding
+Planar-Graphs
+Stability Problems
+An Approximate geometry and Bases on the Linear Distance
+Efficient Algorithms for H-Polytopes
+Graphs
+Metric Space
+Degree Covering Compact Measures
+Properties
+A persistent homology
+A
+Model
+Two Sums
+Approximate sets
+Point Location
+Approximated
+Quality Graphs
+On the terrains
+The planar Dimensional Paths
+Sets
+Linear problem
+Design Problem
+On the Plane
+A Polygon linear-Dimension
+Packing Geometric spaces
+On the Dimension Triangulation
+Geometry
+Meshes no
+An Affine An Approximate Drawings problem
+Point Sets
+On unit no
+Distributed dimensional Structures
+Covering Complexes
+Computing surfaces
+Spanning Matrices
+Universal
+A Computing Helly method
+Characterization
+Algorithm
+Manifold
+Delaunay Triangulation Method
+Approximation point sets
+From Points
+Bounding
+Voronoi Diagrams
+Terrains
+Fast Approximate Nearest Prime Separability in Planar Graph Drawings
+Trees
+The Applications
+On the Queries
+Multidimensional Semi-trees
+polygons
+Graph
+Numeric Detection points
+Persistent Homology
+On the Projection Terrains
+Computing Routing Graphs
+Surfaces
+Framework
+A Simple Polygon
+Homology
+Generating Surfaces
+Geometry Polygon
+Topological Discrete
+Approximate geometric Search
+Projections
+Computing Upper Bounds for Measures
+Minimum properties
+Optimal transforms
+Graphs
+Computable Matching problems
+Faster-Method:
+Algorithm
+Boundary the drawings
+Approximation
+Improved in characterization
+Planar Geometry
+Computing dimensional Metrics
+Trees
+Computing a e dimensional Geometry Column 40
+A Approximation in Terrains
+Linear programming for plane
+computing Packing
+grid
+Counting Projections
+Computing the Plane
+Deterministic sets
+Geometric net Graphs
+On the Complexity
+Space-an k(-L 2) Surfaces
+Rectangles
+Fixed-Structures
+Tracking and Optimal Manifolds
+Searching Sets
+Improved bounds on self-assembly
+The curves and Spatial Clustering
+The Multi-Dimensional Triangulations
+On Polytopes
+Approximate Crossings
+Tight persistence finding planar graphs
+Unfolding
+The number of 3-
+Network Packing
+New segments in points with Complexity Network
+An
+Topology
+And Points
+Approximately
+Approximation Framework
+The Plane
+in Applications
+Plane
+Point Sets
+Unit Disks
+Sparser lower Bounds
+Construction Spaces
+Polygons
+The visibility
+Partition embedding
+Theorem
+Linear Dimensional Topology
+On Two Graphs
+Modeling sets
+The Matching self-assembly
+The Power sets
+Computing
+Computing Dimensional triangulations
+Distance from Delaunay Graphs
+Distance with
+Minimum Curves and Tree Drawings
+A on
+Functions
+Embedding
+Measuring networks
+On the plane
+Computing similarity Networks
+Simple Polygons
+Self-Assembly
+Computations
+Framework
+Persistence ties with polytopes
+Packing complexes
+Complete the Euclidean Voronoi Diagrams
+Planar graph
+Finding trees
+On Pairs
+Approximation Graphs
+An Algorithm
+Applications
+Cover Problems
+Triangulating Planar Construction
+The Plane
+Graph And terrains
+Covering Sets
+Embedding a Generalization
+Planar
+Self-assembly
+Graphs
+Fast Neighbor Problems
+A Network Plane
+A
+Improved Boundary Manifold Dynamic Plane
+A Circle P-Min
+Convex Graphs
+Unfolding
+On line Segment Local Curves
+Point Problems
+Continuous Diagrams
+A polygon
+On the Dimensions
+Convex Polygon to
+The Plane
+Shape Graphs
+On Boundary
+Persistent homology
+On for Convex Hulls
+Complexity over an and Density convex Homology
+A Generic
+Statistics
+The polytopes
+Fitting linear Algorithm
+An Algorithm
+A Point Sets
+Efficient Computing
+Polygon
+Linear-time
+Distance for Real hyperplane
+Characterization trees
+Translation Algorithms
+An Application
+Graphs
+A Volume Sets
+A Linear sets
+Voronoi Diagrams
+Plane Simple Polygons
+D
+On the Bounded Curves
+Optimal with complexity on Discrete Proof in a Semi-algebraic testing Curves
+On Surfaces
+On a Line Segments in Three Dimensions
+Drawing Moves for Linear-Time
+Planar Graph Drawings
+On the topological Point Set
+On the Cover and Survey Network Approximation
+Sensitive Convex polyhedra
+Geometric Plane
+Unfoldings to the Graphs
+Results by trees
+Tiling Self-Assembly
+Persistence
+A
+Searching sets
+A Random Crossing
+Embeddings
+The Persistent Homology
+Applications
+Sparse Representation of persistent homology connectivity
+Rectangle packings
+The convex Structures on the and in
+Convex tile on computing triangulation in Planar Graphs
+Restricted
+Geometric surfaces
+Topological Distance between two Time
+topological search Polygon
+Dimension Drawings
+Analysis
+approximate Efficient Matching point Interference
+Chains
+Triangulation of distortion:
+Constraints of Planar Geometry
+A Point Set
+Curves
+A Graphs
+Curve
+Representation
+Approximate Network
+Geometric Depth
+Discrete Model Graphs
+An Algorithm for Geometry
+Computing the Plane
+Computing the Orthogonal Persistent Polygons
+3 Curves
+T(polygon
+Polygons
+Metric
+Lower bound for Simultaneous Visibilities
+Approximate Delaunay Triangulation
+Random From an Graphs
+Covering and Application
+Drawings
+An Fast-Size
+Geometry
+The Graphs
+Pattern in metric approximations to Approximation graphs
+packing graphs
+A polygonal Finding Points for Graph Strips
+Manifolds
+On the Triangulations: Method
+Other polygon
+Method polygon
+Minimum Solution
+On simultaneous functions
+Bounded Approximating
+Projections
+Paths in a Unit Cover: Problem
+In ordinary Graphs
+A Manifold trees
+On the Planar Size
+A
+Efficient Path Structures for Geometry Solutions
+A Linear Space
+Curves
+The Number of time
+A Graphs
+Efficient Robots
+On the Dimensional Spanners
+Computing plane Graph Spaces
+On the Interference: Problems of random Curves
+The Maximization
+Point Set Intersections
+Optimal topological Comparison
+Computing Problems
+Linear Planar Graphs
+Drawing
+A Complete
+A Comparison
+A Lock
+Approximating Self-assembly
+Squares for Multidimensional Directed
+Graph Classes
+Approximation Problems and variant geometry
+Approximate Rectangles
+Graph Drawings
+Solutions for Random Problem in Plane
+A point Set
+On the hyperbolic plane
+Dynamic under problems
+Geometric Problems
+Functions
+Applications
+Communication of Topology
+Approximation Problems in convex polygons
+Finding linear-Time
+Interference
+Simple Planar Data Structures
+Drawings
+Lower on projections
+Multidimensional Free Structures
+Graphs
+Simulating Geometric Graphs
+Faster polygons
+On the Similarity Centroid
+The Plane
+A Symmetry Delaunay Graphs
+Spanners Using
+Multidimensional Lower Problems
+Linear-Size
+Minimum Manifolds
+Terrains
+An plane
+Computing Sets
+A Time-Approximations
+The K-Unfolding
+An Arbitrary Packing
+Simultaneous Geometry Angles
+Maps
+I)
+Bounds
+Planar time-Greedy Problems
+Computing Spaces
+On Three-Dimensional Method
+Convex Separated Problem for Interference with Computing geometry Curves
+Approximation
+An intersection Matching
+Embeddings and Orthogonal graphs
+On the Plane
+Distributed convex Applications
+Approximate configuration
+Numerical Reduction
+Approximate Similarity Problems in Points
+Lower bounds
+Meshing with an Extension
+On Bases
+Two-Dimensional
+Computing regular bounds and search-Comparison
+Semi-algebraic Sets
+An Minimum Approximate nearest Paths in Point Sets
+A
+Voronoi Diagrams
+Embedding Colorful Continuous Base
+in compatible
+On the Graphs
+A
+The Complexity to Cover graphs
+Discrepancy Measures and Construction
+Lines methods
+Optimal
+Optimal Sequences in the Plane
+Non-Triangulations
+A Nonlinear Angles
+Uniform
+Unfoldings of Applications in Diameter
+Computing the Constructive persistence Curves
+Boundary Discrete Network Problems
+Complexity in Model Problems
+Unfoldings
+A planar
+Distance To Planar geometry Curves
+Optimal simple Polygons
+Boundary Problems
+On the point Sets
+Coloring Grid R I
+An Approximation
+Data Structures
+On the manifolds: Geometry
+Generalized Terrains
+Geometric Graphs
+The complexes
+Minimum trees
+Computation
+Geometry Column 33
+On a high on Polytopes
+Counting-graphs
+Minimum programming
+Simplices on Geometry Column 43
+An Persistent homology
+Polygons
+Line-Spaces
+New Intersection of Wireless Graphs
+Minimum-Geometric intersections
+Structures
+Network
+Approximating comparison
+Measure
+On Measure Matching
+Metric Graph
+Polygons
+Drawings
+Trees with a simple Polygons
+Methods

@@ -1,0 +1,2227 @@
+Personalizing Image Search Results on Flickr
+Recommending Related Papers Based on Digital Library Access Records
+Using Access Data for Paper Recommendations on ArXiv.org
+Vocabulary growth in collaborative tagging systems
+Direct Optimization of Ranking Measures
+Rough Sets Computations to Impute Missing Data
+Approximate textual retrieval
+IDF revisited: A simple new derivation within the Robertson-Sp arck Jones probabilistic model
+Ontology-Supported and Ontology-Driven Conceptual Navigation on the World Wide Web
+Science User Scenarios for a Virtual Observatory Design Reference Mission: Science Requirements for Data Mining
+Biologically Motivated Distributed Designs for Adaptive Knowledge Management
+Making news understandable to computers
+Automatic Classification of Text Databases through Query Probing
+How to Evaluate your Question Answering System Every Day and Still Get Real Work Done
+Centroid-based summarization of multiple documents: sentence extraction utility-based evaluation and user studies
+A One-Time Pad based Cipher for Data Protection in Distributed Environments
+A method for command identification using modified collision free hashing with addition rotation iterative hash functions (part 1)
+Using compression to identify acronyms in text
+Fuzzy data: XML may handle it
+Relevance as Deduction: A Logical View of Information Retrieval
+An Experimental Comparison of Naive Bayesian and Keyword-Based Anti-Spam Filtering with Personal E-mail Messages
+Learning to Filter Spam E-Mail: A Comparison of a Naive Bayesian and a Memory-Based Approach
+A Public-key based Information Management Model for Mobile Agents
+Retrieval from Captioned Image Databases Using Natural Language Processing
+A Benchmark for Image Retrieval using Distributed Systems over the Internet: BIRDS-I
+Communities of Practice in the Distributed International Environment
+On the Automated Classification of Web Sites
+Evaluating Recommendation Algorithms by Graph Analysis
+File mapping Rule-based DBMS and Natural Language Processing
+location.location.location: Internet Addresses as Evolving Property
+Iterative Residual Rescaling: An Analysis and Generalization of LSI
+Coupled Clustering: a Method for Detecting Structural Correspondence
+The Partial Evaluation Approach to Information Personalization
+Links tell us about lexical and semantic Web content
+Bipartite graph partitioning and data clustering
+Information Extraction Using the Structured Language Model
+Conceptual Analysis of Lexical Taxonomies: The Case of WordNet Top-Level
+Information retrieval in Current Research Information Systems
+Towards Solving the Interdisciplinary Language Barrier Problem
+Machine Learning in Automated Text Categorization
+Explaining Scenarios for Information Personalization
+Intelligent Anticipated Exploration of Web Sites
+Hypernets -- Good (G)news for Gnutella
+The structure of broad topics on the Web
+Technology For Information Engineering (TIE): A New Way of Storing Retrieving and Analyzing Information
+Navigating the Small World Web by Textual Cues
+The Traits of the Personable
+A Connection-Centric Survey of Recommender Systems Research
+A Scalable Architecture for Harvest-Based Digital Libraries - The ODU Southampton Experiments
+Transforming the World Wide Web into a Complexity-Based Semantic Network
+Knowledge management for enterprises (Wissensmanagement fuer Unternehmen)
+Question Answering over Unstructured Data without Domain Restrictions
+Activities Context and Ubiquitous Computing
+An Approach to Automatic Indexing of Scientific Publications in High Energy Physics for Database SPIRES HEP
+Mining the Web for Lexical Knowledge to Improve Keyphrase Extraction: Learning from Labeled and Unlabeled Data
+Unsupervised Learning of Semantic Orientation from a Hundred-Billion-Word Corpus
+Learning to Extract Keyphrases from Text
+Extraction of Keyphrases from Text: Evaluation of Four Algorithms
+Learning Algorithms for Keyphrase Extraction
+Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews
+Mining the Web for Synonyms: PMI-IR versus LSA on TOEFL
+Local Community Identification through User Access Patterns
+Segmentation Indexing and Visualization of Extended Instructional Videos
+Analysis and Interface for Instructional Video
+A Neural Network Assembly Memory Model with Maximum-Likelihood Recall and Recognition Properties
+A Method for Clustering Web Attacks Using Edit Distance
+Configuration Database for BaBar On-line
+Visualization for Periodic Population Movement between Distinct Localities
+BdbServer : A User Driven Data Location and Retrieval Tool
+Bayesian Information Extraction Network
+GMA Instrumentation of the Athena Framework using NetLogger
+BaBar - A Community Web Site in an Organizational Setting
+The Best Trail Algorithm for Assisted Navigation of Web Sites
+Supporting Out-of-turn Interactions in a Multimodal Web Interface
+Learning Analogies and Semantic Relations
+Web Access to Cultural Heritage for the Disabled
+Disabled Access for Museum Websites
+Coherent Keyphrase Extraction via Web Mining
+A new approach to relevancy in Internet searching - the Vox Populi Algorithm
+Centralized reward system gives rise to fast and efficient work sharing for intelligent Internet agents lacking direct communication
+ROC Curves Within the Framework of Neural Network Assembly Memory Model: Some Analytic Results
+Semi-metric Behavior in Document Networks and its Application to Recommendation Systems
+Proposed Specification of a Distributed XML-Query Network
+Measuring Praise and Criticism: Inference of Semantic Orientation from Association
+Combining Independent Modules to Solve Multiple-choice Synonym and Analogy Problems
+A Neural Network Assembly Memory Model Based on an Optimal Binary Signal Detection Theory
+Re-Finding Found Things: An Exploratory Study of How Users Re-Find Information
+WebTeach in practice: the entrance test to the Engineering faculty in Florence
+Make search become the internal function of Internet
+Staging Transformations for Multimodal Web Interaction Management
+Data mining and Privacy in Public Sector using Intelligent Agents (discussion paper)
+Embedding Web-based Statistical Translation Models in Cross-Language Information Retrieval
+Taking the Initiative with Extempore: Exploring Out-of-Turn Interactions with Websites
+Evolution: Google vs. DRIS
+Using sensors in the web crawling process
+Acquiring Lexical Paraphrases from a Single Corpus
+Polyhierarchical Classifications Induced by Criteria Polyhierarchies and Taxonomy Algebra
+Mobile Re-Finding of Web Information Using a Voice Interface
+A Correlation-Based Distance
+Evolving a Stigmergic Self-Organized Data-Mining
+Web pages search engine based on DNS
+In vivo spam filtering: A challenge problem for data mining
+Corpus structure language models and ad hoc information retrieval
+Web search engine based on DNS
+A Dynamic Clustering-Based Markov Model for Web Usage Mining
+Search Using N-gram Technique Based Statistical Analysis for Knowledge Extraction in Case Based Reasoning Systems
+A Framework for High-Accuracy Privacy-Preserving Mining
+A measure of similarity between graph vertices
+Word Sense Disambiguation by Web Mining for Word Co-occurrence Probabilities
+Semantic Linking - a Context-Based Approach to Interactivity in Hypermedia
+Hypermedia Learning Objects System - On the Way to a Semantic Educational Web
+Educational Content Management - A Cellular Approach
+Analysis and Visualization of Index Words from Audio Transcripts of Instructional Videos
+Automated Pattern Detection--An Algorithm for Constructing Optimally Synchronizing Multi-Regular Language Filters
+Mathematical knowledge management is needed
+A knowledge-based approach to semi-automatic annotation of multimedia documents via user adaptation
+Semantic filtering by inference on domain knowledge in spoken dialogue systems
+An argumentative annotation schema for meeting discussions
+Automatic Keyword Extraction from Spoken Text. A Comparison of two Lexical Resources: the EDR and WordNet
+A Search Relevancy Tuning Method Using Expert Results Content Evaluation
+Building Chinese Lexicons from Scratch by Unsupervised Short Document Self-Segmentation
+Ranking Pages by Topology and Popularity within Web Sites
+Human-Level Performance on Word Analogy Questions by Latent Relational Analysis
+Combining Independent Modules in Lexical Multiple-Choice Problems
+Clustering SPIRES with EqRank
+Augmented Segmentation and Visualization for Presentation Videos
+Ontology-Based Users Requests Clustering in Customer Service Management System
+Log Analysis Case Study Using LoGS
+Top-Down Unsupervised Image Segmentation (it sounds like oxymoron but actually it is not)
+Earlier Web Usage Statistics as Predictors of Later Citation Impact
+Fast-Forward on the Green Road to Open Access: The Case Against Mixing Up Green and Gold
+An Introduction to the Summarization of Evolving Events: Linear and Non-linear Evolution
+Scientific impact quantity and quality: Analysis of two sources of bibliographic data
+Summarization from Medical Documents: A Survey
+Selection in Scale-Free Small World
+Metalinguistic Information Extraction for Terminology
+Universal Similarity
+Data Mining on Crash Simulation Data
+Methods for comparing rankings of search engine results
+Sub-Optimum Signal Linear Detector Using Wavelets and Support Vector Machines
+Upgrading Pulse Detection with Time Shift Properties Using Wavelets and Support Vector Machines
+Wavelet Time Shift Properties Integration with Support Vector Machines
+Treillis de concepts et ontologies pour l'interrogation d'un annuaire de sources de donn ' e es biologiques (BioRegistry)
+Analyse et expansion des textes en question-r ' e ponse
+Enriching a Text by Semantic Disambiguation for Information Extraction
+Dynamical Neural Network: Information and Topology
+Experiments in Clustering Homogeneous XML Documents to Validate an Existing Typology
+Users and Assessors in the Context of INEX: Are Relevance Dimensions Relevant?
+Hybrid XML Retrieval: Combining Information Retrieval and a Native XML Database
+Enhancing Content-And-Structure Information Retrieval using a Native XML Database
+Exp ' e riences de classification d'une collection de documents XML de structure homog e ne
+Measuring Semantic Similarity by Latent Relational Analysis
+Can Small Museums Develop Compelling Educational and Accessible Web Resources? The Case of Accademia Carrara
+Summarizing Reports on Evolving Events Part I: Linear Evolution
+Corpus-based Learning of Analogies and Semantic Relations
+Combining Structured Corporate Data and Document Content to Improve Expertise Finding
+Transitive Text Mining for Information Extraction and Hypothesis Generation
+Authoring case based training by document data extraction
+Folksonomy as a Complex Network
+Sur le statut r ' e f ' e rentiel des entit ' e s nomm ' e es
+Practical Semantic Analysis of Web Sites and Documents
+Hi ' e rarchisation des r e gles d'association en fouille de textes
+The Nature of Novelty Detection
+R ' e flexions sur la question fr ' e quentielle en traitement du signal
+Bibliographic Classification using the ADS Databases
+How to make the top ten: Approximating PageRank from in-degree
+Entangled messages
+A Software Framework for Vehicle-Infrastructure Cooperative Applications
+Analyzing and Visualizing the Semantic Coverage of Wikipedia and Its Authors
+PageRank without hyperlinks: Structural re-ranking using links induced by language models
+Better than the real thing? Iterative pseudo-query processing using cluster-based language models
+Automatic Detection of Trends in Dynamical Text: An Evolutionary Approach
+An O(1) Solution to the Prefix Sum Problem on a Specialized Memory Architecture
+Google Web APIs - an Instrument for Webometric Analyses?
+A Multi-Relational Network to Support the Scholarly Communication Process
+eJournal interface can influence usage statistics: implications for libraries publishers and Project COUNTER
+Similarity of Objects and the Meaning of Words
+Exploring term-document matrices from matrix models in text mining
+Does the arXiv lead to higher citations and reduced publisher downloads for mathematics articles?
+VXA: A Virtual Architecture for Durable Compressed Archives
+On Conditional Branches in Optimal Search Trees
+Collaborative thesaurus tagging the Wikipedia way
+Query Chains: Learning to Rank from Implicit Feedback
+Evaluating the Robustness of Learning from Implicit Feedback
+Minimally Invasive Randomization for Collecting Unbiased Preferences from Clickthrough Logs
+Comparison of the estimation of the degree of polarization from four or two intensity images degraded by speckle noise
+Synonym search in Wikipedia: Synarcher
+Iso000 Based Advanced Quality Approach for Continuous Improvement of Manufacturing Processes
+Evaluating Variable Length Markov Chain Models for Analysis of User Web Navigation Sessions
+Adapting a general parser to a sublanguage
+Lexical Adaptation of Link Grammar to the Biomedical Sublanguage: a Comparative Evaluation of Three Approaches
+Automatic forming lists of semantically related terms based on texts rating in the corpus with hyperlinks and categories (In Russian)
+A Flexible Structured-based Representation for XML Document Mining
+The uncovering of hidden structures by Latent Semantic Analysis
+Syst e me de repr ' e sentation d'aide au besoin dans le domaine architectural
+Expressing Implicit Semantic Relations without Supervision
+Separating the articles of authors with the same name
+Using Users' Expectations to Adapt Business Intelligence Systems
+Similarity of Semantic Relations
+In Quest of Image Semantics: Are We Looking for It Under the Right Lamppost?
+Multilingual person name recognition and transliteration
+Navigating multilingual news collections using automatically extracted information
+Automatic annotation of multilingual text collections with a conceptual thesaurus
+Automatic Identification of Document Translations in Large Multilingual Document Collections
+Cross-lingual keyword assignment
+Extending an Information Extraction tool set to Central and Eastern European languages
+Exploiting multilingual nomenclatures and language-independent text features as an interlingua for cross-lingual text analysis applications
+Geocoding multilingual texts: Recognition disambiguation and visualisation
+Building and displaying name relations using automatic unsupervised analysis of newspaper articles
+A tool set for the quick and efficient exploration of large document collections
+An application-oriented terminology evaluation: the case of back-of-the book indexes
+Using NLP to build the hypertextuel network of a back-of-the-book index
+Event-based Information Extraction for the biomedical domain: the Caderige project
+Ontologies and Information Extraction
+Creation and use of Citations in the ADS
+NectaRSS an RSS feed ranking system that implicitly learns user preferences
+The Application of Fuzzy Logic to the Construction of the Ranking Function of Information Retrieval Systems
+Context-sensitive access to e-document corpus
+Peano Count Trees (P-Trees) and Rule Association Mining for Gene Expression Profiling of Microarray Data
+On the Behavior of Journal Impact Factor Rank-Order Distribution
+Applying Part-of-Seech Enhanced LSA to Automatic Essay Grading
+Nonlinear Estimators and Tail Bounds for Dimension Reduction in l 1 Using Cauchy Random Projections
+Considering users' behaviours in improving the responses of an information base
+The effect of 'Open Access' upon citation impact: An analysis of ArXiv's Condensed Matter Section
+Low-rank matrix factorization with attributes
+A Novel Bayesian Classifier using Copula Functions
+About the Lifespan of Peer to Peer Networks
+Social Networks and Social Information Filtering on Digg
+Unifying Lexicons in view of a Phonological and Morphological Lexical DB
+Electronic Laboratory Notebook Assisting Reflectance Spectrometry in Legal Medicine
+A New Era in Citation and Bibliometric Analyses: Web of Science Scopus and Google Scholar
+Tagging Folksonomy Co - Renaissance of Manual Indexing?
+Citation Advantage For OA Self-Archiving Is Independent of Journal Impact Factor Article Age and Number of Co-Authors
+The Open Access Citation Advantage: Quality Advantage Or Quality Bias?
+Ontology from Local Hierarchical Structure in Text
+Plagiarism Detection in arXiv
+The Haar Wavelet Transform of a Dendrogram: Additional Notes
+Social Behaviours Applied to P2P Systems: An efficient Algorithm for Resource Organisation
+Wild Wild Wikis: A way forward
+AMIEDoT: An annotation model for document tracking and recommendation service
+AMIE: An annotation model for information research
+Efficient Searching and Retrieval of Documents in PROSA
+Exploiting social networks dynamics for P2P resource organisation
+Recommender System for Online Dating Service
+Copula Component Analysis
+A Note on Approximate Nearest Neighbor Methods
+Open Access Scientometrics and the UK Research Assessment Exercise
+Using Local Optimality Criteria for Efficient Information Retrieval with Redundant Information Filters
+Mutual Search
+Visualization of Retrieved Documents using a Presentation Server
+A Scrollbar-based Visualization for Document Navigation
+A Proposal for the Establishment of Review Boards - a flexible approach to the selection of academic knowledge
+Raising Reliability of Web Search Tool Research through Replication and Chaos Theory
+Representing Scholarly Claims in Internet Digital Libraries: A Knowledge Modelling Approach
+PIPE: Personalizing Recommendations via Partial Evaluation
+A Geometric Model for Information Retrieval Systems
+The Matrix-Forest Theorem and Measuring Relations in Small Social Groups
+In-Degree and PageRank of Web pages: Why do they follow similar power laws?
+Singular Values and Eigenvalues of Tensors: A Variational Approach
+Epistemic communities: description and hierarchic categorization
+Lattices for Dynamic Hierarchic Overlapping Categorization: the Case of Epistemic Communities
+Information filtering via Iterative Refinement
+Clustering fetal heart rate tracings by compression
+Quantum Pattern Recognition
+Dynamic User-Defined Similarity Searching in Semi-Structured Text Retrieval
+Collaborative product and process model: Multiple Viewpoints approach
+The Google Similarity Distance
+Inference and Evaluation of the Multinomial Mixture Model for Text Clustering
+Scatter Networks: A New Approach for Analyzing Information Scatter on the Web
+Delayed Correlations in Inter-Domain Network Traffic
+Practical Approach to Knowledge-based Question Answering with Natural Language Understanding and Advanced Reasoning
+An exploratory study of Google Scholar
+Space-time databases modeling global semantic networks
+Optimum Signal Linear Detector in the Discrete Wavelet Transform-Domain
+Text Compression and Superfast Searching
+Modeling Hypermedia-Based Communication
+Experimental Information and Statistical Modeling of Physical Laws
+Reconstruction of Protein-Protein Interaction Pathways by Mining Subject-Verb-Objects Intermediates
+Fast evaluation of union-intersection expressions
+On the complexity of nonnegative matrix factorization
+When are recommender systems useful?
+Performance Comparison of Persistence Frameworks
+Efficient Optimally Lazy Algorithms for Minimal-Interval Semantics
+Stanford Matrix Considered Harmful
+Using Synchronic and Diachronic Relations for Summarizing Multiple Documents Describing Evolving Events
+Integrating users' needs into multimedia information retrieval system
+Recommendation model based on opinion diffusion
+Empirical Evaluation of Four Tensor Decomposition Algorithms
+A Biologically Inspired Classifier
+Premi ere 'etape vers une navigation r 'ef 'erentielle par l'image pour l'assistance a la conception des ambiances lumineuses
+Use of Wikipedia Categories in Entity Ranking
+Entity Ranking in Wikipedia
+Iterative Filtering for a Dynamical Reputation System
+Contextual Information Retrieval based on Algorithmic Information Theory and Statistical Outlier Detection
+An efficient reduction of ranking to classification
+Maximizing PageRank via outlinks
+Simrank : Query rewriting through link analysis of the click graph
+CLAIRLIB Documentation v1.0
+Evaluation experiments on related terms search in Wikipedia: Information Content and Adapted HITS (In Russian)
+Spam: It's Not Just for Inboxes and Search Engines Making Hirsch h-index Robust to Scientospam
+Modeling Online Reviews with Multi-grain Topic Models
+Corpus sp 'ecialis 'e et ressource de sp 'ecialit 'e
+String algorithms and data structures
+Survey of Technologies for Web Application Development
+Balancing transparency efficiency and security in pervasive systems
+Encoding changing country codes for the Semantic Web with ISO 1 and SKOS
+Characterising through Erasing: A Theoretical Framework for Representing Documents Inspired by Quantum Theory
+Use of Rapid Probabilistic Argumentation for Ranking on Large Complex Networks
+Information Hiding Techniques: A Tutorial Review
+Mobile Agents for Content-Based WWW Distributed Image Retrieval
+Multi-dimensional sparse time series: feature extraction
+Website Optimization through Mining User Navigational Pattern
+Citation Counting Citation Ranking and h-Index of Human-Computer Interaction Researchers: A Comparison between Scopus and Web of Science
+Succinct Data Structures for Retrieval and Approximate Membership
+Parts-of-Speech Tagger Errors Do Not Necessarily Degrade Accuracy in Extracting Information from Biomedical Text
+Respect My Authority HITS Without Hyperlinks Utilizing Cluster-Based Language Models
+Constructions for Clumps Statistics
+Dependence Structure Estimation via Copula
+Information filtering based on wiki index database
+Nonnegative Matrix Factorization via Rank-One Downdate
+Semantic Analysis of Tag Similarity Measures in Collaborative Tagging Systems
+Modeling Loosely Annotated Images with Imagined Annotations
+Interroger un corpus par le sens
+Time Warp Edit Distance
+An Algorigtm for Singular Value Decomposition of Matrices in Blocks
+Cross-concordances: terminology mapping and its effectiveness for information retrieval
+Statistical keyword detection in literary corpora
+Quantitative Paradigm of Software Reliability as Content Relevance
+Unveiling the mystery of visual information processing in human brain
+Scientific Paper Summarization Using Citation Summary Networks
+Text Data Mining: Theory and Methods
+The rank convergence of HITS can be slow
+Approximating Document Frequency with Term Count Values
+Schroedinger-like PageRank equation and localization in the WWW
+Text Modeling using Unsupervised Topic Models and Concept Hierarchies
+I'm sorry to say but your understanding of image processing fundamentals is absolutely wrong
+Index wiki database: design and experiments
+A Uniform Approach to Analogies Synonyms Antonyms and Associations
+The Prolog Interface to the Unstructured Information Management Architecture
+A Simple Mechanism for Focused Web-harvesting
+Normalized Information Distance
+An Exploratory Study of Calendar Use
+Relevance Feedback in Conceptual Image Retrieval: A User Evaluation
+A Model of a Trust-based Recommendation System on a Social Network
+Evaluation of Authors and Journals
+Analyse spectrale des textes: d 'etection automatique des fronti eres de langue et de discours
+Soft Uncoupling of Markov Chains for Permeable Language Distinction: A New Algorithm
+Introduction to Searching with Regular Expressions
+Efficient Pattern Matching on Binary Strings
+A Simple Linear Ranking Algorithm Using Query Dependent Intercept Variables
+Quasi-metrics Similarities and Searches: aspects of geometry of protein datasets
+Predicting the popularity of online content
+Coo - A Content oning Engine for textual documents
+Query Refinement by Multi Word Term expansions and semantic synonymy
+Visualization of association graphs for assisting the interpretation of classifications
+Web Usage Analysis: New Science Indicators and Co-usage
+Adaptive Base Class Boost for Multi-class Classification
+Search Result Clustering via Randomized Partitioning of Query-Induced Subgraphs
+The Anatomy of Mitos Web Search Engine
+Comparing and Combining Methods for Automatic Query Expansion
+La fiabilit 'e des informations sur le web
+Managing conflicts between users in Wikipedia
+Analysis of Social Voting Patterns on Digg
+Interpr 'etation vague des contraintes structurelles pour la RI dans des corpus de documents XML - 'Evaluation d'une m 'ethode approch 'ee de RI structur 'ee
+Prospective Study for Semantic Inter-Media Fusion in Content-Based Medical Image Retrieval
+Emergent Community Structure in Social Tagging Systems
+Adaptive Spam Detection Inspired by a Cross-Regulation Model of Immune Dynamics: A Study of Concept Drift
+Uncovering protein interaction in abstracts and text using a novel linear model and word proximity networks
+Conceptual approach through an annotation process for the representation and the information contents enhancement in economic intelligence (EI)
+Emergence of Spontaneous Order Through Neighborhood Formation in Peer-to-Peer Recommender Systems
+Mining User Profiles to Support Structure and Explanation in Open Social Networking
+Time Warp Edit Distance with Stiffness Adjustment for Time Series Matching
+Hybrid Keyword Search Auctions
+Content-based and Algorithmic Classifications of Journals: Perspectives on the Dynamics of Scientific Communication and Indexer Effects
+Experience versus Talent Shapes the Structure of the Web
+Weighted Naive Bayes Model for Semi-Structured Document Categorization
+Effectively Searching Maps in Web Documents
+Du corpus au dictionnaire
+Everyone is a Curator: Human-Assisted Preservation for ORE Aggregations
+Embedding Data within Knowledge Spaces
+Topological Centrality and Its Applications
+BagPack: A general framework to represent semantic relations
+Algebraic operators for querying pattern bases
+The egalitarian effect of search engines
+Automatic Metadata Generation using Associative Networks
+Faceted Ranking of Egos in Collaborative Tagging Systems
+Measuring Independence of Datasets
+Leveraging Discarded Samples for Tighter Estimation of Multiple-Set Aggregates
+The Role of Tag Suggestions in Folksonomies
+To Click or not to Click? The Role of Contextualized and User-Centric Web Snippets
+BLOGRANK: Ranking Weblogs Based On Connectivity And Similarity Features
+Polylog space compression pushdown compression and Lempel-iv are incomparable
+Comparing Bibliometric Statistics Obtained from the Web of Science and Scopus
+On quantum statistics in data analysis
+Network as a computer: ranking paths to find flows
+Nonnegative approximations of nonnegative tensors
+Visual approach for data mining on medical information databases using Fastmap algorithm
+Approche conceptuelle par un processus d'annotation pour la repr 'esentation et la valorisation de contenus informationnels en intelligence 'economique (IE)
+Simplicial Databases
+Content-Based Sub-Image Retrieval with Relevance Feedback
+Mining Meaning from Wikipedia
+Personalised and Dynamic Trust in Social Networks
+Finding Community Structure Based on Subgraph Similarity
+Statistical Automatic Summarization in Organic Chemistry
+A Recommender System to Support the Scholarly Communication Process
+Identifying Influential Bloggers: Time Does Matter
+Macrodynamics of users' behavior in Information Retrieval
+Automatic Summarization System coupled with a Question-Answering System (QAAS)
+An Object-Oriented and Fast Lexicon for Semantic Generation
+Memento Ludi: Information Retrieval from a Game-Theoretic Perspective
+Normalized Web Distance and Word Similarity
+CoPhIR: a Test Collection for Content-Based Image Retrieval
+Exact Indexing for Massive Time Series Databases under Time Warping Distance
+Employing Wikipedia's Natural Intelligence For Cross Language Information Retrieval
+Poset representation and similarity comparisons os systems in IR
+Object-Relational Database Representations for Text Indexing
+How opinions are received by online communities: A case study on Amazon.com helpfulness votes
+A Quantum-based Model for Interactive Information Retrieval (extended version)
+Recommender Systems for the Conference Paper Assignment Problem
+Fuzzy Logic Based Method for Improving Text Summarization
+Effective Focused Crawling Based on Content and Link Structure Analysis
+Putting Recommendations on the Map -- Visualizing Clusters and Relations
+Solving non-uniqueness in agglomerative hierarchical clustering using multidendrograms
+Frozen Footprints
+Document Relevance Evaluation via Term Distribution Analysis Using Fourier Series Expansion
+A class of structured P2P systems supporting browsing
+Incorporating Integrity Constraints in Uncertain Databases
+Bayesian Query-Focused Summarization
+Benchmarking Declarative Approximate Selection Predicates
+Scalable Probabilistic Similarity Ranking in Uncertain Databases (Technical Report)
+Effective Personalized Recommendation in Collaborative Tagging Systems
+Investigating the Change of Web Pages' Titles Over Time
+Descent methods for Nonnegative Matrix Factorization
+Reverse method for labeling the information from semi-structured web pages
+Role of Weak Ties in Link Prediction of Complex Networks
+Efficient Web Log Mining using Doubly Linked Tree
+A preliminary XML-based search system for planetary data
+LinkedCT: A Linked Data Space for Clinical Trials
+Proceedings of 1st International Workshop on Collaborative Information Seeking
+Understanding Groups' Properties as a Means of Improving Collaborative Search Systems
+Towards a Model of Understanding Social Search
+Evaluating Collaborative Search Interfaces with Information Seeking Theory
+A Taxonomy of Collaboration in Online Information Seeking
+Toward Collaborative Information Seeking (CIS)
+Learning about Potential Users of Collaborative Information Retrieval Systems
+Evaluation of Coordination Techniques in Synchronous Collaborative Information Retrieval
+Collaborative Search Trails for Video Search
+The Medical Algorithms Project
+NLP-SIR: A Natural Language Approach for Spreadsheet Information Retrieval
+Wild Card Queries for Searching Resources on the Web
+Cognitive Dimensions Analysis of Interfaces for Information Seeking
+Maximizing profit using recommender systems
+Retrieval of Remote Sensing Images Using Colour and Texture Attribute
+Extraction d'entit 'es dans des collections 'evolutives
+Assessing scientific research performance and impact with single indices
+Delocalization transition for the Google matrix
+New Instability Results for High Dimensional Nearest Neighbor Search
+Collaborative filtering based on multi-channel diffusion
+On the Relationship between Trading Network and WWW Network: A Preferential Attachment Perspective
+Dynamic Multimedia Content Retrieval System in Distributed Environment
+A Method for Accelerating the HITS Algorithm
+Qunits: queried units in database search
+The Case for a Structured Approach to Managing Unstructured Data
+SocialScope: Enabling Information Discovery on Social Content Sites
+Weblog Clustering in Multilinear Algebra Perspective
+PrisCrawler: A Relevance Based Crawler for Automated Data Classification from Bulletin Board
+A baseline for content-based blog classification
+An Algorithm for Mining Multidimensional Fuzzy Association Rules
+Mining Frequent Itemsets from Secondary Memory
+Design of a Parallel and Distributed Web Search Engine
+CDN: Content Distribution Network
+Shuffling a Stacked Deck: The Case for Partially Randomized Ranking of Search Engine Results
+Combining Advanced Visualization and Automatized Reasoning for Webometrics: A Test Study
+Stochastic Models of User-Contributory Web Sites
+Personalized Recommendation via Integrated Diffusion on User-Item-Tag Tripartite Graphs
+Related terms search based on WordNet Wiktionary and its application in Ontology Matching
+Pavideoge: A Metadata Markup Video Structure in Video Search Engine
+Management Of Volatile Information In Incremental Web Crawler
+Information Retrieval via Truncated Hilbert-Space Expansions
+Generating Concise and Readable Summaries of XML Documents
+b-Bit Minwise Hashing
+Enrichissement des contenus par la r 'eindexation des usagers : un 'etat de l'art sur la probl 'ematique
+A theoretical foundation for building Knowledge-work Support Systems
+Data Mining in Astronomical Databases
+Novelty and Collective Attention
+An axiomatic approach to intrinsic dimension of a dataset
+Astroinformatics: A 21st Century Approach to Astronomy
+The Revolution in Astronomy Education: Data Science for the Masses
+Adaptive model for recommendation of news
+Metric and Kernel Learning using a Linear Transformation
+How to Compare the Scientific Contributions between Research Groups
+Building a Vietnamese Language Query Processing Framework for ELibrary Searching Systems
+Scientific Data Mining in Astronomy
+A Way to Understand Various Patterns of Data Mining Techniques for Selected Domains
+Enhanced Trustworthy and High-Quality Information Retrieval System for Web Search Engines
+Memento: Time Travel for the Web
+Retrieval of very large numbers of items in the Web of Science: an exercise to develop accurate search strategies
+Knowledge linkage structures in communication studies using citation analysis among communication journals
+On the Normalization and Visualization of Author Co-Citation Data Salton's Cosine versus the Jaccard Index
+Measuring contextual citation impact of scientific journals
+Re-Pair Compression of Inverted Lists
+Measuring the Meaning of Words in Contexts: An automated analysis of controversies about Monarch butterflies Frankenfoods and stem cells
+Can Scientific Journals be Classified in terms of Aggregated Journal-Journal Citation Relations using the Journal Citation Reports?
+Classification and Powerlaws: The Logarithmic Transformation
+Co-occurrence Matrices and their Applications in Information Science: Extending ACA to the Web Environment
+Multiple Presents: How Search Engines Re-write the Past
+Musical Genres: Beating to the Rhythms of Different Drums
+Making the road by searching - A search engine based on Swarm Information Foraging
+Folksonomic Tag Clouds as an Aid to Content Indexing
+Similarity Measures Author Cocitation Analysis and Information Theory
+An Indicator of Research Front Activity: Measuring Intellectual Organization as Uncertainty Reduction in Document Sets
+Adaptive information filtering for dynamic recommender systems
+Dictionary based methods for information extraction
+Artificial Sequences and Complexity Measures
+Event Indexing Systems for Efficient Selection and Analysis of HERA Data
+Mapping Subsets of Scholarly Information
+Mapping Topics and Topic Bursts in PNAS
+On the geometry of similarity search: dimensionality curse and concentration of measure
+A geometric framework for modelling similarity search
+A New Local Distance-Based Outlier Detection Approach for Scattered Real-World Data
+Collaborative filtering with diffusion-based similarity on tripartite graphs
+Integrating the Probabilistic Models BM2 BM2F into Lucene
+De la recherche sociale d'information a la recherche collaborative d'information
+On the issues of building Information Warehouses
+Search for overlapped communities by parallel genetic algorithms
+Performance analysis of Non Linear Filtering Algorithms for underwater images
+Web Document Analysis for Companies Listed in Bursa Malaysia
+The university-industry knowledge relationship: Analyzing patents and the science base of technologies
+Conception d'un outil d'aide a l'indexation de ressources p 'edagogiques - Extraction automatique des the?matiques et des mots-clefs de documents UNIT
+Context and Keyword Extraction in Plain Text Using a Graph Representation
+Using social annotation and web log to enhance search engine
+Document Searching System based on Natural Language Query Processing for Vietnam Open Courseware Library
+Rank Based Clustering For Document Retrieval From Biomedical Databases
+VirusPKT: A Search Tool For Assimilating Assorted Acquaintance For Viruses
+Science overlay maps: a new tool for research policy and library management
+Realization of Semantic Atom Blog
+Using Multipartite Graphs for Recommendation and Discovery
+From a Link Semantic to Semantic Links - Building Context in Educational Hypermedia
+On the Communication of Scientific Results: The Full-Metadata Format
+Tutoring System for Dance Learning
+Vandalism Detection in Wikipedia: a Bag-of-Words Classifier Approach
+Document Clustering with K-tree
+K-tree: Large Scale Document Clustering
+Redundancy in Systems which Entertain a Model of Themselves: Interaction Information and the Self-organization of Anticipation
+Distributed scientific communication in the European information society: Some cases of Mode 2 fields of research
+Assessing Cognitive Load on Web Search Tasks
+An Improved Image Mining Technique For Brain Tumour Classification Using Efficient Classifier
+Building reputation systems for better ranking
+An Improved Approach to High Level Privacy Preserving Itemset Mining
+On Utilization and Importance of Perl Status Reporter (SRr) in Text Mining
+Implicit media frames: Automated analysis of public debate on artificial sweeteners
+Mapping the Geography of Science: Distribution Patterns and Networks of Relations among Cities and Institutes
+Random Indexing K-tree
+Construction et enrichissement automatique d'ontologie a partir de ressources externes
+Recherche de relations spatio-temporelles : une m 'ethode bas 'ee sur l'analyse de corpus textuels
+Statistics for Ranking Program Committees and Editorial Boards
+Image Retrieval Techniques based on Image Features A State of Art approach for CBIR
+Using Statistical Moment Invariants and Entropy in Image Retrieval
+Using Web Page Titles to Rediscover Lost Web Pages
+Exploring a Multidimensional Representation of Documents and Queries (extended version)
+A Trustability Metric for Code Search based on Developer Karma
+Solving the apparent diversity-accuracy dilemma of recommender systems
+Google matrix dynamical attractors and Ulam networks
+Finding Significant Subregions in Large Image Databases
+The Universal Recommender
+Improving Term Extraction Using Particle Swarm Optimization Techniques
+A Hough Transform based Technique for Text Segmentation
+A student's guide to searching the literature using online databases
+Tag Clusters as Information Retrieval Interfaces
+From Frequency to Meaning: Vector Space Models of Semantics
+Formal Concept Analysis for Information Retrieval
+A Survey of Na ive Bayes Machine Learning approach in Text Document Classification
+An Analytical Approach to Document Clustering Based on Internal Criterion Function
+Revisiting the Examination Hypothesis with Query Specific Position Bias
+Classified Ads Harvesting Agent and Notification System
+Table manipulation in simplicial databases
+An Algorithm for Index Multimedia Data (Video) using the Movement Oriented Method for Real-time Online Services
+Topic Map: An Ontology Framework for Information Retrieval
+Towards Automated Lecture Capture Navigation and Delivery System for Web-Lecture on Demand
+An HTTP-Based Versioning Mechanism for Linked Data
+Computation of Reducts Using Topology and Measure of Significance of Attributes
+A Mathematical Approach to the Study of the United States Code
+Evaluation of Query Generators for Entity Search Engines
+Local Popularity based Page Link Analysis
+Towards physical laws for software architecture
+Remembering what we like: Toward an agent-based model of Web traffic
+Analysis of the Relationships among Longest Common Subsequences Shortest Common Supersequences and Patterns and its application on Pattern Discovery in Biological Sequences
+Evaluating Methods to Rediscover Missing Web Pages from the Web Infrastructure
+Ontology Based Query Expansion Using Word Sense Disambiguation
+Maximal Intersection Queries in Randomized Input Models
+A Survey on Preprocessing Methods for Web Usage Data
+An Analytical Study on Behavior of Clusters Using K Means EM and K Means Algorithm
+Document Clustering using Sequential Information Bottleneck Method
+Constraint-based Query Distribution Framework for an Integrated Global Schema
+What a Difference a Tag Cloud Makes: Effects of Tasks and Cognitive Abilities on Search Results Interface Use
+Is This a Good Title?
+A New Approach to Keyphrase Extraction Using Neural Networks
+Improving Update Summarization by Revisiting the MMR Criterion
+Learning Better Context Characterizations: An Intelligent Information Retrieval Approach
+Handling Overload Conditions In High Performance Trustworthy Information Retrieval Systems
+BiLingual Information Retrieval System for English and Tamil
+Audio enabled information extraction system for cricket and hockey domains
+Efficient and Effective Spam Filtering and Re-ranking for Large Web Datasets
+Self-Taught Hashing for Fast Similarity Search
+Relating Web pages to enable information-gathering tasks
+Google matrix and Ulam networks of intermittency maps
+Spectral properties of the Google matrix of the World Wide Web and other directed networks
+Node-Context Network Clustering using PARAFAC Tensor Decomposition
+Performance Oriented Query Processing In GEO Based Location Search Engines
+Distribution of Cognitive Load in Web Search
+Finding Your Literature Match -- A Recommender System
+The Role of Provenance Management in Accelerating the Rate of Astronomical Research
+Content Base Image Retrieval Using Phong Shading
+Clustering Time Series Data Stream - A Literature Survey
+Pipeline-Centric Provenance Model
+The Extended Edit Distance Metric
+On the Fly Query Entity Decomposition Using Snippets
+Chi-square-based scoring function for categorization of MEDLINE citations
+Power law in website ratings
+Similarity Search and Locality Sensitive Hashing using TCAMs
+Few Algorithms for ascertaining merit of a document and their applications
+Studies on Relevance Ranking and Results Display
+Approaches Challenges and Future Direction of Image Retrieval
+Large scale link based latent Dirichlet allocation for web document classification
+The comparison of Wiktionary thesauri transformed into the machine-readable format
+Capacity Planning for Vertical Search Engines
+Solving k -Nearest Neighbor Problem on Multiple Graphics Processors
+A Restful Approach for Managing Citizen profiles Using A Semantic Support
+An Algorithm to Self-Extract Secondary Keywords and Their Combinations Based on Abstracts Collected using Primary Keywords from Online Digital Libraries
+Fast and accurate annotation of short texts with Wikipedia pages
+Intelligent data analysis based on the complex network theory methods: a case study
+Publishing and Discovery of Mobile Web Services in Peer to Peer Networks
+Link Graph Analysis for Adult Images Classification
+Clustering Unstructured Data (Flat Files) - An Implementation in Text Mining Tool
+Detecting influenza outbreaks by analyzing Twitter messages
+Comparison Of Modified Dual Ternary Indexing And Multi-Key Hashing Algorithms For Music Information Retrieval
+PageRank: Standing on the shoulders of giants
+An Optimal Trade-off between Content Freshness and Refresh Cost
+Cross-Lingual Adaptation using Structural Correspondence Learning
+The Emerging Scholarly Brain
+Improved Fast Similarity Search in Dictionaries
+Designing a Dynamic Components and Agent based Approach for Semantic Information Retrieval
+Towards Design and Implementation of a Language Technology based Information Processor for PDM Systems
+Modeling Spammer Behavior: Na ive Bayes vs. Artificial Neural Networks
+Machine Science in Biomedicine: Practicalities Pitfalls and Potential
+Machine Learning Approaches for Modeling Spammer Behavior
+Mod 'elisation d'une analyse pragma-linguistique d'un forum de discussion
+An Architecture of Active Learning SVMs with Relevance Feedback for Classifying E-mail
+Approximate Top-k Retrieval from Hidden Relations
+Highly accurate recommendation algorithm based on high-order similarities
+Community detection in graphs
+Effect of user tastes on personalized recommendation
+Degree correlation effect of bipartite network on personalized recommendation
+The effect of discrete vs. continuous-valued ratings on reputation and ranking systems
+Learning to Blend by Relevance
+Characterizing the community structure of complex networks
+Fast Incremental and Personalized PageRank
+A high speed unsupervised speaker retrieval using vector quantization and second-order statistics
+Lexical Co-occurrence Statistical Significance and Word Association
+Automatic Recommendation for Online Users Using Web Usage Mining
+A hybrid learning algorithm for text classification
+Text Classification using the Concept of Association Rule of Data Mining
+Text Classification using Artificial Intelligence
+Text Classification using Association Rule with a Hybrid Concept of Naive Bayes Classifier and Genetic Algorithm
+An Efficient Technique for Text Compression
+Text Classification using Data Mining
+Web Page Categorization Using Artificial Neural Networks
+Text Categorization using Association Rule and Naive Bayes Classifier
+Demonstrating a Service-Enhanced Retrieval System
+Establishing a Multi-Thesauri-Scenario based on SKOS and Cross-Concordances
+Extraction de termes reconnaissance et labellisation de relations dans un th 'esaurus
+On building minimal automaton for subset matching queries
+M ' e todos para la Selecci ' o n y el Ajuste de Caracter ' i sticas en el Problema de la Detecci ' o n de Spam
+Top-K Color Queries for Document Retrieval
+Probabilistic Models over Ordered Partitions with Application in Learning to Rank
+Profile Based Sub-Image Search in Image Databases
+Implications of Inter-Rater Agreement on a Student Information Retrieval Evaluation
+Weighted Indices for Evaluating the Quality of Research with Multiple Authorship
+Using Context Dependent Semantic Similarity to Browse Information Resources: an Application for the Industrial Design
+Enabling Data Discovery through Virtual Internet Repositories
+Time-aware Collaborative Filtering with the Piecewise Decay Function
+A derivational rephrasing experiment for question answering
+Two-dimensional ranking of Wikipedia articles
+GraphDuplex: visualisation simultan 'ee de N r 'eseaux coupl 'es 2 par 2
+Semantic Query Optimisation with Ontology Simulation
+A New Email Retrieval Ranking Approach
+A New Email Retrieval Ranking Approach
+A Very Fast Algorithm for Matrix Factorization
+Transformation of Wiktionary entry structure into tables and relations in a relational database schema
+Integration of Agile Ontology Mapping towards NLP Search in I-SOAS
+New Algorithms on Wavelet Trees and Applications to Information Retrieval
+Optimizing On-Line Advertising
+A Survey Paper on Recommender Systems
+Cross-Community Dynamics in Science: How Information Retrieval Affects Semantic Web and Vice Versa
+Quantifying and qualifying trust: Spectral decomposition of trust networks
+Automated Query Learning with Wikipedia and Genetic Programming
+Semantic Content Filtering with Wikipedia and Ontologies
+Building conceptual spaces for exploring and linking biomedical resources
+User Centered and Ontology Based Information Retrieval System for Life Sciences
+A Concept Annotation System for Clinical Records
+SPARQL Assist Language-Neutral Query Composer
+Collaborative Knowledge Creation and Management in Information Retrieval
+Rules of Thumb for Information Acquisition from Large and Redundant Data
+Element Retrieval using Namespace Based on keyword search over XML Documents
+Semantic Web: Who is who in the field - A bibliometric analysis
+Chem2Bio2RDF: A Linked Open Data Portal for Chemical Biology
+Upper Tag Ontology (UTO) For Integrating Social Tagging Data
+Texture feature extraction in the spatial-frequency domain for content-based image retrieval
+Ontology-based Queries over Cancer Data
+Scientific citations in Wikipedia
+Advancements in scientific data searching sharing and retrieval
+Universal patterns in sound amplitudes of songs and music genres
+Link Spam Detection based on DBSpamClust with Fuzzy C-means Clustering
+Information Retrieval of Jumbled Words
+A Science Model Driven Retrieval Prototype
+Applying Science Models for Search
+Subjective Collaborative Filtering
+Resequencing: A Method for Conforming to Conventions for Sharing Credits Among Multiple Authors
+Collaborative Filtering without Explicit Feedbacks for Digital Recorders
+Introduction to the Bag of Features Paradigm for Image Classification and Retrieval
+Behavioral On-Line Advertising
+Mapping the evolution of scientific fields
+SmartInt: Using Mined Attribute Dependencies to Integrate Fragmented Web Databases
+A New Semantic Web Approach for Constructing Searching and Modifying Ontology Dynamically
+Information theory of massively parallel probe storage channels
+Architecture of A Scalable Dynamic Parallel WebCrawler with High Speed Downloadable Capability for a Web Search Engine
+A Syntactic Classification based Web Page Ranking Algorithm
+A Domain Specific Ontology Based Semantic Web Search Engine
+Analyzing the Impact of Visitors on Page Views with Google Analytics
+An Evaluation of Link Neighborhood Lexical Signatures to Rediscover Missing Web Pages
+Treelicious: a System for Semantically Navigating Tagged Web Pages
+Introducing a New Mechanism for Construction of an Efficient Search Model
+Proposing LT based Search in PDM Systems for Better Information Retrieval
+Chernoff information of exponential families
+Usage Bibliometrics
+Efficient Error-Correcting Geocoding
+Searching in one billion vectors: re-rank with source coding
+Probability Based Clustering for Document and User Properties
+Treatment of Semantic Heterogeneity in Information Retrieval
+Local Optimality of User Choices and Collaborative Competitive Filtering
+Wikipedia information flow analysis reveals the scale-free architecture of the Semantic Space
+Improving Image Search based on User Created Communities
+Named Entity Recognition Using Web Document Corpus
+Autotagging music with conditional restricted Boltzmann machines
+Predicting User Preferences
+A new ANEW: Evaluation of a word list for sentiment analysis in microblogs
+Incremental dimension reduction of tensors with random index
+Refining Recency Search Results with User Click Feedback
+User Modeling Combining Access Logs Page Content and Semantics
+An Empirical Study of Real-World SPARQL Queries
+Mining User Comment Activity for Detecting Forum Spammers in YouTube
+Authentication and Authorization in Server Systems for Bio-Informatics
+Dynamics underlying Box-office: Movie Competition on Recommender Systems
+Information filtering in complex weighted networks
+A Linear Classifier Based on Entity Recognition Tools and a Statistical Approach to Method Extraction in the Protein-Protein Interaction Literature
+From Linked Data to Relevant Data -- Time is the Essence
+U-Sem: Semantic Enrichment User Modeling and Mining of Usage Data on the Social Web
+Towards an automated query modification assistant
+Improved FCM algorithm for Clustering on Web Usage Mining
+Space and Time as a Primary Classification Criterion for Information Retrieval in Distributed Social Networking
+Multi-representation d'une ontologie : OWL bases de donnees syst emes de types et d'objets
+I O-Efficient Data Structures for Colored Range and Prefix Reporting
+Query Expansion Based on Clustered Results
+Fixed Block Compression Boosting in FM-Indexes
+Fast redshift clustering with the Baire (ultra) metric
+A Data Mining view on Class Room Teaching Language
+Bayesian approach for near-duplicate image detection
+Privacy in Search Logs
+Finding statistically significant communities in networks
+A robust ranking algorithm to spamming
+Methods of Hierarchical Clustering
+Uncovering the Temporal Dynamics of Diffusion Networks
+Comparison Latent Semantic and WordNet Approach for Semantic Similarity Calculation
+Science Models as Value-Added Services for Scholarly Information Systems
+Compressed k2-Triples for Full-In-Memory RDF Engines
+Efficient Diversification of Web Search Results
+GutenTag: A Multi-Term Caching Optimized Tag Query Processor for Key-Value Based NoSQL Storage Systems
+Exploiting Conceptual Knowledge for Querying Information Systems
+Search for Hidden Knowledge in Collective Intelligence dealing Indeterminacy Ontology of Folksonomy with Linguistic Pragmatics and Quantum Logic
+Clustering and Classification in Text Collections Using Graph Modularity
+Need to categorize: A comparative look at the categories of the Universal Decimal Classification system (UDC) and Wikipedia
+Recommender Systems by means of Information Retrieval
+Probability Bracket Notation Term Vector Space Concept Fock Space and Induced Probabilistic IR Models
+Using Context to Improve the Evaluation of Information Retrieval Systems
+Using Lotkaian Informetrics for Ranking in Digital Libraries
+Technical Paper Recommendation: A Study in Combining Multiple Information Sources
+A Novel Combined Term Suggestion Service for Domain-Specific Digital Libraries
+Ranking via Sinkhorn Propagation
+PRESY: A Context Based Query Reformulation Tool for Information Retrieval on the Web
+Semantic Inference using Chemogenomics Data for Drug Discovery
+Personalised Travel Recommendation based on Location Co-occurrence
+Opportunistic Content Search of Smartphone Photos
+The Haar Wavelet Transform of a Dendrogram
+Dirac Notation Fock Space and Riemann Metric Tensor in Information Retrieval Models
+Hypergraph model of social tagging networks
+Statistical Physics for Natural Language Processing
+Concrete Sentence Spaces for Compositional Distributional Models of Meaning
+Information filtering via preferential diffusion
+Leaders in Social Networks the Delicious Case
+A Personalized System for Conversational Recommendations
+Characteristic Characteristics
+Informledge System: A Modified Knowledge Network with Autonomous Nodes using Multi-lateral Links
+On the Weakenesses of Correlation Measures used for Search Engines' Results (Unsupervised Comparison of Search Engine Rankings)
+Proposed Quality Evaluation Framework to Incorporate Quality Aspects in Web Warehouse Creation
+Real-time retrieval for case-based reasoning in interactive multiagent-based simulations
+Object Oriented Information Computing over WWW
+On the Impact of Random Index-Partitioning on Index Compression
+Collective Classification of Textual Documents by Guided Self-Organization in T-Cell Cross-Regulation Dynamics
+A Linear-Time Approximation of the Earth Mover's Distance
+A Unified Relevance Retrieval Model by Eliteness Hypothesis
+Typesafe Modeling in Text Mining
+Accurate Estimators for Improving Minwise Hashing and b-Bit Minwise Hashing
+An index for regular expression queries: Design and implementation
+Factorization-based Lossless Compression of Inverted Indices
+A Knowledge Mining Model for Ranking Institutions using Rough Computing with Ordering Rules and Formal Concept analysis
+Efficient Query Rewrite for Structured Web Queries
+Structured Learning of Two-Level Dynamic Rankings
+A Machine Learning Perspective on Predictive Coding with PAQ
+Scalable Continual Top-k Keyword Search in Relational Databases
+Supervised Rank Aggregation for Predicting Influence in Networks
+Personalized Web Services for Web Information Extraction
+Improving Ranking Using Quantum Probability
+Getting Beyond the State of the Art of Information Retrieval with Quantum Theory
+Web Pages Clustering: A New Approach
+Probability Ranking in Vector Spaces
+Improving Entity Resolution with Global Constraints
+Human activity as the decision-based queueing process: statistical data analysis of waiting times in scientific journals
+Efficient Continual Top- k Keyword Search in Relational Databases
+A Paradoxical Property of the Monkey Book
+Decision Support for e-Governance: A Text Mining Approach
+Discovering the Impact of Knowledge in Recommender Systems: A Comparative Study
+Meta-song evaluation for chord recognition
+Orthogonal Query Expansion
+Exploring Social Influence for Recommendation - A Probabilistic Generative Model Approach
+Ranking of Wikipedia articles in search engines revisited: Fair ranking for reasonable quality?
+C-Rank: A Link-based Similarity Measure for Scientific Literature Databases
+A Framework for Business Intelligence Application using Ontological Classification
+An Extension of Semantic Proximity for Fuzzy Multivalued Dependencies in Fuzzy Relational Database
+Efficient Personalized Web Mining: Utilizing The Most Utilized Data
+Effective Personalized Web Mining by Utilizing The Most Utilized Data
+Visualizing Domain Ontology using Enhanced Anaphora Resolution Algorithm
+Folksodriven Structure Network
+Offering A Product Recommendation System in E-commerce
+A New Approach to Design Graph Based Search Engine for Multiple Domains Using Different Ontologies
+Higher-Order Markov Tag-Topic Models for Tagged Documents and Images
+User-level sentiment analysis incorporating social networks
+A Framework for Prefetching Relevant Web Pages using Predictive Prefetching Engine (PPE)
+The Pollution Effect: Optimizing Keyword Auctions by Favoring Relevant Advertising
+Fast In-Memory XPath Search over Compressed Text and Tree Indexes
+How to build a DNA search engine like Google?
+Binary Particle Swarm Optimization based Biclustering of Web usage Data
+Multilingual ontology matching based on Wiktionary data accessible via SPARQL endpoint
+A Fuzzy Co-Clustering approach for Clickstream Data Pattern
+Repr 'esentation de donn 'ees et m 'etadonn 'ees dans une biblioth eque virtuelle pour une ad 'equation avec l'usager et les outils de glanage ou moissonnage scientifique
+Hierarchical Composable Optimization of Web Pages
+A Survey of Distributed Data Aggregation Algorithms
+Modeling Perceived Relevance for Tail Queries without Click-Through Data
+Issues Challenges and Tools of Clustering Algorithms
+Towards cross-lingual alerting for bursty epidemic events
+OMG U got flu? Analysis of shared health messages for bio-surveillance
+What's unusual in online disease outbreak news?
+Syndromic classification of Twitter messages
+Anti-sparse coding for approximate nearest neighbor search
+How to Evaluate Dimensionality Reduction? - Improving the Co-ranking Matrix
+Analyzing Answers in Threaded Discussions using a Role-Based Information Network
+Leveraging User Diversity to Harvest Knowledge on the Social Web
+Annotation of Scientific Summaries for Information Retrieval
+A Wikipedia Literature Review
+Characterising Web Site Link Structure
+Content Reuse and Interest Sharing in Tagging Communities
+Agents Bookmarks and Clicks: A topical model of Web traffic
+Universal Emergence of PageRank
+Click Efficiency: A Unified Optimal Ranking for Online Ads and Documents
+Towards Intelligent Compression in Streams: A Biased Reservoir Sampling based Bloom Filter Approach
+Securing Biometric Images using Reversible Watermarking
+Semantic Grounding Strategies for Tagbased Recommender Systems
+Sentiment Analysis of Document Based on Annotation
+Using Contextual Information as Virtual Items on Top-N Recommender Systems
+AstroDAbis: Annotations and Cross-Matches for Remote Catalogues
+XML Information Retrieval Systems: A Survey
+D Model Retrieval Based on Semantic and Shape Indexes
+A Markov Random Field Topic Space Model for Document Retrieval
+Complex Random Vectors and ICA Models: Identifiability Uniqueness and Separability
+Reconstructing Websites for the Lazy Webmaster
+Empirical analysis of web-based user-object bipartite networks
+Google matrix of business process management
+Sparse Transfer Learning for Interactive Video Search Reranking
+Feature-Based Matrix Factorization
+A Framework for Picture Extraction on Search Engine Improved and Meaningful Result
+Document Classification Using Expectation Maximization with Semi Supervised Learning
+Learning Context for Text Categorization
+Thematic Analysis and Visualization of Textual Corpus
+Recommendation systems: a joint analysis of technical aspects with marketing implications
+Information Filtering via Implicit Trust-based Network
+Information filtering via biased heat conduction
+Social Capital and Individual Performance: A Study of Academic Collaboration
+Cluster Analysis for a Scale-Free Folksodriven Structure Network
+2P-Med: Building a Personalization Platform for Mediation Systems
+Document Clustering based on Topic Maps
+The Accelerating Growth of Online Tagging Systems
+Information Storage and Retrieval for Probe Storage using Optical Diffraction Patterns
+Heterogeneity and Allometric Growth of Human Collaborative Tagging Behavior
+Probabilistic Management of OCR Data using an RDBMS
+Relative Lempel-iv Factorization for Efficient Storage and Retrieval of Web Collections
+A comparison of two suffix tree-based document clustering algorithms
+Spam filtering by quantitative profiles
+Overview of EIREX 2010: Computing
+Pbm: A new dataset for blog mining
+Sentence based semantic similarity measure for blog-posts
+Bengali text summarization by sentence extraction
+Relationships in Large-Scale Graph Computing
+Query sensitive comparative summarization of search results using concept based segmentation
+Integrating Interactive Visualizations in the Search Process of Digital Libraries and IR Systems
+Mining Educational Data to Analyze Students' Performance
+Data Mining: A prediction for performance improvement using classification
+Elasticity on Ontology Matching of Folksodriven Structure Network
+Collaborative Personalized Web Recommender System using Entropy based Similarity Measure
+Conception and Use of Ontologies for Indexing and Searching by Semantic Contents of Video Courses
+Data Mining as a Torch Bearer in Education Sector
+Solving the accuracy-diversity dilemma via directed random walks
+Intelligent Self-Repairable Web Wrappers
+Improving Recommendation Quality by Merging Collaborative Filtering and Social Relationships
+OntologyNavigator: WEB 2.0 scalable ontology based CLIR portal to IT scientific corpus for researchers
+A model of Cross Language Retrieval for IT domain papers through a map of ACM Computing Classification System
+Design and Implementation of a Simple Web Search Engine
+Open Data: Reverse Engineering and Maintenance Perspective
+A Proposed Architecture for Continuous Web Monitoring Through Online Crawling of Blogs
+Semantic Visualization and Navigation in Textual Corpus
+A personalized web page content filtering model based on segmentation
+Museum: Multidimensional web page segment evaluation model
+An evaluation of local shape descriptors for D shape retrieval
+Statistical reliability and path diversity based PageRank algorithm improvements
+Semantic snippet construction for search engine results based on segment evaluation
+Live-marker: A personalized web page content marking tool
+Segmentation Based Approach to Dynamic Page Construction from Search Engine Results
+We.I.Pe: Web Identification of People using e-mail ID
+Query Matrices for Retrieving Binary Vectors Based on the Hamming Distance Oracle
+The Future of Search and Discovery in Big Data Analytics: Ultrametric Information Spaces
+A Framework for Optimizing Paper Matching
+Multidimensional counting grids: Inferring word order from disordered bags of words
+Comparing SVM and Naive Bayes classifiers for text categorization with Wikitology as knowledge enrichment
+Data Mining Applications: A comparative Study for Predicting Student's performance
+Enhancing Navigation on Wikipedia with Social Tags
+Analyzing Tag Distributions in Folksonomies for Resource Classification
+Tag-Aware Recommender Systems: A State-of-the-art Survey
+Maximum Inner-Product Search using Tree Data-structures
+Optimized on-line computation of PageRank algorithm
+A Contextual-Bandit Approach to Personalized News Article Recommendation
+Data Mining : A prediction of performer or underperformer using classification
+Text Classification: A Sequential Reading Approach
+Statistical Laws Governing Fluctuations in Word Use from Word Birth to Word Death
+Bayesian Locality Sensitive Hashing for Fast Similarity Search
+A Model for Web Page Usage Mining Based on Segmentation
+Improving News Ranking by Community Tweets
+Faceted Semantic Search for Personalized Social Search
+A Personalized Tag-Based Recommendation in Social Web Systems
+Multi-Level Feature Descriptor for Robust Texture Classification via Locality-Constrained Collaborative Strategy
+Overview of EIREX 2011: Crowdsourcing
+PageRank optimization applied to spam detection
+Using Hausdorff Distance for New Medical Image Annotation
+Overview of streaming-data algorithms
+A new supervised non-linear mapping
+When Index Term Probability Violates the Classical Probability Axioms Quantum Probability can be a Necessary Theory for Information Retrieval
+Timeline: A Dynamic Hierarchical Dirichlet Process Model for Recovering Birth Death and Evolution of Topics in Text Stream
+Multi-Domain Collaborative Filtering
+Building MultiView Analyst Profile From Multidimensional Query Logs: From Consensual to Conflicting Preferences
+The Abzooba Smart Health Informatics Platform (SHIP) TM - From Patient Experiences to Big Data to Insights
+Can an Ad-hoc ontology Beat a Medical Search Engine? The Chronious Search Engine case
+A Data Driven Approach to Query Expansion in Question Answering
+Semi-Automatically Extracting FAQs to Improve Accessibility of Software Development Knowledge
+Improving an Hybrid Literary Book Recommendation System through Author Ranking
+Incremental Collaborative Filtering Considering Temporal Effects
+Consensus clustering in complex networks
+Dynamic PageRank using Evolving Teleportation
+Intelligent Interface Architectures for Folksonomy Driven Structure Network
+Characterization and exploitation of community structure in cover song networks
+Automated Text Summarization Base on Lexicales Chain and graph Using of WordNet and Wikipedia Knowledge Base
+Information Retrieval Systems Adapted to the Biomedical Domain
+Ranking Tweets Considering Trust and Relevance
+Hybrid Information Retrieval Model For Web Images
+Semantic-Sensitive Web Information Retrieval Model for HTML Documents
+OCR Context-Sensitive Error Correction Based on Google Web 1T -Gram Data Set
+Keyphrase Extraction : Enhancing Lists
+A Model for Personalized Keyword Extraction from Web Pages using Segmentation
+Performance of the Google Desktop Arabic Google Desktop and Peer to Peer Application in Arabic Language
+Query Language for Complex Similarity Queries
+An Effective Information Retrieval for Ambiguous Query
+Extracting Geospatial Preferences Using Relational Neighbors
+Discrimination between Arabic and Latin from bilingual documents
+New approach using Bayesian Network to improve content based image classification systems
+Mathematical Modeling of Competitive Group Recommendation Systems with Application to Peer Review Systems
+User-based key frame detection in social web video
+Social Recommender Systems Based on Coupling Network Structure Analysis
+Learning Topic Models - Going beyond SVD
+A technical study and analysis on fuzzy similarity based models for text classification
+A Fuzzy Similarity Based Concept Mining Model for Text Classification
+A Theoretical and Empirical Evaluation of Software Component Search Engines Semantic Search Engines and Google Search Engine in the Context of COTS-Based Development
+Investigating Keyphrase Indexing with Text Denoising
+Development of a Conceptual Structure for a Domain-Specific Corpus
+Learning to Rank Query Recommendations by Semantic Similarities
+Enabling Semantic Analysis of User Browsing Patterns in the Web of Data
+Collaboratively Patching Linked Data
+Leveraging Usage Data for Linked Data Movie Entity Summarization
+Cloudpress 2.0: A MapReduce Approach for News Retrieval on the Cloud
+Bayesian Data Cleaning for Web Data
+Towards Real-Time Summarization of Scheduled Events from Twitter Streams
+TopSig: Topology Preserving Document Signatures
+Loading Arbitrary Knowledge Bases in Matrix Browser
+B-Rank: A top N Recommendation Algorithm
+MIREX: MapReduce Information Retrieval Experiments
+A database approach to information retrieval: The remarkable relationship between language models and region models
+Finding missing edges in networks based on their community structure
+Positive words carry less information than negative words
+Recommender systems in industrial contexts
+Concept Modeling with Superwords
+Efficient Video Indexing on the Web: A System that Leverages User Interactions with a Video Player
+A Corpus-based Evaluation of Lexical Components of a Domainspecific Text to Knowledge Mapping Prototype
+Harnessing Folksonomies for Resource Classification
+A Singly-Exponential Time Algorithm for Computing Nonnegative Rank
+Least Information Modeling for Information Retrieval
+Multi-Faceted Ranking of News Articles using Post-Read Actions
+VIQI: A New Approach for Visual Interpretation of Deep Web Query Interfaces
+ViQIE: A New Approach for Visual Query Interpretation and Extraction
+Recommendation on Academic Networks using Direction Aware Citation Analysis
+Crossover phenomenon in the performance of an Internet search engine
+Indexing of Arabic documents automatically based on lexical analysis
+Document summarization using positive pointwise mutual information
+Spectral Analysis of Projection Histogram for Enhancing Close matching character Recognition in Malayalam
+A Common Evaluation Setting for Just.Ask Open Ephyra and Aranea QA systems
+Linking Social Networking Sites to Scholarly Information Portals by ScholarLib
+Ordinal Boltzmann Machines for Collaborative Filtering
+BPR: Bayesian Personalized Ranking from Implicit Feedback
+Multilingual Topic Models for Unaligned Text
+Effective performance of information retrieval on web by using web crawling
+Density Sensitive Hashing
+b-Bit Minwise Hashing in Practice: Large-Scale Batch and Online Learning and Using GPUs for Fast Preprocessing with Simple Hash Functions
+The model of information retrieval based on the theory of hypercomplex numerical systems
+A Comparative Study of Collaborative Filtering Algorithms
+Extraction of Historical Events from Wikipedia
+Quantum contextuality in classical information retrieval
+Conversion database of the shapes into XML data for shape matching
+Effective Listings of Function Stop words for Twitter
+Towards two-dimensional search engines
+Online Structured Prediction via Coactive Learning
+A Theory of Information Matching
+A Study of Churn in Tweets and Real-Time Search Queries (Extended Version)
+The Use of Self Organizing Map Method and Feature Selection in Image Database Classification System
+A Route Confidence Evaluation Method for Reliable Hierarchical Text Categorization
+A Fuzzy Approach for Pertinent Information Extraction from Web Resources
+Possibilistic Pertinence Feedback and Semantic Networks for Goal's Extraction
+Pertinent Information retrieval based on Possibilistic Bayesian network : origin and possibilistic perspective
+Loopy Belief Propagation in Bayesian Networks : origin and possibilistic perspectives
+A Machine Learning Approach For Opinion Holder Extraction In Arabic Language
+Memory-Efficient Topic Modeling
+Finding Quality Issues in SKOS Vocabularies
+Objects and Goals Extraction from Semantic Networks : Applications of Fuzzy SetS Theory
+Measure of Similarity between Fuzzy Concepts for Optimization of Fuzzy Semantic Nets
+Optimization of Fuzzy Semantic Networks Based on Galois Lattice and Bayesian Formalism
+Temporal expression normalisation in natural language texts
+Search Strategies of Library Search Experts
+Architecture for Automated Tagging and Clustering of Song Files According to Mood
+Generic Subsequence Matching Framework: Modularity Flexibility Efficiency
+Ordinary Search Engine Users assessing Difficulty Effort and Outcome for Simple and Complex Search Tasks
+Mining Educational Data Using Classification to Decrease Dropout Rate of Students
+Latent Topic Models for Hypertext
+Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression
+Continuous Time Dynamic Topic Models
+A two-step Recommendation Algorithm via Iterative Local Least Squares
+Information Retrieval in Intelligent Systems: Current Scenario Issues
+ConeRANK: Ranking as Learning Generalized Inequalities
+Quasi-Succinct Indices
+Latent Collaborative Retrieval
+A Graphical Model Formulation of Collaborative Filtering Neighbourhood Methods with Fast Maximum Entropy Training
+Active Learning for Matching Problems
+Collaborative Topic Regression with Social Matrix Factorization for Recommendation Systems
+Better Than Their Reputation? On the Reliability of Relevance Assessments with Students
+Multilingual Medical Documents Classification Based on MesH Domain Ontology
+A Pointillism Approach for Natural Language Processing of Social Media
+Statistical Translation Heat Kernels and Expected Distances
+Collaborative Filtering and the Missing at Random Assumption
+Nonparametric Bayes Pachinko Allocation
+A Survey on Web Service Discovery Approaches
+Web-page Prediction for Domain Specific Web-search using Boolean Bit Mask
+A New Scale for Attribute Dependency in Large Database Systems
+The relation between Pearson's correlation coefficient r and Salton's cosine measure
+Promotional effect on cold start problem and diversity in a data characteristic based recommendation method
+Measuring the evolution of contemporary western popular music
+Ordinary Search Engine Users Carrying Out Complex Search Tasks
+Internet Advertising: An Interplay among Advertisers Online Publishers Ad Exchanges and Web Users
+Unachievable Region in Precision-Recall Space and Its Effect on Empirical Evaluation
+On the Difficulty of Nearest Neighbor Search
+A Topic Model for Melodic Sequences
+Cross Language Text Classification via Subspace Co-Regularized Multi-View Learning
+Sequential Document Representations and Simplicial Curves
+A Hybrid Method for Distance Metric Learning
+Medical Documents Classification Based on the Domain Ontology MeSH
+Relational Data Mining Through Extraction of Representative Exemplars
+Two-Way Latent Grouping Model for User Preference Prediction
+Finding Structure in Text Genome and Other Symbolic Sequences
+Effective Enabling of Sharing and Reuse of Knowledge On Semantic Web by Ontology in Date Fruit Model
+Privacy Preserving MFI Based Similarity Measure For Hierarchical Document Clustering
+Information Retrieval Model: A Social Network Extraction Perspective
+Identify Web-page Content meaning using Knowledge based System for Dual Meaning Words
+A Bayesian Approach toward Active Learning for Collaborative Filtering
+Maximum Entropy for Collaborative Filtering
+An Integrated Conditional Model of Information Extraction and Coreference with Applications to Citation Matching
+The Author-Topic Model for Authors and Documents
+A Hierarchical Graphical Model for Record Linkage
+Content Based Multimedia Information Retrieval to Support Digital Libraries
+Quantum-like Tests for Contextual Querying
+Computing n-Gram Statistics in MapReduce
+SiGMa: Simple Greedy Matching for Aligning Large Knowledge Bases
+FST Based Morphological Analyzer for Hindi Language
+Ranked Document Retrieval in (Almost) No Space
+Semantic Information Retrieval Using Ontology In University Domain
+Effective Retrieval of Resources in Folksonomies Using a New Tag Similarity Measure
+Measuring Similarity in Large-scale Folksonomies
+Identifying Users From Their Rating Patterns
+Query Optimization Over Web Services Using A Mixed Approach
+Diversity in Ranking using Negative Reinforcement
+Personalization in Geographic information systems: A survey
+An Automat for the Semantic Processing of Structured Information
+Semantic Web Requirements through Web Mining Techniques
+Social Trust as a solution to address sparsity-inherent problems of Recommender systems
+Credibility in Web Search Engines
+Toward an Integrated Framework for Automated Development and Optimization of Online Advertising Campaigns
+One Permutation Hashing for Efficient Search and Learning
+Semantic Web Techniques for Yellow Page Service Providers
+Role of Ranking Algorithms for Information Retrieval
+Analysis of Statistical Hypothesis based Learning Mechanism for Faster Crawling
+Empirical Validation of the Buckley--Osthus Model for the Web Host Graph: Degree and Edge Distributions
+Structured Query Reformulations in Commerce Search
+Locating the Source of Diffusion in Large-Scale Networks
+Social Event Detection with Interaction Graph Modeling
+Analysis of a Statistical Hypothesis Based Learning Mechanism for Faster crawling
+Detecting Events and Patterns in Large-Scale User Generated Textual Streams with Statistical Learning Methods
+Leveraging Subjective Human Annotation for Clustering Historic Newspaper Articles
+Content-based Text Categorization using Wikitology
+Graphical Query Builder in Opportunistic Sensor Networks to discover Sensor Information
+Dealing with Sparse Document and Topic Representations: Lab Report for CHiC 2012
+Network-based information filtering algorithms: ranking and recommendation
+Finding Communities in Site Web-Graphs and Citation Graphs
+Minimizing the Time of Spam Mail Detection by Relocating Filtering System to the Sender Mail Server
+Document Clustering Evaluation: Divergence from a Random Baseline
+Uncovering missing links with cold ends
+An IR-based Evaluation Framework for Web Search Query Segmentation
+PageRank of integers
+Impact of Gender and Age on performing Search Tasks Online
+Generating ordered list of Recommended Items: a Hybrid Recommender System of Microblog
+Evaluation of some Information Retrieval models for Gujarati Ad hoc Monolingual Tasks
+Robopinion: Opinion Mining Framework Inspired by Autonomous Robot Navigation
+Video Data Visualization System: Semantic Classification And Personalization
+Image Mining from Gel Diagrams in Biomedical Publications
+Semi-metric networks for recommender systems
+Toward a New Protocol to Evaluate Recommender Systems
+Content-based Multi-media Retrieval Technology
+Semantic web applications with regard to math and environment
+PCA-Based Relevance Feedback in Document Image Retrieval
+Leveraging Sentiment to Compute Word Similarity
+Feature Specific Sentiment Analysis for Product Reviews
+WikiSent : Weakly Supervised Sentiment Analysis Through Extractive Summarization With Wikipedia
+TwiSent: A Multistage System for Analyzing Sentiment in Twitter
+Spatio-Temporal Small Worlds for Decentralized Information Retrieval in Social Networking
+Losing My Revolution: How Many Resources Shared on Social Media Have Been Lost?
+Development of an e-learning system incorporating semantic web
+Beyond Stemming and Lemmatization: Ultra-stemming to Improve Automatic Text Summarization
+Music Recommendation System for Million Song Dataset Challenge
+Information Retrieval From Internet Applications For Digital Forensic
+Stemmer for Serbian language
+Beyond Cumulated Gain and Average Precision: Including Willingness and Expectation in the User Model
+A New Compression Based Index Structure for Efficient Information Retrieval
+Diversifying Citation Recommendations
+Bayesian Mixture Models for Frequent Itemset Discovery
+Movie Popularity Classification based on Inherent Movie Attributes using C4. PART and Correlation Coefficient
+An improved HeatS ProbS hybrid recommendation algorithm based on heterogeneous initial resource configurations
+Efficient Top-K Retrieval in Online Social Tagging Networks
+Optimal Precoding Design and Power Allocation for Decentralized Detection of Deterministic Signals
+Mathematical Analysis and Computational Integration of Massive Heterogeneous Data from the Human Retina
+Approximate Recall Confidence Intervals
+Categories of Emotion names in Web retrieved texts
+Multi-Output Recommender: Items Groups and Friends and Their Mutual Contributing Effects
+Finding and Recommending Scholarly Articles
+Correlations between Google search data and Mortality Rates
+Locality-Sensitive Hashing with Margin Based Feature Selection
+Fast Packed String Matching for Short Patterns
+Information Retrieval on the web and its evaluation
+From Questions to Effective Answers: On the Utility of Knowledge-Driven Querying Systems for Life Sciences Data
+A fast compression-based similarity measure with applications to content-based image retrieval
+Detecting multiword phrases in mathematical text corpora
+Logical segmentation for article extraction in digitized old newspapers
+Discovering and Leveraging the Most Valuable Links for Ranking
+Statistical Properties of Inter-arrival Times Distribution in Social Tagging Systems
+A Survey on Web Spam Detection Methods: Taxonomy
+Distributional Framework for Emergent Knowledge Acquisition and its Application to Automated Document Annotation
+Artex is AnotheR TEXt summarizer
+Opinion Mining for Relating Subjective Expressions and Annual Earnings in US Financial Statements
+Location-Based Events Detection on Micro-Blogs
+Markov Determinantal Point Processes
+Response Aware Model-Based Collaborative Filtering
+Learning Mixtures of Submodular Shells with Application to Document Summarization
+Latent Structured Ranking
+Factorized Multi-Modal Topic Model
+Wikipedia Vandalism Detection Through Machine Learning: Feature Review and New Proposals: Lab Report for PAN at CLEF 2010
+Hidden Trends in 0 Years of Harvard Business Review
+Some Chances and Challenges in Applying Language Technologies to Historical Studies in Chinese
+Using the DOM Tree for Content Extraction
+Fast Exact Max-Kernel Search
+A measure of similarity between scientific journals and of diversity of a list of publications
+Selective Transfer Learning for Cross Domain Recommendation
+Fast Data in the Era of Big Data: Twitter's Real-Time Related Query Suggestion Architecture
+The Model of Semantic Concepts Lattice For Data Mining Of Microblogs
+The Decentralized Structure of Collective Attention on the Web
+Multidimensional Web Page Evaluation Model Using Segmentation And Annotations
+Conquering the rating bound problem in neighborhood-based collaborative filtering: a function recovery approach
+Fast Algorithms for the Maximum Clique Problem on Massive Sparse Graphs
+Learning Attitudes and Attributes from Multi-Aspect Reviews
+Optimal size freshness and time-frame for voice search vocabulary
+TrackMeNot-so-good-after-all
+Enhancing Invenio Digital Library With An External Relevance Ranking Engine
+Detecting Representing and Querying Collusion in Online Rating Systems
+An effective web document clustering for information retrieval
+Annotations Collaborative Tagging and Searching Mathematics in E-Learning
+Automating Legal Research through Data Mining
+A Hindi Speech Actuated Computer Interface for Web Search
+Using ontology for resume annotation
+Boosting Simple Collaborative Filtering Models Using Ensemble Methods
+An Analytic Approach to People Evaluation in Crowdsourcing Systems
+Genetic Optimization of Keywords Subset in the Classification Analysis of Texts Authorship
+Ontology Based Information Extraction for Disease Intelligence
+A Dynamical System for PageRank with Time-Dependent Teleportation
+An Algorithm for Optimized Searching using NON-Overlapping Iterative Neighbor intervals
+Hash in a Flash: Hash Tables for Solid State Devices
+A New Similarity Measure for Taxonomy Based on Edge Counting
+Summarizing Reviews with Variable-length Syntactic Patterns and Topic Models
+Faster Compact Top-k Document Retrieval
+The Survey of Data Mining Applications And Feature Scope
+Visualization and clustering by D cellular automata: Application to unstructured data
+A Methodology to Extract Social Network from the Web Snippet
+A semantic association page rank algorithm for web search engines
+Tracking and Quantifying Censorship on a Chinese Microblogging Site
+Citation content analysis (cca): A framework for syntactic and semantic analysis of citation content
+Context Visualization for Social Bookmark Management
+Distantly Labeling Data for Large Scale Cross-Document Coreference
+MultiDendrograms: Variable-Group Agglomerative Hierarchical Clusterings
+Challenges in Kurdish Text Processing
+A Comparative Study of Discretization Approaches for Granular Association Rule Mining
+Dynamic recommender system : using cluster-based biases to improve the accuracy of the predictions
+Evaluating Classifiers Without Expert Labels
+Using Wikipedia to Boost SVD Recommender Systems
+Structure and Dynamics of Information Pathways in Online Media
+The Clustering of Author's Texts of English Fiction in the Vector Space of Semantic Fields
+Testing the AgreementMaker System in the Anatomy Task of OAEI 2012
+Condens 'es de textes par des m 'ethodes num 'eriques
+A Survey on Information Retrieval Text Categorization and Web Crawling
+A Scale-Space Theory for Text
+Collaborative Competitive filtering II: Optimal Recommendation and Collaborative Games
+Active Collaborative Filtering
+Web-Based Question Answering: A Decision-Making Perspective
+1 Billion Pages  1 Million Dollars? Mining the Web to Play Who Wants to be a Millionaire?
+Preference-based Graphic Models for Collaborative Filtering
+Collaborative Ensemble Learning: Combining Collaborative and Content-Based Information Filtering via Hierarchical Bayes
+Exploiting Locality in Searching the Web
+An ontology-based approach for semantics ranking of the web search engines results
+Mining the Web for the Voice of the Herd to Track Stock Market Bubbles
+Understanding (dis)similarity measures
+Product Brand extraction from WikiPedia
+Keyword Extraction for Identifying Social Actors
+Language Without Words: A Pointillist Model for Natural Language Processing
+Know Your Personalization: Learning Topic level Personalization in Online Services
+Sentence Compression in Spanish driven by Discourse Segmentation and Language Models
+Social Network Based Search for Experts
+A comparative study of root-based and stem-based approaches for measuring the similarity between arabic words for arabic text mining applications
+Simple Search Engine Model: Adaptive Properties
+Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams
+Simple Search Engine Model: Adaptive Properties for Doubleton
+Topic Extraction and Bundling of Related Scientific Articles
+'Etude compar 'ee de quatre logiciels de gestion de r 'ef 'erences bibliographiques libres ou gratuits
+Online Forum Thread Retrieval using Pseudo Cluster Selection and Voting Techniques
+Design implementation and experiment of a YeSQL Web Crawler
+Learning the Gain Values and Discount Factors of DCG
+Hyperplane Arrangements and Locality-Sensitive Hashing with Lift
+Learning Joint Query Interpretation and Response Ranking
+Quantum Structure in Cognition: Fundamentals and Applications
+Video OCR for Video Indexing
+Relevance Feedback for Goal's Extraction from Fuzzy Semantic Networks
+Determinantal point processes for machine learning
+The Best Answers? Think Twice: Online Detection of Commercial Campaigns in the CQA Forums
+Underspecified Scientific Claims in Nanopublications
+Real Time Enhanced Random Sampling of Online Social Networks
+Adapting Voting Techniques for Online Forum Thread Retrieval
+How Much of the Web Is Archived?
+Word Storms: Multiples of Word Clouds for Visual Comparison of Documents
+Learning with Scope with Application to Information Extraction and Classification
+CFW: A Collaborative Filtering System Using Posteriors Over Weights Of Evidence
+Expectation-Propogation for the Generative Aspect Model
+An MDP-based Recommender System
+Similarity Assessment through blocking and affordance assignment in Textual CBR
+An Extensive Analysis of Query by Singing Humming System Through Query Proportion
+Content-Based Video Browsing by Text Region Localization and Classification
+AViTExt: Automatic Video Text Extraction A new Approach for video content indexing Application
+A Visual Grammar Approach for TV Program Identification
+Probabilistic Models for Unified Collaborative and Content-Based Recommendation in Sparse-Data Environments
+Symmetric Collaborative Filtering Using the Noisy Sensor Model
+Using Temporal Data for Making Recommendations
+Enhancing the retrieval performance by combing the texture and edge features
+A comparison of SVM and RVM for Document Classification
+Various improvements to text fingerprinting
+Dependency Networks for Collaborative Filtering and Data Visualization
+Collaborative Filtering by Personality Diagnosis: A Hybrid Memory- and Model-Based Approach
+Affinity Weighted Embedding
+Ontology-based Recommender System of Economic Articles
+Solutions to Detect and Analyze Online Radicalization : A Survey
+Towards a faster symbolic aggregate approximation method
+Reuse Temporal Dynamics Interest Sharing and Collaboration in Social Tagging Systems
+LA-LDA: A Limited Attention Topic Model for Social Recommendation
+Probabilistic Latent Semantic Analysis
+The Decision-Theoretic Interactive Video Advisor
+An alternative text representation to TF-IDF and Bag-of-Words
+Discrimination in Online Ad Delivery
+Reconstructing a Graph from Path Traces
+Beyond pixels and regions: A non local patch means (NLPM) method for content-level restoration enhancement and reconstruction of degraded document images
+Sparse Subspace Clustering: Algorithm Theory and Applications
+Authorship Identification in Bengali Literature: a Comparative Analysis
+Applying machine learning techniques to improve user acceptance on ubiquitous environement
+Empirical Analysis of Predictive Algorithms for Collaborative Filtering
+Query Expansion in Information Retrieval Systems using a Bayesian Network-Based Thesaurus
+Inferring Informational Goals from Free-Text Queries: A Bayesian Approach
+PyPLN: a Distributed Platform for Natural Language Processing
+Learning to Rank for Expert Search in Digital Libraries of Academic Publications
+Overview of EIREX 2012: Social Media
+Ontology Guided Information Extraction from Unstructured Text
+Arabic text summarization based on latent semantic analysis to enhance arabic documents clustering
+Data Mining of the Concept End of the World in Twitter Microblogs
+Ontology-Based Administration of Web Directories
+WNtags: A Web-Based Tool For Image Labeling And Retrieval With Lexical Ontologies
+On Search Engine Evaluation Metrics
+Assessing Semantic Quality of Web Directory Structure
+Recommending Given Names
+On the use of topological features and hierarchical characterization for disambiguating names in collaborative networks
+An Ontology for Modelling and Supporting the Process of Authoring Technical Assessments
+Stacking from Tags: Clustering Bookmarks around a Theme
+Dynamic Memory Allocation Policies for Postings in Real-Time Twitter Search
+Development of Yes No Arabic Question Answering System
+A Fuzzy Logic based Method for Efficient Retrieval of Vague and Uncertain Spatial Expressions in Text Exploiting the Granulation of the Spatial Event Queries
+Finding the Right Set of Users: Generalized Constraints for Group Recommendations
+Adaptive social recommendation in a multiple category landscape
+Audio Classical Composer Identification by Deep Neural Network
+Content Based Image Retrieval System Using NOHIS-tree
+Continuous-time Infinite Dynamic Topic Models
+Presence Factor-Oriented Blog Summarization
+Multidimensional Social Network in the Social Recommender System
+Social Recommendations within the Multimedia Sharing Systems
+IRS for Computer Character Sequences Filtration: a new software tool and algorithm to support the IRS at tokenization process
+Detecting and resolving spatial ambiguity in text using named entity extraction and self learning fuzzy logic techniques
+Onomastics 2.0 - The Power of Social Co-Occurrences
+A Semantic approach for effective document clustering using WordNet
+Arabic documents classification using fuzzy R.B.F. classifier with sliding window
+The en of Multidisciplinary Team Recommendation
+Query Expansion Using Term Distribution and Term Association
+Effect of Query Formation on Web Search Engine Results
+Concept-based indexing in text information retrieval
+The Powerful Model Adpredictor for Search Engine Switching Detection Challenge
+Is Learning to Rank Worth It? A Statistical Analysis of Learning to Rank Methods
+Features and Aggregators for Web-scale Entity Search
+Findebra: A search engine for rare diseases
+Simple Search Engine Model: Selective Properties
+An improved semantic similarity measure for document clustering based on topic maps
+From Amateurs to Connoisseurs: Modeling the Evolution of User Expertise through Online Reviews
+Iterative Expectation for Multi Period Information Retrieval
+Similarity based Dynamic Web Data Extraction and Integration System from Search Engine Result Pages for Web Content Mining
+Reinforcement Ranking
+Video Face Matching using Subset Selection and Clustering of Probabilistic Multi-Region Histograms
+Extracting the information backbone in online system
+Large scale citation matching using Apache Hadoop
+Continuity of mutual entropy in the large signal-to-noise ratio limit
+Fast ALS-based tensor factorization for context-aware recommendation from implicit feedback
+Multiple graph regularized protein domain ranking
+Runtime Optimizations for Prediction with Tree-Based Models
+Factorized Topic Models
+Seed Expand : A validated methodology for creating high quality publication oeuvres of individual researchers
+Maximum Likelihood Associative Memories
+Usage-based vs. Citation-based Methods for Recommending Scholarly Research Articles
+Exploring the Role of Logically Related Non-Question Phrases for Answering Why-Questions
+Meaning-focused and Quantum-inspired Information Retrieval
+Top-K Product Design Based on Collaborative Tagging Data
+What really happened on September 1th 200? Getting The Most from Your Personal Information with Memacs
+Bug Classification: Feature Extraction and Comparison of Event Model using Na ive Bayes Approach
+Automatic Detection of Search Tactic in Individual Information Seeking: A Hidden Markov Model Approach
+Client-Driven Content Extraction Associated with Table
+Dynamic Amelioration of Resolution Mismatches for Local Feature Based Identity Inference
+Embedding of Blink Frequency in Electrooculography Signal using Difference Expansion based Reversible Watermarking Technique
+RESLVE: Leveraging User Interest to Improve Entity Disambiguation on Short Text
+Corpus-based Web Document Summarization using Statistical and Linguistic Approach
+Automatic Structuring Of Semantic Web Services An Approach
+On Appropriate Selection of Fuzzy Aggregation Operators in Medical Decision Support System
+Maps of Computer Science
+Web Services Discovery and Recommendation Based on Information Extraction and Symbolic Reputation
+Do Social Explanations Work? Studying and Modeling the Effects of Social Explanations in Recommender Systems
+Merging Satellite Measurements of Rainfall Using Multi-scale Imagery Technique
+Data text and web mining for business intelligence: a survey
+From Cookies to Cooks: Insights on Dietary Patterns via Analysis of Web Usage Logs
+Assessing Visualization Techniques for the Search Process in Digital Libraries
+Image Retrieval based on Bag-of-Words model
+Carbon Dating The Web: Estimating the Age of Web Resources
+Personalized Academic Research Paper Recommendation System
+Evaluating Web Content Quality via Multi-scale Features
+A Theoretical Analysis of NDCG Type Ranking Measures
+Question Answering Against Very-Large Text Collections
+Scaling Laws in Human Language
+Wisdom of the Crowd: Incorporating Social Influence in Recommendation Models
+A Random Walk Based Model Incorporating Social Information for Recommendations
+Anchoring Bias in Online Voting
+Socializing the h-index
+Spectral properties of Google matrix of Wikipedia and other networks
+Google matrix analysis of DNA sequences
+A Method for Comparing Hedge Funds
+Inverse Signal Classification for Financial Instruments
+Web graph compression with fast access
+Topological Properties of Web Services Similarity Networks
+Web Services Dependency Networks Analysis
+Relevance distributions across Bradford ones: Can Bradfordizing improve search?
+Privacy Preserving Recommendation System Based on Groups
+Feature Selection Based on Term Frequency and T-Test for Text Categorization
+Fast Incremental Inverted Indexing in Main Memory for Web-Scale Collections
+Intelligent Agent Based Semantic Web in Cloud Computing Environment
+Towards User Profile Modelling in Recommender System
+Towards an Author-Topic-Term-Model Visualization of 100 Years of German Sociological Society Proceedings
+Granular association rules for multi-valued data
+Cold-start recommendation through granular association rules
+Speech User Interface for Information Retrieval
+Mobile Recommender Systems Methods: An Overview
+Evolution of the user's content: An Overview of the state of the art
+Mathematical Modeling of Product Rating: Sufficiency Misbehavior and Aggregation Rules
+Semantic-based Anomalous Pattern Discovery in Moving Object Trajectories
+Using Exclusive Web Crawlers to Store Better Results in Search Engines' Database
+Clustering Web Search Results For Effective Arabic Language Browsing
+Test Model for Text Categorization and Text Summarization
+Transfer Learning for Content-Based Recommender Systems using Tree Matching
+Data Quality Principles in the Semantic Web
+Mining top-k granular association rules for recommendation
+Nouvelle approche de recommandation personnalisee dans les folksonomies basee sur le profil des utilisateurs
+A Comparison of Random Forests and Ferns on Recognition of Instruments in Jazz Recordings
+A toy model of information retrieval system based on quantum probability
+Escaping the Trap of too Precise Topic Queries
+Semantic Web Search based on Ontology Modeling using Protege Reasoner
+Query Representation with Global Consistency on User Click Graph
+Tweets Miner for Stock Market Analysis
+Organizing Linked Data Quality Related Methods
+Solving the Cold-Start Problem in Recommender Systems with Social Tags
+Automatic Wrapper Adaptation by Tree Edit Distance Matching
+Design of Automatically Adaptable Web Wrappers
+Pattern discovery for semi-structured web pages using bar-tree representation
+A prototype system for handwritten sub-word recognition: Toward Arabic-manuscript transliteration
+Residual Belief Propagation for Topic Modeling
+Binary Jumbled String Matching for Highly Run-Length Compressible Texts
+ArcLink: Optimization Techniques to Build and Retrieve the Temporal Web Graph
+A Focused Crawler Combinatory Link and Content Model Based on T-Graph Principles
+A hybrid approach for semantic enrichment of MathML mathematical expressions
+Heterogeneity Involved Network-based Algorithm Leads to Accurate and Personalized Recommendations
+Analysis and Evaluation of the Link and Content Based Focused Treasure-Crawler
+CRUC: Cold-start Recommendations Using Collaborative Filtering in Internet of Things
+Using a bag of Words for Automatic Medical Image Annotation with a Latent Semantic
+KERT: Automatic Extraction and Ranking of Topical Keyphrases from Content-Representative Document Titles
+The User Feedback on SentiWordNet
+Agents and owl-s based semantic web service discovery with user preference support
+Performing Informetric Analysis on Information Retrieval Test Collections: Preliminary Experiments in the Physics Domain
+D model retrieval using global and local radial distances
+Using Arabic Wordnet for semantic indexation in information retrieval system
+Introducing LETOR 4.0 Datasets
+The Quantum Challenge in Concept Theory and Natural Language Processing
+Finding Academic Experts on a MultiSensor Approach using Shannon's Entropy
+The Number of Terms and Documents for Pseudo-Relevant Feedback for Ad-hoc Information Retrieval
+Multidimensional User Data Model for Web Personalization
+Keyphrase Cloud Generation of Broadcast News
+Hourly Traffic Prediction of News Stories
+Table of Content detection using Machine Learning
+A Fuzzy Based Approach to Text Mining and Document Clustering
+Analysing Word Importance for Image Annotation
+Supervised Topical Key Phrase Extraction of News Stories using Crowdsourcing Light Filtering and Co-reference Normalization
+Key Phrase Extraction of Lightly Filtered Broadcast News
+Recognition of Named-Event Passages in News Articles
+Clinical Relationships Extraction Techniques from Patient Narratives
+Real-time Bidding for Online Advertising: Measurement and Analysis
+How Web 1.0 Fails: The Mismatch Between Hyperlinks and Clickstreams
+Event based classification of Web 2.0 text streams
+Broccoli: Semantic Full-Text Search at your Fingertips
+Counterfactual Reasoning and Learning Systems
+Granular association rule mining through parametric rough sets for cold start recommendation
+The Velocity of Censorship: High-Fidelity Detection of Microblog Post Deletions
+Multi-View Learning for Web Spam Detection
+Indexing Medical Images based on Collaborative Experts Reports
+Arabizi Detection and Conversion to Arabic
+The DeLiVerMATH project - Text analysis in mathematics
+Semantics and pragmatics in actual software applications and in web search engines: exploring innovations
+WebSets: Extracting Sets of Entities from the Web Using Unsupervised Information Extraction
+Algorithms of the LDA model REPORT
+BigDataBench: a Big Data Benchmark Suite from Web Search Engines
+Semi-supervised Ranking Pursuit
+Overview of Web Content Mining Tools
+Future Web Growth and its Consequences for Web Search Architectures
+Finding Information Through Integrated Ad-Hoc Socializing in the Virtual and Physical World
+A Sub-block Based Image Retrieval Using Modified Integrated Region Matching
+Full-text Support for Publish Subscribe Ontology Systems
+Text Categorization via Similarity Search: An Efficient and Effective Novel Algorithm
+Sequential Selection of Correlated Ads by POMDPs
+Opinion Mining and Analysis: A survey
+Adaptive Keywords Extraction with Contextual Bandits for Advertising on Parked Domains
+A Data Management Approach for Dataset Selection Using Human Computation
+GAPfm: Optimal Top-N Recommendations for Graded Relevance Domains
+Reading the Correct History? Modeling Temporal Intention in Resource Sharing
+Ranking with Diverse Intents and Correlated Contents
+Good Debt or Bad Debt: Detecting Semantic Orientations in Economic Texts
+Timely crawling of high-quality ephemeral new content
+Mesure de la similarit 'e entre termes et labels de concepts ontologiques
+A Novel Architecture For Question Classification Based Indexing Scheme For Efficient Question Answering
+Fit or Unfit : Analysis and Prediction of 'Closed Questions' on Stack Overflow
+Multicategory Crowdsourcing Accounting for Plurality in Worker Skill and Intention Task Difficulty and Task Heterogeneity
+Image Tag Refinement by Regularized Latent Dirichlet Allocation
+Potential Theory for Directed Networks
+An approach to describing and analysing bulk biological annotation quality: a case study using UniProtKB
+Evolution of the Media Web
+PDF articles metadata harvester
+Tag-based Semantic Website Recommendation for Turkish Language
+Broadening the Scope of Nanopublications
+Social Ranking Techniques for the Web
+Says who? Automatic Text-Based Content Analysis of Television News
+Optimal Top-k Document Retrieval
+Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction
+Extracting Connected Concepts from Biomedical Texts using Fog Index
+Extracting Information-rich Part of Texts using Text Denoising
+A Novel Architecture for Relevant Blog Page Identifcation
+Ontology Enrichment by Extracting Hidden Assertional Knowledge from Text
+Context Specific Event Model For News Articles
+Clustering and Community Detection in Directed Networks: A Survey
+Sign Stable Projections Sign Cauchy Projections and Chi-Square Kernels
+WikiPulse - A News-Portal Based on Wikipedia
+Benchmarking Soundtrack Recommendation Systems with SRBench
+OFF-Set: One-pass Factorization of Feature Sets for Online Recommendation in Persistent Cold Start Settings
+Semantic Computing of Moods Based on Tags in Social Media of Music
+The Royal Birth of 201: Analysing and Visualising Public Sentiment in the UK Using Twitter
+RAProp: Ranking Tweets by Exploiting the Tweet User Web Ecosystem and Inter-Tweet Agreement
+Exploratory Analysis of Highly Heterogeneous Document Collections
+When are Overcomplete Topic Models Identifiable? Uniqueness of Tensor Tucker Decompositions with Structured Sparsity
+Membership in social networks and the application in information filtering
+Normalized Google Distance of Multisets with Applications
+Source Code Retrieval Using Sequence Based Similarity
+Detection and Filtering of Collaborative Malicious Users in Reputation System using Quality Repository Approach
+Diversification Based Static Index Pruning - Application to Temporal Collections
+CrowdGrader: Crowdsourcing the Evaluation of Homework Assignments
+The Lovasz-Bregman Divergence and connections to rank aggregation clustering and web ranking
+R-Score: Reputation-based Scoring of Research Groups
+Using tf-idf as an edge weighting scheme in user-object bipartite networks
+Stability of graph communities across time scales
+Nepotistic Relationships in Twitter and their Impact on Rank Prestige Algorithms
+Recommender Systems
+A Multi-View Embedding Space for Modeling Internet Images Tags and their Semantics
+Information filtering via hybridization of similarity preferential diffusion processes
+Scalable Probabilistic Entity-Topic Modeling
+Resurrecting My Revolution: Using Social Link Neighborhood in Bringing Context to the Disappearing Web
+Using Self-Organizing Maps for Sentiment Analysis
+Performance Investigation of Feature Selection Methods
+Access Patterns for Robots and Humans in Web Archives
+Music Files Search System
+Improving Query Expansion Using WordNet
+Semantic Advertising
+Saying What You're Looking For: Linguistics Meets Video Search
+Describing Papers and Reviewers' Competences by Taxonomy of Keywords
+Stochastic Rank Aggregation
+Modeling Documents with Deep Boltzmann Machines
+Integrating Document Clustering and Topic Modeling
+A Collaborative Filtering Based Approach for Recommending Elective Courses
+Evaluating the Usefulness of Sentiment Information for Focused Crawlers
+LCSH SKOS and Linked Data
+Benchmarking some Portuguese S T system research units: 2nd Edition
+Spaces Trees and Colors: The Algorithmic Landscape of Document Retrieval on Sequences
+Contextual Query Using Bell Tests
+Highlighting Entanglement of Cultures via Ranking of Multilingual Wikipedia Articles
+PACE: Pattern Accurate Computationally Efficient Bootstrapping for Timely Discovery of Cyber-Security Concepts
+HeteSim: A General Framework for Relevance Measure in Heterogeneous Networks
+Improving tag recommendation by folding in more consistency
+Context-aware recommendations from implicit data via scalable tensor factorization
+Use of Solr and Xapian in the Invenio document repository software
+Differential Data Analysis for Recommender Systems
+Deeper Into the Folksonomy Graph: FolkRank Adaptations and Extensions for Improved Tag Recommendations
+BloSEn: Blog Search Engine Based On Post Concept Clustering
+Web Usage Mining: Pattern Discovery and Forecasting
+Discriminative Relational Topic Models
+Visualizing Bags of Vectors
+Pennants for Descriptors
+Scalable Locality-Sensitive Hashing for Similarity Search in High-Dimensional Large-Scale Multimedia Datasets
+IntelligentWeb Agent for Search Engines
+Compressed Vertical Partitioning for Full-In-Memory RDF Management
+Distributional semantics beyond words: Supervised learning of analogy and paraphrase
+Crowdsourced Task Routing via Matrix Factorization
+CIDS country rankings: comparing documents and citations of USA UK and China top researchers
+Massive Query Expansion by Exploiting Graph Knowledge Bases
+Exploring Scientists' Working Timetable: A Global Survey
+Improving the methods of email classification based on words ontology
+A two-step model and the algorithm for recalling in recommender systems
+A language independent web data extraction using vision based page segmentation algorithm
+Musical recommendations and personalization in a social network
+A Random Walk Model for Item Recommendation in Folksonomies
+Necessary and Sufficient Conditions for Novel Word Detection in Separable Topic Models
+Spectral Ranking
+Ontologies and tag-statistics
+Blind Men and the Elephant: Detecting Evolving Groups In Social News
+Fast and accurate sentiment classification using an enhanced Naive Bayes model
+A Comparison of Named Entity Recognition Tools Applied to Biographical Texts
+A Novel Term Weighing Scheme Towards Efficient Crawl of Textual Databases
+Developing a Visual Interactive Search History Exploration System
+Motivation for hyperlink creation using inter-page relationships
+Semantic Stability in Social Tagging Streams
+LA-CTR: A Limited Attention Collaborative Topic Regression for Social Media
+TOP-SPIN: TOPic discovery via Sparse Principal component INterference
+Idea of a new Personality-Type based Recommendation Engine
+Providing Trustworthy Contributions via a Reputation Framework in Social Participatory Sensing Systems
+Architecture of an Ontology-Based Domain-Specific Natural Language Question Answering System
+Integrated Expert Recommendation Model for Online Communities
+Exploiting Direct and Indirect Information for Friend Suggestion in ingMe
+Structural Weights in Ontology Matching
+Big Data and Cross-Document Coreference Resolution: Current State and Future Opportunities
+Towards Big Topic Modeling
+Lattice-cell : Hybrid approach for text categorization
+CAVDM: Cellular Automata Based Video Cloud Mining Framework for Information Retrieval
+A Qualitative Representation and Similarity Measurement Method in Geographic Information Retrieval
+Query Interface Integrator For Domain Specific Hidden Web
+Data Mining Model for the Data Retrieval from Central Server Configuration
+Experience of Developing a Meta-Semantic Search Engine
+A Decision Tree Approach to Classify Web Services using Quality Parameters
+Web-page Indexing based on the Prioritize Ontology Terms
+A Model Approach to Build Basic Ontology
+Learning Reputation in an Authorship Network
+Exploration in Interactive Personalized Music Recommendation: A Reinforcement Learning Approach
+Want a Good Answer? Ask a Good Question First
+Concept-based Recommendations for Internet Advertisement
+Query Optimization Using Genetic Algorithms in the Vector Space Model
+Improving the User Query for the Boolean Model Using Genetic Algorithms
+Recommender System Based on Algorithm of Bicluster Analysis RecBi
+Concept Relation Discovery and Innovation Enabling Technology (CORDIET)
+Extending Term Suggestion with Author Names
+Improving Retrieval Results with discipline-specific Query Expansion
+A Novel Feature-based Bayesian Model for Query Focused Multi-document Summarization
+Exploiting Social Tags for Cross-Domain Collaborative Filtering
+Time evolution of Wikipedia network ranking
+PAV ontology: Provenance Authoring and Versioning
+An interactive engine for multilingual video browsing using semantic content
+An FCA-based Boolean Matrix Factorisation for Collaborative Filtering
+About Summarization in Large Fuzzy Databases
+Searching and Establishment of S-P-O Relationships for Linked RDF Graphs : An Adaptive Approach
+A Hybrid Web Recommendation System based on the Improved Association Rule Mining Algorithm
+Web Mining Techniques in E-Commerce Applications
+The Power of Asymmetry in Binary Hashing
+Query Segmentation for Relevance Ranking in Web Search
+An Ontology Model for Organizing Information Resources Sharing on Personal Web
+Food Recommendation using Ontology and Heuristics
+Intent Models for Contextualising and Diversifying Query Suggestions
+Flexible queries in XML native databases
+Bootstrapped Grouping of Results to Ambiguous Person Name Queries
+Adapting Binary Information Retrieval Evaluation Metrics for Segment-based Retrieval Tasks
+Region and Location Based Indexing and Retrieval of MR-T2 Brain Tumor Images
+The Minimal Compression Rate for Similarity Identification
+Novel text categorization by amalgamation of augmented k-nearest neighborhood classification and k-medoids clustering
+mARC: Memory by Association and Reinforcement of Contexts
+On the Complexity of Mining Itemsets from the Crowd Using Taxonomies
+Eugene Garfield Francis Narin and PageRank: The Theoretical Bases of the Google Search Engine
+Mind Your Language: Effects of Spoken Query Formulation on Retrieval Effectiveness
+An Ontology-based Model for Indexing and Retrieval
+Semantic Annotation: The Mainstay of Semantic Web
+Long Time No See: The Probability of Reusing Tags as a Function of Frequency and Recency
+Codebook based Audio Feature Representation for Music Information Retrieval
+Mobile Multimedia Recommendation in Smart Communities: A Survey
+Suffix Stripping Problem as an Optimization Problem
+Socially-Aware Venue Recommendation for Conference Participants
+Subjectivity Classification using Machine Learning Techniques for Mining Feature-Opinion Pairs from Web Opinion Sources
+Development of Display Ads Retrieval System to Match Publisher's Contents
+Query-focused Multi-document Summarization: Combining a Novel Topic Model with Graph-based Semi-supervised Learning
+A Hybrid Approach to Extract Keyphrases from Medical Documents
+Labeling and Retrieval of Emotionally-Annotated Images using WordNet
+Web Annotation as a First Class Object
+Bibliometric-enhanced Information Retrieval
+Generation Implementation and Appraisal of an N-gram based Stemming Algorithm
+Co-Multistage of Multiple Classifiers for Imbalanced Multiclass Learning
+IVSS Integration of Color Feature Extraction Techniques for Intelligent Video Search Systems
+System Analysis And Design For Multimedia Retrieval Systems
+Modeling Attractiveness and Multiple Clicks in Sponsored Search Results
+Chaff from the Wheat : Characterization and Modeling of Deleted Questions on Stack Overflow
+Predicting a Business Star in Yelp from Its Reviews Text Alone
+Structural patterns in complex systems using multidendrograms
+Looking at Vector Space and Language Models for IR using Density Matrices
+Content Based Image Indexing and Retrieval
+A Survey on optimization approaches to text document clustering
+Assessing Wikipedia-Based Cross-Language Retrieval Models
+Progressive Filtering Using Multiresolution Histograms for Query by Humming System
+Design and Development of a User Specific Dynamic E-Magazine
+A Survey of Volunteered Open Geo-Knowledge Bases in the Semantic Web
+Sentiment Analysis Using Collaborated Opinion Mining
+Improving Quality of Clustering using Cellular Automata for Information retrieval
+Statistical Analysis based Hypothesis Testing Method in Biological Knowledge Discovery
+An Alternate Approach for Designing a Domain Specific Image Search Prototype Using Histogram
+Optimization Of Cross Domain Sentiment Analysis Using Sentiwordnet
+Infinite Mixed Membership Matrix Factorization
+Learning Document-Level Semantic Properties from Free-Text Annotations
+Complex Question Answering: Unsupervised Learning Approaches and Experiments
+Enhancing QA Systems with Complex Temporal Question Processing Capabilities
+Content Modeling Using Latent Permutations
+Improving Performance Of English-Hindi Cross Language Information Retrieval Using Transliteration Of Query Terms
+Constructing Reference Sets from Unstructured Ungrammatical Text
+Evaluating Temporal Graphs Built from Texts via Transitive Reduction
+Identifying Aspects for Web-Search Queries
+From Identical to Similar : Fusing Retrieved Lists Based on Inter-Document Similarities
+The Opposite of Smoothing: A Language Model Approach to Ranking Query-Specific Document Clusters
+Centrality-as-Relevance: Support Sets and Similarity as Geometric Proximity
+General factorization framework for context-aware recommendations
+Generalization of the PageRank Model
+Which Clustering Do You Want? Inducing Your Ideal Clustering with Minimal Feedback
+A new keyphrases extraction method based on suffix tree data structure for arabic documents clustering
+Extracting tag hierarchies
+On Randomly Projected Hierarchical Clustering with Guarantees
+PageRank for evolving link structures
+Iterative Universal Hash Function Generator for Minhashing
+Keyword and Keyphrase Extraction Using Centrality Measures on Collocation Networks
+A Novel String Distance Function based on Most Frequent K Characters
+Unsupervised Visual and Textual Information Fusion in Multimedia Retrieval - A Graph-based Point of View
+How the Sando Search Tool Recommends Queries
+MJ no more: Using Concurrent Wikipedia Edit Spikes with Social Network Plausibility Checks for Breaking News Detection
+Gravity Effects on Information Filtering and Network Evolving
+Information Filtering via Collaborative User Clustering Modeling
+Timeline Generation: Tracking individuals on Twitter
+User recommendation in reciprocal and bipartite social networks -- a case study of online dating
+Comparative study of Authorship Identification Techniques for Cyber Forensics Analysis
+Online Dating Recommendations: Matching Markets and Learning Preferences
+A high-reproducibility and high-accuracy method for automated topic classification
+How Does Latent Semantic Analysis Work? A Visualisation Approach
+Generating Extractive Summaries of Scientific Paradigms
+Learning to Predict from Textual Data
+Vers une interface pour l enrichissement des requetes en arabe dans un systeme de recherche d information
+Evaluation of YTEX and MetaMap for clinical concept recognition
+Anomaly Detection Based on Access Behavior and Document Rank Algorithm
+Classification Tree Diagrams in Health Informatics Applications
+Using content features to enhance performance of user-based collaborative filtering performance of user-based collaborative filtering
+Image Search Reranking
+An evaluation of keyword extraction from online communication for the characterisation of social relations
+Achieve Better Ranking Accuracy Using CloudRank Framework for Cloud Services
+'Etude cognitive des processus de construction d'une requ ete dans un syst eme de gestion de connaissances m 'edicales
+1-D and 2-D Parallel Algorithms for All-Pairs Similarity Problem
+Squeezing bottlenecks: exploring the limits of autoencoder semantic representation capabilities
+Authorship Analysis based on Data Compression
+Designing an Ontology for the Data Documentation Initiative
+Performance Evaluation of Machine Learning Classifiers in Sentiment Mining
+Incremental Entity Resolution from Linked Documents
+Retrieval of Experiments by Efficient Estimation of Marginal Likelihood
+Survey on Sparse Coded Features for Content Based Face Image Retrieval
+Pareto-depth for Multiple-query Image Retrieval
+Analysing Parallel and Passive Web Browsing Behavior and its Effects on Website Metrics
+Semi-Supervised Nonlinear Distance Metric Learning via Forests of Max-Margin Cluster Hierarchies
+Information Filtering via Balanced Diffusion on Bipartite Networks
+Uncovering the information core in recommender systems
+Improving Collaborative Filtering based Recommenders using Topic Modelling
+Taming the zoo - about algorithms implementation in the ecosystem of Apache Hadoop
+Further results on dissimilarity spaces for hyperspectral images RF-CBIR
+Information filtering in sparse online systems: recommendation via semi-local diffusion
+Retrieval of Experiments with Sequential Dirichlet Process Mixtures in Model Space
+Text Classification and Distributional features techniques in Datamining and Warehousing
+A Consensus-Focused Group Recommender System
+Of course we share Testing Assumptions about Social Tagging Systems
+G-Bean: an ontology-graph based web tool for biomedical literature retrieval
+Mining Images in Biomedical Publications: Detection and Analysis of Gel Diagrams
+Mathematical Model of Semantic Look - An Efficient Context Driven Search Engine
+Semantic Annotation and Search for Educational Resources Supporting Distance Learning
+The Obvious Solution to Semantic Mapping -- Ask an Expert
+Latent Semantic Word Sense Disambiguation Using Global Co-occurrence Information
+AntiPlag: Plagiarism Detection on Electronic Submissions of Text Based Assignments
+Authorship detection of SMS messages using unigrams
+Real-Time Classification of Twitter Trends
+Lifespan and propagation of information in On-line Social Networks a Case Study
+Extraction of Core Contents from Web Pages
+Time Series Analysis on Stock Market for Text Mining Correlation of Economy News
+The Impact of Employment Web Sites' Traffic on Unemployment: A Cross Country Comparison
+Shape-Based Plagiarism Detection for Flowchart Figures in Texts
+Sentiment Analysis by Using Fuzzy Logic
+Scalable and Robust Construction of Topical Hierarchies
+Telling Breaking News Stories from Wikipedia with Social Multimedia: A Case Study of the 2014 Winter Olympics
+Concept Based vs. Pseudo Relevance Feedback Performance Evaluation for Information Retrieval System
+Generating Preview Tables for Entity Graphs
+A Lemma Based Evaluator for Semitic Language Text Summarization Systems
+A Novel Method to Calculate Click Through Rate for Sponsored Search
+Classroom Video Assessment and Retrieval via Multiple Instance Learning
+Evaluating topic coherence measures
+KPCA Spatio-temporal trajectory point cloud classifier for recognizing human actions in a CBVR system
+Information Retrieval (IR) through Semantic Web (SW): An Overview
+HRank: A Path based Ranking Framework in Heterogeneous Information Network
+Emotion Analysis Platform on Chinese Microblog
+A New Approach to Speeding Up Topic Modeling
+Situation-Aware Approach to Improve Context-based Recommender System
+Optimizing an Utility Function for Exploration Exploitation Trade-off in Context-Aware Recommender System
+Improving adaptation of ubiquitous recommander systems by using reinforcement learning and collaborative filtering
+A Taxonomy of Hyperlink Hiding Techniques
+Hybrid Q-Learning Applied to Ubiquitous recommender system
+The Impact of Situation Clustering in Contextual-Bandit Algorithm for Context-Aware Recommender Systems
+Graph-based Approach to Automatic Taxonomy Generation (GraBTax)
+Fast Exact Search in Hamming Space with Multi-Index Hashing
+Multi-Keyword Multi-Click Advertisement Option Contracts for Sponsored Search
+Exploration and retrieval of whole-metagenome sequencing samples
+Time-dependent Hierarchical Dirichlet Model for Timeline Generation
+TrendLearner: Early Prediction of Popularity Trends of User Generated Content
+Building A Large Concept Bank for Representing Events in Video
+Enhancing Automated Decision Support across Medical and Oral Health Domains with Semantic Web Technologies
+Identifying User Behavior in domain-specific Repositories
+Using perceptually defined music features in music information retrieval
+Using HMM in Strategic Games
+Interestingness a Unifying Paradigm Bipolar Function Composition
+Application of Ontologies in Identifying Requirements Patterns in Use Cases
+Text Based Approach For Indexing And Retrieval Of Image And Video: A Review
+Multi-Linear Interactive Matrix Factorization
+Icon Based Information Retrieval and Disease Identification in Agriculture
+Approximating PageRank locally with sublinear query complexity
+Aspect-Based Opinion Extraction from Customer reviews
+Social Collaborative Retrieval
+A Link-based Approach to Entity Resolution in Social Networks
+Pagination: It's what you say not how long it takes to say it
+Web Search of New Linearized Medical Drug Leads
+Anytime Hierarchical Clustering
+Targeting HIV-related Medication Side Effects and Sentiment Using Twitter Data
+Methods for Ordinal Peer Grading
+A New Space for Comparing Graphs
+Opinion Mining In Hindi Language: A Survey
+Promoting cold-start items in recommender systems
+Linking Geographic Vocabularies through WordNet
+An Account of Opinion Implicatures
+Editorial for the Bibliometric-enhanced Information Retrieval Workshop at ECIR 2014
+A review of EO image information mining
+Scalable Recommendation with Poisson Factorization
+An Enhanced Method For Evaluating Automatic Video Summaries
+Forgetting the Words but Remembering the Meaning: Modeling Forgetting in a Verbal and Semantic Tag Recommender
+Thresholding Classifiers to Maximize F1 Score
+Personalized recommendation against crowd's popular selection
+Querying Geometric Figures Using a Controlled Language Ontological Graphs and Dependency Lattices
+Towards a Modular Recommender System for Research Papers written in Albanian
+Kaggle LSHTC4 Winning Solution
+Web Content Classification: A Survey
+Feature Selection On Boolean Symbolic Objects
+A Brief History of Web Crawlers
+Attributes Coupling based Item Enhanced Matrix Factorization Technique for Recommender Systems
+Events and Controversies: Influences of a Shocking News Event on Information Seeking
+Exploration of gaps in Bitly's spam detection and relevant counter measures
+Turkish Text Retrieval Experiments Using Lemur Toolkit
+A Retrieval Mechanism for Multi-versioned Digital Collection Using TAG
+SocRecM: A Scalable Social Recommender Engine for Online Marketplaces
+Learning Alternative Name Spellings
+Evaluating the retrieval effectiveness of Web search engines using a representative query sample
+Why we need an independent index of the Web
+Predicting Central Topics in a Blog Corpus from a Networks Perspective
+Sentiment Analysis: A Survey
+Be In The Know: Connecting News Articles to Relevant Twitter Conversations
+Which one is better: presentation-based or content-based math search?
+The Interestingness Tool for Search in the Web
+Topic words analysis based on LDA model
+Predicting Online Video Engagement Using Clickstreams
+Learning to Exploit Different Translation Resources for Cross Language Information Retrieval
+Web Log Data Analysis by Enhanced Fuzzy C Means Clustering
+Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)
+Coupled Item-based Matrix Factorization
+Traversing News with Ant Colony Optimisation and Negative Pheromones
+'Etude des dimensions sp 'ecifiques du contexte dans un syst eme de filtrage d'informations
+Inferring gender of a Twitter user using celebrities it follows
+A Topic Model Approach to Multi-Modal Similarity
+Aspect Based Sentiment Analysis to Extract Meticulous Opinion Value
+Cold-start Problems in Recommendation Systems via Contextual-bandit Algorithms
+On Recursive Edit Distance Kernels with Application to Time Series Classification
+Fast Linear Time Hierarchical Clustering using the Baire Metric
+Web Data Extraction Applications and Techniques: A Survey
+Rating through Voting: An Iterative Method for Robust Rating
+Robust Text Detection in Natural Scene Images
+Automatic Labeling for Entity Extraction in Cyber Security
+Combination of Multiple Bipartite Ranking for Web Content Quality Evaluation
+Notes on discrepancy in the pairwise comparisons method
+Tripartite Graph Clustering for Dynamic Sentiment Analysis on Social Media
+Concept Trees: Building Dynamic Concepts from Semi-Structured Data using Nature-Inspired Methods
+How Many Topics? Stability Analysis for Topic Models
+Using Local Alignments for Relation Recognition
+Knowledge Maps and Information Retrieval (KMIR)
+A Vague Improved Markov Model Approach for Web Page Prediction
+Integrating Vague Association Mining with Markov Model
+Multi-layered graph-based multi-document summarization model
+Using Mobile Agents for Information Retrival in B2B Systems
+Worldwide Domain Spaces make quantitative data searchable and prepare these for interoperable exchange
+Identifying Duplicate and Contradictory Information in Wikipedia
+Machine learning approach for text and document mining
+Fuzzy clustering of web documents using equivalence relations and fuzzy hierarchical clustering
+Text Mining System for Non-Expert Miners
+Bullseye: Structured Passage Retrieval and Document Highlighting for Scholarly Search
+A Semantic Enhanced Model for effective Spatial Information Retrieval
+MOOCdb: Developing Standards and Systems to Support MOOC Data Science
+Two-dimensional Sentiment Analysis of text
+Image Tag Completion by Low-rank Factorization with Dual Reconstruction Structure Preserved
+A Hybrid Latent Variable Neural Network Model for Item Recommendation
+FrameNet CNL: a Knowledge Representation and Information Extraction Language
+Identification of Orchid Species Using Content-Based Flower Image Retrieval
+POS Tagging and its Applications for Mathematics
+Compact Indexes for Flexible Top-k Retrieval
+Assessing the Quality of Web Content
+A Semantic VSM-Based Recommender System
+Mining of product reviews at aspect level
+An Anti Turing Test: Reduced Variables for Social Network Friends' Recommendations
+Eclipse Hashing: Alexandrov Compactification and Hashing with Hyperspheres for Fast Similarity Search
+Performance Evaluation of Incremental K-means Clustering Algorithm
+Performance Comparison of Incremental K-means and Incremental DBSCAN Algorithms
+Analysis and Study of Incremental DBSCAN Clustering Algorithm
+Improved Densification of One Permutation Hashing
+Reorganization of Links to Improve User Navigation
+On the Application of Generic Summarization Algorithms to Music
+Name Disambiguation from link data in a collaboration graph
+An Effective Approach for Web Document Classification using the Concept of Association Analysis of Data Mining
+Web Document Clustering and Ranking using Tf-Idf based Apriori Approach
+WebParF: A Web partitioning framework for Parallel Crawlers
+Computing on Masked Data: a High Performance Method for Improving Big Data Veracity
+VideoSET: Video Summary Evaluation through Text
+Is a Wirikuta empowerment' of the Huichol measurable on the Internet?
+PDF A-u as an archival format for Accessible mathematics
+Further heuristics for k -means: The merge-and-split heuristic and the (k l) -means
+The Links Have It: Infobox Generation by Summarization over Linked Entities
+From Citation count to Argumentation count: a new metric to indicate the usefulness of an article
+Using multi-categorization semantic analysis and personalization for semantic search
+Two Algorithms for Orthogonal Nonnegative Matrix Factorization with Application to Clustering
+A Poisson convolution model for characterizing topical content with word frequency and exclusivity
+Document Retrieval on Repetitive Collections
+Sequential Click Prediction for Sponsored Search with Recurrent Neural Networks
+Credibility Adjusted Term Frequency: A Supervised Term Weighting Scheme for Sentiment Analysis and Text Classification
+Personalized recommendation with corrected similarity
+Recommending Items in Social Tagging Systems Using Tag and Time Information
+Crowd-Sourcing Fuzzy and Faceted Classification for Concept Search
+Automatic annotation of bioinformatics workflows with biomedical ontologies
+Discovering New Sentiments from the Social Web
+Semantic Integration Single-Site Opening of Multiple Governmental Data Sources
+A Data-Driven Approach for Tag Refinement and Localization in Web Videos
+Reducing Offline Evaluation Bias in Recommendation Systems
+A Synonym Based Approach of Data Mining in Search Engine Optimization
+A Framework for Specific Term Recommendation Systems
+Establishing an Online Access Panel for Interactive Information Retrieval Research
+Identifying Cover Songs Using Information-Theoretic Measures of Similarity
+Bandits Warm-up Cold Recommender Systems
+XML Matchers: approaches and challenges
+Collaborative Recommendation with Auxiliary Data: A Transfer Learning View
+FAME: Face Association through Model Evolution
+From Social Network to Semantic Social Network in Recommender System
+Toward Network-based Keyword Extraction from Multitopic Web Documents
+Benchmarking Named Entity Disambiguation approaches for Streaming Graphs
+In Defense of MinHash Over SimHash
+Toward Selectivity Based Keyword Extraction for Croatian News
+Collaborative Filtering Ensemble for Personalized Name Recommendation
+Privacy-Preserving Important Passage Retrieval
+A Comparative Study of Hidden Web Crawlers
+Preference Networks: Probabilistic Models for Recommendation Systems
+A framework for contextual information retrieval from the WWW
+Improving web search using contextual retrieval
+Permutation Models for Collaborative Ranking
+2-Server PIR with sub-polynomial communication
+Interpretable Low-Rank Document Representations with Label-Dependent Sparsity Patterns
+Search Space Engine Optimize Search Using FCC STF Algorithm in Fuzzy Co-Clustering
+Ultra accurate collaborative information filtering via directed user similarity
+Fast Spammer Detection Using Structural Rank
+Recommender Systems using Pennant Diagrams in Digital Libraries
+A Preliminary Survey of Knowledge Discovery on Smartphone Applications (apps): Principles Techniques and Research Directions for E-health
+Text Classification Using Association Rules Dependency Pruning and Hyperonymization
+Entity-Linking via Graph-Distance Minimization
+Max-Sum Diversification Monotone Submodular Functions and Dynamic Updates
+Clustering and Relational Ambiguity: from Text Data to Natural Data
+Mathematical Language Processing Project
+OntoMath PRO Ontology: A Linked Data Hub for Mathematics
+Multi-agents Architecture for Semantic Retrieving Video in Distributed Environment
+Development of an Ontology Based Forensic Search Mechanism: Proof of Concept
+A Novel C2C E-Commerce Recommender System Based on Link Prediction: Applying Social Network Analysis
+Twitter User Classification using Ambient Metadata
+Learning From Ordered Sets and Applications in Collaborative Ranking
+Cumulative Restricted Boltzmann Machines for Ordinal Matrix Data Analysis
+Conditional Restricted Boltzmann Machines for Cold Start Recommendations
+Matrix Factorization with Explicit Trust and Distrust Relationships
+Personalized PageRank with Node-dependent Restart
+Predicting missing links and their weights via reliable-route-based method
+Non-hierarchical Structures: How to Model and Index Overlaps?
+Unstable markup: A template-based information extraction from web sites with unstable markup
+Guess Who Rated This Movie: Identifying Users Through Subspace Clustering
+R-UCB: a Contextual Bandit Algorithm for Risk-Aware Recommender Systems
+Optimizing Component Combination in a Multi-Indexing Paragraph Retrieval System
+Inequality-Constrained Matrix Completion: Adding the Obvious Helps
+BSRone: Binary Search with Routing of O(1) A Scalable Circular Design for Distributed Networks
+A Family of Rank Similarity Measures based on Maximized Effectiveness Difference
+Opinion mining of movie reviews at document level
+Semantic Publishing Challenge -- Assessing the Quality of Scientific Output
+Searchers Seeking: What Happens When you Frustrate Searchers?
+Diffusion Fingerprints
+A Case Study in Text Mining: Interpreting Twitter Data From World Cup Tweets
+Video In Sentences Out
+Accelerating Nearest Neighbor Search on Manycore Systems
+The automatic creation of concept maps from documents written using morphologically rich languages
+Parsimonious Topic Models with Salient Word Discovery
+Sequential Complexity as a Descriptor for Musical Similarity
+Utilizing Online Social Network and Location-Based Data to Recommend Products and Categories in Online Marketplaces
+Are 140 Characters Enough? A Large-Scale Linkability Study of Tweets
+SocialSpy: Browsing (Supposedly) Hidden Information in Online Social Networks
+RankMerging: Learning-to-rank in large-scale social networks (extended version)
+Are topic-specific search term journal name and author name recommendations relevant for researchers?
+Mathematical Knowledge Representation: Semantic Models and Formalisms
+Factors Influencing the Quality of the User Experience in Ubiquitous Recommender Systems
+Mobile recommender systems: An overview of technologies and challenges
+An Information Retrieval Approach to Short Text Conversation
+Challenges in Bridging Social Semantics and Formal Semantics on the Web
+Show Me the Money: Dynamic Recommendations for Revenue Maximization
+Marginalizing over the PageRank Damping Factor
+Facets and Typed Relations as Tools for Reasoning Processes in Information Retrieval
+Image Retrieval And Classification Using Local Feature Vectors
+CoMOGrad and PHOG: From Computer Vision to Fast and Accurate Protein Tertiary Structure Retrieval
+A Generalized Framework for Ontology-Based Information Retrieval Application to a public-transportation system
+Improving Accessibility of Archived Raster Dictionaries of Complex Script Languages
+Recommending Scientific Literature: Comparing Use-Cases and Algorithms
+Recommendation Subgraphs for Web Discovery
+Augmenting recommendation systems using a model of semantically-related terms extracted from user behavior
+Automatic Detection of Webpages that Share the Same Web Template
+A Crowdsourcing Procedure for the Discovery of Non-Obvious Attributes of Social Image
+Parallel and Distributed Collaborative Filtering: A Survey
+Collaborative Deep Learning for Recommender Systems
+Look Ma No Hands A Parameter-Free Topic Model
+Semantic web service discovery approaches: overview and limitations
+Topic Modeling of Hierarchical Corpora
+Semantifying Twitter: the influenceTracker ontology
+Nearest Keyword Set Search in Multi-dimensional Datasets
+Polarity detection movie reviews in hindi language
+A Deep and Autoregressive Approach for Topic Modeling of Multimodal Data
+DISA at ImageCLEF 2014 Revised: Search-based Image Annotation with DeCAF Features
+ICE: Enabling Non-Experts to Build Models Interactively for Large-Scale Lopsided Problems
+Exploratory Analysis of a Terabyte Scale Web Corpus
+Benchmarking the Privacy-Preserving People Search
+A Benchmark Suite for Template Detection and Content Extraction
+Learning to Match for Multi-criteria Document Relevance
+Improving Cross-domain Recommendation through Probabilistic Cluster-level Latent Factor Model--Extended Version
+Heterogeneous Metric Learning with Content-based Regularization for Software Artifact Retrieval
+Topic Similarity Networks: Visual Analytics for Large Document Sets
+Context-Based Information Retrieval in Risky Environment
+Synthetic sequence generator for recommender systems - memory biased random walk on sequence multilayer network
+Scalable Text and Link Analysis with Mixed-Topic Link Models
+Distance Closures on Complex Networks
+Learning Soft Linear Constraints with Application to Citation Field Extraction
+Is Evaluating Visual Search Interfaces in Digital Libraries Still an Issue?
+Semantic clustering of Russian web search results: possibilities and problems
+ProbFuse: A Probabilistic Approach to Data Fusion
+Freshness-Aware Thompson Sampling
+On Evaluation Validity in Music Autotagging
+PinView: Implicit Feedback in Content-Based Image Retrieval
+Probit Normal Correlated Topic Models
+Document Clustering Based On Max-Correntropy Non-Negative Matrix Factorization
+Top Rank Optimization in Linear Time
+Low cost page quality factors to detect web spam
+A Scalable Lexicon Based Technique for Sentiment Analysis
+Recommendation Scheme Based on Converging Properties for Contents Broadcasting
+Extending Probabilistic Data Fusion Using Sliding Windows
+Tag Relevance Fusion for Social Image Retrieval
+On the Feasibility and Implications of Self-Contained Search Engines in the Browser
+Accurate Local Estimation of Geo-Coordinates for Social Media Posts
+Harnessing the power of Social Bookmarking for improving tag-based Recommendations
+Fixed-Points of Social Choice: An Axiomatic Approach to Network Communities
+On Symmetric and Asymmetric LSHs for Inner Product Search
+Penerapan teknik web scraping pada mesin pencari artikel ilmiah
+OHMF: A Query Based Optimal Healthcare Medication Framework
+Effects of Social Influence in Peer Online Recommendation
+XML Information Retrieval:An overview
+A Markov Decision Process Analysis of the Cold Start Problem in Bayesian Information Filtering
+Latent Feature Based FM Model For Rating Prediction
+Health Information Search Behavior on the Web: A Pilot Study
+Personalized News Recommendation with Context Trees
+Capturing Variation and Uncertainty in Human Judgment
+Using temporal IDF for efficient novelty detection in text streams
+A Weighted Correlation Index for Rankings with Ties
+Budget-Constrained Item Cold-Start Handling in Collaborative Filtering Recommenders via Optimal Design
+Scalable Topical Phrase Mining from Text Corpora
+Improved Asymmetric Locality Sensitive Hashing (ALSH) for Maximum Inner Product Search (MIPS)
+Detecting Figures and Part Labels in Patents: Competition-Based Development of Image Processing Algorithms
+The Latent Structure of Dictionaries
+Distributed Submodular Maximization
+A Probabilistic Translation Method for Dictionary-based Cross-lingual Information Retrieval in Agglutinative Languages
+Faster Exact Search using Document Clustering
+Scientometrics and Information Retrieval - weak-links revitalized
+Submodular meets Structured: Finding Diverse Subsets in Exponentially-Large Structured Item Sets
+Using Gaussian Measures for Efficient Constraint Based Clustering
+Statistically Significant Detection of Linguistic Change
+DUM: Diversity-Weighted Utility Maximization for Recommendations
+Scalable Link Prediction in Dynamic Networks via Non-Negative Matrix Factorization
+Holistic Collaborative Privacy Framework for Users' Privacy in Social Recommender Service
+A Hybrid Approach to Finding Relevant Social Media Content for Complex Domain Specific Information Needs
+Asymmetric Minwise Hashing
+Quantum emulation of query extension in information retrieval
+PDD Crawler: A focused web crawler using link and content analysis for relevance prediction
+Cross-Modal Similarity Learning : A Low Rank Bilinear Formulation
+Which Are You In A Photo?
+Towards an objective ranking in online reputation systems: the effect of the rating projection
+Efficient Media Retrieval from Non-Cooperative Queries
+CIDEr: Consensus-based Image Description Evaluation
+A Joint Probabilistic Classification Model of Relevant and Irrelevant Sentences in Mathematical Word Problems
+Automatic Summarization of Soccer Highlights Using Audio-visual Descriptors
+A Latent Source Model for Online Collaborative Filtering
+HCRS: A hybrid clothes recommender system based on user ratings and product features
+Efficient Fuzzy Search Engine with B-Tree Search Mechanism
+Edge direction matrixes-based local binar patterns descriptor for shape pattern recognition
+Emergence of scale-free leadership structure in social recommender systems
+Why does attention to web articles fall with time?
+Decoding billions of integers per second through vectorization
+Corpus Development for Affective Video Indexing
+The network structure of mathematical knowledge according to the Wikipedia MathWorld and DLMF online libraries
+Indexing by Latent Dirichlet Allocation and Ensemble Model
+The Why and How of Nonnegative Matrix Factorization
+SIMD Compression and the Intersection of Sorted Integers
+Visualizing Digital Collections
+Adaptive Representations for Tracking Breaking News on Twitter
+Coupled Matrix Factorization within Non-IID Context
+Peacock: Learning Long-Tail Topic Features for Industrial Applications
+Community detection in networks: Structural communities versus ground truth
+Genesis of Altmetrics or Article-level Metrics for Measuring Efficacy of Scholarly Communications: Current Perspectives
+Interactive Visual Exploration of Topic Models using Graphs
+Lazier Than Lazy Greedy
+Scene Image is Non-Mutually Exclusive - A Fuzzy Qualitative Scene Understanding
+Paradigm shifts. Part I. Collagen. Confirming and complementing the work of Henry Small
+Extraction of Pharmacokinetic Evidence of Drug-drug Interactions from the Literature
+Watsonsim: Overview of a Question Answering Engine
+LightLDA: Big Topic Models on Modest Compute Clusters
+Document clustering using graph based document representation with constraints
+Paradigm shifts. Part II. Reverse Transcriptase. Analysis of reference stability and word frequencies
+Phishing Detection in IMs using Domain Ontology and CBA - An innovative Rule Generation Approach
+Sequential Hypothesis Tests for Adaptive Locality Sensitive Hashing
+Web image annotation by diffusion maps manifold learning algorithm
+Hybrid recommendation methods in complex networks
+ILCR: Item-based Latent Factors for Sparse Collaborative Retrieval
+Ripple Down Rules for Question Answering
+A Scalable Asynchronous Distributed Algorithm for Topic Modeling
+Random Forests Can Hash
+Word Network Topic Model: A Simple but General Solution for Short and Imbalanced Texts
+Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary
+Visual Concept Ontology for Image Annotations
+Semantic Modelling with Long-Short-Term Memory for Information Retrieval
+Extraction of Salient Sentences from Labelled Documents
+Representation Learning for cold-start recommendation
+Hete-CF: Social-Based Collaborative Filtering Recommendation using Heterogeneous Relations
+Plagiarism Detection on Electronic Text based Assignments using Vector Space Model (ICIAfS14)
+Predicting User Engagement in Twitter with Collaborative Ranking
+Persian Sentiment Analyzer: A Framework based on a Novel Feature Selection Method
+Extraction of Web Usage Profiles using Simulated Annealing Based Biclustering Approach
+Hierarchical Bayesian Models with Factorization for Content-Based Recommendation
+Learning from Labeled Features for Document Filtering
+Improving Persian Document Classification Using Semantic Relations between Words
+Interactive Retrieval Based on Wikipedia Concepts
+USUM: Update Summary Generation System
+Ranking users papers and authors in online scientific communities
+Efficient randomized algorithms for PageRank problem
+QANUS: An Open-source Question-Answering Platform
+Group-based ranking method for online rating systems with spamming attacks
+Identifying Relevant Document Facets for Keyword-Based Search Queries
+Arabic Text Categorization Algorithm using Vector Evaluation Method
+Roman Urdu Opinion Mining System (RUOMiS)
+A probabilistic model to resolve diversity-accuracy challenge of recommendation systems
+Web Template Extraction Based on Hyperlink Analysis
+Autodetection and Classification of Hidden Cultural City Districts from Yelp Reviews
+A Dataset for Movie Description
+Bibliometric-enhanced Information Retrieval: 2nd International BIR Workshop
+Texture Retrieval via the Scattering Transform
+Towards Deep Semantic Analysis Of Hashtags
+Consistence beats causality in recommender systems
+A Hybrid Approach to Web Service Recommendation Based on QoS-Aware Rating and Ranking
+Responding to Retrieval: A Proposal to Use Retrieval Information for Better Presentation of Website Content
+Regroupement s 'emantique de d 'efinitions en espagnol
+Learning to Rank Academic Experts in the DBLP Dataset
+Using Rank Aggregation for Expert Search in Academic Digital Libraries
+A New Efficient Method for Calculating Similarity Between Web Services
+A new efficient Matching method for web services substitution
+Augmented Test Collections: A Step in the Right Direction
+Document Distance for the Automated Expansion of Relevance Judgements for Information Retrieval Evaluation
+The Anatomy of Relevance: Topical Snippet and Perceived Relevance in Search Result Evaluation
+User Clustering in Online Advertising via Topic Models
+Time Aware Knowledge Extraction for Microblog Summarization on Twitter
+Regression and Learning to Rank Aggregation for User Engagement Evaluation
+Signal recognition and adapted filtering by non-commutative tomography
+MATAWS: A Multimodal Approach for Automatic WS Semantic Annotation
+On Flexible Web Services Composition Networks
+Hierarchical Clustering of Hyperspectral Images using Rank-Two Nonnegative Matrix Factorization
+A Clustering Analysis of Tweet Length and its Relation to Sentiment
+Learning Rank Functionals: An Empirical Study
+Aber-OWL: a framework for ontology-based data access in biology
+Exploration vs. Exploitation in the Information Filtering Problem
+On the Accuracy of Hyper-local Geotagging of Social Media Content
+Distributed Methods for High-dimensional and Large-scale Tensor Factorization
+Model Selection for Topic Models via Spectral Decomposition
+Ensemble of Generative and Discriminative Techniques for Sentiment Analysis of Movie Reviews
+Scalable high-dimensional indexing and searching with Hadoop
+CITEX: A new citation index to measure the relative importance of authors and papers in scientific publications
+Attention Please A Hybrid Resource Recommender Mimicking Attention-Interpretation Dynamics
+Twitter Hash Tag Recommendation
+Efficient refinement of GPS-based localization in urban areas using visual information and sensor parameter
+Unsupervised Incremental Learning and Prediction of Audio Signals
+Context Models For Web Search Personalization
+A Polya Urn Document Language Model for Improved Information Retrieval
+Personalized Web Search
+Bitcoin Transaction Graph Analysis
+A General SIMD-based Approach to Accelerating Compression Algorithms
+Editorial for the Proceedings of the Workshop Knowledge Maps and Information Retrieval (KMIR2014) at Digital Libraries 2014
+How can heat maps of indexing vocabularies be utilized for information seeking purposes?
+Hierarchical Dirichlet process for tracking complex topical structure evolution and its application to autism research literature
+Improving Term Frequency Normalization for Multi-topical Documents and Application to Language Modeling Approaches
+Wisdom of the Few? Supertaggers in Collaborative Tagging Systems
+MAP: Microblogging Assisted Profiling of TV Shows
+A Hybrid Approach for Improved Content-based Image Retrieval using Segmentation
+Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources
+Ordering-sensitive and Semantic-aware Topic Modeling
+Applying deep learning techniques on medical corpora from the World Wide Web: a prototypical system and evaluation
+On Projection Based Operators in Lp space for Exact Similarity Search
+A Distributional Representation Model For Collaborative Filtering
+Two-Stage Document Length Normalization for Information Retrieval
+Semantic Modeling of Analytic-based Relationships with Direct Qualification
+TextLuas: Tracking and Visualizing Document and Term Clusters in Dynamic Text Data
+TimeMachine: Timeline Generation for Knowledge-Base Entities
+Enhancing Information Awareness Through Directed Qualification of Semantic Relevancy Scoring Operations
+Topic Level Disambiguation for Weak Queries
+Count-Min-Log sketch: Approximately counting with approximate counters
+Affective Music Information Retrieval
+Query Expansion Strategy based on Pseudo Relevance Feedback and Term Weight Scheme for Monolingual Retrieval
+Rule-and Dictionary-based Solution for Variations in Written Arabic Names in Social Networks Big Data Accounting Systems and Large Databases
+On the Effects of Low-Quality Training Data on Information Extraction from Clinical Reports
+Optimizing Text Quantifiers for Multivariate Loss Functions
+Evolutionary algorithm based adaptive navigation in information retrieval interfaces
+Stream Sampling for Frequency Cap Statistics
+Web Similarity
