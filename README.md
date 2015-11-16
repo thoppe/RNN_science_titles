@@ -2,7 +2,15 @@
 --------------------------------
 A recurrent neural network with long short term memory to predict titles of scientific articles. Uses karpathy's [char-rnn](https://github.com/karpathy/char-rnn) as the base implementation. 
 
-Due to space contraints the titles are not stored in this repo.
+There is a quick [presentation](http://thoppe.github.io/RNN_science_titles/HnT_RNN_arXiv.html) on the project, but if all you really want is the 
+
+## Raw data
+
+The titles used as input and the auto-generated titles can be found in the [/samples](/samples) directory.
+
+----------------------------------
+
+Due to space contraints the models are not stored in this repo.
 
 ## Instructions
 
