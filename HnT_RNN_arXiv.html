@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+
+    <title>RNN arXiv</title>
+    
+    <meta name="description" content="">
+    <meta name="author" content="Travis Hoppe">
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" 
+	  content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, 
+				   initial-scale=1.0, 
+				   maximum-scale=1.0, 
+				   user-scalable=no">
+
+    <link rel="stylesheet" href="reveal.js/css/reveal.css">
+
+    <!-- Default themes -->
+    <link rel="stylesheet" href="reveal.js/css/theme/simple.css" id="theme">
+    
+
+    <!-- For syntax highlighting -->
+    <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+    <!-- For LaTeX formating highlighting -->
+    <link rel="stylesheet" href="md2reveal/css/md2reveal_style.css">
+
+    <!--[if lt IE 9]>
+	<script src="reveal.js/lib/js/html5shiv.js"></script>
+	<![endif]-->
+  </head>
+
+  <body>
+
+    <div class="reveal"><div class="slides">
+	<section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h1>RNN arXiv</h1><em>bro, do you even science?</em></p>
+<br>
+<p>
+<strong><a href="http://thoppe.github.io/">Travis Hoppe</a></strong></p>
+<hr>
+<p>
+<a href="https://github.com/thoppe/RNN_science_titles">https://github.com/thoppe/RNN_science_titles</a></p>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h2>New machine learning hotness</h2><h4>Recurrent Neural Network (RNN) with the Long Short Term Memory (LSTM)</h4></p>
+<br>
+<p>
+<a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">The Unreasonable Effectiveness of Recurrent Neural Networks</a><div class="fragment"><br></p>
+<figure>
+    <a href="figures/gifs/mb3.gif">
+    <img class="transparent_image" src="figures/gifs/mb3.gif" height="220px">
+    </a>
+    
+    </figure>
+<figure>
+    <a href="figures/gifs/mb2.gif">
+    <img class="transparent_image" src="figures/gifs/mb2.gif" height="220px">
+    </a>
+    
+    </figure>
+<figure>
+    <a href="figures/gifs/mb4.gif">
+    <img class="transparent_image" src="figures/gifs/mb4.gif" height="220px">
+    </a>
+    
+    </figure>
+<br>
+<p>
+Really, go read this post -- it's amazing!<br></div></p>
+</section><section   class="vertical-slide">
+<p>
+<h2><code>char-rnn</code>, Andrej Karpathy</h2>Lua/torch <a href="https://github.com/karpathy/char-rnn">library</a> to implement a RNN-LSTM.</p>
+<figure>
+    <a href="figures/charseq.jpeg">
+    <img class="transparent_image" src="figures/charseq.jpeg" height="500px">
+    </a>
+    <figcaption>20 second introduction to RNN</figcaption>
+    </figure>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h2><a href="http://arxiv.org/">arXiv.org</a></h2>preprint server for physics, mathematics & CS (160+ categories!)</p>
+<figure>
+    <a href="figures/arXiv_cap.png">
+    <img class="transparent_image" src="figures/arXiv_cap.png" height="600px">
+    </a>
+    
+    </figure>
+</section><section   class="vertical-slide">
+<p>
+<h2><a href="http://arxiv.org/list/astro-ph/recent">arXiv.org/astro.ph</a></h2>titles are short learnable "patterns"</p>
+<figure>
+    <a href="figures/arXiv_titles.png">
+    <img class="" src="figures/arXiv_titles.png" height="600px">
+    </a>
+    
+    </figure>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h2>Data Wrangling</h2></p>
+<br>
+<p>
+spider arXiv <svg class="latexSVG" height="100%" version="1.2" viewBox="0 0 8.859375 5.203125" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <g>
+   <symbol id="equation_EYIEF_0" overflow="visible">
+    <path d="M 8.3125 -2.296875 C 7.765625 -1.875 7.5 -1.46875 7.421875 -1.328125 C 6.96875 -0.640625 6.890625 -0.015625 6.890625 -0.015625 C 6.890625 0.109375 7.015625 0.109375 7.09375 0.109375 C 7.25 0.109375 7.265625 0.09375 7.3125 -0.09375 C 7.53125 -1.0625 8.125 -1.90625 9.25 -2.359375 C 9.375 -2.40625 9.40625 -2.421875 9.40625 -2.5 C 9.40625 -2.5625 9.34375 -2.59375 9.328125 -2.609375 C 8.875 -2.765625 7.671875 -3.265625 7.296875 -4.9375 C 7.265625 -5.0625 7.25 -5.09375 7.09375 -5.09375 C 7.015625 -5.09375 6.890625 -5.09375 6.890625 -4.96875 C 6.890625 -4.953125 6.984375 -4.328125 7.390625 -3.65625 C 7.59375 -3.359375 7.890625 -3.015625 8.3125 -2.6875 L 0.90625 -2.6875 C 0.734375 -2.6875 0.546875 -2.6875 0.546875 -2.5 C 0.546875 -2.296875 0.734375 -2.296875 0.90625 -2.296875 Z M 8.3125 -2.296875 " style="stroke:none;"/>
+   </symbol>
+  </g>
+ </defs>
+ <g id="surface1">
+  <g>
+   <use x="-0.546875" xlink:href="#equation_EYIEF_0" y="5.09375"/>
+  </g>
+ </g>
+</svg> unidecode (<svg class="latexSVG" height="100%" version="1.2" viewBox="0 0 25.50175 8.96875" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <g>
+   <symbol id="equation_GQMWK_1" overflow="visible">
+    <path d="M 5.734375 -5.671875 C 5.734375 -6.421875 5.1875 -7.03125 4.375 -7.03125 C 3.796875 -7.03125 3.515625 -6.875 3.171875 -6.625 C 2.625 -6.21875 2.078125 -5.25 1.890625 -4.5 L 0.296875 1.828125 C 0.296875 1.875 0.34375 1.9375 0.421875 1.9375 C 0.5 1.9375 0.53125 1.90625 0.53125 1.890625 L 1.234375 -0.875 C 1.421875 -0.265625 1.859375 0.09375 2.59375 0.09375 C 3.3125 0.09375 4.0625 -0.25 4.515625 -0.6875 C 5 -1.140625 5.3125 -1.78125 5.3125 -2.515625 C 5.3125 -3.234375 4.9375 -3.765625 4.578125 -4 C 5.15625 -4.34375 5.734375 -4.953125 5.734375 -5.671875 Z M 3.9375 -4.015625 C 3.8125 -3.96875 3.703125 -3.953125 3.453125 -3.953125 C 3.3125 -3.953125 3.125 -3.9375 3.015625 -3.984375 C 3.046875 -4.09375 3.40625 -4.0625 3.515625 -4.0625 C 3.71875 -4.0625 3.8125 -4.0625 3.9375 -4.015625 Z M 5.171875 -5.90625 C 5.171875 -5.203125 4.796875 -4.484375 4.28125 -4.171875 C 4 -4.28125 3.8125 -4.296875 3.515625 -4.296875 C 3.296875 -4.296875 2.734375 -4.3125 2.734375 -3.984375 C 2.734375 -3.703125 3.25 -3.734375 3.421875 -3.734375 C 3.796875 -3.734375 3.953125 -3.734375 4.25 -3.859375 C 4.625 -3.5 4.671875 -3.1875 4.6875 -2.734375 C 4.703125 -2.15625 4.46875 -1.40625 4.1875 -1.015625 C 3.796875 -0.484375 3.125 -0.125 2.5625 -0.125 C 1.796875 -0.125 1.421875 -0.703125 1.421875 -1.40625 C 1.421875 -1.5 1.421875 -1.65625 1.46875 -1.84375 L 2.109375 -4.359375 C 2.328125 -5.21875 3.046875 -6.8125 4.25 -6.8125 C 4.828125 -6.8125 5.171875 -6.5 5.171875 -5.90625 Z M 5.171875 -5.90625 " style="stroke:none;"/>
+   </symbol>
+   <symbol id="equation_GQMWK_2" overflow="visible">
+    <path d="M 2.375 -6.8125 C 2.375 -6.8125 2.375 -6.921875 2.25 -6.921875 C 2.03125 -6.921875 1.296875 -6.84375 1.03125 -6.8125 C 0.953125 -6.8125 0.84375 -6.796875 0.84375 -6.625 C 0.84375 -6.5 0.9375 -6.5 1.09375 -6.5 C 1.5625 -6.5 1.578125 -6.4375 1.578125 -6.328125 C 1.578125 -6.265625 1.5 -5.921875 1.453125 -5.71875 L 0.625 -2.46875 C 0.515625 -1.96875 0.46875 -1.796875 0.46875 -1.453125 C 0.46875 -0.515625 1 0.109375 1.734375 0.109375 C 2.90625 0.109375 4.140625 -1.375 4.140625 -2.8125 C 4.140625 -3.71875 3.609375 -4.40625 2.8125 -4.40625 C 2.359375 -4.40625 1.9375 -4.109375 1.640625 -3.8125 Z M 1.453125 -3.046875 C 1.5 -3.265625 1.5 -3.28125 1.59375 -3.390625 C 2.078125 -4.03125 2.53125 -4.1875 2.796875 -4.1875 C 3.15625 -4.1875 3.421875 -3.890625 3.421875 -3.25 C 3.421875 -2.65625 3.09375 -1.515625 2.90625 -1.140625 C 2.578125 -0.46875 2.125 -0.109375 1.734375 -0.109375 C 1.390625 -0.109375 1.0625 -0.375 1.0625 -1.109375 C 1.0625 -1.3125 1.0625 -1.5 1.21875 -2.125 Z M 1.453125 -3.046875 " style="stroke:none;"/>
+   </symbol>
+   <symbol id="equation_GQMWK_0" overflow="visible">
+    <path d="M 8.3125 -2.296875 C 7.765625 -1.875 7.5 -1.46875 7.421875 -1.328125 C 6.96875 -0.640625 6.890625 -0.015625 6.890625 -0.015625 C 6.890625 0.109375 7.015625 0.109375 7.09375 0.109375 C 7.25 0.109375 7.265625 0.09375 7.3125 -0.09375 C 7.53125 -1.0625 8.125 -1.90625 9.25 -2.359375 C 9.375 -2.40625 9.40625 -2.421875 9.40625 -2.5 C 9.40625 -2.5625 9.34375 -2.59375 9.328125 -2.609375 C 8.875 -2.765625 7.671875 -3.265625 7.296875 -4.9375 C 7.265625 -5.0625 7.25 -5.09375 7.09375 -5.09375 C 7.015625 -5.09375 6.890625 -5.09375 6.890625 -4.96875 C 6.890625 -4.953125 6.984375 -4.328125 7.390625 -3.65625 C 7.59375 -3.359375 7.890625 -3.015625 8.3125 -2.6875 L 0.90625 -2.6875 C 0.734375 -2.6875 0.546875 -2.6875 0.546875 -2.5 C 0.546875 -2.296875 0.734375 -2.296875 0.90625 -2.296875 Z M 8.3125 -2.296875 " style="stroke:none;"/>
+   </symbol>
+  </g>
+ </defs>
+ <g id="surface1">
+  <g>
+   <use x="-0.296875" xlink:href="#equation_GQMWK_1" y="7.03125"/>
+  </g>
+  <g>
+   <use x="8.631125" xlink:href="#equation_GQMWK_0" y="7.03125"/>
+  </g>
+  <g>
+   <use x="21.361125" xlink:href="#equation_GQMWK_2" y="7.03125"/>
+  </g>
+ </g>
+</svg>) <svg class="latexSVG" height="100%" version="1.2" viewBox="0 0 8.859375 5.203125" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <g>
+   <symbol id="equation_EYIEF_0" overflow="visible">
+    <path d="M 8.3125 -2.296875 C 7.765625 -1.875 7.5 -1.46875 7.421875 -1.328125 C 6.96875 -0.640625 6.890625 -0.015625 6.890625 -0.015625 C 6.890625 0.109375 7.015625 0.109375 7.09375 0.109375 C 7.25 0.109375 7.265625 0.09375 7.3125 -0.09375 C 7.53125 -1.0625 8.125 -1.90625 9.25 -2.359375 C 9.375 -2.40625 9.40625 -2.421875 9.40625 -2.5 C 9.40625 -2.5625 9.34375 -2.59375 9.328125 -2.609375 C 8.875 -2.765625 7.671875 -3.265625 7.296875 -4.9375 C 7.265625 -5.0625 7.25 -5.09375 7.09375 -5.09375 C 7.015625 -5.09375 6.890625 -5.09375 6.890625 -4.96875 C 6.890625 -4.953125 6.984375 -4.328125 7.390625 -3.65625 C 7.59375 -3.359375 7.890625 -3.015625 8.3125 -2.6875 L 0.90625 -2.6875 C 0.734375 -2.6875 0.546875 -2.6875 0.546875 -2.5 C 0.546875 -2.296875 0.734375 -2.296875 0.90625 -2.296875 Z M 8.3125 -2.296875 " style="stroke:none;"/>
+   </symbol>
+  </g>
+ </defs>
+ <g id="surface1">
+  <g>
+   <use x="-0.546875" xlink:href="#equation_EYIEF_0" y="5.09375"/>
+  </g>
+ </g>
+</svg><br>strip all characters except <code>[a-z][A-Z][0-9][_-()]</code></p>
+<br>
+<p>
+<h2>Machine Learning</h2>Trained all categories on the same set of hyperparameters:</p>
+<br>
+<p>
+<code>1024</code> RNN size, <code>2</code> layers, <code>30</code> max epochs, <code>0.5</code> dropout,<br><code>50</code> sequence length, <code>0.002</code> learning rate, <code>0.97</code> decay, <code>50</code> batch size</p>
+<br>
+<p>
+Took top cross-validated model (sometimes error exploded!).</p>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h1>Size Matters!</h1></p>
+<figure>
+    <a href="figures/validation_vs_input.png">
+    <img class="" src="figures/validation_vs_input.png" height="600px">
+    </a>
+    <figcaption>Fixed hyperparameters for all models, exponential fit</figcaption>
+    </figure>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h2>Examples (low quality)</h2></p>
+</section><section   class="vertical-slide">
+<p>
+<h2>Examples (medium quality)</h2></p>
+</section><section   class="vertical-slide">
+<p>
+<h2>Examples (high quality)</h2></p>
+</section><section   class="vertical-slide">
+<p>
+<h3>Bro, do you even science?</h3>examples...</p>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h1>What's next?</h1>Any large, consistent corpus of text...</p>
+<br>
+<p>
+<a href="http://users.wfu.edu/louden/Political%20Communication/Class%20Information/SPEECHES.html">Political speeches</a><br>Political treaties (eg. <a href="https://ustr.gov/tpp/">TPP</a>)<br><a href="http://www.ncbi.nlm.nih.gov/genbank/">DNA</a>, <a href="http://rnacentral.org/">RNA</a>, <a href="http://www.uniprot.org/">protein sequences</a><br><a href="http://rap.genius.com/">Rap lyrics</a> & <a href="https://www.poets.org/">poems</a><br><a href="http://www.scopus.com/">Paper abstracts</a></p>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h1>Thanks, you!</h1>Tweet more ideas to <a href="https://twitter.com/metasemantic">@metasemantic</a>!</p>
+</section>
+</section>
+    </div></div>
+
+    <script src="reveal.js/lib/js/head.min.js"></script>
+    <script src="reveal.js/js/reveal.js"></script>
+
+    <script>
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+      overview: true, height: 900, keyboard: {37: 'prev', 39: 'next'}, touch: true, hideAddressBar: true, rollingLinks: false, mouseWheel: false, controls: true, width: 1200, viewDistance: 3, rtl: false, progress: true, fragments: true, autoSlide: 0, autoSlideStoppable: true, backgroundtransition: "default", transitionSpeed: "default", center: true, embedded: true, transition: "default", maxScale: 1.2, minScale: 0.2, previewLinks: false, margin: 0.05, loop: false, history: true, 
+      
+      theme: Reveal.getQueryHash().theme, 
+      // available themes are in reveal.js/css/theme
+
+      // Optional libraries used to extend on reveal.js
+      dependencies: [ { src: 'reveal.js/lib/js/classList.js', condition: function() { 
+    return !document.body.classList; } },
+
+{ src: 'reveal.js/plugin/markdown/showdown.js', condition: function() { 
+    return !!document.querySelector( '[data-markdown]' ); } },
+
+{ src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { 
+    return !!document.querySelector( '[data-markdown]' ); } },
+
+{ src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: 
+  function() { hljs.initHighlightingOnLoad(); } },
+
+{ src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: 
+  function() { return !!document.body.classList; } },
+ ]
+
+      });
+    </script>
+
+  </body>
+</html>
