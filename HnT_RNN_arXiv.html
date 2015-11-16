@@ -44,7 +44,7 @@
 <h1>RNN arXiv</h1><em>bro, do you even science?</em></p>
 <br>
 <p>
-<strong><a href="http://thoppe.github.io/">Travis Hoppe</a></strong></p>
+<strong><a href="http://thoppe.github.io/">Travis Hoppe</a></strong>, <a href="https://twitter.com/metasemantic">@metasemantic</a></p>
 <hr>
 <p>
 <a href="https://github.com/thoppe/RNN_science_titles">https://github.com/thoppe/RNN_science_titles</a></p>
@@ -189,16 +189,96 @@ Took top cross-validated model (sometimes error exploded!).</p>
 </section><section class="vertical-stack">
 <section   class="vertical-slide">
 <p>
-<h2>Examples (low quality)</h2></p>
+<h2>Examples (low quality)</h2>chem-ph (validation score 3.19)</p>
+<pre><code class=python>C
+on
+on
+o
+n
+o
+o</code></pre>
+<br>
+<p>
+q-bio.CB (1.48)</p>
+<pre><code class=python>A Mathematical model
+stochastic model of cells
+Protein
+Expression
+System
+The single cells
+Model of protocells
+Mathematical self-oscillation
+Formation of Plasticity</code></pre>
 </section><section   class="vertical-slide">
 <p>
-<h2>Examples (medium quality)</h2></p>
+<h2>Examples (medium quality)</h2>cs.AI (1.02)</p>
+<pre><code class=python>Semantic Based Medical Image Retrieval
+Structure Generation Entropy Space: Advances in Structural Mechanism
+Monitoring E- A complete systems
+Description Logics Design
+Indexer Based Markov Control Assessment
+Estimation of Approximate Datasets
+Local Search Space Selection for Text Constraints
+Approximation by Space Preferences
+Availability of Probability Theory</code></pre>
+<br>
+<p>
+math.DS (0.91)</p>
+<pre><code class=python>Multifractal analysis for Lebesgue space
+Quadratic Jump Central Triangles
+Turbulence relations and fractal measures
+Wandering points for autonomous resonances
+Limit Sets of Infinite Torus Orbit
+The bifurcation of surface diffeomorphisms with negatively curved manifolds
+Algorithmic entropy and quadratic variables in quasi-topological Dynamical Networks
+Statistical reductions for reaction-diffusion equations</code></pre>
 </section><section   class="vertical-slide">
 <p>
-<h2>Examples (high quality)</h2></p>
+<h2>Examples (high quality)</h2>astro-ph (0.77)</p>
+<pre><code class=python>Geometrical electron capture of July 2000 To 1001
+The Solar Dynamics Observatory
+Constraining the White-Light Flare of Protostellar Outflows with an Edge
+The New Color Laboratory Wave Event of Extremely Open Clusters
+Post-M dwarfs from the NIR spectral indices
+The UV-UV Observations of Sunspot Images
+The Narrow-Band Temporal Properties of Dark Clouds with Accurate Supernova
+Blazhko Relationship between Coronal Wave cores
+Dynamics and Shock Wave Instability in Massive Stars with Massive Stars</code></pre>
+<br>
+<p>
+hep-ph (0.74)</p>
+<pre><code class=python>Search for CP-Violation in Right-Handed Neutrinos
+Neutron Star Propagation as a Source of the Hadron-Hadron Scattering Measurement at the Planck Scale
+Goldstone bosons and scattering modes from two-dimensional Hamiltonians
+Baryogenesis with Yukawa Unified SUSY GUTs
+Radial scattering and dense quark matter and chiral phase transition of a pseudoscalar meson at finite baryon density
+Transition Form Factor Constant in a Quark-Diquark Model
+A New Theory of Supersymmetry Breaking
+Effective gluon propagator in QCD at zero and finite temperature and and dual gauge QCD in the BCS-BCS limit
+Light scalar pair signals in top quark multiple polarization</code></pre>
 </section><section   class="vertical-slide">
 <p>
-<h3>Bro, do you even science?</h3>examples...</p>
+<h2>Bro do you even science?</h2></p>
+<br>
+<p>
+Which of these are real? Which are fake?</p>
+<br>
+<pre><code class=python>1. A User-Friendly Code to Diagnose Chromospheric Plasmas
+2. Shock Parameters in Astrophysics
+3. Wormholes in the accelerating universe
+4. Phase recovering by Electron Deconvolution on Gravitational Wave Signals
+5. Averaging and Cosmological Observations
+6. Developments of global mass function
+7. VIMOS total transmission profiles for broad-band filters
+8. Bayesian plane for MACS. Atmospheric Cherenkov Telescopes
+9. Gaseous Inner Disks
+10. Science and Fluorescence Detection Time Scales with Transient Least Squares II. Mask coronagraphs
+11. Dissipation of Magnetic Flux in Primordial Star Formation: From Run-away Phase to Mass Accretion Phase
+12. High-energy Cosmic Ray Shower Observations on Pulsar Disk
+13. Thermal inertia of near-Earth asteroids and implications for the magnitude of the Yarkovsky effect
+14. Activity Ionization and Instrumentation
+15. A 610 MHz Survey of the 1H XMM-Newton Chandra Survey Field
+16. Estimating visible variability in the neutron a cross-correlations</code></pre>
 </section>
 </section><section class="vertical-stack">
 <section   class="vertical-slide">
@@ -223,7 +303,7 @@ Took top cross-validated model (sometimes error exploded!).</p>
       // Full list of configuration options available here:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
-      overview: true, height: 900, keyboard: {37: 'prev', 39: 'next'}, touch: true, hideAddressBar: true, rollingLinks: false, mouseWheel: false, controls: true, width: 1200, viewDistance: 3, rtl: false, progress: true, fragments: true, autoSlide: 0, autoSlideStoppable: true, backgroundtransition: "default", transitionSpeed: "default", center: true, embedded: true, transition: "default", maxScale: 1.2, minScale: 0.2, previewLinks: false, margin: 0.05, loop: false, history: true, 
+      overview: true, height: 900, keyboard: {37: 'prev', 39: 'next'}, touch: true, hideAddressBar: true, rollingLinks: false, mouseWheel: true, controls: false, width: 1200, viewDistance: 3, rtl: false, progress: true, fragments: true, autoSlide: 0, autoSlideStoppable: true, backgroundtransition: "default", transitionSpeed: "default", slideNumber: true, center: true, embedded: true, transition: "default", maxScale: 1.2, minScale: 0.2, previewLinks: false, margin: 0.05, loop: false, history: true, 
       
       theme: Reveal.getQueryHash().theme, 
       // available themes are in reveal.js/css/theme
