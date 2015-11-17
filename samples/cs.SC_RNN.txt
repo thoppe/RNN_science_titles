@@ -1,0 +1,1052 @@
+An implementation
+The New
+Symbolic Computation of Non-Computer algebra algorithm
+Introduction of Zero-Dimensional Systems
+On multivariate Polynomial Functions
+Homology of Differential Equations
+On Gr obner Bases
+Symbolic Summation of Algebraic Geometry
+On the Functional Program
+Computation for Maximal Probabilistic algorithms
+Hypergeometric functions
+Computer Algebra
+Feynman Integrals
+Symbolic integration
+Optimistic for computing the determinant
+Computer algorithm
+Complexity bounds for Macaulay2
+On Linear Differential Operators
+Rational Functions
+Composition
+On integrability of Differential Equations
+Curves
+A parameterized Generalized Proof of a Polynomials
+based on groups
+Signature-based Algorithm for Computing Linear Systems via Problem
+Form
+Computations
+Computing the Function Evaluation of be-
+A programs
+Computational constructions
+Distribution of Rational Functions
+Functions of Groebner Bases
+Generation
+Symbolic Order-real Roots
+Factorization ordering
+Transitive algorithm for Computing Real Moments modulo Operators to Forms over triangular method
+Computing Applications
+A Functions
+Symbolic integration in Gr obner Bases
+Chebyshev expansions
+Algebraic Recursive Method for Computing functional Transformations
+A composition of Multivariate rational Functions
+Generalization
+Computer algebra functions
+Efficient Matrix Multiplications
+Modular Polynomial Systems
+An rational fields
+Integrals
+Formal Matrix
+Curves
+Fast Algorithm based on Groebner Bases
+Rational Functions
+Functions for Matrix's
+Product
+Numerical Polynomial Systems
+Tensor manipulation using Continued Fractions
+Finding
+Factoring The real algebraic system with integers of Graph
+Differential Equations
+Fast Representations
+A Symbolic Semi-Symbolic Manipulation
+Deciding systems
+Signature-based Algorithms Systems
+A Graph Theorem
+Introduction to the Matrices
+Difference Functions
+K Matrix Multiplication
+Faster algorithm
+Decomposition
+Polynomial Systems and Structure
+Differential Equations to Generation Linear Algebra
+Systems:
+On Solving Path Tracking
+Matrix Ordering
+Improvement Systems
+Algebraic curves
+Programs
+Forms
+Differential Equations
+On the complexity
+Computing the Rational Functions
+A Probabilistic
+of the prime number theorem
+Solving Polynomials and Linear ODEs
+checking an Group
+Extension Theorem for computer algebra
+A computer algebra
+Exact Semi-algebraic sets
+Improvement
+On Groebner Bases
+A New Generalized Linear Recurrences
+Exact Safety
+Matrix Expressions
+Power series
+Efficient Algorithms for the Integrals
+Tropical Gr obner Bases
+Formal Semi-algebraic sets
+Polynomial
+Functions
+Partial Decomposition and Graph
+Computing rational functions
+Cylindrical Algebraic Decomposition
+Symbolic Analysis solving for computer algebra system
+Gr obner Bases
+Faster Algorithms for Parametric Polynomial Time
+Deciding computation of Functions
+A polynomial Systems
+Problem
+Computer Algebra
+Integrals
+Computing Gr obner Bases
+Gr obner Bases
+Computer algebra
+Efficient Algorithmic forms
+Approximate GCD
+Differential-Equations
+Linear Polytopes
+A Functions
+Computation
+On Polynomial Systems
+Real Root Isolation
+Differential Equations
+Curves
+One Computational Surfaces
+Computer General Zero Dimensional Equations
+Detecting Symbolic Computation of Algebraic Curves
+Approximations
+Generating Multivariate Polynomial Systems
+Differential Equations
+Integrals
+A New Recursive Polynomial Proof
+Faster algorithm
+The 3 triangular Decomposition
+Symbolic Computation
+Creative Telescoping
+Decomposition
+Fast regular Zero Dimensional Multiplication
+A Forms for Fast Arithmetics
+Computation
+Gr obner Bases
+Regular algebra
+On Computing Characterization
+Computation
+Computational language field
+Symbolic and Applications
+A Symbolic Numerical Evaluation Method for Combinatorial Partial Differential Equations
+Symbolic manipulation
+Parameterized Generalization of Generalized Algorithm for Computing Computer Algebra Algorithm
+Transcendental Functions with graph and Determinant
+Algorithms for differential equations
+Representations
+Computational Systems
+Stability of Algebraic Number fields
+On the Characteristic
+Generalized Symmetries
+Symbolic Computation of Differential Equations
+Computer algebra
+Transformations
+Triangular Decomposition
+Integrals
+An
+Relative Telescoping for Linear Recurrences
+Introduction
+Summation methods for Holonomic Polynomial Systems
+Generalized hypergeometric Curves
+Simplex Roots
+Equations
+Computing Real Polynomial Systems
+Computer Algebra system
+Abstracting parametric Problem for algebra
+Differential equations
+Computational Equations
+Computer Elimination
+Computation of Polynomial bivariate systems
+A formal form Forms
+Generalized composition of Semi-algebraic sets
+Polynomial Systems
+Computing the multivariate Rational Functions for Numbers
+Simplifying Algorithm for computing Gr obner Bases
+An for  algorithm for Computing Gr obner Bases
+An Algorithm for Computing Gr obner bases
+Faster polynomial time
+Sparse Matrix Multiplication
+Rational Differential Equations
+GPGCD
+Fast Gr obner Basis Algorithm
+Computational Problem
+Computer Algebra of Symbolic Computation of Polynomial Equations and Difference Equations
+Formal forms
+On the semi-algebraic sets
+A symbolic Computation of Polynomials
+Recursive Operators
+Fast Algorithms for the equation Algorithm
+Some Difference Equations
+Some problem
+Differential equations
+Univariate Resultants in the Group
+Integrals
+A General One-Difference equations
+Multivariate Polynomial Equations: the Resultant of algebraic systems
+Plane Curves
+Transformations
+Curves
+Problem
+Multivariate Parametric approach
+The Multivariate Hypergeometric functions
+A New Decomposition
+Resultant
+Sparse Problem
+Univariate Resultant
+Calculating
+Simplex
+Problem
+On Symbolic Decomposition
+The Generalized Composition
+Solving Group
+Computing semi-algebraic sets
+On the Functional Decomposition
+Solving Algorithms
+On the Functional Deformations of multivariate polynomial systems
+Introduction via multidimensional systems
+Parametric Polynomial operators and computer algebra
+Algorithm Differential operators
+A Geometry
+Fast algorithm for Projections
+Stable non-algebraic sets in Positive semi-algebraic sets
+Curves
+Computer Algebra Systems
+Parameterized Polynomial Systems with radical operators for Polynomial Finite Fields
+Un form algorithm for computing Arithmetic Differential Operators
+Explicit Equations
+Combinatorial systems
+The Decomposition Systems
+Degree Curves
+Computer-Algebra
+A computer algebra
+Geometry
+Systems
+Functions
+Some Problem
+Symbolic Extended Abstract)
+Linear Rational Functions
+Path Orders
+Systems
+Partial Algorithm and Improved Algorithm for Computing Algebra computations
+Approximate Functions
+Symbolic computation and Semi-algebraic sets
+Determinant
+Analysis of Triangular Decomposition
+Polynomials
+Computing Linear differential Equations
+Computational Polynomial Ideals
+Projective matrix
+Differential Equations
+Efficient Group
+Computing the Equation Unification
+Methods
+A Recursive Algorithms to Compute Groebner bases for Linear Finite Fields
+Gr obner Bases
+Faster polynomial Equations
+A New Decomposition
+On the Complexity of Forms
+Problem
+An Explicit Order
+On Computation of Linear Differential Equations over Finite Fields
+Functional univariate Polynomials
+derivatives
+Combinatorial Physics
+Tensors
+Generic Equations: A Computation of Rational Algebraic Curves
+Representation
+Computing the Gr obner Bases
+Abstract)
+Symbolic Numerical Algebraic Functions
+Numerical Polynomial Polynomial Equations
+A Differential Equations
+Computer Algebra
+A computational Difference spaces multiplication
+The Numbers of Real-Roots
+Algorithm
+Fast Computation
+A Symbolic Computation modulo Polynomials
+Factorization theorem
+Faster algorithm
+Symbolic An Improved Algorithm
+Computation word theorem
+Differential Polynomials
+Based Algorithms for Algebraic sets
+Computational Sparse inverse
+Based on The Polynomials
+Polynomial Polynomial Systems
+Problems via Polynomial Time Algorithm for Problem
+On hypergeometric functions
+Problem
+An Exact Bivariate systems
+Recursive Polynomial Remainder Sequence
+Functional Decomposition
+A matrices
+Special Functions
+Simplex
+Computation with Maxima
+Geometry
+Signature-based Gr obner Bases
+Sparse Multivariate Polynomial Systems
+Set of approximation
+Polynomials
+Computing Semi-algebraic sets
+Effective Inversion Systems
+on Forms Problem
+Evaluation of Systems
+computer algebra
+Efficient Improved Algorithm for Computing Gr obner Bases
+D for tensor Field
+Polynomial Systems by Parametric Multiplication
+Cylindrical Algebraic Decomposition
+Gr obner Bases
+Gr obner Bases
+Sequences
+Computation of Differentiation Equations
+Computing the complexity of Computing Gr obner Bases
+The integration in Difference Equations
+'e semi-algebraic sets
+Functions
+Computer algebra system
+Linear Systems
+Function Transformations
+Generating Analysis solving factorization of the Generalized Differential Equations
+A formally multivariate Polynomial Systems
+Fast Solving Q over Polynomial Systems
+The Holonomic Systems
+Ordering for Boundary Problem
+Generalized Hypergeometric functions for Graph
+Fast algorithm for Numerical Linear Deciding Bases
+Computational linear surfaces
+Stability Problem
+Computation
+Multiplication Gr obner bases
+A power series Program FORM
+A complete Approximation of Differential Equations
+Symbolic Computation of Real roots of Rational Differential Equations
+Detecting in polynomial by approximate GCD
+Multivariate rational functions
+Computing Equilibria of Algebraic System
+Design for Solution Linear System
+Computational Symmetries
+Computational ordering for Singular-Problem
+A symbolic Arithmetic Methods
+Unification
+Symbolic Analysis of Differential Equations
+Computation of Groebner Bases
+Computing Linear Unified Computer Algebra Systems
+Differential-Equations And solutions and Rational Functions
+Generalization of Algebraic Systems
+Problems
+A factorization integration Differential equations
+A Symbolic Algebra
+Determinant of Resultant
+Extension of Rational Differential Equations for Macaulay2
+Representations
+On the Complexity of Real Roots of Summability of symbolic integrals
+Improved Algorithm for differential theorem
+Polynomial Systems
+Tensor fields
+Sparse Polynomial
+Integrals
+Projective Algorithm to Compute Grobner bases for matrix
+Sparse approach
+On Computation
+Multivariate Polynomial Systems
+A probabilistic algorithms for differential equations
+Automatic Decomposition
+Abstract) computation
+Solution Problem for Computing Gr obner Bases
+Symmetries
+Counting Rational Functions
+Integrals
+A Symbolic Dimensional Polynomial System
+Parameterized Linear powers of polynomial Systems
+Generation of linear algebra
+Computing Groebner bases
+Matrix Computation of Symbolic Integration with Partial Differential Differential Equations
+On the Complexity of the n Subresultants
+On the algorithm for computing Gr obner Bases
+Automatic Generation Determinant of Rational Functions
+The Polynomial theorem
+Computational theory of Lacunary Solutions of Continuous Parametric Systems
+Symbolic Computation of Linear Differentiation for Solving A Functions for Graph and Differential REduction: Computations and Geometry
+Differential Systems
+Computer algebra
+Symbolic Differential Equations
+Nonnegativity Algorithms
+Polynomial Systems
+Recursive Integrals
+Symbolic integration Polynomial multiplication
+Integrals
+Symbolic Symmetries
+Computer algebra
+Projective Varieties
+Parametric Stability of Partial Programs
+Computer algebra
+An Explicit Systems
+Multiplication Algorithm to Compute Gr obner Bases
+A formally for Evaluation of Determinant
+Transfer Functional Univariate Polynomial Determinant
+Forms
+On Inverse
+Forms
+Computer algebra
+Parametrization of Programs
+Computer Algebra
+On Polynomial Systems
+A Novel
+Factorization The Calculation for Matrix Operations
+An Symbolic-Functions
+Generalization of rational functions
+Equations
+Algebraic Curves
+Multivariate Polynomial Systems
+Poincar 'e characteristic polynomial Equations
+Computer-Algebra
+Problem
+Unification modes
+An iterative formal Groebner bases
+Polynomial time
+Fast Problems
+Tensor Form
+Nonnegativity of Gr obner bases for Linear Difference Special Numbers for the Feynman diagrams
+Symbolic Computation
+Computer algebra in Algebraic Curves
+Improved algorithms bound
+Functions
+Computer Algebra over Algebraic Systems
+Linear Differential Equations
+Symbolic program Triangular sets
+Computation of Differential Curves
+Group extensions
+Matrix Special Equations
+Symbolic Manipulation Using Multivariate Parametric Polynomial multiplication
+Computer Algebra Computer algebra
+Gr obner Bases
+Power
+A Numerical Algebraic Decomposition
+A Software
+Computer Algebra Algorithms over equations
+Fast computer algebra
+Fast Algorithm for decomposition of Differential Resultant
+Generated by polynomial multiplication to Integrals
+Symbolic Graph
+Some Problem
+A Numerical Algorithm for Characteristic on Complex Decompositions
+Power Real Root Isolation using Gr obner Bases
+On minimal Polynomial ideals
+Improved Algorithms
+Parallel Verification Algorithm
+Computational Differential Equations
+Differential Difference Curves
+Computation of Polynomial Algorithms for algorithms
+A Fast Multiplication
+Computation of Algebraic Systems
+Parameterized Tape
+Computer Algebra in the Inverse Equations
+Fast Groups
+Triangular Differential Equations
+Properties of Semi-algebraic sets
+An implementation
+Effective polynomials
+Triangular sequence
+A Computing Generalized Computer Algebra Systems
+Ideals
+Polynomials
+Symbolic Summation Equations
+Symbolic Graph
+Abstracting to symbolic Algebraic Equations
+The connected oung finite fields
+Generating the Polynomial
+Fast and transforms
+Survey on Multivariate partial Differential Systems
+Functions of Rational Parametric Polynomial REduction
+Real root isolation multivariate polynomials for Differential Equations
+Design Integrals
+The constant
+Effective Sparse Grobner Bases
+Computing the Semi-algebraic sets
+FORM
+Maple
+Gr obner bases
+A New Algorithm for Real Polynomial Systems
+Algorithm for Integrals of Symmetries
+Computational Reasoning
+Holonomic Systems
+On Computing in quantum channels stable models
+Symmetric Decomposition
+Construction over Finite Fields
+Sparse Differential equations
+FORM
+Computer-Algebra
+Algorithms
+Transformations
+Holonomic Systems
+Symbolic Computation of Diagonal Differentiation Matrix Approximation
+On factorization and Differential Equations
+Approximation of Symbolic Numerical operators
+Low integration
+Real algebraic sets of Zero-dimensional Systems
+Un Arithmetic and number dimensional polynomials
+Computer algebra
+Computing Gr obner Bases
+Computer algorithm
+Interpolation in Symbolic Transformations
+Composition with Applications to Compute Groebner bases
+An Algebraic Decomposition over finite fields
+On the Graph
+Partial-Theory
+Computing polynomial Linear Recurrences
+Fast Symbolic-Algebraic sets
+Generating Gr obner Bases and Rings with Partial Differential Equations
+Generating language
+The real algebraic sets
+Description of generating Transformations
+Can Computer algebra
+A Formal Difference Substitution by projective factorization
+Evaluation of Forms
+Th on linear Combinatorial Equation
+Introduction to the radical Parametrization of surfaces
+Symbolic Computation
+Factorization Systems
+An the conditions of Computing real root isolation
+Resultant
+Faster Varieties
+Stable Root Isolation of Ore Ideal Systems
+Signature-based Graphs
+A Polynomials
+Real root isolation
+Polynomial Systems Fast algorithm for Some Hypergeometric functions
+Sparse interpolation
+Exact Problem
+Structure and test over triangular sets
+Fast algorithm for differential equations
+Algebraic Geometry
+Computing the complexity of Real Root Isolation in polynomials
+Gr obner Bases
+Systems of Algebraic curves
+Applications
+Algorithms
+The Ordinary Differential Equations
+Matrix Operations
+Parametrization of Algebraic Equations
+Computer algebra
+Unification Algorithm
+Determinant of computing Prime theorem for Computing Groebner Bases
+Order
+Computer algorithm
+Functional Decompositions on Computer algebra is and Differentiation Matrices
+The Parametric Systems of Polynomial
+Symbolic Algebraic Curves
+Factorization Modular sets
+A Symbolic Systems
+On the Complexity and Differential Description of Graph
+Linear Decomposition
+Computing rational approach
+Survey
+Gr obner Bases
+On the complexity of computing Real Root Isolation or to the defined approach Solutions of Finite Fields
+Formal polynomial Systems
+Polynomial Systems
+Resultant of Factorization of Over computing the multivariate Polynomial Remainder Sequence
+Sparse Multivariate Rational functions
+Symbolic Characteristic Problem
+An Explicit Sums
+The First Few Solutions: A Symmetries
+A baby polynomials
+Faster Matrix Multiplications
+Resultant
+Computing the group
+Polynomial Relations
+Parametric Polynomial Systems
+Symbolic Analysis and Exact Safety Verification Gr obner bases
+Equations
+Algorithm for Projections of Generalized Like Polynomial Polynomial Denominator Bounds for the integer systems
+Fast Algorithm
+Parameterized Triangular Decomposition Algorithm for the variables
+Computing Generalized Unified Construction
+Products an Integrals
+Resultant of Polynomial Systems Gr obner bases of symbolic-Functions of Minimal Polynomial Remainder Sequence
+Integrals and differential Equations
+Optimistic modular Algebra
+On with Applications of Rational Parametric Polynomial Recursive Polynomials
+Problem for multivariable systems
+Computation of equidimensional polynomials
+On the Computation Algorithm
+Description of Polynomial Time
+Genericity Schemes
+A Decompositions
+An Extension Systems
+Differential operators
+Polynomial multiplication and Computer algebra
+Formal forms
+Termination
+Function from Generalized Programs
+Ordering
+On the Complexity of the Quality moments in non-Scheme
+Theory
+Maximal Differential Equations
+Probabilistic algorithm and a method
+Partial Differential Operators
+Definition Distance Methods
+Computer algebra Proof of Generalized Hypergeometric Curves
+Determinant algorithm computation
+Linear Differential Equations
+On Computer algebra system of programs
+Bounds for C-linear differential Equations
+A polynomials
+Computation
+A Programs
+A New Truncated From Bases
+Gr obner Bases
+On partial multiplication An Efficient Algorithm for Algebraic Invariants
+On formal forms
+Computation of the Calculus
+Solving for algebraic sets
+Effective Systems
+Computer algebra
+Groebner Bases
+A computer algebra
+Decomposition Gr obner Bases
+A Symbolic Computation
+New Symbolic Computation
+Nonnegativity
+Computing Gr obner Bases for Calculating approximations
+A Symbolic Commutative Solving Polynomial Remainder Linear Definition of the Functions with branch extension field
+Computing Gr obner Bases
+A Non-Reconstruction of Sums
+Systems
+Case
+Distance in Mathematica
+A Framework for Symbolic integration:
+Formal Projections
+Symbolic programs
+Symbolic Summation
+Substitution
+Computing with Algebraic curves
+Relations of Matrix Multiplication
+A New Proof
+Towards a New linear functions
+A Fast algorithms computer Algebra of in Improved algorithm
+Equations Reduction and Bases of Linear Recurrences
+Root Isolation of a Symbolic Decomposition
+Effective Triangular Decomposition by incremental triangular Decomposition
+Algorithms for the functions Bivariate polynomials
+An of one-root functions over differential reductions
+The case
+Solutions of Algebraic Decomposition
+Gr obner Bases
+Sparse Plane Curves
+The Word-and power Sequences
+Triangular Decomposition
+Sparse Differential Equations
+On Computer Algebra
+Differential Operators
+Symbolic Order Formulas and rational Polynomial Systems to Algorithm Computation
+Power Series modulo decomposition
+Matrix Semi-algebraic sets
+A Generalized Linear Bivariate Rational Functions
+Formal Holonomic functions
+Computer algebra
+Polynomial Differential Equations
+Geometric Approach
+Product Power version of Construction of linear partial differential operators
+Hypergeometric functions of Boundary Definitions
+A New Recursion of sparse multivariate polynomial Systems
+Sparse Polynomial Time
+Algorithm
+Computational Differentiation Parametric Problem
+Computer algebra
+Differential Equations
+Integrals
+Effective Differentiation
+Polynomial bivariate systems
+Matrix Multiplication in Symbolic Algebra computer algebra functions for Parametric Real Roots over Functions
+Symbolic Computation of semi-algebraic sets
+A Differential Operators
+Determining Gr obner Bases
+Automatic Differentiation Algorithms
+A Generalized Abstract)
+Factorization method for Multivariate Polynomial Transformations
+Homotopy Control Integrals
+Computing r Equations
+Multiplicities
+Symbolic Computation
+Symbolic Integration theorem
+An Efficient Polynomial-time Algorithms
+Integrals
+Recursive Polynomial multiplication
+Computing Gr obner Bases
+Reduction and Polynomial Systems
+Stable Polynomial Systems
+Improved Algorithms
+the a generalized Cylindrical Algebraic Decomposition
+Characteristic polynomial theory
+Real Polynomial Systems
+A Real Computation
+quantum channels linear polynomial polynomials
+Faster solving
+Design Algorithm based polynomial Systems
+Generating Numerical systems
+Decoding for a Subresultants of Differential equations
+Tape
+Differential Differential Operators
+Faster integrals with Maxima
+A based Functions
+Computer Algebra Systems
+Accurate normal Polynomial Systems
+Moments and the rational Systems
+Determinant of Algebraic Curves
+Computer algebra
+Deciding theorem
+Computation of distance
+Computational Points
+Decomposition
+A Polynomials
+A Non-Combinatorial Physics
+Recursive Solution by Compute
+Gr obner bases for Linear Differential equations
+for a differential Equations
+Introduction to Algebraic Geometry
+Parameterized Triangular Functions
+Computing rational bivariate systems
+A computer algebra
+Simplified Algorithm
+Symmetries
+Recursive Polynomial Systems
+Stable polynomials
+An Groebner Bases
+Computing Faster polynomial
+Differential Equations
+A New Modular Decomposition
+Matrix-Multiplications
+Surfaces
+Definition Systems
+A symbolic algebra
+Graph
+Computer algebra
+Polynomial Linear Decomposition
+Approximations
+Computer Algebra symbolic Summation
+A symbolic Computation in probabilistic algorithms
+Groups
+Parameterized Polynomial Equations
+Complexity of Some parametric of algebraic Curves
+On a Parameters
+Computer algebra system
+Polynomial Systems
+On Differential Equations
+Problem with Applications
+Nonnegativity Decision and Sparse Polynomial Rational Functions
+Some problems
+Proceedings with Maxima
+Model-functions
+On the Complexity of Rational Functions
+Computational Workshop on Geometry
+Computational Plane Curve
+Triangular Decomposition
+Multiplication
+Solutions of Rational Functions
+Computational linear algebra
+Faster Algorithms
+Matrix-Modular Real Polynomial Systems
+The parametric Plane Curves
+The Polynomial Polynomials
+Computer algebra
+Interpolation of Rational Ruled Surfaces
+On Mathematica
+An ideals for Generalized Applications
+Computation of Power Systems
+A algorithm for Linear Systems
+Ordinary Computation
+Evaluating polynomial Systems
+Objective Decompositions
+Programs
+Programs
+An Extension solving
+The integration Gr obner bases for Linear Difference Equations
+A Fast algorithm
+On the Summability of Continued Fractions
+Computing Gr obner Bases
+Probabilistic algorithm
+Algorithms for Recursive Method
+Computational Differential Equations
+Computing Gr obner Bases
+A Reconstruction by approximation and patterns
+A Non-algebraic sets
+In Unification
+A Polynomial Equations
+Moments
+A Symbolic Summation
+A new Resultant
+A Numerical Linear Recurrences
+Gr obner Bases
+Computation for R-algebraic
+Multivariate Polynomials
+Automatic Differentiation
+Algorithms for Tensor Difference Functions
+Semi-algebraic sets
+The Recursion Operators
+Algorithm
+Computation of Differential Equations
+Projective Calculation
+Solving Polynomial in polynomials
+An matrices and the real algebraic sets
+theorem
+Transformations
+An Unified Form Groebner bases for multiplication
+How polynomials
+Parametric Polynomial Systems
+An algorithm for Computation of n we decompositions
+Based on Differential Operators
+Deciding proof of The Recursion of Zero Dimensional Generation
+On Definition
+Generalizations
+Parametric Inverse Curves
+Expansion of Forms
+Computation of linear partial Difference equations
+An Implicitization
+Computation of Polynomial Equations
+Computing the control Differential Equations
+Differential Operators and number fields
+Symbolic integration
+Points on determinant of a partial Differential Equations
+Method to solving polynomial Systems
+Computation
+A New Recursive tensor
+Computer Forms
+Transform algorithm
+Operations
+A computation of Equilibria of a Sub
+An Integral Decomposition
+A Probabilistic algebra
+Generation of Real Root I: a Polytopes
+Programs
+Multivariate Polynomial Difference Equations
+Computing the Integers and Integrals
+The Invariant cylindrical Algebraic Decomposition
+Computations to a computer algebra
+An Efficient computation of Polynomial transforms for Parametric Polynomial Equations
+Real Polynomial Systems
+A Numerical Equations
+Polynomial systems
+Simplex Model-Based Functions DIfferential invariants of Functions of Differential Matrix
+Resultant
+Polynomial system solving
+Affine polynomial multiplication
+Computer algebra
+Multivariate Polynomials
+Computation
+An Complexity of the Algebraic set
+Code Linear Systems
+On the Symbolic and Difference Gr obner Bases
+Dimensional Solutions
+Surfaces
+Formal polynomials
+Integrals of Algebraic Surfaces
+Equations and rational Functions
+Group-an Integrals for Matrix Expressions
+Method for Simplices
+Algorithm
+International powers
+Computing Real Root Isolation of Symbolic Computation under
+Approximations
+Algorithm for computing Semi-algebraic systems
+A problem
+A polynomial Equations
+Generating approximation
+Computation of real polynomials
+On the parametrization of Computer algebra system and its Application to Computation and Verification
+On computer algebra for Computing problem
+On equations
+A algebra
+Computer algebra system
+Real Root Isolation of Differential operators
+Computations over finite fields
+Abstractions
+Formal Groebner bases
+Resultant
+Chebyshev expansion
+Algorithm
+Ordering for the real algebraic
+Computing hypergeometric forms
+Computer algebra
+Systems
+Interpolation in a matrix
+A Generalized Linear Systems
+Tensor algebras
+Deterministic polynomials
+An Algebraic Equations
+Generalized Generalized Polynomials
+Factorization Problem
+Some Problem
+Parameterized Cylindrical Algebraic Decomposition
+Linear functions for Program FORM
+Computing the Real Computation of Gr obner bases Algorithm
+Introduction
+Solving Evaluation Problem
+On the Chebyshev Expansions
+Automatic Generation and Gr obner Bases
+Power Series
+Computation of Planar Algebraic Equations for Linear Difference Equations
+A Symbolic in equation
+Fast Algorithm for computing the Reduction of Semi-algebraic sets
+matrices via Characteristic polynomial systems
+Design Polynomial Systems
+A Computer algebra
+Symbolic Structure of algebraic systems
+Algorithm for Polynomial Multiplication
+On the Geometry
+Problem
+Determination of Differential Equations
+An Efficient Multiplication And Order
+Fast Algorithms for Differential Difference Equations
+E Algebraic Decomposition by Parts Integral Systems
+Compute Matrix
+Tropical Differential Equations
+The Complexity for Symbolic Algebra
+Computational Semi-algebraic Polynomials and differential Equations
+A Univariate Rational Functions
+Series
+Gr obner Bases
+Automatic Generation
+Automatic Geometry
+Computation of Distributed system
+A Symbolic Straight
+Programs
+Property in the Complexity of Based Algorithms
+Stable integrals of Parametric Model-
+A factorization Univariate Differentiation Problem
+The variables
+An polynomial matrix
+An Symbolic Summation Multivariate polynomial Linear Systems
+solving the summation in a Semi-algebraic set Functions
+Parameterized Algebraic Curves
+Computing Gr obner Bases
+Algebraic systems
+Curvature tensors
+Formal Forms
+Fast curves
+Matrix Methods
+Computer algebra
+On the Complexity of Solving bivariate Polynomial Functions
+A Symbolic analysis of Based on Semi-algebraic Curves
+Automatic GCD a  New  D
+Constructions
+Differential Operators for Solving Real Solution Ordering Bound defined and Finite partial Finite Fields
+Formal Systems
+Real Roots
+Powers
+Computing quadratic schemes
+Algorithms
+Computer Algebra
+Generating approximations
+Gr obner Bases
+Computation of Recursion Problems
+Symbolic inequalities
+Interface
+A polynomials
+Tensor differential equations
+Linear Polynomial Systems
+Equations
+Polynomials
+A Can Gr obner Bases
+Reduction Methods
+Ordering
+A Differential Equations and Gr obner Basis Algorithm
+Signature-Case
+An Groups
+Root functions of Polynomial Systems
+On the polynomials and rational functions
+Quasi-polynomial equations
+On theoretic constructions
+Differential equations
+Polynomial multiplication to PDE Systems with Polynomials
+Integrals
+Integrals
+A Polynomials
+Computing Mechanical Optimal Multiplication
+Triangular Decomposition language
+Symbolic Analysis polynomial systems
+An of computing Gr obner Bases
+Computing Gr obner Bases
+Automatic Generation
+Series Computation of Difference Equations
+Computing Gr obner Bases
+A Matrix Algorithm
+Linear Differentiator Square root forms
+Automatic Plane Curve
+Computer Algebra Over Field
+A Computer algebra
+Computation of Polynomial Systems
+Evaluate Path Orders
+A probabilistic algorithm
+Computation of Symbolic Deciding
+Computing systems of polynomials
+Approximations
+The Modular Polynomials
+A Polynomial Systems
+Optimization
+Computing rational forms
+A systems
+Differential Equations and the Decomposition
+Formal from polynomial Ideals
+Computing the computer algebra and Real root Matrix Multiplication
+Gr obner Bases
+A New
+Computation
+Laws
+Sparse Multivariate Differential Algebraic Geometry
+Functions and the
+A Symbolic Summation
+On sparse Multivariate rational Functions
+Description of polynomial differential Resultant
+A Computation of Differential Equation
+Fast Arithmetic
+Symbolic Exact Singular solutions
+Method On Bound
+Property Matrices
+Sparse Functions
+Computer algebra
+Cylindrical Algebraic Decomposition and Solutions
+Reducing Gr obner Bases
+Computation of Bivariate systems
+Computer Algebra
+Computation of Regular method
+Improved Algorithm
+Effective Deduction Method for Plane
+Experiments of Computer algebra
+On the Complexity of model Substitution
+An Efficient Algorithm
+Symbolic Groebner Fast Matrix Operations
+Symbolic Computation
+On the Complexity of Zero-Dimensional Polynomial ideals
+an Efficient computation of Polynomial Systems
+A New Order
+Numerical Composition
+FORM  based Problems
+A Generalized Difference equations
+Fast algorithm
+A Differential REduction: A Transformations
+Faster algorithm for Computing Algorithm for finite Fields
+Factorization  and matrix Functions
+Graph
+Integral
+An Extension Theorem
+A  root isolation Systems
+Computing Gr obner Bases over differential Operators

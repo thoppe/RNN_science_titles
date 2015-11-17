@@ -1,0 +1,2084 @@
+Uniform measures and countably additive measures
+C 0 -Hilbert Modules
+Lawvere completeness in Topology
+On the closure of the diagonal of a T 1 -space
+Tree Structures: A Variational Approach to Shannon--Wiener Information
+Spinor Decomposition of SU(2) Gauge Potential and The Spinor Structures of Chern-Simons and Chern Density
+Convergence of the Mayer Series via Cauchy Majorant Method with Application to the ukawa Gas in the Region of Collapse
+Topological AE(0)-groups
+Les espaces duaux pour les ensembles ordonn 'es arbitraires
+Topological Representations of Posets
+Hereditary indecomposability and the Intermediate Value Theorem
+A small transitive family of continuous functions on the Cantor set
+Universal metric spaces according to W. Holsztynski
+A note on a question of R. Pol concerning light maps
+The Roelcke compactification of groups of homeomorphisms
+Compactness Theorems for Geometric Packings
+Maps of p-gons with a ring of q-gons
+On universal minimal compact G-spaces
+Answering a question on relative countable paracompactness
+Cardinal p and a theorem of Pelczynski
+How weak is weak extent?
+On spaces in countable web
+Ljusternik-Schnirelmann Categories Links and Relations
+Topological Insights from the Chinese Rings
+Manifolds of Positive Scalar Curvature and Conformal Cobordism Theory
+Lomonosov's Invariant Subspace Theorem for Multivalued Linear Operators
+A space with only Borel subsets
+On the theorem converse to Jordan's curve theorem
+The role of connectedness in the structure and the action of group of isometries of locally compact metric spaces
+Spaces of embeddings of compact polyhedra into 2-manifolds
+Homotopy types of homeomorphism groups of noncompact 2-manifolds
+The groups of PL and Lipschitz homeomorphisms of noncompact 2-manifolds
+Remarks on hereditarily indecomposable continua
+Realcompactness and spaces of vector-valued functions
+Realcompactness and Banach-Stone theorems
+Operators Extending (Pseudo-)Metrics
+Duality of kappa -normed topological vector spaces and their applications
+Isometric shifts and metric spaces
+HyperEuclidean manifolds and the Novikov Conjecture
+Extension dimensional approximation theorem
+Some mapping theorems for extensional dimension
+Isometries between weighted uniform spaces
+A tall space with small bottom
+Movable categories
+Some questions of equivariant movability
+Approximations and selections of multivalued mappings of finite-dimensional spaces
+Non-productive duality properties of topological groups
+Topological groups with several disconnectedness
+Regular graded algebras and obstructed categories with duality
+On a nonlinear compactness lemma in L p(0 T B)
+Topological semigroups and universal spaces related to extension dimension
+On the Ma ' c kowiak-Tymchatyn theorem
+On dimensionally restricted maps
+Resonance Category
+Dense families of selections and finite-dimensional spaces
+Embeddings into P(N) fin and extension of automorphisms
+Van der Waerden spaces and Hindman spaces are not the same
+A family of pseudo metrics on B 3 and its application
+Real rank and squaring mapping for unital C -algebras
+On the Semicontinuity in Product Spaces
+Characterizations of compactly almost periodic homeomorphisms of metrizable spaces
+On Finite-Dimensional Maps II
+Continuous Selections and finite C-spaces
+Isotopies of planar compacta need not extend to isotopies of planar continua
+Acyclic resolutions for arbitrary groups
+An Algebraic and Logical approach to continuous images
+Weak sequential closures in Banach space theory and their applications
+A Characterization of Similarity Maps Between Euclidean Spaces Related to the Beckman--Quarles Theorem
+Sublinear and continuous order-preserving functions for noncomplete preorders
+Some equivalences for Martin's Axiom in asymmetric topology
+The maximal G-compactifications of G-spaces with special actions
+van Douwen's problems related to the Bohr topology
+On Tychonoff-type hypertopologies
+Chainable subcontinua
+On finite T 0 topological spaces
+Transfinite sequences of continuous and Baire 1 functions on separable metric spaces
+Characterizing continuity by preserving compactness and connectedness
+On the metrizability of spaces with a sharp base
+Sub-representation of posets
+Fell-continuous selections and topologically well-orderable spaces II
+Special metrics
+Compactification of a map which is mapped to itself
+Sequence of dualizations of topological spaces is finite
+On Lebesgue Theorem for multivalued functions of two variables
+A survey of J-spaces
+Using nets in Dedekind monotone or Scott incomplete ordered fields and definability issues
+Proper and admissible topologies in the setting of closure spaces
+Orbits of turning points for maps of finite graphs and inverse limit spaces
+Wallman-Frink proximities
+Fuzzy functions and an extension of the category L-Top of Chang-Goguen L-topological spaces
+On lower semicontinuous multifunctions in quasi-uniform and vector spaces
+Quasiorders on topological categories
+Compactifications of topological groups
+A locally connected continuum without convergent sequences
+Nonstandard proofs of Eggleston like theorems
+Concerning the dual group of a dense subgroup
+Anti-self-dual instantons with Lagrangian boundary conditions I : Elliptic theory
+Hurewicz theorem for extension dimension
+C -algebras of infinite real rank
+Some equivalent of extremally disconnected spaces
+Universal Covers for Hausdorff Limits of Noncompact Spaces
+Covering dimension and quasidiagonality
+On homomorphism spaces of metrizable groups
+An Infinitary version of Sperner's lemma
+Universal acyclic resolutions for finitely generated coefficient groups
+The Locally Fine Coreflection and Normal Covers in the Products of Partition-complete Spaces
+Locales the locally fine construction and formal spaces
+On finite-dimensional maps
+On finite-to-one maps
+Globalization of Confluent Partial Actions on Topological and Metric Spaces
+Directed trees in a string real polynomials with triple roots and chain mails
+Notes on two conjectures in Extension Theory
+Universal spaces for asymptotic dimension
+Homotopy types of the components of spaces of embeddings of compact polyhedra into 2-manifolds
+On simultaneous linear extensions of partial (pseudo)metrics
+A characterization of Morita equivalence pairs of quantales
+Approximation of k-dimensional maps
+Generic left-separated spaces and calibers
+A compact group action which raises dimension to infinity
+Compact group actions that raise dimension to infinity
+Extraordinary dimension theories generated by complexes
+SPM Bulletin 1
+A natural construction for the real numbers
+A new proof of the Stable Manifold Theorem for hyperbolic fixed points on surfaces
+On Regularly Branched Maps
+On the structure of level sets of uniform and Lipschitz quotient mappings from mathbb R n to mathbb R
+SPM Bulletin 2
+Topologische und algebraische Filter
+Limits in Function Spaces and Compact Groups
+Arcwise connectedness of the boundaries of connected self-similar sets
+SPM Bulletin 3
+A Compact Homogeneous S-space
+The theorem of Kerekjarto on periodic homeomorphisms of the disc and the sphere
+Surface homeomorphisms with zero dimensional singular set
+SPM Bulletin 4
+The Complex Stone-Weierstrass Property
+SPM Bulletin  (Special issue)
+Maximal (sequentially) compact topologies
+Elementarity and dimensions
+Extensional dimension and completion of maps
+Extraordinary dimension of maps
+The Urysohn universal metric space is homeomorphic to a Hilbert space
+Fixed point of multivalued mapping in uniform spaces
+Isomorphisms of algebras of smooth functions revisited
+Quasi-metric spaces with measure
+Complex Function Algebras and Removable Spaces
+When is f(x 1 x 2 . . . x n)u 1(x 1) u 2(x 2) . . . u n(x n)?
+SPM Bulletin  (November 2003)
+Equivariant Unfoldings of G-Stratified Pseudomanifolds
+On finite-sheeted covering mappings onto solenoids
+Problems from Topology Proceedings
+One recent development of the M 3 vs. M 1 problem
+Supernearness spaces as a tool for studying unification and extensions
+SPM Bulletin 
+Small Locally Compact Linearly Lindelof Spaces
+On completeness in a non-Archimedean setting via firm reflections
+Monodromie d'une famille d'hypersurfaces
+On the structure of finite-sheeted coverings of compact connected groups
+SPM Bulletin 
+Finite and countable infinite products of Probabilistic Normed Spaces
+Cardinal sequences and Cohen real extensions
+A short proof of a theorem of Morton Brown on chains of cells
+On squares of spaces and Fsigma-sets
+Complete Invariant Graphs of Alternating Knots
+Extension dimension and quasi-finite CW-complexes
+Absolute extensors in extension theory
+Groups with a polynomial dimension growth
+How many miles to beta omega ? -- Approximating beta omega by metric-dependent compactifications
+Variations on Kuratowski's 14-set theorem
+The cardinal characteristic for relative gamma-sets
+Long line knots
+SPM Bulletin 
+Almost isometric embeddings of metric spaces
+Topological structures in Colombeau algebras: topological widetilde C -modules and duality theory
+A representation of retracts of cubes
+Restoring Topology from Shifts
+The continuity of the map lim T in Hausdorff spaces
+Compact Scattered Spaces in Forcing Extensions
+Limits in compact abelian groups
+A note on an example by van Mill
+Nonexistence of linear operators extending Lipschitz (pseudo)metrics
+Boundedness in generalized v S erstnev PN spaces
+Topological classification of Morse-Smale flows on 3-manifolds
+Topological structures in Colombeau algebras: investigation of the duals of Gc( Om) G( Om) and GS( R n)
+Normability of Probabilistic Normed Spaces
+Homogeneity properties in large compact S-spaces
+SPM Bulletin 10
+Topological invariance of the sign of the Lyapunov exponents in one-dimensional maps
+Von Neumann coordinatization is not first-order
+On intersection of simply connected sets in the plane
+Open-multicommutativity of some functors related to the functor of probability measures
+Open-multicommutativity of the probability measure functor
+Knot Diagrammatics
+Universal acyclic resolutions for arbitrary coefficient groups
+On uniformities and uniformly continuous functions on factor-spaces of topological groups
+Fragmentability and representations of flows
+Generalized Heisenberg groups and Shtern's question
+The number of non-solutions to an equation in a group and non-topologizable torsion-free groups
+A general theory of self-similarity I
+A general theory of self-similarity II: recognition
+SPM Bulletin 11
+Characterizing Subgroups of Compact Abelian Groups
+Sequences and filters of characters characterizing subgroups of compact abelian groups
+A semifilter approach to selection principles
+How many miles to beta-X? -- d miles or just one foot
+A sufficient condition for the insertion of a contra-continuous (Baire-one) function
+Various topologies on trees
+A survey of topological work at CEOL
+Sequential convergence in topological spaces
+Countable Tightness Elementary Submodels and Homogeneity
+On the Intuitionistic fuzzy topological (metric and normed) spaces
+Combinatorial Dynamics
+Partners: Functional Analysis and Topology
+PCF Theory
+The fundamental group of the harmonic archipelago
+Fundamental groups of compact Hausdorff spaces
+Cohomological dimension theory of compact metric spaces
+Nonmetrizable ANR's admitting a group structure are manifolds
+Some results in Generalized v S erstnev spaces
+The Hawaiian earring group is topologically incomplete
+A retraction theorem for topological fundamental groups with application to the Hawaiian earring
+A characterization of spaces with discrete topological fundamental group
+A monomorphism theorem for the inverse limit of nested retracts
+Topological fundamental groups can distinguish spaces with isomorphic homotopy groups
+On continuity of correspondences of probability measures in the category of Tychonov spaces
+infty -Open-multicommutativity in the category comp
+On commutative and non-commutative C -algebras with the approximate n-th root property
+Roberts' type embeddings and conversion of the transversal Tverberg's theorem
+A note on D-spaces
+Caracteristique d'Euler des feuilletages mesures
+Discontinuous non-linear mappings on locally convex direct limits
+Inverse Limits and Function Algebras
+On removing one point from a compact space
+Normalisers in Limit Groups
+Filters and subgroups associated with Hartman measurable functions
+Carrier and Nerve Theorems in the Extension Theory
+Completeness with respect to the probabilistic Pompeiu-Hausdorff metric
+Continuity and separation for pointwise-symmetric isotonic closure functions
+Addition and subspace theorems for asymptotic large inductive dimension
+Groups of measure-preserving homeomorphisms of noncompact 2-manifolds
+A nonhausdorff model for the complement of a complexified arrangement
+Proximality in Pisot Tiling Spaces
+There is no categorical metric continuum
+Some new results on the Chu duality of discrete groups
+o-Boundedness of free objects over a Tychonoff space
+Reconstruction of manifolds and subsets of normed spaces from subgroups of their homeomorphism groups
+Reconstruction theorem for homeomorphism groups without small sets and non-shrinking functions of a normed space
+Can a Borel group be generated by a Hurewicz subspace?
+A Kleisli-based approach to lax algebras
+Solvability in Groups of Piecewise-linear Homeomorphisms of the Unit Interval
+A semifilter approach to selection principles II: tau -covers
+A Z-set unknotting theorem for Nobeling spaces
+Conjugate Reciprocal Polynomials with all Roots on the Unit Circle
+Gromov-Hausdorff ultrametric
+Mathematical table turning revisited
+Openness and convexity for momentum maps
+Morphisms which are continuous on a neighborhood of the base of a groupoid
+Computably Based Locally Compact Spaces
+On topological properties of the Hartman--Mycielski functor
+pmb D -boundedness and pmb D -compactness in finite dimensional probabilistic normed spaces
+Ordered Spaces Metric Preimages and Function Algebras
+Fuzzy Continuity in Scalable Topology
+On transfinite extension of asymptotic dimension
+Nonstandard Analysis in Topology: Nonstandard and Standard Compactifications
+An algebraic classification of some solvable groups of homeomorphisms
+Topological interpretation of function spaces stable under a general operation (tentative version)
+Characterizing Nobeling spaces
+Characterization and topological rigidity of Nobeling manifolds
+On the parallelepipeds in algebra and topology
+Covering a bounded set of functions by an increasing chain of slaloms
+Unitary representability of free abelian topological groups
+Monotone Versions of Countable Paracompactness
+Notes on duality theories of abelian groups
+Axiomatization of topological space in terms of the operation of boundary
+Free subgroups of surface mapping class groups
+Game Approach to Universally Kuratowski-Ulam Spaces
+Consistent solution of Markov's problem about algebraic sets
+Retracts of sigma-products of Hilbert cubes
+Dimension-raising theorems for cohomological and extension dimensions
+Completions of altered topological subgroups of mathbb R n
+Nonequality of Dimensions for Metric Groups
+Uniform structures and Berkovich spaces
+Uncountable sets and an infinite real number game
+On metrizable enveloping semigroups
+On unitary representability of topological groups
+On a theorem of Brion
+Lagrangian boundary conditions for anti-self-dual instantons and the Atiyah-Floer conjecture
+A note on sensitivity of semigroup actions
+Amalgams connectifications and homogeneous compacta
+Analysis on Metric Space Q
+Quotient normed cones
+Homeomorphisms and the homology of non-orientable surfaces
+Compact operators on spaces with asymmetric norm
+First Countable Continua and Proper Forcing
+The convergence space of minimal usco mappings
+Selection principles related to alpha i -properties
+A Minimal Non-solvable Group of Homeomorphisms
+Attractiveness of the Haar measure for linear cellular automata on Markov subgroups
+Elementary submodels and separable monotonically normal compacta
+Some new algebras of functions on topological groups arising from G -spaces
+Continuous solutions to algebraic forcing equations
+Idempotent probability measures I
+D-forced spaces: a new approach to resolvability
+Resolvability of spaces having small spread or extent
+Resolvability and monotone normality
+Cardinal invariants for C-cross topologies
+Every topological group is a group retract of a minimal group
+On the coarsest topology preserving continuity
+Locally uniformly convex norms in Banach spaces and their duals
+A Class of Groups in Which All Unconditionally Closed Sets are Algebraic
+Nagata's conjecture and countably compactifications in generic extensions
+Open-multicommutativity of the functor of upper-continuous capacities
+No embeddings of solenoids into surfaces
+Integer-valued fixed point index for compositions of acyclic maps
+Cohomological dimension of Markov compacta
+Equivariant embedding of metrizable G -spaces in linear G -spaces
+Compactifications of Semigroups and Semigroup Actions
+Simply connected homogeneous continua are not separated by arcs
+Spaces of functions with countably many discontinuities
+Negative dimension in general and asymptotic topology
+On embeddings of proper and equicontinuous actions in zero-dimensional compactifications
+Lindelof spaces of singular density
+Resolvability vs. almost resolvability
+Cohomology in one-dimensional substitution tiling spaces
+Constructive decomposition of functions of two variables using functions of one variable
+Dissipated Compacta
+Scoring metrics on separable metric spaces
+First countable spaces without point-countable pi -base
+Projective pi -character bounds the order of a pi -base
+Another homogeneous non-bihomogeneous Peano continuum
+Complete sigma-centered Boolean algebra not adding Cohen reals
+Constructing Boolean algebras for cardinal invariants
+A result related to the problem CN of Fremlin
+Bihomogeneity and Menger manifolds
+Length of Boolean algebras and ultraproducts
+A hereditarily indecomposable tree-like continuum without the fixed point property
+More on sg-compact spaces
+Orthocompactness and semi-stratifiability in the density topology
+What is supertopology?
+Some covering properties of the alpha -topology
+Unification approach to the separation axioms between T 0 and completely Hausdorff
+Idealization of some weak separation axioms
+A remark on beta -locally closed sets
+An answer to a question of Coleman on scattered sets
+On p-closed spaces
+Contra-semicontinuous Functions
+G. Lambda s-sets and G.V s-sets
+Locally 1-to-1 maps and 2-to-1 retractions
+Exactly k-to-1 maps: from pathological functions with finitely many discontinuities to well-behaved covering maps
+On a stronger form of hereditary compactness in product spaces
+A note on Saleh's paper Almost continuity implies closure continuity'
+An answer to a question of Pyrih
+Survey on preopen sets
+Between cal A - and cal B -sets
+Topological properties defined in terms of generalized open sets
+Extremally T 1 -spaces and Related Spaces
+On locally LC-spaces
+Gently Killing S--spaces
+Idealization of Ganster-Reilly decomposition theorems
+On Faded Cosheaves of Sets
+Antichains in products of linear orders
+Countable Toronto spaces
+p-topological and p-regular: dual notions in convergence theory
+Factorisation in Topological Monoids
+On incomparability and related cardinal functions on ultraproducts of Boolean algebras
+Homotopy classes of maps between Knaster continua
+The measure algebra does not always embed
+On Arhangelskii's Problem
+On what I do not understand (and have something to say): Part I
+Fixed points and selections of multifunctions on spaces with convexity
+Flows on solenoids are generically not almost periodic
+Linear Flows on kappa -Solenoids
+Injectivity Radius Bounds in Hyperbolic Convex Cores I
+The Similarity Boundary of a Self-Similar Set
+Asymptotic topology
+More monotone open homogeneous locally connected plane continua
+On spaces Baire isomorphic to the powers of the real line
+Compactifications and universal spaces in extension theory
+On some dimensional properties of 4-manifolds
+Topological characterization of torus groups
+Compact groups and absolute extensors
+Universal metric spaces and extension dimension
+Extension dimension and refinable maps
+Spaces having a small diagonal
+Characterizing the topology of pseudo-boundaries of Euclidean spaces
+Lattices in R 2 and finite subsets of a circle
+A combinatorial characterization of second category subsets of X omega
+Continuous selections with respect to extension dimension
+A classification of CO spaces which are continuous images of compact ordered spaces
+Minimality in topological groups and Heisenberg type groups
+Near-homeomorphisms of Nobeling manifolds
+Reparametrizations of Continuous Paths
+Zero-Bidimension and Various Classes of Bitopological Spaces
+On the Theory of Relative Bitopological and Topological Properties
+Spaces of continuous functions over Dugundji compacta
+Unconditionally tau-Closed and tau-Algebraic Sets in Groups
+Representation of finite connective spaces
+Examples and counterexamples of type I isometric shifts
+Large inductive dimension of the Smirnov remainder
+A Short Study of Alexandroff Spaces
+On topological spaces possessing uniformly distributed sequences
+Continuous functions taking every value a given number of times
+Homotopy characterization of ANR mapping spaces
+Constructive decomposition of a function of two variables as a sum of functions of one variable
+The LSB theorem implies the KKM lemma
+Cosmic dimensions
+Instanton Floer homology with Lagrangian boundary conditions
+A fixed point theorem for the infinite-dimensional simplex
+The spectrum of characters of ultrafilters on omega
+SPM Bulletin 22
+Categories of categories
+Generalized solutions to nonlinear first order Cauchy problems
+Selection principles and countable dimension
+Products and selection principles
+On the Lusternik-Schnirelmann category of spaces with 2-dimensional fundamental group
+A Generalization of De Vries Duality Theorem
+Computing twisted conjugacy classes in free groups using nilpotent quotients
+Ramsey-Milman phenomenon Urysohn metric spaces and extremely amenable groups
+A note on the precompactness of weakly almost periodic groups
+On a universality property of some abelian Polish groups
+The isometry group of the Urysohn space as a Levy group
+Forty-plus annotated questions about large topological groups
+On the uniqueness of the coincidence index on orientable differentiable manifolds
+Subgroups of monothetic groups
+An equivalent condition for a uniform space to be coverable
+Some Generalizations of Fedorchuk Duality Theorem -- I
+Equivalent metrics and compactifications
+Tests a la Hurewicz dans le plan
+Uniformisations partielles et crit eres a la Hurewicz dans le plan
+Classes de Wadge potentielles des bor 'eliens a coupes d 'enombrables
+Classes de Wadge potentielles et th 'eor emes d'uniformisation partielle
+Complexit 'e des bor 'eliens a coupes d 'enombrables
+On minimal non-potentially closed subsets of the plane
+Omega-powers and descriptive set theory
+Hurewicz-like tests for Borel subsets of the plane
+How can we recover Baire class one functions?
+Some Generalizations of Fedorchuk Duality Theorem -- II
+One Dimensional Locally Connected S-spaces
+On the weight and the density of the space of order-preserving functionals
+Gruenhage compacta and strictly convex dual norms
+Algebraically periodic translation surfaces
+Advanced topology on the multiscale sequence spaces S nu
+The uniform order convergence structure on ML(X)
+On extremely amenable groups of homeomorphisms
+On proper and exterior sequentiality
+Finite index subgroups of R. Thompson's group F
+Selection Principles and Baire spaces
+Tie-points and fixed-points in N
+More on Tie-points and homeomorphism in N
+Strongly invertible knots rational-fold branched coverings and hyperbolic spatial graphs
+Valdivia compact groups are products
+Multiplicative bijections of semigroups of interval-valued continuous functions
+Selective screenability and the Hurewicz property
+Lyapunov stable chain recurrent classes
+Cardinal sequences of LCS spaces under GCH
+Dirichlet sets and Erdos-Kunen-Mauldin theorem
+Monotone versions of delta -normality
+Selective screenability in topological groups
+Orders of pi -bases
+Lawvere completion and separation via closure
+A non-separable Christensen's theorem and set tri-quotient maps
+Open maps having the Bula property
+On Limit Aperiodic G-Sets
+The coarse classification of homogeneous ultra-metric spaces
+Approximation by light maps and parametric Lelek maps
+Constructing Seifert surfaces from n-bridge link projections
+Covering maps for locally path-connected spaces
+Generic separable metric structures
+A Unified Theory on Some Basic Topological Concepts
+Partitions of unity
+Extension dimension for paracompact spaces
+Algebra of dimension theory
+Extension theory of infinite symmetric products
+Coarse dimensions and partitions of unity
+Root closed function algebras on compacta of large dimension
+Measure-preserving homeomorphisms of noncompact manifolds and mass flow toward ends
+Compact maps and quasi-finite complexes
+Existence of endo-rigid Boolean algebras
+Factor  quotient uncountable Boolean algebras number of endomorphism and width
+Is the boundary of a Siegel disk a Jordan curve?
+Number of open sets for a topology with a countable basis
+The number of independent elements in the product of interval Boolean algebras
+Complete quotient Boolean algebras
+Cellularity of free products of Boolean algebras (or topologies)
+More Constructions for Boolean algebras
+Colouring and non-productivity of aleph 2-cc
+Subalgebras of Cohen algebras need not be Cohen
+Topological density of ccc Boolean algebras - every cardinality occurs.
+Inverse Systems and I-Favorable Spaces
+Rips complexes and covers in the uniform category
+A construction of noncontractible simply connected cell-like two dimensional Peano continua
+On the ideal (v 0)
+Krasinkiewicz spaces and parametric Krasinkiewicz maps
+Spaces of mathbb R - places of rational function fields
+A short proof of nonhomogeneity of the pseudo-circle
+Pre-Hausdorff Spaces
+Quasi-Minimal Pseudo-Minimal Systems and Dense Orbits
+Combinatorial and model-theoretical principles related to regularity of ultrafilters and compactness of topological spaces. I
+Fuzzy Statistical Limits
+Groups with torsion bordism and rho-invariants
+The order completion method for systems of nonlinear PDEs revisited
+Ernest Michael and theory of continuous selections
+Injective Spaces via Adjunction
+On countably compact 0-simple topological inverse semigroups
+Combinatorial and model-theoretical principles related to regularity of ultrafilters and compactness of topological spaces. II
+Combinatorial and model-theoretical principles related to regularity of ultrafilters and compactness of topological spaces. III
+Entropy and its variational principle for noncompact metric spaces
+Fr ' e chet-Urysohn fans in free topological groups
+The Iterative Simplicity of Basic Topological Operations
+Operators of Harmonic Analysis in Weighted Spaces with Non-standard Growth
+Codings of separable compact subsets of the first Baire class
+A classification of separable Rosenthal compacta and its applications
+A strong boundedness result for separable Rosenthal compacta
+A first-countable non-remainder of H
+A property of C p 0 1
+Connected sums of closed Riemannian manifolds and fourth order conformal invariants
+Aronszajn Compacta
+Probability measures and Milyutin maps between metric spaces
+Generalized Cantor manifolds and homogeneity
+Relative injectivity as cocompleteness for a class of distributors
+Characterizing indecomposable plane continua from their complements
+A family of non-isomorphism results
+Locally Connected HL Compacta
+Topologie sur l'ensemble des parties positives d'un r 'eseau
+Hartman-Mycielski functor of non-metrizable compacta
+Fixed points in non-invariant plane continua
+Counting the Closed Subgroups of Profinite Groups
+Classifying Spaces of Subgroups of Profinite Groups
+The bicompletion of the Hausdorff quasi-uniformity
+The plane fixed point problem
+Products of straight spaces
+A dichotomy for Borel functions
+(Metrically) quarter-stratifiable spaces and their applications in the theory of separately continuous functions
+Free topological inverse semigroups as infinite-dimensional manifolds
+Each second countable abelian group is a subgroup of a second countable divisible group
+About extension of upper semicontinuous multi-valued maps and applications
+Translation covers of triangular billiards surfaces
+On the number of inscribed squares of a simple closed curve in the plane
+Quasi-metrics Similarities and Searches: aspects of geometry of protein datasets
+On linearly ordered H -closed topological semilattices
+A Generalization of the Circumcenter of a Set
+On locally extremal functions on connected spaces
+A characterisation of compact fragmentable linear orders
+Cohomology of Substitution Tiling Spaces
+Uniformites et Continuity Spaces
+A Nonseparably Connected Metric Space as a Dense Connected Graph
+Hyperspaces of Closed Limit Sets
+Quotient Spaces Determined by Algebras of Continuous Functions
+SPM Bulletin 21
+Covering R-trees
+Moment Methods for Exotic Volatility Derivatives
+SPM Bulletin 23
+SPM Bulletin 24
+Countable Choice and Compactness
+Uniform Eberlein spaces and the finite axiom of choice
+The Connectivity Order of Links
+SPM Bulletin 2
+SPM Bulletin 2
+SPM Bulletin 12
+SPM Bulletin 13
+SPM Bulletin 14
+SPM Bulletin 1
+SPM Bulletin 1
+SPM Bulletin 1
+SPM Bulletin 1
+SPM Bulletin 20
+Weakly infinite dimensional subsets of R N
+Parametric Bing and Krasinkiewicz maps: revisited
+Locally compact abelian groups admitting non-trivial quasi-convex null sequences
+Convergent sequences in minimal groups
+Train track complex of once-punctured torus and 4-punctured sphere
+Mazurkiewicz manifolds and homogeneity
+Projectional entropy and the electrical wire shift
+Having cut-points is not a Whitney reversible property
+Invariants for Legendrian knots in lens spaces
+On The Pairwise Weakly Lindelof Bitopological Spaces
+Solutions of nonlinear PDEs in the completion of uniform convergence spaces
+A nonaspherical cell-like 2-dimensional simply connected continuum and related constructions
+Which infinite abelian groups admit an almost maximally almost-periodic group topology?
+Reparametrizations with given stop data
+Skew product dynamical systems Ellis groups and topological centre
+Local sections of Serre fibrations with 2-manifold fibers
+Local section of Serre fibrations with 3-manifold fibers
+The group Aut( mu) is Roelcke precompact
+Measure of the Julia Set of the Feigenbaum map with infinite criticality
+Hereditary invertible linear surjections and splitting problems for selections
+Semigroup Closures of Finite Rank Symmetric Inverse Semigroups
+On the splitting problem for selections
+On T -sequences and characterized subgroups
+The number of weakly compact sets which generate a Banach space
+Countable products of spaces of finite sets
+The unit ball of the Hilbert space in its weak topology
+Linearly-ordered Radon-Nidkod 'ym compact spaces
+The number of weakly compact convex subsets of the Hilbert space
+Automorphisms in spaces of continuous functions on Valdivia compacta
+The Schur l1 Theorem for filters
+The Suslinian number and other cardinal invariants of continua
+Characterization of almost maximally almost-periodic groups
+Hilbert C -modules from group actions: beyond the finite orbits case
+Isotopy-invariant topological measures on closed orientable surfaces of higher genus
+Homologically arc-homogeneous ENRs
+Path concordances as detectors of codimension-one manifold factors
+Closed injective systems and its fundamental limit spaces
+Selections Paracompactness and Compactness
+Connected not separably connected complete metric spaces
+Proceedings of the Ninth Prague Topological Symposium. Contributed papers from the symposium held in Prague August 1-2 2001
+Heredity of tau-pseudocompactness
+Locatedness and overt sublocales
+Banach-like metrics and metrics of compact sets
+Building suitable sets for locally compact groups by means of continuous selections
+Linear operators with compact supports probability measures and Milyutin maps
+Stone- v C ech compactifications and homeomorphisms of products of the long line
+On the Lusternik-Schnirelmann category of symmetric spaces of classical type
+On the category of Euclidean configuration spaces and associated fibrations
+Weak extension theorem for measure-preserving homeomorphisms of noncompact manifolds
+On the criteria of D-planarity of a tree
+Balanced Category Theory II
+Combinatorial and model-theoretical principles related to regularity of ultrafilters and compactness of topological spaces. VI
+SPM Bulletin 2
+On the non-equivalence of Lorenz System and Chen System
+Covering R-trees R-free groups and dendrites
+A connection between decomposable ultrafilters and possible cofinalities. II
+Reflection principle characterizing groups in which unconditionally closed sets are algebraic
+A dichotomy characterizing analytic digraphs of uncountable Borel chromatic number in any dimension
+A Categorical Construction of Ultrafilters
+Obtainable Sizes of Topologies on Finite Sets
+Constructing near-embeddings of codimension one manifolds with countable dense singular sets
+A De Vries-type Duality Theorem for Locally Compact Spaces -- I
+Discreteness and Homogeneity of the Topological Fundamental Group
+Complexity of atriodic continua
+Baire-one mappings contained in a usco map
+How can we recognize potentially bf Pi 0 xi subsets of the plane?
+Convergence in strongly monotone systems with an increasing first integral
+An Arithmetic Metric
+Reflexive group topologies on Abelian groups
+Arcs in the Plane
+Extension of the Borsuk Theorem on Non-Embeddability of Spheres
+Some power of an element in a Garside group is conjugate to a periodically geodesic element
+Non-separable Hilbert manifolds of continuous mappings
+Ambitable topological groups
+Preserving Z -sets by Dranishnikov's resolution
+The continuity of the inversion and the structure of maximal subgroups in countably compact topological semigroups
+The topology of moduli spaces of free group representations
+Amalgamated free products of topological groups being Hausdorff -- a new approach
+A simple convergent solver for initial value problems
+Borel oracles. An analytical approach to constant-time algorithms
+A De Vries-type Duality Theorem for Locally Compact Spaces -- III
+Distinguished orbits and the L-S category of simply connected compact Lie groups
+A De Vries-type Duality Theorem for Locally Compact Spaces -- II
+SPM Bulletin 2
+Uniform convexity and the splitting problem for selections
+The Solecki dichotomy for functions with analytic graphs
+Different versions of mapping class groups of surfaces
+Lindelof indestructibility topological games and selection principles
+NSS and TAP properties in topological groups close to being compact
+Detecting codimension one manifold factors with topographical techniques
+Automorphisms of the graph of free splittings
+Seifert fibered homology spheres with trivial Heegaard Floer homology
+Euler integration over definable functions
+On Hilbert's 13th Problem
+Minimal Size of Basic Families
+Topological games and covering dimension
+Uniformizable and realcompact bornological universes
+The Rotation Class of a Flow
+Compactifications Hartman functions and (weak) almost periodicity
+On closed P-sets with ccc in the space omega
+Topological partition relations to the form omega - () 1 2
+Somewhere trivial automorphisms
+Cardinalities of topologies with small base
+Densities of ultraproducts of Boolean algebras
+On Monk's questions
+On sigma-entangled linear orders
+Cardinal invariants of ultrapoducts of Boolean algebras
+On the cardinality and weight spectra of compact spaces II
+On tightness and depth in superatomic Boolean algebras
+Strongly almost disjoint sets and weakly uniform bases
+On omitting cardinals in T 3 spaces
+Topological groups: where to from here?
+Steenrod homotopy
+Groups of quasi-invariance and the Pontryagin duality
+Open and other kinds of extensions over zero-dimensional local compactifications
+Tychonoff Expansions with Prescribed Resolvability Properties
+On perturbations of continuous maps
+Metrisability of Manifolds
+Homeomorphisms of Bagpipes
+Foliations on non-metrisable manifolds: absorption by a Cantor black hole
+On continuous functions on two-dimensional disk which are regular in its interior points
+Open and other kinds of extensions over local compactifications
+On the conditions of topological equivalence of pseudoharmonic functions defined on disk
+On the realization of graph as invariant of pseudoharmonic functions
+A group of isometries with non-closed orbits
+Topological Classification of Lagrangian Fibrations
+End compactifications in non-locally-finite graphs
+Hyperspace of convex compacta of nonmetrizable compact convex subspaces of locally convex spaces
+Spaces of idempotent measures of compact metric spaces
+Quasi-convex density and determining subgroups of compact abelian groups
+Minimal pseudocompact group topologies on free abelian groups
+o-Boundedness of free topological groups
+CH a problem of Rolewicz and bidiscrete systems
+The Banach-Alaoglu theorem is equivalent to the Tychonoff theorem for compact Hausdorff spaces
+On a criterion of properness of multimaps
+Alexander Polynomials of Periodic Knots: A Homological Proof and Twisted Extension
+Topology and Bistability in liquid crystal devices
+Topological Orthoalgebras
+Area-Preserving Surface Diffeomorphisms
+Z -set unknotting in large cubes
+Measure Recognition Problem
+An Intrisic Topology for Orthomodular Lattices
+Metrizable TAP HTAP and STAP groups
+Multiplication is discontinuous in the Hawaiian earring group (with the quotient topology)
+On the second homotopy group of SC(Z)
+On noncontractible compacta with trivial homology and homotopy groups
+Locally minimal topological groups
+SPM Bulletin 2
+A Coanalytic Rank on Super-Ergodic Operators
+Borel Spectrum of Operators on Banach Spaces
+Noetherian types of homogeneous compacta and dyadic compacta
+Splitting families and the Noetherian type of beta omega- omega
+Geometric approach to Ending Lamination Conjecture
+A unified construction yielding precisely Hilbert and James sequences spaces
+Tukey classes of ultrafilters on omega
+Selections Extensions and Collectionwise Normality
+Automatic norm continuity of weak homeomorphisms
+Some examples of continuous images of Radon-Nikod 'ym compact spaces
+Fiber orders and compact spaces of uncountable weight
+On the existence of Stone-Cech compactification
+A reflexivity criterion for Hilbert C -modules over commutative C -algebras
+Measurable cardinals and the cardinality of Lindel of spaces
+On the Brandt lambda 0 -extensions of monoids with zero
+Nonmeasurability in Banach spaces
+Zariski topologies on groups
+A trichotomy for a class of equivalence relations
+Sequential order under CH
+Une Structure Uniforme sur un Espace F(E F)
+Precompact noncompact reflexive abelian groups
+Definable Functions in Urysohn's Metric Space
+Moore's theorem
+Homeomorphism and diffeomorphism groups of non-compact manifolds with the Whitney topology
+Packing index of subsets in Polish groups
+Symmetric monochromatic subsets in colorings of the Lobachevsky plane
+On chains in H -closed topological pospaces
+Spaces of maps into topological group with the Whitney topology
+varkappa -metrizable compacta and superextensions
+Ideals which generalize (v 0)
+Minimally almost periodic group topology on countable torsion Abelian groups
+Pattern Equivariant Representation Variety of Tiling Spaces for Any Group G
+Common idempotents in compact left topological left semirings
+A unified theory of function spaces and hyperspaces: local properties
+Relations that preserve compact filters
+Products of compact filters and applications to classical product theorems
+Quantum invariants of 3-manifolds associated to restricted quantum groups
+Remarks on the preservation of topological covering properties under Cohen forcing
+A new Lindelof topological group
+Nondiscrete P-Groups Can be Reflexive
+General self-similarity: an overview
+A new characterization of Baire class 1 functions
+On the action of the group of isometries on a locally compact metric space
+Quantization of branched coverings
+On geometric properties of the functors of positively homogenous and semiadditive functionals
+Generalized Luzin sets
+An interesting proof of the nonexistence continuous bijection between mathbb R n and mathbb R 2 for n neq 2
+Basic embeddings and Hilbert's 13th problem
+Skeletal maps and I-favorable spaces
+Dense families of countable sets below c
+Topological ( prod omega ell 2 sum omega ell 2)-factors of diffeomorphism groups of non-compact manifolds
+Bounded Topological Groups
+A note on Noetherian type of spaces
+Sections Selections and Prohorov's Theorem
+Euler characteristic of the configuration space of a complex
+Combinatorial principles from adding Cohen reals
+On continuous choice of retractions onto nonconvex subsets
+Quasi-convex sequences in the circle and the 3-adic integers
+The escaping set of the exponential
+Group-valued continuous functions with the topology of pointwise convergence
+Properties D and aD are different
+Digit sets for connected tiles via similar matrices I: Dilation matrices with rational eigenvalues
+On Genus of Circulant Graphs
+Approximation in quantale-enriched categories
+On completeness of H-closed pospaces
+United sight to an algebraic operations and convergence
+On subgroups of minimal topological groups
+On Normal Stratified Pseudomanifolds
+Pseudocompact group topologies with no infinite compact subsets
+Locally precompact groups: (Local) realcompactness and connectedness
+The Hardness of Approximating the Threshold Dimension Boxicity and Cubicity of a Graph
+The topological structure of direct limits in the category of uniform spaces
+Khovanov homology of alternating links and SU(2) representations of the link group
+Hewitt-Marczewski-Pondiczery type theorem for abelian groups and Markov's potential density
+Forcing Differentiable Functions
+Baire class one colorings and a dichotomy for countable unions of F sigma rectangles
+Filters and Ultrafilters as Approximate Solutions in the Attainability Problems with Constrains of Asymptotic Character
+Coupled fixed point theorems in partially ordered epsilon -chainable metric spaces
+Coupled Fixed Point Theorems for Contraction Involving Rational Expressions in Partially Ordered Metric Spaces
+Ciric's fixed point theorem in a cone metric space
+Funny Problems in Intuitive Topology
+Uniform measures and convolution on topological groups
+Axioms for a local Reidemeister trace in fixed point and coincidence theory on differentiable manifolds
+A formula for the coincidence Reidemeister trace of selfmaps on bouquets of circles
+Typical elements in free groups are in different doubly-twisted conjugacy classes
+Extremal k-pseudocompact abelian groups
+On some peculiar aspects of the constructive theory of point-free spaces
+When is the I sbell topology a group topology?
+Sequential properties of function spaces with the compact-open topology
+Trivial fibrations of the multiplication maps for monads generated by the functors of order-preserving and positively homogeneous functionals
+Functional analysis in asymmetric normed spaces
+Wide scattered spaces and morasses
+SPM Bulletin 30
+Characterization of ell p -like and c 0 -like equivalence relations
+Sequences and nets in topology
+The Pinsker subgroup of an algebraic flow
+Groupoid Quantales: a non 'etale setting
+Locally Minimal Topological Groups 2
+Hausdorff Convergence and Universal Covers
+Any counterexample to Makienko's conjecture is an indecomposable continuum
+Recognizing indecomposable subcontinua of surfaces from their complements
+Covering by discrete and closed discrete sets
+Many partition relations below density
+Semigroups of locally injective maps and transfer operators
+A note on discrete sets
+Stationary and convergent strategies in Choquet games
+P-spaces and the Whyburn property
+A topological description of the space of prime ideals of a monoid
+Weakly convex sets and modulus of nonconvexity
+Semitopological homomorphisms
+Geometric Tomography With Topological Guarantees
+Fractal Dimension for Fractal Structures
+The free product of topological groups being Hausdorff is Hausdorff --- a new proof
+On The Existence of Globally Solvable Vector Fields in Smooth Manifolds
+Partition relations for Hurewicz-type selection hypotheses
+A new compact class of open sets under Hausdorff distance and shape optimization
+External characterization of I-favorable spaces
+Guessing clubs for aD non D-spaces
+Embedding of self-similar ultrametric Cantor sets
+On an exotic topology of the integers
+A solution to the completion problem of quasi-uniform spaces
+Inclusion hyperspaces and capacities on Tychonoff spaces: functors and monads
+Continuous Maps on Aronszajn Trees
+Selection principles and the minimal tower problem
+A diagonalization property between Hurewicz and Menger
+Strong gamma-sets and other singular spaces
+Topological diagonalizations and Hausdorff dimension
+The combinatorics of Borel covers
+Products of special sets of real numbers
+Translation-invariant generalized topologies induced by probabilistic norms
+The conjugacy problem and related problems in lattice-ordered groups
+A topological interpretation of the tower number
+Group Actions and Covering Maps in the Uniform Category
+On the Range of Cosine Transform of Distributions for Torus-Invariant Complex Minkowski Spaces
+The group of isometries of a locally compact metric space with one end
+Remarks on nonmeasurable unions of big point families
+Thin-very tall compact scattered spaces which are hereditarily separable
+delta -Quasi Cauchy Sequences
+Maps on graphs can be deformed to be coincidence-free
+Pontryagin duality between compact and discrete abelian inverse monoids
+Homotopy classification of finite group actions on aspherical spaces
+A discrete Gauss-Bonnet type theorem
+Duality for distributive space
+On Cohomology theory for topological groups
+Fully closed maps and non-metrizable higher-dimensional Anderson-Choquet continua
+Distinguishing Bing-Whitehead Cantor Sets
+Some results on separate and joint continuity
+Itzkowitz's problem for group of finite exponent
+Stone duality for topological theories
+The Markov-Zariski topology of an abelian group
+Topological monoids of almost monotone injective co-finite partial selfmaps of positive integers
+Lower Quasicontinuity Joint Continuity and Related concepts
+Weakly Semi-Preopen and Semi-Preclosed Functions in L-fuzzy Topological Spaces
+Cliquishness and Quasicontinuity of Two Variables Maps
+Polyhedral approximations of strictly convex compacta
+Points fixes des applications compactes dans les espaces ULC
+Jordan and Schoenflies in non-metrical analysis situs
+On M-separability of countable spaces and function spaces
+Bornologies selection principles and function spaces
+Topological classification of affine operators on unitary and Euclidean spaces
+Classification of affine operators up to biregular conjugacy
+Special embeddings of finite-dimensional compacta in Euclidean spaces
+Compactness in L-Fuzzy Topological Spaces
+Variable-Basis Fuzzy Filters
+On a problem of Juhasz and van Mill
+Linear sigma -additivity and some applications
+Point-cofinite covers in the Laver model
+Preserving the Lindel of property under forcing extensions
+Coarse version of the Banach-Stone theorem
+Compactness in Banach space theory - selected problems
+On G-Continuity
+On fixed point theorems and nonsensitivity
+A General Local-to-Global Principle for Convexity of Momentum Maps
+Embeddings of finite-dimensional compacta in Euclidean spaces
+A general theory of self-similarity
+A new duality theorem for locally compact spaces
+Topology and subsets - the story of a theorem
+Rothberger bounded groups and Ramsey theory
+Very I-favorable spaces
+Generalized Hyperspaces and Non-Metrizable Fractals
+Beta Spaces: New Generalizations of Typically-Metric Properties
+A short and elementary proof of Hanner's theorem
+Fixed-point free maps of Euclidean spaces
+Additivity properties of topological diagonalizations
+Hereditary topological diagonalizations and the Menger-Hurewicz Conjectures
+The combinatorics of splittability
+The Hurewicz covering property and slaloms in the Baire space
+Critical cardinalities and additivity properties of combinatorial notions of smallness
+The minimal cardinality where the Reznichenko property fails
+o-bounded groups and other topological groups with strong combinatorial properties
+Selection principles in mathematics: A milestone of open problems
+Covering the Baire space by families which are not finitely dominating
+The combinatorics of tau-covers
+Some new directions in infinite-combinatorial topology
+Scales fields and a problem of Hurewicz
+The combinatorics of the Baer-Specker group
+Menger's covering property and groupwise density
+Several comments about the combinatorics of tau-covers
+Additivity numbers of covering properties
+Combinatorial images of sets of reals and semifilter trichotomy
+On the Pytkeev property in spaces of continuous functions
+A new selection principle
+On the Kocinac alpha i properties
+Squares of Menger-bounded groups
+On the Pytkeev property in spaces of continuous functions (II)
+On strongly summable ultrafilters
+Dual topologies on non-abelian groups
+A remark on approximation of open sets with regular bounded ones
+Growth of Weil-Petersson volumes and random hyperbolic surfaces of large genus
+Rigidity of the topological dual of spaces of formal series with respect to product topologies
+Integrable embeddings and foliations
+Leibniz's Principles and Topological Extensions
+A class of metrizable locally quasi-convex groups which are not Mackey
+Dynamic rays of bounded-type entire functions
+Bockstein basis and resolution theorems in extension theory
+On the dimension of CAT(0) spaces where mapping class groups act
+Circle Decompositions of Surfaces
+Productivity of sequences with respect to a given weight function
+The magnitude of metric spaces
+Maps with dimensionally restricted fibers
+Rational Dynamical Systems
+Topological Dynamics indexed by words
+Building a Chaotic Proved Neural Network
+Another approach to parametric Bing and Krasinkiewicz maps
+Pontryagin duality in the class of precompact Abelian groups and the Baire property
+On the Logarithmic Asymptotics of the Sixth Painleve' Equation (Summer 200)
+On Connectivity Spaces
+The topological fundamental group and free topological groups
+Zariski Topologies for Coprime and Second Submodules
+A Kronecker-Weyl theorem for subsets of abelian groups
+On union ultrafilters
+Uniformly convex subsets of the Hilbert space with modulus of convexity of the second order
+Measure theory in the geometry of GL(n mathbb Z) ltimes mathbb Z n
+Tree duplicates G delta -diagonals and Gruenhage spaces
+Axioms for the coincidence index of maps between manifolds of the same dimension
+On Some Topological Concepts of TVS-Cone Metric Spaces and Fixed Point Theory Remarks
+Z-set unknotting in uncountable products of reals
+Locally Convex Valued Rectangular Metric Spaces and The Kannan's Fixed Point Theorem
+The embedding structure for linearly ordered topological spaces
+A four for the price of one duality principle for distributive spaces
+sigma -homogeneity of Borel sets
+Preservation of the Borel class under open- LC functions
+A characterization of weak (semi-)projectivity for commutative C -algebras
+Word-Induced Measures on Compact Groups
+On the spectral flow for paths of essentially hyperbolic bounded operators on Banach spaces
+Algebraic Geometry of Topological Spaces I
+A locally compact non divisible abelian group whose character group is torsion free and divisible
+Entropy in a category
+The Hyperspaces C n (X) of finite ray-graphs
+Coincidence and Common Fixed Point Results for Contraction Type Maps in Partially Ordered Metric Spaces
+Model Identification of a Network as Compressing Sensing
+Equivariant extension properties of coset spaces of locally compact groups and approximate slices
+Locally compact subgroup actions on topological groups
+On gamma -Semi-Continuous Functions
+Some fixed point results in ordered partial metric spaces
+gamma -semi-open Sets in Topological Spaces-II
+Some Coupled Fixed Point Results on Partial Metric Spaces
+On universal spaces for the class of Banach spaces whose dual balls are uniform Eberlein compacts
+Functorial topologies and finite-index subgroups of abelian groups
+Approaching metric domains
+Star-covering properties: generalized Psi -spaces countability conditions reflection
+Residuality of Families of F-sigma Sets
+On the length of chains of proper subgroups covering a topological group
+Ordinal Compactness
+A refinement of Stone duality to skew Boolean algebras
+A topos-theoretic approach to Stone-type dualities
+The higher order terms in asymptotic expansion of color Jones polynomials
+On productively Lindel of spaces
+Characterizing maximal compact subgroups
+Lindelof spaces which are indestructible productive or D
+Productively Lindelof spaces may all be D
+PFA(S) S and the Arhangel'skii-Tall problem
+Set-theoretic problems concerning Lindelof spaces
+On the automorphism group of the asymptotic pants complex of a planar surface of infinite type
+A Correspondence Between Distances and Embeddings for Manifolds: New Techniques for Applications of the Abstract Boundary
+On the hereditary paracompactness of locally compact hereditarily normal spaces
+PFA(S) S and Locally Compact Normal Spaces
+SPM Bulletin 31
+gamma -Regular gamma -Locally Compact and gamma -Normal spaces
+Baire-class xi colorings: the first three levels
+Characterizing meager paratopological groups
+On quasi-Cauchy sequences
+Statistically Quasi-Cauchy Sequences
+On the Approximation of a Function Continuous off a Closed Set by One Continuous Off a Polyhedron
+Existence of Taut foliations on Seifert fibered homology 3-spheres
+Duality Between Uniform Spaces and Boolean Algebras
+Properness Cauchy-indivisibility and the Weil completion of a group of isometries
+Topological Considerations for Tuning and Fingering Stringed Instruments
+gamma o -Compacr gamma s -Regular and gamma s -Normal Spaces
+Nieto-Lopez theorems in ordered metric spaces
+Coupled coincidence point theorems for mixed (G S)-monotone operators on partially ordered metric spaces and applications
+Compact leaves in Reebless or taut foliations
+Fuzzy Prokhorov metric on the set of probability measures
+Functional extenders and set-valued retractions
+Urysohn's metrization theorem for higher cardinals
+On asymptotic extension dimension
+Jones-Wenzl idempotents For Rank 2 Simple Lie algebras
+Some compactness properties related to pseudocompactness and ultrafilter convergence
+A class of compact subsets for non-sober topological spaces
+Notes on non-archimedean topological groups
+Ran-Reurings theorems in ordered metric spaces
+On Extension Of Functors
+Stone Duality for Skew Boolean Algebras with Intersections
+A product theorem for a general accumulation property
+A C(K) Banach space which does not have the Schroeder-Bernstein property
+Sequence-covering maps on generalized metric spaces
+Regular Bases At Non-isolated Points And Metrization Theorems
+About remainders in compactifications of paratopological groups
+Uniform covers at non-isolated points
+Uniform bases at non-isolated points and maps
+Open uniform (G) at non-isolated points and maps
+On normality of the Wijsman topology
+A counterexample in the theory of D -spaces
+Quartet fixed point for nonlinear contraction
+Topological completeness of the provability logic GLP
+Lowering topological entropy over subsets
+A note on the commutativity of inverse limit and orbit map
+Menger's and Hurewicz's Problems: Solutions from The Book and refinements
+The character spectrum of beta(N)
+Adjoint entropy vs Topological entropy
+Convex hyperspaces of probability measures and extensors in the asymptotic category
+Minimal knotted polygons in cubic lattices
+Nonstandard Analysis in Topology
+Energy of Twisted Harmonic Maps of Riemann Surfaces
+Continuous selections and sigma-spaces
+On extending actions of groups
+Superfilters Ramsey theory and van der Waerden's Theorem
+Characterizing compact Clifford semigroups that embed into convolution and functor-semigroups
+A Note on Monotonically Metacompact Spaces
+The topological structure of (homogeneous) spaces and groups with countable cs -character
+On topological groups containing a Fr 'echet-Urysohn fan
+Extending binary operations to funtor-spaces
+Spaces with fibered approximation property in dimension n
+Free topological universal algebras and absolute neighborhood retracts
+Centerpole sets for colorings of Abelian groups
+Characterizing chainable tree-like and circle-like continua
+Exactly n -resolvable Topological Expansions
+The topology of a semisimple Lie group is essentially unique
+Decay of trefoil and other magnetic knots
+On thin-complete ideals of subsets of groups
+Topologies on groups determined by sequences: Answers to several questions of I.Protasov and E.Zelenyuk
+Topological classification of zero-dimensional M omega -groups
+On meager function spaces network character and meager convergence in topological spaces
+Selections for Paraconvex-valued Mappings on Non-paracompact Domains
+On the singular homology of one class of simply-connected cell-like spaces
+Geometric conditions for the reconstruction of a holomorphic function by interpolation formula
+Idempotent convexity and algebras for the capacity monad and its submonads
+Ambiguous representations as fuzzy relations between sets
+Decomposition of Cellular Balleans
+Topological monoids of monotone injective partial selfmaps of mathbb N with cofinite domain and image
+Coverings and fundamental groups: a new approach
+Four groups related to associators
+Subspaces of pseudoradial spaces
+Cleavability and scattered sets of non-trivial fibers
+Representing a profinite group as the homeomorphism group of a continuum
+Sufficient Conditions for Recognizing a 3-manifold Group
+Understanding 3-manifolds in the context of permutations
+Characterization of a Banach-Finsler manifold in terms of the algebras of smooth functions
+The Banach-Mazur compactum is the Alexandroff compactification of a Hilbert cube manifold
+Final group topologies Kac-Moody groups and Pontryagin duality
+SPM Bulletin 1
+Hurewicz sets of reals without perfect subsets
+A separable non-remainder of H
+A concrete co-existential map that is not confluent
+On zero-dimensionality and the connected component of locally pseudocompact groups
+Metrizability of Topological Vector Space Valued Cone Metric Spaces
+On the Non-Uniform Hyperbolicity of the Kontsevich-Zorich Cocycle for Quadratic Differentials
+Metrization criteria for compact groups in terms of their dense subgroups
+Relative Computability and Uniform Continuity of Relations
+On Polish Groups of Finite Type
+Linear topologies on Z are not Mackey topologies
+On hereditary coreflective subcategories of Top
+Hereditary additive and divisible classes in epireflective subcategories of Top
+The Wecken property for random maps on surfaces with boundary
+Mapping degrees of self-maps of simply-connected manifolds
+Kuratowski's Theorem for Two Closure Operators
+I K-convergence
+Linearly Ordered Families of Baire 1 Functions
+Chains of Baire class 1 functions and various notions of special trees
+Transfinite Sequences of Continuous and Baire Class 1 Functions
+Strongly non embeddable metric spaces
+SPM Bulletin 32
+On sequentially h-complete groups
+Hereditarily h-complete groups
+Precompact abelian groups and topological annihilators
+Almost maximally almost-periodic group topologies determined by T-sequences
+Hereditarily non-topologizable groups
+On scatteredly continuous maps between topological spaces
+Algebra in superextensions of groups I: zeros and commutativity
+Algebra in superextension of groups II: cancelativity and centers
+The diffeomorphism groups of the real line are pairwise bihomeomorphic
+Algebra in the superextensions of groups: minimal left ideals
+k -Metrizable Spaces and their Applications
+Algebra in superextensions of twinic groups
+The Rees-Suschkewitsch Theorem for simple topological semigroups
+Openly factorizable spaces and compact extensions of topological semigroups
+Embedding the bicyclic semigroup into countably compact topological semigroups
+Connected economically metrizable spaces
+The topology of systems of hyperspaces determined by dimension functions
+Ionads
+Minimally almost periodic group topology on infinite countable Abelian groups: A solution to Comfort's question
+Cycle decompositions: from graphs to continua
+Topological classification of closed convex sets in Frechet spaces
+A note on rectifiable spaces
+For Hausdorff spaces H -closed  D -pseudocompact for all ultrafilters D
+The asymptotic directions of pleating rays in the Maskit embedding
+A Spectral Sequence Connecting Continuous With Locally Continuous Group Cohomology
+Non-separable h-homogeneous absolute F sigma delta -spaces and G delta sigma -spaces
+Decompositions of the automorphism group of a locally compact abelian group
+Transversality theorems for the weak topology
+Product fixed points in ordered metric spaces
+On the omega-limit sets of tent maps
+Tukey types of ultrafilters
+Continuous cofinal maps on ultrafilters
+Approximable WAP- and LUC-interpolation sets
+Polynomial Invariant Theory of the Classical Groups
+Characterizing metric spaces whose hyperspaces are absolute neighborhood retracts
+Selection Principles and special sets of reals: Open problems
+Characterizing group C ast -algebras through their unitary groups: the Abelian case
+Countable open and closed functions
+The topology of ultrafilters as subspaces of 2 omega
+Volumes in Hyperbolic Space
+Construction of sphere maps with given degrees and a new proof of Morse index formula
+Wijsman Hyperspaces: Subspaces and Embeddings
+On intersections of closed curves on surfaces
+Unlinking Number and Unlinking Gap
+Products and h-homogeneity
+Formality of Positive Quaternion Kaehler Manifolds
+A non-CLP-compact product space whose finite subproducts are CLP-compact
+On monoids of injective partial selfmaps almost everywhere the identity
+On the Menger covering property and D -spaces
+Variations of selective separability II: discrete sets and the influence of convergence and maximality
+Short proof of a theorem of Juhasz
+Metric compactifications and coarse structures
+Topologies on X as points in 2 mathcal P (X)
+Simple proof of Zermelo's theorem
+A new proof of a theorem of Jayne and Rogers
+Computational complexity of topological invariants
+Weak extent submetrizability and diagonal degrees
+Topics in uniform continuity
+The Glueing Construction and Double Categories
+A coarse invariant for all metric spaces
+Dimension of the product and classical formulae of dimension theory
+A general method for building reflections
+Chaotic iterations for steganography: Stego-security and topological-security
+Chaotic iterations versus Spread-spectrum: topological-security and stego-security
+On Pli ' s metric on the space of strictly convex compacta
+Introduction aux dynamiques cat 'egoriques connectives
+Some properties of minimal S( alpha ) and S( alpha )FC spaces
+Banach Contraction Principle for Cyclical Mappings on Partial Metric Spaces
+Locally connected models for Julia sets
+The solar Julia sets of basic quadratic Cremer polynomials
+A fixed point theorem for branched covering maps of the plane
+Fixed point theorems in plane continua with applications
+Finitely Suslinian models for planar compacta with applications to Julia sets
+Sequential Definitions of Connectedness
+Laminations in the language of leaves
+On large indecomposable Banach spaces
+Probabilistic Metric Spaces as enriched categories
+A graph theoretical Poincare-Hopf Theorem
+The C-compact-open topology on function spaces
+Selected results on selection principles
+On G-Sequential Continuity
+On G -sequential connectedness
+Topological dynamics and definable groups
+Span Cospan and Other Double Categories
+The weights of closed subgroups of a locally compact group
+Recognizing destabilization exchange moves and flypes
+Monotonic Simplification and Recognizing Exchange Reducibility
+Oscillator topologies on a paratopological group and related number invariants
+A topological characterization of LF-spaces
+Direct limit topologies in the categories of topological groups and of uniform spaces
+Convexity of Momentum Maps: A Topological Analysis
+Effective local connectivity properties
+An effective Caratheodory Theorem
+On groupoids with involutions and their cohomology
+Weak covering properties and infinite games
+On linear operators extending pseudo metrics
+Periodic and fixed points of multivalued maps on Euclidean spaces
+Some Open Problems in Topological Algebra
+On Soft Connectedness
+SPM Bulletin 33
+Universally Kuratowski-Ulam space and open-open games
+On the continuity of the Hutchinson operator
+Subspaces of monotonically normal compacta
+On closed embeddings of free topological algebras
+On index expectation and curvature for networks
+Are Eberlein-Grothendieck scattered spaces sigma -discrete?
+The homotopy classes of continuous maps between some non-metrizable manifolds
+Manifolds: Hausdorffness versus homogeneity
+On a metric on the space of idempotent probability measures
+On the quasi-component of pseudocompact abelian groups
+A constructive Galois connection between closure and interior
+Topologically subordered rectifiable spaces and compactifications
+Local properties on the remainders of the topological groups
+On rectifiable spaces and paratopological groups
+On Hawaiian Groups of Some Topological Spaces
+Cohomology of One-dimensional Mixed Substitution Tiling Spaces
+Top(X) within px When lattices meet topology: Top(X) within px .
+A completion construction for continuous dynamical systems
+Space guaranteeing a primitive chaotic behavior
+Lyapunov exponent evaluation of a digital watermarking scheme proven to be secure
+Berge's Theorem for Noncompact Image Sets
+On Murayama's theorem on extensor properties of G-spaces of given orbit types
+A two-parameter control for contractive-like multivalued mappings
+Priestley-type dualities for partially ordered structures
+On soft topological space via semiopen and semiclosed soft sets
+On manifolds with nonhomogeneous factors
+On the homology of the Harmonic Archipelago
+A Whiteheadian-type description of Euclidean spaces spheres tori and Tychonoff cubes
+On dimensions modulo a compact metric ANR and modulo a simplicial complex
+A new look at finitely generated metabelian groups
+Function contractive maps in partial metric spaces
+On the cardinality of the theta -closed hull of sets
+Cleavability over ordinals
+Metric properties of mean wiggly continua
+Sheaves as modules
+Etale groupoids as germ groupoids and their base extensions
+GO-spaces and Noetherian spectra
+Floyd maps to the boundaries of relatively hyperbolic groups
+Continuity in Vector Metric Spaces
+Nielsen equalizer theory
+Semicoverings: a generalization of covering space theory
+Topological conditions for the representation of preorders by continuous utilities
+A Ramsey-Classification Theorem and its Application in the Tukey Theory of Ultrafilters
+Some observations on A new proof of a theorem of Jayne and Rogers
+Exponentiability via Double Categories
+Veech holomorphic families of Riemann surfaces holomorphic sections and Diophantine problems
+Gods as Topological Invariants
+On uniform metrizability of the functor of idempotent probability measures
+Reflexivity in precompact groups and extensions
+Characteristics of shape and knotting in ideal rings
+Generalized Cantor manifolds and indecomposable continua
+Filter convergence in beta omega
+Gelfand spectra and Wallman compactifications
+Super-sequences in the arc component of a compact connected group
+On the topology of free paratopological groups
+Linear Orderings and Powers of Characterizable Cardinal
+Survey on the Generalized R. L. Moore Problem
+An index formula for simple graphs
+On perfect metrizability of the functor of idempotent probability measures
+Topological pullback covering spaces and a triad of Quillen
+On generalized topological groups
+Limit free computation of entropy
+On v C ech-completeness of the space of order-preserving functionals
+A new class of Ramsey-classification theorems and their applications in the Tukey theory of ultrafilters
+Closed-Constructible functions are Piece-Wise Closed
+A pseudocompactification
+The partially ordered set of one-point extensions
+Representations of dynamical systems on Banach spaces not containing l 1
+Bounded distortion homeomorphisms on ultrametric spaces
+Zone diagrams in compact subsets of uniformly convex normed spaces
+Duality and canonical extensions for stably compact spaces
+Noetherian type in topological products
+Topologies on groups determined by sets of convergent sequences
+On discontinuities of cocycles in cohomology theories for topological groups
+The topology of spaces of probability measures I
+On the existence of kings in continuous tournaments
+Precompact Apartness Spaces
+Additivity of the Gerlits--Nagy property and concentrated sets
+Isomorphisms between groups of equivariant homeomorphisms of G -manifolds with one orbit type
+One-point extensions of locally compact paracompact spaces
+Topologizing Rings of Map Germs: An Order Theoretic Analysis of Germs via Nonstandard Methods
+A Brouwer fixed point theorem for graph endomorphisms
+Skeletally Dugundji spaces
+Topology of probability measure spaces II
+Cutting description of trivial 1-cohomology
+Hyperspaces of max-plus convex subsets of powers of the real line
+Representation Theory for Risk On Markowitz-Tversky-Kahneman Topology
+On multivaled fixed-point free maps on R n
+On order structure of the set of one-point Tychonoff extensions of a locally compact space
+On one-point metrizable extensions of locally compact metrizable spaces
+Algebra of Families of Alternating Knots and Links
+The Conley Attractor of an Iterated Function System
+Piecewise Linear Topology Evolutionary Algorithms and Optimization Problems
+Roots and polynomials as homeomorphic spaces
+Fixed Point Theorems in Partial Cone Metric Spaces
+On the approximate fixed point property in abstract spaces
+A proof of The Edwards-Walsh Resolution Theorem without Edwards-Walsh CW-complexes
+Borel's Conjecture in Topological Groups
+Elementary chains and compact spaces with a small diagonal
+Limit and end functors of dynamical systems via exterior spaces
+Compactification-like extensions
+Baire category and the exterior of convex sets
+A Duality Between Non-Archimedean Uniform Spaces and Subdirect Powers of Full Clones
+Topologies of (strong) uniform convergence on bornologies
+New characterizations of minimal cusco maps
+The graph topology
+Alexander-Spanier cohomology and boundary of a domain
+The homotopy lifting theorem for semiprojective C -algebras
+Nonexistence of linear operators extending Lipschitz (pseudo)metric
+Baire and weakly Namioka spaces
+Diagonalizations of dense families
+On the category of profinite spaces as a reflective subcategory
+Extending continuous functions
+A fixed point theorem for contractive mappings that characterizes metric completeness
+Cardinal characteristics and monotonically normal compacta
+Lipschitz equivalence of self-similar sets with touching structures
+An internal topological characterization of the subspaces of Eberlein compacts and related compacts -- I
+Injections into Function Spaces over Compacta
+On low dimensional KC-spaces
+Metrizable uniform spaces
+Infinite-dimensional uniform polyhedra
+The monoid consisting of Kuratowski operations
+Connectedness of planar self-affine sets associated with non-consecutive collinear digit sets
+On topological complexity and LS-category
+Some model theory of SL(2 R)
+On open-open games of uncountable length
+Topology Inspired Problems for Cellular Automata and a Counterexample in Topology
+Forbidden rectangles in compacta
+Connectedness of planar self-affine sets associated with non-collinear digit sets
+Functional contractions in local Branciari metric spaces
+Cofinality spectrum theorems in model theory set theory and general topology
+SPM Bulletin 34
+Computational Topology for Regular Closed Sets
+Symmetric Products and Q-manifolds
+Proper actions on topological groups: Applications to quotient spaces
+The Collins-Roscoe mechanism and D-spaces
+Hindman's Theorem Ellis's Lemma and Thompson's group F
+Products of sequentially pseudocompact spaces
+The well-ordered (F) spaces are D-spaces
+Sequential closure in the space of measures
+On partial cone metric spaces
+The fixed point problem for systems of coordinate-wise monotone operators and applications
+Alexandroff Manifolds and Homogeneous Continua
+Independent families in Boolean algebras with some separation properties
+On monoids of monotone injective partial self-maps of integers with cofinite domains and images
+On Hereditarily Normal Topological Groups
+Uniformity of uniform convergence on the family of sets
+The Shape of Infinity
+A groupoid formulation of the Baire Category Theorem
+The dimension of hyperspaces of non-metrizable continua
+Invariant proper metrics on coset spaces
+A note on the classification of linking pairings on 2-groups
+Universal objects and associations between classes of Banach spaces and classes of compact spaces
+Some topological invariants and biorthogonal systems in Banach spaces
+Stationary Sets in Topological and Paratopological Groups
+L -fuzzy strongest postcondition predicate transformers as L -idempotent linear or affine operators between semimodules of monotonic predicates
+n-Arc Connected Spaces
+Strong Arcwise Connectedness
+Fuzzy sequential topological spaces(FSTS)
+Free Boolean algebras over unions of two well orderings
+Valdivia compact Abelian groups
+Covering an uncountable square by countably many continuous functions
+Hausdorff hyperspaces of R m and their dense subspaces
+Banach spaces with projectional skeletons
+The structure of Valdivia compact lines
+Finitely fibered Rosenthal compacta and trees
+A decomposition theorem for compact groups with application to supercompactness
+Complementation in Spaces of Continuous Functions on Compact Lines
+Totally distributive toposes
+Pointwise convergence of partial functions: The Gerlits-Nagy Problem
+Topologically invariant sigma-ideals on Euclidean spaces
+A phi - contraction Principle in Partial Metric Spaces with Self-distance Terms
+Combinatorial Derivation
+Two Topological Uniqueness Theorems for Spaces of Real Numbers
+On dimensionally exotic maps
+Anomalous coverings
+Comparing weak versions of separability
+Berkovich spaces embed in Euclidean spaces
+Large conjugacy classes projective Fraisse limits and the pseudo-arc
+Topological interpretations of provability logic
+Productively Lindelof and Indestructibly Lindelof Spaces
+A compact group which is not Valdivia compact
+Semi-Eberlein spaces
+Small Valdivia compact spaces
+Compact spaces generated by retractions
+On some classes of Lindel of Sigma-spaces
+Linearly ordered compacta and Banach spaces with a projectional resolution of the identity
+Poset algebras over well quasi-ordered posets
+More generalizations of pseudocompactness
+Every weakly initially m-compact topological space is mpcap
+Diffeomorphism groups of non-compact manifolds endowed with the Whitney C infty-topology
+A very general covering property
+Quasi-pseudo-metrization of topological preordered spaces
+Groups of uniform homeomorphisms of covering spaces
+Connectedness modulo a topological property
+On the t-equivalence relation
+Compactification of closed preordered spaces
+A characterization of the Menger property by means of ultrafilter convergence
+Productivity of mu lambda -compactness
+Hereditarily Normal Wijsman Hyperspaces Are Metrizable
+The Lusternik-Schnirelmann theorem for graphs
+The Homogeneous Property of the Hilbert Cube
+Some observations on compact indestructible spaces
+Exotic Differential Structures in Dimension 2
+Right-topological semigroup operations on inclusion hyperspaces
+Hyperspaces with the Attouch-Wets topology homeomorphic to l 2
+On monomorphic topological functors with finite supports
+Uniform Eberlein compactifications of metrizable spaces
+Contractible polyhedra in products of trees and absolute retracts in products of dendrites
+Metrizability of Clifford topological semigroups
+Constructing universally small subsets of a given packing index in Polish groups
+Dimension of graphoids of rational vector-functions
+A spectral characterization of skeletal maps
+On functors preserving skeletal maps and skeletally generated compacta
+Algebra in superextensions of inverse semigroups
+Computing links and accessing arcs
+A hidden characterization of approximatively polyhedral convex sets in Banach spaces
+Precompact groups and property (T)
+A Generalization of the notion of a P -space to proximity spaces
+Compactly convex sets in linear topological spaces
+Table of Families of Alternating Knots with their Conway's Function
+On the cardinality of the theta -closed hull of sets II
+Cardinal functions F theta (X) and t theta (X) for H-closed spaces
+Absolutes of Hausdorff spaces and cardinal invariants F te and t te
+On the cardinality of Hausdorff spaces
+A Fixed Point Theorem for Kannan-type Maps in Metric Spaces
+The Geometry and Fundamental Groups of Solenoid Complements
+Asymptotically Scattered Spaces
+Selections games and metrisability of manifolds
+Saturating directed spaces
+There is no monad based on Hartman-Mycielski functor
+Covering L p spaces by balls
+A dimensional property of Cartesian product
+A Comparison of Lindelof-Type Covering Properties of Topological Spaces
+A Note on Quasi-Lindelof Spaces
+A Note on the Hausdorff Number of Compact Topological Spaces
+On two topological cardinal invariants of an order-theoretic flavour
+P-spaces and the Volterra property
+Weak covering properties and selection principles
+A decomposition theorem for maxitive measures
+What is the role of continuity in continuous linear forms representation?
+The fundamental group as a topological group
+Simultaneous Z p-acyclic resolutions of expanding sequences
+Universal valued Abelian groups
+Lipschitz equivalence of self-similar sets and hyperbolic boundaries
+On the topology of free paratopological groups. II
+Variable-basis fuzzy interior operators
+Overlays and group actions
+On mathscr H -complete topological semilattices
+Quasi-valuations - topology and the weak approximation theorem
+Flag Bicolorings Pseudo-Orientations and Double Covers of Maps
+Central sets generated by uniformly recurrent words
+A convergence on Boolean algebras generalizing the convergence on the Aleksandrov cube
+Central sets and substitutive dynamical systems
+A New Notion of Path Length in the Plane
+On the definition of homological critical value
+Measured creatures
+More on cardinal invariants of Boolean algebras
+Homeomorphisms group of normed vector space: Conjugacy problems and the Koopman operator
+A characterization of semiprojectivity for commutative C -algebras
+Brushing the hairs of transcendental entire functions
+Roundness properties of ultrametric spaces
+Infinite games and cardinal properties of topological spaces
+How regular can maxitive measures be?
+Representation of spectrums of C ast -algebras of bounded functions in terms of filters
+Nonstandard Topology without Logic Ultrafilters as infinitesimal points in topological space
+Construction of topologies filters and uniformities for a product of sets
+On the semi-threading of knot diagrams with minimal overpasses
+On 2-dimensional nonaspherical cell-like Peano continua: A simplified approach
+On paratopological groups
+pi -metrizable spaces and strongly pi -metrizable spaces
+A note on free paratopological groups
+Some weak versions of the M 1 -spaces
+Topological monomorphisms between free paratopological groups
+A new class of spaces with all finite powers Lindelof
+Max-min measures on ultrametric spaces
+Fra iss 'e sequences: category-theoretic approach to universal homogeneous structures
+On fundamental groups of quotient spaces
+Subgroups of isometries of Urysohn-Katetov metric spaces of uncountable density
+Limits of finite homogeneous metric spaces
+Fr 'echet Means for Distributions of Persistence diagrams
+A note on the continuous self-maps of the ladder system space
+Topological spaces compact with respect to a set of filters
+Neighborhood base at the identity of free paratopological groups
+On additive properties of sets defined by the Thue-Morse word
+Compactness of powers of omega
+Every strongly summable ultrafilter on bigoplus mathbb Z 2 is sparse
+Relations between minimal usco and cusco maps
+Set Theory and p-adic Algebras
+SPM Bulletin 3
+Local Theory for 2-Functors on Path 2-Groupoids
+On totally disconnected generalised Sierpinski carpets
+Th 'eorie de la mesure dans les lieux r 'eguliers. ou : Les intersections cach 'ees dans le paradoxe de Banach-Tarski
+Fixed point theorems for alpha --contractive mappings of Meir--Keeler type and applications
+Foliations on non-metrisable manifolds II: contrasted behaviours
+Group topologies coarser than the Isbell topology
+Core compactness and diagonality in spaces of open sets
+A unified theory of cone metric spaces and its applications to the fixed point theory
+Extension properties of Stone- v C ech coronas and proper absolute extensors
+Large free linear algebras of real and complex functions
+Compactness of omega lambda for lambda singular
+On generalization of the Freudental's theorem for compact irreducible standard polyhedric representation for superparacompact complete metrizable spaces
+Decomposing Borel functions using the Shore-Slaman join theorem
+Fixed-point index the incompatibility theorem and torus parametrization
+Filtrations induced by continuous functions
+Fixed Points for Ciric-G-Contractions in Uniform Spaces Endowed with a Graph
+Non-meager free sets for meager relations on Polish spaces
+Bornological modifications of hyperspace topologies
+Large scale absolute extensors
+Completeness and related properties of the graph topology on function spaces
+Exponentiable approach spaces
+More Abelian groups with free duals
+Spaces of measurable functions
+Fixed Point Theorem for Non-Self Maps of Regions in the Plane
+On character of points in the Higson corona of a metric space
+On the structure of finite level and omega-decomposable Borel functions
+A non-commutative Priestley duality
+The continuity properties of compact-preserving functions
+Algebraic and topological properties of some sets in l 1
+A Sharp Upper Bound for Region Unknotting Number of Torus Knots
+The enriched Vietoris monad on representable spaces
+Universal meager F sigma -sets in locally compact manifolds
+On semi-barrelled spaces
+Free non-archimedean topological groups
+Decompositions of mathbb R n n geq 4 into convex sets generate codimension 1 manifold factors
+Proximate fixed property and operations
+Implicit contractive maps in ordered metric spaces
+Constructions of round fold maps on C infty bundles
+On a theorem by Juh 'asz and Szentmikl 'ossy
+Dimension of Alexandrov Topologies
+On linear topological spaces (linearly) homeomorphic to R infty
+An approach to basic set theory and logic
+Every Separable Metrizable Space has a Proper Dyadic Subbase
+An Entourage Approach to the Contraction Principle in Uniform Spaces Endowed with a Graph
+Extensions of topological Abelian groups and three-space problems
+Counting homotopy classes of mappings via Dijkgraaf-Witten invariants
+On Topological Lattices and an Application to First Submodules
+Locally quasi-convex topologies on the group of the integers
+Characterization of hereditarily reversible posets
+On Snake cones Alternating cones and related constructions
+Symmetric continuous cohomology of topological groups
+Normally preordered spaces and utilities
+A characterization of the category Q-TOP
+Algebraically determined topologies on permutation groups
+On sigma-convex subsets in spaces of scatteredly continuous functions
+On irreducible triangulations of punctured and pinched surfaces
+Scale function vs Topological entropy
+Convexity and quasi-uniformizability of closed preordered spaces
+A Generalization of Order Theoretic Properties of the Line and Topological Implications
+The Relation Between Diagrams of a Knot and Its Unknotting Number
+Fixed Points of Integral Type Contractions in Uniform Spaces with a Graph
+On fundamental groups with the quotient topology
+Countable powers of compact Abelian groups in the uniform topology and cardinality of their dual groups
+LOTS as Fixed Point Sets: An Application of Tarski's Fixed Point Theorem (draft)
+Discontinuity points of a function with a closed and connected graph
+Idempotent generated algebras and Boolean powers of commutative rings
+The Chinese Remainder Theorem for strongly semisimple MV-algebras and lattice-groups
+Subgroups of direct products closely approximated by direct sums
+Topological games and Alster spaces
+Dugundji's Canonical Covers asymptotic and covering dimension
+Ultraparacompactness and Ultranormality
+Sprouts game on compact surfaces
+A Tree Sperner Lemma
+Subsum Sets: Intervals Cantor Sets and Cantorvals
+Ito-Wiener chaos and the Hodge decomposition on an abstract Wiener space
+Boundaries of Disk-like Self-affine Tiles
+Moran Sets and Hyperbolic Boundaries
+Topological study and Lyapunov exponent of a secure steganographic scheme
+Topological Structure of Fractal Squares
+Dimension and measure for generic continuous images
+Codensity and the ultrafilter monad
+A Suzuki-type fixed point theorem for nonlinear contractions
+Transitive actions of locally compact groups on locally contractible spaces
+Semigroup compactifications in terms of filters
+Closed oriented 3-manifolds are subtle equivalence classes of plane graphs
+Initial lambda-compactness in linearly ordered spaces
+Set theory and topology. An introduction to the foundations of analysis. Part II: Topology - Fundamental notions
+Extreme non-Arens regularity of the group algebra
+Minimal R 1 minimal regular and minimal presober topologies
+Strong colorings yield kappa-bounded spaces with discretely untouchable points
+Axioms for the Lefschetz number as a lattice valuation
+The closed graph function from plane with the network of discontinuity points
+The Katowice problem and autohomeomorphisms of omega
+Coarse amenability and discreteness
+When is the underlying space of an orbifold a topological manifold?
+Positive definite metric spaces
+A New Causal Topology and Why the Universe is Co-compact
+Exponential Kleisli monoids as Eilenberg-Moore algebras
+Topologies and structures of the Cremona groups
+One-point extensions and local topological properties
+The Solecki submeasures and densities on groups
+On the Lusternik-Schnirelmann category of Peano continua
+Measures and Dirichlet forms under the Gelfand transform
+Absolute neighbourhood retracts and spaces of holomorphic maps from Stein manifolds to Oka manifolds
+Sylvester's law of inertia for quadratic forms on vector bundles
+The Fundamental Group of a Spatial Section Represented by a Topspin Network
+Topological Entropy and Algebraic Entropy for group endomorphisms
+Descriptive complexity of countable unions of Borel rectangles
+The Method of Monotone Iterations for Mixed Monotone Operators in Partially Ordered Sets and Order-Attractive Fixed Points
+Isometry groups among topological groups
+The Revised and Uniform Fundamental Groups and Universal Covers of Geodesic Spaces
+A notion of continuity in discrete spaces and applications
+Wardowski implicit contractions in metric spaces
+Continuity of discrete homomorphisms of diffeomorphism groups
+Stone duality topological algebra and recognition
+Distributive envelopes and topological duality for lattices via canonical extensions
+Simple fold maps with regular fibers consisting of products of spheres
+Compact-like abelian groups without non-trivial quasi-convex null sequences
+On topological twin buildings and topological split Kac-Moody groups
+Remarks on countable tightness
+Bi-Lipshitz Embedding of Ultrametric Cantor Sets into Euclidean Spaces
+Some Applications of Number Theory to 3-Manifold Theory
+On the Dimension of Cohomology of Bianchi Groups
+Homotopies and the universal fixed point property
+On topologizable and non-topologizable groups
+Tying knots in light fields
+Topological properties of the continuous function spaces on some ordered compacta
+Lipschitz and uniformly continuous reducibilities on ultrametric Polish spaces
+Weakly contractive maps in altering metric spaces
+On the Preference Relations with Negatively Transitive Asymmetric Part. I
+Continuous images of Cantor's ternary set
+Lambda Calculus Synopsis
+Pseudocompact primitive topological inverse semigroups
+Inflated Cauchy Filters - A Way to Construct the Completion of a General Uniform Space
+Contractive maps in Mustafa-Sims metric spaces
+Extension of continuous functions and weakly developable spaces
+Resolving rational cohomological dimension via a Cantor group action
+A short proof of Toru 'nczyk's Characterization Theorems
+Berge's Maximum Theorem for Noncompact Image Sets
+Universal and ultrahomogeneous abelian Polish metric group
+Tychonoff-like Product Theorems for Local Topological Properties
+Topological  total
+Transfinite Asymptotic Dimension
+Extensions of maps to M(Z m 1)
+Discontinuous maps whose iterations are continuous
+Cauchy filters from Pelant's games
+Selective and Ramsey ultrafilters on G -spaces
+Asymptotic structures of cardinals
+On compacta not admitting a stable intersection in R n
+Ultrafilters on metric Spaces
+The open polynomials of the finite topologies
+On pseudocompact inverse primitive (semi)topological semigroups
+The Bridge Theorem for totally disconnected LCA groups
+The Reznichenko property and the Pytkeev property in hyperspaces
+Countable dense homogeneity of definable spaces
+Making group topologies with and without convergent sequences
+Compatible relations on filters and stability of local topological properties under supremum and product
+On Aumann's Theorem that the sphere does not admit a mean
+A solution to the L space problem and related ZFC constructions
+Detecting topological groups which are (locally) homeomorphic to LF-spaces
+The geometric realization of a simplicial Hausdorff space is Hausdorff
+The groups S 3 and SO(3) have no invariant binary k -network
+On gamma -Regular-Open Sets and gamma -Closed Spaces
+Spanier spaces and covering theory of non-homotopically path Hausdorff spaces
+On the Existence of Categorical Universal Coverings
+Banach representations and affine compactifications of dynamical systems
+Metric-enriched categories and approximate Fra i ss ' e limits
+Function contractive maps in triangular symmetric spaces
+Topological constraints on magnetic field relaxation
+Free paratopological groups
+Common fixed points for Banach-Caristi contractive pairs
+Parovicenko spaces with structures
+A controlled local-global theorem for simplicial complexes
+Selective covering properties of product spaces II: gamma spaces
+Classifying matchbox manifolds
+A selection theorem for set-valued maps into normally supercompact spaces
+Regular spaces of small extent are omega-resolvable
+Cardinal invariants for kappa -box products
+SPM Bulletin 3
+On group topologies determined by families of sets
+The Framework Causal and Co-compact Structure of Space-time
+Algebraic characterization of quasi-isometric spaces via the Higson compactification
+Partitions of unity and coverings
+De Vries powers: a generalization of Boolean powers for compact Hausdorff spaces
+Finite compactifications of omega setminus x
+The non-Urysohn number of a topological space
+Representations of certain normed algebras
+The Banach algebra of continuous bounded functions with separable support
+Uniform Versions of Index for Uniform Spaces with Free Involutions
+Representations of certain Banach algebras
+Universal nowhere dense and meager sets in Menger manifolds
+Contractive maps in locally transitive relational metric spaces
+Productively countably tight spaces of the form C k(X)
+Representative functions on discrete groupoids and duality with Hopf algebroids
+Minimal Number of Steps in Euclidean Algorithm and its Application to Rational Tangles
+A Topological Variation of the Reconstruction Conjecture
+On topological complexity of twisted products
+A Note on the Discrete Jordan Curve Theorem (Revised)
+Wijsman hyperspaces of non-separable metric spaces
+A memo on chains and their topologies
+On Gromov's positive scalar curvature conjecture for virtual duality groups
+Frechet Borel Ideals with Borel orthogonal
+Topology of the Random Fibonacci Tiling Space
+A note on condensations of function spaces onto sigma -compact and analytic spaces
+Scattered Subsets of Groups
+Soft beta -Open Sets And Their Applications
+Covering with Excess One: Seeing the Topology
+Lelek fan from a projective Fraisse limit
+On hereditarily indecomposable compacta and factorization of maps
+Lelek's problem is not a metric problem
+Covering dimension and finite-to-one maps
+The two components of the SO(3)-character space of the fundamental group of a closed surface of genus 2
+The Point in Weak Semiprojectivity and AANR Compacta
+On a theorem of Arvanitakis
+Topological Hausdorff dimension and level sets of generic continuous functions on fractals
+Coarse amenability versus paracompactness
+Intersections of essential minimal prime ideals
+Some generalizations and unifications of C K (X) C psi (X) and C infty (X)
+Some new classes of topological spaces and annihilator ideals
+Open--constructible functions
+Continuous mappings with null support
+Partitioning bases of topological spaces
+Unions of F-spaces
+Metrically universal abelian groups
+Boundedness of Functions on Product Spaces by Sums of Functions on the Factors
+Continuous selections of multivalued mappings
+Mathias forcing and combinatorial covering properties of filters
+Metrizable images of the Sorgenfrey line
+A notion of graph homeomorphism
+On topological structures of fuzzy parametrized soft sets
+On subcontinua and continuous images of beta R R
+Infinite sequential games with real-valued payoffs
+Topological entropy for automorphisms of totally disconnected locally compact groups
+Independence of the metric in the fine C 0 -topology of a function space
+On graph-like continua of finite length
+Applications of another characterization of betaN N
+A Universal Continuum of Weight aleph
+Extending the Coinvariant Theorems of Chevalley Shephard--Todd Mitchell and Springer
+Spaces with a Finite Family of Basic Functions
+On generalized topological spaces
+Strictly convex norms and topology
+Zero-divisor graphs of nilpotent-free semigroups
+Graded Brauer groups of a groupoid with involution
+Higher-order Brunnian structures and possible physical realizations
+Embedding measure spaces
+Local and end deformation theorems for uniform embeddings
+A weak -topological dichotomy with applications in operator theory
+Selective covering properties of product spaces
+Computing Adapted Bases for Conformal Automorphism Groups of Riemann Surfaces
+Remote Filters and Discretely Generated Spaces
+A Whitney map onto the Long Arc
+Topological T-duality for Stacks using a Gysin Sequence
+Equivariant absolute extensor property on hyperspaces of convex sets
+Metrizable DH-spaces of the first category
+Pattern-Equivariant Homology
+More ties than we thought
+On homeomorphisms with the two-sided limit shadowing property
+Compactness and compactifications in generalized topology
+Compact spaces lattices and absoluteness: a survey
+Classical mathematical structures within topological graph theory
+An embedding in the Fell topology
+Multidimensional C 0 transversality
+Prime Ends and Local Connectivity
+A geometric classification of some solvable groups of homeomorphisms
+Some questions about the dimension of a group action
+Proper actions and proper invariant metrics
+Continuity of Convex Set-valued Maps and a Fundamental Duality Formula for Set-valued Optimization
+Notes on the od-Lindel of property
+On partitions of Ellentuck-large sets
+A generalization of 'Ciri 'c fixed point theorem
+G-actions with close orbit spaces
+On a difference in topological nature between Cantor middle-third set and Sierpi 'nski carpet
+A dendrite generated from 0 1 Lambda Card Lambda succ aleph
+Topological and measure properties of some self-similar sets
+A criterion to specify the absence of Baire property
+Selections Paraconvexity and PF-normality
+On Haar meager sets
+Soft Topology on Function Spaces
+Homogeneous ANR-spaces and Alexandroff manifolds
+Current and measure homologies
+Bornoligies Topological Games and Function Spaces
+Inverse Limits of Uniform Covering Maps
+On topological fundamental groups of quotient spaces
+Picture-Hanging Puzzles
+Reflecting Lindel of and converging omega 1-sequences
+Inductive topological Hausdorff dimensions and fibers of generic continuous functions
+Alexandroff type manifolds and homology manifolds
+On a Fixed Point Theorem for a Cyclical Kannan-type Mapping
+Compact fuzzy soft spaces
+Topological games and productively countably tight spaces
+Unital hyperarchimedean vector lattices
+The Lusternik-Schnirelmann category of metric spaces
+A comparison of concepts from computable analysis and effective descriptive set theory
+Directions in Type I spaces
+Weak and local versions of measurability
+The linear refinement number and selection theory
+Skeletally generated spaces and absolutes
+Coherent ultrafilters and nonhomogeneity
+Resonant bands Aomoto complex and real 4-nets
+Peano curves on topological vector spaces
+Locally solid topological lattice-ordered groups
+On the connectedness of planar self-affine sets
+A perspective on non-commutative frame theory
+On the classification of fractal squares
+Span chainability and the continua H and I u
+A connected F-space
+From a dichotomy for images to Haagerup's inequality
+On typical properties of Hilbert space operators
+Indestructibility of compact spaces
+On automorphisms groups of structures of countable cofinality
+A generalized asynchronous computability theorem
+On a game theoretic cardinality bound
+Chains of functions in C(K) -spaces
+Subgroups of the additive group of real line
+Topological Dynamics of Closed Subgroups of S infty
+On Graev type ultra-metrics
+A note on finitely generated quotients of locally compact groups
+Some analogies between Haar meager sets and Haar null sets in abelian Polish groups
+Remarks on Haar meager sets and Haar null sets in spaces of sequences
+PPF dependent fixed points in A-closed Razumikhin classes
+Selective Games on Binary Relations
+Some observations on filters with properties defined by open covers
+Productively Lindel of spaces of countable tightness
+Pattern-Equivariant Homology of Finite Local Complexity Patterns
+Contractive function systems their attractors and metrization
+Nonexistence of Countable Extremally Disconnected Groups with Many Open Subgroups
+A continuous image of a Radon-Nikod 'ym compact which is not Radon-Nikod ' y m
+A weak separable C(K) space whose unit ball is not weak separable
+A Banach space in which every injective operator is surjective
+Open subgroups of free topological groups
+Strongly Pseudoradial Spaces
+A bigroupoid's topology
+On critical cardinalities related to Q -sets
+Sheaf representations of MV-algebras and lattice-ordered abelian groups via duality
+Products and countable dense homogeneity
+On the spectrum of the hierarchical Laplacian
+The Stone-Cech compactifications of omega setminus x and S kappa setminus x
+mathcal I mathcal K -Cauchy functions
+(M 1)-step shift spaces that are not conjugate to M-step shift spaces
+Between Polish and completely Baire
+Countable dense homogeneous filters and the Menger covering property
+Productively Lindel of spaces and the covering property of Hurewicz
+Partitions of 2 omega and completely ultrametrizable spaces
+Categorical concepts and their generalization by means of game theory (german: Kategorien-Konzepte und ihre spieltheoretische Verallgemeinerung)
+Luzin and Sierpi 'nski sets some nonmeasurable subsets of the plane and additive properties on the line
+Group action on Polish spaces
+From Freudenthal's Spectral Theorem to projectable hulls of unital Archimedean lattice-groups through compactifications of minimal spectra
+Towards a Descriptive Theory of cb 0-Spaces
+Some bounds for the pseudocharacter of the space C(X )
+Characterisation of the Berkovich Spectrum of the Banach Algebra of Bounded Continuous Functions
+Analysis on Surreal Numbers
+On monoids of monotone injective partial selfmaps of L n times operatorname lex mathbb Z with co-finite domains and images
+E-polynomial of SL(2 C)-Character Varieties of Free groups
+An internal characterisation of radiality
+Point degree spectra of represented spaces
+Truncated Abelian Lattice-Ordered Groups II: the Pointfree (Madden) Representation
+Generalized Bohr compactification and model-theoretic connected components
+Between countably compact and omega -bounded
+Extension of continuous mappings and H 1 -retracts
+Products of finite groups and nonmeasurable subgroups
+One-parameter subgroups of topological abelian groups
+Epireflective subcategories of Top T 2 Unif Unif closed under epimorphic images or being algebraic
+A characterization of free locally convex spaces over metrizable spaces which have countable tightness
+Generalized prime ideals of the rings C(X ) and the quasi-components of X
+An example of a rigid kappa -superuniversal metric space
+Extension of continuous functions to Baire-one functions
+On the distribution of distances in homogeneous compact metric spaces
+Classification of separately continuous functions with values in sigma -metrizable spaces
+Equiconnected spaces and Baire classification of separately continuous functions and their analogs
+Diagonals of separately continuous functions and their analogs
+Connectivity structures of quantum entanglement
+On alpha -embedded sets and extension of mappings
+On Gibson functions with connected graphs
+On weakly Gibson F sigma -measurable mappings
+When is a space Menger at infinity?
+Embedding topological fractals in universal spaces
+Orbit Spaces of Gradient Vector Fields
+A chain condition for operators from C(K)-spaces
+Ramsey theory for p-quasicyclic groups with a view towards topological dynamics
+Constructions of round fold maps on circle bundles
+Ultrafilter convergence in ordered topological spaces
+On Topological Structure of the First Non-abelian Cohomology of Topological Groups
+Lipschitz equivalence of self-similar sets and hyperbolic boundaries II
+Distinguishing perfect set properties in separable metrizable spaces
+Countable dense homogeneity in powers of zero-dimensional definable spaces
+The Attached Point Topology of the Abstract Boundary For Space-Time
+The Strongly Attached Point Topology of the Abstract Boundary For Space-Time
+Equicontinuous actions of semisimple groups
+Classifying homogeneous ultrametric spaces up to coarse equivalence
+Quasi-Metrizability of Bornological Biuniverses in ZF
+Uniquely universal sets in mathbb R times omega and 0 1 times omega
+The descriptive theory of represented spaces
+Startpoints and ( alpha gamma) -Contractions in Quasi-Pseudometric Spaces
+A Theory of Harmonic Variations
+Compact spaces that do not map onto finite products
+Hereditarily Hurewicz spaces and Arhangel'skii sheaf amalgamations
+The character of topological groups via bounded systems Pontryagin--van Kampen duality and pcf theory
+Radon-Nikod 'ym compact spaces of low weight and Banach spaces
+Arhangel'ski u i sheaf amalgamations in topological groups
+Nudged Elastic Band in Topological Data Analysis
+Extending Group Actions
+A Note on Combinatorial Derivation
+Topologically invariant sigma -ideals on the Hilbert cube
+Products of sequentially compact spaces and compactness with respect to a set of filters
+Strongly Summable Ultrafilters Union Ultrafilters and the Trivial Sums Property
+mathfrak P 0 -spaces
+Compact convex sets in 2-dimensional asymmetric normed lattices
+Non-universality of automorphism groups of uncountable ultrahomogeneous structures
+Algebra in the Stone-- v C ech compactification selections and additive combinatorics
+CH and the Moore-Mrowka Problem
+Classifying homogeneous cellular ordinal balleans up to coarse equivalence
+Classifying invariant sigma -ideals with analytic base on good Cantor measure spaces
+Sequential rectifiable spaces of countable cs -character
+Open book structures on semi-algebraic manifolds
+Uniform Powers of Compacta and the Proximal Game
+A complete classification of homogeneous plane continua
+P-domination and Borel sets
+Top terms of polynomial traces in Kra's plumbing construction
+On continuity of measurable group representations and homomorphisms
+Function spaces and contractive extensions in Approach Theory: The role of regularity
+An Extended Reich Fixed Point Theorem
+Universal nowhere dense subsets of locally compact manifolds
+One-point connectifications
+Asymptotic Resemblance
+Metric axioms: a structural study
+Seven characterizations of non-meager P-filters
+Baire spaces and infinite games
+Non-abelian group structure on the Urysohn space
+Iterates of dynamical systems on compact metrizable countable spaces
+On the endomorphism rings of abelian groups and their Jacobson radical
+Homotopy equivalence of finite digital images
+The SO(3) monopole cobordism and superconformal simple type
+Hereditary C -Subalgebra Lattices
+A homogeneous space whose complement is rigid
+On closures in semitopological inverse semigroups with continuous inversion
+Metrical universality for groups
+A C 0 coarse structure for families of pseudometrics and the Higson-Roe functor
+A bounded coarse structure for families of pseudometrics
+Some classes of minimally almost periodic topological groups
+Hyperspaces in topological Categories
+Final solution of Protasov-Comfort's problem on minimally almost periodic group topologies
+D-measurability and t-Wright convex functions
+Proceedings of the 4th annual Underrepresented Students in Topology and Algebra Research Symposium (USTARS 2014)
+A Few Questions on the Topologization of the Ring of Fermat Reals
+P-sets and minimal right ideals in N
+On fixed points of multivalued mappings
+Which connected spaces have a quotient homeomorphic to an arc
+Divisibility in the Stone- v C ech compactification
+Locally n -connected compacta and UV n -maps
+Relation of Origins of Primitive Chaos
+Bihomogeneity of solenoids
+Cell-like resolutions preserving cohomological dimensions
+Rational acyclic resolutions
+Extensions of maps to the projective plane
+The topological Hawaiian earring group does not embed in the inverse limit of free groups
+Maps to the projective plane
+Functor of continuation in Hilbert cube and Hilbert space
+Extending maps by injective sigma - Z -maps in Hilbert manifolds
+Normal systems over ANR's rigid embeddings and nonseparable absorbing sets
+A note on ANR's
+Problem with almost everywhere equality
+Isometry groups of proper metric spaces
+Wadge-like reducibilities on arbitrary quasi-Polish spaces
+Obstacles for splitting multidimensional necklaces
+Lifting Group Actions Equivariant Towers and Subgroups of Non-positively Curved Groups
+Questions on the Borel Complexity of Characterized Subgroups
+Characterization of compact monotonically ( omega )-monolithic spaces using system of retractions
+Monotone retractability and retractional skeletons
+Proper base change for separated locally proper maps
+Shrinking good coordinate systems associated to Kuranishi structures
+Separation of analytic sets by rectangles of low complexity
+The set of space-filling curves: topological and algebraic structure
+On the Borsuk conjecture concerning homotopy domination
+The Assouad dimension of randomly generated fractals
+Measure of compactness for filters in product spaces: Kuratowski-Mr owka in CAP revisited
+Connectedness modulo an ideal
+Pointfree pointwise suprema in unital archimedean ell -groups
+Simply connected open 3-manifolds with rigid genus one ends
+A Concise Proof of Discrete Jordan Curve Theorem
+On the Closed Graph Theorem and the Open Mapping Theorem
+A numerical scale for non locally connected planar continua
+A characterization of the discontinuity point set of strongly separately continuous functions on products
+Convergence groups from subgroups
+Warped cones and property A
+Topological aspects of poset spaces
+On homeomorphism groups of non-compact surfaces endowed with the Whitney topology
+An extension of Stone duality to fuzzy topologies and MV-algebras
+A 1-dimensional Peano continuum which is not an IFS attractor
+The dimension of the space of R-places of certain rational function fields
+Perfectly supportable semigroups are sigma-discrete in each Hausdorff shift-invariant topology
+Topologization of sets endowed with an action of a monoid
+Recognizing the topology of the space of closed convex subsets of a Banach space
+The ( lambda kappa)-Freese-Nation property for boolean algebras and compacta
+Enumerations of finite topologies associated with a finite graph
+On infty -convex sets in spaces of scatteredly continuous functions
+Topological and ditopological unosemigroups
+Syndetic submeasures and partitions of G -spaces and groups
+Asymptotic dimension and small subsets in locally compact topological groups
+Hereditarily supercompact spaces
+On topological Clifford semigroups embeddable into products of cones over topological groups
+Micro and Macro Fractals generated by multi-valued dynamical systems
+Topological structure of non-separable sigma-locally compact convex sets
+Means on scattered compacta
+Explicit round fold maps on some fundamental manifolds
+F -Dugundji spaces F -Milutin spaces and absolute F -valued retracts
+Combinatorial aspects of selective star covering properties in Psi -spaces
+Borel chromatic number of closed graphs
+First Non-abelian Cohomology of Topological Groups II
+Representation of group isomorphisms. The compact case
+Metric characterization of connectedness for topological spaces
+Recent Developments in the study of Metric Type Spaces
+Topologies induced by group actions
+Common Coupled Fixed Point Theorems for Maps in a T 0 -ultra-quasi-metric Space
+On mathfrak P -spaces and related concepts
+On topological spaces and topological groups with certain local countable networks
+Monomorphisms in spaces with Lindel of filters via some compact-open-like topologies on C(X)
+On cut sets of attractors of iterated function systems
+On the C k -stable closure of the class of (separable) metrizable spaces
+Quasi-pseudometrics on quasi-uniform spaces and quasi-metrization of topological monoids
+The C p -stable closure of the class of separable metrizable spaces
+Some Isomorphism Theorems for MVD-algebras
+A product space of 0 1 and an abstract polycrystal
+An internal topological characterization of the subspaces of Eberlein compacta and related compacta -- II
+On the Borel Complexity of Characterized Subgroups
+Rational Angled Hyperbolic Polygons
+A note on hyperspaces and the compact-open topology
+The strong Pytkeev property in topological spaces
+Discretization of topological spaces
+R n rtimes G(n) is Algebraically Determined
+SPM Bulletin 3
+First Non-Abelian Cohomology of Topological Groups
+1 k -homogeneous long solenoids
+Dichotomy Theorems for Families of Non-Cofinal Essential Complexity
+General affine adjunctions Nullstellens atze and dualities
+Convergence properties and compactifications
+Points of continuity of quasiconvex functions on topological vector spaces
+Asymptotic dimension decomposition complexity and Haver's property C
+The dynamics of generic Kuperberg flows
+Eventual nonsensitivity and tame dynamical systems
+Classification and Non-classification of Homeomorphism Relations
+Partial metric spaces with negative distances and fixed point theorems
+Point Networks for Special Subspaces of mathbb R kappa
+A characterization of completely regular spaces with applications to paratopological groups
+On alpha -embedded subsets of products
+Irreducibility and integrity of schemes
+A note on tameness of families having bounded variation
+Quotients of mathbb N omega -limit sets and chain transitivity
+A topological approach to axiomatization of geometry
+On Pairwise paralindeloff Bitopological Spaces
+Computability on the countable ordinals and the Hausdorff-Kuratowski theorem
+On natural density orthomodular lattices measure algebras and non-distributive L p spaces
+Topological categories quantaloids and Isbell adjunctions
+Derivative coordinates for analytic tree fractals and fractal engineering
+On complemented copies of c 0( omega 1) in C(K n) spaces
+P -Paracompact and P -Metrizable Spaces
+On Pre- gamma -I-Open Sets In Ideal Topological Spaces
+Density character of subgroups of topological groups
+Functionally sigma -discrete mappings and a generalization of Banach's theorem
+Order and minimality of some topological groups
+On automorphisms of the Banach space ell infty c 0
+Phase Identification in Distribution Networks with Micro-Synchrophasors
+The pop-switch planar algebra and the Jones-Wenzl idempotents
+Some properties of mathcal I -Luzin sets
+The space omega and the reconstruction of normality
+Topological Groups of Bounded Homomorphisms on a Topological Group
+Equilateral Sets in Banach Spaces of th form C(K)
+Some Properties of Mappings on Generalized Topological Spaces
+Game theoretic approach to skeletally Dugundji and Dugundji spaces
+Nonseparable growth of the integers supporting a measure
+A new fractal dimension: The topological Hausdorff dimension
+A note on the metrizability of spaces
+Domain Representations Induced by Dyadic Subbases
+Completion of continuity spaces with uniformly vanishing asymmetry
+A note on Collins-Roscoe Structuring Mechanism
+Topological dimension of a space is determined by the pointwise topology of its function space
+Local cohomological properties of homogeneous ANR compacta
+The Ran-Reurings fixed point theorem without partial order: a simple proof
+Non-reduction of relations in the Gromov space to Polish actions
+lambda -perfect maps
+Selective versions of chain condition-type properties
+On topological properties of the weak topology of a Banach space
+Extension operators on balls and on spaces of finite sets
+On nerves of fine coverings of acyclic spaces
+Standard Projective Simplicial Kernels and the Second Abelian Cohomology of Topological Groups
+Topological matchings and amenability
+Plaque Inverse Limit of a Dynamical System - Dynamics Signatures and Local Topology
+Weight-preserving isomorphisms between spaces of continuous functions: The scalar case
+Strongly far proximity and hyperspace topology
+Metrics with good Corona properties
+Locally Contractive Maps on Perfect Polish Ultrametric Spaces
+Topological entropy of continuous actions of compactly generated groups
+Topological extensions with compact remainder
+Asymptotic uniform complexity and amenability
+A not metrizable space filled with any n mutually disjoint self-similar spaces
+Partial n-metric spaces and fixed point theorems
+Quantales generalised premetrics and free locales
+Noncommutative Borsuk-Ulam-type conjectures
+Strongly near proximity hyperspace topology

@@ -1,0 +1,1703 @@
+Metropolis algorithm and equienergy sampling for two mean field spin systems
+A Dynamic Algorithm for Blind Separation of Convolutive Sound Mixtures
+Bagging multiple comparisons from microarray data
+The SSM Toolbox for Matlab
+On probabilities for separating sets of order statistics
+The random Tukey depth
+Deconvolution by simulation
+The Algebraic Complexity of Maximum Likelihood Estimation for Bivariate Missing Data
+Counting and Locating the Solutions of Polynomial Systems of Maximum Likelihood Equations II: The Behrens-Fisher Problem
+Parallel marginalization Monte Carlo with applications to conditional path sampling
+Adjusted Viterbi training for hidden Markov models
+A note on calculating autocovariances of periodic ARMA models
+Fast stable direct fitting and smoothness selection for Generalized Additive Models
+Updating Probabilities: An Econometric Example
+Retrospective Markov chain Monte Carlo methods for Dirichlet process hierarchical model
+Stability of the Gibbs Sampler for Bayesian Hierarchical Models
+Particle Filters for Partially Observed Diffusions
+Particle Filters for Multiscale Diffusions
+A geometric approach to maximum likelihood estimation of the functional principal components from sparse longitudinal data
+Open Problems in Algebraic Statistics
+Implementing Quasi-Monte Carlo Simulations with Linear Transformations
+A note on convergence of the equi-energy sampler
+Population-Based Reversible Jump Markov Chain Monte Carlo
+Bayesian finite mixtures: a note on prior specification and posterior computation
+Distributions associated with general runs and patterns in hidden Markov models
+Pathwise coordinate optimization
+Adaptive optimal allocation in stratified sampling methods
+Network Tomography: Identifiability and Fourier Domain Estimation
+Simulation of the matrix Bingham-von Mises-Fisher distribution with applications to multivariate and relational data
+Adaptive Independent Metropolis-Hastings by Fast Estimation of Mixtures of Normals
+Penalized Clustering of Large Scale Functional Data with Multiple Covariates
+A greedy approach to sparse canonical correlation analysis
+Efficient l alpha Distance Approximation for High Dimensional Data Using alpha-Stable Projection
+A Bayesian reassessment of nearest-neighbour classification
+On variance stabilisation by double Rao-Blackwellisation
+An Elegant Method for Generating Multivariate Poisson Random Variable
+Application of Girsanov Theorem to Particle Filtering of Discretely Observed Continuous-Time Non-Linear Systems
+A practical procedure to find matching priors for frequentist inference
+Bayesian Inference on Mixtures of Distributions
+Bayesian computation for statistical models with intractable normalizing constants
+Maximum likelihood estimation of a multidimensional log-concave density
+A generalization of the integer linear infeasibility problem
+Adaptive Ridge Selector (ARiS)
+Covariance of centered distributions on manifold
+A note on the ABC-PRC algorithm of Sissons et al. (2)
+The Use of Labeled Cortical Distance Maps for Quantization and Analysis of Anatomical Morphometry of Brain Tissues
+Variance reduction for particle filters of systems with time-scale separation
+Symbolic computation of moments of sampling distributions
+Developing Bayesian Information Entropy-based Techniques for Spatially Explicit Model Assessment
+Text Data Mining: Theory and Methods
+A decomposition result for the Haar distribution on the orthogonal group
+Principle of detailed balance and convergence assessment of Markov Chain Monte Carlo methods and simulated annealing
+A path following algorithm for Sparse Pseudo-Likelihood Inverse Covariance Estimation (SPLICE)
+QR-Adjustment for Clustering Tests Based on Nearest Neighbor Contingency Tables
+On an Auxiliary Function for Log-Density Estimation
+Construction of weakly CUD sequences for MCMC sampling
+A Truncation Approach for Fast Computation of Distribution Functions
+Adaptive methods for sequential importance sampling with application to state space models
+A new method for fast computing unbiased estimators of cumulants
+Uncertainty quantification in complex systems using approximate solvers
+Two polynomial representations of experimental design
+Case-deletion importance sampling estimators: Central limit theorems and related results
+Necessary and Sufficient Conditions for Success of the Nuclear Norm Heuristic for Rank Minimization
+Coupling Control Variates for Markov Chain Monte Carlo
+A Control Variate Approach for Improving Efficiency of Ensemble Monte Carlo
+Improved Sequential Stopping Rule for Monte Carlo Simulation
+Smooth supersaturated models
+A Principal Component Analysis for Trees
+Generalised linear mixed model analysis via sequential Monte Carlo sampling
+Bayesian evidence for finite element model updating
+Approximating the marginal likelihood using copula
+Fast computation by block permanents of cumulative distribution functions of order statistics from several populations
+Importance Tempering
+On The Density Estimation by Super-Parametric Method
+Touchscreen Voting Machines Cause Long Lines and Disenfranchise Voters
+Local antithetic sampling with scrambled nets
+The north pole problem and random orthogonal matrices
+An Algorithm for Unconstrained Quadratically Penalized Convex Optimization
+On the computation of classical boolean and free cumulants
+Inference for stochastic volatility models using time change transformations
+Likelihood-based inference for correlated diffusions
+An EM algorithm for estimation in the Mixture Transition Distribution model
+The adjusted Viterbi training for hidden Markov models
+On central tendency and dispersion measures for intervals and hypercubes
+Approximating the marginal likelihood in mixture models
+Three months journeying of a Hawaiian monk seal
+Curse-of-dimensionality revisited: Collapse of the particle filter in very large scale systems
+Objective Bayesian analysis under sequential experimentation
+Sequential tests and estimates after overrunning based on p -value combination
+Importance Sampling of Word Patterns in DNA and Protein Sequences
+A novel changepoint detection algorithm
+Parallel hierarchical sampling: a practical multiple-chains sampler for Bayesian model selection
+Construction of Bayesian Deformable Models via Stochastic Approximation Algorithm: A Convergence Study
+Stochastic Algorithm For Parameter Estimation For Dense Deformable Template Mixture Model
+Extensions of smoothing via taut strings
+Coverage Probability of Wald Interval for Binomial Parameters
+Optimal Explicit Binomial Confidence Interval with Guaranteed Coverage Probability
+Covariance fields
+Flexible Multivariate Density Estimation with Marginal Adaptation
+Approximate Bayesian computation scheme for parameter inference and model selection in dynamical systems
+Bayesian Computation and Model Selection in Population Genetics
+On estimating covariances between many assets with histories of highly variable length
+Marginal Likelihood Integrals for Mixtures of Independence Models
+From Physics to Economics: An Econometric Example Using Maximum Relative Entropy
+Equations for hidden Markov models
+Fixed Point Iteration for Estimating The Parameters of Extreme Value Distributions
+On the Permutation Distribution of Independence Tests
+Using the Eigenvalue Relaxation for Binary Least-Squares Estimation Problems
+A Gibbs Sampling Alternative to Reversible Jump MCMC
+Bayesian treed Gaussian process models with an application to computer modeling
+Detecting the overlapping and hierarchical community structure of complex networks
+asympTest: an R package for performing parametric statistical tests and confidence intervals based on the central limit theorem
+ADIS - A robust pursuit algorithm for probabilistic constrained and non-square blind source separation with application to fMRI
+Compressive Sensing Using Low Density Frames
+Perfect simulation of spatial point processes using dominated coupling from the past with application to a multiscale area-interaction point process
+Perfect simulation for Bayesian wavelet thresholding with correlated coefficients
+Nonparametric Partial Importance Sampling for Financial Derivative Pricing
+ABC likelihood-freee methods for model choice in Gibbs random fields
+Smooth Optimization Approach for Sparse Covariance Selection
+Adaptive First-Order Methods for General Sparse Inverse Covariance Selection
+Convex Optimization Methods for Dimension Reduction and Coefficient Estimation in Multivariate Linear Regression
+Least-Squares Joint Diagonalization of a matrix set by a congruence transformation
+Computation of confidence intervals in regression utilizing uncertain prior information
+Sparse Bayesian Hierarchical Modeling of High-dimensional Clustering Problems
+Fast computation of the median by successive binning
+Orbit-Product Representation and Correction of Gaussian Belief Propagation
+Estimation for a Partial-Linear Single-Index Model
+Non-Bayesian particle filters
+Maximum Likelihood Estimation for Markov Chains
+Some Numerical Results on the Rank of Generic Three-Way Arrays over R
+Regularization methods for learning incomplete matrices
+Observed Universality of Phase Transitions in High-Dimensional Geometry with Implications for Modern Data Analysis and Signal Processing
+Multiple Hypothesis Testing in Pattern Discovery
+An Ensemble Kalman-Particle Predictor-Corrector Filter for Non-Gaussian Data Assimilation
+A Comparison of Analysis of Covariate-Adjusted Residuals and Analysis of Covariance
+Improvement of random LHD for high dimensions
+Information geometry for testing pseudorandom number generators
+An Augmented Lagrangian Approach for Sparse Principal Component Analysis
+Message Passing Algorithms for Compressed Sensing
+Simulation of truncated normal variables
+Shrinkage Algorithms for MMSE Covariance Estimation
+Regeneration and Fixed-Width Analysis of Markov Chain Monte Carlo Algorithms
+Nonasymptotic bounds on the estimation error for regenerative MCMC algorithms
+Computational methods for Bayesian model choice
+Adaptive Importance Sampling in General Mixture Classes
+Monotonicity properties of the asymptotic relative efficiency between common correlation statistics in the bivariate normal model
+Statistical inference for stochastic epidemic models with three levels of mixing
+Simulation reductions for the Ising model
+A Backward Particle Interpretation of Feynman-Kac Formulae
+A bayesian approach to the estimation of maps between riemannian manifolds II: examples
+Estimation in hidden Markov models via efficient importance sampling
+Bayes and empirical Bayes changepoint problems
+A Bit of Information Theory and the Data Augmentation Algorithm Converges
+Estimation of cosmological parameters using adaptive importance sampling
+Monte Carlo Methods in Statistics
+Optimal scaling of the random walk Metropolis on elliptically symmetric unimodal targets
+Efficient Calculation of P-value and Power for Quadratic Form Statistics in Multilocus Association Testing
+Efficient Simulation of a Bivariate Exponential Conditionals Distribution
+Computable exponential bounds for screened estimation and simulation
+Markov Chain Monte Carlo: Can We Trust the Third Significant Figure?
+Improved estimators for a general class of beta regression models
+Model choice versus model criticism
+A path algorithm for the Fused Lasso Signal Approximator
+Importance Sampling for rare events and conditioned random walks
+Importance sampling methods for Bayesian discrimination between embedded models
+Efficient Bayesian analysis of multiple changepoint models with dependence across segments
+Bayesian Core: The Complete Solution Manual
+Updating Probabilities with Data and Moments
+On sequential Monte Carlo partial rejection control and approximate Bayesian computation
+Simulating Events of Unknown Probabilities via Reverse Time Martingales
+Local likelihood estimation of local parameters for nonstationary random fields
+Limit theorems for some adaptive MCMC algorithms with subgeometric kernels: Part II
+Particle filtering within adaptive Metropolis Hastings sampling
+Probability matrices non-negative rank and parameterizations of mixture models
+Comments on Particle Markov chain Monte Carlo by C. Andrieu A. Doucet and R. Hollenstein
+On Bayesian Curve Fitting Via Auxiliary Variables
+Regression on a Graph
+Comments on Particle Markov Chain Monte Carlo by C. Andrieu A. Doucet and R. Hollenstein
+Likelihood-free Bayesian inference for alpha-stable models
+Nonparametric Bayesian Density Modeling with Gaussian Processes
+Gibbs Sampling for a Bayesian Hierarchical General Linear Model
+Tutorial on ABC rejection and ABC SMC for parameter estimation and model selection
+Simulation-based model selection for dynamical systems in systems and population biology
+BSA - exact algorithm computing LTS estimate
+Computer Simulation Study of the Levy Flight Process
+Adaptive Gibbs samplers
+Introducing Monte Carlo Methods with R Solutions to Odd-Numbered Exercises
+Sparse covariance estimation in heterogeneous samples
+Strict Monotonicity and Convergence Rate of Titterington's Algorithm for Computing D-optimal Designs
+A New Approximation to the Normal Distribution Quantile Function
+Measures of Analysis of Time Series (MATS): A MATLAB Toolkit for Computation of Multiple Measures on Time Series Data Bases
+Computationally Efficient Estimation of Factor Multivariate Stochastic Volatility Models
+Effect of Wind Intermittency on the Electric Grid: Mitigating the Risk of Energy Deficits
+On computational tools for Bayesian data analysis
+Bayesian computational methods
+Evolutionary Stochastic Search for Bayesian model exploration
+Improved EM for Mixture Proportions with Applications to Nonparametric ML Estimation for Censored Data
+Non-Central Limit Theorem Statistical Analysis for the Long-tailed Internet Society
+A copula based approach to adaptive sampling
+Least Squares and Shrinkage Estimation under Bimonotonicity Constraints
+Fixing Convergence of Gaussian Belief Propagation
+On the relevance of the Bayesian approach to Statistics
+Elliptical slice sampling
+Perfect simulation using dominated coupling from the past with application to area-interaction point processes and wavelet thresholding
+Branch and Bound Algorithms for Maximizing Expected Improvement Functions
+Data Driven Computing by the Morphing Fast Fourier Transform Ensemble Kalman Filter in Epidemic Spread Simulations
+Asymptotic optimality of the cross-entropy method for Markov chain problems
+Covariance-Adaptive Slice Sampling
+Computational Methods in Bayesian Statistics
+Colouring and breaking sticks: random distributions and heterogeneous clustering
+The Dynamic ECME Algorithm
+Pruned dynamic programming for optimal multiple change-point detection
+Chain ladder method: Bayesian bootstrap versus classical bootstrap
+Robust Parameter Selection for Parallel Tempering
+Fast normal random number generators on vector processors
+A fast vectorised implementation of Wallace's normal random number generator
+Some long-period random number generators using shifts and xors
+Recursive Numerical Evaluation of the Cumulative Bivariate Normal Distribution
+Model Selection and Adaptive Markov chain Monte Carlo for Bayesian Cointegrated VAR model
+Optimally Robust Kalman Filtering at Work: AO- IO- and Simultaneously IO- and AO- Robust Filters
+Pooling Design and Bias Correction in DNA Library Screening
+Assessing molecular variability in cancer genomes
+Exact posterior distributions over the segmentation space and model selection for multiple change-point detection problems
+Some questions of Monte-Carlo modeling on nontrivial bundles
+Signed Chord Length Distribution. I
+Non-linear regression models for Approximate Bayesian Computation
+Notes on Using Control Variates for Estimation with Reversible MCMC Samplers
+Bayesian estimation of regularization and PSF parameters for Wiener-Hunt deconvolution
+George Forsythe's last paper
+An Adaptive Sequential Monte Carlo Sampler
+Efficient computation of the cdf of the maximal difference between Brownian bridge and its concave majorant
+Ecological non-linear state space model selection via adaptive particle Markov chain Monte Carlo (AdPMCMC)
+Some comments on C. S. Wallace's random number generators
+On a Multiplicative Algorithm for Computing Bayesian D-optimal Designs
+Sequential Monte Carlo Methods for Option Pricing
+A simple and efficient algorithm for fused lasso signal approximator with convex loss function
+A note on target distribution ambiguity of likelihood-free samplers
+Variational inference for large-scale models of discrete choice
+Convergence properties of the expected improvement algorithm
+Confidence regions for the multinomial parameter with small sample size
+Computationally Efficient Nonparametric Importance Sampling
+A randomized algorithm for principal component analysis
+Squeezing the Arimoto-Blahut algorithm for faster convergence
+An alternative marginal likelihood estimator for phylogenetic models
+Classification using distance nearest neighbours
+A general method for debiasing a Monte Carlo estimator
+Computational Tools for Evaluating Phylogenetic and Hierarchical Clustering Trees
+LASSO ISOtone for High Dimensional Additive Isotonic Regression
+Free energy Sequential Monte Carlo application to mixture modelling
+SigSpec User's Manual
+Split Bregman method for large scale fused Lasso
+A Localization Approach to Improve Iterative Proportional Scaling in Gaussian Graphical Models
+Approximate Bayesian Computation: a nonparametric perspective
+Particle learning of Gaussian process models for sequential design and optimization
+Multiple-Relaxation-Time Lattice Boltzmann Approach to Compressible Flows with Flexible Specific-Heat Ratio and Prandtl Number
+The Computational Complexity of Estimating Convergence Time
+Temperature and Friction Accelerated Sampling of Boltzmann-Gibbs Distribution
+Approximating quantiles in very large datasets
+An Algorithm for Learning the Essential Graph
+Bacterial Community Reconstruction Using A Single Sequencing Reaction
+Analysis of a Splitting Estimator for Rare Event Probabilities in Jackson Networks
+The Beta Generalized Exponential Distribution
+HIV with contact-tracing: a case study in Approximate Bayesian Computation
+SMART: A statistical framework for optimal design matrix generation with application to fMRI
+Regularized estimation of large-scale gene association networks using graphical Gaussian models
+Maximum entropy Edgeworth estimates of the number of integer points in polytopes
+Bayesian Model Selection for Beta Autoregressive Processes
+Bayesian Cointegrated Vector Autoregression models incorporating Alpha-stable noise for inter-day price movements via Approximate Bayesian Computation
+Control Variates for Reversible MCMC Samplers
+Classification and categorical inputs with treed Gaussian process models
+Rate estimation in partially observed Markov jump processes with measurement errors
+A Hierarchical Bayesian Framework for Constructing Sparsity-inducing Priors
+Bayesian Adaptive Lasso
+Bayesian matching of unlabelled point sets using Procrustes and configuration models
+Data Augmentation and Reversible Jump MCMC for Multinomial Index Problems
+The Time Machine: A Simulation Approach for Stochastic Trees
+Convergence of adaptive mixtures of importance sampling schemes
+On some difficulties with a posterior probability approximation technique
+Properties of Nested Sampling
+Adaptive approximate Bayesian computation
+A cautionary tale on the efficiency of some adaptive Monte Carlo schemes
+Monotonic convergence of a general algorithm for computing optimal designs
+Precision Measurements of the Cluster Red Sequence using an Error Corrected Gaussian Mixture Model
+On resolving the Savage-Dickey paradox
+Bayesian Tracking of Emerging Epidemics Using Ensemble Optimal Statistical Interpolation (EnOSI)
+A model selection approach to genome wide association studies
+Algorithmic and Statistical Perspectives on Large-Scale Data Analysis
+A Bregman Extension of quasi-Newton updates II: Convergence and Robustness Properties
+A Bregman Extension of quasi-Newton updates I: An Information Geometrical framework
+Making Tensor Factorizations Robust to Non-Gaussian Noise
+Parameter expansion in local-shrinkage models
+An Alternating l1 approach to the compressed sensing problem
+High-dimensional Graphical Model Search with gRapHD R Package
+Dynamic Trees for Learning and Design
+Conditional Sampling for Spectrally Discrete Max-Stable Random Fields
+On Particle Learning
+Slice sampling covariance hyperparameters of latent Gaussian models
+Cases for the nugget in modeling computer experiments
+Impact of Insurance for Operational Risk: Is it worthwhile to insure or be insured for severe losses?
+Maximum Likelihood Estimation of Nonnegative Trigonometric Sum Models Using a Newton-like Algorithm on Manifolds
+Exact Bayesian Analysis of Mixtures
+Discussion of Riemann manifold Langevin and Hamiltonian Monte Carlo methods'' by M. Girolami and B. Calderhead
+A Comparison of Methods for Computing Autocorrelation Time
+A Very Fast Algorithm for Matrix Factorization
+Discussions on Riemann manifold Langevin and Hamiltonian Monte Carlo methods
+Online Expectation-Maximisation
+Efficient Bayesian Inference for Generalized Bradley-Terry Models
+Metropolising forward particle filtering backward sampling and Rao-Blackwellisation of Metropolised particle smoothers
+Free energy computations by minimization of Kullback-Leibler divergence: an efficient adaptive biasing potential method for sparse representations
+Efficient Bayesian Inference for Switching State-Space Models using Discrete Particle Markov Chain Monte Carlo Methods
+Simulation-based Bayesian analysis for multiple changepoints
+Block clustering with collapsed latent block models
+Graphical Comparison of MCMC Performance
+An Alternating Direction Method for Finding Dantzig Selectors
+Slice Sampling with Adaptive Multivariate Steps: The Shrinking-Rank Method
+Seasonal fractional long-memory processes. A semiparametric estimation approach
+Network inference using asynchronously updated kinetic Ising Model
+A Mixture-Based Approach to Regional Adaptation for MCMC
+On the utility of graphics cards to perform massively parallel simulation of advanced Monte Carlo methods
+Engineering Optimisation by Cuckoo Search
+A GMBCG Galaxy Cluster Catalog of  2 Rich Clusters from SDSS DR
+A coordinate-wise optimization algorithm for the Fused Lasso
+Input Parameters Optimization in Swarm DS-CDMA Multiuser Detectors
+Forward Smoothing using Sequential Monte Carlo
+Nonparametric Independence Screening in Sparse Ultra-High Dimensional Additive Models
+MM Algorithms for Minimizing Nonsmoothly Penalized Objective Functions
+Approximate variances for tapered spectral estimates
+MCMC Using Ensembles of States for Problems with Fast and Slow Variables such as Gaussian Process Regression
+Marginal Likelihood Computation via Arrogance Sampling
+Bayesian Analysis of Loss Ratios Using the Reversible Jump Algorithm
+Efficient Bayesian inference in stochastic chemical kinetic models using graphical processing units
+Why approximate Bayesian computational (ABC) methods cannot handle model choice problems
+Rigorous confidence bounds for MCMC under a geometric drift condition
+Online EM Algorithm for Hidden Markov Models
+Can the Adaptive Metropolis Algorithm Collapse Without the Covariance Lower Bound?
+On statistical uncertainty in nested sampling
+Robust Retrospective Multiple Change-point Estimation for Multivariate Data
+On Oblivious PTAS's for Nash Equilibrium
+Dual-Tree Fast Gauss Transforms
+Analytic Loss Distributional Approach Model for Operational Risk from the alpha-Stable Doubly Stochastic Compound Processes and Implications for Capital Allocation
+Confidence intervals for sensitivity indices using reduced-basis metamodels
+Computationally efficient algorithms for statistical image processing. Implementation in R
+Active Set and EM Algorithms for Log-Concave Densities Based on Complete and Censored Data
+A Fast Algorithm for Robust Regression with Penalised Trimmed Squares
+A vanilla Rao--Blackwellization of Metropolis--Hastings algorithms
+Pac-bayesian bounds for sparse regression estimation with exponential weights
+Using parallel computation to improve Independent Metropolis--Hastings based estimation
+Diagonal Based Feature Extraction for Handwritten Alphabets Recognition System using Neural Network
+A framework for list representation enabling list stabilization through incorporation of gene exchangeabilities
+Sequential Monte Carlo samplers: error bounds and insensitivity to initial conditions
+Automatic Step Size Selection in Random Walk Metropolis Algorithms
+Study of the Nonequilibrium Critical Quenching and Annealing Dynamics for the Long-Range Ising Model
+Latin hypercube sampling with inequality constraints
+Global sensitivity analysis for models with spatially dependent outputs
+Numerical studies of the metamodel fitting and validation processes
+Bayesian inference for queueing networks and modeling of internet services
+Free Energy Methods for Bayesian Inference: Efficient Exploration of Univariate Gaussian Mixture Posteriors
+MINRES-QLP: a Krylov subspace method for indefinite or singular symmetric systems
+Constructing Summary Statistics for Approximate Bayesian Computation: Semi-automatic ABC
+Conservative Hypothesis Tests and Confidence Intervals using Importance Sampling
+Implementing regularization implicitly via approximate eigenvector computation
+Simultaneous model-based clustering and visualization in the Fisher discriminative subspace
+Counting with Combined Splitting and Capture-Recapture Methods
+Exact Enumeration and Sampling of Matrices with Specified Margins
+Flow-dependent unfolding and refolding of an RNA by nonequilibrium umbrella sampling
+SpicyMKL
+Kernel estimators of asymptotic variance for adaptive Markov chain Monte Carlo
+Estimation for High-Dimensional Linear Mixed-Effects Models Using ell 1 -Penalization
+An empirical Bayes procedure for the selection of Gaussian graphical models
+Maximin design on non hypercube domain and kernel interpolation
+Computing the confidence levels for a root-mean-square test of goodness-of-fit
+Robust adaptive Metropolis algorithm with coerced acceptance rate
+Posterior model probabilities computed from model-specific Gibbs output
+Extension of Dirac's chord method to the case of a nonconvex set by use of quasi-probability distributions
+Approximate Bayesian Computational methods
+Nonasymptotic bounds on the mean square error for MCMC estimates via renewal techniques
+Deviance Information Criteria for Model Selection in Approximate Bayesian Computation
+Complexity of Unconstrained L 2-L p Minimization
+Modeling Network Evolution Using Graph Motifs
+The LASSO for generic design matrices as a function of the relaxation parameter
+Estimating Bernoulli trial probability from a small sample
+Fast approximate inference with INLA: the past the present and the future
+Iterative bias reduction multivariate smoothing in R: The ibr package
+b-Bit Minwise Hashing for Large-Scale Linear SVM
+Simulation in Statistics
+Parameter estimation in high dimensional Gaussian distributions
+Calibration and filtering for multi factor commodity models with seasonality: incorporating panel data from futures contracts
+Efficient sampling of high-dimensional Gaussian fields: the non-stationary non-sparse case
+Reconstruction of Fractional Brownian Motion Signals From Its Sparse Samples Based on Compressive Sampling
+Space Alternating Penalized Kullback Proximal Point Algorithms for Maximizing Likelihood with Nondifferentiable Penalty
+Local statistical modeling by cluster-weighted
+Damage spreading and coupling in Markov chains
+Approximate simulation-free Bayesian inference for multiple changepoint models with dependence within segments
+CLTs and asymptotic variance of time-sampled Markov chains
+Lack of confidence in ABC model choice
+Recursive Shortest Path Algorithm with Application to Density-integration of Weighted Graphs
+Exploiting Correlation in Sparse Signal Recovery Problems: Multiple Measurement Vectors Block Sparsity and Time-Varying Sparsity
+Improved estimator of the entropy and goodness of fit tests in ranked set sampling
+Uniform Stability of a Particle Approximation of the Optimal Filter Derivative
+Copula representation of bivariate L-moments : A new estimation method for multiparameter 2-dimentional copula models
+Residual Component Analysis
+Revealing spatial variability structures of geostatistical functional data via Dynamic Clustering
+Scalable Inference of Customer Similarities from Interactions Data using Dirichlet Processes
+Considerate Approaches to Achieving Sufficiency for ABC model selection
+Decision Based Uncertainty Propagation Using Adaptive Gaussian Mixtures
+Approximate Interval Method for Epistemic Uncertainty Propagation using Polynomial Chaos and Evidence Theory
+Approximate Propagation of both Epistemic and Aleatory Uncertainty through Dynamic Systems
+Distinct counting with a self-learning bitmap
+On the Weakenesses of Correlation Measures used for Search Engines' Results (Unsupervised Comparison of Search Engine Rankings)
+A Bayesian Surrogate Model for Rapid Time Series Analysis and Application to Exoplanet Observations
+Esparsidade Estrutura Escalamento e Estabilidade em Algebra Linear Computacional
+Extreme deconvolution: Inferring complete distribution functions from noisy heterogeneous and incomplete observations
+D-optimal designs via a cocktail algorithm
+Optimal designs for rational function regression
+Gaussian process single-index models as emulators for computer experiments
+Adaptive Gaussian Predictive Process Approximation
+Online Variational Bayes Inference for High-Dimensional Correlated Data
+Dual phi -divergences estimation in normal models
+Adaptive Markov Chain Monte Carlo Forward Simulation for Statistical Analysis in Epidemic Modelling of Human Papillomavirus
+Precise Computation of Position Accuracy in GNSS Systems
+Using Supervised Learning to Improve Monte Carlo Integral Estimation
+Adjusted Bayesian inference for selected parameters
+Solving the 1 Swiss Francs Problem
+A Numerical Approach to Performance Analysis of Quickest Change-Point Detection Procedures
+Numerical Comparison of Cusum and Shiryaev-Roberts Procedures for Detecting Changes in Distributions
+Hyper-g Priors for Generalized Linear Models
+Exact covariance thresholding into connected components for large-scale Graphical Lasso
+Chi-square and classical exact tests often wildly misreport significance the remedy lies in computers
+Dimension Reduction Using Rule Ensemble Machine Learning Methods: A Numerical Study of Three Ensemble Methods
+Model Building with Multiple Dependent Variables and Constraints
+Positive-shrinkage and Pretest Estimation in Multiple Regression: A Monte Carlo study with Applications
+Rigorous Computing of Rectangle Scan Probabilities for Markov Increments
+Default Bayesian analysis for multi-way tables: a data-augmentation approach
+Beta-Product Poisson-Dirichlet Processes
+Grapham: Graphical Models with Adaptive Random Walk Metropolis Algorithms
+Adaptive Multiple Importance Sampling
+Statistical estimation requires unbounded memory
+Outlier Detection Using Nonconvex Penalized Regression
+Clustering using Unsupervised Binary Trees: CUBT
+A fast and recursive algorithm for clustering large datasets with k -medians
+Outliers and patterns of outliers in contingency tables with Algebraic Statistics
+Model Selection Consistency for Cointegrating Regressions
+On a Class of Shrinkage Priors for Covariance Matrix Estimation
+Joint Routing Scheduling And Power Control For Multihop Wireless Networks With Multiple Antennas
+Asymptotically Independent Markov Sampling: a new MCMC scheme for Bayesian Inference
+Iterative Methods for Scalable Uncertainty Quantification in Complex Networks
+Abstract tubes associated with perturbed polyhedra with applications to multidimensional normal probability computations
+Bayesian Post-Processor and other Enhancements of Subset Simulation for Estimating Failure Probabilities in High Dimensions
+Goodness-of-fit tests for weibull populations on the basis of records
+lgcp An R Package for Inference with Spatio-Temporal Log-Gaussian Cox Processes
+Robust and Trend-following Kalman Smoothers using Student's t
+Asymptotic Approximation of Marginal Likelihood Integrals
+Parametric families on large binary spaces
+Regularization in regression: comparing Bayesian and frequentist methods in a poorly informative situation
+Sequential Monte Carlo on large binary sampling spaces
+CHICOM: A code of tests for comparing unweighted and weighted histograms and two weighted histograms
+How do Markov approximations compare with other methods for large spatial data sets?
+Compressed Matrix Multiplication
+Bayesian Optimization for Adaptive MCMC
+Efficient Marginal Likelihood Computation for Gaussian Process Regression
+Think continuous: Markovian Gaussian models in spatial statistics
+A closed-form approximation for the median of the beta distribution
+Student's T Robust Bundle Adjustment Algorithm
+A statistical and computational theory for robust and sparse Kalman smoothing
+The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo
+Bayesian optimization using sequential Monte Carlo
+Two adaptive rejection sampling schemes for probability density functions log-convex tails
+Estimation for general birth-death processes
+Self-Avoiding Random Dynamics on Integer Complex Systems
+Summarizing posterior distributions in signal decomposition problems when the number of components is unknown
+Semigroups and sequential importance sampling for multiway tables
+Online EM Algorithm for Latent Data Models
+Quantile Mechanics II: Changes of Variables in Monte Carlo methods and GPU-Optimized Normal Quantiles
+An Active Set Algorithm to Estimate Parameters in Generalized Linear Models with Ordered Predictors
+An algorithm for the principal component analysis of large data sets
+Computing the confidence levels for a root-mean-square test of goodness-of-fit II
+Approximate Bayesian Computing for Spatial Extremes
+On the rank-one approximation of symmetric tensors
+Discriminant Analysis with Adaptively Pooled Covariance
+Error Bounds and Normalizing Constants for Sequential Monte Carlo in High Dimensions
+Estimating financial risk using piecewise Gaussian processes
+Random construction of interpolating sets for high dimensional integration
+Parameter estimation for the discretely observed fractional Ornstein-Uhlenbeck process and the uima R package
+A Unifying Model for the Analysis of Phenotypic Genetic and Geographic Data
+Exactly computing bivariate projection depth contours and median
+On the Computational Complexity of MCMC-based Estimators in Large Samples
+A Short History of Markov Chain Monte Carlo: Subjective Recollections from Incomplete Data
+Reduction algorithm for the NPMLE for the distribution function of bivariate interval censored data
+Simulation-based Regularized Logistic Regression
+SMC 2: an efficient algorithm for sequential analysis of state-space models
+Sparse Non Gaussian Component Analysis by Semidefinite Programming
+Efficient algorithm to select tuning parameters in sparse regression modeling with regularization
+Using MOEAs To Outperform Stock Benchmarks In The Presence of Typical Investment Constraints
+Bayesian Quantile Regression for Single-Index Models
+Maximal determinants and saturated D-optimal designs of orders 1 and 
+Fluctuations of Interacting Markov Chain Monte Carlo Methods
+Some discussions of D. Fearnhead and D. Prangle's Read Paper Constructing summary statistics for approximate Bayesian computation: semi-automatic approximate Bayesian computation
+Simply Explicitly Invertible Approximations to  Decimals of Error Function and Normal Cumulative Distribution Function
+Testing the significance of assuming homogeneity in contingency-tables cross-tabulations
+An introduction to how chi-square and classical exact tests often wildly misreport significance and how the remedy lies in computers
+Discussions on Fernhead and Prangle (212)
+Path Following and Empirical Bayes Model Selection for Sparse Regression
+A Generic Path Algorithm for Regularized Statistical Estimation
+Path Following in the Exact Penalty Method of Convex Programming
+Bayesian Parameter Inference for Partially Observed Stopped Processes
+Tutorial on Exact Belief Propagation in Bayesian Networks: from Messages to Algorithms
+Cross-entropy optimisation of importance sampling parameters for statistical model checking
+Kullback Proximal Algorithms for Maximum Likelihood Estimation
+On EM algorithms and their proximal generalizations
+A Component-wise EM Algorithm for Mixtures
+Fast simulation of truncated Gaussian distributions
+Improving the Convergence Properties of the Data Augmentation Algorithm with an Application to Bayesian Mixture Modeling
+Diffusive Nested Sampling
+Linear Variance Bounds for Particle Approximations of Time-Homogeneous Feynman-Kac Formulae
+Quilting Stochastic Kronecker Product Graphs to Generate Multiplicative Attribute Graphs
+A Class Coupler for Perfect Sampling from Continuous Distributions With and Without Atoms
+A dual modelling of evolving political opinion networks
+Modeling high dimensional time-varying dependence using D-vine SCAR models
+Message-Passing Algorithms for Quadratic Programming Formulations of MAP Estimation
+A Level-Set Hit-and-Run Sampler for Quasi-Concave Distributions
+A measure of skewness for testing departures from normality
+Parameterized Complexity on a New Sorting Algorithm: A Study in Simulation
+How many interchanges does the selection sort make for iid geometric(p) input?
+GPU acceleration of the particle filter: the Metropolis resampler
+A Computationally Stable Approach to Gaussian Process Interpolation of Deterministic Computer Simulation Data
+Exact sampling for intractable probability distributions via a Bernoulli factory
+Perfect Simulation for Mixtures with Known and Unknown Number of components
+Bounding rare event probabilities in computer experiments
+On the use of backward simulation in particle Markov chain Monte Carlo methods
+Multi-Domain Sampling With Applications to Structural Inference of Bayesian Networks
+INLA or MCMC? A Tutorial and Comparative Evaluation for Spatial Prediction in log-Gaussian Cox Processes
+A particle method for approximating principal eigen-functions and related quantities
+Sparsity-Promoting Bayesian Dynamic Linear Models
+Finite approximations to coherent choice
+RooStats for Searches
+Decentralized Adaptive Look-Ahead Particle Filtering
+Intracluster Moves for Constrained Discrete-Space MCMC
+Bayesian Parameter Estimation for Latent Markov Random Fields and Social Networks
+Parameter Estimation from Censored Samples using the Expectation-Maximization Algorithm
+High-dimensional Sparse Precision Matrix Estimation via Sparse Column Inverse Operator
+A Quantile Implementation of the EM Algorithm and Its Applications to Parameter Estimation with Interval Data
+Corrected Kriging update formulae for batch-sequential data assimilation
+Design and analysis of fractional factorial experiments from the viewpoint of computational algebraic statistics
+Combining spatial information sources while accounting for systematic errors in proxies
+Estimating Discrete Markov Models From Various Incomplete Data Schemes
+Sequential design of computer experiments for the estimation of a probability of failure
+Statistical Multiresolution Dantzig Estimation in Imaging: Fundamental Concepts and Algorithmic Framework
+On the Stability of Sequential Monte Carlo Methods in High Dimensions
+Bayesian Methods for Analysis and Adaptive Scheduling of Exoplanet Observations
+Particle algorithms for optimization on binary spaces
+On parametric families for sampling binary data with specified mean and correlation
+Adaptive Gaussian Mixture Filter Based on Statistical Linearization
+Fast Calculation of Calendar Time- Age- and Duration Dependent Time at Risk in the Lexis Space
+Driving Markov chain Monte Carlo with a dependent random stream
+Parameterization of Copulas and Covariance Decay of Stochastic Processes with Applications
+Computer Model Calibration using the Ensemble Kalman Filter
+Algorithm for multivariate data standardization up to third moment
+A new two parameter lifetime distribution: model and properties
+Computational aspects and applications of a new transform for solving the complex exponentials approximation problem
+Generalized Rejection Sampling Schemes and Applications in Signal Processing
+Practical Estimation of High Dimensional Stochastic Differential Mixed-Effects Models
+Generalized Belief Propagation for the Noiseless Capacity and Information Rates of Run-Length Limited Constraints
+The Multivariate Watson Distribution: Maximum-Likelihood Estimation and other Aspects
+Degree heterogeneity in spatial networks with total cost constraint
+Detection of additive outliers in Poisson INteger-valued AutoRegressive time series
+How to view an MCMC simulation as a permutation with applications to parallel simulation and improved importance sampling
+On automating Markov chain Monte Carlo for a class of spatial models
+African Trypanosomiasis Detection using Dempster-Shafer Theory
+Adaptive parallel tempering algorithm
+Variance components and generalized Sobol' indices
+Non-Parametric Methods Applied to the N-Sample Series Comparison
+Spatial Multiresolution Cluster Detection Method
+Sparse Approximation via Penalty Decomposition Methods
+New inference strategies for solving Markov Decision Processes using reversible jump MCMC
+A Multivariate Graphical Stochastic Volatility Model
+Factorial graphical lasso for dynamic networks
+Forecasting with Historical Data or Process Knowledge under Misspecification: A Comparison
+On optimal direction gibbs sampling
+Two New Algorithms for Solving Covariance Graphical Lasso Based on Coordinate Descent and ECM
+Parameter Exploration in Simulation Experiments: A Bayesian Framework
+Is there significant time-variation in multivariate copulas?
+Bayesian Vertex Nomination
+An asymptotic approximation for the permanent of a doubly stochastic matrix
+A Mathematical Reformulation of the Reference Price
+Stochastic Stepwise Ensembles for Variable Selection
+Sampling decomposable graphs using a Markov chain on junction trees
+A nonparametric empirical Bayes framework for large-scale multiple testing
+An Adaptive Interacting Wang-Landau Algorithm for Automatic Density Exploration
+A Scalable Bootstrap for Massive Data
+Probabilities of exoplanet signals from posterior samplings
+Diffusion Adaptation over Networks under Imperfect Information Exchange and Non-stationary Data
+Maximum entropy estimation of probability distributions with Gaussian conditions
+Recognition of stable distribution with Levy index alpha close to 2
+Coupled MCMC with a randomized acceptance probability
+Fast Accelerated Failure Time Modeling for Case-Cohort Data
+MCMC using Hamiltonian dynamics
+Approximation algorithms for the normalizing constant of Gibbs distributions
+Gibbs Sampling in Factorized Continuous-Time Markov Processes
+EM Algorithm for Estimation of the Offspring Distribution in Multitype Branching Processes with Terminal Types
+Model-based clustering via linear cluster-weighted models
+A Bayesian Approach to Approximate Joint Diagonalization of Square Matrices
+Hidden Markov Models with mixtures as emission distributions
+Approximate Bayesian Computation for Smoothing
+Large-Flip Importance Sampling
+Importance Sampling via Variational Optimization
+Moments Calculation For the Doubly Truncated Multivariate Normal Density
+Markov Chains on Orbits of Permutation Groups
+Computing the asymptotic power of a Euclidean-distance test for goodness-of-fit
+A Permutation Approach to Testing Interactions in Many Dimensions
+Estimating Nuisance Parameters in Inverse Problems
+Stirling's approximations for exchangeable Gibbs weights
+A constructive proof of the existence of Viterbi processes
+Bayesian estimation of a bivariate copula using the Jeffreys prior
+Bootstrapping Confidence Levels for Hypotheses about Quadratic (U-Shaped) Regression Models
+Smoothing proximal gradient method for general structured sparse regression
+Geometric Allocation Approach for Transition Kernel of Markov Chain
+Split Hamiltonian Monte Carlo
+Expectation-Propagation for Likelihood-Free Inference
+A note on the lack of symmetry in the graphical lasso
+A Mechanistic Dynamic Emulator
+Split HMC for Gaussian Process Models
+A Short Note on Gaussian Process Modeling for Large Datasets using Graphics Processing Units
+Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring
+Variational Bayesian Inference with Stochastic Search
+MCMC for doubly-intractable distributions
+Optimal inferential models for a Poisson mean
+General Construction of Irreversible Kernel in Markov Chain Monte Carlo
+Flexible Mixture Modeling with the Polynomial Gaussian Cluster-Weighted Model
+Toward Practical N2 Monte Carlo: the Marginal Particle Filter
+Keeping greed good: sparse regression under design uncertainty with application to biomass characterization
+How good are MatLab Octave and Scilab for Computational Modelling?
+Bayesian Subset Simulation: a kriging-based subset simulation algorithm for the estimation of small probabilities of failure
+Parametric and Nonparametric Tests for Speckled Imagery
+A simple and numerical stable algorithm for solving the cone projection problem based on a Gram-Schmidt process
+Stochastic particle packing with specified granulometry and porosity
+Adaptive Markov Chain Monte Carlo for Auxiliary Variable Method and Its Application to Parallel Tempering
+A Simple Probabilistic and Point-process Response Model for Predicting Every Spike in Optogenetics
+From Fields to Trees
+Convergence and asymptotic normality of variational Bayesian approximations for exponential family models with missing values
+Automorphism Groups of Graphical Models and Lifted Variational Inference
+Estimating the granularity coefficient of a Potts-Markov random field within an MCMC algorithm
+Bayesian inference for Gibbs random fields using composite likelihoods
+Generalized Direct Sampling for Hierarchical Bayesian Models
+Bayesian Inference with Optimal Maps
+Adaptive approximate Bayesian computation for complex models
+Note on the computation of the Metropolis-Hastings ratio for Birth-or-Death moves in trans-dimensional MCMC algorithms for signal decomposition problems
+Message passing with relaxed moment matching
+Tests for exponentiality against NBUE alternatives: a Monte Carlo comparison
+An Improved Data Assimilation Scheme for High Dimensional Nonlinear Systems
+Fast and Accurate Algorithms for Re-Weighted L1-Norm Minimization
+Massive parallelization of serial inference algorithms for a complex generalized linear model
+One Permutation Hashing for Efficient Search and Learning
+The use of systems of stochastic PDEs as priors for multivariate models with discrete structures
+Statistical Analysis of Autoregressive Fractionally Integrated Moving Average Models
+A Plea for Neutral Comparison Studies in Computational Sciences
+Composite likelihood estimation of sparse Gaussian graphical models with symmetry
+Nonsingular subsampling for S-estimators with categorical predictors
+A population Monte Carlo scheme with transformed weights and its application to stochastic kinetic models
+On the condensed density of the generalized eigenvalues of pencils of Hankel Gaussian random matrices and applications
+A black box method for solving the complex exponentials approximation problem
+Tuning Tempered Transitions
+ero Variance Markov Chain Monte Carlo for Bayesian Estimators
+Approximating Probability Densities by Iterated Laplace Approximations
+Data augmentation for non-Gaussian regression models using variance-mean mixtures
+EM algorithm and variants: an informal tutorial
+Bootstrapping data arrays of arbitrary order
+Simple techniques for likelihood analysis of univariate and multivariate stable distributions: with extensions to multivariate stochastic volatility and dynamic factor models
+Marginal Likelihood Computation for Hidden Markov Models via Generalized Two-Filter Smoothing
+Spline Smoothing for Estimation of Circular Probability Distributions via Spectral Isomorphism and its Spatial Adaptation
+Computational information geometry: theory and practice
+Nonconcave Penalized Spline
+Bayesian Adaptive Smoothing Spline using Stochastic Differential Equations
+Graphical methods for inequality constraints in marginalized DAGs
+Kernel based unfolding of data obtained from detectors with finite resolution and limited acceptance
+On Control Charts for Monitoring the Variance of a Time Series
+On Simulations from the Two-Parameter Poisson-Dirichlet Process and the Normalized Inverse-Gaussian Process
+Estimating Hidden Population Size using Respondent-Driven Sampling Data
+Skellam shrinkage: Wavelet-based intensity estimation for inhomogeneous Poisson data
+Diffusion limits of the random walk Metropolis algorithm in high dimensions
+Computing Optimal Experimental Designs via Interior Point Method
+Bayesian Sparsity-Path-Analysis of Genetic Association Signal using Generalized t Priors
+On optimality of kernels for approximate Bayesian computation using sequential Monte Carlo
+Adaptive sequential Monte Carlo by means of mixture of experts
+Fibre-generated point processes and fields of orientations
+The Bayesian Bridge
+A multi-point Metropolis scheme with generic weight functions
+Goodness-of-fit testing based on a weighted bootstrap: A fast large-sample alternative to the parametric bootstrap
+Option calibration of exponential L 'evy models: Confidence intervals and empirical results
+Densities of nested Archimedean copulas
+Model-based clustering in networks with Stochastic Community Finding
+Stochastic Smoothing for Nonsmooth Minimizations: Accelerating SGD by Exploiting Structure
+Improved Adaptive Rejection Metropolis Sampling Algorithms
+Extending Monte Carlo Methods to Factor Graphs with Negative and Complex Factors
+Fitting directed acyclic graphs with latent nodes as finite mixtures models with application to education transmission
+Geometric Ergodicity Scanning Strategies For Two-Component Gibbs Samplers
+Iterative Reweighted Minimization Methods for l p Regularized Unconstrained Nonlinear Programming
+Efficient Forward Simulation of Fisher-Wright Populations with Stochastic Population Size and Neutral Single Step Mutations in Haplotypes
+Sparsity by Worst-Case Quadratic Penalties
+Sequential Convex Programming Methods for A Class of Structured Nonlinear Programming
+Optimizing Threshold - Schedules for Approximate Bayesian Computation Sequential Monte Carlo Samplers: Applications to Molecular Systems
+Static Parameter Estimation for ABC Approximations of Hidden Markov Models
+Plackett-Luce regression: A new Bayesian model for polychotomous data
+An analysis of the least median of squares regression problem
+MultiLCIRT: An R package for multidimensional latent class item response models
+Bayesian Conditional Monte Carlo Algorithms for Sequential Single and Multi-Object filtering
+Unbiased estimates for gradients of stochastic network performance measures
+Bias-Variance and Breadth-Depth Tradeoffs in Respondent-Driven Sampling
+A Tutorial on Principal Component Analysis with the Accord.NET Framework
+Approximation Multivariate Distribution with pair copula Using the Orthonormal Polynomial and Legendre Multiwavelets basis functions
+A statistical analysis of probabilistic counting algorithms
+Gamma-based clustering via ordered means with application to gene-expression analysis
+The solution path of the generalized lasso
+Higher order scrambled digital nets achieve the optimal rate of the root mean square error for smooth integrands
+Optimal scaling and diffusion limits for the Langevin algorithm in high dimensions
+epsilon-Strong simulation of the Brownian path
+Mixed Beta Regression: A Bayesian Perspective
+Simulation of stochastic systems via polynomial chaos expansions and convex optimization
+Clustering in networks with the collapsed Stochastic Block Model
+Capturing the time-varying drivers of an epidemic using stochastic dynamical systems
+A Framework for Evaluating Approximation Methods for Gaussian Process Regression
+Estimators for Archimedean copulas in high dimensions
+Outlier Detection in Contingency Tables based on Minimal Patterns
+Dependence Properties of Multivariate Max-Stable Distributions
+Test for the statistical significance of a treatment effect in the presence of hidden sub-populations
+Iterative Hard Thresholding Methods for l  Regularized Convex Cone Programming
+A Generalized Polynomial Chaos-Based Method for Efficient Bayesian Calibration of Uncertain Computational Models
+A Dynamic Bi-orthogonal Field Equation Approach for Efficient Bayesian Calibration of Large-Scale Systems
+A note on a universal random variate generator for integer-valued random variables
+Online Discrimination of Nonlinear Dynamics with Switching Differential Equations
+DBKGrad: An R Package for Mortality Rates Graduation by Fixed and Adaptive Discrete Beta Kernel Techniques
+Bayesian Latent Variable Modeling of Longitudinal Family Data for Genetic Pleiotropy Studies
+Analysis of Computer Experiments with Functional Response
+Markov chain Monte Carlo for computing rare-event probabilities for a heavy-tailed random walk
+Testing goodness-of-fit of random graph models
+Iterative Thresholding Algorithm for Sparse Inverse Covariance Estimation
+Lagrangian Dynamical Monte Carlo
+Excursion and contour uncertainty regions for latent Gaussian models
+Univariate and data-depth based multivariate control charts using trimmed mean and winsorized standard deviation
+Computational aspects of Bayesian spectral density estimation
+MCMC inference for Markov Jump Processes via the Linear Noise Approximation
+A Mathematical Random Number Generator (MRNG)
+Bayesian learning of noisy Markov decision processes
+Classification Recouvrante Bas 'ee sur les M 'ethodes a Noyau
+The Method of Normalized Correlations - A Fast Alternative to Maximum Likelihood Estimation for Random Processes and Isotropic Random Fields with Short-Range Dependence
+Monte Carlo Algorithms for the Partition Function and Information Rates of Two-Dimensional Channels
+Simulation-based optimal Bayesian experimental design for nonlinear systems
+ClustOfVar: An R Package for the Clustering of Variables
+Orthogonal rotation in PCAMI
+Approximate Bayesian computation and Bayes linear analysis: Towards high-dimensional ABC
+MultiDendrograms: Variable-Group Agglomerative Hierarchical Clusterings
+Bayesian computation via empirical likelihood
+Mixtures of Shifted Asymmetric Laplace Distributions
+A Copula Based Bayesian Approach for Paid-Incurred Claims Models for Non-Life Insurance Reserving
+Generalized Linear Gaussian Cluster-Weighted Modeling
+Coherence-based Partial Exact Recovery Condition for OMP OLS
+Properties of Quick Simulation Random Fields
+Approximate Bayesian Computation via Regression Density Estimation
+Fully Parallel Particle Learning for GPGPUs and Other Parallel Devices
+Hidden Markov Model Applications in Change-Point Analysis
+Generative Models for Functional Data using Phase and Amplitude Separation
+Optimisation via Slice Sampling
+Simulating the Continuation of a Time Series in R
+Inference in Polytrees with Sets of Probabilities
+Fractional Spectral Moments for Digital Simulation of Multivariate Wind Velocity Fields
+An Experiment with Hierarchical Bayesian Record Linkage
+Sequential Monitoring of a Bernoulli Sequence when the Pre-change Parameter is Unknown
+A Dynamic Programming Approach for Approximate Uniform Generation of Binary Matrices with Specified Margins
+On-line Spot Volatility-Estimation and Decomposition with Nonlinear Market Microstructure Noise Models
+Bayesian model selection for exponential random graph models
+Penalty Constraints and Kernelization of M-Estimation Based Fuzzy C-Means
+Evolutionary Inference via the Poisson Indel Process
+Graphical models in Macaulay2
+Data for Development: the DD Challenge on Mobile Phone Data
+Estimation Testing and Prediction Regions of the Fixed and Random Effects by Solving the Henderson's Mixed Model Equations
+Numerical Approximation of Probability Mass Functions Via the Inverse Discrete Fourier Transform
+Simulation of Populations in a Time- Age- and Duration Dependent Illness-Death Model
+A Method for Finding Structured Sparse Solutions to Non-negative Least Squares Problems with Applications
+Relabeling and Summarizing Posterior Distributions in Signal Decomposition Problems when the Number of Components is Unknown
+Variational MCMC
+A sequential algorithm for fast fitting of Dirichlet process mixture models
+Diagnostic tools of approximate Bayesian computation using the coverage property
+Rao-Blackwellised Particle Filtering for Dynamic Bayesian Networks
+Monte Carlo Inference via Greedy Importance Sampling
+Importance sampling for weighted binary random matrices with specified margins
+Removing batch effects for prediction problems with frozen surrogate variable analysis
+Censoring Distances Based on Labeled Cortical Distance Maps in Cortical Morphometry
+Computing Robust Leverage Diagnostics when the Design Matrix Contains Coded Categorical Variables
+AABC: approximate approximate Bayesian computation when simulating a large number of data sets is computationally infeasible
+Fixed effects Selection in high dimensional Linear Mixed Models
+Clustering Via Nonparametric Density Estimation: the R Package pdfCluster
+Prepivoting composite score statistics by weighted bootstrap iteration
+An efficient Fisher-scoring algorithm for fitting latent class models with individual covariates
+Bayes Model Selection with Path Sampling: Factor Models and Other Examples
+Adaptive Gibbs samplers and related MCMC methods
+An approximate Bayesian marginal likelihood approach for estimating finite mixtures
+Bayesian test of normality versus a Dirichlet process mixture alternative
+Properties and applications of Fisher distribution on the rotation group
+Emulating a gravity model to infer the spatiotemporal dynamics of an infectious disease
+Sparse group lasso and high dimensional multinomial classification
+Reversible jump MCMC for nonparametric drift estimation for diffusion processes
+Bayesian computing with INLA: new features
+Mixture of Latent Trait Analyzers for Model-Based Clustering of Categorical Data
+Does Data Splitting Improve Prediction?
+Efficient Identification of Equivalences in Dynamic Graphs and Pedigree Structures
+The TimeMachine for Inference on Stochastic Trees
+Estimating Common Principal Components in High Dimensions
+Nonparametric Estimation of Means on Hilbert Manifolds and Extrinsic Analysis of Mean Shapes of Contours
+Non-Asymptotic Analysis of an Optimal Algorithm for Network-Constrained Averaging with Noisy Links
+Simulation-efficient shortest probability intervals
+Estimation of oblique structure via penalized likelihood factor analysis
+Semi-automatic selection of summary statistics for ABC model choice
+Adaptive Hamiltonian and Riemann Manifold Monte Carlo Samplers
+Stochastic model selection for Mixtures of Matrix-Normals
+On minimum correlation in construction of multivariate distributions
+High-Performance Pseudo-Random Number Generation on Graphics Processing Units
+An algorithm to compute the power of Monte Carlo tests with guaranteed precision
+On best subset regression
+Advanced MCMC Methods for Sampling on Diffusion Pathspace
+EigenGP: Sparse Gaussian process models with data-dependent eigenfunctions
+Sparse estimation via nonconcave penalized likelihood in a factor analysis model
+Maximum Likelihood for Matrices with Rank Constraints
+Efficient learning in ABC algorithms
+EMMI-uskew: An R Package for Fitting Mixtures of Multivariate Skew t-distributions via the EM Algorithm
+Fully Adaptive Gaussian Mixture Metropolis-Hastings Algorithm
+Better subset regression
+Herded Gibbs Sampling
+Bayesian Ultrahigh-Dimensional Screening Via MCMC
+Conditional Gradient Algorithms for Norm-Regularized Smooth Convex Optimization
+Relative fixed-width stopping rules for Markov chain Monte Carlo simulations
+A Novel Exact Representation of Stationary Colored Gaussian Processes (Fractional Differential Approach)
+Optimization viewpoint on Kalman smoothing with applications to robust and sparse estimation
+Discrepancy bounds for uniformly ergodic Markov chain quasi-Monte Carlo
+Combining Dynamic Predictions from Joint Models for Longitudinal and Time-to-Event Data using Bayesian Model Averaging
+Linear system identification using stable spline kernels and PLQ penalties
+Approximation for the Distribution of Three-dimensional Discrete Scan Statistic
+A General Iterative Shrinkage and Thresholding Algorithm for Non-convex Regularized Optimization Problems
+Variable Selection for Clustering and Classification
+Multifidelity variance reduction for pick-freeze Sobol index estimation
+Random Intersection Trees
+Asymptotic normality and efficiency of two Sobol index estimators
+Random generation of optimal saturated designs
+Approximate Bayesian computation (ABC) gives exact results under the assumption of model error
+A simple sketching algorithm for entropy estimation
+A generalized risk approach to path inference based on hidden Markov models
+Stable Graphical Model Estimation with Random Forests for Discrete Continuous and Mixed Variables
+Joint k-step analysis of Orthogonal Matching Pursuit and Orthogonal Least Squares
+Optimal uncertainty quantification for legacy data observations of Lipschitz functions
+Compressive Spectral Estimation for Nonstationary Random Processes
+Stochastic Variational Inference
+Extending INLA to a class of near-Gaussian latent models
+Approximate Inference for Observation Driven Time Series Models with Intractable Likelihoods
+The Alive Particle Filter
+Fast Approximate L infty Minimization: Speeding Up Robust Regression
+A Direct Sampler for G-Wishart Variates
+On the particle Gibbs sampler
+Robustification of Elliott's on-line EM algorithm for HMMs
+Bayesian analysis of matrix data with rstiefel
+Bayesian Inference for Logistic Regression Models Using Sequential Posterior Simulation
+Adaptive Sequential Posterior Simulators for Massively Parallel Computing Environments
+A high-dimensional two-sample test for the mean using random subspaces
+The Mahalanobis distance for functional data with applications to classification
+Generalized Orthogonal Components Regression for High Dimensional Generalized Linear Models
+A Framework for Reproducible Interactive Research: Application to health and social sciences
+Information field theory for cosmological perturbation reconstruction and non-linear signal analysis
+Two algorithms for fitting constrained marginal models
+Techniques for Solving Sudoku Puzzles
+Tangent space estimation for smooth embeddings of Riemannian manifolds
+Fast Approximate Bayesian Computation for discretely observed Markov models using a factorised posterior distribution
+Probabilistic Non-Local Means
+Two-Qubit Rational-Valued Entanglement-Boundary Probability Densities and a Fisher Information Equality Conjecture
+Derivative-Free Estimation of the Score Vector and Observed Information Matrix with Application to State-Space Models
+Initializing adaptive importance sampling with Markov chains
+Calculating the normalising constant of the Bingham distribution on the sphere using the holonomic gradient method
+Entropy Optimization and Counting
+MCMC for non-linear state space models using ensembles of latent sequences
+GPfit: An R package for Gaussian Process Model Fitting using a New Optimization Algorithm
+Bayesian Modeling and MCMC Computation in Linear Logistic Regression for Presence-only Data
+MCMC methods for Gaussian process models using fast approximations for the likelihood
+Bayesian Functional Generalized Additive Models with Sparsely Observed Covariates
+Random Latin squares and Sudoku designs generation
+PAWL-Forced Simulated Tempering
+Statistical Significance of Clustering using Soft Thresholding
+An Adaptive Sequential Monte Carlo Algorithm for Computing Permanents
+Using GPU Simulation to Accurately Fit to the Power-Law Distribution
+A Comparative Review of Dimension Reduction Methods in Approximate Bayesian Computation
+Variational Inference for Generalized Linear Mixed Models Using Partially Noncentered Parametrizations
+Exact Hamiltonian Monte Carlo for Truncated Multivariate Gaussians
+The bivariate current status model
+Improving power posterior estimation of statistical evidence
+NIFT - Numerical Information Field Theory - a versatile Python library for signal inference
+Simulating from a gamma distribution with small shape parameter
+Bayesian Computational Tools
+Extremely efficient generation of Gamma random variables for alpha  1
+Adapting the Interrelated Two-way Clustering method for Quantitative Structure-Activity Relationship (QSAR) Modeling of a Diverse Set of Chemical Compounds
+Expectation-maximization for logistic regression
+A goodness-of-fit test for regular vine copula models
+Fast Dual Variational Inference for Non-Conjugate LGMs
+A Monte Carlo Method to Approximate Conditional Expectations based on a Theorem of Besicovitch: Application to Equivariant Estimation of the Parameters of the General Half-Normal Distribution
+Mixtures of Spatial Spline Regressions
+Bayesian State-Space Modelling on High-Performance Hardware Using LibBi
+Bayesian test of significance for conditional independence: The multinomial model
+Computational Methods for a Class of Network Models
+A Variational Approximations-DIC Rubric for Parameter Estimation and Mixture Model Selection Within a Family Setting
+Monte Carlo for estimating exponential convolution
+vSMC: Parallel Sequential Monte Carlo in C
+TaSer (TabAnno and SeqMiner): a toolset for annotating and querying next-generation sequence data
+Constrained Optimization for a Subset of the Gaussian Parsimonious Clustering Models
+The Whittle Likelihood for Complex-Valued Time Series
+Adaptive MC  and Gibbs algorithms for Bayesian Model Averaging in Linear Regression Models
+Using interpolation to reduce computing time for analysis of large but simple data sets with application to design of epidemiological studies
+Fixed-point and coordinate descent algorithms for regularized kernel methods
+Temporal and Spatial Independent Component Analysis for fMRI data sets embedded in a R package
+Uncertainty Quantification in Hybrid Dynamical Systems
+Dynamic Decision Making for Graphical Models Applied to Oil Exploration
+Greedy Sparsity-Constrained Optimization
+A Multi-objective Exploratory Procedure for Regression Model Selection
+Convergent and Anti-diffusive Properties of Mean-Shift Method
+SegmentorIsBack: an R package for the fast and exact segmentation of Seq-data
+Bayesian inference for logistic models using Polya-Gamma latent variables
+On the Generalized Ratio of Uniforms as a Combination of Transformed Rejection and Extended Inverse of Density Sampling
+Mixing Coefficients Between Discrete and Real Random Variables: Computation and Properties
+Clustering and Classification via Cluster-Weighted Factor Analyzers
+Fast estimation of the ICL criterion for change-point detection problems with applications to Next-Generation Sequencing data
+A Note on Probabilistic Models over Strings: the Linear Algebra Approach
+Supplement to Markov Chain Monte Carlo Based on Deterministic Transformations
+Objective Bayesian hypothesis testing in binomial regression models with integral prior distributions
+Specifying Gaussian Markov Random Fields with Incomplete Orthogonal Factorization using Givens Rotations
+Power-Conditional-Expected Priors: Using g-priors with Random Imaginary Data for Variable Selection
+Bayesian Quantile Regression for Partially Linear Additive Models
+A particle filter approach to approximate posterior Cram 'er-Rao lower bound
+On-line Bayesian parameter estimation in general non-linear state-space models: A tutorial and new results
+Partition Function of the Ising Model via Factor Graph Duality
+Sequential Monte Carlo Methods for High-Dimensional Inverse Problems: A case study for the Navier-Stokes equations
+Error analysis in Bayesian identification of non-linear state-space models
+Input design for Bayesian identification of non-linear state-space models
+Iterative Estimation of Solutions to Noisy Nonlinear Operator Equations in Nonparametric Instrumental Regression
+On the accuracy of the Viterbi alignment
+OEM for least squares problems
+Relevant statistics for Bayesian model choice
+Maximum Likelihood Estimation of Gaussian Cluster Weighted Models and Relationships with Mixtures of Regression
+Group descent algorithms for nonconvex penalized linear and logistic regression models with grouped predictors
+Simultaneous adjustment of bias and coverage probabilities for confidence intervals
+Finding Multivariate Outliers With FastPCS
+Exact sampling and counting for fixed-margin matrices
+The Group Square-Root Lasso: Theoretical Properties and Fast Algorithms
+Fitting Bivariate Mixed-Type Data via the Generalized Linear Exponential Cluster-Weighted Model
+Applying least absolute deviation regression to regression-type estimation of the index of a stable distribution using the characteristic function
+A composite likelihood approach to computer model calibration using high-dimensional spatial data
+Spatial Process Generation
+A computational framework for infinite-dimensional Bayesian inverse problems. Part I: The linearized case with application to global seismic inversion
+Coding for Random Projections
+On Generalized Bayesian Data Fusion with Complex Models in Large Scale Networks
+Tuning Parameter Selection in Regularized Estimations of Large Covariance Matrices
+Inference in Gaussian models with missing data using Equalisation Maximisation
+High-dimensional Feature Selection Using Hierarchical Bayesian Logistic Regression with Heavy-tailed Priors
+Bayesian model selection for the latent position cluster model for Social Networks
+Randomized algorithms for low-rank matrix factorizations: sharp performance bounds
+A Modified Gibbs Sampler on General State Spaces
+Riemannian Manifold Hamiltonian Monte Carlo
+Kernel Approximate Bayesian Computation for Population Genetic Inferences
+Testing for Associations between Loci and Environmental Gradients Using Latent Factor Mixed Models
+Computing the Cramer-Rao bound of Markov random field parameters: Application to the Ising and the Potts models
+Gravitational wave parameter estimation with compressed likelihood evaluations
+Efficient Algorithms for Multivariate Linear Mixed Models in Genome-wide Association Studies
+Efficient Data Augmentation in Dynamic Models for Binary and Count Data
+Non-Gaussian Mixtures for Dimension Reduction Clustering Classification and Discriminant Analysis
+Nonsensical Excel and Statistica Default Output and Algorithm for an Adequate Display
+Holonomic Decent Minimization Method for Restricted Maximum Likelihood Estimation
+Regression with an infinite number of observations applied to estimating the parameters of the stable distribution using the empirical characteristic function
+Variational Bayes Approximations for Clustering via Mixtures of Normal Inverse Gaussian Distributions
+Parallel Bayesian Additive Regression Trees
+Minimizing Finite Sums with the Stochastic Average Gradient
+Weighted quantile regression for longitudinal data
+Inferring Heterogeneous Evolutionary Processes Through Time: from sequence substitution to phylogeography
+On spherical Monte Carlo simulations for multivariate normal probabilities
+Spherical Hamiltonian Monte Carlo for Constrained Target Distributions
+Parallel and other simulations in R made easy: An end-to-end study
+Diagnostics for Variational Bayes approximations
+Variational Bayes inference and Dirichlet process priors
+Computational Aspects of Optional P ' o lya Tree
+Scan statistic tail probability assessment based on process covariance and window size
+Efficient goodness-of-fit tests in multi-dimensional vine copula models
+Efficient Sampling from Time-Varying Log-Concave Distributions
+Fast Inference of Admixture Coefficients Using Sparse Non-negative Matrix Factorization Algorithms
+Particle Efficient Importance Sampling
+Efficient Optimization of the Likelihood Function in Gaussian Process Modelling
+Accurate Profiling of Microbial Communities from Massively Parallel Sequencing using Convex Optimization
+Component-Wise Markov Chain Monte Carlo: Uniform and Geometric Ergodicity under Mixing and Composition
+Graphics Processing Units and High-Dimensional Optimization
+MM Algorithms for Geometric and Signomial Programming
+Multiplicative random walk Metropolis-Hastings on the real line
+A Path Algorithm for Constrained Estimation
+Approximate inference via variational sampling
+Markov Chain Monte Carlo Based on Deterministic Transformations
+MCMC Methods for Functions: Modifying Old Algorithms to Make Them Faster
+Improved estimation in cumulative link models
+Regularized Matrix Regression
+Sparse Vector Autoregressive Modeling
+Fast MCMC sampling for Markov jump processes and extensions
+Comunication-Efficient Algorithms for Statistical Optimization
+Adaptive MCMC with online relabeling (Extended version)
+Performance Analysis of LASSO-based Signal Parameter Estimation
+Laplace approximation for logistic Gaussian process density estimation and regression
+Efficient Computational Algorithm for Optimal Allocation in Regression Models
+A gentle introduction to the discrete Laplace method for estimating -STR haplotype frequencies
+Shape Outlier Detection and Visualization for Functional Data: the Outliergram
+Analytic Solutions for D-optimal Factorial Designs under Generalized Linear Models
+An Accurate Method for Determining the Pre-Change Run-Length Distribution of the Generalized Shiryaev--Roberts Detection Procedure
+Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularized Loss Minimization
+A stochastic diffusion process for Lochner's generalized Dirichlet distribution
+An Explicit Formulation of the Earth Movers Distance with Continuous Road Map Distances
+Spatio-Temporal Disease Surveillance: Forward Selection Scan Statistic
+Particle filters
+A class of fast exact Bayesian filters in dynamical models with jumps
+Variance-based sensitivity analysis for stochastic chemical kinetics
+Variance-based sensitivity analysis and orthogonal approximations for stochastic models
+Multivariate regression and fit function uncertainty
+Computing Exact Clustering Posteriors with Subset Convolution
+Estimation for Unit Root Testing
+Gibbs Max-margin Topic Models with Data Augmentation
+Isomorphism Check Algorithm for Two-level Factorial Designs with Randomization Restrictions
+Semiparametric Cross Entropy for rare-event simulation
+The Danger of a Big Data Episteme and the Need to Evolve GIS
+Adaptive Distributed Resampling Algorithm with Non-Proportional Allocation
+Mixtures of 'Unrestricted' Skew-t Factor Analyzers
+Bandwidth Selection In Pre-Smoothed Particle Filters
+spBayes for large univariate and multivariate point-referenced spatio-temporal data models
+Robust Estimation of Mean Values
+Sequential Monte Carlo EM for multivariate probit models
+emcee: The MCMC Hammer
+Uniform random generation of large acyclic digraphs
+Bayesian Nonstationary Spatial Modeling for Very Large Datasets
+A LASSO-Penalized BIC for Mixture Model Selection
+Split Sampling: Expectations Normalisation and Rare Events
+Possible Directions for Improving Dependency Versioning in R
+Flexible sampling of discrete data correlations without the marginal distributions
+ecp: An R Package for Nonparametric Multiple Change Point Analysis of Multivariate Data
+Parsimonious Shifted Asymmetric Laplace Mixtures
+Linear Regression without computing pseudo-inverse matrix
+Simulation of multivariate distributions with fixed marginals and correlations
+Auxiliary-variable Exact Hamiltonian Monte Carlo Samplers for Binary Distributions
+Bayesian Analysis of ODE's: solver optimal accuracy and Bayes factors
+A First-Order Algorithm for the A-Optimal Experimental Design Problem: A Mathematical Programming Approach
+Applications of geometric discrepancy in numerical analysis and statistics
+Parameter Estimation in Hidden Markov Models with Intractable Likelihoods Using Sequential Monte Carlo
+Exact simulation of the sample paths of a diffusion with a finite entrance boundary
+Fast Training of Effective Multi-class Boosting Using Coordinate Descent Optimization
+Online inference in Markov modulated nonlinear dynamic systems: a Rao-Blackwellized particle filtering approach
+A Blockwise Descent Algorithm for Group-penalized Multiresponse and Multinomial Regression
+Estimation of a probability in inverse binomial sampling under normalized linear-linear and inverse-linear loss
+Nonasymptotic bounds on the estimation error of MCMC algorithms
+Stability properties of some particle filters
+Going off grid: Computationally efficient inference for log-Gaussian Cox processes
+Dimensional reduction in nonlinear filtering: A homogenization approach
+On Disturbance State-Space Models and the Particle Marginal Metropolis-Hastings Sampler
+Linear Latent Variable Models: The lava-package
+Model-based clustering of large networks
+Approximate discrete-time schemes for the estimation of diffusion processes from complete observations
+Approximate continuous-discrete filters for the estimation of diffusion processes from partial and noisy observations
+Infinite-dimensional Bayesian filtering for detection of quasi-periodic phenomena in spatio-temporal data
+The Containment Condition and AdapFail algorithms
+Monte Carlo simulation of classical spin models with chaotic billiards
+Polynomial regression using trapezoidal rule for computing Legendre coefficients
+Statistical estimation for optimization problems on graphs
+Optimal insurance purchase strategies via optimal multiple stopping times
+Families of Parsimonious Finite Mixtures of Regression Models
+Recursive maximum likelihood identification of jump Markov nonlinear systems
+Parallel matrix factorization for low-rank tensor completion
+Scalable iterative methods for sampling from massive Gaussian random vectors
+Efficient Metropolis-Hastings Proposal Mechanisms for Bayesian Regression Tree Models
+Labeled Random Finite Sets and the Bayes Multi-Target Tracking Filter
+A method for importance sampling through Markov chain Monte Carlo with post sampling variational estimate
+Rare-event Probability Estimation via Empirical Likelihood Maximization
+Data Transformations and Goodness-of-Fit Tests for Type-II Right Censored Samples
+Efficient Performance Evaluation of the Generalized Shiryaev--Roberts Detection Procedure in a Multi-Cyclic Setup
+Full information maximum likelihood estimation in factor analysis with a lot of missing values
+Exploring Multi-Modal Distributions with Nested Sampling
+Baseline zone estimation in two dimensions
+Parallel Markov Chain Monte Carlo
+Surface response analysis and determination of confidence regions for atmospheric CO2: a global warming study for U.S.A. data
+Contributors of carbon dioxide in the atmosphere in Europe
+Fitting birth-death processes to panel data with applications to bacterial DNA fingerprinting
+Two Proposals for Robust PCA using Semidefinite Programming
+A Gibbs sampler on the n -simplex
+Efficient Bayesian Multivariate Surface Regression
+Bergm: Bayesian Exponential Random Graphs in R
+A Regularized Graph Layout Framework for Dynamic Network Visualization
+Error bounds for Metropolis-Hastings algorithms applied to perturbations of Gaussian measures in high dimensions
+EM algorithms for estimating the Bernstein copula
+Importance Nested Sampling and the MultiNest Algorithm
+Path storage in the particle filter
+Fighting Sample Degeneracy and Impoverishment in Particle Filters: A Review of Intelligent Approaches
+New Algorithms for M -Estimation of Multivariate Location and Scatter
+Contributors of carbon dioxide in the atmosphere in Europe: the surface response analysis
+Modeling covariate-contingent correlation and tail-dependence with copulas
+Black Box Variational Inference
+Approximate Bayesian Computation for a Class of Time Series Models
+Properties of phoneme N -grams across the world's language families
+Iterative Reweighted Singular Value Minimization Methods for l p Regularized Unconstrained Matrix Minimization
+On Using Control Variates with Stochastic Approximation for Variational Bayes and its Connection to Stochastic Linear Regression
+Bayesian Robust Inference of Sample Selection Using Selection-t Models
+Implementing and Automating Fixed-Form Variational Posterior Approximation through Stochastic Linear Regression
+Estimation of Partially Linear Regression Model under Partial Consistency Property
+An Online Expectation-Maximisation Algorithm for Nonnegative Matrix Factorisation Models
+Approximations for two-dimensional discrete scan statistics in some block-factor type dependent models
+Exact Bayesian Inference for the Bingham Distribution
+Maximum likelihood estimation in the two-state Markovian arrival process
+Teaching precursors to data science in introductory and second courses in statistics
+Estimating Box-Cox power transformation parameter via goodness of fit tests
+Goodness-of-fit for log-linear network models: Dynamic Markov bases using hypergraphs
+On Bayesian inference for the M G 1 queue with efficient MCMC sampling
+Exploring Hoover and Perez's experimental designs using global sensitivity analysis
+Parallel Optimisation of Bootstrapping in R
+RProtoBuf: Efficient Cross-Language Data Serialization in R
+A mixture of experts model for rank data with applications in election studies
+Learning from Complex Systems: On the Roles of Entropy and Fisher Information in Pairwise Isotropic Gaussian Markov Random Fields
+Robust Parametric Classification and Variable Selection by a Minimum Distance Criterion
+Twisted particle filters
+Series Expansion Approximations of Brownian Motion for Non-Linear Kalman Filtering of Diffusion Processes
+The RAppArmor Package: Enforcing Security Policies in R Using Dynamic Sandboxing on Linux
+Nonparametric likelihood based estimation of linear filters for point processes
+Sampling from Dirichlet process mixture models with unknown concentration parameter: Mixing issues in large data implementations
+On the Convergence of Adaptive Sequential Monte Carlo Methods
+SSM: Inference for time series analysis with State Space Models
+Semistochastic Quadratic Bound Methods
+Coefficient Matrices Computation of Structural Vector Autoregressive Model
+Accelerating ABC methods using Gaussian processes
+Bayesian analysis for a class of beta mixed models
+On the Computation of Multivariate Scenario Sets for the Skew-t and Generalized Hyperbolic Families
+Sampling Plans for Control-Inspection Schemes Under Independent and Dependent Sampling Designs With Applications to Photovoltaics
+Risk Margin Quantile Function Via Parametric and Non-Parametric Bayesian Quantile Regression
+MCMC algorithms for Bayesian variable selection in the logistic regression model for large-scale genomic applications
+Decomposition Sampling applied to Parallelization of Metropolis-Hastings
+Wmixnet: Software for Clustering the Nodes of Binary and Valued Graphs using the Stochastic Block Model
+Wind speed prediction using different computing techniques
+Fast Hamiltonian Monte Carlo Using GPU Computing
+Bayesian and Maximum Likelihood Estimation for Gaussian Processes on an Incomplete Lattice
+Building fast Bayesian computing machines out of intentionally stochastic digital parts
+Fast matrix computations for functional additive models
+Conditional Multilevel Monte Carlo Simulation of Groundwater Flow in the Culebra Dolomite at the Waste Isolation Pilot Plant (WIPP) Site
+The Compound Class of Linear Failure Rate-Power Series Distributions: Model Properties and Applications
+Scaling Nonparametric Bayesian Inference via Subsample-Annealing
+Bayesian Inference for Hybrid Discrete-Continuous Stochastic Kinetic Models
+Robust Asymmetric Clustering
+Bias Reduction of Long Memory Parameter Estimators via the Pre-filtered Sieve Bootstrap
+Bayesian variable selection for latent class analysis using a collapsed Gibbs sampler
+Interacting Multiple Try Algorithms with Different Proposal Distributions
+Phylogenetic Ornstein-Uhlenbeck regression curves
+Markovian stochastic approximation with expanding projections
+Alternating Linearization for Structured Regularization Problems
+Convergence properties of pseudo-marginal Markov chain Monte Carlo algorithms
+Smoothing Dynamic Systems with State-Dependent Covariance Matrices
+Geodesic Monte Carlo on Embedded Manifolds
+Ensembling Classification Models Based on Phalanxes of Variables with Applications in Drug Discovery
+Splitting Methods for Convex Clustering
+Wormhole Hamiltonian Monte Carlo
+Metropolis-Hastings within Partially Collapsed Gibbs Samplers
+Efficient Continuous-Time Markov Chain Estimation
+Efficient recursive algorithms for functionals based on higher order derivatives of the multivariate Gaussian density
+Discussion of Geodesic Monte Carlo on Embedded Manifolds
+Asymptotically Exact Embarrassingly Parallel MCMC
+Computing Entropy Rate Of Symbol Sources A Distribution-free Limit Theorem
+A comparative simulation study of data-driven methods for estimating density level sets
+Multiple Comparison Procedures for Neuroimaging Genomewide Association Studies
+Compressible Generalized Hybrid Monte Carlo
+SMERED: A Bayesian Approach to Graphical Record Linkage and De-duplication
+Approximate Integrated Likelihood via ABC methods
+Visualization of Skewed Data: A Tool in R
+The Laplace Motion in Phylogenetic Comparative Methods
+Straightforward Bibliography Management in R with the RefManageR Package
+Low discrepancy constructions in the triangle
+The jsonlite Package: A Practical and Consistent Mapping Between JSON Data and R Objects
+Strong rules for nonconvex penalties and their implications for efficient algorithms in high-dimensional regression
+Simulation of Multivariate Non-Gaussian Autoregressive Time Series with Given Autocovariance and Marginals
+A general decision framework for structuring computation using Data Directional Scaling to process massive similarity matrices
+Phylogenetic Stochastic Mapping without Matrix Exponentiation
+Data augmentation in Rician noise model and Bayesian Diffusion Tensor Imaging
+A practical sequential stopping rule for high-dimensional MCMC and its application to spatial-temporal Bayesian models
+Randomized pick-freeze for sparse Sobol indices estimation in high dimension
+Firefly Monte Carlo: Exact MCMC with Subsets of Data
+Accelerating MCMC via Parallel Predictive Prefetching
+Gradient Flow from a Random Walk in Hilbert Space
+Poisson noise reduction with non-local PCA
+KernSmoothIRT: An R Package for Kernel Smoothing in Item Response Theory
+Evidence and Bayes factor estimation for Gibbs random fields
+PReMiuM: An R Package for Profile Regression Mixture Models using Dirichlet Processes
+Mini-Minimax Uncertainty Quantification for Emulators
+Robust Clustering via Parsimonious Mixtures of Contaminated Gaussian Distributions
+Approximating the mean of a truncated normal distribution
+Iterative Scaling in Curved Exponential Families
+Nested particle filters for online parameter estimation in discrete-time state-space Markov models
+A computational framework for infinite-dimensional Bayesian inverse problems: Part II. Stochastic Newton MCMC with application to ice sheet flow inverse problems
+Bayesian estimation of a sparse precision matrix
+PPF - A Parallel Particle Filtering Library
+Piecewise Constant Sequential Importance Sampling for Fast Particle Filtering
+Particle filter-based Gaussian process optimisation for parameter inference
+Exact Solutions in Structured Low-Rank Approximation
+Confidence Intervals for Random Forests: The Jackknife and the Infinitesimal Jackknife
+On idiosyncratic stochasticity of financial leverage effects
+SurvRegCensCov: Weibull Regression for a Right-Censored Endpoint with a Censored Covariate
+Efficient Maximum Likelihood Estimation of Multiple Membership Linear Mixed Models with an Application to Educational Value-Added Assessments
+Using RngStreams for Parallel Random Number Generation in C and R
+Computation of Maximum Likelihood Estimates for Multiresponse Generalized Linear Mixed Models with Non-nested Correlated Random Effects
+Information-geometric Markov Chain Monte Carlo methods using Diffusions
+Efficient parametric inference for stochastic biological systems with measured variability
+Coding for Random Projections and Approximate Near Neighbor Search
+Monte Carlo error in the Bayesian estimation of risk ratios using log-binomial regression models: an efficient MCMC method
+Venture: a higher-order probabilistic programming platform with programmable inference
+Mixed-Membership of Experts Stochastic Blockmodel
+On parameter identification in stochastic differential equations by penalized maximum likelihood
+On the use of Markov chain Monte Carlo methods for the sampling of mixture models
+Errors bounds for the gradient density estimation computed from a finite sample set using the method of stationary phase
+Bayesian Protein Sequence and Structure Alignment
+Reconstructing the intermittent dynamics of the torque in wind turbines
+Inferring structure in bipartite networks using the latent block model and exact ICL
+Model Based Clustering of High-Dimensional Binary Data
+A Kalman filter powered by mathcal H 2 -matrices for quasi-continuous data assimilation problems
+Speeding Up MCMC by Efficient Data Subsampling
+Simulation based sequential Monte Carlo methods for discretely observed Markov processes
+Fast and exact implementation of -dimensional Tukey depth regions
+The maximum likelihood degree of Fermat hypersurfaces
+Approximate Bayesian Computation by Subset Simulation
+Ensemble Trees and CLTs: Statistical Inference for Supervised Learning
+Establishing some order amongst exact approximations of MCMCs
+Functional Uniform Priors for Nonlinear Modelling
+Variational approximation for mixtures of linear mixed models
+On the flexibility of the design of Multiple Try Metropolis schemes
+A Bias-reduced Estimator for the Mean of a Heavy-tailed Distribution with an Infinite Second Moment
+Strong oracle optimality of folded concave penalized estimation
+Efficient Monte Carlo Methods for Multi-Dimensional Learning with Classifier Chains
+Consistency of the Adaptive Multiple Importance Sampling
+A note on marginal posterior simulation via higher-order tail area approximations
+Parallel resampling in the particle filter
+Interval edge estimation in SAR images
+A penalized simulated maximum likelihood approach in parameter estimation for stochastic differential equations
+Robust regression via predictive recursion maximum likelihood
+Power-Expected-Posterior Priors for Variable Selection in Gaussian Linear Models
+Mixtures of Common Skew-t Factor Analyzers
+An adaptive truncation method for inference in Bayesian nonparametric models
+A-optimal design of experiments for infinite-dimensional Bayesian linear inverse problems with regularized ell  -sparsification
+How to combine correlated data sets -- A Bayesian hyperparameter matrix method
+Multi-layer graph analysis for dynamic social networks
+Ridge Fusion in Statistical Learning
+Parallelizing MCMC via Weierstrass Sampler
+Monte Carlo non local means: Random sampling for large-scale image filtering
+Delayed acceptance particle MCMC for exact inference in stochastic kinetic models
+Better Solution Principle: A Facet of Concordance between Optimization and Statistics
+The R Package JMbayes for Fitting Joint Models for Longitudinal and Time-to-Event Data using MCMC
+Identification of Outlying Observations with Quantile Regression for Censored Data
+Ergodicity of Approximate MCMC Chains with Applications to Large Data Sets
+Fast symmetric factorization of hierarchical matrices with applications
+Logistic Biplots for Ordinal Data with an Application to Job Satisfaction of Doctorate Degree Holders in Spain
+Hypothesis Testing for Parsimonious Gaussian Mixture Models
+Sampling Polya-Gamma random variates: alternate and approximate techniques
+Fast Exact Bootstrap Principal Component Analysis for p1 million
+New tight approximations for Fisher's exact test
+Moment based gene set tests
+Demonstration of Enhanced Monte Carlo Computation of the Fisher Information for Complex Problems
+RAPTT: An Exact Two-Sample Test in High Dimensions Using Random Projections
+Comparisons of penalized least squares methods by simulations
+Particle MCMC for Bayesian Microwave Control
+Moving Particles: a parallel optimal Multilevel Splitting method with application in quantiles estimation and meta-model based algorithms
+G-AMA: Sparse Gaussian graphical model estimation via alternating minimization
+Fully Bayesian Logistic Regression with Hyper-Lasso Priors for High-dimensional Feature Selection
+Sequential Monte Carlo with Highly Informative Observations
+Stochastic Volatility Filtering with Intractable Likelihoods
+Bootstrap-based model selection criteria for beta regressions
+Computing derivative-based global sensitivity measures using polynomial chaos expansions
+Parameter Estimates of General Failure Rate Model: A Bayesian Approach
+Convex Banding of the Covariance Matrix
+Efficient Evaluation of the Probability Density Function of a Wrapped Normal Distribution
+Bayesian likelihood-free localisation of a biochemical source using multiple dispersion models
+Computationally efficient spatial modeling of annual maximum 2 hour precipitation. An application to data from Iceland
+Bayesian hierarchical modelling for inferring genetic interactions in yeast
+Functional Gaussian processes for regression with linear PDE models
+GLMMLasso: An Algorithm for High-Dimensional Generalized Linear Mixed Models Using L1-Penalization
+A Simulated Annealing Approach to Approximate Bayes Computations
+Polynomial chaos based uncertainty quantification in Hamiltonian multi-time scale and chaotic systems
+Massively parallel approximate Gaussian process regression
+Computational inference beyond Kingman's coalescent
+Stochastic Backpropagation and Approximate Inference in Deep Generative Models
+A Fast Algorithm for Sampling from the Posterior of a von Mises distribution
+Bayesian bandwidth estimation for a nonparametric functional regression model with mixed types of regressors and unknown error density
+interAdapt -- An Interactive Tool for Designing and Evaluating Randomized Trials with Adaptive Enrollment Criteria
+Classification using log Gaussian Cox processes
+Sparse Precision Matrix Selection for Fitting Gaussian Random Field Models to Large Data Sets
+Discriminant functions arising from selection distributions: theory and simulation
+A new method of randomization of lattice rules for multiple integration
+Robust improper maximum likelihood: tuning computation and a comparison with other methods for robust Gaussian clustering
+Linear Convergence of Variance-Reduced Projected Stochastic Gradient without Strong Convexity
+Modelling Receiver Operating Characteristic Curves Using Gaussian Mixtures
+Learning directed acyclic graphs via bootstrap aggregating
+Accelerating Metropolis-Hastings algorithms: Delayed acceptance with prefetching
+An R Implementation of the Polya-Aeppli Distribution
+State dependent swap strategies and adaptive adjusting of number of temperatures in Parallel Tempering algorithms
+Markov-switching generalized additive models
+Semi-Separable Hamiltonian Monte Carlo for Inference in Bayesian Hierarchical Models
+Functional Regression
+Toward an enhanced Bayesian estimation framework for multiphase flow soft-sensing
+Posterior concentration rates for empirical Bayes procedures with applications to Dirichlet Process mixtures
+Bayesian estimation of discretely observed multi-dimensional diffusion processes using guided proposals
+The OpenCPU System: Towards a Universal Interface for Scientific Computing through Separation of Concerns
+Divide-and-Conquer with Sequential Monte Carlo
+Computation and Visualisation for large-scale Gaussian updates
+Overcoming computational inability to predict clinical outcome from high-dimensional patient data using Bayesian methods
+Fitting Linear Mixed-Effects Models using lme
+Forest resampling for distributed sequential Monte Carlo
+Data augmentation for models based on rejection sampling
+Finding D-optimal designs by randomised decomposition and switching
+Fixed-Form Variational Posterior Approximation through Stochastic Linear Regression
+On the Convergence Rates of Some Adaptive Markov Chain Monte Carlo Algorithms
+Parallel MCMC with Generalized Elliptical Slice Sampling
+Mixture Model Averaging for Clustering
+Goal-oriented error estimation for the reduced basis method with application to sensitivity analysis
+Proximal Markov chain Monte Carlo algorithms
+Hypothesis Testing for Sparse Binary Regression
+Fourteen years of R qtl: Just barely sustainable
+On the use of marginal posteriors in marginal likelihood estimation via importance-sampling
+Bayesian nonparametric inference on the Stiefel manifold
+Model-based clustering for conditionally correlated categorical data
+Adaptive ABC model choice and geometric summary statistics for hidden Gibbs random fields
+Kernel density estimates in particle filter
+Comparing two formulations of skew distributions with special reference to model-based clustering
+Efficient Bayesian inference for long memory processes
+Transdimensional Transformation based Markov Chain Monte Carlo
+Greedy Block Coordinate Descent (GBCD) Method for High Dimensional Quadratic Programs
+On Optimal Scaling of Additive Transformation Based Markov Chain Monte Carlo Under Non-Regular Cases
+A Geometric Method to Obtain the Generation Probability of a Sentence
+A low variance consistent test of relative dependency
+ViDaExpert: user-friendly tool for nonlinear visualization and analysis of multidimensional vectorial data
+Estimating the distribution of Galaxy Morphologies on a continuous space
+Bayesian Network Constraint-Based Structure Learning Algorithms: Parallel and Optimised Implementations in the bnlearn R Package
+A Dynamic Approach to Linear Statistical Calibration with an Application in Microwave Radiometry
+Reduced Complexity Filtering with Stochastic Dominance Bounds: A Convex Optimization Approach
+L1 Control Theoretic Smoothing Splines
+A penalized approach to the bivariate logistic regression model for the association between ordinal responses
+gamboostLSS: An R Package for Model Building and Variable Selection in the GAMLSS Framework
+Asynchronous Anytime Sequential Monte Carlo
+Prioritized Data Compression using Wavelets
+Offline to Online Conversion
+Optimal low-rank approximations of Bayesian linear inverse problems
+Fitting heavy tailed distributions: the poweRlaw package
+A marginal sampler for sigma -Stable Poisson-Kingman mixture models
+Particle Filtering and Smoothing Using Windowed Rejection Sampling
+In Defense of MinHash Over SimHash
+Sparse Quadratic Discriminant Analysis and Community Bayes
+Extensions of Stability Selection using subsamples of observations and covariates
+Likelihood-free inference via classification
+Perfect simulation using atomic regeneration with application to Sequential Monte Carlo
+Fast tree inference with weighted fusion penalties
+The R-package phtt: Panel Data Analysis with Heterogeneous Time Trends
+Algorithm for the maximum likelihood estimation of the parameters of the truncated normal and lognormal distributions
+A simple scheme for the parallelization of particle filters and its application to the tracking of complex stochastic systems
+General Purpose Convolution Algorithm in S-Classes by means of FFT
+Dynamic Markov Bases
+Robust computation of linear models by convex relaxation
+Inference for SDE models via Approximate Bayesian Computation
+Variance bounding and geometric ergodicity of Markov chain Monte Carlo kernels for approximate Bayesian computation
+Distance Majorization and Its Applications
+Comparison of asymptotic variances of inhomogeneous Markov chains with application to Markov chain Monte Carlo methods
+A convex pseudo-likelihood framework for high dimensional partial correlation estimation with convergence guarantees
+Adaptive Sticky Generalized Metropolis
+Maximum-Likelihood Estimation of a Log-Concave Density based on Censored Data
+Systematic Physics Constrained Parameter Estimation of Stochastic Differential Equations
+A statistical approach to the inverse problem in magnetoencephalography
+The Progressive Proposal Particle Filter: Better Approximations to the Optimal Importance Density
+Ranking via Robust Binary Classification and Parallel Parameter Estimation in Large-Scale Data
+Heuristic construction of exact experimental designs under multiple resource constraints
+Learning Graphical Models With Hubs
+Empirical and Simulated Adjustments of Composite Likelihood Ratio Statistics
+Capacity estimation of two-dimensional channels using Sequential Monte Carlo
+Ensemble Kalman filtering with residual nudging: an extension to state estimation problems with nonlinear observation operators
+Modeling Cassava ield: A Response Surface Approach
+A Multiresolution Stochastic Process Model for Predicting Basketball Possession Outcomes
+A complete data frame work for fitting power law distributions
+Discrepancy Estimates for Acceptance-Rejection Samplers Using Stratified Inputs
+Robust High-Dimensional Modeling with the Contaminated Gaussian Distribution
+Approximate D-optimal Experimental Design with Simultaneous Size and Cost Constraints
+On Integration Methods Based on Scrambled Nets of Arbitrary Size
+On solving Ordinary Differential Equations using Gaussian Processes
+Efficient Exploration of Multi-Modal Posterior Distributions
+BET: Bayesian Ensemble Trees for Clustering and Prediction in Heterogeneous Data
+Ensemble Kalman filtering with a divided state-space strategy for coupled data assimilation problems
+Optimal scaling for the pseudo-marginal random walk Metropolis: insensitivity to the noise generating mechanism
+Understanding the Hastings Algorithm
+Sequential Bayesian Inference for Dynamic State Space Model Parameters
+A new integral loss function for Bayesian optimization
+Exploiting Multi-Core Architectures for Reduced-Variance Estimation with Intractable Likelihoods
+A General Framework for Fast Stagewise Algorithms
+A Framework of Conjugate Direction Methods for Symmetric Linear Systems in Optimization
+Decreasing flow uncertainty in Bayesian inverse problems through Lagrangian drifter control
+A simulation approach for change-points on phylogenetic trees
+Quantile-Based Spectral Analysis in an Object-Oriented Framework and a Reference Implementation in R: The quantspec Package
+Probability boxes on totally preordered spaces for multivariate modelling
+Ancestor Sampling for Particle Gibbs
+Sequential Bayesian Inference in Hidden Markov Stochastic Kinetic Models with Application to Detection and Response to Seasonal Epidemics
+Supervised Classification Using Sparse Fisher's LDA
+On the Exact and epsilon -Strong Simulation of (Jump) Diffusions
+Local case-control sampling: Efficient subsampling in imbalanced data sets
+On the role of interaction in sequential Monte Carlo algorithms
+Explaining the behavior of joint and marginal Monte Carlo estimators in latent variable models with independence assumptions
+A sequential reduction method for inference in generalized linear mixed models
+Particle Gibbs with Ancestor Sampling
+Efficient computational strategies for doubly intractable problems with applications to Bayesian social networks
+Fast Estimation of Multinomial Logit Models: R Package mnlogit
+An efficient algorithm for T-estimation
+Exact Simulation of Multidimensional Reflected Brownian Motion
+ABC model choice via random forests
+Augmentation Schemes for Particle MCMC
+On Optimal Multiple Changepoint Algorithms for Large Data
+Implementation of L 'evy CARMA model in uima package
+Enhancing R with Advanced Compilation Tools and Methods
+Object-Oriented Programming Functional Programming and R
+Vertical-likelihood Monte Carlo Integration
+Optimization Methods for Sparse Pseudo-Likelihood Graphical Model Selection
+Computational Implications of Reducing Data to Sufficient Statistics
+Hardness of parameter estimation in graphical models
+Fast implementation of the Tukey depth
+Efficient subgraph-based sampling of Ising-type models with frustration
+Exact Estimation for Markov Chain Equilibrium Expectations
+Bayesian inference for Markov jump processes with informative observations
+maigesPack: A Computational Environment for Microarray Data Analysis
+Software Alchemy: Turning Complex Statistical Computations into Embarrassingly-Parallel Ones
+Robust Clustering in Regression Analysis via the Contaminated Gaussian Cluster-Weighted Model
+Aggressive design: A density-matching approach for optimization under uncertainty
+Parameter inference and model selection in deterministic and stochastic dynamical models via approximate Bayesian computation: modeling a wildlife epidemic
+Asymptotic Normality of the Maximum Pseudolikelihood Estimator for Fully Visible Boltzmann Machines
+Variational Inference For Probabilistic Latent Tensor Factorization with KL Divergence
+Collaborative sparse regression using spatially correlated supports - Application to hyperspectral unmixing
+Estimation of Gaussian mixtures in small sample studies using l 1 penalization
+Particle-kernel estimation of the filter density in state-space models
+Markov Chain Monte Carlo Estimation of Quantiles
+A weighted least squares procedure to approximate least absolute deviation estimation in time series with specific reference to infinite variance unit root problems
+Estimating the Static Parameters in Linear Gaussian Multiple Target Tracking Models
+Local Gaussian process approximation for large computer experiments
+Conditions for successful data assimilation
+Sparse Covers for Sums of Indicators
+An empirical study to check the accuracy of approximating averages of ratios using ratios of averages
+A Note on Computing Extreme Tail Probabilities of the Noncentral T Distribution with Large Noncentrality Parameter
+Bayesian Nonparametric Weighted Sampling Inference
+Finite Sample Properties of Adaptive Markov Chains via Curvature
+Spectral Clustering for Divide-and-Conquer Graph Matching
+The Calibrated Kolmogorov-Smirnov Test
+Monte Carlo methods for light propagation in biological tissues
+Bayesian Conditional Density Filtering
+Approximate Bayesian computation for a flexible class of bivariate beta distributions
+Scalable Bayesian model averaging through local information propagation
+Scalable Inference for Markov Processes with Intractable Likelihoods
+One Pseudo-Sample is Enough in Approximate Bayesian Computation MCMC
+Limitations of polynomial chaos expansions in the Bayesian solution of inverse problems
+Model selection criteria in beta regression with varying dispersion
+Bayesian matrix completion: prior specification
+DepthProc An R Package for Robust Exploration of Multidimensional Economic Phenomena
+Bayesian complementary clustering MCMC and Anglo-Saxon placenames
+Generalized Rybicki Press algorithm
+Approximate Bayesian Computation in State Space Models
+Combining Particle MCMC with Rao-Blackwellized Monte Carlo Data Association for Parameter Estimation in Multiple Target Tracking
+Pooling multiple imputations when the sample happens to be the population
+Sequential Design with Mutual Information for Computer Experiments (MICE): Emulation of a Tsunami Model
+Likelihood free inference for Markov processes: a comparison
+co-BPM: a Bayesian Model for Estimating Divergence and Distance of Distributions
+On the maximization of likelihoods belonging to the exponential family using ideas related to the Levenberg-Marquardt approach
+BayesPy: Variational Bayesian Inference in Python
+Robust Orthogonal Complement Principal Component Analysis
+Learning Topology and Dynamics of Large Recurrent Neural Networks
+Scalable and efficient algorithms for the propagation of uncertainty from data through inference to prediction for large-scale problems with application to flow of the Antarctic ice sheet
+Fast Computing for Distance Covariance
+PAC-Bayesian AUC classification and scoring
+Bayesian tracking and parameter learning for non-linear multiple target tracking models
+Self-Healing Umbrella Sampling: Convergence and efficiency
+Markov Random Fields and Mass Spectra Discrimination
+Thompson sampling with the online bootstrap
+Sequential Importance Sampling for Two-dimensional Ising Models
+Convergence properties of weighted particle islands with application to the double bootstrap algorithm
+Power-Law Noises over General Spatial Domains and on Non-Standard Meshes
+Second-generation PLINK: rising to the challenge of larger and richer datasets
+Statistical inference with the Elliptical Gamma Distribution
+Scalable Parallel Factorizations of SDD Matrices and Efficient Sampling for Gaussian Graphical Models
+Calculating complexity of large randomized libraries
+A Fast and Scalable Method for A-Optimal Design of Experiments for Infinite-dimensional Bayesian Nonlinear Inverse Problems
+Penalized versus constrained generalized eigenvalue problems
+Small-noise analysis and symmetrization of implicit Monte Carlo samplers
+Median Selection Subset Aggregation for Parallel Inference
+Fractional Bi-Spectrum
+Statistical models for cores decomposition of an undirected random graph
+Dynamic Model Averaging in Large Model Spaces Using Dynamic Occam's Window
+A note on the empirical process of strongly dependent stable random variables
+Functional regression approximate Bayesian computation for Gaussian process density estimation
+The Model Confidence Set package for R
+Comparison between Standard and Adaptive MCMC via their diffusion limits
+Optimal Design and Analysis of the Exponentially Weighted Moving Average Chart for Exponential Data
+SIMD Parallel MCMC Sampling with Applications for Big-Data Bayesian Analytics
+Least quantile regression via modern optimization
+Importance sampling schemes for evidence approximation in mixture models
+Estimating the dynamic range of music signals via random subsampling
+Scalable Rejection Sampling for Bayesian Hierarchical Models
+Parallel inference for massive distributed spatial data using low-rank models
+Accelerating Asymptotically Exact MCMC for Computationally Intensive Models via Local Approximations
+Data-Driven Model Reduction for the Bayesian Solution of Inverse Problems
+Likelihood-informed dimension reduction for nonlinear inverse problems
+Modeling an Augmented Lagrangian for Improved Blackbox Constrained Optimization
+Underestimating extreme events in power-law behavior due to machine-dependent cutoffs
+Efficient Implementations of the Generalized Lasso Dual Path Algorithm
+A Backward Gaussian Process Monte Carlo algorithm for estimation and uncertainty assessment of hydrologic model parameters
+Linear and Conic Programming Estimators in High-Dimensional Errors-in-variables Models
+Empirical non-parametric estimation of the Fisher Information
+Implicit stochastic gradient descent for principled estimation with large datasets
+Cloud Radio-Multistatic Radar: Joint Optimization of Code Vector and Backhaul Quantization
+R Package multgee: A Generalized Estimating Equations Solver for Multinomial Responses
+Data Assimilation of Satellite Fire Detection in Coupled Atmosphere-Fire Simulation by WRF-SFIRE
+High-order Composite Likelihood Inference for Max-Stable Distributions and Processes
+Fast Randomized Kernel Methods With Statistical Guarantees
+Spatio-Temporal Analysis of Epidemic Phenomena Using the R Package surveillance
+Multivariate response and parsimony for Gaussian cluster-weighted models
+clustvarsel: A Package Implementing Variable Selection for Model-based Clustering in R
+Controlling false discoveries in high-dimensional situations: Boosting with stability selection
+Monitoring Count Time Series in R: Aberration Detection in Public Health Surveillance
+Computation of Gaussian orthant probabilities in high dimension
+Modelling extremes using approximate Bayesian Computation
+A Block Circulant Embedding Method for Simulation of Stationary Gaussian Random Fields on Block-regular Grids
+Vectorized and Parallel Particle Filter SMC Parameter Estimation for Stiff ODEs
+Network Methods for Pathway Analysis of Genomic Data (Review)
+Statistical distributions of sequencing by synthesis with probabilistic nucleotide incorporation
+Length distribution of sequencing by synthesis: fixed flow cycle model
+Distributions of positive signals in pyrosequencing
+Statistical distributions of pyrosequencing
+Bayesian Evidence and Model Selection
+Dimension-independent likelihood-informed MCMC
+Optimal mixture weights in multiple importance sampling
+A note on forecasting demand using the multivariate exponential smoothing framework
+Choosing the number of components in a finite mixture model using an exact Integrated Completed Likelihood criteria
+Joint Association Graph Screening and Decomposition for Large-scale Linear Dynamical Systems
+Group Regularized Estimation under Structural Hierarchy
+Filtering hidden Markov measures
+False discovery rate smoothing
+Big Learning with Bayesian Methods
+Exact computation of the halfspace depth
+Additive Gaussian Process Regression
+k-POD: A Method for Clustering Partially Observed Data
+Gradient-based stochastic optimization methods in Bayesian experimental design
+A Search-free DOA Estimation Algorithm for Coprime Arrays
+Limiting behavior of the Jeffreys Power-Expected-Posterior Bayes Factor in Gaussian Linear Models
+Adaptive construction of surrogates for the Bayesian solution of inverse problems
+On the efficiency of pseudo-marginal random walk Metropolis algorithms
+Accelerating inference for diffusions observed with measurement error and large sample sizes using Approximate Bayesian Computation
+Discrepancy estimates for variance bounding Markov chain quasi-Monte Carlo
+Bayesian threshold selection for extremal models using measures of surprise
+Particle Metropolis adjusted Langevin algorithms for state space models
+Robust PCA with FastHCS
+Sequential Quasi-Monte Carlo
+An importance sampling approach for copula models in insurance
+Pre-processing for approximate Bayesian computation in image analysis
+A Sampling Filter for Non-Gaussian Data Assimilation
+A fully data-driven method for estimating the shape of a point cloud
+Second order asymptotics of aggregated log-elliptical risk
+Lazy ABC
+The Poisson transform for unnormalised statistical models
+Approximations of the Optimal Importance Density using Gaussian Particle Flow Importance Sampling
+A statistical test for Nested Sampling algorithms
+Fast Genome-Wide QTL Association Mapping on Pedigree and Population Data
+Hamiltonian Monte Carlo Without Detailed Balance
+Bayesian Inference for Generalized Extreme Value Distributions via Hamiltonian Monte Carlo
+Markov Chain Monte Carlo and Variational Inference: Bridging the Gap
+Learning graphical models from the Glauber dynamics
+Bayesian Non-Parametric Inference for Infectious Disease Data
+Multivariate analysis of mixed data: The PCAmixdata R package
+Bayesian model choice via mixture distributions with application to epidemics and population process models
+An Efficient Bayesian Inference Framework for Coalescent-Based Nonparametric Phylodynamics
+An Infra-Structure for Performance Estimation and Experimental Comparison of Predictive Models in R
+Multiple Test Functions and Adjusted p-Values for Test Statistics with Discrete Distributions
+On sequential hypotheses testing via convex optimization
+How Many Communities Are There?
+Speeding up bootstrap computations: a vectorized implementation for statistics based on sample moments
+An Iterative Step-Function Estimator for Graphons
+Reduced-Rank Covariance Estimation in Vector Autoregressive Modeling
+Adjusted least squares fitting of algebraic hypersurfaces
+Optimal Reduced Isotonic Regression
+BayesDccGarch - An Implementation of Multivariate GARCH DCC Models
+Efficient Bayesian inference for stochastic volatility models with ensemble MCMC methods
+Hierarchical Mixture-of-Experts Model for Large-Scale Gaussian Process Regression
+A Stable Particle Filter in High-Dimensions
+An implementation of a randomized algorithm for principal component analysis
+broom: An R Package for Converting Statistical Analysis Objects Into Tidy Data Frames
+Efficient penalty search for multiple changepoint problems
+Biips: Software for Bayesian Inference with Interacting Particle Systems
+Expanded Alternating Optimization of Nonconvex Functions with Applications to Matrix Factorization and Penalized Regression
+Exact penalty decomposition method for zero-norm minimization based on MPEC formulation
+Sequential Monte Carlo Methods for Bayesian Elliptic Inverse Problems
+Efficient SIMD RNG for Varying-Parameter Streams: C Class BatchRNG
+Expectation propagation as a way of life
+Fast computation of Tukey trimmed regions in dimension p2
+Hierarchical Vector Autoregression
+Transport map accelerated Markov chain Monte Carlo
+Bayesian detection of abnormal segments in multiple time series
+Adaptive Monte Carlo Maximum Likelihood
+Enabling Interactivity on Displays of Multivariate Time Series and Longitudinal Data
+Individual adaptation: an adaptive MCMC scheme for variable selection problems
+Software for Distributed Computation on Medical Databases: A Demonstration Project
+Log-Determinant Divergences Revisited: Alpha--Beta and Gamma Log-Det Divergences
+Particle Metropolis adjusted Langevin algorithms
+Bayesian leave-one-out cross-validation approximations for Gaussian latent variable models
+Efficient particle-based online smoothing in general hidden Markov models: the PaRIS algorithm
+A comparison of emulation methods for Approximate Bayesian Computation
+Multivariate-from-Univariate MCMC Sampler: R Package MfUSampler
+Quasi-Monte Carlo Feature Maps for Shift-Invariant Kernels
+On Particle Methods for Parameter Estimation in State-Space Models
+Variational inference for sparse spectrum Gaussian process regression
+Improving the autodependogram using the Kulback-Leibler divergence
+Fractionally-Supervised Classification
+Fast Approximate Inference of Transcript Expression Levels from RNA-seq Data
+D  PO - Denoising Deconvolving and Decomposing Photon Observations
+On general sampling schemes for Particle Markov chain Monte Carlo methods
+Non-Local Priors for High-Dimensional Estimation
+Convergence of cyclic coordinatewise l1 minimization
+Bayesian Hidden Markov Modelling Using Circular-Linear General Projected Normal Distribution
+Speeding up neighborhood search in local Gaussian process prediction
+A Sampling
+Introduction to the R package TDA
+Efficient estimation of high-dimensional multivariate normal copula models with discrete spatial responses
+Inference for Trans-dimensional Bayesian Models with Diffusive Nested Sampling
+Adaptive Importance Sampling via Stochastic Convex Programming
+Point Process-based estimation of kth-order moment
+A persistence landscapes toolbox for topological statistics
+Strong NP-Hardness Result for Regularized L q -Minimization Problems with Concave Penalty Functions
+The Marginalized delta -GLMB Filter
+Consensus Labeled Random Finite Set Filtering for Distributed Multi-Object Tracking
+R Markdown
+Fast Estimation of Diffusion Tensors under Rician noise by the EM algorithm
+A Particle Multi-Target Tracker for Superpositional Measurements using Labeled Random Finite Sets
+Enhancing reproducibility and collaboration via management of R package cohorts
+Efficiency and computability of MCMC with Langevin Hamiltonian and other matrix-splitting proposals
+Bayesian Optimization for Likelihood-Free Inference of Simulator-Based Statistical Models
+Coordinates Transformation and Polynomial Chaos for the Bayesian Inference of a Gaussian Process with Parametrized Prior Covariance Function
+Discussion of Sequential Quasi-Monte Carlo by Mathieu Gerber and Nicolas Chopin
+Quantifying uncertainties on excursion sets under a Gaussian random field prior
+JavaNPST: Nonparametric Statistical Tests in Java
+LMest: an R package for latent Markov models for categorical longitudinal data
+Scalable Multi-Output Label Prediction: From Classifier Chains to Classifier Trellises
+Measuring and estimating interaction between exposures on dichotomous outcome of a population
+Estimating confidence regions of common measures of (baseline treatment effect) on dichotomous outcome of a population
+Lazier ABC
+Open TURNS: An industrial software for uncertainty quantification in simulation
+Relabelling in Bayesian mixture models by pivotal units
+Bayesian estimate of discrete Burr distribution with two parameters
+Sparse Distance Weighted Discrimination
+Expander Framework for Generating High-Dimensional GLM Gradient and Hessian from Low-Dimensional Base Distributions: R Package RegressionFactory
+Kernel-based entropy estimation in ranked set sampling
+Randomized sketches for kernels: Fast and optimal non-parametric regression
+Chaotic Boltzmann machines with two elements
+Approximations and bounds for binary Markov random fields
+Adaptive step length selection for Hessian-based manifold Langevin samplers
+On the sign of the real part of the Riemann zeta-function
+Parallelizing Gaussian Process Calculations in R
+Particle approximations of the score and observed information matrix for parameter estimation in state space models with linear computational cost
+On Russian Roulette Estimates for Bayesian inference with Doubly-Intractable Likelihoods
+Particle Metropolis-Hastings using gradient and Hessian information
+Approximate Bayesian Computation with composite score functions
+An Importance Sampling Scheme on Dual Factor Graphs. I. Models in a Strong External Field
+An Importance Sampling Scheme on Dual Factor Graphs. II. Models with Strong Couplings
+Maximum likelihood estimation and Expectation-Maximization algorithm for controlled branching processes
+Sparse and compositionally robust inference of microbial ecological networks
+Identification of jump Markov linear models using particle filters
+Sequential Monte Carlo Samplers for capital allocation under copula-dependent risk models
+Model Selection for Topic Models via Spectral Decomposition
+Theoretical guarantees for approximate sampling from smooth and log-concave densities
+Variance Reduction for QMC in Reproducing Kernel Hilbert Spaces
+Enabling scalable stochastic gradient-based inference for Gaussian processes by employing the Unbiased LInear System SolvEr (ULISSE)
+ggRandomForests: Visually Exploring a Random Forest for Regression
+Optimal Wavelets for Electrogastrography
+Fast Finite Field Hartley Transforms Based on Hadamard Decomposition
+Setting the stage for data science: integration of data management skills in introductory and second courses in statistics
+A Discrete Tchebichef Transform Approximation for Image and Video Coding
+Bayesian computation: a perspective on the current state and sampling backwards and forwards
+Signal Partitioning Algorithm for Highly Efficient Gaussian Mixture Modeling in Mass Spectrometry
+The Arithmetic Cosine Transform: Exact and Approximate Algorithms
+Fast unsupervised Bayesian image segmentation with adaptive spatial regularisation
+Using sparse polynomial chaos expansions for the global sensitivity analysis of groundwater lifetime expectancy in a multi-layered hydrogeological model
+Some comments about A. Ronald Gallant's Reflections on the Probability Space Induced by Moment Conditions with Implications for Bayesian Inference
+Marginalizing Gaussian Process Hyperparameters using Sequential Monte Carlo
+An Efficient Approach to Graphical Modelling of Time Series
+Calibration of conditional composite likelihood for Bayesian inference on Gibbs random fields
+Stochastic Newton Sampler: R Package sns
+Algorithms for Finding Copulas Minimizing Convex Functions of Sums
+Exact solutions to Super Resolution on semi-algebraic domains in higher dimensions
+Ergodicity of Fuzzy Markov Chains Based on Simulation Using Sequences
+A Bregman Proximal ADMM for NMF with Outliers: Estimating features with missing values and outliers: a Bregman-proximal point algorithm for robust Non-negative Matrix Factorization with application to gene expression analysis
+Nested Sequential Monte Carlo Methods
+Reconstruction of Nonnegative Sparse Signals Using Accelerated Proximal-Gradient Algorithms
+Functional Gaussian Process Model for Bayesian Nonparametric Analysis
+Speeding up Permutation Testing in Neuroimaging
+Newton-based maximum likelihood estimation in nonlinear state space models
+Quasi-Newton particle Metropolis-Hastings applied to intractable likelihood models
+Nonlinear state space smoothing using the conditional particle filter
+Polynomial-Chaos-based Kriging
+A fast Mixed Model B-splines algorithm
+A Row-parallel  times  2-D DCT Architecture Using Algebraic Integer Based Exact Computation
+Comparison of Value-at-Risk models: the MCS package
+Particle Gibbs for Bayesian Additive Regression Trees
+An efficient particle-based online EM algorithm for general state-space models
+Optimal Regular Graph Designs
+Classification and Bayesian Optimization for Likelihood-Free Inference
+Adaptive Sparse PLS for Logistic Regression
+Stream Sampling for Frequency Cap Statistics

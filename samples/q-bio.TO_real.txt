@@ -1,0 +1,620 @@
+Immunohistochemical pitfalls in the demonstration of insulin-degrading enzyme in normal and neoplastic human tissues
+Autowaves in the model of avascular tumour growth
+Global and regional brain metabolic scaling and its functional consequences
+Williams and Bjerknes model with growth limitation
+Fighting cancer with virus
+Pacman percolation: a model for enzyme gel degradation
+Direct solution of the inverse optimization problem of load sharing between muscles
+Travelling-wave analysis of a model describing tissue degradation by bacteria
+Spatiotemporal dynamics of pacing in models of anatomical reentry
+Terminating ventricular tachycardia by pacing induced dynamical inhomogeneities in the reentry circuit
+Controlling spatiotemporal chaos in excitable media by local biphasic stimulation
+Spiral-wave Dynamics Depends Sensitively on nhomogeneities in Mathematical Models of Ventricular Tissue
+Heart Rate Variability: Measures and Models
+A Historical Perspective on Cancer
+SQUID Magnetometry for Cancer Screening a Feasibility Study
+Alternans amplification following a two-stimulations protocol in a one-dimensional cardiac ionic model of reentry: from annihilation to double-wave quasiperiodic reentry
+Comorbidity and Anticomorbidity: Autocognitive developmental disorders of structured psychosocial stress
+Deriving the respiratory sinus arrhythmia from the heartbeat time series using Empirical Mode Decomposition
+Dynamical Systems Basis of Metamorphosis: Diversity and Plasticity of Cellular States in Reaction Diffusion Network
+Coronary heart disease chronic inflammation and pathogenic social hierarchy: a biological limit to possible reductions in morbidity and mortality
+A continuum treatment of growth in biological tissue: The coupling of mass transport and mechanics
+Material forces in the context of biotissue remodelling
+Consciousness cognition and context: extending the global neuronal workspace model
+To a Problem of Not Increasing Dynamic Compliance at Asthma Patients with Ventilating Disorders after Berotec Inhalation
+An ordinary differential equation model for the multistep transformation to cancer
+Towards comparative theoretical neuroanatomy of the cerebral cortex
+Hypothesis: Is percolative clustering an emerging paradigm in protein-protein interactions ?
+Dynamics of Acute Inflammation
+Site Model of Allometric Scaling and Fractal Distribution Networks of Organs
+Scaling Laws in Cancer: The Dynamic Behaviour of the Power Exponent p
+On tumor development: fractional transport approach
+Single Cancer Cell Detection by Near Infrared Microspectroscopy Infrared Chemical Imaging and Fluorescence Microspectroscopy
+An ionically based mapping model with memory for cardiac restitution
+The role of M cells and the long QT syndrome in cardiac arrhythmias: simulation studies of reentrant excitations using a detailed electrophysiological model
+Periodic Oscillations of Blood Cell Populations in Chronic Myelogenous Leukemia
+Oscillations in a maturation model of blood cell production
+Intensity Coding in Two-Dimensional Excitable Neural Networks
+In vivo Cancer Marker in Mice
+MultiNeuron - Neural Networks Simulator For Medical Physiological and Psychological Applications
+Energetic model of tumor growth
+The Dynamic Evolution of the Power Exponent in a Universal Growth Model of Tumors
+Telomere loss limits the rate of human epithelial tumor formation
+Morphogen Gradient from a Noisy Source
+Modelling butterfly wing eyespot patterns
+Comments on Structural dynamics and resonance in plants with nonlinear stiffness
+Studies on European beech (Fagus sylvatica L.). Part 1: Variations of wood colour parameters
+Hierarchy Fractality Small-World and Resilience of Haversian Bone Structure: A Complex Network Study
+Vascular network remodeling via vessel cooption regression and growth in tumors
+Spectral Detrended Fluctuation Analysis and Its Application to Heart Rate Variability Assessment
+Flow correlated percolation during vascular network formation in tumors
+Towards Structure-Property-Function Relationships for Eumelanin
+Bending a slab of neural tissue
+Finding the center reliably: robust patterns of developmental gene expression
+Identification of a Proliferation Gene Cluster Associated with HPV E E Expression Level and Viral DNA Load in Invasive Cervical Carcinoma
+Distribution networks and the optimal form of the kidney and lung
+Mathematical modeling of anti-tumor virus therapy: Regimes with complete recovery within the framework of deterministic models
+Does Cancer Growth Depend on Surface Extension?
+Development of a Three-Dimensional Multiscale Agent-Based Tumor Model: Simulating Gene-Protein Interaction Profiles Cell Phenotypes Multicellular Patterns in Brain Cancer
+Influence of stochastic delays in Seidel-Herzel model of human cardiorespiratory system
+Feedback Medicine: Control Systems Concepts in Personalised Predictive Medicine and Combinatorial Intervention
+Tumors under periodic therapy -- Role of the immune response time delay
+A continuous model for cell sorting
+Diagnosis of rotator cuff lesions by FT-Raman spectroscopy: a biochemical study
+A multiscale mathematical model of cancer and its use in analyzing irradiation therapies
+Study of Non-Altered Colorectal Tissue by FT-Raman Spectroscopy
+Mathematical modeling of tumor therapy with oncolytic viruses: Effects of parametric heterogeneity on cell dynamics
+Evidence for an unfolded border-collision bifurcation in paced cardiac tissue
+Asymptotic analysis and analytical solutions of a model of cardiac excitation
+Characterization of Metastatic Tumor Formation by the Colony Size Distribution
+Cancer Dissemination: A Consequence of limited Carrying Capacity?
+An analysis of B cell selection mechanisms in germinal centers
+Can all muscular load sharing patterns be regarded as optimal in some sense?
+Mechanisms of organogenesis of primary lymphoid follicles
+Clustering fetal heart rate tracings by compression
+The Influence of Photosynthesis on the Number of Metamers per Growth Unit in GreenLab Model
+Analyzing the Dynamic Relationship between Tumor Growth and Angiogenesis in a Two Dimensional Finite Element Model
+Fitting analysis provides further evidence for eradication of hiv aids infection under combined liposome drug delivery treatment
+Relating Biophysical Properties Across Scales
+Mathematical modeling of the GnRH pulse and surge generator
+Elastica-based strain energy functions for soft biological tissue
+Post-ischaemic treatment with the cyclooxygenase-2 inhibitor nimesulide reduces blood-brain barrier disruption and leukocyte infiltration following transient focal cerebral ischaemia in rats
+Regional distribution of the prostaglandin E2 receptor EP1 in the rat brain: accumulation in Purkinje cells of the cerebellum
+Wide therapeutic time window for nimesulide neuroprotection in a model of transient focal cerebral ischemia in the rat
+Delayed treatment with nimesulide reduces measures of oxidative stress following global ischemic brain injury in gerbils
+Neuroprotective efficacy of nimesulide against hippocampal neuronal damage following transient forebrain ischemia
+Time course of oxidative damage in different brain regions following transient cerebral ischemia in gerbils
+The highly selective cyclooxygenase-2 inhibitor DFU is neuroprotective when given several hours after transient cerebral ischemia in gerbils
+Do we understand the emergent dynamics of grid cell activity?
+The Optimal Form of Distribution Networks Applied to the idney and Lung
+Effects of pyruvate administration on infarct volume and neurological deficits following permanent focal cerebral ischemia in rats
+Nimesulide limits kainate-induced oxidative damage in the rat hippocampus
+Selective vulnerability to kainate-induced oxidative damage in different rat brain regions
+Schizophrenia - a parameters game?
+The complex channel networks of bone structure
+Characterizing Polygonality in Biological Structures
+Multi-scale modeling of follicular ovulation as a reachability problem
+Cell adhesion and cortex contractility determine cell patterning in the Drosophila retina
+Cyclooxygenase Inhibition Limits Blood-Brain Barrier Disruption following Intracerebral Injection of Tumor Necrosis Factor-alpha in the Rat
+A ptototype compartmental model of blood pressure distribution
+Global dynamical model of the cardiovascular system
+Numerical simulations of cardiovascular diseases and global matter transport
+Modeling the variability of shapes of a human placenta
+Hot spot formation in tumor vasculature during tumor growth in an arterio-venous-network environment
+Hepatocyte Aggregates: Methods of Preparation in the Microgravity Simulating Bioreactor Use in Tissue Engineering
+The dynamics of human body weight change
+Controlling spatiotemporal chaos in excitable media using an array of control points
+Epidermal corneocytes: dead guards of the hidden treasure
+Characterizing the Diversity of Dynamics in Complex Networks Without Border Effects
+Observation of Cholesterol Dissolved in Microscopic Deposits of Free Fatty Acids in the Lumen of an Aorta of a Mouse Model for Human Atherosclerosis
+Metabolic scaling law for fetus and placenta
+Multi-Scale Multi-Resolution Brain Cancer Modeling
+Cancer Cell Motility: Optimizing Spatial Search Strategies
+Potential Phytoextraction with in-vitro regenerated plantlets of Brassica juncea (L.) Czern. in presence of CdCl 2 : Cadmium accumulation and physiological parameter measurement
+Micropropagation of three genotypes of Indian mustard Brassica juncea (L.) Czern. using seedling-derived transverse thin cell layer (tTCL) explants
+Cyclooxygenase inhibition in ischemic brain injury
+Mean surface shape of a human placenta
+PEGylated Nano-Graphene Oxide for Delivery of Water Insoluble Cancer Drugs
+Multicellular Tumor Spheroid in an off-lattice Voronoi Delaunay cell model
+Modeling of Body Mass Index by Newtons Second Law
+Limb preference in the gallop of dogs and the half-bound of pikas on flat ground
+Contact-inhibited chemotaxis in de novo and sprouting blood-vessel growth
+A Simulation of Blood Cells in Branching Capillaries
+Evolutionary game theory elucidates the role of glycolysis in glioma progression and invasion
+A Game Theoretical Perspective on the Somatic Evolution of Cancer
+Tuning gastropod locomotion: Modeling the influence of mucus rheology on the cost of crawling
+New Mechanics of Traumatic Brain Injury
+New Mechanics of Spinal Injury
+Possible mechanisms for initiating macroscopic left-right asymmetry in developing organisms
+Stroke volume estimation by thoracocardiography is better when glottis is closed
+SAPHIR - a multi-scale multi-resolution modeling environment targeting blood pressure regulation and fluid homeostasis
+Distributed self-regulation of living tissue. Effects of nonideality
+A pseudo active kinematic constraint for a biological living soft tissue: an effect of the collagen network
+Surface instability of sheared soft tissues
+Understanding the dynamics of biological colloids to elucidate cataract formation towards the development of methodology for its early diagnosis
+Delayed coupling theory of vertebrate segmentation
+Beneficial effects of intercellular interactions between pancreatic islet cells in blood glucose regulation
+Breakdown of Long-Range Correlations in Heart Rate Fluctuations During Meditation
+Spontaneous waves in muscle fibres
+Rapidly detecting disorder in rhythmic biological signals: A spectral entropy measure to identify cardiac arrhythmias
+A morphogenetic crop model for sugar-beet (Beta vulgaris L.)
+Tracking tumor evolution via the prostate marker PSA: An individual post-operative study
+Allometric metabolic scaling and fetal and placental weight
+A Simple Model of Pupal Water Loss in Glossina
+New Mechanics of Generic Musculo-Skeletal Injury
+Extracting synaptic conductances from single membrane potential traces
+Stability and Hopf bifurcation in a mathematical model of pluripotent stem cell dynamics
+On the stability of a maturity structured model of cellular proliferation
+A mathematical study of the hematopoiesis process with applications to chronic myelogenous leukemia
+Global Asymptotic Stability and Hopf Bifurcation for a Blood Cell Production Model
+Modelling hematopoiesis mediated by growth factors with applications to periodic hematological diseases
+On Pattern and Evolution
+Similar in vivo killing efficacy of polyoma virus-specific CD T cells during acute and chronic phases of the infection
+Analytically Solvable Asymptotic Model of Atrial Excitability
+Fluctuations and redundancy in optimal transport networks
+Damage and fluctuations induce loops in optimal transport networks
+Isoprenaline increases Excursive Restitution Slope in the Conscious Rabbit with Ischaemic Heart Failure
+Phyllotaxis a model
+Spectral region optimization for Raman-based optical diagnosis of inflammatory lesions
+Distribution Principle of Bone Tissue
+Generalized calculus in radiobiology: Physical implications
+Morphogenesis by coupled regulatory networks: Reliable control of positional information and proportion regulation
+Detrended Fluctuation Analysis of Systolic Blood Pressure Control Loop
+Flow-correlated dilution of a regular network leads to a percolating network during tumor induced angiogenesis
+Studying the emergence of invasiveness in tumours using game theory
+A Simpler Explanation to BA1 Gene Variation in Aortic and Blood Tissues
+Modeling Microscopic Chemical Sensors in Capillaries
+New Universal Theory of Injury Prediction and Prevention
+Supramolecular Stacking of Doxorubicin on Carbon Nanotubes for in vivo Cancer Therapy
+Pixel multiplexing for high-speed multi-resolution fluorescence imaging
+Dynamics of lattice spins as a model of arrhythmia
+Experimental confirmation of tissue liquidity based on the exact solution of the Laplace equation
+Generation and escape of local waves from the boundary of uncoupled cardiac tissue
+Morphogenesis of growing soft tissues
+Low energy defibrillation in human cardiac tissue: a simulation study
+A cellular automata model for avascular solid tumor growth under the effect of therapy
+Line-Defect Patterns of Unstable Spiral Waves in Cardiac Tissue
+Statistical physics of cerebral embolization leading to stroke
+Living Tissue Self-Regulation as a Self-Organization Phenomenon
+Instability and Spatiotemporal Dynamics of Alternans in Paced Cardiac Tissue
+Morphology transitions induced by chemotherapy in carcinomas in situ
+Defibrillation via the Elimination of Spiral Turbulence in a Model for Ventricular Fibrillation
+Termination of Reentry in an Inhomogeneous Ring of Model Cardiac Cells
+Simulating the time series of a selected gene expression profile in an agent-based tumor model
+Response of Autonomic Nervous System to Body Positions: Fourier and Wavelet Analysis
+Optimizing the vertebrate vestibular semicircular canal: could we balance any better?
+Phase shifts of synchronized oscillators and the systolic diastolic blood pressure relation
+Control of spiral waves and turbulent states in a cardiac model by travelling-wave perturbations
+Complex dynamics of the biological rhythms: gallbladder and heart cases
+Functional immunomics: Microarray analysis of IgG autoantibody repertoires predicts the future response of NOD mice to an inducer of accelerated diabetes
+Critical Scale-invariance in Healthy Human Heart Rate
+A Field Approach to D Gene Expression Pattern Characterization
+Remodeling of biological tissue: Mechanically induced reorientation of a transversely isotropic chain network
+Evolutionary dynamics of adult stem cells: Comparison of random and immortal strand segregation mechanisms
+Dynamics of conduction blocks in a model of paced cardiac tissue
+Biological remodelling: Stationary energy configurational change internal variables and dissipation
+Long-range dependencies in heart rate signals- revisited
+Induction in myeloid leukemic cells of genes that are expressed in different normal tissues
+Human cancers over express genes that are specific to a variety of normal human tissues
+Stochastic models for tumoral growth
+Biochemical analysis of human breast tissues using FT-Raman spectroscopy
+Amplitude equation approach to spatiotemporal dynamics of cardiac alternans
+Geometrical approach to tumor growth
+Phase transition in the collective migration of tissue cells: experiment and model
+Modeling emergent tissue organization involving high-speed migrating cells in a flow equilibrium
+Bifurcation-based parameter tuning in a model of the GnRH pulse and surge generator
+Generalized Voronoi Tessellation as a Model of Two-dimensional Cell Tissue Dynamics
+Endogenous circannual rhythm in LH secretion: insight from signal analysis coupled with mathematical modelling
+Variant assumptions made in deriving equilibrium solutions to Little et al (PLoS Comput Biol 2 (1) e1)
+Asymptotics of conduction velocity restitution in models of electrical excitation in the heart
+Optimality of mutation and selection in germinal centers
+The shade avoidance syndrome: a non-markovian stochastic growth model
+BA1 Gene Variation: the doubts remain
+A statistical model of fracture for a 2D hexagonal mesh: the Cell Network Model of Fracture for the bamboo Guadua angustifolia
+Topological Effects of Synaptic Time Dependent Plasticity
+A Spatial Model of Tumor-Host Interaction: Application of Chemotherapy
+Simulating Brain Tumor Heterogeneity with a Multiscale Agent-Based Model: Linking Molecular Signatures Phenotypes and Expansion Rate
+Multiplexed five-color molecular imaging of cancer cells and tumor tissues with carbon nanotube Raman tags in the near-infrared
+Influence of spatially modified tissue on atrial fibrillation patterns: Insight from solutions of the FitzHugh-Nagumo equations
+Growth-Algorithm Model of Leaf Shape
+A waiting time problem arising from the study of multi-stage carcinogenesis
+Modelling the spatial organization of cell proliferation in the developing central nervous system
+Mobilisation readiness state and the frequency structure of heart rate variability
+Frequency Structure of Heart Rate Variability
+Mathematical model of fluid flow in an osteon influence of cardiac system
+Myocardial Contractions and the Ventricular Pressure--Volume Relationship
+Growth-induced mass flows in fungal networks
+Wave-train induced unpinning of weakly anchored vortices in excitable media
+Towards Google matrix of brain
+Evolutionary dynamics of tumor progression with random fitness values
+Understanding thermoregulatory transitions during haemorrhage by piecewise regression
+Spreading speeds and traveling waves for a model of epidermal wound healing
+Signal processing of acoustic signals in the time domain with an active nonlinear nonlocal cochlear model
+Homeostatic competition drives tumor growth and metastasis nucleation
+Multiphase modeling of tumor growth with matrix remodeling and fibrosis
+Toward A Quantitative Understanding of Gas Exchange in the Lung
+Adhesion between cells diffusion of growth factors and elasticity of the AER produce the paddle shape of the chick limb
+Intercellular Coupling Regulates the Period of the Segmentation Clock
+Dual contribution to amplification in the mammalian inner ear
+Mathematical analysis of a two-dimensional population model of metastatic growth including angiogenesis
+A closed-form solution of the three-dimensional contact problem for biphasic cartilage layers
+Steric Constraints as a Global Regulation of Growing Leaf Shape
+Small is beautiful and dry
+The filling law: a general framework for leaf shape diversity and its consequences on folded leaves
+Emergent Properties of Tumor Microenvironment in a Real-life Model of Multicell Tumor Spheroids
+ramers-ronig analysis of biological skin
+Parametric identification of a functional-structural tree growth model and application to beech trees (Fagus sylvatica)
+Multiphase modeling and qualitative analysis of the growth of tumor cords
+Anomalous drift of spiral waves in heterogeneous excitable media
+A Hierarchical Probability Model of Colon Cancer
+General analysis of mathematical models for bone remodeling
+Computational challenges of tumor spheroid modeling
+Preliminary Functional-Structural Modeling on Poplar (Salicaceae)
+Modeling branching effects on source-sink relationships of the cotton plant
+Abnormality of the placental vasculature affects placental thickness
+Aging as a consequence of misrepair -- a novel theory of aging
+Circadian rhythm and cell population growth
+Evaluation of a Novel Approach for Automatic Volume Determination of Glioblastomas Based on Several Manual Expert Segmentations
+A Flexible Semi-Automatic Approach for Glioblastoma multiforme Segmentation
+Pituitary Adenoma Segmentation
+Double site-bond percolation model for biomaterial implants
+A simple model of cerebral blood flow dependence on arterial blood pressure
+A reaction-diffusion model for the growth of avascular tumor
+A Phyllotactic Approach to the Structure of Collagen Fibrils
+Spatio-temporal structure of cell distribution in cortical Bone Multicellular Units: a mathematical model
+Stimulation of human red blood cells leads to Ca2 -mediated intercellular adhesion
+Quantitative model for efficient temporal targeting of tumor cells and neovasculature
+Broadband Dielectric Spectroscopy on Human Blood
+A validated model of serum anti-Mullerian hormone from conception to menopause
+Human ovarian reserve from conception to the menopause
+The OPFOS microscopy family: High-resolution optical-sectioning of biomedical specimens
+Realistic D computer model of the gerbil middle ear featuring accurate morphology of bone and soft tissue structures
+Structure and Growth in the Living Tissue and in Carbon Nanotubes
+Noise-assisted tumor-immune cells interaction
+Failure of Mineralized Collagen Microfibrils Using Finite Element Simulation Coupled to Mechanical Quasi-brittle Damage
+Multiscale approach for bone remodeling simulation based on finite element and neural network computation
+A preliminary study of acoustic propagation in thick foam tissue scaffolds composed of poly(lactic-co-glycolic acid)
+Collective Cell Migration: Leadership Invasion and Segregation
+Response to sub-threshold stimulus is enhanced by spatially heterogeneous activity
+Simulations of Blood Flow in Plain Cylindrical and Constricted Vessels with Single Cell Resolution
+Reaction-Diffusion-Delay Model for EPO TNF- alpha ? Interaction in Articular Cartilage Lesion Abatement
+On inconsistencies in passive pharmacokinetics
+Micro helical polymeric structures produced by variable voltage direct electrospinning
+Questing for an optimal universal viral agent for oncolytic virotherapy
+Stability of nonconstant stationary solutions in a reaction-diffusion equation coupled to the system of ordinary differential equations
+Mathematical Properties of Pump-Leak Models of Cell Volume Control and Electrolyte Balance
+Psoriasis as a consequence of incorporation of beta-streptococci into the microbiocenosis of highly permeable intestines (a pathogenic concept)
+Photon Trajectory in the Human Cornea
+New mathematical model for fluid-glucose-albumin transport in peritoneal dialysis
+Gap unctions: The Claymore for Cancerous Cells
+Psoriasis as a consequence of incorporation of beta-streptococci into the microbiocenosis of highly permeable intestines (a pathogenic concept). Russian edition
+Prospects of using Antagonist Histamine H2-Receptor (Cimetidinum) as Adjuvant for Melanoma Biotherapy Treatment
+Pattern formation in auxin flux
+Controlling spatiotemporal chaos and spiral turbulence in excitable media: A review
+Multiple verification in computational modeling of bone pathologies
+Mathematical Modeling of Transport and Degradation of Feedstuffs in the Small Intestine
+A Physiologically-Based Flow Network Model for Hepatic Drug Elimination I: Regular Lattice Lobule Model
+Dinamics of HPV Infection among Women with Cervical Lesions
+Polarization Theory of Motivations Emotions and Attention
+Scaling of brain metabolism and blood flow in relation to capillary and neural scaling
+Stress Clamp Experiments on Multicellular Tumor Spheroids
+The cellular dynamics of bone remodeling: a mathematical model
+The micromechanics of fluid-solid interactions during growth in porous soft biological tissue
+Radiobiological investigations at tumor cell lines by exploiting chrono-biological aspects of chronological dose distributions
+Collective and single cell behavior in epithelial contact inhibition
+Finite element D modeling of mechanical behavior of mineralized collagen microfibrils
+Non-invasive estimation of the metabolic heat production of breast tumors using digital infrared imaging
+Propagating left right asymmetry in the zebrafish embryo: one-dimensional model
+An electromagnetic model for biological tissue
+Investigation of bone resorption within a cortical basic multicellular unit using a lattice-based computational model
+Modeling of biological doses and mechanical effects on bone transduction
+Self-organized transition to coherent activity in disordered media
+In vitro and in vivo antileishmanial efficacy of a combination therapy of diminazene and artesunate against Leishmania donovani in BALB c mice
+The Fundamental Theorem of Phyllotaxis revisited
+Force localization in contracting cell layers
+Bridging the gap between the micro- and the macro-world of tumors
+Velocity distribution of neutral particles ejected from biological material under ultra short laser radiation
+Correlating Cell Behavior with Tissue Topology in Embryonic Epithelia
+Neural network prediction of load from the morphology of trabecular bone
+Simulating Organogenesis in COMSOL
+Spontaneous sarcomere dynamics
+Craniofacial reconstruction as a prediction problem using a Latent Root Regression model
+Computational Models of Material Interfaces for the Study of Extracorporeal Shock Wave Therapy
+Undulation Instability of Epithelial Tissues
+Unidirectional Pinning and Hysteresis of Spatially Discordant Alternans in Cardiac Tissue
+Physically based D finite element model of a single mineralized collagen microfibril
+Branch Mode Selection during Early Lung Development
+Automated Estimation of Collagen Fibre Dispersion in the Dermis and its Contribution to the Anisotropic Behaviour of Skin
+Fibonacci numbers in phyllotaxis : a simple model
+Quantitation of Cellular Dynamics in Growing Arabidopsis Roots with Light Sheet Microscopy
+Model of pathogenesis of psoriasis. Part 1. Systemic psoriatic process
+Model of pathogenesis of psoriasis. Part 2. Local processes
+Immunity to Plasmodium knowlesi H strain malaria in olive baboons
+Estimating the age of renal tumors
+Mechanical identification of layer-specific properties of mouse carotid arteries using D-DIC and a hyperelastic anisotropic constitutive model
+Hypoxic Cell Waves around Necrotic Cores in Glioblastoma: A Biomathematical Model and its Therapeutic Implications
+Approximate invariance of metabolic energy per synapse during development in mammalian brains
+Possible origins of macroscopic left-right asymmetry in organisms
+Reconstruction of the D structure and developmental history of plant cells and tissues
+The effect of temporal pattern of injury on disability in learning networks
+An Analysis of the Methods Employed for Breast Cancer Diagnosis
+Mechanical Instabilities of Biological Tubes
+Immunomodulatory role of an Ayurvedic formulation on imbalanced immune-metabolics during inflammatory responses of obesity and pre-diabetic disease
+Vascular phyllotaxis transition and an evolutionary mechanism of phyllotaxis
+The Origin Evolution and Development of Bilateral Symmetry in Multicellular Organisms
+The effect of low doses of cadmium and zinc chloride on the Blood-Testis Barrier of Sprague Dawley rats
+How to Grow an Organism Inside-Out: Evolution of an internal skeleton from an external skeleton in bilateral organisms
+Immunoexpression of Nm2: correlation with traditional prognostic markers in breast carcinoma
+Colorectal cancers differ in respect of PARP-1 protein expression
+Diverse routes to oscillation death in a coupled oscillator system
+On drug transport after intravenous administration
+Mechanobiological regulation of bone remodeling -- Theoretical development of a coupled systems biology-micromechanical approach
+A Topological Phase Transition in the Scheidegger Model of River Networks
+Waves on Reissners membrane: a mechanism for the propagation of otoacoustic emissions from the cochlea
+On applications of conservation laws in pharmacokinetics
+Modelling the effect of gap junctions on tissue-level cardiac electrophysiology
+On the Way to More Convenient Description of Drug-Plasma Protein Binding
+Automated Image Analysis of Hodgkin lymphoma
+Simulations demonstrate a simple network to be sufficient to control branch point selection smooth muscle and vasculature formation during lung branching morphogenesis
+Pulsatile flow and heat transfer of a magneto-micropolar fluid through a stenosed artery under the influence of body acceleration
+Mathematical modelling of blood flow through a tapered overlapping stenosed artery with variable viscosity
+Wavelet-based multifractal analysis of laser biopsy imagery
+inc Uptake and Radial Transport in Roots of Arabidopsis thaliana: A Modelling Approach to Understand Accumulation
+Simulation Organogenesis in COMSOL: Deforming and Interacting Domains
+Analytical Solution of the Proprio-Graviceptive equation for shoot gravitropism of plants
+Acoustic Noise of MRI Scans of the Internal Auditory Canal and Potential for Intracochlear Physiological Changes
+Florigenic and antiflorigenic signalling in plants
+Nuclear flow in a filamentous fungus
+Novel multifunctional -labelled albumin magnetic microspheres for cancer therapy
+Digestion Modelling in the Small Intestine : Impact of Dietary Fibre
+Geometric interpretation of phyllotaxis transition
+Large variability in dynamical transitions in biological systems with quenched disorder
+A Behavioural Perspective on the Early Evolution of Nervous Systems: A Computational Model of Excitable Myoepithelia
+Physics of Wound Healing I: Energy Considerations
+Compartmental analysis of renal physiology using nuclear medicine data and statistical optimization
+Sodium Magnetic Resonance Imaging: Biomedical Applications
+Omni-tomography: Next-generation Biomedical Imaging
+Tsallis entropy approach to radiotherapy treatments
+Digit patterning during limb development as a result of the BMP-receptor interaction
+Multifractal age? Multifractal analysis of cardiac interbeat intervals in assessing of healthy aging
+Network representation of cardiac interbeat intervals for monitoring restitution of autonomic control for heart transplant patients
+In vitro investigation of the effects of - rays carried by a photon beam upon the cell cycle progression in Vero cells
+Comparative study of non-invasive force and stress inference methods in tissue
+Quantitative predictions on auxin-induced polar distribution of PIN proteins during vein formation in leaves
+A mathematical model of tumor self-seeding reveals secondary metastatic deposits as drivers of primary tumor growth
+The model muddle: in search of tumour growth laws
+Why sauropods had long necks and why giraffes have short necks
+Structure-property-function relationships in triple helical collagen hydrogels
+Microscopic and thermodynamic evaluation of vesicles shed by erythrocytes at elevated temperatures
+The Invalidity of the Laplace Law for Biological Vessels and of Estimating Elastic Modulus from Total Stress vs. Strain: a New Practical Method
+Characterising the Anisotropic Mechanical Properties of Excised Human Skin
+Postcranial pneumaticity in dinosaurs and the origin of the avian lung
+Multiscale model for the effects of adaptive immunity suppression on the viral therapy of cancer
+The Flexibility and Musculature of the Ostrich Neck: Implications for the Feeding Ecology and Reconstruction of the Sauropoda (Dinosauria:Saurischia)
+A High Rate Tension Device for Characterizing Brain Tissue
+Mechanical Characterization of Brain Tissue in Compression at Dynamic Strain Rates
+Aspects of the history anatomy taxonomy and palaeobiology of sauropod dinosaurs
+Reduction of wood hygroscopicity and associated dimensional response by repeated humidity cycles
+Self-similarity and long-time behavior of solutions of the diffusion equation with nonlinear absorption and a boundary source
+Modelling of impaired cerebral blood flow due to gaseous emboli
+Fluctuations and differential contraction during regeneration of Hydra vulgaris tissue toroids
+Temperature Effects on Brain Tissue in Compression
+Warburg Effect due to Exposure to Different Types of Radiation
+Starch metabolism and antiflorigenic signals modulate the juvenile-to-adult phase transition in Arabidopsis
+Imaging of non tumorous and tumorous human brain tissue with full-field optical coherence tomography
+On Systemic Destruction of Human Locomotor System
+Penetration Deep into Tissues of Reactive Oxygen Species Generated in Floating-Electrode Dielectric Barrier Discharge (FE-DBD): in Vitro Agarose Gel Model Mimicking an Open Wound
+A hexamer origin of the echinoderms five rays
+Senescent fibroblasts can drive melanoma initiation and progression
+WARN: an R package for quantitative reconstruction of weaning ages in archaeological populations using bone collagen nitrogen isotope ratios
+Tumor can originate from not only rare cancer stem cells
+Ovarian volume throughout life: a validated normative model
+A Systems Model of the Eco-physiological Response of Plants to Environmental Heavy Metal Concentrations
+Dynamics of Pulsed Flow in an Elastic Tube
+Advection diffusion and delivery over a network
+The Role of Osteocytes in Targeted Bone Remodeling: A Mathematical Model
+Asymmetric Rotational Stroke in Mouse Node Cilia during Left-Right Determination
+Arterial stiffening provides sufficient explanation for primary hypertension
+Exploiting ecological principles to better understand cancer progression and treatment
+Modeling the Dichotomy of the Immune Response to Cancer: Cytotoxic Effects and Tumor-Promoting Inflammation
+Moderate stem cell telomere shortening rate postpones cancer onset in stochastic model
+Mathematical modeling of the metastatic process
+Simulating Tissue Morphogenesis and Signaling
+Homogenization approach to water transport in plant tissues with periodic microstructures
+idney branching morphogenesis under the control of a ligand-receptor based Turing mechanism
+Vascular networks due to dynamically arrested crystalline ordering of elongated cells
+Compartmental analysis of nuclear imaging data for the quantification of FDG liver metabolism
+Cooperation and competition in the dynamics of tissue architecture during homeostasis and tumorigenesis
+Non-linear relationship of cell hit and transformation probabilities in low dose of inhaled radon progenies
+Defining a Simulation Strategy for Cancer Immunocompetence
+Time-of-flight secondary ion mass spectrometry-based molecular distribution distinguishing healthy and osteoarthritic human cartilage
+Quantitative Analysis of the Tumor Metastasis System and its Optimal Therapeutic Control
+Maximum Tolerated Dose Versus Metronomic Scheduling in the Treatment of Metastatic Cancers
+Morphological instabilities of stratified epithelia: a mechanical instability in tumour formation
+A mathematical model of the metabolic and perfusion effects on cortical spreading depression
+Dynamic Image-Based Modelling of idney Branching Morphogenesis
+A biomechanical modeling study of the effects of the orbicularis oris muscle and jaw posture on lip shape
+A Muscle Model Based on Feldmans Lambda Model: D Finite Element Implementation
+Glassy dynamics in three-dimensional embryonic tissues
+Realizing Bone-mass Generation Through a Density Type Theoretical Archetype
+Order intermittency and pressure fluctuations in a system of proliferating rods
+A Measure of Control for Secondary Cytokine-Induced Injury of Articular Cartilage: A Computational Study
+Intrinsic cell factors that influence tumourigenicity in cancer stem cells - towards hallmarks of cancer stem cells
+The Cancer Diaspora: Metastasis beyond the seed and soil hypothesis
+The Control of Branching Morphogenesis
+Reduction of breast cancer relapses with perioperative non-steroidal anti-inflammatory drugs: new findings and a review
+Determining equilibrium osmolarity in Poly(ethylene glycol) Chondrotin sulfate gels mimicking articular cartilage
+Senescent Cells in Growing Tumors: Population Dynamics and Cancer Stem Cells
+CCR a Newly Defined Biomarker of Tissue-Specific Stem Cell Asymmetric Self-Renewal Identifies More Aggressive Human Melanoma Cancer Stem Cells
+Computational and Experimental Study of the Mechanics of Embryonic Wound Healing
+Inter-dependent Tissue Growth and Turing Patterning in a Model for Long Bone Development
+Multifocality and recurrence risk: a quantitative model of field cancerization
+Multi-Agent Systems and Blood Cell Formation
+Simulating Organogenesis in COMSOL: Parameter Optimization for PDE-based models
+Measurement of acoustic and anatomic changes in oral and maxillofacial surgery patients
+Fractal growth of tumors and other cellular populations: Linking the mechanistic to the phenomenological modeling and vice versa
+A non-linear mathematical model of cell turnover differentiation and tumorigenesis in the intestinal crypt
+A general framework for modeling tumor-immune system competition and immunotherapy: mathematical analysis and biomedical inferences
+Mechanical Therapy as a Potential Green Way to Attack Cancer Disease
+A filter-flow perspective of hematogenous metastasis offers a non-genetic paradigm for personalized cancer therapy
+Precision and reproducibility of macroscopic developmental patterns
+Simulating Organogenesis in COMSOL: Cell-based Signaling Models
+Therapeutic hypothermia: quantification of the transition of core body temperature using the flexible mixture bent-cable model for longitudinal data
+A cascade of metabolic and protein folding gene loss at the base of Metazoa
+Post-processing of polymer foam tissue scaffolds with high power ultrasound: a route to increased pore interconnectivity pore size and fluid transport
+High Throughput Screening of Natural Phenolic Compounds Against Migration of Metastatic Triple-Negative Breast Cancer (TNBC) Cells
+A mathematical model of systemic inhibition of angiogenesis in metastatic development
+Determination Calculation and Representation of the Upper and Lower Sealing ones During Virtual Stenting of Aneurysms
+A mathematical model for fluid-glucose-albumin transport in peritoneal dialysis
+Simcluster: clustering enumeration gene expression data on the simplex space
+Manipulate the coiling and uncoiling movements of Lepidoptera proboscis by its conformation optimizing
+Modeling and Simulation of the Effects of Cyclic Loading on Articular Cartilage Lesion Formation
+Species-specific differences in follicular antral sizes result from diffusion-based limitations on the thickness of the granulosa cell layer
+Mod ele th eorique de la contraction musculaire squelettique : ressorts entropiques processus stochastiques et m ecanique classique (A theoretical model of skeletal muscular contraction : entropic springs stochastic processes and classical mechanics)
+Acute Respiratory Distress Syndrome is a TH1-like and Treg immune disease
+Experimental investigation of the trachea oscillation and its role in the pitch production
+The time-evolution of DCIS size distributions with applications to breast cancer growth and progression
+Model for tumour growth with treatment by continuous and pulsed chemotherapy
+A Bayesian approach to accounting for variability in mechanical properties in biomaterials
+Effects of space structure and combination therapies on phenotypic heterogeneity and drug resistance in solid tumors
+Minimizing Metastatic Risk in Radiotherapy Fractionation Schedules
+Tumour Control Probability in Cancer Stem Cells Hypothesis
+Raman spectroscopic detection of rapid reversible early-stage inflammatory cytokine-induced apoptosis of adult hippocampal progenitors stem cells
+How do digits emerge? - Mathematical Models of Limb Development
+Prediction of heart rate response to conclusion of spontaneous breathing trial by fluctuation dissipation theory
+Application of Computational Physics: Blood Vessel Constrictions and Medical Infuses
+The Tongue as an Excitable Medium
+A potential biomarker of androgen exposure in European bullhead (Cottus sp.) kidney
+Robustness of force and stress inference in an epithelial tissue
+Time-resolved and spectral-resolved optical imaging to study brain hemodynamics in songbirds
+Initial boundary-value problems of tumor growth within a host tissue
+Alternative Stable Scroll Waves and Conversion of Autowave Turbulence
+Evolution of spiral and scroll waves of excitation in a mathematical model of ischaemic border zone
+Mice Infected with Low-virulence Strains of Toxoplasma gondii Lose their Innate Aversion to Cat Urine Even after Extensive Parasite Clearance
+The syncytial Drosophila embryo as a mechanically excitable medium
+Symmetric vs asymmetric stem cell divisions: an adaptation against cancer?
+Biological radiation dose from secondary particles in a Milky Way gamma ray burst
+Liquid-Solid Phase Transition Alloy as Reversible and Rapid Molding Bone Cement
+Fine temporal structure of cardiorespiratory synchronization
+Mesoscopic and continuum modelling of angiogenesis
+Cytoskeletal turnover and Myosin contractility drive cell autonomous oscillations in a model of Drosophila Dorsal Closure
+Determination of personalized diabetes treatment plans using a two-delay model
+Multiscale approach including microfibril scale to assess elastic constants of cortical bone based on neural network computation and homogenization method
+Capillary Network Cancer and leiber Law
+Contractile and mechanical properties in epithelia with perturbed actomyosin dynamics
+Propagation of Uncertainty and Analysis of Signal-to-Noise in Nonlinear Compliance Estimations of an Arterial System Model
+oint fitting reveals hidden interactions in tumor growth
+Niche inheritance: a cooperative pathway to enhance cancer cell fitness though ecosystem engineering
+Modeling Of Blood Vessel Constriction In 2-D Case Using Molecular Dynamics Method
+Biophysical modelling of the effects of inhaled radon progeny on the bronchial epithelium for the estimation of the relationships applied in the two stage clonal expansion model of carcinogenesis
+Three-dimensional Multiscale Model of Deformable Platelets Adhesion to Vessel Wall in Blood Flow
+Estimation of erythrocyte surface area in mammals
+Thesis: The Effects of Hypoxia Metabolic Restriction and Magnetic Fields on Chromosome Instability and aryotype Contraction in Cancer Cell Lines
+Mechanical Properties of Growing Melanocytic Nevi and the Progression to Melanoma
+Bridging scales in cancer progression: Mapping genotype to phenotype using neural networks
+An ancestral axial twist explains the contralateral forebrain and the optic chiasm in vertebrates
+The influence of bone surface availability in bone remodelling - A mathematical model including coupled geometrical and biomechanical regulations of bone cells
+Endocortical bone loss in osteoporosis: The role of bone surface availability
+Bone refilling in cortical bone multicellular units: Insights into tetracycline double labelling from a computational model
+Liquid Metal Angiography for Mega Contrast -ray Visualization of Vascular Network
+Two-dimension tissue growth model based on circular granular cells for cells with small overlap
+The Electron Paramagnetic Resonance in the study of tissue specimens
+Functional optimization of the arterial network
+Ultrasmall Au1-12(SG)1-12 Nanomolecules for High Tumor Specificity and Cancer Radiotherapy
+Elastic free energy drives the shape of prevascular solid tumors
+Correlation of multiple sclerosis (MS) incidence trends with solar and geomagnetic indices: time to revise the method of reporting MS epidemiological data
+Glomerular protein separation as a mechanism for powering renal concentrating processes
+Collective motion of cells: from experiments to models
+Global Dormancy of Metastases Due to Systemic Inhibition of Angiogenesis
+A computational study of the effects of remodelled electrophysiology and mechanics on initiation of ventricular fibrillation in human heart failure
+Image-based Parameter Inference for Spatio-temporal models of Organogenesis
+Effect of low-intensity pulsed ultrasound on biocompatibility and cellular uptake of chitosan-TPP nanoparticles
+Low-level laser irradiation-induced changes in bovine spermatozoa
+Mathematical modeling applied to the left ventricle of heart
+A network model of correlated growth of tissue stiffening in pulmonary fibrosis
+Investigating the development of chemotherapeutic drug resistance in cancer: A multiscale computational study
+Emerging Allee effect in tumor growth
+Feedbacks Receptor Clustering and Receptor Restriction to Single Cells yield large Turing Spaces for Ligand-receptor based Turing Models
+Competition driven cancer immunoediting
+Mechanical cell-matrix feedback explains pairwise and collective endothelial cell behavior in vitro
+A hybrid mathematical model for self-organizing cell migration in the zebrafish lateral line
+Effective dynamics of twisted and curved scroll waves using virtual filaments
+Spatiotemporal Dynamics of Calcium-Driven Cardiac Alternans
+Immune Evasion through Competitive Inhibition: the Shielding Effect of non-Stem Cancer Cells
+Simulating Organogenesis in COMSOL: Image-based Modeling
+The physics of hearing: fluid mechanics and the active process of the inner ear
+Cochlear-bone wave can yield a hearing sensation as well as otoacoustic emission
+Cell resolved multiparticle model of plastic tissue deformations and morphogenesis
+A compact and versatile microfluidic probe for local processing of tissue sections and biological specimens
+No alignment of cattle along geomagnetic field lines found
+Travelling wave analysis of a mathematical model of glioblastoma growth
+A numerical model for the trans-membrane voltage of vesicles
+Classical Mathematical Models for Description and Prediction of Experimental Tumor Growth
+Parameter Synthesis for Cardiac Cell Hybrid Models Using Delta-Decisions
+The giant low-density lipoproteins (LDL) accumulation in the multi-layer artery wall model
+Micronucleus induction by 1 MHz Radiofrequency Radiation in Vicia faba root tips
+Dynamics of a Volvox Embryo Turning Itself Inside Out
+Mathematical modeling to elucidate brain tumor abrogation by immunotherapy with T11 target structure
+The role of cellular coupling in the spontaneous generation of electrical activity in uterine tissue
+Computational Screening of Angiogenesis Model Variants Predicts that Differential Chemotaxis Helps Tip Cells Move to the Sprout Tip and Accelerates Sprouting
+Reaction-diffusion-advection equation in binary tree networks and optimal size ratio
+Signal analysis of impulse response functions in MR- and CT-measurements of cerebral blood flow
+Annealing a Magnetic Cactus into Phyllotaxis
+Clonal selection and therapy resistance in acute leukemias: Mathematical modelling explains different proliferation patterns at diagnosis and relapse
+Fast cholesterol flip-flop and lack of swelling in skin lipid multilayers
+Stochastic model for computer simulation of the number of cancer cells and lymphocytes in homogeneous sections of cancer tumors
+Simulating Organogenesis: Algorithms for the Image-based Determination of Displacement Fields
+TiQuant: Software for tissue analysis quantification and surface reconstruction
+A Cellular Automaton Model for Tumor Dormancy: Emergence of a Proliferative Switch
+A Multidomain Model for Ionic Electrodiffusion and Osmosis with an Application to Cortical Spreading Depression
+Pearls Are Self-Organized Natural Ratchets
+Modeling and simulation of a low grade urinary bladder carcinoma
+Bubbly vertex dynamics: a dynamical and geometrical model for epithelial tissues with curved cell shapes
+Modeling the Heart as a Communication System
+Modeling the emergence of polarity patterns in meristemic auxin transport
+Modeling Age-Dependent Radiation-Induced Second Cancer Risks and Estimation of Mutation Rate: An Evolutionary Approach
+A poroelastic model of the lung
+Scaling and regeneration of self-organized patterns
+Connecting local active forces to macroscopic stress in elastic media
+Exact Modeling of Cardiovascular System Using Lumped Method
+High-throughput screening for modulators of cellular contractile force
+Spatial heterogeneity in drug concentrations can facilitate the emergence of resistance to cancer therapy
+Overt and covert paths for sound in the auditory system of mammals
+Osteocytes as a record of bone formation dynamics: A mathematical model of osteocyte generation in bone matrix
+Travelling wave solutions of the reaction-diffusion mathematical model of glioblastoma growth: An Abel equation based approach
+Emergence of Anti-Cancer Drug Resistance: Exploring the Importance of the Microenvironmental Niche via a Spatial Model
+Scaling of phloem structure and optimality of photoassimilate transport in conifer needles
+Gastric Slow Wave Modelling Based on Stomach Morphology and Neuronal Firings
+A Stochastic Model for the Normal Tissue Complication Probability (NTCP) in Radiation Treatment of Cancer
+A Pilot Clinical Study to Investigate the Human Whole Blood Spectrum Characteristics in the Sub-THz Region
+Correlations between Chondroitin Sulfate Physicochemical Properties and its in-vitro Absorption and Anti-inflammatory Activity
+Mathematical modeling of type 1 diabetes in the NOD mouse: separating incidence and age of onset
+Stochastic biophysical modeling of irradiated cells
+Hybrid modeling of tumor-induced angiogenesis
+A Simple Model for Identifying Critical Structures in Atrial Fibrillation
+Localised auxin peaks in concentration-based transport models of the shoot apical meristem
+Core regulatory network motif underlies the ocellar complex patterning in Drosophila melanogaster
+Optimal villi density for maximal oxygen uptake in the human placenta
+Collective Dynamics of Dividing Chemotactic Cells
+Towards a Radio-guided Surgery with beta - Decays: Uptake of a somatostatin analogue (DOTATOC) in Meningioma and High Grade Glioma
+Cancer Metastasis: Collective Invasion in Heterogeneous Multicellular Systems
+A Mathematical Model for Lymphangiogenesis in Normal and Diabetic Wounds
+Patterned and Functionalized Nanofiber Scaffolds in Three-Dimensional Hydrogel Constructs Enhance Neurite Outgrowth and Directional Control
+A fully resolved active musculo-mechanical model for esophageal transport
+Analysis of the nutrient uptake by roots in fixed volume of soil as predicted by fixed boundary moving boundary and architectural models
+A note on the capability profile - localized increase in force production and its effect on overall resistance training performance
+Immersed boundary-finite element model of fluid-structure interaction in the aortic root
+Statistical Problems in a Paper on Variation In Cancer Risk Among Tissues and New Discoveries
+Strabismic syndromes and syndromic strabismus - a brief review
+Ion mediated crosslink driven mucous swelling kinetics
+Chapter  TISSUE ENGINEERING
+Morphometric analyses of the visual pathways in macular degeneration
+Hierarchy in Gene Expression is Predictive for Adult Acute Myeloid Leukemia
+Modelling the anabolic response of bone using a cell population model
+Global metabolic optimality in the structure of the coronary arteries
+Analytical theory of oxygen transfer in the human placenta
+Regulation of biological tissue mineralization through post-nucleation shielding
+Musings on the theory that variation in cancer risk among tissues can be explained by the number of divisions of normal stem cells
+Statistical interpretations and new findings on Variation in Cancer Risk Among Tissues
+Towards the modeling of mucus draining from human lung: role of airways deformation on air-mucus interaction
+A Brief Comparison Between Available Bio-printing Methods

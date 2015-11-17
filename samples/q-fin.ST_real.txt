@@ -1,0 +1,1543 @@
+Analysis of the real estate market in Las Vegas: Bubble seasonal patterns and prediction of the CSW indexes
+Collective behavior of stock price movements in an emerging market
+Financial time-series analysis: A brief overview
+Change point estimation for the telegraph process observed at discrete times
+The log-normal distribution from Non-Gibrat's law in the middle scale region of profits
+Kolkata Restaurant Problem as a generalised El Farol Bar Problem
+On a generalised model for time-dependent variance with long-term memory
+Kullback-Leibler distance as a measure of the information filtered from multivariate data
+Are all highly liquid securities within the same class?
+Long Memory in Nonlinear Processes
+Multifractality in stock indexes: Fact or fiction?
+Nonlinear behavior of the Chinese SSEC index with a unit root: Evidence from threshold unit root tests
+Credit risk - A structural model with jumps and correlations
+A Bayesian Framework for Combining Valuation Estimates
+Information flow between composite stock index and individual stocks
+The Local Fractal Properties of the Financial Time Series on the Polish Stock Exchange Market
+Group dynamics of the Japanese market
+Fine-tune your smile: Correction to Hagan et al
+Empirical distributions of Chinese stock returns at different microscopic timescales
+Time reversal invariance in finance
+Fast estimation of multivariate stochastic volatility
+An empirical behavioral model of liquidity and volatility
+Are volatility estimators robust with respect to modeling assumptions?
+Entropy and Uncertainty Analysis in Financial Markets
+A Comparative Study of Stochastic Volatility Models
+Relaxation dynamics of aftershocks after large volatility shocks in the SSEC index
+Relative and Discrete Utility Maximising Entropy
+Influence of deterministic trend on the estimated parameters of GARCH(1 1) model
+Statistical Investigation of Connected Structures of Stock Networks in Financial Time Series
+Topological Properties of Stock Networks Based on Random Matrix Theory in Financial Time Series
+Measuring Volatility Clustering in Stock Markets
+Shrinkage and spectral filtering of correlation matrices: a comparison via the Kullback-Leibler distance
+The Student ensemble of correlation matrices: eigenvalue spectrum and Kullback-Leibler entropy
+Quasistatically varying log-normal distribution in the middle scale region of Japanese land prices
+Martingales the Efficient Market Hypothesis and Spurious Stylized Facts
+Moment Methods for Exotic Volatility Derivatives
+Multifractality in the Random Parameters Model
+Empirics versus RMT in financial cross-correlations
+Likelihood-based inference for correlated diffusions
+Effective multifractal features and l-variability diagrams of high-frequency price fluctuations time series
+A threshold model of financial markets
+Arbitrage free cointegrated models in gas and oil future markets
+Two Fractal Overlap Time Series: Earthquakes and Market Crashes
+Effect of Asian currency crisis on multifractal spectra
+Parametric and nonparametric models and methods in financial econometrics
+Multifractal analysis of Chinese stock volatilities based on partition function approach
+Econometrics as Sorcery
+From short to fat tails in financial markets: A unified description
+Forecasting volatility with the multifractal random walk model
+Multivariate stochastic volatility with Bayesian dynamic linear models
+Forecasting with time-varying vector autoregressive models
+Multivariate stochastic volatility using state space models
+Current log-periodic view on future world market development
+Modified Holder Exponents Approach to Prediction of the USA Stock Market Critical Points and Crashes
+Cross-correlations in Warsaw Stock Exchange
+Double Power Law Decay of the Persistence in Financial Markets
+Different fractal properties of positive and negative returns
+Return interval distribution of extreme events and long term memory
+Stock price jumps: news and volume play a minor role
+Multifractal detrended cross-correlation analysis for two nonstationary signals
+Comment on Tests of scaling and universality of the distributions of trade size and share volume: Evidence from three distinct markets by Plerou and Stanley Phys. Rev. E  0109 (200)
+Integration I(d) of Nonstationary Time Series: Stationary and nonstationary increments
+ARCH and GARCH Models vs. Martingale Volatility of Finance Market Returns
+Estimating correlation from high low opening and closing prices
+Log-Normal continuous cascades: aggregation properties and estimation. Application to financial time-series
+Multivariate Feller conditions in term structure models: Why do(n't) we care?
+Mathematical analysis of long tail economy using stochastic ranking processes
+Topological identification in networks of dynamical systems
+Scaling in the distribution of intertrade durations of Chinese stocks
+A Theory for Market Impact: How Order Flow Affects Stock Price
+Theory of market fluctuations
+GARCH modelling in continuous time for irregularly spaced time series data
+The structural role of weak and strong links in a financial market network
+Coherence-based multivariate analysis of high frequency stock market values
+Productivity Dispersion: Facts Theory and Implications
+Using self-similarity and renormalization group to analyze time series
+The exponentially truncated q-distribution: A generalized distribution for real complex systems
+The escape problem under stochastic volatility: the Heston model
+Quantitative comparisons between finitary posterior distributions and Bayesian posterior distributions
+Random matrix theory and the evolution of business cycle synchronisation 188-200
+The evolution of EU business cycle synchronisation 1981-200
+Market dynamics after large financial crash
+Joint analysis and estimation of stock prices and trading volume in Barndorff-Nielsen and Shephard stochastic volatility models
+Asymptotic analysis for a simple explicit estimator in Barndorff-Nielsen and Shephard stochastic volatility models
+Financial Time Series Analysis of SV Model by Hybrid Monte Carlo
+Decomposition of order statistics of semimartingales using local times
+The distribution of first-passage times and durations in FOREX and future markets
+Changes in the Distribution of Income Volatility
+Heterogeneous expectations and long range correlation of the volatility of asset returns
+Dynamic scaling approach to study time series fluctuations
+Criticality Characteristics of Current Oil Price Dynamics
+Multiscaling behavior in the volatility return intervals of Chinese indices
+Minimal Spanning Tree graphs and power like scaling in FOREX networks
+Fractality feature in oil price fluctuations
+Graphical models for correlated defaults
+Smile dynamics -- a theory of the implied leverage effect
+Labour Productivity Superstatistics
+Clustering of discretely observed diffusion processes
+Stock market volatility: An approach based on Tsallis entropy
+Measuring the non-stopping timeness of ends of previsible sets
+Volatility Effects on the Escape Time in Financial Market Models
+Serial correlation and heterogeneous volatility in financial markets: beyond the LeBaron effect
+Exact prediction of S P 500 returns
+On non-existence of a one factor interest rate model for volatility averaged generalized Fong-Vasicek term structures
+Locally adaptive estimation methods with application to univariate time series
+Correlated Random Walks and the Joint Survival Probability
+On the Consistency of the Deterministic Local Volatility Function Model ('implied tree')
+Statistical characterization of the fixed income market efficiency
+A Stochastic Cascade Model for FX Dynamics
+Correlation structure of extreme stock returns
+Fractal Properties in Economics
+A multivariate multifractal model for return fluctuations
+High-frequency Cross-correlation in a Set of Stocks
+Fluctuations Of WIG-the index of Warsaw Stock Exchange. Preliminary studies
+Power Laws are Boltzmann Laws in Disguise
+Identifying Business Sectors from Stock Price Fluctuations
+Hamiltonian in Financial Markets
+Microstructure Effects on Daily Return Volatility in Financial Markets
+Multi-dimensional Rational Bubbles and fat tails: application of stochastic regression equations to financial speculation
+Multifractal fluctuations in finance
+False EUR exchange rates vs. DKK CHF JPY and USD. What is a strong currency?
+Dynamics of correlations in the stock market
+Measuring long-range dependence in electricity prices
+Correlations Between Reconstructed EUR Exchange Rates vs. CHF DKK GBP JPY and USD
+Market price simulator based on analog electrical circuit
+Variety of Stock Returns in Normal and Extreme Market Days: The August 1998 Crisis
+Anticorrelations subbrownian stochastic drift and 1 f-like spectra in stable financial systems
+Algorithmic Complexity in Real Financial Markets
+Empirical investigation of a quantum field theory of forward rates
+Significance of log-periodic precursors to financial crashes
+Correlation Structure and Fat Tails in Finance: a New Mechanism
+Financial Market Dynamics
+Measuring Anti-Correlations in the Nordic Electricity Spot Market by Wavelets
+Asset-asset interactions and clustering in financial markets
+Imitation and contrarian behavior: hyperbolic bubbles crashes and chaos
+Nucleation of Market Shocks in Sornette-Ide model
+Power law relaxation in a complex system: Omori law after a financial market crash
+Return or stock price differences
+Identifying Complexity by Means of Matrices
+The origin of fat tailed distributions in financial time series
+Modelling share volume traded in financial markets
+Non-L 'evy Distribution of Commodity Price Fluctuations
+Stochastic volatility and leverage effect
+Optimal Investment Horizons
+Probability distribution of returns in the Heston model with stochastic volatility
+Investigating Extreme Dependences: Concepts and Tools
+Anticorrelations and subdiffusion in financial systems
+Volatility fingerprints of large shocks: Endogeneous versus exogeneous
+Dissecting financial markets: Sectors and states
+Stock Market Scale by Artificial Insymmetrised Patterns
+Are the contemporary financial fluctuations sooner converging to normal?
+Statistical properties of the Jakarta and Kuala Lumpur stock exchange indices before and after crash
+The US 2000-2002 Market Descent: How Much Longer and Deeper?
+Kinematics of stock prices
+Statistical Bounds on Equity
+Dynamics of a financial market index after a crash
+Collective Origin of the Coexistence of Apparent RMT Noise and Factors in Large Sample Correlation Matrices
+A continuous time random walk model for financial distributions
+Inverse Statistics in Economics : The gain-loss asymmetry
+Evidence of a Worldwide Stock Market Log-Periodic Anti-Bubble Since Mid-2000
+Deterministic and stochastic influences on Japan and US stock and foreign exchange markets. A Fokker-Planck approach
+Multiple time scales in volatility and leverage correlations: An stochastic volatility model
+Using the Scaling Analysis to Characterize Financial Markets
+Significance of log-periodic signatures in cumulative noise
+Bose-Einstein Condensation in Financial Systems
+Time-scale dependence of correlations among foreign currencies
+Fitting the Power-law Distribution to the Mexican Stock Market index data
+Herd Behavior of Returns in the Futures Exchange Market
+Using Recurrent Neural Networks To Forecasting of Forex
+Predictability of large future changes in major financial indices
+The US 2000-2003 Market Descent: Clarifications
+Multifractal Features in the Foreign Exchange and Stock Markets
+Weak vs. Strong Correlations: Bid-Ask Spreads for Weather-Contingent Options
+Risk aversion in financial decisions: A nonextensive approach
+Alternation of different fluctuation regimes in the stock market dynamics
+The CTRW in finance: Direct and inverse problems with some generalizations and extensions
+On the origin of power law tails in price fluctuations
+Testing the Stability of the 2000-2003 US Stock Market Antibubble
+The long memory of the efficient market
+Volatility and Returns in Korean Futures Exchange Markets
+Antibubble and Prediction of China's stock market and Real-Estate
+Asymptotic behavior of the Daily Increment Distribution of the IPC the Mexican Stock Market Index
+Superstatistics in Econophysics
+Causal Slaving of the U.S. Treasury Bond Yield Antibubble by the Stock Market Antibubble of August 2000
+Exponential distribution of financial returns at mesoscopic time lags: a new stylized fact
+Modelling Correlations in Portfolio Credit Risk
+A perturbative moment approach to option pricing
+Common Underlying Dynamics in an Emerging Market: From Minutes to Months
+Critical Ising Model and Financial Market
+Exponential Weighting and Random-Matrix-Theory-Based Filtering of Financial Covariance Matrices for Portfolio Optimization
+Value-at-Risk and Tsallis statistics: risk analysis of the aerospace sector
+Removing noise from correlations in multivariate stock price data
+Complex Behavior of Stock Markets: Processes of Synchronization and Desynchronization during Crises
+Stylized Statistical Facts of Indonesian Financial Data: Empirical Study of Several Stock Indexes in Indonesia
+On non-markovian nature of stock trading
+On anomalous distributions in intra-day financial time series and Non-extensive Statistical Mechanics
+Long term memories of developed and emerging markets: using the scaling analysis to characterize their stage of development
+Multifractal model of asset returns with leverage effect
+Serial Correlation Periodicity and Scaling of Eigenmodes in an Emerging Market
+Herd Behaviors in Financial Markets
+Multifractal Measures for the Yen-Dollar Exchange Rate
+ipf's Law Distributions for Korean Stock Prices
+Volatility smile and stochastic arbitrage returns
+Properties of low variability periods in financial time series
+Short-term market reaction after extreme price changes of liquid stocks
+Scaling Properites of Price Changes for Korean Stock Indices
+Multifractal Analysis and Local Hoelder Exponents Approach to Detecting Stock Markets Crashes
+How the trading activity scales with the company sizes in the FTSE 100
+A Guided Walk Down Wall Street: an Introduction to Econophysics
+Non-parametric Determination of Real-Time Lag Structure between Two Time Series: the Optimal Thermal Causal Path Method
+Multiscaling and non-universality in fluctuations of driven complex systems
+Phase Transition of Dynamical Herd Behaviors in Financial Markets
+Dynamical Volatilities for Yen-Dollar Exchange Rates
+On distribution of number of trades in different time windows in the stock market
+A Theory of Fluctuations in Stock Prices
+Experts' earning forecasts: bias herding and gossamer information
+Inverse statistics in stock markets: Universality and idiosyncracy
+Statistical analysis of the price index of Tehran Stock Exchange
+Non linear behaviour of stock market volatility
+Power Law Distributions for Stock Prices in Financial Markets
+A multi-time scale non-Gaussian model of stock returns
+Modelling financial markets by the multiplicative sequence of trades
+Five Years of Continuous-time Random Walks in Econophysics
+The Dynamics of Financial Markets -- Mandelbrot's multifractal cascades and beyond
+Scaling analysis of multivariate intermittent time series
+Multiple time scales and the exponential Ornstein-Uhlenbeck stochastic volatility model
+Volatility conditional on price trends
+Importance of Positive Feedbacks and Over-confidence in a Self-Fulfilling Ising Model of Financial Markets
+Sector identification in a set of stock return time series traded at the London Stock Exchange
+Eigenvalue density of empirical covariance matrix for correlated samples
+Analysis of delay correlation matrices
+Detecting long and short memory via spectral methods
+Geometrical Brownian Motion Driven by Color Noise
+Scaling and correlation in financial data
+Scaling in stock market data: stable laws and beyond
+Correlations in Economic Time Series
+Volatility distribution in the S P500 Stock Index
+From turbulence to financial time series
+Statistical Analysis of the Stock Index of the Budapest Stock Exchange
+Phenomenology of the Interest Rate Curve
+Rational Decisions Random Matrices and Spin Glasses
+Fixed Points in Self-Similar Analysis of Time Series
+Modeling of Financial Data: Comparison of the Truncated L 'evy Flight and the ARCH(1) and GARCH(1 1) processes
+Scaling Laws for the Market Microstructure of the Interdealer Broker Markets
+Multiscale behaviour of volatility autocorrelations in a financial market
+Minimizing volatility increases large risks
+Critical Crashes
+Efficiency in foreign exchange markets
+Volatility in the Italian Stock Market: an Empirical Study
+Scaling transformation and probability distributions for financial time series
+Have your cake and eat it too: increasing returns while lowering large risks
+Statistical Properties of Statistical Ensembles of Stock Returns
+Market Fluctuations: multiplicative and percolation models size effects and predictions
+On Rational Bubbles and Fat Tails
+Analysis of Stochstic Evolution
+Static Arbitrage Bounds on Basket Option Prices
+Consistent Estimation of Pricing Kernels from Noisy Price Data
+Short-term equity dynamics and endogenous market fluctuations
+Analysis of a Class of Likelihood Based Continuous Time Stochastic Volatility Models including Ornstein-Uhlenbeck Models in Financial Economics
+A note on exact likelihoods of the Carr-Wu models for leverage effects and volatility in financial economics
+Properties of option prices in models with jumps
+A filtering approach to tracking volatility from prices observed at random times
+Nonlinearity correlation and the valuation of employee stock options
+A data-reconstructed fractional volatility model
+Imbalance attractors for a strategic model of market microstructure
+Hybrid dynamics for currency modeling
+The minimal entropy martingale measure for general Barndorff-Nielsen Shephard models
+Identifying the covariation between the diffusion parts and the co-jumps given discrete observations
+The distribution of a linear predictor after model selection: Unconditional finite-sample distributions and asymptotic approximations
+ANOVA for diffusions and It o processes
+A filtering approach to tracking volatility from prices observed at random times
+Continuous-time mean-variance efficiency: the 80 rule
+Some applications and methods of large deviations in finance and insurance
+Estimation errors of the Sharpe ratio for long-memory stochastic volatility models
+Combining domain knowledge and statistical models in time series analysis
+Multivariate volatility models
+Asymptotic arbitrage and num 'eraire portfolios in large financial markets
+Tails of random sums of a heavy-tailed number of light-tailed terms
+Least-Squares Prices of Games
+A Limit Theorem for Financial Markets with Inert Investors
+Queueing Theoretic Approaches to Financial Price Fluctuations
+Estimating the Fractal Dimension of the S P 500 Index using Wavelet Analysis
+On multifractality and fractional derivatives
+Forecasting non-stationary financial time series through genetic algorithm
+Difference in nature of correlation between NASDAQ and BSE indices
+Optimization of Trading Physics Models of Markets
+Dynamics of market indices Markov chains and random walking problem
+A Quantum Approach to Stock Price Fluctuations
+Empirical Distributions of Log-Returns: between the Stretched Exponential and the Power Law?
+Foreign exchange market fluctuations as random walk in demarcated complex plane
+Statistical Properties of Demand Fluctuation in the Financial Market
+Prediction oriented variant of financial log-periodicity and speculating about the stock market development until 2010
+Systematic analysis of group identification in stock markets
+Non-trivial scaling of fluctuations in the trading activity of NYSE
+Conditional Probability as a Measure of Volatility Clustering in Financial Time Series
+Stock Mechanics: a classical approach
+Self-fulfilling Ising Model of Financial Markets
+Application of noise level estimation for portfolio optimization
+The Quantitative Relations between Stock Prices and Quantities of Tradable Stock Shares and Its Applications
+Characteristics of the Korean stock market correlations
+Hausdorff clustering of financial time series
+Leptokurtic Portfolio Theory
+Detecting subtle effects of persistence in the stock market dynamics
+What can we see from Investment Simulation based on Generalized (m 2)-ipf law?
+Analyzing money distributions in ideal gas' models of markets
+Fundamental Factors versus Herding in the 2000-2005 US Stock Market and Prediction
+On collective non-gaussian dependence patterns in high frequency financial data
+Boltzmann-Gibbs Distribution of Fortune and Broken Time-Reversible Symmetry in Econodynamics
+Comparison of volatility distributions in the periods of booms and stagnations: an empirical study on stock price indices
+The Geometry of Crashes - A Measure of the Dynamics of Stock Market Crises
+Impact of Investor's Varying Risk Aversion on the Dynamics of Asset Price Fluctuations
+Cluster analysis for portfolio optimization
+Volatility Persistence and Survival in Financial Markets
+Scaling and data collapse for the mean exit time of asset prices
+On a multi-timescale statistical feedback model for volatility fluctuations
+Financial Applications of Random Matrix Theory: Old Laces and New Pieces
+Stock mechanics: energy conservation theory and the fundamental line of DJIA
+Size matters: some stylized facts of the stock market revisited
+Modeling a foreign exchange rate using moving average of Yen-Dollar market data
+Impact of Stock Market Structure on Intertrade Time and Price Dynamics
+Waiting-time distribution for a stock-market index
+Transfer Entropy Analysis of the Stock Market
+Potentials of Unbalanced Complex Kinetics Observed in Market Time Series
+A characteristic time scale of tick quotes on foreign currency markets
+Random Matrix Filtering in Portfolio Optimization
+There's more to volatility than volume
+Financial Markets and Persistence
+Time series of stock price and of two fractal overlap: Anticipating market crashes?
+Scaling theory of temporal correlations and size dependent fluctuations in the traded value of stocks
+On statistical properties of traded volume in financial markets
+Inverse Statistics for Stocks and Markets
+Scaling and memory of intraday volatility return intervals in stock market
+Dynamics of the return distribution in the Korean financial market
+Description of dynamics of stock prices by a Langevin approach
+Grouping in the stock markets of Japan and Korea
+Large dimension forecasting models and random singular value spectra
+Volatility of an Indian stock market : A random matrix approach
+Limitations of scaling and universality in stock market data
+Dynamical Stochastic Processes of Returns in Financial Markets
+Dynamical Structures of High-Frequency Financial Data
+On the multi-fractal structure of traded volume in financial markets
+Non Poisson intermittent events in price formation
+Market Mill Dependence Pattern in the Stock Market: Asymmetry Structure Nonlinear Correlations and Predictability
+Statistical Properties of the Returns of Stock Prices of International Markets
+How many independent bets are there?
+Long-term Memory and Volatility Clustering in Daily and High-frequency Price Changes
+A nonextensive approach to the dynamics of financial observables
+Stock mechanics: theory of conservation of total energy and predictions of coming short-term fluctuations of Dow Jones Industrials Average (DJIA)
+An elementary model of price dynamics in a financial market: Distribution Multiscaling Entropy
+The Exponent Expansion: An Effective Approximation of Transition Probabilities of Diffusion Processes and Pricing Kernels of Financial Derivatives
+The Process of price formation and the skewness of asset returns
+Stock mechanics: unification with economy
+Nonextensive statistical features of the Polish stock market fluctuations
+Why do Hurst exponents of traded value increase as the logarithm of company size?
+Market Mill Dependence Pattern in the Stock Market: Distribution Geometry Moments and Gaussization
+Statistical properties of daily ensemble variables in the Chinese stock markets
+Asymmetric matrices in an analysis of financial correlations
+Multifractal Model of Asset Returns versus real stock market dynamics
+Optimal approximations of power-laws with exponentials
+An Outlook on Correlations in Stock Prices
+Correlation based networks of equity returns sampled at different time horizons
+Complexity characteristics of currency networks
+Queueing theoretical analysis of foreign currency exchange rates
+Correlation matrix decomposition of WIG20 intraday fluctuations
+Aging in Financial Market
+Long-range memory model of trading activity and volatility
+Liquidity and the multiscaling properties of the volume traded on the stock market
+Self-organization of price fluctuation distribution in evolving markets
+Inverse cubic law of index fluctuation distribution in Indian markets
+Trend arbitrage bid-ask spread and market dynamics
+Bayesian Analysis of the Conditional Correlation Between Stock Index Returns with Multivariate SV Models
+Long-term memory in the Irish market (ISEQ): evidence from wavelet analysis
+Long-range dependence in Interest Rates and Monetary Policy
+Econophysics of interest rates and the role of monetary policy
+Risk measures with non-Gaussian fluctuations
+Mean Exit Time and Survival Probability within the CTRW Formalism
+Minimum Entropy Density Method for the Time Series Analysis
+Critical dynamics and global persistence exponent on Taiwan financial market
+Multifractal Properties of the Ukraine Stock Market
+Violation of market efficiency in transition economies
+Comparison of gain-loss asymmetry behavior for stocks and indexes
+Mixtures of compound Poisson processes as models of tick-by-tick financial data
+The art of fitting financial time series with Levy stable distributions
+Coupled continuous time random walks in finance
+Stochastic volatility of financial markets as the fluctuating rate of trading: an empirical study
+Dynamics of the Warsaw Stock Exchange index as analysed by the nonhomogeneous fractional relaxation equation
+Random matrix ensembles of time-lagged correlation matrices: Derivation of eigenvalue spectra and analysis of financial time-series
+Entropy of the Nordic electricity market: anomalous scaling spikes and mean-reversion
+The Why of the applicability of Statistical Physics to Economics
+Correlation Structures of Correlated Binomial Models and Implied Default Distribution
+Extreme times for volatility processes
+Scale invariant multiplier and multifractality of absolute returns in stock markets
+Unexpected volatility and intraday serial correlation
+Volatility and dividend risk in perpetual American options
+Non-Stationary Covariance Matrices And Noise
+The continuous time random walk formalism in financial markets
+Phase transition in the globalization of trade
+Forecasting extreme events in collective dynamics: an analytic signal approach to detecting discrete scale invariance
+Topological Properties of the Minimal Spanning Tree in Korean and American Stock Markets
+Volatility: a hidden Markov process in financial time series
+A Probability Density Function for Google's stocks
+Volatility Dynamics of Wavelet-Filtered Stock Prices
+Characterizing and modeling cyclic behavior in non-stationary time series through multi-resolution analysis
+Quantifying bid-ask spreads in the Chinese stock market using limit-order book data: Intraday pattern probability distribution long memory and multifractal nature
+Random but not so much: A parameterization for the returns and correlation matrix of financial time series
+The market efficiency in the stock markets
+Waiting time analysis of foreign currency exchange rates: Beyond the renewal-reward theorem
+Endogenous and exogenous dynamics in the fluctuations of capital fluxes: An empirical analysis of the Chinese stock market
+Yet on statistical properties of traded volume: correlation and mutual information at different value magnitudes
+Bayesian estimation of GARCH model by hybrid Monte Carlo
+Fluctuation scaling versus gap scaling
+A Closed-Form Approximation of Likelihood Functions for Discretely Sampled Diffusions: the Exponent Expansion
+Modeling the Epps effect of cross correlations in asset prices
+Measuring Value in Healthcare
+On discrete stochastic processes with long-lasting time dependence
+Statistical properties of volatility return intervals of Chinese stocks
+Evidence for the Gompertz Curve in the Income Distribution of Brazil 198-2005
+The alchemy of probability distributions: beyond Gram-Charlier expansions and a skew-kurtotic-normal distribution from a rank transmutation map
+Stochastic Volatility Models Including Open Close High and Low Prices
+Superstatistics of Labour Productivity in Manufacturing and Nonmanufacturing Sectors
+Visualizing a large-scale structure of production network by N-body simulation
+Increasing market efficiency: Evolution of cross-correlations of stock returns
+The Power-law Tail Exponent of Income Distributions
+On the origin of the Epps effect
+A case study of speculative financial bubbles in the South African stock market 2003-200
+Econophysics Statistical Mechanics Approach to
+Flexible least squares for temporal data mining and statistical arbitrage
+Direct evidence for inversion formula in multifractal financial volatility measure
+On the probability distribution of stock returns in the Mike-Farmer model
+Breakdown of the mean-field approximation in a wealth distribution model
+From Physics to Economics: An Econometric Example Using Maximum Relative Entropy
+Structure and evolution of the foreign exchange networks
+A k-generalized statistical mechanics approach to income analysis
+Correction to Leverage and volatility feedback effects in high-frequency data J. Financial Econometrics  (200) 353--38
+The Effects of Market Properties on Portfolio Diversification in the Korean and Japanese Stock Markets
+Cross-correlation of long-range correlated series
+Multifactor Analysis of Multiscaling in Volatility Return Intervals
+Universality in the stock exchange
+A multiscale view on inverse statistics and gain loss asymmetry in financial time series
+Preferred numbers and the distribution of trade sizes and trading volumes in the Chinese stock market
+Mechanical Model of Personal Income Distribution
+A dynamic nonlinear model for saturation in industrial growth
+What is the best firm size to invest?
+The empirical properties of large covariance matrices
+Inference on multivariate ARCH processes with large sizes
+Monte Carlo sampling given a Characteristic Function: Quantile Mechanics in Momentum Space
+Financial Atoms and Molecules
+Unemployment and inflation in Western Europe: solution by the boundary element method
+Detrending Moving Average variance: a derivation of the scaling law
+Threshold levels in Economics
+The Quantification of Operational Risk using Internal Data Relevant External Data and Expert Opinions
+Regime Switching Volatility Calibration by the Baum-Welch Method
+Macroeconomic Phase Transitions Detected from the Dow Jones Industrial Average Time Series
+Emergence of long memory in stock volatility from a modified Mike-Farmer model
+Dynamic modeling of mean-reverting spreads for statistical arbitrage
+Bayesian Analysis of Value-at-Risk with Product Partition Models
+Statistical properties of information flow in financial time series
+Structure and temporal change of the credit network between banks and large firms in Japan
+The effect of a market factor on information flow between stocks using minimal spanning tree
+Indication of multiscaling in the volatility return intervals of stock markets
+Smearing Distributions and their use in Financial Markets
+Correlated continuous time random walks
+Effect of changing data size on eigenvalues in the Korean and Japanese stock markets
+The Spread of the Credit Crisis: View from a Stock Correlation Network
+A mathematical proof of the existence of trends in financial time series
+Statistical analysis of the overnight and daytime return
+On the short-term influence of oil price changes on stock markets in GCC countries: linear and nonlinear analyses
+Stock market integration in the Latin American markets: further evidence from nonlinear modeling
+Are Stock Markets Integrated? Evidence from a Partially Segmented ICAPM with Asymmetric Effects
+Stock Market and Motion of a Variable Mass Spring
+Trading leads to scale-free self-organization
+Asymptotic Behavior of the Stock Price Distribution Density and Implied Volatility in Stochastic Volatility Models
+Analysis of a network structure of the foreign currency exchange market
+Spiraling toward market completeness and financial instability
+Perpetual American vanilla option pricing under single regime change risk. An exhaustive study
+On properties of Continuous-Time Random Walks with Non-Poissonian jump-times
+An Adaptive Markov Chain Monte Carlo Method for GARCH Model
+The Chinese Equity Bubble: Ready to Burst
+A model of returns for the post-credit-crunch reality: Hybrid Brownian motion with price feedback
+Statistical Signatures in Times of Panic: Markets as a Self-Organizing System
+Market impact and trading profile of large trading orders in stock markets
+Most Efficient Homogeneous Volatility Estimators
+The Ups and Downs of Modeling Financial Time Series with Wiener Process Mixtures
+Probability of Large Movements in Financial Markets
+Superstatistical fluctuations in time series: Applications to share-price dynamics and turbulence
+Scaling and memory in the return intervals of realized volatility
+Bayesian Inference on QGARCH Model Using the Adaptive Construction Scheme
+Financial bubbles analysis with a cross-sectional estimator
+Effects of the globalization in the Korean financial markets
+The Epps effect revisited
+A long-range memory stochastic model of the return in financial markets
+Empirical regularities of opening call auction in Chinese stock market
+Eroding market stability by proliferation of financial instruments
+Wavelet Based Volatility Clustering Estimation of Foreign Exchange Rates
+Financial Applications of Random Matrix Theory: a short review
+Statistical mixing and aggregation in Feller diffusion
+Activity Dependent Branching Ratios in Stocks Solar X-ray Flux and the Bak-Tang-Wiesenfeld Sandpile Model
+Multifractal analysis and instability index of prior-to-crash market situations
+Complex Systems: From Nuclear Physics to Financial Markets
+Fractional calculus and continuous-time finance
+Taxonomy of Stock Market Indices
+Domino effect for world market fluctuations
+Increments of Uncorrelated Time Series Can Be Predicted With a Universal 5 Probability of Success
+Symmetry alteration of ensemble return distribution in crash and rally days of financial markets
+A dynamical model describing stock market price distributions
+Stock Market Speculation: Spontaneous Symmetry Breaking of Economic Valuation
+The Nasdaq crash of April 2000: Yet another example of log-periodicity in a speculative bubble ending in a crash
+Algorithmic Complexity of Real Financial Markets
+Variety and Volatility in Financial Markets
+The first 20 minutes in the Hong Kong stock market
+Modelling High-frequency Economic Time Series
+Scaling and Multi-scaling in Financial Markets
+Power Levy Exponential and Gaussian Regimes in Autocatalytic Financial Systems
+Statistical Properties of Share Volume Traded in Financial Markets
+Empirical properties of the variety of a financial portfolio and the single-index model
+Slimming of power law tails by increasing market returns
+Statistical physics of adaptive correlation of agents in a market
+Fokker-Planck equation of distributions of financial returns and power laws
+Towards identifying the world stock market cross-correlations: DAX versus Dow Jones
+Causal cascade in the stock market from the infrared'' to the ultraviolet''
+Resummation Methods for Analyzing Time Series
+Renormalization Group Analysis of October Market Crashes
+Stock market crashes are outliers
+The sharp peak-flat trough pattern and critical speculation
+Hierarchical Structure in Financial Markets
+Inverse Cubic Law for the Probability Distribution of Stock Price Variations
+Are Financial Crashes Predictable?
+Booms and Crashes in Self-Similar Markets
+Financial Anti-Bubbles'': Log-Periodicity in Gold and Nikkei collapses
+Universal and non-universal properties of cross-correlations in financial time series
+Critical Crashes?
+Markovian approximation in foreign exchange markets
+Nonlinear covariance matrix and portfolio theory for non-Gaussian multivariate distributions
+Clustering of volatility as a multiscale phenomenon
+The statistical properties of the volatility of price fluctuations
+Scaling of the distribution of fluctuations of financial market indices
+Indeterminacy in foreign exchange market
+Scale-invariant Truncated L 'evy Process
+Scaling of the distribution of price fluctuations of individual companies
+Minimal Variance Hedging of Options with Student-t Underlying
+Identifying the bottom line after a stock market crash
+Systems with Correlations in the Variance: Generating Power-Law Tails in Probability Distributions
+Dynamics of competition between collectivity and noise in the stock market
+Dynamics of the Number of Trades of Financial Securities
+Economic Fluctuations and Diffusion
+A model for correlations in stock markets
+Moody's Correlated Binomial Default Distributions for Inhomogeneous Portfolios
+Stock market return distributions: from past to present
+True and Apparent Scaling: The Proximity of the Markov-Switching Multifractal Model to Long-Range Dependence
+Scaling laws of strategic behaviour and size heterogeneity in agent dynamics
+Deterministic Factors of Stock Networks based on Cross-correlation in Financial Market
+Network Topology of an Experimental Futures Exchange
+Microscopic Origin of Non-Gaussian Distributions of Financial Returns
+Scale-free avalanches in the multifractal random walk
+Uncertainty in the Fluctuations of the Price of Stocks
+Effects of payoff functions and preference distributions in an adaptive population
+Specialization of strategies and herding behavior of trading firms in a financial market
+Multi-scale correlations in different futures markets
+Relationship between degree of efficiency and prediction in stock price changes
+World currency exchange rate cross-correlations
+Detrended Cross-Correlation Analysis: A New Method for Analyzing Two Non-stationary Time Series
+Utility function estimation: the entropy approach
+Modeling long-range cross-correlations in two-component ARFIMA and FIARCH processes
+Persistence in a Random Bond Ising Model of Socio-Econo Dynamics
+Application of spectral methods for high-frequency financial data to quantifying states of market participants
+Volatility return intervals analysis of the Japanese market
+Economic dynamics with financial fragility and mean-field interaction: a model
+Long Memory and Volatility Clustering: is the empirical evidence consistent across stock markets?
+Effectiveness of Measures of Performance During Speculative Bubbles
+Correlations and clustering in the trading of members of the London Stock Exchange
+Statistics of Extreme Values in Time Series with Intermediate-Term Correlations
+Interest rates mapping
+A stochastic theory for temporal fluctuations in self-organized critical systems
+Forbidden patterns in financial time series
+A Markov process associated with plot-size distribution in Czech Land Registry and its number-theoretic properties
+The non-random walk of stock prices: The long-term correlation between signs and sizes
+Hurst exponent and prediction based on weak-form efficient market hypothesis of stock markets
+Note on two phase phenomena in financial markets
+The log-periodic-AR(1)-GARCH(1 1) model for financial crashes
+Effects of time dependency and efficiency on information flow in financial markets
+Information flow between stock indices
+Correlations in commodity markets
+Role of scaling in the statistical modeling of finance
+Time vs. Ensemble Averages for Nonstationary Time Series
+Comparison of detrending methods for fluctuation analysis
+Scaling and Memory Effect in Volatility Return Interval of the Chinese Stock Market
+Fractional derivatives of random walks: Time series with long-time memory
+Inconsistency of the judgment matrix in the AHP method and the decision maker's knowledge
+Scaling and efficiency determine the irreversible evolution of a market
+Scale free effects in world currency exchange network
+The Size Variance Relationship of Business Firm Growth Rates
+Temporal structure and gain loss asymmetry for real and artificial stock indices
+World stock market: more sizeable trend reversal likely in February March 2010
+Empirical asset pricing with nonlinear risk premia
+The StressVaR: A New Risk Concept for Superior Fund Allocation
+Statistical Regularities of Equity Market Activity
+Gain loss asymmetry in time series of individual stock prices and its relationship to the leverage effect
+Resilience of Volatility
+A simple model of price formation
+Liquid markets and market liquids: collective and single-asset dynamics in financial markets
+Coarse-graining and Self-similarity of Price Fluctuations
+To sell or not to sell? Behavior of shareholders during price collapses
+From Rational Bubbles to Crashes
+Quantifying dynamics of the financial correlations
+Power Laws of Wealth Market Order Volumes and Market Returns
+Markov properties of high frequency exchange rate data
+Measures of globalization based on cross-correlations of world financial indices
+Levels of complexity in financial markets
+Microscopic Models for Long Ranged Volatility Correlations
+Heterogeneous volatility cascade in financial markets
+Ensemble properties of securities traded in the NASDAQ market
+A Random Matrix Approach to Cross-Correlations in Financial Data
+Decomposing the stock market intraday dynamics
+Scaling in the Bombay Stock Exchange Index
+Ordered phase and non-equilibrium fluctuation in stock market
+Stability of money: Phase transitions in an Ising economy
+Stochastic Multiplicative Processes for Financial Markets
+Self-similar approach to market analysis
+Testing the Gaussian Copula Hypothesis for Financial Assets Dependences
+Noisy Covariance Matrices and Portfolio Optimization
+Firms Growth Dynamics Competition and Power Law Scaling
+Volatility in Financial Markets: Stochastic Models and Empirical Results
+Time dependent cross correlations between different stock returns: A directed network of influence
+Predicting critical crashes? A new restriction for the free variables
+Market simulation with hierarchical information flux
+Cont-Bouchaud percolation model including Tobin tax
+Financial multifractality and its subtleties: an example of DAX
+Non-Parametric Analyses of Log-Periodic Precursors to Financial Crashes
+Endogeneous Versus Exogeneous Shocks in Systems with Memory
+A New Method to Estimate the Noise in Financial Correlation Matrices
+Long-Time Fluctuations in a Dynamical Model of Stock Market Indices
+Comparison of Field Theory Models of Interest Rates with Market Data
+Log-periodic self-similarity: an emerging financial law?
+Dynamical model of financial markets: fluctuating temperature' causes intermittent behavior of price changes
+Reconstructing an economic space from a market metric
+Analysis of high-resolution foreign exchange data of USD-JPY for 13 years
+Degree stability of a minimum spanning tree of price return and volatility
+The average shape of a fluctuation: universality in excursions of stochastic processes
+Nonextensive statistical mechanics and economics
+Critical Market Crashes
+Long-range correlations and nonstationarity in the Brazilian stock market
+Wavelet Correlation Coefficient of 'strongly correlated' financial time series
+Causalities of the Taiwan Stock Market
+Herd Behaviors in the Stock and Foreign Exchange Markets
+Estimated Correlation Matrices and Portfolio Optimization
+Another type of log-periodic oscillations on Polish stock market?
+Multifractal Properties of Price Fluctuations of Stocks and Commodities
+Scale-Dependent Price Fluctuations for the Indian Stock Market
+Langevin processes agent models and socio-economic systems
+Fearless versus Fearful Speculative Financial Bubbles
+Time scales involved in market emergence
+Stochastic Cellular Automata Model for Stock Market Dynamics
+Ehrenfest Model with Large Jumps in Finance
+Can One Make Any Crash Prediction in Finance Using the Local Hurst Exponent Idea?
+Motion in random fields - an application to stock market data
+A comparison between several correlated stochastic volatility models
+Effects of Randomness on Power Law Tails in Multiplicatively Interacting Stochastic Processes
+Activity autocorrelation in financial markets. A comparative study between several models
+Signal and Noise in Financial Correlation Matrices
+Random Matrix Theory Analysis of Cross Correlations in Financial Markets
+Modeling stylized facts for financial time series
+Large price changes on small scales
+Bridging the ARCH model for finance and nonextensive entropy
+Origin of Crashes in 3 US stock markets: Shocks and Bubbles
+Networks of equities in financial markets
+Best linear forecast of volatility in financial time series
+An interest rates cluster analysis
+On pricing of interest rate derivatives
+Common Scaling Patterns in Intertrade Times of U. S. Stocks
+Volatility of Linear and Nonlinear Time Series
+Stock markets are not what we think they are: the key roles of cross-ownership and corporate treasury stock
+Price Clustering and Discreteness: Is there Chaos behind the Noise?
+Multifractality in the stock market: price increments versus waiting times
+Components of multifractality in high-frequency stock returns
+On fitting the Pareto-Levy distribution to stock market index data: selecting a suitable cutoff value
+Investment strategy due to the minimization of portfolio noise level by observations of coarse-grained entropy
+Self-Similar Log-Periodic Structures in Western Stock Markets from 2000
+On the connection between financial processes with stochastic volatility and nonextensive statistical mechanics
+On the distribution of high-frequency stock market traded volume: a dynamical scenario
+Simulations of financial markets in a Potts-like model
+Role of Noise in a Market Model with Stochastic Volatility
+Statistical mechanics of combinatorial auctions
+On the integrated behaviour of non-stationary volatility in stock markets
+Mean Escape Time in a System with Stochastic Volatility
+Decomposing Intraday Dependence in Currency Markets: Evidence from the AUD USD Spot Market
+Analysis of Data Clusters Obtained by Self-Organizing Methods
+Multifractal Behavior of the Korean Stock-market Index KOSPI
+Persistence Probabilities of the German DAX and Shanghai Index
+Quantum Finance
+Finite-Time Singularity Signature of Hyperinflation
+New statistic for financial return distributions: power-law or exponential?
+Application of Multifractal Measures to Tehran Price Index
+Additive-multiplicative stochastic models of financial mean-reverting processes
+A Multifractal Detrended Fluctuation Description of Iranian Rial-US Dollar Exchange Rate
+What shakes the FX tree? Understanding currency dominance dependence and dynamics
+Power-law distributions in economics: a nonextensive statistical approach
+Scaling Analysis on Indian Foreign Exchange Market
+Time and foreign exchange markets
+Accounting for outliers and calendar effects in surrogate simulations of stock return sequences
+The bulk of the stock market correlation matrix is not pure noise
+Money Exchange Model and a general Outlook
+Stock mechanics: predicting recession in S P500 DJIA and NASDAQ
+Underlying Dynamics of Typical Fluctuations of an Emerging Market Price Index: The Heston Model from Minutes to Months
+Dynamic instability in a phenomenological model of correlated assets
+Correlation Networks Among Currencies
+An econophysics approach to analyse uncertainty in financial markets: an application to the Portuguese stock market
+Analysis of Binarized High Frequency Financial Data
+Small scale behavior of financial data
+Stock mechanics: a general theory and method of energy conservation with applications on DJIA
+Optimal Investment Horizons for Stocks and Markets
+Scale-free avalanche dynamics in the stock market
+Level Crossing Analysis of the Stock Markets
+Roughness and Finite Size Effect in the NYSE Stock-Price Fluctuations
+Evaluation of Tranche in Securitization and Long-range Ising Model
+Living in an Irrational Society: Wealth Distribution with Correlations between Risk and Expected Profits
+Power Laws and Gaussians for Stock Market Fluctuations
+Synchronization Model for Stock Market Asymmetry
+On the gap between an empirical distribution and an exponential distribution of waiting times for price changes in a financial market
+Analysis of aggregated tick returns: evidence for anomalous diffusion
+Virtual volatility
+Non-extensive Behavior of a Stock Market Index at Microscopic Time Scales
+Evidence of Increment of Efficiency of the Mexican Stock Market Through the Analysis of its Variations
+Stock price fluctuations and the mimetic behaviors of traders
+Asymmetric Conditional Volatility in International Stock Markets
+On the maximum drawdown during speculative bubbles
+Frequency analysis of tick quotes on the foreign exchange market and agent-based modeling: A spectral distance approach
+Extracting the exponential behaviors in the market data
+Market Efficiency in Foreign Exchange Markets
+The dynamics of traded value revisited
+Modeling long-range memory trading activity by stochastic differential equations
+Topology of Foreign Exchange Markets using Hierarchical Structure Methods
+Characterization of foreign exchange market using the threshold-dealer-model
+Analysis of price diffusion in financial markets using PUCK model
+Hitting Time Distributions in Financial Markets
+On the volatility of volatility
+Economic sector identification in a set of stocks traded at the New York Stock Exchange: a comparative analysis
+Fear and its implications for stock markets
+Nonstationary Increments Scaling Distributions and Variable Diffusion Processes in Financial Markets
+Multiple time scales and the empirical models for stochastic volatility
+Are volatility correlations in financial markets related to Omori processes occurring on all scales?
+Maximum Likelihood Estimation of Drift and Diffusion Functions
+Networks of companies and branches in Poland
+Risk evaluation with enhaced covariance matrix
+Fluctuations in time intervals of financial data from the view point of the Gini index
+Long Term Economic Relationships From Cointegration Maps
+Structurally dynamic spin market networks
+Market Mill Dependence Pattern in the Stock Market: Modeling of Predictability and Asymmetry via Multi-Component Conditional Distribution
+Assessing symmetry of financial returns series
+Martingales Detrending Data and the Efficient Market Hypothesis
+Power Law in Firms Bankruptcy
+Correlation of coming limit price with order book in stock markets
+Statistical properties of short term price trends in high frequency stock market data
+Properties of a simple bilinear stochastic model: estimation and predictability
+Colloquium: Statistical mechanics of money wealth and income
+Model for Non-Gaussian Intraday Stock Returns
+The components of empirical multifractality in financial returns
+Hidden Noise Structure and Random Matrix Models of Stock Correlations
+Tails of correlation mixtures of elliptical copulas
+Tremor price dynamics in the world's network of stock exchanges
+Dynamic Estimation of Credit Rating Transition Probabilities
+Hausdorff clustering
+Executing large orders in a microscopic market model
+Leverage Causes Fat Tails and Clustered Volatility
+Universal Behavior of Extreme Price Movements in Stock Markets
+Multiscaled Cross-Correlation Dynamics in Financial Time-Series
+Does Security Transaction Volume-Price Behavior Resemble a Probability Wave?
+Utilisation des m 'ethodes de Lee-Carter et Log-Poisson pour l'ajustement de tables de mortalit 'e dans le cas de petits 'echantillons
+Point Processes Modeling of Time Series Exhibiting Power-Law Statistics
+Asymptotic equivalence and sufficiency for volatility estimation under microstructure noise
+A Spectral Analysis of Business Cycle Patterns in UK Sectoral Output
+Clustering stock market companies via chaotic map synchronization
+Quantitative features of multifractal subtleties in time series
+Diagnosis and Prediction of Tipping Points in Financial Markets: Crashes and Rebounds
+Cross-Correlation Dynamics in Financial Time Series
+A new space-time model for volatility clustering in the financial market
+Statistical properties of agent-based models in markets with continuous double auction mechanism
+Adaptive financial networks with static and dynamic thresholds
+Self-Organized Criticality and Stock Market Dynamics: an Empirical Study
+Convergence and cluster structures in EU area according to fluctuations in macroeconomic indices
+First-passage and risk evaluation under stochastic volatility
+Estimating discriminatory power and PD curves when the number of defaults is small
+A simple model of mortality trends aiming at universality: Lee Carter Cohort
+Modeling share prices of banks and bankrupts
+Scaling and memory in the non-poisson process of limit order cancelation
+S P 500 returns revisited
+Simple Fuzzy Score for Russian Public Companies Risk of Default
+Universality in DAX index returns fluctuations
+Universal Fluctuations of the FTSE100
+Universal Fluctuations of AEX index
+Interacting Many-Investor Models Opinion Formation and Price Formation with Non-extensive Statistics
+Model Selection and Adaptive Markov chain Monte Carlo for Bayesian Cointegrated VAR model
+Vast Volatility Matrix Estimation using High Frequency Data for Portfolio Selection
+Universal Correlations and Power-Law Tails in Financial Covariance Matrices
+The Financial Bubble Experiment: advanced diagnostics and forecasts of bubble terminations
+Memory effect and multifractality of cross-correlations in financial markets
+Crude oil and motor fuel: Fair price revisited
+The Euler-Maruyama approximations for the CEV model
+Random Matrix Theory and Fund of Funds Portfolio Optimisation
+Inverse Statistics in the Foreign Exchange Market
+Market Mill Dependence Pattern in the Stock Market: Multiscale Conditional Dynamics
+Complementarity between private and public investment in R D: A Dynamic Panel Data analysis
+Note on log-periodic description of 2008 financial crash
+The Impact of Credit Risk and Implied Volatility on Stock Returns
+Emergence of universal scaling in financial markets from mean-field dynamics
+Copula Processes
+Investigating Causal Relationships in Stock Returns with Temporal Logic Based Methods
+Prediction accuracy and sloppiness of log-periodic functions
+The individual income distribution in Argentina in the period 2000-2009. A unique source of non stationary data
+Fairness Is an Emergent Self-Organized Property of the Free Market for Labor
+Reduced form modeling of limit order markets
+Validation of credit default probabilities via multiple testing procedures
+Statistical Properties of Fluctuations: A Method to Check Market Behavior
+Bubble Diagnosis and Prediction of the 2005-200 and 2008-2009 Chinese stock market bubbles
+Universal and nonuniversal allometric scaling behaviors in the visibility graphs of world stock market indices
+Compensating asynchrony effects in the calculation of financial correlations
+Sign and amplitude representation of the forex networks
+Consumer Expenditure Distribution in India 1983-200: Evidence of a Long Pareto Tail
+Analyzing the prices of the most expensive sheet iron all over the world: Modeling prediction and regime change
+Recurrence interval analysis of trading volumes
+Estimating correlation and covariance matrices by weighting of market similarity
+Price dynamics in financial markets: a kinetic approach
+The fractional volatility model: No-arbitrage leverage and risk measures
+On-line trading as a renewal process: Waiting time and inspection paradox
+Volatilities That Change with Time: The Temporal Behavior of the Distribution of Stock-Market Prices
+The fractional volatility model: An agent-based interpretation
+Correlation hierarchies and networks in financial markets
+Long-term correlations and multifractal analysis of trading volumes for Chinese stocks
+Recurrence interval analysis of high-frequency financial returns and its application to risk estimation
+Exit times in non-Markovian drifting continuous-time random walk processes
+Order flow dynamics around extreme price changes on an emerging stock market
+Complex stock trading network among investors
+Detrending moving average algorithm for multifractals
+Optimization of Financial Instrument Parcels in Stochastic Wavelet Model
+Bayesian Cointegrated Vector Autoregression models incorporating Alpha-stable noise for inter-day price movements via Approximate Bayesian Computation
+Estimation of the instantaneous volatility
+The price impact of order book events: market orders limit orders and cancellations
+Universal patterns of inequality
+Impact of the tick-size on financial returns and correlations
+Is high-frequency trading inducing changes in market microstructure and dynamics?
+A contribution to the systematics of stochastic volatility models
+Mesoscopic modelling of financial markets
+The endogenous dynamics of markets: price impact and feedback loops
+About the Justification of Experience Rating: Bonus Malus System and a new Poisson Mixture Model
+Quantitative law describing market dynamics before and after interest-rate change
+A Random Matrix Approach to VARMA Processes
+A Multi Agent Model for the Limit Order Book Dynamics
+Market dynamics immediately before and after financial shocks: quantifying the Omori productivity and Bath laws
+Cumulant Approach of Arbitrary Truncated Levy Flight
+Tick size and price diffusion
+A quantum model for the stock market
+Statistical causes for the Epps effect in microstructure noise
+The nature of price returns during periods of high market activity
+Market panic on different time-scales
+Do price and volatility jump together?
+Statistical properties of derivatives: a journey in term structures
+How to grow a bubble: A model of myopic adapting agents
+An Analysis of the Japanese Credit Network
+A Paradigm Shift from Production Function to Production Copula: Statistical Description of Production Activity of Firms
+Fluctuation-Dissipation Theory of Input-Output Interindustrial Correlations
+Superfamily classification of nonstationary time series based on DFA scaling exponents
+The Financial Bubble Experiment: Advanced Diagnostics and Forecasts of Bubble Terminations Volume II-Master Document
+Coherent Patterns in Nuclei and in Financial Markets
+Exponential wealth distribution in different discrete economic models
+Equilibrium distributions and relaxation times in gas-like economic models: an analytical derivation
+On low-sampling-rate Kramers-Moyal coefficients
+Impact of Insurance for Operational Risk: Is it worthwhile to insure or be insured for severe losses?
+Cross-correlations between volume change and price change
+Reduced form models of bond portfolios
+Networks of Economic Market Interdependence and Systemic Risk
+Transition from Exponential to Power Law Distributions in a Chaotic Market
+Currency Forecasting using Multiple Kernel Learning with Financially Motivated Features
+Nonuniversal distributions of stock returns in an emerging market
+Will the US Economy Recover in 2010? A Minimal Spanning Tree Study
+Log-Periodic Oscillation Analysis and Possible Burst of the Gold Bubble in April - June 2011
+Emergence of time-horizon invariant correlation structure in financial returns by subtraction of the market mode
+Maximum penalized quasi-likelihood estimation of the diffusion function
+Testing the Capital Asset Pricing Model (CAPM) on the Uganda Stock Exchange
+Generalised Wishart Processes
+Critical Overview of Agent-Based Models for Economics
+Globalization and long-run co-movements in the stock market for the G: an application of VECM under structural breaks
+Multivariate GARCH estimation via a Bregman-proximal trust-region method
+Moving Mini-Max - a new indicator for technical analysis
+New procedures for testing whether stock price processes are martingales
+A general bang-bang principle for predicting the maximum of a random walk
+Causal Links Between US Economic Sectors
+Segmentation algorithm for non-stationary compound Poisson processes
+Non-Hermitean Wishart random matrices (I)
+Financial LPPL Bubbles with Mean-Reverting Noise in the Frequency Domain
+Volatility made observable at last
+Quantifying and Modeling Long-Range Cross-Correlations in Multiple Time Series with Applications to World Stock Indices
+Statistical Inference for Time-changed Brownian Motion Credit Risk Models
+Predicting economic market crises using measures of collective panic
+A dynamic hybrid model based on wavelets and fuzzy regression for time series estimation
+Black swans or dragon kings? A simple test for deviations from the power law
+Large-volatility dynamics in financial markets
+The Anderson-Darling test of fit for the power law distribution from left censored samples
+Characteristics of Real Futures Trading Networks
+Statistical mechanics of money debt and energy consumption
+Minimal model of financial stylized facts
+Robust Estimation of Operational Risk
+A Copula Approach on the Dynamics of Statistical Dependencies in the US Stock Market
+Testing for change in mean of heteroskedastic time series
+A class of CTRWs: Compound fractional Poisson processes
+Exponential wealth distribution: a new approach from functional iteration theory
+Information Theoretic Limits on Learning Stochastic Differential Equations
+Spectral Risk Measures with an Application to Futures Clearinghouse Variation Margin Requirements
+Exponential Spectral Risk Measures
+Modeling Long Memory in REITs
+Uncovering Volatility Dynamics in Daily REIT Returns
+Tail Behaviour of the Euro
+Varying the VaR for Unconditional and Conditional Environments
+Uncovering Long Memory in High Frequency UK Futures
+Extreme Spectral Risk Measures: An Application to Futures Clearinghouse Margin Requirements
+Implied correlation from VaR
+Modelling catastrophic risk in international equity markets: An extreme value approach
+U.S. Core Inflation: A Wavelet Analysis
+Multivariate Modeling of Daily REIT Volatility
+The tail risks of FX return distributions: a comparison of the returns associated with limit orders and market orders
+Intra-Day Seasonality in Foreign Exchange Market Transactions
+Evaluating the Precision of Estimators of Quantile-Based Risk Measures
+Estimating financial risk measures for futures positions: a non-parametric approach
+Spectral Risk Measures and the Choice of Risk Aversion Function
+Scaling conditional tail probability and quantile estimators
+Hedging: Scaling and the Investor Horizon
+Time Varying Risk Aversion: An Application to Energy Hedging
+Housing risk and return: Evidence from a housing asset-pricing model
+A Comparative Anatomy of REITs and Residential Real Estate Indexes: Returns Risks and Distributional Characteristics
+A Utility Based Approach to Energy Hedging
+Absolute Return Volatility
+Financial Risks and the Pension Protection Fund: Can it Survive Them?
+Patterns in high-frequency FX data: Discovery of 12 empirical scaling laws
+Asset returns and volatility clustering in financial time series
+Nonlinear Stochastic Model of Return matching to the data of New York and Vilnius Stock Exchanges
+Long-term correlations and multifractal nature in the intertrade durations of a liquid Chinese stock and its warrant
+Statistical Properties of Cross-Correlation in the Korean Stock Market
+Impact of the topology of global macroeconomic network on the spreading of economic crises
+Minding impacting events in a model of stochastic variance
+A sharp analysis on the asymptotic behavior of the Durbin-Watson statistic for the first-order autoregressive process
+Full characterization of the fractional Poisson process
+Money and Goldstone modes
+Endogenous versus Exogenous Crashes in Financial Markets
+Statistical thermodynamics of economic systems
+Two stock options at the races: Black-Scholes forecasts
+The foreign exchange market: return distributions multifractality anomalous multifractality and Epps effect
+The Financial Bubble Experiment: Advanced Diagnostics and Forecasts of Bubble Terminations Volume III
+An statistical analysis of stratification and inequity in the income distribution
+Record statistics for biased random walks with an application to financial data
+State-Observation Sampling and the Econometrics of Learning Models
+Stochastic Price Dynamics Implied By the Limit Order Book
+Is there a bubble in LinkedIn's stock price?
+Calibration and filtering for multi factor commodity models with seasonality: incorporating panel data from futures contracts
+Modelling and computer simulation of an insurance policy: A search for maximum profit
+Persistent collective trend in stock markets
+The near-extreme density of intraday log-returns
+Asymmetric random matrices: What do we need them for?
+Large Vector Auto Regressions
+Dynamic Large Spatial Covariance Matrix Estimation in Application to Semiparametric Model Construction via Variable Clustering: the SCE approach
+Multifractal dynamics of stock markets
+The Second Wave of the Global Crisis? A Log-Periodic Oscillation Analysis of Commodity Price Series
+Models for the impact of all order book events
+The level crossing and inverse statistic analysis of German stock market index (DAX) and daily oil price time series
+The fine structure of spectral properties for random correlation matrices: an application to financial markets
+Multifractal detrending moving average cross-correlation analysis
+Evolution of worldwide stock markets correlation structure and correlation based graphs
+Strategies used as spectroscopy of financial markets reveal new stylized facts
+Multiplicative Asset Exchange with Arbitrary Return Distributions
+Statistical Methods for Estimating the non-random Content of Financial Markets
+About the non-random Content of Financial Markets
+Eigenvector dynamics: theory and some applications
+Intermittency in Quantitative Finance
+Factorial Moments in Complex Systems
+Intraday pattern in bid-ask spreads and its power-law relaxation for Chinese A-share stocks
+The Mirage of Triangular Arbitrage in the Spot Foreign Exchange Market
+Modified detrended fluctuation analysis based on empirical mode decomposition
+Econophysics: Empirical facts and agent-based models
+Characterizing Multi-Scale Self-Similar Behavior and Non-Statistical Properties of Financial Time Series
+Temporal Evolution of Financial Market Correlations
+The US stock market leads the Federal funds rate and Treasury bond yields
+Goodness-of-Fit tests with Dependent Observations
+Collective behavior in financial market
+Analysis of the trends in the index of the Dow Jones Industrial Average (DJIA) of the New York Stock Exchange (NYSE)
+The Food Crises: A quantitative model of food prices including speculators and ethanol conversion
+Detecting a Currency's Dominance or Dependence using Foreign Exchange Network Trees
+Boltzmann Distribution and Temperature of Stock Markets
+An information theoretic approach to statistical dependence: copula information
+Arbitrage Opportunities in Misspecified Stochastic volatility Models
+Robust Estimators in Generalized Pareto Models
+Density Approximations for Multivariate Affine Jump-Diffusion Processes
+Returns in futures markets and nu3 t-distribution
+Time Scales in Futures Markets and Applications
+Multi-agent based analysis of financial data
+Market inefficiency identified by both single and multiple currency trends
+Gaussian Process Regression Networks
+Dynamics of Bid-ask Spread Return and Volatility of the Chinese Stock Market
+Anti-Robust and Tonsured Statistics
+Memory effects in stock price dynamics: evidences of technical trading
+Causal modeling and inference for electricity markets
+Parrondo-like behavior in continuous-time random walks with memory
+Fat Tails Quantified and Resolved: A New Distribution to Reveal and Characterize the Risk and Opportunity Inherent in Leptokurtic Data
+Coupled Oscillator Model of the Business Cycle with Fluctuating Goods Markets
+Copula-based Hierarchical Aggregation of Correlated Risks. The behaviour of the diversification benefit in Gaussian and Lognormal Trees
+On the scaling of the distribution of daily price fluctuations in Mexican financial market index
+On the Necessity of Five Risk Measures
+Viewing Risk Measures as Information
+Collective behavior of stock prices as a precursor to market crash
+Markov Chains application to the financial-economic time series prediction
+Multifractal modeling of short-term interest rates
+Quantile Mechanics II: Changes of Variables in Monte Carlo methods and GPU-Optimized Normal Quantiles
+Truncated Variation Upward Truncated Variation and Downward Truncated Variation of Brownian Motion with Drift - their Characteristics and Applications
+Agent based reasoning for the non-linear stochastic models of long-range memory
+Scaling properties and universality of first-passage time probabilities in financial markets
+Estimation in Functional Regression for General Exponential Families
+A semi-Markov model with memory for price changes
+Income Tax Evasion Dynamics: Evidence from an Agent-based Econophysics Model
+RQA Application for the Monitoring of Financial and Commodity markets state
+Non-Gaussianity of the Intraday Returns Distribution: its evolution in time
+Common persistence in conditional variance: A reconsideration
+Analysis of fractional Gaussian noises using level crossing method
+Spurious trend switching phenomena in financial markets
+An application of the method of moments to volatility estimation using daily high low opening and closing prices
+The topology of cross-border exposures: beyond the minimal spanning tree approach
+Uncovering the Internal Structure of the Indian Financial Market: Cross-correlation behavior in the NSE
+Finite-size effect and the components of multifractality in financial volatility
+Evidence of market manipulation in the financial crisis
+Deriving consensus rankings via multicriteria decision making methodology
+Survivability and centrality measures for networks of financial market indices
+Co-movement of energy commodities revisited: Evidence from wavelet coherence analysis
+Monte Carlo-based tail exponent estimator
+On Hurst exponent estimation under heavy-tailed distributions
+Modeling electricity spot prices using mean-reverting multifractal processes
+The Power (Law) of Indian Markets: Analysing NSE and BSE trading statistics
+On detecting the dependence of time series
+Renyi's information transfer between financial time series
+Approximated maximum likelihood estimation in multifractal random walks
+Determinants of immediate price impacts at the trade level in an emerging order-driven market
+On return-volatility correlation in financial dynamics
+Cross-correlation in financial dynamics
+Correlation Network and Multifractal Analysis of Global Financial Indices
+Identifying States of a Financial Market
+Comparative statistics of Garman-Klass Parkinson Roger-Satchell and bridge estimators
+Assessing market uncertainty by means of a time-varying intermittency parameter for asset price fluctuations
+A multifractal approach towards inference in finance
+On the estimation of integrated covariance matrices of high dimensional diffusion processes
+Directional Variance Adjustment: improving covariance estimates for high-dimensional portfolio optimization
+An empirical test for Eurozone contagion using an asset-pricing model with heavy-tailed stochastic volatility
+Order book dynamics in liquid markets: limit theorems and diffusion approximations
+Incorporating fat tails in financial models using entropic divergence measures
+Income distribution patterns from a complete social security database
+Consistent Long-Term Yield Curve Prediction
+Heavy-Tail Distribution from Correlation of Discrete Stochastic Process
+Scaling and multiscaling in financial series: a simple model
+Statistical mechanics approach to the probability distribution of money
+Predicting Financial Markets: Comparing Survey News Twitter and Search Engine Data
+UPDATE February 2012 - The Food Crises: Predictive validation of a quantitative model of food prices including speculators and ethanol conversion
+We've walked a million miles for one of these smiles
+Comprehensive Analysis of Market Conditions in the Foreign Exchange Market: Fluctuation Scaling and Variance-Covariance Matrix
+Comparison results for Garch processes
+Study of statistical correlations in intraday and daily financial return time series
+Derivation of ARCH(1) process from market price changes based on deterministic microscopic multi-agent
+Penalty Decomposition Methods for Rank Minimization
+Hermitian and non-Hermitian covariance estimators for multivariate Gaussian and non-Gaussian assets from random matrix theory
+Using The Censored Gamma Distribution for Modeling Fractional Response Variables with an Application to Loss Given Default
+Understanding the source of multifractality in financial markets
+Effects of long memory in the order submission process on the properties of recurrence intervals of large price fluctuations
+Multifractal Height Cross-Correlation Analysis: A New Method for Analyzing Long-Range Cross-Correlations
+How are rescaled range analyses affected by different memory and distributional properties? A Monte Carlo study
+Quantifying reflexivity in financial markets: towards a prediction of flash crashes
+Applications of statistical mechanics to economics: Entropic origin of the probability distributions of money income and energy consumption
+Segmentation analysis on a multivariate time series of the foreign exchange rates
+Fractal Profit Landscape of the Stock Market
+Singularity strength based characterization of financial networks
+Equilibrium Distribution of Labor Productivity: A Theoretical Model
+Universality class of balanced flows with bottlenecks: granular flows pedestrian fluxes and financial price dynamics
+Arbitrary Truncated Levy Flight: Asymmetrical Truncation and High-Order Correlations
+A Multi-Level Lorentzian Analysis of the Basic Structures of the Daily DJIA
+The joint distribution of stock returns is not elliptical
+Web search queries can predict stock market volumes
+The class of nonlinear stochastic models as a background for the bursty behavior in financial markets
+Asymmetric correlation matrices: an analysis of financial data
+A Compact Mathematical Model of the World System Economic and Demographic Growth 1 CE - 193 CE
+Calibration of optimal execution of financial transactions in the presence of transient market impact
+Proportionate vs disproportionate distribution of wealth of two individuals in a tempered Paretian ensemble
+Fractal Markets Hypothesis and the Global Financial Crisis: Scaling Investment Horizons and Liquidity
+Record Statistics for Multiple Random Walks
+On the non-stationarity of financial time series: impact on optimal portfolio selection
+On the role of backauditing for tax evasion in an agent-based Econophysics model
+How Fama Went Wrong: Measures of Multivariate Kurtosis for the Identification of the Dynamics of a N-Dimensional Market
+How news affect the trading behavior of different categories of investors in a financial market
+Global Inflation Dynamics: regularities forecasts
+Structural distortions in the Euro interbank market: The role of 'key players' during the recent market turmoil
+A semi-Markov model for price returns
+Econophysics of a religious cult: the Antoinists in Belgium 1920-2000
+Weighted-indexed semi-Markov models for modeling financial returns
+Record statistics and persistence for a random walk with a drift
+A Test of the Adaptive Market Hypothesis using Non-Bayesian Time-Varying AR Model in Japan
+Distribution Of Wealth In A Network Model Of The Economy
+Interest Rate Manipulation Detection using Time Series Clustering Approach
+Modeling the non-Markovian non-stationary scaling dynamics of financial markets
+Toy Model for Large Non-Symmetric Random Matrices
+A Random Matrix Approach to Dynamic Factors in macroeconomic data
+Aftershock prediction for high-frequency financial markets' dynamics
+Benford's law and Theil transform of financial data
+On Geometric Ergodicity of Skewed - SVCHARME models
+Bouchaud-M 'ezard model on a random network
+Stock Price Dynamics and Option Valuations under Volatility Feedback Effect
+Microeconomic co-evolution model for financial technical analysis signals
+Econophysics of Stock and Foreign Currency Exchange Markets
+From the currency rate quotations onto strings and brane world scenarios
+Exploring complex networks via topological embedding on surfaces
+Tracing the temporal evolution of clusters in a financial stock market
+Random matrix approach to the dynamics of stock inventory variations
+Weighted Kolmogorov-Smirnov test: Accounting for the tails
+The European debt crisis: Defaults and market equilibrium
+UPDATE July 2012 The Food Crises: The US Drought
+Consumer finance data generator - a new approach to Credit Scoring technique comparison
+Smooth Nonparametric Bernstein Vine Copulas
+Determination the Parameters of Markowitz Portfolio Optimization Model
+Heavy-Tailed Features and Empirical Analysis of the Limit Order Book Volume Profiles in Futures Markets
+Recurrence analysis of the NASDAQ crash of April 2000
+Comparing the performance of FA DFA and DMA using different synthetic long-range correlated time series
+Coal Enterprise Management and Asynchronism of Return
+Hurst Exponents For Short Time Series
+Analysis of short term price trends in daily stock-market index data
+Network analysis of correlation strength between the most developed countries
+Modeling First Line Of An Order Book With Multivariate Marked Point Processes
+Closed form solutions of measures of systemic risk
+Inference on Sets in Finance
+An overview of the goodness-of-fit test problem for copulas
+Wavelet-Based Prediction for Governance Diversification and Value Creation Variables
+Option Pricing from Wavelet-Filtered Financial Series
+Percentiles of sums of heavy-tailed random variables: Beyond the single-loss approximation
+Microscopic understanding of heavy-tailed return distributions in an agent-based model
+Relations between allometric scalings and fluctuations in complex systems: The case of Japanese firms
+Transition in the Waiting-Time Distribution of Price-Change Events in a Global Socioeconomic System
+A Linear Belief Function Approach to Portfolio Evaluation
+On the scaling range of power-laws originated from fluctuation analysis
+Modeling Financial Volatility in the Presence of Abrupt Changes
+Individual and collective stock dynamics: intra-day seasonalities
+Principal Regression Analysis and the index leverage effect
+The bounds of heavy-tailed return distributions in evolving complex networks
+Eigenvector dynamics: general theory and some applications
+Wealth distribution on complex networks
+Bollinger Bands Thirty Years Later
+The normaly distributed daily returns in stock trading
+Coupling between time series: a network view
+Dynamics of episodic transient correlations in currency exchange rate returns and their predictability
+Modeling of income distribution in the European Union with the Fokker-Planck equation
+The Role of Social Feedback in Financing of Technology Ventures
+Reinterpretation of Sieczka-Ho l yst financial market model
+Polish and Silesian Non-Profit Organizations Liquidity Strategies
+Random cascade model in the limit of infinite integral scale as the exponential of a non-stationary 1 f noise. Application to volatility fluctuations in stock markets
+Dynamic structural and topological phase transitions on the Warsaw Stock Exchange: A phenomenological approach
+Realized wavelet-based estimation of integrated variance and jumps in the presence of noise
+Low-Frequency Waves and the Medium to Long-Term US Stock Market Outlook
+Bayesian logistic betting strategy against probability forecasting
+Revisiting the fractional cointegrating dynamics of implied-realized volatility relation with wavelet band spectrum regression
+On the optimal allocation of assets in investment portfolio with application of modern portfolio and nonlinear dynamic chaos theories in investment commercial and central banks
+Volatility polarization of non-specialized investors' heterogeneous activity
+A second-order stock market model
+Random Matrix Theory and Cross-correlations in Global Financial Indices and Local Stock Market Indices
+The effect of round-off error on long memory processes
+Recovering Model Structures from Large Low Rank and Sparse Covariance Matrix Estimation
+The Evolution of Market Efficiency and Its Periodicity: A Non-Bayesian Time-Varying Model Approach
+Parametric estimation of hidden stochastic model by contrast minimization and deconvolution: application to the Stochastic Volatility Model
+A Comprehensive Analysis of Time Series Segmentation on the Japanese Stock Prices
+Characterizing price index behavior through fluctuation dynamics
+Stock prices assessment: proposal of a new index based on volume weighted historical prices through the use of computer modeling
+Momentum-Space Approach to Asymptotic Expansion for Stochastic Filtering
+On parameter estimation for critical affine processes
+High quality topic extraction from business news explains abnormal financial market volatility
+Modeling non-stationarities in high-frequency financial time series
+Modelling systemic price cojumps with Hawkes factor models
+US Corporate Bond Yield Spread : A default risk debate
+Volatility Inference in the Presence of Both Endogenous Time and Microstructure Noise
+Fitting the Log Periodic Power Law to financial crashes: a critical analysis
+Limit Order Books
+Bayesian estimation of GARCH model with an adaptive proposal density
+Stochastic Volatility with Heterogeneous Time Scales
+Modeling and Forecasting Persistent Financial Durations
+The Reactive Volatility Model
+Estimating the efficient price from the order flow: a Brownian Cox process approach
+Two unconditionally implied parameters and volatility smiles and skews
+Pivotal estimation in high-dimensional regression via linear programming
+Do wealth distributions follow power laws? Evidence from rich lists
+Robustification of Elliott's on-line EM algorithm for HMMs
+What drives mutual fund asset concentration?
+Random walker in a temporally deforming higher-order potential forces observed in financial crisis
+Asymmetric statistics of order books: The role of discreteness and evidence for strategic order placement
+Dynamical Hurst exponent as a tool to monitor unstable periods in financial time series
+The position profiles of order cancellations in an emerging stock market
+Heavy-tail driven by memory
+From Minority Game to Black Scholes pricing
+Hierarchical structure of stock price fluctuations in financial markets
+Performance Analysis of Hybrid Forecasting Model In Stock Market Forecasting
+On statistical indistinguishability of the complete and incomplete markets
+Bridging stylized facts in finance and data non-stationarities
+Realizing stock market crashes: stochastic cusp catastrophe model of returns under the time-varying volatility
+A Method for Comparing Hedge Funds
+Inverse Signal Classification for Financial Instruments
+An Information-Theoretic Test for Dependence with an Application to the Temporal Structure of Stock Returns
+Analysis of Realized Volatility in Two Trading Sessions of the Japanese Stock Market
+Uncovering the network structure of the world currency market: Cross-correlations in the fluctuations of daily exchange rates
+Multivariate high-frequency financial data via semi-Markov processes
+Exact record and order statistics of random walks via first-passage ideas
+Direct Evidence for Synchronization in Japanese Business Cycle
+An Exactly Solvable Discrete Stochastic Process with Correlated Properties
+A Model for Stock Returns and Volatility
+Fluctuation analysis of the three agent groups herding model
+Brownian markets
+On interrelations of recurrences and connectivity trends between stock indices
+Scaling stability and distribution of the high-frequency returns of the IBEX35 index
+Critical reflexivity in financial markets: a Hawkes process analysis
+Multifractality and long memory of a financial index
+The Dirichlet Portfolio Model: Uncovering the Hidden Composition of Hedge Fund Investments
+Market-wide price co-movement around crashes in the Tokyo Stock Exchange
+Phase Transition in the S P Stock Market
+Some applications of first-passage ideas to finance
+Evolution of correlation structure of industrial indices of US equity markets
+Additive versus multiplicative parameters - applications in economics and finance
+Point estimation with exponentially tilted empirical likelihood
+Measuring capital market efficiency: Global and local correlations structure
+Structural and topological phase transitions on the German Stock Exchange
+Are random trading strategies more successful than technical ones?
+Modeling record-breaking stock prices
+Accompanying document to Point Estimation with Exponentially Tilted Empirical Likelihood
+Carbon-dioxide emissions trading and hierarchical structure in worldwide finance and commodities markets
+Time-Frequency Dynamics of Biofuels-Fuels-Food System
+Exact Statistics of the Gap and Time Interval Between the First Two Maxima of Random Walks
+On the multifractal effects generated by monofractal signals
+Power-law exponent of the Bouchaud-M 'ezard model on regular random network
+Is it possible to predict long-term success with k-NN? Case Study of four market indices (FTSE100 DAX HANGSENG NASDAQ)
+Unveiling correlations between financial variables and topological metrics of trading networks: Evidence from a stock and its warrant
+Fractality of profit landscapes and validation of time series models for stock prices
+A relative information approach to financial time series analysis using binary N -grams dictionaries
+Regressions with Berkson errors in covariates - A nonparametric approach
+Analyzing Herd Behavior in Global Stock Markets: An Intercontinental Comparison
+Semiparametric Conditional Quantile Models for Financial Returns and Realized Volatility
+Following a Trend with an Exponential Moving Average: Analytical Results for a Gaussian Model
+A Note on Sparse Minimum Variance Portfolios and Coordinate-Wise Descent Algorithms
+How efficiency shapes market impact
+Confidence sets in nonparametric calibration of exponential L 'evy models
+Negative Kelvin temperatures in stock markets
+Trading networks abnormal motifs and stock manipulation
+A model-free characterization of recurrences in stationary time series
+Risk Without Return
+Can we still benefit from international diversification? The case of the Czech and German stock markets
+Exponential and power laws in public procurement markets
+Learning from the past predicting the statistics for the future learning an evolving system
+Long-term memory in electricity prices: Czech market evidence
+Segmentation procedure based on Fisher's exact test and its application to foreign exchange rates
+Commodity futures and market efficiency
+Statistical inference of co-movements of stocks during a financial crisis
+Modeling of Stock Returns and Trading Volume
+Non-linear dependences in finance
+New measure of multifractality and its application in finances
+The Relationship Between Stock Market Parameters and Interbank Lending Market: an Empirical Evidence
+Market Index and Stock Price Direction Prediction using Machine Learning Techniques: An empirical study on the KOSPI and HSI
+Scaling Law for the Distribution of Fluctuations of Share Volume
+Scaling behavior in land markets
+A mechanism leading bubbles to crashes: the case of Japan's land markets
+Power law for ensembles of stock prices
+Power law for the calm-time interval of price changes
+Inflation and deflation in stock markets
+A Precursor of Market Crashes
+Power laws and market crashes
+Statistical properties of absolute log-returns and a stochastic model of stock markets with heterogeneous agents
+On the criticality of inferred models
+Maximum entropy distribution of stock price fluctuations
+Analysis of hedging based on co-persistence theory
+Non-Stationarity in Financial Time Series and Generic Features
+Two-step memory within Continuous Time Random Walk. Description of double-action market dynamics
+Testing power-law cross-correlations: Rescaled covariance test
+Mixed-correlated ARFIMA processes for power-law cross-correlations
+Contagion among Central and Eastern European stock markets during the financial crisis
+Continuous-time Modeling of Bid-Ask Spread and Price Dynamics in Limit Order Books
+Can Google Trends search queries contribute to risk diversification?
+Random Matrix Application to Correlations Among Volatility of Assets
+Limit theorems for nearly unstable Hawkes processes
+Valuing FtD Contract under Copula Approach via Monte-Carlo Stimulation
+An analysis of Cross-correlations in South African Market data
+The Identification of Thresholds and Time Delay in Self-Exciting Threshold AR Model by Wavelet
+Bayesian inference for CoVaR
+A Stochastic Feedback Model for Volatility
+Can social microblogging be used to forecast intraday exchange rates?
+Frequency Effects on Predictability of Stock Returns
+Stock returns versus trading volume: is the correspondence more general?
+On time scaling of semivariance in a jump-diffusion process
+Measures of uncertainty in market network analysis
+Performance of multifractal detrended fluctuation analysis on short time series
+Financial interaction networks inferred from traded volumes
+Uncertain growth and the value of the future
+Skew and implied leverage effect: smile dynamics revisited
+Structural Changes on Warsaw's Stock Exchange: the end of Financial Crisis
+Stock Market Trend Analysis Using Hidden Markov Models
+Conditional correlation in asset return and GARCH intensity model
+Probabilistic and statistical properties of realized moments and their use in inference estimation and risk management
+The order book as a queueing system: average depth and influence of the size of limit orders
+Execution and block trade pricing with optimal constant rate of participation
+Extreme value statistics and recurrence intervals of NYMEX energy futures volatility
+Systemic risk and spatiotemporal dynamics of the US housing market
+Dynamic evolution of cross-correlations in the Chinese stock market
+Optimal insurance purchase strategies via optimal multiple stopping times
+Asymptotic distribution of the Markowitz portfolio
+Emergent quantum mechanics of finances
+Semi-Markov Models in High Frequency Finance: A Review
+Modelling emergence of money from the barter trade: multiscaling edge effects
+Extrapolating the term structure of interest rates with parameter uncertainty
+Block Sampling under Strong Dependence
+Joint Modelling of Gas and Electricity spot prices
+The Price Impact of Order Book Events
+Price dynamics in a Markovian limit order market
+Statistical pairwise interaction model of stock market
+Market structure explained by pairwise interactions
+Effect of detrending on multifractal characteristics
+Reinvestigating the Uncovered Interest Rate Parity Puzzle via Analysis of Multivariate Tail Dependence in Currency Carry Trades
+A statistical physics perspective on criticality in financial markets
+Emergence of statistically validated financial intraday lead-lag relationships
+An Empirical Method to Measure Stochasticity and Multifractality in Nonlinear Time Series
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part I: The Models
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part II: Analysis of the Models
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part III: Application to Hong Kong Stocks
+Multiple-output support vector regression with a firefly algorithm for interval-valued stock price index forecasting
+Complex temporal structure of activity in on-line electronic auctions
+Modeling the stylized facts of wholesale system marginal price (SMP) and the impacts of regulatory reforms on the Greek Electricity Market
+Modeling Credit Spreads Using Nonlinear Regression
+Self-affinity in financial asset returns
+Microeconomic Structure determines Macroeconomic Dynamics. Aoki defeats the Representative Agent
+Herd behavior and aggregate fluctuations in financial markets
+Scaling symmetry renormalization and time series modeling
+Detrended Cross-Correlation Analysis Consistently Extended to Multifractality
+Nucleation condensation and lambda-transition on a real-life stock market
+On the Measurement of Economic Tail Risk
+Crossing Stocks and the Positive Grassmannian I: The Geometry behind Stock Market
+Partial correlation analysis: Applications for financial markets
+Are European equity markets efficient? New evidence from fractal analysis
+Correlation and Network Topologies in Global and Local Stock Indices
+Using Twitter to Model the EUR USD Exchange Rate
+Multi-scale Representation of High Frequency Market Liquidity
+Empirical symptoms of catastrophic bifurcation transitions on financial markets: A phenomenological approach
+Classical and quantum randomness and the financial market
+Do firms share the same functional form of their growth rate distribution? A new statistical test
+Super-exponential endogenous bubbles in an equilibrium model of rational and noise traders
+Predicting financial markets with Google Trends and not so random keywords
+Gold Oil and Stocks
+Measuring correlations between non-stationary series with DCCA coefficient
+Predicting trend reversals using market instantaneous state
+Detrending moving-average cross-correlation coefficient: Measuring cross-correlations between non-stationary series
+Global inequality in energy consumption from 1980 to 2010
+Parameter estimation for subcritical Heston models based on discrete time observations
+Exchange Rate Predictability in a Changing World
+Partial Mutual Information Analysis of Financial Networks
+Distribution of the asset price movement and market potential
+Empirical properties of inter-cancellation durations in the Chinese stock market
+Testing for Detailed Balance in a Financial Market
+Networked relationships in the e-MID Interbank market: A trading model with memory
+Least quartic Regression Criterion with Application to Finance
+Collective behaviours in the stock market -- A maximum entropy approach
+Predicting market instability: New dynamics between volume and volatility
+The Implied Volatility Analysis: The South African Experience
+Modelling Returns and Volatilities During Financial Crises: a Time Varying Coefficient Approach
+Testing the weak-form efficiency of the WTI crude oil futures market
+Non stationary multifractality in stock returns
+Coherence and elicitability
+The Interrupted Power Law and The Size of Shadow Banking
+Dependency Structure and Scaling Properties of Financial Time Series Are Related
+Copulas and time series with long-ranged dependences
+Spatial and temporal structures of four financial markets in Greater China
+The adaptive nature of liquidity taking in limit order books
+Microscopic determinants of the weak-form efficiency of an artificial order-driven stock market
+An agent-based computational model for China's stock market and stock index futures market
+Discretisation-Invariant Swaps
+Bayesian DEJD model and detection of asymmetric jumps
+Estimating nonlinear regression errors without doing regression
+Regularizing Portfolio Risk Analysis: A Bayesian Approach
+Two centuries of trend following
+Futures Premium and Efficiency of the Rice Futures Markets in Prewar Japan
+The fine-structure of volatility feedback I: multi-scale self-reflexivity
+Optimal execution comparison across risks and dynamics with solutions for displaced diffusions
+Loss Distribution Approach for Operational Risk Capital Modelling under Basel II: Combining Different Data Sources for Risk Estimation
+Measuring capital market efficiency: Long-term memory fractal dimension and approximate entropy
+Option pricing with non-Gaussian scaling and infinite-state switching volatility
+The fine structure of volatility feedback II: overnight and intra-day effects
+Fractal Markets Hypothesis and the Global Financial Crisis: Wavelet Power Evidence
+A multivariate model for financial indexes and an algorithm for detection of jumps in the volatility
+Predictive regressions for macroeconomic data
+Stylized facts of price gaps in limit order books: Evidence from Chinese stocks
+Gaussian-Chain Filters for Heavy-Tailed Noise with Application to Detecting Big Buyers and Big Sellers in Stock Market
+A Multi-factor Adaptive Statistical Arbitrage Model
+How does bad and good volatility spill over across petroleum markets?
+Correlation structure and principal components in global crude oil market
+Big Data Socio-Psychological Theory Algorithmic Text Analysis and Predicting the Michigan Consumer Sentiment Index
+Wealth share analysis with fundamentalist chartist heterogeneous agents
+Mixed Tempered Stable distribution
+Parameter estimation for a subcritical affine two factor model
+Effective Measure of Endogeneity for the Autoregressive Conditional Duration Point Processes via Mapping to the Self-Excited Hawkes Process
+Portfolio return distributions: Sample statistics with non-stationary correlations
+Semiparametric stochastic volatility modelling using penalized splines
+Short-term Market Reaction after Trading Halts in Chinese Stock Market
+Mutual Information Rate-Based Networks in Financial Markets
+Information-theoretic approach to lead-lag effect on financial markets
+Braided and Knotted Stocks in the Stock Market: Anticipating the flash crashes
+What are the main drivers of the Bitcoin price? Evidence from wavelet coherence analysis
+Estimation of the Global Minimum Variance Portfolio in High Dimensions
+Buyer to Seller Recommendation under Constraints
+Supervised classification-based stock prediction and portfolio optimization
+Statistically significant fits of Hawkes processes to financial data
+Advisors and indicators based on the SSA models and non-linear generalizations
+A variation of the Dragulescu-Yakovenko income model
+ooming into market states
+Liquidity commonality does not imply liquidity resilience commonality: A functional characterisation for ultra-high frequency cross-sectional LOB data
+Survival Models for the Duration of Bid-Ask Spread Deviations
+An Unconventional Attempt to Tame Mandelbrot's Grey Swans
+Hierarchical structure of the European countries based on debts as a percentage of GDP during the 2000-2011 period
+Hierarchical structure of the countries based on electricity consumption and economic growth
+Causality Networks
+Coping with area price risk in electricity markets: Forecasting Contracts for Difference in the Nordic power market
+Hierarchical Structure of the Foreign Trade: The Case of the United State
+Nonparametric methods for volatility density estimation
+Extracting information from the signature of a financial data stream
+Optimal Linear Shrinkage Estimator for Large Dimensional Precision Matrix
+Asymmetric connectedness of stocks: How does bad and good volatility spill over the U.S. stock market?
+Apparent criticality and calibration issues in the Hawkes self-excited point process model: application to high-frequency financial data
+Asymptotic properties of maximum likelihood estimators for Heston models based on continuous time observations
+Modeling of Volatility with Non-linear Time Series Model
+Multifractal Diffusion Entropy Analysis: Optimal Bin Width of Probability Histograms
+Information ratio analysis of momentum strategies
+News Cohesiveness: an Indicator of Systemic Risk in Financial Markets
+Consentaneous agent-based and stochastic model of the financial markets
+On a Convex Measure of Drawdown Risk
+Stock Market Prediction from WSJ: Text Mining via Sparse Matrix Factorization
+Predictability of Volatility Homogenised Financial Time Series
+Identification of cross and autocorrelations in time series within an approach based on Wigner eigenspectrum of random matrices
+Causal Non-Linear Financial Networks
+Power law scaling and Dragon-Kings in distributions of intraday financial drawdowns
+Agent-based model with asymmetric trading and herding for complex financial systems
+Rockets and feathers meet Joseph: Reinvestigating the oil-gasoline asymmetry on the international markets
+Arbitrage-free prediction of the implied volatility smile
+Homogeneous Volatility Bridge Estimators
+ipf's law and maximum sustainable growth
+Correlation of financial markets in times of crisis
+A Map of the Brazilian Stock Market
+Time-Bridge Estimators of Integrated Variance
+Pruning a Minimum Spanning Tree
+A simple microstructure return model explaining microstructure noise and Epps effects
+International Stock Market Efficiency: A Non-Bayesian Time-Varying Model Approach
+Empirical Study of the GARCH model with Rational Errors
+Permutation approach high frequency trading and variety of micro patterns in financial time series
+The digital traces of bubbles: feedback cycles between socio-economic signals in the Bitcoin economy
+Sector-Based Factor Models for Asset Returns
+Granger Causality Stock Market Networks: Temporal Proximity and Preferential Attachment
+Maximum Entropy Production Principle for Stock Returns
+Recurrence plots of exchange rates of currencies
+Symmetric thermal optimal path and time-dependent lead-lag relationship: Novel statistical tests and application to UK and US real-estate and monetary policies
+Intra-day variability of the stock market activity versus stationarity of the financial time series
+A Noisy Principal Component Analysis for Forward Rate Curves
+Calculation of aggregate loss distributions
+Holder-extendible European option: corrections and extensions
+Cluster formation and evolution in networks of financial market indices
+Tick Size Reduction and Price Clustering in a FX Order Book
+Simulating and analyzing order book data: The queue-reactive model
+Cross-correlation asymmetries and causal relationships between stock and market risk
+Transport catastrophe analysis as an alternative to a fractal description: theory and application to financial crisis time series
+Dynamics in two networks based on stocks of the US stock market
+The Random Walk of High Frequency Trading
+Approximation of eigenvalues of spot cross volatility matrix with a view toward principal component analysis
+The Credibility Theory applied to backtesting Counterparty Credit Risk
+Empirical Study of the 1-2-3 Trend Indicator
+Optimal models of extreme volume-prices are time-dependent
+Signal Diffusion Mapping: Optimal Forecasting with Time Varying Lags
+Entropy and Optimization of Portfolios
+On the Strong Convergence of the Optimal Linear Shrinkage Estimator for Large Dimensional Covariance Matrix
+Analytical solution for a class of network dynamics with mechanical and financial applications
+Community detection for correlation matrices
+Are credit ratings time-homogeneous and Markov?
+Stochastic Evolution of Stock Market Volume-Price Distributions
+Localization in covariance matrices of coupled heterogenous Ornstein-Uhlenbeck processes
+Record statistics of financial time series and geometric random walks
+Minimax estimation of jump activity in semimartingales
+Time Evolution of Non-linear Currency Networks
+The Fourier estimation method with positive semi-definite estimators
+Volatility is rough
+-Factor Model for Overnight Returns
+The non-linear trade-off between return and risk: a regime-switching multi-factor framework
+qGaussian model of default
+Are news important to predict large losses?
+Dynamic Model Averaging in Large Model Spaces Using Dynamic Occam's Window
+When does the stock market listen to economic news? New evidence from copulas and news wires
+The Model Confidence Set package for R
+Dependent default and recovery: MCMC study of downturn LGD credit risk model
+Estimating time-changes in noisy L 'evy models
+On the Super-Additivity and Estimation Biases of Quantile Contributions
+Scaling analysis of time series of daily prices from stock markets of transitional economies in the Western Balkans
+Incorporating Views on Marginal Distributions in the Calibration of Risk Models
+Modelling cross-border systemic risk in the European banking sector: a copula approach
+Universality of Tsallis q-exponential of interoccurrence times within the microscopic model of cunning agents
+On the Complexity and Behaviour of Cryptocurrencies Compared to Other Markets
+Simple Stochastic Order-Book Model of Swarm Behavior in Continuous Double Auction
+Trend and Fractality Assessment of Mexico's Stock Exchange
+Modelling of dependence in high-dimensional financial time series by cluster-derived canonical vines
+Why is order flow so persistent?
+Identifying financial crises in real time
+Cascades in real interbank markets
+Inference on Self-Exciting Jumps in Prices and Volatility using High Frequency Measures
+Branching ratio approximation for the self-exciting Hawkes process
+Spectrum-based estimators of the bivariate Hurst exponent
+On the interplay between short and long term memory in the power-law cross-correlations setting
+Finite sample properties of power-law cross-correlations estimators
+Skewness and kurtosis analysis for non-Gaussian distributions
+Competition of Commodities for the Status of Money in an Agent-based Model
+Financial Time Series: Stylized Facts for the Mexican Stock Exchange Index Compared to Developed Markets
+Max-factor individual risk models with application to credit portfolios
+Estimation of slowly decreasing Hawkes kernels: Application to high frequency order book modelling
+Adaptive Market Efficiency of Agricultural Commodity Futures Contracts
+A nested factor model for non-linear dependences in stock returns
+Efficient Modeling and Forecasting of the Electricity Spot Price
+Relation between Financial Market Structure and the Real Economy: Comparison between Clustering Methods
+Coupling news sentiment with web browsing data predicts intra-day stock prices
+Forecasting day ahead electricity spot prices: The impact of the EXAA to other European electricity markets
+Entropy-Based Financial Asset Pricing
+Analyses of Statistical Structures in Economic Indices
+The Golden Target: Analyzing the Tracking Performance of Leveraged Gold ETFs
+Stochastic simulation framework for the Limit Order Book using liquidity motivated agents
+Google matrix analysis of the multiproduct world trade network
+Data manipulation detection via permutation information theory quantifiers
+On the Modular Dynamics of Financial Market Networks
+Bin Size Independence in Intra-day Seasonalities for Relative Prices
+Modeling and forecasting exchange rate volatility in time-frequency domain
+The fractional volatility model: No-arbitrage leverage and completeness
+Are benefits from oil - stocks diversification gone? New evidence from a dynamic copula and high frequency data
+Second order statistics characterization of Hawkes processes and non-parametric estimation
+Leverage effect in energy futures
+Paths and indices of maximal tail dependence
+Estimating topological properties of weighted networks from limited information
+Herding interactions as an opportunity to prevent extreme events in financial markets
+Detrended fluctuation analysis as a regression framework: Estimating dependence at different scales
+Systemic risk analysis in reconstructed economic and financial networks
+Nonlinear GARCH model and 1 f noise
+Community detection in temporal multilayer networks and its application to correlation networks
+Toward robust early-warning models: A horse race ensembles and model uncertainty
+Power-law correlations in finance-related Google searches and their cross-correlations with volatility and traded volume: Evidence from the Dow Jones Industrial components
+How volatilities nonlocal in time affect the price dynamics in complex financial systems
+An Analysis of the Heston Stochastic Volatility Model: Implementation and Calibration using Matlab
+Stock market comovements: nonlinear approach for 8 countries

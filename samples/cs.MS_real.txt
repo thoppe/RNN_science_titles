@@ -1,0 +1,677 @@
+Real Options for Project Schedules (ROPS)
+Algorithm for Evaluation of the Interval Power Function of Unconstrained Arguments
+Generalized Box-Muller method for generating q-Gaussian random deviates
+Adaptive simulated annealing (ASA): Lessons learned
+Mathematical Software: Past Present and Future
+Automatic Differentiation Tools in Optimization Software
+GPCG: A Case Study in the Performance and Scalability of Optimization Algorithms
+Benchmarking Optimization Software with Performance Profiles
+Lectures on Reduce and Maple at UAM I - Mexico
+Users Guide for SnadiOpt: A Package Adding Automatic Differentiation to Snopt
+Computer validated proofs of a toolset for adaptable arithmetic
+TeXmacs interfaces to Maxima MuPAD and REDUCE
+Recursive function templates as a solution of linear algebra expressions in C
+A Bird's eye view of Matrix Distributed Processing
+A Representation of Changes of Images and its Application for Developmental Biolology
+Development of a Java Package for Matrix Programming
+Finding the truncated polynomial that is closest to a function
+Boundary knot method for Laplace and biharmonic problems
+Mace4 Reference Manual and Guide
+OTTER 3.3 Reference Manual
+An Introduction to Using Software Tools for Automatic Differentiation
+Cluster computing performances using virtual processors and mathematical software
+Algorithm xxx: Modified Bessel functions of imaginary order and positive argument
+Directional Consistency for Continuous Numerical Constraints
+A Fast Vectorizable Algorithm for Producing Single-Precision Sine-Cosine Pairs
+Tsnnls: A solver for large sparse least squares problems with non-negative variables
+ADF: Tool for automatic differentiation of a FORTRAN code designed for large numbers of independent variables
+TeXmacs-maxima interface
+Estudo e Implementacao de Algoritmos de Roteamento sobre Grafos em um Sistema de Informacoes Geograficas
+COMODI: On the Graphical User Interface
+Numerical resolution of some BVP using Bernstein polynomials
+PURRS: Towards Computer Algebra Support for Fully Automatic Worst-Case Complexity Analysis
+Computations with one and two real algebraic numbers
+A library of Taylor models for PVS automatic proof checker
+BioSig - An application of Octave
+Evaluation of interval extension of the power function by graph decomposition
+Sparse Matrix Implementation in Octave
+UniCalc.LIN: a linear constraint solver for the UniCalc system
+A Fixed-Point Type for Octave
+Univariate polynomial real root isolation: Continued Fractions revisited
+Caract ' e ristiques arithm ' e tiques des processeurs graphiques
+Stochastic Formal Methods: An application to accuracy of numeric software
+Ideas by Statistical Mechanics (ISM)
+Faithful Polynomial Evaluation with Compensated Horner Algorithm
+Coupling Methodology within the Software Platform Alliances
+Revisiting Matrix Product on Master-Worker Platforms
+The Parma Polyhedra Library: Toward a Complete Set of Numerical Abstractions for the Analysis and Verification of Hardware and Software Systems
+The virtual reality framework for engineering objects
+A canonical form for some piecewise defined functions
+LIBOPT - An environment for testing solvers on heterogeneous collections of problems - Version 1.0
+Why the Standard Data Processing should be changed
+Developing numerical libraries in Java
+Hyper-Systolic Matrix Multiplication
+Fast Computational Algorithms for the Discrete Wavelet Transform and Applications of Localized Orthonormal Bases in Signal Classification
+An Algebraic Programming Style for Numerical Software and its Optimization
+Seeing the Forest in the Tree: Applying VRML to Mathematical Problems in Number Theory
+LSJK - a C library for arbitrary-precision numeric evaluation of the generalized log-sine functions
+Introducing LambdaTensor1.0 - A package for explicit symbolic and numeric Lie algebra and Lie group calculations
+Lanczos tau -method optimal algorithm in APS for approximating the mathematical functions
+One method for proving inequalities by computer
+An Implementation of the Bestvina-Handel Algorithm for Surface Homeomorphisms
+Computing Integer Powers in Floating-Point Arithmetic
+On a solution to display non-filled-in quaternionic Julia sets
+Certification of bounds on expressions involving rounded operators
+Fast computing of velocity field for flows in industrial burners and pumps
+Comments on the Reliability of Lawson and Hanson's Linear Distance Programming Algorithm: Subroutine LDP
+Verified Real Number Calculations: A Library for Interval Arithmetic
+Formally Verified Argument Reduction with a Fused-Multiply-Add
+Building the Tangent and Adjoint codes of the Ocean General Circulation Model OPA with the Automatic Differentiation tool TAPENADE
+TRUST-TECH based Methods for Optimization and Learning
+Certifying floating-point implementations using Gappa
+Generic and Typical Ranks of Three-Way Arrays
+Conformal Computing: Algebraically connecting the hardware software boundary using a uniform approach to high-performance computation for software and hardware applications
+A Monadic Functional Implementation of Real Numbers
+A Class of Parallel Tiled Linear Algebra Algorithms for Multicore Architectures
+Algorithmic Based Fault Tolerance Applied to High Performance Computing
+Revisiting the upper bounding process in a safe Branch and Bound algorithm
+Ranking and Unranking of Hereditarily Finite Functions and Permutations
+A Functional Hitchhiker's Guide to Hereditarily Finite Sets Ackermann Encodings and Pairing Functions
+Accelerating Scientific Computations with Mixed Precision Algorithms
+Clustering and Feature Selection using Sparse Principal Component Analysis
+A Basic Introduction on Math-Link in Mathematica
+How to Run Mathematica Batch-files in Background 
+Parallel Evaluation of Mathematica Programs in Remote Computers Available in Network
+Classdesc and Graphcode: support for scientific programming in C
+Parallel GPU Implementation of Iterative PCA Algorithms
+Difference Equations in Massive Higher Order Calculations
+Optimizing polynomials for floating-point implementation
+A Method for Solving Cyclic Block Penta-diagonal Systems of Linear Equations
+GraphStream: A Tool for bridging the gap between Complex Systems and Dynamic Graphs
+Bitslicing and the Method of Four Russians Over Larger Finite Fields
+Rectangular Full Packed Format for Cholesky's Algorithm: Factorization Solution and Inversion
+On the bit-complexity of sparse polynomial multiplication
+Automatic generation of non-uniform random variates for arbitrary pointwise computable probability densities by tiling
+A Fast Multigrid Algorithm for Energy Minimization Under Planar Density Constraints
+Stochastic Formal Methods for Hybrid Systems
+The generating of Fractal Images Using MathCAD Program
+FISLAB - the Fuzzy Inference Tool-box for SCILAB
+The development of a fuzzy regulator with an entry and an output in Fislab
+Memory efficient scheduling of Strassen-Winograd's matrix multiplication algorithm
+Geometric scaling: a simple preconditioner for certain linear systems with discontinuous coefficients
+Fast solving of Weighted Pairing Least-Squares systems
+WinBioinfTools: Bioinformatics Tools for Windows High Performance Computing Server 200
+Limits of Educational Soft GeoGebra in a Critical Constructive Review
+Iterative Methods for Systems' Solving - a C approach
+Real Solution Isolation with Multiplicity of ero-Dimensional Triangular Systems
+On computing the Hermite form of a matrix of differential polynomials
+A generalized inner and outer product of arbitrary multi-dimensional arrays using A Mathematics of Arrays (MoA)
+Tensors and n-d Arrays:A Mathematics of Arrays (MoA) psi-Calculus and the Composition of Tensor and Array Operations
+Mean and Variance Estimation by Kriging
+Executable Set Theory and Arithmetic Encodings in Prolog
+Optimally Tuned Iterative Reconstruction Algorithms for Compressed Sensing
+Approximating Mathematical Semantic Web Services Using Approximation Formulas and Numerical Methods
+Local Shape of Generalized Offsets to Algebraic Curves
+An Example of Clifford Algebras Calculations with GiNaC
+One approach to the digital visualization of hedgehogs in holomorphic dynamics
+Applications of Polyhedral Computations to the Analysis and Verification of Hardware and Software Systems
+Type-II III DCT DST algorithms with reduced number of arithmetic operations
+Optimal Cache-Oblivious Mesh Layouts
+Parallel Computation of Finite Element Navier-Stokes codes using MUMPS Solver
+A Branch and Cut Algorithm for the Halfspace Depth Problem
+Isogenies of Elliptic Curves: A Computational Approach
+Algorithm for generating orthogonal matrices with rational elements
+Mathematica: A System of Computer Programs
+Matrix Distributed Processing: A set of C Tools for implementing generic lattice computations on parallel systems
+Numerical Calculation With Arbitrary Precision
+A Density Matrix-based Algorithm for Solving Eigenvalue Problems
+Asymmetric Quantum Cyclic Codes
+On the Different Shapes Arising in a Family of Rational Curves Depending on a Parameter
+Global communications in multiprocessor simulations of flames
+Reliability Conditions in Quadrature Algorithms
+A Maple Package for Computing Groebner Bases for Linear Recurrence Relations
+NetEvo: A computational framework for the evolution of dynamical complex networks
+The Multiple eta Value Data Mine
+A novel type of branch and bound for maximum independent set
+Algorithmic Differentiation of Linear Algebra Functions with Application in Optimum Experimental Design (Extended Version)
+An in-place truncated Fourier transform and applications to polynomial multiplication
+The Power of Vocabulary: The Case of Cyclotomic Polynomials
+Fast Arithmetics in Artin-Schreier Towers over Finite Fields
+Assessment Of The Wind Farm Impact On The Radar
+Factorization of Non-Commutative Polynomials
+Towards an Efficient Tile Matrix Inversion of Symmetric Positive Definite Matrices on Multicore Architectures
+Complementary approaches to understanding the plant circadian clock
+Transferring a symbolic polynomial expression from emph Mathematica to emph Matlab
+Efficient Construction Update and Downdate Of The Coefficients Of Interpolants Based On Polynomials Satisfying A Three-Term Recurrence Relation
+wiki.openmath.org - how it works how you can participate
+SWiM -- A Semantic Wiki for Mathematical Knowledge Management
+MP users guide
+Formal Proof of SCHUR Conjugate Function
+Triangular Decomposition of Semi-algebraic Systems
+Electronic Geometry Textbook: A Geometric Textbook Knowledge Management System
+The Formulator MathML Editor Project: User-Friendly Authoring of Content Markup Documents
+Universal algorithms mathematics of semirings and parallel computations
+The myth of equidistribution for high-dimensional simulation
+Some comments on C. S. Wallace's random number generators
+SABRE: A Tool for Stochastic Analysis of Biochemical Reaction Networks
+NMATH 1.0
+Random Numbers in Scientific Computing: An Introduction
+An OpenMath Content Dictionary for Tensor Concepts
+Adapting Mathematical Domain Reasoners
+Block Locally Optimal Preconditioned Eigenvalue Xolvers (BLOPEX) in hypre and PETSc
+HONEI: A collection of libraries for numerical computations targeting multiple processor architectures
+Groebner bases in Java with applications in computer graphics
+Making big steps in trajectories
+Computational Complexity of Iterated Maps on the Interval (Extended Abstract)
+Efficient Decomposition of Dense Matrices over GF(2)
+Highly Parallel Sparse Matrix-Matrix Multiplication
+Towards OpenMath Content Dictionaries as Linked Data
+Genbit Compress Tool(GBC): A Java-Based Tool to Compress DNA Sequences and Compute Compression Ratio(bits base) of Genomes
+Open Graphs and Computational Reasoning
+Certified Exact Transcendental Real Number Computation in Coq
+Implementing Gr obner bases for operads
+Runtime-Flexible Multi-dimensional Arrays and Views for C  and C 0x
+Mesh Algorithms for PDE with Sieve I: Mesh Distribution
+Community landscapes: an integrative approach to determine overlapping network module hierarchy identify key nodes and predict network dynamics
+Exact Sparse Matrix-Vector Multiplication on GPU's and Multicore Architectures
+M-Learning: A New Paradigm of Learning Mathematics in Malaysia
+LinBox founding scope allocation parallel building blocks and separate compilation
+Parameterized Adaptive Multidimensional Integration Routines (PAMIR): Localization by Repeated 2 p Subdivision
+An Elimination Method for Solving Bivariate Polynomial Systems: Eliminating the Usual Drawbacks
+A Hybrid Parallelization of AIM for Multi-Core Clusters: Implementation Details and Benchmark Results on Ranger
+A Review of Error Estimation in Adaptive Quadrature
+Minimizing Communication for Eigenproblems and the Singular Value Decomposition
+Domain Decomposition method on GPU cluster
+Fast Multiplication of Matrices with Decay
+Interpolation of Shifted-Lacunary Polynomials
+Transmission line inspires a new distributed algorithm to solve linear system of circuit
+Simulation of Self-Assembly in the Abstract Tile Assembly Model with ISU TAS
+Quantum Anticipation Explorer
+The NumPy array: a structure for efficient numerical computation
+XMLlab : multimedia publication of simulations applets using XML and Scilab
+The Planetary System: Executable Science Technology Engineering and Math Papers
+Software for Generation of Classes of Test Functions with Known Local and Global Minima for Global Optimization
+Data sets of very large linear feasibility problems solved by projection methods
+A study of the existing linear algebra libraries that you can use from C (Une 'etude des biblioth eques d'alg ebre lin 'eaire utilisables en C )
+Arrangement Computation for Planar Algebraic Curves
+Diversification improves interpolation
+Optimisations for quadrature representations of finite element tensors through automated code generation
+Automated code generation for discontinuous Galerkin methods
+Algorithms for Computing Triangular Decompositions of Polynomial Systems
+Operand Folding Hardware Multipliers
+Symbolic computation of weighted Moore-Penrose inverse using partitioning method
+About the generalized LM-inverse and the weighted Moore-Penrose inverse
+Univariate real root isolation in an extension field
+A search for an optimal start system for numerical homotopy continuation
+Applying dissipative dynamical systems to pseudorandom number generation: Equidistribution property and statistical independence of bits at distances up to logarithm of mesh size
+Activity-Based Search for Black-Box Contraint-Programming Solvers
+ShearLab: A Rational Design of a Digital Parabolic Scaling Algorithm
+Methods of Matrix Multiplication: An Overview of Several Methods and their Implementation
+The MathScheme Library: Some Preliminary Experiments
+A Library for Implementing the Multiple Hypothesis Tracking Algorithm
+GPU-Based Heuristic Solver for Linear Sum Assignment Problems Under Real-time Constraints
+An algorithm for autonomously plotting solution sets in the presence of turning points
+Integrating Generic Sensor Fusion Algorithms with Sound State Representations through Encapsulation of Manifolds
+Licensing the Mizar Mathematical Library
+Using Java for distributed computing in the Gaia satellite data processing
+PetRBF--A parallel O(N) algorithm for radial basis function interpolation
+A domain decomposing parallel sparse linear system solver
+How to obtain efficient GPU kernels: an illustration using FMM FGT algorithms
+alphaCertified: certifying solutions to polynomial systems
+Computational Tools for Cohomology of Toric Varieties
+Specific scientific data structures and their processing
+A New Vectorization Technique for Expression Templates in C
+Computational Complexity of Iterated Maps on the Interval
+Generating and using truly random quantum states in Mathematica
+Parallel Breadth-First Search on Distributed Memory Systems
+Asymptotic Methods of ODEs: Exploring Singularities of the Second Kind
+Odeint - Solving ordinary differential equations in C
+Proceedings 10th International Workshop on the ACL2 Theorem Prover and its Applications
+How Can I Do That with ACL2 Recent Enhancements to ACL2
+Formal Verification of an Iterative Low-Power x Floating-Point Multiplier with Redundant Feedback
+Throughput-Distortion Computation Of Generic Matrix Multiplication: Toward A Computation Channel For Digital Signal Processing Systems
+Numerical Algebraic Geometry for Macaulay2
+Efficient Dense Gaussian Elimination over the Finite Field with Two Elements
+The M4RIE library for dense linear algebra over small fields with even characteristic
+M th Desktop and MD Tools - Mathematics and Mathematica Made Easy for Students
+Classifying extrema using intervals
+Differentiation of Kaltofen's division-free determinant algorithm
+Complexity and Algorithms for Euler Characteristic of Simplicial Complexes
+LSMR: An iterative algorithm for sparse least-squares problems
+A novel parallel algorithm for Gaussian Elimination of sparse unsymmetric matrices
+Rank-profile revealing Gaussian elimination and the CUP matrix decomposition
+Evaluating polynomials in several variables and their derivatives on a GPU computing processor
+ProofPeer - A Cloud-based Interactive Theorem Proving System
+A Representation of Binary Matrices
+Exact Symbolic-Numeric Computation of Planar Algebraic Curves
+Matrix representation of a solution of a combinatorial problem of the group theory
+PyDEC: Software and Algorithms for Discretization of Exterior Calculus
+LSRN: A Parallel Iterative Solver for Strongly Over- or Under-Determined Systems
+The Optimal Uncertainty Algorithm in the Mystic Framework
+Building a Framework for Predictive Science
+Singular Values using Cholesky Decomposition
+Fatgraph Algorithms and the Homology of the Kontsevich Complex
+Function call overhead benchmarks with MATLAB Octave Python Cython and C
+Computable Hilbert Schemes
+Proceedings First Workshop on CTP Components for Educational Software
+Towards an Intelligent Tutor for Mathematical Proofs
+Automatic Deduction in Dynamic Geometry using Sage
+Formalization and Implementation of Algebraic Methods in Geometry
+Integrating DGSs and GATPs in an Adaptative and Collaborative Blended-Learning Web-Environment
+Computer-Assisted Program Reasoning Based on a Relational Semantics of Programs
+Isabelle PIDE as Platform for Educational Tools
+The GF Mathematics Library
+Technique detection software for Sparse Matrices
+Efficient Multiplication of Dense Matrices over GF(2)
+mlpy: Machine Learning Python
+On the asymptotic and practical complexity of solving bivariate systems over the reals
+Can the Eureqa symbolic regression program computer algebra and numerical analysis help each other
+General Complex Polynomial Root Solver and Its Further Optimization for Binary Microlenses
+Subtotal ordering -- a pedagogically advantageous algorithm for computing total degree reverse lexicographic order
+Simplifying products of fractional powers of powers
+AD in Fortran Part 1: Design
+AD in Fortran Part 2: Implementation via Prepreprocessor
+Set Reduction In Nonlinear Equations
+Scilab and SIP for Image Processing
+Implementation of a Unimodularity Test
+The Kernel Quantum Probabilities (KQP) Library
+TeXmacs-Reduce interface
+Heterogeneous Highly Parallel Implementation of Matrix Exponentiation Using GPU
+Reimplementing the Mathematical Subject Classification (MSC) as a Linked Open Dataset
+The QWalk Simulator of Quantum Walks
+Using Premia and Nsp for Constructing a Risk Management Benchmark for Testing Parallel Architecture
+DOLFIN: Automated Finite Element Computing
+Automating embedded analysis capabilities and managing software complexity in multiphysics simulation part I: template-based generic programming
+Reliable Generation of High-Performance Matrix Algebra
+A Heterogeneous Accelerated Matrix Multiplication: OpenCL APU GPU Fast Matrix Multiply
+Efficient Expression Templates for Operator Overloading-based Automatic Differentiation
+Automating embedded analysis capabilities and managing software complexity in multiphysics simulation part II: application to partial differential equations
+Sample programs in C for matrix computations in max plus algebra
+A Domain-Specific Compiler for Linear Algebra Operations
+Metaprogramming Applied to Numerical Problems
+LINPRO: linear inverse problem library for data contaminated by statistical noise
+Solving Dense Generalized Eigenproblems on Multi-threaded Architectures
+OpenGM: A C Library for Discrete Graphical Models
+Parallel random variates generator for GPUs based on normal numbers
+Point-and-write --- Documenting Formal Mathematics by Reference
+Utilizing Static Analysis and Code Generation to Accelerate Neural Networks
+Multivariate Polynomials in Sage
+Modular Arithmetic Expressions and Primality Testing via DNA Self-Assembly
+Bayes Blocks: An Implementation of the Variational Bayesian Building Blocks Framework
+Discovery of non-gaussian linear causal models using ICA
+A Generic Library for Stencil Computations
+How good are MatLab Octave and Scilab for Computational Modelling
+On Formal Specification of Maple Programs
+Towards the Formal Specification and Verification of Maple Programs
+Verifying an algorithm computing Discrete Vector Fields for digital imaging
+Isabelle jEdit --- a Prover IDE within the PIDE framework
+Hierarchical N-body simulations with auto-tuning for heterogeneous systems
+Parallel Sparse Matrix-Matrix Multiplication and Indexing: Implementation and Experiments
+A multiprecision matrix calculation library and its extension library for a matrix-product-state simulation of quantum computing
+Performance of FORTRAN and C GPU Extensions for a Benchmark Suite of Fourier Pseudospectral Algorithms
+Analytical Nonlocal Electrostatics Using Eigenfunction Expansions of Boundary-Integral Operators
+User Manual for the Complex Conjugate Gradient Methods Library CCGPAK 2.0
+Having Fun with Lambert W(x) Function
+Efficient numerical computation of the Pfaffian for dense and banded skew-symmetric matrices
+An Optimized Sparse Approximate Matrix Multiply for Matrices with Decay
+High-Performance Solvers for Dense Hermitian Eigenproblems
+Swarm-NG: a CUDA Library for Parallel n-body Integrations with focus on Simulations of Planetary Systems
+Parallel Random Search Algorithm of Constrained Pseudo-Boolean Optimization for Some Distinctive Large-Scale Problems
+Lambert W Function for Applications in Physics
+Programming Languages for Scientific Computing
+Writing Reusable Digital Geometry Algorithms in a Generic Image Processing Framework
+PHCpack in Macaulay2
+A Tuned and Scalable Fast Multipole Method as a Preeminent Algorithm for Exascale Systems
+Employing online quantum random number generators for generating truly random quantum states in Mathematica
+SMAT: An Input Adaptive Sparse Matrix-Vector Multiplication Auto-Tuner
+Symbolic Analysis for Boundary Problems: From Rewriting to Parametrized Gr obner Bases
+Regular and Singular Boundary Problems in Maple
+A Robust Complex Division in Scilab
+A New Recursive Algorithm For Inverting A General Comrade Matrix
+MLPACK: A Scalable C Machine Learning Library
+Optimized M2L Kernels for the Chebyshev Interpolation based Fast Multipole Method
+High-Order Discontinuous Galerkin Methods by GPU Metaprogramming
+A Bernstein Polynomial Collocation Method for the Solution of Elliptic Boundary Value Problems
+Confusion of Tagged Perturbations in Forward Automatic Differentiation of Higher-Order Functions
+Application-tailored Linear Algebra Algorithms: A search-based Approach
+Construction of Single-valued Solutions for Nonintegrable Systems with the Help of the Painleve Test
+Fast Sparse Matrix-Vector Multiplication on GPUs: Implications for Graph Mining
+NLSEmagic: Nonlinear Schr odinger Equation Multidimensional Matlab-based GPU-accelerated Integrators using Compact High-order Schemes
+Performance Modeling for Dense Linear Algebra
+Demonstrating the Usefulness of CAELinux for Computer Aided Engineering using an Example of the Three Dimensional Reconstruction of a Pig Liver
+Algorithms for discovering and proving theorems about permutation patterns
+A modular framework for randomness extraction based on Trevisan's construction
+Automated verification of termination certificates
+PyClaw: Accessible Extensible Scalable Tools for Wave Propagation Problems
+Orthogononalization on a general purpose graphics processing unit with double double and quad double arithmetic
+Formal Model-Driven Engineering: Generating Data and Behavioural Components
+Tree-based Arithmetic and Compressed Representations of Giant Numbers
+Binary Tree Arithmetic with Generalized Constructors
+On Two Infinite Families of Pairing Bijections
+Improved QFT algorithm for power-of-two FFT
+Parallel Algorithms for Constructing Data Structures for Fast Multipole Methods
+ALGORITHM xxx: MINRES-QLP for Singular Symmetric and Hermitian Linear Equations and Least-Squares Problems
+GGDRASIL - A Statistical Package for Learning Split Models
+On the effects of scaling on the performance of Ipopt
+A Highly Efficient Parallel Algorithm for Computing the Fiedler Vector
+A High-Performance Numerical Library for Solving Eigenvalue Problems: FEAST Solver v2.1 User's Guide
+Block-Structured Adaptive Mesh Refinement Algorithms for Vlasov Simulation
+Computational topology with Regina: Algorithms heuristics and implementations
+Kleene Algebra with Tests and Coq Tools for While Programs
+RandFile package for Mathematica for accessing file-based sources of randomness
+A framework for automated PDE-constrained optimisation
+Q a quantum computation package for the .NET platform
+Random numbers from the tails of probability distributions using the transformation method
+The alternative operad is not Koszul
+Variants of Mersenne Twister Suitable for Graphic Processors
+Tactics for Reasoning modulo AC in Coq
+Sparse matrix-vector multiplication on GPGPU clusters: A new storage format and a scalable implementation
+Scikit-learn: Machine Learning in Python
+GURLS: a Least Squares Library for Supervised Learning
+Tiled Algorithms for Matrix Computations on Multicore Architectures
+Nonsingular Efficient Modeling of Rotations in 3-space using three components
+Unified Form Language: A domain-specific language for weak formulations of partial differential equations
+Programming CUDA and OpenCL: A Case Study Using Modern C Libraries
+Parameter identification in large kinetic networks with BioPARKIN
+Highly Scalable Multiplication for Distributed Sparse Multivariate Polynomials on Many-core Systems
+Efficient Generation of Correctness Certificates for the Abstract Domain of Polyhedra
+C Language Extensions for Hybrid CPU GPU Programming with StarPU
+The Graph Grammar Library - a generic framework for chemical graph rewrite systems
+Solving Wave Equations on Unstructured Geometries
+An implementation of the relational k-means algorithm
+Subspace-preserving sparsification of matrices with minimal perturbation to the near null-space. Part I: Basics
+Subspace-preserving sparsification of matrices with minimal perturbation to the near null-space. Part II: Approximation and Implementation
+A GEMM interface and implementation on NVIDIA GPUs for multiple small matrices
+Batched Kronecker product for 2-D matrices and 3-D arrays on NVIDIA GPUs
+Proceedings International Workshop on the ACL2 Theorem Prover and its Applications
+Some Software Packages for Partial SVD Computation
+Series misdemeanors
+Series Crimes
+Hamilton Operators Discrete Symmetries Brute Force and SymbolicC
+Solving Sequences of Generalized Least-Squares Problems on Multi-threaded Architectures
+Computing Petaflops over Terabytes of Data: The Case of Genome-Wide Association Studies
+Simultaneous computation of the row and column rank profiles
+Streaming Data from HDD to GPUs for Sustained Peak Performance
+Model-guided Performance Analysis of the Sparse Matrix-Matrix Multiplication
+Update report: LEO-II version 1.
+A Qualitative Comparison of the Suitability of Four Theorem Provers for Basic Auction Theory
+KCM: a C library for multiprecision matrix computation with applications in quantum information
+Algorithms for Large-scale Whole Genome Association Analysis
+Enhancements to ACL2 in Versions .0 .0 and .1
+Verified AIG Algorithms in ACL2
+HERMES: towards an integrated toolbox to characterize functional and effective brain connectivity
+An efficient way to perform the assembly of finite element matrices in Matlab and Octave
+A computer algebra user interface manifesto
+Making the case of GPUs in courses on computational physics
+PetIGA: High-Performance Isogeometric Analysis
+A Parallel and Scalable Iterative Solver for Sequences of Dense Eigenproblems Arising in FLAPW
+Formal Mathematics on Display: A Wiki for Flyspeck
+GPU-accelerated generation of correctly-rounded elementary functions
+NIFT - Numerical Information Field Theory - a versatile Python library for signal inference
+Improved Accuracy and Parallelism for MRRR-based Eigensolvers -- A Mixed Precision Approach
+swMATH - a new information service for mathematical software
+Arithmetic Algorithms for Hereditarily Binary Natural Numbers
+A Universal Machine for Biform Theory Graphs
+Programs in C for matrix computations in min plus algebra
+vSMC: Parallel Sequential Monte Carlo in C
+Panphasia: a user guide
+A Unified Software Framework for Empirical Gramians
+Understanding Branch Cuts of Expressions
+Next generation input-output data format for HEP using Google's protocol buffers
+Investigating independent subsets of graphs with Mathematica
+Building Bricks with Bricks with Mathematica
+Making simple proofs simpler
+A Mathematica package to cope with partially ordered sets
+Proceedings 10th International Workshop On User Interfaces for Theorem Provers
+PROOFTOOL: a GUI for the GAPT Framework
+Theorema 2.0: A Graphical User Interface for a Mathematical Assistant System
+Towards an Efficient Use of the BLAS Library for Multilinear Tensor Contractions
+The Declaratron semantic specification for scientific computation using MathML
+Acceleration of univariate global optimization algorithms working with Lipschitz functions and Lipschitz first derivatives
+Solving ordinary differential equations on the Infinity Computer by working with infinitesimals numerically
+Lipschitz gradients for global optimization in a one-point-based partitioning scheme
+RNGSSELIB: Program library for random number generation. More generators parallel streams of random numbers and Fortran compatibility
+From Physics Model to Results: An Optimizing Framework for Cross-Architecture Code Generation
+Supporting 4-bit global indices in Epetra and other Trilinos packages -- Techniques used and lessons learned
+Schwerdtfeger-Fillmore-Springer-Cnops Construction Implemented in GiNaC
+ManyClaw: Slicing and dicing Riemann solvers for next generation highly parallel architectures
+A Parallel Algorithm for Calculation of Large Determinants with High Accuracy for GPUs and MPI clusters
+Pylearn2: a machine learning research library
+A Domain Decomposition Approach to Implementing Fault Slip in Finite-Element Models of Quasi-static and Dynamic Crustal Deformation
+The JBotSim Library
+Isogeometric analysis: an overview and computer implementation aspects
+Best Practices for Scientific Computing
+API design for machine learning software: experiences from the scikit-learn project
+BayesOpt: A Library for Bayesian optimization with Robotics Applications
+Experiences with Automated Build and Test for Geodynamics Simulation Codes
+Achieving High Performance with Unified Residual Evaluation
+DUNE as an Example of Sustainable Open Source Scientific Software Development
+Cactus: Issues for Sustainable Simulation Software
+HOL(y)Hammer: Online ATP Service for HOL Light
+Advanced Techniques for Scientific Programming and Collaborative Development of Open Source Software Packages at the International Centre for Theoretical Physics (ICTP)
+High Precision Arithmetic for Scientific Applications
+Matrix Inversion Using Cholesky Decomposition
+Automated derivation of the adjoint of high-level transient finite element programs
+A Massively Parallel Algebraic Multigrid Preconditioner based on Aggregation for Elliptic Problems with Heterogeneous Coefficients
+A framework for the automation of generalised stability theory
+MizAR 40 for Mizar 40
+Bertini for Macaulay2
+SOSTOOLS Version 3.00 Sum of Squares Optimization Toolbox for MATLAB
+SymbolicData:SDEval - Benchmarking for Everyone
+Possible Directions for Improving Dependency Versioning in R
+Computation of the Marcum Q-function
+GooFit: A library for massively parallelising maximum-likelihood fits
+Lattice Simulations using OpenACC compilers
+MEIGO: an open-source software suite based on metaheuristics for global optimization in systems biology and bioinformatics
+A Symbolic Transformation Language and its Application to a Multiscale Method
+FullSWOF Paral: Comparison of two parallelization strategies (MPI and SKELGIS) on a software designed for hydrology applications
+Silent error detection in numerical time-stepping schemes
+Sparse Allreduce: Efficient Scalable Communication for Power-Law Data
+Large-Scale Paralleled Sparse Principal Component Analysis
+Early Observations on Performance of Google Compute Engine for Scientific Computing
+FEAST as a Subspace Iteration Eigensolver Accelerated by Approximate Spectral Projection
+Minimal Residual Methods for Complex Symmetric Skew Symmetric and Skew Hermitian Systems
+The deal.II Library Version .1
+A Study of Successive Over-relaxation Method Parallelization Over Modern HPC Languages
+Interaction entre math 'ematique et informatique Libre Open Source par le logiciel math 'ematique
+Program Verification of Numerical Computation
+Resilience in Numerical Methods: A Position on Fault Models and Methodologies
+An efficient way to perform the assembly of finite element matrices in vector languages
+MRRR-based Eigensolvers for Multi-core Processors and Supercomputers
+STABLAB Documentation for KdV : Numerical proof of stability of roll waves in the small-amplitude limit for inclined thin film flow
+RProtoBuf: Efficient Cross-Language Data Serialization in R
+Numerical application and Turbo C program using the Gauss-Jordan Method
+Theory Presentation Combinators
+On Newton-Raphson iteration for multiplicative inverses modulo prime powers
+The RAppArmor Package: Enforcing Security Policies in R Using Dynamic Sandboxing on Linux
+PRAND: GPU accelerated parallel random number generation library: Using most reliable algorithms and applying parallelism of modern GPUs and CPUs
+Ncpol2sdpa -- Sparse Semidefinite Programming Relaxations for Polynomial Optimization Problems of Noncommuting Variables
+A Study of Speed of the Boundary Element Method as applied to the Realtime Computational Simulation of Biological Organs
+Divide-And-Conquer Computation of Cylindrical Algebraic Decomposition
+Constructing Performance Models for Dense Linear Algebra Algorithms on Cray XE Systems
+Symmetric QR Algorithm with Permutations
+Polcovar: Software for Computing the Mean and Variance of Subgraph Counts in Random Graphs
+A Study on the Influence of Caching: Sequences of Dense Linear Algebra Kernels
+Machine Learning at Scale
+Tensor computations in computer algebra systems
+Numerical integration on GPUs for higher order finite elements
+Vectorized OpenCL implementation of numerical integration for higher order finite elements
+Toward Resilient Algorithms and Applications
+An experimental exploration of Marsaglia's xorshift generators scrambled
+Matrix Methods for Solving Algebraic Systems
+Recent software developments for special functions in the Santander-Amsterdam project
+Straightforward Bibliography Management in R with the RefManageR Package
+A SageTeX Hypermatrix Algebra Package
+The jsonlite Package: A Practical and Consistent Mapping Between JSON Data and R Objects
+Computer Vision Accelerators for Mobile Systems based on OpenCL GPGPU Co-Processing
+High Performance Solutions for Big-data GWAS
+Bayesian Modeling with Gaussian Processes using the GPstuff Toolbox
+Modernizing PHCpack through phcpy
+Efficient Random-Walk Methods for Approximating Polytope Volume
+The MIXMAX random number generator
+A modified ziggurat algorithm for generating exponentially- and normally-distributed pseudorandom numbers
+Using RngStreams for Parallel Random Number Generation in C and R
+Further scramblings of Marsaglia's xorshift generators
+A New Highly Parallel Non-Hermitian Eigensolver
+Knowledge-Based Automatic Generation of Linear Algebra Algorithms and Code
+A heuristic prover for real inequalities
+CTBNCToolkit: Continuous Time Bayesian Network Classifier Toolkit
+Bloscpack: a compressed lightweight serialization format for numerical data
+Performance of Python runtimes on a non-numeric scientific code
+Parallelizing Mizar
+xTras: a field-theory inspired xAct package for Mathematica
+Manopt a Matlab toolbox for optimization on manifolds
+Multivariate sparse interpolation using randomized Kronecker substitutions
+Increasing precision of uniform pseudorandom number generators
+GPU acceleration of Newton's method for large systems of polynomial equations in double double and quad double arithmetic
+Computing all Affine Solution Sets of Binomial Systems
+PLQCD library for Lattice QCD on multi-core machines
+Hipster: Integrating Theory Exploration in a Proof Assistant
+DDscat.C User and programmer guide
+Search Interfaces for Mathematicians
+Changing Computing Paradigms Towards Power Efficiency
+goubi: A startup guide for the complete beginner
+NLCertify: A Tool for Formal Nonlinear Optimization
+Realms: A Structure for Consolidating Knowledge about Mathematical Theories
+A formally verified proof of the Central Limit Theorem
+A C 11 implementation of arbitrary-rank tensors for high-performance computing
+Sampling exactly from the normal distribution
+Python for education: permutations
+ForestClaw: Hybrid forest-of-octrees AMR for hyperbolic conservation laws
+Composing and Factoring Generalized Green's Operators and Ordinary Boundary Problems
+Test Problem Construction for Single-Objective Bilevel Optimization
+Loo.py: transformation-based code generation for GPUs and CPUs
+Kahler: An Implementation of Discrete Exterior Calculus on Hermitian Manifolds
+Fast Matlab compatible sparse assembly on multicore computers
+Proceedings Twelfth International Workshop on the ACL2 Theorem Prover and its Applications
+Enhancements to ACL2 in Versions .2 .3 and .4
+Formal Verification of Medina's Sequence of Polynomials for Approximating Arctangent
+A Generic Numbering System based on Catalan Families of Combinatorial Objects
+Industrial-Strength Documentation for ACL2
+The OpenCPU System: Towards a Universal Interface for Scientific Computing through Separation of Concerns
+Achieving 100 000 000 database inserts per second using Accumulo and D4M
+A Scala Prototype to Generate Multigrid Solver Implementations for Different Problems and Target Multi-Core Platforms
+An Open Source Pattern Recognition Toolbox for MATLAB
+Transpose-free Fast Fourier Transform for Turbulence Simulation
+copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas
+Branch Cuts in Maple 1
+Radix Conversion for IEEE4-200 Mixed Radix Floating-Point Arithmetic
+Misfortunes of a mathematicians' trio using Computer Algebra Systems: Can we trust
+An Optimized and Scalable Eigensolver for Sequences of Eigenvalue Problems
+ViDaExpert: user-friendly tool for nonlinear visualization and analysis of multidimensional vectorial data
+Strongly stable ideals and Hilbert polynomials
+Bayesian Network Constraint-Based Structure Learning Algorithms: Parallel and Optimised Implementations in the bnlearn R Package
+Integer formula encoding SageTeX package
+COFFEE: an Optimizing Compiler for Finite Element Local Assembly
+Run-time extensibility and librarization of simulation software
+A modern resistive magnetohydrodynamics solver using C and the Boost library
+Elements of Design for Containers and Solutions in the LinBox Library
+Modular SIMD arithmetic in Mathemagix
+Implementing cryptographic pairings at standard security levels
+scikit-image: Image processing in Python
+The DUNE-ALUGrid Module
+olotarev Quadrature Rules and Load Balancing for the FEAST Eigensolver
+sin n Delta t sin (n Delta t1) as a source of unpredictable dynamics
+A multi-scale code for flexible hybrid simulations
+Object-oriented implementations of the MPDATA advection equation solver in C Python and Fortran
+MathGR: a tensor and GR computation package to keep it simple
+PyRDM: A Python-based library for automating the management and online publication of scientific software and data
+Software for Computing the Spheroidal Wave Functions Using Arbitrary Precision Arithmetic
+Standards for Graph Algorithm Primitives
+Semi-Analytical Computation of Acoustic Scattering by Spheroids and Disks
+Lighthouse: A User-Centered Web Service for Linear Algebra Software
+Cluster-level tuning of a shallow water equation solver on the Intel MIC architecture
+A Report of a Significant Error On a Frequently Used Pseudo Random Number Generator
+Algorithm xxx: RIDC Methods -- A Family of Parallel Time-Integrators
+EURETILE D.3 - Dynamic DAL benchmark coding measurements on MPI version of DPSNN-STDP (distributed plastic spiking neural net) and improvements to other DAL codes
+A Framework for Lattice QCD Calculations on GPUs
+Concurrent Cuba
+Finite Element Integration on GPUs
+Computational science and re-discovery: open-source implementations of ellipsoidal harmonics for problems in potential theory
+Interactive Simplifier Tracing and Debugging in Isabelle
+Performance Portability Study of Linear Algebra Kernels in OpenCL
+CosmoMC Installation and Running Guidelines
+A Framework for Practical Parallel Fast Matrix Multiplication
+Enhancing R with Advanced Compilation Tools and Methods
+Fast MATLAB assembly of FEM matrices in 2D and 3D: Edge elements
+Intel Cilk Plus for Complex Parallel Algorithms: Enormous Fast Fourier Transform (EFFT) Library
+An Analysis of Publication Venues for Automatic Differentiation Research
+mu -diff: an open-source Matlab toolbox for computing multiple scattering problems by disks
+Computational Understanding and Manipulation of Symmetries
+A block MINRES algorithm based on the banded Lanczos method
+Krylov Subspace Recycling for Sequences of Shifted Linear Systems
+Exploiting Symmetry in Tensors for High Performance: Multiplication with Symmetric Tensors
+A unified sparse matrix data format for efficient general sparse matrix-vector multiply on modern processors with wide SIMD units
+Software Abstractions and Methodologies for HPC Simulation Codes on Future Architectures
+Experiences from Software Engineering of Large Scale AMR Multiphysics Code Frameworks
+Efficient Gluing of Numerical Continuation and a Multiple Solution Method for Elliptic PDEs
+A data porting tool for coupling models with different discretization needs
+On the Performance Prediction of BLAS-based Tensor Contractions
+Automatic Generation of Loop-Invariants for Matrix Operations
+Knowledge-Based Automatic Generation of Partitioned Matrix Expressions
+High-Order Finite-differences on multi-threaded architectures using OCCA
+KBLAS: An Optimized Library for Dense Matrix-Vector Multiplication on GPU Accelerators
+Chemora: A PDE Solving Framework for Modern HPC Architectures
+Convex Optimization in Julia
+Efficient implementation of elementary functions in the medium-precision range
+External Use of TOPCAT's Plotting Library
+Some notes on a method for proving inequalities by computer
+Recursive Algorithms for Distributed Forests of Octrees
+Program Verification of Numerical Computation - Part 2
+Programming the Adapteva Epiphany 4-core Network-on-chip Coprocessor
+Precision-Energy-Throughput Scaling Of Generic Matrix Multiplication and Convolution Kernels Via Linear Projections
+Automated generation and symbolic manipulation of tensor product finite elements
+Simple Parallel High-Performance Virtual Machines for Extreme Computations
+Conjugate gradient solvers on Intel Xeon Phi and NVIDIA GPUs
+Factorization of -homogeneous polynomials in the First (q)-Weyl Algebra
+Higher-order Reverse Automatic Differentiation with emphasis on the third-order
+A brief survey on deep belief networks and introducing a new object oriented MATLAB toolbox (DeeBNet)
+JIDT: An information-theoretic toolkit for studying the dynamics of complex systems
+Orbital-Free Density Functional Theory Implementation with the Projector Augmented-Wave Method
+cuDNN: Efficient Primitives for Deep Learning
+Pipelined Iterative Solvers with Kernel Fusion for Graphics Processing Units
+HOPE: A Python Just-In-Time compiler for astrophysical computations
+Julia: A Fresh Approach to Numerical Computing
+An Infra-Structure for Performance Estimation and Experimental Comparison of Predictive Models in R
+Minkowski sum of HV-polytopes in Rn
+Minkowski sum of polytopes defined by their vertices
+An implementation of a randomized algorithm for principal component analysis
+MatConvNet - Convolutional Neural Networks for MATLAB
+GPTIPS 2: an open-source software platform for symbolic data mining
+Efficient SIMD RNG for Varying-Parameter Streams: C Class BatchRNG
+Twofolds in C and C
+FlexDM: Enabling robust and reliable parallel data mining using WEKA
+PyFAI: a Python library for high performance azimuthal integration on GPU
+SClib a hack for straightforward embedded C functions in Python
+Enhancing SfePy with Isogeometric Analysis
+Software for Distributed Computation on Medical Databases: A Demonstration Project
+Proceedings of the th European Conference on Python in Science (EuroSciPy 2014)
+The NIFT way of Bayesian signal inference
+Efficient Spherical Harmonic Transforms aimed at pseudo-spectral numerical simulations
+Somoclu: An Efficient Parallel Library for Self-Organizing Maps
+Boolean Functions Quantum Gates Hamilton Operators Spin Systems and Computer Algebra
+Experimental Evaluation of Multi-Round Matrix Multiplication on MapReduce
+Computing the coefficients for the power series solution of the Lane-Emden equation with the Python library SymPy
+SPIK: A graphical user interface for monitoring spike train synchrony
+Introduction to the R package TDA
+A persistence landscapes toolbox for topological statistics
+A New Sparse Matrix Vector Multiplication GPU Algorithm Designed for Finite Element Problems
+GammaCHI: a package for the inversion and computation of the gamma and chi-square cumulative distribution functions (central and noncentral)
+Firedrake: automating the finite element method by composing abstractions
+Solving Polynomial Systems by Penetrating Gradient Algorithm Applying Deepest Descent Strategy
+FASTA: A Generalized Implementation of Forward-Backward Splitting
+Associative Arrays: Unified Mathematics for Spreadsheets Databases Matrices and Graphs
+Accelerating Polynomial Homotopy Continuation on a Graphics Processing Unit with Double Double and Quad Double Arithmetic
+Performance Tuning of an Open-Source Parallel 3-D FFT Package OpenFFT
+Topology of 2D and 3D Rational Curves
+tym: Typed Matlab
+On the Shape of Curves that are Rational in Polar Coordinates
+Parallelizing Gaussian Process Calculations in R
+A Method for Fast Diagonalization of a 2x2 or 3x3 Real Symmetric Matrix
+A hierarchically blocked Jacobi SVD algorithm for single and multiple graphics processing units
+Numerical Methods for the Computation of the Confluent and Gauss Hypergeometric Functions
+A Preconditioned Hybrid SVD Method for Computing Accurately Singular Triplets of Large Matrices
+Building pattern recognition applications with the SPARE library
+Visualizing Marden's theorem with Scilab
+Twofold exp and log
+RSVDPACK: Subroutines for computing partial singular value decompositions via randomized sampling on single core multi core and GPU architectures

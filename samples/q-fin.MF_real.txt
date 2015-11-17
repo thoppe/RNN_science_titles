@@ -1,0 +1,154 @@
+Option Pricing Accuracy for Estimated Heston Models
+Modelling the skew and smile of SP and DA index options using the Shifted Log-Normal and SABR stochastic models
+Reconstruction of density functions by sk-splines
+Incorporating a Volatility Smile into the Markov-Functional Model
+Interest rate models and hittaker functions
+Arbitrage Pricing of Multi-person Game Contingent Claims
+A remark on smooth solutions to a stochastic control problem with a power terminal cost function and stochastic volatilities
+Intensity Process for a Pure ump L evy Structural Model with Incomplete Information
+Distortion Risk Measures and Elicitability
+Local times for typical price paths and pathwise Tanaka formulas
+Rough paths Signatures and the modelling of functions on streams
+Stationarity of Bivariate Dynamic Contagion Processes
+On the stationarity of Dynamic Conditional Correlation models
+Affine LIBOR models with multiple curves: theory examples and calibration
+Explicit investment rules with time-to-build and uncertainty
+Path Diffusion Part I
+Option Pricing in an Imperfect orld
+Robust pricing and hedging under trading restrictions and the emergence of local martingale models
+Stochastic Analysis Seminar on Filtering Theory
+The G a rtner-Ellis theorem homogenization and affine processes
+A One-Factor Conditionally Linear Commodity Pricing Model under Partial Information
+A general HM framework for multiple yield curve modeling
+On a Convex Measure of Drawdown Risk
+A convergence result for the Emery topology and a variant of the proof of the fundamental theorem of asset pricing
+Optimal investment-reinsurance policy under a long-term perspective
+Optimal Hybrid Dividend Strategy Under The Markovian Regime-Switching Economy
+Non-arbitrage for Informational Discrete Time Market Models
+Non linear filtering and optimal investment under partial information for stochastic volatility models
+Robust Superhedging with umps and Diffusion
+Density of Skew Brownian motion and its functionals with application in finance
+Discrete Non Probabilistic Market Models Arbitrage and Pricing Intervals
+Elliptical Tempered Stable Distribution and Fractional Calculus
+On ero-sum Optimal Stopping Games
+Risk Minimization in Markets Imposing Minimal Transaction Costs
+The optimal hedging in a semi-Markov modulated market
+Consistent Price Systems under Model Uncertainty
+Asymptotic replication with modified volatility under small transaction costs
+Duality Theory for Portfolio Optimisation under Transaction Costs
+Statistical Arbitrage in the Black-Scholes Framework
+Change of numeraire in the two-marginals martingale transport problem
+Utility indifference pricing and hedging for structured contracts in energy markets
+Determining Optimal Trading Rules without Backtesting
+Long Term Optimal Investment in Matrix Valued Factor Models
+Optimal Dynamic Procurement Policies for a Storable Commodity with L evy Prices and Convex Holding Costs
+On Correlated Defaults and Incomplete Information
+Discrete Time Term Structure Theory and Consistent Recalibration Models
+Affine Processes
+Optimal consumption and sale strategies for a risk averse agent
+The alpha -Hypergeometric Stochastic Volatility Model
+Distance to the line in the Heston model
+Option pricing in constant elasticity of variance model with liquidity costs
+On a Stopping Game in continuous time
+Non-Implementability of Arrow-Debreu Equilibria by Continuous Trading under nightian Uncertainty
+On time consistency of dynamic risk and performance measures in discrete time
+Multi-asset consumption-investment problems with infinite transaction costs
+Risk Neutral Option Pricing ith Neither Dynamic Hedging nor Complete Markets
+A Constrained Control Problem with Degenerate Coefficients and Degenerate Backward SPDEs with Singular Terminal Condition
+New Pricing Framework: Options and Bonds
+A system of quadratic BSDEs arising in a price impact model
+uantile Hedging in a Semi-Static Market with Model Uncertainty
+Stochastic Perron for Stochastic Target Games
+Indifference pricing for Contingent Claims: Large Deviations Effects
+Rationality parameter for exercising American put
+On volatility smile and an investment strategy with out-of-the-money calls
+Path Integral and Asset Pricing
+Arbitrage theory without a num eraire
+Volatility is rough
+Arbitrage free markets geometry
+Robust Fundamental Theorem for Continuous Processes
+Asset Pricing in an Imperfect orld
+Visualisation of financial time series by linear principal component analysis and nonlinear principal component analysis
+The Master Equation in Mean Field Theory
+Exact and asymptotic solutions of the call auction problem
+Efficient solution of structural default models with correlated umps and mutual obligations
+Stability and analytic expansions of local solutions of systems of quadratic BSDEs with applications to a price impact model
+Pricing of European Basket Call Option under Exponential Ornstein-Uhlenbeck Process
+Pricing and Hedging Long-Term Options
+Super-replication with nonlinear transaction costs and volatility uncertaint
+A Forward Equation for Barrier Options under the Brunick Shreve Markovian Proection
+Characterization of Market Models in the Presence of Traded Vanilla and Barrier Options
+Solving finite time horizon Dynkin games by optimal switching
+Risk-Sensitive Mean-Field Type Control under Partial Observation
+Phynance
+Optimal stopping under model uncertainty: randomized stopping times approach
+Valuation and Hedging of Contracts with Funding Costs and Collateralization
+To sigmoid-based functional description of the volatility smile
+Comparing the G -Normal Distribution to its Classical Counterpart
+Optimal double stopping of a Brownian bridge
+Fair and profitable bilateral prices under funding costs and collateralization
+Fair bilateral prices in Bergmans model
+Explicit solutions of quadratic FBSDEs arising from quadratic term structure models
+Ross Recovery with Recurrent and Transient Processes
+Exact and Approximate Hidden Markov Chain Filters Based on Discrete Observations
+Holding Period Information in Options Hedging
+The Intrinsic Bounds on the Risk Premium of Markovian Pricing ernels
+Dynamic Defaultable Term Structure Modelling beyond the Intensity Paradigm
+Asymptotic behaviour of the fractional Heston model
+Existence of Steady States for Over-the-Counter Market Models with Several Assets
+Misspecified Recovery
+Budget Imbalance Criteria for Auctions: A Formalized Theorem
+Reflected Backward SDE approach to the price-hedge of defaultable claims with contingent switching CSA
+Model-Independent Pricing of Asian Options via Optimal Martingale Transport
+A stochastic switching control model arising in general OTC contracts with contingent CSA in presence of CVA collateral and funding
+Reserve-Dependent Surrender
+Doubly Reflected BSDEs with Integrable Parameters and Related Dynkin Games
+A BSDE approach to fair bilateral pricing under endogenous collateralization
+Nonparametric Stochastic Discount Factor Decomposition
+Conditional Analysis and a Principal-Agent problem
+Indifference prices implied volatilities and implied Sharpe ratios
+Risk measuring under liquidity risk
+Fundamental theorem of asset pricing: a strengthened version and p -summable markets
+Smile with the Gaussian term structure model
+A new perspective on the fundamental theorem of asset pricing for large financial markets
+Optimal switching for pairs trading rule: a viscosity solutions approach
+Derivatives pricing in energy markets: an infinite dimensional approach
+Towards a formalization of a two traders market with information exchange
+Optimal Execution in Lit and Dark Pools
+Game theory analysis for carbon auction market through electricity market coupling
+Generalized Dynkin game of switching type representation for defaultable claims in presence of contingent CSA
+A note on the spot-forward no-arbitrage relations in an investment-production model for commodities
+On a class of generalized Takagi functions with linear pathwise quadratic variation
+A law of large numbers for limit order books
+On financial applications of the two-parameter Poisson-Dirichlet distribution
+Shortfall Deviation Risk
+Self-Financing Trading and the Ito-Doeblin Lemma
+Non-concave utility maximisation on the positive real axis in discrete time
+The asymptotic smile of a multiscaling stochastic volatility model
+Effect of Volatility Clustering on Indifference Pricing of Options by Convex Risk Measures
+Short-time at-the-money skew and rough fractional volatility
+Information in stock prices and some consequences
+A Functional Limit Theorem for Limit Order Books with State Dependent Price Dynamics
+Optimal Boundary Surface for Irreversible Investment with Stochastic Costs
+Universal Arbitrage Aggregator in Discrete Time Markets under Uncertainty
+On the optimal exercise boundaries of swing put options
+An alpha -Stable Limit Theorem Under Sublinear Expectation
+Positive Eigenfunctions of Markovian Pricing Operators: Hansen-Scheinkman Factorization and Ross Recovery
+Optimal Mean Reversion Trading with Transaction Costs and Stop-Loss Exit
+Optimal Starting-Stopping and Switching of a CIR Process with Fixed Costs
+Optional Decomposition for continuous semimartingales under arbitrary filtrations
+Portfolio Optimization under Shortfall Risk Constraint
+Optimal Derivative Liquidation Timing Under Path-Dependent Risk Penalties
+Convex duality with transaction costs
+Archimedean-based Marshall-Olkin Distributions and Related Copula Functions
+Systemic Risk with Exchangeable Contagion: Application to the European Banking System
+Optimal portfolio with unobservable market parameters and certainty equivalence principle
+Short-time asymptotics for the implied volatility skew under a stochastic volatility model with L evy umps
+The pricing of lookback options and binomial approximation
+Dark-Pool Perspective of Optimal Market Making
+Consistent Recalibration of ield Curve Models
+Multivariate Subordination using Generalised Gamma Convolutions with Applications to VG Processes and Option Pricing
+A weak law of large numbers for a limit order book model with fully state dependent order dynamics
+Identification of Atlas models
+Extreme-Strike Asymptotics for General Gaussian Stochastic Volatility Models
+Robust Utility Maximization with L evy Processes

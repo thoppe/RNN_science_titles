@@ -1,0 +1,650 @@
+The Evolutionary Design of Collective Computation in Cellular Automata
+Low dimensional travelling interfaces in coupled map lattices
+Lyapunov Exponents from Node-Counting Arguments
+A solitary-wave representation of turbulence in the physical-plus-eddy space
+Coherent solitary-wave of mixing layer turbulence in the physical-plus-eddy space
+Spiral Waves in Media with Complex Excitable Dynamics
+Lattice-Gas Simulations of Ternary Amphiphilic Fluid Flow in Porous Media
+Mean field analysis of Williams-Berknes type growth
+Complexity of Two-Dimensional Patterns
+Coherent Moving States in Highway Traffic (Originally: Moving Like a Solid Block)
+Computer Simulations of Pedestrian Dynamics and Trail Formation
+A Mathematical Model for Behavioral Changes by Pair Interactions and Its Relation to Game Theory
+Modelling the Evolution of Human Trail Systems
+Studies of Bacterial Branching Growth using Reaction-Diffusion Models for Colonial Development
+Avalanche mixing of granular solids in a rotating 2D drum and discrete mapping
+The Computational Complexity of Sandpiles
+Vortices in Quantum Spin Systems
+Mossbauer effect for dark solitons in Bose-Einstein condensates
+Jams Waves and Clusters
+Explanation of Observed Features of Self-Organization in Traffic Flow
+Patterns arising from the interaction between scalar and vectorial instabilities in two-photon resonant Kerr cavities
+Shear induced alignment in a model of a block copolymer
+Shock-Like Dynamics of Inelastic Gases
+The Dielectric Breakdown Model at Small eta : Pole Dynamics
+Towards a String Formulation of Vortex Dynamics
+Soliton Solution of the Integrable Coupled Nonlinear Schrodinger Equation of Manakov Type
+Non-Linear Stability Analysis of Higher Order Dissipative Partial Differential Equations
+Asymptotics of soliton solution for the perturbed Davey-Stewartson-1 equations
+Extended Electrodynamics: II. Properties and invariant characteristics of the non-linear vacuum solutions
+Extended Electrodynamics: III. Free Photons and ( 1)-Soliton- like Vacuum Solutions
+Introduction to Extended Electrodynamics
+Wavy film flows down an inclined plane. Part I: Perturbation theory and general evolution equation for the film thickness
+New stability results for long-wavelength convection patterns
+Validation and Calibration of Models for Reaction-Diffusion Systems
+Three basic issues concerning interface dynamics in nonequilibrium pattern formation
+Hexagons and Interfaces in a Vibrated Granular Layer
+The Accurate Modelling of Thin D Fluid Flows with Inertia on Curved Substrates
+Path instabilities of air bubbles rising in clean water
+New Approaches to Soliton Quantization and Existence for Particle Physics
+Benard-Marangoni Convection in Two Layered Liquids
+Simple and Superlattice Turing Patterns in Reaction-Diffusion Systems: Bifurcation Bistability and Parameter Collapse
+Dynamical Scaling Behavior of the Swift-Hohenberg Equation Following a Quench to the Modulated State
+Solitonic Gluons
+Power-Law Behaviors in Nonlinearly Coupled Granular Chain under Gravity
+Two boundary model for freezing front propagation in biological tissue
+Second-order perturbation theory for the parametrically driven NLS solitons
+Perturbation theory for gap solitons
+Stability of Propagating Fronts in Damped Hyperbolic Equations
+Localized Structures in Pattern-Forming Systems
+Instabilities and Spatio-Temporal Chaos in Hexagon Patterns with Rotation
+Towards a global classification of excitable reaction-diffusion systems
+A study of a hamiltonian model for martensitic phase transformations including microkinetic energy
+Dynamic properties of solitons in the Frenkel-Kontorova Model. Application to incommensurate CDW conductors
+The exact solutions of differential equation with delay
+Nonlinear Schr odinger solitons scattering off an interface
+Scaling Variables and Stability of Hyperbolic Fronts
+Localized Structures in Nonlinear Lattices with Diffusive Coupling and External Driving
+Discrete Nonlinear Schr o dinger Breathers in a Phonon Bath
+Two-color nonlinear localized photonic modes
+Near Critical Reflection of Internal Waves
+Three dimensional bright vortex soliton
+Soliton-Complex Dynamics in Strongly Dispersive Medium
+D 1 Parametric Bright Vortex Solitons. Optical Mesons
+Interplay between Coherence and Incoherence in Multi-Soliton Complexes
+The moment method in general Nonlinear Schrodinger Equations
+Two-color multistep cascading and parametric soliton-induced waveguides
+Long-range interacting solitons: pattern formation and nonextensive thermostatistics
+Soliton structure dynamics in inhomogeneous media
+Existence threshold for the ac-driven damped nonlinear Schr odinger solitons
+Stability of multi-parameter solitons: Asymptotic approach
+Instabilities of Higher-Order Parametric Solitons. Filamentation versus Coalescence
+Dispersion relations to oscillatory reaction-diffusion systems with the self-consistent flow
+Modelling the dynamics of turbulent floods
+Electric Nusselt number characterization of electroconvection in nematic liquid crystals
+Bifurcation Phenomena in Optimal Velocity Model for Traffic Flows
+Crystallization Kinetics in the Swift--Hohenberg Model
+Longwave Interface Instability In Two-Fluid Vibrational Flow
+Approximate solutions and scaling transformations for quadratic solitons
+A Particle Model of Rolling Grain Ripples Under Waves
+Instanton solutions in the problem of wrinkled flame front dynamics
+Stability boundaries of roll and square convection in binary fluid mixtures with positive separation ratio
+1 f noise in spatially extended systems with order-disorder phase transitions
+Formation and Pinch-off of Viscous Droplets in the Absence of Surface Tension: an Exact Result
+Pulse Shepherding and Multi-Channel Soliton Transmission in Bit-Parallel-Wavelength Optical Fiber Links
+Parallel Implementations of the Split-Step Fourier Method for Solving Nonlinear Schr odinger Systems
+Asymptotic Theory of Particle Trapping in Coherent Nonlinear Alfven Waves
+Nonclassical Kinetics in Constrained Geometries: Initial Distribution Effects
+Solitary Waves on a Coasting High-Energy Stored Beam
+Coherent Nonlinear Phenomena in High Energy Synchrotrons: Observations and Theoretical Models
+Formation of Patterns and Coherent Structures in Charged Particle Beams
+How to Describe Photons as ( 1)-Solitons
+Pattern formation by competition: a biological example
+Multi-soliton Solution of the Integrable Coupled Nonlinear Schrodinger Equation of Manakov Type
+Lax Pair Formulation and Multi-soliton Solution of the Integrable Vector Nonlinear Schrodinger Equation
+How birds fly together: Long-range order in a two-dimensional dynamical  model
+Using Horseshoes to Create Coherent Structures
+Dependence of extensive chaos on the spatial correlation length (substantial revision)
+Pattern Dynamics of a Coupled Map Lattice for Open Flow
+Rayleigh-B ' e nard Convection Patterns Chaos Spatiotemporal Chaos and Turbulence
+The Spatio-Temporal Structure of Spiral-Defect Chaos
+Double Phase Slips and Spatio-Temporal Chaos in a Model for Parametrically Excited Standing Waves
+Spatially Periodic Orbits in Coupled Sine Circle Maps
+Ordered and Disordered Defect Chaos
+Instabilities and Patterns (minor technical modifications)
+A New Fast Method for Determining Local Properties of Striped Patterns
+Fast Low Fidelity Microsimulation of Vehicle Traffic on Supercomputers
+An Aggregation Model for Electrochemical Depostition and its Application to Cop Dendritic Growth
+Towards a theory of growing surfaces: Mapping two-dimensional Laplacian growth onto Hamiltonian dynamics and statistics
+Current-Loop Model for the Intermediate State of Type-I Superconductors
+Pattern Formation in Laplacian Growth: Theory
+Universality in Dynamic Coarsening of a Fractal Cluster
+Visualizing 2D Quantum Field Theory: Geometry and Informatics of Mobilevision
+Bi-Graded Markovian Matrices as Non-Local Dirac Operators and a New Quantum Evolution
+The Dynamics of Classical Chiral QCD 2 Currents
+Discrete Dynamical Models Showing Pattern Formation in Subaqueous Bedforms
+Threshold Growth Dynamics
+Threshold-Range Scaling of Excitable Cellular Automata
+Solitons and 1 f Noise in Molecular Chains
+Pattern formation during Rayleigh-B 'enard convection in non-Boussinesq fluids
+Phase Transitions In Two-Dimensional Traffic Flow Models
+Nonequilibrium Phenomena in Liquid Crystals
+Discrete Breathers and Energy Localization in Nonlinear Lattices
+A quantitative measurement of spatial order in ventricular fibrillation
+Nonradial Solutions of a Semilinear Elliptic Equation in Two Dimensions
+D-symmetric Maps with Hidden Euclidean Symmetry
+Multidimensional Localized Solitons
+Properties Of Solutions Of The Kpi Equation
+Solitons in the Camassa-Holm Shallow Water Equation
+Domain Structures and ig-ag Patterns Modeled by a Fourth-Order Ginzburg-Landau Equation
+Front Structures in a Real Ginzburg-Landau Equation Coupled to a Mean Field
+Domain Structures in Fourth-Order Phase and Ginzburg-Landau Equations
+Asymptotic expansion for layer solutions of a singularly perturbed reaction-diffusion system
+Kinks in the Presence of Rapidly Varying Perturbations
+KdV shock-like waves as invariant solutions of KdV equation symmetries
+Whitham deformations partially saturating the modulational instability in the nonlinear Schrodinger equation
+On the self-similar solutions of normality equation in two-dimensional case
+Bound Pairs of Fronts in a Real Ginzburg-Landau Equation Coupled to a Mean Field
+Hole Solutions in the 1d Complex Ginzburg-Landau Equation
+From the defocusing nonlinear Schroedinger to the complex Ginzburg-Landau equation
+Bipolar Electrodiffusion model for Electroconvection in Nematics
+The Swift-Hohenberg Equation Requires Non-Local Modifications to Model Spatial Pattern Evolution of Physical Problems
+Periodicity of cylindrical linear cellular automata
+Multistability in networks of weakly coupled bistable units
+MULTIPLE FRONT PROPAGATION IN A POTENTIAL NON-GRADIENT SSTEM
+Solitary Waves under the Influence of a Long-Wave Mode
+Global modes for the complex Ginzburg-Landau equation
+Defect--Defect Correlation Functions Generic Scale Invariance and the Complex Ginzburg--Landau Equation
+Dynamic Domain Walls in Strongly Driven Ferromagnets
+Two-phase binary fluids and immiscible fluids described by an order parameter
+Cancer Detection via Determination of Fractal Cell Dimension
+A Geometrical Formulation of the Renormalization Group Method for Global Analysis II: Partial Differential Equations
+The Role of the Korteweg-de Vries Hierarchy in the N-Soliton Dynamics of the Shallow Water Wave Equation
+Tangent Bifurcation of Band Edge Plane Waves Dynamical Symmetry Breaking and Vibrational Localization
+Reductive Perturbation Method Multiple-Time Solutions and the KdV Hierarchy
+Stability Results for Steady Spatially--Periodic Planforms
+Pattern selection of cracks in directionally drying fracture
+Steady and Oscillatory Side-Band Instabilities in Marangoni Convection with Deformable Interface
+On the Interaction of Extreme-Low-Frequency Radiation with Living Matter's Coherent Spiral States
+Core Dynamics of Multi-Armed Spirals in Rayleigh-Benard Convection
+Stability of Travelling Waves for a Damped Hyperbolic Equation
+Numerical Proof of Self-Similarity in Burgers' Turbulence
+Critical phenomena employed in hydrodynamic problems: A case study of Rayleigh-Benard convection
+Shadowing matching errors for wave-front-like solutions
+The Newell-Whitehead-Segel Equation for Traveling Waves
+The Exactly Solvable Simplest Model for Queue Dynamics
+Pattern formation in weakly damped Faraday waves
+Delay of Vehicle Motion in Traffic Dynamics
+Large-Scale Flow and Spiral Core Instability in Rayleigh-Benard Convection
+Bifurcating bright and dark solitary waves of the nearly nonlinear cubic-quintic Schrodinger equation
+Convection in rotating annuli: Ginzburg-Landau equations with tunable coefficients
+Influence of boundaries on pattern selection in through-flow
+A Mechanism for Spatio-Temporal Disorder in Bistable Reaction-Diffusion Systems
+Synchronization of globally-coupled phase oscillators: singularities and scaling for general couplings
+Pattern formation in weakly damped parametric surface waves driven by two frequency components
+Transition from Spatiotemporal Chaos to Ideal Straight Rolls in Rayleigh-Benard Convection
+Spinodal Decomposition in Binary Gases
+Liquefaction of a Horizontally Vibrated Granular Bed: Friction Dilation and Segregation
+Discrete Breathers
+Spiral Dynamics in Pattern-Forming Systems: Mean Flow Effects
+Phase Segregation Dynamics In Particle Systems with Long Range Interactions II: Interface motion
+A Lubrication Model of Coating Flows over a Curved Substrate in Space
+On Envelope Dynamics In 2D Faraday Waves
+Stretching of vortex lines and generation of vorticity in the three-dimensional complex Ginzburg-Landau Equation
+Amplitude Equation for Lattice Maps a Renormalization Group Approach
+Weakly nonlinear analysis in spatially extended systems as a formal perturbation scheme
+Phenomenological Theory for Spatiotemporal Chaos in Rayleigh-Benard Convection
+Optical characterization of chevron texture formation in nematic electroconvection
+Nonequilibrium phase separation in traffic flows
+Spatio-temporal dynamics of coupled array of Murali-Lakshmanan-Chua circuits
+Uses of Envelopes for Global and Asymptotic Analysis geometrical meaning of renormalization group equation
+Kinematic Equations for Front Motion and Spiral-Wave Nucleation
+Extended Electrodynamics I. Basic Notions Principles and Equations
+On exact solution for some integrable nonlinear equations of the Schr odinger type
+Maps PDE's and Solitary Waves
+Differential substitutions and symmetries of hyperbolic equations
+A New Nonlinear Liquid Drop Model. Clusters as Solitons on The Nuclear Surface
+Vortex Dynamics in Dissipative Systems
+Fluctuations and Pattern Selection Near an Eckhaus Instability
+Asymptotic Behavior of Excitable Cellular Automata
+Solitons and Long Josephson Junctions
+Metastability in the Greenberg-Hastings Model
+Spike autosolitons in the Gray-Scott model
+The Stability of Standing Waves
+Spatiotemporal chaotic dynamics of solitons with internal structure in the presence of finite-width inhomogeneities
+Criterion and Regions of Stability for Quasi-Equidistant Soliton Trains
+Dynamics of Earthquake Faults
+Pattern Formation and Functionality in Swarm Models
+Emergent spatial correlations in stochastically evolving populations
+Domain formation in transitions with noise and time-dependent bifurcation parameter
+Stellar Oscillons
+Spatial Variation of Correlation Times for 1D Phase Turbulence
+Hamiltonian Maps and Transport in Structured Fluids
+Characterization of the transition from defect- to phase-turbulence
+Thermodynamic Description of the Relaxation of Two-Dimensional Euler Turbulence Using Tsallis Statistics
+Lyapunov spectral analysis of a nonequilibrium Ising-like transition
+Rifts in Spreading Wax Layers
+Observation of stochastic coherence in coupled map lattices
+Phase Diffusion in Localized Spatio-Temporal Amplitude Chaos
+Holes and chaotic pulses of traveling waves coupled to a long-wave mode
+The Building Blocks of Spatiotemporal Intermittency
+Synchronization Defects and Broken Symmetry in Spiral Waves
+Mode-locking in coupled map lattices
+Extensive Properties of the Complex Ginzburg-Landau Equation
+Scaling and interleaving of sub-system Lyapunov exponents for spatio-temporal systems
+One-dimensional dynamics for travelling fronts in coupled map lattices
+Thermodynamic limit from small lattices of coupled maps
+Transitions to Line-Defect Turbulence in Complex Oscillatory Media
+Correlations and Renormalization in Lattice Gases
+Life-Times of Simulated Traffic Jams
+A Nonlocal Contour Dynamics Model for Chemical Front Motion
+Two-dimensional Laplacian growth can be mapped onto Hamiltonian dynamics
+Renormalization Group Theory for Global Asymptotic Analysis
+Soliton pinning by long-range order in aperiodic systems
+Diffusion Limited Growth in Systems with Continuous Symmetry
+Elastic forces that do no work and the dynamics of fast cracks
+Hysteresis in the Mott Transition between Plasma and Insulating Gas
+Front Propagation in the Pearling Instability of Tubular Vesicles
+Parametric Generation of Second Sound by First Sound in Superfluid Helium
+Interface Proliferation and the Growth of Labyrinths in a Reaction-Diffusion System
+Competing Patterns of Signaling Activity in Dictyostelium discoideum
+Survival Probability of a Gaussian Non-Markovian Process: Application to the T Dynamics of the Ising Model
+Self-Organized Short-Term Memories
+Velocity Selection for Propagating Fronts in Superconductors
+Pearling and Pinching: Propagation of Rayleigh Instabilities
+Transport and conservation laws
+Generation of Intrinsic Vibrational Gap Modes in Three-Dimensional Ionic Crystals
+Instabilities and disorder of the domain patterns in the systems with competing interactions
+Dynamical transitions in correlated driven diffusion in a periodic potential
+Patterns and Long Range Correlations in Idealized Granular Flows
+Spatiotemporal Stochastic Resonance in the Swift-Hohenberg Equation
+Theoretical Model for Faraday Waves with Multiple-Frequency Forcing
+Traveling Granular Segregation Patterns in a Long Drum Mixer
+Radial fingering in a Hele-Shaw cell: a weakly nonlinear analysis
+Stability analysis of polarized domains
+Propagation of a Topological Transition: the Rayleigh Instability
+Solitonic approach to the dimerization problem in correlated one-dimensional systems
+DC motion of ac driven sine-Gordon solitons
+Director configuration of planar solitons in nematic liquid crystals
+Localization and Equipartition of Energy in the beta-FPU Chain : Chaotic Breathers
+Efficient Computation of Dendritic Microstructures using Adaptive Mesh Refinement
+Row-switched states in two-dimensional underdamped Josephson unction arrays
+Anomalous diffusion as a signature of collapsing phase in two dimensional self-gravitating systems
+Weak selection and stability of localized distributions in Ostwald ripening
+The Viscous Nonlinear Dynamics of Twist and Writhe
+Viscous fingering patterns in ferrofluids
+Traffic Equations and Granular Convection
+Fluctuations provide strong selection in Ostwald ripening
+Surface width scaling in noise reduced Eden clusters
+Social Force Model for Pedestrian Dynamics
+The Johnson-Segalman model with a diffusion term in Couette flow
+Evolution of avalanche conducting states in electrorheological liquids
+Active Walker Model for the Formation of Human and Animal Trail Systems
+Subharmonic Motion of Particles in a Vibrating Tube
+ac driven sine-Gordon solitons: dynamics and stability
+Kink-antikink interactions in the double sine-Gordon equation and the problem of resonance frequencies
+Lubricating Bacteria Model for Branching growth of Bacterial Colonies
+Stationary states of the Gross-Pitaevskii equation with linear counterpart
+Phase Diagram of Traffic States in the Presence of Inhomogeneities
+Finite temperature dynamics of vortices in the two dimensional anisotropic Heisenberg model
+Solitons on the edge of a two-dimensional electron system
+Self-organization of traffic ams in cities: effects of stochastic dynamics and signal periods
+Semiclassical description of Heisenberg models via spin-coherent states
+Universal Dynamics of Phase-Field Models for Dendritic Growth
+A thermodynamically reversible generalization of Diffusion Limited Aggregation
+Gas-Kinetic-Based Traffic Model Explaining Observed Hysteretic Phase Transition
+Spatio-selection in Expanding Bacterial Colonies
+On the semiclassical treatment of anharmonic quantum oscillators via coherent states - The Toda chain revisited
+Steady-State Cracks in Viscoelastic Lattice Models
+Smoke Rings'' in Ferromagnets
+Braided Rivers and Superconducting Vortex Avalanches
+Derivation Properties and Simulation of a Gas-Kinetic-Based Non-Local Traffic Model
+Theory of spiral wave dynamics in weakly excitable media: asymptotic reduction to a kinematic model and applications
+Overdamped sine-Gordon kink in a thermal bath
+Physics on the edge: contour dynamics waves and solitons in the quantum Hall effect
+Circular Kinks on the Surface of Granular Material Rotated in a Tilted Spinning Bucket
+Kink motion in the Kramers problem for a chain molecule
+Interface and contact line motion in a two phase fluid under shear flow
+Mechanism for Surface Waves in Vibrated Granular Material
+The ac-Driven Motion of Dislocations in a Weakly Damped Frenkel-Kontorova Lattice
+Two-finger selection theory in the Saffman-Taylor problem
+Statistical mechanics of a nonlinear discrete system
+Interface dynamics in Hele-Shaw flows with centrifugal forces. Preventing cusp singularities with rotation
+Surface Instability in Windblown Sand
+On modulational instability and energy localization in anharmonic lattices at finite energy density
+Hydrodynamics of the Kuramoto-Sivashinsky Equation in Two Dimensions
+Anomalous resonance phenomena of solitary waves with internal modes
+Viscous fingering in liquid crystals: Anisotropy and morphological transitions
+Twirling and Whirling: Viscous Dynamics of Rotating Elastica
+Renormalization of Long-wavelength Solution of Einstein Equation
+How to Count Kinks: From the Continuum to the Lattice and Back
+Controlling One-Dimensional Langevin Dynamics on the Lattice
+Oscillons: Resonant Configurations During Bubble Collapse
+Patterns from preheating
+A Geometrical Formulation of the Renormalization Group Method for Global Analysis
+The Renormalization-Group Method Applied to Asymptotic Analysis of Vector Fields
+Soliton-preserving boundary condition in affine Toda field theories
+Renormalization-group Method for Reduction of Evolution Equations invariant manifolds and envelopes
+Tiling the plane without supersymmetry
+Multidimensional Pattern Formation Has an Infinite Number of Constants of Motion
+Rotating Rayleigh-B 'enard Convection: Aspect Ratio Dependence of the Initial Bifurcations
+Domain Walls in Non-Equilibrium Systems and the Emergence of Persistent Patterns
+Complex Patterns in a Simple System
+An integrable shallow water equation with peaked solitons
+Localized States in Discrete Nonlinear Schr o dinger Equations
+Spiral defect chaos in a model of Rayleigh-Benard convection
+Spiral Defect Chaos in Large Aspect Ratio Rayleigh-Benard Convection
+Solitary Waves and Compactons in a class of Generalized Korteweg-DeVries Equations
+Pattern Formation in Dissipative Nonvariational Systems: The Effects of Front Bifurcations
+A New Class of Nonsingular Exact Solutions for Laplacian Pattern Formation
+Dissipative Boussinesq System of Equations in the B 'enard-Marangoni Phenomenon
+One parameter family of Compacton Solutions in a class of Generalized Korteweg-DeVries Equations
+Disordered Regimes of the one-dimensional complex Ginzburg-Landau equation
+Thermodynamic Limit Of The Ginzburg-Landau Equations
+Temporal Forcing of Small-Amplitude Waves in Anisotropic Systems
+Exact Solutions of the One-Dimensional Quintic Complex Ginzburg-Landau Equation
+Amplitude Expansions for Instabilities in Populations of Globally-Coupled Oscillators
+On the existence of monotonic fronts for a class of physical problems described by the equation lambda u''' u'  f(u)
+Oscillatory instability of crack propagations in quasi-static fracture
+D  dot T 2 Mode Interactions and Hidden Rotational Symmetry
+Secondary Instabilities and Spatiotemporal Chaos in Parametric Surface Waves
+Dual Fronts Propagating into an Unstable State
+Multiple Front Propagation into Unstable States
+Hydrothermal Surface-Wave Instability and the Kuramoto-Sivashinsky Equation
+From Labyrinthine Patterns to Spiral Turbulence
+Soliton solutions of the Hamiltonian DSI and DSIII equations
+Kink stability propagation and length scale competition in the periodically modulated sine-Gordon equation
+Structure And Dynamics Of Modulated Traveling Waves In Cellular Flames
+SUS-Based Variational Method for the Anharmonic Oscillator
+On the validity of the linear speed selection mechanism for fronts of the nonlinear diffusion equation
+New exact fronts for the nonlinear diffusion equation with quintic nonlinearities
+Inverse ac Josephson Effect for a Fluxon in a Long Modulated Junction
+Multidimensional Dynamical Systems Accepting the Normal Shift
+Example of shock wave in unstaible medium: The focusing nonlinear Schrodinger equation
+Dynamic Front Transitions and Spiral-Vortex Nucleation
+Normal Form Symmetry and Infinite Dimensional Lie Algebra for System of Ode's
+New Sets of Kink Bearing Hamiltonians
+Complex Patterns in Reaction-Diffusion Systems: A Tale of Two Front Instabilities
+The Korteweg-de Vries Hierarchy and Long Water-Waves
+Universal trapping scaling on the unstable manifold for a collisionless electrostatic mode
+Variational Characterization of the Speed of Propagation of Fronts for the Nonlinear Diffusion Equation
+Jam phases in two-dimensional cellular automata model of traffic flow
+A Variational Principle for the Asymptotic Speed of Fronts of the Density Dependent Diffusion--Reaction Equation
+Front propagation into unstable and metastable states in Smectic C liquid crystals: linear and nonlinear marginal stability analysis
+On the validity of mean-field amplitude equations for counterpropagating wavetrains
+Defect Dynamics for Spiral Chaos in Rayleigh-Benard Convection
+Observation of Conservations Laws in Diffusion Limited Aggregation
+Penta-Hepta Defect Motion in Hexagonal Patterns
+Amplitude equations near pattern forming instabilities for strongly driven ferromagnets
+Metastability in Fluctuation Driven First-order Transitions: Nucleation of Lamellar Phases
+Obtaining Breathers in Nonlinear Hamiltonian Lattices
+INVERSE SCATTERING TRANSFORM ANALSIS OF STOKES-ANTI-STOKES STIMULATED RAMAN SCATTERING
+Thermally Induced Fluctuations Below the Onset of Rayleigh-B 'enard Convection
+Points Walls and Loops in Resonant Oscillatory Media
+Attractive Interaction Between Pulses in a Model for Binary-Mixture Convection
+Aggregation Patterns in Stressed Bacteria
+Phase Slips and the Eckhaus Instability
+Boundary-induced wavelength selection in a one-dimensional pattern-forming system
+Convection in Binary Fluid Mixtures. I. Extended Traveling Wave and Stationary States. (Physical Review E in press)
+Convection in Binary Fluid Mixtures. II. Localized Traveling Waves. (Physical Review E in press)
+Mean Field Theory of the Morphology Transition in Stochastic Diffusion Limited Growth
+Influence of the Dufour effect on convection in binary gas mixtures
+Coexisting Pulses in a Model for Binary-Mixture Convection
+Coupled Maps on Trees
+Domain Coarsening in Systems Far from Equilibrium
+A Kink Soliton Characterizing Traffic Congestion
+Long-Wavelength Instability in Surface-Tension-Driven Benard Convection
+Onset of Surface-Tension-Driven Benard Convection
+Hexagons Kinks and Disorder in Oscillated Granular Layers
+Front Stability in Mean Field Models of Diffusion Limited Growth
+Boussinesq Solitary-Wave as a Multiple-Time Solution of the Korteweg-de Vries Hierarchy
+Controlling domain patterns far from equilibrium
+Synchronisation in Coupled Sine Circle Maps
+Stability of periodic arrays of vortices
+Attracting Manifold for a Viscous Topology Transition
+Secondary Instabilities of Surface Waves on Viscous Fluids in the Faraday Instability
+Existence and Stability of Steady Fronts in Bistable CML
+Noise and dynamical pattern selection
+The Speed of Fronts of the Reaction Diffusion Equation
+Two Scale Model for Aggregation and Etching
+Absolutely stable solitons in two-component active systems
+Early stages of ramified growth in quasi-two-dimensional electrochemical deposition
+Parametric Forcing of Waves with Non-Monotonic Dispersion Relation: Domain Structures in Ferrofluids
+Coarse-grained description of thermo-capillary flow
+Wave-unlocking transition in resonantly coupled complex Ginzburg-Landau equations
+Hydrodynamics of Monolayer Domains at the Air-Water Interface
+General theory of instabilities for patterns with sharp interfaces in reaction-diffusion systems
+Convective Fingering of an Autocatalytic Reaction Front
+Systematic derivation of a rotationally covariant extension of the 2-dimensional Newell-Whitehead-Segel equation
+Square Patterns and Quasi-patterns in Weakly Damped Faraday Waves
+Solitonic-exchange mechanism of surface diffusion
+Mobility and diffusivity in a generalized Frenkel-Kontorova model
+Twisted and Nontwisted Bifurcations Induced by Diffusion
+Non-Monotonic Dispersion of Surface Waves in Magnetic Fluids
+A Simple Model for Faraday Waves
+A Variational Principle for Eigenvalue Problems of Hamiltonian Systems
+Breathing Spots in a Reaction-Diffusion System
+Weakly Nonlinear Theory of Pattern-Forming Systems with Spontaneously Broken Isotropy
+Direct Hopf Bifurcation in Parametric Resonance of Hybridized Waves
+Temporal Modulation of Traveling Waves in the Flow Between Rotating Cylinders With Broken Azimuthal Symmetry
+Self-replication and splitting of domain patterns in reaction-diffusion systems with fast inhibitor
+Mutually Penetrating Motion of Self-Organized 2D Patterns of Soliton-Like Structures
+Links Knots and Knotted Labyrinths in Bistable Systems
+On a Conecture of Goriely for the Speed of Fronts of the Reaction--Diffusion Equation
+Nonlinear saturation of electrostatic waves: mobile ions modify trapping scaling
+Multiple-Time Higher-Order Perturbation Analysis of the Regularized Long-Wavelength Equation
+Electroconvection in a Suspended Fluid Film: A Linear Stability Analysis
+Scenarios of domain pattern formation in a reaction-diffusion system
+Motion of buoyant particles and coarsening of solid-liquid mixtures in a random acceleration field
+Pattern selection in the absolutely unstable regime as a nonlinear eigenvalue problem: Taylor vortices in axial flow
+Numerical Simulation of Three-Dimensional Dendritic Growth
+Vortex -- Kink Interaction and Capillary Waves in a Vector Superfluid
+Interaction of Reaction-Diffusion Fronts and Marangoni Flow on the Interface of Deep Fluid
+Synchronization chaos and breakdown of collective domain oscillations in reaction-diffusion systems
+Kink Arrays and Solitary Structures in Optically Biased Phase Transition
+Turing patterns and solitary structures under global control
+Renormalization Group Derivation of Phase Equations
+Dynamical Properties of Multi-Armed Global Spirals in Rayleigh-Benard Convection
+Structure of Complex-Periodic and Chaotic Media with Spiral Waves
+A domain wall between single-mode and bimodal states and its transition to dynamical behavior in inhomogeneous systems
+Extended Symbolic Dynamics in Bistable CML: Existence and Stability of Fronts
+Pattern selection as a nonlinear eigenvalue problem
+Influence of through-flow on linear pattern formation properties in binary mixture convection
+Stationary planar domain walls of a classical spin chain
+Direct Transition to Spatiotemporal Chaos in Low Prandtl Number Fluids
+An analytical stability theory for Faraday waves and the observation of the harmonic surface response
+Nonlinear Modulation of Travelling Rolls in Magnetoconvection
+Solitary vortex couples in viscoelastic Couette flow
+Solvable Optimal Velocity Models and Asymptotic Traectory
+The Dynamics of Curved Fronts: Beyond Geometry
+Geometric Stability Analysis for Periodic Solutions of the Swift-Hohenberg Equation
+Sources and sinks separating domains of left- and right-traveling waves: Experiment versus amplitude equations
+Optical Solitary Waves in the Higher Order Nonlinear Schrodinger Equation
+Worm Structure in Modified Swift-Hohenberg Equation for Electroconvection
+Bistability of Slow and Fast Traveling Waves in Fluid Mixtures
+Energy thresholds for discrete breathers in one- two- and three-dimensional lattices
+Diffusive Boundary Layers in the Free-Surface Excitable Medium Spiral
+Pattern Formation from Defect Chaos --- A Theory of Chevrons
+Travelling waves in electroconvection of the nematic Phase : A test of the weak electrolyte model
+Predicting Non-linear Cellular Automata Quickly by Decomposing Them into Linear Ones
+Order Parameter Equations for Front Transitions: Planar and Circular Fronts
+Stability criterion for bright solitary waves of the perturbed cubic-quintic Schroedinger equation
+Renormalization Group Method and Reductive Perturbation Method
+Amplitude equations and pattern selection in Faraday waves
+Competition between Spiral-Defect Chaos and Rolls in Rayleigh-Benard Convection
+Streamer Propagation as a Pattern Formation Problem: Planar Fronts
+Propagation and Structure of Planar Streamer Fronts
+Weakly Nonlinear Analysis of Electroconvection in a Suspended Fluid Film
+Hexagonal patterns in finite domains
+Nonlinear Dynamics of a Single Ferrofluid-Peak in an Oscillating Magnetic Field
+Derivation of Amplitude Equations by Renormalization Group Method
+A discrete phi  system without Peierls-Nabarro barrier
+On the Origin of Traveling Pulses in Bistable Systems
+Resonances of dynamical checkerboard states in Josephson arrays with self-inductance
+Localized and Cellular Patterns in a Vibrated Granular Layer
+Instabilities of periodic orbits with spatio-temporal symmetries
+Onset of oscillatory instabilities under stochastic modulation
+Dynamical Reduction of Discrete Systems Based on the Renormalization Group Method
+Selection of the Saffman-Taylor Finger Width in the Absence of Surface Tension: an Exact Result
+Unicellular algal growth: A biomechanical approach to cell wall dynamics
+The branching structure of diffusion-limited aggregates
+Existence and Stability of Propagating Fronts for an Autocatalytic Reaction-Diffusion System
+Stability of a Nonequilibrium Interface in a Driven Phase Segregating System
+Amplitude Equations for Electrostatic Waves: multiple species
+Phase Space Derivation of a Variational Principle for One Dimensional Hamiltonian Systems
+Asymptotic description of transients and synchronized states of globally coupled oscillators
+Fingering Instability in a Water-Sand Mixture
+Time-periodic phases in populations of nonlinearly coupled oscillators with bimodal frequency distributions
+Breaking the symmetry in bimodal frequency distributions of globally coupled oscillators
+Universal algebraic relaxation of fronts propagating into an unstable state
+Surface tension and dynamics of fingering patterns
+Strongly nonlinear convection in binary fluids: Minimal model for extended states using symmetry decomposed modes
+Order Parameter Equations for Front Transitions: Nonuniformly Curved Fronts
+Noise sustained pattern growth: Bulk versus boundary effects
+Nature of Roll to Spiral-Defect-Chaos Transition
+Amplitude equations for coupled electrostatic waves in the limit of weak instability
+Complexation of Wavenumbers in Solitons
+Localized moving breathers in a 2-D hexagonal lattice
+Spiral Motion in a Noisy Complex Ginzburg-Landau Equation
+Propagation Failure in Excitable Media
+Nonlinear Competition Between Small and Large Hexagonal Patterns
+Annular electroconvection with shear
+Mutator Dynamics on a Smooth Evolutionary Landscape
+Propagation failure of traveling waves in a discrete bistable medium
+Adiabatic reduction near a bifurcation in stochastically modulated systems
+Phase chaos in the anisotropic complex Ginzburg-Landau Equation
+Amplitude equations and pattern selection in Faraday waves
+The dynamics of vortex lines in the three-dimensional complex Ginzburg-Landau equation: instability stretching entanglement and helices
+Thermal Fluctuations Subcritical Bifurcation and Nucleation of Localized States in Electroconvection
+Diffusive Mixing of Stable States in the Ginzburg-Landau Equation
+A Continuum Description of Vibrated Sand
+Front Propagation: Precursors Cutoffs and Structural Stability
+Square patterns in Rayleigh-Benard convection with rotation about a vertical axis
+Localization of Waves without Bistability: Worms in Nematic Electroconvection
+Continuum-type stability balloon in oscillated granular layers
+A Phase Front Instability in Periodically Forced Oscillatory Systems
+The Universal Gaussian in Soliton Tails
+The Dynamics of Granular Segregation Patterns in a Long Drum Mixer
+Oscillon-type Structures and Their Interaction in a Swift-Hohenberg Model
+Influence of the Soret effect on convection of binary fluids
+Analysis of Optimal Velocity Model with Explicit Delay
+Model for convection in binary liquids
+Pattern formation of reaction-diffusion system having self-determined flow in the amoeboid organism of Physarum plasmodium
+Fronts and interfaces in bistable extended mappings
+Phase instabilities in hexagonal patterns
+Boundary Limitation of Wavenumbers in Taylor-Vortex Flow
+Rayleigh-B ' e nard convection in a homeotropically aligned nematic liquid crystal
+Magnetic Faraday-Instability
+Parametrically excited surface waves in magnetic fluids: observation of domain structures
+Velocity correlations in granular materials
+Secondary instabilities form a codimension-2 point accompanied by a homoclinic bifurcation
+Electrically driven convection in a thin annular film undergoing circular Couette flow
+Turing Instability in a Boundary-fed System
+Numerical Bifurcation Diagram for the Two-Dimensional Boundary-fed CDIMA System
+On the degenerated soft-mode instability
+Dynamics and Selection of Giant Spirals in Rayleigh-Benard Convection
+Theory of Spike Spiral Waves in a Reaction-Diffusion System
+Nonlinear theory of soliton-induced waveguides
+Dynamics of kinks in the Ginzburg-Landau equation: Approach to a metastable shape and collapse of embedded pairs of kinks
+Emergence of Order in Textured Patterns
+Tunable Pinning of Burst-Waves in Extended Systems with Discrete Sources
+Higher order Shapiro steps in ac-driven Josephson unctions
+Dynamics of Wetting Fronts in Porous Media
+Helicoidal instability of a scroll vortex in three-dimensional reaction-diffusion systems
+Soliton motion in a parametrically ac-driven damped Toda lattice
+Parametrically forced sine-Gordon equation and domain walls dynamics in ferromagnets
+A Potential of Interaction between Two- and Three-Dimensional Solitons
+Standing and Moving Gap Solitons in Resonantly Absorbing Gratings
+pi -kinks in strongly ac driven sine-Gordon systems
+A Transverse Oscillation Arising From Spatial Soliton Formation in Nonlinear Optical Cavities
+Parametrically Excited Surface Waves: Two-Frequency Forcing Normal Form Symmetries and Pattern Selection
+Dynamics of axial separation in long rotating drums
+Controlled Dynamics of Interfaces in a Vibrated Granular Layer
+Toda Lattice Solutions of Differential-Difference Equations for Dissipative Systems
+Thermoconvection in magnetized ferrofluids: the influence of boundaries with finite heat conductivity
+Subharmonic bifurcation cascade of pattern oscillations caused by winding number increasing entrainment
+Self-organized Vortex State in Two-dimensional Dictyostelium Dynamics
+Discreteness-Induced Oscillatory Instabilities of Dark Solitons
+Faraday waves on a viscoelastic liquid
+Spatial- and spatio-temporal pattern formation in optically driven discrete systems
+Optical Gap Solitons in Nonresonant Quadratic Media
+Moving lattice kinks and pulses: an inverse method
+Induced Coherence and Stable Soliton Spiraling
+A Potential of Incoherent Attraction Between Multidimensional Solitons
+Buckling Cascade of Thin Plates: Forms Constraints and Similarity
+Traveling wave solutions in the Burridge-Knopoff model
+Quasi-Solitons in Dissipative Systems and Exactly Solvable Lattice Models
+Existence and stability of hole solutions to complex Ginzburg-Landau equations
+On-off Intermittency in Stochastically Driven Electrohydrodynamic Convection in Nematics
+Sources sinks and wavenumber selection in coupled CGL equations and experimental implications for counter-propagating wave systems
+Multi-Phase Patterns in Periodically Forced Oscillatory Systems
+Excitation Thresholds for Nonlinear Localized Modes on Lattices
+Disclination vortices in elastic media
+Extended parametric resonances in nonlinear Schrodinger systems
+Mechanisms of spatial current-density instabilities in p - p - - n - p -n structures
+Soliton Interaction with an External Traveling Wave
+Chaotic behaviour of nonlinear waves and solitons of perturbed Korteweg - de Vries equation
+Optical Vortex Solitons in Parametric Wave Mixing
+Bekki-Nozaki Amplitude Holes in Hydrothermal Nonlinear Waves
+Stability of Compacton Solutions of Fifth-Order Nonlinear Dispersive Equations
+Spatial Optical Solitons due to Multistep Cascading
+Lie-Group Approach to Perturbative Renormalization-Group Method
+Soliton tunneling with sub-barrier kinetic energies
+Resonance phenomena of a solitonlike extended obect in a bistable potential
+Discrete breathers in systems with homogeneous potentials - analytic solutions
+Stability of multi-hump optical solitons
+Fracture Patterns Induced by Desiccation in a Thin Layer
+Logarithmically Slow Expansion of Hot Bubbles in Gases
+Impurity-induced stabilization of solitons in arrays of parametrically driven nonlinear oscillators
+Quadratic solitary waves in a counterpropagating quasi-phase-matched configuration
+Interaction of cavity solitons in degenerate optical parametric oscillators
+Modulational instability of solitary waves in non-degenerate three-wave mixing: The role of phase symmetries
+Modulational instability of bright solitary waves in incoherently coupled nonlinear Schr odinger equations
+Instabilities of Hexagonal Patterns with Broken Chiral Symmetry
+Soliton Interactions in Perturbed Nonlinear Schroedinger Equations
+Curvature-induced symmetry breaking in nonlinear Schrodinger models
+Dynamics of localized structures in vector waves
+Quasiperiodic Envelope Solitons
+Selfsimilar Domain Growth Localized Structures and Labyrinthine Patterns in Vectorial Kerr Resonators
+Bilateral symmetry breaking in a nonlinear Fabry-Perot cavity exhibiting optical tristability
+Renormalization study of two-dimensional convergent solutions of the porous medium equation
+Universal Algebraic Relaxation of Velocity and Phase in Pulled Fronts generating Periodic or Chaotic States
+Long-Lived Localized Field Configurations in Small Lattices: Application to Oscillons
+Dissipation in ferrofluids: Mesoscopic versus hydrodynamic theory
+Diffusion-induced vortex filament instability in -dimensional excitable media
+Multi-Bunch Solutions of Differential-Difference Equation for Traffic Flow
+Influence of four-wave mixing and walk-off on the self-focusing of coupled waves
+Wave Number of Maximal Growth in Viscous Magnetic Fluids of Arbitrary Depth
+Linear and nonlinear waveguides induced by optical vortex solitons
+Abnormal Rolls and Regular Arrays of Disclinations in Homeotropic Electroconvection
+Discrete stochastic modeling of calcium channel dynamics
+Planform selection in two-layer Benard-Marangoni convection
+Dynamics of a Single Peak of the Rosensweig Instability in a Magnetic Fluid
+Cross-Newell equations for hexagons and triangles
+Solitons in anharmonic chains with ultra-long-range interatomic interactions
+Crossover from a square to a hexagonal pattern in Faraday surface waves
+Development and geometry of isotropic and directional shrinkage crack patterns
+Surface tension-driven convection patterns in two liquid layers
+Origin of Multikinks in Dispersive Nonlinear Systems
+Time resolved pattern evolution in a large aperture laser
+Kink dynamics in a novel discrete sine-Gordon system
+Vector solitons in (2 1) dimensions
+Defect Chaos of Oscillating Hexagons in Rotating Convection
+Dipole-Mode Vector Solitons
+On the Properties of Two Pulses Propagating Simultaneously in Different Dispersion Regimes in a Nonlinear Planar Waveguide
+Pattern formation in inclined layer convection
+Theory for Diffusion-Limited Oscillating Chemical Reactions
+Fluid Models for Kinetic Effects on Coherent Nonlinear Alfven Waves. II. Numerical Solutions
+Vorticity Generation in Slow Cooling Flows
+Dissipative Dynamics of Collisionless Nonlinear Alfven Wave Trains
+Nonlinear Dynamics of Accelerator via Wavelet Approach
+First Principles Justification of a Single Wave Model'' for Electrostatic Instabilities
+Nonlinear Longitudinal Waves in High Energy Stored Beams
+Generalized KdV Equation for Fluid Dynamics and Quantum Algebras
+Finite-Length Soliton Solutions of the Local Homogeneous Nonlinear Schroedinger Equation
+On a Shallow Water Wave Equation
+Nonlinear integrable systems related to arbitrary space-time dependence of the spectral transform
+Spatial Solitons in Media with Delayed-Response Optical Nonlinearities
+Non-Linear Evolution Equations with Non-Analytic Dispersion Relations in 2 1 Dimensions. Bilocal Approach
+Theory of Pump Depletion and Spike Formation in Stimulated Raman Scattering
+Leading Order Temporal Asymptotics of the Modified Non-Linear Schrodinger Equation: Solitonless Sector
+The Complex Toda Chains and the Simple Lie Algebras - Solutions and Large Time Asymptotics
+Perturbation theory for the modified nonlinear Schr o dinger solitons
+Spatio-temporal dynamics and plastic flow of vortices in superconductors with periodic arrays of pinning sites
+Dyons and Interactions in Nonlinear (Born-Infeld) Electrodynamics
+Electrostatic Edge Instability of Lipid Membranes
+Collapsing Bacterial Cylinders
+Stratified spatiotemporal chaos in anisotropic reaction-diffusion systems
+Compacton Solutions in a Class of Generalized Fifth Order Korteweg-de Vries Equations
+Laplacian Growth I: Finger Competition and Formation of a Single Saffman-Taylor Finger without Surface Tension: An Exact Result
+Local and Global Existence of Multiple Waves Near Formal Approximations

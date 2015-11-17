@@ -1,0 +1,1717 @@
+Real Options for Project Schedules (ROPS)
+Assessment and Propagation of Input Uncertainty in Tree-based Option Pricing Models
+Control of Complex Systems Using Bayesian Networks and Genetic Algorithm
+Machine and Component Residual Life Estimation through the Application of Neural Networks
+Principal Component Analysis and Automatic Relevance Determination in Damage Identification
+Using artificial intelligence for data reduction in mechanical engineering
+Evolutionary Optimisation Methods for Template Based Image Registration
+Option Pricing Using Bayesian Neural Networks
+Finite Element Model Updating Using Response Surface Method
+Dynamic Model Updating Using Particle Swarm Optimization Method
+Computational Intelligence for Condition Monitoring
+Virtual Observatory: From Concept to Implementation
+A theoretical investigation of ferromagnetic tunnel junctions with 4-valued conductances
+A Theoretical Study on Spin-Dependent Transport of Ferromagnet Carbon Nanotube Encapsulating Magnetic Atoms Ferromagnet Junctions with 4-Valued Conductances
+Spin dependent transport of nonmagnetic metal zigzag nanotube encapsulating magnetic atoms nonmagnetic metal'' junctions
+Adaptive simulated annealing (ASA): Lessons learned
+On The Closest String and Substring Problems
+Fault Detection using Immune-Based Systems and Formal Language Algorithms
+Towards Understanding the Predictability of Stock Markets from the Perspective of Computational Complexity
+Opportunity Cost Algorithms for Combinatorial Auctions
+Chip-level CMP Modeling and Smart Dummy for HDP and Conformal CVD Films
+Designing Proxies for Stock Market Indices is Computationally Hard
+Optimal Buy-and-Hold Strategies for Financial Markets with Bounded Daily Returns
+Optimal Bidding Algorithms Against Cheating in Multiple-Object Auctions
+Combinatorial Toolbox for Protein Sequence Design and Landscape Analysis in the Grand Canonical Model
+A Dynamic Programming Approach to De Novo Peptide Sequencing via Tandem Mass Spectrometry
+Tree Contractions and Evolutionary Trees
+Cavity Matchings Label Compressions and Unrooted Evolutionary Trees
+Fast Pricing of European Asian Options with Provable Accuracy: Single-stock and Basket Options
+Optimal Bid Sequences for Multiple-Object Auctions with Unequal Budgets
+The Enhanced Double Digest Problem for DNA Physical Mapping
+Shooting Over or Under the Mark: Towards a Reliable and Flexible Anticipation in the Economy
+Tracing a Faint Fingerprint of the Invisible Hand?
+Local Search Techniques for Constrained Portfolio Selection Problems
+Several new domain-type and boundary-type numerical discretization schemes with radial basis function
+Parallel implementation of the TRANSIMS micro-simulation
+Errata and supplements to: Orthonormal RBF Wavelet and Ridgelet-like Series and Transforms for High-Dimensional Problems
+Solving Composed First-Order Constraints from Discrete-Time Robust Control
+A note on radial basis function computing
+Pricing Virtual Paths with Quality-of-Service Guarantees as Bundle Derivatives
+The Risk Profile Problem for Stock Portfolio Optimization
+The Expresso Microarray Experiment Management System: The Functional Genomics of Stress Responses in Loblolly Pine
+Multivariant Branching Prediction Reflection and Retrospection
+Analytical solution of transient scalar wave and diffusion problems of arbitrary dimensionality and geometry by RBF wavelet series
+Analysis of Investment Policy in Belarus
+Predicting RNA Secondary Structures with Arbitrary Pseudoknots by Maximizing the Number of Stacking Pairs
+New RBF collocation methods and kernel RBF with applications
+DNA Self-Assembly For Constructing 3D Boxes
+A Qualitative Dynamical Modelling Approach to Capital Accumulation in Unregulated Fisheries
+BSML: A Binding Schema Markup Language for Data Interchange in Problem Solving Environments (PSEs)
+The efficient generation of unstructured control volumes in 2D and 3D
+Agent trade servers in financial exchange systems
+Fast Universalization of Investment Strategies with Provably Good Relative Returns
+Sampling Strategies for Mining in Data-Scarce Domains
+Parrondo Strategies for Artificial Traders
+Qualitative Analysis of Correspondence for Experimental Algorithmics
+Trading Agents for Roaming Users
+Distance function wavelets - Part I: Helmholtz and convection-diffusion transforms and series
+A quasi-RBF technique for numerical discretization of PDE's
+Data-Collection for the Sloan Digital Sky Survey: a Network-Flow Heuristic
+Distance function wavelets - Part II: Extended results and conjectures
+High-order fundamental and general solutions of convection-diffusion equation and their applications with boundary particle method
+Distance function wavelets - Part III: Exotic transforms and series
+National Infrastructure Contingencies: Survey of Wireless Technology Support
+Symmetric boundary knot method
+New advances in dual reciprocity and boundary-only RBF methods
+Relationship between boundary integral equation and radial basis function
+New Insights in Boundary-only and Domain-type RBF Methods
+Definitions of distance function in radial basis function approach
+Reducing the Computational Requirements of the Differential Quadrature Method
+A Lyapunov Formulation for Efficient Solution of the Poisson and Convection-Diffusion Equations by the Differential Quadrature Method
+Dual reciprocity BEM and dynamic programming filter for inverse elastodynamic problems
+RBF-based meshless boundary knot method and boundary particle method
+A meshless integration-free and boundary-only RBF technique
+Some addenda on distance function wavelets
+A note on fractional derivative modeling of broadband frequency-dependent absorption: Model III
+Symbolic Methodology in Numeric Data Mining: Relational Techniques for Financial Applications
+A direct time-domain FEM modeling of broadband frequency-dependent absorption with the presence of matrix fractional power: Model I
+Using Hierarchical Data Mining to Characterize Performance of Wireless System Configurations
+A Novel Statistical Diagnosis of Clinical Data
+A new definition of the fractional Laplacian
+Positive time fractional derivative
+User software for the next generation
+SkyQuery: A WebService Approach to Federate Databases
+JohnnyVon: Self-Replicating Automata in Continuous Two-Dimensional Space
+A Simple Model of Unbounded Evolutionary Versatility as a Largest-Scale Trend in Organismal Evolution
+Contextual Normalization Applied to Aircraft Gas Turbine Engine Diagnosis
+Data Engineering for the Analysis of Semiconductor Manufacturing Data
+Increasing Evolvability Considered as a Large-Scale Trend in Evolution
+Novel Runtime Systems Support for Adaptive Compositional Modeling on the Grid
+Interest Rate Model Calibration Using Semidefinite Programming
+Risk-Management Methods for the Libor Market Model Using Semidefinite Programming
+A Bird's eye view of Matrix Distributed Processing
+Stochastic Volatility in a Quantitative Model of Stock Market Returns
+Self-Replicating Machines in Continuous Space with Virtual Physics
+Goodness-of-fit of the Heston model
+Modelling Biochemical Operations on RNA Secondary Structures
+A family of metrics on contact structures based on edge ideals
+Design implementation and deployment of the Saclay muon reconstruction algorithms (Muonbox y) in the Athena software framework of the ATLAS experiment
+Modeling Business
+Hamevol1.0: a C code for differential equations based on Runge-Kutta algorithm. An application to matter enhanced neutrino oscillation
+Contributions to the Development and Improvement of a Regulatory and Pre-Regulatory Digitally System for the Tools within Flexible Fabrication Systems
+Boundary knot method for Laplace and biharmonic problems
+Implementing an Agent Trade Server
+Fuzzy Relational Modeling of Cost and Affordability for Advanced Technology Manufacturing Environment
+Value-at-Risk and Expected Shortfall for Quadratic portfolio of securities with mixture of elliptic Distributed Risk Factors
+On an explicit finite difference method for fractional diffusion equations
+Turning CARTwheels: An Alternating Algorithm for Mining Redescriptions
+Algorithms for Estimating Information Distance with Application to Bioinformatics and Linguistics
+The modulus in the CAD system drawings as a base of developing of the problem-oriented extensions
+Modular technology of developing of the problem-oriented extensions of a CAD system of reconstruction of the plant
+The model of the tables in design documentation for operating with the electronic catalogs and for specifications making in a CAD system
+Modular technology of developing of the extensions of a CAD system. Axonometric piping diagrams. Parametric representation
+Modular technology of developing of the extensions of a CAD system. The axonometric piping diagrams. Common and special operations
+Mathematical and programming toolkit of the computer aided design of the axonometric piping diagrams
+A direct formulation for sparse PCA using semidefinite programming
+Business Process Measures
+An agent-based intelligent environmental monitoring system
+Static versus Dynamic Arbitrage Bounds on Multivariate Option Prices
+Parallel Computing Environments and Methods for Power Distribution System Simulation
+Using sparse matrices and splines-based interpolation in computational fluid dynamics simulations
+Intelligent Computer Numerical Control unit for machine tools
+The Cyborg Astrobiologist: First Field Experience
+The modular technology of development of the CAD expansions: profiles of outside networks of water supply and water drain
+The modular technology of development of the CAD expansions: protection of the buildings from the lightning
+The Features of the Complex CAD system of Reconstruction of the Industrial Plants
+The methods of support of the requirements of the Russian standards at development of a CAD of industrial objects
+The modelling of the build constructions in a CAD of the renovation of the enterprises by means of units in the drawings
+The informatization of design works at industry firm during its renovation
+Identification of complex systems in the basis of wavelets
+Scientific Data Management in the Coming Decade
+Where the Rubber Meets the Sky: Bridging the Gap between Databases and Science
+Can Computer Algebra be Liberated from its Algebraic Yoke ?
+Self-Replicating Strands that Self-Assemble into User-Specified Meshes
+The Peculiarities of Nonstationary Formation of Inhomogeneous Structures of Charged Particles in the Electrodiffusion Processes
+Modelling investment in artificial stock markets: Analytical and Numerical Results
+Data Mining on Crash Simulation Data
+Sparse Covariance Selection via Robust Maximum Likelihood Estimation
+A Taxonomy of Data Grids for Distributed Data Sharing Management and Processing
+Comparison of two different implementations of a finite-difference-method for first-order pde in mathematica and matlab
+Field geology with a wearable computer: 1st results of the Cyborg Astrobiologist System
+Comparison of Resampling Schemes for Particle Filtering
+ReacProc: A Tool to Process Reactions Describing Particle Interactions
+Investigations of Process Damping Forces in Metal Cutting
+Long-term neuronal behavior caused by two synaptic modification mechanisms
+Component Based Programming in Scientific Computing: The Viable Approach
+COMODI: Architecture for a Component-Based Scientific Computing System
+Traders imprint themselves by adaptively updating their own avatar
+Underwater Hacker Missile Wars: A Cryptography and Engineering Contest
+Semantics of UML 2.0 Activity Diagram for Business Modeling by Means of Virtual Machine
+A Market Test for the Positivity of Arrow-Debreu Prices
+COMODI: On the Graphical User Interface
+R ' e flexions sur la question fr ' e quentielle en traitement du signal
+Heat kernel expansion for a family of stochastic volatility models : delta-geometry
+A linear-time algorithm for finding the longest segment which scores above a given threshold
+Analyse non standard du bruit
+The emergence of knowledge exchange: an agent-based model of a software market
+Simplicial models of social aggregation I
+Modeling the Dynamics of Social Networks
+An Internet-enabled technology to support Evolutionary Design
+Understanding Design Fundamentals: How Synthesis and Analysis Drive Creativity Resulting in Emergence
+The meaning of manufacturing know-how
+A Framework for the Development of Manufacturing Simulators: Towards New Generation of Simulation Systems
+A Decision-Making Support System Based on Know-How
+A simulation engine to support production scheduling using genetics-based machine learning
+Building a logical model in the machining domain for CAPP expert systems
+Evolutionary Design: Philosophy Theory and Application Tactics
+Feynman Checkerboard as a Model of Discrete Space-Time
+Mathematical Modelling of the Thermal Accumulation in Hot Water Solar Systems
+Finite element method for thermal analysis of concentrating solar receivers
+Ideas by Statistical Mechanics (ISM)
+Self-Replication and Self-Assembly for Manufacturing
+A comparative analysis of the geometrical surface texture of a real and virtual model of a tooth flank of a cylindrical gear
+A Semidefinite Relaxation for Air Traffic Flow Scheduling
+Protection of the information in a complex CAD system of renovation of industrial firms
+The evolution of the parametric models of drawings (modules) in the enterprises reconstruction CAD system
+On numerical stability of recursive present value computation method
+Multivariate Integral Perturbation Techniques - I (Theory)
+A Multi-server Scheduling Framework for Resource Allocation in Wireless Multi-carrier Networks
+Environment of development of the programs of parametric creating of the drawings in CAD-system of renovation of the enterprises
+Coupling Methodology within the Software Platform Alliances
+The specifications making in complex CAD-system of renovation of the enterprises on the basis of modules in the drawing and electronic catalogues
+The modelling of the automation schemes of technological processes in CAD-system of renovation of the enterprises
+Budget Optimization in Search-Based Advertising Auctions
+The virtual reality framework for engineering objects
+The framework for simulation of dynamics of mechanical aggregates
+Supporting Finite Element Analysis with a Relational Database Backend Part I: There is Life beyond Files
+Supporting Finite Element Analysis with a Relational Database Backend Part II: Database Design and Access
+Using Table Valued Functions in SQL Server 200 To Implement a Spatial Data Library
+Large-Scale Query and XMatch Entering the Parallel one
+Life Under Your Feet: An End-to-End Soil Ecology Sensor Network Database Web Server and Analysis Service
+Cross-Matching Multiple Spatial Observations and Dealing with Missing Data
+SkyServer Traffic Report - The First Five Years
+AICA: a New Pair Force Evaluation Method for Parallel Molecular Dynamics in Arbitrary Geometries
+First Passage Time for Multivariate Jump-diffusion Stochastic Models With Applications in Finance
+Monte-Carlo Simulations of the First Passage Time for Multivariate Jump-Diffusion Processes in Financial Applications
+Efficient estimation of default correlation for multivariate jump-diffusion processes
+Solving Stochastic Differential Equations with Jump-Diffusion Efficiently: Applications to FPT Problems in Credit Risk
+Finite Volume Analysis of Nonlinear Thermo-mechanical Dynamics of Shape Memory Alloys
+Simulation of Phase Combinations in Shape Memory Alloys Patches by Hybrid Optimization Methods
+Numerical Model For Vibration Damping Resulting From the First Order Phase Transformations
+Option Valuation using Fourier Space Time Stepping
+Fast Computational Algorithms for the Discrete Wavelet Transform and Applications of Localized Orthonormal Bases in Signal Classification
+Algorithms of Two-Level Parallelization for DSMC of Unsteady Flows in Molecular Gasdynamics
+An Algebraic Programming Style for Numerical Software and its Optimization
+The Structure of Weighting Coefficient Matrices of Harmonic Differential Quadrature and Its Applications
+Jacobian matrix: a bridge between linear and nonlinear polynomial-only problems
+The Study on the Nonlinear Computations of the DQ and DC Methods
+Hadamard product nonlinear formulation of Galerkin and finite element methods
+Programs with Stringent Performance Objectives Will Often Exhibit Chaotic Behavior
+A Newton method without evaluation of nonlinear function values
+The application of special matrix product to differential quadrature solution of geometrically nonlinear bending of orthotropic rectangular plates
+Generalized linearization in nonlinear modeling of data
+A simple C library for manipulating scientific data sets as structured data
+Seeing the Forest in the Tree: Applying VRML to Mathematical Problems in Number Theory
+Parallel Programming with Matrix Distributed Processing
+Hot-pressing process modeling for medium density fiberboard (MDF)
+A numerical method for solution of ordinary differential equations of fractional order
+The dynamics of iterated transportation simulations
+The calculation of a normal force between multiparticle contacts using fractional operators
+Complex Independent Component Analysis of Frequency-Domain Electroencephalographic Data
+The Triplet Genetic Code had a Doublet Predecessor
+New Approachs to Quantum Computer Simulaton in a Classical Supercomputer
+Inferring the Composition of a Trader Population in a Financial Market
+N-Body Simulations on GPUs
+Location and Spectral Estimation of Weak Wave Packets on Noise Background
+Tripartitions do not always discriminate phylogenetic networks
+Faster exon assembly by sparse spliced alignment
+e-Science initiatives in Venezuela
+Stochastic Differential Games in a Non-Markovian Setting
+Arbitrage in Fractal Modulated Markets When the Volatility is Stochastic
+Consistency Problems for Jump-Diffusion Models
+Projecting the Forward Rate Flow onto a Finite Dimensional Manifold
+Quickest detection of a minimum of disorder times
+Statistical mechanics of neocortical interactions: Portfolio of Physiological Indicators
+Coupling Control and Human-Centered Automation in Mathematical Models of Complex Systems
+An Algorithm for Optimal Partitioning of Data on an Interval
+A preliminary analysis on metaheuristics methods applied to the Haplotype Inference Problem
+Computational Simulation and 3D Virtual Reality Engineering Tools for Dynamical Modeling and Imaging of Composite Nanomaterials
+A Neural Networks Model of the Venezuelan Economy
+A Non Parametric Study of the Volatility of the Economy as a Country Risk Predictor
+An Early Warning System for Bankruptcy Prediction: lessons from the Venezuelan Bank Crisis
+Comparison of Tree-Child Phylogenetic Networks
+A Non Parametric Model for the Forecasting of the Venezuelan Oil Prices
+Sound Generation by a Turbulent Flow in Musical Instruments - Multiphysics Simulation Approach -
+Combining haplotypers
+Risk Minimization and Optimal Derivative Design in a Principal Agent Game
+A numerical approach for 3D manufacturing tolerances synthesis
+A Perl Package and an Alignment Tool for Phylogenetic Networks
+Report on American Option Pricing and Hedging Strategies
+Building the Tangent and Adjoint codes of the Ocean General Circulation Model OPA with the Automatic Differentiation tool TAPENADE
+Pricing Options on Defaultable Stocks
+Human-Machine Symbiosis 0 Years On
+The Earth System Grid: Supporting the Next Generation of Climate Modeling Research
+Changing Levels of Description in a Fluid Flow Simulation
+TRUST-TECH based Methods for Optimization and Learning
+Towards a Real-Time Data Driven Wildland Fire Model
+Identifying Small Mean Reverting Portfolios
+Hospital Case Cost Estimates Modelling - Algorithm Comparison
+A Distance Metric for Tree-Sibling Time Consistent Phylogenetic Networks
+Prediction and Mitigation of Crush Conditions in Emergency Evacuations
+Tuplix Calculus Specifications of Financial Transfer Networks
+The Generalized Riemann or Henstock Integral Underpinning Multivariate Data Analysis: Application to Faint Structure Finding in Price Processes
+The VO-Neural project: recent developments and some applications
+GRID-Launcher v.1.0
+Numerical removal of water-vapor effects from THz-TDS measurements
+Nodal distances for rooted phylogenetic trees
+Path lengths in tree-child time consistent hybridization networks
+Simulations of Large-scale WiFi-based Wireless Networks: Interdisciplinary Challenges and Applications
+Hardware Software Co-Design for Spike Based Recognition
+A Unified Framework for Pricing Credit and Equity Derivatives
+Accelerated Option Pricing in Multiple Scenarios
+Mathematical Tool of Discrete Dynamic Modeling of Complex Systems in Control Loop
+A Control Variate Approach for Improving Efficiency of Ensemble Monte Carlo
+Mathematical and computer tools of discrete dynamic modeling and analysis of complex systems in control loop
+Pricing Asian Options for Jump Diffusions
+Classdesc and Graphcode: support for scientific programming in C
+Non-linear estimation is easy
+Continuing Progress on a Lattice QCD Software Infrastructure
+The Design of Compressive Sensing Filter
+Pricing American Options for Jump Diffusions by Iterating Optimal Stopping Problems for Diffusions
+A Bayesian Framework for Combining Valuation Estimates
+The Local Fractal Properties of the Financial Time Series on the Polish Stock Exchange Market
+Adaptive Investment Strategies For Periodic Environments
+M 'ethode de calcul du rayonnement acoustique de structures complexes
+A Logic Programming Framework for Combinational Circuit Synthesis
+Performability Aspects of the Atlas Vo Using Lmbench Suite
+System Theoretic Viewpoint on Modeling of Complex Systems: Design Synthesis Simulation and Control
+Anticorrelations and subdiffusion in financial systems
+Modelling financial markets by the multiplicative sequence of trades
+Towards a Bayesian framework for option pricing
+Optimization of Trading Physics Models of Markets
+Stochastic Volatility Models Including Open Close High and Low Prices
+An Upper Limit of AC Huffman Code Length in JPEG Compression
+HEP data analysis using jHepWork and Java
+Optimal profiles in variable speed flows
+Genetic algorithm based optimization and post optimality analysis of multi-pass face milling
+Optimal design and optimal control of structures undergoing finite rotations and elastic deformations
+Doppler Spectrum Estimation by Ramanujan Fourier Transforms
+Tuplix Calculus
+Definition of Strange Attractor in Benard problem for Generalized Couette Cell
+Supernodal Analysis Revisited
+New avenue to the Parton Distribution Functions: Self-Organizing Maps
+Compressive Diffraction Tomography for Weakly Scattering
+All that Glisters is not Galled
+WinBioinfTools: Bioinformatics Tools for Windows High Performance Computing Server 200
+A Direct Matrix Method for Computing Analytical Jacobians of Discretized Nonlinear Integro-differential Equations
+A mathematical proof of the existence of trends in financial time series
+Novel anisotropic continuum-discrete damage model capable of representing localized failure of massive structures. Part II: identification from tests under heterogeneous stress field
+Comparison of Galled Trees
+Autonomous tools for Grid management monitoring and optimization
+A variant of the Recoil Growth algorithm to generate multi-polymer systems
+On dual Schur domain decomposition method for linear first-order transient problems
+System approach to synthesis modeling and control of complex dynamical systems
+Automated Protein Structure Classification: A Survey
+Aneka: A Software Platform for .NET-based Cloud Computing
+Modern Statistics by Kriging
+A model for reactive porous transport during re-wetting of hardened concrete
+LinkedCT: A Linked Data Space for Clinical Trials
+Top-down Paradigm in Engineering Software Integration
+New method to characterize a machining system: application in turning
+Non-quadratic convex regularized reconstruction of MR images from spiral acquisitions
+Kriging Scenario For Capital Markets
+Activatability for simulation tractability of NP problems: Application to Ecology
+On the Relationship between Trading Network and WWW Network: A Preferential Attachment Perspective
+A Computational View of Market Efficiency
+A Hybrid Multi Objective Particle Swarm Optimization Method to Discover Biclusters in Microarray Data
+IRPF0: a programming environment for high performance computing
+Multiplicative point process as a model of trading activity
+Optimal Cache-Oblivious Mesh Layouts
+Message Passing for Optimization and Control of Power Grid: Model of Distribution System with Redundancy
+Random Sampling Using Shannon Interpolation and Poisson Summation Formulae
+Searching the (really) real general solution of 2D Laplace differential equation
+BioDiVinE: A Framework for Parallel Analysis of Biological Models
+On the Interpretation of Delays in Delay Stochastic Simulation of Biological Systems
+Quantifying the implicit process flow abstraction in SBGN-PD diagrams with Bio-PEPA
+Dynamical and Structural Modularity of Discrete Regulatory Networks
+A study on the combined interplay between stochastic fluctuations and the number of flagella in bacterial chemotaxis
+Proceedings Second International Workshop on Computational Models for Cell Processes
+State of the Art Review for Applying Computational Intelligence and Machine Learning Techniques to Portfolio Optimisation
+Equivalence Classes of Optimal Structures in HP Protein Models Including Side Chains
+Constraint-based Local Move Definitions for Lattice Protein Models Including Side Chains
+From naive to sophisticated behavior in multiagents based financial market models
+Pervasive Service Architecture for a Digital Business Ecosystem
+Reversibility and Adiabatic Computation: Trading Time and Space for Energy
+Trading in Risk Dimensions (TRD)
+Removing the Stiffness of Elastic Force from the Immersed Boundary Method for the 2D Stokes Equations
+Risk-Seeking versus Risk-Avoiding Investments in Noisy Periodic Environments
+A Density Matrix-based Algorithm for Solving Eigenvalue Problems
+Biological Computing Fundamentals and Futures
+A Type System for Required Excluded Elements in CLS
+An Intuitive Automated Modelling Interface for Systems Biology
+Diffusion Controlled Reactions Fluctuation Dominated Kinetics and Living Cell Biochemistry
+Proceedings Fifth Workshop on Developments in Computational Models--Computational Models From Nature
+Global communications in multiprocessor simulations of flames
+A computational model of the bottlenose dolphin sonar: Feature-extracting method
+Introduction to Bioinformatics
+Bigraphical models for protein and membrane interactions
+A framework for protein and membrane interactions
+A Process Calculus for Molecular Interaction Maps
+Modelling Cell Cycle using Different Levels of Representation
+A compartmental model of the cAMP PKA MAPK pathway in Bio-PEPA
+New Solutions to the Firing Squad Synchronization Problems for Neural and Hyperdag P Systems
+Drip and Mate Operations Acting in Test Tube Systems and Tissue-like P systems
+Dependencies and Simultaneity in Membrane Systems
+Nonextensive statistical mechanics and economics
+Causalities of the Taiwan Stock Market
+Point process model of 1 f noise versus a sum of Lorentzians
+An Empirical Model for Volatility of Returns and Option Pricing
+Petabyte Scale Data Mining: Dream or Reality?
+The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with Geological Significance
+Stylized Facts in Internal Rates of Return on Stock Index and its Derivative Transactions
+Exploring the cooperative regimes in a model of agents without memory or tags : indirect reciprocity vs. selfish incentives
+High-resolution path-integral development of financial options
+Theoretical Engineering and Satellite Comlink of a PTVD-SHAM System
+The Theory of Unified Relativity for a Biovielectroluminescence Phenomenon via Fly's Visual and Imaging System
+Addendum to Research MMMCV A Man Microbio Megabio Computer Vision
+Abstract Interpretation for Probabilistic Termination of Biological Systems
+Proceedings Third Workshop on Membrane Computing and Biologically Inspired Process Calculi 200
+Modular Workflow Engine for Distributed Services using Lightweight Java Clients
+Performance Analysis on Molecular Dynamics Simulation of Protein Using GROMACS
+Short Term Load Forecasting Using Multi Parameter Regression
+LAGOVirtual: A Collaborative Environment for the Large Aperture GRB Observatory
+Efficient Parallel Statistical Model Checking of Biochemical Networks
+Proceedings th International Workshop on Parallel and Distributed Methods in verifiCation
+The Cyborg Astrobiologist: Porting from a wearable computer to the Astrobiology Phone-cam
+Mapping the spatiotemporal dynamics of calcium signaling in cellular neural networks using optical flow
+Stable Feature Selection for Biomarker Discovery
+Effectively integrating information content and structural relationship to improve the GO-based similarity measure between proteins
+Using Financial Ratios to Identify Romanian Distressed Companies
+Mining Spatial Gene Expression Data Using Negative Association Rules
+Modelacion y Visualizacion Tridimensional Interactiva de Variables Electricas en Celdas de Electro-Obtencion con Electrodos Bipolares
+Aplicacion Grafica para el estudio de un Modelo de Celda Electrolitica usando Tecnicas de Visualizacion de Campos Vectoriales
+Distributed Control of the Laplacian Spectral Moments of a Network
+BOOST: A fast approach to detecting gene-gene interactions in genome-wide case-control studies
+DNA-MATRIX a tool for DNA motif discovery and weight matrix construction
+Moment-Based Analysis of Synchronization in Small-World Networks of Oscillators
+Spectral Analysis of Virus Spreading in Random Geometric Networks
+Exploiting Grids for applications in Condensed Matter Physics
+A Probabilistic Model For Sequence Analysis
+Flux Analysis in Process Models via Causality
+Modelling and Analysis of Biochemical Signalling Pathway Cross-talk
+Investigating modularity in the analysis of process algebra models of biochemical systems
+A flexible architecture for modeling and simulation of diffusional association
+BlenX-based compositional modeling of complex reaction mechanisms
+Types for BioAmbients
+A Taxonomy of Causality-Based Biological Properties
+Is It Real or Is It Randomized?: A Financial Turing Test
+Complementary approaches to understanding the plant circadian clock
+Expert System Models in the Companies' Financial and Accounting Domain
+Proceedings Third Workshop From Biology To Concurrency and back
+Biology-Derived Algorithms in Engineering Optimization
+Gene Expression Data Knowledge Discovery using Global and Local Clustering
+Identification of Convection Heat Transfer Coefficient of Secondary Cooling one of CCM based on Least Squares Method and Stochastic Approximation Method
+Mathematical Modeling to Study the Dynamics of A Diatomic Molecule N2 in Water
+An Optimized Data Structure for High Throughput 3D Proteomics Data: mzRTree
+Computer Aided Design Modeling for Heterogeneous Objects
+Linking Microscopic and Macroscopic Models for Evolution: Markov Chain Network Training and Conservation Law Approximations
+Automatic Trading Agent. RMT based Portfolio Theory and Portfolio Selection
+Two-Phase Flow in Heterogeneous Media
+Modelling an Ammonium Transporter with SCLS
+Application of Graph Coloring to Biological Networks
+Lattice model refinement of protein structures
+SABRE: A Tool for Stochastic Analysis of Biochemical Reaction Networks
+Optical phase extraction algorithm based on the continuous wavelet and the Hilbert transforms
+Perfusion Linearity and Its Applications
+Computing the speed of convergence of ergodic averages and pseudorandom points in computable dynamical systems
+Robust PI Control Design Using Particle Swarm Optimization
+A Metaheuristic Approach for IT Projects Portfolio Optimization
+Algorithm for Predicting Protein Secondary Structure
+Simulating information creation in social Semantic Web applications
+Stochastic Calculus of Wrapped Compartments
+Recurrence relations and fast algorithms
+An Estimation of Distribution Algorithm with Intelligent Local Search for Rule-based Nurse Rostering
+A Pyramidal Evolutionary Algorithm with Different Inter-Agent Partnering Strategies for Scheduling Problems
+A Bayesian Optimisation Algorithm for the Nurse Scheduling Problem
+Investigating Artificial Immune Systems For Job Shop Rescheduling In Changing Environments
+Exploiting problem structure in a genetic algorithm approach to a nurse rostering problem
+Simulation Optimization of the Crossdock Door Assignment Problem
+Using Intelligent Agents to Understand Management Practices and Retail Productivity
+An Agent-Based Simulation of In-Store Customer Experiences
+Investigating a Hybrid Metaheuristic For Job Shop Rescheduling
+An Investigation of the Sequential Sampling Method for Crossdocking Simulation Output Variance Reduction
+Improved Squeaky Wheel Optimisation for Driver Scheduling
+The Application of Bayesian Optimization and Classifier Systems in Nurse Scheduling
+Enhanced Direct and Indirect Genetic Algorithm Approaches for a Mall Layout and Tenant Selection Problem
+Building Better Nurse Scheduling Algorithms
+An Indirect Genetic Algorithm for a Nurse Scheduling Problem
+An Estimation of Distribution Algorithm for Nurse Scheduling
+A Component Based Heuristic Search method with Adaptive Perturbations for Hospital Personnel Scheduling
+Bayesian Optimisation Algorithm for Nurse Scheduling
+An Evolutionary Squeaky Wheel Optimisation Approach to Personnel Scheduling
+Multi-Agent Simulation and Management Practices
+Optimisation of a Crossdocking Distribution Centre Simulation Model
+Simulating Customer Experience and Word Of Mouth in Retail - A Case Study
+Investigating Output Accuracy for a Discrete Event Simulation Model and an Agent Based Simulation Model
+Development of a Cargo Screening Process Simulator: A First Approach
+Genetic Algorithms for Multiple-Choice Problems
+Tailored RF pulse optimization for magnetization inversion at ultra high field
+Multiple-Relaxation-Time Lattice Boltzmann Approach to Compressible Flows with Flexible Specific-Heat Ratio and Prandtl Number
+The Motif Tracking Algorithm
+Modelling Reactive and Proactive Behaviour in Simulation
+Towards the Development of a Simulator for Investigating the Impact of People Management Practices on Retail Performance
+StochKit-FF: Efficient Systems Biology on Multicore Architectures
+Analysis of a Splitting Estimator for Rare Event Probabilities in Jackson Networks
+Complexity Analysis of Unsaturated Flow in Heterogeneous Media Using a Complex Network Approach
+CLP-based protein fragment assembly
+Co-evolution is Incompatible with the Markov Assumption in Phylogenetics
+A Chaotic Approach to Market Dynamics
+Data visualization in political and social sciences
+An algorithmic information-theoretic approach to the behaviour of financial markets
+An approximate solution of the MHD Falkner-Skan flow by Hermite functions pseudospectral method
+Numerical approximations for population growth model by Rational Chebyshev and Hermite Functions collocation approach: A comparison
+Comparison between two common collocation approaches based on radial basis functions for the case of heat transfer equations arising in porous medium
+Removing the Barrier to Scalability in Parallel FMM
+Proceedings First Workshop on Applications of Membrane computing Concurrency and Agent-based modelling in POPulation biology
+Modelling the Dynamics of an Aedes albopictus Population
+An Analysis on the Influence of Network Topologies on Local and Global Dynamics of Metapopulation Systems
+Celer: an Efficient Program for Genotype Elimination
+Inventory Allocation for Online Graphical Display Advertising
+Machine Science in Biomedicine: Practicalities Pitfalls and Potential
+Mesh Algorithms for PDE with Sieve I: Mesh Distribution
+Two-Phase Flow Complexity in Heterogeneous Media
+A Majorization-Minimization Approach to Design of Power Transmission Networks
+A complex network approach to robustness and vulnerability of spatially organized water distribution networks
+Applications of Machine Learning Methods to Quantifying Phenotypic Traits that Distinguish the Wild Type from the Mutant Arabidopsis Thaliana Seedlings during Root Gravitropism
+Comparing Prediction Market Structures With an Application to Market Making
+An extensible web interface for databases and its application to storing biochemical data
+A memory-efficient data structure representing exact-match overlap graphs with application for next generation DNA assembly
+Efficient Computation of Optimal Trading Strategies
+Dynamic Adaptive Mesh Refinement for Topology Optimization
+A Multi-Interference-Channel Matrix Pair Beamformer for CDMA Systems
+A Hybrid Parallelization of AIM for Multi-Core Clusters: Implementation Details and Benchmark Results on Ranger
+Fast error-tolerant quartet phylogeny algorithms
+On Designing Multicore-aware Simulators for Biological Systems
+CRT: A numerical tool for propagating ultra-high energy cosmic rays through Galactic magnetic field models
+Information Analysis of DNA Sequences
+Theory and Applications of Robust Optimization
+Fast Continuous Haar and Fourier Transforms of Rectilinear Polygons from VLSI Layouts
+Error Correction and Digitalization Concepts in Biochemical Computing
+Statistics on Graphs Exponential Formula and Combinatorial Physics
+Proceedings Fourth Workshop on Membrane Computing and Biologically Inspired Process Calculi 2010
+Delineation of Raw Plethysmograph using Wavelets for Mobile based Pulse Oximeters
+Mobile Based Secure Digital Wallet for Peer to Peer Payment System
+Stochastic Simulation of Process Calculi for Biology
+Measurable Stochastics for Brane Calculus
+An Abstraction Theory for Qualitative Models of Biological Systems
+Computational Modeling for the Activation Cycle of G-proteins by G-protein-coupled Receptors
+Aspects of multiscale modelling in a process algebra for biological systems
+Multiscale Bone Remodelling with Spatial P Systems
+Modeling biological systems with delays in Bio-PEPA
+Hybrid Calculus of Wrapped Compartments
+Lumpability Abstractions of Rule-based Systems
+Qualitative modelling and analysis of regulations in multi-cellular systems using Petri nets and topological collections
+Overcoming Problems in the Measurement of Biological Complexity
+Forecast Bias Correction: A Second Order Method
+A network model with structured nodes
+Shape Calculus: Timed Operational Semantics and Well-formedness
+Using Evolution Strategy with Meta-models for Well Placement Optimization
+Variational structure of the optimal artificial diffusion method for the advection-diffusion equation
+Transmission line inspires a new distributed algorithm to solve linear system of circuit
+DNA Sequencing via Quantum Mechanics and Machine Learning
+Argudas: arguing with gene expression information
+Analysis Of Cancer Omics Data In A Semantic Web Framework
+Analysis and visualisation of RDF resources in Ondex
+Aspects of Multi-Dimensional Modelling of Substellar Atmospheres
+Accurate prediction of gene expression by integration of DNA sequence statistics with detailed modeling of transcription regulation
+PhyloGrid: a development for a workflow in Phylogeny
+Advances in the Biomedical Applications of the EELA Project
+R 'egularisation et optimisation pour l'imagerie sismique des fondations de pyl ones
+Power-Rate Allocation in DS CDMA Based on Discretized Verhulst Equilibrium
+Cointegration of the Daily Electric Power System Load and the Weather
+Fractal Weyl law for Linux Kernel Architecture
+On the engineers' new toolbox or Analog Circuit Design using Symbolic Analysis Computer Algebra and Elementary Network Transformations
+Status of GDL - GNU Data Language
+Finding undetected protein associations in cell signaling by belief propagation
+Simulation of Self-Assembly in the Abstract Tile Assembly Model with ISU TAS
+Efficient Dealiased Convolutions without Padding
+From Social Simulation to Integrative System Design
+Towards Decentralized Trading: A Topological Investigation of the Dutch Medium and Low Voltage Grids
+Volatility made observable at last
+PORGY: Strategy-Driven Interactive Transformation of Graphs
+Parameter Identification for Markov Models of Biochemical Reactions
+Reverse Engineering of Molecular Networks from a Common Combinatorial Approach
+Effects of Mechanical Coupling on the Dynamics of Balancing Tasks
+Modelling the Dynamics of the Work-Employment System by Predator-Prey Interactions
+Probabilistic analysis of the human transcriptome with side information
+Fluid flow analysis in a rough fracture (type II) using complex networks and lattice Boltzmann method
+Polynomial cases of the Discretizable Molecular Distance Geometry Problem
+A Flexible Semi-Automatic Approach for Glioblastoma multiforme Segmentation
+Pituitary Adenoma Segmentation
+Engineering Relative Compression of Genomes
+Mini-step Strategy for Transient Analysis
+An Integer Linear Programming Model for the Radiotherapy Treatment Scheduling Problem
+Two methods for solving optimization problems arising in electronic measurements and electrical engineering
+Computer Modelling of 3D Geological Surface
+The FEM approach to the 3D electrodiffusion on 'meshes' optimized with the Metropolis algorithm
+Electricity Demand and Energy Consumption Management System
+Twitter mood predicts the stock market
+Dynamical systems simulation abstract computation
+Continuous and Discrete Adjoints to the Euler Equations for Fluids
+An Effect of Spatial Filtering in Visualization of Coronary Arteries Imaging
+Extended force density method and its expressions
+MGA trajectory planning with an ACO-inspired algorithm
+TripNet: A Method for Constructing Phylogenetic Networks from Triplets
+An inflationary differential evolution algorithm for space trajectory optimization
+Clustering Protein Sequences Given the Approximation Stability of the Min-Sum Objective Function
+Is a probabilistic modeling really useful in financial engineering? - A-t-on vraiment besoin d'un mod ele probabiliste en ing 'enierie financi ere ?
+Mining Temporal Patterns from iTRAQ Mass Spectrometry(LC-MS MS) Data
+Pruned Continuous Haar Transform of 2D Polygonal Patterns with Application to VLSI Layouts
+The regularized blind tip reconstruction algorithm as a scanning probe microscopy tip metrology method
+Airborne TDMA for High Throughput and Fast Weather Conditions Notification
+Best Effort and Practice Activation Codes
+On the random access performance of Cell Broadband Engine with graph analysis application
+Asymmetric random matrices: What do we need them for?
+Power Management during Scan Based Sequential Circuit Testing
+Efficient Two-Stage Group Testing Algorithms for DNA Screening
+Reference Sequence Construction for Relative Compression of Genomes
+Models Calculation and Optimization of Gas Networks Equipment and Contracts for Design Operation Booking and Accounting
+Voltage Collapse and ODE Approach to Power Flows: Analysis of a Feeder Line with Static Disorder in Consumption Production
+A Robust Solution Procedure for Hyperelastic Solids with Large Boundary Deformation
+On-the-fly Uniformization of Time-Inhomogeneous Infinite Markov Population Models
+Lassoing' a phylogenetic tree I: Basic properties shellings and covers
+A FEniCS-Based Programming Framework for Modeling Turbulent Flow by the Reynolds-Averaged Navier-Stokes Equations
+Protein Models Comparator: Scalable Bioinformatics Computing on the Google App Engine Platform
+Automaton based detection of affected cells in three dimensional biological system
+AISMOTIF-An Artificial Immune System for DNA Motif Discovery
+Formation of Common Investment Networks by Project Establishment between Agents
+Linear Differential Equations with Fuzzy Boundary Values
+Accelerating Radio Astronomy Cross-Correlation with Graphics Processing Units
+Using Java for distributed computing in the Gaia satellite data processing
+All good things come in threes - Three beads learn to swim with lattice Boltzmann and a rigid body solver
+Three-term Method and Dual Estimate on Static Problems of Continuum Bodies
+A Spatial Calculus of Wrapped Compartments
+Modelling of Genetic Regulatory Mechanisms with GReg
+Proceedings of the th Workshop on Membrane Computing and Biologically Inspired Process Calculi (MeCBIC 2011)
+The fuzzy gene filter: A classifier performance assesment
+Improving the performance of the ripper in insurance risk classification : A comparitive study using feature selection
+Using Supervised Learning to Improve Monte Carlo Integral Estimation
+An Experimental Comparison of PMSPrune and Other Algorithms for Motif Search
+Unsteady Hydromagnetic Flow of Viscoelastic Fluid down an Open Inclined Channel
+Using Dynamic Simulation in the Development of Construction Machinery
+Dynamic Simulation of Construction Machinery: Towards an Operator Model
+An Event-driven Operator Model for Dynamic Simulation of Construction Machinery
+Incomplete Lineage Sorting: Consistent Phylogeny Estimation From Multiple Loci
+Phylogenies without Branch Bounds: Contracting the Short Pruning the Deep
+Sequence-Length Requirement of Distance-Based Phylogeny Reconstruction: Breaking the Polynomial Barrier
+On the inference of large phylogenies with long branches: How long is too long?
+Biomolecular electrostatics using a fast multipole BEM on up to 12 GPUs and a billion unknowns
+Indexing Finite Language Representation of Population Genotypes
+Identifiability and inference of non-parametric rates-across-sites models on large-scale phylogenies
+Phase Transition in Distance-Based Phylogeny Reconstruction
+Use of a speed equation for numerical simulation of hydraulic fractures
+DNA Lossless Differential Compression Algorithm based on Similarity of Genomic Sequence Database
+Proceedings Third International Workshop on Computational Models for Cell Processes
+Review on Feature Selection Techniques and the Impact of SVM for Cancer Classification using Gene Expression Profile
+Localization on low-order eigenvectors of data matrices
+Modelling Spatial Interactions in the Arbuscular Mycorrhizal Symbiosis using the Calculus of Wrapped Compartments
+Programmable models of growth and mutation of cancer-cell populations
+A semi-quantitative equivalence for abstracting from fast reactions
+A Minimal OO Calculus for Modelling Biological Systems
+A Study of the PDGF Signaling Pathway with PRISM
+Reachability in Biochemical Dynamical Systems by Quantitative Discrete Approximation (extended abstract)
+Persistent Data Layout and Infrastructure for Efficient Selective Retrieval of Event Data in ATLAS
+cuIBM -- A GPU-accelerated Immersed Boundary Method
+MassChroQ: A versatile tool for mass spectrometry quantification
+Genetic Testing for Complex Diseases: a Simulation Study Perspective
+Learning nonsingular phylogenies and hidden Markov models
+A Short Proof that Phylogenetic Tree Reconstruction by Maximum Likelihood is Hard
+Evolutionary Trees and the Ising Model on the Bethe Lattice: a Proof of Steel's Conjecture
+Static and dynamic characteristics of protein contact networks
+Physarum Can Compute Shortest Paths
+Space Weather Prediction with Exascale Computing
+A tunable cancer cell filter using magnetic beads: cellular and fluid dynamic simulations
+Advancing Nuclear Physics Through TOPS Solvers and Tools
+Computational homogenization of non-stationary transport processes in masonry structures
+Sampling Techniques in Bayesian Finite Element Model Updating
+3D Protein Structure Predicted from Sequence
+On Programs and Genomes
+Throughput-Distortion Computation Of Generic Matrix Multiplication: Toward A Computation Channel For Digital Signal Processing Systems
+Comparison of Discrete and Continuous Wavelet Transforms
+A micromechanics-enhanced finite element formulation for modelling heterogeneous materials
+Multiple verification in computational modeling of bone pathologies
+The Complexity of Rooted Phylogeny Problems
+Optimization strategies for parallel CPU and GPU implementations of a meshfree particle method
+Cancer Networks: A general theoretical and computational framework for understanding cancer
+SLIQ: Simple Linear Inequalities for Efficient Contig Scaffolding
+A more appropriate Protein Classification using Data Mining
+Ensuring convergence in total-variation-based reconstruction for accurate microcalcification imaging in breast X-ray CT
+Control Neuronal por Modelo Inverso de un Servosistema Usando Algoritmos de Aprendizaje Levenberg-Marquardt y Bayesiano
+Interfacial Numerical Dispersion and New Conformal FDTD Method
+A wildland fire modeling and visualization environment
+Global parameter identification of stochastic reaction networks from single trajectories
+Privacy-Preserving Methods for Sharing Financial Risk Exposures
+Robust Max-Product Belief Propagation
+The similarity metric
+Hidden Markov model segmentation of hydrological and enviromental time series
+A dynamical model of a GRID market
+Complex Random Vectors and ICA Models: Identifiability Uniqueness and Separability
+Vers une commande multivariable sans mod ele
+Compression ratios based on the Universal Similarity Metric still yield protein distances far from CATH distances
+The transposition distance for phylogenetic trees
+Super-resolution in map-making based on a physical instrument model and regularized inversion. Application to SPIRE Herschel
+Countering Gattaca: Efficient and Secure Testing of Fully-Sequenced Human Genomes (Full Version)
+An automaton approach for waiting times in DNA evolution
+Chargaff's Grammar of Biology : New Fractal-like Rules
+Rohlin Distance and the Evolution of Influenza A virus: Weak Attractors and Precursors
+Using Provenance to support Good Laboratory Practice in Grid Environments
+Vertex-centroid finite volume scheme on tetrahedral grids for conservation laws
+Barcoding-free BAC Pooling Enables Combinatorial Selective Sequencing of the Barley Gene Space
+Residual restarting and Richardson iteration for the matrix exponential revised
+Using MOEAs To Outperform Stock Benchmarks In The Presence of Typical Investment Constraints
+Evolving Chart Pattern Sensitive Neural Network Based Forex Trading Agents
+Computing Critical k -tuples in Power Networks
+Novel Modulation Techniques using Isomers as Messenger Molecules for Molecular Communication via Diffusion
+Simple Numerical Model of Laminated Glass Beams
+Nanoscale ear drum: Graphene based nanoscale sensors
+On Natural Genetic Engineering: Structural Dynamism in Random Boolean Networks
+Mathematical and computational modeling for describing the basic behavior of free radicals and antioxidants within epithelial cells
+Effective Clustering Algorithms for Gene Expression Data
+Cross-entropy optimisation of importance sampling parameters for statistical model checking
+A Comprehensive Survey of Data Mining-based Fraud Detection Research
+Fluid Flow Complexity in Fracture Networks: Analysis with Graph Theory and LBM
+Power Grid Network Evolutions for Local Energy Trading
+Deterministic Polynomial-Time Algorithms for Designing Short DNA Words
+Global modeling of transcriptional responses in interaction networks
+Robust seed selection algorithm for k-means type algorithms
+Network Theory Cracking and Frictional Sliding
+A Characterization of Scale Invariant Responses in Enzymatic Networks
+Directional Variance Adjustment: improving covariance estimates for high-dimensional portfolio optimization
+Eigenvector Synchronization Graph Rigidity and the Molecule Problem
+Cancer gene prioritization by integrative analysis of mRNA expression and DNA copy number data: a comparative review
+Performance Analysis of Enhanced Clustering Algorithm for Gene Expression Data
+Joint Estimation of Angle and Delay of Radio Wave Arrival under Multiplicative Noise Environment
+Efficient recovery-based error estimation for the smoothed finite element method for smooth and singular linear elasticity
+A Simple Flood Forecasting Scheme Using Wireless Sensor Networks
+Knowledge-based antenna pattern extrapolation
+gcodeml: A Grid-enabled Tool for Detecting Positive Selection in Biological Evolution
+A Comparative Study of Adaptive Crossover Operators for Genetic Algorithms to Resolve the Traveling Salesman Problem
+Analyzing the Performance of Mutation Operators to Solve the Travelling Salesman Problem
+Skeletal Rigidity of Phylogenetic Trees
+Predicting Financial Markets: Comparing Survey News Twitter and Search Engine Data
+System Identification for Indoor Climate Control
+Skull-stripping for Tumor-bearing Brain Images
+Attribute Exploration of Gene Regulatory Processes
+Multipath-dominant pulsed doppler analysis of rotating blades
+Multi-model-based Access Control in Construction Projects
+Analytic Properties and Covariance Functions of a New Class of Generalized Gibbs Random Fields
+Using Premia and Nsp for Constructing a Risk Management Benchmark for Testing Parallel Architecture
+Visualization techniques for data mining of Latur district satellite imagery
+Christhin: Quantitative Analysis of Thin Layer Chromatography
+An adaptive high-order phase-space remapping for the two-dimensional Vlasov-Poisson equations
+Automating embedded analysis capabilities and managing software complexity in multiphysics simulation part I: template-based generic programming
+Application Of Data Mining In Bioinformatics
+High Velocity Penetration Perforation Using Coupled Smooth Particle Hydrodynamics-Finite Element Method
+Evolutionary algorithms in genetic regulatory networks model
+Using the Gene Ontology Hierarchy when Predicting Gene Function
+A Note on Extending Taylor's Power Law for Characterizing Human Microbial Communities: Inspiration from Comparative Studies on the Distribution Patterns of Insects and Galaxies and as a Case Study for Medical Ecology
+Efficient Expression Templates for Operator Overloading-based Automatic Differentiation
+The Simulation and Mapping of Building Performance Indicators based on European Weather Stations
+Automating embedded analysis capabilities and managing software complexity in multiphysics simulation part II: application to partial differential equations
+Analytical Study of Hexapod miRNAs using Phylogenetic Methods
+The Chromatin Organization of an Eukaryotic Genome : Sequence Specific StatisticalCombinatorial (Extended Abstract)
+An Evolutionary Approach to Drug-Design Using a Novel Neighbourhood Based Genetic Algorithm
+The Binary Perfect Phylogeny with Persistent characters
+Fast reconstruction of phylogenetic trees using locality-sensitive hashing
+Real-Time Bid Optimization for Group-Buying Ads
+MACS: An Agent-Based Memetic Multiobjective Optimization Algorithm Applied to Space Trajectory Design
+Evidence-Based Robust Design of Deflection Actions for Near Earth Objects
+Efficient scheduling using complex networks
+Learning Hidden Markov Models for Regression using Path Aggregation
+Tightening LP Relaxations for MAP using Message Passing
+Additive Approximation for Near-Perfect Phylogeny Construction
+Recovering the tree-like trend of evolution despite extensive lateral genetic transfer: A probabilistic analysis
+Inverse Modeling of Climate Responses of Monumental Buildings
+An Evolutionary Approach to Drug-Design Using Quantam Binary Particle Swarm Optimization Algorithm
+On-Line Portfolio Selection with Moving Average Reversion
+Discovering Patterns in Biological Sequences by Optimal Segmentation
+Determining the Number of Non-Spurious Arcs in a Learned DAG Model: Investigation of a Bayesian and a Frequentist Approach
+A nonlocal model for fluid-structure interaction with applications in hydraulic fracturing
+Robust inversion via semistochastic dimensionality reduction
+WM Program manual
+Design of a Formation of Solar Pumped Lasers for Asteroid Deflection
+Incorporating Causal Prior Knowledge as Path-Constraints in Bayesian Networks and Maximal Ancestral Graphs
+Sparse Support Vector Infinite Push
+Gap Filling in the Plant Kingdom---Trait Prediction Using Hierarchical Probabilistic Matrix Factorization
+Bayesian Conditional Cointegration
+MAIES: A Tool for DNA Mixture Analysis
+Sensitivity Analysis for Threshold Decision Making with Dynamic Networks
+Gene Expression Time Course Clustering with Countably Infinite Hidden Markov Models
+Matrix Tile Analysis
+Intellectual Management of Enterprise
+Hybrid Forecasting of Exchange Rate by Using Chaos Wavelet SVM-Markov Model and Grey Relation Degree
+A Hybrid Forecast of Exchange Rate based on ARFIMA Discrete Grey-Markov and Fractal Kalman Model
+A Hybrid Forecast of Exchange Rate based on Discrete Grey-Markov and Grey Neural Network Model
+The Origin Evolution and Development of Bilateral Symmetry in Multicellular Organisms
+Robust Mission Design Through Evidence Theory and Multi-Agent Collaborative Search
+Approximated Computation of Belief Functions for Robust Design Optimization
+Optimal Selection of Assets Investing Composition Plan based on Grey Multi Objective Programming method
+OGCOSMO: An auxiliary tool for the study of the Universe within hierarchical scenario of structure formation
+Programing Using High Level Design With Python and FORTRAN: A Study Case in Astrophysics
+An analytical comparison of coalescent-based multilocus methods: The three-taxon case
+Bayesian Biosurveillance of Disease Outbreaks
+Pre-Selection of Independent Binary Features: An Application to Diagnosing Scrapie in Sheep
+Modeling Waveform Shapes with Random Eects Segmental Hidden Markov Models
+Joint discovery of haplotype blocks and complex trait associations from SNP sequences
+Profit Incentive In A Secondary Spectrum Market: A Contract Design Approach
+Proceedings th International Workshop on Developments of Computational Methods
+Reconstructing Isoform Graphs from RNA-Seq data
+Revisiting algorithms for generating surrogate time series
+A Calculus of Looping Sequences with Local Rules
+Technical report: CSVM dictionaries
+Defect Diagnosis in Rotors Systems by Vibrations Data Collectors Using Trending Software
+Proceedings First International Workshop on Hybrid Systems and Biology
+Inferring Chemical Reaction Patterns Using Rule Composition in Graph Grammars
+Calculations of Frequency Response Functions (FRF) Using Computer Smart Office Software and Nyquist Plot under Gyroscopic Effect Rotation
+Modelling the effect of gap junctions on tissue-level cardiac electrophysiology
+Analysis of parametric biological models with non-linear dynamics
+A subsystems approach for parameter estimation of ODE models of hybrid systems
+A Model of the Cellular Iron Homeostasis Network Using Semi-Formal Methods for Parameter Space Exploration
+Hybrid Automata and epsilon-Analysis on a Neural Oscillator
+On Expressing and Monitoring Oscillatory Dynamics
+Hybrid models of the cell cycle molecular machinery
+Effects of delayed immune-response in tumor immune-system interplay
+Statistical Model Checking for Stochastic Hybrid Systems
+Disease processes as hybrid dynamical systems
+How Non-linearity will Transform Information Systems
+Simple Model for the Dynamics of Correlations in the Evolution of Economic Entities Under Varying Economic Conditions
+Small World Property of a Rock Joint(Complexity of Frictional Interfaces: A Complex Network Perspective)
+Schroedinger Eigenmaps for the Analysis of Bio-Medical Data
+Structural Analysis of Laplacian Spectral Properties of Large-Scale Networks
+Numerical extraction of a macroscopic pde and a lifting operator from a lattice Boltzmann model
+Synthesis of Spherical 4R Mechanism for Path Generation using Differential Evolution
+On the Exact Solution to a Smart Grid Cyber-Security Analysis Problem
+Linear approach to the orbiting spacecraft thermal problem
+FragIt: A Tool to Prepare Input Files for Fragment Based Quantum Chemical Calculations
+Autoregressive short-term prediction of turning points using support vector regression
+Well Placement Optimization under Uncertainty with CMA-ES Using the Neighborhood
+Programming Languages for Scientific Computing
+C-PASS-PC: A Cloud-driven Prototype of Multi-Center Proactive Surveillance System for Prostate Cancer
+Review of strategies for a comprehensive simulation in sputtering devices
+Technical Report: CSVM Ecosystem
+Qualitative Modelling via Constraint Programming: Past Present and Future
+Discontinuous Galerkin method for Navier-Stokes equations using kinetic flux vector splitting
+Kinetic energy preserving and entropy stable finite volume schemes for compressible Euler and Navier-Stokes equations
+Julia: A Fast Dynamic Language for Technical Computing
+Time-Ordered Product Expansions for Computational Stochastic Systems Biology
+A New Middle Path Approach For Alignements In Blast
+Statistical methods for tissue array images - algorithmic scoring and co-training
+Optimisation of hybrid high-modulus high-strength carbon fiber reinforced plastic composite drive
+Tracing the temporal evolution of clusters in a financial stock market
+3D Finite Element Analysis of HMA Overlay Mix Design to Control Reflective Cracking
+Online Financial Algorithms Competitive Analysis
+Quantum Monte Carlo for large chemical systems: Implementing efficient strategies for petascale platforms and beyond
+Biospectrogram: a tool for spectral analysis of biological sequences
+Protein Inference and Protein Quantification: Two Sides of the Same Coin
+Performance Analysis Cluster and GPU Computing Environment on Molecular Dynamic Simulation of BRV-1 and REM2 with GROMACS
+A computational formulation for constrained solid and liquid membranes considering isogeometric finite elements
+Graphical-model Based Multiple Testing under Dependence with Applications to Genome-wide Association Studies
+Detecting Change-Points in Time Series by Maximum Mean Discrepancy of Ordinal Pattern Distributions
+Spectrum Identification using a Dynamic Bayesian Network Model of Tandem Mass Spectra
+Latent Dirichlet Allocation Uncovers Spectral Characteristics of Drought Stressed Plants
+Determination the Parameters of Markowitz Portfolio Optimization Model
+Improved Local Search in Artificial Bee Colony using Golden Section Search
+Experiments and Direct Numerical Simulations of binary collisions of miscible liquid droplets with different viscosities
+Predicting Near-Future Churners and Win-Backs in the Telecommunications Industry
+Enhancing the functional content of protein interaction networks
+Energy stable and momentum conserving hybrid finite element method for the incompressible Navier-Stokes equations
+GUBS a Behavior-based Language for Open System Dedicated to Synthetic Biology
+High-throughput Genome-wide Association Analysis for Single and Multiple Phenotypes
+A three-dimensional domain decomposition method for large-scale DFT electronic structure calculations
+An Efficient Biological Sequence Compression Technique Using LUT And Repeat In The Sequence
+Optimized M2L Kernels for the Chebyshev Interpolation based Fast Multipole Method
+Adaptive Bee Colony in an Artificial Bee Colony for Solving Engineering Design Problems
+Explosion prediction of oil gas using SVM and Logistic Regression
+Low-dimensionality energy landscapes: Magnetic switching mechanisms and rates
+Does a Daily Deal Promotion Signal a Distressed Business? An Empirical Investigation of Small Business Survival
+LAGE: A Java Framework to reconstruct Gene Regulatory Networks from Large-Scale Continues Expression Data
+A Novel Anticlustering Filtering Algorithm for the Prediction of Genes as a Drug Target
+Hybrid MPI-OpenMP Paradigm on SMP Clusters: MPEG-2 Encoder and N-Body Simulation
+Performance Evaluation of Treecode Algorithm for N-Body Simulation Using GridRPC System
+Systematic and Integrative Analysis of Proteomic Data using Bioinformatics Tools
+Implementing the Stochastics Brane Calculus in a Generic Stochastic Abstract Machine
+RNA interference and Register Machines (extended abstract)
+Application of Data mining in Protein sequence Classification
+Accurate Demarcation of Protein Domain Linkers based on Structural Analysis of Linker Probable Region
+A survey of computational methods for protein complex prediction from protein interaction networks
+Adaptive Control of Enterprise
+Nonlinear Dynamic Field Embedding: On Hyperspectral Scene Visualization
+An optimization strategy on prion AGAAAAGA amyloid fibril molecular modeling
+NLSEmagic: Nonlinear Schr odinger Equation Multidimensional Matlab-based GPU-accelerated Integrators using Compact High-order Schemes
+Rigidity and flexibility of biological networks
+Feature extraction in protein sequences classification : a new stability measure
+Revisiting the Training of Logic Models of Protein Signaling Networks with a Formal Approach based on Answer Set Programming
+Compression Stress Effect on Dislocations Movement and Crack propagation in Cubic Crystal
+Error Bounds on Derivatives during Simulations
+Sparse and Optimal Acquisition Design for Diffusion MRI and Beyond
+Modeling Movements in Oil Gold Forex and Market Indices using Search Volume Index and Twitter Sentiments
+Twitter Sentiment Analysis: How To Hedge Your Bets In The Stock Markets
+Physics inspired algorithms for (co)homology computation
+Learning Module Networks
+Tracking of a Mobile Target Using Generalized Polarization Tensors
+Interroom radiative couplings through windows and large openings in buildings: Proposal of a simplified model
+Building ventilation: A pressure airflow model computer generation and elements of validation
+Elaboration of global quality standards for natural and low energy cooling in French tropical island buildings
+A validation methodology aid for improving a thermal building model: Case of diffuse radiation accounting in a tropical climate
+Detailed weather data generator for building simulations
+A Hierarchical Exact Accelerated Stochastic Simulation Algorithm
+easyGWAS: An integrated interspecies platform for performing genome-wide association studies
+Modelling of Optimal Design of Manufacturing Cell Layout Considering Material Flow and Closeness Rating Factors
+A Neural Network Approach to ECG Denoising
+Development of a new model to predict indoor daylighting: Integration in CODYRUN software and validation
+A Comparison between CODYRUN and TRNSYS simulation models for thermal buildings behaviour
+Thermal Building Simulation and Computer Generation of Nodal Models
+Heat transfer in buildings : application to air solar heating and Trombe wall design
+A multimodel approach to building thermal simulation for design and research purposes
+Use of BESTEST procedure to improve a building thermal simulation program
+Statistical Traffic State Analysis in Large-scale Transportation Networks Using Locality-Preserving Non-negative Matrix Factorization
+An Effective Machine-Part Grouping Algorithm to Construct Manufacturing Cells
+A Picard Newton method to solve non linear airflow networks
+A hybrid finite difference--finite volume approach to solve first-order hyperbolic conservation laws with superior accuracy
+Fuzzy soft rough K-Means clustering approach for gene expression data
+Soft Set Based Feature Selection Approach for Lung Cancer Images
+CODYRUN outil de simulation et d'aide a la conception thermo-a 'eraulique de b atiments
+Multiple model software for airflow and thermal building simulation. A case study under tropical humid climate in R 'eunion Island
+Time-variant Linear reduction model approximation : application to thermal and airflow building simulation
+Black box modelling of HVAC system : improving the performances of neural networks
+Elaboration of a new tool for weather data sequences generation
+Weather sequences for predicting HVAC system behaviour in residential units located in tropical climates
+Multiple model approach and experimental validation of a residential air-to-air heat pump
+Transfer Learning Using Logistic Regression in Credit Scoring
+CplexA: a Mathematica package to study macromolecular-assembly control of gene expression
+The Synchrosqueezing algorithm for time-varying spectral analysis: robustness properties and new paleoclimate applications
+Application of sensitivity analysis in building energy simulations: combining first and second order elementary effects Methods
+Computation of biochemical pathway fluctuations beyond the linear noise approximation using iNA
+BayesHammer: Bayesian clustering for error correction in single-cell sequencing
+Generating Property-Directed Potential Invariants By Backward Analysis
+Knowledge Discovery System For Fiber Reinforced Polymer Matrix Composite Laminate
+Similarity Measuring Approuch for Engineering Materials Selection
+Employing functional interactions for characterization and detection of sparse complexes from yeast PPI networks
+Time-Frequency Representation of Microseismic Signals using the Synchrosqueezing Transform
+Fuzzy Soft Set Based Classification for Gene Expression Data
+The RNA Newton Polytope and Learnability of Energy Parameters
+A New Approach for Solving Singular Systems in Topology Optimization Using Krylov Subspace Methods
+A parallel implementation of a derivative pricing model incorporating SABR calibration and probability lookup tables
+Financial Portfolio Optimization: Computationally guided agents to investigate analyse and invest ?
+A MATLAB Code for Three Dimensional Linear Elastostatics using Constant Boundary Elements
+A discrete analysis of metal-v belt drive
+Alignment-free phylogenetic reconstruction: Sample complexity via a branching process analysis
+A High-Performance Numerical Library for Solving Eigenvalue Problems: FEAST Solver v2.1 User's Guide
+A comparative study of two molecular mechanics models based on harmonic potentials
+SASeq: A Selective and Adaptive Shrinkage Approach to Detect and Quantify Active Transcripts using RNA-Seq
+Parallel Computing of Discrete Element Method on GPU
+Using Periodicity of Nucleotide Sequences
+Canalization and control in automata networks: body segmentation in Drosophila melanogaster
+ThermInfo: Collecting Retrieving and Estimating Reliable Thermochemical Data
+A new greedy randomized adaptive search procedure for multiobjective RNA structural alignment
+Feature Selection for Microarray Gene Expression Data using Simulated Annealing guided by the Multivariate Joint Entropy
+An Analysis of Gene Expression Data using Penalized Fuzzy C-Means Approach
+Spatially Heterogeneous Biofilm Simulations using an Immersed Boundary Method with Lagrangian Nodes Defined by Bacterial Locations
+Post-buckling Solutions of Hyper-elastic Beam by Canonical Dual Finite Element Method
+Extracting Three Dimensional Surface Model of Human Kidney from the Visible Human Data Set using Free Software
+Optimization of thermal comfort in building through envelope design
+Performances of Low Temperature Radiant Heating Systems
+A Fast Template Based Heuristic For Global Multiple Sequence Alignment
+Hierarchy of protein loop-lock structures: a new server for the decomposition of a protein structure into a set of closed loops
+Acceleration of Uncertainty Updating in the Description of Transport Processes in Heterogeneous Materials
+Parameter Identification in a Probabilistic Setting
+Vortexje - An Open-Source Panel Method for Co-Simulation
+Flexible composition and execution of high performance high fidelity multiscale biomedical simulations
+Machine learning prediction of cancer cell sensitivity to drugs based on genomic and chemical properties
+Efficiency improvement of the frequency-domain BEM for rapid transient elastodynamic analysis
+ClusCo: clustering and comparison of protein models
+Constructing a genome assembly that has the maximum likelihood
+Exploiting the Accumulated Evidence for Gene Selection in Microarray Gene Expression Data
+Novel Method for Mutational Disease Prediction using Bioinformatics Techniques and Backpropagation Algorithm
+Automated Identification and Classification of Stereochemistry: Chirality and Double Bond Stereoisomerism
+Exact Conditional and Unconditional Cram er-Rao Bounds for Near Field Localization
+Localization of protein aggregation in Escherichia coli is governed by diffusion and nucleoid macromolecular crowding effect
+Mining Representative Unsubstituted Graph Patterns Using Prior Similarity Matrix
+khmer: Working with Big Data in Bioinformatics
+Toggling a Genetic Switch Using Reinforcement Learning
+Multi-Stage Robust Chinese Remainder Theorem
+Implicit Simulation Methods for Stochastic Chemical Kinetics
+Potential Maximal Clique Algorithms for Perfect Phylogeny Problems
+TTP: Tool for Tumor Progression
+RPA: Probabilistic analysis of probe performance and robust summarization
+A well-balanced finite volume scheme for blood flow simulation
+Multiple graph regularized protein domain ranking
+Bringing simulation to implementation: Presentation of a global approach in the design of passive solar buildings under humid tropical climates
+Fully scalable online-preprocessing algorithm for short oligonucleotide microarray atlases
+Generalized Multiscale Finite Element Methods (GMsFEM)
+Parameter identification in large kinetic networks with BioPARKIN
+First and High Order Sliding Mode-Multimodel Stabilizing Control Synthesis using Single and Several Sliding Surfaces for Nonlinear Systems: Simulation on an Autonomous Underwater Vehicles (AUV)
+C Language Extensions for Hybrid CPU GPU Programming with StarPU
+The Graph Grammar Library - a generic framework for chemical graph rewrite systems
+Simulating DNLS models
+City versus wetland: Predicting urban growth in the Vecht area with a cellular automaton model
+Mathematical modeling of thermal stabilization of vertical wells on high performance computing systems
+Simulated Car Racing Championship: Competition Software Manual
+Causal--Path Local Time--Stepping in the Discontinuous Galerkin Method for Maxwell's equations
+On sampling SCJ rearrangement scenarios
+Un mod ele bool 'een pour l' 'enum 'eration des siphons et des pi eges minimaux dans les r 'eseaux de Petri
+Statistical Mechanics Algorithm for Response to Targets (SMART)
+On the Generalized Hermite-Based Lattice Boltzmann Construction Lattice Sets Weights Moments Distribution Functions and High-Order Models
+Expressando Atributos N ao-Funcionais em Workflows Cient 'ificos
+Computing Pathways to Systems Biology: Key Contributions of Computational Methods in Pathway Identification
+Calculation and analysis of solitary waves and kinks in elastic tubes
+SW - GPU enabled exact alignments on genome scale
+Remote Homology Detection in Proteins Using Graphical Models
+Ovarian volume throughout life: a validated normative model
+Higher-order compatible discretization on hexahedrals
+Lay-up Optimization of Laminated Composites: Mixed Approach with Exact Feasibility Bounds on Lamination Parameters
+Uniform generation of RNA pseudoknot structures with genus filtration
+Modelling and simulating retail management practices: a first approach
+Comparing System Dynamics and Agent-Based Simulation for Tumour Growth and its Interactions with Effector Cells
+Performance Analysis of Hybrid Forecasting Model In Stock Market Forecasting
+Solving Sequences of Generalized Least-Squares Problems on Multi-threaded Architectures
+Computing Petaflops over Terabytes of Data: The Case of Genome-Wide Association Studies
+Online Portfolio Selection: A Survey
+Streaming Data from HDD to GPUs for Sustained Peak Performance
+The ForMaRE Project - Formal Mathematical Reasoning in Economics
+Algorithms for Large-scale Whole Genome Association Analysis
+json2run: a tool for experiment design analysis
+Unique Perfect Phylogeny Characterizations via Uniquely Representable Chordal Graphs
+Turtle: Identifying frequent k-mers with cache-efficient algorithms
+Simulation of a typical house in the region of Antananarivo Madagascar. Determination of passive solutions using local materials
+HERMES: towards an integrated toolbox to characterize functional and effective brain connectivity
+Multi-q Pattern Classification of Polarization Curves
+Qualitative detection of oil adulteration with machine learning approaches
+The Karyotype Ontology: a computational representation for human cytogenetic patterns
+Molecular modelling and simulation of electrolyte solutions biomolecules and wetting of component surfaces
+A Nonlinear Constrained Optimization Framework for Comfortable and Customizable Motion Planning of Nonholonomic Mobile Robots - Part I
+A Nonlinear Constrained Optimization Framework for Comfortable and Customizable Motion Planning of Nonholonomic Mobile Robots - Part II
+Denoising the 3-Base Periodicity Walks of DNA Sequences in Gene Finding
+Supervised Feature Selection for Diagnosis of Coronary Artery Disease Based on Genetic Algorithm
+Design and Realization of a Scalable Simulator of Magnetic Resonance Tomography
+Gene selection with guided regularized random forest
+Evaluating Different Cost-Benefit Analysis Methods for Port Security Operations
+Investigating the effectiveness of Variance Reduction Techniques in Manufacturing Call Center and Cross-docking Discrete Event Simulation Models
+Modelling Electricity Consumption in Office Buildings: An Agent Based Approach
+Validation of a Microsimulation of the Port of Dover
+Wavelet feature extraction and genetic algorithm for biomarker detection in colorectal cancer data
+Investigating Mathematical Models of Immuno-Interactions with Early-Stage Cancer under an Agent-Based Modelling Perspective
+Genetic algorithms and solid state NMR pulse sequences
+An efficient method for evaluating BEM singular integrals on curved elements with application in acoustic analysis
+Identifying Pairs in Simulated Bio-Medical Time-Series
+A Critical Assessment of Cost-Based Nash Methods for Demand Scheduling in Smart Grids
+Verdict Accuracy of Quick Reduct Algorithm using Clustering and Classification Techniques for Gene Expression Data
+SPATA: A Seeding and Patching Algorithm for Hybrid Transcriptome Assembly
+Enhancement of a Novel Method for Mutational Disease Prediction using Bioinformatics Techniques and Backpropagation Algorithm
+Proceedings Fourth International Workshop on Computational Models for Cell Processes
+A Novel Approach for Single Gene Selection Using Clustering and Dimensionality Reduction
+On Some Recent Insights in Integral Biomathics
+Defining a Simulation Strategy for Cancer Immunocompetence
+Physeter catodon localization by sparse coding
+The Open Connectome Project Data Cluster: Scalable Analysis and Vision for High-Throughput Neuroscience
+Application of particle swarm optimization for enhanced cyclic steam stimulation in a offshore heavy oil reservoir
+Scenario Analysis Decision Trees and Simulation for Cost Benefit Analysis of the Cargo Screening Process
+Towards modelling cost and risks of infrequent events in the cargo screening process
+On Investigating EMD Parameters to Search for Gravitational Waves
+Evolving Gene Regulatory Networks with Mobile DNA Mechanisms
+Investigating Immune System Aging: System Dynamics and Agent-Based Modeling
+Real-time Bidding for Online Advertising: Measurement and Analysis
+Multiphysics simulation of corona discharge induced ionic wind
+Fast space-variant elliptical filtering using box splines
+Fast O(1) bilateral filtering using trigonometric range kernels
+Transient fluctuation of the prosperity of firms in a network economy
+Estimation of Radio Interferometer Beam Shapes Using Riemannian Optimization
+A numerical framework for diffusion-controlled bimolecular-reactive systems to enforce maximum principles and non-negative constraint
+Application of three graph Laplacian based semi-supervised learning methods to protein function prediction problem
+Accelerated Time-of-Flight Mass Spectrometry
+Clustered Calibration: An Improvement to Radio Interferometric Direction Dependent Self-Calibration
+A Dual Number Approach for Numerical Calculation of Velocity and Acceleration in the Spherical 4R Mechanism
+Measuring Agglomeration of Agglomerated Particles Pictures
+Reconstruction and Analysis of Cancer-specific Gene Regulatory Networks from Gene Expression Profiles
+Efficient methods for computing observation impact in 4D-Var data assimilation
+Next generation input-output data format for HEP using Google's protocol buffers
+A new DNA alignment method based on inverted index
+Efficient Sequential and Parallel Algorithms for Planted Motif Search
+Simulating the Dynamics of T Cell Subsets Throughout the Lifetime
+Comparing Decison Support Tools for Cargo Screening Processes
+Modelling Reactive and Proactive Behaviour in Simulation: A Case Study in a University Organisation
+Investigating the Detection of Adverse Drug Events in a UK General Practice Electronic Health-Care Database
+Application of a clustering framework to UK domestic electricity data
+The Application of a Data Mining Framework to Energy Usage Profiling in Domestic Residences using UK data
+Creating Personalised Energy Plans. From Groups to Individuals using Fuzzy C Means Clustering
+Examining the Classification Accuracy of TSVMs with ?Feature Selection in Comparison with the GLAD Algorithm
+Systems Dynamics or Agent-Based Modelling for Immune Simulation?
+Detect adverse drug reactions for drug Alendronate
+Discovering Sequential Patterns in a UK General Practice Database
+Detect adverse drug reactions for the drug Pravastatin
+Comparing Data-mining Algorithms Developed for Longitudinal Observational Databases
+A Beginners Guide to Systems Simulation in Immunology
+Extending a Microsimulation of the Port of Dover
+Supervised Learning and Anti-learning of Colorectal Cancer Classes and Survival Rates from Cellular Biology Parameters
+Biomarker Clustering of Colorectal Cancer Data to Complement Clinical Classification
+Using Clustering to extract Personality Information from socio economic data
+Variance in System Dynamics and Agent Based Modelling Using the SIR Model of Infectious Disease
+Finding the creatures of habit Clustering households based on their flexibility in using electricity
+Computer Simulation of 3-D Finite-Volume Liquid Transport in Fibrous Materials: a Physical Model for Ink Seepage into Paper
+A New Approach to the Solution of Economic Dispatch Using Particle Swarm Optimization with Simulated Annealing
+Unsupervised Gene Expression Data using Enhanced Clustering Method
+Dynamic networks reveal key players in aging
+Performance Analysis of Clustering Algorithms for Gene Expression Data
+Review of simulating four classes of window materials for daylighting with non-standard BSDF using the simulation program Radiance
+Low-rank Approximations for Computing Observation Impact in 4D-Var Data Assimilation
+AliBI: An Alignment-Based Index for Genomic Datasets
+A Comprehensive Evaluation of Machine Learning Techniques for Cancer Class Prediction Based on Microarray Data
+Some Perspectives on Network Modeling in Therapeutic Target Prediction
+Verification Validation and Testing of Kinetic Mechanisms of Hydrogen Combustion in Fluid Dynamic Computations
+On the Fixation Probability of Superstars
+An approach to describing and analysing bulk biological annotation quality: a case study using UniProtKB
+Subdivision Shell Elements with Anisotropic Growth
+Intrinsic cell factors that influence tumourigenicity in cancer stem cells - towards hallmarks of cancer stem cells
+An Empirical Investigation of V-I Trajectory based Load Signatures for Non-Intrusive Load Monitoring
+Simulation of Molecular Signaling in Blood Vessels: Software Design and Application to Atherogenesis
+A gradient descent technique coupled with a dynamic simulation to determine the near optimum orientation of floor plan designs
+Protein (Multi-)Location Prediction: Using Location Inter-Dependencies in a Probabilistic Framework
+Accurate Decoding of Pooled Sequenced Data Using Compressed Sensing
+A Novel Combinatorial Method for Estimating Transcript Expression with RNA-Seq: Bounding the Number of Paths
+A polynomial delay algorithm for the enumeration of bubbles with length constraints in directed graphs and its application to the detection of alternative splicing in RNA-seq data
+Faster Algorithms for RNA-folding using the Four-Russians method
+Algorithms for the Majority Rule ( ) Consensus Tree and the Frequency Difference Consensus Tree
+The generalized Robinson-Foulds metric
+Computing the Skewness of the Phylogenetic Mean Pairwise Distance in Linear Time
+Characterizing Compatibility and Agreement of Unrooted Trees via Cuts in Graphs
+Unifying Parsimonious Tree Reconciliation
+On the Matrix Median Problem
+A Fixed-Parameter Algorithm for Minimum Common String Partition with Few Duplications
+Detecting Superbubbles in Assembly Graphs
+Mathematical model of concentrating solar cooker
+ManyClaw: Slicing and dicing Riemann solvers for next generation highly parallel architectures
+RBioCloud: A Light-weight Framework for Bioconductor and R-based Jobs on the Cloud
+Parallel Simulations for Analysing Portfolios of Catastrophic Event Risk
+Finite Element Model Updating Using Fish School Search Optimization Method
+Achieving Speedup in Aggregate Risk Analysis using Multiple GPUs
+Wind Speed Data Analysis for Various Seasons during a Decade by Wavelet and S transform
+Accelerating R-based Analytics on the Cloud
+QuPARA: Query-Driven Large-Scale Portfolio Aggregate Risk Analysis on MapReduce
+Can inferred provenance and its visualisation be used to detect erroneous annotation? A case study using UniProtKB
+The Mapping of Simulated Climate-Dependent Building Innovations
+Proceedings Third International Workshop on Hybrid Autonomous Systems
+Detect adverse drug reactions for drug Pioglitazone
+A stochastic hybrid model of a biological filter
+Proceedings Second International Workshop on Hybrid Systems and Biology
+A Domain Decomposition Approach to Implementing Fault Slip in Finite-Element Models of Quasi-static and Dynamic Crustal Deformation
+Biological effects and equivalent doses in radiotherapy: a software solution
+Diffusion map for clustering fMRI spatial maps extracted by independent component analysis
+Fractal and Mathematical Morphology in Intricate Comparison between Tertiary Protein Structures
+Proving soundness of combinatorial Vickrey auctions and generating verified executable code
+Detect adverse drug reactions for drug Atorvastatin
+Optimizing the performance of Lattice Gauge Theory simulations with Streaming SIMD extensions
+An Exploratory Data Survey of Drug Name Incidence and Prevalence From the FDA's Adverse Event Reporting System 2004 to 2012Q2
+Robustness Analysis for Value-Freezing Signal Temporal Logic
+Falsifying Oscillation Properties of Parametric Biological Models
+A hybrid mammalian cell cycle model
+Exploring the Dynamics of Mass Action Systems
+Producing a Set of Models for the Iron Homeostasis Network
+Experiences with Automated Build and Test for Geodynamics Simulation Codes
+Achieving High Performance with Unified Residual Evaluation
+Turing Randomness and Economics
+Methods for Large Scale Hydraulic Fracture Monitoring
+nanoHUB.org: Experiences and Challenges in Software Sustainability for a Large Scientific Community
+Cactus: Issues for Sustainable Simulation Software
+A Neural Network based Approach for Predicting Customer Churn in Cellular Network Services
+Comsol Simulations of Cracking in Point Loaded Masonry with Randomly Distributed Material Properties
+The Immune System: the ultimate fractionated cyber-physical system
+Image-guided therapy system for interstitial gynecologic brachytherapy in a multimodality operating suite
+Checkerboard Problem to Topology Optimization of Continuum Structures
+Analysis of Scientific Cloud Computing requirement
+Exploring Programmable Self-Assembly in Non-DNA based Molecular Computing
+Accurate Profiling of Microbial Communities from Massively Parallel Sequencing using Convex Optimization
+Market Index and Stock Price Direction Prediction using Machine Learning Techniques: An empirical study on the KOSPI and HSI
+Proceedings Wivace 2013 - Italian Workshop on Artificial Life and Evolutionary Computation
+Multiscale Computations on Neural Networks: From the Individual Neuron Interactions to the Macroscopic-Level Analysis
+Inference of Extreme Synchrony with an Entropy Measure on a Bipartite Network
+New algorithm for footstep localization using seismic sensors in an indoor environment
+Adjoint-Based Optimal Control of Time-Dependent Free Boundary Problems
+Tidal turbine array optimisation using the adjoint approach
+Supervised Heterogeneous Multiview Learning for Joint Association Study and Disease Diagnosis
+Accelerating a Cloud-Based Software GNSS Receiver
+Sustainable Software Development for Next-Gen Sequencing (NGS) Bioinformatics on Emerging Platforms
+Power Grid Simulation using Matrix Exponential Method with Rational Krylov Subspaces
+An Application of Backpropagation Artificial Neural Network Method for Measuring The Severity of Osteoarthritis
+Recent developments in research on catalytic reaction networks
+Chemical communication between synthetic and natural cells: a possible experimental design
+Evolution and development of complex computational systems using the paradigm of metabolic computing in Epigenetic Tracking
+Application of a Semi-automatic Algorithm for Identification of Molecular Components in SBML Models
+A Hybrid Monte Carlo Ant Colony Optimization Approach for Protein Structure Prediction in the HP Model
+A model of protocell based on the introduction of a semi-permeable membrane in a stochastic model of catalytic reaction networks
+A Model of Colonic Crypts using SBML Spatial
+Analysis of the spatial and dynamical properties of a multiscale model of intestinal crypts
+Self Organizing Maps to efficiently cluster and functionally interpret protein conformational ensembles
+GPU-powered Simulation Methodologies for Biological Systems
+An ensemble approach to the study of the emergence of metabolic and proliferative disorders via Flux Balance Analysis
+Protein Threading Based on Nonlinear Integer Programming
+Scalable Protein Sequence Similarity Search using Locality-Sensitive Hashing and MapReduce
+Multiple Kernel Learning in the Primal for Multi-modal Alzheimer's Disease Classification
+MINT: Mutual Information based Transductive Feature Selection for Genetic Trait Prediction
+Singular Value Decomposition of Images from Scanned Photographic Plates
+New Approach for Prediction Pre-cancer via Detecting Mutated in Tumor Protein P3
+Accounting for Secondary Uncertainty: Efficient Computation of Portfolio Risk Measures on Multi and Many Core Architectures
+Survey on Modelling Methods Applicable to Gene Regulatory Network
+Solvency Markov Decision Processes with Interest
+A Probabilistic Approach to Risk Mapping for Mt. Etna
+On Robustness Analysis of Stochastic Biochemical Systems by Probabilistic Model Checking
+Division of the Energy Market into ones in Variable Weather Conditions using Locational Marginal Prices
+The Optimal Division of the Energy Market into ones: Comparison of Two Methodologies under Variable Wind Conditions
+Discriminative Measures for Comparison of Phylogenetic Trees
+A Radial Basis Function (RBF)-Finite Difference Method for the Simulation of Reaction-Diffusion Equations on Stationary Platelets within the Augmented Forcing Method
+Towards Application of the RBNK Model
+Systemic Risk Identification Modelling Analysis and Monitoring: An Integrated Approach
+Excitable human dynamics driven by extrinsic events in massive communities
+Compressive Sampling with Known Spectral Energy Density
+Pure Parsimony Xor Haplotyping
+Extended master equation models for molecular communication networks
+Fast Reconstruction of Compact Context-Specific Metabolic Network Models
+An Optimization Framework to Improve 4D-Var Data Assimilation System Performance
+On Variant Strategies To Solve The Magnitude Least Squares Optimization Problem In Parallel Transmission Pulse Design And Under Strict SAR And Power Constraints
+Can social microblogging be used to forecast intraday exchange rates?
+A Hybrid Local Search for Simplified Protein Structure Prediction
+Accurate curve fits of IAPWS data for high-pressure high-temperature single-phase liquid water based on the stiffened gas equation of state
+Structural Learning for Template-free Protein Folding
+SBML for optimizing decision support's tools
+Mixing Energy Models in Genetic Algorithms for On-Lattice Protein Structure Prediction
+Numerical modeling of friction stir welding process: a literature review
+Composable Languages for Bioinformatics: The NYoSh experiment
+High Performance Risk Aggregation: Addressing the Data Processing Challenge the Hadoop MapReduce Way
+MEIGO: an open-source software suite based on metaheuristics for global optimization in systems biology and bioinformatics
+Distributed Multiscale Computing with MUSCLE 2 the Multiscale Coupling Library and Environment
+Using virtual parts to optimize the metrology process
+Wavelet Transform-Based Analysis of QRS complex in ECG Signals
+Dimension Reduction of Large AND-NOT Network Models
+A novel canonical dual computational approach for prion AGAAAAGA amyloid fibril molecular modeling
+A high performance scientific cloud computing environment for materials simulations
+Self-organizing magnetic beads for biomedical applications
+FullSWOF: A software for overland flow simulation FullSWOF : un logiciel pour la simulation du ruissellement
+From the Grid to the Smart Grid Topologically
+Simulation of magnetic active polymers for versatile microfluidic devices
+Guided self-assembly of magnetic beads for biomedical applications
+Prior Biological Knowledge And Epigenetic Information Enhances Prediction Accuracy Of Bayesian Wnt Pathway
+An Extensive Report on Cellular Automata Based Artificial Immune System for Strengthening Automated Protein Prediction
+Application of Fourier and Wavelet Transform for analysing 300 years Sunspot numbers to Explain the Solar Cycles
+Wavelet and Fast Fourier Transform based analysis of Solar Image
+Downscaling of global solar irradiation in R
+A pattern-driven approach to biomedical ontology engineering
+A Comparative Study on Remote Tracking of Parkinsons Disease Progression Using Data Mining Methods
+Research on fresh agriculture product based on overconfidence of the retailer under options and spot markets dominated
+Predictive Comparative QSAR Analysis Of As -Nitofuran-2-YL Derivatives Myco bacterium tuberculosis H3RV Inhibitors Bacterium Tuberculosis H3RV Inhibitors
+Performance Analysis Of Neural Network Models For Oxazolines And Oxazoles Derivatives Descriptor Dataset
+A Robust Missing Value Imputation Method MifImpute For Incomplete Molecular Descriptor Data And Comparative Analysis With Other Missing Value Imputation Methods
+Identification Of Outliers In Oxazolines AND Oxazoles High Dimension Molecular Descriptor Dataset Using Principal Component Outlier Detection Algorithm And Comparative Numerical Study Of Other Robust Estimators
+Study Of E-Smooth Support Vector Regression And Comparison With E- Support Vector Regression And Potential Support Vector Machines For Prediction For The Antitubercular Activity Of Oxazolines And Oxazoles Derivatives
+Information Maps: A Practical Approach to Position Dependent Parameterization
+Computational impact of hydrophobicity in protein stability
+eXamine: a Cytoscape app for exploring annotated modules in networks
+FFTPL: An Analytic Placement Algorithm Using Fast Fourier Transform for Density Equalization
+MIGRAINE: MRI Graph Reliability Analysis and Inference for Connectomics
+Systematic and multifactor risk models revisited
+Exact Simulation of Non-stationary Reflected Brownian Motion
+Shape-constrained Estimation of Value Functions
+Evolutionary estimation of a Coupled Markov Chain credit risk model
+A note on evolutionary stochastic portfolio optimization and probabilistic constraints
+Risk-sensitive Markov control processes
+Liquid-gas-solid flows with lattice Boltzmann: Simulation of floating bodies
+Using Ciliate Operations to construct Chromosome Phylogenies
+Modeling Earthen Dike Stability: Sensitivity Analysis and Automatic Calibration of Diffusivities Based on Live Sensor Data
+Free-surface flow simulations for discharge-based operation of hydraulic structure gates
+Pseudometrically Constrained Centroidal Voronoi Tessellations: Generating uniform antipodally symmetric points on the unit sphere with a novel acceleration strategy and its applications to Diffusion and 3D radial MRI
+Distributed simulation of city inundation by coupled surface and subsurface porous flow for urban flood decision support system
+Predicting protein contact map using evolutionary and physical constraints by integer programming (extended version)
+Simulated annealing: in mathematical global optimization computation hybrid with local or global search and practical applications in crystallography and molecular modelling
+Multiple Attractor Cellular Automata (MACA) for Addressing Major Problems in Bioinformatics
+On the extraction of instantaneous frequencies from ridges in time-frequency representations of signals
+Data Smashing
+Pectoral Muscles Suppression in Digital Mammograms using Hybridization of Soft Computing Methods
+Pedestrian Route Choice by Iterated Equilibrium Search
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part I: The Models
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part II: Analysis of the Models
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part III: Application to Hong Kong Stocks
+Multiple-output support vector regression with a firefly algorithm for interval-valued stock price index forecasting
+A model project for reproducible papers: critical temperature for the Ising model on a square lattice
+Association Rules Mining Based Clinical Observations
+MRFalign: Protein Homology Detection through Alignment of Markov Random Fields
+PSMACA: An Automated Protein Structure Prediction Using MACA (Multiple Attractor Cellular Automata)
+Amino Acid Interaction Network Prediction using Multi-objective Optimization
+miRNA and Gene Expression based Cancer Classification using Self- Learning and Co-Training Approaches
+Time series modeling and large scale global solar radiation forecasting from geostationary satellites data
+Nonidentical circle packing problem: multiple disks installed in a rotating circular container
+A Simple Software Application for Simulating Commercially Available Solar Panels
+HMACA: Towards Proposing a Cellular Automata Based Tool for Protein Coding Promoter Region Identification and Protein Structure Prediction
+Polynomial Transformation Method for Non-Gaussian Noise Environment
+Advanced Signal Processing Techniqes to Study Normal and Epileptic EEG
+An adaptive Simulated Annealing-based satellite observation scheduling method combined with a dynamic task clustering strategy
+Identification of Protein Coding Regions in Genomic DNA Using Unsupervised FMACA Based Pattern Classifier
+Ensembled Correlation Between Liver Analysis Outputs
+Release of the Kraken: A Novel Money Multiplier Equation's Debut in 21st Century Banking
+A Comparative Study on String Matching Algorithm of Biological Sequences
+Slope Instability of the Earthen Levee in Boston UK: Numerical Simulation and Sensor Data Analysis
+Analysis of Compatible Discrete Operator Schemes for the Stokes Equations on Polyhedral Meshes
+Parallel Pricing Algorithms for Multi--Dimensional Bermudan American Options using Monte Carlo methods
+Message Passing for Integrating and Assessing Renewable Generation in a Redundant Power Grid
+Adaptive vibration suppression system: An iterative control law for a piezoelectric actuator shunted by a negative capacitor
+Geometric simulation of locally optimal tool paths in three-axis milling
+Geo-Spotting: Mining Online Location-based Services for Optimal Retail Store Placement
+A Discontinuous Galerkin Time Domain Framework for Periodic Structures Subject To Oblique Excitation
+A Study of Speed of the Boundary Element Method as applied to the Realtime Computational Simulation of Biological Organs
+Software Uncertainty in Integrated Environmental Modelling: the role of Semantics and Open Science
+The False Premises and Promises of Bitcoin
+Dynamic Assignment in Microsimulations of Pedestrians
+Modeling the behavior of reinforced concrete walls under fire considering the impact of the span on firewalls
+Preserving Lagrangian structure in nonlinear model reduction with application to structural dynamics
+Secure Debit Card Device Model
+Reconstruction Models for Attractors in the Technical and Economic Processes
+Uncertainty Propagation in Elasto-Plastic Material
+Programming plantation lines on driverless tractors
+Product Evaluation In Elliptical Helical Pipe Bending
+Vertical Clustering of 3D Elliptical Helical Data
+How to Apply Assignment Methods that were Developed for Vehicular Traffic to Pedestrian Microsimulations
+Flows in Complex Networks: Theory Algorithms and Application to Lennard-Jones Cluster Rearrangement
+In silico Proteome Cleavage Reveals Iterative Digestion Strategy for High Sequence Coverage
+Tactical Fixed Job Scheduling with Spread-Time Constraints
+Validation Experiments for LBM Simulations of Electron Beam Melting
+Sliding window and compressive sensing for low-field dynamic magnetic resonance imaging
+Modeling European Options
+A comprehensive analysis of the geometry of TDOA maps in localisation problems
+Homogenization of coupled heat and moisture transport in masonry structures including interfaces
+Modeling of Degradation Processes in Historical Mortars
+Towards the reproducibility in soil erosion modeling: a new Pan-European soil erosion map
+First steps to Virtual Mammography: Simulating external compressions of the breast with the Surface Evolver
+MICA: A fast short-read aligner that takes full advantage of Intel Many Integrated Core Architecture (MIC)
+Densely Entangled Financial Systems
+PDBCirclePlot: A Novel Visualization Method for Protein Structures
+Predictive Comparative QSAR analysis of Sulfathiazole Analogues as Mycobacterium Tuberculosis H3RV Inhabitors
+The Cerebellum: New Computational Model that Reveals its Primary Function to Calculate Multibody Dynamics Conform to Lagrange-Euler Formulation
+An Integrated e-science Analysis Base for Computation Neuroscience Experiments and Analysis
+LSSVM-ABC Algorithm for Stock Price prediction
+Analysis of Multibeam SONAR Data using Dissimilarity Representations
+Analysis of Barcode sequence features to find anomalies due to amplification Bias
+GenomeFingerprinter and universal genome fingerprint analysis for systematic comparative genomics
+Trade integration and trade imbalances in the European Union: a network perspective
+Critical Transitions In a Model of a Genetic Regulatory System
+SPH Entropy Errors and the Pressure Blip
+An Optimization Method For Slice Interpolation Of Medical Images
+Discriminative Functional Connectivity Measures for Brain Decoding
+Large-Scale Molecular Dynamics Simulations for Highly Parallel Infrastructures
+Geometrical approach to modeling of nonlinear systems from experimental data
+A Machine Learning Model for Stock Market Prediction
+A survey on tidal analysis and forecasting methods for Tsunami detection
+Particle methods enable fast and simple approximation of Sobolev gradients in image segmentation
+An extended isogeometric analysis for vibration of cracked FGM plates using higher-order shear deformation theory
+Isogeometric finite element analysis of laminated composite plates based on a four variable refined plate theory
+Identification of Structural Model for Chaotic Systems
+Automating Fault Tolerance in High-Performance Computational Biological Jobs Using Multi-Agent Approaches
+Representing reasoning and answering questions about biological pathways - various applications
+Global solar irradiation prediction using a multi-gene genetic programming approach
+Accelerating motif finding in DNA sequences with multicore CPUs
+Hardware software co-design of the Aho-Corasick algorithm: Scalable for protein identification?
+Hardware accelerated protein inference framework
+An Extensive Repot on the Efficiency of AIS-INMACA (A Novel Integrated MACA based Clonal Classifier for Protein Coding and Promoter Region Prediction)
+Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction
+Combination of PCA with SMOTE Resampling to Boost the Prediction Rate in Lung Cancer Dataset
+A Galois-Connection between Myers-Briggs' Type Indicators and Szondi's Personality Profiles
+Time Series Analysis on Stock Market for Text Mining Correlation of Economy News
+Flying Insect Classification with Inexpensive Sensors
+Delineation of Techniques to implement on the enhanced proposed model using data mining for protein sequence classification
+Non linear Prediction of Antitubercular Activity Of Oxazolines and Oxazoles derivatives Making Use of Compact TS-Fuzzy models Through Clustering with orthogonal least sqaure technique and Fuzzy identification system
+Improving Hatching Strategies for Powder Bed Based Additive Manufacturing with an Electron Beam by 3D Simulations
+Volumetric Exploitation of Synaptic Information using Context Localization and Evaluation
+Research on Study Mechanical Vibrations with Data Acquisition Systems
+Evolutionary Algorithm for Drug Discovery Interim Design Report
+Network-based Transcript Quantification with RNA-Seq Data
+Iterative Learning for Reference-Guided DNA Sequence Assembly from Short Reads: Algorithms and Limits of Performance
+AIS-INMACA: A Novel Integrated MACA Based Clonal Classifier for Protein Coding and Promoter Region Prediction
+Immunophenotypes of Acute Myeloid Leukemia From Flow Cytometry Data Using Templates
+High Performance Solutions for Big-data GWAS
+Acceleration of a Full-scale Industrial CFD Application with OP2
+Tile optimization for area in FPGA based hardware acceleration of peptide identification
+Indexing large genome collections on a PC
+A framework for integrated design of algorithmic architectural forms
+Distilled Single Cell Genome Sequencing and De Novo Assembly for Sparse Microbial Communities
+Sailfish: Alignment-free Isoform Quantification from RNA-seq Reads using Lightweight Algorithms
+Exploration and retrieval of whole-metagenome sequencing samples
+The Unreasonable Fundamental Incertitudes Behind Bitcoin Mining
+Modeling Vanilla Option prices: A simulation study by an implicit method
+MoM-SO: a Complete Method for Computing the Impedance of Cable Systems Including Skin Proximity and Ground Return Effects
+Constrained Alignments of a Pair of Graphs
+An efficient GPU acceptance-rejection algorithm for the selection of the next reaction to occur for Stochastic Simulation Algorithms
+A Calculus of Located Entities
+Setting Parameters for Biological Models With ANIMO
+Cellular Automata and Its Applications in Bioinformatics: A Review
+Modeling contaminant intrusion in water distribution networks based on D numbers
+Thermodynamic Hypothesis as Social Choice: An Impossibility Theorem for Protein Folding
+AIS-MACA- : MACA based Clonal Classifier for Splicing Site Protein Coding and Promoter Region Identification in Eukaryotes
+Estimating the Accuracy of the Return on Investment (ROI) Performance Evaluations
+Wireless Transmission of Video for Biomechanical Analysis
+TreQ-CG: Clustering Accelerates High-Throughput Sequencing Read Mapping
+A Continuous Optimization Approach for the Financial Portfolio Selection under Discrete Asset Choice Constraints
+Portfolio Selection Under Buy-In Threshold Constraints Using DC Programming and DCA
+A DC programming approach for constrained two-dimensional non-guillotine cutting problem
+A Way For Accelerating The DNA Sequence Reconstruction Problem By CUDA
+Automated Classification of Airborne Laser Scanning Point Clouds
+Topology optimization based on moving deformable components: A new computational framework
+Unit commitment with valve-point loading effect
+Rapid prototyping for sling design optimization
+Simultaneous Source for non-uniform data variance and missing data
+Complex Workflow Management and Integration of Distributed Computing Resources by Science Gateway Portal for Molecular Dynamics Simulations in Materials Science
+IMP Science Gateway: from the Portal to the Hub of Virtual Experimental Labs in Materials Science
+A Revised Scheme to Compute Horizontal Covariances in an Oceanographic 3D-VAR Assimilation System
+From Quantity to Quality: Massive Molecular Dynamics Simulation of Nanostructures under Plastic Deformation in Desktop and Service Grid Distributed Computing Infrastructure
+A Fast Multiple Attractor Cellular Automata with Modified Clonal Classifier for Splicing Site Prediction in Human Genome
+CATOS: Computer Aided Training Observing System
+High-Content Digital Microscopy with Python
+SfePy - Write Your Own FE Application
+Fast Computation of the Series Impedance of Power Cables with Inclusion of Skin and Proximity Effects
+Household Electricity Consumption Data Cleansing
+A quantitative analysis of the effect of flexible loads on reserve markets
+The Synchrosqueezing transform for instantaneous spectral analysis
+Migration-Driven Hierarchical Crystal Defect Aggregation - Symmetry and Scaling Analysis
+Map-Reduce Parallelization of Motif Discovery
+Classification of Diabetes Mellitus using Modified Particle Swarm Optimization and Least Squares Support Vector Machine
+Numerical Investigation of Effects of Compound Angle and Length to Diameter Ratio on Adiabatic Film Cooling Effectiveness
+A Galois-Connection between Cattell's and Szondi's Personality Profiles
+Market Coupling as the Universal Algorithm to Assess onal Divisions
+Calculation software for efficiency and penetration of a fibrous filter medium based on the mathematical models of air filtration
+Application of Machine Learning Techniques in Aquaculture
+Merchant Sharing Towards a ero Marginal Cost Economy
+Gaussian-Chain Filters for Heavy-Tailed Noise with Application to Detecting Big Buyers and Big Sellers in Stock Market
+Clonal-Based Cellular Automata in Bioinformatics
+Flowgen: Flowchart-Based Documentation for C Codes
+Computational homogenization of fibrous piezoelectric materials
+Fast T2 Mapping with Improved Accuracy Using Undersampled Spin-echo MRI and Model-based Reconstructions with a Generating Function
+Exploiting Prior Knowledge in Compressed Sensing Wireless ECG Systems
+Identification of functionally related enzymes by learning-to-rank methods
+A Revised Incremental Conductance MPPT Algorithm for Solar PV Generation Systems
+Determination of Boiling Range of Xylene Mixed in PX Device Using Artificial Neural Networks
+Application of Multilayer Feedforward Neural Networks in Predicting Tree Height and Forest Stock Volume of Chinese Fir
+An accurate and efficient numerical framework for adaptive numerical weather prediction
+Application of Artificial Neural Networks in Predicting Abrasion Resistance of Solution Polymerized Styrene-Butadiene Rubber Based Composites
+An Effective Evolutionary Clustering Algorithm: Hepatitis C Case Study
+Py-oopsi: the python implementation of the fast-oopsi algorithm
+Graph theory enables drug repurposing. How a mathematical model can drive the discovery of hidden Mechanisms of Action
+DNA origami and the complexity of Eulerian circuits with turning costs
+Competitive Fragmentation Modeling of ESI-MS MS spectra for putative metabolite identification
+An efficient algorithm for the calculation of reserves for non-unit linked life policies
+A Novel Method for Comparative Analysis of DNA Sequences by Ramanujan-Fourier Transform
+A Bitcoin system with no mining and no history transactions: Build a compact Bitcoin system
+Modeling the wind circulation around mills with a Lagrangian stochastic approach
+Protein secondary structure detection based on unsupervised word segmentation
+More Bang For Your Buck: Quorum-Sensing Capabilities Improve the Efficacy of Suicidal Altruism
+Supervised classification-based stock prediction and portfolio optimization
+ACO Implementation for Sequence Alignment with Genetic Algorithms
+Integration of a Predictive Continuous Time Neural Network into Securities Market Trading Operations
+Navigating in a sea of repeats in RNA-seq without drowning
+An Innovative Wireless Cardiac Rhythm Management (iCRM) System
+Connectivity of Natura 2000 forest sites in Europe
+Proceedings Twelfth International Workshop on Quantitative Aspects of Programming Languages and Systems
+Ant Colony Optimization for Inferring Key Gene Interactions
+A computational study of the effects of remodelled electrophysiology and mechanics on initiation of ventricular fibrillation in human heart failure
+Extended Differential Aggregations in Process Algebra for Performance and Biology
+Achieving 100 000 000 database inserts per second using Accumulo and D4M
+Tollan-Xicocotitlan: A reconstructed City by augmented reality
+Transpose-free Fast Fourier Transform for Turbulence Simulation
+Efficient Algorithms for de novo Assembly of Alternative Splicing Events from RNA-seq Data
+Solution of nonlinear Stokes equations discretized by high-order finite elements on nonconforming and anisotropic meshes with application to ice sheet dynamics
+Generalized Mass-Action Systems and Positive Solutions of Polynomial Equations with Real and Symbolic Exponents
+Structure-Preserving Reduction of Finite-Difference Time-Domain Equations with Controllable Stability Beyond the CFL Limit
+Analyzing biosignals using the R freeware (open source) tool
+Fast prediction and evaluation of gravitational waveforms using surrogate models
+Automatic estimation of the regularization parameter in 2-D focusing gravity inversion: an application to the Safo manganese mine in northwest of Iran
+Classification of Human Ventricular Arrhythmia in High Dimensional Representation Spaces
+User Equilibrium Route Assignment for Microscopic Pedestrian Simulation
+Defmod - Parallel multiphysics finite element code for modeling crustal deformation during the earthquake rifting cycle
+Data Requirement for Phylogenetic Inference from Multiple Loci: A New Distance Method
+Speedup of Micromagnetic Simulations with C AMP On Graphics Processing Units
+COFFEE: an Optimizing Compiler for Finite Element Local Assembly
+KMC 2: Fast and resource-frugal k -mer counting
+A Statistical Modelling and Analysis of PHEVs' Power Demand in Smart Grids
+MIMTool: A Tool for Drawing Molecular Interaction Maps
+Analyzing Chromatin Using Tiled Binned Scatterplot Matrices
+inPHAP: Interactive visualization of genotype and phased haplotype data
+eXamine: Exploring annotated modules in networks
+An Algorithm for Alignment-free Sequence Comparison using Logical Match
+A Compact Model of Silicon-Based Nanowire Field Effect Transistor for Circuit Simulation and Design
+A domain-specific analysis system for examining nuclear reactor simulation data for light-water and sodium-cooled fast reactors
+A Hybrid Parallel Implementation of the Aho-Corasick and Wu-Manber Algorithms Using NVIDIA CUDA and MPI Evaluated on a Biological Sequence Database
+Run-time extensibility and librarization of simulation software
+Car-following model on two lanes and stability analysis
+Modeling structural change in spatial system dynamics: A Daisyworld example
+COEL: A Web-based Chemistry Simulation Framework
+Protein Folding in the Hexagonal Prism Lattice with Diagonals
+PageRank beyond the Web
+BioPreDyn-bench: benchmark problems for kinetic modelling in systems biology
+Discovering Discriminative Cell Attributes for HEp-2 Specimen Image Classification
+Simulating flexible fiber suspensions using a scalable immersed boundary algorithm
+Chance Constrained Optimization for Targeted Internet Advertising
+On Global Stability of Financial Networks
+Impact of blood rheology on wall shear stress in a model of the middle cerebral artery
+Mathematical Analysis of Temperature Accelerated Dynamics
+Proximity-Aware Calculation of Cable Series Impedance for Systems of Solid and Hollow Conductors
+Robust Causality Check for Sampled Scattering Parameters via a Filtered Fourier Transform
+Reconstruction of gene regulatory network of colon cancer using information theoretic approach
+Computer simulations reveal complex distribution of haemodynamic forces in a mouse retina model of angiogenesis
+The Scheme of a Novel Methodology for onal Division Based on Power Transfer Distribution Factors
+Efficient Localization of Discontinuities in Complex Computational Simulations
+Active network management for electrical distribution systems: problem formulation and benchmark
+PyRDM: A Python-based library for automating the management and online publication of scientific software and data
+Automatic Extraction of Protein Interaction in Literature
+Spectral Sequence Motif Discovery
+A comparative study between seasonal wind speed by Fourier and Wavelet analysis
+A stochastic model of catalytic reaction networks in protocells
+Computing With Contextual Numbers
+Simulating Organogenesis in COMSOL: Image-based Modeling
+Cluster-level tuning of a shallow water equation solver on the Intel MIC architecture
+A Report of a Significant Error On a Frequently Used Pseudo Random Number Generator
+A Statistical Modelling and Analysis of Residential Electric Vehicles' Charging Demand in Smart Grids
+Application of approximate matrix factorization to high order linearly implicit Runge-Kutta methods
+EURETILE D.3 - Dynamic DAL benchmark coding measurements on MPI version of DPSNN-STDP (distributed plastic spiking neural net) and improvements to other DAL codes
+ls1 mardyn: The massively parallel molecular dynamics code for large systems
+Enhanced Estimation of Autoregressive Wind Power Prediction Model Using Constriction Factor Particle Swarm Optimization
+Swarm Intelligence Based Multi-phase OPF For Peak Power Loss Reduction In A Smart Grid
+Molecular modelling and simulation of the surface tension of real quadrupolar fluids
+A Domain Specific Approach to Heterogeneous Computing: From Availability to Accessibility
+Evolving Modular Genetic Regulatory Networks with a Recursive Top-Down Approach
+Recurrent Neural Network Based Hybrid Model of Gene Regulatory Network
+HyDA-Vista: Towards Optimal Guided Selection of k-mer Size for Sequence Assembly
+An application of topological graph clustering to protein function prediction
+Diffusion of a fluid through a viscoelastic solid
+Optimal scalable forward models for computing gravity anomalies
+Mathematical Analysis of the BIBEE Approximation for Molecular Solvation: Exact Results for Spherical Inclusions
+Computational science and re-discovery: open-source implementations of ellipsoidal harmonics for problems in potential theory
+Numerical model of elastic laminated glass beams under finite strain
+An Extreme Learning Machine Approach to Predicting Near Chaotic HCCI Combustion Phasing in Real-Time
+Analyzing Large Biological Datasets with an Improved Algorithm for MIC
+Supervised detection of anomalous light-curves in massive astronomical catalogs
+On Analysis and Generation of some Biologically Important Boolean Functions
+Reinforcement Learning Based Algorithm for the Maximization of EV Charging Station Revenue
+Parameter Synthesis for Cardiac Cell Hybrid Models Using Delta-Decisions
+Can I Implement Your Algorithm? : A Model for Reproducible Research Software
+Case Studies and Challenges in Reproducibility in the Computational Sciences
+Heterogeneous Computing on Mixed Unstructured Grids with PyFR
+Detect Adverse Drug Reactions for Drug Aspirin
+An Approach for Assessing Clustering of Households by Electricity Usage
+Comparison of algorithms that detect drug side effects using electronic healthcare databases
+Comparing Stochastic Differential Equations and Agent-Based Modelling and Simulation for Early-stage Cancer
+A Novel Semi-Supervised Algorithm for Rare Prescription Side Effect Discovery
+Signalling Paediatric Side Effects using an Ensemble of Simple Study Designs
+Feature selection in detection of adverse drug reactions from the Health Improvement Network (THIN) database
+Ensemble Learning of Colorectal Cancer Survival Rates
+CoMOGrad and PHOG: From Computer Vision to Fast and Accurate Protein Tertiary Structure Retrieval
+Variability of Behaviour in Electricity Load Profile Clustering Who Does Things at the Same Time Each Day?
+Tuning a Multiple Classifier System for Side Effect Discovery using Genetic Algorithms
+Comparison of Distance Metrics for Hierarchical Data in Medical Databases
+Augmented Neural Networks for Modelling Consumer Indebtness
+Detecting adverse drug reactions for the drug Simvastatin
+Accurate fully-automated NMR spectral profiling for metabolomics
+A Fast Quartet Tree Heuristic for Hierarchical Clustering
+Stochastic Testing Simulator for Integrated Circuits and MEMS: Hierarchical and Sparse Techniques
+Uncertainty Quantification for Integrated Circuits: Stochastic Spectral Methods
+Efficient Uncertainty Quantification for the Periodic Steady State of Forced and Autonomous Circuits
+Calculation of Generalized Polynomial-Chaos Basis Functions and Gauss Quadrature Rules in Hierarchical Uncertainty Quantification
+Stochastic Testing Method for Transistor-Level Uncertainty Quantification Based on Generalized Polynomial Chaos
+A Formal Methods Approach to Pattern Synthesis in Reaction Diffusion Systems
+Attributes for Causal Inference in Longitudinal Observational Databases
+Finding the Core-Genes of Chloroplasts
+A framework for optimal high-level descriptions in science and engineering---preliminary report
+Modeling Charge-Sign Asymmetric Solvation Free Energies With Nonlinear Boundary Conditions
+Architecture of Environmental Risk Modelling: for a faster and more robust response to natural disasters
+The Equity Tax and Shelter
+Solution of moving-boundary problems by the spectral element method
+On the Computational Complexity of Measuring Global Stability of Banking Networks
+Competitive Comparison of Optimal Designs of Experiments for Sampling-based Sensitivity Analysis
+Soft computing-based calibration of microplane M4 model parameters: Methodology and validation
+Software Abstractions and Methodologies for HPC Simulation Codes on Future Architectures
+Experiences from Software Engineering of Large Scale AMR Multiphysics Code Frameworks
+Autocatalysis in Reaction Networks
+Matchmaker Matchmaker Make Me a Match: Migration of Populations via Marriages in the Past
+Solving The Longest Overlap Region Problem for Noncoding DNA Sequences with GPU
+Seismic Wave Scattering Through a Compressed Hybrid BEM FEM Method
+Natural Selection as an Inhibitor of Genetic Diversity: Multiplicative Weights Updates Algorithm and a Conjecture of Haploid Genetics
+Share and Enjoy : Publishing Useful and Usable Scientific Models
+EnKF-C user guide
+Hybrid global-local optimisation algorithms for the layout design of tidal turbine arrays
+Applying Geospatial Semantic Array Programming for a Reproducible Set of Bioclimatic Indices in Europe
+Heuristic Monte Carlo Method Applied to Cooperative Motion Algorithm for Binary Lattice Fluid
+Phase Diagram of Diblock Copolymer Melt in Dimension d
+Compact Representation of Photosynthesis Dynamics by Rule-based Models (Full Version)
+Parallel-Tempering Monte-Carlo Simulation with Feedback-Optimized Algorithm Applied to a Coil-to-Globule Transition of a Lattice Homopolymer
+Monte Carlo Study of Patchy Nanostructures Self-Assembled from a Single Multiblock Chain
+Constrained Runs algorithm as a lifting operator for the Boltzmann equation
+Initialization of lattice Boltzmann models with the help of the numerical Chapman-Enskog expansion
+Intra-Globular Structures in Multiblock Copolymer Chains from a Monte Carlo Simulation
+TiQuant: Software for tissue analysis quantification and surface reconstruction
+GREAT: GRaphlet Edge-based network AlignmenT
+Performance Engineering of the Kernel Polynomial Method on Large-Scale CPU-GPU Systems
+Application of reactive transport modelling to growth and transport of microorganisms in the capillary fringe
+Btrim: A fast lightweight adapter and quality trimming program for next-generation sequencing technologies
+Parallel Multiphysics Simulations of Charged Particles in Microfluidic Flows
+Kibble-urek Mechanism in Microscopic Acoustic Cracking Noises
+Efficient optimisation of structures using tabu search
+PyCraters: A Python framework for crater function analysis
+Lagrangian method for solving Lane-Emden type equation arising in astrophysics on semi-infinite domains
+A Comparison of Hybridized and Standard DG Methods for Target-Based hp-Adaptive Simulation of Compressible Flow
+Analysis of block-preconditioners for models of coupled magma mantle dynamics
+Data-driven HRF estimation for encoding and decoding models
+Optimization of Vehicle Dynamics based on Multibody Models using Adjoint Sensitivity Analysis
+Recursive Algorithms for Distributed Forests of Octrees
+Simple connectome inference from partial correlation statistics in calcium imaging
+Enabling High-Dimensional Hierarchical Uncertainty Quantification by ANOVA and Tensor-Train Decomposition
+On efficient and reliable stochastic generation of RVEs for analysis of composites within the framework of homogenization
+Semi-Automatic Construction of a Domain Ontology for Wind Energy Using Wikipedia Articles
+Data Driven Prognosis: A multi-physics approach verified via balloon burst experiment
+Finite element model based on refined plate theories for laminated glass units
+Prognosis of Anterior Cruciate Ligament (ACL) Reconstruction: A Data Driven Approach
+Spatio-Temporal Analysis of Epidemic Phenomena Using the R Package surveillance
+Verifying Chemical Reaction Network Implementations: A Pathway Decomposition Approach
+Multiscale Universal Interface: A Concurrent Framework for Coupling Heterogeneous Solvers
+Grace: a Cross-platform Micromagnetic Simulator On Graphics Processing Units
+Dual Algorithms
+Identification of Helicopter Dynamics based on Flight Data using Nature Inspired Techniques
+Geometrically nonlinear isogeometric analysis of laminated composite plates based on higher-order shear deformation theory
+Integrating Fuzzy and Ant Colony System for Fuzzy Vehicle Routing Problem with Time Windows
+Robust topology optimisation of microstructural details without length scale separation - using a spectral coarse basis preconditioner
+Measure of combined effects of morphological parameters of inclusions within composite materials via stochastic homogenization to determine effective mechanical properties
+Detecting Differential Expression from RNA-seq Data with Expression Measurement Uncertainty
+GreMuTRRR: A Novel Genetic Algorithm to Solve Distance Geometry Problem for Protein Structures
+Pseudo Dynamic Transitional Modeling of Building Heating Energy Demand Using Artificial Neural Network
+Optimal three-field block-preconditioners for models of coupled magma mantle dynamics
+Misassembly Detection using Paired-End Sequence Reads and Optical Mapping Data
+Proportional Topology Optimization: A new non-gradient method for solving stress constrained and minimum compliance problems and its implementation in MATLAB
+Individual and Group Dynamics in Purchasing Activity
+Synthesis of Mechanism for single- and hybrid-tasks using Differential Evolution
+The challenges of statistical patterns of language: the case of Menzerath's law in genomes
+Lyapunov-based Low-thrust Optimal Orbit Transfer: An approach in Cartesian coordinates
+On Subversive Miner Strategies and Block Withholding Attack in Bitcoin Digital Currency
+A consistent model for cardiac deformation estimation under abnormal ventricular muscle conditions
+Comparing Numerical Integration Schemes for Time-Continuous Car-Following Models
+Computer-Aided Discovery and Categorisation of Personality Axioms
+Bitcoin Transaction Malleability and MtGox
+A Sampling Filter for Non-Gaussian Data Assimilation
+On The Longest Chain Rule and Programmed Self-Destruction of Crypto Currencies
+A Method for Reducing the Severity of Epidemics by Allocating Vaccines According to Centrality
+Stochastic Coordinate Coding and Its Application for Drosophila Gene Expression Pattern Annotation
+Orbital-Free Density Functional Theory Implementation with the Projector Augmented-Wave Method
+The Nonequilibrium Many-Body Problem as a paradigm for extreme data science
+Be-CoDiS: A mathematical model to predict the risk of human diseases spread between countries. Validation and application to the 2014 Ebola Virus Disease epidemic
+Dynamic aerodynamic-structural coupling numerical simulation on the flexible wing of a cicada based on ansys
+Optimal Boundary Control for Water Hammer Suppression in Fluid Transmission Pipelines
+Assembling biological boolean networks using manually curated databases and prediction algorithms
+Learning interpretable models of phenotypes from whole genome sequences with the Set Covering Machine
+On the String Kernel Pre-Image Problem with Applications in Drug Discovery
+Protein residue networks from a local search perspective
+Finite Element Method Based Modeling of Cardiac Deformation Estimation under Abnormal Ventricular Muscle Conditions
+A New System For Recording The Radiological Effective Doses For Patients Investigated by Imaging Methods
+Are Clouds Ready to Accelerate Ad hoc Financial Simulations?
+Experimental economics for web mining
+Aggregation operators for the measurement of systemic risk
+Converting a Systems Dynamic Model to an Agent-based model for studying the Bicoid morphogen gradient in Drosophila embryo
+Conversion of G-code programs for milling into STEP-NC
+A perceptual hash function to store and retrieve large scale DNA sequences
+Feature extraction from complex networks: A case of study in genomic sequences classification
+Local weak form meshless techniques based on the radial point interpolation (RPI) method and local boundary integral equation (LBIE) method to evaluate European and American options
+Numerical pricing of American options under two stochastic factor models with jumps using a meshless local Petrov-Galerkin method
+Multiprocessor System Dedicated to Multi-Rotor Mini-UAV Capable of 3D flying
+Connectome graphs and maximum flow problems
+SPySort: Neuronal Spike Sorting with Python
+Using Python to Dive into Signalling Data with CellNOpt and BioServices
+Py3DFreeHandUS: a library for voxel-array reconstruction using Ultrasonography and attitude sensors
+Predictive Modelling of Toxicity Resulting from Radiotherapy Treatments of Head and Neck Cancer
+pyFRET: A Python Library for Single Molecule Fluorescence Data Analysis
+A Python-based Post-processing Toolset For Seismic Analyses
+Numerical simulation of liver perfusion: from CT scans to FE model
+Temperature diagnostics of the solar atmosphere using SunPy
+Synthesis Method for the Spherical 4R Mechanism with Minimum Center of Mass Acceleration
+Proceedings of the th European Conference on Python in Science (EuroSciPy 2014)
+A web-based tool to Analyze Semantic Similarity Networks
+A Structured Hardware Software Architecture for Peptide Based Diagnosis of Baylisascaris Procyonis Infection (ICIAfS14)
+Designing pricing schemes based on progressive tariff and consumer grouping in migration to a future smart grid
+Power Flow as an Algebraic System
+Multiple alignment of structures using center of proteins
+A Structured Hardware Software Architecture for Peptide Based Diagnosis - Sub-string Matching Problem with Limited Tolerance (ICIAfS14)
+Understanding and Designing Complex Systems: Response to A framework for optimal high-level descriptions in science and engineering---preliminary report
+Fast and Scalable Inference of Multi-Sample Cancer Lineages
+Toward the Coevolution of Novel Vertical-Axis Wind Turbines
+A user-friendly nano-CT image alignment and 3D reconstruction platform based on LabVIEW
+Upsilon -DB: Managing scientific hypotheses as uncertain data
+Relation between Financial Market Structure and the Real Economy: Comparison between Clustering Methods
+Toward a multilevel representation of protein molecules: comparative approaches to the aggregation folding propensity problem
+Evaluation of the Spectral Finite Element Method With the Theory of Phononic Crystals
+Robust solutions of uncertain mixed-integer linear programs using structural-reliability and decomposition techniques
+Model Checking Gene Regulatory Networks
+Fragmentation trees reloaded
+Computational Protein Design Using AND OR Branch-and-Bound Search
+On the complexity of computing MP distance between binary phylogenetic trees
+Point Process-based estimation of kth-order moment
+Microbial community pattern detection in human body habitats via ensemble clustering framework
+A New Sparse Matrix Vector Multiplication GPU Algorithm Designed for Finite Element Problems
+Static Analysis for Biological Systems (BioAmbients)
+Efficient reduction of Kappa models by static inspection of the rule-set
+Evaluation of Predictive Data Mining Algorithms in Erythemato-Squamous Disease Diagnosis
+DSSI for pile supported asymmetrical buildings : a review
+Derivative coordinates for analytic tree fractals and fractal engineering
+Transferable measurements of Heredity in models of the Origins of Life
+Reviving the Two-state Markov Chain Approach (Technical Report)
+Immersed boundary-finite element model of fluid-structure interaction in the aortic root
+Exploring the efficacy of molecular fragments of different complexity in computational SAR modeling
+Effects of Data Resolution and Human Behavior on Large Scale Evacuation Simulations
+An Algorithmic Pipeline for Analyzing Multi-parametric Flow Cytometry Data
+Numerical modelling of sandstone uniaxial compression test using a mix-mode cohesive fracture model
+Large deformation and post-failure simulations of segmental retaining walls using mesh-free method (SPH)
+Seismic Earth Pressure Development in Sheet Pile Retaining Walls: A Numerical Study
+On the impact of topological properties of smart grids in power losses optimization problems
+Identifying robust clusters and multi-community nodes by combining top-down and bottom-up approaches to clustering
+Adjoint Lattice Boltzmann for Topology Optimization on multi-GPU architecture
+Global finite element matrix construction based on a CPU-GPU implementation
+Approximate statistical alignment by iterative sampling of substitution matrices
+Robust Transmission Network Expansion Planning in Energy Systems: Improving Computational Performance
+Estimating the effects of water-induced shallow landslides on soil erosion
+Ultrascale Simulations of Non-smooth Granular Dynamics
+Inferring and Learning from Neuronal Correspondences
+The Murchison Widefield Array Correlator
+Development of a Big Data Framework for Connectomic Research
+Exploring the genetic patterns of complex diseases via the integrative genome-wide approach
+Adaptive Robust Transmission Network Expansion Planning using Structural Reliability and Decomposition Techniques
+Truss Analysis Discussion and Interpretation Using Linear Systems of Equalities and Inequalities
+Accelerate micromagnetic simulations with GPU programming in MATLAB
+Resilience for Exascale Enabled Multigrid Methods
+Blind source separation methods for deconvolution of complex signals in cancer biology
+Hygro-thermo-mechanical analysis of spalling in concrete walls at high temperatures as a moving boundary problem
+Web-Based Visualization of Very Large Scientific Astronomy Imagery
+The Nitsche XFEM-DG space-time method and its implementation in three space dimensions
+Non-smooth Approach for Contact Dynamics and Impulse-based Control of Frictional Furuta Pendulum
+Sand transverse dune aerodynamics: 3D Coherent Flow Structures from a computational study
+Toward robust early-warning models: A horse race ensembles and model uncertainty
+Managing large-scale scientific hypotheses as uncertain and probabilistic data
+The GPU vs Phi Debate: Risk Analytics Using Many-Core Computing
+Prioritizing the Components of Vulnerability in a Genetic Algorithms Minimization of Flood Risk
+A Gradient Descent Approach to Optimal Coherent Quantum LQG Controller Design
+A Study of the Matter of SPH Application to Saturated Soil Problems
+A discontinuous Galerkin method for cohesive zone modelling
+Modeling Curved Carbon Fiber Composite (CFC) Structures in the Transmission-Line Modeling (TLM) Method
+Different approaches to calibration of nonlinear mechanical models using artificial neural networks
+Arrhythmia Detection using Mutual Information-Based Integration Method
+Optimal Haplotype Assembly from High-Throughput Mate-Pair Reads
+Will solid-state drives accelerate your bioinformatics? In-depth profiling performance analysis and beyond
+Measurement Scale Effect on Prediction of Soil Water Retention Curve and Saturated Hydraulic Conductivity
+The Modeling and Quantification of Rhythmic to Non-rhythmic Phenomenon in Electrocardiography during Anesthesia
+Fuzzy finite element solution of uncertain neutron diffusion equation for imprecisely defined homogeneous triangular bare reactor
+A Scalable Linear-Time Dynamic Cutoff Algorithm for Molecular Simulations of Interfacial Systems
+Locating a Tree in a Phylogenetic Network in Quadratic Time
+Numerical simulation of skin transport using Parareal
+Diagnosis of diabetes using classification mining techniques
+AMAS: optimizing the partition and filtration of adaptive seeds to speed up read mapping
+A Data Mining framework to model Consumer Indebtedness with Psychological Factors
+Incorporating Spontaneous Reporting System Data to Aid Causal Inference in Longitudinal Healthcare Data
+Refining Adverse Drug Reactions using Association Rule Mining for Electronic Healthcare Data

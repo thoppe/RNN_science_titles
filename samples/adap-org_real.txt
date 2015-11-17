@@ -1,0 +1,584 @@
+Evolution and extinction dynamics in rugged fitness landscapes
+TRANSIMS traffic flow characteristics
+A condition for the genotype-phenotype mapping: Causality
+Absence of self-organized criticality in a random-neighbor version of the OFC stick-slip model
+Experiences with iterated traffic microsimulations in Dallas
+Sentient Networks
+Effects of neutral selection on the evolution of molecular species
+Adaptive Competition Market Efficiency Phase Transitions and Spin-Glasses
+Geometric statistical inference
+Modelling coevolution in multispecies communities
+Invariant closure for the Fokker-Planck equation
+Emergence of Rules in Cell Society: Differentiation Hierarchy and Stability
+Diversity Stability Recursivity and Rule Generation in Biological System: Intra-inter Dynamics Approach
+Large-scale evolution and extinction in a hierarchically structured environment
+Critical Exponent of Species-Size Distribution in Evolution
+Collective Behaviour and Diversity in Economic Communities: Some Insights from an Evolutionary Game
+Dynamics of Individual Specialization and Global Diversification in Communities
+Neural network design for  function approximation in dynamic programming
+On the 1 f fluctuations in the nonlinear systems affected by noise
+How fast do structures emerge in hypercycle-systems
+Simple model of 1 f noise
+Nondecay probability of a metastable state: almost exact analytical description in wide range of noise intensity
+Development and Evolution of Neural Networks in an Artificial Chemistry
+A dynamical theory of speciation on holey adaptive landscapes
+Rapid parapatric speciation on holey adaptive landscapes
+Life as Complex Systems --- Viewpoint from Intra-Inter Dynamics
+Cooperative mechanism of self-regulation in hierarchical living systems
+The Evolutionary Design of Collective Computation in Cellular Automata
+Dynamics of clade diversification on the morphological hypercube
+Decline in extinction rates and scale invariance in the fossil record
+Nonlinear theory of autooscillations of quasiplanar interface during directional solidification
+Optimizing Epochal Evolutionary Search: Population-Size Independent Theory
+Optimizing Epochal Evolutionary Search: Population-Size Dependent Theory
+One Dimensional n ary Density Classification Using Two Cellular Automaton Rules
+Coherence and synchronization in diode-laser arrays with delayed global coupling
+Extinction diversity and survivorship of taxa in the fossil record
+The Structure of Adaptive Competition in Minority Games
+Power spectra of extinction in the fossil record
+Reproductive Tradeoffs In Uncertain Environments: Explaining The Evolution Of Cultural Elaboration
+Market force ecology and evolution
+The Evolutionary Biology of Ourselves: Unit Requirements and Organizational Change in United States History
+A Mathematical Model with Modified Logistic Approach for Singly-Peaked Population Processes
+A General Approach to the Modelling of Trophic Chains
+The Evolutionary Unfolding of Complexity
+The Origin of the RNA World: a Kinetic Model
+Evolution of genetic organization in digital organisms
+Mechanism of Self-regulation in a Simple Model of Hierarchically Organized Market
+Replication Error and Time Evolution of a Self-Replicating System
+Characterizing self-organization and coevolution by ergodic invariants
+Totalistic two-dimensional cellular automata exhibiting global periodic behavior
+Three sided complex adaptative systems
+Lattice three-species models of the spatial spread of rabies among foxes
+Extremal Coupled Map Lattices
+Model of self-replicating cell capable of self-maintenance
+Number-conserving cellular automaton rules
+A microsimulation of traders activity in the stock market: the role of heterogeneity agents' interactions and trade frictions
+Globally coupled bistable elements as a model of group decision making
+Minimum Energy Information Fusion in Sensor Networks
+Metastable Evolutionary Dynamics: Crossing Fitness Barriers or Escaping via Neutral Paths
+A dynamical model of non regulated markets
+Functional Dynamics II : Syntactic Structure
+Resource Sharing and Coevolution in Evolving Cellular Automata
+Cumulant Dynamics of a Population under Multiplicative Selection Mutation and Drift
+Scaling in a Multispecies Network Model Ecosystem
+Phase Transition in Random Networks with Multiple States
+Models of Extinction: A Review
+Colective Effects from Induced Behaviour
+Statistical measures of complexity for strongly interacting systems
+Analysis of the optimality principles responsible for vascular network architectonics
+Measuring Mutual Information in Random Boolean Networks
+Performance of data networks with random links
+Self-Organized Criticality: Self-Organized Complexity The Disorder and Simple Complexity'' of Power Law Distributions
+Fractal Analysis for Social Systems
+A Simple Model of the Evolution of Simple Models of Evolution
+Simple models of evolution and extinction
+Mathematical description of the heat transfer in living tissue Part I
+Mathematical description of the heat transfer in living tissue Part II
+Amplifying Phenomenal Information: Toward a Fundamental Theory of Consciousness
+Criticality and Punctuated Equilibrium in a Spin System Model of a Financial Market
+Modelling Migration and Economic Agglomeration with Active Brownian Particles
+Physicists attempt to scale the ivory towers of finance
+Fitness versus Longevity in Age-Structured Population Dynamics
+Low dimensional travelling interfaces in coupled map lattices
+Effect of noise on coupled chaotic systems
+Stochastic Coherence in Coupled Map Lattices
+Expansion-modificaction systems: an explanation for long range correlations in DNA
+Restart Strategies and Internet Congestion
+Noncommutative Martin-Lof randomness : on the concept of a random sequence of qubits
+Sensitive boundary condition dependence of noise-sustained structure
+Introduction to the statistical theory of Darwinian evolution
+Threshold Noise as a Source of Volatility in Random Synchronous Asymmetric Neural Networks
+Garden of Eden states in traffic models
+Brownian motion in fluctuating periodic potentials
+Modeling Market Mechanism with Evolutionary Games
+Statistical field theory of hierarchical avalanche ensemble
+How to Implement A Priori Information: A Statistical Mechanics Approach
+Thermodynamic Depth of Causal States: When Paddling around in Occam's Pool Shallowness Is a Virtue
+The Computational Complexity of Sandpiles
+Statistical Features in Learning
+Optimizing Traffic Flow
+Crowd effects and volatility in a competitive market
+Spontaneous coalition forming: a model from spin glass
+Comment on A landscape theory of aggregation
+Nature's Way of Optimizing
+Cortical Potential Distributions and Cognitive Information Processing
+Multiple Scales in Small-World Graphs
+Learning competition and cooperation in simple games
+Statistical-thermodynamical foundations of anomalous diffusion
+Algorithmic Complexity in Minority Game
+Computational Mechanics: Pattern and Prediction Structure and Simplicity
+Effective potential for the reaction-diffusion-decay system
+Emergence of scaling in random networks
+Cosmology in a Test Tube: Theory of Domain Walls Formation in Binary Fluids
+Autocatalytic Theory of Meaning
+Using Collective Intelligence to Route Internet Traffic
+General Principles of Learning-Based Multi-Agent Systems
+An Introduction to Collective Intelligence
+Adaptivity in Agent-Based Routing for Data Networks
+Avoiding Braess' Paradox through Collective Intelligence
+Self-Referential Noise and the Synthesis of Three-Dimensional Space
+Evolution in time-dependent fitness landscapes
+Behind the shirts is symmetry
+Molecular Evolution in Time Dependent Environments
+Genetic Algorithms in Time-Dependent Environments
+Bayesian Field Theory: Nonparametric Approaches to Density Estimation Regression Classification and Inverse Quantum Problems
+Lax Pair Formulation and Multi-soliton Solution of the Integrable Vector Nonlinear Schrodinger Equation
+Pfaff tau-functions
+Matrix integrals and the geometry of spinors
+The length of a typical Huffman codeword
+Revisiting the Edge of Chaos: Evolving Cellular Automata to Perform Computations
+A Criterion for Stability in Random Boolean Cellular Automata
+Biased Random-Walk Learning: A Neurobiological Correlate to Trial-and-Error
+A nonequilibrium statistical field theory of swarms and other spatially extended complex systems
+Dynamics Computation and the Edge of Chaos : A Re-Examination
+Prediction and Adaptation in an Evolving Chaotic Environment
+On the Threshold of Chaos in Random Boolean Cellular Automata
+Imitation Games
+Chaos as a Source of Complexity and Diversity in Evolution
+Learning and Complexity in Genetic Auto-Adaptive Systems
+Training and Turnover in Organizations
+Like Sparrows on a Clothes Line: The Self-Organization of Random Number Sequences
+Cellular Games
+On Modelling Life
+Evolutionary Learning in the D Artificial Life System Avida
+Study of a New Neuron
+Asymptotic Exit Location Distributions in the Stochastic Exit Problem
+Bubbles and Market Crashes
+Secondary Image Synthesis In Electronic Computer Photography Vtorichny Sintez Izobrazheni V Elektronno Komp'uterno Fotografii
+Towards A Description Of Interactive Psychoinformation Systems. Preliminary Remarks. K Opisaniyu Interaktivnyh Psihoinformatsionnyh Sistem. Predvaritel'Nye amechaniya
+A New Look at Broken Ergodicity
+Belavkin-Kolokoltsov Watch-Dog Effects in Interactively Controlled Stochastic Computer-Graphic Dynamical Systems. A Summary of Mathematical Researches
+On The Avalanche-finiteness Of Abelian Sandpiles
+Mass-extinction: Evolution and the effects of external influences on unfit species
+Kinetic Theory of Anomalous Transport of SupraThermal Particles
+Communities of Practice: Performance and Evolution
+The covariance matrix of the potts model: A random cluster analysis
+An Evolutionary Approach to Associative Memory in Recurrent Neural Networks
+Preferential Partner Selection in an Evolutionary Study of Prisoner's Dilemma
+A set of hard spheres with tangential inelastic collision as a model of granular matter: 1 f alpha fluctuation non-Gaussian distribution and convective motion
+The Fight Against the Second Law of Thermodynamics
+Traffic at the Edge of Chaos
+Clustered Volatility in Multiagent Dynamics
+Comment on Linguistic Features of Noncoding DNA Sequences
+Abundance Distributions in Artificial Life and Stochastic Models: Age and Area revisited
+A Theory of Differentiation with Dynamic Clustering
+Evolution of Cooperation Differentiation Complexity and Diversity in an Iterated Three-person Game
+Elements of a Theory of Simulation
+Numerical investigation of surface level instability due to tube in vibrating bed of powder
+Hierarchical Crossover and Probability Landscapes of Genetic Operators
+The Distributed Genetic Algorithm Revisited
+A Statistical Approach to Vehicular Traffic
+Evolutionary Dynamics and Optimization: Neutral Networks as Model-Landscapes for RNA Secondary-Structure Folding-Landscapes
+How birds fly together: Long-range order in a two-dimensional dynamical  model
+Self-Organization in Models of Populations with Two-Parent Reproduction on a Rugged Fitness Landscape
+The Instability of Markets
+Dynamic Entropies Long--Range Correlations and Fluctuations in Complex Linear Structures
+Evolving Neural Networks with Iterative Learning Scheme for Associative Memory
+A model for evolution and extinction
+Smoothing representation of fitness landscapes - the genotype-phenotype map of evolution
+Analytic Investigations of Random Search Strategies for Parameter Optimization
+Ergodic Properties of the Spin - Boson System
+Reproducible noise in a macroscopic system: magnetic avalanches in Perminvar
+Scalings of Pitches in Music
+Self-organization ergodicity breaking phase transition and synchronization in two-dimensional traffic-flow model
+Mean Switching Frequency Locking in Stochastic Bistable Systems Driven by Periodical Force
+Octonionic binocular mobilevision. An overview
+Dynamical Model for Virus Spread
+Scaling and universality in binary fragmenting with inhibition
+A Geometric Formulation of Occam's Razor for Inference of Parametric Distributions
+Self-organized criticality and the lattice topology
+Self-Organized Critical Directed Percolation
+Response to Parisi's Comment on Non-mean-field behavior of realistic spin glasses''
+Comment on Avalanche Dynamics in Evolution Growth and Depinning Models'
+Propagation of Information in Populations of Self-Replicating Code
+Isologous Diversification: A Theory of Cell Differentiation
+Self-organized criticality evolution and the fossil extinction record
+Symmetry Breaking and Adaptation: The Genetic Code of Retroviral Env Proteins
+Spontaneous Origin of Topological Complexity in Self-Organizing Neural Networks
+Stability of periodic solutions in series arrays of osephson unctions with internal Capacitance
+Spontaneous symmetry breaking and the formation of columnar structures in the primary visual cortex II --- Local organization of orientation modules
+A model of macroevolution with a natural system size
+Analysis of the Effective Degrees of Freedom in Genetic Algorithms
+The selection of altruistic behaviour
+Coevolution of Symbiotic Species
+A model of mass extinction
+Mass Extinction in a Simple Mathematical Biological Model
+Cellular Automata Models for Diffusion of Innovations
+Autonomous Traffic Signal Control Model with Neural Network Analogy
+The Bak-Chen-Tang Forest Fire Model Revisited
+Stochastic calculus: application to dynamic bifurcations and threshold crossings
+Coherence and clustering in ensembles of neural networks
+Learning from Mistakes
+Noise and dynamic transitions
+A noise-controlled dynamic bifurcation
+Emergence of Algorithmic Languages in Genetic Systems
+Self-Adaptation in Evolving Systems
+Codon Bias and Mutability in HIV Sequences
+Symmetry Breaking and Adaptation: Evidence from a Toy Model of a Virus
+Dynamics controlled by additive noise
+Emergence of Cooperation and Organization in an Evolutionary Game
+High-Speed Network Traffic Management Analysis and Optimization: Models and Methods
+Theoretical approach to biological aging
+Search for an unitary mortality law through a theoretical model for biological ageing
+Coevolution of membranes and channels: A possible step in the origin of life
+Conservation laws in coupled multiplicative random arrays lead to 1 f noise
+Analysis Synthesis and Estimation of Fractal-Rate Stochastic Point Processes
+A Two--Exponent Mass-Size Power Law for Celestial Obects
+Formal Languages in Dynamical Systems
+Organizational Fluidity and Sustainable Cooperation
+Noise-Induced Linearisation and Delinearisation
+The Limits of Mathematics---Course Outline and Software
+Belavkin-Kolokoltsov watch-dog effects in interactively controlled stochastic computer-graphic dynamic systems
+Pattern Dynamics of a Coupled Map Lattice for Open Flow
+Identification of Continuous-Time Dynamical Systems: Neural Network Based Algorithms and Parallel Implementation
+Estimating Functions of Probability Distributions from a Finite Set of Samples Part 1: Bayes Estimators and the Shannon Entropy
+Estimating Functions of Distributions from A Finite Set of Samples Part : Bayes Estimators for Mutual Information Chi-Squared Covariance and other Statistics
+A Growth Model for Dna Evolution submitted to Nature
+Statistics Of The Burst Model At Super-critical Phase
+Critical Properties of the One-Dimensional Forest-Fire Model
+Two Lane Traffic Simulations using Cellular Automata
+Statistical Inference Occam's Razor and Statistical Mechanics on The Space of Probability Distributions
+Self-Organized Criticality and 1 f Noise in Traffic
+Mass Extinctions vs. Uniformitarianism in Biological Evolution
+High dimensional properties of quenched noise growth models
+Continuum Theory with Memory for Avalanches in Self-Organized Criticality
+Algorithmic Mapping Criticality into Self Organized Criticality
+Fragmentation versus Stability in Bimodal Coalitions
+Simple Model of Large Scale Organization in Evolution
+Length Scales and Power Laws in the Two-Dimensional Forest-Fire Model
+Effects of a Magnetic Field on a Modulated Phase
+Controlling Smart Matter
+Randomness and Apparent Fractality
+Competition in a Fitness Landscape
+Rational Group Decision Making. A random field Ising model at T
+Power Markets for Controlling Smart Matter
+Self Organized Criticality in Digging Myopic Ant Model
+Speciation as Pattern Formation by Competition in a Smooth Fitness Landscape
+Statistical Measures of Complexity: Why
+A Self-Organized Critical Universe
+Cellular automata and self-organized criticality
+About Entropy and Thermalization - a Miniworkshop Perspective
+Octonions and Binocular Mobilevision
+Visualizing D Quantum Field Theory: Geometry and Informatics of Mobilevision
+The Advantage of a Multi-User Mode
+Quantum Diffusion
+Threshold Growth Dynamics
+Threshold-Range Scaling of Excitable Cellular Automata
+Solitons and 1 f Noise in Molecular Chains
+Quantum decoherence and an adiabatic process in macroscopic and mesoscopic systems
+Evolution to the Edge of Chaos in Imitation Game
+Swarms Phase Transitions and Collective Intelligence
+Dynamical Equilibrium of Interacting Ant Societies
+Stochastic Dynamics in Game Theory
+Field Theory Entropy the H -theorem and the Renormalization Group
+Analytical and computational study of magnetization switching in kinetic Ising systems with demagnetizing fields
+Scaling and correlation in financial data
+Scaling in stock market data: stable laws and beyond
+Stochastic Lotka-Volterra Systems of Competing Auto-Catalytic Agents Lead Generically to Truncated Pareto Power Wealth Distribution Truncated Levy Distribution of Market Returns Clustered Volatility Booms and Craches
+Electrodynamical model of quasi-efficient financial market
+Equilibrium and dynamical properties of two dimensional self-gravitating systems
+Gauge Physics of Finance: simple introduction
+Field Theoretical Analysis of On-line Learning of Probability Distributions
+Beliefs and Cooperation
+Modeling diffusion of innovations with probabilistic cellular automata
+Autocatalytic closure in a cognitive system: A tentative scenario for the origin of culture
+Diversity and Collective Action
+Asymptotic Behavior of Excitable Cellular Automata
+Metastability in the Greenberg-Hastings Model
+Discrimination of the Healthy and Sick Cardiac Autonomic Nervous System by a New Wavelet Analysis of Heartbeat Intervals
+Antichaos in a Class of Random Boolean Cellular Automata
+Exact solutions for a mean-field Abelian sandpile
+Dynamics of Earthquake Faults
+Cell Division Differentiation and Dynamic Clustering
+Scaling behaviour in daily air humidity fluctuations
+Parametric ordering of complex systems
+Soft Turbulence in the Atmospheric Boundary Layer
+Self-organized Criticality in Living Systems
+Nonlinear Dynamics in Distributed Systems
+Constructive Complexity and Artificial Reality: An Introduction
+Dynamics of a stochastically driven running sandpile
+A Network of Oscillators for Retrieving Phase Information
+Random Walks on a Fluctuating Lattice: A Renormalization Group Approach Applied in One Dimension
+Mapping Self-Organized Criticality onto Criticality
+Scaling and singularities in the entrainment of globally-coupled oscillators
+A Pinned Polymer Model of Posture Control
+Proportion Regulation in Globally Coupled Nonlinear Systems
+Upper Bounds for the Critical Car Densities in Traffic Flow Problems
+Statistical Theory of Sedimentation of Disordered Suspensions
+Emergent Traffic ams
+Self-Organized Critical Models Without Local Particle Conservation Laws On Superlattices
+Strong Ordering by Non-uniformity of Thresholds in a Coupled Map Lattice
+Hydrodynamic Description of Granular Convection
+Exact Results for Spatio-Temporal Correlations in a Self-Organized Critical Model of Punctuated Equilibrium
+Ground State Structure in a Highly Disordered Spin Glass Model
+Kolmogorov turbulence in a random-force-driven Burgers equation
+Chromosome mapping: radiation hybrid data and stochastic spin models
+Word Processors with Line-Wrap: Cascading Self-Organized Criticality Random Walks Diffusion Predictability
+Pattern Formation and Functionality in Swarm Models
+Mutation Accumulation and the Catastrophic Senescence of Pacific Salmon
+Long Range Anticorrelations and Non-Gaussian Behavior of a Leaky Faucet
+Kolmogorov turbulence in a random-force-driven Burgers equation: anomalous scaling and probability density functions
+Non-Mean-Field Behavior of Realistic Spin Glasses
+Exact Results of the Bit-String Model for Catastrophic Senescence
+Avalanche Dynamics in Evolution Growth and Depinning Models
+Spatial Inhomogeneity and Thermodynamic Chaos
+Reconstruction of a first-order phase transition from computer simulations of individual phases and subphases
+Comment on White-Noise-Induced Transport in Periodic Structures
+Infinite Hierarchy of Exact Equations in the Bak-Sneppen Model
+Phase Structure of Systems with Multiplicative Noise
+Learning from Minimum Entropy Queries in a Large Committee Machine
+Physical Complexity of Symbolic Sequences
+Two-dimensional cellular automaton model of traffic flow with open boundaries
+Self-Annealing Dynamics in a Multistable System
+Coupled Maps with Growth and Death: An Approach to Cell Differentiation
+Effect of time-correlation of input patterns on the convergence of on-line learning
+Power Laws are Logarithmic Boltzmann Laws
+Systems with Multiplicative Noise: Critical Behavior from KP Equation and Numerics
+A Simple Learning Algorithm for the Traveling Salesman Problem
+Ecological model of extinctions
+Spontaneous Scaling Emergence in Generic Stochastic Systems
+Emergent spatial correlations in stochastically evolving populations
+Renormalization group of probabilistic cellular automata with one absorbing state
+Quasi-Linear Cellular Automata
+Comment on Self-organized criticality in living systems by C. Adami
+Evolution on a Rugged Landscape:Pinning and Aging
+Car accidents and number of stopped cars due to road blockage on a one-lane highway
+A general learning algorithm for solving optimization problems and its application to the spin glass problem
+Individual Adaption in a Path-Based Simulation of the Freeway Network of Northrhine-Westfalia
+Experiences with a simplified microsimulation for the Dallas Fort Worth area
+Generalized Deterministic Traffic Rules
+Adaptation and Optimal Chemotactic Strategy for E. Coli
+Using microsimulation feedback for trip adaptation for realistic traffic in Dallas
+Analysis of a dissipative model of self-organized criticality with random neighbors
+First Order Nonequilibrium Phase Transition in a Spatially Extended System
+Domain formation in transitions with noise and time-dependent bifurcation parameter
+Noise and slow-fast dynamics in a three-wave resonance problem
+Random Neighbor Theory of the Olami-Feder-Christensen Earthquake Model
+Condensation in Globally Coupled Populations of Chaotic Dynamical Systems
+Classifying Rational Densities Using Two One-Dimensional Cellular Automata
+Self-Organized Criticality with Complex Scaling Exponents in the Train Model
+Multiresolution wavelet analysis of heartbeat intervals discriminates healthy patients from those with cardiac pathology
+Early-time critical dynamics of lattices of coupled chaotic maps
+Cellular automaton rules conserving the number of active sites
+Probabilistic Analysis of the Number Partitioning Problem
+Conditional exponents entropies and a measure of dynamical self-organization
+Generic Emergence of Power Law Distributions and L 'evy-Stable Intermittent Fluctuations in Discrete Logistic Systems
+Statistics of extinction and survival in Lotka-Volterra systems
+Extinction events and species lifetimes in a simple ecological model
+Coupled Oscillators with Chemotaxis
+Dynamics of Internal Models in Game Players
+Memory Effects and Macroscopic Manifestation of Randomness
+Wavelet Based Fractal Analysis of Airborne Pollen
+Autocatalytic Sets and the Growth of Complexity in an Evolutionary Model
+Emergence and Growth of Complex Networks in Adaptive Systems
+A simple model for the formation of a complex organism
+Time evolution of averages in dynamical systems driven by noise
+Modeling 1 f noise
+Clustering and synchronization with positive Lyapunov exponents
+Towards Behaviorly Realistic Simulations of the Stock Market Traders with a Soul
+Stochastic group selection model for the evolution of altruism
+The Hamming Distance in the Minority Game
+Neutral Evolution of Mutational Robustness
+Evolution in Minority Games I. Games with a Fixed Strategy Space
+Correlated random walks with a finite memory range
+Evolution dynamics in terraced NK landscapes
+Noise-induced memory in extended excitable systems
+Evolution in Minority Games II. Games with Variable Strategy Spaces
+An Exactly Soluble Hierarchical Clustering Model: Inverse Cascades Self-Similarity and Scaling
+Noise-induced breakdown of coherent collective motion in swarms
+Lyapunov Exponents in Random Boolean Networks
+Strategy Selection in the Minority Game
+Functional Dynamics I : Articulation Process
+Autoregressive model of 1 f noise
+Social Percolation
+Beyond Hebb: Exclusive-OR and Biological Learning
+Modelling Collective Opinion Formation by Means of Active Brownian Particles
+Frontiers of finance: Evolution and efficient markets
+Democracy versus Dictatorship in Self-Organized Models of Financial Markets
+The Importance of Being Discrete - Life Always Wins on the Surface
+Turbulent coronal heating and the distribution of nanoflares
+An analytic solution of the Boltzmann equation in the presence of self-generated magnetic fields in astrophysical plasmas
+Synchronization of coupled maps and stable dissipative windows
+Evolutionary Games and Computer Simulations
+Truncated horseshoes and formal languages in chaotic scattering
+Self-organized Periodic Lattices of Chaotic Defects
+Thermalization of a Brownian particle via coupling to low-dimensional chaos
+Thermodynamic Description of the Relaxation of Two-Dimensional Euler Turbulence Using Tsallis Statistics
+Density Fluctuations in Traffic Flow
+Identification of parameters in amplitude equations describing coupled wakes
+Observation of stochastic coherence in coupled map lattices
+Quantum Chaotic Dynamics and Random Polynomials
+An Exact Renormalization Group analysis of -d Well Developed turbulence
+Mode-locking in coupled map lattices
+Deterministic SR in a Piecewise Linear Chaotic Map
+Scaling and interleaving of sub-system Lyapunov exponents for spatio-temporal systems
+Noise-correlation-time-mediated localization in random nonlinear dynamical systems
+One-dimensional dynamics for travelling fronts in coupled map lattices
+Thermodynamic limit from small lattices of coupled maps
+Fractional Langevin equation to describe anomalous diffusion
+Correlations and Renormalization in Lattice Gases
+Theoretical approach to two-dimensional traffic flow models
+Confirmation of the Modified Bean Model from Simulations of Superconducting Vortices
+Stochastic Neural Networks with the Weighted Hebb Rule
+Numerical Investigation of the Evolution of Sandpiles
+Life-Times of Simulated Traffic ams
+Mean Field Theory of Sandpile Avalanches: from the Intermittent to the Continuous Flow Regime
+Transport and current reversal in stochastically driven ratchets
+Water Droplet Avalanches
+Physical tests for Random Numbers in Simulations
+Novel Phases and Finite-Size Scaling in Two-Species Asymmetric Diffusive Processes
+The Use of Hamiltonian Mechanics in Systems Driven by Colored Noise
+Self-organized criticality and synchronization in a lattice model of integrate-and-fire oscillators
+Monte Carlo with Absorbing Markov Chains: Fast Local Algorithms for Slow Dynamics
+Dynamic Scaling of Ion-Sputtered Surfaces
+Reaction-Diffusion Processes of Hard-Core Particles
+Magnetization switching in nanoscale ferromagnetic grains: description by a kinetic Ising model
+Pulse-coupled relaxation oscillators: from biological synchronization to Self-Organized Criticality
+The Computational Complexity of Generating Random Fractals
+Renormalization Group Analysis of a Noisy Kuramoto-Sivashinsky Equation
+Scaling Propagation and Kinetic Roughening of Flame Fronts in Random Media
+A Scaling Theory of Bifurcations in the Symmetric Weak-Noise Escape Problem
+Particle hopping models and traffic flow theory
+On Synchronization in a Lattice Model of Pulse-Coupled Oscillators
+Universal Short-Time Dynamics in the Kosterlitz-Thouless Phase
+Phase space geometry and slow dynamics
+Stochastic Model for Surface Erosion Via Ion-Sputtering: Dynamical Evolution from Ripple Morphology to Rough Morphology
+On Self-Organized Criticality and Synchronization in Lattice Models of Coupled Dynamical Systems
+Tracer Dispersion in a Self-Organized Critical System
+On War: The Dynamics of Vicious Civilizations
+Why Do Proteins Look Like Proteins
+Ultrametricity and Memory in a Solvable Model of Self-Organized Criticality
+Transport in Sand Piles Interface Depinning and Earthquake Models
+Apparent Fractality Emerging from Models of Random Distributions
+Survival Probability of a Gaussian Non-Markovian Process: Application to the T Dynamics of the Ising Model
+Branching Processes and Evolution at the Ends of a Food Chain
+Stability of Spatio-Temporal Structures in a Lattice Model of Pulse-Coupled Oscillators
+Crossover to Self-Organized Criticality in an Inertial Sandpile Model
+Self-Organized Short-Term Memories
+Entropic Sampling and Natural Selection in Biological Evolution
+Field Theories for Learning Probability Distributions
+The Dynamics of a Meandering River
+Critical Dynamics of Self-Organizing Eulerian Walkers
+The Dynamics of a Genetic Algorithm for a Simple Learning Problem
+Error threshold in simple landscapes
+A Monte Carlo Renormalization Group Approach to the Bak-Sneppen model
+Finite size scaling in neural networks
+Energy flow partial equilibration and effective temperatures in systems with slow dynamics
+Error threshold in the evolution of diploid organisms
+The metastate approach to thermodynamic chaos
+Symmetries and Fixed Point Stability of Stochastic Differential Equations Modeling Self-Organized Criticality
+Maority-Vote Cellular Automata Ising Dynamics and P-Completeness
+Aging in a Model of Self-Organized Criticality
+Self-Organized Criticality Driven by Deterministic Rules
+Spatiotemporal Stochastic Resonance in the Swift-Hohenberg Equation
+Effect of the Output of the System in Signal Detection
+Stochastic Multiresonance
+On-Line AdaTron Learning of Unlearnable Rules
+On-line learning of non-monotonic rules by simple perceptron
+Lacunarity of Random Fractals
+Limited Range Fractality of Randomly Adsorbed Rods
+Avalanches and Waves in the Abelian Sandpile Model
+Solvable dynamics in a system of interacting random tops
+amming transition in a cellular automaton model for traffic flow
+Aging Exponents in Self-Organized Criticality
+Sandpile Model with Activity Inhibition
+Power Law Scaling for a System of Interacting Units with Complex Internal Structure
+Stationary Velocity Distributions in Traffic Flows
+Are Protein Folds Atypical
+A Prototype Model of Stock Exchange
+Error threshold in finite populations
+Equilibrium Chemical Engines
+Brownian Motors driven by Particle Exchange
+Noise induced transport at zero temperature
+Avalanche Mixing of Granular Solids
+Self-organized criticality as an absorbing-state phase transition
+Two-lane traffic rules for cellular automata: A systematic approach
+Mechanisms of synchronization and pattern formation in a lattice of pulse-coupled oscillators
+Interacting Individuals Leading to ipf's Law
+Comment on: Role of Intermittency in Urban Development: A Model of Large-Scale City Formation
+Burgers' Flows as Markovian Diffusion Processes
+Self Organization of Interacting Polya Urns
+Volatility and Agent Adaptability in a Self-Organizing Market
+A Simple Model of Superconducting Vortex Avalanches
+Evolution of avalanche conducting states in electrorheological liquids
+A solvable model of the evolutionary loop
+Phase Transition in the Number Partitioning Problem
+Matrix Games Mixed Strategies and Statistical Mechanics
+Critical Exponents for Nuclear Multifragmentation: dynamical lattice model
+Self-organization of traffic ams in cities: effects of stochastic dynamics and signal periods
+Self-Organized Segregation within an Evolving Population
+Competition efficiency and collective behavior in the El Farol bar model
+Self-Organized States in Cellular Automata: Exact Solution
+Genetic Correlations in Mutation Processes
+Irrelevance of memory in the minority game
+Competing Species Dynamics: Qualitative Advantage versus Geography
+Braided Rivers and Superconducting Vortex Avalanches
+A self-similar model for shear flows in dense granular materials
+Extremal Optimization of Graph Partitioning at the Percolation Threshold
+1 f Noise and Long Configuration Memory in Bak-Tang-Wiesenfeld Models on Narrow Stripes
+Genetic algorithm dynamics on a rugged landscape
+Annealing schedule from population dynamics
+Critical and Near-Critical Branching Processes
+Small-world networks: Evidence for a crossover picture
+Avalanche Merging and Continuous Flow in a Sandpile Model
+Enhanced winnings in a mixed-ability population playing a minority game
+Minority game with arbitrary cutoffs
+Renormalization group analysis of the small-world network model
+A thermal model for adaptive competition in a market
+Phase Transition and Symmetry Breaking in the Minority Game
+Scaling and percolation in the small-world network model
+Phase Diagram Of The Biham-Middleton-Levine Traffic Model In Three Dimensions
+Evolutionary freezing in a competitive population
+Entropy and typical properties of Nash equilibria in two-player games
+Self-organized Networks of Competing Boolean Agents
+Self-organized evolution in socio-economic environments
+Capital flow in a two-component dynamical system
+The diameter of the world wide web
+Mean-field theory for scale-free random networks
+Download relaxation dynamics on the WWW following newspaper publication of URL
+A ratchet driven by quasimonochromatic noise
+Exact solution of a modified El Farol's bar problem: Efficiency and the role of market impact
+Enhancement of Stochastic Resonance in distributed systems due to a selective coupling
+Temperature scaling glassiness and stationarity in the Bak-Sneppen model
+Critical behavior of a cellular automaton highway traffic model
+Dynamics of competition between collectivity and noise in the stock market
+Collective Intelligence for Control of Distributed Dynamical Systems
+Propagating spin modes in canonical quantum gravity
+Static Friction Phenomena in Granular Materials: Coulomb Law vs. Particle Geometry
+Oscillons in a Hot Heat Bath
+Predicting Non-linear Cellular Automata Quickly by Decomposing Them into Linear Ones
+Asymptotic description of transients and synchronized states of globally coupled oscillators
+Towards a Simple Model of Compressible Alfvenic Turbulence
+Fluid Models for Kinetic Effects on Coherent Nonlinear Alfven Waves. I. Fundamental Theory
+Fluid Models for Kinetic Effects on Coherent Nonlinear Alfven Waves. II. Numerical Solutions
+Resonance Broadening Induced Nonlinear Saturation of Kinetic Alfven Turbulence in the Interplanetary Plasma
+A Simple Model of Evolution with Variable System Size
+The split density model: a unified description of polarization and array dynamics for vertical cavity surface emitting lasers
+Polarization fluctuations in vertical cavity surface emitting lasers: a key to the mechanism behind polarization stability
+Dissipative Dynamics of Collisionless Nonlinear Alfven Wave Trains
+Neutral Mutations and Punctuated Equilibrium in Evolving Genetic Networks
+Spontaneous emission spectrum of the non-lasing supermodes in semiconductor laser arrays
+Aftershocks in Coherent-Noise Models
+Spatial holeburning effects in the amplified spontaneous emission spectra of the non-lasing supermode in semiconductor laser arrays
+Cooperative dynamics in auditory brain response
+Quantum Maxwell-Bloch equations for spatially inhomogeneous semiconductor lasers
+Lifetimes of agents under external stress
+Adaptive walks on time-dependent fitness landscapes
+Dynamic Fitness Landscapes in Molecular Evolution
+Feynman-Kac Kernels in Markovian Representations of the Schroedinger Interpolating Dynamics
+Quantum Noise and Polarization Fluctuations in Vertical Cavity Surface Emitting Lasers
+Thermal photon statistics in laser light above threshold
+The Study of Correlation Structures of DNA Sequences: A Critical Review
+A Complete Enumeration and Classification of Two-Locus Disease Models
+Distributed Self-regulation Induced by Negative Feedbacks in Ecological and Economic Systems
+The Dynamics of Money
+Flame front propagation II: Random Noise and Pole-Dynamics in Unstable Front Propagation
+The Measure of Compositional Heterogeneity in DNA Sequences Is Related to Measures of Complexity
+Analyzing Social Network Structures in the Iterated Prisoner's Dilemma with Choice and Refusal
+Hydrodynamic effects in density waves of granular flows
+Onsager reciprocity relations without microscopic reversibility
+Molecular dynamics of arbitrarily shaped granular particles
+Stable Adaptive Control Using New Critic Designs
+Herd behavior and aggregate fluctuations in financial markets
+Replica Symmetry Breaking in Short-Range Spin Glasses: Theoretical Foundations and Numerical Evidences

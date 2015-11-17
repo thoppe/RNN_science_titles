@@ -1,0 +1,229 @@
+Sweave Documentation for Implementing Markov chain Monte Carlo: Estimating with confidence
+Hotelling's test for highly correlated data
+The two sample problem: Exact distributions numerical solutions simulations
+Development and Initial Validation of a Scale to Measure Instructors' Attitudes toward Concept-Based Teaching of Introductory Statistics in the Health and Behavioral Sciences
+L p -nested symmetric distributions
+Tests of Non-Equivalence among Absolutely Nonsingular Tensors through Geometric Invariants
+Extreme shock models: an alternative perspective
+A brief history of the Fail Safe Number in Applied Research
+A Conversation with ames Hannan
+A Conversation with Martin Bradbury Wilk
+A Unified MGF-Based Capacity Analysis of Diversity Combiners over Generalized Fading Channels
+Squaring the Circle and Cubing the Sphere: Circular and Spherical Copulas
+Simultaneous concentration of order statistics
+Array Variate Elliptical Random Variables with Multiway Kronecker Delta Covariance Matrix Structure
+B o ogg Bang drives global climate change
+A Conversation with George G Roussas
+Baby Morse Theory in Data Analysis
+Organisation of signal flow in directed networks
+Statistical Inference: The Big Picture
+Widely Linear vs Conventional Subspace-Based Estimation of SIMO Flat-Fading Channels: Mean-Squared Error Analysis
+Cooperative spectrum sensing over unreliable reporting channel
+Some notes on biasedness and unbiasedness of two-sample Kolmogorov-Smirnov test
+A flexible observed factor model with separate dynamics for the factor volatilities and their correlation matrix
+Revealing Sub-Optimality Conditions of Strategic Decisions
+Which are the best cities for psychology research worldwide A map visualizing city ratios of observed and expected numbers of highly-cited papers
+Boundary detection in disease mapping studies
+Some properties of the moment estimator of shape parameter for the gamma distribution
+Extreme value and record statistics in heavy-tailed processes with long-range memory
+The Product Life Cycle of Durable Goods
+Technical Report: Energy Evaluation of preamble Sampling MAC Protocols for Wireless Sensor Networks
+A Statistical Significance Simulation Study for the General Scientist
+A Markov Chain approach to determine the optimal performance period and bad definition for credit scorecard
+Order preserving property of moment estimators
+Modern Portfolio Theory using SAS textregistered OR
+Dynamic Clustering of Histogram Data Based on Adaptive Squared Wasserstein Distances
+Estimation of time-delayed mutual information and bias for irregularly and sparsely sampled time-series
+Contending Parties: A Logistic Choice Analysis of Inter- and Intra-group Blog Citation Dynamics in the  US Presidential Election
+Markov Equivalences for Subclasses of Loopless Mixed Graphs
+Effects of dimers on cooperation in the spatial prisoner's dilemma game
+Inherent Difficulties of Non-Bayesian Likelihood-based Inference as Revealed by an Examination of a Recent Book by Aitkin
+Removing Gaussian Noise by Optimization of Weights in Non-Local Means
+Model Selection in Undirected Graphical Models with the Elastic Net
+On a connection between Stein characterizations and Fisher information
+Degrees of Equivalence in a Key Comparison
+Parameter estimation for the discretely observed fractional Ornstein-Uhlenbeck process and the uima R package
+Generalized hyper Markov laws for directed acyclic graphs
+It is Time to Stop Teaching Frequentism to Non-statisticians
+Voting Power : A Generalised Framework
+A Brief History of the Statistics Department of the University of California at Berkeley
+Partially-blind Estimation of Reciprocal Channels for AF Two-Way Relay Networks Employing M-PSK Modulation
+A Proof on Asymptotics of Wavelet Variance of a Long Memory Process by Using Taylor Expansion
+Blind Channel Estimation for Amplify-and-Forward Two-Way Relay Networks Employing M-PSK Modulation
+Performance-based regularization in mean-CVaR portfolio optimization
+A divergence formula for regularization methods with an L constraint
+Note on the closed-form MLEs of k-component load-sharing systems
+Parameter Estimation from Censored Samples using the Expectation-Maximization Algorithm
+Estimating a Random Walk First-Passage Time from Noisy or Delayed Observations
+Why FARIMA Models are Brittle
+Reading Theorie Analytique des Probabilites
+Sparse solution of overdetermined linear systems when the columns of A are orthogonal
+The macroeconomic effect of the information and communication technology in Hungary
+Parameterization of Copulas and Covariance Decay of Stochastic Processes with Applications
+Algorithm for multivariate data standardization up to third moment
+Phasetype distributions autoregressive processes and overshoot
+Estimation of spatial max-stable models using threshold exceedances
+Uncertainties and Ambiguities in Percentiles and how to Avoid Them
+Forecasting with Historical Data or Process Knowledge under Misspecification: A Comparison
+In praise of the referee
+A Conversation with Eugenio Regazzini
+Networks with time structure from time series
+Not only defended but also applied : The perceived absurdity of Bayesian inference
+Grouped sparse paired comparisons in the Bradley-Terry model
+A Fast Non-Gaussian Bayesian Matching Pursuit Method for Sparse Reconstruction
+Linear regression for numeric symbolic variables: an ordinary least squares approach based on Wasserstein Distance
+What is Statistics The Answer by uantum Language
+A statistical view on team handball results: home advantage team fitness and prediction of match outcomes
+A Markovian growth dynamics on rooted binary trees evolving according to the Gompertz curve
+Measurement error and deconvolution in spaces of generalized functions
+A Concise Resolution to the Two Envelope Paradox
+Unified Analysis of Transmit Antenna Selection Space-Time Block Coding with Receive Selection and Combining over Nakagami-m Fading Channels in the Presence of Feedback Errors
+Biologists meet statisticians: A workshop for young scientists to foster interdisciplinary team work
+Using complex surveys to estimate the L  -median of a functional variable: application to electricity load curves
+Vine Constructions of Levy Copulas
+Probability Distribution of the uality Factor of a Mode-Stirred Reverberation Chamber
+On the age- time- and migration dependent dynamics of diseases
+Calculation of Some Expected Values for Parameterized Mean Model with Gaussian Noise
+On the Performance of Transmit Antenna Selection Based on Shadowing Side Information
+On Control Charts for Monitoring the Variance of a Time Series
+Coexistence of cooperators and defectors in well mixed populations mediated by limiting resources
+Densities of nested Archimedean copulas
+Efficient Forward Simulation of Fisher-Wright Populations with Stochastic Population Size and Neutral Single Step Mutations in Haplotypes
+The anti-Bayesian moment and its passing
+Estimators for Archimedean copulas in high dimensions
+Demmartingales and the functionnal Hill process for small parameters
+Does the specification of uncertainty hurt the progress of scientometrics
+DBKGrad: An R Package for Mortality Rates Graduation by Fixed and Adaptive Discrete Beta Kernel Techniques
+Benford's law: A theoretical explanation for base 
+Locally Most Powerful Invariant Tests for Correlation and Sphericity of Gaussian Vectors
+On individual neutrality and collective decision making
+A paradox on the spectral representation of stationary random processes
+Perceptive Statistical Variability Indicators
+The generalized lognormal distribution and the Stieltjes moment problem
+A Generalized Fellegi-Sunter Framework for Multiple Record Linkage With Application to Homicide Record Systems
+Stochastic dynamical model of a growing network based on self-exciting point process
+Propagation of initial errors on the parameters for linear and Gaussian state space models
+A Peer-based Model of Fat-tailed Outcomes
+EM-based Semi-blind Channel Estimation in AF Two-Way Relay Networks
+A Generalization of a Gaussian Semiparametric Estimator on Multivariate Long-Range Dependent Processes
+Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets
+Deep Impact: Unintended consequences of journal rank
+From Ordinary Differential Equations to Structural Causal Models: the deterministic case
+Bayesian Modeling and MCMC Computation in Linear Logistic Regression for Presence-only Data
+Review of: Mixed Effects Models and Extensions in Ecology with R
+Maximum lilkelihood estimation in the beta -model
+On a Reliable Peer-Review Process
+On moment indeterminacy of the Benini income distribution
+Evolutionary Model of a Anonymous Consumer Durable Market
+Is there currently a scientific revolution in scientometrics
+The normalization of citation counts based on classification systems
+Extremal t processes: Elliptical domain of attraction and a spectral representation
+The factor paradox: Common factors can be correlated with the variance not accounted for by the common factors
+Foundations of Descriptive and Inferential Statistics
+Decision Making for Inconsistent Expert udgments Using Negative Probabilities
+On the asymptotics of Ajtai-Koml 'os-Tusn 'ady statistics
+I hear I forget I do I understand: a modified Moore-method mathematical statistics course
+A Conversation with Stephen E Fienberg
+Meeting Student Needs for Multivariate Data Analysis: A Case Study in Teaching a Multivariate Data Analysis Course with No Pre-requisites
+Generalized Thompson Sampling for Contextual Bandits
+Statistical Inference in Dynamic Treatment Regimes
+Hypergeometric tail inequalities: ending the insanity
+Filters and smoothers for self-exciting Markov modulated counting processes
+Stable mixed graphs
+An agent-based epidemiological model of incarceration
+Basic univariate and bivariate statistics for symbolic data: a critical review
+Statistical inference for exponential functionals of L 'evy processes
+Co-jumps and Markov counting systems in random environments
+Generative Growth Model for Power Grids
+Teaching precursors to data science in introductory and second courses in statistics
+The phenotypic expansion and its boundaries
+Cognitive Constructivism and the Epistemic Significance of Sharp Statistical Hypotheses in Natural Sciences
+Cramer-Rao-Induced Bounds for CANDECOMP PARAFAC tensor decomposition
+A Unified Community Detection Visualization and Analysis method
+On the Measurement of Economic Tail Risk
+Inhomogeneous K-function for germ-grain models
+Null hypothesis significance tests: A mix-up of two different theories the basis for widespread confusion and numerous misinterpretations
+Donald Arthur Preece: A life in statistics mathematics and music
+Markov properties for mixed graphs
+Experimental design for Partially Observed Markov Decision Processes
+Index Distribution of Cauchy Random Matrices
+Trajectory composition of Poisson time changes and Markov counting systems
+A method for comparing chess openings
+Claude Bouchu intendant de Bourgogne au  eme si ecle a-t-il invent 'e le mot statistique
+KernSmoothIRT: An R Package for Kernel Smoothing in Item Response Theory
+Intrinsic posterior regret gamma-minimax estimation for the exponential family of distributions
+On Renyi entropy convergence of the max domain of attraction
+Spectral Correlation Hub Screening of Multivariate Time Series
+Principal bundles over statistical manifolds
+Network impact on persistence in a finite population dynamic diffusion model: application to an emergent seed exchange network
+Rao-Blackwellization to give Improved Estimates in Multiple Survey Studies
+Validating Sample Average Approximation Solutions with Negatively Dependent Batches
+Conditional quantile estimation through optimal quantization
+The Sociotype a New Conceptual Construct on Human Social Networks: Application in Mental Health and uality of Life
+Discussion of Single and Two-Stage Cross-Sectional and Time Series Benchmarking Procedures for SAE
+Bayesian hierarchical modelling for inferring genetic interactions in yeast
+Marginalization and Conditioning for LWF Chain Graphs
+The Multivariate S n Estimator
+Phase transitions in the condition number distribution of Gaussian random matrices
+Pythagoras at the Bat
+Generalized probabilities in statistical theories
+Using Google Scholar to predict self citation: A case study in Health Economics
+Spectrum Estimation: A Unified Framework for Covariance Matrix Estimation and PCA in Large Dimensions
+Moments and Absolute Moments of the Normal Distribution
+Effective Degrees of Freedom: A Flawed Metaphor
+Using an Online Learning Environment to Teach an Undergraduate Statistics Course: the tutor-web
+Which of the world's institutions employ the most highly cited researchers An analysis of the data from highlycitedcom
+Tractable Measure of Component Overlap for Gaussian Mixture Models
+Developing methods for identifying the inflection point of a convex concave curve
+Extremes of Order Statistics of Stationary Processes
+The Final Solutions of Monty Hall Problem and Three Prisoners Problem
+Graphs for margins of Bayesian networks
+Uniform bias study and Bahadur representation for local polynomial estimators of the conditional quantile function
+Confidence-based Optimization for the Newsvendor Problem
+The two envelopes paradox in non-Bayesian and Bayesian statistics
+Invariant sums of random matrices and the onset of level repulsion
+Revealing the Beauty behind the Sleeping Beauty Problem
+Differentially Private Exponential Random Graphs
+Identifying the number of clusters in discrete mixture models
+Parametric Risk Parity
+A Conversation with Donald B Rubin
+Statistique et Big Data Analytics Volum 'etrie L'Attaque des Clones
+Computer experiments with functional inputs and scalar outputs by a norm-based approach
+Using Board Games and Mathematica to Teach the Fundamentals of Finite Stationary Markov Chains
+Piterbarg's max-discretisation theorem for stationary vector Gaussian processes observed on different grids
+Data Science in the Statistics Curricula: Preparing Students to Think with Data
+Distributed Detection of a Random Process over a Multiple Access Channel under Energy and Bandwidth Constraints
+A Conversation with Howell Tong
+Estimating the Tail Index by using Model Averaging
+Technical Report: Compressive Temporal Higher Order Cyclostationary Statistics
+Confidence-based Reasoning in Stochastic Constraint Programming
+A brief history of long memory
+How to read probability distributions as statements about process
+Tree Oriented Data Analysis
+Precinct Size Matters - The Large Precinct Bias in US Presidential Elections
+A note on Bayesian logistic regression for spatial exponential family Gibbs point processes
+Parametric Order Constraints in Multinomial Processing Tree Models: An Extension of Knapp and Batchelder 
+Three ualitative Differences Between Bayes Factors and Normalized Maximum Likelihood
+Convergence rates of maximal deviation distribution for projection estimates of L 'evy densities
+uantile of a Mixture
+What Teachers Should Know about the Bootstrap: Resampling in the Undergraduate Statistics Curriculum
+A mobile web for enhancing statistics and mathematics education
+Methods for the generation of normalized citation impact scores in bibliometrics: Which method best reflects the judgements of experts
+A Class of Conjugate Priors Defined on the Unit Simplex
+Distinguishing cause from effect using observational data: methods and benchmarks
+Generalized Labeled Multi-Bernoulli Approximation of Multi-Object Densities
+Nonparametric estimation of the division rate of an age dependent branching process
+From Curriculum Guidelines to Learning Objectives: A Survey of Five Statistics Programs
+Asymptotics of the convex hull of spherical samples
+R Markdown: Integrating A Reproducible Analysis Tool into Introductory Statistics
+Network Analysis with the Enron Email Corpus
+On testing More IFRA Ordering-II
+The Compass for Statistical Researchers
+Creating Automating and Assessing Online Homework in Introductory Statistics and Mathematics Classes
+The Problem Of Grue Isn't
+Robust Hypothesis Testing with alpha -Divergence
+Non-Orthogonal Tensor Diagonalization a Tool for Block Tensor Decompositions
+Setting the stage for data science: integration of data management skills in introductory and second courses in statistics
+What are the true clusters
+A comparative review of generalizations of the extreme value distribution
+On Statistical Analysis of the Pattern of Evolution of Perceived Emotions Induced by Hindustani Music- A Study Based on Listener Responses

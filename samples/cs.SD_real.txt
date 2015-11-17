@@ -1,0 +1,290 @@
+Structural Health Monitoring Using Neural Network Based Vibrational System Identification
+Online Correction of Dispersion Error in D Waveguide Meshes
+DISCO: An obect-oriented system for music composition and sound design
+Data sonification and sound visualization
+The Sound Manifesto
+Source-Filter Decomposition of Harmonic Sounds
+Flexible Software Framework for Modal Synthesis
+Towards Experimental Nanosound Using Almost Disoint Set Theory
+Models and Tools for Collaborative Annotation
+Creating Annotation Tools with the Annotation Graph Toolkit
+TableTrans MultiTrans InterTrans and TreeTrans: Diverse Tools Built on the Annotation Graph Toolkit
+Sotto Voce: Exploring the Interplay of Conversation and Mobile Audio Spaces
+Algorithmic Clustering of Music
+The Mad Hatter acute s Cocktail Party: A Social Mobile Audio Space Supporting Multiple Simultaneous Conversations
+Detecting User Engagement in Everyday Conversations
+Voiced speech as secondary response of a self-consistent fundamental drive
+Accommodating Sample Size Effect on Similarity Measures in Speaker Clustering
+Alignment of Speech to Highly Imperfect Text Transcriptions
+Algorithm of Segment-Syllabic Synthesis in Speech Recognition Problem
+Treatment of sound on quantum computers
+Local Area Damage Detection in Composite Structures Using Piezoelectric Transducers
+Phase space methods and psychoacoustic models in lossy transform coding
+Improved Linear Parallel Interference Cancellers
+On the Robustness of the Delay-Based Fingerprint Embedding Scheme
+DSP Based System for Real time Voice Synthesis Applications Development
+Audio Classification from Time-Frequency Texture
+A Statistical Approach to Modeling Indian Classical Music Performance
+Which notes are Vadi-Samvadi in Raga Rageshree
+TR0: Time-continuous Sparse Imputation
+ilax: a New Musical Audio Format for Active Listening
+A Unified Theory of Time-Frequency Reassignment
+TR0: State dependent oracle masks for improved dynamical features
+Complexity time and music
+The Modular Audio Recognition Framework MARF and its Applications: Scientific and Software Engineering Notes
+Inter Genre Similarity Modelling For Automatic Music Genre Classification
+Maor and minor The formula of musical emotions
+Codebook Design Method for Noise Robust Speaker Identification based on Genetic Algorithm
+Improvement of Text Dependent Speaker Identification System Using Neuro-Genetic Hybrid Algorithm in Office Environmental Conditions
+Fractionally-addressed delay lines
+Orthogonal Least Squares Algorithm for the Approximation of a Map and its Derivatives with a RBF Network
+Generalization of a -D resonator model for the simulation of spherical enclosures
+Signal-Theoretic Characterization of Waveguide Mesh Geometries for Models of Two--Dimensional Wave Propagation in Elastic Media
+Pitch Tracking of Acoustic Signals based on Average Squared Mean Difference Function
+Noise Speech wavelet analyzing in special time ranges
+Musical Genres: Beating to the Rhythms of Different Drums
+G : GENESIS software envrionment update
+Using state space differential geometry for nonlinear blind source separation
+A Digital Guitar Tuner
+New Ica-Beamforming Method to Under-Determined BSS
+On Design and Implementation of the Distributed Modular Audio Recognition Framework: Requirements and Specification Design Document
+Optimal control theory : a method for the design of wind instruments
+Speech Recognition of the letter zha in Tamil Language using HMM
+Particle Filtering on the Audio Localization Manifold
+Up-sampling and Natural Sample Value Computation for Digital Pulse Width Modulators
+Spoken Language Identification Using Hybrid Feature Extraction Methods
+Wavelet-Based Mel-Frequency Cepstral Coefficients for Speaker Identification using Hidden Markov Models
+Superposition frames for adaptive time-frequency analysis and fast reconstruction
+A New Variable Threshold and Dynamic Step Size Based Active Noise Control System for Improving Performance
+Perceptual analyses of action-related impact sounds
+Audio enabled information extraction system for cricket and hockey domains
+Intelligent System for Speaker Identification using Lip features with PCA and ICA
+A basic gesture and motion format for virtual reality multisensory applications
+Improved Method for Individualization of Head-Related Transfer Functions on Horizontal Plane Using Reduced Number of Anthropometric Measurements
+Haptics in computer music : a paradigm shift
+Treatment the Effects of Studio Wall Resonance and Coincidence Phenomena for Recording Noisy Speech Via FPGA Digital Filter
+Dichotic harmony for the musical practice
+A Study on the Interactive HOPSCOTCH Game for the Children Using Computer Music Techniques
+A high speed unsupervised speaker retrieval using vector quantization and second-order statistics
+Estimation of Infants Cry Fundamental Frequency using a Modified SIFT algorithm
+A Fast Audio Clustering Using Vector uantization and Second Order Statistics
+Speaker Identification using MFCC-Domain Support Vector Machine
+Approximate Maximum A Posteriori Inference with Entropic Priors
+Alternatives to speech in low bit rate communication systems
+Should Corpora be Big Rich or Dense
+Universal patterns in sound amplitudes of songs and music genres
+Detecting gross alignment errors in the Spoken British National Corpus
+Untangling Phase and Time in Monophonic Sounds
+Music By Numbers
+Autotagging music with conditional restricted Boltzmann machines
+Sampling-rate-aware noise generation
+Compiling Signal Processing Code embedded in Haskell via LLVM
+Liquidsoap: a High-Level Programming Language for Multimedia Streaming
+Topological Considerations for Tuning and Fingering Stringed Instruments
+Improving Performance of Speaker Identification System Using Complementary Information Fusion
+Simulating the Electroweak Phase Transition: Sonification of Bubble Nucleation
+A Novel Adaptive Channel Equalization Method Using Variable Step-Size Partial Rank Algorithm
+A Fast Affine Proection Algorithm Based on Matching Pursuit in Adaptive Noise Cancellation for Speech Enhancement
+A Family of Adaptive Filter Algorithms in Noise Cancellation for Speech Enhancement
+Open-loop multi-channel inversion of room impulse response
+Computational approach to multifractal music
+On Macroscopic Complexity and Perceptual Coding
+Estimation of Severity of Speech Disability through Speech Envelope
+An end-to-end machine learning system for harmonic analysis of music
+Application of Gammachirp Auditory Filter as a Continuous Wavelet Analysis
+The Information Theory of Emotions of Musical Chords
+R enyi Information Measures for Spectral Change Detection
+Fractal String Generation and Its Application in Music Composition
+A Reduced Multiple Gabor Frame for Local Time Adaptation of the Spectrogram
+An Entropy Based Method for Local Time-Adaptation of the Spectrogram
+Sound Analysis and Synthesis Adaptive in Time and Two Frequency Bands
+Discovering novel computer music techniques by exploring the space of short computer programs
+Ricean Shadowed Statistical Characterization of Shallow Water Acoustic Channels for Wireless Communications
+A general framework for online audio source separation
+Optimization of frequency quantization
+Musical Modes Their Associated Chords and Their Musicality
+Live-Musikprogrammierung in Haskell
+On an Ethical Use of Neural Networks: A Case Study on a North Indian Raga
+Can the evolution of music be analyzed in a quantitative manner
+Complexity-entropy causality plane: a useful approach for distinguishing songs
+Entropy-based Tuning of Musical Instruments
+Employing Subsequence Matching in Audio Data Processing
+Using Mimicry to Learn about Mental Representations
+Transference Retrieval of Pulse-code modulation Audio over Short Messaging Service
+Real-time am-session support system
+A comparative study of performance of fpga based mel filter bank bark filter bank
+Measuring the evolution of contemporary western popular music
+Modeling Temporal Dependencies in High-Dimensional Sequences: Application to Polyphonic Music Generation and Transcription
+Variational Inference in Non-negative Factorial Hidden Markov Models for Efficient Audio Source Separation
+Analysis of speech under stress using Linear techniques and Non-Linear techniques for emotion recognition system
+Evolving Musical Counterpoint: The Chronopoint Musical Evolution System
+Algorithm to suppress scanner noise in recorded speech during functional magnetic resonance imaging
+Analysis of a Modern Voice Morphing Approach using Gaussian Mixture Models for Laryngectomees
+Stereo Acoustic Perception based on Real Time Video Acquisition for Navigational Assistance
+MIDI-LAB a Powerful Visual Basic Program for Creating MIDI Music
+The Stationary Phase Approximation Time-Frequency Decomposition and Auditory Processing
+ARMA: alman-based autoregressive moving average modeling and inference for formant and antiformant tracking
+How far are vowel formants from computed vocal tract resonances
+A novel method for obtaining a better quality speech signal for cochlear Implants using kalman with drnl and ssb technique
+Comparison of Speech Activity Detection Techniques for Speaker Recognition
+Spatial Auditory BCI Paradigm Utilizing N00 and P00 Responses
+The Spatial Real and Virtual Sound Stimuli Optimization for the Auditory BCI
+Blind speech separation based on undecimated wavelet packet-perceptual filterbanks and independent component analysis
+Structured Sparsity Models for Multiparty Speech Recovery from Reverberant Recordings
+A nuclear-norm based convex formulation for informed source separation
+Maximally Informative Observables and Categorical Perception
+Single-sided Real-time PES Score Estimation
+About Multichannel Speech Signal Extraction and Separation Techniques
+Usable Speech Assignment for Speaker Identification under Co-Channel Situation
+Evaluation of a Multi-Resolution Dyadic Wavelet Transform Method for usable Speech Detection
+An Extensive Analysis of uery by Singing Humming System Through uery Proportion
+An Approach for Classification of Dysfluent and Fluent Speech Using -NN And SVM
+A Mixed Graphical Model for Rhythmic Parsing
+Maximum a posteriori estimation of piecewise arcs in tempo time-series
+Beyond Markov Chains Towards Adaptive Memristor Network-based Music Generation
+An ANN-based Method for Detecting Vocal Fold Pathology
+Finite element computation of elliptical vocal tract impedances using the two-microphone transfer function method
+Phoneme discrimination using S algebra I
+Phoneme discrimination using S -algebra II
+Sound localization using compressive sensing
+Consistent Iterative Hard Thresholding For Signal Declipping
+An Adaptive Methodology for Ubiquitous ASR System
+Parameters Optimization for Improving ASR Performance in Adverse Real World Noisy Environmental Conditions
+Adverse Conditions and ASR Techniques for Robust Speech User Interface
+Live music programming in Haskell
+Translation-Invariant Shrinkage Thresholding of Group Sparse Signals
+Toward Evolution Strategies Application in Automatic Polyphonic Music Transcription using Electronic Synthesis
+Multi-Label Classifier Chains for Bird Sound
+Exploration of Speech enabled System for English
+Acoustic Echo Cancellation Postfilter Design Issues For Speech Recognition System
+Techniques for Feature Extraction In Speech Recognition System : A Comparative Study
+Speech Enhancement Modeling Towards Robust Speech Recognition System
+Speech Enhancement Using Pitch Detection Approach For Noisy Environment
+A study for the effect of the Emphaticness and language and dialect for Voice Onset Time VOT in Modern Standard Arabic MSA
+Opportunities Challenges In Automatic Speech Recognition
+An Overview of Hindi Speech Recognition
+Automatic Speech Recognition Using Template Model for Man-Machine Interface
+A Comparison of Random Forests and Ferns on Recognition of Instruments in azz Recordings
+The distribution of calibrated likelihood-ratios in speaker recognition
+North Atlantic Right Whale Contact Call Detection
+The GTAN dataset: Its contents its faults their effects on evaluation and its future use
+A 0-dimensional Phonetic-prosodic Space and its Stochastic Structure A framework for probabilistic modeling of spoken languages and their phonology
+On the Mathematics of Music: From Chords to Fourier Analysis
+Robust Support Vector Machines for Speaker Verification Task
+An automatic volume control for preserving intelligibility
+The Orchive : Data mining a massive bioacoustic archive
+Speaker Independent Continuous Speech to Text Converter for Mobile Application
+Speech Enhancement using ernel and Normalized ernel Affine Proection Algorithm
+Non-negative Matrix Factorization with Linear Constraints for Single-Channel Speech Enhancement
+Feature Learning with Gaussian Restricted Boltzmann Machine for Robust Speech Recognition
+An open dataset for research on audio field recording archives: freefield00
+A Synthesizer Based on Frequency-Phase Analysis and Square Waves
+Nonorthogonal Bases and Phase Decomposition: Properties and Applications
+Denoising Deep Neural Networks Based Voice Activity Detection
+Audio Texture Synthesis with Scattering Moments
+Phoneme discrimination using neurons with symmetric nonlinear response over a spectral range
+An Intuitive Design Approach For Implementing Real Time Audio Effects
+Obets Sonores: Une Repr esentation Bio-Inspir ee Hi erarchique Parcimonieuse A Tr es Grandes Dimensions Utilisable En Reconnaissance Auditory Obects: Bio-Inspired Hierarchical Sparse High Dimensional Representation for Recognition
+Reverberant Audio Source Separation via Sparse and Low-Rank Modeling
+A Simple Method to Produce Algorithmic MIDI Music based on Randomness Simple Probabilities and Multi-Threading
+A Hybrid Approach for Co-Channel Speech Segregation based on CASA HMM Multipitch Tracking and Medium Frame Harmonic Model
+A Subband-Based SVM Front-End for Robust ASR
+External Tonehole Interactions in Woodwind Instruments
+Sparse complex-valued representations of natural sounds learned with phase and amplitude continuity priors
+TDOA--based localization in two dimensions: the bifurcation curve
+A comprehensive analysis of the geometry of TDOA maps in localisation problems
+Software Requirement Specification Using Reverse Speech Technology
+Auto Spell Suggestion for High uality Speech Synthesis in Hindi
+Sound Representation and Classification Benchmark for Domestic Robots
+Maximizing the Signal-to-Alias Ratio in Non-Uniform Filter Banks for Acoustic Echo Cancellation
+Topology of Musical Data
+Efficient coding of spectrotemporal binaural sounds leads to emergence of the auditory space representation
+Natural statistics of binaural sounds
+A Taxonomy for Attack Patterns on Information Flows in Component-Based Operating Systems
+Sparse DOA Estimation of Wideband Sound Sources Using Circular Harmonics
+A quantitative approach to evolution of music and philosophy
+Automatic Segmentation of Broadcast News Audio using Self Similarity Matrix
+Constrained speaker linking
+Multi-label Ferns for Efficient Recognition of Musical Instruments in Recordings
+Using perceptually defined music features in music information retrieval
+A Deep Representation for Invariance And Music Classification
+High Throughput and Less Area AMP Architecture for Audio Signal Restoration
+Idealized computational models for auditory receptive fields
+A Stochastic Temporal Model of Polyphonic MIDI Performance with Ornaments
+Improving Blind Source Separation Performance By Adaptive Array Geometries For Humanoid Robots
+Harmony Perception by Periodicity Detection
+Exemplar Dynamics Models of the Stability of Phonological Categories
+Design and Optimization of a Speech Recognition Front-End for Distant-Talking Control of a Music Playback Device
+Trends and Perspectives for Signal Processing in Consumer Audio
+Sparsity-Aware Filtered- Affine Proection Algorithms for Active Noise Control
+Harmony Explained: Progress Towards A Scientific Theory of Music
+Vocal signal digital processing Instrument for analog to digital conversion study
+On Covert Acoustical Mesh Networks in Air
+Music and Vocal Separation Using Multi-Band Modulation Based Features
+Realization and design of a pilot assist decision-making system based on speech recognition
+Learning An Invariant Speech Representation
+A Bengali HMM Based Speech Synthesis System
+Automatic Fado Music Classification
+On the Application of Generic Summarization Algorithms to Music
+Performance Comparison of Linear Prediction based Vocoders in Linux Platform
+Improved multiple birdsong tracking with distribution derivative method and Markov renewal process clustering
+Large-scale analysis of frequency modulation in birdsong databases
+Outer-Product Hidden Markov Model and Polyphonic MIDI Score Following
+Automatic large-scale classification of bird sounds is strongly improved by unsupervised feature learning
+A Multi Level Data Fusion Approach for Speaker Identification on Telephone Speech
+Sonic interaction with a virtual orchestra of factory machinery
+Speech Polarity Detection Using Hilbert Phase Information
+Sonification of a Networks Self-Organized Criticality
+Deep Scattering Spectrum
+A Geometric Approach to Sound Source Localization from Time-Delay Estimates
+A RobustICA Based Algorithm for Blind Separation of Convolutive Mixtures
+Semi-Analytical Computation of Acoustic Scattering by Spheroids and Disks
+Sequential Complexity as a Descriptor for Musical Similarity
+Digital-Filter Designs for Recursive Frequency-Analysis
+Computerized Multi Microphone Test System
+Ad Hoc Microphone Array Calibration: Euclidean Distance Matrix Completion Algorithm and Theoretical Guarantees
+DSPEar: Leveraging Co-Processor Support for Continuous Audio Sensing on Smartphones
+A Single-Processor Approach to Speech Processing Pipeline of Bilateral Cochlear Implants
+Audio Surveillance: a Systematic Review
+Co-Localization of Audio Sources Using Binaural Features and Locally-Linear Regression
+On Evaluation Validity in Music Autotagging
+Phase-Optimized -SVD for Signal Extraction from Underdetermined Multichannel Sparse Mixtures
+Choice of Mel Filter Bank in Computing MFCC of a Resampled Speech
+On the use of Stress information in Speech for Speaker Recognition
+Modified Mel Filter Bank to Compute MFCC of Subsampled Speech
+Detection of transitions between broad phonetic classes in a speech signal
+An Interesting Property of LPCs for Sonorant Vs Fricative Discrimination
+A Novel Uncertainty Parameter SR Signal To Residual Spectrum Ratio Evaluation Approach For Speech Enhancement
+Spatial Source Subtraction Based on Incomplete Measurements of Relative Transfer Function
+Speaker Identification From outube Obtained Data
+Acoustic Scene Classification
+Which Are ou In A Photo
+Music Data Analysis: A State-of-the-art Survey
+A Complex Matrix Factorization approach to oint Modeling of Magnitude and Phase for Source Separation
+Optimal Window and Lattice in Gabor Transform Application to Audio Analysis
+Computoser - rule-based probability-driven algorithmic music composition
+The bag-of-frames approach: a not so sufficient model for urban soundscapes
+A Broadcast News Corpus for Evaluation and Tuning of German LVCSR Systems
+Weakly Supervised Multi-Embeddings Learning of Acoustic Models
+Psychophysics of musical elements in the discrete-time representation of sound
+Audio Source Separation with Discriminative Scattering Networks
+Audio Source Separation Using a Deep Autoencoder
+Semi-blind Source Separation via Sparse Representations and Online Dictionary Learning
+Raking the Cocktail Party
+Listening to features
+Acoustic Space Learning for Sound Source Separation and Localization on Binaural Manifolds
+Efficient Steered-Response Power Methods for Sound Source Localization Using Microphone Arrays
+Spatial Diffuseness Features for DNN-Based Speech Recognition in Noisy and Reverberant Environments
+Implementation of an Automatic Syllabic Division Algorithm from Speech Files in Portuguese Language
+A Comparison of Classifiers in Performing Speaker Accent Recognition Using MFCCs
+An evaluation framework for event detection using a morphological model of acoustic scenes
+Unsupervised Incremental Learning and Prediction of Audio Signals
+CS reconstruction of the speech and musical signals
+Sparse Head-Related Impulse Response for Efficient Direct Convolution
+Gaussian Process Models for HRTF based Sound-Source Localization and Active-Learning
+A Full Frequency Masking Vocoder for Legal Eavesdropping Conversation Recording
+Coherent-to-Diffuse Power Ratio Estimation for Dereverberation
+oint Optimization of Masks and Deep Recurrent Neural Networks for Monaural Source Separation
+Mandarin Singing Voice Synthesis Based on Harmonic Plus Noise Model and Singing Expression Analysis
+The Evolution of Popular Music: USA 0-00
+Efficient Synthesis of Room Acoustics via Scattering Delay Networks

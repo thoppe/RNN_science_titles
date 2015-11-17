@@ -1,0 +1,919 @@
+The on-line shortest path problem under partial monitoring
+Parallel computation of the rank of large sparse matrices from algebraic K-theory
+Introduction to the GiNaC Framework for Symbolic Computation within the C Programming Language
+A Lambda-Calculus with letrec case constructors and non-determinism
+Rewriting Calculus: Foundations and Applications
+Lectures on Reduce and Maple at UAM I - Mexico
+The Set of Equations to Evaluate Objects
+MACE 2 Reference Manual and Guide
+Temacs interfaces to Maxima MuPAD and REDUCE
+Set Unification
+Performance Comparison of Function Evaluation Methods
+A correct proof of the heuristic GCD algorithm
+Orthonormal RBF wavelet and ridgelet-like series and transforms for high-dimensional problems
+A Note on the DQ Analysis of Anisotropic Plates
+Parameterized Type Definitions in Mathematica: Methods and Advantages
+A comparison of four approaches to the calculation of conservation laws
+The integration of systems of linear PDEs using conservation laws of syzygies
+Size reduction and partial decoupling of systems of equations
+Hidden Polynomial(s) Cryptosystems
+Numerical Coverage Estimation for the Symbolic Simulation of Real-Time Systems
+TCTL Inevitability Analysis of Dense-time Systems
+Quasi-Optimal Arithmetic for Quaternion Polynomials
+Hidden Polynomial(s) Cryptosystems
+Cryptanalysis of HFE
+Model Checking Linear Logic Specifications
+Digital Version of Green s Theorem and its Application to The Coverage Problem in Formal Verification
+A uniform approach to constraint-solving for lists multisets compact lists and sets
+Computing Igusa's Local Zeta Functions of Univariate Polynomials and Linear Feedback Shift Registers
+Mace Reference Manual and Guide
+OTTER 33 Reference Manual
+Weak Bezout inequality for D-modules
+Polynomial-time computing over quadratic maps I: sampling in real algebraic sets
+Efficient dot product over word-size finite fields
+An unexpected application of minimization theory to module decompositions
+A Framework for Combining Defeasible Argumentation with Labeled Deduction
+A novel approach to symbolic algebra
+On rational definite summation
+ParFORM: Parallel Version of the Symbolic Manipulation Program FORM
+Maple GrTensorII libraries for cosmology
+From Tensor Equations to Numerical Code -- Computer Algebra Tools for Numerical Relativity
+ordan Normal and Rational Normal Form Algorithms
+Free quasi-symmetric functions product actions and quantum field theory of partitions
+Implementation of Motzkin-Burger algorithm in Maple
+Generalized Laplace transformations and integration of hyperbolic systems of linear partial differential equations
+Efficient Computation of the Characteristic Polynomial
+Can Computer Algebra be Liberated from its Algebraic oke 
+The complexity of computing the Hilbert polynomial of smooth equidimensional complex projective varieties
+Approximation of dynamical systems using S-systems theory : application to biological systems
+Tensor manipulation in GPL Maxima
+Temacs-maxima interface
+Computing the Rank and a Small Nullspace Basis of a Polynomial Matrix
+Asymptotically fast polynomial matrix algorithms for multivariable systems
+A formally verified proof of the prime number theorem
+Computing the Kalman form
+Fast (Multi-)Evaluation of Linearly Recurrent Sequences: Improvements and Applications
+Computations with one and two real algebraic numbers
+A Constructive Semantic Characterization of Aggregates in ASP
+Demand Analysis with Partial Predicates
+Computing spectral sequences
+Parallel Symbolic Computation of Curvature Invariants in General Relativity
+An Explicit Solution to Post's Problem over the Reals
+Solving Sparse Integer Linear Systems
+Benchmark Problems for Constraint Solving
+Real Computational Universality: The Word Problem for a class of groups with infinite presentation
+Polynomial Time Nondimensionalisation of Ordinary Differential Equations via their Lie Point Symmetries
+Univariate polynomial real root isolation: Continued Fractions revisited
+A Recursive Method for Determining the One-Dimensional Submodules of Laurent-Ore Modules
+SAT Techniques for Lexicographic Path Orders
+Efficient algorithm for computing the Euler-Poincar 'e characteristic of a semi-algebraic set defined by few quadratic inequalities
+Complexity of Resolution of Parametric Systems of Polynomial Equations and Inequations
+ACD Term Rewriting
+Satisfying KBO Constraints
+On factorization and solution of multidimensional linear partial differential equations
+Strong bi-homogeneous B ' e zout theorem and its use in effective real algebraic geometry
+Groebner Bases Applied to Systems of Linear Difference Equations
+Predicate Abstraction via Symbolic Decision Procedures
+Symmetric Subresultants and Applications
+Signature Sequence of Intersection Curve of Two Quadrics for Exact Morphological Classification
+Time- and Space-Efficient Evaluation of Some Hypergeometric Constants
+Certification of the QR factor R and of lattice basis reducedness
+Faster Inversion and Other Black Box Matrix Computations Using Efficient Block Projections
+A canonical form for some piecewise defined functions
+Factorization of linear partial differential operators and Darboux integrability of nonlinear PDEs
+Formulas as Programs
+Object Oriented and Functional Programming for Symbolic Manipulation
+Events in Property Patterns
+Gravity torsion Dirac field and computer algebra using MAPLE and REDUCE
+Mapping the vacuum structure of gauged maximal supergravities: an application of high-performance symbolic algebra
+On Compatibility of Discrete Relations
+The Hilbert Zonotope and a Polynomial Time Algorithm for Universal Grobner Bases
+Ideal decompositions and computation of tensor normal forms
+Determination of the structure of algebraic curvature tensors by means of oung symmetrizers
+On the symmetry classes of the first covariant derivatives of tensor fields
+On reconstructing n-point configurations from the distribution of distances or areas
+Whitehead method and Genetic Algorithms
+Balanced presentations of the trivial group on two generators and the Andrews-Curtis conjecture
+Genetic algorithms and the Andrews-Curtis conjecture
+Generators of algebraic covariant derivative curvature tensors and oung symmetrizers
+Short formulas for algebraic covariant derivative curvature tensors via Algebraic Combinatorics
+Generators of algebraic curvature tensors based on a (2 1)-symmetry
+Methods for the construction of generators of algebraic curvature tensors
+Computing the First Betti Numberand Describing the Connected Components of Semi-algebraic Sets
+Computing the First Few Betti Numbers of Semi-algebraic Sets in Single Exponential Time
+Extending the scalars of minimizations
+Direct and dual laws for automata with multiplicities
+Transitive factorizations of free partially commutative monoids and Lie algebras
+Uncomputably Large Integral Points on Algebraic Plane Curves
+Reduction of Algebraic Parametric Systems by Rectification of their Affine Expanded Lie Symmetries
+List Decoding of Hermitian Codes using Groebner Bases
+Maximum Entropy in the framework of Algebraic Statistics: A First Step
+Moderate Growth Time Series for Dynamic Combinatorics Modelisation
+A linear algebra approach to the differentiation index of generic DAE systems
+Towards a New ODE Solver Based on Cartan's Equivalence Method
+Fast acobian group operations for C 3  curves over a large finite field
+Implicitization of Bihomogeneous Parametrizations of Algebraic Surfaces via Linear Syzygies
+Improved Linear Parallel Interference Cancellers
+An Extension to an Algebraic Method for Linear Time-Invariant System and Network Theory: The full AC-Calculus
+Minimal Polynomials for the Coordinates of the Harborth Graph
+Computing Multi-Homogeneous Bezout Numbers is Hard
+SWI-Prolog and the Web
+FORM Matters: Fast Symbolic Computation under UNI
+Sufficient set of integrability conditions of an orthonomic system
+Faster polynomial multiplication via multipoint Kronecker substitution
+Introduction to the Galois Theory of Linear Differential Equations
+Factorization in categories of systems of linear partial differential equations
+An hybrid system approach to nonlinear optimal control problems
+The Invar Tensor Package
+Hopf Algebras in General and in Combinatorial Physics: a practical introduction
+Using Alloy to model-check visual design notations
+Kolmogorov Complexity Theory over the Reals
+Two Algorithms for Solving A General Backward Pentadiagonal Linear Systems
+Towards a Symbolic-Numeric Method to Compute Puiseux Series: The Modular Part
+Twenty-Five Moves Suffice for Rubik's Cube
+On Ritt's decomposition Theorem in the case of finite fields
+Schemes for Deterministic Polynomial Factoring
+Symbolic computations in differential geometry
+Low Complexity Algorithms for Linear Recurrences
+Differential Equations for Algebraic Functions
+Finding Liouvillian first integrals of rational ODEs of any order in finite terms
+Gr obner Bases and Generation of Difference Schemes for Partial Differential Equations
+On decomposition of tame polynomials and rational functions
+Computation of unirational fields
+Building counterexamples to generalizations for rational functions of Ritt's decomposition theorem
+Computation of unirational fields (extended abstract)
+Fast computation of power series solutions of systems of differential equations
+Q-adic Transform revisited
+Determination of the basis of the space of all root functionals of a system of polynomial equations and of the basis of its ideal by the operation of the extension of bounded root functionals
+Formal proof for delayed finite field arithmetic using floating point operators
+Decomposing replicable functions
+Round Trip Time Prediction Using the Symbolic Function Network Approach
+Ranking Catamorphisms and Unranking Anamorphisms on Hereditarily Finite Datatypes
+A Novel Symbolic Type Neural Network Model- Application to River Flow Forecasting
+Fast Integer Multiplication using Modular Arithmetic
+Analyzing the Topology Types arising in a Family of Algebraic Curves Depending On Two Parameters
+Hochschild Homology and Cohomology of Klein Surfaces
+Consistency and Completeness of Rewriting in the Calculus of Constructions
+A Refined Difference Field Theory for Symbolic Summation
+Parameterized Telescoping Proves Algebraic Independence of Sums
+Obtaining Exact Interpolation Multivariate Polynomial by Approximation
+An Unified Definition of Data Mining
+Poisson Homology in Degree  for some Rings of Symplectic Invariants
+Towards a diagrammatic modeling of the LinBox C linear algebra library
+An introspective algorithm for the integer determinant
+Liouvillian Solutions of Difference-Differential Equations
+A cache-friendly truncated FFT
+Rational Hadamard products via Quantum Diagonal Operators
+Explicit factors of some iterated resultants and discriminants
+Differential invariants of a Lie group action: syzygies on a generating set
+The Invar tensor package: Differential invariants of Riemann
+Characterizing 1-Dof Henneberg-I graphs with efficient configuration spaces
+Kaltofen's division-free determinant algorithm differentiated for matrix adjoint computation
+How to turn a scripting language into a domain specific language for computer algebra
+Craig Interpolation for Quantifier-Free Presburger Arithmetic
+Benchmarking the solar dynamo with Maxima
+gTybalt - a free computer algebra system
+Extension of the functionality of the symbolic program FORM by external software
+A field-theory motivated approach to symbolic computer algebra
+Symbolic Expansion of Transcendental Functions
+Computer algebra in systems biology
+On sign conditions over real multivariate polynomials
+On the Computation of the Topology of a Non-Reduced Implicit Space Curve
+Compressed Modular Matrix Multiplication
+Preferred extensions as stable models
+Products of Ordinary Differential Operators by Evaluation and Interpolation
+E pluribus unum or How to Derive Single-equation Descriptions for Output-quantities in Nonlinear Circuits using Differential Algebra
+A Simple Dynamic Mind-map Framework To Discover Associative Relationships in Transactional Data Streams
+Checking the Quality of Clinical Guidelines using Automated Reasoning Tools
+The implicit equation of a canal surface
+Automated Induction for Complex Data Structures
+Stable normal forms for polynomial system solving
+Using a computer algebra system to simplify expressions for Titchmarsh-Weyl m-functions associated with the Hydrogen Atom on the half line
+Efficient polynomial time algorithms computing industrial-strength primitive roots
+Moment matrices trace matrices and the radical of ideals
+A Sparse Flat Extension Theorem for Moment Matrices
+Some Open Problems in Combinatorial Physics
+Homotopy methods for multiplication modulo triangular sets
+Fast algorithms for differential equations in positive characteristic
+Performance of Buchberger's Improved Algorithm using Prime Based Ordering
+Dense Linear Algebra over Finite Fields: the FFLAS and FFPACK packages
+On the equations of the moving curve ideal of a rational algebraic plane curve
+Pairing Functions Boolean Evaluation and Binary Decision Diagrams in Prolog
+Trading GRH for algebra: algorithms for factoring polynomials and related structures
+Graphical Reasoning in Compact Closed Categories for Quantum Computation
+Finding Exact Minimal Polynomial by Approximations
+Abstraction and Refinement in Static Model-Checking
+Group-Theoretic Partial Matrix Multiplication
+ASF --- eine ASF-aehnliche Spezifikationssprache
+A bound on the minimum of a real positive polynomial over the standard simplex
+A Graph Analysis of the Linked Data Cloud
+Heuristic Reasoning on Graph and Game Complexity of Sudoku
+Supernodal Analysis Revisited
+Computing Cylindrical Algebraic Decomposition via Triangular Decomposition
+A Prototype for Educational Planning Using Course Constraints to Simulate Student Populations
+Towards an exact adaptive algorithm for the determinant of a rational matrix
+Experiments in Model-Checking Optimistic Replication Algorithms
+Aplicacion de la descomposicion racional univariada a monstrous moonshine (in Spanish)
+Computing the fixing group of a rational function
+Unirational fields of transcendence degree one and functional decomposition
+The acoustic wave equation in the expanding universe Sachs-Wolfe theorem
+A baby steps giant steps Monte Carlo algorithm for computing roadmaps in smooth compact real hypersurfaces
+On the Cooperation of the Constraint Domains H R and FD in CFLP
+A Symbolic Summation Approach to Find Optimal Nested Sum Representations
+La R 'esolvante de Lagrange et ses Applications
+An Evidential Path Logic for Multi-Relational Networks
+On finding multiplicities of characteristic polynomial factors of black-box matrices
+Counting Complex Disordered States by Efficient Pattern Matching: Chromatic Polynomials and Potts Partition Functions
+The complexity of class polynomial computation via floating point approximations
+Polynomial relations among principal minors of a x-matrix
+Spherical Distribution of  Points with Maximal Distance Sum
+Eliminating Human Insight: An Algorithmic Proof of Stembridge's TSPP Theorem
+Symbolic Script Programming for ava
+Noether's forms for the study of non-composite rational functions and their spectrum
+Real Solution Isolation with Multiplicity of Zero-Dimensional Triangular Systems
+On computing the Hermite form of a matrix of differential polynomials
+On the minimum of a positive polynomial over the standard simplex
+Computations modulo regular chains
+The Piranha algebraic manipulator
+An Explicit Construction of Gauss-ordan Elimination Matrix
+Programming Realization of Symbolic Computations for Non-linear Commutator Superalgebras over the Heisenberg--Weyl Superalgebra: Data Structures and Processing Methods
+Acronym-Meaning Extraction from Corpora Using Multi-Tape Weighted Finite-State Machines
+Viterbi Algorithm Generalized for n-Tape Best-Path Search
+Executable Set Theory and Arithmetic Encodings in Prolog
+The complete Generating Function for Gessel Walks is Algebraic
+Local Shape of Generalized Offsets to Algebraic Curves
+Algebraic Elimination of epsilon-transitions
+An Example of Clifford Algebras Calculations with GiNaC
+An Improved Algorithm based on Shannon-Happ Formula for Calculating Transfer Function from Signal Flow Graph and Its Visualization
+Faster algorithms for the square root and reciprocal of power series
+Decreasing Diagrams and Relative Termination
+Computing rational points in convex semi-algebraic sets and SOS decompositions
+Approximate substitutions and the normal ordering problem
+Reconstruction of eye movements during blinks
+xPerm: fast index canonicalization for tensor computer algebra
+On the Different Shapes Arising in a Family of Rational Curves Depending on a Parameter
+Faster exponentials of power series
+Deciding Regularity of the Set of Instances of a Set of Terms with Regular Constraints is EPTIME-Complete
+A computational definition of the notion of vectorial space
+Efficient Higher Order Derivatives of Objective Functions Composed of Matrix Operations
+A Maple Package for Computing Groebner Bases for Linear Recurrence Relations
+Feynman graphs and related Hopf algebras
+ParFORM: recent development
+Determining the closed forms of the O(a s 3) anomalous dimensions and Wilson coefficients from Mellin moments by means of computer algebra
+Proof Theory at Work: Complexity Analysis of Term Rewrite Systems
+Linear Solving for Sign Determination
+Completeness of the WDS method in Checking Positivity of Integral Forms
+Parallelizing Deadlock Resolution in Symbolic Synthesis of Distributed Programs
+Simplex Subdivisions and Nonnegativity Decision of Forms
+The weighted difference substitutions and Nonnegativity Decision of Forms
+Simultaneous Integer Relation Detection and Its an Application
+A Complete Method for Checking Hurwitz Stability of a Polytope of Matrices
+A complete algorithm to find exact minimal polynomial by approximations
+Parallel computation of real solving bivariate polynomial systems by zero-matching method
+Generic design of Chinese remaindering schemes
+Proceedings Ninth International Workshop on Reduction Strategies in Rewriting and Programming
+Some Algebraic Properties of a Subclass of Finite Normal Form Games
+Multihomogeneous Resultant Formulae for Systems with Scaled Support
+Gr obner Bases of Bihomogeneous Ideals generated by Polynomials of Bidegree (1 1): Algorithms and Complexity
+An in-place truncated Fourier transform and applications to polynomial multiplication
+Stability and Bifurcation Analysis of Coupled Fitzhugh-Nagumo Oscillators
+The Power of Vocabulary: The Case of Cyclotomic Polynomials
+Gradual sub-lattice reduction and a new complexity for factoring polynomials
+Fast Arithmetics in Artin-Schreier Towers over Finite Fields
+Factorization of Non-Commutative Polynomials
+Obstructions to Genericity in Study of Parametric Problems in Control Theory
+Minimal Polynomial Algorithms for Finite Sequences
+Automated Proofs in Geometry : Computing Upper Bounds for the Heilbronn Problem for Triangles
+Stability Analysis of Linear Uncertain Systems via Checking Positivity of Forms on Simplices
+Algorithms for Checking Rational Roots of b -functions and their Applications
+A Modal Logic for Termgraph Rewriting
+Successive Difference Substitution Based on Column Stochastic Matrix and Mechanical Decision for Positive Semi-definite Forms
+Disabling equational theories in unification for cryptographic protocol analysis through tagging
+Multiplication of sparse Laurent polynomials and Poisson series on modern hardware architectures
+Formal Proof of SCHUR Conjugate Function
+Differential reduction of generalized hypergeometric functions from Feynman diagrams: One-variable case
+Triangular Decomposition of Semi-algebraic Systems
+Protocol indepedence through disjoint encryption under Exclusive-OR
+Some Results on the Functional Decomposition of Polynomials
+Symbolic Domain Decomposition
+When can we decide that a P-finite sequence is positive
+Partial Denominator Bounds for Partial Linear Difference Equations
+Polynomial integration on regions defined by a triangle and a conic
+Composition collisions and projective polynomials
+How to correctly prune tropical trees
+Constructive D -module Theory with textsc Singular
+Nominal Unification from a Higher-Order Perspective
+Tropical Implicitization and Mixed Fiber Polytopes
+A local construction of the Smith normal form of a matrix polynomial
+NumGfun: a Package for Numerical and Analytic Computation with D-finite Functions
+Syntactic Abstraction of B Models to Generate Tests
+Integrating multiple sources to answer questions in Algebraic Topology
+Random polynomials and expected complexity of bisection methods for real solving
+An Algebraic Approach for Computing Equilibria of a Subclass of Finite Normal Form Games
+A Numerical Algorithm for Zero Counting I: Complexity and Accuracy
+Subresultants in Recursive Polynomial Remainder Sequence
+Recursive Polynomial Remainder Sequence and the Nested Subresultants
+Recursive Polynomial Remainder Sequence and its Subresultants
+Shortest Two-way Linear Recurrences
+A New Proof for the Correctness of F (F-Like) Algorithm
+Chunky and Equal-Spaced Polynomial Multiplication
+The DMM bound: multivariate (aggregate) separation bounds
+A Unified Formal Description of Arithmetic and Set Theoretical Data Types
+From matrix interpretations over the rationals to matrix interpretations over the naturals
+Model Counting in Product Configuration
+GPGCD an Iterative Method for Calculating Approximate GCD of Univariate Polynomials with the Complex Coefficients
+GPGCD an Iterative Method for Calculating Approximate GCD for Multiple Univariate Polynomials
+Connecting Gr obner Bases Programs with Coq to do Proofs in Algebra Geometry and Arithmetics
+Open Graphs and Computational Reasoning
+Combinatorial Deformations of Algebras: Twisting and Perturbations
+Implementing Gr obner bases for operads
+The Hilbert scheme of points and its link with border basis
+The Berlekamp-Massey Algorithm via Minimal Polynomials
+Dominance in the family of Sugeno-Weber t-norms
+Exact Bivariate Polynomial Factorization in Q by Approximation of Roots
+Pattern Classification In Symbolic Streams via Semantic Annihilation of Information
+Towards Solving the Inverse Protein Folding Problem
+A Geometric Index Reduction Method for Implicit Systems of Differential Algebraic Equations
+A formal calculus on the Riordan near algebra
+B ' e zout Identities Associated to a Finite Sequence
+Exact Sparse Matrix-Vector Multiplication on GPU's and Multicore Architectures
+Generic design of Chinese remaindering schemes
+System Description: H-PILoT (Version 1)
+LinBox founding scope allocation parallel building blocks and separate compilation
+Proceedings Fourth International Workshop on Testing Analysis and Verification of Web Software
+Solving Partial Order Constraints for LPO Termination
+Bounding the Betti numbers and computing the Euler-Poincar 'e characteristic of semi-algebraic sets defined by partly quadratic systems of polynomials
+Grammatical Evolution with Restarts for Fast Fractal Generation
+An Efficient Algorithm for Factoring Polynomials over Algebraic Extension Field
+On Computing Groebner Basis in the Rings of Differential Operators
+An Elimination Method for Solving Bivariate Polynomial Systems: Eliminating the Usual Drawbacks
+Detecting Simultaneous Integer Relations for Several Real Vectors
+Fast Gr obner Basis Computation for Boolean Polynomials
+All order epsilon-expansion of Gauss hypergeometric functions with integer and half integer values of parameters
+Symmetric tensor decomposition
+Continued Fraction Expansion of Real Roots of Polynomial Systems
+Ladder Operators and Endomorphisms in Combinatorial Physics
+Bit-size estimates for triangular sets in positive dimension
+The assembly modes of rigid 11-bar linkages
+The z -Transform and Automata-Recognizable Systems of Nonhomogeneous Linear Recurrence Equations over Semirings
+Zero Decomposition with Multiplicity of Zero-Dimensional Polynomial Systems
+A New Algorithm for Inverting General Cyclic Heptadiagonal Matrices Recursively
+On the Inverse Of General Cyclic Heptadiagonal and Anti-Heptadiagonal Matrices
+On Functional Decomposition of Multivariate Polynomials with Differentiation and Homogenization
+Interpolation of Shifted-Lacunary Polynomials
+Detecting lacunary perfect powers and computing their roots
+FORM facts
+The F Algorithm in Buchberger's Style
+An interface between physics and number theory
+Efficient Characteristic Set Algorithms for Equation Solving in Finite Fields and Applications in Cryptanalysis
+Isomorphisms of Algebraic Number Fields
+Th 'eorie de Galois effective : aide m 'emoire
+Unification modulo a partial theory of exponentiation
+On the Complexity of the Tiden-Arnborg Algorithm for Unification modulo One-Sided Distributivity
+Modular absolute decomposition of equidimensional polynomial ideals
+Computing Differential Equations for Integrals Associated to Smooth Fano Polytopes
+A new conception for computing gr o bner basis and its applications
+The MAPLE package for calculating Poincar 'e series
+Computing sparse multiples of polynomials
+On the engineers' new toolbox or Analog Circuit Design using Symbolic Analysis Computer Algebra and Elementary Network Transformations
+FORM development
+A Refined Denominator Bounding Algorithm for Multivariate Linear Difference Equations
+Deflation and Certified Isolation of Singular Zeros of Polynomial Systems
+Multiplicity Preserving Triangular Set Decomposition of Two Polynomials
+Bounding the radii of balls meeting every connected component of semi-algebraic sets
+Group extensions over infinite words
+A Generalized Criterion for Signature Related Gr obner Basis Algorithms
+Generalized companion matrix for approximate GCD
+Root Isolation of Zero-dimensional Polynomial Systems with Linear Univariate Representation
+SqFreeEVAL: An (almost) optimal real-root isolation algorithm
+Special Values of Generalized Log-sine Integrals
+Deciding trigonality of algebraic curves
+Arrangement Computation for Planar Algebraic Curves
+Stable polynomial division and essential normality of graded Hilbert modules
+Parallel versions of the symbolic manipulation system FORM
+Improved complexity bounds for real root isolation using Continued Fractions
+On the Complexity of Real Root Isolation
+Diversification improves interpolation
+Algorithms for Computing Triangular Decompositions of Polynomial Systems
+Quantifier Elimination over Finite Fields Using Gr obner Bases
+A Worst-case Bound for Topology Computation of Algebraic Curves
+Effective partitioning method for computing weighted Moore-Penrose inverse
+Symbolic computation of weighted Moore-Penrose inverse using partitioning method
+Computing generalized inverses using LU factorization of matrix product
+About the generalized LM-inverse and the weighted Moore-Penrose inverse
+Effective radical parametrization of trigonal curves
+Computing Border Bases without using a Term Ordering
+Methods in Mathematica for Solving Ordinary Differential Equations
+Symbolic Computation of Recursion Operators for Nonlinear Differential-Difference equations
+Square root Bound on the Least Power Non-residue using a Sylvester-Vandermonde Determinant
+Symbolic Computation of Conservation Laws Generalized Symmetries and Recursion Operators for Nonlinear Differential-Difference Equations
+On the Complexity of Solving a Bivariate Polynomial System
+Strassen's Matrix Multiplication Algorithm for Matrices of Arbitrary Order
+Univariate real root isolation in an extension field
+A Note on the Group-theoretic Approach to Fast Matrix Multiplication
+About a conjectured basis for Multiple Zeta Values
+Symbolic-manipulation constructions of Hilbert-space metrics in quantum mechanics
+A note on Solving Parametric Polynomial Systems
+A parallel Buchberger algorithm for multigraded ideals
+Harmonic Sums and Polylogarithms Generated by Cyclotomic Polynomials
+Tschirnhaus-Weierstrass curves
+Dependency Pairs and Polynomial Path Orders
+A Fast Approach to Creative Telescoping
+The 1 Pekeris-Accad-WEIZAC Ground-Breaking Collaboration that Computed Ground States of Two-Electron Atoms (and its 21 Redux)
+Improved complexity bounds for real root isolation using Continued Fractions
+Signature-based algorithms to compute Groebner bases
+A New Algorithm for Proving Global Asymptotic Stability of Rational Difference Equations
+The MathScheme Library: Some Preliminary Experiments
+A Generalized Criterion for Signature-based Algorithms to Compute Gr obner Bases
+Computing Semi-algebraic Invariants for Polynomial Dynamical Systems
+On the Generation of Positivstellensatz Witnesses in Degenerate Cases
+Decomposition of Polynomials
+Computing the Distance between Piecewise-Linear Bivariate Functions
+Differential Chow Form for Projective Differential Variety
+On Consensus under Polynomial Protocols
+On the total order of reducibility of a pencil of algebraic plane curves
+Intersection Theory in Differential Algebraic Geometry: Generic Intersections and the Differential Chow Form
+An algorithm for determining copositive matrices
+On Two-generated Non-commutative Algebras Subject to the Affine Relation
+Solving Detachability Problem for the Polynomial Ring by Signature-based Groebner Basis Algorithms
+A New Algorithmic Scheme for Computing Characteristic Sets
+A New General-Purpose Method to Multiply 3x3 Matrices Using Only 23 Multiplications
+A Variant of Gerdt's Algorithm for Computing Involutive Bases
+The Parametric Solution of Underdetermined linear ODEs
+Quality Up in Polynomial Homotopy Continuation by Multithreaded Path Tracking
+Solving large linear algebraic systems in the context of integrable non-abelian Laurent ODEs
+Symbolic integration with respect to the Haar measure on the unitary group in Mathematica
+On the complexity of computing with zero-dimensional triangular sets
+When Newton meets Descartes: A Simple and Fast Algorithm to Isolate the Real Roots of a Polynomial
+Computing diagonal form and acobson normal form of a matrix using Gr obner bases
+Exact linear modeling using Ore algebras
+Explicit formula for the generating series of diagonal 3D rook paths
+Asymptotic Methods of ODEs: Exploring Singularities of the Second Kind
+Structure of lexicographic Groebner bases in three variables of ideals of dimension zero
+How Can I Do That with ACL2 Recent Enhancements to ACL2
+Implementing an Automatic Differentiator in ACL2
+Improvement Of Barreto-Voloch Algorithm For Computing r th Roots Over Finite Fields
+Fraction-free algorithm for the computation of diagonal forms matrices over Ore domains using Gr o bner bases
+Some properties of finite meadows
+Nearly Optimal Algorithms for the Decomposition of Multivariate Rational Functions and the Extended L uroth's Theorem
+Computation of Darboux polynomials and rational first integrals with bounded degree in polynomial time
+Algorithms for integrals of holonomic functions over domains defined by polynomial inequalities
+Generating Loop Invariants by Computing Vanishing Ideals of Sample Points
+Adleman-Manders-Miller Root Extraction Method Revisited
+Bounds on the coefficients of the characteristic and minimal polynomials
+Differentiation of Kaltofen's division-free determinant algorithm
+On the Computation of Matrices of Traces and Radicals of Ideals
+Castelnuovo-Mumford Regularity and Computing the de Rham Cohomology of Smooth Projective Varieties
+Splitting full matrix algebras over algebraic number fields
+Mixed Discriminants
+Lie algebra conjugacy
+Note on fast division algorithm for polynomials using Newton iteration
+Complexity and Algorithms for Euler Characteristic of Simplicial Complexes
+Abstracting Path Conditions for Effective Symbolic Execution
+Abstracting Path Conditions
+Quartic Curves and Their Bitangents
+How to refine polynomial functions
+Computer Algebra meets Finite Elements: an Efficient Implementation for Maxwell's Equations
+Rank-profile revealing Gaussian elimination and the CUP matrix decomposition
+Computational Tutorial on Gr obner bases embedding Sage in LaTe with SageTE
+Exact Symbolic-Numeric Computation of Planar Algebraic Curves
+Telescopers for Rational and Algebraic Functions via Residues
+Order-Degree Curves for Hypergeometric Creative Telescoping
+An algorithm to compute the differential equations for the logarithm of a polynomial
+A General Solver Based on Sparse Resultants
+An iterative algorithm for parametrization of shortest length shift registers over finite rings
+Trading Order for Degree in Creative Telescoping
+Critical Points and Gr obner Bases: the Unmixed Case
+Computable Hilbert Schemes
+Proceedings First Workshop on CTP Components for Educational Software
+Towards an Intelligent Tutor for Mathematical Proofs
+Automatic Deduction in Dynamic Geometry using Sage
+Formalization and Implementation of Algebraic Methods in Geometry
+Computer-Assisted Program Reasoning Based on a Relational Semantics of Programs
+The Newton Polytope of the Implicit Equation
+Deciding Kleene Algebras in Coq
+The fundamental invariants of 3 x 3 x 3 arrays
+Evaluation of Multi-Sums for Large Scale Problems
+On the asymptotic and practical complexity of solving bivariate systems over the reals
+Can the Eureqa symbolic regression program computer algebra and numerical analysis help each other
+Subtotal ordering -- a pedagogically advantageous algorithm for computing total degree reverse lexicographic order
+Simplifying products of fractional powers of powers
+Residues and Telescopers for Rational Functions
+FORM version 
+On computing fixpoints in well-structured regular model checking with applications to lossy channel systems
+Generating and Searching Families of FFT Algorithms
+Automated Synthesis of Tableau Calculi
+Generating Program Invariants via Interpolation
+State Space Exploration of RT Systems in the Cloud
+New techniques for computing the ideal class group and a system of fundamental units in number fields
+A polynomial time algorithm for computing the HNF of a module over the integers of a number field
+Improvements in the computation of ideal class groups of imaginary quadratic number fields
+Synthesis of Minimal Error Control Software
+Matrix Formula of Differential Resultant for First Order Generic Ordinary Differential Polynomials
+Change-Of-Bases Abstractions for Non-Linear Systems
+A Symbolic Summation Approach to Feynman Integral Calculus
+Search and test algorithms for Triple Product Property triples
+Consistency Analysis of Finite Difference Approximations to PDE Systems
+Twisting q-holonomic sequences by complex roots of unity
+Computing Puiseux Series for Algebraic Surfaces
+Zeilberger's Holonomic Ansatz for Pfaffians
+Fast Computation of Smith Forms of Sparse Matrices Over Local Rings
+Counting and computing regions of D -decomposition: algebro-geometric approach
+An efficient implementation of the algorithm computing the Borel-fixed points of a Hilbert scheme
+A Domain-Specific Compiler for Linear Algebra Operations
+Quasi-Stability versus Genericity
+Sparse Differential Resultant for Laurent Differential Polynomials
+A Hybrid Approach for Synthesizing Optimal Controllers of Hybrid Systems: A Case Study of the Oil Pump Industrial Example
+Comprehensive Involutive Systems
+A Reduction Method for Higher Order Variational Equations of Hamiltonian Systems
+Speeding up Cylindrical Algebraic Decomposition by Gr obner Bases
+Computation of Difference Groebner Bases
+Practical Groebner Basis Computation
+Metric Problems for Quadrics in Multidimensional Space
+Computing modular correspondences for abelian varieties
+Stability of Triangular Decomposition and Comprehensive Triangular Decomposition
+Faster Algorithms for Rectangular Matrix Multiplication
+GPGCD: An iterative method for calculating approximate GCD of univariate polynomials
+Improving multivariate Horner schemes with Monte Carlo tree search
+Quasi-optimal multiplication of linear differential operators
+Hybrid Automata and epsilon-Analysis on a Neural Oscillator
+Exact Safety Verification of Hybrid Systems Based on Bilinear SOS Representation
+Delta-Complete Decision Procedures for Satisfiability over the Reals
+The expansion of real forms on the simplex and applications
+logcf: An Efficient Tool for Real Root Isolation
+A Note on the Space Complexity of Fast D-Finite Function Evaluation
+A new edge selection heuristic for computing the Tutte polynomial of an undirected graph
+Symmetric Determinantal Representation of Formulas and Weakly Skew Circuits
+PHCpack in Macaulay2
+List Decoding Algorithms based on Groebner Bases for General One-Point AG Codes
+A Characterization of Reduced Forms of Linear Differential Systems
+Real Root Isolation of Polynomial Equations Based on Hybrid Computation
+On lexicographic Groebner bases of radical ideals in dimension zero: interpolation and structure
+Advanced Computer Algebra Algorithms for the Expansion of Feynman Integrals
+Symbolic Analysis for Boundary Problems: From Rewriting to Parametrized Gr obner Bases
+Regular and Singular Boundary Problems in Maple
+A New Recursive Algorithm For Inverting A General Comrade Matrix
+An Incremental Algorithm for Computing Cylindrical Algebraic Decompositions
+On the Summability of Bivariate Rational Functions
+Computing the Hermite Form of a Matrix of Ore Polynomials
+Affine solution sets of sparse polynomial systems
+Power Series Solution of Non Linear Partial Differential equations from Mathematical Physics
+On the Existence of Telescopers for Mixed Hypergeometric Terms
+How to compute the constant term of a power of a Laurent polynomial efficiently
+Confusion of Tagged Perturbations in Forward Automatic Differentiation of Higher-Order Functions
+Theano: new features and speed improvements
+Proof of George Andrews's and David Robbins's q-TSPP Conjecture
+On the Complexity of Solving Quadratic Boolean Systems
+Relative parametrization of linear multidimensional systems
+Holonomic Gradient Descent and its Application to Fisher-Bingham Integral
+Generic Regular Decompositions for Generic Zero-Dimensional Systems
+A new Truncated Fourier Transform algorithm
+Desingularization Explains Order-Degree Curves for Ore Operators
+Finding Hyperexponential Solutions of Linear ODEs by Numerical Evaluation
+Generic Regular Decompositions for Parametric Polynomial Systems
+Closed form solutions of linear difference equations in terms of symmetric products
+Hermite Reduction and Creative Telescoping for Hyperexponential Functions
+Complexity of Creative Telescoping for Bivariate Rational Functions
+On the Structure of Compatible Rational Functions
+Superfast solution of Toeplitz systems based on syzygy reduction
+A simple and fast algorithm for computing exponentials of power series
+Fast algorithms for ell-adic towers over finite fields
+From Abstract Rewriting Systems to Abstract Proof Systems
+First Steps Towards Radical Parametrization of Algebraic Surfaces
+A proposal to first principles electronic structure calculation: Symbolic-Numeric method
+On the Complexity of the Multivariate Resultant
+Analytic and Algorithmic Aspects of Generalized Harmonic Sums and Polylogarithms
+Representation simplification and display of fractional powers of rational numbers in computer algebra
+Computer-Aided Derivation of Multi-scale Models: A Rewriting Framework
+An Algorithm for Computing the Limit Points of the Quasi-component of a Regular Chain
+Exact Safety Verification of Interval Hybrid Systems Based on Symbolic-Numeric Computation
+Proceedings th International Workshop on Computing with Terms and Graphs
+Module Border Bases
+An implementation of CAD in Maple utilising McCallum projection
+The alternative operad is not Koszul
+Computing the homology of groups: the geometric way
+Lattice Green's Functions of the Higher-Dimensional Face-Centered Cubic Lattices
+Normalization of Polynomials in Algebraic Invariants of Three-Dimensional Orthogonal Geometry
+Explicit Noether Normalization for Simultaneous Conjugation via Polynomial Identity Testing
+Domain-of-Attraction Estimation for Uncertain Non-polynomial Systems
+New Symbolic Algorithms For Solving A General Bordered Tridiagonal Linear System
+New modular multiplication and division algorithms based on continued fraction expansion
+Numerical method for real root isolation of semi-algebraic system and its applications
+A Variant of the Gr obner Basis Algorithm for Computing Hilbert Bases
+An Oracle-based Output-sensitive Algorithm for Projections of Resultant Polytopes
+List Decoding Algorithm based on Voting in Groebner Bases for General One-Point AG Codes
+Generalization of the Lee-O'Sullivan List Decoding for One-Point AG Codes
+Unified Form Language: A domain-specific language for weak formulations of partial differential equations
+Multiple precision evaluation of the Airy Ai function with reduced cancellation
+Complexity Estimates for Two Uncoupling Algorithms
+Highly Scalable Multiplication for Distributed Sparse Multivariate Polynomials on Many-core Systems
+Synthesizing Switching Controllers for Hybrid Systems by Continuous Invariant Generation
+Sparse FGLM algorithms
+Symbolic Arithmetic and Integer Factorization
+Simplifying Multiple Sums in Difference Fields
+Efficient Calculation of Determinants of Symbolic Matrices with Many Variables
+Plane mixed discriminants and toric jacobians
+Harmonic Sums Polylogarithms Special Numbers and their Generalizations
+A Symbolic Approach to Boundary Problems for Linear Partial Differential Equations: Applications to the Completely Reducible Case of the Cauchy Problem with Constant Coefficients
+Sparse approaches for the exact distribution of patterns in long state sequences generated by a Markov source
+On the Complexity of the Generalized MinRank Problem
+Series misdemeanors
+Series Crimes
+Computational linear algebra over finite fields
+On the Complexity of Computing Gr obner Bases for Quasi-homogeneous Systems
+Abstract Stobjs and Their Application to ISA Modeling
+Fast Approximate Polynomial Multipoint Evaluation and Applications
+Generalization of Risch's Algorithm to Special Functions
+Determination and (re)parametrization of rational developable surfaces
+A computer algebra user interface manifesto
+Zero-nonzero and real-nonreal sign determination
+Dual bases for non commutative symmetric and quasi-symmetric functions via monoidal factorization
+A Proof of a Recursion for Bessel Moments
+Power Series Composition and Change of Basis
+Fast Conversion Algorithms for Orthogonal Polynomials
+Simultaneous Modular Reduction and Kronecker Substitution for Small Finite Fields
+How to Integrate a Polynomial over a Simplex
+Effective Bounds for P-Recursive Sequences
+A Non-Holonomic Systems Approach to Special Function Identities
+Chebyshev Expansions for Solutions of Linear Differential Equations
+Generating functions of Chebyshev-like polynomials
+Root Refinement for Real Polynomials
+On Kahan's Rules for Determining Branch Cuts
+Fast Computation of Common Left Multiples of Linear Ordinary Differential Operators
+Power Series Solutions of Singular (q)-Differential Equations
+An implementation of CAD in Maple utilising problem formulation equational constraints and truth-table invariance
+An approach to first principles electronic structure calculation by symbolic-numeric computation
+Deciding Nonnegativity of Polynomials by MAPLE
+Ore Polynomials in Sage
+Fast algorithms for computing isogenies between elliptic curves
+Effective Differential L uroth's Theorem
+Factoring bivariate lacunary polynomials without heights
+Polynomial Systems Solving by Fast Linear Algebra
+Optimising Problem Formulation for Cylindrical Algebraic Decomposition
+Understanding Branch Cuts of Expressions
+Cylindrical Algebraic Decompositions for Boolean Combinations
+Computer-Assisted Proofs of Some Identities for Bessel Functions of Fractional Order
+Software for Evaluating Relevance of Steps in Algebraic Transformations
+Involutive Bases Algorithm Incorporating F Criterion
+Computing Puiseux Expansions at Cusps of the Modular Curve (N)
+Theorema 2: A Graphical User Interface for a Mathematical Assistant System
+Creative Telescoping for Holonomic Functions
+Functional framework for representing and transforming quantum channels
+On Computing the Elimination Ideal Using Resultants with Applications to Gr obner Bases
+Fast polynomial evaluation and composition
+A nearly optimal algorithm for deciding connectivity queries in smooth and bounded real algebraic sets
+Proceedings Fourth International Symposium on Symbolic Computation in Software Science
+Schwerdtfeger-Fillmore-Springer-Cnops Construction Implemented in GiNaC
+Advanced Computer Algebra for Determinants
+Proving Inequalities and Solving Global Optimization Problems via Simplified CAD Projection
+Signature-Based Gr obner Basis Algorithms --- Extended MMM Algorithm for computing Gr obner bases
+Computing Real Roots of Real Polynomials - An Efficient Method Based on Descartes' Rule of Signs and Newton Iteration
+Computing Equilibria of Semi-algebraic Economies Using Triangular Decomposition and Real Solution Classification
+HPERDIRE: HPERgeometric functions DIfferential REduction: MATHEMATICA based packages for differential reduction of generalized hypergeometric functions pFq F1 F2 F3 F
+Faster arithmetic for number-theoretic transforms
+Computing arithmetic Kleinian groups
+Sparse Difference Resultant
+A probabilistic algorithm to compute the real dimension of a semi-algebraic set
+Sch utzenberger's factorization on the (completed) Hopf algebra of q- stuffle product
+Rigorous high-precision computation of the Hurwitz zeta function and its derivatives
+Applications of Continuous Amortization to Bisection-based Root Isolation
+Introduction to the Symbolic Integration System
+Intertwining Laplace Transformations of Linear Partial Differential Equations
+Modern Summation Methods for Loop Integrals in Quantum Field Theory: The Packages Sigma EvaluateMultiSums and SumProduction
+On the Parameterized Complexity of Associative and Commutative Unification
+Logspace computations for Garside groups of spindle type
+Middle-Solving F to Compute Grobner bases for Cryptanalysis over GF(2)
+Efficient Algorithms for Computing Rational First Integrals and Darboux Polynomials of Planar Polynomial Vector Fields
+Evaluating parametric holonomic sequences using rectangular splitting
+A Polyhedral Method to Compute All Affine Solution Sets of Sparse Polynomial Systems
+SymbolicData:SDEval - Benchmarking for Everyone
+Code Optimization in FORM
+Compositions and collisions at degree p 2
+Rational Univariate Representations of Bivariate Systems and Applications
+A probabilistic and deterministic modular algorithm for computing Groebner basis over Q
+On acobian group arithmetic for typical divisors on curves
+Chapter 1: Algebraic Algorithms
+Computing the multilinear factors of lacunary polynomials without heights
+Analyzing Multiplicities of a Zero-dimensional Regular Set's Zeros Using Pseudo Squarefree Decomposition
+A Symbolic Transformation Language and its Application to a Multiscale Method
+A fast algorithm for reversion of power series
+Degeneracy loci and polynomial equation solving
+Fast Algorithms for Refined Parameterized Telescoping in Difference Fields
+Comprehensive Border Bases for Zero Dimensional Parametric Polynomial Ideals
+A Generic Position Based Method for Real Root Isolation of Zero-Dimensional Polynomial Systems
+Special Algorithm for Stability Analysis of Multistable Biological Regulatory Systems
+On modular computation of Groebner bases with integer coefficients
+Computing zeta functions of sparse nondegenerate hypersurfaces
+From Approximate Factorization to Root Isolation with Application to Cylindrical Algebraic Decomposition
+Elimination for generic sparse polynomial systems
+Separating linear forms for bivariate systems
+Faster sparse interpolation of straight-line programs
+Effective Differential Nullstellensatz for Ordinary DAE Systems with Constant Coefficients
+A Fast Algorithm for the Inversion of Quasiseparable Vandermonde-like Matrices
+Parallel Telescoping and Parameterized Picard--Vessiot Theory
+Over-constrained Weierstrass iteration and the nearest consistent system
+Applications of the Gauss-ordan algorithm done right
+The Differential Dimension Polynomial for Characterizable Differential Ideals
+A Near-Optimal Algorithm for Computing Real Roots of Sparse Polynomials
+The MMO problem
+Powers of Tensors and Fast Matrix Multiplication
+A recombination algorithm for the decomposition of multivariate rational functions
+Theory Presentation Combinators
+Reducing the size and number of linear programs in a dynamic Gr obner basis algorithm
+On Newton-Raphson iteration for multiplicative inverses modulo prime powers
+Classification of Angle-Symmetric R Linkage
+Intrinsic complexity estimates in polynomial optimization
+Relativistic Coulomb Integrals and Zeilberger's Holonomic Systems Approach II
+Finding Linear Dependencies in Integration-By-Parts Equations: A Monte Carlo Approach
+On the length of integers in telescopers for proper hypergeometric terms
+Hrushovski's Algorithm for Computing the Galois Group of a Linear Differential Equation
+Ranks of Quotients Remainders and p -Adic Digits of Matrices
+Divide-And-Conquer Computation of Cylindrical Algebraic Decomposition
+Parallel computation of echelon forms
+A New Technique for Analyzing R Linkages: Quad Polynomials
+Tensor computations in computer algebra systems
+Computing discrete logarithms in subfields of residue class rings
+Matrix-F algorithms and tropical Gr obner bases computation
+Nonnegative Trigonometric Polynomials Sturms Theorem and Symbolic Computation
+Independence of hyperlogarithms over function fields via algebraic combinatorics
+Combinatorics of phi -deformed stuffle Hopf algebras
+Tame Decompositions and Collisions
+Matrix Methods for Solving Algebraic Systems
+Design Implementation and Evaluation of MTBDD based Fuzzy Sets and Binary Fuzzy Relations
+A Short Note on Zero-error Computation for Algebraic Numbers by IPSLQ
+Matrix-F algorithms over finite-precision complete discrete valuation fields
+Model-based construction of Open Non-uniform Cylindrical Algebraic Decompositions
+Procesamiento topo-geom 'etrico de im 'agenes neuronales
+Program Verification in the presence of complex numbers functions with branch cuts etc
+Detecting Similarity of Rational Plane Curves
+Certification of Bounds of Non-linear Functions: the Templates Method
+Polynomial-Time Algorithms for Quadratic Isomorphism of Polynomials: The Regular Case
+Modernizing PHCpack through phcpy
+Automatic congruences for diagonals of rational functions
+Exact Solutions in Structured Low-Rank Approximation
+Essentially optimal interactive certificates in linear algebra
+Defining and computing persistent Z-homology in the general case
+Proceedings 1st International Workshop on Synthesis of Continuous Parameters
+Factoring Differential Operators in n Variables
+Predicting zero reductions in Gr obner basis computations
+An Improvement over the GVW Algorithm for Inhomogeneous Polynomial Systems
+A survey on signature-based Gr obner basis computations
+The Secant-Newton Map is Optimal Among Contracting n th Degree Maps for n th Root Computation
+Nearly Optimal Computations with Structured Matrices
+Accelerated Approximation of the Complex Roots of a Univariate Polynomial (Extended Abstract)
+Global Newton Iteration over Archimedean and non-Archimedean Fields
+Automatic Differentiation of Algorithms for Machine Learning
+A Majorization Order on Monomials and Termination of a Successive Difference Substitution Algorithm
+A baby step-giant step roadmap algorithm for general algebraic sets
+Detecting Symmetries of Rational Plane and Space Curves
+Creative telescoping for rational functions using the Griffiths-Dwork method
+Reduced Gr obner Bases and Macaulay-Buchberger Basis Theorem over Noetherian Rings
+Probabilistic Algorithm for Polynomial Optimization over a Real Algebraic Set
+xTras: a field-theory inspired xAct package for Mathematica
+On the Complexity of Computing Critical Points with Gr obner Bases
+Sparse interpolation over finite fields via low-order roots of unity
+Constructing Fewer Open Cells by GCD Computation in CAD Projection
+Multivariate sparse interpolation using randomized Kronecker substitutions
+Computing periods of rational integrals
+Binomial Difference Ideal and Toric Difference Variety
+Computing all Affine Solution Sets of Binomial Systems
+Improved algorithm for computing separating linear forms for bivariate systems
+Una metodolog 'ia para realizar Diferenciaci 'on Autom 'atica Anidada
+Cylindrical Algebraic Decomposition Using Local Projections
+Numerical Hilbert functions for Macaulay2
+A fast algorithm for computing the characteristic polynomial of the p-curvature
+Computing necessary integrability conditions for planar parametrized homogeneous potentials
+Diferenciaci 'on Autom 'atica Anidada Un enfoque algebraico
+On the design of an expert help system for computer algebra systems
+Geometric involutive bases for positive dimensional polynomial ideals and SDP methods
+Unary Primitive Recursive Functions
+Pfaffian Systems of A-Hypergeometric Equations I: Bases of Twisted Cohomology Groups
+A Piano Movers Problem Reformulated
+The 3 x 3 x 3 hyperdeterminant as a polynomial in the fundamental invariants for SL(3 C) x SL(3 C) x SL(3 C)
+Composing and Factoring Generalized Green's Operators and Ordinary Boundary Problems
+Cylindrical Algebraic Sub-Decompositions
+Sparse Gr obner Bases: the Unmixed Case
+Sparse Polynomial Interpolation Codes and their decoding beyond half the minimal distance
+Macaulay-Buchberger Basis Theorem for Residue Class Polynomial Rings with Torsion and Border Bases over Rings
+Formulating problems for real algebraic geometry
+Fast K otter-Nielsen-H o holdt Interpolation in the Guruswami-Sudan Algorithm
+Hierarchical Comprehensive Triangular Decomposition
+A novel approach to integration by parts reduction
+Gr obner Bases for Linearized Polynomials
+An Efficient Multiplication Algorithm Using Nikhilam Method
+Branch Cuts in Maple 1
+On the Complexity of the F Gr obner basis Algorithm
+Misfortunes of a mathematicians' trio using Computer Algebra Systems: Can we trust
+Computing low-degree factors of lacunary polynomials: a Newton-Puiseux approach
+Applying machine learning to the problem of choosing a heuristic to select the variable ordering for cylindrical algebraic decomposition
+Problem formulation for truth-table invariant cylindrical algebraic decomposition by incremental triangular decomposition
+Computing GCRDs of Approximate Differential Polynomials
+Strongly stable ideals and Hilbert polynomials
+Recent Symbolic Summation Methods to Solve Coupled Systems of Differential and Difference Equations
+Determining surfaces of revolution from their implicit equations
+Resultant of an equivariant polynomial system with respect to the symmetric group
+Rigorous uniform approximation of D-finite functions using Chebyshev expansions
+Survey on counting special types of polynomials
+Elements of Design for Containers and Solutions in the LinBox Library
+Even faster integer multiplication
+Faster polynomial multiplication over finite fields
+Nested (inverse) binomial sums and new iterated integrals for massive Feynman diagrams
+The package HarmonicSums: Computer Algebra and Analytic aspects of Nested Sums
+On the Complexity of Computing with Planar Algebraic Curves
+A Generalized Apagodu-Zeilberger Algorithm
+Tracking p-adic precision
+Using the Regular Chains Library to build cylindrical algebraic decompositions by projecting and lifting
+Choosing a variable ordering for truth-table invariant cylindrical algebraic decomposition by incremental triangular decomposition
+GCD Computation of n Integers
+An Algorithm for Deciding the Summability of Bivariate Rational Functions
+Certifying solutions to overdetermined and singular polynomial systems over Q
+Solving Polynomial Equations with Equation Constraints: the Zero-dimensional Case
+Desingularization of Ore Operators
+Bounds for D-finite closure properties
+Computing the determinant of a matrix with polynomial entries by approximation
+Differential elimination by differential specialization of Sylvester style matrices
+Relating p -adic eigenvalues and the local Smith normal form
+Truth Table Invariant Cylindrical Algebraic Decomposition by Regular Chains
+Deterministic polynomial-time test for prime ideals in a Dedekind domain with finite rank
+Algorithms in Real Algebraic Geometry: A Survey
+Fast and deterministic computation of the determinant of a polynomial matrix
+Tropical Effective Primary and Dual Nullstellens atze
+On Ideal Lattices and Gr obner Bases
+Irreducibility of q-difference operators and the knot  
+Tropicalization of classical moduli spaces
+Numerical Reparametrization of Rational Parametric Plane Curves
+Characterization of Rational Ruled Surfaces
+HPERDIRE: HPERgeometric functions DIfferential REduction: MATHEMATICA based packages for differential reduction of generalized hypergeometric functions: F D and F S Horn-type hypergeometric functions of three variables
+A Quadratically Convergent Algorithm for Structured Low-Rank Approximation
+Melikyan algebra is a deformation of a Poisson algebra
+Covering Rational Ruled Surfaces
+Computing Multiplicative Order and Primitive Root in Finite Cyclic Group
+A Monomial-Oriented GVW for Computing Gr obner Bases
+Automatic Generation of Loop-Invariants for Matrix Operations
+Knowledge-Based Automatic Generation of Partitioned Matrix Expressions
+Generalized Hash Functions based on Multivariate Ideal Lattices
+Recognizing implicitly given rational canal surfaces
+Missing sets in rational parametrizations of surfaces of revolution
+Gr obner Bases and Nullstellens atze for Graph-Coloring Ideals
+From Moments to Functions in Quantum Chromodynamics
+A Diffie-Hellman-like Key Exchange Protocol Based on Multivariate Ore Polynomials
+New effective differential Nullstellensatz
+Exploiting chordal structure in polynomial ideals: a Gr obner bases approach
+Sparse implicitization by interpolation: Geometric computations using matrix representations
+A canonical form for the continuous piecewise polynomial functions
+The Multithreaded version of FORM
+Stationary or static space-times and oung tableaux
+Factorization of Z-homogeneous polynomials in the First (q)-Weyl Algebra
+HPERgeometric functions DIfferential REduction: MATHEMATICA based packages for differential reduction of generalized hypergeometric functions: Horn hypergeometric functions of two variables
+Higher-order Reverse Automatic Differentiation with emphasis on the third-order
+Truth Table Invariant Cylindrical Algebraic Decomposition
+Solving the Isomorphism of Polynomials with Two Secrets Problem for all Pairs of Quadratic Forms
+Sparse Univariate Polynomials with Many Roots Over Finite Fields
+Finding Semi-Analytic Solutions of Power System Differential-Algebraic Equations for Fast Transient Stability Simulation
+Numeric certified algorithm for the topology of resultant and discriminant curves
+Bounded-degree factors of lacunary multivariate polynomials
+Four Random Permutations Conjugated by an Adversary Generate S n with High Probability
+Efficient edge-skeleton computation for polytopes defined by oracles
+Faster Sparse Multivariate Polynomial Interpolation of Straight-Line Programs
+On the Inverting of A General Heptadiagonal Matrix
+A Successive Resultant Projection for Cylindrical Algebraic Decomposition
+Probabilistic analysis of Wiedemann's algorithm for minimal polynomial computation
+Real root finding for determinants of linear matrices
+Generalization of Gabidulin Codes over Fields of Rational Functions
+On the complexity of computing Gr o bner bases for weighted homogeneous systems
+Introduction to Redberry: a computer algebra system designed for tensor manipulation
+Large Galois groups with applications to Zariski density
+On Solving Pentadiagonal Linear Systems via Transformations
+Accurate solution of near-colliding Prony systems via decimation and homotopy continuation
+Data-Discriminants of Likelihood Equations
+Parallel degree computation for solution space of binomial systems with an application to the master space of mathcal N 1 gauge theories
+Computation of Differential Chow Forms for Prime Differential Ideals
+Integral D-Finite Functions
+Improving the use of equational constraints in cylindrical algebraic decomposition
+A test for monomial containment
+An Improved Abramov-Petkovsek Reduction and Creative Telescoping for Hypergeometric Terms
+Subtropical Real Root Finding
+Better Answers to Real Questions
+Computing the Rank Profile Matrix
+Output-sensitive algorithms for sumset and sparse polynomial multiplication
+Randomized Structured Preprocessing versus Pivoting
+Real Polynomial Root-finding by Means of Matrix and Polynomial Iterations
+Accelerated Approximation of the Complex Roots and Factors of a Univariate Polynomial
+A Generalized Framework for Virtual Substitution
+Topology of 2D and 3D Rational Curves
+On the Shape of Curves that are Rational in Polar Coordinates
+An Algorithmic Characterization of Polynomial Functions over Z p n
+Faster Algorithms for Multivariate Interpolation with Multiplicities and Simultaneous Polynomial Approximations
+On the Efficiency of Solving Boolean Polynomial Systems with the Characteristic Set Method
+A comparison of three heuristics to choose the variable ordering for CAD
+A Difference Ring Theory for Symbolic Summation
+Using the distribution of cells by dimension in a cylindrical algebraic decomposition
+A streamlined difference ring theory: Indefinite nested sums the alternating sign and the parameterized telescoping problem
+Polyhedral Omega: A New Algorithm for Solving Linear Diophantine Systems
+Near Optimal Subdivision Algorithms for Real Root Isolation
+Real root finding for rank defects in linear Hankel matrices
+Fast arithmetic for faster integer multiplication
+Extractions: Computable and Visible Analogues of Localizations for Polynomial Ideals
+Planar Linkages Following a Prescribed Motion
+Automatic differentiation in machine learning: a survey
+Abstract Canonical Inference

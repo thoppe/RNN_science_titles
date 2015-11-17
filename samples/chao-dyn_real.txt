@@ -1,0 +1,2398 @@
+A General Approach to the Modelling of Trophic Chains
+Thermal Relaxation in One-Dimensional Self-Gravitating Systems
+Torus Construction
+Chaos and order in a finite universe
+Universal Scaling Properties in Large Assemblies of Simple Dynamical Units Driven by Long-Wave Random Forcing
+WKB corrections to the energy splitting in double-well potentials
+Self Control of Chaotic Dynamics using LTI Filters
+Universal Quantification for Self-Organized Criticality in Atmospheric Flows
+Towards the global: complexity topology and chaos in modelling simulation and computation
+Stochastic Response Cascading and Control of Colored Noise in Dynamical System
+Localized Optimal Control of Spatiotemporal Chaos
+Electrodynamics of helium with retardation and diffusion along the center manifold of Wannier orbits
+Hierarchy in chaotic scattering in Hill's problem
+Chaos and Quantumlike Mechanics in Atmospheric Flows : A Superstring Theory for Supergravity
+Multifractal Interpolation of Universal Multifractals
+Amplitude Equations and Chemical Reaction-Diffusion Systems
+ESS and Dissipation Range Dynamics of 3-D Turbulence
+Periodic orbits near bifurcations of codimension two: Classical mechanics semiclassics and Stokes transitions
+Chaotic eigenfunctions in phase space
+Transfer Operators for Coupled Analytic Maps
+Spontaneous Decoherence in Coupled Quantum Kicked Rotators
+Density-Density Correlators in Infinite Random Matrices
+Feigenbaum networks
+Deterministic Chaos and the Foundations of the Kinetic Theory of Gases
+Almost-Hermitian Random Matrices: Applications to the Theory of Quantum Chaotic Scattering and Beyond
+Spatial Correlations in Chaotic Eigenfunctions
+Review on 'Integrability of the S-Matrix vs Integrability of the Hamiltonian' by C. Jung and T.H. Seligman
+Quantum Mechanics and Semiclassics of Hyperbolic n-Disk Scattering Systems
+Stochastic Responses of the Stable Period-p Orbits in One-Dimensional Noisy Map Systems
+First principle basis of the direct numerical simulation for turbulence of inert and reactive gases
+Nonperturbative renormalization group approach to turbulence
+Transport properties of kicked and quasi-periodic Hamiltonians
+Hamilton-Jacobi equation heteroclinic chains and Arnol'd diffusion in three time scales systems
+Chaotic Behavior of a One-dimensional Model Atom in an Intense Field
+Plateau in Above-Threshold-Ionization Spectra and Chaotic Behavior in Rescattering Process
+The Euler-Poincare Equations and Semidirect Products with Applications to Continuum Theories
+Groups and nonlinear dynamical systems. Dynamics on the SU(2) group
+Groups and nonlinear dynamical systems. Chaotic dynamics on the SU(2)xSU(2) group
+Finite-time Lyapunov exponents of Strange Nonchaotic Attractors
+A hypothesis concerning quantal Hilbert space criterion of chaos in nonlinear dynamical systems
+Low dimensional travelling interfaces in coupled map lattices
+General theory and examples of the inverse Frobenius-Perron problem
+Renormalization Group Operator Product Expansion and Anomalous Scaling in a Model of Advected Passive Scalar
+Phase Coherence in Chaotic Oscillatory Media
+Exploring the Collective Behavior on the One-dimensional Quartic Map
+Asymptotic expansion of 1-dimensional sub-manifolds of stable and unstable manifolds in a 4-dimensional symplectic mapping
+Quantum fluctuations: Enhancement or suppression of chaos?
+Mecanique statistique hors equilibre: l'heritage de Boltzmann
+Asymmetric Cellular Automaton Modeling Earthquakes
+Universality in the random matrix spectra in the regime of weak non-Hermiticity
+Lyapunov Exponents from Node-Counting Arguments
+Nonlinear projective filtering in a data stream
+Similarity attraction and initial conditions in an example of nonlinear diffusion
+On the Validity of the Conjugate Pairing Rule for Lyapunov Exponents
+A solitary-wave representation of turbulence in the physical-plus-eddy space
+Probing Physics of Magnetohydrodynamic Turbulence Using Direct Numerical Simulation
+Intermittency of Passive Advection
+Bursts and Shocks in a Continuum Shell Model
+A Diffusion Equation for Quantum Adiabatic Systems
+Coherent solitary-wave of mixing layer turbulence in the physical-plus-eddy space
+Turbulence and Bifurcation in the Motion of an Hydrocyclone
+Intermittency synthetic turbulence and wavelet structure functions
+Statistical Distance For Chaotic Maps
+Helicity advection in Turbulent Models
+In-out intermittency in PDE and ODE models of axisymmetric mean-field dynamos
+Entropy Production : From Open Volume Preserving to Dissipative Systems
+Quantizing Billiards with Arbitrary Trajectories
+Relaxation Fluctuations in Quantum Chaos
+Proper initial conditions for the lubrication model of the flow of a thin film of fluid
+Fingerprints of Chaos
+Hysteresis in Adiabatic Dynamical Systems: an Introduction
+Coherence space non-locality and lacunarity in a cascade model of turbulence
+Invariants and Labels in Lie-Poisson Systems
+Time Dependent Resonance Theory
+Comment on fractality of quantum mechanical energy spectra
+Modeling noisy time series: Physiological tremor
+Cross-spectral analysis of physiological tremor and muscle activity. I. Theory and application to unsynchronized EMG
+Cross-spectral analysis of physiological tremor and muscle activity. II. Application to synchronized EMG
+Constrained randomization of time series for hypothesis testing
+Analysis of Rayleigh-Plesset dynamics for sonoluminescing bubbles
+An Approximate KAM-Renormalization-Group Scheme for Hamiltonian Systems
+Passive Tracer Dispersion with Random or Periodic Source
+Infinite-Dimensional Linear Dynamical Systems with Chaoticity
+On a Linear Chaotic Quantum Harmonic Oscillator
+Nonlinear projective filtering I: Background in chaos theory
+Nonlinear projective filtering I: Application to real time series
+Strong Turbulence in d-Dimensions
+Quasicrystalline Pattern Formation in Fluid Substrates and Phyllotaxis
+A Superstring Theory for Fractal Spacetime Chaos and Quantumlike Mechanics in Atmospheric Flows
+Effect of noise on coupled chaotic systems
+Stochastic Coherence in Coupled Map Lattices
+Possible Solar Influence On Atmospheric Electric Field
+Delayed Dynamics toward Applications
+Ray and wave chaos in asymmetric resonant optical cavities
+ROC Analysis and a Realistic Model of Heart Rate Variability
+On the Special Role of Symmetric Periodic Orbits in a Chaotic System
+Applied Symbolic Dynamics
+Topological entropy and complexity for discrete dynamical systems
+Fractal Nature of TOGA Surface Pressure Time Series
+Interdisciplinary application of nonlinear time series methods
+The human ECG - nonlinear deterministic versus stochastic aspects
+The Dynamics Of Non-Linear Effects In Optical Processes
+Universal statistics of wave functions in chaotic and disordered systems
+Enhancement in Surface Atmospheric Pressure Variability Associated with a Major Geomagnetic Storm
+On the entropy devil's staircase in a family of gap-tent maps
+Rational dynamical zeta functions for birational transformations
+Quasiclassical Surface of Section Perturbation Theory
+Spacing distributions for rhombus billiards
+A simple method of chaos control
+Memory Effects and Scaling Laws in Slowly Driven Systems
+Dissipation statistics of a passive scalar in a multidimensional smooth flow
+The Spectral Autocorrelation Function in Weakly Open Chaotic Systems: Indirect Photodissociation of Molecules
+Modular Transformations Order-Chaos Transitions and Pseudo-Random Number Generation
+Cluster dynamics in systems with constant mean field coupling
+Chaos in the Classical Analogue of the Hofstadter Problem
+Marginal hyperchaos synchronization with a single driving variable
+Cantorian Fractal Spacetime Quantum-like Chaos and Scale Relativity in Atmospheric Flows
+Frustrated synchronization in competing drive-response coupled chaotic systems
+Hyperchaos synchronization with a zero driving variable
+Transitions to quantum chaos in a generic one-parameter family of billiards
+Forces and torques on non-spherical particles in viscous shear flows
+Expansion-modificaction systems: an explanation for long range correlations in DNA
+A Cell Dynamical System Model for Thundercloud Electrification
+Cantorian Fractal Spacetime and Quantum-like Chaos in Neural Networks of the Human Brain
+Eigenvalue statistics in quantum ideal gases
+Correspondence between classical dynamics and energy level spacing distribution in the transition billiard systems
+Maps for analysis of nonlinear dynamics
+Topological aspects of chaotic scattering in higher dimensions
+Phenomenology of Globally Coupled Map Lattice and its Extension
+Discrimination between Healthy and Sick Cardiac Autonomic Nervous System by Detrended Heart Rate Variability Analysis
+KAM--renormalization-group for Hamiltonian systems with two degrees of freedom
+Canonical structure of renormalization group equations and separability of Hamiltonian systems
+Cantorian Fractal Patterns Quantum-Like Chaos and Prime Numbers in Atmospheric Flows
+Is Weather Chaotic?
+The color-flavor transformation and a new approach to quantum chaotic maps
+Self-Organized Criticality in Daily Incidence of Acute Myocardial Infarction
+Anomalous Scaling from Controlled Closure in a Shell Model of Turbulence
+Large scale instabilities in two-dimensional magnetohydrodynamics
+Improved control of delayed measured systems
+Fractional Calculus and the Evolution of Fractal Phenomena
+Lyapunov Exponents for the Intermittent Transition to Chaos
+Energy transfer in two-dimensional magnetohydrodynamic turbulence
+Data-Adaptive Wavelets and Multi-Scale Singular Spectrum Analysis
+Bryuno Function and the Standard Map
+Entropy Production in Non-Linear Thermally Driven Hamiltonian Systems
+The effect of noise on parameter estimation in systems with complicated dynamics
+Symmetries invariants and cascades in a shell model of turbulence
+Studies of fractal structures and processes using methods of fractional calculus
+Identification and Control of Symmetric Systems
+A unifying definition of synchronization for dynamical systems
+Definition of fractal measures arising from fractional calculus
+A semiclassical theory of quantum noise in open chaotic systems
+On the Statistics of Small Scale Turbulence and its Universality
+Fix-point Multiplier Distributions in Discrete Turbulent Cascade Models
+Chaos control in traffic flow models
+Boundary Effects in The Complex Ginzburg-Landau Equation
+Triaxial Ellipsoidal Quantum Billiards
+Chaotic Monte Carlo computation: a dynamical effect of random-number generations
+A Study of Circadian Rhythm and Meteorological Factors Influencing Acute Myocardial Infarction
+Time scales of relaxation and Lyapunov instabilities in a one-dimensional gravitating sheet system
+Queues Stacks and Transcendentality at the Transition to Chaos
+Diffusion Limited Aggregation and Iterated Conformal Maps
+Generalized multibaker maps for open dissipative systems
+Pair correlations of quantum chaotic maps from supersymmetry
+The dynamics of a low-order coupled ocean-atmosphere model
+Chaotic Autoionization of the Relativistic Two-Electron Atom
+Amplitude Equations for Reaction-Diffusion Systems with a Hopf Bifurcation and Slow Real Modes
+Testing for General Dynamical Stationarity with a Symbolic Data Compression Technique
+Fractals of the Julia and Mandelbrot sets of the Riemann Zeta Function
+Smooth dynamics and new theoretical ideas in nonequilibrium statistical mechanics
+The Lorenz model as a singularly perturbed nonlinear system
+Geodesics deviation equation approach to chaos
+Chaos in monopole sector of the Georgi-Glashow model
+Holistic finite differences ensure fidelity to Burger's equation
+Advection-dispersion in symmetric field-flow fractionation channels
+Analytic estimate of the maximum Lyapunov exponent in coupled-map lattices
+The Effect of Radiation on the Stochastic Web
+Chaos and Maps in Relativistic Dynamical Systems
+Random Analytic Chaotic Eigenstates
+Adaptive estimation and control of unstable periodic dynamics in excitable biological systems
+Spiral Waves in Media with Complex Excitable Dynamics
+Generic Twistless Bifurcations
+Intermittency in Turbulence
+Analog to Digital Conversion in Physical Measurements
+Hecke theory and equidistribution for the quantization of linear maps of the torus
+Temporal chaos in discrete one dimensional gravity model of traffic flow
+A non extensive approach to the entropy of symbolic sequences
+Renormalization group method and canonical perturbation theory
+Drifters dispersion in the Adriatic Sea: Lagrangian data and chaotic model
+Comment on Entropy Generation in Computation and the Second law of Thermodynamics by S. Ishioka and N. Fuchikami
+Spatiotemporal Chaos Localized Structures and Synchronization in the Vector Complex Ginzburg-Landau Equation
+Improvement of SNR with Chaotic Spreading Sequences for CDMA
+A semiclassical theory of dissipative Henon-Heiles system
+Energy Absorption and Storage in a Hamiltonian System in Partial Contact with a Heat Bath
+Statistical Theory of Energy Transfer to Small and Chaotic Quantum Systems Induced by a Slowly-Varying External Field
+Chaotic Dynamics in Iterated Map Neural Networks with Piecewise Linear Activation Function
+Past events never come back
+Quantum and classical chaos for a single trapped ion
+Escape Time Weighting of Unstable Stationary Solutions of Spatiotemporal Chaos
+Mel'nikov Analysis of Homoclinic Chaos in a Perturbed sine-Gordon Equation
+Non-Integrability and Infinite Branching of Solutions of 2DOF Hamiltonian Systems in Complex Plane of Time
+Chaotization of the Supercritical Atom
+The Euler-Poincare Equations in Geophysical Fluid Dynamics
+A Nonlinear Analysis of the Averaged Euler Equations
+Multistability in dynamical systems
+Control of Dynamic Hopf Bifurcations
+Chaos as a basis of new principle for detecting the gravitational waves
+Dynamics of vortex and magnetic lines in ideal hydrodynamics and MHD
+Homoclinic Bifurcations for the Henon Map
+Intermittency in the Burgers and KPZ equation with correlated noise
+Surrogate data for non-stationary signals
+Intermittency in Inhomogeneous Coupled Map Lattices
+Statistical Theory for the Stochastic Burgers Equation in the Inviscid Limit
+Porosities and dimensions of measures satisfying the doubling condition
+Birth of resonances in the spin-orbit problem of Celestial Mechanics
+Determination of the proper embedding parameters for noisy time series
+Deciphering Secure Chaotic Communication
+Stability Exponents Separation of Variables and Lyapunov Transforms
+The Control of high-dimensional Chaos in Time-Delay Systems
+Intermittency corrections to the mean square particle acceleration in high Reynolds number turbulence
+Poincare's Recurrence Theorem and the Unitarity of the S matrix
+The Radiative Kicked Oscillator: A Stochastic Web or Chaotic Attractor ?
+Anomalous spatio-temporal chaos in a two-dimensional system of non-locally coupled oscillators
+Quantum-limited linewidth of a chaotic laser cavity
+Detection of Aliasing in Persistent Signals
+Ergodic and chaotic hypotheses: nonequilibrium ensembles in statistical mechanics and turbulence
+Restart Strategies and Internet Congestion
+The Accuracy of Semiclassical Quantization for Integrable Systems
+Information-Theoretic Limits of Control
+Synchronization of chaotic systems driven by identical noise
+Lagrangian Reduction the Euler--Poincar ' e Equations and Semidirect Products
+The accurate and comprehensive model of thin fluid flows with inertia on curved substrates
+Escape orbits and Ergodicity in Infinite Step Billiards
+The Bispectral Aliasing Test: A Clarification and Some Key Examples
+On the Field Theoretical Approach to the Anomalous Scaling in Turbulence
+On periodic solutions of a Hamilton-Jacobi equation with periodic forcing
+Aubry-Mather theory and idempotent eigenfunctions of the Bellman operator
+Random dynamical systems entropies and information
+Evolution of Multispecificity in an Immune Network
+Kinetic Theory of Dynamical Systems
+The effects of large scales on the inertial range in high-Reynolds-number turbulence
+Noise-driven Synchronization in Coupled Map Lattices
+The quantum three-dimensional Sinai billiard - a semiclassical analysis
+Dispersion management in optical fiber links: Integrability in leading nonlinear order
+On a conjecture for the critical behaviour of KAM tori
+Anomalous Scaling in the Anisotropic Sectors of the Kriachnan Model of Passive Scalar Advection
+Identification and characterization of systems with delayed feedback: (I) Theory and tools
+Synchronization of chaotic oscillations in doped fiber ring lasers
+Easy turbulence
+Transition to Turbulence in Coupled Maps on Hierarchical Lattices
+Comment on The dead zone for string players
+Non-universality of chaotic classical dynamics: implications for quantum chaos
+A model of dispersion in the unsteady separated shear flow past complex geometries
+Quantum Localization near Bifurcations in Classically Chaotic Systems
+Imperfect fractal repellers and irregular families of periodic orbits in a 3-D model potential
+Order and chaos in galactic maps
+Topological fluid mechanics of point vortex motions
+Some results on the Navier-Stokes equations in thin 3D domains
+Dynamics of Finger Formation in Laplacian Growth without Surface Tension
+Forced Burgers Turbulence in 3-Dimensions
+Stationary determinism in Observed Time Series: the earth's surface temperature
+Thermostating by deterministic scattering: the periodic Lorentz gas
+Digital Communication Using Chaotic Pulse Generators
+Hydrodynamic Lyapunov Modes in Translation Invariant Systems
+A Century of Controversy over the Foundations of Mathematics
+Transport in perturbed integrable Hamiltonian systems and the fractality of phase space
+The Gallavotti-Cohen Fluctuation Theorem for a non-chaotic model
+Semiclassical Theory of h e Aharonov-Bohm Oscillation in Ballistic Regimes
+An experimental test of the local fluctuation theorem in chains of weakly interacting Anosov systems
+Large Petermann factor in chaotic cavities with many scattering channels
+Non Perturbative Destruction of Localization in the Quantum Kicked Particle Problem
+Statistics of Transverse Velocity Differences in Turbulence
+Lyapunov Exponent Generalized Entropies and Fractal Dimensions Of Hot Drops
+Does mesoscopic disorder imply microscopic chaos?
+Quantum Aharonov-Bohm Billiard System
+Periodic-Orbit Theory of Anderson Localization on Graphs
+Chaos Dissipation and Quantal Brownian Motion
+Symmetry Breaking Anomalous Scaling and Large-Scale Flow Generation in a Convection Cell
+Noncommutative Martin-Lof randomness : on the concept of a random sequence of qubits
+Scaling in thermal convection: A unifying theory
+Indistinguishable multiplier statistics of discrete and continous turbulent cascade models
+Kinetic Theory Estimates for the Kolmogorov-Sinai Entropy and the Largest Lyapunov Exponents for Dilute Hard-Ball Gases and for Dilute Random Lorentz Gases
+Macroscopic Determinism in Noninteracting Systems Using Large Deviation Theory
+Kicked Burgers Turbulence
+Escape Probability and Mean Residence Time in Random Flows with Unsteady Drift
+Chaotic Properties of Subshifts Generated by a Non-Periodic Recurrent Orbit
+Dissipative Quasigeostrophic Motion under Temporally Almost Periodic Forcing
+The Finite-Difference Analysis and Time Flow
+Signatures of quantum chaos in nodal points and streamlines in electron transport through billiards
+Cascades in helical turbulence
+Topology of Central Pattern Generators: Selection by Chaotic Neurons
+Self-Similar Decay in the Kraichnan Model of a Passive Scalar
+Asymptotic expansions of unstable (stable) manifolds in time-discrete systems
+Ornstein-Uhlenbeck-Cauchy Process
+Chaotic enhancement of decay. The effect of classical phase space structure
+Heat conduction in 2d nonlinear lattices
+Density-dependent diffusion in the periodic Lorentz gas
+Can Strange Nonchaotic Dynamics be induced through Stochastic Driving?
+Quantum limit of the laser linewidth in chaotic cavities and statistics of residues of scattering matrix poles
+The passive polymer problem
+Direct measurement of intersection angle of invariant manifolds for area preserving mappings
+Forecasting the SST space-time variability of the Alboran Sea with genetic algorithms
+Asymptotics of high order noise corrections
+Billiard Sequences and the Property of Splittability of Integrable Hamilton Systems
+Almost Periodic Passive Tracer Dispersion
+Sensitive boundary condition dependence of noise-sustained structure
+Semiclassical singularities from bifurcating orbits
+General properties of propagation in chaotic systems
+A New Feature in Some Quasi-discontinuous Systems
+Fractional Fokker-Planck Equation for Nonlinear Stochastic Differential Equations Driven by Non-Gaussian Levy Stable Noises
+Algebraic Entropy of Birational Maps with Invariant Curves
+Generalized Stable Multivariate Distribution and Anisotropic Dilations
+The Nose-hoover thermostated Lorentz gas
+Transition to Chaotic Phase Synchronization through Random Phase Jumps
+Clustering of inertial particles in turbulent flows
+Experimental improvement of chaotic synchronization due to multiplicative time-correlated Gaussian noise
+Differentiability Implies Continuity in Neuronal Dynamics
+Exact Renormalization Scheme for Quantum Anosov Maps
+Large Global Coupled Maps with Multiple Attractors
+A simple denoising algorithm using wavelet transform
+Diffusion process in a deterministically forced flow
+Analogy Between Periodically Driven Josephson ac Effect and Quantum Hall Effect
+Conductance in a periodically doped quantum wire
+Torsion and electron motion in Quantum Dots with crystal lattice dislocations
+Ergodic properties of quantum conservative systems
+Correlations of Wave Functions in Disordered Systems
+Crossover from Selberg's type to Ruelle's type Zeta function in classical kinetics
+Critical aspects of hierarchical protein folding
+The probability for wave packet to remain in a disordered cavity
+Asymptotic power law of moments in a random multiplicative process with weak additive noise
+Hidden Dimer in the Frenkel-Kontorova model
+Analytical Estimation of the Maximal lyapunov Exponent in Oscillator Chains
+Vortices in a cylinder: Localization after depinning
+A Mathematical Model for Behavioral Changes by Pair Interactions and Its Relation to Game Theory
+Statistical Study for Eigenfunctions of 1-dimensional Tight Binding Model
+On the distribution of the total energy of a system on non-interacting fermions: random matrix and semiclassical estimates
+Synchronization and directed percolation in coupled map lattices
+Avalanche mixing of granular solids in a rotating 2D drum and discrete mapping
+Non-Monotone Characteristic of Spectral Statistics in the Transition between Poisson and Gauss
+A Chaotic Cousin Of Conway's Recursive Sequence
+Chaos control in photoconductors
+Thermodynamic Depth of Causal States: When Paddling around in Occam's Pool Shallowness Is a Virtue
+Distribution of the quantum mechanical time-delay matrix for a chaotic cavity
+Synchronization and Maximum Lyapunov Exponents of Cellular Automata
+Spectra of large random matrices: A method of study
+Chaos and quantum interference effect in semiconductor ballistic micro-structures
+Excitation spectrum of Andreev billiards with a mixed phase space
+Phase Transition in the Passive Scalar Advection
+Perturbative and non-perturbative parts of eigenstates and local spectral density of states: the Wigner band random matrix model
+Nonequilibrium effects in the tunneling conductance spectra of small metallic particles
+Localization by interference: Square billiard with a magnetic flux
+Dynamic Phase Transition and Hysteresis in Kinetic Ising Models
+Effective potential for classical field theories subject to stochastic noise
+Dynamics of a Ring of Diffusively Coupled Lorenz Oscillators
+An integration scheme for reaction-diffusion models
+Algorithmic Complexity in Minority Game
+Universality in metallic nanocohesion: a quantum chaos approach
+Computational Mechanics: Pattern and Prediction Structure and Simplicity
+Semiclassical mechanics of a non-integrable spin cluster
+Dynamics and statistics of simple models with infinite-range attractive interaction
+Effective potential for the reaction-diffusion-decay system
+Green's Functions in Non-hermitian Random Matrix Models
+Semiclassical Theory of Integrable and Rough Andreev Billiards
+Generalized bit cumulants for chaotic systems: Numerical results
+Random matrices random polynomials and Coulomb systems
+Nonequilibrium Mesoscopic Conductors Driven by Reservoirs
+Self-organized hierarchical structure in a plastic network of chaotic units
+The semiclassical tool in mesoscopic physics
+What can one learn about Self-Organized Criticality from Dynamical Systems theory ?
+String Cosmology and Chaos
+Chaos in closed isotropic cosmological models with steep scalar field potential
+Chaotic behavior of confining lattice gauge field configurations
+Magnetohydrodynamics of the Early Universe and the Evolution of Primordial Magnetic Fields
+Analytical solution for multivariate statistics in random multiplicative cascades
+Chiral Disorder and Diffusion in The QCD Vacuum
+Nonlinear effects in Schwinger-Dyson Equation
+On the Dynamical Meaning of Spectral Dimensions
+Cauchy Noise and Affiliated Stochastic Processes
+Non-Linear Stability Analysis of Higher Order Dissipative Partial Differential Equations
+Quantum unique ergodicity for parabolic maps
+An Elementary Proof of the Existence and Uniqueness Theorem for the Navier-Stokes Equations
+Integrable geodesic flow with positive topological entropy
+Momentum maps and Noether theorem for generalized Nambu mechanics
+Integration of Brownian vector fields
+On quantum ergodicity for linear maps of the torus
+The geometry of bifurcation surfaces in parameter space. I. A walk through the pitchfork
+Benard-Marangoni Convection in Two Layered Liquids
+Detuning Induced Effects: Symmetry-Breaking Bifurcations in Dynamic Model of One-Mode Laser
+Advection and diffusion in a three dimensional chaotic flow
+The Dirac equation approach to spin-1 2 particle beam optics
+Turbulent Decay of a Passive Scalar in Batchelor Limit: Exact Results from a Quantum-Mechanical Approach
+Quantum response of finite Fermi systems and the relation of Lyapunov exponent to transport coefficients
+Eigenstates for billiards of arbitrary shapes
+Intermittency in the solar wind turbulence through probability distribution functions of fluctuations
+Nonlinear Accelerator Problems via Wavelets: 1. Orbital Motion in Storage Rings
+Nonlinear Accelerator Problems via Wavelets: 2. Orbital Dynamics in General Multipolar Field
+Nonlinear Accelerator Problems via Wavelets: 3. Effects of Insertion Devices on Beam Dynamics
+Nonlinear Accelerator Problems via Wavelets: 4. Spin-Orbital Motion
+Nonlinear Accelerator Problems via Wavelets: . Maps and Discretization via Wavelets
+Nonlinear Accelerator Problems via Wavelets: . Representations and Quasiclassics via FWT
+Nonlinear Accelerator Problems via Wavelets: . Invariant Calculations in Hamiltonian Problems
+Nonlinear Accelerator Problems via Wavelets: . Invariant Bases Loops and KAM
+Time Series Forecasting: A Nonlinear Dynamics Approach
+Non-stationary Characteristics of the instability in a Single-mode Laser with Fiber Feedback
+Scale Specific and Scale Independent Measures of Heart Rate Variability as Risk Indicators
+Burst Mechanisms in Hydrodynamics
+The Dynamics of Fullerene Structure Formation : Order out of Chaos Phenomenon
+Spectral Properties of the Two-Dimensional Laplacian with a Finite Number of Point Interactions
+Schroedinger's Interpolating Dynamics and Burgers' Flows
+Chaos Induced by Quantization
+Does quantum chaos exist? (A quantum Lyapunov exponents approach.)
+New Concept of Dynamic Complexity in Quantum Mechanics and Beyond
+Quantum Zeno and quantum anti-Zeno effects
+Influence of Small Impurities on Low-Energy Electron Dynamics in Two-Dimensional Microscopic Bounded Region
+Third Newton Law in the Mean and Perturbations of Noise
+Quantum chaos in the framework of complex probability processes. Thermodynamics of nonrelativistic vaccum
+The transition from a classical to a quantum world as a passage from extensive to non-extensive thermodynamics
+Double Solution with Chaos: Dynamic Redundance and Causal Wave-Particle Duality
+Double Solution with Chaos: Completion of de Broglie's Nonlinear Wave Mechanics and Its Intrinsic Unification with the Causally Extended Relativity
+Quantum mechanics without statistical postulates
+Comparison between quantum and classical dynamics in the effective action formalism
+Control of Wave Packet Revivals Using Geometric Phases
+Time dynamics in chaotic many-body systems: can chaos destroy a quantum computer?
+How Events Come Into Being: EEQT Particle Tracks Quantum Chaos and Tunneling Time
+Burgers Turbulence and the Continuous Spontaneous Localization Model
+Quantum Computing NP-complete Problems and Chaotic Dynamics
+Universal formats for nonlinear dynamical systems
+Classical and Quantal Irregular Scatterings with Complex Target
+Prediction and Adaptation in an Evolving Chaotic Environment
+Training and Turnover in Organizations
+Asymptotic Exit Location Distributions in the Stochastic Exit Problem
+Dynamics controlled by additive noise
+Conservation laws in coupled multiplicative random arrays lead to 1 f noise
+Analysis Synthesis and Estimation of Fractal-Rate Stochastic Point Processes
+Symplectic Integration without Roundoff Error
+Chaos Regularity and Noise in Self-Gravitating Systems
+Low Dimensional Dynamics in a Pulsating Star
+Fundamental Aspects of the ISM Fractality
+The Nature of Strange Modes in Classical Variable Stars
+Analysis of the Irregular Pulsations of AC Her
+Zeta function for the Lyapunov exponent of a product of random matrices
+An alternative to Plemelj-Smithies formulas on infinite determinants
+Symbolic dynamics II. The stadium billiard
+Topological organization of (low-dimensional) chaos
+Can averaged orbits be used to extract scaling functions?
+Flame Propagation Through Swirling Eddys A Recursive Pattern
+Global Solutions of the Equations of Elastodynamics of Incompressible Neo-Hookean Materials
+Dynamical Systems and Factors of Finite Automata
+Periodic Orbit Theory
+The Escape Problem for Irreversible Systems
+Non-ergodicity for C 1 Expanding Maps
+Randomness in Arithmetic and The Decline and Fall of Reductionism in Pure Mathematics
+A New Determinant for Quantum Chaos
+Inertial Forms of Navier-Stokes Equations on Sphere
+Dissipation Induced Instabilities
+One-dimensional dynamics and factors of finite automata
+Braid analysis of (low-dimensional) chaos
+A Dynamical Simulation Facility for Hybrid Systems
+Dynamical Systems: Some Computational Problems
+A Cayley Tree Immune Network Model with Antibody Dynamics
+Poincar 'e maps of Duffing--type oscillators and their reduction to circle maps. I. Analytic results
+Periodic Solutions of a System of Coupled Oscillators Near Resonance
+Formal Languages in Dynamical Systems
+Large Fluctuations in Stochastically Perturbed Nonlinear Systems: Applications in Computing
+The Effect of Focusing and Caustics on Exit Phenomena in Systems Lacking Detailed Balance
+Chaotic System on the Super Riemann Surface
+Exhibiting Randomness in Arithmetic using Mathematica and C
+Renormalization Group and Asymptotics of Solutions of Nonlinear Parabolic Equations
+Using Horseshoes to Create Coherent Structures
+Stable Non-Gaussian Diffusive Profiles
+On the Quantum Cat and Sawtooth Maps- Return to Generic Behaviour
+Stochastic Resonance
+A Genealogy for Finite Kneading Sequences of Bimodal Maps on the Interval
+Dependence of extensive chaos on the spatial correlation length (substantial revision)
+Organizational Fluidity and Sustainable Cooperation
+Quantum Dissipative Chaos
+Prediction of Large Events on a Dynamical Model of a Fault
+Non-deterministic chaos
+High Frequency Stochastic Resonance in Periodically Driven Systems
+A Dynamical Approach to Fractional Brownian Motion
+Resonance spectra and a periodic orbit sum rule for bound chaotic systems
+Rotation Axis Variation Due To Spin Orbit Resonance
+Chaotic Transport in Planar Periodic Vortical Flows
+Chaotic Pulse Trains
+Regular unimodal systems and factors of finite automata
+Chaotic regular and unbounded behaviour in the elastic impact oscillator
+Characteristic Representation of Elementary Cellular Automata
+Classical and Quantum Chaos from Continuous Quantum Measurements
+Effect of a magnetic flux line on the quantum beats in the H 'enon-Heiles level density
+Transport Properties of the Lorentz Gas in Terms of Periodic Orbits
+Noise-Induced Linearisation and Delinearisation
+The Limits of Mathematics---Course Outline and Software
+The Dynamics of Vortex Structures and States of Current in Plasma-Like Fluids and the Electrical Explosion of Conductors: 2. Computer experiment
+Chaotic time series Part II: System identification and prediction
+Chaotic time series Part I: Estimation of invariant properies in state space
+Periodic Orbit Theory of Diffraction
+Quantum Chaos
+A Method for Detecting Possible Non-determinism in a Time Series
+Transition to Chaos in a Shell Model of Turbulence
+Prediction Errors and Local Lyapunov Exponents
+Dynamical Systems Accepting the Normal Shift
+Ergodicity ensembles irreversibility in Boltzmann and beyond
+Local Controls for Large Assemblies of Nonlinear Elements
+The Limits of Mathematics (in C)
+Numerical Study of Granular Turbulence and the appearance of k - 3 energy spectrum without flow
+Defect--Defect Correlation Functions Generic Scale Invariance and the Complex Ginzburg--Landau Equation
+The Berry Paradox
+Riemann zeta function is a fractal
+Differential equations to compute hbar corrections of the trace formula
+Periodic orbit asymptotics for intermittent Hamiltonian systems
+Stability Limit for Mode-I Fracture
+Chaos and Noise in a Truncated Toda Potential
+Belavkin-Kolokoltsov watch-dog effects in interactively controlled stochastic computer-graphic dynamic systems
+Pattern Dynamics of a Coupled Map Lattice for Open Flow
+Remarks on the mean field dynamics of networks of chaotic elements
+The Limits of Mathematics---The Book
+Nonlinear dynamics in one and two dimensional arrays of discrete Josephson elements
+The Limits of Mathematics---Alternative Version
+The Limits of Mathematics---Third Version
+Rayleigh-B ' e nard Convection Patterns Chaos Spatiotemporal Chaos and Turbulence
+The Limits of Mathematics---Fourth Version
+The Limits of Mathematics---Extended Abstract
+Dynamic Scaling Function at the Quasiperiodic Transition to Chaos
+Texture Segmentation by Local Bi-Orthogonal Decomposition
+A Stochastic Process for the Dynamics of the Turbulent Cascade
+Anisotropy and scaling corrections in turbulence
+Non-deterministic chaos
+Weakly Chaotic Population Dynamics in Random Ecological Networks
+Inclusion of Diffraction Effects in the Gutzwiller Trace Formula
+The Bianchi Ix (MIMASTER) Cosmological Model is Not Integrable
+Dynamics of Small Autocatalytic Reaction Network II: Replication Mutation and Catalysis
+Anomalous Scaling and Fusion Rules in Hydrodynamic Turbulence
+Computation of Lie Transformations from a Power Series: Bounds and Optimum Truncation
+Long-wave models of thin film fluid dynamics
+Semiquantum Chaos and the Large N Expansion
+Braid analysis of chaos
+Comment on Bouncing ball with finite restitution ...
+The effects of additive noise and drift in the dynamics of the driving on chaotic synchronization
+Synchronization of chaotic systems: the effects of additive noise and drift in the dynamics and driving
+Equations for Turbulent Flood Waves
+Periodic orbits of the integrable Swinging Atwood's Machine
+Initial Conditions for Models of Dynamical Systems
+The Construction of Zonal Models of Dispersion in Channels via Matched Centre Manifolds
+Global Existence and Large Time Asymptotic Bounds of L infty Solutions of Thermal Diffusive Combustion Systems on R n
+Estimation of embedding dimension by experimental data. Part 1
+Cycle expansions with pruned orbits have branch points
+When are vector fields Hamiltonian?
+Statistical properties of high-lying chaotic eigenstates
+Controlling Chaos using an Exponential Control
+Reversible Anosov diffeomorphisms and large deviations
+Global Large Time Self-similarity of a Thermal-Diffusive Combustion System with Critical Nonlinearity
+Random walk on Sierpinski-type multifractals
+SUPPLEMENT TO THE PAPER: Separating the regular and irregular energy levels and their statistics in Hamiltonian system with mixed classical dynamics
+On the convergence of normalizing transformations in the presence of symmetries
+Trace formulae for three-dimensional hyperbolic lattices and application to a strongly chaotic tetrahedral billiard
+Scattering Phases and Density of States for Exterior Domain
+The ambiguous meaning of irreversibility
+Symbolic Dynamics and Markov Partitions for the Stadium Billiard
+Quantum Surface of Section Method: Decomposition of the Resolvent (E - H) (-1)
+Exact Resummations in the Theory of Hydrodynamic Turbulence: . Line-Resummed Diagrammatic Perturbation Approach
+Quantum manifestations of classical chaos in a Fermi accelerating disk
+Quantization of Sinai's Billiard - A Scattering Approach
+Geometrization of spin systems using cycle expansions
+Chaos induced by Pauli blocking
+Do Spectral Trace Formulae Converge?
+Controlling Neuronal Noise Using Chaos Control
+Stochastic Shell Model: a model of anomalous scaling and non-Gaussian distribution in turbulence
+The entropy of strange'' billiards inside n-simplexes
+Quantum Surface of Section Method: Eigenstates and Unitary Quantum Poincare Evolution
+The Source of Irreversibility in Macroscopic Dynamics
+Universality in Turbulence: an Exactly Soluble Model
+Basis functions for strongly correlated Fermi systems
+The Schroedinger Problem Levy Processes Noise in Relativistic Quantum Mechanics
+THE CONVERGENCE OF CHAOTIC INTEGRALS
+Disorder in the 1D spinless Holstein model
+Chaotic principle: some applications to developed turbulence
+Chaotic Dynamics of Binary Systems
+A New Version of Algorithmic Information Theory
+Enhancing Efficiency of Mixing in Chaotic Flows
+Chaotic hypothesis: Onsager reciprocity and fluctuation-dissipation theorem
+The creation of high-dimensional oscillations from low-dimensional systems
+Boundary integral method applied in chaotic quantum billiards
+Exactly Conservative Integrators
+The Fourth-Order Correlation Function of a Randomly Advected Passive Scalar
+A metaphor for adiabatic evolution to symmetry
+Bifurcation at Complex Instability
+Anomalous Viscosity Resistivity and Thermal Diffusivity of the Solar Wind Plasma
+Direct Interaction Approximation of Magnetohydrodynamic Turbulence
+Turbulent Heating in the Solar Wind and in the Solar Corona
+Trace formulas and dynamical zeta functions in the Nielsen theory
+The Limits of Mathematics---Tutorial Version
+Recursive Proportional Feedback and its Use to Control Chaos in an Electrochemical System
+How to Run Algorithmic Information Theory on a Computer
+Is there relevance of chaos in numerical solutions of quantum billiards?
+The Limits of Mathematics
+Infinite dimensional SRB measures
+Undecidability everywhere?
+Spatiotemporal bifurcations in plasma drift-waves
+Generalized scaling in fully developed turbulence
+Intermittency chaos and singular fluctuations in the mixed Obukhov-Novikov shell model of turbulence
+Quantum Mechanics with Chaos: Correspondence Principle Measurement and Complexity
+Estimating the Attractor Dimension of the Equatorial Weather System
+Exact solutions in the FPU oscillator chain
+Decay of correlations Lyapunov exponents and anomalous diffusion in the Sinai billiard
+Generalized phase transitions in finite coupled map lattices
+Random band matrix approach to chaotic scattering: the average S -matrix and its pole distribution
+Classical and Quantum Chaotic Behaviors of Two Colliding Harmonic Oscillators
+Practical and algorithmical manifestations of quantum chaos
+Ergodic properties of quantized toral automorphisms
+Characterization of chaos in random maps
+Statistical Test for Dynamical Nonstationarity in Observed Time-Series Data
+Smoothing Strange Attractors Using Splines
+Comment on Multicomponent turbulence the spherical limit and non-Kolmogorov spectra''
+Large eddy simulation of two-dimensional isotropic turbulence
+The Effect of Small-Scale Forcing on Large-Scale Structures in Two-Dimensional Flows
+Quantum corrections to the semiclassical quantization of a nonintegrable system
+Tools for Nonlinear Analysis: I. Unfolding of Dynamical Systems
+The Necessity for a Time Local Dimension in Systems with Time Varying Attractors
+Structural Invariance: A Link Between Chaos and Random Matrices
+Zeta functions with Dirichlet and Neumann boundary conditions for exterior domains
+Application of the diffraction trace formula to the three disk scattering system
+Closed-Form Expressions for the Noncompact Part of Sp(2n)
+Surface Structure and Catalytic CO Oxidation Oscillations
+Metric structures of inviscid flows
+Small Disks and Semiclassical Resonances
+The Multifractal Model' of Turbulence and em A Priori Estimates in Large-Eddy Simulation I. Subgrid Flux and Locality of Energy Transfer
+The Multifractal Model' of Turbulence and em A Priori Estimates in Large-Eddy Simulation II. Evaluation of Stress Models and Non-Universal Effects of the Filter
+Escape Orbits for Non-Compact Flat Billiards
+On the properties of level spacings for decomposable systems
+Topology of energy surfaces and existence of transversal Poincar 'e sections
+Secular determinants of random unitary matrices
+Large deviation rule for Anosov flows
+Some exact correlations in the Dyson Brownian motion model for transitions to the CUE
+Spatial chaos in weakly dispersive and viscous media: a nonperturbative theory of the driven KdV-Burgers equation
+Three disks in a row: A two-dimensional scattering analog of the double-well problem
+Dynamical Zeta Functions Nielsen theory and Reidemeister torsion
+Burgers Velocity Fields and the Electromagnetic Forcing in Schroedinger's Interpolating Dynamics
+Non-equilibrium Thermodynamics approach to Transport Processes in Gas Mixtures
+The Spatio-Temporal Structure of Spiral-Defect Chaos
+Long-time unbreaking correlations in the large number of degrees of freedom Hamiltonian system
+Inflation of Hamiltonian System: The Spinning Top in Projective Space
+Acoustic Energy Storage in Single Bubble Sonoluminescence
+Studies of chaotic Dynamics in a Three-Dimensional Superconducting Microwave Billiard
+Ergodic Properties of the Quantum Ideal Gas in the Maxwell-Boltzmann Statistics
+Existence and Uniqueness of L 2 -Solutions at Zero-Diffusivity in the Kraichnan Model of a Passive Scalar
+Universality of the Inertial-Convective Range in Kraichnan's Model of a Passive Scalar
+Chaos and Scaling in Classical Non-Abelian Gauge Fields
+Resonant interactions in B ' e nard-Marangoni convection in cylindrical containers
+Decay of Nuclear Giant Resonances: Quantum Self-similar Fragmentation
+Study of chaos in hamiltonian systems via convergent normal forms
+Asymptotic formulae for the Lyapunov spectrum of fully-developed shell model turbulence
+Analysis and Characterization of Complex Spatio-temporal Patterns in Nonlinear Reaction-Diffusion Systems
+Fusion Rules and Conditional Statistics in Turbulent Advection
+Study of Chaos and Scaling in Classical SU(2) Gauge Theory
+Non--Hyperbolic Dynamics: a Family of Special Functions
+Backscattering-Induced Crossover in Deterministic Diffusion
+Classical Kolmogorov scaling is inconsistent with local coupling
+Turbulent behaviour in magnetic hydrodynamics is not universal
+Spatio-temporal chaos and patterns formation in nonequilibrium media: phenomenological model of electronic turbulence
+Hydrodynamic Turbulence Has Infinitely Many Anomalous Dynamical Exponents
+Scaling Exponents of Strong Turbulence in the Eddy Viscosity Approximation
+Difficulties with the Scars Model of Quantum Localization
+On developed turbulence in a weak compressibile conductive fluid
+Limit Set of Trajectories of the Coupled Viscous Burgers' Equations
+WKB to all orders and accuracy of the semiclassical quantization
+Intermittency of Burgers' Turbulence
+Geometric zero mode for the Kraichnan's problem of passive scalar advection
+An Invitation to Algorithmic Information Theory
+Extended time-delay autosynchronization for the buck converter
+Coupled Map Modeling for Cloud Dynamics
+Do zeta functions for intermittent maps have branch points?
+On Generalized Nambu Mechanics
+Fractal Collapse in Developed Hydrodynamic Turbulence
+Turbulence under a magnifying glass
+Successive Continuation for Locating Connecting Orbits
+Discrete Chaos
+Parallel Computation Using Generalized Models of Exactly Solvable Chaos
+Intermittency and Regularized Fredholm Determinants
+Entrainment control of chaos near unstable periodic orbits
+Synchronization in the identically driven systems
+Normal and Anomalous Diffusion in a Deterministic Area-preserving Map
+Critical and Supercritical Dynamics of Quasiperiodic Systems
+On the Integrability and Chaotic behaviour of an ecological model
+Spatiotemporal Chaos in Large Systems: The Scaling of Complexity with Size
+Fractal Basins of Attraction Associated with a Damped Newton's Method
+The role of singularities in chaotic spectroscopy
+Elliptic Quantum Billiard
+Nonlinear Landau damping in collisionless plasma and inviscid fluid
+Linear stability in billiards with potential
+Double Phase Slips and Spatio-Temporal Chaos in a Model for Parametrically Excited Standing Waves
+The Dynamics of Thermodynamics
+Noise-enhanced reconstruction of attractors
+Transition between immune and disease states in a cellular automaton model of clonal immune response
+Noise-Sustained currents in quasigeostrophic turbulence over topography
+Wave Dynamical Chaos in Superconducting Microwave Cavities
+Perturbative and Non-Perturbative Analysis of the 3'rd Order Zero Modes
+Quantization of Hyperbolic N-Sphere Scattering Systems in Three Dimensions
+Chaotic Simulated Annealing by A Neural Network Model with Transient Chaos
+Bifurcations of Periodic Orbits and Uniform Approximations
+Velocity Probability Distribution Function in the Crossover and the Viscous Range
+Characteristic Spatial Scales in Earthquake Data
+Semiclassical Trace Formulae and Eigenvalue Statistics in Quantum Chaos
+A direct link between the quantum-mechanical and semiclassical determination of scattering resonances
+Universal spectral properties of spatially periodic quantum systems with chaotic classical dynamics
+Scale Dependence of Intermittency Exponents in Developed Hydrodynamic Turbulence
+How long does the quantum chaos last?
+Spatially Periodic Orbits in Coupled Sine Circle Maps
+Scattering matrices with block symmetries
+Semiclassical interference of bifurcations
+Supersymmetric quantum mechanics based on higher excited states II: a few examples of isospectral partner potentials
+Semiclassical spectra from periodic-orbit clusters in a mixed phase space
+Spatially Localized Unstable Periodic Orbits
+Exactly solvable chaos and addition theorems of elliptic functions
+Ginzburg-Landau equation for steps on creep curve
+Shocks and Structure Functions of Burgers and KPZ Equations
+Ordered and Disordered Defect Chaos
+On the low-dimensional modelling of Stratonovich stochastic differential equations
+Linear and Nonlinear Dynamical Chaos
+Pseudochaos in Statistical Physics
+Singularities in droplet pinching with vanishing viscosity
+Low-Dimensional Modelling of Dynamical Systems
+Random Quantum Billiards
+Unpredictability information and chaos
+Criteria for the onset of chaos in finite Fermi systems
+Quantum mechanical time-delay matrix in chaotic scattering
+Exact Result for the 3rd Order Correlations of Velocity in Turbulence with Helicity
+Active control of ionized boundary layers
+A KAM type theorem for systems with round-off errors
+Anomalies of Transport in Reflectionally Noninvariant Turbulence
+The Limits of Mathematics---A course on information theory and the limits of formal reasoning
+On the triple correlations in helical turbulence
+Spontaneous Emission in Chaotic Cavities
+Lasing Threshold and Mode Competition in Chaotic Cavities
+Fractals in Linear Ordinary Differential Equations
+Scale-dependent functions in statistical hydrodynamics: a functional analysis point of view
+Double Phase Slips and Bound Defect Pairs in Parametrically Driven Waves
+Computing the Scaling Exponents in Fluid Turbulence from First Principles: the Formal Setup
+Experimental Study of Bifurcations in A Parametrically Forced Pendulum
+Exact Eigenfunctions of a Chaotic System
+Stellar Arrhythmias
+Route to Chaos in the 1 NH 3 far infrared ring laser
+Uniform Approximation for Period-Quadrupling Bifurcations
+Strange Attractor in Immunology of Tumor Growth
+Complex step-size dependences in tracking a simple two-body dynamics
+Invariant Measures in Generic Dynamical Systems
+The Quantum Adiabatic Approximation in Chaotic Systems
+Relationships among coefficients in deterministic and stochastic transient diffusion
+An Infinite Step Billiard
+Fractal tracer distributions in turbulent field theories
+Fast Arnold's diffusion in isochronous systems
+Ergodic Properties of Microcanonical Observables
+Fuzzy phase transition in a 1D coupled stable-map lattice
+A turning point analysis of the ergodic dynamics of iterative maps
+Late states of incompressible 2D decaying vorticity fields
+Dynamical Instability and Statistical Behaviour of N-Body Systems
+Geometry and Chaos on Riemann and Finsler Manifolds
+Burridge-Knopoff model and self-similarity
+Influence of Dynamical Pauli Effect and Dynamical Symmetry Breaking to Quantum Chaos
+Hamilton--Jacobi's equation and Arnold's diffusion near invariant tori in a priori unstable isochronous systems
+Chaotic Hypothesis and Universal Large Deviations Properties
+Quasi periodic motions from Hipparchus to Kolmogorov
+A New Fast Method for Determining Local Properties of Striped Patterns
+A Growth Model for Dna Evolution (submitted to Nature)
+Density-of-States Calculations and Multiple-Scattering Theory for Photons
+Does Quantum Chaos Explain Quantum Statistical Mechanics?
+Design Constraints for Nanometer Scale Quantum Computers
+Defect-Mediated Stability: An Effective Hydrodynamic Theory of Spatio-Temporal Chaos
+Conformal Subconformal and Spectral Universality in Incommensurate Spin Chains
+SCATTERING INVOLVING PROMPT AND EQUILIBRATED COMPONENTS INFORMATION THEORY AND CHAOTIC QUANTUM DOTS
+Decaying Turbulence and the Dynamics of Diffusing Vortices with Conservation Laws
+Numerical Study of a Lyapunov Functional for the Complex Ginzburg-Landau Equation
+The Quantization process for the Driven Quantum Well - Perturbative Expansion and the Classical Limit
+Nonlinear feedback for control of chaos
+Chaotic Signatures in the Spectrum of a Quantum Double Well
+Laser-induced quantum chaos in 1-D crystals
+The Onset of Chaos in the Quantum Hard-Sphere Gas
+Boltzmann and Statistical Mechanics
+Fluctuating order parameter for a quantum chaotic system with partially broken time-reversal symmetry
+Conductance Peak Distributions in Quantum Dots and the Crossover between Orthogonal and Unitary Symmetries
+A hierarchical scheme for cooperativity and folding in proteins
+Diffraction in the semiclassical description of mesoscopic devices
+Reply to the Comment by Casati et al. on Field theory of the quantum kicked rotor Phys. Rev. Lett.  43 (1)
+Random matrix models with log-singular level confinement: method of fictitious fermions
+Universality in Dynamic Coarsening of a Fractal Cluster
+Statistical properties of the time evolution of complex systems. I
+Classical Chaos and its Quantum Manifestations
+Note on Two Theorems in Nonequilibrium Statistical Mechanics
+On the nonHamiltonian interaction of two rotators
+Classical and quantum dynamics of noncanonically coupled oscillators and Lie superalgebras
+Gravitational Ionization: Periodic Orbits of Binary Systems Perturbed by Gravitational Radiation
+Chaos in Static Axisymmetric Spacetimes II : non-vacuum case
+Gauge theory of things alive and universal dynamics
+Chaotic Dynamics of SU(2) Gauge Fields in the Presence of Static Charges
+New Developments In Non-Hermitian Random Matrix Models
+Motion of Wavefunction Zeros in Spin-Boson Systems
+Dynamical systems accepting the normal shift on an arbitrary Riemannian manifold
+The Multisite Antiferromagnetic Ising Spin Model and Universality of Feigenbaum Constants
+Exact Computations in the Burgers Problem
+Collapse versus Turbulence
+Chaos Scaling and Existence of a Continuum Limit in Classical Non-Abelian Lattice Gauge Theory
+On the ERG approach in 3 - d Well Developed Turbulence
+Shell Structures and Chaos in Deformed Nuclei and Large Metallic Clusters
+Quantum Diffusion and Tunneling with Parametric Banded Random Matrix Hamiltonians
+Scaling Properties of Nuclear Giant Resonance Transition Probabilities
+New Results on Quantum Chaos in Atomic Nuclei
+Quantum Transition from Order to Chaos in the Nuclear Shell Model
+Asymptotic expansion for layer solutions of a singularly perturbed reaction-diffusion system
+A Geometrical Formulation of the Renormalization Group Method for Global Analysis II: Partial Differential Equations
+Phenomenological Theory for Spatiotemporal Chaos in Rayleigh-Benard Convection
+The persistence of viscous effects in the overlap region and the mean velocity in turbulent pipe and channel flows
+On the decay of Burgers turbulence
+A Local Deterministic Model of Quantum Spin Measurement
+Causal Wave Mechanics and the Advent of Complexity. I. Dynamic multivaluedness
+Causal Wave Mechanics and the Advent of Complexity. II. Dynamic uncertainty in quantum systems and the correspondence principle
+Causal Wave Mechanics and the Advent of Complexity. III. Universal structure of complexity
+Causal Wave Mechanics and the Advent of Complexity. IV. Dynamical origin of quantum indeterminacy and wave reduction
+Causal Wave Mechanics and the Advent of Complexity. V. Quantum field mechanics
+On Quantum Field Brownian Motion Decoherence and Semiquantum Chaos
+Quantum dynamics with intermediate measurements in agreement with the classical dynamics
+Quantum Corrections to the Classical Dynamics: Application to the SU(2) Lipkin Model
+Dynamical peculiarities of the nonlinear quasiclassical systems
+Intrinsic chaoticity in stable classical systems and quantum fluctuations
+Maps PDE's and Solitary Waves
+Limits to Extensions of Burgers Equation
+Investigation of dynamical systems using tools of the theory of invariants and projective geometry
+Non recursive proof of the KAM theorem
+Billiards correlation functions
+Field theory and KAM tori
+Lindstedt series and Kolmogorov theorem
+Lindstedt series ultraviolet divergences and Moser's theorem
+New methods in nonequilibrium gases and fluids
+SRB states and nonequilibrium statistical mechanics close to equilibrium
+Fluctuation patterns and conditional reversibility in nonequilibrium systems
+Reminiscences on science at I.H.E.S. A problem on homoclinic theory and a brief review
+Folded Bifurcation in Coupled Asymmetric Logistic Maps
+Level spacing distribution of pseudointegrable billiard
+Gaussian Fluctuations in Chaotic Eigenstates
+WKB expansion for the angular momentum and the Kepler problem: from the torus quantization to the exact one
+Geometric approach to chaos in the classical dynamics of abelian lattice gauge theory
+Collision and symmetry-breaking in the transition to strange nonchaotic attractors
+Spectral properties of quantum N -body systems versus chaotic properties of their mean field approximations
+Random Matrix Theories in Quantum Physics: Common Concepts
+Excited Eigenstates and Strength Functions for Isolated Systems of Interacting Particles
+Small-scale properties of the KPZ equation and dynamical symmetry breaking
+Ergodic Properties of Classical SU(2) Lattice Gauge Theory
+Flux String in Quantum Billiards with Two Particles
+Fractons and Fractal Statistics
+Universal Predictions for Statistical Nuclear Correlations
+Nuclear Mass Dependence of Chaotic Dynamics in Ginocchio Model
+One-body dissipation and chaotic dynamics in a classical simulation of a nuclear gas
+Fluctuations of Spatial Patterns as a Measure of Classical Chaos
+The excitation of a quantum gas of independent particles under periodic perturbation in integrable or non-integrable potential
+Wave Function Structure in Two-Body Random Matrix Ensembles
+Quantum chaos in open systems: a quantum state diffusion analysis
+Chaos in Time Dependent Variational Approximations to Quantum Dynamics
+Influence of compressibility on scaling regimes of strongly anisotropic fully developed turbulence
+Response Function of an Irregular Oscillator
+Chaos and Fractals in Geodesic Motions Around a Non-Rotating Black-Hole with an External Halo
+Complexity Tunneling and Geometrical Symmetry
+Coherent patterns and self-induced diffraction of electrons on a thin nonlinear layer
+Statistical Analysis of the Stock Index of the Budapest Stock Exchange
+Stochastic Lotka-Volterra Systems of Competing Auto-Catalytic Agents Lead Generically to Truncated Pareto Power Wealth Distribution Truncated Levy Distribution of Market Returns Clustered Volatility Booms and Craches
+Equilibrium and dynamical properties of two dimensional self-gravitating systems
+Statistics of Hartree-Fock Levels in Small Disordered Systems
+Using a quantum computer to investigate quantum chaos
+Stochastic resonance for quantum channels
+Singularities of Transition Processes in Dynamical Systems: Qualitative Theory of Critical Delays
+The Statistics of Chaotic Tunnelling
+Almost-Hermitian Random Matrices: Crossover from Wigner-Dyson to Ginibre eigenvalue statistics
+Fluctuation-Dissipation theorems and entropy production in relaxational systems
+Dynamical Anomalies and Intermittency in Burgers Turbulence
+Semiclassical Interpretation of the Mass Asymmetry in Nuclear Fission
+Vortex Dynamics in Dissipative Systems
+First Experimental Evidence for Chaos-Assisted Tunneling in a Microwave Annular Billiard
+Phase space caustics in multi-component systems
+Geometric magnetism in classical transport theory
+Multiplicative semiclassical dynamics and the quantization time
+Semiclassical dynamical localization and the multiplicative semiclassical propagator
+Overcoming the wall in the semiclassical baker's map
+Linear and Nonlinear Theory of Eigenfunction Scars
+Wavefunction Intensity Statistics from Unstable Periodic Orbits
+Scar and Antiscar Quantum Effects in Open Chaotic Systems
+Weak Quantum Ergodicity
+Recent Developments in the Theory of Scarring
+Measuring Scars of Periodic Orbits
+Short-Time Effects on Eigenstate Structure in Sinai Billiards and Related Systems
+Structure of Quantum Chaotic Wavefunctions: Ergodicity Localization and Transport
+Quantizing Constrained Systems: New Perspectives
+Quantization Ambiguity Ergodicity and Semiclassics
+Nonlinear Pulsations
+Diversity and Collective Action
+Globally Coupled Maps: Almost Analytical Treatment of Phase Transitions
+How the viscous subrange determines inertial range properties in turbulence shell models
+Communication with Chaos over Band-Limited Channels
+Search for Low-Dimensional Chaos in Observational Data
+Symmetry and Dynamics of A Magnetic Oscillator
+Energy level statistics in the transition regime between integrability and chaos for systems with broken antiunitary symmetry
+Order and Chaos in Hofstadter's Q(n) Sequence
+Universal Spectrum for Interannual Variability of Rainfall Over India and Scotland: Implication for Prediction
+Transient Hamiltonian chaos in the cavity electrodynamics
+Chaotic scattering from pinball machine like systems
+Stationarity and Redundancy of Multichannel EEG Data Recorded During Generalized Tonic-Clonic Seizures
+Breakdown of Modulational Approximations in Nonlinear Wave Interaction
+Chaos in the Einstein Equations - Characterization and Importance?
+On the Limit Cycle of an Inflationary Universe
+Primordial Magnetic Fields and Their Development
+Environment-Induced Effects on Quantum Chaos: Decoherence Delocalization and Irreversibility
+Various Shades of Blue's Functions
+Chaoticity in Vibrating Nuclear Billiards
+Chaoticity and Dissipation of Nuclear Collective Motion in a Classical Model
+Dynamical chaos and critical behavior in Vlasov simulations of nuclear multifragmentation
+Collectivity Embedded in Complex Spectra: Example of Nuclear Double-Charge Exchange Modes
+Discrimination of the Healthy and Sick Cardiac Autonomic Nervous System by a New Wavelet Analysis of Heartbeat Intervals
+Realizing Discontinuous Wave Functions with Renormalized Short-Range Potentials
+Wave Chaos in Quantum Pseudointegrable Billiards
+Dynamics of Earthquake Faults
+Parametric ordering of complex systems
+Noise and slow-fast dynamics in a three-wave resonance problem
+Multiresolution wavelet analysis of heartbeat intervals discriminates healthy patients from those with cardiac pathology
+Cosmic Structure Formation
+A Mapping for the Gravitational Few-Body Problem with Dissipation
+Chaos and Noise in Galactic Potentials
+Exponential Tails in the Centroid Velocity Distributions of Star-Forming Regions
+Influence of Cooling-Induced Compressibility on the Structure of Turbulent Flows and Gravitational Collapse
+Chaotic itinerancy and thermalization in one-dimensional self-gravitating systems
+On inverse Cascades and Primordial Magnetic Fields
+Geometric Interpretation of Chaos in Two-Dimensional Hamiltonian Systems
+Nonlinear Analysis of the Lightcurve of the Variable Star R Scuti
+Self-Consistent Gravitational Chaos
+Kinetic Energy Decay Rates of Supersonic and Super-Alfvenic Turbulence in Star-Forming Clouds
+Regular and Chaotic Dynamics of Triaxial Stellar Systems
+Chaotic scattering on surfaces and collisional damping of collective modes
+Relativistic and Newtonian core-shell models: analytical and numerical results
+Particle Aggregation in a turbulent Keplerian flow
+Noise-Induced Phase Space Transport in Two-Dimensional Hamiltonian Systems
+Resonant Orbits in Triaxial Galaxies
+Symbolic dynamics I. Finite dispersive billiards
+Symbolic dynamics III. Bifurcations in billiards and smooth potentials
+Periodic Orbit Theory of Anomalous Diffusion
+Steady-State Electrical Conduction in the Periodic Lorentz Gas
+Cycles and Circles in Roundoff Errors
+Teardrop and heart orbits of a swinging Atwood's Machine
+Far Dissipation Range of Turbulence
+Hypersensitivity to Perturbations in the Quantum Baker's Map
+Stochastic to deterministic crossover of fractal dimension for a Langevin equation
+On the equality of Hausdorff and box counting dimensions
+S-matrix Fluctuations in a model with Classical Diffusion and Quantum Localization
+Chaotic Traveling Waves in a Coupled Map Lattice
+Continued-fraction expansion of eigenvalues of generalized evolution operators in terms of periodic orbits
+Phase shift in experimental trajectory scaling functions
+Resummation of classical and semiclassical periodic orbit formulas
+Order and chaos in quantum irregular scattering: Wigner's time delay
+Kramers map approach for stabilization of hydrogen atom in a magnetic field
+Symmetry Decomposition of Chaotic Dynamics
+Chaos in the one-dimensional gravitational three-body problem
+Modifying the onset of homoclinic chaos. Application to a bistable potential
+Explicit Lie-Poisson integration and the Euler equations
+Twistless KAM tori quasi flat homoclinic intersections and other cancellations in the perturbation series of certain completely integrable hamiltonian systems. A review
+Binary Tree Approach to Scaling in Unimodal Maps
+A Semiclassical Calculation of Scars for a Smooth Potential
+Some Studies on Arithmetical Chaos in Classical and Quantum Mechanics
+The cost of compressible dynamics time-reversibility Maxwell's demon and the second law
+Threshold Analysis for the Inverse ac Josephson Effect
+Twistless KAM tori
+Synchronization of coupled maps and stable dissipative windows
+Stochastic chaos: An analog of quantum chaos
+Interaction of surface waves with vorticity in shallow water
+Universality in Blow-Up for Nonlinear Heat Equations
+Stability of Moving Fronts in the Ginzburg-Landau Equation
+Self-Preservation of Large-Scale Structures in Burgers' Turbulence
+Dynamical zeta functions for Artin's billiard and the Venkov--Zograf factorization formula
+Scale resolved intermittency in turbulence
+Relaxation and Localization in Interacting Quantum Maps
+The Classical and Quantum Mechanics of Lazy Baker Maps
+On Spectral Laws of 2D--Turbulence in Shell Models
+Fractal dimension crossovers in turbulent passive scalar signals
+Advection of vector fields by chaotic flows
+Entire Fredholm determinants for Evaluation of Semi-classical and Thermodynamical Spectra
+Transition from Poissonian to GOE level statistics in a modified Artin's billiard
+A Fredholm Determinant for Semi-classical Quantization
+Evolutionary Games and Computer Simulations
+Linear Response Theory in Stochastic Resonance
+Supernarrow Spectral Peaks and High Frequency Stochastic Resonance in Systems with Coexisting Periodic Attractors
+The Topological Entropy of One-dimensional Maps: Approximations and Bounds
+Semi-Quantum Chaos
+Entropy and Long range correlations in literary English
+Truncated horseshoes and formal languages in chaotic scattering
+Tunneling And The Onset Of Chaos In A Driven Bistable System
+Spatial Variation of Correlation Times for 1D Phase Turbulence
+Correspondence in Quasiperiodic and Chaotic Maps: Quantization via the von Neumann Equation
+An Entire Spectral Determinant for Semiclassical Quantization
+Probability distributions for one component equations with multiplicative noise
+Hamiltonian Maps and Transport in Structured Fluids
+Probability distributions for multicomponent systems with multiplicative noise
+Relevance of Dynamic Clustering to Biological Networks
+Peeling the Onion of Order and Chaos in a High-dimensional Hamiltonian System
+Universality in fully developed turbulence
+Self-Similarity of Friction Laws
+Bifurcations and Spatial Chaos in an Open Flow Model
+The Dynamics Of Vortex Structures And States Of Current In Plasma-Like Fluids And The Electrical Explosion Of Conductors: 1. The model of a non-equilibrium phase transition
+The Dynamics of Vortex Structures and States of Current in Plasma-Like Fluids and the Electrical Explosion of Conductors: 3. Comparison with Experiment
+Crossover from high to low Reynolds number turbulence
+Stability Estimate in Scattering Theory and Its Application to Mesoscopic Systems and Quantum Chaos
+Finite size corrections to scaling in high Reynolds number turbulence
+Quasi-equilibria in one-dimensional self-gravitating many body systems
+Approximate zeta functions for the Sinai billiard and related systems
+Understanding Long-range Correlations in DNA Sequences
+Hypersensitivity to perturbation in the quantum kicked top
+Semiquantal dynamics of fluctuations: Ostensible quantum chaos
+Spectral Duality for Planar Billiards
+Bottleneck effects in turbulence: Scaling phenomena in r- versus p-space
+Quantal Consequences of Perturbations Which Destroy Structurally Unstable Orbits in Chaotic Billiards
+Statistical Mechanics of Shell Models for 2D-Turbulence
+Self-organized Periodic Lattices of Chaotic Defects
+Bifurcations in Globally Coupled Map Lattices
+Chaotic Scattering Theory of Transport and Reaction-Rate Coefficients
+Bifurcations of two coupled classical spin oscillators
+Stochastic Resonance in Deterministic Chaotic Systems
+Effective Action Method for Langevin Equation
+Complexity of Trajectories in Rectangular Billiards
+Nonlinear Resonances in the Solar System
+The Phase of the Riemann Zeta Function and the Inverted Harmonic Oscillator
+Coupled Analytic Maps
+Symplectic Calculation of Lyapunov Exponents
+Power law velocity fluctuations due to inelastic collisions in numerically simulated vibrated bed of powder
+Characterization of the transition from defect- to phase-turbulence
+Exact Lyapunov Exponent for Infinite Products of Random Matrices
+A Solvable Nonlinear Reaction-Diffusion Model
+Stability of Wavelengths and Spatiotemporal Intermittency in Coupled Map Lattices
+Simple Maps with Fractal Diffusion Coefficients
+Corrections to universal scaling in real maps
+Conditions on the Existence of Localized Excitations in Nonlinear Discrete Systems
+Temperature spectra in shear flow and thermal convection
+Averaged equations for Josephson junction series arrays with LRC load
+Scaling and Dissipation in the GOY Shell Model
+Gaussian Wavepacket Dynamics: semiquantal and semiclassical phase space formalism
+Statistical Properties of the Zeros of Zeta Functions - Beyond the Riemann Case
+A New Type of Irregular Motion in a Class of Game Dynamics Systems
+Avalanches in the Weakly Driven Frenkel-Kontorova Model
+Amplitude Equations for Electrostatic Waves: universal singular behavior in the limit of weak instability
+Intermittency in Hydrodynamic Turbulence as Intermediate Asymptotic to Kolmogorov41 Scaling
+Kinks Dynamics in One-Dimensional Coupled Map Lattices
+The Breakdown of Dynamic Scaling and Intermittency in a Cascade Model of Turbulence
+Dynamical Ensembles in Nonequilibrium Statistical Mechanics
+Topics in chaotic dynamics
+Origin of Crack Tip Instabilities
+Bifurcations of homoclinic orbits in bimodal maps
+Critical behavior of period doubling in coupled area-preserving maps
+M-furcations in coupled maps
+A generating partition for the standard map
+Linear And Nonlinear Mechanisms Of Information Propagation
+Braid analysis of a bouncing ball
+Topological time series analysis of a string experiment and its synchronized model
+Extension of Renormalization of period doubling in symmetric volume-preserving maps''
+Renormalizing Partial Differential Equations
+Discrete Symmetries in the Weyl Expansion for Quantum Billiards
+A closure model for intermittency in three dimensional incompressible turbulence
+Uniform Semiclassical Wavepacket Propagation and Eigenstate Extraction in a Smooth Chaotic System
+Anomalous Scaling in Kolmogorov--141 Turbulence
+Dynamical systems theory for music dynamics
+On the Role of Non-Periodic Orbits in The Semiclassical Quantization of the Truncated Hyperbola Billiard
+Decay of the Sinai Well in D dimensions
+Geometric and Diffractive Orbits in the Scattering from Confocal Hyperbolae
+Gaussian Fluctuation in Random Matrices
+Numerical Renormalization Group Calculations For Similarity Solutions and Travelling Waves
+Spectral Statistics in the Quantized Cardioid Billiard
+On the local Hamiltonian structure of vector fields
+The Crucial Formula for Determination of the Occurrence of the Non-Chaotic States in the rf-biased Nonlinear Oscillators
+Lyapunov Exponents and KS Entropy for the Lorentz Gas at Low Densities
+Mean Field Theory for Lyapunov Exponents and KS Entropy in Lorentz Lattice Gases
+Lyapunov exponents and anomalous diffusion of a Lorentz gas with infinite horizon using approximate zeta functions
+Dynamics of homogeneous magnetizations in strong transverse driving fields
+Chaotic Properties of the Elliptical Stadium
+Semiclassical quantization using Bogomolny's quantum surface of section
+Formation of Dynamic Domains in Strongly Driven Ferromagnets
+Turbulent spectrum of the Earth's ozone field
+A new analysis of the tippe top: Asymptotic states and Liapunov stability
+Fractal Spectrum of a Quasi periodically Driven Spin System
+On Universal Correlations in Disordered and Chaotic Systems
+Dynamical ensembles in stationary states
+Statistical properties of energy levels of chaotic systems: Wigner or non-Wigner
+Parametric Spectral Correlations of Disordered Systems in the Fourier Domain
+Geometry of high-lying eigenfunctions in a plane billiard system having mixed type classical dynamics
+Separating the regular and irregular energy levels and their statistics in Hamiltonian system with mixed classical dynamics
+On the duality between periodic orbit statistics and quantum level statistics
+Weyl Expansion for Symmetric Potentials
+Quantization of the three dimensional Sinai billiard
+Geometric phases and anholonomy for a class of chaotic classical systems
+Thermalization of a Brownian particle via coupling to low-dimensional chaos
+Inside-Outside Duality for Planar Billiards -- A Numerical Study
+Bifurcations and Complete Chaos for the Diamagnetic Kepler Problem
+Quantum Surface of Section Method: Demonstration of semiclassical Berry-Robnik energy level spacing distribution in a generic 2-dim Hamiltonian system
+General Quantum Surface of Section Method
+Coin Tossing as a Billiard Problem
+Complex Trkalian Fields and Solutions to Euler's Equations for the Ideal Fluid
+Semiclassical Quantization of Billiards with Mixed Boundary Conditions
+Two-dimensional Navier--Stokes simulation of deformation and break up of liquid patches
+Strong Chaos without Butterfly Effect in Dynamical Systems with Feedback
+Piecewise Linear Models for the Quasiperiodic Transition to Chaos
+Localized States in the Chaotic Ce Atom
+Dynamical Simulation of Fluidized Beds --- Hydrodynamically Interacting Granular Particles
+Quantized chaotic dynamics and non-commutative KS entropy
+Normal and Anomalous Scaling of the Fourth-Order Correlation Function of a Randomly Advected Passive Scalar
+Evidence for the Validity of the Berry-Robnik Surmise in a Periodically Pulsed Spin System
+Decoherence Delocalization and Irreversibility in Quantum Chaotic Systems
+On the Quantum Baker's Map and its Unusual Traces
+Ionization of Rydberg atoms in a low frequency field: modelling by maps of transition to chaotic behavior
+On multiplicities in length spectra of arithmetic hyperbolic three-orbifolds
+Guessing probability distributions from small samples
+Chronotopic Lyapunov Analysis: (I) a Comprehensive Characterization of 1D Systems
+Collective patterns arising out of spatio-temporal chaos
+Levy Diffusion and Classes of Universal Parametric Correlations
+Belavkin-Kolkoltsov watch-dog effects in interactively controlled stochastic computer-graphic dynamic systems. A mathematical study
+Transition to nonchaotic behavior in a Brownian-type motion
+Anomalous Scaling in a Model of Passive Scalar Advection: Exact Results
+Bubble Shape Oscillations and the Onset of Sonoluminescence
+Experimental studies of Chaos and Localization in Quantum Wavefunctions
+Chaotic Scattering Theory Thermodynamic Formalism and Transport Coefficients
+High Temperature Expansions and Dynamical Systems
+ERROR PROPAGATION IN ETENDED CHAOTIC SYSTEMS
+Magnetic Field Effect in a Two-dimensional Array of Short Josephson Junctions
+Signatures of Classical Periodic Orbits on a Smooth Quantum System
+Optimized Periodic Control of Chaotic Systems
+Predictability in Systems with Many Characteristic Times: The Case of Turbulence
+Universal Behavior of Lyapunov Exponents in Unstable Systems
+The Origin of Non-chaotic Behavior in Identically Driven Systems
+Trace formula for an ensemble of bumpy billiards.
+Diffractive orbits in quantum billiards
+Thermodynamic Description of the Relaxation of Two-Dimensional Euler Turbulence Using Tsallis Statistics
+Evolution of Liouville density of a chaotic system
+Universal bifurcation property of two- or higher-dimensional dissipative systems in parameter space: Why does 1D symbolic dynamics work so well?
+Chaos for Liouville probability densities
+Methods for the analysis of the Lindstedt series for KAM tori and renormalizability in classical mechanics
+Direct Numerical Simulation Tests of Eddy Viscosity in Two Dimensions
+Information-theoretic characterization of quantum chaos
+Lyapunov spectral analysis of a nonequilibrium Ising-like transition
+ANOMALOUS SCALING OF THE PASSIVE SCALAR
+Interaction of Nonlinear Schr odinger Solitons with an External Potential
+Decay of Classical Chaotic Systems - the Case of the Bunimovich Stadium
+Sample to sample fluctuations in fragmentation and agglomeration processes
+Chaotic Spectra of Classically Integrable Systems
+Universal diffusion near the golden chaos border
+Alternative method to find orbits in chaotic systems
+Collective Behavior of Coupled Chaotic Maps
+Exact Resummations in the Theory of Hydrodynamic Turbulence: I The Ball of Locality and Normal Scaling
+Exact Resummations in the Theory of Hydrodynamic Turbulence: II A Ladder to Anomalous Scaling
+Exact Resummations in the Theory of Hydrodynamic Turbulence: III. Scenarios for Anomalous Scaling and Intermittency
+Fusion Rules in Turbulent Systems with Flux Equilibrium
+The Computational Complexity of Symbolic Dynamics at the Onset of Chaos
+A q -anaolg of the sixth Painlev 'e equation
+On inertial-range scaling laws
+Simulating Three-Dimensional Hydrodynamics on a Cellular-Automata Machine
+Chaotic Evolution in Quantum Mechanics
+The Role of Diffraction in the Quantization of Dispersing Billiards
+Semiclassical form factor of matrix element fluctuations
+On the role of inviscid invariants in shell models of turbulence
+Classical and quantum dynamics of the n-dimensional kicked rotator
+Computation of Kolmogorov's Constant in Magnetohydrodynamic Turbulence
+Edge Diffraction Trace Formulae and the Cardioid Billiard
+A rigorous implementation of the Jeans--Landau--Teller approximation
+Anomalous Scaling Exponents of a White-Advected Passive Scalar
+On the intermittent energy transfer at viscous scales in turbulent flows
+Wigner Random Banded Matrices with Sparse Structure: Local Spectral Density of States
+A new scaling property of turbulent flows
+Periodic Orbit Quantization beyond Semiclassics
+Approach to ergodicity in quantum wave functions
+Extended Self Similarity in numerical simulations of 3D anisotropic turbulence
+Distribution of Eigenvalues for the Modular Group
+Semiclassical Quantisation Using Diffractive Orbits
+Bifurcations in Globally Coupled Chaotic Maps
+Multiple Transitions to Chaos in a Damped Parametrically Forced Pendulum
+The Level Splitting Distribution in Chaos-assisted Tunneling
+The Role of the Environment in Chaotic Quantum Dynamics
+Mechanisms for Stable Sonoluminescence
+Helical shell models for three dimensional turbulence
+Dynamical behavior of a dissipative particle in a periodic potential subject to chaotic noise: Retrieval of chaotic determinism with broken parity
+Rifts in Spreading Wax Layers
+A Generalization of the Theory of Normal Forms
+Sensitivity of the eigenfunctions and the level curvature distribution in quantum billiards
+2D Quantum Hydrogen Atom in Circularly Polarized Microwaves
+Stability of periodic orbits controlled by time-delay feedback
+Thermal Fluctuations in Quantized Chaotic Systems
+Eigenvalue spectrum of the Frobenius-Perron operator near intermittency
+Bohr-Sommerfeld Quantization of Periodic Orbits
+Local Scaling in Homogeneous Hamiltonian Systems
+Semiquantum Chaos in the Double-Well
+Maximal Lyapunov exponent at Crises
+Instantons and Intermittency
+Scaling Behavior in Turbulence is Doubly Anomalous
+Extended Self-Similarity in Turbulent Systems: an Analytically Soluble Example
+Biscale Chaos in Propagating Fronts
+Density Fluctuations in Traffic Flow
+Controlling spatiotemporal dynamics with time-delay feedback
+The Lyapunov exponent in the Sinai billiard in the small scatterer limit
+Identification of parameters in amplitude equations describing coupled wakes
+The semiclassical resonance spectrum of Hydrogen in a constant magnetic field
+Wave Chaos in Quantum Billiards with Small but Finite-Size Scatterer
+On the decay of correlations in Sinai billiards with infinite horizon
+Nonadiabatic couplings and incipience of quantum chaos
+Non-universality of the scaling exponents of a passive scalar convected by a random flow
+Anomalous Scaling in the N-Point Functions of Passive Scalar
+Unbiased estimation of multi-fractal dimensions of finite data sets
+Slow Relaxation at Critical Point of Second Order Phase Transition in a Highly Chaotic Hamiltonian System
+Ergodic Properties of Infinite Harmonic Crystals: an Analytic Approach
+Observation of stochastic coherence in coupled map lattices
+Small Denominators Frequency Operators and Lie Transforms for Nearly-Integrable Quantum Spin Systems
+Spatiotemporal Dynamics of Mesoscopic Chaotic Systems
+Generalized Coherent States and Spin S geq 1 Systems
+Stochastic stability versus localization in chaotic dynamical systems
+Chronotopic Lyapunov Analysis: (II) towards a Unified Approach
+Spiral Waves in Chaotic Systems
+Reversibility coarse graining and the chaoticity principle
+The Universal Scaling Exponents of Anisotropy in Turbulence and their Measurement
+Period Doublings in Coupled Parametrically Forced Damped Pendulums
+Chaotic hypothesis: Extension of Onsager reciprocity to large fields and the chaotic hypothesis
+Turbulence in Globally Coupled Maps
+Statistical properties of random scattering matrices
+Intermittency and Anomalous Scaling of Passive Scalars in Any Space Dimension
+Science of Chaos or Chaos in Science?
+Scaling and Linear Response in the GOY Turbulence model
+Viscous Instanton for Burgers' Turbulence
+Energy-Conserving Truncations for Convection with Shear Flow
+Phase Diffusion in Localized Spatio-Temporal Amplitude Chaos
+Quantum Chaotic Dynamics and Random Polynomials
+Period p-tuplings in coupled maps
+Anomalous scaling of triple correlation function of white-advected passive scalar
+Winding number instability in the phase-turbulence regime of the Complex Ginzburg-Landau Equation
+Localization in Strongly Chaotic Systems
+Equivalence of dynamical ensembles and Navier Stokes equations
+Growth of non-infinitesimal perturbations in turbulence
+Transitions and Probes in Turbulent Helium
+Coherent States Measurement Entropy
+A New Method for Computing Topological Pressure
+Low-Dimensional Modelling of Dynamics via Computer Algebra
+Heterogeneity Induced Order in Globally Coupled Chaotic Systems
+Chaotic principle: an experimental test
+Critical'' phonons of the supercritical Frenkel-Kontorova model: renormalization bifurcation diagrams
+Studying Attractor Symmetries by Means of Cross Correlation Sums
+Action Principle in Nonequilibrium Statistical Dynamics
+Sonoluminescing air bubbles rectify argon
+Dynamical ensembles equivalence in fluid mechanics
+Inertial- and Dissipation-Range Asymptotics in Fluid Turbulence
+Quasiclassical Random Matrix Theory
+A Hamiltonian weak-wave model for shallow-water flow
+Characterization of a periodically driven chaotic dynamical system
+Exponential Divergence and Long Time Relaxation in Chaotic Quantum Dynamics
+Anomalous scaling in random shell models for passive scalars
+Quasi linear flows on tori: regularity of their linearization
+Universal statistics of non-linear energy transfer in turbulent models
+On the effect of pruning on the singularity structure of zeta functions
+Accuracy of Trace Formulas
+Lyapunov Exponents from Kinetic Theory for a Dilute Field-driven Lorentz Gas
+Rayleigh-Ritz Calculation of Effective Potential Far From Equilibrium
+Viscosity of Colloidal Suspensions
+The spectral form factor is not self-averaging
+Instanton for random advection
+Distribution of roots of random real generalized polynomials
+Predictability in the large: an extension of the concept of Lyapunov exponent
+Hydrodynamic Turbulence: a 1th Century Problem with a challenge for the 21st Century
+Hopf's last hope: spatiotemporal chaos in terms of unstable recurrent patterns
+The Viscous Lengths in Hydrodynamic Turbulence are Anomalous Scaling Functions
+Fractalization of Torus Revisited as a Strange Nonchaotic Attractor
+The role of tank-treading motions in the transverse migration of a spheroidal vesicle in a shear flow
+Effect of Chaotic Noise on Multistable Systems
+Exploring Periodic Orbit Expansions and Renormalisation with the Quantum Triangular Billiard
+Towards a Nonperturbative Theory of Hydrodynamic Turbulence:Fusion Rules Exact Bridge Relations and Anomalous Viscous Scaling Functions
+Statistical Description of Acoustic Turbulence
+Turbulence Fluctuations and New Universal Realizability Conditions in Modelling
+Roundoff-induced Coalescence of Chaotic Trajectories
+Generation and Structure of Solitary Rossby Vortices in Rotating Fluids
+Thermodynamic formalism and localization in Lorentz gases and hopping models
+Uncertain dynamical systems defined by pseudomeasures
+A new model of quantum chaotic billiards: Spectral Statistics and Wavefunctions in 2D
+Noise Induced Coherence in Neural Networks
+Complex Periodic Orbits and Tunnelling in Chaotic Potentials
+Studies of Phase Turbulence in the One Dimensional Complex Ginzburg-Landau Equation
+Developed turbulence: From full simulations to full mode reductions
+Phase Diagrams for Sonoluminescing Bubbles
+Order Parameter for the Transition from Phase to Amplitude Turbulence
+On Conditional Statistics in Scalar Turbulence: Theory vs. Experiment
+Chaotic features in classical scattering processes between ions and atoms
+Why air bubbles in water glow so easily
+Characterization of Landau-Zener Transitions in Systems with Complex Spectra
+Quantum Fluids and Classical Determinants
+Quantum-Classical Correspondence via Liouville Dynamics: I. Integrable Systems and the Chaotic Spectral Decomposition
+Quantum-Classical Correspondence via Liouville Dynamics: II. Correspondence for Chaotic Hamiltonian Systems
+Partial Dynamical Symmetry and Mixed Dynamics
+Mode fluctuations as fingerprint of chaotic and non-chaotic systems
+Periodic Orbits and Spectral Statistics of Pseudointegrable Billiards
+Periodic Orbits in a Simple Ray-Splitting System
+Periodic Orbits in Polygonal Billiards
+Eigenstate structures around a hyperbolic point
+Disturbance propagation in chaotic extended systems with long-range coupling
+Symmetry Decomposition of Potentials with Channels
+Supersymmetry for Systems with Unitary Disorder: Circular Ensembles
+Riemannian theory of Hamiltonian chaos and Lyapunov exponents
+Quantum chaos random matrix theory and statistical mechanics in two dimensions - a unified approach
+Fractional differentiability of nowhere differentiable functions and dimensions
+The Fermi-Pasta-Ulam problem revisited: stochasticity thresholds in nonlinear Hamiltonian systems
+Mixed Quantum-Classical versus Full Quantum Dynamics: Coupled Quasiparticle-Oscillator System
+Fluctuations in the Irreversible Decay of Turbulent Energy
+A New Class of Automata Networks
+Uniform approximation for diffractive contributions to the trace formula in billiard systems
+Karhunen-Lo eve Decomposition of Extensive Chaos
+Method of constructing exactly solvable chaos
+Scaling of Low-Order Structure Functions in Homogeneous Turbulence
+(1 1)-dimensional turbulence
+How Chaotic is the Stadium Billiard? A Semiclassical Analysis
+On the Convergence to Ergodic Behaviour of Quantum Wave Functions
+Non-Perturbative Zero Modes in the Kraichnan Model for Turbulent Advection
+The lift on a tank-treading ellipsoidal cell in a bounded shear flow
+On scaling in relation to singular spectra
+Characterization of Quantum Chaos by the Autocorrelation Function of Spectral Determinants
+Quantum Chaos and Random Matrix Theory - Some New Results
+Time-reversal symmetry and random polynomials
+Intermittency and the Slow Approach to Kolmogorov Scaling
+Low energy chaos in the Fermi-Pasta-Ulam problem
+Semiclassical Transition from an Elliptical to an Oval Billiard
+Passive Scalar: Scaling Exponents and Realizability
+Supersymmetric quantum mechanics based on higher excited states
+Penumbra diffraction in the quantization of concave billiards
+Geometric dynamical observables in rare gas crystals
+Bifractality of the Devil's staircase appearing in the Burgers equation with Brownian initial velocity
+On the Mechanism of Time--Delayed Feedback Control
+Unified Model for The Study of Diffusion Localization and Dissipation
+Computing Lyapunov spectra with continuous Gram-Schmidt orthonormalization
+Quantization of generic chaotic 3D billiard with smooth boundary I: energy level statistic
+Quantization of generic chaotic 3D billiard with smooth boundary II: structure of high-lying eigenstates
+Nonuniversality in level dynamics
+Scalar transport in compressible flow
+Exact statistics of complex zeros for Gaussian random polynomials with real coefficients
+Parametric statistics of zeros of Husimi representations of quantum chaotic eigenstates and random polynomials
+Topological Dependence of Universal Correlations in Multi-Parameter Hamiltonians
+Resonance Tunneling in Double-Well Billiards with a Pointlike Scatterer
+Stability ordering of cycle expansions
+Synchronization of Spatiotemporal Chaos: The regime of coupled Spatiotemporal Intermittency
+Nonintegrable Interaction of Ion-Acoustic and Electromagnetic Waves in a Plasma
+Controlling extended systems with spatially filtered time-delayed feedback
+Periodic Orbits Breaktime and Localization
+Three-point correlation function of a scalar mixed by an almost smooth random velocity field
+Hamiltonian reformulation and pairing of Lyapunov exponents for Nose-Hoover dynamics
+Collective motion occurs inevitably in a class of populations of globally coupled chaotic elements
+Singularities in cascade models of the Euler equation
+On the three-dimensional temporal spectrum of stretched vortices
+Clustering dynamics in globally coupled map lattices
+Stabilizing chaotic vortex trajectories: an example of high-dimensional control
+Universality in invariant random-matrix models: Existence near the soft edge
+Novel universal correlations in invariant random-matrix models
+Quantum Kicked Dynamics and Classical Diffusion
+Scars of Invariant Manifolds in Interacting Chaotic Few-Body Systems
+Designing coupling that guarantees synchronization between identical chaotic systems
+Diffusion in normal and critical transient chaos
+Dispersion of passive tracers in closed basins: beyond the diffusion coefficient
+Fusion Rules in Navier-Stokes Turbulence: First Experimental Tests
+Intermittency in the large N-limit of a spherical shell model for turbulence
+Holes and chaotic pulses of traveling waves coupled to a long-wave mode
+Crystal properties of eigenstates for quantum cat maps
+Chaos and Asymptotical Stability in Discrete-time Neural Networks
+Wound-up phase turbulence in the Complex Ginzburg-Landau equation
+A Dynamical Approach to Temperature
+Dynamics of Coupled Maps with a Conservation Law
+Signature of Chaotic Diffusion in Band Spectra
+Analytic calculation of anomalous scaling in random shell models for a passive scalar
+The Elliptic Billiard: Subtleties of Separability
+Correlation-Hole Method for Spectra of Superconducting Microwave Billiards
+Spectral Properties of Three-Dimensional Quantum Billiards with a Pointlike Scatterer
+Geometry of dynamics Lyapunov exponents and phase transitions
+Classical and quantum decay of one dimensional finite wells with oscillating walls
+Structures and intermittency in a passive scalar model
+Integrals of motion and the shape of the attractor for the Lorenz model
+Correlations between resonances in a statistical scattering model
+Testing the Markov condition in ion channel recordings
+Boundary contributions to the semiclassical traces of the baker's map
+Intruder States and their Local Effect on Spectral Statistics
+Scaling and Correlation Functions in a Model of a Two-dimensional Earthquake Fault
+The Breakup Condition of Shearless KAM Curves in the Quadratic Map
+Quantum chaotic attractor in a dissipative system
+A Geometric Dynamical Approach to Thermodynamics
+Berry's conjecture and information theory
+Langevin approach to generate synthetic turbulence
+On the Collective Motion in Globally Coupled Chaotic Systems
+Stochastic Resonance in Chaotic Spin-Wave Dynamics
+Relaxation fluctuations about an equilibrium in quantum chaos
+Chaos and Exponentially Localized Eigenstates in Smooth Hamiltonian Systems
+Lyapunov Exponent and the Solid-Fluid Phase Transition
+Synchronization of chaotic systems: Transverse stability of trajectories in invariant manifolds
+A Lower Bound for Chaos on the Elliptical Stadium
+A Refined Similarity Hypothesis for Transverse Structure Functions
+Stochastic Resonance in Maps and Coupled Map Lattices
+An Intermittency Model For Passive-Scalar Turbulence
+Anomalous Scaling and Structure Instability in Three-Dimensional Passive Scalar Turbulence
+Linear and optimal nonlinear control of one-dimensional maps
+Different intermittency for longitudinal and transversal turbulent fluctuations
+Application of extended self similarity in turbulence
+Quantum Dissipation versus Classical Dissipation for Generalized Brownian Motion
+Remark on the relation between passive scalars and diffusion backward in time
+Fractal Stability Border in Plane Couette Flow
+Kolmogorov's law for two-dimensional electron-magnetohydrodynamic turbulence
+Calculation of eigenvalues of a strongly chaotic system using Gaussian wavepacket dynamics
+Pinning Control of Spatiotemporal Chaos
+On the number of limit cycles of the Lienard equation
+Numerical study of scars in a chaotic billiard
+New Universality of Lyapunov Spectra in Hamiltonian Systems
+Distribution of the wave function inside chaotic partially open systems
+Chaos properties and localization in Lorentz lattice gases
+Ultrametric structure of multiscale energy correlations in turbulent models
+Diffusion Process in a Flow
+Structure and convergence of Poincare-like normal forms
+Entropy potential and Lyapunov exponents
+Resonant Collisions in Four Dimensional Reversible Maps: A Description of Scenarios
+A Solvable Model for Spatiotemporal Chaos
+Observing the Symmetry of Attractors
+Curvature fluctuations and Lyapunov exponent at Melting
+Coarsening by Ginzburg-Landau Dynamics
+An Exact Renormalization Group analysis of 3-d Well Developed turbulence
+Towards a two-fluid picture of intermittency in shell models of turbulence
+Inverse versus direct cascades in turbulent advection
+Inverse cascade and intermittency of passive scalar in 1d smooth flow
+Invariants for Correlations of Velocity Differences in Turbulent Fields
+The Kolmogorov-Sinai Entropy for Dilute Gases in Equilibrium
+Turbulent-like Diffusion in Complex Quantum Systems
+Directed Percolation Universality in Asynchronous Evolution of Spatio-Temporal Intermittency
+New Universal Aspects of Diffusion in Strongly Chaotic Systems
+Comment on Energy Level Statistics in the Mixed Regime
+Quantitative study of scars in the boundary section of the stadium billiard
+Wave Dynamical Chaos in a Superconducting Three-Dimensional Sinai Billiard
+Chaotic Scattering on a Billiard
+Slow Manifold Structure and the Emergence of Mixed-Mode Oscillations
+Comment on Optimal Periodic Orbits of Chaotic Systems
+Algebraic approximations to bifurcation curves of limit cycles for the Lienard equation
+Direct Numerical Simulations of the Kraichnan Model: Scaling Exponents and Fusion Rules
+Nonlinear Dynamics of Dry Friction
+Dynamical Tunneling in Mixed Systems
+Composed ensembles of random unitary matrices
+A Geometrical Model for Stagnant Motion in Hamiltonian Systems with Many Degrees of Freedom
+Mean dynamical entropy of quantum system tends to infinity in the semiclassical limit
+The Building Blocks of Spatiotemporal Intermittency
+Reaction-diffusion fronts under stochastic advection
+On the Rate of Quantum Ergodicity on hyperbolic Surfaces and Billiards
+The problem of quantum chaotic scattering with direct processes reduced to the one without
+Helicity Transfer in Turbulent Models
+Controlling Physical Systems with Symmetries
+Nonlinear hydrodynamic stability
+Three applications of scaling to inhomogeneous anisotropic turbulence
+Lyapunov instability and finite size effects in a system with long-range forces
+Modulational Estimate for Fermi-Pasta-Ulam Chain Lyapunov Exponents
+Single-point velocity distribution in turbulence
+Chaos and Lyapunov exponents in classical and quantal distribution dynamics
+Computing the Scaling Exponents in Fluid Turbulence from First Principles: Demonstration of Multi-scaling
+Scaling of the irreducible SO(3)-invariants of velocity correlations in turbulence
+Inert gas accumulation in sonoluminescing bubbles
+Cycling chaos: its creation persistence and loss of stability in a model of nonlinear magnetoconvection
+Cycle expansions for intermittent diffusion
+Front dynamics in turbulent media
+Probability density and scaling exponents of the moments of longitudinal velocity difference in strong turbulence
+Quantal-Classical Duality and the Semiclassical Trace Formula
+Orbital measures in non-equilibrium statistical mechanics: the Onsager relations
+Structure of Eigenstates and Local Spectral Density of States: A Three-Orbital Schematic Shell Model
+Vorticity alignment results for the three-dimensional Euler and Navier-Stokes equations
+Pendulum: separatrix splitting
+Intermittent dissipation of a passive scalar in turbulence
+Non-normal parameter blowout bifurcation: an example in a truncated mean field dynamo model
+Harmonic inversion as a general method for periodic orbit quantization
+Uniform semiclassical approximations for umbilic bifurcation catastrophes
+Coexisting periodic attractors in injection locked diode lasers
+Bifurcation and chaos in the double well Duffing-van der Pol oscillator: Numerical and analytical studies
+Slow and fast dynamics in coupled systems: A time series analysis view
+Quantum time-delay in chaotic scattering: a semiclassical approach
+Conditional Averages and Probability Density Functions in the Passive Scalar Field
+Dynamics of a single particle in a horizontally shaken box
+Secure Communication using Compound Signal from Generalized Synchronizable Chaotic Systems
+Synchronization of Strange Nonchaotic Attractors
+Propagation of a Huygens front through turbulent medium
+Nonuniversality of weak synchronization in chaotic systems
+On the rate of quantum ergodicity in Euclidean billiards
+Bifurcations Chaos Controlling and Synchronization of Certain Nonlinear Oscillators
+Sound radiation of 3 MHz driven gas bubbles
+Dissipative Scaling Functions in Navier-Stokes Turbulence: Experimental Tests
+Intermittency Route to Strange Nonchaotic Attractors
+Improving a method for the study of limit cycles of the Lienard equation
+Two complementary descriptions of intermittency
+Dynamical Organization around Turbulent Bursts
+Size-Dependent Transition to High-Dimensional Chaotic Dynamics in a Two-Dimensional Excitable Medium
+Uniform semiclassical expansions for the direct part of Franck-Condon transitions
+Orbit stability in billiards in magnetic field
+Chaos of the Relativistic Parametrically Forced van der Pol Oscillator
+Multiscaling in Models of Magnetohydrodynamic Turbulence
+Periodic orbit quantization of the Sinai billiard in the small scatterer limit
+Symbolic Dynamics Analysis of the Lorenz Equations
+Exponentially rapid decoherence of quantum chaotic systems
+Largest Lyapunov Exponent for Many Particle Systems at Low Densities
+Electrodynamics of a two-electron atom with retardation and self-interaction effects
+Chaos in the segments from Korean traditional singing and western singing
+Symmetry Reduction and Semiclassical Analysis of Axially Symmetric Systems
+Time-reversible Dynamical Systems for Turbulence
+Correlations in Chaotic Eigenfunctions at Large Separation
+Billiard Systems in Three Dimensions: The Boundary Integral Equation and the Trace Formula
+Synchronization and Control of Spatiotemporal Chaos using Time-Series Data from Local Regions
+Chaos and Thermalization in a Dynamical Model of Two Interacting Particles
+Mimicking a turbulent signal: sequential multiaffine processes
+A general approach to the localization of unstable periodic orbits in chaotic dynamical systems
+Chaotic Properties of Dilute Two and Three Dimensional Random Lorentz Gases I: Equilibrium Systems
+Strange Nonchaotic Attractors in the Quasiperiodically forced Logistic Map
+Holder exponents of irregular signals and local fractional derivatives
+Analytical Approach for Piecewise Linear Coupled Map Lattices
+Ionization via Chaos Assisted Tunneling
+Semiclassical limit of universal parametric density correlations
+Chaos in Periodically Perturbed Monopole Quadrupole Like Potentials
+Random Matrix Elements and Eigenfunctions in Chaotic Systems
+Computing the diffusion coefficient for intermittent maps: Resummation of stability ordered cycle expansions
+Superposition of chaotic process with convergence to Levy's stable law
+Controlling friction
+Beyond the periodic orbit theory
+Synchronization Defects and Broken Symmetry in Spiral Waves
+New approach to the correlation spectrum near intermittency: a quantum mechanical analogy
+The Dynamical Dimension of Defects in Spatiotemporal Chaos
+Collectivity Embedded in Complex Spectra of Finite Interacting Fermi Systems: Nuclear Example
+Chaotic dynamics fluctuations nonequilibrium ensembles
+Analytical solutions to one-dimensional dissipative and discrete chaotic dynamics
+Quantum-Classical Correspondence in Energy Space: Two Interacting Spin-Particles
+Random perturbations of chaotic dynamical systems. Stability of the spectrum
+Failure of linear control in noisy coupled map lattices
+Turbulence and Multiscaling in the Randomly Forced Navier Stokes Equation
+Driven Maps and the Emergence of Ordered Collective Behavior in Globally Coupled Maps
+Multiscale velocity correlations in turbulence
+Separatrix Reconnections in Chaotic Regimes
+Chaos and Energy Redistribution the Nonlinear Interaction of Two Spatio-Temporal Wave Triplets
+Mode-locking in coupled map lattices
+Water temperature dependence of single bubble sonoluminescence
+Characterization of the spatial complex behavior and transition to chaos in flow systems
+B. B. G. K. Y. Hierarchy Methods for Sums of Lyapunov Exponents for Dilute Gases
+The Maxwell-Vlasov equations in Euler-Poincare form
+Comparative Study of the Adiabatic Evolution of a Nonlinear Damped Oscillator and an Hamiltonian Generalized Nonlinear Oscillator
+Hamilton's principle for quasigeostrophic motion
+Stochastic Ionization of Relativistic Hydrogen-Like Atom
+Targetting Chaos through Adaptive Control
+On the Accuracy of the Semiclassical Trace Formula
+Mixing in a Meandering Jet: a Markovian Approximation
+Chaotic Behavior in Shell Models and Shell Maps
+An extension of the Lyapunov analysis for the predictability problem
+An Analytical Construction of the SRB Measures for Baker-type Maps
+Localization in discontinuous quantum systems
+Master-Slave scheme and controlling chaos in the Braiman and Goldhirsch method
+Coiling and Supercoiling of Vortex Filaments in Oscillatory Media
+Noise rectification in quasigeostrophic forced turbulence
+Photo-ionization of the helium atom close to the double ionization threshold: towards the Ericson regime
+Unstable Periodic Orbit Analysis of Histograms of Chaotic Time Series
+Extensive Properties of the Complex Ginzburg-Landau Equation
+Energy transport and correlation between two attractors connected by Fermi-Pasta-Ulam chain
+Transverse instability for non-normal parameters
+Computing periodic orbits using the anti-integrable limit
+Bifurcations and Transitions to Chaos in An Inverted Pendulum
+On the Strength of Attractors in a High-dimensional System: Milnor Attractor Network Robust Global Attraction and Noise-induced Selection
+On the Tongue-Like Bifurcation Structures of the Mean-Field Dynamics in a Network of Chaotic Elements
+Quasiclassical Surface of Section Perturbation Theory
+Intermittency and eddy-viscosities in dynamical models of turbulence
+Kolmogorov-Arnold-Moser--Renormalization-Group Analysis of Stability in Hamiltonian Flows
+Kolmogorov-Arnold-Moser Renormalization-Group Approach to the Breakup of Invariant Tori in Hamiltonian Systems
+Universality for the breakup of invariant tori in Hamiltonian flows
+Wave-function entropy and dynamical-symmetry breaking in the interacting boson model
+From chaotic to disordered systems - a periodic orbit approach
+Robust Chaos
+Quantum-Classical correspondence of entropy contours in the transition to chaos
+The quantum Frenkel-Kontorova model: a squeezed state approach
+A Version of Thirring's Approach to the KAM Theorem for Quadratic Hamiltonians with Degenerate Twist
+Systematic Derivation of Amplitude Equations and Normal Forms for Dynamical Systems
+On how a joint interaction of two innocent partners (smooth advection linear damping) produces a strong intermittency
+Probability Density Function of Longitudinal Velocity Increment in Homogeneous Turbulence
+Universal scaling exponents in shell models of turbulence: Viscous effects are finite-size corrections to scaling
+The Weyl Series and the Trace formula: can we add them?
+Superlattice Patterns in Surface Waves
+Lyapunov Exponents without Rescaling and Reorthogonalization
+Instanton for the Kraichnan Passive Scalar Problem
+Periodic Orbit Theory for Rydberg Atoms in External Fields
+Mean magnetic field renormalization and Kolmogorov's energy spectrum in MHD turbulence
+Initial Condition Sensitivity of Global Quantities in Magnetohydrodynamic Turbulence
+Analytic estimation of Lyapunov exponent in a mean-field model undergoing a phase transition
+An optimal shell model of turbulence
+Chaos-Assisted Light Squeezing
+Chaos Order Statistics and Unstable Periodic Orbits
+Statistics of Dissipation and Enstrophy Induced by a Set of Burgers Vortices
+Relative dispersion in fully developed turbulence: from Eulerian to Lagrangian statistics in synthetic flows
+Bogomolny's semiclassical transfer operator for rotationally invariant integrable systems
+Deterministic SR in a Piecewise Linear Chaotic Map
+Burgers Turbulence with Large-scale Forcing
+Squeezed state dynamics of kicked quantum systems
+Non-Equilibrium Statistical Mechanics of Anharmonic Chains Coupled to Two Heat Baths at Different Temperatures
+Resonant enhanced diffusion in time dependent flow
+Use of synchronization and adaptive control in parameter estimation from a time series
+Entropy computing via integration over fractal measures
+Semiclassics for a Dissipative Quantum Map
+Detection of Coherent Vorticity Structures using Time-Scale Resolved Acoustic Spectroscopy
+Localized Structures Embedded in the Eigenfunctions of Chaotic Hamiltonian Systems
+Effect of Boundary Conditions on Fluctuations Measures
+Perturbation Theory for the Breakdown of Mean-Field Kinetics in Oscillatory Reaction-Diffusion Systems
+Numerical verification of Percival's conjecture in a quantum billiard
+Homoclinic splitting II. A possible counterexample to a claim by Rudnev and Wiggins on Physica D
+Chaotic and fractal properties of deterministic diffusion-reaction processes
+(Global and Local) Fluctuations of Phase Space Contraction in Deterministic Stationary Non-equilibrium
+Scaled Spectroscopy of 1Se and 1Po Highly Excited States of Helium
+Spectral Decomposition of the Tent Map with Varying Height
+Analytic multivariate generating function for random multiplicative cascade processes
+Semiclassical Spectra and Diagonal Matrix Elements by Harmonic Inversion of Cross-Correlated Periodic Orbit Sums
+The Camassa-Holm equations as a closure model for turbulent channel flow
+Spatial correlations of singularity strengths in multifractal branching processes
+A Renormalization Group for Hamiltonians: Numerical Results
+Renormalization group equations and integrability in Hamiltonian systems
+Multi-time multi-scale correlation functions in turbulence and in turbulent models
+Hamiltonian structure of the Sabra shell model of turbulence: exact calculation of an anomalous scaling exponent
+Adiabatic geometric phases and response functions
+hbar expansion for the periodic orbit quantization by harmonic inversion
+Relevance of Chaos in Numerical Solutions of Quantum Billiards
+The Extraction of Anisotropic Contributions in Turbulent Flows
+Light Squeezing at the Transition to Quantum Chaos
+Testing for nonlinearity in unevenly sampled time series
+Melnikov's approximation dominance. Some examples
+Macroscopic chaos in globally coupled maps
+The Use of Generalized Information Dimension in Measuring Fractal Dimension of Time Series
+Scaling and Exotic Regimes in Decaying Burgers Turbulence
+Average Patterns of Spatiotemporal Chaos: A Boundary Effect
+Approximating the mapping between systems exhibiting generalized synchronization
+Mode Fluctuation Distribution for Spectra of Superconducting Microwave Billiards
+Algebraic entropy
+A simplified model for red cell dynamics in small blood vessels
+Multiplier phenomenology in random multiplicative cascade processes
+Collective Chaos
+Characteristic Relations of Type-III Intermittency in an Electronic Circuit
+Globally coupled maps with asynchronous updating
+Noise-induced Input Dependence in a Convective Unstable Dynamical System
+WKB for a damped spin
+Quantum baker map on the sphere
+Chaotic Interaction of Langmuir Solitons and Long Wavelength Radiation
+Signatures of a Universal Spectrum for Atmospheric Interannual Variability in Some Disparate Climatic Regimes
+Time Delay Induced Death in Coupled Limit Cycle Oscillators
+Tunneling rate fluctuations induced by non-linear resonances: a quantitative treatment based on semiclassical arguments
+Renormalization group and anomalous scaling in a simple model of passive scalar advection in compressible flow
+Linear Stochastic Models of Nonlinear Dynamical Systems
+Kolmogorov-Sinai entropy-rate vs. physical entropy
+Periodic Orbit theory for Resonant Tunneling Diodes : comparison with quantum and experimental results
+Different routes to chaos via strange nonchaotic attractor in a quasiperiodically forced system
+Confined chaotic behavior in collective motion for populations of globally coupled chaotic elements
+Quantum chaos with non-periodic complex orbits in the Resonant Tunneling Diode
+Lagrangian Dynamics in High-Dimensional Point-Vortex Systems
+Chemical or Biological Activity in Open Chaotic Flows
+Enstrophy and dissipation must have the same scaling exponent in the high Reynolds number limit of fluidturbulence
+Traces and determinants of strongly stochastic operators
+Dynamical tunneling in optical cavities
+Integrability and level crossing manifolds in a quantum Hamiltonian system
+A Scanned Perturbation Technique For Imaging Electromagnetic Standing Wave Patterns of Microwave Cavities
+Bridge relations in Navier-Stokes turbulence
+Resonances Radiation Damping and Instability in Hamiltonian Nonlinear Wave Equations
+Nonautonomous Hamiltonians
+Critical Attractor and Universality in a Renormalization Scheme for Three Frequency Hamiltonian Systems
+Fingerprints of Classical Instability in Open Quantum Dynamics
+Thermodynamic entropy and excess information loss in dynamical systems with time-dependent Hamiltonian
+Field Driven Thermostated System : A Non-Linear Multi-Baker Map
+Nonlocal bottleneck effect in two-dimensional turbulence
+Finsler Geometric Local Indicator of Chaos for single orbits in the Henon-Heiles hamiltonian
+Spectral Statistics in Chaotic Systems with Two Identical Connected Cells
+Simple deterministic dynamical systems with fractal diffusion coefficients
+Driven Morse Oscillator: Model for Multi-photon Dissociation of Nitrogen Oxide
+Indicators of Reconnection Processes and Transition to Global Chaos in Nontwist Maps
+Pair dispersion in synthetic fully developed turbulence
+Intermittency and structure functions in channel flow turbulence
+Spectral Correlations in the Crossover Transition from a Superposition of Harmonic Oscillators to the Gaussian Unitary Ensemble
+KAM Theorem and Quantum Field Theory
+Time Delay in the Kuramoto Model of Coupled Oscillators
+Complexity spectrum of some discrete dynamical systems
+A note on shell models for MHD Turbulence
+Trace formulas for stochastic evolution operators: Weak noise perturbation theory
+Phase space embedding of electrocardiograms
+Renormalization analysis of intermittency in two coupled maps
+Nonlinear dynamics of a solid-state laser with injection
+Scaling and interleaving of sub-system Lyapunov exponents for spatio-temporal systems
+The power of surrogate data testing with respect to non-stationarity
+Uniform trace formulae for SU(2) and SO(3) symmetry breaking
+Intermittency in coupled maps
+A local fluctuation theorem
+Extensive Scaling and Nonuniformity of the Karhunen-Lo eve Decomposition for the Spiral-Defect Chaos State
+Delayed feedback control of periodic orbits in autonomous systems
+Boosting Sonoluminescence
+Anomalous scaling regimes of a passive scalar advected by the synthetic velocity field
+A Matrix Element for Chaotic Tunnelling Rates and Scarring Intensities
+Border Collision Bifurcations in Two Dimensional Piecewise Smooth Maps
+On the Heat Transfer in Rayleigh-Benard systems
+A Langevin equation for the energy cascade in fully-developed turbulence
+Spectral properties of non-hydrogenic atoms in weak external fields
+Passive advection in nonlinear medium
+Critical Behavior of Period Doublings in Coupled Inverted Pendulums
+Normal forms and complex periodic orbits in semiclassical expansions of Hamiltonian systems
+Instability and Chaos in Non-Linear Wave Interaction: a simple model
+Band Husimi Distributions and the Classical-Quantum Correspondence on the Torus
+Quantum weak chaos in a degenerate system
+H atom in elliptically polarized microwaves: Semiclassical versus quantum resonant dynamics
+Practical implementation of nonlinear time series methods: The TISEAN package
+Constructing transportable behavioural models for nonlinear electronic devices
+Chaos in coplanar classical collisions with particles interacting through 1 r 2 forces
+Band Distributions for Quantum Chaos on the Torus
+Notes about Passive Scalar in Large-Scale Velocity Field
+Lyapunov exponents from geodesic spread in configuration space
+Systematic Computation of the Least Unstable Periodic Orbits in Chaotic Attractors
+Time Delay Effects on Coupled Limit Cycle Oscillators at Hopf Bifurcation
+Coupled Microwave Billiards as a Model for Symmetry Breaking
+Correlation functions in isotropic and anisotropic turbulence: the role of the symmetry group
+Homoclinic Structure Controls Chaotic Tunnelling
+Fluctuations in 2D reversibly-damped turbulence
+Large Coherent Structure Formation by Magnetic Stretching Term in Two-Dimensional MHD Turbulence
+Trace formulas for stochastic evolution operators: Smooth conjugation method
+Phase slips and phase synchronization of coupled oscillators
+Cascades and statistical equilibrium in shell models of turbulence
+Anomalous oscillations of average transient lifetimes near crises
+Cascades of energy and helicity in the GOY shell model of turbulence
+Synchronous Behavior of Two Coupled Biological Neurons
+On the strong anomalous diffusion
+Influence of phase space localization on the energy diffusion in a quantum chaotic billiard
+Resonant dynamics of the H atom in an elliptically polarized microwave field
+Simulation of a Dripping Faucet
+Multiscale velocity correlation in turbulence: experiments numerical simulations synthetic signals
+Shock Wave Emissions of a Sonoluminescing Bubble
+Bounded Gain of Energy on the Breathing Circle Billiard
+Continued Fraction Representation of Temporal Multi Scaling in Turbulence
+Diffusive Ionization of Relativistic Hydrogen-Like Atom
+Kolmogorov equation in fully developed turbulence
+Entropy production dynamical localization and criteria for quantum chaos in the open quantum kicked rotor
+Lindstedt series and Hamilton--Jacobi equation for hyperbolic tori in three time scales problems
+Periodic Orbit Theory and Spectral Statistics for Quantum Graphs
+Noiseless Collective Motion out of Noisy Chaos
+Temporal intermittency and cascades in shell models of turbulence
+Intermittency and scaling laws for wall bounded turbulence
+Error of semiclassical eigenvalues in the semiclassical limit - An asymptotic analysis of the Sinai billiard
+Sailing the Deep Blue Sea of Decaying Burgers Turbulence
+Improving the false nearest neighbors method with graphical analysis
+Thermostatting by deterministic scattering
+Fractal dimension of space-time chaos
+Conformal Theory of the Dimensions of Diffusion Limited Aggregates
+Numerical Analysis of Dynamical Systems and the Fractal Dimension of Boundaries
+Periodic orbit sum rules for billiards: Accelerating cycle expansions
+Quantum L 'evy Processes and Fractional Kinetics
+Bicritical Behavior of Period Doublings in Unidirectionally-Coupled Maps
+Exponentially small oscillation of 2-dimensional stable and unstable manifolds in 4-dimensional symplectic mappings
+Asymptotic Theory for the Probability Density Functions in Burgers Turbulence
+Scaling and Intermittency in Animal Behavior
+Computer algebra derives correct initial conditions for low-dimensional dynamical models
+The predictability problem in systems with an uncertainty in the evolution law
+Characterization and control of small-world networks
+Behavior of the Dripping Faucet over a Wide Range of the Flow Rate
+Multiscaling and Structure Functions in Turbulence: An Alternative Approach
+Anomalous transport and quantum-classical correspondence
+Note on Forced Burgers Turbulence
+Large-scale properties of passive scalar advection
+Another Note on Forced Burgers Turbulence
+Intrinsically localized chaos in discrete nonlinear extended systems
+Quantum resonances and decay of a chaotic fractal repeller observed using microwaves
+Narrow rings: a scattering billiard model
+Significance of Ghost Orbit Bifurcations in Semiclassical Spectra
+Nonlinear Dynamics of A Damped Magnetic Oscillator
+Shell Model for Time-correlated Random Advection of Passive Scalars
+Use of Harmonic Inversion Techniques in Semiclassical Quantization and Analysis of Quantum Spectra
+Structural Invariance and the Energy Spectrum
+On The Three Point Velocity Correlation Functions in 2d Forced Turbulence
+Passive scalar intermittency in compressible flow
+Entropy Generation in Computation and the Second Law of Thermodynamics
+Direct Numerical Simulations of the Navier-Stokes Alpha Model
+Localization and Fluctuations in Quantum Kicked Rotors
+Trace Formulas and Bogomolny's Transfer Operator
+Vibrating soap films: An analog for quantum chaos on billiards
+Periodic Orbit Quantization of Mixed Regular Chaotic Systems
+Spectral reduction: a statistical description of turbulence
+Defect-freezing and Defect-unbinding in the Vector Complex Ginzburg-Landau Equation
+Disentangling Scaling Properties in Anisotropic and Inhomogeneous Turbulence
+Transport in finite size systems: an exit time approach
+Noise-correlation-time-mediated localization in random nonlinear dynamical systems
+Noise-free Stochastic Resonance in Simple Chaotic Systems
+Linear Parabolic Maps on the Torus
+An approximate renormalization-group transformation for Hamiltonian systems with three degrees of freedom
+Interference phenomena in scalar transport induced by a noise finite correlation time
+High Rayleigh number turbulent convection in a gas near the gas-liquid critical point
+Daisy Models: Semi-Poisson statistics and beyond
+Porosities and dimensions of measures
+Escape from intermittent repellers- Periodic orbit theory for crossover from exponential to algebraic decay
+Anisotropic non-perturbative zero modes for passively advected magnetic fields
+Thermostating by Deterministic Scattering: Heat and Shear Flow
+Geometrical approach to the distribution of the zeroes for the Husimi function
+Anomalous Scaling in a Model of Hydrodynamic Turbulence with a Small Parameter
+On the classical dynamics of billiards on the sphere
+A connection between the Camassa-Holm equations and turbulent flows in channels and pipes
+Fluctuation effects on 3D Lagrangian mean and Eulerian mean fluid motion
+Nonhyperbolic homoclinic chaos
+Spectral properties of Dissipative Chaotic Quantum Maps
+Twofold-broken rational tori and the uniform semiclassical approximation
+Spectral Statistics for Quantum Graphs: Periodic Orbits and Combinatorics
+One-dimensional dynamics for travelling fronts in coupled map lattices
+Thermodynamic limit from small lattices of coupled maps
+Randomly Amplified Discrete Langevin Systems
+Dripping Faucet Dynamics Clarified by an Improved Mass-Spring Model
+Traversal-time distribution for a classical time-modulated barrier
+Magnetic field correlations in kinematic two-dimensional magnetohydrodynamic turbulence
+Two-Dimensional turbulence in the inverse cascade range
+Multiple Attractor Bifurcations: A Source of Unpredictability in Piecewise Smooth Systems
+Transitions to Line-Defect Turbulence in Complex Oscillatory Media
+Intermittency exponents and energy spectrum of the Burgers and KPZ equations with correlated noise
+Kepler map
+Structure function of passive scalars in two-dimensional turbulence
+Chaotic dynamics of a classical radiant cavity
+Spectrum of stochastic evolution operators: Local matrix representation approach
+Exit time of turbulent signals: a way to detect the intermediate dissipative range
+A Mean-field statistical theory for the nonlinear Schrodinger equation
+Vector Nonlinear Klein-Gordon Lattices: General Derivation of Small Amplitude Envelope Soliton Solutions
+Helicoidal model for DNA opening
+Influence of Friction on the Direct Cascade of the 2d Forced Turbulence
+KAM Tori for 1D Nonlinear Wave Equations with Periodic Boundary Conditions
+Semiclassical Theory of Short Periodic Orbits in Quantum Chaos
+Semiclassical quantization with short periodic orbits
+Semiclassical Non-Trace Type Formulas for Matrix Element Fluctuations and Weighted Densities of States
+Microscopic chaos from Brownian motion?
+Quantization of multidimensional cat maps
+Power Laws in Solar Flares: Self-Organized Criticality or Turbulence?
+Self-similarity in a system with short-time delayed feedback
+Extracting and Stabilizing the Unstable State of Hysteresis Loop
+Random Roughness of Boundary Increases Turbulent Convection Scaling Exponent
+Distribution of Husimi Zeroes in Polygonal Billiards
+Transition to turbulence in a shear flow
+Non Asymptotic Properties of Transport and Mixing
+Correlations of electromagnetic fields in chaotic cavities
+Collective and chaotic motion in self-bound many-body systems
+Quantization of a billiard model for interacting particles
+Characterization of the long-time and short-time predictability of low-order models of the atmosphere
+Decomposition of Resonant Scatterers by Surfaces of Section
+The Construction of a Quantum Markov Partition
+Quasilinear theory of collisionless Fermi acceleration in a multicusp magnetic confinement geometry
+Chaotic eigenfunctions in momentum space
+Pulses in the Zero-Spacing Limit of the GOY Model
+Instanton Calculus in Shell Models of Turbulence
+Universal long-time properties of Lagrangian statistics in the Batchelor regime and their application to the passive scalar problem
+Noise-induced flow in quasigeostrophic turbulence with bottom friction
+Self-organization in nonlinear wave turbulence
+Fluctuation-Response Relations for Multi-Time Correlations
+Experimental Generation and Observation of Intrinsic Localized Spin Wave Modes in an Antiferromagnet
+Lagrangian Tetrad Dynamics and the Phenomenology of Turbulence
+Distributions of Transition Matrix Elements in Classically Mixed Quantum Systems
+Hyperbolic Billiards on Surfaces of Constant Curvature
+Temporal surrogates of spatial turbulent statistics: the Taylor hypothesis revisted
+Anisotropic Spectra of Acoustic Turbulence
+Multichannel Quantum Defect Theory: a Quantum Poincare Map
+Dynamical entropy for systems with stochastic perturbation
+Strange attractor for the renormalization flow for invariant tori of Hamiltonian systems with two generic frequencies
+Noise-amplitude dependence of the invariant density for noisy fully chaotic one-dimensional maps
+Finite times to equipartition in the thermodynamic limit
+The behavior of closed inextensible membranes in linear and quadratic shear flows
+Efficient algorithm for detecting unstable periodic orbits in chaotic systems
+Chaotic Scattering on Graphs
+Classical Diffusion and Quantum Level Velocities: Systematic Deviations from Random Matrix Theory
+Real Arnold complexity versus real topological entropy for birational transformations
+Different Facets of Chaos in Quantum Mechanics
+Numerical accuracy of Bogomolny's semiclassical quantization scheme in quantum billiards
+Frozen spatial chaos induced by boundaries
+Spectra and statistics of velocity and temperature fluctuations in turbulent convection
+Inverse cascade in two-dimensional turbulence: deviations from Gaussianity
+Quantum Algorithmic Integrability: The Metaphor of Polygonal Billiards
+Smooth-filamental transition of active tracer fields stirred by chaotic advection
+The Intersection Angles between N-Dimensional Stable and Unstable Manifolds in 2N-Dimensional Symplectic Mappings
+Characteristic distributions of finite-time Lyapunov exponents
+Resource Letter TF-1: Turbulence in Fluids
+Fluctuations and Ergodicity of the Form Factor of Quantum Propagators and Random Unitary Matrices
+Dynamics near Resonance Junctions in Hamiltonian Systems
+A Tool to Recover Scalar Time-Delay Systems from Experimental Time Series
+Hyperchaos in the generalized R ossler system
+Chaotic advection of reacting substances: Plankton dynamics on a meandering jet
+Small-scale turbulent dynamo
+Hamiltonian for a restricted isoenergetic thermostat
+Experimental vs. Numerical Eigenvalues of a Bunimovich Stadium Billiard -- A Comparison
+Controlling a leaky tap
+Chaotic Oscillations in Finite Quantum Systems: Trapped Bose-Einstein Condensates
+The Scaling Structure of the Velocity Statistics in Atmospheric Boundary Layer
+Comment on Simple Measure of Complexity
+Critical states of transient chaos
+Ghost orbits in the diamagnetic hydrogen spectrum using harmonic inversion
+Recovery of the Time-Evolution Equation of Time-Delay Systems from Time Series
+The identification of continuous spatiotemporal systems
+Universality of Probability Distributions Among Two-Dimensional Turbulent Flows
+Learning Driver-Response Relationships from Synchronization Patterns
+A Robust Method for Detecting Interdependences: Application to Intracranially Recorded EEG
+Dynamic Stabilization in The Double-Well Duffing Oscillator
+Symbolic Dynamics of the Diamagnetic Kepler Problem Without Involving Bounces
+Anomalous scaling of a passive scalar advected by the synthetic compressible flow
+Identifying and modelling delay feedback systems
+Anderson Localization in a String of Microwave Cavities
+The multifractal structure of chaotically advected chemical fields
+Inhomogeneous turbulence in the vicinity of a large scale coherent vortex
+Entropy Production and Heat Generation in Computational Processes
+From template analysis to generating partitions I: Periodic orbits knots and symbolic encodings
+From template analysis to generating partitions II: Characterization of the symbolic encodings
+On geometric properties of passive random advection
+Fractional Langevin equation to describe anomalous diffusion
+Synchronisation of time--delay systems
+Estimation of Lyapunov spectra from space-time data
+Dynamics of a Limit Cycle Oscillator under Time Delayed Linear and Nonlinear Feedbacks
+Free Decay of Turbulence and Breakdown of Self-Similarity
+Chaotic advection and relative dispersion in a convective flow
+A Trace Formula for Products of Diagonal Matrix Elements in Chaotic Systems
+Evolution of the vorticity-area density during the formation of coherent structures in two-dimensional flows
+Controlling spatiotemporal chaos via small external forces
+Directed current due to broken time-space symmetry
+Invariant sets for discontinuous parabolic area-preserving torus maps
+Uniform approximations for non-generic bifurcation scenatios including bifurcations of ghost orbits
+Chaos and information entropy production
+Momentum conservation implies anomalous energy transport in 1d classical lattices
+Mixing property of triangular billiards
+About coherent structures in random shell models for passive scalar advection
+Chaotic Rydberg atoms with broken time-reversal symmetry
+Semiclassical Quantization by Pade Approximant to Periodic Orbit Sums
+Lyapunov exponents and Kolmogorov-Sinai entropy for a high-dimensional convex billiard
+Closed almost-periodic orbits in semiclassical quantization of generic polygons
+Trace identities and their semiclassical implications
+Quantum noise-induced chaotic oscillations
+Unification of perturbation theory RMT and semiclassical considerations in the study of parametrically-dependent eigenstates
+Wavepacket dynamics in energy space RMT and quantum-classical correspondence
+Nonperturbative Spectrum of Anomalous Scaling Exponents in the Anisotropic Sectors of Passively Advected Magnetic Fields
+Semiclassical form factor for chaotic systems with spin 1 2
+Finite Wavelength Instabilities in a Slow Mode Coupled Complex Ginzburg-Landau Equation
+A comparative study of computation of Lyapunov spectra with different algorithms
+Numerical study of a three-dimensional generalized stadium billiard
+Non-Equilibrium Statistical Mechanics of Strongly Anharmonic Chains of Oscillators
+Surrogate time series
+Universality and saturation of intermittency in passive scalar turbulence
+Geometrical properties of Maslov indices in periodic-orbit theory
+Improved surrogate data for nonlinearity tests
+Constrained randomization of time series data
+Discrimination power of measures for nonlinearity in a time series
+Detecting and analysing nonstationarity in a time series with nonlinear cross-predictions
+Energy dissipation statistics in a shell model of turbulence
+Correlations in the Adiabatic Response of Chaotic Systems
+The existence of Burnett coefficients in the periodic Lorentz gas
+Dissipative Chaotic Quantum Maps: Expectation Values Correlation Functions and the Invariant State
+Heteroclinic orbits and transport in a perturbed integrable Suris map
+Quantized Orbits and Resonant Transport
+Exponential mixing and log h time scales in quantized hyperbolic maps on the torus
+Bulk Properties of Anharmonic Chains in Strong Thermal Gradients: Non-Equilibrium phi 4 Theory
+The Quantum-Classical Crossover in the Adiabatic Response of Chaotic Systems
+Decaying magnetohydrodynamics: effects of initial conditions
+A Stochastic Approach to the Construction of One-Dimensional Chaotic Maps with Prescribed Statistical Properties
+Regular Tunnelling Sequences in Mixed Systems
+Finite thermal conductivity in 1d lattices
+Solitary waves in nonequilibrium molecular dynamics simulations of heat flow in one-dimensional lattices
+The Linear Baryon
+Stochastic modelling of nonlinear dynamical systems
+Different transport regimes in a spatially-extended recirculating background
+Truncations of random unitary matrices
+Fractal escapes in Newtonian and relativistic multipole gravitational fields
+Action Correlations in Integrable Systems
+Diffractive corrections in the trace formula for polygonal billiards
+Relaxation and Diffusion for the Kicked Rotor
+Relaxation to the Invariant Density for Kicked Rotor
+Different Traces of Quantum Systems Having the Same Classical Limit
+Two-Particle Dispersion in Model Velocity Fields
+Artificiality of multifractal phase transitions
+Spectral properties of Atoms in Fields: A Semiclassical Analysis
+Semiclassical Gaussian matrix elements for chaotic quantum wells
+Polymer Stretching by Turbulence
+Linear and nonlinear time series analysis of the black hole candidate Cygnus -1
+On the Turbulent Dynamics of Polymer Solutions
+An approach to Mel'nikov theory in celestial mechanics
+Lyapunov exponents entropy production and decoherence
+Classical statistical mechanics of a few-body interacting spin model
+Dissipative tunneling in presence of classical chaos in a mixed quantum-classical system
+Measurement of Wave Chaotic Eigenfunctions in the Time-Reversal Symmetry-Breaking Crossover Regime
+Unstable dimension variability and synchronization of chaotic systems
+Fixed points stability and intermittency in a shell model for advection of passive scalars
+Better Nonlinear Models from Noisy Data: Attractors with Maximum Likelihood
+Phase Synchronization with Type-II Intermittency in Chaotic Oscillators
+Robust and Irreversible Development in Cell Society as a General Consequence of Intra-Inter Dynamics
+Reconstruction of systems with delayed feedback: (II) Application
+An exit-time approach to epsilon -entropy
+Dynamic bifurcations: hysteresis scaling laws and feedback control
+From Generalized Synchrony to Topological Decoherence: Emergent Sets in Coupled Chaotic Systems
+Universality classes for self-similarity of noiseless multi-dimensional Burgers turbulence and interface growth
+Quantum-classical correspondence and nonclassical states generation in dissipative quantum optical systems
+Bifurcation analysis of the plane sheet pinch
+The effect of forcing on the spatial structure and spectra of chaotically advected passive scalars
+Differential light scattering: probing the sonoluminescence collapse
+Characteristic Relations of Type-I Intermittency in the Presence of Noise
+Extraction of information about periodic orbits from scattering functions
+Turbulent 4-wave Interaction of Two Type of Waves
+The boundary integral method for magnetic billiards
+Ultrasound scattering and the study of vortex correlations in disordered flows
+Critical behavior of vorticity in two-dimensional turbulence
+Anomalous scaling in a shell model of helical turbulence
+Thermodynamic Cross-Effects from Dynamical Systems
+Decimation and Harmonic Inversion of Periodic Orbit Signals
+Chaotic Transport and Current Reversal in Deterministic Ratchets
+Longitudinal Structure Functions in Decaying and Forced Turbulence
+A MultiBaker Map for Thermodynamic Cross-Effects in Dynamical Systems
+Semiclassical properties of eigenfunctions and occupation number distribution for a model of two interacting particles
+From Heisenberg matrix mechanics to EBK quantization: theory and first applications
+Stabilizing the Richardson Algorithm by Controlling Chaos
+Global Bifurcations in Rayleigh-Benard Convection: Experiments Empirical Maps and Numerical Bifurcation Analysis
+Correlations and Renormalization in Lattice Gases
+Estimating the Fractal Dimension K 2-entropy and the Predictability of the Atmosphere
+Adaptive Mesh Refinement for Singular Current Sheets in Incompressible Magnetohydrodynamic Flows
+Structural Stability and Renormalization Group for Propagating Fronts
+Selection Stability and Renormalization
+Life-Times of Simulated Traffic Jams
+Quenched and Negative Hall Effect in Periodic Media: Application to Antidot Superlattices
+Chaotic Dynamics of High Order Neural Networks
+Statistics of a Passive Scalar Advected by a Large-Scale 2D Velocity Field: Analytic Solution
+Passive scalar convection in 2D long-range delta-correlated velocity field: Exact results
+Renormalization Group Theory And Variational Calculations For Propagating Fronts
+Chaos and Quantum Thermalization
+Mesoscopic Transport Through Ballistic Cavities: A Random S-Matrix Theory Approach
+Tunneling and the Band Structure of Chaotic Systems
+Solution of the two impurity two channel Kondo Model
+Quantum Chaos and Statistical Mechanics
+Analogies between Scaling in Turbulence Field Theory and Critical Phenomena
+Non-equilibrium coherent vortex states and subharmonic giant Shapiro steps in Josephson junction arrays
+Diffusion Processes and Coherent States
+The Inhibition of Mixing in Chaotic Quantum Dynamics
+Phase--coherence Effects in Antidot Lattices: A Semiclassical Approach to Bulk Conductivity
+Iterated Moire Maps and Braiding of Chiral Polymer Crystals
+Coupled-Map Modeling of One-Dimensional Traffic Flow
+Level Curvature Distribution for Diffusive Aharonov-Bohm Systems: analytical results
+Eddy diffusivities in scalar transport
+Decimation Studies of Bloch Electrons in a Magnetic Field: Higher Order Limit Cycles Underlying the Phase Diagram
+THE PHASE DIAGRAM FOR THE SINE-GORDON MODEL WITH TWO UMKLAPP TERMS
+Universal Parametric Correlations of Eigenfunctions in Chaotic and Disordered Systems
+Traces of a Quantum Anti-Resonance in a Driven System
+Semiclassical Analysis of the Conductance of Mesoscopic Systems
+Spectral Statistics in the Lowest Landau Band
+Enhancement of localization length for two interacting kicked rotators
+Fractal versus QuasiClassical Diffusive Transport in a class of quantum systems
+Statistics of random quasi 1D Hamiltonian with slowly varying parameters. Painlev ' e again.
+SCALING AND INTERMITTENCY IN BURGERS' TURBULENCE
+Coarsening in the q-State Potts Model and the Ising Model with Globally Conserved Magnetization
+Chaos in Andreev Billiards
+Semiclassical Description of Tunneling in Mixed Systems: The Case of the Annular Billiard
+Self-Similarity and Localization
+Chaos in resonant-tunneling superlattices
+Statistical Properties of Random Banded Matrices with Strongly Fluctuating Diagonal Elements
+Analytical Results for Random Band Matrices with Preferential Basis
+Defects in Chiral Columnar Phases: Tilt Grain Boundaries and Iterated Moire Maps
+Statistics of S-matrix poles in Few-Channel Chaotic Scattering: Crossover from Isolated to Overlapping Resonances
+Does Fully-Developed Turbulence Exist? Reynolds Number Independence versus Asymptotic Covariance
+Passive scalars random flux and chiral phase fluids
+Spectral Statistics: From Disordered to Chaotic Systems
+Nonlinear Dynamics of Composite Fermions in Nanostructures
+Fractal Conductance Fluctuations in Generic Chaotic Cavities
+Gaussian field theories random Cantor sets and multifractality
+Chaotic dynamics of electric-field domains in periodically driven superlattices
+Comment on Spatial Correlation in Quantum Chaotic Systems with Time-Reversal Symmetry: Theory and Experiment by V. N. Prigodin et al cond-mat 4
+Parametric Correlations of Scattering Phase Shifts and Fluctuations of Delay Times in Few-Channel Chaotic Scattering
+Chaotic properties of quantum many-body systems in the thermodynamic limit
+Critical Behavior of the Sandpile Model as a Self-Organized Branching Process
+Exponential Distributions in a Mechanical Model for Earthquakes
+Survival Probability of a Gaussian Non-Markovian Process: Application to the T Dynamics of the Ising Model
+Dissipative Chaos in Semiconductor Superlattices
+Excitation of Small Quantum Systems by High-Frequency Fields
+Almost-Hermitian Random Matrices: Eigenvalue Density in the Complex Plane
+Velocity fluctuations in forced Burgers turbulence
+Crossover from critical orthogonal to critical unitary statistics at the Anderson transition
+Reflection Symmetric Ballistic Microstructures: Quantum Transport Properties
+Wavefunction and level statistics of random two dimensional gauge fields
+Antiresonance and Localization in Quantum Dynamics
+From Random Matrix Theory to Statistical Mechanics - Anyon Gas
+Semiclassical theory for many-body Fermionic systems
+Turbulent Binary Fluids: A Shell Model Study
+Diffusion and localization in chaotic billiards
+What determines the spreading of a wave packet?
+Transport and conservation laws
+Energy flow partial equilibration and effective temperatures in systems with slow dynamics
+Morphological Instabilities in a growing Yeast Colony: Experiment and Theory
+Quantum localization in rough billiards
+Statistics of resonance poles phase shifts and time delays in quantum chaotic scattering for systems with broken time reversal invariance
+Parametric Correlations of Phase Shifts and Statistics of Time Delays in Quantum Chaotic Scattering: Crossover between Unitary and Orthogonal Symmetries
+Two-level system with noise: Blue's function approach
+Pseudo-boundaries in discontinuous 2-dimensional maps
+Self-Organized Criticality Driven by Deterministic Rules
+Directed Quantum Chaos
+Suppression of chaotic dynamics and localization of two-dimensional electrons by a weak magnetic field
+Theory for Characterization of Hippocampal Long-Term Potentiation Induced by Time-Structured Stimuli
+Mean Free Path and Energy Fluctuations in Quantum Chaotic Billiards
+Periodic Orbit Theory of the circular billiard in homogeneous magnetic fields
+Theoretical Model for Faraday Waves with Multiple-Frequency Forcing
+Dry Friction in the Frenkel-Kontorova-Tomlinson Model: Dynamical Properties
+The Two-Point Function and the Effective Magnetic Field in Diluted Ising Models on the Cayley Tree
+Toward semiclassical theory of quantum level correlations of generic chaotic systems
+Solvable dynamics in a system of interacting random tops
+Perturbation Theory for the Rosenzweig-Porter Matrix Model
+Slow modes in passive advection
+Emergence of quantum chaos in finite interacting Fermi systems
+Relaxation process in a regime of quantum chaos
+Time Dependent Floquet Theory and Absence of an Adiabatic Limit
+Asymptotics of Universal Probability of Neighboring Level Spacings at the Anderson Transition
+Traveling Granular Segregation Patterns in a Long Drum Mixer
+Canonically invariant formulation of Langevin and Fokker-Planck Equations
+Decay of Quasi-Particle in a Quantum Dot: the role of Energy Resolution
+Time evolution of a quantum many-body system: transition from integrability to ergodicity in thermodynamic limit
+Quantum Versus Classical Decay Laws in Open Chaotic Systems
+High order amplitude equation for steps on creep curve
+The Exact Ground State of the Frenkel-Kontorova Model with Repeated Parabolic Potential: I. Basic Results
+The Exact Ground State of the Frenkel-Kontorova Model with Repeated Parabolic Potential: II. Numerical Treatment
+Chaos and Interacting Electrons in Ballistic Quantum Dots
+Extended Self-similarity in Kinetic Surface Roughening
+Spontaneous DC Current Generation in a Resistively Shunted Semiconductor Superlattice Driven by a TeraHertz Field
+Avoided Band Crossings: Tuning Metal-Insulator Transitions in Chaotic Systems
+Solitons and diffusive modes in the noiseless Burgers equation: Stability analysis
+Morphology and scaling in the noisy Burgers equation: Soliton approach to the strong coupling fixed point
+Fractal Conductance Fluctuations in a Soft Wall Stadium and a Sinai Billiard
+Energy transport in anharmonic lattices close and far from equilibrium
+Localization and Equipartition of Energy in the beta-FPU Chain : Chaotic Breathers
+Phase-locking in weakly heterogeneous neuronal networks
+Fluctuation theorem for stochastic dynamics
+Two-band random matrices
+Rough droplet model for spherical metal clusters
+Manifestation of quantum chaos on scattering techniques: application to low-energy and photo-electron diffraction intensities
+Soliton approach to the noisy Burgers equation: Steepest descent method
+Crossover from Regular to Chaotic Behavior in the Conductance of Periodic Quantum Chains
+Multiscaling in passive scalar advection as stochastic shape dynamics
+Interaction-Driven Equilibrium and Statistical Laws in Small Systems. The Cerium Atom
+Avalanche Mixing of Granular Solids
+Dynamical phase diagram of the dc-driven underdamped Frenkel-Kontorova chain
+Statistical mechanics of warm and cold unfolding in proteins
+Asymmetric gap soliton modes in diatomic lattices with cubic and quartic nonlinearity
+Stochastic Hysteresis and Resonance in a Kinetic Ising System
+Chaos Thresholds in finite Fermi systems
+Heat conduction in one dimensional chains
+Statistical analysis of scars in stadium billiard
+Electronic shell structure of large metallic clusters in the modified harmonic oscillator
+Efficient Diagonalization of Kicked Quantum Systems
+Spatiotemporal dynamics of discrete sine-Gordon lattices with sinusoidal couplings
+Anomalous diffusion as a signature of collapsing phase in two dimensional self-gravitating systems
+Semiclassical description of resonant tunneling
+Levy flights in quenched random force fields
+Circulation Statistics in Three-Dimensional Turbulent Flows
+Photodissociation in Quantum Chaotic Systems: Random Matrix Theory of Cross-Section Fluctuations
+Quantum Billiards with Surface Scattering: Ballistic Sigma-Model Approach
+Intermittency in passive scalar advection
+Resonant steps and spatiotemporal dynamics in the damped dc-driven Frenkel-Kontorova chain
+Fractal Dimension of Julia Set for Non-analytic Maps
+Anomalous scaling in passive scalar advection: Monte-Carlo Lagrangian trajectories
+Dynamics of Dry Friction: A Numerical Investigation
+Intensity distribution for waves in disordered media: deviations from Rayleigh statistics
+Noisy time series generation by feed-forward networks
+Quantum localization and cantori in chaotic billiards
+Berry-Robnik level statistics in a smooth billiard system
+Quantum invariants of motion in a generic many-body system
+Quantum mechanics of chaotic billiards
+Breakdown of Scale Invariance in the Phase Ordering of Fractal Clusters
+Transmission and Scattering of a Lorentz Gas on a Slab
+Quantal Brownian Motion - Dephasing and Dissipation
+Chaotic enhancement in microwave ionization of Rydberg atoms
+Response of bubbles to diagnostic ultrasound: a unifying theoretical approach
+On the driven Frenkel-Kontorova model: I. Uniform sliding states and dynamical domains of different particle densities
+On the driven Frenkel-Kontorova model: II. Chaotic sliding and nonequilibrium melting and freezing
+Stochastic and Boltzmann-like models for behavioral changes and their relation to game theory
+Free particle scattering off two oscillating disks
+Classical quasiparticle dynamics and chaos in trapped Bose condensates
+Mean field theory of critical coupled map lattices
+High-Power Directional Emission from Microlasers with Chaotic Resonators
+Statistical mechanics of voting
+Integrability and Quantum Chaos in Spin Glass Shards
+Quantum Poincar 'e Recurrences
+Nonergodic Behavior of Interacting Bosons in Harmonic Traps
+Asymptotic Statistics of Poincar 'e Recurrences in Hamiltonian Systems with Divided Phase Space
+Dynamical Instabilities and Deterministic Chaos in Ballistic Electron Motion in Semiconductor Superlattices
+PDF's Of The Burgers Equation On The Semiline With Fluctuating Flux At The Origin
+Nonadiabatic Geometric Phase and Hannay Angle: A Squeezed State Approach
+Ergodic properties of a generic non-integrable quantum many-body system in thermodynamic limit
+Relaxation of classical many-body hamiltonians in one dimension
+Kinetic Ising model in an oscillating field: Avrami theory for the hysteretic response and finite-size scaling for the dynamic phase transition
+A map from 1d Quantum Field Theory to Quantum Chaos on a 2d Torus
+Perturbations of Noise: The origins of Isothermal Flows
+The approach to thermal equilibrium in quantized chaotic systems
+Higher order parametric level statistics in disordered systems
+Bloch Electrons in a Magnetic Field - Why Does Chaos Send Electrons the Hard Way?
+Quantum dissipation due to the interaction with chaotic degrees-of-freedom and the correspondence principle
+Fluctuation Effects on Quadratic Autocatalysis Fronts
+Test of the Kolmogorov-Johnson-Mehl-Avrami picture of metastable decay in a model with microscopic dynamics
+Absence of local thermal equilibrium in two models of heat conduction
+Long-term properties of time series generated by a perceptron with various transfer functions
+Chaos and Synchronized Chaos in an Earthquake Model
+Response of an Excitatory-Inhibitory Neural Network to External Stimulation: An Application to Image Segmentation
+Chaos in Quantum Dots: Dynamical Modulation of Coulomb Blockade Peak Heights
+Dispersive stabilization of the inverse cascade for the Kolmogorov flow
+Statistics of photodissociation spectra: nonuniversal properties
+Imprints of log-periodic self-similarity in the stock market
+Wave transmission phonon localization and heat conduction of 1D Frenkel-Kontorova chain
+Quasi Markovian behavior in mixing maps
+Chaos and energy spreading for time-Dependent Hamiltonians and the various Regimes in the theory of Quantum Dissipation
+Correlations of Eigenvectors for Non-Hermitian Random-Matrix Models
+Can the trace formula describe weak localisation?
+Phase Ordering and Onset of Collective Behavior in Chaotic Coupled Map Lattices
+Systematic Analytical Approach to Correlation Functions of Resonances in Quantum Chaotic Scattering
+Pauli principle and chaos in a magnetized disk
+Parametric level statistics in random matrix theory: Exact solution
+Effective action for stochastic partial differential equations
+Comment on Universal relation between the Kolmogorov-Sinai entropy and the thermodynamic entropy in simple liquids'
+Ground state wavefunction of the quantum Frenkel-Kontorova model
+Comment on Lyapunov Exponent of a Many Body System and Its Transport Coefficients''
+Superdiffusion and Out-of-equilibrium Chaotic Dynamics with Many Degrees of Freedoms
+Effective potential for the massless KPZ equation
+Intermittency in Dynamics of Two-Dimensional Vortex-like Defects
+Kinetic approach to the Gaussian thermostat in a dilute sheared gas in the thermodynamic limit
+Noise induced transition from an absorbing phase to a regime of stochastic spatiotemporal intermittency
+Persistent Currents in Quantum Chaotic Systems
+Pdf's of Derivatives and Increments for Decaying Burgers Turbulence
+Theoretical Model for the Kramers-Moyal Description of Turbulence Cascades
+Multi-scale Correlation Functions in Strong Turbulence
+Semiclassical theory of the emission properties of wave-chaotic resonant cavities
+Phase ordering in chaotic map lattices with conserved dynamics
+Spectral Statistics and Dynamical Localization: sharp transition in a generalized Sinai billiard
+The rate of entropy increase at the edge of chaos
+Quantum transport through ballistic cavities: soft vs. hard quantum chaos
+Random matrices and the replica method
+Gibbs entropy and irreversible thermodynamics
+Scaling and Crossovers in Diffusion Limited Aggregation
+Nonextensive thermodynamic formalism for chaotic dynamical systems
+Two-finger selection theory in the Saffman-Taylor problem
+Microwave study of quantum n-disk scattering
+Critical statistics in a power-law random banded matrix ensemble
+Emergence of macroscopic temperatures in systems that are not thermodynamical microscopically: towards a thermodynamical description of slow granular rheology
+Interface dynamics in Hele-Shaw flows with centrifugal forces. Preventing cusp singularities with rotation
+The statistics of velocity fluctuations arising from a random distribution of point vortices: the speed of fluctuations and the diffusion coefficient
+Hydrodynamics of the Kuramoto-Sivashinsky Equation in Two Dimensions
+Spectral determinant on quantum graphs
+Quantum Poincare Recurrences for Hydrogen Atom in a Microwave Field
+Long-Time Relaxation on Spin Lattice as Manifestation of Chaotic Dynamics
+Statistics of Wave Functions in Coupled Chaotic Systems
+The Futility of Utility: how market dynamics marginalize Adam Smith
+Chaotic dynamics and superdiffusion in a Hamiltonian system with many degrees of freedom
+Geometric approach to Hamiltonian dynamics and statistical mechanics
+Singularities and the distribution of density in the Burgers adhesion model
+Viscoelastic Depinning of Driven Systems: Mean-Field Plastic Scallops
+Chaos in Static Axisymmetric Spacetimes I : Vacuum Case
+Chaos around a H 'enon-Heiles-inspired exact perturbation of a black hole
+The mixmaster universe is chaotic
+Axially Symmetric Bianchi I Yang-Mills Cosmology as a Dynamical System
+Addendum: Chaos around a H 'enon-Heiles-Inspired Exact Perturbation of a Black Hole
+The tale of two centres
+The mixmaster universe: A chaotic Farey tale
+Chaos in black holes surrounded by gravitational waves
+Topological entropy for some isotropic cosmological models
+Gravity Waves Chaos and Spinning Compact Binaries
+Scattering map for two black holes
+Unbiased Estimators for Correlation Measurements
+Random matrix model approach to chiral symmetry
+Quantum Chaos in Compact Lattice QED
+Non-Universal Quantities from Dual RG Transformations
+Nonhermitean Random Matrix Models : a Free Random Variable Approach
+Modelling Sonoluminescence
+Density correlators in a self-similar cascade
+Chaos analyses in both phases of QED and QCD
+Conformal Models of Two-Dimensional Turbulence
+Baxterization dynamical systems and the symmetries of integrability
+A Class of Quantum States with Classical-like Evolution
+On the solutions of the CP 1 model in (2 1) dimensions
+Instantons in Burgers Equation
+Geometric Phase in Quantum Billiards with a Pointlike Scatterer
+2-Dimensional Turbulence: yet another Conformal Field Theory Solution
+The Renormalization-Group Method Applied to Asymptotic Analysis of Vector Fields
+A note on Burgers' turbulence
+Symmetries of the stochastic Burgers equation
+Universal correlations in random matrices: quantum chaos the 1 r 2 integrable model and quantum gravity
+Chaos in effective classical and quantum dynamics
+Exact Two-Point Correlation Functions of Turbulence Without Pressure in Three-Dimensions
+Is there chaos in string cosmology?
+Duality in Perturbation Theory and the Quantum Adiabatic Approximation
+Turbulence without pressure in d dimensions
+Stochastic field theory for a Dirac particle propagating in gauge field disorder
+Remark on the (Non)convergence of Ensemble Densities in Dynamical Systems
+Converging Perturbative Solutions of the Schroedinger Equation for a Two-Level System with a Hamiltonian Depending Periodically on Time
+Spectral statistics for quantized skew translations on the torus
+Singularity theory study of overdetermination in models for L-H transitions
+Distribution of zeros of random and quantum chaotic sections of positive line bundles
+Bulk Burning Rate in Passive - Reactive Diffusion
+Is Schr o dinger's Conjecture for the Hydrogen Atom Coherent States Attainable
+New Shell Structure Originated from the Combination of Quadrupole and Octupole Deformations
+Periodic Orbits and Shell Structure in Octupole Deformed Potentials
+Classcial Bifurcation and Enhancement of Quantum Shells --- Systematic Analysis of Reflection-Asymmetric Deformed Oscillator ---
+A Note on the Toda Criterion for Interacting Dipole-Quadrupole Vibrations
+Integrability of the pairing hamiltonian
+Dynamics of a Simple Quantum System in a Complex Environment
+Generalized entropy and temperature in nuclear multifragmentation
+Tri-axial Octupole Deformations and Shell Structure
+Symmetry Breaking and Bifurcations in the Periodic Orbit Theory: I: Elliptic Billiard
+On the dominance of J(P)( ) ground states in even-even nuclei from random two-body interactions
+The Impact of Isospin Breaking on the Distribution of Transition Probabilities
+Statistical aspects of nuclear coupling to continuum
+Spiral Defect Chaos in Large Aspect Ratio Rayleigh-Benard Convection
+Thermodynamic Limit Of The Ginzburg-Landau Equations
+Secondary Instabilities and Spatiotemporal Chaos in Parametric Surface Waves
+Defect Dynamics for Spiral Chaos in Rayleigh-Benard Convection
+Coupled Maps on Trees
+Synchronization chaos and breakdown of collective domain oscillations in reaction-diffusion systems
+Structure of Complex-Periodic and Chaotic Media with Spiral Waves
+Direct Transition to Spatiotemporal Chaos in Low Prandtl Number Fluids
+Geometric Stability Analysis for Periodic Solutions of the Swift-Hohenberg Equation
+Dynamical Reduction of Discrete Systems Based on the Renormalization Group Method
+The Dynamics of Granular Segregation Patterns in a Long Drum Mixer
+Electrically driven convection in a thin annular film undergoing circular Couette flow
+Chaotic behaviour of nonlinear waves and solitons of perturbed Korteweg - de Vries equation
+Impurity-induced stabilization of solitons in arrays of parametrically driven nonlinear oscillators
+Symmetry breaking in crossed magnetic and electric fields
+Continuous control of ionization wave chaos by spatially derived feedback signals
+The split density model: a unified description of polarization and array dynamics for vertical cavity surface emitting lasers
+Nonlinear Dynamics of Accelerator via Wavelet Approach
+Statistics of electromagnetic transitions as a signature of chaos in many-electron atoms
+Density probability distribution in one-dimensional polytropic gas dynamics
+Numerical simulations on Szilard's engine and information erasure
+Design criteria of a chemical reactor based on a chaotic flow
+Directional emission from asymmetric resonant cavities
+Modelling by maps of two-frequency microwave ionization of hydrogen atoms
+Theory of Circle Maps and the Problem of One-Dimensional Optical Resonator with a Periodically Moving Wall
+Evidence for a singularity in ideal magnetohydrodynamics: implications for fast reconnection
+Variational Approach in Wavelet Framework to Polynomial Approximations of Nonlinear Accelerator Problems
+Symmetry Hamiltonian Problems and Wavelets in Accelerator Physics
+Dynamics of lattice spins as a model of arrhythmia
+Large deviations from the thermodynamic limit in globally coupled maps
+Comment on Recurrences without closed orbits
+Motion of Three Vortices near Collapse
+Kullback-Leibler and Renormalized Entropy: Applications to EEGs of Epilepsy Patients
+Analyzing symmetry breaking within a chaotic quantum system via Bayesian inference
+Residual Symmetries in the Spectrum of Periodically Driven Alkali Rydberg States
+Iso-topological relaxation coherent structures and Gaussian turbulence in two dimensional magnetohydrodynamics
+Feynman-Kac Kernels in Markovian Representations of the Schroedinger Interpolating Dynamics
+Quantum state diffusion localization and computation
+An Example of the Decoherence Approach to Quantum Dissipative Chaos
+Quantum dephasing by chaos
+Resonance statistics in a microwave cavity with a thin antenna
+On the Torus Quantization of Two Anyons with Coulomb Interaction in a Magnetic Field
+Complete positivity of nonlinear evolution: A case study
+The Hydrogen Atom in Combined Electric and Magnetic Fields with Arbitrary Mutual Orientations
+Coherent and incoherent chaotic tunneling near singlet-doublet crossings
+Semiclassical Time Evolution and Trace Formula for Relativistic Spin-1 2 Particles
+Nonadiabatic geometric phase for the cyclic evolution of a time-dependent Hamiltonian system
+Squeezed Light Generation in Nonlinear System with Chaotic Dynamics
+Flow Equations for the Henon-Heiles Hamiltonian
+A semiclassical approach to the Dirac equation
+The 1 N-expansion quantum-classical correspondence and nonclassical states generation in dissipative higher-order anharmonic oscillators
+Enhanced Diffusion and the Continuous Spontaneous Localization Model
+A Way Out of the Quantum Trap
+Semiclassical Calculation of Transition Matrix Elements for Atoms in External Fields
+The Weyl representation on the torus
+Noise perturbations in the Brownian motion and quantum dynamics
+Symmetry of Quantum Phase Space in a Degenerate Hamiltonian System
+Quantum Chaos Border for Quantum Computing
+Completely Mixing Quantum Open Systems and Quantum Fractals
+Localization of Eigenstates Mean Wehrl Entropy
+Quantum revivals geometric phases and circle map recurrences
+A Fundamental Limit of Measurement Imposed by the Elementary Interactions
+Non-integrability of the mixmaster universe
+Constants of motion in the dynamics of a 2N-junction SQUID
+Screening current effects in Josephson junction arrays
+S-matrix poles for chaotic quantum systems as eigenvalues of complex symmetric random matrices: from isolated to overlapping resonances
+Semiclassical Treatment of Diffraction in Billiard Systems with a Flux Line
+Geometrical theory of diffraction and spectral statistics
+Universality in quantum parametric correlations
+Strong Determinism vs. Computability
+Fractals and Scars on a Compact Octagon
+Quadratic Volume Preserving Maps
+Field theory of the quantum kicked rotor
+Integrability and Ergodicity of Classical Billiards in a Magnetic Field
+Can a local repulsive potential trap an electron?
+Chaotic hysteresis in an adiabatically oscillating double well
+Classical Billiards in a Magnetic Field and a Potential
+Quantum Signature of the Chaos-Order Transition in a Homogeneous SU(2) Yang-Mills-Higgs System
+Short times characterisations of stochasticity in nonintegrable galactic potentials
+Universal Long-Time Relaxation on the Lattices of Classical Spins: Markovian Behavior on non-Markovian Timescales
+Preheating of Fermions
+On the dynamics of a self-gravitating medium with random and non-random initial conditions
+Geometry of dynamics and phase transitions in classical lattice phi 4 theories
+Diffusion in a Random Velocity Field: Spectral Properties of a Non-Hermitian Fokker-Planck Operator
+Quantum anti-Zeno effect
+Chaos Thermodynamics and Quantum Mechanics: an Application to Celestial Dynamics
+Exact Exponents of Supersonic Turbulence in Arbitrary Dimensions
+Classical and quantum chaos in a circular billiard with a straight cut
+Fuzzy Control of Chaos
+The Bogdanov Map: Bifurcations Mode Locking and Chaos in a Dissipative System
+Chaotic advection in three-dimensional unsteady incompressible laminar flow
+Pitch Perception of Complex Sounds: Nonlinearity Revisited
+Global Diffusion in a Realistic Three-Dimensional Time-Dependent Nonturbulent Fluid Flow
+Burridge-Knopoff Models as Elastic Excitable Media
+Quantum chaos of a kicked particle in a 1D infinite square potential well
+Universality in Three-Frequency Resonances
+Dynamics of Elastic Excitable Media
+Nonlinear Dynamics of the Perceived Pitch of Complex Sounds
+The Great Inequality In A Hamiltonian Planetary Theory
+Passive Scalars and Three-Dimensional Liouvillian Maps
+Recurrence Quantification Analysis and Principal Components in the Detection of Short Complex Signals
+Angular Projections of Fractal Sets
+Time Delay Correlations in Chaotic Scattering: Random Matrix Approach
+Invariant Correlation Entropy and Complexity of Quantum States
+Quantum Resonances of Kicked Rotor and SU(q) group
+Quantum Resonances and Regularity Islands in Quantum Maps
+Symbolic Dynamics and Periodic Orbits for the Cardioid Billiard
+On the large time asymptotics of decaying Burgers turbulence
+Kinetic limit of N-body description of wave-particle self- consistent interaction
+Are galaxy distributions scale invariant? A perspective from dynamical systems theory
+Chaos and Statistical Mechanics in the Hamiltonian Mean Field Model
+Scale Anomaly and Quantum Chaos in the Billiards with Pointlike Scatterers

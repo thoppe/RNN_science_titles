@@ -1,0 +1,466 @@
+Bezier Curves Intersection Using Relief Perspective
+Connectivity Compression for Irregular Quadrilateral Meshes
+A Fast General Methodology for Information-Theoretically Optimal Encodings of Graphs
+Linear-Time Succinct Encodings of Planar Graphs via Canonical Orderings
+Digital Color Imaging
+Conformal Geometry Euclidean Space and Geometric Algebra
+Computer-Generated Photorealistic Hair
+Optimally cutting a surface into a disk
+User software for the next generation
+Optimized Color Gamuts for Tiled Displays
+Computing Conformal Structure of Surfaces
+Practical and Robust Stenciled Shadow Volumes for Hardware-Accelerated Rendering
+Cg in Two Pages
+Embedded Reflection Mapping
+On multiple connectedness of regions visible due to multiple diffuse reflections
+The Use of HepRep in GLAST
+OO Model of the STAR offline production Event Display and its implementation based on Qt-ROOT
+Application of interactive parallel visualization for commodity-based clusters using visualization APIs
+The Graphics Card as a Streaming Computer
+Poster on MPI application in Computational Fluid Dynamics
+Circle and sphere blending with conformal geometric algebra
+Visualization of variations in human brain morphology using differentiating reflection functions
+Benchmarking and Implementation of Probability-Based Simulations on Programmable Graphics Cards
+Surface Triangulation -- The Metric Approach
+An Algorithm for Transforming Color Images into Tactile Graphics
+Single-Strip Triangulation of Manifolds with Arbitrary Topology
+Interactive visualization of higher dimensional data in a multiview environment
+Analytic Definition of Curves and Surfaces by Parabolic Blending
+Convexity Analysis of Snake Models Based on Hamiltonian Formulation
+Lattice Gas Cellular Automata for Computational Fluid Animation
+Methods for Analytical Understanding of Agent-Based Modeling of Complex Systems
+MathPSfrag: Creating Publication-Quality Labels in Mathematica Plots
+Spatiotemporal sensistivity and visual attention for efficient rendering of dynamic environments
+A geometry of information I: Nerves posets and differential forms
+Incremental and Transitive Discrete Rotations
+Mathematical models of the complex surfaces in simulation and visualization systems
+Implementation of float-float operators on graphics hardware
+Graphics Turing Test
+A parent-centered radial layout algorithm for interactive graph visualization and animation
+Simple Methods For Drawing Rational Surfaces as Four or Six Bezier Patches
+Fast and Simple Methods For Computing Control Points
+On the Efficiency of Strategies for Subdividing Polynomial Triangular Surface Patches
+Non-photorealistic image rendering with a labyrinthine tiling
+Vector field visualization with streamlines
+Separation-Sensitive Collision Detection for Convex Objects
+Droems: experimental mathematics informatics and infinite dimensional geometry
+The Design of EzWindows: A Graphics API for an Introductory Programming Course
+Computational Geometry Column 33
+Computational Geometry Column 32
+Geometric compression for progressive transmission
+Finite-resolution hidden surface removal
+A Vortex Method for Bi-phasic Fluids Interacting with Rigid Bodies
+One method for proving inequalities by computer
+User driven applications - new design paradigm
+On a solution to display non-filled-in quaternionic ulia sets
+The Trade-offs with Space Time Cube Representation of Spatiotemporal Patterns
+Virtual Environments for Training: From Individual Learning to Collaboration with Humanoids
+Simple Algorithmic Principles of Discovery Subjective Beauty Selective Attention Curiosity Creativity
+Design of moveable and resizable graphics
+Efficient Binary and Run Length Morphology and its Application to Document Image Processing
+Dynamic Multilevel Graph Visualization
+Toward the Graphics Turing Scale on a Blue Gene Supercomputer
+MathPSfrag 2: Convenient LaTe Labels in Mathematica
+Complex Eigenvalues for Binary Subdivision Schemes
+Discrete Complex Structure on Surfel Surfaces
+PVM-Distributed Implementation of the Radiance Code
+A note on digitized angles
+Interactive Hatching and Stippling by Example
+Discrete schemes for Gaussian curvature and their convergence
+Size matters: performance declines if your pixels are too big or too small
+Quasi-Mandelbrot sets for perturbed complex analytic maps: visual patterns
+Visualization Optimization : Application to the RoboCup Rescue Domain
+Detecting the Most Unusual Part of a Digital Image
+GPU-Based Interactive Visualization of Billion Point Cosmological Simulations
+String Art: Circle Drawing Using Straight Lines
+GraML - Modular Geometric Modeler
+The FRED Event Display: an Extensible HepRep Client for GLAST
+IGUANA Architecture Framework and Toolkit for Interactive Graphics
+Topological Quantum Error Correction with Optimal Encoding Rate
+Realistic Haptic Rendering of Interacting Deformable Objects in Virtual Environments
+The Good the Bad and the Ugly: three different approaches to break their watermarking system
+An analysis of a random algorithm for estimating all the matchings
+Polyomino-Based Digital Halftoning
+Multiple Uncertainties in Time-Variant Cosmological Particle Data
+A Standalone Markerless 3D Tracker for Handheld Augmented Reality
+Strong Spatial Mixing and Approximating Partition Functions of Two-State Spin Systems without Hard Constrains
+The Digital Restoration of Da Vinci's Sketches
+Adaptive Mesh Approach for Predicting Algorithm Behavior with Application to Visibility Culling in Computer Graphics
+Ambient Isotopic Meshing of Implicit Algebraic Surface with Singularities
+A Distributed Software Architecture for Collaborative Teleoperation based on a VR Platform and Web Application Interoperability
+Neural networks in 3D medical scan visualization
+On the Complexity of Smooth Spline Surfaces from Quad Meshes
+A Neural Network Classifier of Volume Datasets
+Feynman Algorithm Implementation for Comparison with Euler in a Uniform Elastic Two-Layer 2D and 3D Object Dynamic Deformation Framework in OpenGL with GUI
+Personal applications based on moveable resizable elements
+Physical Modeling Techniques in Active Contours for Image Segmentation
+Image Sampling with Quasicrystals
+On the role of metaphor in information visualization
+Dynamic Deformation of Uniform Elastic Two-Layer Objects
+Visualization of Mined Pattern and Its Human Aspects
+Succinct Representation of Well-Spaced Point Clouds
+The Persint visualization program for the ATLAS experiment
+An Example of Clifford Algebras Calculations with GiNaC
+k-core decomposition: a tool for the visualization of large scale networks
+Outlier Robust ICP for Minimizing Fractional RMSD
+Shape preservation behavior of spline curves
+Complementary Space for Enhanced Uncertainty and Dynamics Visualization
+et Another Pacman 3D Adventures
+Network synchronizability analysis: the theory of subgraphs and complementary graphs
+Interchanging Interactive 3-d Graphics for Astronomy
+Hard Data on Soft Errors: A Large-Scale Assessment of Real-World Error Rates in GPGPU
+Digital Image Watermarking for Arbitrarily Shaped Objects Based On SA-DWT
+Seeing Science
+Secure Watermarking Scheme for Color Image Using Intensity of Pixel and LSB Substitution
+Computing Principal Components Dynamically
+Integrating Post-Newtonian Equations on Graphics Processing Units
+On the theory of moveable objects
+Planar Visibility: Testing and Counting
+Modelacion y Visualizacion Tridimensional Interactiva de Variables Electricas en Celdas de Electro-Obtencion con Electrodos Bipolares
+Aplicacion Grafica para el estudio de un Modelo de Celda Electrolitica usando Tecnicas de Visualizacion de Campos Vectoriales
+Resolution scalability improvement for PEG2 standard color image
+Spatial Domain Watermarking Scheme for Colored Images Based on Log-average Luminance
+Text Graphics Separation and Skew Correction of Text Regions of Business Card Images for Mobile Devices
+Macro and micro view on steady states in state space
+A Very Simple Approach for 3-D to 2-D Mapping
+Trends and Techniques in Visual Gaze Analysis
+Text Graphics Separation for Business Card Images for Mobile Devices
+Autoplot: A browser for scientific data on the web
+Finding and Classifying Critical Points of 2D Vector Fields: A Cell-Oriented Approach Using Group Theory
+Graphic Symbol Recognition using Graph Based Signature and Bayesian Network Classifier
+Employing fuzzy intervals and loop-based methodology for designing structural signature: an application to symbol recognition
+Virtual Texturing
+Multi-sensorial interaction with a nano-scale phenomenon : the force curve
+Dynamical issues in interactive representation of physical objects
+From granular avalanches to fluid turbulences through oozing pastes A mesoscopic physically-based particle model
+A physically-based particle model of emergent crowd behaviors
+Physically-based particle simulation and visualization of pastes and gels
+A basic gesture and motion format for virtual reality multisensory applications
+Groebner bases in ava with applications in computer graphics
+L2-optimal image interpolation and its applications to medical imaging
+Fractal Basins and Boundaries in 2D Maps inspired in Discrete Population Models
+Teaching Physical Based Animation via OpenGL Slides
+What's wrong with Phong - Designers' appraisal of shading in CAD-systems
+Multi-GPU Accelerated Multi-Spin Monte Carlo Simulations of the 2D Ising Model
+Parametric polynomial minimal surfaces of arbitrary degree
+Fully automatic extraction of salient objects from videos in near real-time
+Data visualization in political and social sciences
+L-systems in Geometric Modeling
+A symmetric motion picture of the twist-spun trefoil
+Symbolic landforms created by ancient earthworks near Lake Titicaca
+Geoglyphs of Titicaca as an ancient example of graphic design
+A Framework for an Ego-centered and Time-aware Visualization of Relations in Arbitrary Data Repositories
+Viewpoints: A high-performance high-dimensional exploratory data analysis tool
+Surface Curvature Effects on Reflectance from Translucent Materials
+Fast Color Quantization Using Weighted Sort-Means Clustering
+Fast GPGPU Data Rearrangement ernels using CUDA
+Video Stippling
+Linear-Time Algorithms for Geometric Graphs with Sublinearly Many Edge Crossings
+MTj - A Cross-platform Multi-touch Development Framework
+Curve Reconstruction in Riemannian Manifolds: Ordering Motion Frames
+Toric degenerations of Bezier patches
+Across Browsers SVG Implementation
+High Speed and Area Efficient 2D DWT Processor based Image Compression Signal Image Processing
+Specular holography
+Improving the Performance of -Means for Color Quantization
+The Role of Computer Graphics in Documentary Film Production
+Chameleon: A Color-Adaptive Web Browser for Mobile OLED Displays
+Ray-Based Reflectance Model for Diffraction
+Glioblastoma Multiforme Segmentation in MRI Data with a Balloon Inflation Approach
+Rule-based transformations for geometric modelling
+An Approximation Algorithm for Computing Shortest Paths in Weighted 3-d Domains
+An Efficient and Integrated Algorithm for Video Enhancement in Challenging Lighting Conditions
+Mathematics of Human Motion: from Animation towards Simulation A View form the Outside
+Scientific Visualization in Astronomy: Towards the Petascale Astronomy Era
+Augmented reality usage for prototyping speed up
+Analyzing Midpoint Subdivision
+Harmonic Functions for Data Reconstruction on 3D Manifolds
+Face Shape and Reflectance Acquisition using a Multispectral Light Stage
+Time-Dependent 2-D Vector Field Topology: An Approach Inspired by Lagrangian Coherent Structures
+Injectivity of 2D Toric B ' e zier Patches
+Perspective Drawing of Surfaces with Line Hidden Line Elimination Dibujando Superficies En Perspectiva Con Eliminacion De Lineas Ocultas
+Inaccessibility-Inside Theorem for Point in Polygon
+Speeding Up the 3D Surface Generator VESTA
+Accelerating Lossless Data Compression with GPUs
+Stereo pairs in Astrophysics
+3-Phase Recognition Approach to Pseudo 3D Building Generation from 2D Floor Plan
+Plot  in ambiance -Window
+Morphing of Triangular Meshes in Shape Space
+Hypothesize and Bound: A Computational Focus of Attention Mechanism for Simultaneous N-D Segmentation Pose Estimation and Classification Using Shape Priors
+Fat Triangulations and Differential Geometry
+Partial wave analysis at BES III harnessing the power of GPUs
+Using Stereoscopic 3D Technologies for the Diagnosis and Treatment of Amblyopia in Children
+A Survey of Ocean Simulation and Rendering Techniques in Computer Graphics
+acobians and Hessians of Mean Value Coordinates for Closed Triangular Meshes
+ara: A System for Visualising and Visual Editing of Interpretations for Answer-Set Programs
+Evaluation of a Bundling Technique for Parallel Coordinates
+Efficient Synchronization Primitives for GPUs
+Spectral descriptors for deformable shapes
+New ealand involvement in Radio Astronomical VLBI Image Processing
+Student's T Robust Bundle Adjustment Algorithm
+The Object Projection Feature Estimation Problem in Unsupervised Markerless 3D Motion Tracking
+Shape and Trajectory Tracking of Moving Obstacles
+GPU-based Image Analysis on Mobile Devices
+A self-rendering digital image encoding
+Fast B-spline Curve Fitting by L-BFGS
+Interactive Character Posing by Sparse Coding
+Finding Convex Hulls Using Quickhull on the GPU
+Visualizing Flat Spacetime: Viewing Optical versus Special Relativistic Effects
+A toolkit to describe and interactively display three-manifolds embedded in four-space
+Warping Peirce Quincuncial Panoramas
+Personalised product design using virtual interactive techniques
+Semantic Visualization and Navigation in Textual Corpus
+Visual definition of procedures for automatic virtual scene generation
+Efficient and Effective Volume Visualization with Enhanced Isosurface Rendering
+Algorithms to automatically quantify the geometric similarity of anatomical surfaces
+Artimate: an articulatory animation framework for audiovisual speech synthesis
+Towards an Integrated Visualization Of Semantically Enriched 3D City Models: An Ontology of 3D Visualization Techniques
+Numerical Analysis of Diagonal-Preserving Ripple-Minimizing and Low-Pass Image Resampling Methods
+A Distributed GPU-based Framework for real-time 3D Volume Rendering of Large Astronomical Data Cubes
+Visualizing 2D Flows with Animated Arrow Plots
+Intuitive representation of surface properties of biomolecules using BioBlender
+Volume-Enclosing Surface Extraction
+Efficient computational noise in GLSL
+The Ultrasound Visualization Pipeline - A Survey
+Artist Agent: A Reinforcement Learning Approach to Automatic Stroke Generation in Oriental Ink Painting
+Dynamic Domain Classification for Fractal Image Compression
+Estimacao Temporal da Deformacao entre Objectos utilizando uma Metodologia Fisica
+Visualization of Collaborative Data
+Speckle Reduction using Stochastic Distances
+Generalized Statistical Complexity of SAR Imagery
+Polarimetric SAR Image Smoothing with Stochastic Distances
+Parametric and Nonparametric Tests for Speckled Imagery
+Automated Training and Maintenance through inect
+Hypothesis Testing in Speckled Data with Stochastic Distances
+Combining Brain-Computer Interfaces and Haptics: Detecting Mental Workload to Adapt Haptic Assistance
+Fast View Frustum Culling of Spatial Object by Analytical Bounding Bin
+Plot: a high quality plotting system for the Herschel Interactive Processing Environment HIPE and the astronomical community
+From individual to population: Challenges in Medical Visualization
+Visualization in Connectomics
+Color Assessment and Transfer for Web Pages
+An algorithm for improving the quality of compacted PEG image by minimizes the blocking artifacts
+General Midpoint Subdivision
+A Novel Data Hiding Scheme for Binary Images
+Visual Exploration of Simulated and Measured Blood Flow
+Using multimodal speech production data to evaluate articulatory animation for audiovisual speech synthesis
+A novel 2D approach for interfacing with web applications
+Sparse Modeling of Intrinsic Correspondences
+Coupled quasi-harmonic bases
+Invariance And Inner Fractals In Polynomial And Transcendental Fractals
+Schr o dinger Diffusion for Shape Analysis with Texture
+Textural Approach to Palmprint Identification
+Beltrami Representation and its applications to texture map and video compression
+Visual tool for estimating the fractal dimension of images
+Nearest Neighbor Value Interpolation
+Teichm uller extremal mapping and its applications to landmark matching registration
+Color scales that are effective in both color and grayscale
+Dynamic Facial Expression of Emotion Made Easy
+Tera-scale Astronomical Data Analysis and Visualization
+Improving Perceptual Color Difference using Basic Color Terms
+Analysis-suitable T-splines: characterization refineability and approximation
+A Novel Algorithm for Real-time Procedural Generation of Building Floor Plans
+Dynamic Simulation of Soft Heterogeneous Objects
+Single-Pass GPU-Raycasting for Structured Adaptive Mesh Refinement Data
+Sketch-to-Design: Context-based Part Assembly
+Computer-Assisted Interactive Documentary and Performance Arts in Illimitable Space
+The Geant Visualisation System - a multi-driver graphics system
+Reconstructing Self Organizing Maps as Spider Graphs for better visual interpretation of large unstructured datasets
+Explicit Bounding Circles for IFS Fractals
+Applications and a Three-dimensional Desktop Environment for an Immersive Virtual Reality System
+Immersive VR Visualizations by VFIVE Part : Development
+Immersive VR Visualizations by VFIVE Part 2: Applications
+Approximation of Polyhedral Surface Uniformization
+Correcting Camera Shake by Incremental Sparse Approximation
+Perception Attention and Resources: A Decision-Theoretic Approach to Graphics Rendering
+User Interface for Volume Rendering in Virtual Reality Environments
+STEVE - Space-Time-Enclosing Volume Extraction
+Linear-Time Poisson-Disk Patterns
+Vortices within vortices: hierarchical nature of vortex tubes in turbulence
+Fourth-order flows in surface modelling
+Using Mathematica Matlab for CAGD CAD research and education
+On Linear Spaces of Polyhedral Meshes
+Similarity of Polygonal Curves in the Presence of Outliers
+Software for creating pictures in the LaTe environment
+Speckle Reduction in Polarimetric SAR Imagery with Stochastic Distances and Nonlocal Means
+Fast exact digital differential analyzer for circle generation
+The Logarithmic Curvature Graphs of Generalised Cornu Spirals
+G2 Transition curve using Quartic Bezier Curve
+Characterization of Planar Cubic Alternative curve
+Variational Formulation of the Log-Aesthetic Surface and Development of Discrete Surface Filters
+Normal type-2 Fuzzy Rational B-Spline Curve
+Various Types of Aesthetic Curves
+An Improvised Algorithm to Identify The Beauty of A Planar Curve
+Perfectly normal type-2 fuzzy interpolation B-spline curve
+Parallel Chen-Han PCH Algorithm for Discrete Geodesics
+On the variety of planar spirals and their applications in computer aided design
+MC-curves and aesthetic measurements for pseudospiral curve segments
+The effects of computer assisted and distance learning of geometric modelling
+Sparse Norm Filtering
+Rendering of 3D Dynamic Virtual Environments
+User guide to TIM a ray-tracing program for forbidden ray optics
+A Framework for Designing 3D Virtual Environments
+Improved visualisation of brain arteriovenous malformations using color intensity projections with hue cycling
+New Views of Crystal Symmetry
+3D model retrieval using global and local radial distances
+New views of crystal symmetry guided by profound admiration of the extraordinary works of Grassmann and Clifford
+The Orthogonal 2D Planes Split of Quaternions and Steerable Quaternion Fourier Transformations
+Visualizing Astronomical Data with Blender
+The Need to Support of Data Flow Graph Visualization of Forensic Lucid Programs Forensic Evidence and their Evaluation by GIPS
+Free Instrument for Movement Measure
+Progressive Blue Surfels
+Detection of Outer Rotations on 3D-Vector Fields with Iterative Geometric Correlation and its Efficiency
+Review of simulating four classes of window materials for daylighting with non-standard BSDF using the simulation program Radiance
+Electronic Visualisation in Chemistry: From Alchemy to Art
+Making Laplacians commute
+Local Space-Time Smoothing for Version Controlled Documents
+Gap Processing for Adaptive Maximal Poisson-Disk Sampling
+A New 3D Geometric Approach to Focus and Context Lens Effect Simulation
+Calculation reduction method for color computer-generated hologram using color space conversion
+A Survey of Spline-based Volumetric Data Modeling Framework and Its Applications
+A Spline-based Volumetric Data Modeling Framework and Its Applications
+Medial Meshes for Volume Approximation
+SAR Image Despeckling Algorithms using Stochastic Distances and Nonlocal Means
+A Unified Framework for Multi-Sensor HDR Video Reconstruction
+Affordable Virtual Reality System Architecture for Representation of Implicit Object Properties
+Post-processing of Engineering Analysis Results for Visualization in VR Systems
+A New Algorithm of Speckle Filtering using Stochastic Distances
+Discrete Surface Modeling Based on Google Earth: A Case Study
+3D Geological Modeling and Visualization of Rock Masses Based on Google Earth: A Case Study
+An Approach to Exascale Visualization: Interactive Viewing of In-Situ Visualization
+ahir: a Object-Oriented Framework for Computer Graphics
+On the Relationship Between Dual Photography and Classical Ghost Imaging
+Progressive Compression of 3D Objects with an Adaptive Quantization
+Mobile augmented reality survey: a bottom-up approach
+Geodesics in Heat
+A constructive approach to triangular trigonometric patches
+Detection and Characterization of Intrinsic Symmetry
+Gradient-Domain Processing for Large EM Image Stacks
+Compression of animated 3D models using HO-SVD
+Landmark and Intensity Based Registration with Large Deformations via Quasi-conformal Maps
+Composing DTI Visualizations with End-user Programming
+Depth-dependent Parallel Visualization with 3D Stylized Dense Tubes
+Matching LBO eigenspace of non-rigid shapes via high order statistics
+Parallel Coordinates Guided High Dimensional Transfer Function Design
+Pattern Recognition and Revealing using Parallel Coordinates Plot
+-Dimensional Geometry Lens: A Novel Volumetric Magnification Approach
+Anatomical Feature-guided Volumeric Registration of Multimodal Prostate MRI
+Structure-preserving color transformations using Laplacian commutativity
+Understanding Visualization: A Formal Approach using Category Theory and Semiotics
+Analysis of Farthest Point Sampling for Approximating Geodesics in a Graph
+On the impact of explicit or semi-implicit integration methods over the stability of real-time numerical simulations
+On Nonrigid Shape Similarity and Correspondence
+Digitize our Body and Action in 3-D at Over  FPS: Real Time Dense Voxel Reconstruction and Marker-less Motion Tracking via GPU Acceleration
+A Dual-Beam Method-of-Images 3D Searchlight BSSRDF
+Real-time High Resolution Fusion of Depth Maps on GPU
+A local Gaussian filter and adaptive morphology as tools for completing partially discontinuous curves
+Continuous Collision Detection for Composite Quadric Models
+Compact Part-Based Shape Spaces for Dense Correspondences
+Introduction to computer animation and its possible educational applications
+Application of polynomial texture mapping in process of digitalization of cultural heritage
+Multimaterial Front Tracking
+A Low-Dimensional Representation for Robust Partial Isometric Correspondences Computation
+Reconstruction and uniqueness of moving obstacles
+A Framework for Creating a Distributed Rendering Environment on the Compute Clusters
+Forward and Inverse inematics Seamless Matching Using acobian
+Content Based Image Indexing and Retrieval
+A programme to determine the exact interior of any connected digital picture
+Reduction of Blocking Artifacts In PEG Compressed Image
+k-d Darts: Sampling by k-Dimensional Flat Searches
+Heliostat blocking and shadowing efficiency in the video-game era
+Surfaces Representation with Sharp Features Using Sqrt3 and Loop Subdivision Schemes
+Animation of 3D Human Model Using Markerless Motion Capture Applied To Sports
+Ergonomic-driven Geometric Exploration and Reshaping
+A Conformal Approach for Surface Inpainting
+Geometric Registration of High-genus Surfaces
+Temporal Image Fusion
+A Novel Method for Vectorization
+An Extension Of Weiler-Atherton Algorithm To Cope With The Self-intersecting Polygon
+Glyph Sorting: Interactive Visualization for Multi-dimensional Data
+Implementation of interaction between soft tissues and foreign bodies using modified voxel model
+Flux-Limited Diffusion for Multiple Scattering in Participating Media
+A Computational Framework for Boundary Representation of Solid Sweeps
+New ulia and Mandelbrot Sets for ungck Ishikawa Iterates
+Expression driven Trignometric based Procedural Animation of Quadrupeds
+Real-time Decolorization using Dominant Colors
+Control point based exact description of higher dimensional trigonometric and hyperbolic curves and multivariate surfaces
+Finding safe strategies for competitive diffusion on trees
+Computing a Compact Spline Representation of the Medial Axis Transform of a 2D Shape
+Inverse Procedural Modeling of Facade Layouts
+ImageSpirit: Verbal Guided Image Parsing
+Proofs of two Theorems concerning Sparse Spacetime Constraints
+A General Framework for Bilateral and Mean Shift Filtering
+Robust Temporally Coherent Laplacian Protrusion Segmentation of 3D Articulated Bodies
+Incorporating Sharp Features in the General Solid Sweep Framework
+Skeletal Representations and Applications
+Connectivity-preserving Geometry Images
+Consistently Orienting Facets in Polygon Meshes by Minimizing the Dirichlet Energy of Generalized Winding Numbers
+3D Texture Coordinates on Polygon Mesh Sequences
+DASS: Detail Aware Sketch-Based Surface Modeling
+Rigorous asymptotic and moment-preserving diffusion approximations for generalized linear Boltzmann transport in arbitrary dimension
+Multilinear Wavelets: A Statistical Shape Space for Human Faces
+Interactive Isogeometric Volume Visualization with Pixel-Accurate Geometry
+Newton-Type Iterative Solver for Multiple View L2 Triangulation
+Order-Independent Texture Synthesis
+A Cylindrical Radial Basis Function for Solving Partial Differential Equations on Manifolds
+Visualization of Large Volumetric Multi-Channel Microscopy Data Streams on Standard PCs
+Visualization and Correction of Automated Segmentation Tracking and Lineaging from -D Stem Cell Image Sequences
+iGPSe: A Visual Analytic System for Integrative Genomic Based Cancer Patient Stratification
+Addressing the unmet need for visualizing Conditional Random Fields in Biological Data
+MCA: Multiresolution Correlation Analysis a graphical tool for subpopulation identification in single-cell gene expression data
+Visualization of gene expression information within the context of the mouse anatomy
+Determining surfaces of revolution from their implicit equations
+Numerical investigation of lensless zoomable holographic multiple projections to tilted planes
+SketchBio: A Scientist's 3D Interface for Molecular Modeling and Animation
+Development Implementation of a PyMOL 'putty' Representation
+On Intersecting IFS Fractals with Lines
+Scaling hypothesis for the Euclidean bipartite matching problem
+Image Retargeting by Content-Aware Synthesis
+A Moving Least Squares Based Approach for Contour Visualization of Multi-Dimensional Data
+Spoke Darts for Efficient High Dimensional Blue Noise Sampling
+Regularized Harmonic Surface Deformation
+Voronoi Grid-Shell Structures
+CLD-shaped Brushstrokes in Non-Photorealistic Rendering
+RE2L: An Efficient Output-sensitive Algorithm for Computing Boolean Operation on Circular-arc Polygons
+Fast Disk Conformal Parameterization of Simply-connected Open Surfaces
+3D Printers: A new challenge for mathematical modeling
+History-free Collision Response for Deformable Surfaces
+Tracing Analytic Ray Curves for Light and Sound Propagation in Non-linear Media
+Comparative Study of Geometric and Image Based Modelling and Rendering Techniques
+Effects of Coupling in Human-Virtual Agent Body Interaction
+Reactive Programming for Interactive Graphics
+Using 3D Printing to Visualize Social Media Big Data
+Barycentric Coordinates as Interpolants
+Real-time animation of human characters with fuzzy controllers
+Image compression overview
+Computing minimum area homologies
+A mathematical design and evaluation of Bernstein-Bezier curves' shape features using the laws of technical aesthetics
+TiQuant: Software for tissue analysis quantification and surface reconstruction
+Efficient Distance Computation Algorithm between Nearly Intersected Objects Using Dynamic Pivot Point in Virtual Environment Application
+The physics of volume rendering
+Visualising Large Datasets in TOPCAT v
+Image color transfer to evoke different emotions based on color combinations
+Footprint-Driven Locomotion Composition
+Mesh2Fab: Reforming Shapes for Material-specific Fabrication
+GASP : Geometric Association with Surface Patches
+Reverse Engineering Point Clouds to Fit Tensor Product B-Spline Surfaces by Blending Local Fits
+BigDataViewer: Interactive Visualization and Image Processing for Terabyte Data Sets
+Ceramics Fragments Digitization by Photogrammetry Reconstructions and Applications
+Throat Finding Algorithms based on Throat Types
+Merging of B 'ezier curves with box constraints
+A Canonical Representation of Data-Linear Visualization Algorithms
+Qualitative shape representation based on the qualitative relative direction and distance calculus eOPRAm
+SVEN: Informative Visual Representation of Complex Dynamic Structure
+Interactive Visual Exploration of Halos in Large Scale Cosmology Simulation
+A Topologically-informed Hyperstreamline Seeding Method for Alignment Tensor Fields
+Automated detection of coherent Lagrangian vortices in two-dimensional unsteady flows
+HSI based colour image equalization using iterative nth root and nth power
+G k l -constrained multi-degree reduction of B 'ezier curves
+Feature Lines for Illustrating Medical Surface Models: Mathematical Background and Survey
+A Novel Implementation of QuickHull Algorithm on the GPU
+GPU Programming - Speeding Up the 3D Surface Generator VESTA
+Piko: A Design Framework for Programmable Graphics Pipelines
+Interactive 3D Face Stylization Using Sculptural Abstraction
+Marching Surfaces: Isosurface Approximation using G  Multi-Sided Surfaces
+Avatar-independent scripting for real-time gesture animation
+Sketch-based Shape Retrieval using Pyramid-of-Parts
+Relative Squared Distances to a Conic Berserkless -Connected Midpoint Algorithm

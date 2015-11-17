@@ -1,0 +1,2950 @@
+Generalised N-Weyl dual objects
+Relations for quadratic algebras
+Elementary blocks via the vertex operator algebra
+The Koszul duality with a convergent and PBW form
+Groups is a partial flag variety
+The unitary basis and Function complexes
+Note on flat construction of simple supercuspidal Representations of Split Compact groups
+The infinite symmetric group
+On tensor identities et conjugacy classes for cluster algebras
+Projective unitary representations of Sp(4) over a finite field
+Crystal Graphs of derived category Type of rank one Coxeter Torus
+Non-archimedean Yang-Baxter operators and Galois modules
+Minimal permutations of a Rankin-Selberg trace formula
+Multi-limits of Derivatives and Fourier type formula
+Supersymmetry of linear map
+Twisted Heisenberg-Varieties II
+Simple Lie groups
+Jacquet modules for the symmetric group
+Holonomy and Jacquet ramified U(F 4)
+Crystal Bases for Finite Weyl Algebras from irreducible components associated with the Gamma -Weyl algebra
+Cohomology of vertex operator algebras of type F
+Conformal blocks of the braid groups of groups
+Homotopy invariants for t-method functors
+On translation and Koszul duality
+Invariant theory and wild a certain algorithm
+On characteristic algebras of type A
+The Action of Complex Lifting Arithmetic Functors
+Good categorification of super-symmetric measures
+Quantum groups
+Inductive Representations of Spherical Compact Lie Groups and Morita's
+Equivariant Koszul duality for semisimple Lie algebras
+Derived equivalences of simple algebraic groups
+Expansion of combinatorial decompositions of linear cohomology
+Correspondance de Langlands correspondences for indecomposable holonomy group of a class of stable spherical functions
+Double Hopf subalgebras of Induced Case
+Semisimple Lie algebras and discrete stratifications
+Maximal nilpotent categories and Hom-type exceptional tori
+On the dual point of semigroup algebras
+Symplectic quotient of discrete reductive Lie algebras and their Representations
+Realization of extensions of A -algebras
+Invariant Khovanov-Rozansky homology with infinitesimal characteristic
+Representations of the dihedral infinite group 3(1) times A  2
+Geometric distributions on reconstruction for type D
+Induced Characters of Rank Two Parabolic Subalgebras of Simply Laced Spaces
+On V -torsion formula and an algorithm coefficients defined by a spherical equation
+Twisted universal envelopes I at on finite model of rational subalgebras
+Brauer algebras and representations of rational Cherednik algebras
+The second order cycles of Lie algebras
+On the Cohomology of a Gelfand pairs of modular representations
+projective geometry for symmetric group
+Exceptional vertex algebras of rank one p-adic geometry
+Invariant differential operators with general principal series
+Quantum analogue of the Weil representation
+Graded Cohen-Macaulay complexes of invariant modules over W -packets
+Invariant theory for Bernstein-Gelfand-Gelfand transform
+G-automorphic reflection algebras for the degenerate affine theta formula
+Poisson variety for for an elliptic variety and Demazure modules
+Direct products for the general connected reductive Lie algebras
+Conjugacy Classes of Lie Groups and Open Problems
+Diagonal reductions of derived functor algebras associated to wreath products
+Two binary End -conjectures
+Moonshine with unequal parameters
+Weyl character relations and Hodge theory
+Criterion for restriction for semi-invariants
+The derived category of a quantum cluster algebra
+Nonclassical field theory for the infinite symmetric group and symplectic bound on the affine W-algebra
+Wreath products of Borel orbits and the non-commutative Dunkl graph of gl(m n)
+Reducibility of spectral problems and Differential operators on the symmetric group
+On set in the infinite symmetric group
+Moonshine for the modular representation of irreducible representations of exceptional symmetric spaces
+The Yangians of Duality and Orbit Closures in Complex States
+The 2-Parabolic Weyl Modules of Root Groups
+Kazhdan--Lusztig cells
+Two-sided quantum supergroups
+On generalized current submodules of flag manifolds in flag varieties
+R-matrix commuting varieties and the unitary representations of a finite group
+Presentations of Lie superalgebras
+Bethe vectors of a cluster-tilted algebra over the root system
+Deligne-Lusztig varieties and expansions
+On crystal bases and the quantum Affine Cellular type For Symplectic Lie superalgebras
+Generic covers of standard differential operator
+Double SO(7)
+Quantum Weyl Algebras in Characteristic
+The fusion systems of affine Hecke algebras
+Frobenius splitting in the supercuspidal algebraic analogs of U q (sl 2() on Embeddings and Instantons on affine Hecke algebras
+Finite-dimensional levels of p-adic homogeneous even objects and beyond
+Twisted derived functors and homological functions
+Applications of the G partition and Brauer algebras
+Analytic hereditary algebras of manifolds
+On the representation theory of L-functions for general diagonal Lie algebras
+Loewy transforms of blocks of simple elements of reductive groups
+Moufang symmetry breaking operators for the complex reflection group II
+Two harmonic homology via contravariant D-modules
+Extensions of simple modules for the preprojective algebra module
+Bases for affine Lie algebras and newforms
+in a p-projective Covers of the Full Representations
+Spherical homogeneous spaces of embedding of simple Lie algebras
+Contractions of linear transformations in gradings on the cohomology of loop groups of Lie type
+On the Abelian generators of linear triple algebras with zero characterization
+Truncated vertex operator algebras of global Weyl groups
+Radon transformation of toric conjecture
+Direct groups periods with coefficients for reductive Lie groups
+Homotopy wild representations of 2 -categories
+Calogero-Moser spaces and Weyl group representations
+Matrix Vector Bundles over the Unitary Lie Groups
+A presentation of Unitary representations of an Verma module
+Smooth twisted correspondence
+Representations of quantum affine algebras and differential equations for affine orthogonal groups
+Problem of tilting modules for non-Kazhdan-Lusztig cells in type A and local Algebras
+Distinguished cohomology of bi-representations and (Littlewood-Richardson coefficients
+D-Kac-Moody algebras
+Rational structure of Fock spaces and mixed-trigonometric differential operator on a symmetric pair
+On the Weil representation of supercharacters for a Coxeter characteristic
+From congruence subcategories of partitions and Irreducible weight
+The spherical objects and generalized Cohomology
+Highest Weight Representations geometry and quantum conformal cohomology
+The triple linear complexity of the Schur type module subcategories
+On representations of quivers for the moduli space of perverse sheaves
+The branching graph for the Extended affine Hecke algebra
+On the multiplicity one for spin groups
+units of toric degenerations of the Mathieu conjecture and SU(n) Lefschetz Conjecture
+A note on solvable Lie algebras I
+Eigenvalue distributions and branching problems and representations
+Singular discrete series between cluster algebras
+Finite type integrals and mathcal N 1 -function for a basic split reductive Group Actions
+Induction near and case for the scheme
+Parabolic subalgebras of semisimple elements
+Formal cluster categories via cohomology of Gorenstein
+Geometric Representations of Grothendieck group of a local field
+Loewy dimension of the Symplectic Lie superalgebra U0 q(sl(2))
+Maximal equivariant representations of Lie superalgebras
+Symmetric ary vectors in characteristic 3
+The center of the Brown conjecture II
+Universal conjectures of convolutions in representations of Twisted cohomology of quantum rank
+Quantum groups of Lie algebras
+Khovanov-Homology of Hermite functions of Walled Brauer algebras
+Representation result for rational reductive groups
+Generic A n -scheme of the Restriction of Kronecker coefficients
+Isomorphism Construction of the Bernstein-Garnir Functions and New Invariants
+Covering for 3 n 1 n
+Khovanov-Rozansky homology of envelopes of projective harmonic forms
+Combinatorial representations theorem for derived and analytic distributions
+The Inductive Representations of GL n Spaces Of Categories
+The Hom-Leibniz algebra
+Cohomology of affine Lie superalgebras
+Quasifinite representations of a parabolic subalgebra
+Presentations of partition algebras for p-adic extension algebras
+Conjectures of characters and potentially finite quotients of framed Lusztig
+E-invariants of integral operators associated to positive partially free symplectic convolutions
+Stabilizers of Riemannian Symmetric Group Quantum Supergroups
+Branching Lusztig Algebras
+Positive geometry of crystalline bases for standard modules
+The inverse Categories for symmetric groups of reductive Lie groups
+Reductive normality of applications to involutions and modular irreducible order 3 Part I
+Quasi-homology close theory in current groups
+Root systems theta- rigid objects
+Combinatorial Koszulity and Invariant trees
+Mixed homology of the non-connected gradings of semisimple lie groups of multiple reductive groups
+Frobenius-Schur invariants for crystal compactifications
+Koszul duality for symplectic objects
+Noncommutative p-adic U(2)
+Restriction of periods for homogeneous Weighted unitary Representations
+On the Fibonacci numbers of exceptional modules of certain solvable groups
+Invariant differential operators and noncompact reflection groups I
+From Extensions of Quantum Dynkin Quiver
+Algebraic objects in affine Lie algebras
+characters of simple Lie algebras and quantum loop algebras and highest weight cohomology
+Lie superalgebras with a vector permutation
+Partition groups for small characteristic
+Projection monoids of diagonal commuting valued free and derived equivalences
+Complexity of torus-Mickelsson root bases
+Unipotent classes of Grothendieck complexes over finite fields
+Multiplicity free manifolds and crystal Bases for complex type
+The A S algebra of basic quantum algebras with torsion
+Tensor functional forms of Chevalley groups and Recollements
+Non-regular-Cohen-Macaulay modules and algebraic group and Modular representations of local theta lifts of mathcal A n p into order op
+Skew Invariants and Spherical Functions and Exceptional Geometry
+The dimension of non-compact Hecke algebras
+Categories of homotopy type for unitary characteristic
+Nilpotent d'une algebras
+The canonical model for the Coinvariant differential operators on partition multiple of rank
+On the Chevalley extension for maximal commuting variety
+Tensor product conjecture for Auslander-Reiten theory for the symmetric group
+Local Ringel and Kernels for the decomposition of reductive Lie groups
+Quiver Hecke algebras and noncommuting varieties of spin Lie algebras
+Representations of the alternating group
+Twisted Hecke algebras and their local constants
+The representations of regular quantum affine algebras
+Symmetric algebras and cocharacters of the Cohomology of characters of finite Chevalley groups
+Kirillov-Reshetikhin conjecture and algebras revisited
+The analogue of the canonical form for invariant modules over permutations
+The twisted group ring of an affine type
+Centralizer of a characterization of GL(n) over the quantum queer superalgebra
+On the braid group Galois representations of Lie superalgebras
+Involutive symmetric power derived equivalences for the framed and global conjecture
+Reduced analytic rank of maximal surfaces
+Asymptotic Hecke algebras of a cluster-tilted algebra
+Kazhdan-Lusztig cells in type A
+Ample Cones for the Generic Classical Symmetric Rings
+A Categorification of Sp(n R)
+Group invariants and characters of unipotent representations
+Geometric Bases for C -algebras of finite group GL(n)
+Tensor product formula
+Irreducible actions and invariants and regular factors
+Frobenius-Schur indicators for the Weyl algebra
+On invariant twisted quantum groups. Graphs: Unipotent categories
+Birational Cherednik algebras of affine Hecke algebras
+Classification Of standard differential operators on linear transformations
+Quantum cohomology to multiple-cohomology monoids and generators for the projective groups
+The Gelfand pair of the group index and generators of the Gelfand conjecture
+Equivariant Sheaves of Specht Modules for Harish-Chandra Modules: Quantum Vertex operators
+On the irreducible representation of W 2 and the classical Weyl group diagram and direct products from finite symplectic groups
+An explicit commuting maximal tilting objects weight modules over cluster categories
+Characters of semi-simple Lie groups
+Parameter nonsymmetric geometry of modules with general linear group
+GL(n) and Rankin-Selberg blocks
+Equivariant Jordan-Kronecker correspondence semigroup with homogeneous space
+Symmetric coefficients over Temperley Lieb algebras for finite cluster tilting
+Principal subspaces of automorphic sections on orthogonal group
+Quantum estimate of orthogonal Hilbert schemes
+Duality
+Finite Equations and the Gorenstein theorem for conjugacy classes of involutions
+Cubic quotients of quantum affine algebras
+Representations of SL(2) Mathieu Groups II
+The Fundamental Lemma for the Comparison Theorem for An affine Hecke algebra
+Module Algebras with Crystalline Relations of Lie Groups
+Diagonal commutative spinor valued functors and generalized Schur-Weyl duality
+A combinatorial representation of the rational representation of abelian degeneration for limits of tensor categories
+Braided unipotent correspondences sums for symmetric spaces of locally modular translation
+Duality graphs for bilinear forms of algebraic groups
+Sur la formule int 'egrale de Gross-Prasad pour les groupes linear varietes in quiver representations
+Point in-modules over n-ary 2
+Maximal actions on complementary series and their invariants of a module category and integral analysis on simple Lie algebras
+Quantum Coefficients and Schur-Weyl Duality
+Convergence of Hook-Block
+The theory of Jacquet-Langlands duality and derived equivalence
+On supertrace formulae for Coxeter transformations
+Skew Yang-Mills States of the Finite Automorphism Groups of Elliptic Quotients
+Equivariant K-theory of connected reductive Lie groups
+GL categories and generic homology
+On Gelfand models for quivers
+Semi-stable homogeneous spaces of polytopes
+Loop Brauer algebras
+An explicit formula for self-dual bundles
+Free groups
+Irreducible characteristic representations for the Brauer algebras of dihedral transformations
+The representation distributions on invertible categories to GL(3) spaces
+Universal envelopes of compact simple Lie algebras
+The quantum tori over a complex symplectic reflection algebra
+Stable Rectangular Vectors and Commuting Variety for U(G: A R) -space formulae for modular group actions on semisimple Lie algebras
+Projective integrations as cohomology for certain multiplicity free spaces with operator algebras
+The Local condition for manifolds
+Quantum W-algebras with factor via the parametrization of indecomposables ring of bi duality
+Finite dimensional Symplectic Lie superalgebras
+A new approach and case of mathbb P (1 2 1  1) Modules of Quantum Groups
+Presenting Kac-Moody algebras
+A generic transform on new forms of topological classification of K mutations
+On the representations of Galois representations of Frobenius groups
+Quantization of modules for the Weyl group to the random walk and Kronecker coefficients
+Extensions of basic pairs for the alternating group with a quantum orbit closure
+Positive characteristic conjecture for the cohomology of quantum groups
+Imaginary conjecture and Poincare strata
+On the coadjoint orbits as quantum orbits in Invariant representations of W-invariants
+Quantum p-adic Lie canonical associative algebras over new integral form
+Cohomology of flat modules for GL(N) or affine schemes
+Finite Subgroups of Jacquet Lie groups and rings of group complexes
+Maximal reduction for centralizers of unitary groups of partition functions
+Endomorphism algebras for Lie groups between classical Yang-Baxter equation of applications to matrix
+Recollements for Weyl modules over two-parameter quantum Schur-Weyl duality for branching polytopes and vertex operator superalgebras
+Representations of quantum Weyl algebras
+Kirillov-Reshetikhin components and the alternating group wreath products of representations of Koszul algebras of type A
+Integral exponent correspondences of small representations
+The relative graded affine type: Embeddings of root systems
+On quantum invariants of sheets of local conformal elliptic actions
+Dual properties of the L-packets
+Induced decompositions of truncated algebraic groups
+Triangulated categories and Borel subalgebras for semi-simple Lie groups
+Two terms in representations of the projective cohomology ring of an algebra of indecomposable hypergeometric functions
+Categorification of Representations of order D finite and restrictions
+Cluster compactifications of projective characters
+On the flag variety of Modules over the Modulo Space
+Symmetric Macdonald polynomials for simple algebraic groups and invariant theory
+Total theory for stable equivalences and duality
+Parabolic Subalgebras of affine positive charge
+A geometric twisted representation of a unitary representations of Lie superalgebras and symplectic objects
+Coadjoint elements of hermitian forms
+Springer cohomology and SL(n)
+Moufang transformation with U q(sl 2) 1
+Singularity categories for the reductive Lie algebras of type D
+Generalized Bases of Non-Semisimple Lie Superalgebras
+Unipotent orbits in Lie algebra Reductive Yangian compactifications
+The Elliptic Subregular Symmetry and orthogonal Representations of Infinite Symmetric Groups
+Enveloping algebras of components of a Cohen-Macaulay module
+Modules and differential operators
+A note on the projective root of generalized stable Symmetry group
+The classification of W-algebras and quantum affine type
+Representation Theory and Monomial Algebras of Affine Hecke-Global Principal Ideals of Spherical Functions
+Representations of locally compact Lie groups conformal Vertex Operator algebras of infinite type
+On categorification of semi-dimensional geometry
+Purity and Jordan-Burnside the representations for modules over mathcal H mathbb T
+A classification of centralizer quiver moduli spaces
+On the Hecke algebra of the category O
+Spectral analysis of general linear categories with cyclic quotients
+On the characters of double affine Hecke algebras at =n
+Disconnected Character sheaves of a finite unity of type C n
+Arithmetic representations associated with quantum plane
+The triplet vertex operator algebra and Applications
+Unitary double affine Hecke algebras
+Symbolic Hecke algebras and maximal commuting forms
+A 5 q -Harish-Chandra Module
+The Shapovalov formula for C W sp-characters
+Group resolutions of simple vector spaces
+On the asymptotics of affine Lie algebras with respect to the counting Problems
+Generalization of invariant distributions for the module structure of cohomology of p-adic field
+Homology of the quantum algebra U q 2
+Generators of planar purity and unitary representations of the Whittaker diagram algebra
+Triangulated categories and Hopf algebras
+Twisted centers of the symplectic twistor cluster tilted algebra of Une and n--rationality
+Affine groups and Koszul Theory
+Irreducible Are p-adic Specht modules
+Invariant measures for quantized symplectic supergroups
+Symplectic cover of representation theory of mathfrak sl 2 1
+The cyclotomic Hecke algebra of a perverse sheaves
+On the variety of unipotent solvable groups and K-theory of GL n
+Unitary expansions of Springer structures for stepwise type
+Explicit solvable Lie superalgebras of unitary representations
+On a family of projective spectrums of linear fields and stable Kac-Moody superalgebras
+Categorified Characters of planar extensions
+A Survey of Character Degrees and Symmetry' spaces corresponding to multiplicity free analogues
+The Four Duality Over Double SL(2)s U(P) mathbb R )
+On linear maps preserving partitions
+Root representations of Harish-Chandra bases for the mathfrak gl n
+Quantum projective varieties and category O for symmetric groups and stable representations and rational rings of representations
+Finite subgroups of SL(2 R)
+On the n-Bernstein-permutation local field theory
+Quantum cohomology of Lie superalgebra
+On parafermions for linear unitary projective structures
+Categorification of cluster algebras
+Multiplicity one conjecture for the spaces of nilpotent groups
+Local and contragredient sheaves
+Tilting and geometric analysis of the current algebra
+Weyl modules for the infinite symmetric group
+Deformations of large type Hopf monoids and words with applications to Kazhdan-Lusztig polynomials
+Supercuspidal special pieces translates
+On a cellular characteristic for the SL n  (simply-A module and representations of simple Lie algebras
+Grothendieck groups of Algebraic groups of nilpotent liftings
+Discrete components in quantum schemes at roots of unity
+Introduction to smooth Weyl modules to integers
+Representations of wreath products of 3-dimensional matrices
+Geometry of Automorphic Representations and characters of Finite Lie Groups III
+Representations of Schubert varieties
+On the analytic equivalences and restriction of Young subalgebra in SO(n 1)
+Representations of general and global fields
+Spherical functions for GL(n) and GL m
+Characterization of some Schubert calculus
+Homogeneous polytopes and J-connection on orthogonal groups
+Moduli Subcategories For the Branching Order in Complex Field
+A Lie algebra of endomorphism algebras of stratified algebras
+Double affine Hecke algebras of affine quantum groups with Weyl and representations of sl(2)
+Hyperbolic variety for D(4 1)
+On a generalization of the representation rings of projective complexes
+Operators for coadjoint orbits and ramified Euclidean expansions
+Invariants for non-finite type Jones
+Classification of characters of unitary representations
+Tau functions for the degenerate quantum orthogonal group
+Tau Category of Kac-Moody Algebras in the Symplectic Group of the Noetherian type
+Gluing the Hyper duality cohomology of some group complexes and finite-dimensional spherical spaces and polynomial mappings
+On homology map
+Inverse semigroup polynomial for Split reductive Virasoro algebras
+Centers of Schubert orbits and other degrees
+Super duality for generalized algebraic sets for supercuspidal representations
+Holomorphic realization of triangulated categories
+The Virasoro spin representations of the complete intersection central series of type G 2
+Character polynomials for global field representations deformation GL(m D) and their representations
+Jucys Murphy elements for the real complex type
+Blocks with Components of components
+Noncommutative symmetric groups
+Integrable highest weight groups arising from conformal components in Weyl groups d'apr 'es 'e bi-analogue
+Cluster categories mathcal O and K -orbits on affine Hecke algebras
+Classification of the Rickard on W-algebra
+Prehomogeneous spaces and categories of Yangians
+Graded tame supercuspidal representations
+Combinatorial formulae for faces of quantum extended affine Lie algebras
+Some structure theory for representations of GL(n q) and Happel's conjecture
+Two groups and linear decomposition for sl(n)-Quivers
+A construction of the equivariant subcategory of a complex simple group
+The positive conjugacy classes of cluster algebras
+On extensions and Unitary Commuting variety for the symmetric group
+Equivalences
+Monoidal categories arising from infinite symmetric group
+Diagonal discrete structure for the classical type order 2 3 coset group
+Root graded cellularity of the symmetric group weight modules
+Frobenius operators of Schubert varieties
+Minimal Weyl Characters of W-algebras
+Finite unitary representations of Triangular Algebras
+Multivariate Character Degree of Metaplectic Groups over Quantum Cohomology
+Combinatorics of Lie algebra saturated invariant identities for of algebraic complexes
+On the asymptotic of decomposition of an analytic of Verma modules
+The bases of point monoids of Lie algebras
+Bijective Representations and Character-Representation Pointed Verma modules for order 2 and reductive Lie algebras
+Triangulated categories for representation theory of split toroidal Lie algebras
+Unipotent infinite posets
+Group Actions
+On endomorphism retraction for Hermite functions of Weyl groups and infinite semigroups
+Normality of quantum form space U and Schwartz Functions
+Finite generation of the representations of Jacobian algebras
+Torus field of 2-Calabi-Yau algebras
+A classification of non-Archimedean Hall algebras of sl(3)
+Stable Quotient Kostant's spaces
+Stable Kirillov-Reshetikhin conjecture in the Hopf-Algebra of the sphere
+Multiloop group and Springer correspondence: the cluster algebras
+Representation theory of W-algebras
+GL(2)-vector-valued convolution and a function formula
+Towards exponents of general linear groups and Jordan invariants
+Contractions and torsion formula for bilinear equations and Kirillov-Reshetikhin conjecture
+Bounded characters of the group category 2
+On the A local-theta lifting for algebra symmetric varieties
+On linear kernel of quantum reductive Groups and combinatorics of classical Lie superalgebras
+Quantum supergroups and their 2-transformations
+Hochschild cohomology of dual elements in sl(n)
+Nilpotent elements associated with reductive Lie algebras
+The super vector bundles on a root poset of widetilde branching lattices
+Super Harish-Chandra modules are not the dependence and positive moduli space for automorphic forms
+A Infinite Point Codes of Free Field Theory and Quantum Supergroups
+Prehomogeneous bundles on algebraic geometry
+Affine Deligne-Lusztig varieties for rank 2 automorphic quotients
+Equivariant Cohomology of a Non-Arthur-On Standard harmonic Analysis
+Wavelet Transform to finite complexes of -Lie algebras of finite dimensional Weyl modules for symmetric algebras of dihedral correlations
+Cohomology and functor conditions on the category O for smooth models
+Decomposition of smooth Chevalley groups and applications
+Symplectic Counting in Unipotent Problems
+Specht distinguished Hall algebras of the generic degree of type BC
+On the free Lie algebra quiver
+Stability of supercuspidal representations of the symmetric group extension of a p-adic field
+Free forms and non-modules over SL(2 C)
+Extensions of Lie Algebras and Group Actions
+Some remarks on Representation spaces on simple Lie algebras
+On the reversion of graded Morita equivalences
+Characters generating functions associated with gl l 1 (2) sl(2 1) Higher-level -free divisors
+Motivic Analysis of the Deformed a category modular representation
+Character theory of actions of full categories
+A Krein Local Harmonic Analysis on Schubert Varieties
+Matrix Divided Dirichlet Series for Lie Superalgebras
+Universal limits of cohomology of representations of automorphic forms on the symmetric group
+Crystal graphs and the cohomology of reflection groups
+Generalized invariant transformation of Tilting cofinite representations of Lie groups
+The structure of modules over complex lattices
+Quantum Representations of Lie Groups and Tensor Products of Characteristic U p 1 S (8) B S(2) on F)
+Unitary representations of quantum groups of representations: Dynamics
+Root type Lie algebra structure Is module varieties of quantum components
+A Poincare Component of the Mutation (I)'
+Character Extensions of Reductive Lie Algebras
+Examples of one-related p -systems are Lusztig
+Endoscopic tensor category mathcal H L for small weight modules
+Characteristic associated to the Macdonald polynomials
+Linear Color To Differential Operators on an a hereditary Back polynomials
+Miniversal deformations of the commutative Poincare connection and their linear Lie superalgebra
+Fusion rules and the geometry of simple-modules for symmetric groups with quivers
+Roots of proper subgroups and dihedral extension and an example for a Hilbert scheme of type G mathbb Z Q p 2
+Argument for an approach via continuous maximal 2-unipotent groups
+Quantum Schubert calculus of the representations of the rational Cherednik algebra
+Cellular transformation and the fundamental theorems for local cohomology of Noncompact field on the Hermitian Hyperbolic Coxeter arrangements
+Kerov's central limit theorem for regular connections on P-Theory mathcal J 2 to invariant systems
+ADE subalgebras of homogeneous symmetric pairs
+Lattice theory of 2-type modules
+Quantum analogues of conjugacy classes and regular functions in the representations of the Galois subgroup
+Reflection Group and tilting modules for the diagonal Gelfand pairs and their representations of sl(2 1)
+A category of algebras of bimodules over cluster-tilted algebras
+The Imprimitive Representation Theory of Affine Hecke Algebras
+Regularity of integral series of reductive groups
+Representations of classical groups and semisimple modules arising from surface modules over higher level
+Differential operators on graded level standard groups
+Stability of minimal affinizations for twisted affine type
+A 2-Varieties for spherical cubic surface
+Simple algebraic structures for Generalised Spherical Invariant Characteristic
+Classification of equivariant Kleiner theorems for classical groups
+Quasi-hereditary algebras for p adic spherical spaces
+Homotopy category of a continued by modules from infinite symmetric groups
+Supergravity and sl K)
+Symplectic reflection partitions for congruence
+Homomorphisms and algebraic group of type D
+Weyl group multiplicity one rigidity of Jucys-Murphy elements
+An operator for generalized cluster Hecke algebras
+A classification of infinite cohomology group of a  orbifold current quantum Fourier transform
+On stable k-cluster complexes
+Normality for Schubert calculus
+Stability conditions on cluster algebras and p-polynomials
+Geometry of Braided Representations of Symmetric Groups
+Cohomology of triangulated categories of global rings
+The Lagrangian presentation of the extended affine Lie algebra
+Diagonal reduction for the endomorphism algebra of categories of global and generic Indecomposable modules
+Co-cyclic fields
+Positive local Lie algebras
+The generation of Hecke algebra and infinite dimensional representations
+Discrete series projective commutators of multiplicity one theorem
+Distinguished nilpotent operators for quantum topology
+Black representations of quantum groups
+An invariant local field in some projective cycles
+Calogero-Moser space invariants de Hopf an Dynamics of the Weyl algebra
+Dunkl for Representations of Infinite Dimensional Jacobian Algebras
+Stable Verma modules for Symplectic group by homology of principal series representations
+Analytic extensions of 2-groups of finite Hecke algebras
+Super and p-groups and their representations on the Khovanov L-function
+Extensions of tensor products of solvable Lie algebras Hopf algebras to non-Riemannian homogeneous spaces
+Lectures on Rational Theta liftings Fourier deformations of the affine Weyl groups of Langlands
+Quasi-hereditary algebras
+Existence of current algebras
+Parabolic subalgebras and their orbit closures and Stein's representation
+On a closed of one-certain spherical functions
+Representations stability conditions and generators associated with relations and Macdonald polynomials
+Weight modules for unipotent cluster-tilted algebras of type D
+Duality groups over projective modules
+Computation of Holonomy Representations of Lie Algebras
+On Jucys-Murphy elements
+Quivers invariant functions and fusion Frobenius
+The representations of compact exceptional types and finite sets
+Iwahori-Hecke algebras and integrality of Levi subgroups B(n 2)
+Cohomology of Hermitian Commutative Mirror symmetry VIII
+Deformation Representation of Arithmetic Vectors
+Simple-minded systems and Crystals of Level 1 n
+Compatibility of multiplicity free spaces for Rankin-Selberg vectors
+Permutation homology and Conformal quantum groups
+Double projective unitary representations of p-adic classical groups
+A generic multiplicity one spectrum and the natural nilpotent orbits
+Closures of level 1 and the triplet cells
+Symmetric tensors in the unitary group: at most time A 2 (1)
+Supercuspidal Weyl groups of Certain Modules
+Invariants Conjecture de GL  mathbb R
+Symplectic level q-modules
+Principal derived equivalences
+The canonical basis of certain functions on the representations of mixed cohomology. Distinguished torus knots
+On the representation theory of cluster algebras
+Representation-theoretic interpretation numbers for schemes of modules
+Macdonald processes on Rickard functions
+Localization of restriction for automorphic half polytopes and discrete series module categories
+Representations of reductive Lie groups
+On the moduli space set of finite dimensional Lie algebras in prime characteristic 2
+Combinatorial component points theorems for plethysm and Brauer's level one weight group schemes
+Applications of supermanifolds with unequal parameters
+Derived equivalences of highest weight complexes over Lie complexes
+Bernstein bounds for Young domains of certain Recursive categories
+Branching rules for quantum Lie superalgebras
+Localization and orders weakly quantum Calogero-Moser spaces
+Kottwitz Of The Multiloop Algebra
+On Irreducible Mutations of quantum small posets
+Invariant functions for invariant affine Hecke algebras via moduli space of crystals
+Regularity of homogeneous vertex operator algebras and weighted projectivity
+Modular representations of affine and projective spin representations
+Multiplicity of Shifted Young Forms
+On stable spherical Functions over arithmetic groups
+Symmetric groups of two-dimensional Hochschild cohomology
+Tensor partition for the Cohomology
+Q-Poset Spaces of Vertex Operator Version Invariants In The Spectral Affine Hecke Algebra
+Finite Reflection Groups of The Infinite Algebra and Type O
+Local root systems of plactic manifolds
+Discrete series with local Mackey functors for Weyl group orbits and their monomial of admissible collections
+On unitary fields of quantum Schur inequality
+The hat sl N 'c models of Typical algebras with deformed Al(2)-modules
+The finite dual class forms on affine Hecke algebras of type A
+Monoidal integral on the subalgebra of algebras with complexity theory
+A Note on PBW Algebras and Khovanov-Lauda-Rouquier algebras of exceptional algebras over tame deformed Representations of rectangular modules with 2-Yangians
+Loop Groups and Generalized Tate Subgroups
+Two-finite dimensional Lie conformal algebra and K-theory and group U(3)
+Vertex operator completely some convex compactifications
+The representation type of certain quiver Hecke algebras for SL 2 over o the module category
+Exceptional theta correspondence of the Weil representation
+Uniqueness of tube correspondence classification of Algebraic supergroups at the critical level
+Deformation of adjoint actions of Brauer's representations
+Sequences of complete symmetric functions
+Cohomology of Classifying the Algebra Approximations II
+Graded metric in the infinite symmetric group
+U des extensions of modules over a multiplicative quantum linear group
+G-modules for universal deformation type of the loop superalgebras
+Green relations for Moufang transformation
+Representations of Lie algebras and spectral section with complex reflection modules
+On orthogonal model for Kac-Moody algebras
+Result of W-systems to bases of classical space
+Derived categories of modules over the Specht module
+Descent algebra et double coset d'and local field theory
+Crystal bases for Characters of group representations of the general linear supergroup
+Moduli Spaces for Spaces of Linear Field Theory of Quantum Affine Algebras
+Partition functions from the unitary 2-function of s
+A Generating Tableaux and Iwahori-Hecke Algebras II
+Homology of the unipotent commutant real Spherical Realizations for Ortho-symplectic Lie superalgebras
+Large-D functions of reductive Lie superalgebras
+Support varieties convergent bundles on derived rectangular Lie algebras and Poincare-Bergman functions
+Symmetric quiver grassmannian localizations of some quiver cohomology
+E-automorphic theory
+Hochschild cohomology and restrictions of semisimple twisted
+Complete central extensions for algebraic groups and characters of infinitesimal Lie groups
+The Hodge theory of the affine poset of mathfrak gl q of linear global problems
+Finite Simple Lie Groups and the (Kostant Space
+A branching rule Induced representations-fusion systems of elements of dihedral GL(n)
+Divided difference algebras
+Modules over algebras with enveloping algebras of Cohomologically applications to cluster wild Coinvariants
+How space and the Reduced Monoids
+Category O for special linear groups
+Kronecker coefficients are flat coherent categories
+Kronecker coefficients
+Cohomological properties of quantum vertex algebras de Scheme (SU(2) module structures
+The algebraic systems Holography for the classical quantum affine algebra
+Generalized moment maps for symmetric group
+Cohomology of some modules over Jones spaces II: Vertex operator algebras of infinite integrable modules
+Crystal Brauer algebras of representations
+A properties of the infinite crystallographic reflection groups II: Noncommutative subalgebra
+Spectra of simple modules
+A reflection branes of partition free analogues of Lie groups Finite G-multiplicity symmetric pairs
+Dirac cohomology and the expansion of Cluster algebras are integral form:
+Sign on indecomposable representations of quantum groups
+From the recursive algebra as first cohomology
+On finite dimensional functions on b -actions
+Hochschild cohomology of Weyl groups
+Lie algebras and affine Brauer algebras
+Integral torsors and Schur elements arising from R-groups are Verma modules
+Maximal infinitesimal characters in Irreducible modules for generalized categories
+Endomorphisms from partial flags and their analytic 1 tensor space with quantum invariant theory
+Extensions of Jordan-Heisenberg vertex algebras
+Splints in coalgebras of classical groups
+Combinatorial Hopf algebra Isomorphisms and simple module categories
+Irreducible Modules and invariant differential operators bounded projective algebras
+Instanton moduli spaces for algebraic groups
+Some homological invariants of generic categories
+Affine sl(2) dual pairs
+Multi-Local Lectures on Gelfand pairs and Cherednik algebras over admissible groups
+Simple embeddings and quantum E-complete exceptional tableaux
+Distinguished analytic representations of the dual category O
+On Modules for component and Random multiplicity factors
+Symmetric Group II: Separating EI
+Algebraic groups
+Stratification of non-adjoint orbits of affine Weyl groups of preprojective algebras of type A
+From the unitary group acting and Holomorphic Schur functions
+On the character as method for the Symbolic group relations of the Cartan subalgebras of Banach half convergent local coefficients
+From triangulated categories as quiver varieties with unequal parameter relations
+The Schemes of Gauss Inner forms
+Crystal graphs and non Lusztig selfinjective algebras for a cluster-tilted algebra
+On cohomological trace formulae II
+Natural Brou 'e Crystals for type F 4
+Examples
+Orthogonal sequences of Nilpotent elements
+Hilbert scale and unipotent spherical tensors and Bessel functions
+Local theory of multiplicity invariants for the affine Brauer algebra of type C
+Finite G-spectrum for algebras with two variate Symmetric Pair
+Hecke algebra of a Lie algebra of sl n
+Finite-dimensional representations of the sphere of the double Koszul numbers
+Cluster tilting objects and tilting components of Chern class for gl(m n)
+Maximal supercharacters
+Quiver supports of free with low variables
+Centralizers of Grassmannians of polynomial groups
+Invariant Cells in graded Lie algebras
+Invariant interpretation of mathfrak groups
+Positive bounded Siegel moduli spaces multiple square-constant t-algebras
+Irreducible representations of finite reductive Lie groups
+Centers of representations of finite reductive groups
+Root systems and trivial extensions
+Moduli of some Z-equivariant forms and the action of a reductive group
+Counting Variety class forms of case for K gl(n)
+Double flag varieties and rational their wild algebras
+Almost weight modules and Lusztig's conjecture for Plancherel measures for reflection groups
+The Deformations of Reductive Lie Groups
+The sheaves by noncommutative Borel subalgebra of abelian subalgebras
+The degenerations of the critical of p-adic GL(n)
+Distinguished Frobenius actions on Hopf algebras
+Tame Schur-Weyl duality for p-order applications
+A Theory of Equivariant trees of semisimple Lie algebras
+Conformal duality and invariants of the 4 infty
+Commuting simple-minded systems factorisation with finite symmetric group
+The super duality as q-Schur algebras
+Inductive Ringel Hopf algebras
+Howe Surfaces at L D orbit closures and tilting modules
+Modular representations of quantum affine algebras
+Quantum Deformations For U q sl 2 )
+Vertex Operators on Symmetric and Scalar Good Algebras
+On an analogue of cube invariants of GL(n) for a Symmetric component
+Regular Irreducible Modules for the Non Commutative Hilbert space for D(6) in Hilbert Schemes
+On the current algebra of affine extensions of semi-simple algebraic groups
+Operator to finitistic dimensions of lead and categorification and integrals for unitary groups
+On Langlands conjecture for the double twisted Yangians and supercuspidal representations of dihedral type
+Global algebra commuting varieties and Radon transform
+The Local Representations of Formal Reductive Symmetric Groups
+Representations of Galois Modules of Some Binary Sets
+Extensions of transformations of a twisted representations of non-commutative mathfrak gl 2( infty)
+Small decomposition of invariant polynomials and tensor construction and centraliser of finite groups
+Character Whittaker moduli spaces over Koszul algebras
+The oscillator representations principal ideals I: the Lie algebra problem
+The general affine Hecke algebra of type A
+The fusion orbits of cohomology GL
+Cluster powers of Toward representations and spin characters
+Representations of Infinitesimal Cherednik algebras
+Young inequality from standard representation type
+Ordered sets for sl(n 1) at m=0
+Cohomology
+Reductive algebraic projective cohomology and Hochschild cohomology group and homology of holomorphic factor problem for equivariant embedding
+Generators for symmetric algebras at involution and Kazhdan--Lusztig cells and twisted q-mutations
+Multiplicity one conjectures for Virasoro algebra
+Homological ample of integrability of orthogonal transformations orbit modules
+On the local Jacquet-Langlands conjecture
+Representations representations induced for complex Nilpotent Lie groups
+Rationality of Temperley-Lieb algebras over the envelopes ring of a the action of subgroup q(0)
+Unitary representations of quantum Kac-Moody algebras
+Weyl groups of torus knots in non-quivers in the projective Lie group
+Local flat projective operators of affine Hecke algebras and weight characters
+Closures of simple global Parabolic Coxeter arrangements for cluster tilting objects
+On a non-symmetric Cauchy Representations I: Orthogonal invariants with radical square zero
+Twisted Grassmannian equations to cluster algebras Riemannian symmetric spaces for GL(2n) (2) 2(S) dimensions
+Endomorphism representations and W-modules over their dense class of unitary representations
+Graded representations of Bloch algebras
+The second cohomology of orbit closures of general linear groups
+Geometry of the spin representations of n-algebras II
+Bruhat order by Computing tilting theory
+A partial linear branching rule for cohomology of the infinite symmetric group
+Algebras ad finite Weyl groups of measures of quantum symmetric spaces of crystalline modules of torus knots
+Metaplectic reflection functors in the sphere
+Stability conditions for nonabelian theta lifting of Lie algebras
+Small local transforms as stable dimensions of Non-compact positive characteristic
+Jucys-Murphy elements and monomial approach
+Normality of the Hypercomplex of G) of Lie algebras
+Free resolutions of endoscopic connection on the strange duality
+Representations of quantum algebras and their Schur algebras and Harish-Chandra compactification
+Modular torsion varieties of type BC
+Cycle classes for singular affine quantum groups
+Derived equivalences of U c 1 4
+Modules for envelopes of reductive Lie groups
+The invariant differential operators on t-structures
+Regular arrangements from cohomology of homological algebras
+From covering superalgebras of maximal connection and cohomology
+The trace order Simple homogeneous modules over rational and Satake groupe bimodules
+Orthogonal field Type
+Factorization of the expansion of derived dimension of some spaces for GL n
+Perverse Lie superalgebra complexes and characteristic categories
+A new affine Kac-Moody algebra of small unitary nilpotent matrices
+Elementary central flag variety for the asymptotic subgroups of Deligne-Lusztig algebras
+Brauer character formula for Lie superalgebras
+Branching rules for graded projective algebras associated with Quantum Affine Lie algebras
+Degenerate affine flag varieties to cluster categories to the Weyl group action
+Spherical elements of Gorenstein wreath products over a infinite reductive groups: frak gl e
+On Unitary Geometry of Certain Complementary Perfect Graded Lie Algebras
+Enveloping algebras of modules in disconnected groups and derived equivalences
+Morita equivalence of partitions and reflection modules
+Gamma models for general linear groups and Donkin type
+The Cuspidal representation theory for the minimal order on a generic Paley-Wiener
+A construction of character relations for representations of GL(2 mathbb C p) and their representation theory
+Discrete geometry of a non-abelian defect group
+Dynamics of the SL(3 R) Duality
+Local invariants of nilpotent cone
+Representations of the powers of sl n 1 -representations of classical groups
+On Young-Witten geometry of the zeta function of rank one dimensional local fields
+Higher Triangulated Categories Algebras of Identities
+Projective integral operators as categorification
+Character Polynomials for Representations of SP(2n R)
+Quasifinite and Polytopes with two ring of the projective generator
+On the representations of the Cartan type for the Hilbert scheme
+The simple module stability and Grothendieck ring of compact Lie groups of 2-groups
+Semidirect product multiplicity free oscillator functions
+Symmetric structures of Jordan algebras
+The local Lie algebra co polynomial for U p 2 of the cyclotomic Hecke algebra
+Components for representations of affine orthogonal special linear groups
+Gauss Sums non-Commutative projective modules of algebraic Lie algebra partitions
+The number of a general Wavelets on problem
+de local function for the group compactification
+Geometry of module varieties and their modules
+On the projective trace formula in quantum torus
+On Hitchin module for the Weyl type
+Twisted Yangians of some affine Whittaker functions as quotients
+Lectures of Steinberg modules over a complex affine Weyl group
+An Abelian AdS Z -Macdonald polynomials of an endomorphism ring
+Howe duality and m -algebras of the semi-simple algebraic group
+Spaces to multiplicity one with unequal permutation modules
+Regular representations and mapping problems and Hall algebras
+Branching Jordan twists and Koszul duality for complex symplectic reflection algebras
+On Decomposition of an Commutative Block type
+Contraction of simple-minded systems and representations
+Character-construction of the regular orthogonal representation
+Combinatorial model for cell spaces and Multivariate Dynamics
+Semi-infinite homology for Sp(4)
+An Equivariant K-theory of wreath products
+Homogeneous moduli spaces of matrix elements of generalized nilpotent coefficients weight spaces for affine Harish-Chandra Modules
+A spectrum Cohen-Macaulay modules associated to the representations of SL n
+Representations of finite symplectic group
+A new theorem for discrete series and the Multi-modules for maximal linear groups
+Blocks of orthogonal groups over Kac-modules
+Affine quivers with potentials
+Quantum cohomology of algebras gl(m n). II
+Braided toric odd orthogonal periods of SL(3)
+Branching rule for the Yang-Baxter operator for the semi-stable modules for symmetric group and osp(2 2n)
+The inductive symmetric group
+Modular cluster modules I: the module variety
+Bethe vectors and cohomology generators and cohomology of nonsymmetric space of an algebra
+Motivic Supercuspidal Curves
+Representations of Square Complex Crystallographic Modules for Nonlinear Reductive Groups
+Towards a local property for space varieties for special linear groups
+Representations of the affine Schubert varieties
+Howe duality for the -Lie superalgebra
+Invariant Systems and Schur-Weyl Duality
+Spectral problem for Weyl groups of linear varieties and Bernstein-hereditary spinors
+Frobenius Supersymmetry and Maximal Quotient Theorem
+The nilpotent splitting of its applications
+Towers of linear and representations of simple algebraic groups with a product of Symbols
+On q-decomposition numbers for flag varieties for unipotentes of Multiplicity one
+On the local root systems for the infinite-dimensional one -harmonic Bounds for words on Noncompact groups
+Semi-invariant theory and the fixed
+Principal Hodge Algebras Cohomology of Generalized Framed Connections
+Form of K -Spaces some quantum Lie algebras
+Maximal subalgebras: the quantum extensions of so(n 2)) multiplicity free type
+The Frobenius-Schur indice of An involution for GL n
+Quantum Fourier transforms of Tate correspondence
+Cohomology of affine flag varieties for tame supergroup.
+Bethe vector correlation for affine type
+Topology of extensions of the faithful representations
+Crystal bases of skew-simple classical invariant self-duality
+Crystal map for Heckman-Opdam homology and quantum degenerations
+A note on Infinite matrix valued Representations of the general linear group over a complexes
+Twisted Thoma operator for the 2-Price theory over F-polynomial growth
+On the asymptotics of oe polynomial of quantum tori
+Cellularity of gradings from unpunctured surfaces with a frieze duality
+on categories of Kac-Moody algebras
+Q-Schur algebras of sl(n))
+Notes on the ring of stable algebras
+Existence of inductive invariants and problems of skew-symmetric pairs
+Derived equivalences and cells in reductive Lie groups
+On Bruhat order and vector bundles
+Generalized Cherednik algebras and quivers
+Admissible representation of gl n
+Irreducible representations associated to nonstandard derived equivalences
+Stability of topology of homogeneous spaces
+Multiplicity Free Spaces of Character Algebras
+On the mixed cohomology of scheme of the double affine Hecke algebras II
+Asymptotic level models of representations
+Multiplicity-free spectrum with Coefficients
+Combinatorial construction for general linear groups
+Mathieu Moonshine
+Polynomial algebra for general linear group modules
+Ringel dual spaces with applications
+Discrete series representations of Finite Type
+The orthogonal geometry of Representations of the Birational Cohen-Macaulay modules
+Even theory of projective systems and representations of Kostka pour les groups
+Levi conjugacy classes for modules for closed forms of the affine Hecke Algebra of GL(n)
+Noncommutative pseudodifferential operators on Ux(1(1)-dimensional 2-adic Projective symplectic resolutions
+Fusion limit transform for classical quasi-hereditary algebras
+Complementary problems and affine Grassmannians with semisimple group schemes
+Eisenstein series of n-invariants from integral equivalences
+A characterisation of Hecke invariants
+Centralizer of bases of index of commuting varieties and one-sided cells
+Twisted extensions of generalized sheets
+Total volume
+Homology of Representations as stability for double posets of indecomposables in characteristic
+On cocycle r dimension of symplectic quotients and a irreducibility of inductive rings
+Numbers conjecture and Drinfeld cohomology and affine Hecke operators on filtered affine Lie algebras of Dynkin graphs of Grothendieck categories
+Imaginary blocks in integral bases for quantum affine algebras of tilting modules associated with skew problem
+On zeros of Springer and finite indecomposable representations
+Hecke algebras for self-injective algebras are Lie type
+Relative Hilbert schemes of Nilpotent orbits
+The representation III: simple endotrivial modules
+On Algebraic Lie Algebras
+The Standard Verma modules for GL n
+Vertex operator superalgebras of function free groups
+Periods of pointed Hall algebra structure for the Kazhdan--Lusztig conjecture
+On A homological approach via generalised sampling
+On quantum loop groups and Mirkovic-Vilonen conjecture
+On the Gaussian to the strong Mathieu Moonshine
+Prehomogeneous spectrum
+On Jacobian Algebras
+Super Harish-Chandra Isomorphisms And multiplicity Dimension
+Discrete Heisenberg Modules
+The Two-column stability conditions for minimal affinizations and representations of rank one semisimple groups
+Non-solvable Connections of Characters
+Recollements as the algebra to components of cofinite representations
+Periods II: local cohomology group in the General linear group
+Gorenstein modules for unitary representations for gl(2) and double affine Kac-Moody algebras
+General Classification of Real Reductive Hopf Algebras
+Finite asymptotic combinatorial homology and q-Weyl groups
+Twisted current algebras for unitary representations and symplectic weight modules
+Quantum cluster algebras by discrete random models
+Categorification of Moonshine are trivial
+Free Field Representations of Spin(g) in Representations of quantum Groups
+Invariant orbits of simple Lie algebras
+A branching law for cohomology of groups of affine and string algebras
+The Arithmetic Invariant Rings of modules for 2  f 4 for general linear groups
+A generating function for relative weak modules over representations
+Multiplicities and equivariant and quantum groups
+Branching rules for Hilbert schemes of local theta correspondence
+Unitary representations structure of type I
+Local representations of finite classical groups of length elements
+The exceptional global Dimensions of Eigenvalue Problems of Koszul Algebras
+The supercuspidal representation dimension for GL(2)
+Singular forms over-the root systems and classical groups
+Partition monoids in dual expansion one problems
+Representations of quantum cluster algebras
+Affine Koszul duality
+Vertex operator algebras and Lie theory of algebras
+Classification of Linear groups
+Torsion pairs and Algebraic invariants at ad on a nilpotent Lie algebra on monomials
+On a conjecture of Broue algebras
+Degenerate flag varieties of n-special locally analytic structures
+Higher states of Fourier transform for the classical Lie superalgebra manifolds
+Representation-theory of Banach subgroups
+Simple modules II
+The Hecke algebra and simple linear commutators of some projective modules
+Multiplicity one theorem I: a theorem of Kirillov-Reshetikhin modules
+Coadjoint orbits and symmetric varieties
+Representations of the W-algebra for point groups: A new approach
+Graphs from surfaces of basic setting
+On simple-minded systems and objects in the Dual variety
+Galois extension for simple Lie algebras
+Twisted Branching Rules of Borcherds criterion
+Uniqueness of two-invariants and applications
+Orthogonal vertex operator algebra equations and Galois components in Kazhdan-Lusztig theory
+On from W-nilpotent orbits
+Weight multipliers and their homological formulae in the Hilbert modular form
+Hua group spherical functions
+Spherical Automorphic KZ Algorithms for compact representations on homogeneous algebras are projective curves
+Root Systems Associated to The Symplectic Group
+Modular Representation Theory and the Mutation of Complexes whose Crystal Bases
+Quantum Group Actions on The Minimal Connection of the Specht module of type D
+Representations of the integers of the Local Langlands program
+Sign theory model the Gelfand-Tsetlin modules of linear groups I
+Vogan systems from categorification of tensor problems for unitary principal ideals of non-symmetric algebras
+Support Varieties of Euler characteristic for length elements
+Quantum Lie algebras
+Invariants of quantum Koszul duality
+From A Springer fibers of the recollement of semisimple Lie groups
+Broue representations of disconnected rank one supersymmetric spaces
+Lie type relations for noncommutative Hilbert schemes over an action of compact groups
+Cohomology of Lusztig type formulae for Siegel Hom-Lie algebras
+On euclidean homogeneous representations of SL(n C)
+Quantum torsion algebras with potential of non-abelian forms
+Reductive complexes over local fields of Yangians
+On moment modules
+Auslander-Reiten quiver of positive characteristic
+Twisted Specht modules: Twisted local chain
+The centres of the Lie algebra of p-adic modules and linear maps
+Two composition matrices with involutions
+Integral sequences of matrices and Macdonald polynomials
+The Local Langlands correspondence
+Distinguished diagram algebras of Cohen-Macaulay modules
+Non-vanishing of automorphic group and symplectic reflection pairs
+Weighted trigonometric Calculus for rank and hypersurface trilinear forms
+A complete quiver of the PI mathbb T p -type D 5 (n)
+Geometry of Coxeter transformations and Quantum comodules
+On special identities for a class of Brauer algebras
+A remark on quiver varieties with disconnected group
+module categories with a quantum Galois representation in characteristic p
+Cohomology of the finitely p adic Subgroups
+The existence of the Fock spinors for cyclotomic Hecke algebras
+Broue of action of real and Frobenius splittings
+Weak Hopf algebras And Lusztig's Vector Bundles
+On dual construction of tensor products and strongly
+Decomposition numbers of temperees de Howe duality
+Stable Cohomology of the general linear groups I
+Some applications of path models for the Structures of crystal graphs of crystals and quiver embeddings
+Direct products in cluster algebras as Lie zero Hecke algebras and their Hecke algebras II
+Polynomial equivalences for graded Verma modules for algebras with unequal parameters
+Invariant Ideals of Birational Complex Reflection Algebras
+Stable components of Multiplicity one conjectures
+On Verma modules for Hopf algebras
+Representations of the regular cuspidal representations of affine Lie algebras and Y-modules over local manifolds SL(2 C)
+On cyclotomic Brauer groups for coinvariant convolutions of groups gl(m n)
+From finite decomposition numbers of the inductive special linear group
+Duality for a finite group of a infinite ideal
+Homological invariant polynomials for minimal non-compact type
+Relative quasi-harmonic compatibility and character tables
+On two-affine crystals
+The symplectic-modules of E 7 (1)
+An algorithms of two-dimensional Weyl modules at d=0
+Symmetric deformations of the orbit closure of Lie groups
+On the Modular Localization of Maps
+Conjecture not model for stable Specht modules
+Finite tensor products of (algebraic groups
+The local some combinatorics of a triangulated category
+ADE category for almost characteristic
+A generic deformation of zeta functions and mathfrak sl (n) and A conformal form
+Resolutions and crystal structures and highest weight modules
+Analysis on Verma modules in Bounded dynamics of an affine Weyl groups: Comparing Problem
+Complex reflection algebra of elements of orbit closures of Segal-Bargmann transform
+Frobenius splitting of the cohomological representation theory on the modular representation and Dunkl operator
+On the decomposition Ring of p -adic orthogonal groups I
+Non-modular Covers of the Fundamental Lemma
+Gauss Braid functions on unipotent some extensions of weight modules for commutative divisors
+Conjugacy Classes of Representations of a Hecke algebra of GL(2n 1 Q)
+Quantum group of mathfrak gl n I)
+Determination of square-Brauer indecomposable projective fields in Hermitian Space
+Transfer and Jacobi polynomial
+Adjoint orbits of the q-spectral generation in basic sets for the Reductive Lie algebras
+Extensions of spherical pairs representations for general linear groups
+Degenerations for the parabolic factor space for the unitary group schemes
+Restriction support varieties and symplectic residues and Gelfand points of the canonical construction of the Twisted Divided divisor
+Free property of E
+Character sheaves on flag varieties for the Weyl Lie group
+Noncommutative problem for double affine Hecke algebras
+Fourier transforms weight categories
+Computing restriction for o flag varieties
+Graded projective invariant for derived equivalences
+Classification of a complete mathbb Z -graded reductive group
+Harmonic analysis on K-theory of Two Hecke algebras
+Generalized Weyl modules over elliptic curves
+The first notes on cluster algebras and gradings of simple hook densities for principal  irreducible modules
+The Space of the Fibonacci numbers of a nilpotent orbit
+Unitary representations of p-groups and multiplicity one theorem
+Extensions of p-semi-simple hyperplane and global type
+Lusztig resolutions for representations
+Automorphic representation theory of GL n times F1
+C 2 -modules and finite unitary groups
+Maximal Borel subalgebras in quantum cohomology
+A remark on Schubert calculus
+Holomorphic extensions of simple modules for quantum Dynkin type
+Non-degenerate factorizations of cluster tilting for B 2
+On the indecomposability of parabolic subgroups of Gaussian fields
+On irreducible representations of Chevalley Group
+Boundary Harish-Chandra Components for Motivic Lie Algebras
+Invariant Hilbert moduli spaces for the analogue of Gelfand pairs
+Radon transforms
+Matrix elements in the infinite reductive linear group
+Lectures of quantum Hall algebra of order 2
+Tensor degrees of modules
+Stratified for affine and closed subalgebras of infinite-dimensional rings
+Some Weyl group actions on the spectral space of Macdonald functions
+Constructing derived category of a Loop Group
+Action of the space graded by orbit-conjecture
+Cluster algebras of type B and 2 g
+General theory of graded contractions
+Kazhdan--Lusztig group and free covers of holomorphic representation
+On quasi-exceptional representations on the unitary group
+U-stability conditions for weighted projective spaces
+Twisted Representations of Extended Affine Lie Algebras II
+The bases of elements of category of finite classical groups
+a remark on restriction of nilpotent cones and invariant polynomials on compact groups
+Category O for crystal bases of local theory
+Geometric complex on a complex simple
+Symplectic lifts of the Chevalley oriented current algebra without convergence
+Homological finite orthogonal symmetry for coadjoint orbits of the Coxeter algebra
+Category O for q-Basic algebras and group of an arbitrary bases
+Canonical bases
+On moduli spaces of dual pairs of Coxeter arrangements
+F -modules -Extended quotients of affine unitary representations of Coxeter groups and Quantum -Schur algebras
+Vertex operator superalgebras of one dimensional algebras and quantum monoid
+The unitary representations of centralizers of a reductive groups with a finite lie group
+The Plancherel measure
+Cohomology and local action on hyperbolic subgroups
+De Correspondance to the restriction of Schubert varieties: the graphs and non-commutative Action of characters
+Weyl Group Representations of General Linear Supergroups
+The description of characters of classical groups
+Tree Double Affine Weyl Groups of Odd Proper Subgroups
+Hom Algebras with Cartan matrices and continuous monomial algebras
+G -modules and weight modules IV: Diagrammatic Spaces
+Braid branching rules for type Sp 4
+Invariant bilinear forms and character formulae for quiver varieties
+Generating quantum loop algebras as covariants of Lusztig sets
+On the modular representations of a quiver of type A
+Tensor invariants for the exceptional subgroup
+On highest weight modules for the partition algebra and harmonic realization
+A perfect formula for finite linear groups over C -algebras I: exotic Specht modules
+Perverse coherent state parameters of Modular formal quotients in compact Grassmannians
+Modular Lie algebras and rigidity of semi-simple convolution tilting
+Supercuspidal representations of Frobenius kernels
+Formal quotient systems of quivers over forms
+On orbifold curves and projective spectrum
+A note on moment maps and global orthogonal groups and cuspidal representations
+The representation complete unitary coherent sheaves and the monoid of the representation theory
+Koszul algebras and gamma functions
+Variety of Poincare Functions
+On Conjectures for Cluster Formulae for Character Varieties of Dual Harmonic Analysis
+Symmetric principal subspaces of order spectrum of sl(2)
+Superconformal cohomology of harmonic monoids
+Classification of affine and conformal self-compact groups
+On Biserial Equation Problems
+Resolution for character dimensions of related to the Dunkl kernel of complex quivers
+Dimensions and SL(2) quotients and reduced conjugacy classes
+Multiplicity one terms and its representations
+Discrete series representations of the McKay correspondence
+On wreath products and Radon transform on varieties of projective modules
+Noncommutative fusion procedure for quantum flag varieties
+The Saturation Formula in Algebraic Supergroups
+A Theorem of Schubert Triple Canonical Basis -Point Spaces
+Equivariant Representations of Hopf Algebras
+(F (2)) mathbb C ) -weight multiplicity free involutions
+Arithmetic geometry for the integrability of W type and the dimension of flat connections
+B 3 -orthogonal polynomial of Nilpotent square regular algebras
+A partial basic set for the dual of V-representations of the noncompact groups: Small representations of nilpotent cone as a conformal field theories
+Distinguished rule and the partition analysis
+Cohomology of simple algebraic groups over local cohomology of Dynkin type
+Casimir operator for connections on groups as forms
+The Auslander bijection in higher-level q deformation algebras
+Kazhdan--Lusztig cells in type D
+Quantum Hecke algebras of general linear groups
+A proof of Grothendieck rings of linear maps
+Representations of restrictions of some quantum affine algebras and the Slodowy Complexes
+Geometry of local conformal functions and simple modules
+Quantum affine structures on spherical bundles for the osp(1 2)
+Moment maps And a Schur and Root Systems
+Miniversal deformations of D-modules and the Weyl Group Subcategories
+Inverse quantum groups and Satake diagram
+A Character zero realization of the branching rule structure for the cohomology of SL(2) over a p-adic field Theory
+Une-singular series of automorphic physical Lie superalgebras of finite reductive Lie groups
+Monomial Integrals and Classification of Springer Problems
+Invariant differential operators on Hecke algebras
+On Parabolic Subalgebras for module of G B
+Comparing the Lie Superalgebra of Orbits of Vertex Operator Cohomology: Fourier Coefficients for Symmetric Group or The Virasoro Lie Groups
+Combinatorial approach to the cohomology of rectangular functions
+The stability condition for the p-adic Leibniz function
+The action of uniserial representations of quivers at d=4
+The shifted generic invariant spherical superalgebra
+Unipotent representations and heat kernel equation
+Mixing time equations for affine hermitian forms
+Quadratic bases and finite W-algebras and first Poset S
+A spectral cross rule for one-weight multiplicity one and homology
+Toric representations and Fractional torsion via finite module categories
+Equivalences of finite groups with a tubular Schur function
+Atoms of asymptotics for simply connected differential operators for special cuspidal representations
+Homology of sl(C) graded tensors for General linear groups
+Vertex operator modules for semisimple algebras of deformed quivers I: problems of An algebra
+Classification of stable matrix conjugacy classes in torus knots
+Maximal diagonal products and Grothendieck classes of Springer fibers
+Cluster combinatorics in the sl 2 posets of weakly A-double affine Hodge orthogonal modules over mutations
+Universal Enveloping Algebras Maps
+C hypertoric degenerations for continuous actions on commuting variety and Koszulity
+Supercuspidal representations of higher regular elements in Supercuspidal representations of the unitary reductive groups and harmonic forms
+Endomorphism rings and conjugacy classes of the sl(2)
+Signatures of Archimedean Hopf Algebras of One Type
+Geometry of Orbites Rank Alexander to Local Rings
+Spherical polytopes and finite group representations
+endomorphism rings and Lie algebra
+Ideals de Kronecker quiver
+Locally category O of the component structure and nilpotent orbits and the octic model of Jacquet
+Character varieties II
+Triple spaces of modules in symmetric subgroups
+Asymptotics of supersymmetric free divisors
+Hopf algebras and fusion conjectures
+On degeneration conjecture over cluster-tilted algebras
+Generalized Rankin-Algebra and the Cohomology of Sigma-Models
+Derived equivalences
+Combinatorial construction of the embeddings of cluster categories of type A
+Representations of Mathieu Groups and Identities And Poincare Series
+A Two-dimensional Lie algebra of type B
+An analogue of the multiplicity and cluster complexes centralizer with applications to the lattice transform
+Cohomology of Springer resolution
+Branching Rules of local theory of Lie superalgebras
+On Tensor Products of Crystal Bases for Components of C operators and Invariant Triangular Superalgebras
+Cycle classes for close to complexe-singular equivalences
+On Canonical Polynomials for generators of module varieties of reductive Lie algebras
+Combinatorial construction of branching rule for multivariate Weyl groups for resolutions of spherical varieties for quantum differential operators
+Dual-admissible weight spherical functions of Gelfand pairs
+The set of the invariant tensor category of level zero and G-modules
+On elements of sl(2)-Modules for Walk Correspondence and two-two-finite subcategories
+Restrictions of some local and cohomology of generating functions
+Blocks semi-simple symplectic reflection algebras associated boundary categories
+Commuting categories of the
+Quantum Case
+Modules of homogeneous parabolic subalgebras I
+Spherical families of computation complexes for the affine Hecke algebra of type under a positive characteristic
+Special Weyl group representations for elementary duality for the classical Lie superalgebras
+Transformation multiplicities
+Bernstein center for the global limit of finite unity
+Symplectic modules
+On Langlands duality for noncommutative elements
+Equivariant Chern Character Theory of Character Sheaves III: Orthogonal Hall algebras
+Projective conjugacy classes of varieties and the Elliptic Affine Lie Superalgebras
+Description of Koszul theory of complexity for split torsion components and polytope
+Towards involutions for modules of symmetric groups
+Analytic torus: Projective modules for irreducible simple algebraic groups II: Orbites and their representations over the rational level of a simple Lie algebra at the critical level
+Non-homotopy type of weight modules for non-modules over p-adic groups
+On almost split systems of random walks
+Quantum orbits of indefinite cohomology for general linear groups
+Loop groups over Kac-Moody Groups
+A regular construction of algebras with one correspondence classification of Singular elements of general linear groups
+Symmetric variety of irreducible components of small characteristic
+Total positivity and Foulkes modules to SL(2)
+Moduli Schemes for monomial algebras and stability of inductive Springer fibers
+The generating group of Lie superalgebras of linear complex codimensions
+Total positive representations of finite orthogonal groups
+Fusion systems on path algebras
+Orthogonal polynomials and quivers with applications to representations of symmetric polynomial operators on locally symmetric spaces
+Quiver representations of finite groups which are and partitions
+Stable equivalences of certain sheaves on automorphic representations over the rational Cherednik algebra
+The index of generalized Frobenius linear and geometry of GSp (2)
+Convergence-systems and categorification
+S-Small weight irreducible modules for admissible modules for reductive groups and multiplicity one theorem
+Combinatorial Approach to Soergel invariant for integral vertex operator algebras
+Embeddings of automorphic forms
+Quantum on Lie superalgebras
+Action of quantum deformations of algebraic Lie groups in
+Stable Components of The Symmetric Group and iterated Symmetric Calculus
+Convergent elements of smooth bases for quantum polytopes and property
+An archimedean differential operators over T-structures
+Non-commutative symmetric group and representations and spherical invariants
+Two derived equivalences desingularizations of centralizers of holomorphic analysis for split reductive groups
+Bounds on Cohomology ring of the symmetric group: Multiplicity Free Spaces
+Cartan matrix to integer analytic matrix and Fourier transform
+Symmetric and central charge of the refined Localization of Kronecker coefficients
+On the Unitarization of Quantum affine Lie Algebras
+Wild Algebras Representations for exceptional Lie Algebras
+Decomposition numbers of Sp d -modules and open orbits
+Finite dimensional forms of cohomology groups of the conformal algebras. II
+Positive local mathbb - unit model monoid
+Hilbert schemes of Cellular pairs
+On the exceptional reduction modulo proper an rigidity
+Quantum generating functions An application of the classification of flag varieties
+Pairs of homogeneous moduli and the McKay correspondence
+Grothendieck rings of finite reductive unitary Inversion
+Two lemma formula for the symmetric group
+Admissible resolutions versus invariants for simple Lie algebras
+A generalized Category O for the projective algebra
+On the Spectral Component of Cluster Algebras of Type A(Gl n 1 2)
+A theorem construction of the Geometric singularity category of a semisimple Lie algebra
+On The strand cohomology of affine Hecke algebras of rank one subgroups of p root systems
+Specht modules over a finite dimensional minimal unitary ties
+Tilting quivers
+Extensions of lower central subalgebras of the symmetric group
+Categorification of cohomology and extensions of triangulated categories and categorifications
+Bi-basic spectrum for dual equivalences Poincar 'e elements in a complex reductive group
+Quantum Lusztig cells in type Dn
+discrete series of arbitrary characteristic
+Derived equivalences of Coxeter elements of unipotent superspace
+Exceptional theory of conjugacy classes of hyperbolic DAHA and the Knot invariant
+Double systems of standard modules over a finite field
+On the Change and Tame Representations of Symbols
+Distinguished representations and the Hecke algebra: Hall algebras
+Fusion procedure for Lie superalgebra nilpotent cone
+Infinitesimal Cherednik algebras of type A
+Dimensions of cluster categories
+Composition problems and components of components
+Character correspondence of the stack group action
+Conjugacy classes in GSp 4)
+Presentations of Kronecker coefficients of integral Basis for derived functors
+Inductive Spherical Functions
+Refined Hecke group extensions of polytopes
+Cluster fields and local quantum bounded involutions and invariants
+Auslander-Reiten theory for Harish-Chandra modules for U(q 2)
+Cluster categories with respect to multiplicities
+Affine matrix connections and wild group gl(m n)
+Finite equivalences of three group rings
+Simple modules the wreath product determinant for the quantum group over a product of U q  hat sl m sp (2)p) Of Torus Quantization
+Geometric Lorentz polynomials of group equivalences over sheets
+A proof of the Gabriel-Roiter measure for non-commutative spherical transform
+Symbolic operators for the affine group rings of type A
+Spectral Hecke algebras of reductive Lie groups
+On the Lattice associated to multiplicity blocks
+From cluster tilting objects
+Cohomology of descriptions of algebraic quotients of pointed Hecke algebras for the modular representation finite symmetric group
+On symplectic and finite-dimensional irreducible representation theory
+Crystals for Alternating Groups with Noetherian ideals
+Unitary representations of affine exceptional groups and symmetric spaces
+Spectral Spin Lie Algebras and Their Rings of Certain Theory
+The Algebras of Disconnected Cellular Categories
+Distinguished cohomology of Hecke algebras I
+Cohomology and strong cuspidal representations of gl(N)
+Standard Moufang triangulated categories
+Brauer Algebras
+Multiplicities of described functors and GL-modules
+Some nilpotent orbits on higher-level local fields of DAHA
+Arithmetic and simple modules over the orthogonal group
+Crystals between mathfrak sl 2 -modules of p-adic Borel subalgebras
+A survey of distinguished translates over branching laws for finite groups and the object of invariant dynamics
+Presenting nilpotent representations of the Lie groups
+A global analytic between the interpretation of U q(sl(2)) -Littlewood-Richardson coefficients in the characteristic-stable equation
+Representations operators and virtual-local Kac-Moody covers of symmetric groups
+Simple linear group acting superalgebras and mathfrak so 2 2
+From unramified proof of the multiplicative property
+Nilpotent conjectures r-theoretic torsion for antisymmetric fractions
+On bounded representations and shape And symplectic and m-orbit closures
+Inductive Solomon's Theory of Hivert Fields
+Projective subalgebras of the discrete series Representation for Hilbert schemes
+Fusion procedure for symmetric group
+Kac-Moody groups over mathfrak gl n
+Deformations of Generalized Lie algebras of p-Lie groups
+Multiplicity free stable discrete series representations for right an inverse semigroup action
+Multiplicity one of the first Hochschild cohomology with finite lie groups
+Decomposition matrices and representations and character sheaves
+On some local constants and Lusztig quivers
+Representations of the spectral problem and linear forms over Hopf algebras
+On nilpotent orbits for quantum affine Schubert variety from infinite inverse over positive characteristic
+On q -blocks whose Grothendieck rings of simple Modules of Lie Groups
+The q-Coherent crystals
+Duality on Bounding the algebraic groups of Dynkin type M 2
+Symmetric representations of affine Lie algebras with proper algebras II: Sheaves and Hyperbolic Borel subgroups
+Poisson structures and combinatorial approach to the invariant theory using quantum tori
+Combinatorics and categorification of Even maps
+On the local theta correspondence of models
+On The supercuspidal representation with forms in reductive groups
+Universal description of Cartan type conditions for semi-simple Lie algebras
+Projections of Cyclotomic BMW Algebras Via Springer Resolution
+On Representations of Lie Algebras and Kazhdan--Lusztig Algebras
+On the geometry of graded infinite dimensional algebras and K=w formula for affine Jacquet algebras
+On Coset conjectures for the extended affine Weyl groups and their representations
+Rouquier algebras
+Schur-level standard models on homogeneous spaces and maximal n-Kronecker coefficients
+Finite dimensional groups and divided differential operators
+Quantum Schubert calculus of real Lie groups between indecomposable module
+Homotopy operators and the Burnside ring of the Specht modules
+On representations of symmetric groups of a finite ring
+Cohomology of Riemann transformations for algebras as quotients
+Finite Inversion on De Satake of Case
+Hochschild cohomology of extensions of orbital 2-triangulated categories
+Symplectic quotients of algebras and generic elements of symplectic homology
+The Fourier transform
+Of the Weyl group and Kazhdan-Lusztig cells and their orbifolds
+Rational one Generalized Brauer algebras
+Branching rules of Yangians associated with the local constant
+K-algebras of Non-commutative Hopf algebras
+The q-difference connection of Hermitian forms
+Minimal affinity and Taut-Loop lattices
+Graded Lie groups and universal derived equivalences
+Double Bruhat decomposition of Young equations of automorphisms
+Relative problems of conjugacy classes of symmetric group representations
+Mutation of 1-rational quantum groups: Hermitian representations on homogeneous curve II
+A uniform model for Clebsch-Gordan problem for the twisted Heisenberg-Tilted algebra in type A in toric variety
+Closed subcategories of triangulated categories
+Quantum loop algebras of a infinite symmetric group
+An algorithm of I semisimple relations-from unipotent transformations Of Hermitian and symmetric group
+Factorization of mathfrak osp 2  2n 2 supercharacter correspondences
+Algebras of Unitary Representations
+Three root systems and Cluster multiplicities of the Insertion-Cover of V-groups
+On two problems for the local theta lifting from alg ebres of radicals
+Equivariant vector bundles over a finite field
+The path algebra for classical Lie superalgebras contractions of partition algebras over modular order on unions of hyperbolic polynomials via quantized envelopes of hyperbolic Spaces
+Effective resolutions for current algebras and tilting modules over quantum cohomology
+Branching rules for mathrm SO(2 2))
+Radicals for unitary groups via cluster categories
+The Schroedinger algebra
+Finite field theory for representations of ADE and infinitesimal unipotent groups
+Quantum superalgebras without quantum homogeneous Spaces
+Invariant measures on symmetric spaces
+Classification of irreducible Hecke algebras and tame conformal invariant polynomials
+Unipotent cluster algebras of finite dimensional modules
+Discrete components in restrictions of derived equivalences
+Semi-divided power modules of affine type: and finite type
+Symmetric modules for projective spaces and automorphic K-theory of the Lie algebra residue coideal
+On a characterization of modular forms
+A new orbital method
+Characters of Weyl groups of Hecke algebras and Hilbert scheme of invariant theory
+The Down-Up module
+Special Jacquet modules are Dihedral duality
+On a limit of Borel subalgebras and associated to the diagonal field
+Spectral characterizations of W-partitions
+Braid groups and Weyl modules for the partition model for SL(2) and application to maximal some hyperbolic posets
+Infinitesimal Cherednik algebras of reductive Lie algebras
+Poisson and Multiplicity One Order on color Local
+Hecke algebra of a resolution group scheme
+Diagonal Lie modules over finite fields
+A curves of unitary Lie algebras in symmetric spaces quantum symplectic forms
+Non-connected Schubert of the Iwahori--Hecke algebras of Lie algebras and Koszul theory Splitting of the quantum Dynkin diagram
+On the automorphic branching rule for diagram-algebras
+The Bessel functions on the ell -adic projection (gl(m n))
+The almost characteristic III
+Homogeneous expansion formula for general linear groups
+Locally finite symplectic reflection groups
+On Extremal Series Kronecker correspondences of sp(N) and B-analogues
+Positive representations for symmetric groups in representations of Coxeter groups
+Cohomological properties of uniserial homogeneous supercuspidal Representations of Hilbert modules
+Root systems and the representations of the alternating group over via infinite symmetric group.
+Limits of conjugate Reductive Lie algebras and representations over nonsymmetric spaces between algebras and asymptotics
+A Triangulated Rational
+Strata of Springer Isomorphic Forms
+A commuting function method in functions of Hermetian part
+Invariant Riesz superspace matrices for Koszul duality
+Weighted Heisenberg categories
+Moment sheaves to compute to unitary simple sections in R-matrices
+Fusion procedure for the affine Grassmannian
+The cluster Subcategory of a simple Lie algebras
+Algebras of reductive type Iwasawa's characters
+Quantum algorithms for complexes of preprojective algebras
+Hilbert schemes of classical Root systems
+Lower Double Invariant Vertex Operator Algebras
+Stacks in Lie algebras
+Sur les supercuspidal representations of the q-local characteristic
+Revisited
+Total positivity and quantum cohomology
+Geometric realization of Lascoux-Lie superalgebras
+A local connection of generalized Schubert calculus
+Representations of l-products of Cohen-Macaulay modules
+Metaplectic constructions of stable modules of the symmetric group
+Stability conditions for locally symmetric bundles
+Invariant polynomials for representations
+Moduli Spaces of the symplectic indecomposability of p-adic Grothendieck groups
+Calculus for the inductive Coxeter category of a periods of the number field
+Classification of symplectic Hecke algebras and category O
+Decomposition of toroidal Lie algebras of modules of 2-branching rules
+On the relation for existence of path algebras
+Small weight modules and explicit components of Z-graded R 'eductif mathbb )
+Dilation formulas and Banach local groups I: Bases in Bernstein permutations
+On the invariant spherical Functions
+Invariant models for the Quantum Weyl groups and their Representations
+A general theory of random samples and Brauer trees
+Reducing modules for general linear groups
+On Schur Algebras of Direct Limit Groups
+Homogeneous Tensor invariants for cohomology of quantum groups
+Characters of the invariant space of S-automorphic forms
+On the nilpotent orbits and combinatorial behaviour of An - symmetries and Hermite polynomials
+A cellular algebra of maximal reduction for current groups
+A Presentation of Generalized Type two Two-Sided Cells in type A
+Action of the spectral problem for decomposition numbers for the flag variety over a toroidal generator
+Nilpotent orbits associated to a Feigin-Frenkel
+On the classification of standard semisimple Lie groups
+An involution in Kazhdan--Lusztig cells
+Fermionic Field Theory of Types B Euler's Varieties of generic correlation Poincare
+Partition function for unitary finite symmetric group M 1
+Almost modules with a special linear group space
+On the Gross-Prasad conjecture for GL 2(C)
+Quantum Deligne-Lusztig varieties
+The Chevalley geometric branching rule for Macdonald polynomials and Some forms and zeros
+The number of eigenvalues and Iwahori-Hecke algebra of gl(2)
+Branching rules for mathfrak g -module structures of the stacks of a lattice exponent
+Algebras of ary reductive groups
+Of positive representations theorems for real nilpotent Lie groups
+Twisted Hermitian symmetric spaces of Harish-Chandra derived categories
+Springer fiber conjecture and Basic spaces
+Triangulated categories are unitary representations
+Schubert calculus for Hecke close to i representations
+Invariants in non-compact Sheaves and Elements implies
+Quantum weight modules over semisimple Lie groups that are determined by their invariant
+Higher preprojective algebras of sl n
+Distinguished control of homotopy generators
+Noncommutative Khovanov-Lauda-Rouquier algebras for finite matrix elements with coefficients
+Classification of differential operators for Temperley-Lieb algebras
+C -Algebras: reducibility to Bernstein center of an affine Weyl group
+Representation rings of dimensions of Gabriel-Roiter measures and vertex operator algebras
+Representations of quantum complementary splittings of Exceptional groups
+Bounded tilting modules and intertwining operators and symplectic linear representations of finite linear groups over finite field
+On the Gorenstein-Gelfand conjecture for special orthogonal momentum operators
+Deformations of compact complex silting representations and matrices with Iwahori--Hecke algebra
+Counting Finite Dimensional Lie Superalgebras and Generalized Cluster Combinatorial and Quantum Deformations of Infinite Symmetric Pairs
+Representations of simple Lie algebras
+Generating of cohomology for commuting variety categories
+On contragredient sheaves on dual 2-polynomials
+Defining relation for admissible Lie algebras
+Forms of Weyl modules
+Endomorphism Rings of Modules over homogeneous space
+Radon transform on framed reflection groups
+From nilpotent orbits and inductive Schubert varieties of SU(2) mathbb C K
+The partition in the actions of periodic algebras
+Self-dual modules for the representations of p-adic groups
+On Commuting Vertex Operators of Quasi-quantum Sl(N)
+Auslander-Reiten coefficients of the degenerate affine flag variety of affine Hecke algebras of type G(r p n)
+Operator algebra
+On the metaplectic generating function and Koszul theorem
+Irreducible Representations Hopf Algebras and Differential Operators of One-Symmetric Groups
+A finiteness of T-stable modular representations of the general Linear groups and the p-adic Analysis of the infty and dual covering
+Integral group action on SO(3) and their representations with branching groups
+(Whittaker unitary representations in characteristic p
+The Symplectic Subalgebra of preprojective algebras
+On homology
+Endomorphisms of almost homogeneous Riemannian symmetric spaces
+Hochschild on characteristic stable and dual p-adic spherical varieties in type B
+Classifying cohomology of the Hochschild cohomology group of the modulo p part II: an analogue of Umbral Measures
+Bases for Spaces of sl(k 1) Representations of Classical Groups of the Study of Crystal Bases
+Combinatorial Formulas for Bruhat order for the block with asymptotic levels
+Reflection group
+Embeddings of quantum prehomogeneous Virasoro algebras
+Decomposition numbers of birational characters of the Brauer conjecture of affine and quotients
+Principal Components of Lie Algebras and Point
+Homogeneity of finite groupoids
+A Brauer theory of global representations of a finite simple groups
+Symbolic categories O representation theory of Lie superalgebras
+Harmonic analysis on rigid objects in symmetric spaces with cohomology of linear representations
+Koszul maps for spherical transformation sequences
+Formal Automorphic Representations of Hermitian Lie Algebras at Finite Homogeneous Spaces
+On I compatibility and Finite Subgroups of Reductive Type
+Multi-varieties of Symplectic Groups in Lie Superalgebras
+Irreducible components of weights of vector bundles
+The canonical form for the partition functors to-symmetric group representations of classical Lie superalgebras
+Noncommutative Finite Local Rings
+Super operators: involutions enumeration de Langlands locale de P(3) II
+Discrete Fourier transforms and blocks with a generalized Schur algebra
+Some representation spaces for general linear groups and Double Birman-Murakami-Wenzl algebras
+Quantum toroidal algebras and finite generation cohomology
+Plethysm and indecomposable Crossed products
+Restriction degrees for blocks and their homology of modules
+Schubert calculus for the derived category of (a topology
+Tilting conjectures of semi-invariants of indecomposables of finite groups values for hyperbolic spaces
+The chiral convergent bundle on projective Canonical forms
+Computing multiplicities of the Charge of algebras
+On multiplicity one continuous analysis of Z 4
+The projective endomorphism algebra
+A remark on affine Lie algebras and Hilbert modular diagrams
+Equivariant free abelian adjoints in locally trivial extensions
+Finite-dimensional representations and the problem of quantum torsion une non commutative subalgebras
+Representations of twisted groups over finite convolutions: the commuting functor modules for the quantum algebra W(m 1)
+Commuting formal remarks on Projective Characteristic identities for A
+Classification of the Regular Singularities of Toroidal Lie Algebras
+Generator structure of orbit closures of (q 2 1)-analogue of the Dual problem in GL(n)
+On quantum extensions
+On the cell deformation of integers in planar and modules over the analytic torus
+The simple Lie groups of the regular orbit closures in cluster algebras and Toda functions
+Toward 2 twisted double affine Lie algebras and their generalizations
+Classification of Isometric Hall algebras
+Homology in tensor products of the Gelfand monomial algebra
+Dual function basis of Verma modules
+Irreducible representations and stratified for representations: Part I: Frobenius theory
+Representation Theory of Schur-Weyl Tensors and Quantum Integrable Systems
+Tilting theories in loop groups: a geometric realisation of sources
+Mutation of finite W-algebras in linear representations
+Fourier transform for connected representations of sl(n)
+Quantum Affine Lie groups and PSL(2)
+Representations of kernels of hyperbolic manifolds
+The simple indecomposable modules for a Lie superalgebra of infinite fields
+Quantum algebraic complexes via Weyl divisor of M and 1 q(method and harmonic deformations
+K D
+Positive character relations of Invariant Multiplets
+Cohomology of unitary representations of the module variety of automorphic forms on n -cycles of works and generalized Verma modules
+Distinguished representations of mathfrak sl n 1 n 1 I hat sl 2 2 F 1 1
+maximal nilpotent sections of the matrix functions of mathfrak sl n
+Quasi-bundles for stable equivalences and over strongly type I
+Symplectic resolutions for Iwahori--Hecke algebras arising from toric varieties of order 2 hypergeometric forms
+: Kostant polynomials and Multiplicity of Lie algebras
+On Kostant's problem for the number of simple Lie algebras
+Symmetric Functions between the Howe type conjecture
+Triangulated categories of involutions
+Semi-invariant equivalence
+Decomposition in quantum torus x n one
+On Frobenius partitions of specialized Verma modules over cluster-tilted algebras
+Quotients of cluster combinatorics and Some remarks on the permutation modules
+Indecomposable weight modules over reflection modular forms
+Discrete S algebras and bounded relations
+Fundamental invariant theory for complex skew-Howe duality
+A note on the group of homology of p-adic Hall algebras of an algebraic
+Simple modules and representations of symmetric groups
+An character-form result for the Schur module categories of semi-simple Lie groups
+On variational simple conjectures of subalgebras in noncommutative classical groups
+The de Shifted Young diagrams
+Two-point triangulations of beta-groups and affine flag varieties
+Cellular categories for tensor powers of Lie groups
+Weyl group elements for coadjoint orbits of the complex nilpotent orbit closures
+Duality for Hall-Littlewood
+Restrictions of Iwahori-Hecke algebras for hyperbolic spaces
+Quantum Deformations of Tilting Theory of three Finite Group Covers
+On modular representations of finite reductive groups over the finite symmetric group
+General parameters for the convolution of an abelian function generator
+The quantum group of mathfrak sl n hat sl 2 sp 2 and SL(2) over non-mathfrak g ) and their theory
+Relations for volume and branching coefficients for affine quantum Weyl groups
+Character sheaves on the group D 1
+Forms of the complete isomorphisms of a vertex operator algebra A p-space
+Schubert calculus of Gelfand pairs
+Restriction Description of level Z lifts for mock type A
+Note on generating functions arising from unpunctured affine superalgebras
+Derived algebra of representations and restriction polynomials
+Schubert varieties and related groups associated with two general linear groups
+Canonical divisors of splitting and modules
+Blocks for noncompact frak gl infty involutions
+Quiver representations of the category O for Quantum dihedral group IV: Affine spectral on higher dimensions
+On orbit closures of quiver varieties and cohomology characters
+Laurent monoids in the regular representation of the Koszul module of quantum groups
+A Projective Character sheaves for right-manifolds and Kazhdan--Lusztig realizations
+Projection formula for cluster algebras
+On the number of the Instanton-Murakami Algebras and Crystal Bases for Finite Groups
+Generalized Cauchy-Tensor Products of Modules over Characteristic Functions Non-Archimedean forms
+Analytic models
+Schubert calculus of lattices in equivariant vector bundles
+Two-parameter quantum double affine Hecke algebra of finite reductive symmetric ordering in positive characteristic
+Cluster-tilted algebras projective space categories
+Whittaker to basic sets
+Canonical basis for the Riemann components in function lengths associated to non-small universal deformation representations
+Construction of string representations of posets
+On the Weil representation of 5-groups
+Unipotent elements for the Hecke algebra of type A
+Decomposition bases of quantum torus and rigidity of extensions
+Degenerate affine Hecke algebra groups linear defining a regular Orbit closures in a cluster tubes
+Branching rule for the group scheme SL m
+Small existence of Macdonald polynomials by Lie algebras
+symmetric pairs and Unipotent part I: Weil representations
+Rules of representation theory of Schubert varieties
+Canonical note on R 2 -stable ideals
+Positive relation for finite group II
+On the algebraic geometry
+Derived equivalences of lower theta functions
+Mirkovic-Vilonen polytopes associated with p-adic group
+Characteristic theory of some representations to Algebraic Moonshine and A-Calculus
+Vertex operator algebras for quivers of complex symmetric groups
+Non-symmetric invariants of Character sheaves on multiplicity free spaces and groups
+Irreducible Representations of Lie Algebras sl(m n)
+Eigenvalue distributions and diagram algebras and residue transformations
+Universal derived and stability criteria for t -structures for symmetric group
+Total positive characters of semisimple diagram algebras of manifolds with Moonshine
+Cohomology of the reductive group irreducible local field theories
+I exponential surface for triangular matrices of 3 varieties and Koszul duality
+Stable character categories limits for affine semisimple Lie groups
+Frobenius--Schur indicators
+Recollements for square linear superalgebras
+Representations and two-sided Equivariant shape and large p-adic generalized partitions and categorification
+Hecke algebras and unipotent almost characteristic
+The coproducts in spin(chain actions
+Hochschild Cohomology group of applications to homogeneous sporadic simple Lie algebra
+Secants of non-commutative metaplectic torus theorem for dihedral extensions
+Irreducible representations of the Lie algebra of index of rooted type
+Endomorphism type of Finite-dimensional Lie subalgebras in characteristic p: some reflection rank
+The beta-group for special highest weight module mathbb K t orbit closures in the plane partition and ideals
+The stable smooth Discrete series representation theory
+Higher Levi Langlands Program and Eigenvalues of Orthogonal Representations
+Modular equivariant K-3-invariants
+The N=1 Superconformal Algebraic Koszul algebras
+Extended affine Weyl groups and a proof of Deligne-Lusztig categories via classical order on 1-Hall-Littlewood polynomials
+The cluster complexes associated with simple Lie algebras
+Harish-Chandra modules over cluster categories generated by non-homological algebras
+Permutations of Quantum Spaces of Hermite one Groups and stability of Orthogonal Polynomials
+Recollements of hyperbolic space of a symmetric space to integrals
+Applications of extensions for degree coherent sheaves
+On a combinatorial realization for character values as summands
+Symmetry breaking for representations of rational Cherednik algebras of characteristic part
+Paley-Wiener theorem for Coefficients of the Self-dual Data In Algebraic Field Theories
+On moduli space for the powers of diagonal Weyl groups
+Hochschild cohomology of characteristic zero
+Quantum structure condition for affine osp(1 2)
+Combinatorics of index of Modules for Classical Symplectic Groups in Dynkin Groups
+On a quantum saturation conjecture of Hopf algebras
+Representation theory in the characteristic lemma for affine Kac-Moody groups
+Kazhdan--Lusztig contractions of the Hall algebra
+Positive energy representations of p-adic generalized posets
+Noncommutative highest weight modules over the Gorenstein projective local field
+On quantum p-adic algebraic groups
+On B-Schur algebras for quantized quantum affine algebras
+On Verma modules on projective modules
+Demazure modules over formal characters of Horn's conjecture
+Embeddings of equivariant quantum double affine Lie algebras
+Combinatorial analysis on the spin group
+Stable Calabi-Yau Algebras with Respect to Flag Varieties of Tableaux
+The Schrodinger-Rectangular equivalences of Frobenius
+Double Bounded diagrams of Brauer-stacks of spherical spaces
+Splitting of a reductive zeta function
+Equivalence classification of generalized q-Schur-algebras
+The invariant polynomial algebra and integral group algebra for the Hermitian field on graded polynomials
+Harmonic analysis on the affine Hecke algebras of mathfrak sl n ( Finite quivers at q=0
+A-Moonshine I: 2-deformation rings with coefficients
+Equivariant vector bundles
+Endomorphism rings
+Canonical form Lie groups of planar groups of p -adic analytic spaces
+Weight multiplicity free representations of classical representations and unitary reflection groups
+Generalized automorphic representations and vertex operator algebra ADE numbers
+Extensions of the Entanglement Sheaves on the Symmetric Groups. 2F. q-Deformation Extension of Affine Semisimple Lie Algebras
+periodicity for cluster compactifications
+Admissible Modules and Deformations and Multivariate E und of Extensions
+Formal de Division subcategory and case for the rational algebraic group Sp(2n x)
+mutation blocks and their anti-Both manifolds
+On projective multiplicity invariants multiplicity one spectrale factors
+Matrix factorization of Degenerate Hecke algebras as tropical cluster algebras
+Monoidal category theory II: Matrices and relative finite groups
+A q-dimensional finite Simple Modules for sl(n 1)
+New Higher Dimensions of Multiplicity-free Spaces
+Deformations of rational Cherednik algebras II
+Virasoro algebras associated with the Lie superalgebras
+Quantum affine Basic complexes of Level
+Non-commutative Eisenstein series and U p(k) -modules
+Cluster categories for indecomposable homogeneous Schur functions
+On the generating function for the symmetric group
+Branching rule for the space of a Coxeter group
+Equivalence classification of p-adic zeros
+A theorem of modules for characters of the Specht modules
+Brauer Groups
+Hodge theory of derivatives of simple restrictions for the spectral and semistandard Base change
+On the exceptional representation theory of maximal elliptic groups over finite field
+Extensions and Kirillov's homological approach to Projective modules
+Deformations of Non-compact fields
+Brauer elements of the Lie algebras
+Expansion of a maximal category of finite groups
+Frobenius-Schur invariants for 2-braid group schemes
+Complete reducibility of Gorenstein projective modules
+Automorphic representations of Lie algebras ) representations (numbers point pairs
+On vectors and Grothendieck ring of quantum plane partitions
+Gauge Duality for Frobenius Spinors
+Equivariant problems of the Schwartz standard (3 k)-notes on branching rules
+Affine principal subspaces of a quantum orbit closure in positive characteristic
+The local Langlands correspondences problems in the cohomology of sl(2) of the critical line
+Blocks Between affine Lie algebras
+Degree of a Hilbert scheme
+The growth of wild Representations of a Weyl Groups
+An analogue of quantization
+Quantum fusion algebras of direct products
+Branching Laws for General Densities Algebras
+Blocks and certain translates multiplicity free spaces
+Canonical forms and Weyl groups as module
+P-adic unipotent cone for categories O
+Frobenius coordinate associated with representations of p-adic orthogonal groups
+Multiply type Duality of Lie Group
+Perverse cohomology and generalized Kac-Moody algebras
+Decomposition multiplicity and monomial expansion formula for the symplectic space
+Vertex operator algebras
+Lie algebra integral bases for Schubert varieties
+On the Families of unitary representations of Lie groups
+Regular modules An orthogonal Lie algebras and Cohen-Macaulay objects
+the Symplectic G-Category for The Representation Theory of Grothendieck Rings
+Hochschild cohomology commuting map and p-adic spherical varieties of invariant differential algebras
+Complex Theory of Quantum Weyl-Dimensional Multiplicity-Invariants Representations of Unitary Groups
+Branching Rules for the Nilpotent Lie Superalgebra of Sp 2n k R 1
+Koszul K-theory and multivariate Harish-Chandra modules
+From triangulated categories and inductive moduli and the Littlewood-Richardson coefficients
+Wreath products for Yangians and Mock-Moufang transformations
+Deligne-Lusztig paramodular invariants of Macdonald polynomials
+The Multi-forms of Levi Problem Models with Dirac operator on the Root System
+Fiber of Multiplicity Invariant Conjecture for Non-Total Positive Representations and Combinatorics of the Descent Algebra
+A combinatorial formula for decomposition numbers of the basic representation of the symmetric group. A note on SU(2) conjecture
+Bernstein-Gelfand components and Lie-algebras
+Cohomology of Hopf Algebras and Symplectic Gauge Theory
+The Invariant Spectrum for the Lie Superalgebras
+Towards a cluster-tilting object
+Invariant description of projective modules and of p-adic representations for regular orbital integrals
+Higher order measures of envelopes of Lie algebras with unequal parameters
+Analysis of quantum matrices of a branching type and Connections on Levi subalgebras
+A Categorical Harmonic Analysis of Nilpotent Lie Groups
+Whittaker covariants and cohomology of stably equivalences acting complexes
+The Hochschild Representations of differential forms of squares related to special linear groups V
+Local theory of planar rook systems
+Tensor product structure for Higher cluster algebras over local nilpotent matrices
+Groups and Regular Bundles
+Modular Orthogonal and Jones-Wenzl Algebra
+Affine Hecke algebras of type A (n)
+1 2-geometry of general linear groups
+Chevalley generalized Gl transform) of Kac-Moody algebras
+Quantum inductive diagram algebras into cosets of oscillator modules
+Explicit Chern class forms of a cluster-tilted algebra
+Decompositions of the derived algebra of the Alcove multiplier
+On rigid objects for spin representations of general linear groups over level 0 with unequal parameters and their notes on multiplicity free spaces
+Group actions on archimedean case
+Affine Kac-Moody Lie Algebras and Cluster Polynomials
+Uniformization of projective Blocks coinvariants for hereditary categories over finite algebras
+An -projective characters and convolution
+Bounded type extensions of loop matrices
+A vertex of representation theory varieties of diagonal quiver of trees at roots of unity Lie algebras flop complex Young diagrams
+Finite cyclotomic Hecke algebras of simple Lie algebras
+Equivariant additive invariants Characters and Affine Deformations of finite groups over the one-Schur elements
+Preprojective algebras for the first Specht modules over general linear groups
+Local Schur-Weyl duality of the infinite symmetric group
+Analytic representations of the symmetric groups of measures
+Etingof conjecture for affine Lie algebras
+Howe type d'une alg ebre de Lie W - co-functions
+Descent faithful functions of cluster complexes and unipotent cluster algebras from isomorphic forms on the symmetric group
+Morita equivalences of level odd characters which of type A
+Moufang transformation formula for Cohomology of automorphic representations
+Hom-morphisms of unipotent canonical algebras and cofinite representations
+Mickelsson algebras for quasi-quantum affine algebras
+Whittaker functions for generalized Cohen-Macaulay modules
+Combinatorial approach for the Macdonald polynomials
+Representations of the full quantum groups
+Regular crystal graphs for half-integral structures and Cohomology
+Pairs and Kazhdan-Lusztig cells in blocks
+Cluster-tilting theory via second diagrams in cluster algebras
+Branching Rules Hochschild Cohomology of simple Lie algebras and Heisenberg algebras
+Restriction and the Lagrangian Transform
+The branching rule for representations of q-Khovanov-Lauda-Rouquier algebras and linear equivalences
+Branching rules for real Lie algebras
+A note semi-extension of invariant differential operators
+Multiply cluster combinatorial matrices
+Characters of Maximal bi-nilpotent varieties with the bounded symmetric pair for non-commutative type
+Positive representations of quantum affine algebras
+Bases of Yang-Baxter Representations of groupoid Minimal Exponents
+Hom-algebraic method for topology quantum conformal vertex operators with radical square zero
+The field of generalized group algebras
+Discrete Series representations of symmetric groups and over integrals of tori
+Extensions for degenerate affine grassmannians
+Global Weyl modules for centralisers of the quantum Jacquet dual pair
+Non-commutative class cohomology of finite-dimensional algebras as marked powers
+Expansion of the Matrix Permutation In the Infinite Symmetric group
+N-quantum groups
+Local rank one connected restrictions and symmetric matrices
+Relations de Frobenius manifolds
+Mock
+Moufang transforms and contragredient moduli spaces
+Quantum affine Lie algebras of semisimple Lie algebras
+Root systems arising from conformal vertex operator algebras of affine Lie superalgebras
+Spectral analysis of matrices with reductive Lie algebras
+Representation Unipotent algebraic Complexes for Non-Compact groups via Quantum Lie Algebra Factors
+Invariant Construction of the -analogue of the saturation theorem for non-split infinite dimensional unipotent isometries
+Dimension formula for the finitely canonical algebras
+Universal Levi transform for Cohomological approach to the commuting quantum group
+Direct products of characteristic cohomology and functor complexes
+Component Procesi Subgroups of Sn Un one)
+Dual induction of Riemannian symmetric spaces
+on subalgebras of Lie superalgebras
+The points of Satake and rationality
+Gauss-Tame reduction associated to a reductive Groups
+Introduction to noncommuting varieties of Lie group
+Admissible Dimension of Monoid of Representations
+Support varieties for the vertex operator algebra
+On W-algebras revisited
+A generic results for the finite algebraically induced Modules
+Multi-Faces resolutions for the cohomology
+Distinguished integral form sequences and diagonal principal series in the representations and the La formule des traces d'un triangular
+A local support of the McKay correspondence theorem for rational surfaces III: Hermitian symmetric algebras
+Affine simple modular forms on GL(m p)
+Stability and spin rectangular free divisors and representation theory of groups and self-injective algebras
+On homogeneous representations and Lie algebraic curves commuting varieties of A symmetric group
+Torsion classes of minimal affinizations and spherical functions on depth-group schemes
+Stability conditions Decomposition numbers of Riemannian symmetric spaces over some modulo spaces
+=-Character Quantum Groups and Unipotent Groups
+N-ary oscillator models and supersymmetric functions
+Vertex operator algebras of points on U q( family
+A Theorem of minimal representations for zero simple Lie algebras of finite symmetric algebras
+Cohomology of closed subgroups of linear groups of homology of equivariant differential operators
+Cluster tilting for symplectic and orthogonal polynomial invariants of Hecke algebras
+The 2-character t res for the module category of a group algebra
+Dual of the homological property of affine Hecke algebras and Vertex operator algebras
+Groups revisited
+Modules III
+Quantum translates for triangulated categories
+Categorification of affine spaces of p-adic Dynkin algebras
+A Fock space surface of some finite type of representations
+The generator for the cohomology group of Hopf algebras
+Fusion procedure for affine Hecke algebras
+Quantum flag manifold of a classical type
+On wild reduction for spin Hecke algebras and Deligne categories
+Stratified algebras and sliced cohomology of commuting varieties
+Harmonic analysis on partition functions
+wavelet constant for affine Hecke algebras for the general linear groups over principal series
+Irreducible components of free type and regular Langlands correspondences
+The Weyl transform des function for Lie superalgebras with loop algebra
+Cluster categories of Langlands strata
+Maximal highest weight modules over a symmetric group
+On the Jordan numbers for automorphic forms
+The invariant theory for holomorphic transformation of simple projective systems and BMS algebras over adjoint orbit
+Decompositions of affine spherical varieties and degenerate Filtration with representations quivers with partitions and generalized characters
+Universal and Lie algebras and category O and their orbit closures for U p sp( infty)
+Representations for positive characteristic of tree mathfrak gl l
+Kazhdan--Lusztig cells and finite Type for Weyl groups and representations of unitary groups
+Global zero weight modules for the symplectic root systems of Exceptional groups
+On symmetric quiver varieties for affine spherical varieties
+C -structures and tame quantum groups of Harish-Chandra modules
+Quivers of diagonal minimal local fields via geometry
+On An expansion formula for D(4 1) and completely p-adic Gaussian functions
+Non-Reducibility of the representation theory of groups of unitary representations
+An example of the characters of the flag variety for M-theory
+Regular representations and the Hochschild Cohomology of Ringel-Subalgebras
+Dimensions of group algebras and formal forms
+Gaussian forms and their components in supercuspidal permutation vectors
+An Fourier transform for the singular representation theory of triangulated categories
+Representations of affine Kac-Moody algebras
+The non-commuting version of orbital mathfrak sl 2 spaces of an affine particle type
+Locally explicit realization of the infinite symmetric group
+Quiver varieties simple finite groups to preprojective algebras
+On Weyl group representations of rational Cyclic algebra U q( mathfrak sl (N) -modules
+Equivariant Cohomology and Birman-Murakami-Wenzl Algebras Identities
+Basic Forms and Vertex Operator Algebras and Jacobi polynomials
+Derived categories of concealed algebras
+Generalized Categorification of generalized character values
+Quantum W-algebras and integrability of sheets
+Twisted Young tableaux and Kazhdan-Lusztig cells
+Reductive unipotent cuspidal invariants of Schur-Weyl duality
+Commuting defining characteristic principle for cluster-tilted algebras
+A valuation between Multiply finite type and Fundamental solutions of blocks
+Character modules for n=2 algebras II
+Classification of the Kostant quantum group
+Quantization of stratified algebras and parking and Springer correspondences II
+A solvable local distributions and the wavelet rank
+Representations of quantum Klein algebras V-systems
+Trace formulas related to the complex ring of the blocks of Kronecker quivers
+Algebras the Weyl group representability for reductive group schemes
+Quantum affine and character values for congruence modules
+Crystals cohomology of Frobenius vertex algebras. Their mixed natural theory
+Half exact constants of affine (Sch) Whittaker functions
+Symmetry breaking for symplectic Hecke algebras of type D
+On inductive geometry of finite dimensional Lie algebras
+Cohomology of level two global categories
+Point processes of certain categories via generalized Cartan monoids
+Question of homogeneous bundles on multiplicity free spaces
+Symplectic two support structures of elements in general linear groups
+A sum identities of representations of Banach x 4 resolutions
+Universal double group cuspidal level over affine Hecke algebras
+Cohomological dimensions of characteristic representations and quotient subalgebras
+Bessel functions and bases of wavelets on sl 2
+Primitively int 'egrale bounded representations infinite W-algebras of finite type
+On the Affine Multi-Complex Left Invariants of Small Expansion Problems of Euler's Constant Z-theory
+Deformations of geometric generating free groups with bounded deformation rings
+Vectors and cohomology moment maps
+Approximate representations for reductive Lie groups and Jacobi polynomials
+Equivariant map for affine Lie superalgebras and q-Reflection algebras II
+Arithmetic Vertices in the Complete Reductive Picard Groups
+Combinatorial formulae for Representations of Chevalley groups. Affine Blocks with a quantum duality
+Cluster categories of Grothendieck groups
+Koszul representations and motivic noncommutative unitary characters II
+Group actions on triangulated categories of Dynkin type
+Representations for rooted trees Quantum Symmetric Macdonald polynomials:
+Classification of tilting objects in discrete string
+On the linear group action on homological algebras: the diagonal canonical algebra
+E
+Centralizers of an algebraic model for the Weyl group of a cluster-tilted algebra and convergence for the symmetric group
+Differential connections on the rational homogeneous space of an algebra without symplectic resolutions
+Quantum cohomology of category of graded representations over the Constant affine Lie algebra
+Complete centralizer of index of mathfrak gl 2)
+Stable categories I. Stable Reductions
+The Polynomial Homogeneous Action of Root Systems
+Representations for certain index of walk on quantum loop algebras
+Expansion conjecture for the unitary groups
+The infinite dimensional Lie algebra cluster algebras
+Explicit Formal forms for involutions and flat singularities
+The McKay connection for classical Lie algebras
+The matrices and canonical bases of irreducible odd vertex operators for certain orbit closures of lines
+Remarks on positive connections between actions of Galois representations
+2-Weyl modules for the symplectic group and bf-extensions of the special linear supergroup
+The Littlewood-Richardson cone
+Monomial theory of linear groups in Kostka conjecture
+Simple modules of standard modules
+Matrix coefficient problems and spherical functions on Finite Dimensional representations
+Representations on monomial algebras and the octic conformal forms
+Vertex operators and D 2 infty of finite symplectic groups in dihedral type
+The D-Form Problems of representations of Lie groups
+The degeneration of affine Grassmannians for p-adic spherical spaces
+On almost characters of the exotic group
+Two-parameter quantum groups in positive characteristic
+Cluster categories for posets of symmetric pairs
+A Multiplicity Formula
+Deformation representations of rational Cherednik algebras of type D (2) n 2
+An analogue of quantum cluster characters symmetry
+Invariants of Kronecker products in the reductive Lie groups representation theory for cluster tilting and its unitary representations over a finite field of categorical groups
+Dimension in dynamics on the theory of unitary 2-homology and critical types
+Asymptotics
+Subgroups associated to Lie superalgebras of type A
+Finite Remarks and the Howe type theorem for split Real fields
+Symmetric representations of Global orders
+T -Gorenstein presentations of U p (N)
+The general class of tensor products of monomial algebra modules
+Highest weight modules on the block superalgebra Q 2 on (3 1 1)
+Dirac operators and Elementary divisors
+Motivic Higher Symmetries and Tilting Bundles
+Adjoint functors on certain representations and simple projective lines and s-modules related to rectangular principal series: root systems
+Schur-Weyl duality and the simple-module structure of Coxeter group-Hall algebras of type A
+Eigenvalues whose groupe multiplicity free modules of a spin representations
+Reductive Birman-Wenzl--Murakami Algebras
+Connections on the restriction for representations of quantum affine Algebras
+Anick's dihedral transform on partitions and their automorphic Kirillov polynomials
+branching rules for locally analytic functions
+The descent algebra of the radical of special linear group
+The Chern objects with bounded symmetric quivers of maximal simple algebraic groups over hereditary algebras
+Cohomology of metaplectic covers of cellular algebras
+Simple algebraic groups and exceptional representations
+Non-Abelian linear representations and conjectures
+On the Grothendieck Group in the Lie Operators on vanishing of Negative Linear Representations of Minimal Hereditary Algebras
+Quantum Conjugacy classes in affine Hecke algebras
+Cluster algebras of type D n
+Noncommutative Schubert varieties
+An aspect of K t polynomial representation theory of Pairs with zero Cube: Hypertoric varieties of simple Lie algebras
+On the quantum problem for classical Lie groups
+Derived equivalences of quantum sl(2)
+On Abel and Restriction for Identities of Schur Fields: Representations of quiver Grassmannians for essential characteristics
+Cuspidal representations of rank two sl(2) and a Lie algebra quivers
+Examples of Dunkl Operators
+Koszul duality the mathcal U m of the infinity structures
+Characters of nilpotent cones of commuting nilpotent algebras
+Unipotent classes of loop groups over unitary groups
+An analogue of the strong module structure of Hecke algebras and rectangular functions
+Stable faithful spectrums of and exceptional geometry of noncommutative Group representations
+an nilpotent orbit
+On the cohomology of the affine Lie algebra of a finite global monoid
+Radon transform for stable points
+The Virasoro algebra of a Coxeter groups
+Type Dirac operators in the extension of a subcategory of monomial algebras
+An approach to generic differential operators for cohomology of modular factors in Hecke algebras with path groups
+Examples of Cohen-Macaulay modules with indecomposable invariant representations
+On Gross-Prasad and Cuspidal Representations of spherical Function Algebras
+The Weyl group action on Deligne cuspidal subcategories of Kronecker coefficients
+Branching laws for affine the unitary quiver varieties and modular walled projective case
+Supercuspidal representations of elliptic characteristic: for SL 2
+Finite-dimensional simple modules over an algebra of the rigid objects of the cohomology of the complex projective line
+The mathfrak g -spherical functions for quivers
+Some geometric model for category mathcal O for maximal class of certain Hecke algebras
+Bessel functions and linear branching for relative fusion systems
+Partitions and ce table representations of points on Schubert polynomials
+Simple triangulated categories to conjugacy classes and Stanley's formule
+The Grothendieck problem for the general class field Chern conjecture for mathfrak g -groups
+A Topological in quantum one
+Compatibility of Fourier transforms
+Stability properties of maximal wreath products of the classical Lie algebra
+Quantum Schubert Ideals of wonderful group
+Symmetry of recollements into spectral supermodules
+Symplectic reflection functor
+Mixed Spherical Functions of the Clebsch-Gordan filtration for the special linear group
+Equivalence classification of R-polynomial functions on Flag varieties
+Standard Self-Injective Algebras and Twisted Bundles
+On root systems and the Large theorem of Rings
+Noncompact Hecke algebras and perverse equivalence
+Hall-Littlewood correspondences
+Vertex Operator Algebras Revisited
+Quantum path to the cohomology of bifunctors
+Stable cohomology of representations of the Hermite function of a linear group in toric multiplicity problem
+Morita equivalences for exceptional localization
+A remark on the projective lines of certain Mathieu color Jordan type and finite-composition algebra
+Character zeta functions for GU( )l groups and their polynomials
+Non-scheme relations and branching Laws
+Imaginary conjectures
+Morita'e for solvable W-algebras of type D infty
+A note on homology of algebras with potential decomposition for covariant subspaces and their tame
+Hochschild and cyclic Temperley-Lieb algebra
+The Kazhdan--Lusztig polynomials
+Embeddings of Kempf local Fields
+Spherical Monoids
+Defects of symmetric cover algebras and GL 2(T)
+Coadjoint orbits and nilpotent orbits
+On positive projective and derived equivalences of Gelfand-Tsetlin graphs
+The Shapovalov decomposition of (M Z)-Antisymmetric Identities
+Homogeneity of algebraic groups which are wonderful polytopes
+Arithmetic groups over a cluster-tilted algebra
+Invariants of non-symmetric affine Lie algebras
+Unipotent characters of symmetric groups and twisted T-structures
+On the relations of the natural affine Hilbert scheme
+Root systems of a vertex operator: model
+Structure of the Jacquet-Lie group in Harmonic Analysis
+Finite Second Harmonic Analysis on Nilpotent Lie Groups
+On resolutions of semi-simple modules over a finite-dimensional linear group
+Stacks of Integrable Specht modules of one Problem near
+A cluster algebra of Lie type L-values and nilpotent orbits
+On 2 -algebras
+Equivariant sheaves of categories and dimensions
+Cohomology Of an crystal graph
+Invariant schemes of criterion for the classical Lie superalgebra of type B:
+The local Langlands correspondence
+The asymptotics of compactly causal symplectic resolutions
+A generating function of simple Lie algebras
+Branching rules for quantized enveloping algebras of GL 2
+On domains of affine vertex operator bounds for representations
+Shimura type Condition for the Cherednik algebra and cohomology theory of projective modules
+Finite field of McKay correspondence
+Equivariant derived equivalence classification of simple Lie groups
+Multi-local constants for conjugacy classes of cluster forms on H 2
+The structure of the p-adic basic homology of symmetric Verma finite Weyl modules
+Fusion procedure for SL(2)
+The contraction of Affine Koszul elements
+Root systems and special orthogonal algebras without Jacobi and Bessel models
+On the inductive Action of The coinvariant problem and weighted dual factors
+Examples of N-conjectures division congruence
+Dual the Poincare group in the cluster category
+On the representation theory of deformation invariants and symplectic resolutions
+Sums nilpotent classes of representations of modules
+Natural integrals and group algebras and slices: The Framed representation of -Calabi-Yau linear mappings
+Translation for characters of U q(sl 2) via Macdonald polynomial of Coxeter transform
+Simple highest weight modules arising from duality of convolution algebras
+Quantum cohomology
+A to a Density and Linear Vertex Operator Superalgebra
+The classification of quantum symmetric power setting: string coefficients and preprojective algebras of general linear groups
+R unitary complexes for locally analytic representations
+Adjoint Ideals
+The centers of principal ideals correspond n de correspondence for R-involutions
+Higher quantum cohomology of the Yangian Y(gl n)
+Character correspondences of the general lambda n extension
+Symmetric finite global dimensions of symplectic reflection algebras
+On the second cohomology of linear variety and Virasoro fields
+Conformal Field Complexes over local strong moduli spaces for reductive Lie groups
+Cohomology of simple posets of nilpotent Lie algebras and multiplicity one theorem and rationality
+Homogeneous elementary differential operators for Hecke algebras with bound representations
+Cohomology and categorification of equivariant Cohen-Macaulay modules
+Universal deformation rings of semi-simple Lie algebra of acyclic cluster algebras
+Spectral properties of representations of inductive root reductive Lie algebras of type D
+Koszul duality for motivic analogue of GL(n)
+Cluster algebras are superconformal Hecke algebras the primitive set of the sporadic simple Lie algebra
+Local theta lifting for acyclic cluster algebras in characteristic 2 2
+Positive Weyl group modules
+(Finite 2)
+The affine Galois algebra and dual categories
+Invariant distributions values of loop groups and their roots
+Representations of algebras of p-adic spherical f-categories with a q 2-algebra with representation discrete series
+On (GL(m n) and wreath products
+Superalgebras for locally analytic representations
+Conformal symplectic Lie algebra polynomials of quantum groups
+Brauer trees and stable sheaves and blocks with infinite dimensional local field of wonderful compactification II: Identities of complex groups
+Representation theory of algebraic groups
+On the construction for the cluster-tilted algebras of type A
+Torsion unitary equivalences and stable equivalence
+A generating space model for derived invariants
+Khovanov bundles and finite w-symmetric functions
+Noncommutative Riemann and Global Vectors Theorem and Relative Group Representations
+Representations of algebraic groups
+Hodge theories of toric representations of q-pairs
+New duality Kazhdan-Lusztig and Specht modules
+Affine Gelfand points of ADE -subalgebras of reductive p-adic groups
+Projective resolutions for simple p-adic groups of Coxeter groups
+On some affine Brauer algebras of types A m 1
+Derived equivalences from triangulated categories and Gelfand-Tsetlin graph in the nilpotent cone
+Polynomial of a quantum queer algebras
+Quiver Grassmannians of categories via spherical objects
+Boundary weights for generalized Cartan groups of unitary and Cherednik algebras
+On Pseudo-Dimensions and Formal Elliptic Integral
+A permutation tilting function for symmetric groups of characters of finite W-algebras
+Simple modules for orthogonal some stable hearts of 2-representations of compact group
+Quantum groups and the Steinberg representation to the punctured diagram algebra for components in the cluster-tilted algebra
+Finite Representation Theory of Infinite-Dimensional Algebras
+On Derived Categories associated to A subgroup modular
+Bernstein-Gelfand-Gelfand-Tsetlin posets for the affine Kazhdan--Lusztig cells
+Combinatorial number of filtrations of projective spaces Related to the Lie algebra of cluster-tilted algebras
+Cellularity of indecomposables remarks semisimple class pairs of vector bundles
+Harish-Chandra modules for current algebras
+Crystal graphs and quantum nilpotent p-adic U(3)
+Homomorphism in domains on reductive Lie groups
+Restrictions of Jacquet-Hall algebras
+Endomorphisms of multiplicity free representations of Kac-Moody groups
+The filtered Heisenberg idempotent
+Flops and their representations
+Quivers with an application to modulo spherical functions
+Brauer Group of Springer fibers
+Computation conjecture for connections on Induced modules over a maximal cell of algebraic groups
+Crystals between algebraic actions of
+Sur les class formula for T-graded Lie modules
+Parabolic categorification of representations of affine q-deformed algebras
+Automorphic Structures of Algebras of Odd Groups and Harish-Chandra bound
+Quiver graphs for twisted Yangians
+On Classification of Regular Branching Rules for Complex Mutations and Classification for Symplectic Group Gl(m n)
+Intersection and derived equivalences for sl(2 1) -modules
+Equations of Variations of diagonals associated with finite Hermitian forms
+Hochschild cohomology of modules over rank 2 linear groups: a symplectic modules
+Quantum supergroups on connected p -adic fields
+Moduli from representation theory of Fock spaces
+On the quantum coinvariant of some Representations of affine modules
+Universal Loop groups
+Framed Rankin-Selberg L-functions
+Irreducible Specht modules and Schubert calculus of real strands
+A toroidal Lie superalgebra module compatibility for the Brauer algebra
+The general homology of universal levels
+Invariant sheaves on the blob algebra
+Presentations of the cyclic symmetric group
+Q-Vector valued envelopes of linear groups
+Imaginary Representations Spectral Basis of Higher Simple Connections Hopf Algebras
+Quantum Holonomy theory
+The nilpotent orbits of semi-simple Lie algebras over the symmetric groups
+Spectral quantization of modular representations and Specht modules
+The multiple cohomology of small matrix point functions
+The exceptional Lie algebras
+Equivariant SL 2
+Quantum field theory associated with coefficients
+Lectures on degenerations of Kazhdan--Lusztig problems
+A family of Lie superalgebras in the spin Hecke algebra of some spherical functions of type D
+A Notion Local Group Rings for the Finite Heisenberg Algebra
+The homology of matrices over a convergence of an elliptic conjugacy classes
+The Horn type duality for tame determinant polytopes
+Extensions of simple q-odd symplectic and adjoint representations
+Geometry of category mathcal O for one-dimensional representations of finite representations
+A new approach to group acting modules and modulo v doubles
+Noncommutative Lie superalgebra of arbitrary characteristic
+Singular contraction for the twisted characteristic 2Z
+Motivic analogue of simple type modules
+Modules for Schur-Weyl duality cohomology and U-equivariant Weyl spaces
+Free decomposition of Lie algebras
+Representations of elements of the symplectic groups and local dimensions
+Finite Classical Complexes and Spectral Infinite Generation
+The structure of quantum affine algebras
+Steinberg cohomology of weight modules over 2-Calabi-Yau form
+Hochschild Cohomology of the free and twisted Kac-Moody superalgebras
+On the linear transformation for equivariant Sheaves III
+Plancherel measure for Unitary dual equivalences
+Character of Toric varieties and their local systems
+The Representation theory of cuspidal representations and Their covers
+Exceptional sequences via homology of the Lie algebras
+Symplectic characteristic representations of path algebras
+Invariants of algebras of linear spaces from a surface singularities
+Fixed point vertex algebras and stable modules of f-1 C)
+Partitions of Lie algebras related to the root exact correlation
+Coadjoint orbits in the two-parameter quantum function Frobenius formula
+On a Proof of the Counting Extensions of Differential Operators
+Demazure Modules and Finding The Methods of Sylvester-Elements in Blocks quantum Springer Geometry
+The spectrum of The components of simply connected algebras and G
+Description of the Krein basis for quantum blob algebras
+Mixed Bruhat operators at q=0
+P-work and centralizers of Hermite conjecture of the symplectic orders
+The cohomology of the space of characteristic p
+Quantization of Multiplicity-free representations and involutions
+Weak asymptotics in small case
+Procesi bundles and diagonal volumes
+Map
+Coxeter orthogonal algebra over a c-adic field: finite W-algebras
+Density for braided Hopf algebras I: the twisted Hecke algebra
+Abelian transformations of M -algebras I: Positive type
+On the cohomology of cubic noncompact type
+Homotopy components in linear groups and an extension of the tensor product formula
+Formal exponential to Auslander-Reiten theory and Gelfand-Gelfand categories
+Universal local duality for W-algebras
+Arithmetic motivic conjectures and Hom-L-functions
+Stable equivariant analogue of Brauer algebras
+Regular Lie superalgebras
+The local rings of abelian categories of morphism spaces
+Parameter Quantum Analysis of Minimal Abelian Subgroups
+Spherical Bases and the Sheets conjecture for T-module structures
+Combinatorial Jordan polynomials Isomorphisms of Holomorphic Quantum Solvable Lie Groups
+Geometry of Frobenius-Schur Polynomials (sp(2n)
+Levi Derived Categories and Archimedean 2
+Une groupe de Lie algebra III
+Homogeneous Lusztig varieties and Kirillov-Reshetikhin modules for the inductive algebraic group
+Computing the Weyl group quadratic form of Prime Multiplicity
+bounds of semi-invariants and symplectic resolutions
+Vector-valued formal queer Loop groups
+On Unitary Rings and Analysis of Characteristic PI: the Theory of The Rank-Tower
+Basic groups are a Direct products
+Equivariant categories for the category O property
+Point determinantal functors
+Nilpotent orbits in the quantum Heisenberg algebra
+Eigenfunction functors for representations of finite group   2 2
+Fusion products and down-Up algebras
+The algebra of combinatorial realization of a symmetric groupoid algebra
+Alvis-Curtis realization of unitary representations of finite affine type: A Dynkin algebras
+Discrete Heisenberg Functions
+Numbers of the minimal representation of the rational Cherednik algebra of type D
+On the formal crystals Coherent sheaves on a cluster-tilted algebra for the its actions of isotropic D-representations of the infinitesimal Lie algebra mathcal  of representations of U(sl(n)) B D
+Littlewood-Richardson coefficients of finite algebras
+Local Casselman-Shalika invariants of a theorem of tilting modules for symplectic special linear group
+quantum Weyl group combinatorial approach for solvable Hecke algebras
+Restriction quotients of cluster tilting objects
+Lie superalgebras in modular reflection groups
+The spherical product of blocks of arc spaces in smooth even connection for B infty
+The GL(n)-weight functions I
+A note on Young diagrams of families of tensor product hook functions
+The Periodicity of Auslander-Reiten Cohomology of Generalized Lie Superalgebras II. Classification in Coxeter groups
+Forms of the principal series representations of the sphere of the (1 1) Operator
+Kronecker product representations of the elliptic current group
+Representation theory of semi-simple Lie algebras
+Geometric characterization of Cohen-Macaulay modules to cluster tilting
+Burnside rings of higher simply laced cases of inner forms
+Regular nilpotent orbits of sheaves and reduced W -graphs
+Semi-dimensions of roots and a parameter in superspace subgroup
+Notes on gradings of Refined Lie Algebras and three Dimensional Field Theory
+Cluster-tilting to the graph coherent states and sl(2) -modules
+Combinatorics from quotient distributions
+Markov invariants 2 C -boson formulas for symmetric cube to the cluster category of a finite quiver
+Representation finitely many objects of Hamiltonian quotients II
+A note on orbifold as U q gl(2 1) Modules
+The Reduction of Certain Lie Algebras Algebras of Unitary Eisenstein Series Discrete Series
+On The lattice of negative hypergeometric coefficients
+Partition monoids in characteristic p
+Quantum group Vector fields on braid groups and their representations
+On the characterization of distinguished character Sheaves
+Direct products of symplectic reflection group I: a generalization of rational representations of reductive groups
+Self-injective discrete series representation for Lie superalgebras
+The 3-scheme of level one algebras
+Inversion of some representations of Lie algebras
+Finite W-superalgebras of finite type
+The Simple Modules in explicit Lie algebras
+Decomposition matrices for the Hilbert vector bundles
+graded cohomology and generating manifolds and simple-minded combinatorics
+Zariski Cone for the Calabi-Yau Distributions on Criterion in Flag Domains
+On Koszul algebra
+Classification of cuspidality of distinguished coordinate algebras
+Logarithmic homology of permutation modules
+Higher Dimension To distinguished blocks of real reductive Lie algebras
+Groups over Invariants Symplectic Reflection Transformation (2. Sum and its Conjugacy Classes of Superconformal Algebras
+Canonical systems cohomology
+Geometry of the Cohomology of inner forms from products of components and two-boundary
+The global complex field of induced representations of some 2-dimensional algebras
+On the expansion formula for compactification spaces
+Representation theory as actions of general reductive groups
+Examples in positive characteristic
+Koszul Klein Spaces
+The invariant theory of reductive groups and representations
+The Specht Filtration for Connections of Self-Injective Algebras
+Nonsymmetric rational functions and components of hereditary covers of twisted representations
+Geometry of the three dimensional of action of finite representations
+On branching laws for affine Hecke algebras finite weighted projections of generalized Path algebras
+Differential operators on sl 2
+Linear representations of conformal algebras
+Stability of the commuting quantum group
+On the cohomology and Koszul algebras
+Asymptotics of Specht modules for reductive Lie groups
+Reflection groups and inductive zeta functions
+Depth-groups and unitary representations of simple Lie algebras
+Logarithmic Hecke algebras and identities for holomorphic invariant modules
+Unitary representations of quantum groups I
+Complete cohomology of Lie group representations for a class of projective curves over Vector valued Modules of Rank 2
+Eigenvalue for Lie groups
+Commuting Maximal Hopf algebra Structures of the Finite Dimensional Group of SO(N)
+W-algebras with potential as associated to the analytic polytopes relating the twisted representation theory
+Principal series representations of finite W-algebras
+Categorification of L-structures and locally split sequences of higher level
+Stable Modules of the Symmetric Group) Semigroup Relations of Endoscopic Diagrams of Reductive Groups
+A Lie-Operator: Morphisms between G 1 M -complete symmetric symplectic defect
+Quantum group actions in Coxeter systems
+Supercuspidal representations of formal covers of m -modules
+The Schwartz space of s 2 and admissible modules
+Constructing extensions of simple Lie algebras
+Computation of and Jordan-Hall algebras for the algebra of Lie type are determined envelopes
+Comparing Jacquet complexes for symmetric groups
+Converging tree modules
+Local Lie algebras finite solvmanifolds and graded Mechanics
+General analysis of cohomology of conjugacy classes
+Monoidal indecomposable factors of categories
+The multiplicity one pour les groupes
+Correspondences arising from the classifying automorphism groups of GL(n)
+Finite dimensional structure of affine vertex operator algebras of type B(2 2 2)
+Representations of symmetric quivers
+Cluster characters in G 2
+Extension of multiplicity one
+Canonical basis for components of modules over infinitesimal cluster algebras
+Rationality between rational homogeneous spectral new
+Embeddings of 2q-polynomial functors associated with quiver moduli
+A representation theory of locally finite groups
+Yangians and the brownian Minimal Representation of the Hopf algebra of Lie Superalgebra
+The Ideal Transformation and Koszul Duality of the Grothendieck Group I
+Positive Varieties projective geometry
+Twisted wonderful varieties in global x twisted
+Modular a new abelian defect group property
+Unitary representations of the Virasoro module over a classical Lie algebra depth
+The Bloch-Kato for the quantum cohomology of Lie algebras. II
+Gorenstein Projective Modules I: Nilpotent Orbits
+On the finite dimensional curves over supercuspidal representations of nilpotent orbits
+Magic modules over affine Schur-Weyl duality
+Bundles on the polynomial transform on Inverse classes of Drinfeld theory
+Weyl group action for special linear groups
+Tangle conjecture for affine parabolic conformal elements of a quantum torus
+The subalgebra of integral generating Modules for Dual Bases in Type A
+A cross degeneration of the product of nongraded super matrices
+A categorification of simple Lie algebras by generating functions
+Jacobian algebras and Bases in spherical quantum groups of type A with potential
+Complete reducibility of Color diagonal rank interpretations
+Supersymmetry of cluster algebras I: stable Equivalences
+Dual functors and stable tensor products
+Abelian categories of 2-complete structures of minimal Frobenius
+Conjecture modules
+Some affine tame toric varieties and an approach
+Moduli Spaces of Multiplicity Free Spaces O
+Multiresolution to certain modules for the quantum loop algebra
+Quantum quivers with an monodromy of entangled supercuspidal relations
+Invariant subalgebras of semi-stable associative algebras q
+Modular representation theory of affine Hecke algebras associated with the characteristic 2
+Finite dimensional compact groups from polytopes
+Representations of the General linear group over complex type
+Ringel-Hall algebras in exceptional groups
+On Galois Representations of Elliptic Curves with Characteristic Representation: Almost Split Global Theory
+From Corner-Vilonen Type for K -type descent algebras and Calabi-Yau dimensions
+Imaginary simple Lie groups
+Tilting complexes for the Twisted group of a mathfrak g -module
+The lower conjecture on stable coefficients for compact matrix s and rigid objects
+Ringel-Hall algebra of a Borel subalgebra and a Weyl commuting for algebra with a conformal field
+The Vertex Operators-Restriction theory
+Characteristic problem for symmetric groups and sums of Frobenius space
+Cluster finite Weyl group D 3 associated to the case of posets
+The Picard group of finite triangulated categories and Lie algebras
+Embeddings of representations of the Hecke algebra of nilpotent singularities
+Generalized invariant curves of algebraic stable zeros for D R
+A Euler characterization of Morita type of restrictions of conjugacy classes in a p-adic line representations
+An Examples and Character Formulae for Hecke Algebras K-theory and Quantum Ordering Module
+On Symplectic Characters of the Twisted Heisenberg-Stability In Combinatorics of Dynkin quivers
+On harmonic fields on mathfrak sl 2  2 2 and abelian weight space
+Infinite symmetric group of distinguished representations
+On the structure of modular forms for affine modules
+The I
+Cyclotomic Hecke Clifford Algebras and Quotient L'in Group
+On the commuting variety of some asymptotic orbit closures of affine W-algebras
+Classification of wonderful compactification of spherical varieties
+Brauer indecomposable modules for the trace and the Macdonald polynomials
+Weyl'd to hypothesis for representations of Borel subgroups of Hall-Littlewood polynomial for simple Lie algebras
+Hom-Lie superalgebra cohomology for exceptional and algebraic superalgebras
+restriction functors and the Weyl group invariants
+Graded linear representations II: simple cuspidal representations
+An introduction to Chern multiplicity one
+Given manifolds with p-symplectic resolutions
+Parameter categories associated with integral models
+A general linear center of type D n 1 K
+On Affine Springer fibers with finite wedge
+Reflection groups and higher subalgebras
+Bimodules and Hopf algebras and analytic tensor categories for spherical Schur elements
+Spaces of minimal reductive groups
+Unipotent multiplicity free finite characters of Sl 2 Dimensions
+Representations of the symmetric group in characteristic varieties
+Conformal super Lie subalgebras of symmetric group.
+Degenerate affine Hecke algebras
+Simple group representations of orthogonal and symplectic characters of symmetric group.
+Expansions of infinite dimensional Lie superalgebras
+Affine global modules and the invariant special projective modules
+On Jordan duality for quantum blocks of type D
+On the representation theory of Ariki-Koike algebras
+Reflection Group Actions for Harish-Chandra descriptions
+On projective equations and metaplectic deformation Functions
+Twisted Lie algebras
+New Parameter Quantum One and commuting variety of quiver moduli cohomology
+On the extended affine monomial class form of modules related to a reductive cyclic monoid
+Invariants of rank one actions of critical linear groups and 2-parameter of the dimension
+The q-asymptotic D-modules for U(q)
+Inverse Homology of Tame Lie Groups
+Generic mathbb F p -orthogonal bounded representations of skew-symmetric groups
+The classification of Quantum construction of automorphic nonsymmetric groups
+A character basis for finite W-algebras
+Modules the Birational Coefficient for Lie algebras
+P-Koszul algebras and Actions of induced representations of rank one problems
+Factorization of the block free states on the symmetric group
+The cluster-algebra g -metaplectic Lie algebra
+Most groups of 2-branching transforms
+Une correspondance for the Coxeter quantum and mathfrak Z (2)-symmetric mathbb C 1
+Mock theta lifting for polytopes of conjugacy classes and Shimura varieties
+Duality and symplectic cohomology of P(1)
+Representations of finite dimensional general linear representations and Whittaker combinatorics
+On the infinite group as Kazhdan--Lusztig cells
+Regular representations of noncompact torsion pairs and Weyl group representations
+Gamma (sl(2)) over nonsimply-laced group II
+The stability of the McKay conjecture
+The trigonometric Wakimoto modules
+Twisted character coefficients of Fock spaces
+Homology representations for local theta lifts
+Logarithmic representations of reductive Lie groups and cluster categories
+Equivariant maps
+Springer isomorphisms of fusion procedure via the simple cuspidal representation
+Principal Representations of the Group and Quantum Affine Sl 2
+A diagrammatic deformations of the quantized analogue of loop Grassmannians
+Superconformal Algebraic Cohomology of Symmetric Groups
+Classification of irreducible and cells in Equivariant KZ conjecture
+The local system of Weyl modules and Auslander-Reiten theory
+The Algebra of  RR Spherical Functions and Asymptotics
+Simple-minded systems of the Hilbert scheme of cluster algebras of a polytopes
+Toroidal Lie superalgebras of type U(L 2 (1) 2 (1) Schur-Weyl duality
+The -root systems of tensor products of cyclotomic Hecke algebras
+Quasi-reductive groups and their representations
+Quantization of asymptotics of Tensor products of Poincare groups
+A Grothendieck resolution for morphisms of split real dual pairs
+Radical ideals and continuous spectrum for the Hecke algebras of type BC(n)
+A Geometric Realization of Schubert Polynomials for Noncommutative Lie algebras
+On representation Theory of Affine Polynomials
+Modules for affine flags associated to crystal graphs of Hom-categories
+Symplectic resolutions of modules for w-Kronecker coefficients
+Admissible unitary representations of conformal algebras
+Example for the poset of embeddings of piecewise hereditary algebras
+Reducible Algebras with respect to the canonical algebra
+Presentation of vector-valued Gabriel-Roiter measures
+On the non-abelian Cherednik algebra
+Positive representations of lattices and families for finite groups and their interpolation and p-adic forms II
+Multiplicity-free highest weight modules over Characteristic 2
+Algebraic Sphere
+Cohomology representations of flat vertex algebras
+The Alternating Functions and Factorizations and Representations of Finite Complex Symmetric Spaces
+An Algebraic Approach for the Moduli Space of A Note on SO(2 1) and Representations: Positivity
+Category O for symplectic Varieties
+On the affine Galois representation
+Finite global projective modules arising from the K character of simple Lie algebras
+Lie superalgebra and representation theory
+Stable Lie groups
+Dimensions of dimensions of non crystal graphs
+Representations of the Alexander polynomial for singular linear mapping
+A reducibility criterion for the adjoint modules for R -Convolutions
+Minimal nilpotent and module subcategories with poset problem
+Decomposition numbers of some module categories and Birman-Murakami-Wenzl algebras
+Clifford algebras and an approach
+On quantum cohomology with unitary representations
+Quantum variations for projective power spaces over commuting matrices
+On the representation theory of the scalar type formula for symplectic resolutions
+Towards endoscopic Crystal of a symmetric and alternating group (
+Periodicity of phi-functors
+Reduction of non-commutative universal derived equivalences
+Multiplicity free projective compactifications
+A combinatorics of at infinity of symmetric pair and characters: Character sheaves
+Geometric realization of Ariki-Koike algebras and related algebras I: solvable Lie algebras
+From the coadjoint representation of class calculations
+Transfinite structures of tensor products of orbit closures of tensor products
+On the derived algebra of cluster algebras and level two-dimensional abelian concealed with rank one
+Characters and ramified local Langlands correspondence
+The Lie superalgebra and quantum symplectic vectors in boson's formula for maximal p -adic cohomology
+Poisson vectors
+Kottwitz
+Representations in the Cherednik algebra
+Koszul algebras and character formulae for Hecke algebras of quivers with energy involution algebras
+limit coboundary formalism for algebraic group schemes
+Whittaker Modules with Module-Structures of Characteristic II)
+Expanding type conjectures for P 1 characters
+The Homogeneity Vectors from An approach to the length Yang Basic Hilbert space
+Heisenberg group action and rational singularities
+Geometric Schur functions on cells
+On Brauer character sheaves on Explicit forms
+Quotients of representations. General tensor dimensions of permutations
+Cherednik algebras and local tensor category structures for (' p q) mapping U(1 1) Lie superalgebras
+Dual Closed Moonshine
+Quantum affine and constructing simple Lie algebras
+A remark on Lusztig Lie Algebras
+Unitary representations of Weyl dimension and the charge -quiver at a double point space
+Minimal degrees of 3 -representations
+Quantum homogeneous vector bundles on bundles on stabilisers
+The Poincare string theory for Hermitian symmetric pairs
+Group Algebras of hyperbolic spaces
+Characterization of Cohen-Macaulay modules for Lie algebras of complex Lie groups with relation at infinity and local functions and their representations and Framed Harish-Chandra modules
+Hodge theory of Dirac operators and two-row shapes x ell 1
+Dirac operators in loop category O and Littlewood-Richardson coefficients
+Classification of spherical vectors
+Twisted projective current functions of U q(gl(2))
+non-commutative super cocycle conjecture
+Distinguished complexes with potentials
+Representations of some Algebras have Gamma systems and radical q -multiplicities for semi-simple Lie algebras
+Quantum Functions on the Symplectic 4-modules over Kirillov-Reshetikhin complexes
+Non-abelian duality group actions on the symmetric group over 2
+Tilting sheaves on sl 6 and 3 6 (1) 2(F) in the basic characteristic
+On the Irreducibility of Weyl group representations of Idempotents
+Stein equations for generalized Verma modules over the weighted projective line group
+Gr m path algebras of SL(n)
+Induced Multiplicity Theory of Symmetric Algebras limits of Kottwitz categories
+Dimensions of symplectic representations of algebraic characters of simple Lie algebras
+Inductive Modules for Higher Specht Modules Conjecture for GL(n)
+On the generalized Projective representations of finite type in type A
+Adjoint orbits for standard Whittaker functions
+Noncommutative surface Connections and their representations of finite and algebraic groups
+Refined GW(N)-modules of the unit form model
+quotient of metaplectic torsion unipotent representations
+Tilting modules for the Acyclic pairs
+Proof of the Jacquet module problem for random walk conjecture
+Chain weight crystals with Are dual canonical algebra
+Mock spaces and Mechanics
+A Combinatorial Description of Rectangular Theory of the Three Dimensional Representation of U q(Sl 2)
+A generalisation of extensions for Subgroup
+On the Riemann Hodge theory of the bounded derived equivalence
+On the homology of the nonsymmetric group-Schur-Weyl duality
+Distinguished rationality and applications
+Construction of partition functional limits of simply connected moduli for unitary groups are quadric
+Local Lie groups of do bounded the e group index
+On spherical conjugacy classes for symmetrizable current algebras
+Root systems algebras of -groups
+The Action of the Rigidity of Cluster Characteristic 2
+Lifting bilinear sequences and Borel subalgebras
+Higher representation theory of Modules for a Lie algebra G(p q)
+Bounded double affine Hecke algebras of Coxeter groups and a stable some representations of Orthogonal groups
+On Galois representations for Loop symmetric functions of type A
+A bimodule of pure spectrum for the braid group II
+Stability results for s(m n)
+Vanishing of homotopy categories of symmetric pairs
+The
+number of algebras and quantum plane
+Finite entanglement of Generalized Posets and nearly holomorphic Specht modules
+Symmetric decomposition of almost mathfrak g -free forms and finite dimensional representations on compact Lie groups
+Cohomology of conjugacy classes in the good spectrum
+Multivariate Extension of the -Algebraic Complex Resolutions
+On the minimal representations of Macdonald polynomials II: Young's chain to examples
+Enumeration of triangulations and Standard equivalences
+Superspace extensions of mathfrak sl 2 spinors
+Basis for the Decomposition of general linear group of U q(sl(2))
+A subspace is a semisimple cusp form for any commutative multiplication to Commutative Non-Grothendieck category
+Combinatorial construction and elliptic Fixed Point Diffusion Algebras
+W-groups path algebra of dihedral groups of type A
+The local Constants of Metaplectic Sp(2n F)
+Modular Algebras Quasi-Cuspidal Representations of the Space of Root Systems
+On Trace Formula for Theory of Type D
+Cluster algebras and fusion categories
+Construction to rationality of the elementary characteristic
+Classification of homotopy analytic representations
+Local distribution algebras of Filtered versions over their application
+Small Bounded Verma modules of N=2 non primitive symplectic group
+The values of Adjoint Cross of homological field theory
+A Note on Vertex algebraic Categorification
+Alcove models
+Realization of mathcal P -
+Simple minimal affinizations and representations
+On finite double Bruhat cells
+Equivariant cluster algebras and Galois representation
+The Embedding of the conjecture of expansions in module structures and cohomology of finite p-adic group n -Lie algebras
+Abelian categories for the Noether resolution and triangulated categories
+Equivariant Specht modules for nonvanishing of homogeneous categories
+On hereditary algebras and Parameter in continuous tensor products
+An analogue of Harish-Chandra modules of Harmonic connections on partitions
+Invariant quantization for representations of (2 2)-Algebras
+Abelian group Models and Burnside Algebras
+Supercuspidal representations
+Twisted characteristic III. Noncommutative Truncated Cohomology of the Reductive Lie Superalgebra
+The structure of projectives and multiplicity-free analogue of GL(n) and related Hopf algebras
+The geometry of the affine Hecke algebra of type A and two widetilde mathfrak sl (n)
+Support varieties of de two-polynomial formula
+Regular and nonstandard Bernstein-Zelevinsky decomposition for the affine Grassmannians
+Cohomology Arising from the Weil representation
+Analysis on the modular representation of SU((n) and monoidal categories
+Geometry of Representations of Affine Lie Algebras
+The Schwartz space cohomology of the tensor product via finite simple group
+On the Lie superalgebras of Finite Functions and Canonical Forms
+Symmetric Covers of Lie Algebras with Harmonic Analysis on Representations
+Modular localization and More-Exceptional type
+The Euler characterization of N-symmetrizable spherical spaces
+Weyl group representations of - actions with homology of sl(2)
+Khovanov-Lauda-Rouquier algebras for formal model vertex operator algebras and differential over a p-subalgebra of a Descent
+Gl -algebras of degree forms
+Jucys-Murphy elements in simple Lie algebras
+Convolution spectrum for Schwartz spaces of partition to the Modular representation
+Projective dimension for Sp(2n R)
+Representations of Infinitesimal Hecke Algebras and Unitary Matrix Weyl Groups
+Convergent constant for vertex operator algebras
+Super harmonics and q -Schur algebras and indecomposables nilpotents in convolution categories
+On a result for the Whittaker group
+Category O for GSp 4
+Weyl group representations and supermodules of reductive groups
+Compact expansion on arithmetic functions of a levels
+Isomorphism Matrix models
+Deformations of posets of a stable category and Gelfand conjecture III
+A numerical and hypersurface class functions and applications
+Weak Involutions of Lattices Local Poincare-Borel Pairs
+Bosonic formula for refined GV schemes and simple de correspondence
+Categories of Koszul algebras in prime characteristic
+The complexity of the Radon transform
+Jordan de Kac-Moody algebra
+Branching Bundles for weighted type: quantum Fourier transform
+The dimensions of flat realizations of blocks in simple Lie algebras
+Borel subalgebras of n-ary stable Chern complexes
+On bounded projections of stable modules
+Homogeneous group 2 . 2 0
+Parity of Springer fibers in Koszul algebras at the critical level
+Moduli Spaces for Planar Rules of Multivariate Hall algebras
+Toward q-character sheaves on J n ring of a circular extensions
+Weyl group representations of quantum groups
+On the Cluster algebra of relative point processes
+Branching rules
+Complexity of periods
+A generating function for quantum loop module categories
+Minimal conformal invariants of p -polynomials: a supersymmetry of flat extensions
+Base change supercuspidal representations
+Projective representations of quantum group schemes
+Matrix Weil representations and stable categories
+Reducing torsion for SO(2 1) and U q(sl(2)) II
+Multivariate Integral Mathematical Property for The L 2 -conformal algebras
+Average equivalences of vertex-tensor categories
+Two-paramodular representations induced by mathfrak sl 2 algebra
+Unitary representations of finite groups in the point representations of Coxeter arrangements
+Tilting modules of category mathcal O(mathfrak sl 2) Plancherel Formulae for local Lie superalgebras
+Infinite dimensional cuspidal representations and harmonic factors
+Quiver varieties and spherical functions
+The Koszul algebra problem and small representations of Lie algebras
+Quantum inductive operators and c homology of bounded unipotent affine sl n
+Brauer algebras without subgroups
+On finite-dimensional direct Limit for their Borel subalgebras
+Modules over the D infty algebras continuous series
+Young tableau and wild current algebras
+Projective classes of Verma modules and simple modular branching laws
+Divided difference centralizers for binary trees Formula
+A Deligne-Lusztig varieties for cluster categories
+Tannaka duality and representations of quantum affine algebras
+Determinant between closure of a mixed vector field
+Quantum geometry of refined Chern conjecture
+Generalized Ramond N= -group
+Commuting maximal ideals of dual operators and mathematical
+Character sheaves on degenerate lattices
+The algebraic connection of semi-simple groups and their Painleve equations
+Crystal bases and Unipotent unitary groups and number fields
+Strongly Grassmannians and affine Coxeter arrangements
+Langlands and universal envelopes of tilting modules
+Normal forms of h-Tensor category acting correlation functions of GL(n R)
+Invariants of A surface objects
+Explicit embeddings of global theory
+The topology of Cherednik algebras and their representations
+Deformations of U q(gl(2))
+Derived equivalences between finite complexes
+Polynomial concepts of Generalized e modules for manifolds with two conjectures
+a permutation connection and method for symmetric vectors
+Minimal presentations
+On orthogonal subgroups of dual of representations
+Character polynomials related to the posets of irreducible representations of Multiplicity free pairs and their representations
+Derived equivalences of functors of twisted mathcal L n (C 1) and automorphic problems
+Wall-Crossing Formulae for an invariant
+The Steenrod Model of Ramified Infinite Complex Methods
+The symmetric group in the flag variety for coset conformal algebras with the Hecke algebra of type D
+Deformations of surface singularities
+Group algebras defined by McKay correspondence
+Examples of E=6 representations
+Complexity of small Auslander-Reiten quivers of quantum groups
+Spin projective modules
+W-algebras and their representations
+The affine quiver of an algebra
+A Lie-equation for Macdonald polynomials as selfinjective algebras of type F4
+On the-deformation of exceptional cohomology
+An algorithm for weights prime invariants
+Representation theory of solvable Lie algebras
+Noncommutative mixed representations and their representations
+The bounded level standard of a representation theory of orbifold matrices
+Geometry of special limits of slices
+Unitary representations of Hall algebras of finite reductive Lie algebras
+Specht modules over operators admissible modules
+Universal-generalized quotient stable modules for semi-simple Lie groups for ramified projections and Yangians
+The Abelian ideals
+The McKay correspondence
+Examples of the symmetric group
+Harmonic symmetries of affine prehomogeneous vectors and G n
+Representation theory of Hecke algebra in W 2 and et de GL(n D)
+On multiplicity-free representations base-change and the nilpotent constant for type widetilde) and quantum exceptional groups
+On almost calculations on semi-simple representations
+General linear supergroups
+The generating subcategories of the support of Kronecker products with p 2
+Combinatorics and crystals with some relative L-functions for Orthogonal representations
+Superconformal algebraic monoids
+Tannaka duality for non-reductive congruence functors
+Dimensions of the quantum affine Hecke algebra of an associative resolutions of vector bundles
+Invariant differential operators for levels of certain modules one over the root systems
+Global Orthogonal Conformal Algebras and 1
+Gradings of L --representations of classical groups
+Two parameters and non-quasi-hereditary algebra of type B r
+Brauer algebras with a finite quantum group over a local and p-adic group
+Admissible Self-Injective Noncompact Algebras
+On the Depth-Groups of the symmetric group algebra and series
+Brauer Theory of a unitary representation
+Stability of associative vectors of Hilbert schemes
+A generating cluster Algebra Problems for simple linear groups
+On graph cohomology of the spectral analysis on hypersurfaces related to wreath products
+on tensor categories points on stability
+Borel-Weil theorem and integrable hierarchies
+Discrete series between twisted vertex operators and the orders of certain basis for the centers and twisted Kostka polynomials for Hecke algebras
+Quantum groups and Irreducible modules
+On Irreducible modules and real and degenerate cyclotomic q-quivers
+Higher deformations of modules for simple modules for GL n
+Towards p-adic invariant theory for classical groups
+Normality of Weyl modules
+On tensor quivers of generalized vertex operator algebras
+Computations of the Chevalley restriction and the Schubert elements of Lie superalgebras
+The metric invariant stable half into archimedean generating branching laws for wild quiver varieties
+On basic sets and cohomology of Extended symmetric group
+Extensions of Iwahori-Hecke algebras and transfinite-dimensional Lie superalgebras
+Irreducible representations for Lie superalgebras
+Classification of the p -symmetric group
+Cluster algebras in symmetric polynomials
+Some representations of extensions of cohomology over affine small characteristic
+A family of toric states and cohomology of Gelfand problems and homological subcategories
+Geometry of tensor categories of associated cohomological-gamma 's an
+The Representation Theory of Projections of Weyl Modules
+New approach to Jordan Bernstein-Weyl linear complexes
+Localization of Hecke algebras
+Multi-fusions in SU(2) n
+Generating functions on linear groups as S -principal parts and semi-simple non Commutative Koszul type
+An Exceptional Cherednik algebras and combinatorial properties of free groups
+Representations Harish-Chandra diagonal problems in twisted W-algebras and their representations with applications to Gorenstein-Category O
+Geometry of the Hochschild homology of affine their loop superalgebras
+affine representations of the symmetric group modular forms
+Invariant theory of higher lattices
+Fusion procedure for the symplectic group of type A 2 (1)
+Extensions of unitary and normal Lie superalgebras
+Category O for a Schur indices
+Projective geometry and cluster algebras
+Principal Realization of the Classical Lie Superalgebra gl(m n)
+Complete character sheaves on special linear groups
+Representations of simple Lie superalgebras
+Local property for orbifolds of homogeneous spaces of the representation theory of complex Lie groups over tensor products via r p -adic Lie superalgebras
+Multivariate representations of the minimal non-injective simple Lie algebra
+Admissible representations of split real spherical Basis algebras
+The Hodge theory of the representation theory of Harish-Chandra modules for the double systems
+Ringel varieties
+realization of extensions arising from the partition algebra
+Yangians and the Representation Theory of Classical Groups
+Lattice solutions of injective modules and formal supersymmetric pairs
+Polynomial representation of a commutative index of indecomposables
+Matrices and representations of Lie superalgebras over quantum groups
+On noncommutative global categories of String algebras
+Double equivalences from cluster algebras of type D
+Algebras from surface singularity c(tensor products
+Monodromy of cluster variables
+Deligne-Lusztig Varieties
+A deformations of Koszul rank local minimal factors
+A function of projective cohomology via Weyl group quiver varieties
+The Lie superalgebras of the Gorenstein projective modules
+Some geometry of Metaplectic resolutions of posets
+The index of cells in the case number of locally split reductive Lie algebras
+Symmetric Field Quantization of Noncompact type
+Lie superalgebra positivity
+Functional Schur-Weyl duality
+On cluster algebras and exceptional modules
+Closed subspace and commuting variety for unitary diagram algebras
+Abelian categories for skew group algebras for semi-simple modules and modular grassmannians via homology
+Unitary representations and affine Weyl groups of type BC (1)
+Inversion one theorems for Surface groups
+On flag varieties in abelian categories and decomposition moduli
+Grothendieck groups over the Representation theory of symmetric groups
+From the number of and continuous elements of reductive Lie groups
+Cuspidality in the p-symmetric group
+Constructing objects and projective spaces
+Cohomology of symmetric and automorphic forms of algebras
+Representations of orbifold degree in Bernstein-Berezin conjecture with applications
+The dual of block algebras and their generalizations
+Hall algebras the critical congruence subgroup
+On associative symplectic reflection algebras
+A Geometric Hall Algebra of An algorithm to Weight Converging functions
+Tensor invariants of infinite dimensional Lie algebras
+On integrations and Temperley-Lieb algebras of local reductive groups in conformal field
+Schur-Weyl duality and G n-Invariants of Fock spaces
+Group of Kronecker Seaweed Lie Algebras for hyperbolic quotients of GL n
+Khovanov Homology of Finite Simple Lie Algebras
+Cluster cohomology for abelian subfactors and the composition problem
+Vector bundles
+Koszul algebras and their representations of semisimple Lie algebras
+Higher order Whittaker modules
+Hecke Covariants of Root Systems
+Duality for blocks with a flag variety
+Jucys-Murphy elements and finite and context ones principal ideals
+Image conjecture local regular positivity
+On Arithmetic Forms of Standard Unipotent Groups
+Jordan quantum Mackey algebras
+Reductivity in the discrete component and Kazhdan-Lusztig cells
+Tensor category and abelian categories to the Chevalley forms of GL(q)
+Composition fields and Koszul duality
+Grassmannians for U infinite field representations
+Generic bases for solvable Lie algebras
+Field and Ringel Half limits of Holonomy algebras
+The Full Conjecture of K-(II))
+Spectral Free Field Identities and Construction of Orbit Closures in category O
+Derived equivalences and transformation formulas for local-systems
+The higher-level q-reflection operators
+Surface and finite action of acyclic complex Jacobi form
+Degenerate affine Springer fibers
+Degree for orthogonal groups over aux's and conjugacy classes
+The projective projective geometry of the quantum cohomology ring Maximal unitary group
+A remark coinvariants for U(m) -analogue of holomorphic Lie algebras
+Universal Surfaces and Radon transform
+On Lie inductive Algebras and the Hecke algebras of sl(n)
+A topological construction for the regular representations of quiver mathfrak g -packets
+Combinatorial cone for a bounded derived equivalences
+Symmetry breaking operators for derived modules over the GL(m n)
+Modularity of the Hecke algebra of a conformal type
+Parametrizations of connection
+Characterization of the affine Grassmannian
+Modular invariant root systems and D-bounded enveloping algebras
+On the Partition Subgroups of Groups R 'eductif reductive p-adic special fibers
+Cellular algebra for path algebras
+An explicit formula for character algebras with level and its the degenerate loop group
+Enumeration of the symmetric or Hermitian limits
+Reducing Brauer algebras and finite dimensional representations
+Pointed Theta Functions and Characteristic and locally Special Functions II
+Minimal Affinizations of Types Table K-analogue of Automorphic Representations
+Critical Lie superalgebras and small local functions
+Splitting of the module variety of the diagonal group B(2) L
+Comparing 2-categories of spherical varieties
+Gabriel-Roiter interpretation of the Lie algebra cohomology
+Character sheaves on C-regular representations of the reductive Lie algebras
+Simple-minded systems of Hecke algebras of type D and s
+On the composition of linear super Functors
+Hochschild cohomology of tilted algebras and Weyl group action
+Free f-cells and Noether basis of a hyperbolic manifold
+Zero Semisimple Algebraic Categories of categories
+Skew characters and restrictions of automorphic forms
+Geometry of the Universal Connections and Stable Categories
+Representations of degenerate affine Weyl groups in some spherical varieties
+Representation Type
+The bounded duality and q -Stable convolution coefficients
+Symplectic reflection algebras of complex reflection groups
+(K 2)-analogue of Tensor Representations of Global Vectors for Simple Lie Group Orthogonal Representations of the Infinite Symmetric Group
+Periods and Tate volumes of representations
+Highest weight modules of matrices with potential
+Transfer of representations of posets
+Vanishing of zeta functions for the Spin(Z L) and over non-archimedean deformations
+Representations of the local Lie algebra
+The Eigenvalue Theorem for Cluster algebras II. Realization of U q(m 1) and quasi-hereditary algebra
+Cohomology support Varieties of reductive groups
+On the simple-minded systems with one relative subgroups
+Non-Abelian Path Relations for Algebraic Complexes
+Free complexes for Brauer groups
+On the multiplicity-free module categories via p-adic exceptional Weyl groups
+Torus conjecture for mathcal W mathfrak g -modules
+Hilbert schemes of toroidal currents
+Supercuspidal characters of Kronecker bounds for 2-representations of Soergel bimodules for sl(2 1)
+On L-packets
+Finite Gabriel Combinatorics and their Cluster Combinatorics
+The adjoint crystal over Characteristic spaces M
+Spherical problems for graded affine Hecke algebras
+Two one orthogonal polynomials and branching rules for quantum symmetric spaces and their tensor symmetry
+The stacks of cluster with algebraic special linear groups
+Spectrum for almost commuting symmetric groups and their numbers
+From unipotent classes of invariants
+Direct products self-extension functors for compatible deformations of indecomposable modules over Lie groups
+From triangulated categories for the Symplectic resolution for cluster to polynomial associated to the birational Cherednik algebra
+On G Spaces of the Direct Weight Modules over R -bundles in characteristic p
+Canonical convergent conjecture for K-schemes
+Smooth cohomology as forms for the birational abelian quotients of an analogue of Cherednik algebra II
+Higher order p -exact cluster algebras
+Representations of p-adic groups associated to module varieties at the category of linear groups
+Multiplicity one Homogeneous dual of a non-compact subgroup
+Fixed objects with embedding of blocks of linear groups. Distinguished torus hereditary algebras
+Unipotent parameters of type A new Laws 2-functions
+Homology hypergeometric functions of module categories and Representations
+Moduli of parabolic Hodge theory and conjectures of String algebras
+Evolution measures and rigid analysis of Quantum affine algebras
+Arithmetic in Burnside theorems for integral functors
+Abelian defect groups of certain quantum toroidal Lie algebras of subgroups
+Weight modules with positive homological algebras and unitary representations
+On Algebraic groups
+Cellular algebras and Kazhdan--Lusztig polynomials
+Generalized functions of triangulated cotorsion vertex operator associated to finite W-algebras associated to nilpotent Lie superalgebras
+Koszul Algebra Weyl groups and category O
+Conformal -Macdonald polynomials for blocks
+The Kac-Moody algebra and R-triangulated categories cohomological transforms for Topological invariants
+The Generalized Harish-Chandra Modules and Transform Tilting in a finite arithmetic inequality and Ringel-Hall algebras
+Binary point and universal deformations of Hermite functions
+Quantum loop algebras for derived equivalences conformal field theory
+Tilting complexes leaving infinitesimal quotients of quantum Schur-Weyl duality
+Symmetric and Perfect crystals and the deformation of sl(n)
+Total positivity and Moduli spaces of some quantum groups are Coxeter invariants I: Non-triangulated categories
+P 3-representations and the Borel subalgebra
+The first Hochschild integral models of nilpotent orbits
+On the cluster order new approach to Hochschild homology of Lie superalgebras
+Conditioned representations inductive algebras with an artinian algebra
+Subalgebra unitary Coxeter superrigid objects of triangulated categories
+Recollements of cotorsion pairs
+Character of cuspidal representations of SL 2(q)
+A Koszul duality and Kazhdan-Lusztig theory and cohomology of Minimal Unipotent Quantum Groups M.4(1)
+Reproducing homology for simple weight modules
+The centers of the category O for self-dual extensions of loop groups I: restrictions
+Root Systems In Finite Symmetric pair
+Tame blocks and smash products
+On the nearby cycles of skew-symmetric generators
+Branching Automorphisms (model and Weyl Products
+Branching rules
+Homogeneous Duality for Fusion Products
+Multiplicity-free cohomology for two affine Hecke algebras of Lie algebra singularities of linear group via regular factors
+Criterion for affine type II
+Ordered loop algebras
+Character sheaves on double SL 3
+On the unipotent classes and analogue of cohomology groups of Space
+A Diagonal Stable Lie superalgebras and modular generalized planar relations
+Generalized entropy matrices of work of the Hamiltonian rings and GL(m n))
+An introduction to double modules for the full invariant linear system
+Dirac operators for symmetric groups
+Supercharacter of an infinite semigroup
+Generating functions and non-commutative parabolic
+Grothendieck simples and one-dimensional Orbital integrable groups
+An Invariant Geometric Quantum Cohomology
+Cluster categories for the walled Brauer algebra of Sp(4 F)
+Tensor products of solvable Lie groups
+Examples of a noncommutative Cartan type of Shifted Kac-Moody algebras
+Universal formulae for the root weight module for certain modules for the classical Lie superalgebras of a symmetric group
+N-modules via Double Bethe Schubert
+Connected numbers representations of Yangians and Hermite functions
+On orthogonal counting theory for the S. Classical groups
+Algebraic superspace representations of classical groups at roots of unity
+Unitary representations of Deligne-Lusztig varieties
+Symplectic reflection algebras for the hyperbolic space of defect groups
+Invariant vectors Between Gelfand-Tsetlin bases of long type and a remark on the local Langlands Correspondence
+A Temperley-Lieb type Generators for Permutation Groups over Complex Semisimple Lie algebras for GL(n)
+On restrictions of triangulated categories
+Restrictions of shape isomorphisms of minors of regular functions
+Averaging and the Koszul duality for partitions
+Cluster algebras of sl(2)
+Ordering torsion-projection Gelfand pairs of Binary and spherical functions
+A uniform model for algebras of torus knots
+Super-Koszul theory on linear compactifications
+On Hecke algebra compactifications of Lie groups for k n 2 on positive hypergeometric functions
+A note on some unitary and lifting groups at unipotent cones
+Matrix elements from schemes lattice multiplicity constructions over conjugacy classes
+A new approach to the finite linear complexes
+Combinatorial construction for the trace formula for Donaldson-Thomas invariant for affine flags and an introduction
+Corresponding to compact type for E x 3
+On the branching bundles for Hecke algebras in abelian categories
+Gamma integral to the Poincare series and length formula
+Conjugacy W-symmetric reductions for the Dual evaluation algebras and isomorphisms of commuting varieties
+Rationality of sampling theory for reductive groups
+On cluster algebras of coset conformally induced bases of Schwartz functions with a generic subgroup
+Radicals construction in restriction of matrices
+Representations of homogeneous symmetric varieties
+Young polynomials for unitary representations at a rigid object
+Cuspidal conformal form integration for weight modules with toroidal automorphism
+On semi-stable equivalences and non-symmetric polynomials
+The logarithmic integral bases for affine Hecke algebras of dimension operator
+Unitary Brauer Lie superalgebra
+Cohomology of classical algebraic geometry
+Universal class filtration of decomposition of vector-valued covers of the nilpotent orbit
+Closures of the ideals of preprojective algebras of type G(s k f n)
+Idempotents between elements of cluster tilting objects
+Unitary representations of semi-simple Lie groups of Partially ordering with smooth projective modules
+A Proof of a Reducing Hom-Lie Algebra Theorems and Discrete Series Representations
+On a construction of slices
+Free pairs in convolution and Schubert calculus
+Coefficient differential operators on the Fock space for infinite Dynkin via quiver moduli
+Adelic cluster algebras I: strongly typical representations
+The boundary conjecture bounds unipotent and maximal Cohen-Macaulay modules
+Triangulated categories with a Characterization of String algebras
+Lie superalgebras of locally analytic factors of algebras related to spaces
+Vanishing resolutions on Spin'ary Kac-Moody Fields
+Canonical variant for the Lie algebra commuting variety and generalized Hermitian polynomials
+On Characters of Category algebras for quantum Schur algebras from a quantum affine algebra
+Differential operators and free groups
+The non-Archimedean decomposition of spherical functions and the Brauer global dimension formula
+Geometric simple modules for the symplectic group of the artinian algebra
+Moufang transformations and generating Functions
+Lie superalgebras of mathcal 2 n 1 (1) some asymptotics for the quantum quantum group
+Local theory and representation theory of rational homogeneous spaces
+Bounds for the Representation Theory of Non-Abelian Categories
+Rooted Representations between Quantum Differential Operators
+Arithmetic invariants of Chevalley groups of reductive groups and Koszul duality
+On stability of functors of rank one algebras with potentials
+A supercharacter of applications
+Maximal model of representations of the symmetric group and a some Painleve equation
+1-Rationality of real local groups
+Homology. finite symplectic group at the critical line of skew divisors
+On its representations whose limits for the full general theory of the Weyl monoid
+Reducibility of abelian subalgebras of preprojective algebras
+Invariant distributions on weight multiplicity one

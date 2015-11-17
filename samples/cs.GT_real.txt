@@ -1,0 +1,2703 @@
+Settling the Complexity of Computing Two-Player Nash Equilibria
+Assessment and Propagation of Input Uncertainty in Tree-based Option Pricing Models
+Extensive Games with Possibly Unaware Players
+The Complexity of Simple Stochastic Games
+Acyclic Preference Systems in P2P Networks
+The Complexity of Games on Higher Order Pushdown Automata
+Sequential mechanism design
+Acyclicity of Preferences Nash Equilibria and Subgame Perfect Equilibria: a Formal and Constructive Equivalence
+Efficiency and Nash Equilibria in a Scrip System for P2P Networks
+Optimizing Scrip Systems: Efficiency Crashes Hoarders and Altruists
+Evolution of Cooperation in a Spatial Prisoner's Dilemma
+Chaos and Annealing in Social networks
+Information Theory - The Bridge Connecting Bounded Rational Game Theory and Statistical Physics
+Phutball Endgames are Hard
+On the NP-completeness of Finding an Optimal Strategy in Games with Common Payoffs
+Bundling Equilibrium in Combinatorial auctions
+A computer scientist looks at game theory
+Learning to Play Games in Extensive Form by Valuation
+Combinatorial Auctions with Decreasing Marginal Utilities
+Linear Programming helps solving large multi-unit combinatorial auctions
+Truth Revelation in Approximately Efficient Combinatorial Auctions
+Expected Qualitative Utility Maximization
+Classes of service under perfect competition and technological change: a model for the dynamics of the Internet?
+Nonstandard numbers for qualitative decision making
+Generalized Qualitative Probability: Savage revisited
+Optimal Solutions for Multi-Unit Combinatorial Auctions: Branch and Bound Heuristics
+Coin-Moving Puzzles
+Solitaire Clobber
+Trust Brokerage Systems for the Internet
+PSPACE-Completeness of Sliding-Block Puzzles and Other Problems through the Nondeterministic Constraint Logic Model of Computation
+Effectiveness of Preference Elicitation in Combinatorial Auctions
+Vote Elicitation: Complexity and Strategy-Proofness
+Complexity Results about Nash Equilibria
+Complexity of Mechanism Design
+What is a Joint Goal? Games with Beliefs and Defeasible Desires
+Greedy Facility Location Algorithms Analyzed using Dual Fitting with Factor-Revealing LP
+The STRESS Method for Boundary-point Performance Analysis of End-to-end Multicast Timer-Suppression Mechanisms
+Programming and Verifying Subgame Perfect Mechanisms
+The one-round Voronoi game replayed
+On the suitability of the 2 x 2 games for studying reciprocal cooperation and kin selection
+Finding Traitors in Secure Networks Using Byzantine Agreements
+Using Simulated Annealing to Calculate the Trembles of Trembling Hand Perfection
+Results on the quantitative mu-calculus qMu
+A Game Theoretic Framework for Incentives in P2P Systems
+A Cartography for 2x2 Symmetric Games
+Distributed Control by Lagrangian Steepest Descent
+Uniform Proofs of Order Independence for Various Strategy Elimination Procedures
+Dealing With Curious Players in Secure Networks
+Near Rationality and Competitive Equilibria in Networked Systems
+Stable Outcomes for Two-Sided Contract Choice Problems
+The Complexity of Agreement
+The Core of Directed Network Problems with Quotas
+Incentive Systems in Multi-Level Markets for Virtual Goods
+An Approximation Algorithm for Stackelberg Network Pricing
+Utilitarian resource assignment
+Selfish peering and routing in the Internet
+Negotiating over Bundles and Prices Using Aggregate Knowledge
+Online Learning of Aggregate Knowledge about Non-linear Preferences Applied to Negotiating Prices and Bundles
+Amazons is PSPACE-complete
+A Price-Anticipating Resource Allocation Mechanism for Distributed Shared Clusters
+The egalitarian sharing rule in provision of public projects
+Dichotomy for Voting Systems
+A Game Theoretic Economics Framework to understanding Information Security Oursourcing Market
+Efficiency Loss in a Network Resource Allocation Game: The Case of Elastic Supply
+Distributed Selfish Load Balancing
+Strong normalisation for applied lambda calculi
+Anyone but Him: The Complexity of Precluding an Alternative
+Truth-telling Reservations
+Order Independence and Rationalizability
+CP-nets and Nash equilibria
+Computing Pure Nash Equilibria via Markov Random Fields
+Games of fixed rank: A hierarchy of bimatrix games
+Entropy Convex Optimization and Competitive Quantum Interactions
+Artificial Agents and Speculative Bubbles
+Ensuring Trust in One Time Exchanges: Solving the QoS Problem
+The topology of covert conflict
+Adaptive Channel Allocation Spectrum Etiquette for Cognitive Radio Networks
+Computing Nash Equilibria: Approximation and Smoothed Complexity
+On the Approximation and Smoothed Complexity of Leontief Market Equilibria
+Market Equilibrium for Bundle Auctions and the Matching Core of Nonnegative TU Games
+Evolutionary Socioeconomics: a Schumpeterian Computer Simulation
+Stable partitions in coalitional games
+Approximately Efficient Cost-Sharing Mechanisms
+Bidding to the Top: VCG and Equilibria of Position-Based Auctions
+Controller synthesis Ordinal Automata
+On some winning strategies for the Iterated Prisoner's Dilemma or Mr. Nice Guy and the Cosa Nostra
+Rational Secret Sharing and Multiparty Computation: Extended Abstract
+Matrix Games Linear Programming and Linear Approximation
+A Richer Understanding of the Complexity of Election Systems
+Covering selfish machines
+Positional Determinacy of Games with Infinitely Many Priorities
+Characterizing Solution Concepts in Games Using Knowledge-Based Programs
+Tree Automata Make Ordinal Theory Easy
+Characterizing Optimal Adword Auctions
+On Measuring the Impact of Human Actions in the Machine Learning of a Board Game's Playing Policies
+Computing the Equilibria of Bimatrix Games using Dominance Heuristics
+Budget Optimization in Search-Based Advertising Auctions
+On Using Matching Theory to Understand P2P Network Design
+Time and the Prisoner's Dilemma
+Predicate Abstraction with Under-approximation Refinement
+Nash equilibria in Voronoi games on graphs
+Paths Beyond Local Search: A Nearly Tight Bound for Randomized Fixed-Point Computation
+Games on the Sperner Triangle
+Linear time algorithms for Clobber
+On Approximating Optimal Weighted Lobbying and Frequency of Correctness versus Average-Case Polynomial Time
+Computing Good Nash Equilibria in Graphical Games
+Computer Science and Game Theory: A Brief Survey
+One-Dimensional Peg Solitaire
+One-Dimensional Peg Solitaire and Duotaire
+Variational optimization of probability measure spaces resolves the chain store paradox
+A parametric representation of totally mixed Nash equilibria
+A Predictive Theory of Games
+Modeling Endogenous Social Networks: the Example of Emergence and Stability of Cooperation without Refusal
+Ownership and Trade from Evolutionary Games
+Sharp transition towards shared vocabularies in multi-agent systems
+Topology Induced Coarsening in Language Games
+An invitation to Quantum Game Theory
+Quantum computer: an appliance for playing market games
+Multi-Agent Modeling Using Intelligent Agents in the Game of Lerpa
+Epistemic Analysis of Strategic Games with Arbitrary Strategy Sets
+Non-Cooperative Scheduling of Multiple Bag-of-Task Applications
+Relative Strength of Strategy Elimination Procedures
+How to measure efficiency?
+The Many Faces of Rationalizability
+Large System Analysis of Game-Theoretic Power Control in UWB Wireless Networks with Rake Receivers
+A Game-Theoretic Approach to Energy-Efficient Modulation in CDMA Networks with Delay Constraints
+Non-cooperative games for spreading code optimization power control and receiver design in wireless data networks
+Game-Theoretic Power Control in Impulse Radio UWB Wireless Networks
+Performance Comparison of Energy-Efficient Power Control for CDMA and Multiuser UWB Networks
+Energy-Efficient Resource Allocation in Wireless Networks: An Overview of Game-Theoretic Approaches
+A Game-Theoretic Approach to Energy-Efficient Modulation in CDMA Networks with Delay QoS Constraints
+A stochastic non-cooperative game for energy efficiency in wireless data networks
+The Nash Equilibrium Revisited: Chaos and Complexity Hidden in Simplicity
+Generalized Solution Concepts in Games with Possibly Unaware Players
+A Closed-Form Solution for the Finite Length Constant Modulus Receiver
+Frugality ratios and improved truthful mechanisms for vertex cover
+Constrained Cost-Coupled Stochastic Games with Independent State Processes
+Cooperative game theory and the Gaussian interference channel
+Nonantagonistic noisy duels of discrete type with an arbitrary number of actions
+For-profit mediators in sponsored search advertising
+A system for the simulation of simultaneous moves between two noncolocational players
+Capacity constraints and the inevitability of mediators in adword auctions
+Competition in Wireless Systems via Bayesian Interference Games
+Enumerating the Nash equilibria of rank 1-games
+Learning for Dynamic Bidding in Cognitive Radio Resources
+Stochastic Models for Budget Optimization in Search-Based Advertising
+Pricing Competition and Routing for Selfish and Strategic Nodes in Multi-hop Relay Networks
+Computing Equilibria in Anonymous Games
+Diversification in the Internet Economy:The Role of For-Profit Mediators
+Simple Recursive Games
+The Price of Selfish Stackelberg Leadership in a Network Game
+Capacity as a Fundamental Metric for Mechanism Design in the Information Economy
+Bi-capacities -- Part II: the Choquet integral
+Bi-capacities -- Part I: definition M obius transform and interaction
+Derivative of functions over lattices as a basis for the notion of interaction between attributes
+Lower Bounds on Implementing Robust and Resilient Mediators
+Copeland Voting Fully Resists Constructive Control
+Nonuniform Bribery
+Joint Receiver and Transmitter Optimization for Energy-Efficient CDMA Communications
+Borel Ranks and Wadge Degrees of Context Free Omega Languages
+Discrete Nondeterminism and Nash Equilibria for Strategy-Based Games
+Graphs and Path Equilibria
+Automata-based Adaptive Behavior for Economical Modelling Using Game Theory
+Dynamic Logic of Common Knowledge in a Proof Assistant
+Non-atomic Games for Multi-User Systems
+Nash bargaining with a nondeterministic threat
+On the Length of the Wadge Hierarchy of Omega Context Free Languages
+Asynchronous Iterative Waterfilling for Gaussian Frequency-Selective Interference Channels
+A Truthful Mechanism for Offline Ad Slot Scheduling
+Solving Min-Max Problems with Applications to Games
+The Complexity of Power-Index Comparison
+Bicretieria Optimization in Routing Games
+Complexity of Combinatorial Market Makers
+On the Complexity of Nash Equilibria of Action-Graph Games
+A Distributed Merge and Split Algorithm for Fair Cooperation in Wireless Networks
+Equilibria Fixed Points and Complexity Classes
+Stackelberg Network Pricing Games
+Model Checking Games for the Quantitative mu-Calculus
+The Variable Hierarchy for the Games mu-Calculus
+The Complexity of Testing Properties of Simple Games
+Symmetric and Synchronous Communication in Peer-to-Peer Networks
+Comparing the notions of optimality in CP-nets strategic games and soft constraints
+Optimal Mechansim Design and Money Burning
+Decentralized Knowledge and Learning in Strategic Multi-user Communication
+On the Asymptotic Behavior of Selfish Transmitters Sharing a Common Channel
+Communication Requirements for Generating Correlated Random Variables
+Sponsored Search Auctions with Markovian Users
+Online Ad Slotting With Cancellations
+Coalition Games with Cooperative Transmission: A Cure for the Curse of Boundary Nodes in Selfish Packet-Forwarding Wireless Networks
+A Game Theoretic Framework for Decentralized Power Allocation in IDMA Systems
+A Local Mean Field Analysis of Security Investments in Networks
+Correlated Anarchy in Overlapping Wireless Networks
+Malicious Bayesian Congestion Games
+Competitive Design of Multiuser MIMO Systems based on Game Theory: A Unified View
+Bounded Budget Connection (BBC) Games or How to make friends and influence people on a budget
+Polynomial stochastic games via sum of squares optimization
+Frequency of Correctness versus Average-Case Polynomial Time and Generalized Juntas
+Opportunistic Interference Alignment in MIMO Interference Channels
+To Broad-Match or Not to Broad-Match : An Auctioneer's Dilemma ?
+In-depth analysis of the Naming Game dynamics: the homogeneous mixing case
+A new Hedging algorithm and its application to inferring latent random variables
+The Dynamics of Probabilistic Population Protocols
+Timed Parity Games: Complexity and Robustness
+General Auction Mechanism for Search Advertising
+Energy-Efficient Resource Allocation in Multiuser MIMO Systems: A Game-Theoretic Framework
+Energy-Efficient Power Control in Multipath CDMA Channels via Large System Analysis
+A characterization of 2-player mechanisms for scheduling
+An tilde O (n 2. ) -Time Algorithm for Online Topological Ordering
+Cognitive MIMO Radio: A Competitive Optimality Design Based on Subspace Projections
+Algorithmic Pricing via Virtual Valuations
+Discretized Multinomial Distributions and Nash Equilibria in Anonymous Games
+How Hard Is Bribery in Elections?
+An omega-power of a context-free language which is Borel above Delta  omega
+Essential conditions for evolution of communication within a species
+Marketing in Random Networks
+Temporized Equilibria
+Sex is always well worth its two-fold cost
+Game Theory with Costly Computation
+Agent Models of Political Interactions
+Complexity of comparison of influence of players in simple games
+Rational Generating Functions and Integer Programming Games
+Derivation of evolutionary payoffs from observable behavior
+Amdahl's and Gustafson-Barsis laws revisited
+Probabilistic Systems with LimSup and LimInf Objectives
+On the vertices of the k-addiive core
+Termination Criteria for Solving Concurrent Safety and Reachability Games
+Llull and Copeland Voting Computationally Resist Bribery and Control
+Hybrid Elections Broaden Complexity-Theoretic Resistance to Control
+Quantum Implementation of Parrondo's Paradox
+Network Connection Games with Disconnected Equilibria
+Concurrent Imitation Dynamics in Congestion Games
+A game-theoretic version of Oakes' example for randomized forecasting
+From Altruism to Non-Cooperation in Routing Games
+Three New Complexity Results for Resource Allocation Problems
+Demand allocation with latency cost functions
+Unsatisfiable (k ( 2 k k))-CNF formulas
+Disproving the Neighborhood Conjecture
+Dynamic assignment: there is an equilibrium
+A comparison of the notions of optimality in soft constraints and graphical games
+Welfare Undominated Groves Mechanisms
+Iterated Regret Minimization: A More Realistic Solution Concept
+Optimal Strategies in Sequential Bidding
+A Distributed Platform for Mechanism Design
+Common Beliefs and Public Announcements in Strategic Games with Arbitrary Strategy Sets
+Adversarial Scheduling Analysis of Game Theoretic Models of Norm Diffusion
+Recursive Concurrent Stochastic Games
+Multi-Objective Model Checking of Markov Decision Processes
+Conjectural Equilibrium in Water-filling Games
+Conversion Preference Games
+Best-Effort Strategies for Losing States
+Determinacy and Decidability of Reachability Games with Partial Observation on Both Sides
+A New Perspective on Multi-user Power Control Games in Interference Channels
+On Winning Conditions of High Borel Complexity in Pushdown Games
+A O( log m) deterministic polynomial-time computable approximation of Lewis Carroll's scoring rule
+Truthful Unsplittable Flow for Large Capacity Networks
+Parimutuel Betting on Permutations
+On the Expressiveness and Complexity of ATL
+On the performance of approximate equilibria in congestion games
+Coalitions in Cooperative Wireless Networks
+Approximate Equilibria in Games with Few Players
+Strategy Improvement for Concurrent Safety Games
+On the Convergence Time of the Best Response Dynamics in Player-specific Congestion Games
+Model Checking One-clock Priced Timed Automata
+Algorithmic Methods for Sponsored Search Advertising
+(Mechanical) Reasoning on Infinite Extensive Games
+Algorithms for B uchi Games
+Stochastic Limit-Average Games are in EPTIME
+Environment Assumptions for Synthesis
+Beyond Nash Equilibrium: Solution Concepts for the 21st Century
+Approximability and parameterized complexity of minmax values
+Queue-length Variations In A Two-Restaurant Problem
+The Stock Market as a Game: An Agent Based Approach to Trading in Stocks
+Symbolic Backwards-Reachability Analysis for Higher-Order Pushdown Systems
+Convergence to Equilibrium in Local Interaction Games and Ising Models
+On the computational complexity of solving stochastic mean-payoff games
+Trembling hand perfection is NP-hard
+A Relaying Incentive Scheme in Multihop Cellular Networks Based on Coalitional Game with Externalities
+Preference Games and Personalized Equilibria with Applications to Fractional BGP
+Analysis of Group Multiuser Detection Based on Coalitional Game
+Adversarial Scheduling in Evolutionary Game Dynamics
+An Efficient PTAS for Two-Strategy Anonymous Games
+The MIMO Iterative Waterfilling Algorithm
+How Many Attackers Can Selfish Defenders Catch?
+On Optimal Linear Redistribution of VCG Payments in Assignment of Heterogeneous Objects
+A   - Approximation Algorithm for the Maximum Traveling Salesman Problem
+An equilibrium model for matching impatient demand and patient supply over time
+Hybrid Keyword Search Auctions
+Cores of Cooperative Games in Information Theory
+Promotion of cooperation on networks? The myopic best response case
+An Online Multi-unit Auction with Improved Competitive Ratio
+A Super-Polynomial Lower Bound for the Parity Game Strategy Improvement Algorithm as We Know it
+A Constructive Generalization of Nash Equilibrium
+Bid Optimization in Broad-Match Ad auctions
+Alpaga: A Tool for Solving Parity Games with Imperfect Information
+Altruism in Atomic Congestion Games
+The Safe Lambda Calculus
+On the complexity of Nash dynamics and Sink Equilibria
+The Price of Anarchy in Cooperative Network Creation Games
+Random Fruits on the Zielonka Tree
+On Framework and Hybrid Auction Approach to the Spectrum Licensing Procedure
+A Generic Approach to Coalition Formation
+Selfish Distributed Compression over Networks: Correlation Induces Anarchy
+Power Indices and minimal winning Coalitions
+On Pure and (approximate) Strong Equilibria of Facility Location Games
+Universally Utility-Maximizing Privacy Mechanisms
+On Profit-Maximizing Pricing for the Highway and Tollbooth Problems
+Impact of Cognitive Radio on Future Management of Spectrum
+General Game Management Agent
+Heuristic Reasoning on Graph and Game Complexity of Sudoku
+On Competing Wireless Service Providers
+Manipulating Scrip Systems: Sybils and Collusion
+Multiagent Learning in Large Anonymous Games
+Introducing Hierarchy in Energy Games
+A Constructive Generalization of Nash Equilibrium for Better Payoffs and Stability
+Undirected Graphs of Entanglement Two
+Mission-Aware Medium Access Control in Random Access Networks
+Settling the Complexity of Arrow-Debreu Equilibria in Markets with Additively Separable Utilities
+Reducibility Among Fractional Stability Problems
+Undirected Graphs of Entanglement 
+The Star Height Hierarchy Vs. The Variable Hierarchy
+Closure Under Minors of Undirected Entanglement
+Pricing Randomized Allocations
+The Business of Selling Electronic Documents
+Incentive Compatible Budget Elicitation in Multi-unit Auctions
+Deconstruction of Infinite Extensive Games using coinduction
+Lexicographic probability conditional probability and nonstandard probability
+Solving Simple Stochastic Games with Few Random Vertices
+Stackelberg Contention Games in Multiuser Networks
+Disproof of the Neighborhood Conjecture with Implications to SAT
+VC v. VCG: Inapproximability of Combinatorial Auctions via Generalizations of the VC Dimension
+Coalitional Games for Distributed Collaborative Spectrum Sensing in Cognitive Radio Networks
+On the Complexity of Deciding Degeneracy in Games
+Dynamic and Non-Uniform Pricing Strategies for Revenue Maximization
+Kolkata Paise Restaurant Problem in Some Uniform Learning Strategy Limits
+False name manipulations in weighted voting games: splitting merging and annexation
+Memento Ludi: Information Retrieval from a Game-Theoretic Perspective
+Auctions with Online Supply
+A semantical approach to equilibria and rationality
+Towards Barter Double Auction as Model for Bilateral Social Cooperations
+Swap Bribery
+Coalitional Game Theory for Communication Networks: A Tutorial
+Sincere-Strategy Preference-Based Approval Voting Fully Resists Constructive Control and Broadly Resists Destructive Control
+Dynamic spectrum sharing game by lease
+Inventory competition in a multi channel distribution system: The Nash and Stackelberg game
+Methodologies for Analyzing Equilibria in Wireless Games
+Efficiency of (Revenue-)Optimal Mechanisms
+Truthful Mechanisms via Greedy Iterative Packing
+Playing With Population Protocols
+Spreading Code and Widely-Linear Receiver Design: Non-Cooperative Games for Wireless CDMA Networks
+Optimal Constrained Resource Allocation Strategies under Low Risk Circumstances
+Spanning connectivity games
+Games for width parameters and monotonicity
+Constructive Decision Theory
+Reasoning About Knowledge of Unawareness Revisited
+A Logical Characterization of Iterated Admissibility
+A Novel Bid Optimizer for Sponsored Search Auctions based on Cooperative Game Theory
+Physical Layer Security: Coalitional Games for Distributed Cooperation
+Sequential pivotal mechanisms for public project problems
+Theory of Rule  and its Application to Round Robin Tournament
+A Cut-off Phenomenon in Location Based Random Access Games with Imperfect Information
+Design of an Optimal Bayesian Incentive Compatible Broadcast Protocol for Ad hoc Networks with Rational Nodes
+On the Complexity of Envy-Free Cake Cutting
+How discontinuous is Computing Nash Equilibria?
+Learning Equilibria in Games by Stochastic Distributed Algorithms
+On the Chances of Completing the Game of Perpetual Motion
+Strategyproof Approximation Mechanisms for Location on Networks
+Cooperation in Subset Team Games: Altruism and Selfishness
+Rational Synthesis
+A deterministic truthful PTAS for scheduling related machines
+Population Protocols that Correspond to Symmetric Games
+Reachability-time games on timed automata
+Decidability of higher-order matching
+Spending is not Easier than Trading: On the Computational Equivalence of Fisher and Arrow-Debreu Equilibria
+Parametric packing of selfish items and the subset sum algorithm
+Convergence of Local Dynamics to Balanced Outcomes in Exchange Networks
+On the Power of Randomization in Algorithmic Mechanism Design
+A Note on the Power of Truthful Approximation Mechanisms
+Feasibility Desirability Games for Normal Form Games Choice Models and Evolutionary Games
+Algorithmic Decision Optimization Techniques for Multiple Types of Agents with Contrasting Interests
+Analytical Study of Adversarial Strategies in Cluster-based Overlays
+Linearly Coupled Communication Games
+On the Base Station Selection and Base Station Sharing in Self-Configuring Networks
+Rate Constrained Random Access over a Fading Channel
+A Stable On-line Algorithm for Energy Efficient Multi-user Scheduling
+Multipath Wireless Network Coding: A Population Game Perspective
+Closed form solutions for symmetric water filling games
+A Distributed Algorithm for Fair and Efficient User-Network Association in Multi-Technology Wireless Networks
+Villager's dilemma
+One-Counter Markov Decision Processes
+2-Player Nash and Nonsymmetric Bargaining Games: Algorithms and Structural Properties
+Strong Nash Equilibria in Games with the Lexicographical Improvement Property
+Envy-Free Makespan Approximation
+Route Distribution Incentives
+A Strategy for Maker in the Clique Game which Helps to Tackle some Open Problems by Beck
+Manipulation and gender neutrality in stable marriage procedures
+A Graph Spectral Approach for Computing Approximate Nash Equilibria
+Complexity of Strong Implementability
+Quasi-Proportional Mechanisms: Prior-free Revenue Maximization
+Complexity of Manipulating Elections with Few Candidates
+AWESOME: A General Multiagent Learning Algorithm that Converges in Self-Play and Learns a Best Response Against Stationary Opponents
+How many candidates are needed to make elections hard to manipulate?
+BL-WoLF: A Framework For Loss-Bounded Learnability In Zero-Sum Games
+Complexity of Determining Nonemptiness of the Core
+Universal Voting Protocol Tweaks to Make Manipulation Hard
+Analysis of Relationship between Strategic and Aggregate Energy Minimization in Delay-Constrained Wireless Networks
+New directions in mechanism design
+The Shapley Value of Phylogenetic Trees
+A Novel Clustering Algorithm Based on Quantum Games
+Arrow's Impossibility Theorem Without Unanimity
+Degrees of Guaranteed Envy-Freeness in Finite Bounded Cake-Cutting Protocols
+The Peter Principle Revisited: A Computational Study
+Wiretapping a hidden network
+Linear Complementarity Algorithms for Infinite Games
+Beyond Equilibria: Mechanisms for Repeated Combinatorial Auctions
+Stackelberg Pricing is Hard to Approximate within 2- epsilon
+Ranking via Arrow-Debreu Equilibrium
+Noisy fighter-bomber duel
+Bidding for Representative Allocations for Display Advertising
+Social Networks and Stable Matchings in the Job Market
+Pessimistic Testing
+A real world network pricing game with less severe Braess' Paradox
+The Effect of Malice on the Social Optimum in Linear Load Balancing Games
+Average-Time Games on Timed Automata
+Algorithms for Image Analysis and Combination of Pattern Classifiers with Application to Medical Diagnosis
+Congestion games with resource reuse and applications in spectrum sharing
+Sum of Us: Strategyproof Selection from the Selectors
+Continuum Equilibria and Global Optimization for Routing in Dense Static Ad Hoc Networks
+Magnetworks: how mobility impacts the design of Mobile Networks
+Optimal Linear Precoding Strategies for Wideband Non-Cooperative Systems based on Game Theory-Part I: Nash Equilibria
+Optimal Linear Precoding Strategies for Wideband Non-Cooperative Systems based on Game Theory-Part II: Algorithms
+A Simple Characterization of Strategic Behaviors in Broadcast Channels
+Controllable coherent population transfers in superconducting qubits for quantum computing
+Statistical-mechanics approach to a reinforcement learning model with memory
+Effect of spatial structure on the evolution of cooperation
+Differentially Private Combinatorial Optimization
+Imperfect Imitation Can Enhance Cooperation
+Randomized Online Algorithms for the Buyback Problem
+State Information in Bayesian Games
+Examples as Interaction: On Humans Teaching a Computer to Play a Game
+Information Geometry and Evolutionary Game Theory
+On the Pricing of Recommendations and Recommending Strategically
+Evolutionary game theory: Temporal and spatial effects beyond replicator dynamics
+Almost Linear B uchi Automata
+Bounding Rationality by Discounting Time
+The Impact of Exponential Utility Costs in Bottleneck Routing Games
+Parrondo's games with chaotic switching
+A continuous rating method for preferential voting
+Semidefinite Programming for Min-Max Problems and Games
+Dynamic Conjectures in Random Access Networks Using Bio-inspired Learning
+Amplified Hardness of Approximation for VCG-Based Mechanisms
+Envy Multi Envy and Revenue Maximization
+A Decision-Optimization Approach to Quantum Mechanics and Game Theory
+The strange algebra of combinatorial games
+The Anderson-Weber strategy is not optimal for symmetric rendezvous search on K
+A Learning-Based Approach to Reactive Security
+Nice Bounds for the Generalized Ballot Problem
+A Formal Framework for Mobile Robot Patrolling in Arbitrary Environments with Adversaries
+Spectrum Sharing as Network Congestion Games
+Designing ISP-friendly Peer-to-Peer Networks Using Game-based Control
+E-commerce between a large firm and a SME supplier: a screening model
+Optimal minimax strategy in a dice game
+Sequential Posted Pricing and Multi-parameter Mechanism Design
+The Complexity of Iterated Strategy Elimination
+O-Minimal Hybrid Reachability Games
+The Cardinality of Infinite Games
+Cryptographic Implications for Artificially Mediated Games
+Least and greatest fixpoints in game semantics
+An analysis of a war-like card game
+Multi-Armed Bandit Mechanisms for Multi-Slot Sponsored Search Auctions
+A complete characterization of group-strategyproof mechanisms of cost-sharing
+Extensional and Intensional Strategies
+Some Algebraic Properties of a Subclass of Finite Normal Form Games
+Equilibria of Plurality Voting with Abstentions
+Computing voting power in easy weighted voting games
+A game theory approach for self-coexistence analysis among IEEE 2.22 networks
+Balancing Traffic in Networks: Redundancy Learning and the Effect of Stochastic Fluctuations
+A Grey-Box Approach to Automated Mechanism Design
+Minimum and maximum against k lies
+Pure Nash Equilibria: Complete Characterization of Hard and Easy Graphical Games
+An Approximate Subgame-Perfect Equilibrium Computation Technique for Repeated Games
+A Sublogarithmic Approximation for Highway and Tollbooth Pricing
+Reachability Games on Extended Vector Addition Systems with States
+The lattice of embedded subsets
+The power of randomness in Bayesian optimal mechanism design
+Competitive Spectrum Management with Incomplete Information
+Signaling games with pattern recognition
+The Potluck Problem
+A Novel Clustering Algorithm Based Upon Games on Evolving Network
+Budget Constrained Auctions with Heterogeneous Items
+Information-Sharing and Privacy in Social Networks
+Strategical languages of infinite words
+On Probabilistic Alternating Simulations
+What does Newcomb's paradox teach us?
+Roberts' Theorem with Neutrality: A Social Welfare Ordering Approach
+Stochastic Games for Security in Networks with Interdependent Nodes
+Security Games with Decision and Observation Errors
+Non-oblivious Strategy Improvement
+Strategic Cooperation in Cost Sharing Games
+A tight quantitative version of Arrow's impossibility theorem
+Bottleneck Routing Games with Low Price of Anarchy
+Game interpretation of Kolmogorov complexity
+On the Interplay between Incentive Compatibility and Envy Freeness
+Separable and Low-Rank Continuous Games
+An Optimal Multi-Unit Combinatorial Procurement Auction with Single Minded Bidders
+Statistical mechanics of budget-constrained auctions
+Optimism in Games with Non-Probabilistic Uncertainty
+Information Asymmetries in Pay-Per-Bid Auctions: How Swoopo Makes Bank
+Combinatorial Auctions with Budgets
+Towards Network Games with Social Preferences
+Iterated Regret Minimization in Game Graphs
+Robust Mechanisms for Risk-Averse Sellers
+A hybrid decision approach for the association problem in heterogeneous networks
+How powerful are integer-valued martingales?
+Indian policeman's dilemma: A game theoretic model
+The Networked Common Goods Game
+Equilibrium Point in Quantum Physics and its Inspiration to Game Theory
+Competitive Equilibria in Matching Markets with Budgets
+Control Complexity in Fallback Voting
+The cooperative game theory foundations of network bargaining games
+On the Rationality of Escalation
+Evolution of the Internet AS-Level Ecosystem
+Fairness in Combinatorial Auctioning Systems
+Coevolutionary Genetic Algorithms for Establishing Nash Equilibrium in Symmetric Cournot Games
+A Natural Dynamics for Bargaining on Exchange Networks
+Nash equilibria in Fisher market
+Structural Solutions For Additively Coupled Sum Constrained Games
+How to correctly prune tropical trees
+Fairness in Combinatorial Auctions
+When Knowing Early Matters: Gossip Percolation and Nash Equilibria
+The Complexity of Nash Equilibria in Simple Stochastic Multiplayer Games
+Decision Problems for Nash Equilibria in Stochastic Games
+The Shield that Never Was: Societies with Single-Peaked Preferences are More Open to Manipulation and Control
+Approximate Privacy: Foundations and Quantification
+A Rational Decision Maker with Ordinal Utility under Uncertainty: Optimism and Pessimism
+Quantitative Games on Probabilistic Timed Automata
+Cooperation in the snowdrift game on directed small-world networks under self-questioning and noisy conditions
+Spectrum Trading: An Abstracted Bibliography
+An Algebraic Approach for Computing Equilibria of a Subclass of Finite Normal Form Games
+From Lawvere to Brandenburger-Keisler: interactive forms of diagonalization and self-reference
+Blackwell-Optimal Strategies in Priority Mean-Payoff Games
+Discounting in Games across Time Scales
+How do we remember the past in randomised strategies?
+Using Strategy Improvement to Stay Alive
+Local Strategy Improvement for Parity Game Solving
+Playing Muller Games in a Hurry
+Formats of Winning Strategies for Six Types of Pushdown Games
+Proceedings First Symposium on Games Automata Logic and Formal Verification
+Mix and Match
+Parameterized Two-Player Nash Equilibrium
+Imitation in Large Games
+Optimal whitespace synchronization strategies
+Fictitious Play with Time-Invariant Frequency Update for Network Security
+Proof-theoretic Analysis of Rationality for Strategic Games with Arbitrary Strategy Sets
+Quantitative Fairness Games
+A Game Theoretical Approach to Modeling Information Dissemination in Social Networks
+Modeling the emergence of universality in color naming patterns
+Cheating for Problem Solving: A Genetic Algorithm with Social Interactions
+Resource Pricing In A Dynamic Multi-Commodity Market For Computational Resources
+Agent Based Trust Management Model Based on Weight Value Model for Online Auctions
+Focusing in Asynchronous Games
+Calibration and Internal no-Regret with Partial Monitoring
+An Optimization and Control Theoretic Approach to Noncooperative Game Design
+Query Strategies for Evading Convex-Inducing Classifiers
+An axiomatic formalization of bounded rationality based on a utility-information equivalence
+Competition of Wireless Providers for Atomic Users
+On the justification of applying quantum strategies to the Prisoners' Dilemma and mechanism design
+Shannon Meets Nash on the Interference Channel
+Multimode Control Attacks on Elections
+Time symmetric Go
+Single Parameter Combinatorial Auctions with Partially Public Valuations
+On the Approximability of Budget Feasible Mechanisms
+A Direct Reduction from k-Player to 2-Player Approximate Nash Equilibrium
+Strategic Information Exchange
+Braess's Paradox for Flows Over Time
+A Repeated Game Formulation of Energy-Efficient Decentralized Power Control
+Satisfaction Equilibrium: A General Framework for QoS Provisioning in Self-Configuring Networks
+Game theory and the frequency selective interference channel - A tutorial
+A competitive game whose maximal Nash-equilibrium payoff requires quantum resources for its achievement
+A Game Theoretic Analysis of Incentives in Content Production and Sharing over Peer-to-Peer Networks
+Market Equilibrium with Transaction Costs
+Selective Call Out and Real Time Bidding
+Stable Nash equilibria of medium access games under symmetric socially altruistic behavior
+A Game Theoretical Analysis of Localization Security in Wireless Sensor Networks with Adversaries
+Intervention Mechanism Design for Networks With Selfish Users
+Impossibility of Differentially Private Universally Optimal Mechanisms
+Strategy iteration is strongly polynomial for 2-player turn-based stochastic games with a constant discount factor
+Statistical Trading Using Target Oriented Trading Agent
+Dodgson's Rule Approximations and Absurdity
+Approximation Schemes for Sequential Posted Pricing in Multi-Unit Auctions
+A Game Theoretical Approach to Modeling Full-Duplex Information Dissemination
+Sequential Rationality in Cryptographic Protocols
+Quantum realization of extensive games
+MAC design for WiFi infrastructure networks: a game-theoretic approach
+Targeting by Transnational Terrorist Groups
+Stay by thy neighbor? Social organization determines the efficiency of biodiversity markets with spatial incentives
+Algorithms for Game Metrics
+EcoTRADE - a multi player network game of a tradable permit market for biodiversity credits
+On Oligopoly Spectrum Allocation Game in Cognitive Radio Networks with Capacity Constraints
+Revenue Optimal Auction for Single-Minded Buyers
+Efficiency Loss in Revenue Optimal Auctions
+A partial proof of Nash's Theorem via exchangeable equilibria
+Mathematical Modeling of Competition in Sponsored Search Market
+The Hitchhiker's Guide to Affiliation Networks: A Game-Theoretic Approach
+Geometric construction of voting methods that protect voters' first choices
+Dynamic Interference Minimization Routing Game for On-Demand Cognitive Pilot Channel
+Rationalizations of Condorcet-Consistent Rules via Distances of Hamming Type
+A Complexity View of Markets with Social Influence
+A Unified Mechanism Design Framework for Networked Systems
+Dynamically generated cyclic dominance in spatial prisoner's dilemma games
+Approximate results for a generalized secretary problem
+Chaos and Unraveling in Matching Markets
+MiBoard: Metacognitive Training Through Gaming in iSTART
+MiBoard: iSTART Metacognitive Training through Gaming
+MiBoard: A Digital Game from a Physical World
+Gamed-based iSTART Practice: From MiBoard to Self-Explanation Showdown
+Understanding Fashion Cycles as a Social Choice
+Theory and applications of lattice point methods for binomial ideals
+On the Fictitious Play and Channel Selection Games
+One-Counter Stochastic Games
+Computing the nucleolus of weighted voting games
+What does Newcomb's paradox teach us?
+The emergence of rational behavior in the presence of stochastic perturbations
+The Cost of Stability in Coalitional Games
+Distributed Computing with Adaptive Heuristics
+Equilibrium solution to the lowest unique positive integer game
+An Optimal Dynamic Mechanism for Multi-Armed Bandit Processes
+Constrained Non-Monotone Submodular Maximization: Offline and Secretary Algorithms
+A New Framework for Cognitive Medium Access Control: POSG Approach
+Truthful Fair Division
+Generalized Mean-payoff and Energy Games
+Mechanism Design via Correlation Gap
+Application Neutrality and a Paradox of Side Payments
+Alternating-Offer Bargaining Games over the Gaussian Interference Channel
+Rectangular Polyomino Set Weak (1 2)-achievement Games
+A note on hierarchies and bureaucracies
+Coalition Formation Games for Distributed Cooperation Among Roadside Units in Vehicular Networks
+Conservation Law of Utility and Equilibria in Non-Zero Sum Games
+Exchangeable equilibria contradict exactness of the Papadimitriou-Roughgarden algorithm
+A Stackelberg Strategy for Routing Flow over Time
+QoS-Aware Joint Policies in Cognitive Radio Networks
+Game Theoretical Power Control for Open-Loop Overlaid Network MIMO Systems with Partial Cooperation
+Rational Convex Programs Their Feasibility and the Arrow-Debreu Nash Bargaining Game
+Non-Separable Quasiconcave Utilities are Easy -- in a Perfect Price Discrimination Market Model
+Hedonic Coalition Formation for Distributed Task Allocation among Wireless Agents
+Coalition Formation Games for Collaborative Spectrum Sensing
+Navigating the Topology of 2x2 Games: An Introductory Note on Payoff Families Normalization and Natural Order
+Polynomial Bottleneck Congestion Games with Optimal Price of Anarchy
+The nature of individual choice: a formalism for utility function based on set theory
+Privacy-Preserving English Auction Protocol with Round Efficiency
+Hysteresis effects of changing parameters of noncooperative games
+Approximation Algorithms for Campaign Management
+Multi-Unit Auctions: Beyond Roberts
+On a game theoretic approach to capacity maximization in wireless networks
+Sequential item pricing for unlimited supply
+Rank-1 Bi-matrix Games: A Homeomorphism and a Polynomial Time Algorithm
+The Role of Monotonicity in the Epistemic Analysis of Strategic Games
+Some Tractable Win-Lose Games
+Polynomial-time Computation of Exact Correlated Equilibrium in Compact Games
+A Game-theoretic Approach for Synthesizing Fault-Tolerant Embedded Systems
+Multivariate Analyis of Swap Bribery
+An Impossibility Result for Truthful Combinatorial Auctions with Submodular Valuations
+Blackwell Approachability and Low-Regret Learning are Equivalent
+An Optimization-Based Framework for Automated Market-Making
+Matching with Couples Revisited
+Optimal Auctions with Correlated Bidders are Easy
+Existence of Stable Exclusive Bilateral Exchanges in Networks
+Generalized Stable Matching in Bipartite Networks
+Improved Social Welfare Bounds for GSP at Equilibrium
+The tragedy of the commons in a multi-population complementarity game
+Learning evolution and population dynamics
+Coverage games in small cells networks
+Dynamic Power Allocation Games in Parallel Multiple Access Channels
+Nimbers are inevitable
+Bayesian Incentive Compatibility via Fractional Assignments
+Strategic Insights From Playing the Quantum Tic-Tac-Toe
+Inner Product Spaces for MinSum Coordination Mechanisms
+Truthfulness via Proxies
+Spectrum Sharing as Spatial Congestion Games
+Mean Field Equilibrium in Dynamic Games with Complementarities
+Considerate Equilibrium
+Designing Incentive Schemes Based on Intervention: The Case of Imperfect Monitoring
+Designing Incentive Schemes Based on Intervention: The Case of Perfect Monitoring
+Congestion Games with Variable Demands
+Discrete Price Updates Yield Fast Convergence in Ongoing Markets with Finite Warehouses
+Cooperation under Incomplete Information on the Discount Factors
+Incentive Games and Mechanisms for Risk Management
+Minimum regulation of uncoordinated matchings
+Public Announcements in Strategic Games with Arbitrary Strategy Sets
+On game psychology: an experiment on the chess board screen should you always do your best and why the programs with prescribed weaknesses cannot be our good friends?
+Direct Proofs of Order Independence
+Generating functions partitioning algorithm for computing power indices in weighted voting games
+Application of the EWL protocol to decision problems with imperfect recall
+On the Windfall and Price of Friendship: Inoculation Strategies on Social Networks
+Stability Analysis of Transportation Networks with Multiscale Driver Decisions
+Equilibria in Quitting Games - Basics
+Robust Line Planning in case of Multiple Pools and Disruptions
+Dueling Algorithms
+The Impact of Incomplete Information on Games in Parallel Relay Networks
+A finite goal set in the plane which is not a Winner
+The Structure of First-Order Causality (extended version)
+Optimal Pricing in Networks with Externalities
+Bayesian Algorithmic Mechanism Design
+Synthesis of Memory-Efficient Real-Time Controllers for Safety Objectives (Full Version)
+Power Allocation in Team Jamming Games in Wireless Ad Hoc Networks
+Scale invariance versus translation variance in Nash bargaining problem
+A Primer on Strategic Games
+Fixation and escape times in stochastic game learning
+Incentive Compatible Influence Maximization in Social Networks and Application to Viral Marketing
+Adaptive Resource Allocation in Jamming Teams Using Game Theory
+The complexity of approximate Nash equilibrium in congestion games with negative delays
+Ensuring the boundedness of the core of games with restricted cooperation
+On the set of imputations induced by the k-additive core
+Efficient Bayesian Social Learning on Trees
+Multiple Tree for Partially Observable Monte-Carlo Tree Search
+Graph Coalition Structure Generation
+Cost Sharing in the Aspnes Inoculation Model
+On Oblivious PTAS's for Nash Equilibrium
+An Algorithmic Analysis of the Honey-Bee Game
+Benchmark Problems for Totally Unimodular Set System Auction
+Spatial SINR Games of Base Station Placement and Mobile Association
+Simplicity-Expressiveness Tradeoffs in Mechanism Design
+Proceedings International Workshop on Interactions Games and Protocols
+The Iterated Prisoner's Dilemma on a Cycle
+On the Imitation Strategy for Games on Graphs
+Memory Reduction via Delayed Simulation
+Approachability of Convex Sets in Games with Partial Monitoring
+Internal Regret with Partial Monitoring. Calibration-Based Optimal Algorithms
+Stackelberg Network Pricing is Hard to Approximate
+Multi-unit Auctions with Budget Constraints
+Random Access Game in Fading Channels with Capture: Equilibria and Braess-like Paradoxes
+Truth and Envy in Capacitated Allocation Games
+Approximately Optimal Mechanism Design via Differential Privacy
+Cooperation and Contagion in Web-Based Networked Public Goods Experiments
+Dynamics of Profit-Sharing Games
+Online Learning: Beyond Regret
+Repeated Matching Pennies with Limited Randomness
+On the Economics of Cloud Markets
+On the Approximation Performance of Fictitious Play in Finite Games
+Enabling Differentiated Services Using Generalized Power Control Model in Optical Networks
+Heterogeneous Learning in Zero-Sum Stochastic Games with Incomplete Information
+A Constrained Evolutionary Gaussian Multiple Access Channel Game
+Evolutionary Games for Multiple Access Control
+Mechanism design with uncertain inputs (to err is human to forgive divine)
+Prices of Anarchy Information and Cooperation in Differential Games
+A Survey of PPAD-Completeness for Computing Nash Equilibria
+Learning Equilibrium Play for Stochastic Parallel Gaussian Interference Channels
+Non-Price Equilibria in Markets of Discrete Goods
+On Nash Dynamics of Matching Market Equilibria
+Study of the effect of cost policies in the convergence of selfish strategies in Pure Nash Equilibria in Congestion Games
+The Stackelberg Minimum Spanning Tree Game
+Truthful Assignment without Money
+Measuring and Synthesizing Systems in Probabilistic Environments
+Two-agent Nash implementation: A new result
+Approximation Algorithms for Secondary Spectrum Auctions
+Role of feedback and broadcasting in the naming game
+Quantum Strategic Game Theory
+From Convex Optimization to Randomized Mechanisms: Toward Optimal Combinatorial Auctions
+A Truthful Randomized Mechanism for Combinatorial Public Projects via Convex Optimization
+Path coalitional games
+Game theoretic modeling of pilot behavior during mid-air encounters
+Phase diagram of Symmetric Iterated Prisoner's Dilemma of Two-Companies with Partial Imitation Rule
+Bayesian Mechanism Design for Budget-Constrained Agents
+Effect of depreciation of the public goods in spatial public goods games
+Hide-and-Seek with Directional Sensing
+A quantum protocol for sampling correlated equilibria unconditionally and without a mediator
+Collaboration in Social Networks
+Mechanism Design without Money via Stable Matching
+Energy and Mean-Payoff Parity Markov Decision Processes
+Social Welfare in One-sided Matching Markets without Money
+When only the last one will do
+On Memoryless Quantitative Objectives
+Inapproximability of NP-Complete Variants of Nash Equilibrium
+Courcelle's Theorem - A Game-Theoretic Approach
+Classical vs Quantum Games: Continuous-time Evolutionary Strategy Dynamics
+Playing against the fittest: A simple strategy that promotes the emergence of cooperation
+Online Learning: Stochastic and Constrained Adversaries
+Propositional Computability Logic II
+From truth to computability I
+Mixing Time and Stationary Expected Social Welfare of Logit Dynamics
+Qualitative Reachability in Stochastic BPA Games
+Analysis of a CSMA-Based Wireless Network: Feasible Throughput Region and Power Consumption
+Attack--Defense Trees and Two-Player Binary Zero-Sum Extensive Form Games Are Equivalent - Technical Report with Proofs
+An FPTAS for Bargaining Networks with Unequal Bargaining Powers
+Reciprocating Preferences Stablize Matching: College Admissions Revisited
+The Monty Hall Problem: Switching is Forced by the Strategic Thinking
+Computational Rationalization: The Inverse Equilibrium Problem
+On the Impact of Fair Best Response Dynamics
+If more than Analytical Modeling is Needed to Predict Real Agents' Strategic Interaction
+Parameterized Complexity of Problems in Coalitional Resource Games
+Steady Marginality: A Uniform Approach to Shapley Value for Games with Externalities
+More about Base Station Location Games
+On characterizing quantum correlated equilibria
+Correlated Equilibria in Continuous Games: Characterization and Computation
+Spatial games and global optimization for mobile association problems
+Frugal and Truthful Auctions for Vertex Covers Flows and Cuts
+Bounded Rationality Strategy Simplification and Equilibrium
+A note on revelation principle from an energy perspective
+Complexity of coalition structure generation
+Axiomatic Attribution for Multilinear Functions
+Optimal Strategies in Infinite-state Stochastic Reachability Games
+Analysis of Equilibria and Strategic Interaction in Complex Networks
+Noncooperative Games for Autonomous Consumer Load Balancing over Smart Grid
+Submodular Functions Are Noise Stable
+A reduction from parity games to simple stochastic games
+Opacity Issues in Games with Imperfect Information
+Connectivity Games over Dynamic Networks
+Optimal Bounds in Parametric LTL Games
+A Game-Theoretic approach to Fault Diagnosis of Hybrid Systems
+False-name-proof Mechanisms for Hiring a Team
+Some remarks on cops and drunk robbers
+Eliciting Forecasts from Self-interested Experts: Scoring Rules for Decision Makers
+On the Nash Equilibria in Decentralized Parallel Interference Channels
+I Don't Want to Think About it Now:Decision Theory With Costly Computation
+Learning Equilibria with Partial Information in Decentralized Wireless Networks
+No justified complaints: On fair sharing of multiple resources
+A Packet Dropping Mechanism for Efficient Operation of M M 1 Queues with Selfish Users
+Competitive Safety Analysis: Robust Decision-Making in Multi-Agent Systems
+A Game Theoretical Approach to Broadcast Information Diffusion in Social Networks
+Opportunistic Power Control for Multi-Carrier Interference Channels
+Set systems: order types continuous nondeterministic deformations and quasi-orders
+Efficient and Distributed SINR-based Joint Resource Allocation and Base Station Assignment in Wireless CDMA Networks
+Dominating Manipulations in Voting with Partial Information
+An adjusted payoff-based procedure for normal form games
+Affine stratifications from finite mis ere quotients
+A Clustering Coefficient Network Formation Game
+A Strategy-Proof and Non-monetary Admission Control Mechanism for Wireless Access Networks
+Efficient Approximation of Optimal Control for Markov Games
+The Theory of Intervention Games for Resource Sharing in Wireless Communications
+Computability of simple games: A complete investigation of the sixty-four possibilities
+Privacy-Enhanced Reputation-Feedback Methods to Reduce Feedback Extortion in Online Auctions
+Peer Effects and Stability in Matching Markets
+Efficient computation of approximate pure Nash equilibria in congestion games
+Enforcing efficient equilibria in network design games via subsidies
+Approximating the Termination Value of One-Counter MDPs and Stochastic Games
+The Public Option: a Non-regulatory Alternative to Network Neutrality
+Decompositions of two player games: potential zero-sum and stable games
+K-Implementation
+Concurrent Auctions Across The Supply Chain
+Existence of Multiagent Equilibria with Limited Agents
+The Monty Hall Problem in the Game Theory Class
+Preference aggregation theory without acyclicity: The core without majority dissatisfaction
+The second-price auction solves King Solomon's dilemma
+The Nakamura numbers for computable simple games
+The Unlucky Door
+Two-Player Reachability-Price Games on Single-Clock Timed Automata
+Efficient coordination mechanisms for unrelated machine scheduling
+Biased Weak Polyform Achievement Games
+Magnifying Lens Abstraction for Stochastic Games with Discounted and Long-run Average Objectives
+Partial-Observation Stochastic Games: How to Win when Belief Fails
+Optimization with Demand Oracles
+A generalization of a classical model in contract theory: The agent behavior
+Lower Bound for Envy-Free and Truthful Makespan Approximation on Related Machines
+Cooperative oligopoly games: a probabilistic approach
+Quantum information approach to normal representation of extensive games
+Oracular Form and Computing Strong Game-Theoretic Jotto Strategies
+A Stochastic Game Formulation of Energy-Efficient Power Control: Equilibrium Utilities and Practical Strategies
+Jeux stochastiques et contr ole de puissance distribu 'e
+Dynamics in Near-Potential Games
+Groupstrategyproofness of the Egalitarian Mechanism for Constrained Rationing Problems
+Some Non-Classical Approaches to the Branderburger-Keisler Paradox
+A Logic for Strategy Updates
+Combinatorial Game Theory Well-Tempered Scoring Games and a Knot Game
+Competitive Auctions for Markets with Positive Externalities
+Replicator Dynamics of Co-Evolving Networks
+Strategies for fast convergence in semiotic dynamics
+Qualitative Concurrent Stochastic Games with Imperfect Information
+Distributed iterated elimination of strictly dominated strategies
+The Complexity of the Homotopy Method Equilibrium Selection and Lemke-Howson Solutions
+The Full Strategy Minority Game
+A Quantum Analogue of Parrondo's Game
+On the Non-Progressive Spread of Influence through Social Networks
+Public Announcement Logic in Geometric Frameworks
+BQP and PPAD
+Unilateral Altruism in Network Routing Games with Atomic Players
+Non-cooperative Game For Capacity Offload
+k-Capture in Multiagent Pursuit Evasion or the Lion and the Hyenas
+On the Structure of Weakly Acyclic Games
+Reputation-based Incentive Protocols in Crowdsourcing Applications
+Brouwer's fixed point theorem with sequentially at most one fixed point
+Building Better Incentives for Robustness in BitTorrent
+Policy Iteration is well suited to optimize PageRank
+Manipulation Can Be Hard in Tractable Voting Systems Even for Constant-Sized Coalitions
+Self-Optimized OFDMA via Multiple Stackelberg Leader Equilibrium
+Mechanism Design via Consensus Estimates Cross Checking and Profit Extraction
+Supervised Rank Aggregation for Predicting Influence in Networks
+Robust Stackelberg game in communication systems
+Strategic Learning and Robust Protocol Design for Online Communities with Selfish Users
+A System for Distributed Mechanisms: Design Implementation and Applications
+Continuous Strategy Replicator Dynamics for Multi--Agent Learning
+Flows and Decompositions of Games: Harmonic and Potential Games
+Optimal Pricing in Social Networks with Incomplete Information
+Robust Additively Coupled Games
+Statistical physics approach to graphical games: local and global interactions
+Noncooperatively Optimized Tolerance: Decentralized Strategic Optimization in Complex Systems
+Learning Valuation Functions
+No Internal Regret via Neighborhood Watch
+An approximately truthful-in-expectation mechanism for combinatorial auctions using value queries
+Limitations of randomized mechanisms for combinatorial auctions
+A geometric and combinatorial view of weighted voting
+On the Impossibility of Black-Box Transformations in Mechanism Design
+Quantum information approach to the ultimatum game
+Near Optimality in Covering and Packing Games by Exposing Global Information
+Quantum repeated games revisited
+The Complexity of Nash Equilibria in Stochastic Multiplayer Games
+Production and Network Formation Games with Content Heterogeneity
+Complex dynamics in learning complicated games
+Asymetric Pavlovian Populations
+An O(n 2) Time Algorithm for Alternating B uchi Games
+A Market for Air Traffic Flow Management
+A General Framework for Computing Optimal Correlated Equilibria in Compact Games
+Bilinear Games: Polynomial Time Algorithms for Rank Based Subclasses
+The Complexity of Nash Equilibria in Limit-Average Games
+The Pollution Effect: Optimizing Keyword Auctions by Favoring Relevant Advertising
+On the Submodularity of Influence in Social Networks
+Buyback Problem - Approximate matroid intersection with cancellation costs
+Diffusion and Cascading Behavior in Random Networks
+Toward a Classification of Finite Partial-Monitoring Games
+An Exponential Lower Bound for the Latest Deterministic Strategy Iteration Algorithms
+Computationally Feasible VCG Mechanisms
+Blackwell Approachability and Minimax Theory
+Voting with Limited Information and Many Alternatives
+Indices of Power in Optimal IDS Default Configuration: Theory and Examples
+Auctions with Severely Bounded Communication
+The Strategy-Proofness Landscape of Merging
+Tron a combinatorial Game on abstract Graphs
+Clone Structures in Voters' Preferences
+The Price of Anarchy (POA) of network coding and routing based on average pricing mechanism
+Aspiration Learning in Coordination Games
+Capturing an Evader in Polygonal Environments: A Complete Information Game
+Welfare and Profit Maximization with Production Costs
+A Unifying Tool for Bounding the Quality of Non-Cooperative Solutions in Weighted Congestion Games
+Graph Searching Parity Games and Imperfect Information
+Secondary Spectrum Auctions for Symmetric and Submodular Bidders
+A Continuation Method for Nash Equilibria in Structured Games
+The Multi-player Nonzero-sum Dynkin Game in Continuous Time
+Packing Scheduling and Covering Problems in a Game-Theoretic Perspective
+Computability of simple games: A characterization and application to the core
+Algorithms for Omega-Regular Games with Imperfect Information
+Exploration via design and the cost of uncertainty in keyword auctions
+A Game Theoretic Approach to Quantum Information
+Selfish Bin Covering
+Assume-Guarantee Synthesis for Digital Contract Signing
+A non-cooperative Pareto-efficient solution to a one-shot Prisoner's Dilemma
+Selling Privacy at Auction
+Distributed Learning Policies for Power Allocation in Multiple Access Channels
+Intervention in Power Control Games With Selfish Users
+Dominance in the Monty Hall Problem
+Click Efficiency: A Unified Optimal Ranking for Online Ads and Documents
+Approximate Pure Nash Equilibria in Weighted Congestion Games: Existence Efficient Computation and Structure
+Multi-Unit Auction with Diminishing Marginal Valuations and Capacities
+Strategies and payoffs in quantum minority games
+Chain: A Dynamic Double Auction Framework for Matching Patient Agents
+Spectrum Leasing as an Incentive towards Uplink Macrocell and Femtocell Cooperation
+Repeated Games With Intervention: Theory and Applications in Communications
+On Bitcoin and Red Balloons
+A Collaborative Mechanism for Crowdsourcing Prediction Problems
+Optimal Crowdsourcing Contests
+Equilibrium and Potential in Coalitional Congestion Games
+A probabilistic-numerical approximation for an obstacle problem arising in game theory
+Two-Color Babylon
+Multi-variate Quickest Detection of Significant Change Process
+Flipping the Winner of a Poset Game
+A bounded-degree network formation game
+Distributed Power Allocation with Rate Constraints in Gaussian Parallel Interference Channels
+The Complexity of Node Blocking for Dags
+Phutball is PSPACE-hard
+On the Rationality of Escalation
+Structure of Extreme Correlated Equilibria: a Zero-Sum Example and its Implications
+Bargaining dynamics in exchange networks
+Capacitated Caching Games
+Equilibria of Dynamic Games with Many Players: Existence Approximation and Market Structure
+On Sisterhood in the Gale-Shapley Matching Algorithm
+On Variants of the Matroid Secretary Problem
+Individual-based stability in hedonic games depending on the best or worst players
+Sequential Auctions and Externalities
+Electrical Vehicles in the Smart Grid: A Mean Field Game Analysis
+Incentive Mechanisms for Hierarchical Spectrum Markets
+Non-cooperative Feedback Rate Control Game for Channel State Information in Wireless Networks
+How Not to Win a Million Dollars: A Counterexample to a Conjecture of L. Breiman
+Knightian Auctions
+Cooperative Game-Theoretic Approach to Spectrum Sharing in Cognitive Radios
+Quality-Of-Service Provisioning in Decentralized Networks: A Satisfaction Equilibrium Approach
+Combined Base Station Association and Power Control in Multi-channel Cellular Networks
+Equilibria of Channel Selection Games in Parallel Multiple Access Channel
+How to Lose with Least Probability
+Anglers' fishing problem
+Strategic Arrivals into Queueing Networks: The Network Concert Queueing Game
+Isomorphisms of types in the presence of higher-order references
+Quantum strategies are better than classical in almost any OR game
+The Combinatorial Game Theory of Well-Tempered Scoring Games
+On Optimal Multi-Dimensional Mechanism Design
+Rational Secret Sharing over an Asynchronous Broadcast Channel with Information Theoretic Security
+Bounded-Distance Network Creation Games
+A Scalable Multiclass Algorithm for Node Classification
+An Algorithmic Characterization of Multi-Dimensional Mechanisms
+On Multiple Round Sponsored Search Auctions with Budgets
+Every hierarchy of beliefs is a type
+Network Non-neutrality Debate: An Economic Analysis
+Quantum Bayesian implementation
+Deciding the Value 1 Problem of Probabilistic Leaktight Automata
+Robustness of Structurally Equivalent Concurrent Parity Games
+Mean Field Asymptotics of Markov Decision Evolutionary Games and Teams
+Large-scale games in large-scale systems
+Distributed Priority Synthesis and its Applications
+Stochastic Geometry based Medium Access Games in Mobile Ad hoc Networks
+Testing Substitutability of Weak Preferences
+Pattern Clustering using Cooperative Game Theory
+Rigorous computer analysis of the Chow-Robbins game
+Cops and Invisible Robbers: the Cost of Drunkenness
+Combinatorial Modelling and Learning with Prediction Markets
+Voting Power : A Generalised Framework
+Existence of Stability in Hedonic Coalition Formation Games
+Matroid Prophet Inequalities
+Fixed and Market Pricing for Cloud Services
+Games on Social Networks: On a Problem Posed by Goyal
+Power Allocation and Spectrum Sharing in Multi-User Multi-Channel Systems with Strategic Users
+Liquidity in Credit Networks: A Little Trust Goes a Long Way
+The surprizing complexity of generalized reachability games
+On the Existence of Bertrand-Nash Equilibrium Prices Under Logit Demand
+Equilibrium strategy and population-size effects in lowest unique bid auctions
+Stability Scores: Measuring Coalitional Stability
+Privacy-Aware Mechanism Design
+Rationality and Escalation in Infinite Extensive Games
+Stochastic Loss Aversion for Random Medium Access
+Models of Manipulation on Aggregation of Binary Evaluations
+Game Theoretic Methods for the Smart Grid
+A Cooperative Bayesian Nonparametric Framework for Primary User Activity Monitoring in Cognitive Radio Network
+Bargaining Dynamics in Exchange Networks
+In Defense of Bureaucracy in the Metric Facility Location Problem
+Send Mixed Signals -- Earn More Work Less
+Efficient Query Verification on Outsourced Data: A Game-Theoretic Approach
+Multi-outcome and Multidimensional Market Scoring Rules
+Quantum Financial Economics of Games of Strategy and Financial Decisions
+Minimax Option Pricing Meets Black-Scholes in the Limit
+The Computational Complexity of Truthfulness in Combinatorial Auctions
+On the Hardness of Welfare Maximization in Combinatorial Auctions with Submodular Valuations
+Implementing Optimal Outcomes in Social Computing: A Game-Theoretic Approach
+Solving Cooperative Reliability Games
+Filtered Fictitious Play for Perturbed Observation Potential Games and Decentralised POMDPs
+Strictly Proper Mechanisms with Cooperating Players
+Dynamic Mechanism Design for Markets with Strategic Resources
+Iterated risk measures for risk-sensitive Markov decision processes with discounted cost
+Price Updating in Combinatorial Prediction Markets with Bayesian Networks
+The Structure of Signals: Causal Interdependence Models for Games of Incomplete Information
+Physical Layer Security for Two-Way Untrusted Relaying with Friendly Jammers
+Exact Algorithms for Solving Stochastic Games
+Generalized selfish bin packing
+Proceedings Second International Workshop on Interactions Games and Protocols
+Smooth Inequalities and Equilibrium Inefficiency in Scheduling Games
+Coalitional Beliefs of Cournot Network Agents
+(weak) Calibration is Computationally Hard
+Computing Nash Equilibrium in Wireless Ad Hoc Networks: A Simulation-Based Approach
+A Cryptographic Moving-Knife Cake-Cutting Protocol
+Take it or Leave it: Running a Survey when Privacy Comes at a Cost
+Polynomial Time Algorithms for Branching Markov Decision Processes and Probabilistic Min(Max) Polynomial Bellman Equations
+Crowdsourcing with Endogenous Entry
+The Price of Anarchy for Network Formation in an Adversary Model
+Distributed Power Allocation with SINR Constraints Using Trial and Error Learning
+Generating Functions For Kernels of Digraphs (Enumeration Asymptotics for Nim Games)
+Young's axiomatization of the Shapley value - a new proof
+Strategy Iteration using Non-Deterministic Strategies for Solving Parity Games
+A continuous rating method for preferential voting. The complete case
+A continuous rating method for preferential voting. The incomplete case
+Quickest Detection with Social Learning: Interaction of local and global decision makers
+The complexity of solving reachability games using value and strategy iteration
+Equilibrium Pricing of Semantically Substitutable Digital Goods
+Nash Equilibria in Perturbation Resilient Games
+Single-Call Mechanisms
+Solution of Wald's game using loadings and allowed strategies
+Budget Feasible Mechanism Design via Random Sampling
+A quantitative Gibbard-Satterthwaite theorem without neutrality
+Hardness of Mastermind
+The Determinacy of Context-Free Games
+Solving simple stochastic games with few coin toss positions
+Search versus Decision for Election Manipulation Problems
+Controlling Candidate-Sequential Elections
+LP-based Covering Games with Low Price of Anarchy
+Conducting Truthful Surveys Cheaply
+Online Voter Control in Sequential Elections
+Ambiguous Language and Differences in Beliefs
+The Evolution of Cooperation in Business
+On the Core of Dynamic Cooperative Games
+How Bad is Forming Your Own Opinion?
+Between Arrow and Gibbard-Satterthwaite A representation theoretic approach
+Playing games against nature: optimal policies for renewable resource allocation
+Learning Game Representations from Data Using Rationality Constraints
+Automated Planning in Repeated Adversarial Games
+Truthful Feedback for Sanctioning Reputation Mechanisms
+Secured Distributed Cognitive MAC and Complexity Reduction in Channel Estimation for the Cross Layer based Cognitive Radio Networks
+Distributed Cooperative Q-learning for Power Allocation in Cognitive Femtocell Networks
+Bayesian Optimal Auctions via Multi- to Single-agent Reduction
+Bayesian Games and the Smoothness Framework
+Network Formation: Heterogeneous Traffic Bilateral Contracting and Myopic Dynamics
+An Analysis of One-Dimensional Schelling Segregation
+Signalling Competition and Social Welfare (Working Paper)
+On computing fixpoints in well-structured regular model checking with applications to lossy channel systems
+Dealing with incomplete agents' preferences and an uncertain agenda in group decision making via sequential majority voting
+Manipulating Tournaments in Cup and Round Robin Competitions
+Manipulability of Single Transferable Vote
+Energy Parity Games
+Contribution Games in Social Networks
+An Empirical Study of the Manipulability of Single Transferable Voting
+Is Computational Complexity a Barrier to Manipulation?
+Finiteness in the Card Game of War
+Where are the hard manipulation problems?
+Stable marriage problems with quantitative preferences
+User Subscription Revenue Maximization and Competition in Communications Markets
+The game of go as a complex network
+Lyapunov stochastic stability and control of robust dynamic coalitional games with transferable utilities
+A Game Theoretic Perspective on Network Topologies
+Online Cake Cutting (published version)
+Concave Generalized Flows with Applications to Market Equilibria
+Competitive Contagion in Networks
+Les crashs sont rationnels
+A note on anti-coordination and social interactions
+Mean-Payoff Pushdown Games
+Bundling Customers: How to Exploit Trust Among Customers to Maximize Seller Profit
+Signaling Schemes for Revenue Maximization
+Should I quit using my resource? Modeling Resource Usage through Game Theory
+On the Capacity of Rate-Adaptive Packetized Wireless Communication Links under Jamming
+Cake Cutting Mechanisms
+Bayesian Auctions with Friends and Foes
+Game Dynamics for Players with Social and Material Preferences
+Dynamic Sender-Receiver Games
+Doubleclick Ad Exchange Auction
+Relax and Localize: From Value to Algorithms
+Optimizing Scrip Systems: Crashes Altruists Hoarders Sybils and Collusion
+Crowd Prejudice: An Impossibility Theorem for Crowd Labelling without a Gold Standard
+Eliminating the Weakest Link: Making Manipulation Intractable?
+Approximately Optimal Auctions for Selling Privacy when Costs are Correlated with Data
+On probabilities of Risk type board game combats
+Resource Buying Games
+Learning From An Optimization Viewpoint
+Entry and Spectrum Sharing Scheme Selection in Femtocell Markets
+Fair Allocation Without Trade
+A Game-Theoretic Computational Interpretation of Proofs in Classical Analysis
+Does Parrondo Paradox occur in Scale Free Networks? -A simple Consideration-
+Optimal Mechanisms for Selling Information
+Friendship Altruism and Reward Sharing in Stable Matching and Contribution Games
+Optimal Deterministic Auctions with Correlated Priors
+Throw One's Cake --- and Have It Too
+A law of large numbers for weighted plurality
+Polyhedral Clinching Auctions and the Adwords Polytope
+Coalitions in nonatomic network congestion games
+No-Regret Learning in Extensive-Form Games with Imperfect Recall
+Matching with Commitments
+Tight Lower Bounds on Envy-Free Makespan Approximation
+Roughly Weighted Hierarchical Simple Games
+Simulation-Based Game Theoretic Analysis of Keyword Auctions with Low-Dimensional Bidding Strategies
+Quantifying the Strategyproofness of Mechanisms via Metrics on Payoff Distributions
+Temporal Action-Graph Games: A New Representation for Dynamic Games
+Censored Exploration and the Dark Pool Problem
+A Sampling-Based Approach to Computing Equilibria in Succinct Extensive-Form Games
+Prediction Markets Mechanism Design and Cooperative Game Theory
+Analyses of Cardinal Auctions
+Efficiency-Revenue Trade-offs in Auctions
+Community-Quality-Based Player Ranking in Collaborative Games with no Explicit Objectives
+Computing Socially-Efficient Cake Divisions
+Free Energy and the Generalized Optimality Equations for Sequential Decision Making
+Combinatorial Auctions with Restricted Complements
+Computational Complexity of Traffic Hijacking under BGP and S-BGP
+On Equilibria in Quantitative Games with Reachability Safety Objectives
+Consumer Search with Chain Stores
+Normalized Range Voting Broadly Resists Control
+On the Shapley-like Payoff Mechanisms in Peer-Assisted Services with Multiple Content Providers
+Bayesian Combinatorial Auctions: Expanding Single Buyer Mechanisms to Many Buyers
+An Algorithm for Probabilistic Alternating Simulation
+Mechanism Design and Risk Aversion
+Heavy Traffic Approximation of Equilibria in Resource Sharing Games
+On a Bounded Budget Network Creation Game
+Quantum Strategies Win in a Defector-Dominated Population
+On the Actual Inefficiency of Efficient Negotiation Methods
+Efficient Controller Synthesis for Consumption Games with Multiple Resource Types
+Optimal migration promotes the outbreak of cooperation in heterogeneous populations
+On the Implications of Lookahead Search in Game Playing
+Distributed Consensus Resilient to Both Crash Failures and Strategic Manipulations
+Evolution of optimal L 'evy-flight strategies in human mental searches
+Multi-games and a double game extension of the Prisoner's Dilemma
+On Optimality of Myopic Policy for Restless Multi-armed Bandit Problem with Non i.i.d. Arms and Imperfect Detection
+Model checking Branching-Time Properties of Multi-Pushdown Systems is Hard
+Congestion Games on Weighted Directed Graphs with Applications to Spectrum Sharing
+Real-Time Bid Optimization for Group-Buying Ads
+An Informed Model of Personal Information Release in Social Networking Sites
+Evaluation and Improvement of Laruelle-Widgr 'en Inverse Banzhaf Approximation
+Traditional sufficient conditions for Nash implementation may fail on Internet
+Tight Lower Bounds for Unequal Division
+A mathematical programming based characterization of Nash equilibria of some constrained stochastic games
+Patience of Matrix Games
+An Improved Two-Party Negotiation Over Continues Issues Method Secure Against Manipulatory Behavior
+Escaping Prisoner's Dilemmas: From Discord to Harmony in the Landscape of 2x2 Games
+Mechanism Designs for Stochastic Resources for Renewable Energy Integration
+Timely Coordination in a Multi-Agent System
+Computational Asymmetry in Strategic Bayesian Networks
+Mechanisms for Risk Averse Agents Without Loss
+Identifying reasoning patterns in games
+Learning and Solving Many-Player Games through a Cluster-Based Representation
+Learning When to Take Advice: A Statistical Test for Achieving A Correlated Equilibrium
+A Polynomial-time Nash Equilibrium Algorithm for Repeated Stochastic Games
+Lightning Does Not Strike Twice: Robust MDPs with Coupled Uncertainty
+Bayesian Sequential Auctions
+The Biased Sampling Profit Extraction Auction
+Constrained Automated Mechanism Design for Infinite Games of Incomplete Information
+Predicting the behavior of interacting humans by fusing data from multiple sources
+The Social Will-Testing Game and its Solution
+Auctions with a Profit Sharing Contract
+Optimal strategies for a game on amenable semigroups
+The Complexity of Manipulative Attacks in Nearly Single-Peaked Electorates
+Strategic delegation in a sequential model with multiple stages
+Designing Practical Distributed Exchange for Online Communities
+Strategy Improvement for Concurrent Reachability and Safety Games
+Geometric Pricing: How Low Dimensionality Helps in Approximability
+Equivalence of Games with Probabilistic Uncertainty and Partial-observation Games
+Truthfulness Proportional Fairness and Efficiency
+Stable marriage and roommate problems with individual-based stability
+A Colonel Blotto Gladiator Game
+Allocation of Divisible Goods under Lexicographic Preferences
+An Adaptive Algorithm for Finite Stochastic Partial Monitoring
+Optimal Coordinated Planning Amongst Self-Interested Agents with Private State
+Robust Learning Equilibrium
+An Efficient Optimal-Equilibrium Algorithm for Two-player Game Trees
+Axiomatic Foundations for a Class of Generalized Expected Utility: Algebraic Expected Utility
+The Uniform Distribution in Incentive Dynamics
+La th 'eorie des jeux pour l' 'etablissement des contrats dans les r 'eseaux interdomaines
+A Game-Theoretical Approach for Finding Optimal Strategies in an Intruder Classification Game
+Counter-Factual Reinforcement Learning: How to Model Decision-Makers That Anticipate The Future
+On the Power of Deterministic Mechanisms for Facility Location Games
+Locally Stable Matching with General Preferences
+Synthesizing Robust Systems with RATSY
+Controllers with Minimal Observation Power (Application to Timed Systems)
+Models for Truthful Online Double Auctions
+Local Utility Elicitation in GAI Models
+On the Value of Correlation
+Common Voting Rules as Maximum Likelihood Estimators
+Counterexample-guided Planning
+Bounding the Uncertainty of Graphical Games: The Complexity of Simple Requirements Pareto and Strong Nash Equilibria
+Unstructuring User Preferences: Efficient Non-Parametric Utility Revelation
+Self-Confirming Price Prediction for Bidding in Simultaneous Ascending Auctions
+Bayes' Bluff: Opponent Modelling in Poker
+An Algorithm for Computing Stochastically Stable Distributions with Applications to Multiagent Learning in Repeated Games
+Qualitative Decision Making Under Possibilistic Uncertainty: Toward more discriminating criteria
+Stackelberg Shortest Path Tree Game Revisited
+Fast Subsequent Color Iris Matching in large Database
+Braess' Paradox in a Generalised Traffic Network
+Emergence of Techno-Social Norms in Cognitive Radio Environments
+A unified approach to truthful scheduling on related machines
+Matching Games with Additive Externalities
+Designing Information Revelation and Intervention with an Application to Flow Control
+Bidding under Uncertainty: Theory and Experiments
+Computing Nash Equilibria of Action-Graph Games
+Regret Minimizing Equilibria and Mechanisms for Games with Strict Type Uncertainty
+Reputation Systems: An Axiomatic Approach
+Sequential Information Elicitation in Multi-Agent Systems
+Computing Best-Response Strategies in Infinite Games of Incomplete Information
+Joint Rate Adaptation and Medium Access in Wireless LANs: a Non-cooperative Game Theoretic Perspective
+An Adaptive Online Ad Auction Scoring Algorithm for Revenue Maximization
+On the Hardness of Network Design for Bottleneck Routing Games
+Basic Network Creation Games with Communication Interests
+Optimal Multi-Dimensional Mechanism Design: Reducing Revenue to Welfare Maximization
+Leveraging information in vehicular parking games
+SODEO: A System Framework for Deployment and Exploitation of Deceptive Honeybots in Social Networks
+Quid Pro Quo: A Mechanism for Fair Collaboration in Networked Systems
+Profit Incentive In A Secondary Spectrum Market: A Contract Design Approach
+Network Bargaining: Using Approximate Blocking Sets to Stabilize Unstable Instances
+On Communication Protocols that Compute Almost Privately
+Finding maxmin allocations in cooperative and competitive fair division
+Cooperation and its emergence in growing systems with cultural reproduction
+Greediness and Equilibrium in Congestion Games
+Cooperation and its evolution in growing systems with cultural reproduction
+Control Complexity in Bucklin Fallback and Plurality Voting: An Experimental Approach
+How Many Vote Operations Are Needed to Manipulate A Voting System?
+Truthful Auction Mechanism for Heterogeneous Spectrum Allocation in Wireless Networks
+A Parametric Worst-Case Approach to Fairness in TU-Cooperative Games
+An Economic Analysis of User-Privacy Options in Ad-Supported Services
+Local public good provisioning in networks: A Nash implementation mechanism
+True-MCSA: A Framework for Truthful Double Multi-Channel Spectrum Auctions
+Policy iteration algorithm for zero-sum multichain stochastic games with mean payoff and perfect information
+MLLS: Minimum Length Link Scheduling Under Physical Interference Model
+Economics of Electric Vehicle Charging: A Game Theoretic Approach
+Vertex Nim played on graphs
+Musical chairs
+Payment Rules through Discriminant-Based Classifiers
+The multiplication game
+Building Cooperative Networks
+Determinacy in Stochastic Games with Unbounded Payoff Functions
+Graph Operations on Parity Games and Polynomial-Time Algorithms
+Mechanism Design for Time Critical and Cost Critical Task Execution via Crowdsourcing
+Transformations of normal form games by preplay offers for payments among players
+Experiments with Game Tree Search in Real-Time Strategy Games
+Near-Optimal Online Algorithms for Dynamic Resource Allocation Problems
+Multiplicative Updates in Coordination Games and the Theory of Evolution
+Research Quality Fairness and Authorship Order
+A Novel Strategy Selection Method for Multi-Objective Clustering Algorithms Using Game Theory
+A New Algorithm for the Subtraction Games
+Approaching Utopia: Strong Truthfulness and Externality-Resistant Mechanisms
+Using strong isomorphisms to construct game strategy spaces
+Coordination in Network Security Games: a Monotone Comparative Statics Approach
+On Dynamical Cournot Game on a Graph
+Road Pricing for Spreading Peak Travel: Modeling and Design
+Opinion Dynamics in Social Networks: A Local Interaction Game with Stubborn Agents
+Planning Random path distributions for ambush games in unstructured environments
+The Period of the subtraction games
+Collusion in Unrepeated First-Price Auctions with an Uncertain Number of Participants
+Postinal Determinacy of Games with Infinitely Many Priorities
+Technology Choices and Pricing Policies in Public and Private Wireless Networks
+Coevolution of trustful buyers and cooperative sellers in the trust game
+Gaming security by obscurity
+Competition and Regulation in Wireless Services Markets
+Game arguments in computability theory and algorithmic information theory
+The Evolutionary Robustness of Forgiveness and Cooperation
+Isoelastic Agents and Wealth Updates in Machine Learning Markets
+Equilibria of Chinese Auctions
+Competitive Robust Dynamic Pricing in Continuous Time with Fixed Inventories
+False-name-proofness with Bid Withdrawal
+Coopetitive Ad Auctions
+On Learning with Finite Memory
+Sequential Auctions of Identical Items with Budget-Constrained Bidders
+On the Incentive to Deviate in Core Selecting Combinatorial Auctions
+Effect of interaction strength on the evolution of cooperation
+A Simultaneous-Movement Mobile Multiplayer Game Design based on Adaptive Background Partitioning Technique
+The Complexity of Multi-Mean-Payoff and Multi-Energy Games
+Evolution of cooperation in spatial traveler's dilemma game
+Mechanisms for Fair Allocation Problems: No-Punishment Payment Rules in Fully Verifiable Settings
+Nash Equilibria for Stochastic Games with Asymmetric Information-Part 1: Finite Games
+Strategy complexity of finite-horizon Markov decision processes and simple stochastic games
+Game Theoretic Formation of a Centrality Based Network
+An Energy-Efficient Power Allocation Game with Selfish Channel State Reporting in Cellular Networks
+Simultaneous Auctions are (almost) Efficient
+Game Theoretical Modelling for Dynamic Spectrum Access in TV Whitespace
+Strategic Learning and the Topology of Social Networks
+Cognitive Radio Simultaneous Spectrum Access One-shot Game Modelling
+Biased Assimilation Homophily and the Dynamics of Polarization
+Privacy Auctions for Recommender Systems
+The Complexity of Online Manipulation of Sequential Elections
+Automated synthesis of reliable and efficient systems through game theory: a case study
+Coalitional Games for Transmitter Cooperation in MIMO Multiple Access Channels
+A Utility Framework for Bounded-Loss Market Makers
+Mechanisms and Behavior Prediction
+Analysis of Cognitive Radio Scenes Based on Non-cooperative Game Theoretical Modelling
+eBay's Market Intermediation Problem
+Auctions with Heterogeneous Items and Budget Limits
+Online Financial Algorithms Competitive Analysis
+Incentive Compatible Two Player Cake Cutting
+The Price of Anarchy for Selfish Ring Routing is Two
+Two Species Evolutionary Game Model of User and Moderator Dynamics
+Lower Bounds on Revenue of Approximately Optimal Auctions
+Triadic Consensus: A Randomized Algorithm for Voting in a Crowd
+Clinching Auctions with Online Supply
+Symbolic Planning and Control Using Game Theory and Grammatical Inference
+The AND-OR game: Equilibrium Characterization (Working Paper)
+Proceedings Third International Symposium on Games Automata Logics and Formal Verification
+Symbolic Representation of Algorithmic Game Semantics
+Down the Borel Hierarchy: Solving Muller Games via Safety Games
+Playing Pushdown Parity Games in a Hurry
+The discrete strategy improvement algorithm for parity games and complexity measures for directed graphs
+Risk-Sensitive Mean Field Games
+Carrier Sense Multiple Access Tuning Parameters using Game Theory
+Bad Data Injection Attack and Defense in Electricity Market using Game Theory Study
+Mean-Field Learning: a Survey
+An Auction Approach to Distributed Power Allocation for Multiuser Cooperative Networks
+Designing Informative Securities
+Interdependent Defense Games: Modeling Interdependent Security under Deliberate Attacks
+Deterministic MDPs with Adversarial Rewards and Bandit Feedback
+Budget Optimization for Sponsored Search: Censored Learning in MDPs
+Uncertain Congestion Games with Assorted Human Agent Populations
+Toward Large-Scale Agent Guidance in an Urban Taxi Service
+Combining local search techniques and path following for bimatrix games
+Mechanism Design for Cost Optimal PAC Learning in the Presence of Strategic Noisy Annotators
+Computing Optimal Security Strategies for Interdependent Assets
+Incentive Decision Processes
+Inferring Strategies from Limited Reconnaissance in Real-time Strategy Games
+Exploiting Structure in Cooperative Bayesian Games
+Bayesian Vote Manipulation: Optimal Strategies and Impact on Welfare
+An Approximate Solution Method for Large Risk-Averse Markov Decision Processes
+Self-Confirming Price Prediction Strategies for Simultaneous One-Shot Auctions
+A single-item continuous double auction game
+Game Theory in Oligopoly
+Transforming Monitoring Structures with Resilient Encoders. Application to Repeated Games
+Resilient Source Coding
+An Achievable Rate Region for the Broadcast Wiretap Channel with Asymmetric Side Information
+The price of re-establishing perfect almost perfect or public monitoring in games with arbitrary monitoring
+To sense or not to sense in energy-efficient power control games
+Implicit cooperation in distributed energy-efficient networks
+Efficient Instantiation of Parameterised Boolean Equation Systems to Parity Games
+Short Report on: Possible directions to Auctions with Cryptographic pre-play
+Architectural innovation: A game-theoretic approach
+Stochastic Games on a Multiple Access Channel
+Greedy Selfish Network Creation
+Frugal Mechanism Design via Spectral Techniques
+Funding Games: the Truth but not the Whole Truth
+Truthful Mechanisms for Agents that Value Privacy
+On alpha -roughly weighted games
+Social Norm Design for Information Exchange Systems with Limited Observations
+Choosing Products in Social Networks
+Budget Feasible Mechanism Design: From Prior-Free to Bayesian
+The Exponential Mechanism for Social Welfare: Private Truthful and Nearly Optimal
+Mechanism Design for Base Station Association and Resource Allocation in Downlink OFDMA Network
+Second Parrondo's Paradox in Scale Free Networks
+Probabilistic interconnection between interdependent networks promotes cooperation in the public goods game
+Simple and Nearly Optimal Multi-Item Auctions
+Composable and Efficient Mechanisms
+Efficiency Resource Allocation for Device-to-Device Underlay Communication Systems: A Reverse Iterative Combinatorial Auction Based Approach
+Dynamic Popular Content Distribution in Vehicular Networks using Coalition Formation Games
+Tatonnement in Ongoing Markets of Complementary Goods
+Designing Rating Systems to Promote Mutual Security for Interconnected Networks
+Mining Determinism in Human Strategic Behavior
+Rank-1 Games With Exponentially Many Nash Equilibria
+Ex-Post Equilibrium and VCG Mechanisms
+Pricing and Intervention in Slotted-Aloha: Technical Report
+On Calibrated Predictions for Auction Selection Mechanisms
+Unilaterally Competitive Multi-Player Stopping Games
+Efficiently Learning from Revealed Preference
+The Complexity of Non-Monotone Markets
+Game Dynamics and Nash Equilibria
+Hierarchic Power Allocation for Spectrum Sharing in OFDM-Based Cognitive Radio Networks
+On the Egalitarian Weights of Nations
+On the inverse power index problem
+Connectivity and equilibrium in random games
+Sponsored Search Market Equilibria and the Hungarian Method
+Competitive Equilibria in Two Sided Matching Markets with Non-transferable Utilities
+The Supermarket Game
+Reputation Games for Undirected Graphs
+Purely competitive evolutionary dynamics for games
+Monte Carlo Search Algorithm Discovery for One Player Games
+Distributed Flow Scheduling in an Unknown Environment
+Multiplayer Cost Games with Simple Nash Equilibria
+Mathematical Frameworks for Pricing in the Cloud: Revenue Fairness and Resource Allocations
+Uniform Strategies
+A Novel Distance-Based Approach to Constrained Rank Aggregation
+Convergence to Equilibrium of Logit Dynamics for Strategic Games
+Core stability in hedonic coalition formation
+Cooperative Negotiation in Autonomic Systems using Incremental Utility Elicitation
+Near-Optimal Multi-Unit Auctions with Ordered Bidders
+Improving Macrocell - Small Cell Coexistence through Adaptive Interference Draining
+An inventory model for group-buying auction
+Envy Freedom and Prior-free Mechanism Design
+The Inverse Shapley Value Problem
+The War of Attrition in the Limit of Infinitely Many Players
+Strategy-Proof Prediction Markets
+Prior-free Auctions for Budgeted Agents
+Algorithm Selection as a Bandit Problem with Unbounded Losses
+Complementary cooperation minimal winning coalitions and power indices
+Unbeatable Imitation
+Pure Saddle Points and Symmetric Relative Payoff Games
+Measuring Permissiveness in Parity Games: Mean-Payoff Parity Games Revisited
+Using Lotteries to Approximate the Optimal Revenue
+On the Existence of General Equilibrium in Finite Games and General Game Dynamics
+A Faster Algorithm for Solving One-Clock Priced Timed Games
+No need for conspiracy: Self-organized cartel formation in a modified trust game
+Improving the Price of Anarchy for Selfish Routing via Coordination Mechanisms
+Undominated Groves Mechanisms
+A Game-Theoretic Model Motivated by the DARPA Network Challenge
+Economics of WiFi Offloading: Trading Delay for Cellular Capacity
+Fully Proportional Representation as Resource Allocation: Approximability Results
+Synthesis from LTL Specifications with Mean-Payoff Objectives
+A Truthful Auction based Incentive Framework for Femtocell Access
+On Threshold Models over Finite Networks
+Constant-Competitive Prior-Free Auction with Ordered Bidders
+Efficient Decomposition of Bimatrix Games
+Energy in computing systems with speed scaling: optimization and mechanisms design
+Emergence of Equilibria from Individual Strategies in Online Content Diffusion
+Nonconvergent Electoral Equilibria under Scoring Rules: Beyond Plurality
+Prior-independent Auctions for Risk-averse Agents
+Efficient Nash Computation in Large Population Games with Bounded Influence
+Mechanism Design with Execution Uncertainty
+Popular Matchings -- structure and cheating strategies
+Cooperation Optimized Design for Information Dissemination in Vehicular Networks using Evolutionary Game Theory
+Is it ever safe to vote strategically?
+Evolutionary Exploration of the Finitely Repeated Prisoners' Dilemma--The Effect of Out-of-Equilibrium Play
+A Dynamic Programming Model for Determining Bidding Strategies in Sequential Auctions: Quasi-linear Utility and Budget Constraints
+Graphical Models for Game Theory
+A Novel Analytical Method for Evolutionary Graph Theory Problems
+Nash equilibria with partial monitoring Computation and Lemke-Howson algorithm
+Approachability Regret and Calibration implications and equivalences
+On an unified framework for approachability in games with or without signals
+Fast Planning in Stochastic Games
+Game Networks
+Compact Securities Markets for Pareto Optimal Reallocation of Risk
+Nash Convergence of Gradient Dynamics in Iterated General-Sum Games
+A generalisation of Nash's theorem with higher-order functionals
+Improved algorithms and analysis for the laminar matroid secretary problem
+When is tit-for-tat unbeatable?
+Best Response Games on Regular Graphs
+Identifying Player 's Strategies in No Limit Texas Hold 'em Poker through the Analysis of Individual Moves
+Achieving Fully Proportional Representation is Easy in Practice
+Continuous Value Function Approximation for Sequential Bidding Policies
+Bayesian Poker
+Expected Utility Networks
+Energy-Efficient Spectrum Sharing in Relay-Assisted Cognitive Radio Systems
+Mean Field Energy Games in Wireless Networks
+Stochastic Budget Optimization in Internet Advertising
+Pareto Region Characterization for Rate Control in Multi-User Systems and Nash Bargaining
+The Robust Price of Anarchy of Altruistic Games
+On (Subgame Perfect) Secure Equilibrium in Quantitative Reachability Games
+Weighted Sets of Probabilities and MinimaxWeighted Expected Regret: New Approaches for Representing Uncertainty and Making Decisions
+Implementing Resolute Choice Under Uncertainty
+Elections Protest and Alternation of Power
+Functional Dependence in Strategic Games
+Safe Schedulability of Bounded-Rate Multi-Mode Systems
+Diffusion of Cooperative Behavior in Decentralized Cognitive Radio Networks with Selfish Spectrum Sensors
+Problem-Focused Incremental Elicitation of Multi-Attribute Utility Models
+Representing Aggregate Belief through the Competitive Equilibrium of a Securities Market
+Conditional Utility Utility Independence and Utility Networks
+Possible and Necessary Winner Problem in Social Polls
+Competing With Strategies
+Socially Stable Matchings
+Learning Conventions in Multiagent Stochastic Domains using Likelihood Estimates
+Toward a Market Model for Bayesian Inference
+On the Communication Complexity of Approximate Nash Equilibria
+Preference-Based Unawareness
+Revenue Maximization via Hiding Item Attributes
+Weighted Sets of Probabilities and Minimax Weighted Expected Regret: New Approaches for Representing Uncertainty and Making Decisions
+Refine Predictions Ad Infinitum?
+Learning in Multi-level Stochastic games with Delayed Information
+A mathematical model of the Mafia game
+Selling to Risk-Loving Bidders
+Differential Privacy for the Analyst via Private Equilibrium Computation
+Improving the H k-Bound on the Price of Stability in Undirected Shapley Network Design Games
+Self-Organization Promotes the Evolution of Cooperation with Cultural Propagation
+Measuring the Size of Large No-Limit Poker Games
+Coalitional Game Theoretic Approach for Cooperative Transmission in Vehicular Networks
+Proceedings 1st International Workshop on Strategic Reasoning
+Audit Games
+Functional Dependence in Strategic Games (extended abstract)
+Restricted Manipulation in Iterative Voting: Convergence and Condorcet Efficiency
+Infinite games with uncertain moves
+Lossy Channel Games under Incomplete Information
+Strategic Analysis of Trust Models for User-Centric Networks
+The Complexity of Synthesizing Uniform Strategies
+Crowdsourced Judgement Elicitation with Endogenous Proficiency
+False-Name Manipulation in Weighted Voting Games is Hard for Probabilistic Polynomial Time
+Revealing Cluster Structure of Graph by Path Following Replicator Dynamic
+A comment on the generalization of the Marinatto-Weber quantum game scheme
+Network Non-Neutrality through Preferential Signaling
+Towards a model of the human society: A theoretical solution of the cooperation problem
+On Random Sampling Auctions for Digital Goods
+On Improving Energy Efficiency within Green Femtocell Networks: A Hierarchical Reinforcement Learning Approach
+Efficient Online Algorithmic Strategies for Several Two-Player Games with Different or Identical Player Roles
+Improved Approximation Algorithm for the Number of Queries Necessary to Identify a Permutation
+On Transshipment Games with Identical Newsvendors
+How to Schedule the Marketing of Products with Negative Externalities
+The reduction of qualitative games
+Winkler's Hat Guessing Game: Better Results for Imbalanced Hat Distributions
+A Cost-Minimizing Algorithm for School Choice
+On the Payoff Mechanisms in Peer-Assisted Services with Multiple Content Providers: Rationality and Fairness
+Optimal Coalition Structures in Cooperative Graph Games
+Strongly polynomial algorithm for a class of minimum-cost flow problems with separable convex objectives
+Incentive Mechanisms based on Minority Game in Heterogeneous DTNs
+Optimal Auctions via the Multiplicative Weight Method
+The Complexity of Optimal Mechanism Design
+Social Network Games
+The Complexity of Infinitely Repeated Alternating Move Games
+Infinite-state games with finitary conditions
+A Real-time Group Auction System for Efficient Allocation of Cloud Internet Applications
+Coalitional Manipulation for Schulze's Rule
+Competition Between Wireless Service Providers: Pricing Equilibrium and Efficiency
+Prioritizing Consumers in Smart Grid: Energy Management Using Game Theory
+Kolmogorov's strong law of large numbers in game-theoretic probability: Reality's side
+The core of games on ordered structures and graphs
+On the complexity of strong Nash equilibrium: Hard-to-solve instances and smoothed complexity
+Efficient evolutionary dynamics with extensive-form games
+A general theory of equilibrium behavior
+Beyond Nash Equilibrium in Open Spectrum Sharing: Lorenz Equilibrium in Discrete Games
+Auction-based Resource Allocation in MillimeterWave Wireless Access Networks
+Binary Hypothesis Testing Game with Training Data
+Combinatorial Walrasian Equilibrium
+A Faithful Distributed Implementation of Dual Decomposition and Average Consensus Algorithms
+Maximizing Matching in Double-sided Auctions
+Exact Algorithms for Weighted and Unweighted Borda Manipulation Problems
+Strategyproof and Consistent Rules for Bipartite Flow Problems
+Cyber-Physical Security: A Game Theory Model of Humans Interacting over Control Systems
+Green Power Control in Cognitive Wireless Networks
+Auction Algorithm for Production Models
+Isomorphic Strategy Spaces in Game Theory
+Efficiency or fairness: managing applications with different delay sensitivities in heterogeneous wireless networks
+Bargaining for Revenue Shares on Tree Trading Networks
+A Social Welfare Optimal Sequential Allocation Procedure
+Monte Carlo -Minimax Search
+The Menu-Size Complexity of Auctions
+An Auction Mechanism for Resource Allocation in Mobile Cloud Computing Systems
+Efficiency Guarantees in Auctions with Budgets
+Relation-algebraic and Tool-supported Control of Condorcet Voting
+Selection and Influence in Cultural Dynamics
+Ranking and Tradeoffs in Sponsored Search Auctions
+A Dynamic Axiomatic Approach to First-Price Auctions
+Taking a shower in Youth Hostels: risks and delights of heterogeneity
+Better Quality in Synthesis through Quantitative Objectives
+The Stackelberg Minimum Spanning Tree Game on Planar and Bounded-Treewidth Graphs
+Composition Games for Distributed Systems: the EU Grant games
+Correction to An Efficient Game Form for Multi-rate Multicast Service Provisioning
+Manipulation and Control Complexity of Schulze Voting
+Brandt's Fully Private Auction Protocol Revisited
+On Dynamics in Selfish Network Creation
+Paradoxes in Social Networks with Multiple Products
+Multi-parameter Mechanisms with Implicit Payment Computation
+Socially stable matchings in the Hospitals Residents problem
+A Qualitative Comparison of the Suitability of Four Theorem Provers for Basic Auction Theory
+School Choice as a One-Sided Matching Problem: Cardinal Utilities and Optimization
+On Discrete Preferences and Coordination
+Regret Minimization in Non-Zero-Sum Games with Applications to Building Champion Multiplayer Computer Poker Agents
+Pricing Public Goods for Private Sale
+Bubbles are rational
+On the Ratio of Revenue to Welfare in Single-Parameter Mechanism Design
+Prior-Independent Mechanisms for Scheduling
+Cost-Recovering Bayesian Algorithmic Mechanism Design
+Weighted Electoral Control
+Inertial game dynamics and applications to constrained optimization
+An Optimal Mastermind ( ) Strategy and More Results in the Expected Case
+Universally Truthful Secondary Spectrum Auctions
+Small Support Equilibria in Large Games
+Stochastic Differential Games and Energy-Efficient Power Control
+Evolution of Cooperation in an Incentive Based Business Game Environment
+Unraveling the Evolution of Defectors in Online Business Games
+Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising
+An update on domineering on rectangular boards
+Strategy-Proof Facility Location for Concave Cost Functions
+Online Learning in a Contract Selection Problem
+The Empirical Implications of Rank in Bimatrix Games
+Approximate Congestion Games for Load Balancing in Distributed Environment
+Reducing Revenue to Welfare Maximization: Approximation Algorithms and other Generalizations
+Understanding Incentives: Mechanism Design becomes Algorithm Design
+The Process of Mobile Spectrum Allocation and its impact on Electronic Commerce and Mobile Commerce
+The Query Complexity of Correlated Equilibria
+A nonlinear pair-wise swapping dynamic to model the selfish rerouting evolutionary game
+A Truth Serum for Sharing Rewards
+Experiments in Information Sharing
+A Game Theory Interpretation for Multiple Access in Cognitive Radio Networks with Random Number of Secondary Users
+A Primal Condition for Approachability with Partial Monitoring
+Pure Price of Anarchy for Generalized Second Price Auction
+A game-theoretic analysis of baccara chemin de fer
+Near-Optimal Truthful Auction Mechanisms in Secondary Spectrum Markets
+On Cost-Effective Incentive Mechanisms in Microtask Crowdsourcing
+Incentive Mechanisms for Internet Congestion Management: Fixed-Budget Rebate versus Time-of-Day Pricing
+Characterizing Truthful Multi-Armed Bandit Mechanisms
+Approximate Judgement Aggregation
+Bounded Rationality in Concurrent Parity Games
+Time and Parallelizability Results for Parity Games with Bounded Tree and DAG Width
+On a Reliable Peer-Review Process
+Solving Stochastic B uchi Games on Infinite Arenas with a Finite Attractor
+Profit Maximization over Social Networks
+Coalgebraic Analysis of Subgame-perfect Equilibria in Infinite Games without Discounting
+On the Inefficiency of the Uniform Price Auction
+Spectrum Access through Threats in Cognitive Radio Networks
+Self-Organizing Flows in Social Networks
+On the Inefficiency of Standard Multi-Unit Auctions
+If cooperation is likely punish mildly: Insights from economic experiments based on the snowdrift game
+Stochastic Parity Games on Lossy Channel Systems
+ADTool: Security Analysis with Attack-Defense Trees (Extended Version)
+Perceptions and Truth: A Mechanism Design Approach to Crowd-Sourcing Reputation
+Analyzing Incentives for Protocol Compliance in Complex Domains: A Case Study of Introduction-Based Routing
+Sharing a Reward Based on Peer Evaluations
+A Critical Assessment of Cost-Based Nash Methods for Demand Scheduling in Smart Grids
+Threshold Load Balancing in Networks
+On the Structure of Equilibria in Basic Network Formation
+The Worst Case Number of Questions in Generalized AB Game with and without White-peg Answers
+New Results on Equilibria in Strategic Candidacy
+Privacy and Mechanism Design
+A simple case of rationality of escalation
+Solving Parity Games on Integer Vectors
+Reinforcement learning with restrictions on the action set
+Copula-based Randomized Mechanisms for Truthful Scheduling on Two Unrelated Machines
+Inspection and crime prevention: an evolutionary perspective
+Network bargaining with general capacities
+Cannibal Animal Games: a new variant of Tic-Tac-Toe
+OMG: How Much Should I Pay Bob in Truthful Online Mobile Crowdsourced Sensing?
+Equilibrium in Labor Markets with Few Firms
+Playing cooperatively with possibly treacherous partner
+Real-time Bidding for Online Advertising: Measurement and Analysis
+On the Complexity of Core Kernel and Bargaining Set
+Dynamics of Boltzmann Q-Learning in Two-Player Two-Action Games
+Pure Nash Equilibria: Hard and Easy Games
+Exchange Economy in Two-User Multiple-Input Single-Output Interference Channels
+Power measures derived from the sequential query process
+Solving Weighted Voting Game Design Problems Optimally: Representations Synthesis and Enumeration
+Pareto-optimal Nash equilibrium in capacity allocation game for self-managed networks
+Ascending auctions and Walrasian equilibrium
+Searching and Bargaining with Middlemen
+Improving Productive Output in Influencer-Influencee Networks
+Budget Feasible Mechanisms for Experimental Design
+Alternating Traps in Muller and Parity Games
+On the Complexity of the Decisive Problem in Simple Regular and Weighted Games
+Aloha Games with Spatial Reuse
+Nodes having a major influence to break cooperation define a novel centrality measure: game centrality
+Complexity of Control Behaviors in k-Peaked Elections for a Variant of Approval Voting
+Social Network Games with Obligatory Product Selection
+Query Complexity of Correlated Equilibrium
+Behavior in a Shared Resource Game with Cooperative Greedy and Vigilante Players
+How to decompose a permutation into a pair of labeled Dyck paths by playing a game
+Power indices of influence games and new centrality measures for social networks
+Shapley Meets Shapley
+The Complexity of Fully Proportional Representation for Single-Crossing Electorates
+Algorithmic Mechanisms for Reliable Internet-based Computing under Collusion
+A New Mathematical Model for Evolutionary Games on Finite Networks of Players
+The benefit of law-making power
+Equilibria of Generalized Cut and Choose Protocols
+Strong Price of Anarchy and Coalitional Dynamics
+Matching with Externalities for Context-Aware User-Cell Association in Small Cell Networks
+Anarchy is free in network creation
+Linking Correlated Network Flows through Packet Timing: a Game-Theoretic Approach
+The Flow Fingerprinting Game
+Prophet Inequalities with Limited Information
+Proceedings Fourth International Symposium on Games Automata Logics and Formal Verification
+Zielonka's Recursive Algorithm: dull weak and solitaire games and tighter bounds
+The Rabin index of parity games
+Slot Games for Detecting Timing Leaks of Programs
+Alternating-time temporal logic with finite-memory strategies
+Satisfiability of ATL with strategy contexts
+Approximate Nash Equilibria via Sampling
+On The Complexity of Counter Reachability Games
+Expressiveness and Robustness of First-Price Position Auctions
+Jamming-Resistant Learning in Wireless Networks
+Polymatroid Prophet Inequalities
+Comparative Statics On The Allocation Of Spectrum
+Continuous Double Auction Mechanism and Bidding Strategies in Cloud Computing Markets
+Finding Optimal Strategies in a Multi-Period Multi-Leader-Follower Stackelberg Game Using an Evolutionary Algorithm
+Multi-objective Stackelberg Game Between a Regulating Authority and a Mining Company: A Case Study in Environmental Economics
+Incentives Quality and Risks: A Look Into the NSF Proposal Review Pilot
+Gardner's Minichess Variant is solved
+Complexity of Manipulation Bribery and Campaign Management in Bucklin and Fallback Voting
+PS-TRUST: Provably Secure Solution for Truthful Double Spectrum Auctions
+Wi-Fi Offload: Tragedy of the Commons or Land of Milk and Honey?
+Truthful Mechanisms for Secure Communication in Wireless Cooperative System
+Bandit Market Makers
+Higher Order Game Dynamics
+Mechanism Design in Large Games: Incentives and Privacy
+Symmetries of Quasi-Values
+Automated Dynamic Offset Applied to Cell Association
+The Coalitional Switch off Game of Service Providers
+Deciding the Winner of an Arbitrary Finite Poset Game is PSPACE-Complete
+Hyperplane Separation Technique for Multidimensional Mean-Payoff Games
+Stable Cooperative Solutions for the Iterated Prisoner's Dilemma
+Ranking Games that have Competitiveness-based Strategies
+The Complexity of Robot Games on the Integer Line
+Replicator dynamics with turnover of players
+Game-theoretic Understanding of Price Dynamics in Mobile Communication Services
+Sybil-proof Mechanisms in Query Incentive Networks
+An Incentive Compatible Efficient Market for Air Traffic Flow Management
+Matching with our Eyes Closed
+The Power of Mediation in an Extended El Farol Game
+PPS: Privacy-Preserving Strategyproof Social-Efficient Spectrum Auction Mechanisms
+Braess's Paradox in Wireless Networks: The Danger of Improved Technology
+Control in the Presence of Manipulators: Cooperative and Competitive Cases
+Incentives and Efficiency in Uncertain Collaborative Environments
+Pricing Ad Slots with Consecutive Multi-unit Demand
+Casino baccara chemin de fer as a bimatrix game
+The Price of Anarchy in Bilateral Network Formation in an Adversary Model
+Interdependent network reciprocity in evolutionary games
+Bounding the Inefficiency of Altruism Through Social Contribution Games
+Evolutionary Extortion and Mischief: Zero Determinant strategies in iterated 2x2 games
+Communication Network Design: Balancing Modularity and Mixing via Optimal Graph Spectra
+Anti-Coordination Games and Stable Graph Colorings
+On Linear Congestion Games with Altruistic Social Context
+Computational Rationalization: The Inverse Equilibrium Problem
+Game Theory with Translucent Players
+Decision Theory with Resource-Bounded Agents
+The Price of Anarchy is Unbounded for Congestion Games with Superpolynomial Latency Costs
+Matching Demand with Supply in the Smart Grid using Agent-Based Multiunit Auction
+Small-Support Approximate Correlated Equilibria
+The Shapley Axiomatization for Values in Partition Function Games
+Lipschitz Games
+Adaptive Regret Minimization in Bounded-Memory Games
+A Survey on Dynamic Spectrum Access Techniques for Cognitive Radio
+Existence of equilibria in countable games: an algebraic approach
+Truthful Mechanism Design for Multidimensional Covering Problems
+Distributed Adaptive Networks: A Graphical Evolutionary Game-Theoretic View
+A solution concept for games with altruism and cooperation
+Implementation without commitment in moral hazard environments
+Mini-maximizing two qubit quantum computations
+Competitive Equilibrium Relaxations in General Auctions
+A Model of Human Cooperation in Social Dilemmas
+Proving soundness of combinatorial Vickrey auctions and generating verified executable code
+Incentives for Privacy Tradeoff in Community Sensing
+On Computability of Equilibria in Markets with Production
+On the Effectiveness of Punishments in a Repeated Epidemic Dissemination Game
+Designing Efficient Resource Sharing For Impatient Players Using Limited Monitoring
+Botnet economics and devising defence schemes from attackers own reward processes
+A Mean Field Game Approach to Scheduling in Cellular Systems
+A Comparism of the Performance of Supervised and Unsupervised Machine Learning Techniques in evolving Awale Mancala Ayo Game Player
+Towards a Unified Belief Structure in Games with indeterminate probabilities
+Information Sharing in Networks of Strategic Agents
+Limits of Efficiency in Sequential Auctions
+Evolutionary Information Diffusion over Social Networks
+Indian Buffet Game with Negative Network Externality and Non-Bayesian Social Learning
+Stochastic Optimization of Service Provision with Selfish Users
+A Complexity of double dummy bridge
+On the Stability of Generalized Second Price Auctions with Budgets
+Minimizing Rosenthal Potential in Multicast Games
+Pay or Play
+Randomized Strategyproof Mechanisms for Facility Location and the Mini-Sum-of-Squares Objective
+Regulation of off-network pricing in a nonneutral network
+A lower bound on seller revenue in single buyer monopoly auctions
+The uniqueness property for networks with several origin-destination pairs
+Vickrey Auctions for Irregular Distributions
+Simulating Ability: Representing Skills in Games
+Reputation-based Mechanisms for Evolutionary Master-Worker Computing
+Cake Cutting Algorithms for Piecewise Constant and Piecewise Uniform Valuations
+Online Ranking: Discrete Choice Spearman Correlation and Other Feedback
+Signed Networks Triadic Interactions and the Evolution of Cooperation
+Linear Regression as a Non-Cooperative Game
+Approximation Algorithms for the Max-Buying Problem with Limited Supply
+The Unit-Demand Envy-Free Pricing Problem
+Combinatorial Auctions without Money
+Designing Markets for Daily Deals
+Offline and Online Incentive Mechanism Design for Smart-phone Crowd-sourcing
+VCG Auction Mechanism Cost Expectations and Variances
+A Game-Theoretic Approach to Energy Trading in the Smart Grid
+Socially-Optimal Design of Service Exchange Platforms with Imperfect Monitoring
+Quality of Service Games for Spectrum Sharing
+Solvency Markov Decision Processes with Interest
+Valuation Compressions in VCG-Based Combinatorial Auctions
+Platform Competition as Network Contestability
+Stability of Mixed-Strategy-Based Iterative Logit Quantal Response Dynamics in Game Theory
+User Satisfaction in Competitive Sponsored Search
+A Nash Equilibrium Need Not Exist in the Locational Marginal Pricing Mechanism
+Adoption of bundled services with network externalities and correlated affinities
+On Context Bisimulation for Parameterized Higher-order Processes
+Price of Anarchy for Non-atomic Congestion Games with Stochastic Demands
+Uncoupled Learning Rules for Seeking Equilibria in Repeated Plays: An Overview
+Logic in the Lab
+Risk aversion as an evolutionary adaptation
+TARK 21 - Proceedings of the 1. Conference on Theoretical Aspects of Rationality and Knowledge
+Language-based Games
+Bounded rationality in a dynamic alternate game
+Ceteris Paribus Structure in Logics of Game Forms
+Deludedly Agreeing to Agree
+Agreeing on Decisions: An Analysis with Counterfactuals
+Model Checking an Epistemic mu-calculus with Synchronous and Perfect Recall Semantics
+Hybrid-Logical Reasoning in False-Belief Tasks
+Strategic Voting and the Logic of Knowledge
+PDL as a Multi-Agent Strategy Logic
+Game Theory with Translucent Players
+The Complexity of Online Manipulation of Sequential Elections
+Optimizing scanning strategies: Selecting scanning bandwidth in adversarial RF environments
+Tree Nash Equilibria in the Network Creation Game
+Toward a general theory of quantum games
+Optimal Strategies in Perfect-Information Stochastic Games with Tail Winning Conditions
+On minimum integer representations of weighted games
+Dynamic Pricing with Limited Supply
+The guarding game is E-complete
+Graph Pricing Problem on Bounded Treewidth Bounded Genus and k-partite graphs
+A Smooth Transition from Powerlessness to Absolute Power
+Information Theoretic cutting of a cake
+Non-cooperative games with preplay negotiations
+A Zero-Sum Stochastic Game with Compact Action Sets and no Asymptotic Value
+Two-player preplay negotiation games with conditional offers
+Bertrand Networks
+The Network Improvement Problem for Equilibrium Routing
+Complexity and Approximation of the Continuous Network Design Problem
+A Rational Convex Program for Linear Arrow-Debreu Markets
+Limit Synchronization in Markov Decision Processes
+Correlation of positive and negative reciprocity fails to confer an evolutionary advantage: Phase transitions to elementary strategies
+Optimal Impartial Selection
+Decomposing Truthful and Competitive Online Double Auctions
+On the Efficiency of the Walrasian Mechanism
+Resource Management for Device-to-Device Underlay Communication
+On Unconditionally Secure Multiparty Computation for Realizing Correlated Equilibria in Games
+Decentralized Dynamics for Finite Opinion Games
+Strong Stability of Nash Equilibria in Load Balancing Games
+Optimization Learning and Games with Predictable Sequences
+Demand Side Management in Smart Grids using a Repeated Game Framework
+The Complexity of Optimal Multidimensional Pricing
+Flexible Parallel Algorithms for Big Data Optimization
+Primal Beats Dual on Online Packing LPs in the Random-Order Model
+Asymptotically Truthful Equilibrium Selection in Large Congestion Games
+Draft Auctions
+Endogenous games with goals: side-payments among goal-directed artificial agents
+Doomsday Equilibria for Omega-Regular Games
+Classifications of Symmetric Normal Form Games
+Submodular Welfare Maximization
+The Prediction value
+Scheduling a Cascade with Opposing Influences
+K -anonymous Signaling Scheme
+Learning Prices for Repeated Auctions with Strategic Buyers
+Near-Optimal and Robust Mechanism Design for Covering Problems with Correlated Players
+Stability and Distributed Power Control in MANETs with Outages and Retransmissions
+Budget Feasible Mechanisms
+Repeated games of incomplete information with large sets of states
+No-regret Dynamics and Fictitious Play
+Logit Dynamics with Concurrent Updates for Local-Interaction Games
+Real and Complex Monotone Communication Games
+Quantitative Timed Simulation Functions and Refinement Metrics for Timed Systems (Full Version)
+Parallel Computation Is ESS
+Optimal Groupon Allocations
+Quantitative Comparative Statics for a Multimarket Paradox
+Cost Minimization in Multiple IaaS Clouds: A Double Auction Approach
+Convergence of Monte Carlo Tree Search in Simultaneous Move Games
+Approximation Algorithms for Non-Single-minded Profit-Maximization Problems with Limited Supply
+Differential Games of Competition in Online Content Diffusion
+Prioritizing Consumers in Smart Grid: A Game Theoretic Approach
+The Truth Behind the Myth of the Folk Theorem
+Optimal Provision-After-Wait in Healthcare
+Simultaneous auctions for complementary goods
+Voting Power of Teams Working Together
+The Determinacy of Context-Free Games
+On the power of randomization in network interdiction
+Optimal Distributed Control for Networked Control Systems with Delays
+Infinite Games Specified by 2-Tape Automata
+Approximating the Revenue Maximization Problem with Sharp Demands
+Achieving Fully Proportional Representation: Approximability Results
+EGuaranteeNash for Boolean Games is NEP-Hard
+I'd Rather Stay Stupid: The Advantage of Having Low Utility
+Measuring voting power in convex policy spaces
+Game Theoretic Approach to the Stabilization of Heterogeneous Multiagent Systems Using Subsidy
+Nash Equilibrium Seeking in Subnetwork Zero-Sum Games with Switching Communication Graphs
+Distributed Game Theoretic Optimization and Management of Multi-Channel ALOHA Networks
+Response-Based Approachability and its Application to Generalized No-Regret Algorithms
+An O( log n over log log n ) Upper Bound on the Price of Stability for Undirected Shapley Network Design Games
+Nash Equilibria via Duality and Homological Selection
+Energy-Efficient Nonstationary Spectrum Sharing
+Constrained Signaling in Auction Design
+The Complexity of Admissibility in Omega-Regular Games
+Predicting Human Behavior in Unrepeated Simultaneous-Move Games
+Exchangeable Equilibria Part I: Symmetric Bimatrix Games
+Asymmetric-valued Spectrum Auction and Competition in Wireless Broadband Services
+Routing Games with Progressive Filling
+Backhaul-Aware Interference Management in the Uplink of Wireless Small Cell Networks
+Rewards and the evolution of cooperation in public good games
+A Study of Truck Platooning Incentives Using a Congestion Game
+The Empirical Implications of Privacy-Aware Choice
+Optimal Competitive Auctions
+Classes of Complete Simple Games that are All Weighted
+Cortical prediction markets
+Multilevel Pricing Schemes in a Deregulated Wireless Network Market
+Price Competition in Online Combinatorial Markets
+The security deposit for finitely repeated Prisoner's dilemma
+A logic for reasoning about ambiguity
+Algorithms for Nash Equilibria in General-Sum Stochastic Games
+Guessing games
+Clearing Markets via Bundles
+The Complexity of Partial-observation Stochastic Parity Games With Finite-memory Strategies
+Infinite sequential games with real-valued payoffs
+An Iterated Game of Uncoordinated Sharing of Licensed Spectrum Using Zero-Determinant Strategies
+Networks of Influence Diagrams: A Formalism for Representing Agents' Beliefs and Decision-Making Processes
+Optimal Strategies for Simultaneous Vickrey Auctions with Perfect Substitutes
+Eliciting Single-Peaked Preferences Using Comparison Queries
+Mechanisms for Making Crowds Truthful
+Learning to Reach Agreement in a Continuous Ultimatum Game
+Trust-Based Mechanisms for Robust and Efficient Task Allocation in the Presence of Execution Uncertainty
+Approximate Strong Equilibrium in Job Scheduling Games
+A Layered Coalitional Game Framework of Wireless Relay Network
+RoxyBot-: Stochastic Prediction and Optimization in TAC Travel
+Mechanisms for Multi-Unit Auctions
+Mixed Strategies in Combinatorial Agency
+Multiattribute Auctions Based on Generalized Additive Independence
+Non-Transferable Utility Coalitional Games via Mixed-Integer Linear Constraints
+Algorithms for Closed Under Rational Behavior (CURB) Sets
+Cooperative Games with Overlapping Coalitions
+False-Name Manipulations in Weighted Voting Games
+Determining Possible and Necessary Winners Given Partial Orders
+Redistribution Mechanisms for Assignment of Heterogeneous Objects
+Stackelberg vs. Nash in Security Games: An Extended Investigation of Interchangeability Equivalence and Uniqueness
+Making Decisions Using Sets of Probabilities: Updating Time Consistency and Calibration
+Policy Invariance under Reward Transformations for General-Sum Stochastic Games
+Redrawing the Boundaries on Purchasing Data from Privacy-Sensitive Individuals
+Electricity Pooling Markets with Strategic Producers Possessing Asymmetric Information I: Elastic Demand
+Iterated crowdsourcing dilemma game
+Testing for separability is hard
+Computing Approximate Nash Equilibria and Robust Best-Responses Using Sampling
+Cloning in Elections: Finding the Possible Winners
+Opinion Exchange Dynamics
+Common Information based Markov Perfect Equilibria for Linear-Gaussian Games with Asymmetric Information
+A Three-Dimensional Voting System in Hong Kong
+Linear Programming Tools for Analyzing Strategic Games of Independence-Friendly Logic and Applications
+Robust Cooperation in the Prisoner's Dilemma: Program Equilibrium via Provability Logic
+Optimal Energy Procurement from a Strategic Seller with Private Renewable and Conventional Generation
+A Market-Inspired Approach for Intersection Management in Urban Road Traffic Networks
+Coalition Structure Generation over Graphs
+Motivating Smartphone Collaboration in Data Acquisition and Distributed Computing
+Strategic aspects of the probabilistic serial rule for the allocation of goods
+Two-Player Perfect-Information Shift-Invariant Submixing Stochastic Games Are Half-Positional
+Payoff Allocation of Service Coalition in Wireless Mesh Network: A Cooperative Game Perspective
+How to Influence People with Partial Incentives
+A Round-Robin Tournament of the Iterated Prisoner's Dilemma with Complete Memory-Size-Three Strategies
+Markov Decision Processes with Multiple Long-run Average Objectives
+Imperfect best-response mechanisms
+Mechanism Design for Fair Division
+Can Selfish Groups be Self-Enforcing?
+Learning Equilibria of Games via Payoff Queries
+Hybrid Mechanisms: Trading off Efficiency and Strategyproofness in One-Sided Matching
+Crowdsourcing Dilemma
+Assignment Games with Conflicts: Price of Total Anarchy and Convergence Results via Semi-Smoothness
+Bounding the Estimation Error of Sampling-based Shapley Value Approximation
+PRINCE: Privacy-Preserving Mechanisms for Influence Diffusion in Online Social Networks
+Investment under uncertainty competition and regulation
+A Game-Theoretic Approach to Distributed Coalition Formation in Energy-Aware Cloud Federations (Extended Version)
+A Lyapunov Optimization Approach to Repeated Stochastic Games
+Competition vs. Cooperation: A Game-Theoretic Decision Analysis for MIMO HetNets
+Finding Approximate Nash Equilibria of Bimatrix Games via Payoff Queries
+A Necessary and Sufficient Condition for the Existence of Potential Functions for Heterogeneous Routing Games
+Social Status and Badge Design
+A note on the undercut procedure
+Generalized Proportional Allocation Mechanism Design for Unicast Service on the Internet
+A Supervised Goal Directed Algorithm in Economical Choice Behaviour: An Actor-Critic Approach
+The parametrized probabilistic finite-state transducer probe game player fingerprint model
+Truthful Market-based Trading of Cloud Resources with Reservation Price
+Empirically Evaluating Multiagent Learning Algorithms
+Cooperative Product Games
+Group Activity Selection Problem
+Evolution of extortion in structured populations
+Minimum Price in Search Model
+Efficient Computation of the Shapley Value for Game-Theoretic Network Centrality
+Sharing Rewards in Cooperative Connectivity Games
+On the Computation of Fully Proportional Representation
+Decentralized Anti-coordination Through Multi-agent Learning
+A Game Theoretic Analysis of Collaboration in Wikipedia
+Fair Division and Redistricting
+The inverse problem for power distributions in committees
+Equilibria Interchangeability in Cellular Games
+The Tactical Optimal Strategy Game (TOSG) Protocol Cockpit Software Control For Massive Ordnance Penetrator Release
+Coalitional Games with Overlapping Coalitions for Interference Management in Small Cell Networks
+Game theoretic controller synthesis for multi-robot motion planning Part I : Trajectory based algorithms
+Finding a Collective Set of Items: From Proportional Multirepresentation to Group Recommendation
+Welfare guarantees for proportional allocations
+Short sequences of improvement moves lead to approximate equilibria in constraint satisfaction games
+Zero-Determinant Strategies in the Iterated Public Goods Game
+Potential Games are Necessary to Ensure Pure Nash Equilibria in Cost Sharing Games
+Dynamic Matching Market Design
+Minimum Entropy Submodular Optimization (and Fairness in Cooperative Games)
+Playing games in an uncertain world
+Inequity aversion and the evolution of cooperation
+Axiomatic Approach to Solutions of Games
+Strategic Resource Allocation for Competitive Influence in Social Networks
+Energy Management for a User Interactive Smart Community: A Stackelberg Game Approach
+Information Aggregation in Exponential Family Markets
+Attainability in Repeated Games with Vector Payoffs
+Truthful Mechanisms for Competing Submodular Processes
+Social Influence as a Voting System: a Complexity Analysis of Parameters and Properties
+Manipulation of Stable Matchings using Minimal Blacklists
+Lazy beats crazy: a spurious yet mathematical justification for laissez-faire
+Polylogarithmic Supports are required for Approximate Well-Supported Nash Equilibria below 2 
+How Much Should I Pay for Privacy Concerns in Truthful Online Crowd Sensing?
+Dynamic Network Formation with Incomplete Information
+Private Matchings and Allocations
+Welfare Maximization and Truthfulness in Mechanism Design with Ordinal Preferences
+A Pricing-Based Cooperative Spectrum Sharing Stackelberg Game
+Learning Stationary Correlated Equilibria in Constrained General-Sum Stochastic Games
+Constant Rank Bimatrix Games are PPAD-hard
+On generalized Tian Ji's horse racing strategy
+A Solution to Bargaining Problem on Divisible Goods
+Multi-period Trading Prediction Markets with Connections to Machine Learning
+A Potential Game Approach for Information-Maximizing Cooperative Planning of Sensor Networks
+Network Structures between Strategies in Iterated Prisoners' Dilemma Games
+Integrating Energy Storage into the Smart Grid: A Prospect Theoretic Approach
+Online Mechanism Design for Cloud Computing
+Matching theory for priority-based cell association in the downlink of wireless small cell networks
+Limiting Behavior of LQ Deterministic Infinite Horizon Nash Games with Symmetric Players as the Number of Players goes to Infinity
+Automated Reasoning in Social Choice Theory - Some Remarks
+Generalized prisoner's dilemma
+Beyond Parrondo's paradox
+Optimizing Your Online-Advertisement Asynchronously
+Robust Stable Payoff Distribution in Stochastic Cooperative Games
+Bridging Utility Maximization and Regret Minimization
+Knightian Analysis of the VCG Mechanism in Unrestricted Combinatorial Auctions
+Knightian Robustness of Single-Parameter Domains
+Compensating Demand Response Participants Via Their Shapley Values
+Optimal Auction Mechanism for Spectrum Allocation in Cognitive Radio Networks under Uncertain Spectrum Availability
+Comparison of Multi-agent and Single-agent Inverse Learning on a Simulated Soccer Example
+The Role of a Market Maker in Networked Cournot Competition
+DValue for Boolean games is EP-complete
+Selfishness Level of Strategic Games
+Exploiting Agent and Type Independence in Collaborative Graphical Bayesian Games
+Bounding the inefficiency of outcomes in generalized second price auctions
+A Classification of Weakly Acyclic Games
+Finite-Memory Strategy Synthesis for Robust Multidimensional Mean-Payoff Objectives
+Oriented Euler Complexes and Signed Perfect Matchings
+Non-monetary fair scheduling---a cooperative game theory approach
+Digital morphogenesis via Schelling segregation
+Penalty-regulated dynamics and robust learning procedures in games
+Mixed Strategy May Outperform Pure Strategy: An Initial Study
+Solving Imperfect Information Games Using Decomposition
+Quality Sensitive Price Competition in Spectrum Oligopoly
+Network Formation Games with Heterogeneous Players and the Internet Structure
+Multi-Keyword Multi-Click Advertisement Option Contracts for Sponsored Search
+Characterizing Strategic Cascades on Networks
+Economic Efficiency Requires Interaction
+Optimal mechanisms with simple menus
+Incentive Design and Utility Learning via Energy Disaggregation
+Learning optimization models in the presence of unknown relations
+Counting Houses of Pareto Optimal Matchings in the House Allocation Problem
+Convergence of T a tonnement in Fisher Markets
+Sampling and Representation Complexity of Revenue Maximization
+Evolutionary network games: equilibria from imitation and best-response dynamics
+From pointwise convergence of evolutionary dynamics to average case analysis of decentralized algorithms
+Knightian Robustness from Regret Minimization
+Knightian Robustness of the Vickrey Mechanism
+Multi-agent Inverse Reinforcement Learning for Zero-sum Games
+On the allocation of multiple divisible and non-transferable commodities
+Using HMM in Strategic Games
+Proceedings 2nd International Workshop on Strategic Reasoning
+Towards a Fair Allocation of Rewards in Multi-Level Marketing
+Thermodynamic Hypothesis as Social Choice: An Impossibility Theorem for Protein Folding
+Maximizing Profit in Green Cellular Networks through Collaborative Games
+Expectations or Guarantees? I Want It All A crossroad between games and MDPs
+Games for the Strategic Influence of Expectations
+On Defendability of Security Properties
+Nash Equilibria in Symmetric Games with Partial Observation
+Refining and Delegating Strategic Ability in ATL
+Efficient Decomposition of Bimatrix Games (Extended Abstract)
+First Cycle Games
+Partial Preferences for Mediated Bargaining
+Optimal Budget Allocation in Social Networks: Quality or Seeding
+Non-Asymptotic Mean-Field Games
+Network Non-Neutrality on the Internet: Content Provision Under a Subscription Revenue Model
+A Graphical Adversarial Risk Analysis Model for Oil and Gas Drilling Cybersecurity
+On the Complexity of Computing an Equilibrium in Combinatorial Auctions
+Twin relationships in Parsimonious Games: some results
+How much is convenient to defect? A method to estimate the cooperation probability in Prisoner's Dilemma and other games
+Duality and Optimality of Auctions for Uniform Distributions
+FlexAuc: Serving Dynamic Demands in a Spectrum Trading Market with Flexible Auction
+Frugal Online Incentive Mechanisms for Crowdsourcing Tasks Truthfully
+How Credible is the Prediction of a Party-Based Election?
+The Multi-shop Ski Rental Problem
+Display Advertising with Information Mediators
+A Measure of Synergy in Coalitions
+Contingency-Constrained Unit Commitment with Post-Contingency Corrective Recourse
+Mean-Field Games for Marriage
+Pure Nash Equilibrium in Capacitated Selfish Replication (CSR) Game
+Generalized Second Price Auction with Probabilistic Broad Match
+A Game Theoretic Approach to Minimize the Completion Time of Network Coded Cooperative Data Exchange
+Mechanism Design for Mobile Geo-Location Advertising
+Multiplicative weights in monotropic games
+Partially Observed Multi-objective Markov Games
+A Complete Solver for Constraint Games
+A Control Dichotomy for Pure Scoring Rules
+A Local-Dominance Theory of Voting Equilibria
+Approximate Equilibrium and Incentivizing Social Coordination
+Quantitative games with interval objectives
+Clinching Auctions Beyond Hard Budget Constraints
+Optimising Trade-offs Among Stakeholders in Ad Auctions
+Incentivizing High-quality Content from Heterogeneous Users: On the Existence of Nash Equilibrium
+Dynamics to equilibrium in Network Games: individual behavior and global response
+Pre-vote negotiations and binary voting with constraints
+Games with a Weak Adversary
+The Complexity of Ergodic Mean-payoff Games
+Buying Private Data without Verification
+An Approximate Law of One Price in Random Assignment Games
+Reallocation Mechanisms
+Contracting Experts With Unknown Cost Structures
+Why Delannoy numbers?
+From winning strategy to Nash equilibrium
+Approximate Revenue Maximization with Multiple Items
+Computing Consensus Curves
+On Randomized Fictitious Play for Approximating Saddle Points Over Convex Sets
+How Hard Is It to Control an Election by Breaking Ties?
+Long-Term Profit-Maximizing Incentive for Crowd Sensing in Mobile Social Networks
+A Survey on Device-to-Device Communication in Cellular Networks
+Behavior-Based online Incentive Mechanism for Crowd Sensing with Budget Constraints
+An Axiomatic Approach to Characterizing and Relaxing Strategyproofness of One-sided Matching Mechanisms
+A quantitative analysis of the effect of flexible loads on reserve markets
+People are Processors: Coalitional Auctions for Complex Projects
+Secure Equilibria in Weighted Games
+Evolution of Fairness in the Not Quite Ultimatum Game
+An Analysis of Rank Aggregation Algorithms
+Social welfare in one-sided matchings: Random priority and beyond
+Self-stabilizing uncoupled dynamics
+Synthesising Succinct Strategies in Safety Games
+Games with recurring certainty
+Monotonicity Revenue Equivalence and Budgets
+Characterization and Detection of epsilon-Berge Zhukovskii Equilibria
+Computational Complexity of Approximate Nash Equilibrium in Large Games
+Infinite-State Energy Games
+Fence-sitters Protect Cooperation in Complex Networks
+Emergence of Cooperation in Non-scale-free Networks
+Ready for the design of voting rules?
+The average representation - a cornucopia of power indices?
+Time-Inconsistent Planning: A Computational Problem in Behavioral Economics
+Graphical potential games
+Mostly Sunny: A Forecast of Tomorrow's Power Index Research
+Existence of Secure Equilibrium in Multi-Player Games with Perfect Information
+Benevolent characteristics promote cooperative behaviour among humans
+A Distributed Demand-Side Management Framework for the Smart Grid
+Truthful Learning Mechanisms for Multi-Slot Sponsored Search Auctions with Externalities
+Fare Evasion in Transit Networks
+Adaptive Contract Design for Crowdsourcing Markets: Bandit Algorithms for Repeated Principal-Agent Problems
+Algorithm Instance Games
+On the Nash Stability in the Hedonic Coalition Formation Games
+Satisfaction in societies with opinion leaders and mediators: properties and an axiomatization
+Spatial Spectrum Access Game
+Information Relaxations and Dynamic Zero-Sum Games
+An Ordinal Bargaining Solution with Fixed-Point Property
+Many-to-Many Matching Games for Proactive Social-Caching in Wireless Small Cell Networks
+Target Tracking via Crowdsourcing: A Mechanism Design Approach
+Bargaining-based Mobile Data Offloading
+Bayesian Truthful Mechanisms for Job Scheduling from Bi-criterion Approximation Algorithms
+Election Attacks with Few Candidates
+Allocating Indivisible Resources under Price Rigidities in Polynomial Time
+A Parallel Elicitation-Free Protocol for Allocating Indivisible Goods
+Possible Winners in Noisy Elections
+A Pareto-metaheuristic for a bi-objective winner determination problem in a combinatorial reverse auction
+The Simple Economics of Approximately Optimal Auctions
+Parity and Streett Games with Costs
+Advances on Matroid Secretary Problems: Free Order Model and Laminar Case
+Schulze and Ranked-Pairs Voting are Fixed-Parameter Tractable to Bribe Manipulate and Control
+General Truthfulness Characterizations Via Convex Analysis
+ THEN : Manipulation of Same-System Runoff Elections
+Cycles of strategies and changes of distribution in public goods game: An experimental investigation
+Games on graphs: A minor modification of payoff scheme makes a big difference
+Local computation mechanism design
+Tipping Points in Schelling Segregation
+On the Properties of the Priority Deriving Procedure in the Pairwise Comparisons Method
+Testing Top Monotonicity
+Size versus truthfulness in the House Allocation problem
+Price of Anarchy for Auction Revenue
+Mechanism Design for Data Science
+Combining Spot and Futures Markets: A Hybrid Market Approach to Dynamic Spectrum Access
+The Computational Impact of Partial Votes on Strategic Voting
+Stable Invitations
+A belief-based evolutionarily stable strategy
+Buyer to Seller Recommendation under Constraints
+Distributed bargaining in dyadic-exchange networks
+Welfare and Revenue Guarantees for Competitive Bundling Equilibrium
+A Game-theoretic Machine Learning Approach for Revenue Maximization in Sponsored Search
+Optimal Auctions for Correlated Buyers with Sampling
+Behavioral Mechanism Design: Optimal Contests for Simple Agents
+An exact and two heuristic strategies for truthful bidding in combinatorial transport auctions
+The Common Structure of Paradoxes in Aggregation Theory
+An n-to-1 Bidder Reduction for Multi-item Auctions and its Applications
+The Naive versus the Adaptive Boston Mechanism
+An Evolutionary Approach to Coalition Formation
+An H n 2 Upper Bound on the Price of Stability of Undirected Network Design Games
+Optimal cooperation-trap strategies for the iterated Rock-Paper-Scissors game
+On the values of repeated games with signals
+Do good actions inspire good actions in others?
+A Computational Study of Feasible Repackings in the FCC Incentive Auctions
+Optimizing the Social Cost of Congestion Games by Imposing Variable Delays
+Excessive abundance of common resources deters social responsibility
+The price of fairness for a small number of indivisible items
+Active Learning and Best-Response Dynamics
+Rental harmony with roommates
+Combinatorial Voter Control in Elections
+Truthful Mechanisms with Implicit Payment Computation
+Cooperative oligopoly games with boundedly rational firms
+A Time and Space Efficient Algorithm for Contextual Linear Bandits
+Query Complexity of Approximate Nash Equilibria
+Random Market Models with an H-Theorem
+Mean-payoff Games with Partial-Observation
+General Privacy-Preserving Verifiable Incentive Mechanism for Crowdsourcing Markets
+Discrete preference games: social influence through coordination and beyond
+On the Hardness of Signaling
+Resourceful Contextual Bandits
+Social cycling and conditional responses in the Rock-Paper-Scissors game
+Network Cournot Competition
+A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising
+Defection and extortion as unexpected catalysts of unconditional cooperation in structured populations
+Coalition Formation and Combinatorial Auctions Applications to Self-organization and Self-management in Utility Computing
+Trade-based Asset Model using Dynamic Junction Tree for Combinatorial Prediction Markets
+Using Prediction Markets to Incentivize and Measure Collective Knowledge Production
+Cooperative Games with Overlapping Coalitions: Charting the Tractability Frontier
+The Max-Distance Network Creation Game on General Host Graphs
+Social Game for Building Energy Efficiency: Utility Learning Simulation and Analysis
+Specializations and Generalizations of the Stackelberg Minimum Spanning Tree Game
+Incentive and stability in the Rock-Paper-Scissors game: an experimental investigation
+Energy Efficiency and Spectral Efficiency Tradeoff in Device-to-Device (D2D) Communications
+Cops and Robbers Game Theory and Zermelo's Early Results
+Stable marriage with general preferences
+Parameterized Algorithmics for Computational Social Choice: Nine Research Challenges
+Modeling Collaboration in Academia: A Game Theoretic Approach
+The size of the core in assignment markets
+Learning Valuation Distributions from Partial Observation
+Price of Anarchy with Heterogeneous Latency Functions
+Approximate well-supported Nash equilibria in symmetric bimatrix games
+Budget-restricted utility games with ordered strategic decisions
+Allocation in Practice
+Computational Aspects of Multi-Winner Approval Voting
+Value of Targeting
+Market Share Indicates Quality
+Strategy Synthesis for General Deductive Games Based on SAT Solving
+Pricing for local and global WiFi markets
+On a Certain Cooperative Hat Game
+Solving Large Imperfect Information Games Using CFR
+Cooperative Game Theoretic Solution Concepts for top- k Problems
+Weihrauch degrees of finding equilibria in sequential games
+The Discrete Sell or Hold Problem with Constraints on Asset Values
+Regularized Best Responses and Reinforcement Learning in Games
+Quantum signaling game
+On Manipulation in Prediction Markets When Participants Influence Outcomes Directly
+Faster and Simpler Sketches of Valuation Functions
+Price of Anarchy of Innovation Diffusion in Social Networks
+An Optimal Game Theoretical Framework for Mobility Aware Routing in Mobile Ad hoc Networks
+Resource Competition on Integral Polymatroids
+Generating and Solving Symbolic Parity Games
+Learning Economic Parameters from Revealed Preferences
+Market Making with Decreasing Utility for Information
+Near-optimal asymmetric binary matrix partitions
+Substitute Valuations: Generation and Structure
+Game Theoretic Network Coding-aided MAC for Data Dissemination towards Energy Efficiency
+A Shared-Constraint Approach to Multi-leader Multi-follower Games
+The Kullback-Leibler Divergence as a Lyapunov Function for Incentive Based Game Dynamics
+Spectrum Coordination in Energy Efficient Cognitive Radio Networks
+Optimization of Spectrum Allocation and Subsidization in Mobile Communication Services
+Closing the Price of Anarchy Gap in the Interdependent Security Game
+Worst-Case Coalitions in Routing Games
+A Game Theoretic Analysis for Energy Efficient Heterogeneous Networks
+Collection-behavior based Multi-parameter Posted Pricing Mechanism for Crowd Sensing
+Efficient Allocation via Sequential Scrip Auctions
+Bartering integer commodities with exogenous prices
+Finding Optimal Strategies of Almost Acyclic Simple Stochatic Games
+Optimal User-Centric Data Obfuscation
+Parametrized Algorithms for Random Serial Dictatorship
+Adding Negative Prices to Priced Timed Games
+Heuristics guide the implementation of social preferences in one-shot Prisoner's Dilemma experiments
+Computing Strong Nash Equilibria for Multiplayer Games
+Mechanism Design for Crowdsourcing: An Optimal 1-1 e Competitive Budget-Feasible Mechanism for Large Markets
+A Simple and Approximately Optimal Mechanism for an Additive Buyer
+Real-Time Bidding Benchmarking with iPinYou Dataset
+Equilibria on a Game with Discrete Variables
+Voronoi Game on Graphs
+A Near-Optimal Mechanism for Impartial Selection
+Adaptive Attacker Strategy Development Against Moving Target Cyber Defenses
+Learning Nash Equilibria in Congestion Games
+Strategic Evolution of Adversaries Against Temporal Platform Diversity Active Cyber Defenses
+The Pricing War Continues: On Competitive Multi-Item Pricing
+Power Distribution in Randomized Weighted Voting: the Effects of the Quota
+Green Broadcast Transmission in Cellular Networks: A Game Theoretic Approach
+Computational Analysis of Perfect-Information Position Auctions
+A Trust-based Pollution Attack Prevention Scheme in Peer-to-Peer Streaming Networks
+Incentive Mechanism Design for Heterogeneous Peer-to-Peer Networks: A Stackelberg Game Approach
+The complexity of approximating a trembling hand perfect equilibrium of a multi-player game in strategic form
+A Unifying Hierarchy of Valuations with Complements and Substitutes
+Achieving Target Equilibria in Network Routing Games without Knowing the Latency Functions
+Complexity of Mechanism Design
+Truthful Prioritization Schemes for Spectrum Sharing
+Towards More Practical Linear Programming-based Techniques for Algorithmic Mechanism Design
+Exploring the evolution of a trade-off between vigilance and foraging in group-living organisms
+Probabilistic sharing solves the problem of costly punishment
+Optimum Statistical Estimation with Strategic Data Sources
+Sharing of Unlicensed Spectrum by Strategic Operators
+Fast Convex Decomposition for Truthful Social Welfare Approximation
+A cooperate-defect model for the spread of deviant behavior in social networks
+Fast distributed almost stable marriages
+Coalitional Graph Games for Popular Content Distribution in Cognitive Radio VANETs
+Distributed Cooperative Sensing in Cognitive Radio Networks: An Overlapping Coalition Formation Approach
+Asymptotic Analysis of Distributed Bayesian Detection with Byzantine Data
+Completeness of Kozen's Axiomatization for the Modal mu-Calculus: A Simple Proof
+On the expected number of equilibria in a multi-player multi-strategy evolutionary game
+Approximate Revenue Maximization in Interdependent Value Settings
+A Game-Theoretic Approach to Energy-Efficient Resource Allocation in Device-to-Device Underlay Communications
+A Study of Proxies for Shapley Allocations of Transport Costs
+A Crude Analysis of Twitch Plays Pokemon
+Reaching Consensus via non-Bayesian Asynchronous Learning in Social Networks
+Incentives-Based Mechanism for Efficient Demand Response Programs
+Proceedings Fifth International Symposium on Games Automata Logics and Formal Verification
+Visibly Pushdown Modular Games
+Solving Hard Control Problems in Voting Systems via Integer Programming
+Finish Them : Pricing Algorithms for Human Computation
+Tree games with regular objectives
+Learning What's going on: reconstructing preferences and priorities from opaque transactions
+Generation bidding game with flexible demand
+An Equilibrium Analysis of Scrip Systems
+Approximately Optimal Mechanisms for Strategyproof Facility Location: Minimizing L p Norm of Costs
+Truthful approximations to range voting
+Generalized Proportional Allocation Mechanism Design for Multi-rate Multicast Service on the Internet
+Distributed Bayesian Detection with Byzantine Data
+Faithful Implementations of Distributed Algorithms and Control Laws
+When I cut you choose method implies intransitivity
+How to Gamble Against All Odds
+On the Existence of Low-Rank Explanations for Mixed Strategy Behavior
+Determinising Parity Automata
+Randomized Minmax Regret for Combinatorial Optimization Under Uncertainty
+Privacy-Preserving Public Information for Sequential Games
+Dynamic Uplink-Downlink Optimization in TDD-based Small Cell Networks
+Reverse Mechanism Design
+Efficient Advert Assignment
+Solving Multi-choice Secretary Problem in Parallel: An Optimal Observation-Selection Protocol
+Single-Peaked Consistency for Weak Orders Is Easy
+The tropical shadow-vertex algorithm solves mean payoff games in polynomial time on average
+Approximately Optimal Mechanism Design: Motivation Examples and Lessons Learned
+Strategy Derivation for Small Progress Measures
+Efficiency of Truthful and Symmetric Mechanisms in One-sided Matching
+PTAS for Minimax Approval Voting
+Strategyproof Preference Aggregation Mechanisms for Purchasing a Shared Resource
+Justified Representation in Approval-Based Committee Voting
+Long-term causal effects of economic mechanisms on agent incentives
+Integer programming methods for special college admissions problems
+Show Me the Money: Dynamic Recommendations for Revenue Maximization
+Nash Equilibria for a Quadratic Voting Game
+Investigation on Demand Side Management Techniques in the Smart Grid using Game Theory and ICT Concepts
+A Lattice Framework for Pricing Display Ad Options with the Stochastic Volatility Underlying Model
+Subjective Perception Games and Privacy
+Optimal distribution of incentives for public cooperation in heterogeneous interaction environments
+Statics and dynamics of selfish interactions in distributed service systems
+Simple and Near-Optimal Mechanisms For Market Intermediation
+Strategies for Utility Maximization in Social Groups with Preferential Exploration
+Extensive-Form Game Imperfect-Recall Abstractions With Bounds
+Equilibria of Plurality Voting: Lazy and Truth-biased Voters
+Strong Duality for a Multiple-Good Monopolist
+Matching Dynamics with Constraints
+Coalition Formation Game for Cooperative Cognitive Radio Using Gibbs Sampling
+Audit Games with Multiple Defender Resources
+Fair and Square: Cake-cutting in Two Dimensions
+Pricing Mobile Data Offloading: A Distributed Market Framework
+Position Auctions with Externalities and Brand Effects
+The Shapley Value in Knapsack Budgeted Games
+Qualitative Analysis of Concurrent Mean-payoff Games
+Quality of Service in Network Creation Games
+Multilevel Network Games
+Computing the Least-core and Nucleolus for Threshold Cardinality Matching Games
+Structure and complexity of ex post efficient random assignments
+Perfect Prediction Equilibrium
+Optimal sequence for Parrondo games
+E-Business Experiences with Online Auctions
+A Framework for Realtime Online Auctions
+Tolls and Welfare Optimization for Multiclass Traffic in Multiqueue Systems
+Altruism in groups: an evolutionary games approach
+A Higher-order Framework for Decision Problems and Games
+Algorithms for Stochastic Games on Interference Channels
+Truthful Multi-unit Procurements with Budgets
+Bounds on the Profitability of a Durable Good Monopolist
+Projective Expected Utility
+Randomness for Free
+A PSPACE-complete Graph Nim
+Extreme-Value Theorems for Optimal Multidimensional Pricing
+Metastability of Logit Dynamics for Coordination Games
+Sufficient Conditions for Formation of a Network Topology by Self-interested Agents
+Learning the Structure and Parameters of Large-Population Graphical Games from Behavioral Data
+A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks
+Inequality and Network Formation Games
+Empirical Centroid Fictitious Play: An Approach For Distributed Learning In Multi-Agent Games
+Meet Your Expectations With Guarantees: Beyond Worst-Case Synthesis in Quantitative Games
+Empirical Distribution of Equilibrium Play and Its Testing Application
+Privacy-Preserving Verifiable Incentive Mechanism for Crowdsourcing Market Applications
+Robust Equilibria in Concurrent Games
+The Complexity of Fairness through Equilibrium
+An Anti-Folk Theorem for Large Repeated Games with Imperfect Monitoring
+Market-Based Power Allocation for a Differentially Priced FDMA System
+Estimation with Strategic Sensors
+Electricity Pooling Markets with Strategic Producers Possessing Asymmetric Information II: Inelastic Demand
+A Stable Marriage Requires Communication
+On The Communication Complexity of Finding an (Approximate) Stable Marriage
+An Incentive Compatible Multi-Armed-Bandit Crowdsourcing Mechanism with Quality Assurance
+Group Minds and the Case of Wikipedia
+Approximately Stable School Optimal and Student-Truthful Many-to-One Matchings (via Differential Privacy)
+On the Range of Equilibria Utilities of a Repeated Epidemic Dissemination Game with a Mediator
+Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy
+Double or Nothing: Multiplicative Incentive Mechanisms for Crowdsourcing
+Zero-determinant strategies in iterated multi-strategy games
+Perfect Bayesian Equilibria in Repeated Sales
+Computing Approximate Nash Equilibria in Polymatrix Games
+Lyapunov Based Frugal Incentive Mechanism for Periodical Mobile Crowdsensing
+On terminating improvement in two-player games
+The Value 1 Problem Under Finite-memory Strategies for Concurrent Mean-payoff Games
+A Generalization of the AL method for Fair Allocation of Indivisible Objects
+Poker as a Skill Game: Rational vs Irrational Behaviors
+Non-Myopic Learning in Repeated Stochastic Games
+Collective decision making and paradoxical games
+Elicitation for Aggregation
+Risk Dynamics in Trade Networks
+Brownian motion and gambling: from ratchets to paradoxical games
+Inefficiency of voting in Parrondo games
+Multi-resource fairness: Objectives algorithms and performance
+Market price competition in networks: How do monopolies impact social welfare?
+A Truthful-in-expectation Mechanism for the Generalized Assignment Problem
+Privacy Games
+The single-crossing property on a tree
+More Natural Models of Electoral Control by Partition
+Power allocation with stackelberg game in femtocell networks: a self-learning approach
+Signaling in Quasipolynomial time
+GSP with General Independent Click-Through-Rates
+Generalization Analysis for Game-Theoretic Machine Learning
+A Game Theoretic Model for Network Virus Protection
+Making the Best of Limited Memory in Multi-Player Discounted Sum Games
+Decentralized Convergence to Nash Equilibria in Constrained Mean Field Control
+Fixed-Points of Social Choice: An Axiomatic Approach to Network Communities
+On the Hardness of Bribery Variants in Voting with CP-Nets
+Crawford-Sobel meet Lloyd-Max on the grid
+Optimal topology of multi-agent systems with two leaders: a zero-sum game perspective
+A note on two notions of compliance
+A Dynamic Network Formation Model for Understanding Bacterial Self-Organization into Micro-Colonies
+Correlated Equilibria of Classical Strategic Games with Quantum Signals
+Symbolic Algorithms for Qualitative Analysis of Markov Decision Processes with B uchi Objectives
+How to Gamble If You're In a Hurry
+Strategy Synthesis for Multi-dimensional Quantitative Objectives
+Metastability of Asymptotically Well-Behaved Potential Games
+Looking at Mean-Payoff and Total-Payoff through Windows
+On Influence Stable Behavior and the Most Influential Individuals in Networks: A Game-Theoretic Approach
+Periodic Strategies a New Solution Concept-Algorithm for non-trivial Strategic Form Games
+Payoff Performance of Fictitious Play
+Truthful Mechanisms for Combinatorial AC Electric Power Allocation
+Quality Sensitive Price Competition in Spectrum Oligopoly:Part 1
+Quality Sensitive Price Competition in Spectrum Oligopoly: Part II
+Iterated Prisoners Dilemma with limited attention
+Energy-efficiency in Decentralized Wireless Networks: A Game-theoretic Approach inspired by Evolutionary Biology
+An Approximate Version of Carath ' e odory's Theorem with Applications to Approximating Nash Equilibria and Dense Bipartite Subgraphs
+On the Complexity of Dynamic Mechanism Design
+Privacy and Truthful Equilibrium Selection for Aggregative Games
+Population Fluctuation Promotes Cooperation in Networks
+A Note on Kuhn's Theorem with Ambiguity Averse Players
+Towards Optimal Algorithms for Prediction with Expert Advice
+The Utility of Text: The Case of Amicus Briefs and the Supreme Court
+Translucent Players: Explaining Cooperative Behavior in Social Dilemmas
+An Application of Fixed-point Theory to Probabilistic Social Choice
+On the three-person game baccara banque
+Coalition Formation Algorithm of Prosumers in a Smart Grid Environment
+The Burden of Risk Aversion in Mean-Risk Selfish Routing
+When reputation enforces evolutionary cooperation in unreliable MANETs
+A four-person chess-like game without Nash equilibria in pure stationary strategies
+Pigovian Taxes Can Increase Platform Competitiveness: The Case of Online Display Advertising
+A Learning Scheme for Approachability in MDPs and Stackelberg Stochastic Games
+Variations on the Stochastic Shortest Path Problem
+The cost of getting local monotonicity
+Jointly Private Convex Programming
+Provably Manipulation-Resistant Reputation Systems
+An Equilibrium Framework for Players with Misspecified Models
+Choosing by means of approval-preferential voting. The revised approval choice
+The Value of Knowing Your Enemy
+How to sell an app: pay-per-play or buy-it-now?
+Chip-firing may be much faster than you think
+Playing the Wrong Game: Smoothness Bounds for Congestion Games with Risk Averse Agents
+Price Competition Fluctuations and Welfare Guarantees
+Competitive analysis via benchmark decomposition
+Incentive Design in Peer Review: Rating and Repeated Endogenous Matching
+Enabling Data Exchange in Interactive State Estimation under Privacy Constraints
+On Sparse Discretization for Graphical Games
+Solving the collective-risk social dilemma with risky assets in well-mixed and structured populations
+Cryptographically Blinded Games: Leveraging Players' Limitations for Equilibria and Profit
+Welfare Maximization with Production Costs: A Primal Dual Approach
+Combinatorial Auctions via Posted Prices
+Congestion Games with Distance-Based Strict Uncertainty
+A Unified View of Large-scale Zero-sum Equilibrium Computation
+Leontief Exchange Markets Can Solve Multivariate Polynomial Equations Yielding FIP and ETR Hardness
+Incentivizing Spectrum Sharing via Subsidy Regulations
+Do Capacity Constraints Constrain Coalitions?
+Fairness and Social Welfare in Incentivizing Participatory Sensing
+Infinite games with finite knowledge gaps
+Distributed Power Control in Multiuser MIMO Networks with Optimal Linear Precoding
+Bayesian Mechanism Design with Efficiency Privacy and Approximate Truthfulness
+The Complexity of Genetic Diversity: Sex with Two Chromosomes is Advantageous but Unpredictable
+Price of Anarchy for Greedy Auctions
+A Population-centric Approach to the Beauty Contest Game
+How to make the most of a shared meal: plan the last bite first
+A duality principle for selection games
+Approximate Well-supported Nash Equilibria below Two-thirds
+On Revenue Maximization with Sharp Multi-Unit Demands
+The complexity of interior point methods for solving discounted turn-based stochastic games
+To Relay or Not to Relay: Learning Device-to-Device Relaying Strategies in Cellular Networks
+Fair assignment of indivisible objects under ordinal preferences
+Routing and Staffing when Servers are Strategic
+Complexity of Equilibrium in Diffusion Games on Social Networks
+Distributed Load Balancing in Heterogeneous Systems
+Uncertain Price Competition in a Duopoly with Heterogeneous Availability
+Group size effect on cooperation in social dilemmas
+Service-Constraint Based Truthful Incentive Mechanisms for Crowd Sensing
+On two solution concepts in a class of multicriteria games
+Inapproximability of Nash Equilibrium
+Asymmetry of Risk and Value of Information
+Hidden Stochastic Games and Limit Equilibrium Payoffs
+Online Learning and Profit Maximization from Revealed Preferences
+The complexity of computing a (quasi-)perfect equilibrium for an n-player extensive form game of perfect recall
+Fragility of the Commons under Prospect-Theoretic Risk Attitudes
+The emergence of hyper-altruistic behaviour in conflictual situations
+Selection-based approach to cooperative interval games
+The Miner's Dilemma
+Elections with Few Voters: Candidate Control Can Be Easy
+On the Solvability of Risk-Sensitive Linear-Quadratic Mean-Field Games
+Fair Collaborative In-Network Caching Game and Its Cost Analysis on General Network Topologies
+Verifiably Truthful Mechanisms
+Recursive Inspection Games
+Amortized Analysis on Asynchronous Gradient Descent
+Budget Imbalance Criteria for Auctions: A Formalized Theorem
+Game-theoretical control with continuous action sets
+Fast and Optimal Power Control Games in Multiuser MIMO Networks
+On the Robustness of the Approximate Price of Anarchy in Generalized Congestion Games
+Settling Some Open Problems on 2-Player Symmetric Nash Equilibria
+Censorship Resistance: Let a Thousand Flowers Bloom?
+Dynamic Models of Reputation and Competition in Job-Market Matching
+Possible and Necessary Allocations via Sequential Mechanisms
+Multi-Player Diffusion Games on Graph Classes
+Algorithmic Rationality: Game Theory with Costly Computation
+Revenue Maximization for Selling Multiple Correlated Items
+Computational Complexity of Competitive Diffusion on (Un)weighted Graphs
+Strategyproof Mechanisms for One-Dimensional Hybrid and Obnoxious Facility Location
+How Much Lookahead is Needed to Win Infinite Games?
+An Ordinal Minimax Theorem
+A Counter-Example to Karlin's Strong Conjecture for Fictitious Play
+Solving -Color Parity Games in O(n 2) Time
+The Shapley group value
+On the Complexity of Nash Equilibria in Anonymous Games
+Nested Family of Cyclic Games with k -total Effective Rewards
+On Evolutionarily Stable States and Nash Equilibria that Are Not Characterised by the Folk Theorem
+A Note on the Assignment Problem with Uniform Preferences
+Inapproximability of Truthful Mechanisms via Generalizations of the VC Dimension
+Sequential Equilibrium in Computational Games
+Query Complexity of Approximate Equilibria in Anonymous Games
+Computing solutions of the multiclass network equilibrium problem with affine cost functions
+Game-Theoretic Analysis of the Hegselmann-Krause Model for Opinion Dynamics in Finite Dimensions
+On the Robustness of Learning in Games with Stochastically Perturbed Payoff Observations
+Cooperative Equilibrium: A solution predicting cooperative play
+On the Speed of Social Learning
+Secondary Spectrum Auctions for Markets with Communication Constraints
+Parrondo games with spatial dependence III
+A Game-Theoretic Framework for Studying Dynamics of Multi Decision-maker Systems
+Imitation Dynamics with Payoff Shocks
+Formation Games of Reliable Networks
+Optimal Platform Design
+Sharing Information Without Regret in Managed Stochastic Games
+On Bidding with Securities: Risk Aversion and Positive Dependence
+The Game of Pure Strategy is solved
+Nash Codes for Noisy Channels
+Evolutionarily Stable Sets in Quantum Penny Flip Games
+On Axiomatization of Inconsistency Indicators for Pairwise Comparisons
+Pairwise Comparisons Simplified
+Random assignment with multi-unit demands
+Game Theory Explorer - Software for the Applied Game Theorist
+Voting with Coarse Beliefs
+Deadline Differentiated Pricing of Delay-Tolerant Demand
+Benchmarks for Parity Games (extended version)
+Game theory analysis for carbon auction market through electricity market coupling
+Weighted automata on infinite words in the context of Attacker-Defender games
+Solving Games with Functional Regret Estimation
+Delay Games with WMSO U Winning Conditions
+Defeating jamming with the power of silence: a game-theoretic analysis
+Campaign Management under Approval-Driven Voting Rules
+Hierarchical Cooperation for Operator-Controlled Device-to-Device Communications: A Layered Coalitional Game Approach
+Parking Space Management via Dynamic Performance-Based Pricing
+Mechanism Design for Team Formation
+Analysis of Performance Parameters in Wireless Networks by using Game Theory for the non Cooperative Slotted Aloha Enhanced by ZigZag Decoding Mechanism
+Observing Each Other's Observations in the Electronic Mail Game
+Reinforcement Learning and Nonparametric Detection of Game-Theoretic Equilibrium Play in Social Networks
+Market Mechanism Design for Profitable On-Demand Transport Services
+Algorithms for two variants of Satisfaction Approval Voting
+Unit Vector Games
+Matching Theory for Backhaul Management in Small Cell Networks with mmWave Capabilities
+HySIM: A Hybrid Spectrum and Information Market for TV White Space Networks
+Providing Long-Term Participation Incentive in Participatory Sensing
+The Economics of Quality Sponsored Data in Wireless Networks
+The Strategic Formation of Multi-Layer Networks
+Applications of Repeated Games in Wireless Networks: A Survey
+Distributed Resource Allocation in D2D-Enabled Multi-tier Cellular Networks: An Auction Approach
+A method to evaluate and compare evolutionarily stable strategies in fuzzy payoff games
+Mechanism Design with Strategic Mediators
+Maximin Safety: When Failing to Lose is Preferable to Trying to Win
+Cooperation among rational agents in co-action equilibrium of Prisoner's Dilemma and other single-stage symmetric games
+Proceedings th Workshop on Hybrid Autonomous Systems
+Symmetric Strategy Improvement
+Directional learning and the provisioning of public goods
+Manipulating the Probabilistic Serial Rule
+Competitive Equilibrium with Equal Incomes for Allocation of Indivisible Objects
+A Characterisation of Context-Sensitive Languages by Consensus Games
+Coordination Games on Graphs
+Recognizing Members of the Tournament Equilibrium Set is NP-hard
+The Complexity of Computing Minimal Unidirectional Covering Sets
+On Iterated Dominance Matrix Elimination and Matched Paths
+Optimal Partitions in Additively Separable Hedonic Games
+Stable partitions in additively separable hedonic games
+Lemmings is PSPACE-complete
+Classic Nintendo Games are (Computationally) Hard
+The Computational Complexity of Random Serial Dictatorship
+Asymptotic Collusion-Proofness of Voting Rules: The Case of Large Number of Candidates
+Cloud Compute-and-Forward with Relay Cooperation
+Tight Bounds for the Price of Anarchy of Simultaneous First Price Auctions
+Value of information in noncooperative games
+A Mirage of Market Allocation
+Cascading to Equilibrium: Hydraulic Computation of Equilibria in Resource Selection Games
+Detecting Possible Manipulators in Elections
+Bounding the Optimal Revenue of Selling Multiple Goods
+Channel Selection for Network-assisted D2D Communication via No-Regret Bandit Learning with Calibrated Forecasting
+Kernelization Complexity of Possible Winner and Coalitional Manipulation Problems in Voting
+Making the Most of Your Samples
+Private Pareto Optimal Exchange
+To Reach or not to Reach? Efficient Algorithms for Total-Payoff Games
+Joint Channel Selection and Power Control in Infrastructureless Wireless Networks: A Multi-Player Multi-Armed Bandit Framework
+Optimal User-Cell Association for Massive MIMO Wireless Networks
+Improved Efficiency Guarantees in Auctions with Budgets
+Zero-Determinant Strategies in Noisy Repeated Games
+Decentralized Protection Strategies against SIS Epidemics in Networks
+A Note on Selling Optimally Two Uniformly Distributed Goods
+Dominant Strategies in Two Qubit Quantum Computations
+Multi-resource Fair Allocation with Bounded Number of Tasks in Cloud Computing Systems
+Pricing in Social Networks with Negative Externalities
+Computational issues in time-inconsistent planning
+Sharing Non-Anonymous Costs of Multiple Resources Optimally
+Simple Mechanisms for a Combinatorial Buyer and Applications to Revenue Monotonicity
+Optimistic-Conservative Bidding in Sequential Auctions
+Quantum game players can have advantage without discord
+Social setting intuition and experience in lab experiments interact to shape cooperative decision-making
+Cost-Efficient Throughput Maximization in Multi-Carrier Cognitive Radio Systems
+Competition and Coalition Formation of Renewable Power Producers
+The Sample Complexity of Revenue Maximization
+Toward Fully Coordinated Multi-level Multi-carrier Energy Efficient Networks
+On the Greedy Algorithm for Combinatorial Auctions with a Random Order
+Collective decision efficiency and optimal voting mechanisms: A comprehensive overview for multi-classifier models
+List Colouring Big Graphs On-Line
+A numbers-on-foreheads game
+A Mechanism for Fair Distribution of Resources with Application to Sponsored Search
+Timeability of Extensive-Form Games
+Computing rational beliefs under limited foresight
+Unchecked strategy diversification and collapse in continuous voluntary public good games
+Welfare Ratios in One-Sided Matching Mechanisms
+Efficiency and complexity of price competition among single-product vendors
+Inducing Approximately Optimal Flow Using Truthful Mediators
+Computer-aided verification in mechanism design
+Bayesian Incentive-Compatible Bandit Exploration
+Spectrum Allocation for Multi-Operator Device-to-Device Communication
+Hybrid Centralized-Distributed Resource Allocation for Device-to-Device Communication Underlaying Cellular Networks
+Optimal Scanning Bandwidth Strategy Incorporating Uncertainty about Adversary's Characteristics
+Equilibria Under the Probabilistic Serial Rule
+An Empirical Study of Finding Approximate Equilibria in Bimatrix Games
+On Sex Evolution and the Multiplicative Weights Update Algorithm
+Comparing Decision Support Approaches for Cyber Security Investment
+Greatest Fixed Points of Probabilistic Min Max Polynomial Equations and Reachability for Branching Markov Decision Processes
+Facility location with double-peaked preference
+Approval Voting and Incentives in Crowdsourcing
+Actively Purchasing Data for Learning
+The Efficient Frontier in Randomized Social Choice

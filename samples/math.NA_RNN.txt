@@ -1,0 +1,2246 @@
+The reduced-test approximation of scattering of a stochastic partial differential equations
+Degenerate parabolic equations
+Runge-Kutta schemes and Applications
+Nets and optimal estimates for a discontinuous Galerkin methods for nonlinear equations with time-splitting methods
+Iterative method for surface functionals
+A new computation of the stationary Hamiltonian systems
+Networks: the Cost of Singular Volterra Problems
+Convergence and its spectral class of proof of perturbed matrix wave stabilisation
+Explicit SDEs based on not-to construction with corners
+On Crank-Nicolson of a class of power densities
+Signal-space optimization regularization in the Gauss-Newton's method
+Spectral densities
+Non-convex problems in layered media
+A novel mathematics and backward error functions in stationary quasi-weighted stress
+Space Three-Dimensional Dual Meshes with continuous Model for the Tomographic Numerical Methods for Heterogeneous Spaces of Symmetric Polynomial Systems
+The local poroelastic flux constrained molecular dynamics
+Strong symplectic entropy estimates for Boltzmann equation in complex exponential schemes using the series of multiple systems
+Variance of some higher order iterative methods?
+On the finite difference method for porous medium equation
+Particle Deformation Based on Stochastic Polynomial
+Hierarchical p Parallel Minimal Results
+A Matlab factorization algorithm for homogeneous periodic model
+Strong convergence of discrete Quadrature of Newton interpolants
+Approximating stochastic collocation methods
+Comparison of the Dirichlet Problem
+Multilevel bases for the nonlinear elliptic equations
+A primal-dual Monte Carlo algorithm for finite difference methods
+A WENO exponential scheme to the localization of the random media uniqueness and smoothed and adaptive time-stepping in linear matrices
+Discontinuous Galerkin method for estimating Stokes problem
+Analysis of spectral class of weak approximation of domain decomposition method for nonlinear elliptic problems
+A New Parameter Method for Parabolic Equations
+Some weighted Gibbs phenomenon and its application and refinable numerical methods
+Convergence results for the effects of closed Problem
+Compressible Differential Quadrature
+A Finite Element Method for two-dimensional time dependent stochastic differential equations
+Parallel Multiresolution Schemes
+Mixed homogeneous convection-diffusion problems covering in elastic generation
+Well-balanced linear compact nodes
+Hybrid spectral projections and the level-set formula
+A Fast Randomized Multigrid Formulation and Immersed Finite Relation Techniques for Corners in Time dependent B-spline
+Computable-discretise penalty finite volume schemes for the nonlinear Stokes equations with poroelastic domain decomposition
+Discrete conservation laws
+Involutive Schwarz Methods for Selection of Finite Element Methods
+A Diffusion Algorithm for Constrained Grid methods
+A fast solver for first formal matrix in Composites
+Approximate incompressible Navier-Stokes equations
+A model for a periodic compressible Euler equations on functions
+Uniform grids for Some linear transmission problems
+Algebraic space reconstruction of high contrast
+Multivariate Stable Metric Coupling
+An High Order Discrete Time Stepping and Constrained Error Estimates for Uncertainty Propagation
+Isogeometric related Multiscale Problems with Multivariate Polynomial Radiation: an Iterative Methods based on Image Denoising and Regularization
+Sparse Grid Computation
+High-order Difference Scheme for the Newton-Iterative Shape Point Methods
+A class of matrices to non series inequalities
+Convergence analysis of B--stress finite difference approximations of stochastic partial differential equations
+Optimized solver for semi linear Schr odinger equations
+A Fast Regularization Algorithm via the Large Scale Oscillation Matrices
+Generalized Instationary Multiscale Finite Element Methods
+On the LL mathbb R 's for particle method
+A stabilized discontinuous Galerkin discretization versus and boundary continuation
+A new grids for regularization parametric integrators on inexact Newton-type problems
+Discontinuous Galerkin method for the Helmholtz equation
+Effective matrix and its optimal control
+Adaptive high-order finite elements for a special fractional diffusion
+Simulation of vector parameter continuation problem
+Non-uncertainty quantification With multiplicative transport weights under high dimensional regularity
+Convergence Analysis of Collisions numerical Time-integrating Nodes
+Discretization of a special calculations and potential performance to integration of the viscous fluid Flows and Iterative transform projection spaces via Random Matrix eigenvalues
+A new convergence in finite difference scheme
+A Runge-Kutta schemes for two-dimensional non-stationary conservation law
+Monotone Schemes for the Quantum Mechanics
+Convergence Analysis of the Study of Numerical Study
+The Local Function
+A Finite Element Method
+Numerical solution of two-dimensional evolution equations
+A mixed method for solving differential equations in the finite difference equations
+Sampling algorithms for porous media
+Discrete Nonholonomic Differential Transforms
+P accurate in a singularly perturbed distance
+Restoration method for simulating hydrodynamics
+Non-dimensionality based on the edge projection method: a fluid model
+Toward application to incomplete algebras estimates and discontinuous Galerkin methods
+Implicit-Explicit Runge-Kutta methods for a conforming constructing schemes with infinite finite transfer operators
+Robust Free-Interface Optimization of Elliptic Problems
+Computing convergence rates for univariate subdivision
+Signals and the variational implementation of a data assimilation orthogonal polynomials using polynomial error using a simple approximation of the augmented Lagrangian scheme
+A priori error estimates of the critical singularity perturbation bounds for first derivatives of atomistic continuum model
+A Stabilized Finite Element Methods
+Perturbed Model Reduction
+The Localized Inverting Computing Asymptotic Preserving Finite Elements
+High order differential method for quasi-Monte Carlo processing
+Runge-Kutta Method for Simulating Laplace-Beltrami Equation Reduction
+Bases and related polynomials by the surface semi-infinite and nuclear matrix compressive finite element method
+High Dimensional Inhomogeneous Media Methods
+Gauss discretization --semi-infinite dimensions
+A fast solver for a steady fluid-structure interaction equations
+Error Estimation of Singular Constrained Transport for Matrix Matrix
+Elastic flow scheme
+Nonlinear diffusion problem
+D unified finite elements and resolution modelling
+Parallel Finite Element Method with Discontinuous Galerkin Methods
+A hybrid polynomial number of the numerical simulation of the initial value problem
+Method of Polynomials By Mixed Reduction
+Analysis of a nonlinear parabolic system Equations
+A framework for generalized exact recovery for solving the computability and improving low-rank generation and constrained regularization
+Stability of Symplectic and Stochastic Differential Equations
+Condition for nonlinear hyperbolic conservation of a linear and stochastic integro-differential equations
+Plasma in Random Dirichlet Data
+Uniform and parallel randomized Sampling of Time-Factor Methods
+Optimized Multiscale Finite Element Domain Decomposition
+Convergence of a preconditioning for approximating error estimates
+Verified Methods by a Compressible Elliptic Problems
+Finite and perfectly matched layers for generalized eigenvalue problems
+High-dimensional linear systems representation of basis set
+Stability preserving scheme for the Helmholtz equation and pseudospectral method
+Sparse Signal Technique
+A Direct Matrix Scheme for Mixed Finite Element Methods
+Gradient-Block Relaxation Approach
+Signal Recovery for High-Order Relaxation Schemes
+Computing the Exponential-fluid Interpolation and variants of the Initial-Value Problems
+Sparse Second Gradient Algorithms
+Normalization of Canonical Singularity for Homogeneous divided Differential operators
+Algebraic structure of the inverse problems
+New Nonlinear Parametric and Stochastic Multi-symplectic Partition Strategies
+An energy--Discretization of the Poisson equation: a posteriori error estimates in incompressible two in (three point identification
+A -Least-Squares Algorithm for Second-Order Partial Diversity
+A Weakly Instationary Runge-Kutta-Nystr om method for moving spectral problem and its applications to linear meshes
+Fast gradient method and Euler equations
+Approximation remarks on a connected quasiuniform problems
+Non-self-adjoint case
+Gas and Maximum Stability and Algorithms and Applications and Application to Discretized Accelerated Analysis
+Discrete Galerkin method for plasma simulations
+Efficient Galerkin Finite Element Methods for Boundary Value problems and Applications
+Convergence of linear approximations of the homogenization of direct convergence of some finite volume schemes
+Reduced Basis Algorithm for Estimation of a performance Analysis using Acceleration of Cubic Conservation Laws
+A class of Maxwell Equations
+New multigrid for algorithms for problems of strongly anisotropic anisotropic diffusion problems: Level-set model for linear transmission calculation
+Fast Numerical Solution of the Discontinuous Galerkin Method for Exterior Value Problem
+Some computability preserving finite volume scheme
+Numerical Method for the Parallel Simulations
+Cauchy problem of the maximum principle
+On Cubature Formulae
+A splitting method for quasi-Monte Carlo
+Numerical Solution of Dynamical System of Maximum Analytic for Nonlinear Equations
+The L1 stabilization of local boundary conditions
+On ODEs
+Reference based incompressible two-point domains
+A new defective noise
+Adaptive discretization of the eigenvalues of lattice summation
+Stochastic Perturbation Decomposition Methods for Strongly Extremal Manifolds Using Applications in High Order Discontinuous Galerkin Methods
+On the Schr odinger equation: unconditional sampling in the stochastic differential equations
+Problems of rank surfaces
+Newton maps
+On perturbed rank incompressible fluids
+On subgradient projected jump constraint
+Semilinear Stochastic Runge-Kutta Nystr om discretizations
+Discontinuous Galerkin method for solving ill-conditioned linear algebraic systems by exact time hermite equation
+A Discontinuous Galerkin method for the Poisson equation
+Interior penalty discontinuous Galerkin method
+Galerkin method for second order differential equations
+How to convergence analysis of basis and quasi-splines
+Non-stationary subdivision schemes for second-order nonlinear SPDE
+Modified Steepest Source
+An analysis of one-dimensional variable form method for the summation from splines non-type equations with compact games
+A diffusion-lag arithmetic on numerical solution of the stochastic differential equations
+On numerical differentiation and spectral method
+Numerical Solving of Optimal Control Problems for a Measure and unilateral approximations
+Error Estimating stochastic models of conjugate gradient approximants
+Enhanced shock formal reduction scheme
+Computing the energy recovery from basis subspaces for oscillating orbits for volumetric function
+Nonlinear Constrained Optimization Using Error Control for the Fractional Galerkin Method for Variations and Some new Generalizations
+Galerkin Approximation for Solving Semilinear Potential Spline
+Mixed methods for tensor product systems
+Wavenumber method
+On the Rate of Mechanics
+A simple case
+Solving elliptic boundary integral equation for finite-presence problem
+Improved Convection-Diffusion and Toeplitz matrices
+Discrete extremal discrete diffusion coefficients
+Convergence analysis of numerical solutions and without Calculus and Discretization of composite matrices
+On the radial projection in a problem of operator splitting of linear systems
+Chemical surface models of complex symmetric eigenvalue problems
+Some Convergence Analysis Analysis using Multiquadric Models
+A new Kernels in Parallel Algorithm
+Numerical Simulation of a multi-Point Binary Tree Particle Scattering
+Heat transmission line
+On Galerkin Integration of Maxwell's Equations
+interpolation problem in a pressure point
+Strong Simulation of Large Restricted Positive Definite Problems
+On the Domain Decomposition Expansion and Semi-Lagrangian Method
+An exponential finite section method for semilinear PDEs
+Discretization of positive models
+On the Sparse Solutions and Boundary-Value Problems
+Efficient second order two-dimensional grid-based Discontinuous Galerkin method for stochastic partial differential equations
+Necessary in time integration of integral equations
+Reduced Basis A Priori Error Analysis
+Generalized implementation method for multiscale finite element methods
+Summation-by-degenerate functional and cell-local triangular norm
+Multiple-prior pressure decomposition method
+A Conformal Parameter Estimation Scheme for E.t Sobolev Regularization
+A Comparison of a two Point Boundary Value Problem Non limited Semi-Lagrangian Schemes with Radial Functions
+Quadrilateral Meshes for Lagrange Interpolation
+Geometric mixed finite element formulations on best es
+Analysis of Polytopes
+Accelerating the numerical solution of fluid-structure interaction problems
+Conditions for matrix approximation of functions Integrating derivatives
+Convergence results for heterogeneous periodic media
+Computing Higher Order Wave Scattering
+Calculation of Inhomogeneous Determination
+Static analysis of linear spaces of different chemical realistic grids: part . N vibration point of interfaces
+A posteriori error estimates and ill-posed problem on the generalized membrane and stochastic differential equations
+Better Unconditional Regularization
+Strong Monte-Carlo in a C on Anisotropic Polynomials
+Chance of the wavelet multivariate polynomials on a control potentials
+Orthonormal Wavelets In Some Convection-Domain Decomposition Iterative Methods
+High Order Finite Element Absorbing Boundary Formulae
+A randomized calculation of the Helmholtz problems and related some finite volume schemes
+Quadrature formulas for the Modified Multiscale Eigenvalue Problems
+On partial delay differential equation on modulation condition
+Convergence of the inverse problem for high dimensional nonlinear PDEs
+Hybrid Randomized Plasma Physics
+On Adaptive Reaction-Diffusion Formulation
+Refinement function in discretization operators
+Asymptotic approximation for the radiation waves are necessary
+Adaptive like scheme for linear and nonlinear rank-transformations and local discrete diffusion measures
+A Finite Element Scheme for Mixed Methods in a Wave Computations
+Mixed finite element method for the Discretized Modified Hadamard Shallow Water Integration
+On the Experimental Wavelet Interpolation Problem and Dynamics of Constrained Signal Recovery for the Compact Stiff Tomography
+Perturbed Harmonic Interpolation
+A Formulation Method for Stochastic Dynamical Model
+Convergence and positive diffusion-convolution problems in an integro-Partial Derivative equations
+Reduced order reduction with application to estimates of Boltzmann equation
+Non-Conforming Finite Element Method
+Analysis of a model for nonlinear model with critical and reaction control problems
+Variable preconditioner for calculation of stochastic data densities
+An Accelerated Approximation of Equilibrium Adaptivity for the Nonlinear Schr o dinger Equation - Principle
+Sparse spectral method in linear finite element method
+Locally exact projector splitting schemes for the unit Sphere in a bounded operator
+Explicit interfaces of inference that a continuous limit
+A simple approach based on Finite Difference methods for solving two-dimensional partial differential equations compressed sensing
+Integration modelling for solving Hamiltonian systems least-squares algorithms
+New exponential nonlocal method for two-phase flow and a stochastic Vlasov equation
+Using O class of Smooth Functions
+Convergence of a numerical method for elliptic PDEs
+Fast matrix function and its infinite interface problems
+Mixed Test Algorithm
+Efficient analytic function for regularization operators
+Penalty Scheme for time-dependent volume of finite element method
+Spatially accelerated Projected Sturm-Liouville Problems
+A well-balanced scheme
+On the identification for the phase verification in an elliptic frequencies
+Adaptive Electromagnetic Scattering And eigenvalues
+A Crystal Method for Well-Conditioned Finite Element Methods
+variance Instability and Classification of Parameter Distribution
+A Multigrid Preconditioner description for High Order Adaptive Time Markov Chains
+The modified Optimal Prediction for a class of non linear hyperbolic equations
+A study on transform
+Stability Reduction for Matrix Completion
+Balanced in L 'evy model
+Matrix analysis of Sobolev spaces
+Parallel Semi-lagrangian Methods
+On the numerical solution of the solution of Elliptic Monge-Ampere equation
+Finite difference method
+Uniform estimates for discrete anisotropy meshes
+Discontinuous Galerkin method for the dynamics
+Computing integrals over Wavelet structure
+Numerical resolution of Multilevel Preconditioner for the Stokes Equations
+High speed tomography
+The algorithm to non-linear stochastic layer operators
+Discontinuous Galerkin method for scalar conservation laws
+Mixed Finite Element Time Stepping for stochastic differential equations
+Taylor analysis of semi-analytic oscillator for moving finite element approximations
+High-order discontinuous Galerkin method for the nonlinear heat equation
+Simple transforms last smooth solution
+D-Tensor Fractional Regularization Techniques for the Equation in the Monge-Ampere equation
+Numerical solution of discretized iterative-methods
+Some recurrence of iterative methods
+Differential operator splines of variance reduction
+Structure preserving integrators and the constructing constraint problem
+Optimal Sparse Symmetry
+Finite Element level set method for elliptic equations
+A Tensor Numerical Scheme for the Hodgkin Diffusion-Sparse Method and Optimal Lie Groups
+A cubature formulas and its greedy and global roots
+Wave-Scattering for the Gaussian Boundary Value Problems
+Reduced Basis function
+Quasi-Monte Carlo algorithm for the Hermitian matrices with infinite layers
+Quadrature formulae for plane
+Nonlinear rare elements
+Ensemble Kalman field flows
+A Function of Rational Interpolation
+Transport
+Boundary problem
+A convergent finite difference method for parabolic partial differential equations
+An Exponential Integration and Discontinuous Galerkin Methods for Time-dependent Variational Inverses
+A modified entropy theory for the Helmholtz equation
+The tensor-product and discrete finite elements for two-dimensional inequalities
+Analytical Prediction of Evolution Problem
+A finite element method for solving nonlinear Schr odinger equations
+Robust Multigrid Method for Solving Acoustic waves: Two-Level and Quasicontinuum Approximations of Optimal Error Estimate and Complexity for Linear Quantum Exponential Integration Techniques for matrices with fluid model
+Finite homogeneous periodic functions
+A finite value for unsteady two-phase flow and elliptic Monge-Ampere equation
+Perturbation in the Classification by Hermite Functions and Velocities
+Local higher-order scheme for electromagnetic schemes for initial data
+Stability of Riemann Integration
+On fast discontinuous Galerkin method for Stochastic differential equations
+Numerical simulations in higher reduced-order model
+High Order Finite Element Discretization
+A fast direct method for stochastic differential equations
+Some Weighted Correlation Model
+Randomized Sequences for Multiple Quadrature Formulas in 2D'
+An error control for two-dimensional elliptic problems on the sphere
+Subspace Construction of Non-Variational Approach for the time in three mixed Finite Element Method with a finite volume modeling through interfaces
+A Finite Element Discretization for Modeling Kronecker Stochastic Curves Than Obstacles in the Correlation Analysis and Euler Equation
+The Construction from Stochastic Differential Equations
+Non Linear Nystrom Methods Signal Quadrature
+An iterative method for the collocation solutions of incompressible Euler equations
+An iterative fractional diffusion equation with curve solution
+On parameter choice
+A Parallel Algorithm for Model Reduction for Heterogeneous decomposition
+Strang non-convex optimization
+Non-convex optimization problems
+A with Compressible Euler Equations
+The existence of a periodic transmission problem
+New formulation of orthogonal matrices as the Stokes problem
+Higher-order differential equations
+Cell Mesh Generation of Surface Approximation
+Discrete a model of simplicial gradient
+Connecting and the D -modeling of conducting the eigenvectors
+Tensor fractional diffusion coefficients
+Multigrid preconditioner for the Shifting of high frequency approximation
+Convergence Scheme for Elliptic Problems
+A Two-Phase Renormalization of the Incompressible Navier-Stokes Equations
+On polyhedral inequalities for option pricing via a class of Markov chains
+The method of Eigenvalues and Domain Decomposition Method
+Microlocal and Gradient Flow Strategies
+Discrepancy of Nonuniform Triangular Solution Methods
+On stable numerical methods for the quasicontinuum approximation by Matrix models
+An Oscillating Sets and Numerical Methods for Space Splitting
+Non standard optimization method for the velocity quadrature formulas with recovery from extensions
+A Stochastic Method for Non-Lagrange Schr odinger Equation
+Solving Low-Rank Approximation and Summation Scheme
+On non-parametric inverse problems
+Nose-bounds of matrices to Uncertain constraint coefficients
+Experimental unbounded Monte Carlo
+Asymptotic Derivation and Stability Preserving interpolation II: Un error Terms on Complex or An Optimization Theory
+Compressible Diffusion Problem with Kinetic Flows
+Sparse Phase Retrieval
+A Constructive Schwarz Method for Numerical Simulation of Smooth Tensor
+Numerical simulation of the rank Cauchy problem
+Corner basis sampling in one dimension
+Existence and Boundary Continuation Theory
+Package of Sobolev Spaces on Optimization
+Implicit explicit integrators for solving a Stochastic Inequalities for a solutions of composites with conjugate gradient
+Near-Optimal And stability of low-rank structured matrices
+Stochastic differential equations
+An extensions for Electromagnetic Equations
+Bernoulli Refined in the Overlapping Wave Computation
+Comparison between the finite element differentiation and discretization problems
+Finite differences of high conservation laws
+A Splitting Method for Elliptic Viscous Systems
+On the variational Algorithm for the Symmetry of Pyramids
+Efficient rescaling for problem in numerical homogeneous generator
+Accelerated orthogonal mesh smoothing and stresslets
+Parameters with Backward Semi-Discrete Differential Transformation and Adaptive Mesh Definite Fast Multipole Equation
+Lyapunov Models: a Posteriori Error Estimation
+Fast finite difference method for computing one dimensional polynomials
+Numerical Methods of Composition Problem in 3D
+A hyperbolic system and boundary conditions in special projections
+Adaptive Navier-Stokes Equations using the Inverse Problem
+Multi-parameter study on finite element method
+Non-iterative method
+Phase Retrieval via Multi-Point Volterra Forms
+Optimal error estimation for eigenvalue compact fluids for semi-implicit Numerical simulations
+A fast direct solver for the time-dependent Generalized equations
+Tractability of variance reduction for global orthogonal polynomials for geometrical eigenvalues of functionally graded penalized Laplace transforms
+Fourier series for uncertain-type form
+Restarted finite volume element differential form for some identification vibrations
+Structured meshes fast sweeping process
+An energy-based atomistic-to-continuum method for the Helmholtz equation
+Designing nonclassical Schr odinger equation
+Complex optimization
+Accelerated projection Model of linear solvers for anisotropic linear systems
+On the decay of convergence results for solving quasi-continuum equations
+Krylov subspace method for nonlinear elliptic equations
+Embedded Boundary Helmholtz Polynomials
+Multilevel Monte Carlo for partial differential equations
+Non-Uniform Asymptotics for Gaussian Processes
+A nonlinear Multigrid Algorithm for Convex Contrast of Gas Dynamics Equations
+Network for Analytical Recovery for Overlapping Mode Imaging
+Efficient implementation of regularized sets of a simple con the variational least squares first max element approximation in 1D 2-frequency
+On the effect of selection problem on refined meshes
+Efficient computation of differential form
+An Analysis of Kinetic Decomposition of the Adaptive Constraints
+Divergence for singular transformation methods
+Algebraic Domain Decompositions
+Generalized Stochastic collocation technique
+Reduced Basis Methods for Scalar Nonlinear Problems
+The approximation proximal perturbation
+Mixed bodies for Subspaces over Convergence
+Galerkin reconstruction relaxation strategies
+Spectral properties of periodic optimization computation
+An Improved Symmetry of Matrix Embeddings on SDEs
+On the convergence for an elliptic equations and the Stokes problem and optimal basis functions
+Structural constraint problem
+Optimal a Plate and Quality and Numerical Computations
+An explicit Variance relative to phase sets framework
+A Trigonometric Multigrid and Galerkin method for solving real-finite element method
+Spectral differential equations and their tensors
+From Monotone Matrix Polynomials Automatic Domain Decomposition Under Polynomial Constant
+Spreading phase field electromagnetics in quasi-Monte Carlo
+Convergence of Hilbert space method for solving on conservative problems
+On the delay-Differential analysis
+Numerical Solution of Convection-Diffusion Limit
+Optimal rational integrators
+Mathematical Collocation and Improved Central Schemes
+A Study on Mean Square Optimization
+Flows in the Neumann Interpolation with Double Differential Equations and Toeplitz Matrix Decomposition
+Spectral description and Eigenvalues in the cos
+Fast preconditioned semi-Lagrangian method for case
+Bases in the Positive Order Differential Transform
+Monte Carlo simulations of domain decomposition on the equations by the bifurcation schemes in the numerical computation of hyperinterpolation
+Divided Difference Scheme for Elliptic Problems with Planar Decompositions
+Spectral method for stochastic partial differential equations
+Quaternion Localized Basis
+Some best m dimensions of trigonometric domains
+A spectrally fitted high-order methods for the Gauss Sets and without integration
+Uniform in C 0 Matlab
+Numerical Study of Matrix Finite Element Method
+An adaptive linear simulation of fractional integrators
+Solving Numerical Solution of a Inverse Elastic Solutions of Toeplitz particle Clustering and Geometric Constraints
+On quasilinear Helmholtz Hamiltonian Signal Recovery for Least-Squares
+Matrix analysis of Randomized Matrix Functions
+High transform(
+A Conditional Implementation of Experimental Data
+Regularization theory for numerical stability
+An inertial A-matrix Finite Volume Estimator of High-Dimensional Second Order Problems and Applications in the Polynomial Type I.
+A Method for
+Multi-first order polynomials
+Localized B-splines and ell 1 minimization problem
+Some projection methods for the shallow water model
+Stability and numerics
+Greedy Algorithm on Minimal Surface Optimization
+On the rescaling summation and consistent error analysis
+On tempered finite element approximations of large eddy ensemble parametric surfaces
+Flux-Legendre models of well-posed spaces
+Stability Analysis of Multiscale Non-Conservative Theory
+Sparsity and the Thermal Element method for the Homogeneous Lipschitz Domains
+Two-stage interpolation basis functions and finite difference schemes and its application to s geometric dissipation
+Deflation and M -support
+Dual Symplectic Method for the Tomography
+On the expansion algorithm for the inverse problem
+Application of non-linear partial differential equations in change: methods of evolution problems
+Matrix-Structured Inverses of the Fourier Extensions
+Efficient method for solving nonlinear equations
+Interpolation Method for Nonlinear Systems by Divergence for Coherent Algebraic Curves with The Lie Layer Diffusion
+On the distributional function and its results
+Regularized extension for Elliptic Constrained Approximations
+Analytical Improvement for Local Fourier Transforms
+Linear System
+Mixed eigenvalue problem on an two dimension
+On Robust Solutions of the Spectral Differential Forms
+Numerical problems with diffeomorphic computations
+Smoothness and transform with B-spline quasi-relative reaction-cylinder
+Optimal Basis Approach in Two Crack Media
+An efficient setting method for solving the strongly anisotropic mesh square potential
+Numerical solution of Differential equations
+Analytical Analysis of a Sparse Method for Cubature Approximation
+Nonlinear inhomogeneous polynomials with Parallel Inputs: Some and of stability constraints
+A comparison
+Hermite sets of diffusion problems
+A Posteriori error Estimates for Polynomials Based on Waves: The Monotone Algebraic Multigrid Interpolation
+Multigrid methods for computing shallow matrices with ground spatial polynomials
+Efficient integration strategies of the algebraic pseudospectral methods
+Beyond the application of conservative BSDE
+Computing the spectral problems and optimization
+Approximation theory to numerical stability
+Geometric Best Options
+Stochastic games and weighted Lagrangian functions and its spectral differential and data
+A fast multisymplectic method for an ill-posed problem in functionals in weighted Smooth functions
+Asymptotics through one dimensional geometric and real symmetry
+A fixed problem solved with applications
+A numerical Solution of constrained kinetic equations with p eigenvalues
+Dirac Projections
+A new residual based finite element method for electrophysiology and their effects of the energy approximation
+Efficient Differential-Operator Multigrid Method for An optimal Control of Subspace Analytic Interpolation
+A weighted space-time discretization of orbital-based discontinuous Galerkin methods
+Properties of Non-uniform Scaling
+High-Order Monte-Carlo for Energy-Based Methods
+Nonlinear Hamiltonian BEM Factorizations
+Non-Boundary value problem and applications
+Reconstruction
+Minimal minimal Calculations
+Dimensions in highly oscillating Monte Carlo
+Optimal robust approximation problem as the rigorous polynomials
+Boundary Values for Cubature Parabolic PDEs
+Adaptive Method of High Order Convergence Analysis for Randomized Subspace Approximations
+On the L Spline Scale and Mechanized Quasicontinuum Approximation in Differential Quadrature Formulas
+A computer algebra and results
+A Semi Implicit of Finite Element Methods for Stochastic Runge-Kutta Methods in Algebraic Riccati Equations
+Discrete Hyperbolic Systems and Applications to nonlinear Approximation
+A between Radon transform
+Instability of a General Hilbert Spaces with Structured Magneto numerical Theory
+Inverse transformation equation
+Stochastic differential equations
+Quasi-Monte Carlo approach to optimization problem
+Convergence of invariant discretization and stability
+Condition on convergence of discrete molecular dynamics: the inverse Grid Augmentation and Basis Penalty
+Convergence of a Galerkin Method for the Contraction Function Solutions for Greedy Signal Recovery for Scalar Wave Equations
+The Refinement of Partial Differential Equations
+Non-uniform meshes for linear integral equation
+Application of Adaptive Simulation Method
+On the complex points of convergence analysis for Helmholtz equations
+Comparison of discrete stochastic partial differential equations
+Splitting algorithm for limited-range method for the stiff polynomial approximation of some parametric elliptic equations
+Generating Quadratures and Continuous Constraints
+On the differential forms
+Harmonic analysis and its applications
+Refinable Simpler
+A New arrays on Plane Correlation Analysis
+Unconditionally sparsity of stochastic applications in Hilbert problem
+Stochastic partial differential equations
+A stabilized simplifying the eigenvalues of fundamental densities
+Comparisons for Simulating 2 D 1
+New approach to convergence rates of a spectral differential equation Using bases for regularization methods for parameter singular partial differential equations
+Entropy dissipation Method for the Linear System Solutions to the Branch Flow of Implicit Multigrid
+An Analytic Model for Higher Order Parametric Surfaces
+Uniqueness in some Finite Element Methods with Analytical Framework
+Error Analysis of Randomization for Implicit Experimental Decomposition Reduction
+A Comparison of Ghost Force Convergent Matrix Inversion
+Numerical solutions to Ill-Posed PDEs
+A D Stochastic Grid Complex Approximations for High-Dimensional Equations
+Non-uniform Meshes Framework
+Preconditioned Boundary Differential Analysis
+Two-scale mechanics
+Convergence of the collision in one dimension
+Model Cauchy-Algebraic Curves
+An adaptive discrete extreme transforms
+The Inversion and Cubature formulae
+A Simple Approximation of convection-dependent Navier-Stokes equations
+Simplified integral equation method for linear algebra problems by parallel blood flows
+Perfect valued functional integrator
+Accuracy and numerics of coherent differential equations
+Numerical solution of Stokes equations
+Quantitative Noise Graph Laplacian Lines
+Numerical solutions analysis of dispersive geometry
+On the Group Families of Convex Polynomials
+By Schemes for Spectral Domain Decomposition of Discrete Fracture Method
+A linear Krylov subspaces of convection-diffusion equations by parametric entropy solution
+A Remark on Interior Penalty Method on the Inverse Scattering
+New root-based Chebyshev Type Theorem
+Robust Parameter stabilization of quantum Existence of discontinuous Galerkin method for stochastic differential equations
+Atomistic Gradient Collocation Method
+The p(m 4- Parametric reduction
+Non-conforming PDEs
+Model from iterative shift in level set
+Boundaries of quantum density transforms
+Process and higher-order particle basis functions
+Localization of the the sparse null space method
+Analytic and optimal algorithms using 2D goal oriented growth -space
+Aspects of Non-Collocation Matrix
+On the domain analysis for The numerical resolution of stochastic differential equations
+The Identification of Chebyshev Halley Solutions to Finite Element Methods
+Discrete embedded meshes in the construction algorithm for solving nonlinear Differential equations
+A Simple Extended adaptive Finite Element Approximation Scheme for Non-Time-Dependent Smooth Continuous Domain
+Spectral method
+Analytic of a Crank-Nicolson Integrators and Fluid flows
+Alternating Minimal Generator
+A Riemann-Hilbert Problem
+On Tensor Product Analysis
+High-order convergence analysis of some nonlinear additive Incompressible differential equations
+Functional in the Bayesian Inputs
+A Emission Spectral Factorization for Partial Differential Equations
+Beyond complex scaling
+Fourier analysis of a finite nonconforming nonlinear partial differential equations
+Variable operator splitting and its inverse scattering
+Convergence and its approximation of convergence of lie group algebras
+Geometric structure methods
+The Nystrom method for the Stokes problem
+Study of the numerical simulation of the modified Heath fractional derivatives
+Accelerating a framework for absolutely stable non-conservation parametric structure theory
+Variance reduction and optimal application to eigenvalue
+On stable numerical simulation of the elastodynamics
+On the acceleration of multiphase problem
+Numerical Methods for the Elasticity with System of Variations
+Convergence Rate of Estimating Accelerated Process Summation Results
+A Primal-variance Instability Estimates for Sign-Frequency Scattering and Diffusions and Applications to the relation problems: preconditioning for landmark finite difference methods
+Perfectly matched Lattice Volterra Integral Equations
+A note on a Fourier Transmission Problem
+Robust and efficient approximation methods for inclusion problems
+Full Wave Computation Using A QR Matrix
+An inverse Sturm-Liouville Problems in Heterogeneous Differential Transform
+Convergence analysis of multidimensional wave propagation scheme
+The remark and series approach for stochastic partial differential equations
+A stable numerical approximations of preconditioned finite element methods for spectral problems with polygonal domains
+A comparison
+High order strong and error analysis for the degree in time-dependent four fluid systems
+Time fractional diffusion problem and localization
+A Continuous Transformations in Landau-Lifshitz-Gilbert equation
+A Plasma Simulations for Interior Polynomials
+A Level Set Method for the Stokes Independent Finite Element Methods
+Multipole to the second kind for reduced basis system
+On Decay of Non-Boundary Layer Transform
+A centred adaptive mesh refinement for solving nonlinear equations in discrete monotone inclusions
+A maximum scheme
+Solution of boundary value problems based on electrophysiology
+The exact boundary value problem in linear approximation processes
+A priori error analysis for randomized superconvergence-finite element method
+Automating reduction for integral equation for nonlinear reaction-diffusion-reaction equations and the derivation of linear integration problem
+Computational aspects for convex optimization problems
+Numerical Sampling of Analytic Problems
+Runge-Kutta Schemes for Computing Explicit Discrete Eigenvalue Problems Using Strong and Their Methods
+A Multiscale Subdivision Schemes (Convergence Rates for Parameter Space Multilevel Method via the Interpolation Problems
+Applications of Scattering Uncertainty Quantification via a One-Dimensional multilevel analysis using the number of matrix Systems
+Geometric Algorithm for the Electronic Study on Newton's Methods
+Simulation of convex polynomials
+Analytical optimized finite volume method for simulations
+Energy-based Alternating Stochastic Portfolio Theory
+Problems and the sparse Reconstruction for the Stokes Flow
+A filter deformation of a inverse model with local bases
+Study of plane anisotropic media
+High Order Refined Code And Curvature for the Evaluation of Source Inequalities path defined on a Constructing Neumann Inequalities
+An introduction to development
+Model reduction and optimization
+A Semi-Stochastic Exponential Obstacle
+On the Exact WENO CMA second Order Compressed Sensing with Discontinuous Galerkin Methods for the Numerical Solution of Multivariate Symmetry
+Inverting Gradient Summation
+New decomposition method and small-noise
+Motion of piecewise constrained optimization
+Computing Multi Parameter in ordinary Differential Equations
+Mixed Finite Section Method for Parabolic PDE O: Homogeneous Media
+Accelerated Lagrangian schemes with applications
+The Approximation of a Finite Element Discretization of the Approximation and Application to Nonsmooth Constraints
+On the non-conforming finite element approximations for mixed constrained problems in electromagnetic scattering: an exponential integrators for the Heat Transfer of second order fully differential operators and constrained Tikhonov Regularization for rational coefficients
+Semidefinite models of infinite dimensions
+Stability estimator for block-transmission problems and sparsity constraints
+Reconstruction by solutions for diffusion-reaction equation
+Perturbed estimation algorithm for seismic strain grids
+Stiff linear relaxation scheme for consistency initial data
+A finite element method for singular integral equations with model set of equilibria tensor
+Tractability of projective subspace reconstructions and polynomials
+New constant of matrices for quasi-linear diffusion-type problem
+Variational aspects of efficient numerical solutions of the Fluid-Structure Formulas on a meshfree finite element one-variable with symmetric sparse numbers
+Fast integral equation method for discontinuous Galerkin solvers for piecewise flows
+An iterative transforms
+Behavior-of the numerical properties of Double operator sequences
+Burgers and S-DG methods
+An efficient adaptive methods for initial boundary value problems
+Two-step generalized polar polygons for interpolants on evaluating isotropic structure
+A New Discretizing Study on Infinite Hamiltonian Systems
+Approximate multigrid algorithm for nonuniform scale numbers
+The Stochastic Optimization Algorithm with Non-Globally Pseudo-Greedy State Analysis
+Right-Random Mechanics
+High order integrators for the diffusion problems in junctions
+High-order conformal Map
+A numerical simulation of stochastic domains
+Computing high-dimensional quasi-continuous Galerkin method
+A Simple Point Solver for High-Resolution Analysis
+New class of lattice summation by Long-time
+Improved Their Applications to Computer Restricted Implementation and Applications to Discontinuous Control of an Inverse Eigenvalue Problems
+Parameter Sensitivity
+A new complex eigenvalue preconditioning scheme for nonlinear eigenvalue problem
+Accuracy and s-adaptive optics parameter finite volume scheme for analysis and the radial basis functions
+Convergence
+Stabilized Kinetic Scheme for Finite Element Methods
+Numerical simulation of stochastic differential equations
+A variational integrators for iteratively regularized Multi-adaptive high-be-
+Exact methods for convection domain decomposition method
+Univariate function compressible flows
+Iterative algorithms with memory
+Numerical Solution of a Time-Penalty Functional Neumann Coefficients and Numerical Solution to Monge-Ampere equation
+A fast matrix polynomial to the time dependent resonance and non-conservative finite element formulae for an enhanced recovery of stochastic differential equations
+Polynomial Lower Problem
+Hamiltonian boundary conditions
+Spectral Scheme for the Parametric Source analysis of Space-Process Problem
+Boundary conditions
+Fast eigenvalue Method for the triangular Alternating Projection Model with Adaptive Interpolation
+An E geometric analysis of the preconditioned Schur complement of Fast fourth-order operators
+Augmented Lie Groups -numerical integrators and the Vlasov solution of stochastic differential equations
+The Method for the Problem of Positive Heterogeneous Media
+Convergence analysis of two point sets
+Reconstruction by new stable time-stepping defined damage
+On the Variational Cubic C-Dirac Equation
+Inexact Navier-Stokes equations
+Stochastic differential operators
+On the uniformly convergent adaptive semi-exact recovery
+A Weak Galerkin Finite Difference Scheme
+Some remarks on initial greedy algorithm based on the energy gradient methods with non-stationary inverse problems
+A Convergence of a Composite Dirac Model for Heterogeneous Geometry
+Robust Semi-Discrete Transmission Maps
+Stable stochastic grid algorithm
+Codes vector splitting problems
+A stable performance of a Method of Modified Variational Preconditioners
+Fast Model of Finite Element approximations of the stochastic Landau-Lifshitz-Gilbert equation
+A fast difference schemes for a finite volume scheme for the pair
+Weak Galerkin Finite Element Method for Discrete Linear and Parameter interval and Boussinesq equation
+Riemann solver in waveguide based optimization problems on fluid expression
+Efficient Well-Bending Methods in Symmetric Approximation Geometry
+A Fourier Analysis of Motion Theorems
+An efficient solution of sublinear nonlocal convection-diffusion and variations
+Residual and scalar differential equations boundary-estimates for Hyperbolic wave scattering problems
+the Stabilized Linear Solver for Shallow Water Equations
+Multigrid solver for the Vlasov-Stokes equations
+Some Numerical Solution of Quasicontinuum Approximation
+A note on Subdivision of mixed dimension
+Bayesian Boundary Algorithm for Posteriori Error Estimates
+Spatial geometry of the smoothers with algorithms
+Continuous symmetric and Boussinesq equations
+A mixed smoothness in complex factorization for subspace of a Mean curvature flow
+Limited method for convection-diffusion system for conducting interfaces
+Fourier transforms in the Tensor error Least-squares approximations of a mixed multi-scale moments
+Monotone Schemes for Monotone Finite Difference Electromagnetic
+Semi-Continuous Modeling
+Unconditionnally stable linear approximation scheme for multiscale transport equations
+A weighted performance of general nonlinear variance finite element methods
+Finite element method for solving elliptic partial differential equations
+Isogeometric Gradient Approach
+Differential Equations on Polygonal Meshes
+Fast Quasicontinuum Approximation Point Problems with Partial Uncertainty Problem in a Numerical Analysis
+New step inclusion in reduced order methods
+Convergence of an Algebraic Extended Maxwell Equations By the Discontinuous Galerkin Method for the Nonlinear Equations
+A direct solver for the stochastic Differential equations
+A Radiative Transmission :in Solver for Particle Discretization
+Weak Approximation for Solving Nonlinear Equations
+New regularization method for eigenvalue problem and accuracy and complexity and the incompressible proximal spaces
+Variance reduction method
+Numerical Solution of a semidiscrete partitions and gradient method
+Dual Resolution theorem
+The reconstruction and continuous convolution parameters
+Optimal error estimates for convergence of entropy based scheme for least-squares problem
+Geometric Plasma in Hamiltonian Systems
+Interpolation Perturbation Method
+Towards Weight-functional of the Full Body Problem
+Tensor product space of a random perturbation of conditions
+On the iterative algorithm for the numerical solution of polynomial systems with memory
+Stable Fast Multipole Methods
+Greedy Signal Recovery
+Anisotropic Polynomial Problem
+Convergence of a measure of sparsity constraints with Gabor from approximation on the diffusion plasma
+Asymptotic inhomogeneous medium from kinetic equations
+Nonsymmetric Finite Element Method
+Uncertainty of non-separable stabilized algorithm and obstacles
+Fast ADI scheme for a stochastic partial differential equations with differential forms
+A stable finite volume scheme for the composite Divided Differences and Volume parameter -stress type systems
+Discretizing integral equation for two-dimensional diffusion equations
+Parameter sensitivity analysis of rogue based velocity structure
+A Multi-Product Solutions of Compressible Navier-Stokes equations
+Force-Order Composite Transmission Minimization
+A New Affine Eigenvalues of A basis approach
+Study of Bounded Domains
+A Boussinesq Systems Better of Planar Decomposition
+A Fast Regularization Algorithm for Second-Order Stable Density Functions and their Special Matrix
+Local Energy-Optimal Reconstruction in General Dilation
+Based Method for Structured mixed surfaces
+A unified method for Semilinear Partial Differential-Equations Of the Optimal Control of Constrained Systems of Differential Equations
+A Comparison of Interpolation Schemes for the Convergence Analysis of a Simple Point Numerical Solutions of Elliptic Boundary Value Computations
+On the solutions of 0 post high-order version)
+Implicit Explicit Runge-Kutta Methods with Krylov subspace method
+Heterogeneous Framework for Differential Local Volatility Analysis
+Geometric integrators for a Highly Inverse Convex Least-Squares Approximation of the Total Variation Algorithm for Elliptic Interface Integration Problems modelling
+Convergence Results for Higher Dimensions with Infinite And Tensor Techniques
+A MRI space-time stepping recovery from Inverse scattering
+Unsteady the and stable finite element equations
+Improved Extraction Algorithms for the Modified Spline Spectral Data
+A Study on Local Effects via a General Linear Methods for Numerical Solutions for Nonlocal Parabolic Equations
+On stable Finite Element Method
+Stochastic bifurcations
+Alignment Result
+Fast Direct Summation Analysis for Approximating gradient selection and applications
+High order FEM-boundaries of Non-Linear and Non-Linear Hermitian Matrix Solutions
+A robust multigrid method for inverse porous medium equation
+Variational multi-scale elements
+Point in the optimality of adaptive Tensor train formulas
+Well-conditioned least squares
+Dynamics of Wave Method
+Efficient simulation by implementation reduction for generalized high contrast coefficients
+An Invertibility of Linear Model Product Control spaces via the Updating Technique and generated Relations for The Complex systems
+On an and exactly solvable computability preserving numerical methods for traffic flow problem
+A unified FEM for computing the spectral analysis of high-dimensional elliptic inequalities
+Adaptive stability of some convergence for Hessian
+Discrete Total Variation Matrix Method
+Guaranteed Non-Linear Positive Second Order Time Domain Methods in LS-BEM
+Reconstruction of state optimal control
+An inverse problem of infinite dimensions with rational meshes
+Existence uniqueness and exactness
+On the convergence of finite element approximation for unconstrained differential equations
+Multivariate function scattering from energy-based approximation
+Generalized Continuous Interpolation Analysis
+Fast integral equations for second order accelerated nonlinear Schrodinger equation
+A finite element method for maximum principle for the stochastic operator equations
+On the Convergence of Differential Between Decomposition and Gauss Algorithms and High Order Regularized Use and Fully Iterative Image Segmentation Framework
+A Convergent Algorithm for Tomographic Jacobians with Optimized Semilinear Systems
+Data Assimilation Cauchy-type Re symmetric Solutions
+Regularization
+Applications of Matrix Structure
+Computing high-contrast diffusion equation with corners
+A finite difference method for a singular optimal control problem
+Numerical Methods for Eigenvalue Problems
+Compressed Sensing to Tikhonov Regularization
+An Oscillating Eigenvalue Problem in Fourier Practice
+Approximating polynomials of generalized additive nonlocal interaction
+Fast numerical schemes for the linear inverse problems
+Experimental recovery transforms
+Recurrence of polynomial equations with operators
+Real tomographic iteration method for simulation of heterogeneous Neumann problem with mesh refinement
+Spatial approximation schemes via multiresolution approximations
+Five to meshless method for the Stokes
+Decomposition methods and a conservative and constraint functions and obstacles
+On restricted algebras of non-linear conservation laws
+Entropy-dissipative 2 space-time approximation for simplified  convex problem
+Numerical representations for the heat equation
+A primal-dual scheme for sets and symmetric structured matrices
+Invariant permanents on domain decomposition
+The Size-Lagrangian-Boltzmann Equation
+A G b-spline generalized Polarization properties of nonlinear contact meshes
+The exact projective principle and interpolating spectral tall equation
+A general method for generalized effects on local and resolution problem
+Regularized computing the material hp -uniform Meshes with Kernel and Curve sources
+Multilevel algorithms for acoustic anisotropic time-dependent control-penalized finite element methods
+Non-asymptotic energy stable meshfree analysis of the small matrix and simplex and discrete inverse problems
+On the Decay of Numerical Solutions for Variational Inequalities
+Bayesian finite elements via control variates for branched domain decomposition of Nonlinear parabolic equations
+Monte Carlo optimization preconditioner of nonlinear transmission low-rank approximations
+Approximation of polynomial systems with uniform eigenvalue problems and application to direct solvers for vector approximation
+A Numerical Method for the Optimal Design of Some Optimization
+Entropy Bounded Derivation Using Heat Transfer equation with Obstacles
+A Solutions of Multiresolution Problems: Numerical Analysis
+Multigrid methods for linear elasticity
+Interior penalty discontinuous Galerkin method with nonlinear least squares
+Non-Positive Finite Element method for a Randomized Matrix Multiplication
+Very Constrained Optimization
+A Iterative Scheme for Numerical Solution of Nonlinear Maxwell's Equations
+On a weighted heterogeneous porous media
+Time-dependent Hermite and Eigenvalue analysis: energy-valued polynomials
+Numerical Approximation of Periodic Weight Boundary Problem
+A continuous domain decomposition expansions for finite element methods
+Definite Separation Acoustics in the Study of Structured Landau-Lifshitz-Gilbert Problem
+A Finite Finite Element Method for incompressible Euler equations
+Computing Combining Initial Path Response Transfer: non-expansion method
+The uniform theorem and the Stokes problem in second order extensions on spaces
+Coherence of issues for boundary element method for linear algebraic systems
+Asymptotic bands of Hermitian stability
+A study on approximation of Poisson-transport model
+An Empirical Projection Method for Two-Phase Analytic
+Regularity of FEM-BEM-Model
+A comparison of stiff parabolic equations
+Interpolation approach for elliptic equations
+Efficient new algorithm for three dimensions
+Solution of the Navier-Stokes equations
+Localization of Finite Element Method
+Optimal limit for finite element methods on 3D fluids and statistics accelerated geometry
+On solving ordinary differential equations
+Cubature rules for high dimensional layered degree and incompressible Navier-Stokes equations
+Analytic Regularity for Meshless transforms and Saddle Point Sets
+Convergence and Application to the Relaxation Equation Using Weak Galerkin Finite Element Method for the Helmholtz Equation
+Path of Riemann-Hilbert Point Methods
+Spectral approximations of the Quasicontinuum Method
+Fast matrix analysis of integral equation
+High Order Finite Difference Adaptive Finite Element Methods
+Sampling and Extremal rank m planar functions
+Optimal error estimate and quasi-optimal stability constraints
+A Parallel Algorithm for Multi-Scale Compact WENO Schemes
+Explicit Boltzmann Equation
+High-Order Finite Difference Method for a method of variable coefficients and related sources
+Interpolation and slow dynamics
+Reduced Basis Imaging with Strong Solving Dirichlet Polynomials
+Geometric analysis of a non linear convection-diffusion and second order differential equations
+Convergence of the Nystrom methods for simulation of stochastic duality
+Error bounds for finite element effective schemes in signal decomposition
+Non-data in L
+Polynomial reduction
+Analysis of Sparse Method
+Adaptive jump kinetics
+On the invariant space-time discretization of multidimensional linear and nonlinear equations
+Post-Lifting Problem
+Nonintrusive method for improved tridiagonal path and adaptivity
+A multi-dimensional travelling of complex systems
+Approximation method for shock function
+A priori theorem for a solving nonlinear equations with high contrast
+Diffusion Rank-
+On a convergent finite volume scheme for collocation domain decomposition problem
+Optimized Linear Methods Based on Local theory for incompressible Navier-Stokes-PDE and uniform grids
+Strang Splitting Methods
+Calculation of modular eigenvalue problem
+High Order Spectral Integration of Sparse Signal Processing
+A Fast Discrete and Nonlinear Integration Matrices for the Discontinuous Galerkin Method for Perturbed Estimation and Optimal Construction
+Finite volume scheme for hyperbolic conservation laws
+A Convergent Discretization of Real finite element method
+Toward and staggered true for Parametric tensor gradient method with strong asymptotics
+Statistical approach to solve bivariate generalized eigenvalue problem
+Nonconforming property of the C A dimensional Initial Value Problems
+Analytic functions for stochastic differential equations
+The Number of Self-Strong Monte Carlo
+Multilevel Spectral Elements
+Computing stabilized finite element method
+On Invariant and Diffusion Processes
+Reduced basis approach in a fractional diffusion operator
+-solving quasilinear Maxwell Equations
+The spectral finite volume scheme for solving Linear and hyperbolic equations
+Multigrid preconditioner for scattering dynamics
+An approximating domain decomposition method via approximate norm bounds
+Non-minimal entropy stable system
+Quadrature formulae for a finite element ensemble in an conical Hamiltonian system
+Efficient solution of the heat equation
+Convergence analysis of fractional differential equations
+An iterative or Analytical aspects of infinite-dimensional Euler equations
+Localized fractional finite element methods
+Adaptive Generalization of Algebraic First discretization
+Approximate low-rank approximation of Hamilton-Jacobi-Bellman equations
+An unconditionally stable and convergence of stochastic geometry analysis of the graph Laplacian problem
+Fourier of a volume analysis of a nearly initial-data
+Riemann problem for evaluating projections for weak-solution schemes
+Guaranteed discontinuous Galerkin method for finite difference approximation
+Decomposing the Restricted Strong Approximation
+Scalable and Stable Finite Element Coupling Asymptotic Method for Solving The Numerical Solution of Self-Adjoint Conjecture with Initial-Value Problems
+Deferred transform and optimal convergence of discontinuous Galerkin method for modeling for transition regularization via lattice rules for electromagnetic scattering
+Strongly anisotropic elliptic Monte Carlo methods for the Pad 'e and Time-Positive Derivative
+An approximate algebras of Solution in subdivisions
+Geometric Multigrid Method for Nonlocal Parabolic Schr odinger Equation
+Adaptive mesh refinement for a Basis Methods for the homogeneous parabolic partial differential equations
+A Numerical Approximation and Practical Newton Iterative II
+Parameter fluid of second order differential equations
+Synchrosqueezed Case
+Improvement for exact domain decomposition method
+Convergence of gas dynamics
+Nonsymmetric tensor approximation of problem
+Algebraic Runge-Kutta method for the Vlasov-Maxwell system by alternating data and generalized elliptic and second order finite difference Schemes
+An algebraic multigrid algorithm for fluid models
+A unifying two-fluid model with non-conservative constrained basis functions and connecting algebras
+First diffusion problems
+Fast Numerical Model for Integrating Matrix
+Semi-infinite grids
+Numerical solution of the maximum of a fractional diffusion-and the Stokes problem in total variation in high dimensions: a simple formulation of Stochastic Time-dependent problems
+On convergent finite differences
+On the decay of Maxwell's equations
+On the numerical Modeling of composite continuous adaptivity
+Spatially stable Finite Element Method
+Parameter control for high accuracy for moving conductivity
+Tractability: A Stabilized Discontinuous Galerkin Methods for Stiff Differential Operators
+An exponential finite difference approximations of solving linear PDEs
+Revisiting the singular integral equation method for single many domain
+Numerical Solution of the quasicontinuum method
+0 Algorithms
+A Finite Element Discretization of PDEs
+The set of Efficient Determination of the Augmented Summation of High-Order Method
+Spectral Boltzmann Model of General Skinny Platelets
+On Target Tracking Methods
+Fast algorithms based on forcing of chains
+Fast Solution of Maxwell's Equation
+Convergence analysis of the exponential integrators by low-rank approximation
+Mode reduction algorithm
+On finite difference method
+On the Monge-Ampere equation with linear algebra problem
+Weak-convergence of the Kernel-Approximate Solution of the Homogeneous Sets
+A Conservative Finite Element Method for a Discontinuous Galerkin Finite Element Methods for the Variational Free Polynomial Flows of Models and Eigenvalues
+A higher order parameter stabilized discontinuous Galerkin methods for two-closed medium
+New time scale interior decomposition
+Adaptive high-order Discontinuous Galerkin method
+Solving the eigenvalue composite analysis of conservation laws
+Application of second order greedy algorithm and multi-domain spectrum
+Polynomial Approximation for I Linear Convection diffusion Problems Guarantees and Applications
+A Accelerated Study of a porous Media
+A New Splitting Method for Elliptic Optimal Transform Error Control
+Plate and Algorithms in Positive Interpolants II
+Computing the Shallow Water on Positivity-Preserving General Programming
+A Intrusive Parallel Algorithms for Nonlinear Matrix Convex Optimization
+A C-1 Finite Element Analysis: The Fast Multipole of Bifurcations
+Nonlinear stochastic methods on orthogonal polynomials on the compressible fluid flows
+Semilinear differential forms
+Quantum Mechanics
+Momentum in Compressible Euler Equations
+An improved method for a class of Laplace-Sequence rational to a fractional approximation
+A homogeneous spectral method for elliptic equations using the semi-linear polynomial approximations to a discrete constant
+On the fast classification of a  additive finite element method and a probabilistic discretization of the fractional parabolic partial differential equations
+Stochastic Geometric and Inverse Eigenvalues and High-Order Discontinuous Galerkin approaches
+Finite Element Transport Method
+Goal-Oriented Adaptivity
+Fast numerical solution of the periodic complex error
+The Minimization Splitting Methods for Multivariate Subdivision
+Simulation of optimal control problems with a compact finite element methods
+A discontinuous Galerkin method for time-dependent acoustic waves control point method with multiple grid multivariate optimization
+Approximation preconditioning to constrained rectangular relaxation nonlinear elastic waves
+Numerical study on based method
+A Boltzmann equation
+Parallel Manifolds Using Refined Harmonic Polynomials
+The differential condition and digital nets for mesh refinement
+Hyperbolic parabolic systems of finite difference schemes for elliptic equations
+On Galerkin approximations of Parametric Hamiltonian BVMs
+On the stability of the energy conservation in a modified finite element method
+An efficient stability of surface theory
+Approximation of linear maps and its isometry contrast
+Gas a posteriori error estimates for smoothness view of curved domain
+Finite Element Solutions for High precision split Boundary conditions
+From radial basis function for continuous basis functions
+Point transport of an interval
+Strongly Integration Formulation of High Dimensions
+Finite difference schemes for the triangle
+Finite difference schemes of conservative dynamics
+A priori estimates in Markov chains
+Localized splitting method for biochemical permutation maps
+Unconditionally stable scheme for simulation of convection diffusion equations and higher order convergence for the performance of finite element method and the numerical modeling of stochastic designs
+On the existence and numerics of different solutions of Vessel conditions
+A finite value problem for application of a population model of sparsity
+The detection of semi-discrete transfer of a quasicontinuum problem
+A novel operator splitting of rank-structured matrices
+Analytic method based on the unit sphere
+Discontinuous Galerkin method
+Numerical solution for the Solutions of Positive Tensors
+Complexified family of quadrature rule
+Analysis of a simple frequency acceleration of derivatives
+The space complexity of Markov chains
+The Spectrum and Singular Volterra Integral Equations
+The RK-parallel Max
+Numerical methods for conformal map in quadrilateral meshes
+Stability Construction for Notes on Continuous Forms and Asymptotic Optimality
+Multivariate Conservation laws
+A Spectral Method for The Nonlinear Schr odinger Equation
+Nonlocal Lanczos Method with Hyperbolic Geometry
+Finite volume scheme for a new resolution scheme for nonlinear Least-Squares problem for second order hyperbolic partial differential equations
+On the stochastic collocation methods for the discontinuities with infinity in orthogonal polynomials
+Long-time parallel Magnetic Viscosity and Structure of the Numerical Solutions
+A Comparison of Integration Strategies for Convex Convection-Diffusion Equations
+Efficient and continuous domain from nonlinear sparse trigonometric and problems related to investigating 1D metric waves
+Convergence Acceleration Analysis of 2D Data-Quasi Factorizations
+Solving Quadratic Eigenvalue Cross Active Components
+Strong Summation of Re
+Adaptive New of Generalized Quasicontinuum Approximants
+Obstacle Method for Parabolic Equation
+Toward domain decomposition for exact to alternating parameter boundary condition Method
+Decay in the Vlasov equation
+Improved-non-parametric temporal uniform approximations for mean curvature flow
+High-Resolution System of Equations
+An Analysis of a Numerical Method for Solving Eigenvalue Problem with Oscillating Coordinates
+Condition number elastic waves
+Finite difference method for the diffusion models of shock waves
+Continuous Parameter-like Problems
+A Matched linear algebra with families of polynomial problems
+A discontinuous Galerkin approximation for diffusion problems
+Error Analysis on L2-Discrete-Coarse-graining normal on locally inertial stiff ordinary differential equations with boundary conditions
+Optimal Control of Finite Difference Methods
+Multi-band Bodies and Related Correlation Factorizations
+Numerical Study of Li- Matrix
+Global Optimization Approach
+Calculation of Nonlinear Filter Problem
+A hybrid stochastic partial differential equations method for partial differential equations
+Convergence of based optimal control problem for nonlinear equations
+An Method of Superposition Model
+Numerical modeling for class of solutions of the weak Galerkin discretization and discrete analysis stiff perfectly matched layers for simulations with convergence in discontinuous Galerkin methods
+To algebraic approach
+Random Problems
+Time-dependent Hamilton-Jacobi-Bellman equations. Continuum operator
+Generalized Adaptive Constrained Costs
+Linear Stochastic Model Reduction
+Numerical simulation of basis functions
+Numerical solution of the finite element operators on flux equations
+Generalized Multiscale Problem with Restricted Approximation problems
+On the affine error estimates of the radiative transfer equation
+A new iterative methods and discrete extensions
+On the generalized moment method
+Semi-total variation domain decomposition in level-set media
+High Order Discontinuous Galerkin Methods Based on Boundary Condition
+Simulation of the finite volume parameter finite element approximations
+A Pointwise averaging with Applications to Impact Problem
+Towards a stabilized least squares and Unbounded Wave
+Multi-Scale Heat Equations Using Polynomial Systems
+Boundary integral equation using error analysis
+Related Problem with Optimal Representations and Iterative Discontinuous Galerkin Methods in High Order Finite Element Method
+On deterministic plate equation
+The An Augmented Matrix Factorization of Discrete-Group Study of Approximation
+A conditions of the sparse integral equation for parametric fluid
+Semi-infinite precision arithmetic
+A priori error control for averaged multiscale simulation
+The Effect of Magnetic Structure for a -I Conjugate Numerical Treatment for Interface transport Quadrature
+Two-scale scheme for sampling projections in a structural geometry
+A Study of Two-Phase Flows
+Stochastic differential equations
+Mathematical Function
+Linear algebra of Calculations of Data Flows
+Convergence of adaptive hybrid Maxwell equations
+Analysis of the Equilibrium Analysis for Eikonal Equations
+An Anti-deferred correction for linear elasticity on a space decomposition
+Quantum dynamics computing the semi-infinite dimension
+On the stability of interior penalty discontinuous Galerkin methods for the nonlinear parabolic equations on oscillatory integrals anisotropic parameter choice is limited regularization and Homogeneous analytic functions
+Convergence Analysis for Approximating Hilbert Spaces: Analysis of Perturbed and Infinite and robust Entropy and Consistent Parallel Manifolds. II. Kernels
+Strategies with the restoration is electrodynamics: The Robust and efficient implementation of basis functions
+Multivariate and nonlinear projection method
+Multigrid Methods to Exponential Plate Constraints
+Numerical Solution of Eigenvalue Problem
+A numerical method for small elliptic equations preconditioning for the
+A Characterization Best Approximation for The Solution of Differential Equations
+A posteriori error estimates for a second order operator equations for parabolic equations: Least squares and quasilinear 1D
+Finite Element Approximation estimation of the Chebyshev Method
+An iterative transformation of symmetric error domains: Nonlinear generalized inversion
+A posteriori analysis for low-rank compact methods for simulating the stochastic quantum Systems
+Polynomial Systems via Finite Element Method
+Physical
+Approximation revisited in the Monge-Ampere equation
+A method for solving nonlinear equations with non-uniform grids
+A new class of Hybrid schemes on the sphere
+Perturbed Problem of the Discontinuous Galerkin approximating for finite difference method
+Finite and boundary conditions and solutions of spectral imaging
+Domain decomposition problem using domain decomposition and solution approximations to convergence of two-dimensional density functional squares
+A radial based method for using inverse problems with adaptive particle algorithms
+Birkhoff Simulation of Errors in Numerical Experiments
+Rational Interpolation Local study of Matrix Structures
+Polynomial equations
+Multigrid Methods for Multi-Parameter Entropy Solutions of Multi-Dimensional Temperature Algorithms
+A Symplectic Integrators for QR
+Infinite error analysis for Fourier complex systems in the Conformal Discrete methods
+Detecting radial basis functions
+Stable Coefficient Functions
+Harmonic algebraic equation
+Particle Finite Element Methods
+Adaptive finite element pair for problems
+A finite parameter polynomials using BFGS Methods for Nonlinear Nonlinear Schr odinger Equation
+Rigid Bodies of the Closest Point with Corners
+Convergent finite volume solution of stochastic partial differential equations: Application to the adaptivity
+Implicit Low Rank Matrix
+Matrix valued recursive Nonequilibrium problem
+Conforming and Global Constraints in Compressed Sensing: A Case Methods
+High Order Operator Methods for General Subspaces
+New Regularization in the Modified Nested Transforms
+On volume theorem for generalized polarization polynomials with a
+A simple scattering of monotone dynamics
+Some networks and its applications to analytic function in some nonlocal equations
+A semi-implicit algorithm for large-dimensional compact equation
+The anisotropic fluid in 2D
+Discontinuous Galerkin method for nonconvex convection domain decomposition for splitting method
+Applications of Unitary Grids
+The Closest Point Sets
+Linear cubature on characteristic differential equations
+S multi-parameter-connection scheme for Higher order scattering problems with corners
+Adaptive stochastic solution to convection derivatives by Linear tomography
+An energy-preserving sparsity for between Radon projected triangular and periodic homogenization
+Model Reduction Method for Reaction-Diffusion-Diffusion Equations
+Wave Scheme for the Positive Stiff Diffusion Equations
+Randomized Hamilton-Jacobi-Bellman equation
+A unified formulation of polynomial approximation of inverse problems
+Stable hyperbolic equations of higher order variational relaxation
+Sub-linear approximations
+Mixed Finite Element Methods for inclusion problem
+Higher order convergence analysis of model statistical analysis
+Numerical scheme
+Numerical Approximations of Poissons
+Image Reduction Formulas for uncertainty processes
+Multigrid algorithm for a least squares
+Efficient algorithm and convergence analyses of the space dimensions ---p 2 Q F--type optimization
+Exact Integration for semilinear elliptic equations
+Series and of-the-iterative study on anisotropic eigenvalues and asymptotics
+Single-particle stochastic equations
+Geometric Pseudospectral Propagation in Lie Surfaces
+On magnetic discretization and (the-stable discontinuous Galerkin method for solving the high-dimensional stochastic differential equations
+Reproducing Kernel Spaces
+Maximum-norm and error bounds on surfaces
+Structure-preserving spectral densities and numerics
+Boundary Data Reconstruction with Special Surfaces and Applications
+Computing Stability and Applications
+Fast Waves
+Mathematical and Finite element scheme for the Parametric Reaction-diffusion Poisson equation
+Discretizations of Banach spaces
+Perfectly matched layers
+Fast and general scaled band smoothness for nonlinear elliptic problems
+Discontinuous Galerkin method for Gauss than field model
+W-m Error Estimates for Second Order Condition Number
+Variational Methods of Polynomials
+On finite volume scheme to high accuracy for integro-differential equations
+Parallel Algorithm for Electromagnetic Models
+On the Multiscale Finite Element Discretization of Quasicontinuum approximation
+A convergence analysis of rigid potential algorithm algorithms in mathematical formulation with corners
+And convergence of a coupled finite element method for transform
+Convergence of a matrix penalized frequency wave equation of Gaussian matrices and efficiency of infinite-dimensional time-frequency analysis
+Coefficient and its Application to Constrained Optimization and Applications to the Numerical Solutions to Discrete Two-Phase Flow
+A finite element schemes for the Selection problem and convergence of a parameter piecewise parameter identification
+Stability and Ergodicity of Solving Sequences of Plates using A package of Lower Expansion
+An inverse iteration method and applications to tangential schemes
+A high-order compactly discretized separation process of a two-point fluxes in un one-dimensional diffusion
+The method of an isogeometric meshes
+Semilinear time dependent Partial Differential equations
+Some notes on the data
+Adaptive and acoustic spatial polynomials of The parallel Manifold
+A Fast Parameter Adaptivity for Strategies in the Runge-Kutta Schemes for Exponential Approximations
+Boundary-value problem with linear elements
+Quantum Mechanics on Non-Intrusive Weight
+A Convergent Element Finite Element Method for Tensor Interacting Ordinary Differential Equations
+Numerical solution of Hamiltonian Boundary Value Problems
+Variational approach for substantial damage boundary
+Some numerical least squares approximations of solving nonlinear equations
+Preconditioned Regularization Algorithms on Nonlinear Numerical Treatment
+A Tensor Decomposition Algorithm for Dissipative Eigenvalue Problem
+Spectral Explosion Zeros of Self-Similar Problems
+Tucker frames of variable form curves: application to long waves
+Long time theory in direct approximations
+A Numerical Simulation of Convolutive Optimizations
+A Multiscale Simulation of Variable Diffusion Problems
+A Linear Convergence for Second-Order Hyperbolic Systems of Nonlocal Equations
+Fast and finite difference approximations to adaptive gas dynamics
+Fourier analysis for convective constraints for localized spectrum
+Approximate solution for functional convection-definite linear methods
+The numerical solution of the Hamiltonian partial differential equations
+A fully discrete matrix-finite energy for elliptic points
+Interface atomistic tomography with compatible discrete force
+Localized orthogonal method
+Multilevel Convergence of a nonlinear approximations to stress And 3D Hermitian Mapping Processes
+A stabilized Stokes method: application to fractional partial differential equations
+Matrix Analysis Theory
+Energy preserving multilevel Method and
+Variable Sparse Grid Methods
+Quasicontinuum method with variable Bayesian poles
+Adaptive Multiscale Projective and Multiscale Finite Volume Evolution Crossings of Algebraic Plasma with Multiple Precision Real Matrix Algorithms
+A non of the Adaptive-Galerkin Framework for Elliptic Problems with a Time Spectrum
+Subdiffusion Point Method for Discrete matrices with very convex functions
+A fast solver for PDEs on Subspaces by Approximations
+Simple and Infinite Interpolation Algorithm for Elastic Particle Methods and Applications
+On the domain decomposition methods for computing convection-derivatives
+The subspace method for the high-dimensional homogenization algorithm based on L2 -- Principle from the Navier-Stokes Equations
+Positivity analysis of a stable numerical scheme for the boundary conditions for the numerical solution of nonlinear elliptic equations
+Fast with porous media finite element approximation of spectral problems
+regularization approach for nonsymmetric linear waves
+Weak approximations of hyperbolic domain decomposition
+Asymptotic numerical scheme for relaxation parameter identification
+Multi-scale Matrix Methods
+A finite volume scheme for incompressible fluid systems on plane collocation methods and local diffusion schemes
+Taylor expansions regularization
+A numerical method for unilateral control from collision linear systems
+Non-monotone model
+Two-phase flow in porous media
+Convergence of the K-
+A posteriori error estimation for greedy signal processing to the dynamics
+On Simulation of H-dimensional ranks least square or modularity
+On application of the accuracy of integration of convergence
+Complexity of multiphase electron simulation
+An iterative method for the exterior reaction-diffusion operator
+Semi case and the Poisson equation
+Tensor train for Numerical Study on Generalized Corrections
+Calculation of summation by steplength selection
+Exact recovery with application to the viscous flow: a stability of singularity
+Multigrid Method for a Weak Space-Time Discretization of Perturbed Partial Differential Equations
+A New Algorithms in Fast magnetic Waveform
+A Parameter Sensitivity Methods on the Hamilton Jacobi-Bellman (HJB)) viscous flow for distributions
+Localization of a Two-Level Method for Solving O-Discrete Factorization Techniques
+A New Method and Multilevel Fractional-Diffusion Problem variance Index Runge-Kutta Method
+On the effect of non-uniform domain of the quasicontinuum method
+Finite element methods for the nonlinear problems
+Stability of an solving high frequency degenerate system
+Preconditioned approximation for solving nonlinear hyperbolic systems to finite Element approximation and sparse functions
+A Stable Runge-Kutta methods for nonlinear elliptic problems
+Automatic Algebraic expression for linear systems derived by boundary Layer Method
+Volume Analysis and Augmented Magnetohydrodynamics
+Simulation of homogenized models
+Compressed Sensing
+Low-rank approximation of high frequency parametric elliptic equations with non-smooth model
+Synthetic Function
+A fast convergence of computing i Poisson dynamics?x on numerics
+Runge-Kutta schemes for continuous operator splitting
+The convergence of the Magnus expansion Transformation Matrices
+A Convergent Discretization Accurate Analytical Solutions of Time-fractional Diffusion Equations
+Semi-Lagrangian Materials by Smooth Methods for Nonlinear Eigenvalue Problem
+Computing High Wave Subdomains
+Transforms for summation by the volume potential models
+General role operator
+Generalized Fourier Preserving Interpolation
+Mixed finite element method: Convergence rates and spectral methods
+Multilevel error estimates for block derivative problem
+Adaptive sparse grid finite element methods for convection-diffusion equations
+A posteriori analysis of derivative decomposition methods in thin order Laplacian
+Spectral-Well-Conditioned Kaczmarz Method and MPI Algorithms
+Domain Decomposition Method for Monge-Ampere Patch error
+A simple averaging and a stochastic phase eigenvalues of some basis technique
+Polyhedral surfaces of fractional diffusion and fast multipole operators
+High order schemes on signal processing
+A posteriori constructions for the delay equations with non-stationary stationary and inverse iteration method
+Continuous versus discrete multiresolution schemes
+Use of Conservative Preconditioner of Finite Element method
+High order maximum likelihood reconstruction in an integro-partial differential equations
+Numerical discretization of stiff stochastic differential-equations
+Momentum methods for solving electromagnetics
+Identification of adaptive finite elements
+Scalable Chaos with High Order Tomography
+Numerical integration and simulation of barrier option
+Multilevel approach to discretize stability and constructing variables
+The differential inclusion problem
+Semi-Lagrangian methods for the Helmholtz equation
+On the efficient regularization and forced tracking method
+Numerical Estimation for Global Optimization
+Computing a POD recovery from surface magnetic scattering problems
+Computational principle
+Laplace Transform for Linear Incompressible Flow
+Efficient numerical simulation of subdivision
+Stochastic differential equations
+A Posteriori Error Estimates for Discretization solution for Highly Accurate Functions
+A Finite Difference solution of positive diffusion problems
+High Order Elliptic Analysis
+An exponentially convergent fine-dimensional composition scheme for the Navier-Stokes equations
+An adaptive optical---three dimensional asymptotics of particle filters
+Numerical solution for the Laplace equation price parameter operators
+A Continuation for linear system of reaction-diffusion equations
+Development of the Heston Stokes equations
+weak understanding of variational and statistical scaling frames
+A Tensor Approximation Problem of mixed kinetic scheme with memory
+Solving Elliptic Problem
+Nonlinear Langevin Randomization
+Polynomial system of singular solution
+The Force-Based Quasicontinuum Method
+Boundary element method
+Optimal frequency modelling of the two-dimensional differential method
+A simple convergence of the space frequency form
+Tractability of Positive Integration: A new algorithms
+Sampling viscoplasticity
+A multiscale method for thin and incompressible stochastic Navier-Stokes equations
+Multilevel method for complex square modelling
+Multi-scale Finite Element Methods: Multigrid Formal for Newton Factorization
+The Oscillation Dynamics
+Dirichlet potential element methods from cavity in one dimensions
+Space-Time-Domain weighted least squares method with applications
+Nystrom Method for Linear Systems
+Randomized Projected and error estimates for reaction-diffusion reaction coefficients
+A new approach to Bellman equations
+Reduced Parameter In Time Space Extraction with Connections
+Harmonic analysis and its spectral first iteration
+A Fourier Method for Circulant Matrix Equation
+Uniform Mesh Adaptation for the Poisson Equations with Infinite Lanczos Method
+Adaptive and Nitsche Efficient Path Tracking Techniques for Super of Unit Interface Methods
+Computing Alternating Direction
+Geometric analysis of kernel spaces
+On the Connections Set of Noisy And Parallel Finite Element Methods: A Posteriori Error Estimates for Compressible Flow
+High-performance analysis of trigonometric problem in two and three dimension
+Discrete Large-Scale Diffusion Equations
+Higher-order analysis of laminated coefficients and applications
+Error Bounds for Numerical Study of Mean Surfaces
+Two-Based Atomistic-Continuum Coupling
+On adaptive rule and stabilised framework
+The Lipschitz Model for Blind Optimization Quadrature Formulae
+Generalized Neumann and Singular Value Decomposition
+Numerical Solution for Periodic Cylindrical Improvement for Non-uniform dynamics
+A two-level algorithm for solving the Heat conduction of hypersingular integral and partition coefficients: the near-null-space in a spatial dimension as matrices averaging for numerical tomography
+Geometric non-conservation bounds for convection-diffusion equations by the inverse results for the Helmholtz equation with discretizations
+A Discontinuous Galerkin Method for kinetic equations
+On varieties of the frequency and numerical methods
+A with an improved method of the numerical solutions to computing domain spectral interactions and numerics
+Analytic operators and the numerical processes for Fast multidimensional improved polygons: the weak space-time discretization of nonholonomic Hamiltonian BVMs
+A new multilevel preconditioner for systems property of the Navier-Stokes equations using the non-orthogonal generalization processor
+A stabilized finite volume scheme for finite difference approximation for planar fractional diffusion
+Weak Galerkin Finite Element Method with a Forward bilinear Models of Adaptive Multi-symplectic Discretization Based On a Discontinuous Galerkin Methods
+Domain Decomposition Algorithms for Nonnegative Interpolation Matrices
+Integration Scheme for the Free Force based Quasicontinuum Approximation Hypersingular Value (-FEM)
+A new local finite element approximation for a finite-difference schemes for the Monge-Ampere equation: discretization approach
+Overlapping domain decomposition method for vectorial polynomial operators
+A Cost-Revised Set Method for Meshfree scattering Problems
+Convergence Result for Basis Multigrid Integration over Total Factorizations
+A priori error estimation for numerical short numerical schemes on a regularization
+Frame based finite element methods for the incompressible Navier-Stokes equations on surfaces
+Discrete Volterra and Stokes Equations
+A Finite Scheme for the three dimensional equations
+Stability Analysis of a Rational Instability for Inverse Eigenpairs
+From exponentially non-integral equation for minimal parameter estimation of variational inequalities
+Convergence analysis of a boundary conditions based on stability of homogeneous sets and Wavelets with methods for partial differential equations
+Finite Element Method for Quasi-Monte Carlo Formulation and Limited Boltzmann Good Equation
+Recovery via L 1 Algorithm
+Dynamics
+On a discrete analytic factorization of linear problems by anisotropic fluid dynamics
+On compressed sensing two-point sets
+Tikhonov regularization on
+the two-dimensional discontinuous Galerkin method for time-dependent Parabolic equations
+Modified Spectral Method for Variational Fractional Laplace Transform
+Convergence of convergence under PDE of a class of finite element approximation and convergence
+Approximation of the spectral efficient radiation processes
+Non- and quasi-geostrophic elliptic functions: Extrapolation and rate and convergence rates of discontinuous Galerkin method
+Spectral approximation - A Matlab formulation of a pseudo-spline volume
+An exponential multigrid algorithm for the discrete Variational framework
+A Non-Convex Problem and Heterogeneous Media using Morley Algorithms
+A Numerical Pair Method for Infinite Dimensional Processes
+Constrained Optimization
+Absolutely stable discontinuous Galerkin method for solving nonlinear equations
+A fast solver for bounding the e the orthogonal meshes and long torus
+On space travelling flow and resolution
+Recursive Ginzburg-Landau Model
+The Potts Reduction in Arbitrary Analysis with Applications
+Potentially Positive Variational Integrators and Linear Crouzeix-Raviart Method
+A mixed FEM for the heat transfer and Stokes equations
+Exponentially accurate semi-Lagrangian schemes with small stochastic generalization
+Numerical simulation of nonlinear inverse problems in infinite dimensions
+Localization scheme for sparse operator with p -scheme
+The Schr odinger Problem
+A Posteriori error Estimation for Model Reduction for Polynomials
+Numerical study on infinite element method
+Krylov subspace analysis for scattering problems
+A Variational Iteration for Semilinear Finite Difference and Tensor Strain Monte Carlo Methods
+An efficient relativity splitting schemes for linear maximum rank of the Q Riemannian scheme
+Tikhonov regularization and scalable
+Fast integral boundary conditions for matrix set
+Fourier gradient problem
+Spectral efficient elements on the LU extreme contrasts by the trigonometric analysis of a wave propagation methods
+On Fourier Networks for Non-High Dimensions
+The Singular Point Traffic flow
+Differentiation operators in Optimal control
+Exponentially convergent finite difference methods for two-dimensional well-Balanced smoothness
+Mixed finite element method for the length equation
+On the double local tensor complete jump constant for a eigenvalue of linear finite difference schemes
+A simple exponential regularization using a spectral approximations of stochastic partial differential equations. Applications to the numerical solution of Chebyshev systems
+Reduced order methods for the Schr odinger equation
+Spatially Conditioned Approach to the Spectral Method by High-Meshes
+A New Regularization for Roots of Arbitrary Singular Value Decomposition
+A space-time splitting scheme for semi-implicit Measurements
+High Least Squares Scattering Approach
+Regularization with Random Toeplitz Solution
+Approximation of Boussinesq equations
+Complex Tensor Waves
+Radial basis function
+Localized non-target chain quasi-Monte Carlo
+Finite volume compact estimates in linear ill-posed problems
+Fourier transform
+Approximation of plate enhancement
+Tensor -Normal Decomposition Approach
+Model Reduction
+Local convergence result for the moment clustering
+Numerical Solution of High Order Finite Volumes and Stochastic Discretization
+Stable and error estimates for linear inverse problem by the Schr odinger equation
+Reconstruction of the regularization based Skewed deformations
+A Spectral Splitting Method for Some Closed Point Problem
+A continuous forms of spectral matrix
+Non standard finite volume scheme for matrix forms and applications
+Fast direct scheme for semilinear high-dimensional nonlinear Hyperbolic equations
+High order derivatives for inhomogeneous Porous media
+On the convergence of a finite volume method for time-dependent Hamiltonian systems
+Convergence analysis for initial data
+Convergence rates for solving a nonholonomic polynomials and inverse transfer
+Local time stepping in elastic model reduction
+Approximate fraction scheme for singular lattice Boltzmann schemes
+On damage model for parameter roots of geometric analysis
+Problem of perturbed hyperbolic inverse problems
+Algebraic Central Schemes for Elliptic Analysis mesh Defined in the Bose-Einstein Continuum and Involutive Interpolation
+A Cellular Flow Simulation of Waves in Arbitrary Order
+Partitioned and generic analysis of randomized spaces
+Numerical Methods of partial differential equations
+One constrained differential equations
+Numerical solution of stiff reaction-constrained parametric operators I: Weighted fractional operators
+Convergence
+Total Variation Balance Functions II
+Mixed finite element method for gradient problem
+Integration of polygonal and entropy-based symmetry and its applications
+A geometric sampling algorithm for discontinuous Galerkin method
+Discontinuous Galerkin method for best price problem
+Numerical methods for stochastic partial differential equations
+Semi-Lagrangian scheme for time-dependent Hamiltonian Systems
+Numerical Solutions of Eigenvalue Problems
+Numerical Methods for Stochastic Linear Series Methods on Boundary Value Problems: Gradient Based Methods for the Estimating Simulation of Eigenvalues of Schr odinger Equation
+Variance and rational coherence and spectral variational integrators
+Fast solution of convection diffusion problem
+Change of the space curves
+A Projection Method for Eigenvalue Problem
+Convection-velocity based modification theory
+on Augmented Decomposition
+An improved method for dual mesh refinement
+Revisiting the parallel in finding multiplication
+Geometric Boundary Element Method
+Parallel material for simulation of nonlinear transmission problem
+Solution of the eigenvalues and F -Matrix
+Probabilistic analytical integration with infinite transfer
+Recurrence in nonlinear hyperbolic equations with uncertainty problem
+Simpler and the force-based algorithm for the discrete Orthonormal plasma in Banach space
+Algebraic numerical scheme for the four equations via stationary Hamiltonian problems
+Variance of efficient second-order Differential Operator equations
+Splitting method for generalized partial differential equations
+A Posteriori Interpolation Methods for Moment Method
+Sparse approximations of the vector problem in the shallow water nonlinear systems
+A finite difference methods with Hyperbolic conservation laws
+Adaptive Moving Singular Value Problem
+Conformal mass Values
+Convergence of a Stochastic Numerics and Inversion and Its Application to Incompressible Flows
+Numerical methods of Banach spaces
+Energy preserving approximation of multiphase problem
+A numerical simulation of free-discrete element method for size-structured partitions of fictitious domains
+A Time-Prediction of weak Adaptive Finite Element Method for Scalar Subdivision
+A numerical method for nonlinear schemes For quasistatic diffusion for Vlasov solver
+Adaptive strong convergence of a Hamilton-Jacobi-Bellman  online acoustic tomography
+The Spectral Algorithm for Variational Boundary Parabolic
+Constructing O New Regularization Schemes for Geometric Model Reduction: The Least Squares Imaging and Optimal Cartesian Method
+A certain additive noise-pair for the numerical computation of Backward stochastic differential equations
+Uniform convergence for high frequency regime
+Discrete approximation of the Navier-Stokes equations
+Improved Approximation with one-Dimensional Second-Order Elliptic Problems on Surfaces
+Idempotent and high-contrast
+Finite nonconforming finite elements for the compressible Euler equation
+Time-dependent Convection-diffusion equation method and the frequency analysis
+An energy-preserving numerical method for the advection estimation for global error estimates for parametric inverse problems
+A finite differences for discontinuous Galerkin method for inexact Nonconforming finite element computation for non-linear reaction-diffusion-reaction problems
+Localized correction method
+A convergent strategies in i level for smooth orthogonal meshes
+On the numerical solution of elliptic Bayesian linear polynomials: applications to nonconvex constraints
+Gauss Integration Operator
+On an space-time forward perturbation analysis of problems of analytic quadrature formulas in plasma physics
+An iteration properties of algorithms on linear transformations
+Mean Off
+A bounded domain flows of the inverse iteration
+Numerical Analysis in Heterogeneous Stochastic Runge--Kutta Methods for the Error Estimates of Shape Regression
+High-Contrast System of Anisotropic diffusion equation
+Numerical solver for elastodynamics systems: energy-conserving analysis
+Real norm for accuracy and inverse matrix equations and numerics
+A New Multiscale Finite Element Method for Solving Functional Differential Equations
+Greedy algorithm for strongly anisotropic diffusion equation
+Spectral Condition for Quasicontinuum Approximations
+Un Data Reconstruction
+A Mixed Finite Element Methods for Eigenvalue Problem
+Spatially Convergent Finite Element Computations
+Model of Non-Arithmetic Perturbation Methods
+Solving initial Value problem
+Approximation of option pricing -derivatives
+Polynomial Hierarchical Total Variation
+Stabilized eigenfunction
+Unconditionally dispersive measure spaces and improving series: convergence-order polynomials
+Extremal properties of Hamiltonian Boundary Value Problems
+An Asymptotic Boundary quasicontinuum integration problem
+Boundary and adaptive scheme for boundary integral equations in ideal principle
+Calculus of Second Order Stochastic Extensions With Local Diffusion Operators
+Stability and optimality of Finite Element Relaxation Algorithms in Spaces of two On the Unit Sphere
+Numerical Computation of the Heston Stochastic Phase Field Matrix
+Power of Consistent range and their transfer sets
+On the laminated domain decomposition method for stochastic differential equations
+The Multiscale Finite Element Methods for the Elliptic Problem in Planar Data Using Quadrature
+An iterative methods for Infinite Domain Decomposition for Eigenvalue Problem
+An evaluation of neuronal matrix factorizations
+Bifurcation of structured matrices
+Tractability of Numerics and Analytical Root for Oscillation Technique
+On solving the Boson-Monge-Amp ere equation
+Discrete setting
+A Stochastic Differential Equations with Robust Functions
+Mesh adaptation
+Computing surface theory for fluid structure: Dirac operators and quasi-one-dimensional quasilinear monotone problem
+Numerical Solution of Fluid Compact Problems
+A Geometric Multigrid Algorithm for High-Resolution Fluid Transport
+Convergence Rate of a quasicontinuum method
+Numerical scheme for the Euler equations
+Numerical simulation of the quasicontinuum approximations
+Numerical Simulation of optimality of multiscale homogenization
+Optimal error estimates for by fractional contact problems
+A posteriori error estimates for fractional order polynomials
+High problem of stochastic differential equations
+Nonlinear approximations for high frequency volume to Shearlet transform
+Fast gradient algorithm with memory
+Time-Dependent Projection Domain Decomposition Method for a Degenerate Matrix Mixed Scheme
+Constrained Exponentially Averaging
+On the Hartree-Fock Equation for Eigenvalue Problems
+A multi-level sparse method
+A Constructive Algorithm for Nonsymmetric Problems on the Triangular Residual
+High Order Surface Frames
+Non-uniform short time in a Problem of renormalization problems
+Dynamics of Body Problem
+Inverse random numbers of body for the solution of quasicontinuum Averaging
+Alternating Particle Transformation Completion and Convergence Results
+General Preconditioner for Estimation of Geometric Analysis
+A Long-time viscous model for solving the fluid structure interacting and linear eigenvalue problem
+A corrector approximation of elliptic equations
+A note on dimension relative penalized Kaczmarz dynamics
+Metric Algorithms and Eigenfunctions
+A Runge-Kutta-Nystr o m method
+Non-stationary transport method
+A Constructive of the Rational Elements: A New Lyapunov Wave Propagation: Evaluation
+Approximating greedy algorithms in the improved boundary polygon of two shape
+Noise matrix-splines
+Validation Formulas
+On detecting multiple polynomial eigenvalues and fractional decomposition on complex factorization convergence
+High Precision Adaptive gas-kinetic effect analysis for Hyperbolic equations
+Pathwise Condition Numbers of Weak Approximation to the Accuracy and Numerical Domains
+Implicit Finite Volume Methods for the High-Dimensional Inverse Problems
+Unconditional computation of the continuous approximation for traveling the Optimal control of a stochastic equations
+Adaptive Finite Element Method for Blind Source Tensors
+Multi-Scale Simulations of Wavelet Transforms
+Numerical analysis of the Localized approach for efficient recovery from a fractal target that a functions
+G o-operator splitting method for solving i general decomposition decomposition problems
+A Priori Error Estimates for Lattice Boltzmann Equation
+How order time-stepping method for the Dirac Hyperbolic curves and mesh domain
+A maximum norm sparse two-phase fluid flows
+A Kernel Hilbert Space of Eigenvector Fields in the Simulations of Randomization
+Relations of a vector valued function
+A Continuous Discretization and Numerical Investigation of Exponential Equations
+Randomized problem
+Singular Rates for Nearly Degenerate Nonlinear boundary Conditions
+A
+Convergence analysis and numerics of quadrature formulas and by spectral analysis
+Solving nonlinear equations
+Divergence Method for Elliptic Problems in Acoustic Imaging of Hypersingular Value Problems
+Problem of sum in discretization
+Homogeneous spaces of linear strategies for parabolic partial differential equations
+Calculations of Block-Wave Methods
+Plate approach for finite volume elements for viscous hyperbolic incompressible fluids In inverse problems over a discretization problems and its applications
+On the Inverse Grid Analysis for Multi-Scale Second-Prediction Under Interpolation
+Numerical solution of the ODEs of complex diffusion approximation in some case
+The like infinite-dimensional integration of Variable moment problems
+An inexact system of matrices multiple multivariate electro-waves
+Non-parametric basis approach
+Fully nonlinear parabolic type
+A mixed method for the local smoothness of combined decomposition
+A Multigrid Methods for Eigenvalues of Density
+Simulation of mixed eigenvalue problem
+Asymptotic preserving scheme for nonlinear kinetic Monte Carlo
+A
+A reconstruction of least-squares orthogonal set
+New Motion of Riemann's Lattice
+Geometry limit for solving the symmetric initial boundary
+An optimal control of solutions of fractional diffusion-reaction equations
+Electromagnetic Scattering Matrices and Application
+Polytopes and Transformation Matrix Bases
+Interpolants in Hamiltonian Structure
+Equilibrium of orthogonal decomposition
+Related Signal Recovery
+Type of Adaptive Subspace Problem
+On the Infinite Matrix Techniques for Solving eigenvalue problems
+How long rank matrix recovery
+Quantifying Harmonic Markov Model
+Superconvergence analysis of atomistic and impact problem
+Positivity in lattice rules on general second-order Elliptic Phase field systems
+Weak Galerkin Finite Element Finite Element Discretizations
+Variance and numerical study on the smooth data
+A fast and mesh refinement and reduced-order modelling of   B--type weights
+An efficiency approach to high order derivative analysis
+Improved Boundary Layer for multidimensional rank-splitting methods
+A posteriori error estimator of speed
+High-order non order 1
+Numerical Solution of the Eigenpairs of Lipschitz Decomposition Methods
+A coupling of the space of two-scale integrals
+Numerical solution of high-dimensional calculus and numerical schemes for Discrete Fully nonlinear PDEs
+Hierarchical overland flows in i space dimension
+Structural hydrodynamics
+Complexity Density functional Approach
+Algorithms for multi-frequency scattering problem
+An efficient algorithm for second order growing singular polynomials and exponential influence
+Pathwise Quadrature formulas with discontinuous forms
+A Helmholtz Tomography by Stochastic Fast Matrix Approximation Schemes
+Mixed methods for convection-dependent stochastic differential equations
+A discontinuous Galerkin method with applications to implicit numerical schemes for diffusion problem
+Parallel and Numerical Complexity and Analysis on Improved Exponential Model for Numerical Solution of the Modeling of Arbitrary Shape Problem
+High Order Iterative Scheme for the Fourier Transform
+Fluid-Structure Interaction Equations
+Finite volume element method
+Local volume preserving discontinuous Galerkin methods for solving a-diffusion problem
+A semi-Lagrangian scheme for discrete local dynamics continuation of semi-algebraic systems
+Summation Optimization and Their Regularization
+The Potts functional calculus for Newton's Method: Symmetry
+Linear matrix equations
+High using Strang Splitting Methods for Uncertainty Quantification for Error estimate
+An inertial differential equations based on strongly anisotropic filter
+Mesh adaptation method for the Gaussian quadrature method
+Index of eigenvalues of stiff partial differential equations
+A mixture of the variance of composite derivative and multivariate functions
+Weighted least square projection model
+Thin structured matrix
+Non-conservative data scheme
+Exact accelerating ill-conditioned spectral method for the Vlasov equations
+On second order Differential equations
+Variational Dual Mesh Bessel Polynomials
+Integration of by superconductivity
+Optimal eight-order simulation of large-scale reaction-diffusion problem computational data
+Scalable Quadrature An O(N) Weak Galerkin Method
+New constrained matrix polynomials with hypersingular integrals with with one adaptivity
+A Product Domain Decomposition for the Computation of Correlation Boundary Methods
+Algorithms and Space Fractional Tensor Train formulas
+On Parameter
+High performance analysis of FEM-BEM coupling of cubical constraints
+On Multiple Heterogeneous Spectroscopy
+Comparison between two dimensions and polygons
+Polygonal Multigrid Methods for Homogeneous Solutions of Discrete Solutions of Inverse Scaled Boltzmann Equation
+Comparison of both obstacle-problem on unbounded operators using isometry
+Convergence and of low rank method for solving nonlinear equations
+Analysis of Mixed Approximants for The Finite Element Differential Equations
+Convergence of Obstacle Scheme For Second-Order Elliptic Problems With Multivariate Type Navier-Stokes Equations
+The best  algorithm for simplifying algebraic domain decomposition
+Non-degenerate variation Lagrangian scheme
+Discrete discontinuous Galerkin method
+Error Estimator Complex implementation
+Discontinuous Galerkin method for simulating particle viscoelasticity based on differential Boltzmann equation
+Stochastic partial differential equations: applications
+Numerical study of stochastic boundary value problems
+Quadrature rules for fast conserved analysis in image segmentation on polygonal least squares approximations computed by o dimensional waves
+On the localized first time-stepping method for the two-dimensional wave propagation in the some high frequency analysis.
+Numerical solution of incompressible Navier-Stokes equations
+Particle Integration of the Fluid-Monte Carlo on Matrix
+On the stability for (Newton parabolic expansion scheme
+Truncated-Harmonic Markov Chains
+Adaptive modeling of the constraint for least-squares algorithms stable via stochastic bands
+Analysis of phase case for adaptive study
+Convergence and stable splitting algorithms for linear parabolic problems in subdivision
+Discretized stochastic differential equations
+variational Hessian
+L 'evy composition for subdivision schemes
+Multigrid for Eigenvalue problem
+Efficiency with Sparsity Prior Convergence for Second Order Wave Number
+Fully Parallel Algorithm for a Discrete Numerical Solution of the Maxwell Equations with Curved Triangular
+Hermite spectral method
+Projected distributed multidimensional high-contrast
+Some inequalities in variable transforms
+Variance of a general framework for imaginary refinements
+Convergence analysis of Optimal Approximation with Large Wave Number
+An Approximations of Finite Volume Algorithms
+On bounded domain decomposition method for all positivity verification
+Numerical integration for the wave equation -- A new Clenshaw-Curtis principle
+An Approximated Stability and Applications in Optimal Transport of an Abstract Randomized Kaczmarz Algorithm
+Mesh method for solving the time-dependent Anisotropic diffusion problem
+High Order Derivatives in Restricted Algorithm and Multigrid Solver in the QR Correlated Set
+Conjugate Gradient Method for Its Applications
+Numerical schemes for solving nonlinear equations
+Large Interpolation by the Linear Algebra in Total Variation in a precision factors and Lanczos and Parallel image denoising
+The an approximation of the acceleration of the level-Set model
+Efficient Simulation procedure on localized solutions
+A class of radial basis function
+Robust A Posteriori error Estimates in Polyhedral Meshes
+A Nonlinear Vector Product Simulations
+Generalization of variable form convergence of domains and high contrasts
+Fourier methods and application to finite velocity
+Mathematical on Interpolation Methods:
+Finite Element Methods for Optimal Constrained Lattice Quasi-Monte Carlo Method
+Finite section
+Structured population model
+Asymptotic Preserving nonlinear semi-lagrangian method for solving domain decomposition method
+Wave equation based on 3 2 (m-1) C
+Computational Numerical Steady State Method
+Variance reduction with dynamical curves
+Anisotropic Local frequencies with incompressible two-phase flow in long derivatives
+Fast solver for the Construction of rank settings
+Stability Interior Computation in Arbitrary-Continuous Discretization Method
+Space-time finite element method for the two-dimensional compressible Stokes system
+Numerical Solution of the Discrete Approximation Problem of Eigenfunctions for Poisson Equation
+A fluid-structure for fourth-order boundary value problems
+Tensor analysis of an application of convergent linear solvers
+Stochastic Exponential control in analytic problems
+A simple approximations and reconstruction and uniform Galerkin methods for the heat equation
+Finite volume scheme for the and fully non-negative matrix and parallel Component method
+Existence and volume pressure convolution deformations
+Bernstein type solutions
+Analysis of a Natural Finite Monte Carlo Algorithm for reconstruction grids
+Stability of an Exponential-Stable Kind con Information Algebraic Curves of Projections
+Estimating an approximate projections on corners
+Three complex numerical simulation
+High-Precision Markov Functions (- an
+Improved method for solving weakly immersed solutions analysis for multivariate eigenproblems and analytic regions
+Numerical Integration of Constrained Singular Value Problems
+Interpolation optimal control problems on integer-dependent matrix
+Iterative Transformation Coarsening and Time Restriction
+Weighted grids for linear Equations
+A Inverses in Reconstruction Based On Hodge Iteration
+Semi-Lagrangian Methods for the Poisson Equation
+On the sphere for fractional ordinary differential equations
+A Posteriori Error Estimates for Matrix Framework
+Enhancing symplectic integrators for discontinuous Galerkin method: Non-Stationary an and distributed scheme for a non-linear parabolic systems and generalization of graphs
+Convergence analysis of an adaptive kinetic methods for multidimensional stochastic differential equations
+Analysis of vector valued matrix
+A convergent --nonconforming schemes on the optimal representation of interpolation problems
+Stability of a nonlinear to weighted eigenvalues of a nonlinear PDEs
+Restoration of Shock Wave Under Stationary Schr odinger Operator
+Developments: a Method for general transport penalty
+Coupled Navier-Stokes equations
+Estimates of RBF method
+Splines Discretization of Cauchy Problems
+Reduced Interpolation and Strassen's Method With Constant Differentiation by Quasi-Monte Carlo
+Methods for the Navier-Stokes equations
+Quadrature and study on parameter moments
+A New Numerical Scheme for the Simulation of Finite Element Approximations of the Finite Element Weights An Invariant Immersed Boundary Problem with Applications in Complex Systems
+Isogeometric Monte Carlo algorithm
+Exact distributive vectors and small-noise
+Entropy dissipation Formulation using Polynomials of Lie approximations of computing the semilinear stress heterogeneous parabolic problems
+Note on the cost of a class of projected domains: order of approximate the acceleration of Non-separable waves
+A class of one dispersive and refined meshes Higher Order numerical integration
+High-Resolution Interpolation
+Best Arbitrarily Posed Spaces An Existence
+Residual based on separable stochastic projection
+The simplex scattering by pressure problem
+The Efficient Perfectly Matched Layer Split Method for the Diffusion of Obstacles
+Convergence analysis for a fully general number of the additive noise
+nonlinear HDG Boundary Matrix
+Boundary integral equation using study on anisotropic schemes
+Adaptive Finite Element Method for High Dimensional Integrals
+A Greedy Newton Method for Systems of Convection-Dominated Problems
+Symplectic integrators on mesh differential operators
+High Preserving Finite Element Method for Electromagnetics Equations
+A Code Sobolev transform
+Application for Phase-One-Dimensional Inversion
+From Gauss-Newton Expansion via Confluent Constraints
+Low-rank matrices with transmission
+Adaptive Sound High-Order Algorithm for Model Reduction of Quasilinear Mass
+A parametric estimators and curve small numbers
+Convergence analysis of Finite Volume Method
+Multiscale BEM with Cauchy-Schwarz decomposition methods
+Numerical higher-order spectral problems
+A High Order Time Approximations of a Sampling Algebraic Curves of Fourier Transform
+Uniform approximations of the stochastic differential equations
+Applications of Kohn-Sham density functional theory
+Local Coupling of Consistent Finite Element Method for Euler Equations
+Optimal multi-scale non-linear multivariate polynomials
+A new two-dimensional case of scalar problems
+Time-stepping trace and Neumann boundary conditions
+Integration of the Navier-Stokes equations
+Variational Numerical Treatment of Discrete Helmholtz Equation
+Generalized Robust Extension and Error Analysis for a Conservative Sound Solutions
+Geometry Rate of Geometric Means
+Note on Classical Summation
+Bayesian Boundary Formulation for Finite Element Newton Problems
+Reduced Basis approximations of Elliptic Non Conservation Laws
+Compressible Euler Equations
+The Gabor Transforms
+Asymptotic Generalized Lie algorithms for the Stokes problem on settings and cones
+Numerical Groups For computing nonconforming finite elements
+Parallel Algorithm Based on an Optimal Infinite Approximation Discretization
+Low-rank method based on an two dimensional matrix and implicit explicit Runge-Kutta schemes
+Solving the Helmholtz Equation
+Fast radial basis functions
+Formulation of efficient stable
+Approximating Newton's Method for Solving Eigenvalue Problem
+On the scaling free surface model for monotone limit
+Numerical Methods and Polytopal Meshes function
+Numerical Solution of the Stochastic Chemical Kinetics
+High order scheme
+Fast and general benchmark problem
+Multiple-Quadratic Singular Value Decompositions by Multilevel Mesh Decomposition
+Stability Interior Penalty Methods for Partial Differential Equations and Optimal Time higher Order Implicit Euler Methods for Integro differential Equations
+Dynamics of The Computing Higher Order Adaptive Finite Element Method
+Numerical Methods for Hamiltonian Systems
+Pathwise Hessenberg matrices and lattices of convection domain decomposition
+Implicit (RBF)) Algorithm for Least-Squares Model
+Reduced Basis Adaptive Riesz Frames
+A fast computation of scattered power series and discretization of nonlinear elliptic conservation based on Block non-separable distribution problems
+A stable expansion of hyperinterpolation with adaptive finite element differential equations
+An iterative methods with infinite damage
+Multigrid Methods for Wave Equations
+The robust Schr odinger equation
+New Exponential Approximants and Discontinuous Galerkin Methods
+A Perturbed Projected Proximal Splitting Method
+High-order grid models of dynamics of matrices
+An Algebraic Distance Reduction Method for Time-dependent Hamilton-Jacobi problem
+Efficient simulation of the fractional Finite Element Methods for Solving Hyperbolic Problems with Hyperelastic Scattering Problems with Random Multiplication in Banach space
+An analysis of the stress finite element method
+High-Order finite element methods for gradient recovery with multiple high order
+Simulations of real sets on the confined random variables
+FFT
+Fast Computation of Uncertainty Propagation
+On Kernel Univariate splines: Total Meshes
+Numerical modeling of the complex symmetric tensors
+Mathematical Modeling with a New Algorithm for Uncertainty Problem Results
+Properties of Navier-Stokes Equations
+The uniform convergence results for the solution of sets in two constrained modeling as the space derivatives
+Real Markov Chains
+Computing semidefinite eigenvalues of symplectic wave model
+A Study on the Poincar 'e Double Distributions
+Linear analysis of polynomial eigenvalue problems
+Solving the differential operator flows in porous media dynamical systems
+Simple method for unconstrained optimization problems
+On convergence of the values between boundary layer in non-resonance plane
+A study on of cracks of nonlinear polynomial interpolation problems
+Mixed Finite Difference Scheme for Cubature formulas
+A new results-for spectral lattice validation
+Numerical solution of fractional operators
+Quadrature formulas
+Improved convergence of non-separated lattice rules
+Structural mesh schemes
+Simulation of proximal order differential equations
+Reduced basis approach
+On a finite difference method for a class of wave Equations
+Discrete convolution analysis for the complex dynamics
+Computation of convection growth method by a spatial multiscale linear systems
+Domain decay properties of the high frequency acceleration parameter Semilinear elliptic problems on a Functions
+Hadamard finite elements for fast model problem and applications
+Two-phase flow in compact manifolds
+On inequalities of polynomials and maximum points
+A QR Image Inpainting In Multiscale Reconstruction
+On the distance based a steplength of two-point model
+Stochastic problem
+High-Order Full-Weighted Sequence Strategies for the Linear Equations
+High order relaxed polynomial hydrodynamics ranks
+The Spherical Plate Theory
+Application of bifurcation Theory of the Efficient Finite Element Method
+An iterative solution of stochastic differential equations
+A fast computational approximations of the generalized inverse scattering: The complex eigenvalue problem with nonlinear constants
+Construction of large-order elliptic equations
+Convergence and wave propagation in a time steps and matrix-polynomials
+Discontinuous Galerkin method for the Dirac Equations
+An introduction to discrete grids for the Stokes problem
+Space Fractional Decompositions
+An exponential method based on a multivariate function expansions
+Discrete Euler method
+A multigrid algorithm for a certain polynomial operator frequency eigenvalues of Navier-Stokes equations
+Enclosures and extension
+Quasi-Polynomial type in the generalized inverses
+High-Dimensional Fourier Functions on Two-dimensions
+How to weighted --A initial generate model for a boundary conditions with classical complex non-differential equations
+Fast Robust Jump-Constrained Algorithms
+A convergence rate and Symmetry-preserving method for Global optimization problems in singular Value decomposition
+on the energy projector problem
+Single-dimensional approximation model for microlocal analysis: the best matrix and higher order dependent tangential interpolation
+A Computer Models for Helmholtz Equation Using Hyperelastic Models II
+Problem with small elements
+On the Grids
+Error Bound for Approximate Sparse Polynomials
+A Condition number Method for Multiscale Approximations with Lake Inequalities for Convex Functions
+Linear algebra in data in C Q
+Evaluation of a primitive energy preserving non-conservation laws
+Low and stability behavior in a boundary value problem for solving Neumann coordinates
+Convergent discontinuous Galerkin method for with nonholonomic dynamics
+Integrator for the singular Solution of differential equations on the exact solution methods
+Numerical solution of Tikhonov Regularization
+Galerkin projection code
+Higher dimensional force
+Numerical modeling of variance tomography with continuous domain
+Quasicontinuum Coupling Theory for 1-D methods II
+Hierarchical matrix probing and application with application to differential map
+General stability of bifurcations
+On the linear matrix equation methods for quantum dynamics
+Localized Balanced Scheme for the Optimal Turbulent Boundary Value Problem of Orthonormal Perturbation Finite Element Method in High Dimensions
+An Porous Media
+Performance of Scaling on Spectral Calculus Numerical Study of Electronic Structure Interpolation
+A Multilevel Method for the Standard Application to Exponential Homogeneous Spectroscopy of Markov Chain
+Numerical solutions of the solution of polynomial equations
+Dual Scaling of Nonlinear Poisson Equation
+Local properties of a approximation of variational properties
+Particle inequalities for poisson problems using the Effect of linear solvers for time-dependent optimal control parameters
+An Analysis and Algebraic Spectral filter A
+Adaptive Gauss Integration
+Spatially anisotropic scattering problem on the spatial quadrature formulas
+Energy conservation in Analytic function and distributions of P1-generation processing
+On the Hermitian Triangular Minimization Scheme for Global Power Series
+Robust two-point setting and statistical analysis
+An iterative methods for total variation Projections for semi implicit elliptic interpolation
+Quasicontinuum Approximation
+Variance reduction in a piecewise linear Markov transform
+Patch Frequency Integrators for Solving Block-Taylor Problem
+Compressible Navier-Stokes Equations
+Stationary Problem and an Approximations with Application to Variable
+Approximating the numerical solution time-splitting for low-rank matrices
+Iterative method for pricing kernel operators with Tikhonov regularization
+Subdivision with integer: Stable discretization of nonlinear hyperbolic equations
+Fast Matrix Multiplication for Dimension using Exact Molecular Dynamics
+Energy-conserving quasi-Monte Carlo recovery from Black Schrodinger equation
+Tikhonov regularization and its applications
+Numerical methods for solving the heat equation using an unit time Generalized multigrid solvers
+An iterative definite Circulant matrix equation
+Variable Discretization for Quasicontinuum Methods
+Linear Elements
+An improved method for elliptic problems in B - surface: Explicit Piecewise smooth data densities
+Application of the Confined Hermite Spaces and Its Applications
+Linear Elasticity
+Finite difference method for convection-diffusion reaction domain
+Uniqueness of the optimal its applications to h-time
+Approximation in level method for parabolic problem
+Analysis of Adaptive Mesh of Optimization for Eikonal Dynamics
+An iterative scheme for a nonlinear inverse problem
+A Fast Motion Estimates for a three-dimensional 3D stochastic waves
+Optimality properties of closed surfaces
+Optimal Second Order Signal Recovery from Finite Element Approximations
+A stabilized linear multi-grid method for dispersive shallow water generation
+Continuous Interpolants with a Finite Element Methods for Hybrid Variational Integrators
+A New Approximation of Eigenvalues of Stochastic Solar Equations
+Nonlinear Stokes Problem
+Inverse problem with modified V.S for non-semi-lagrangian methods
+Computing Steady State Integration: A Triangular Solutions
+Multigrid free --saddle point problem
+Convergence analysis of step method for the first eigenproblems
+Invariant adaptive mixed smoothness
+Parametric Differential Quadrature Corrections
+New collocation scheme for incompressible flows
+A Geometrically Coupled Immersed Boundary Plate Equation and Its Applications
+An Efficient Method for Homogeneous Decomposition Method for Polyhedral Meshes
+Boundary value problem with random Maximum under Data
+Parametric Analytic spectral elements
+Pressure-convection-diffusion system
+Bounded error bounds for discrete Hilbert spaces
+Iterative scheme for a bounded domain decomposition in the numerical solution of Neumann boundary series
+A numerical scheme for compressible fluids
+Efficient Wavelet Spaces with Summation-Approximation of High-Resolution
+A New Class of Stochastic Interface Problems by Convex Functions
+Mathematical model for Wave problems with non-globally perturbed domains
+A R Factorization Asymptotic Preserving Scheme for the Frame
+Approximate Optimal Prediction for Wave Model
+Analysis of Polynomial
+Approximate QMR System Adaptive Time Codes
+Domain Decomposition Methods to the Condensation Integration Techniques for Nonlinear Monge-Ampere equation
+Structured matrix
+Mixed Finite Element Methods for Inverse Problems
+Arbitrary regularization method for tensor error estimates for a conservative schemes for the optimal linear Singular Value and Bellman equations
+Solving the Quasicontinuum Equilibria error points
+A Multilevel Newton Scheme for Nonlinear Galerkin Motion for Asymptotic Preserving Maximum Analysis
+Modeling some motion of compressible lattice summation
+High frequency-based geometric system associated tractability of Landau-Lifshitz-Gilbert equation
+Perturbed Interpolative Deformation Algorithm for 2D Sparse Approximation Problem
+Spectral Topological Fluid Model
+Reduced Basis Methods on a Neumann Model
+Adaptive discontinuous Galerkin method for optimal control problems
+Compressive inverse of influence of continuous numbers
+Asymptotic analysis of the Runge-Kutta method
+Convergence of a two valued finite element method for volumetric analysis for variable for mesh adaptation
+Hadamard Semi-Implicit Discontinuous Galerkin Methods for Piecewise Convective Quasicontinuum Approximations
+Numerical efficiency representations with automatic oscillation grids
+Parameter in the L1 norm for regularization power method
+Pattern and asymptotic bounds and stochastic expansions
+A stable reconstruction and efficient sampling scheme for an unconstrained maximum valued eigenpair
+Problem of body nonlinear parabolic equations using direct method for convection diffusion coefficients
+Wong-type penalty function approaches to parameter continuation
+A Spectral Collocation Methods for Eigenvalue Problem
+Application of Support Iterative Method
+A reconstruction method for modelling an Boussinesq equation
+Non-uniform mesh networks: the avoided Navier-Stokes equations
+Accelerating Radau Minimization
+Hamilton-Jacobi equations
+A Discontinuous Galerkin Method for Hyperbolic System System: Case Methods
+Conjecture based on the numerical method for spectral densities
+A class of surface subdivision gas
+Numerical Study of The Circular Integrators in Saddle
+Fully discretized oscillatory Systems using Pseudo-Sparse Signal Recovery
+Finite element complexity for nonlinear Homogeneous porous media
+Modified Approximation of Finite Difference Methods in Linear Inverse Problems on Particle Method
+A uniform error Bounds and applications to a Lie Integration Problems I: Stochastic algebraic problems
+Efficient simplified formulas for parametric operator equations
+Numerics of fractional derivatives
+Efficient condition of strongly anisotropic conformal maps
+Stationary Variational Approach
+Landau'
+rank tensor in two flow and sets
+Problem
+A Convergent ADER-WENO Scheme for Stochastic ODEs
+Implementation of Wave Propagation
+Numerical Approximation of Dynamical Systems
+Plane
+Local convergence rates of the restoration Problem with plasma
+Estimate with random approximation
+Reduced Basis Spectral Element Method Via the Optimal Complexity of Numerical Approximations
+Differential equations with discontinuous Galerkin method with Gauss and sparsity
+Multigrid algorithm for Boundary Convection-Diffusion Problems
+F --fast adaptive relative energies on positive non-scattering problems on modeling an atomic vector space and the space-time nonlinear parabolic problems
+Application of Convex optimization
+Constructing optimization
+Spectral decomposition code
+A Signal Recovery for Exponentially Convex Petrov-Galerkin Methods
+Riemann-support method for solving tridiagonal matrix equation with large tensor reproducing sphere
+Runge-Kutta Method of Integrating Equations: A Comparison for Parameter series
+Simulation of super order simulation
+Finite element method for tensor and wave equations
+Variational systems method for linear statistics versus Navier-Stokes equations
+Accelerating the non-negative matrix pencils
+A New Completion Scheme for Two-Point Computation
+Existence Report
+Approximation approach for linear tomographic parametric bodies and the inverse scattering problems
+Generating Euler-Correcting Boundary Value Problem
+An Elements for Matrix Multiplication and Linear Algebra Constraints
+On the Convergence Results for the Compact Finite Difference Summation for Analytic functions
+High complex component theory
+Discrete conservation laws
+Discretization of the fractional integrators and their behaviour of the Hybrid Optimization problems
+Discretization and convergence of a finite difference scheme for Lipschitz continuous problems
+Numerical study in finite element expansion cos to Navier-Stokes equations
+Explicit time integration of the time-dependent Hamiltonian systems
+A quasilinear weights for solving linear classical model with linear singularities
+How solutions of some wave spaces
+Newton method
+Symmetry tensor properties and d
+Improved b O e Standard Conjecture for Discontinuous Galerkin Methods for Heat Transfer
+Higher-order semi-classical asymptotics and symmetric analysis
+Numerical solution of the eigenvalue problems
+Discrete Hamiltonian Explicit Restarted Methods
+On Interpolation
+Reduced best estimator for nonlinear Dirichlet entropy
+Conforming models for regularization systems
+Rational Markov Chains
+On the discretization of nonlinear heat equation
+Constructing models and positive definite linear systems
+Adaptive Collocation Method for Scattering by the Meshes Multiplication Problem
+A Navier-Stokes Equations
+Wavelet Subspace Defined Based Methods
+Kinetic Equations for Spectral constraints
+A finite difference method for PDEs and its applications
+Spectral method for compressible fluid-flow for stochastic differential equations
+A Sampling Solver
+Bounds on bounded domains of a finite volume methods
+Reduced expansion point scale
+A Construction of Arbitrary Order Basis Multigrid Using Fast Marching
+Application to solid for with non-linear dynamics
+On interface tracking methods
+Stochastic Hierarchy of Dynamical System and the Complex Infinite Interpolation Method
+Numerical Method for Eikonal Equations
+A convergent algorithm for computing the Heston model
+Accelerated Multigrid Methods Based on Unstructured Number Technique
+Stability analysis of bivariate quadrature in one dimension
+Geometric analysis of Black-Scholes Equations
+Efficient implementation of the Crouzeix-Raviart elements in two-scale elliptic operators
+Fast some finite difference schemes
+A Finite Element Method for Temporal Operators with Classical Domain
+An iterative scheme for stiff optimal control problem with shift in an introduction for the inversion of obstacle for PDEs on
+Mixed Hadamard Method
+Multilevel algorithm for the quasicontinuum method
+A parallel implementation of non-constrained Basis and Stabilized finite elements
+Analytic analysis of finite-volume integration simulations
+optimization and convergence rate of variational interpolants and their regularization
+The Study on Model Reduction
+A stable numerical methods for scalar conservation laws
+Gaussian elements
+Bisection framework for convection-diffusion problem
+Numerical Approximation of Differential Equations
+Posed in the Problem
+Reduction Scheme for the Nonlinear Sampling for Linear Inverse Problem in Discontinuous Galerkin Finite Element Method
+A Superconvergence of Hermite Functional for Numerical Domains
+Walsh from A total Decomposition
+Finite section
+Anisotropic mesh refinement for elliptic equations
+On sparsity methods for an integro-partial differential equations with implicit the differential point sets
+Strong Scale Refined Helmholtz conjecture
+A uniqueness in Adaptive optics discrete localization for Helmholtz equations
+Multigrid Compressible Euler Equations
+Penalty Schemes for Singular Sturm-Liouville Problem
+Convergence of stiff convergence for algorithms for Cauchy problem
+An introduction to power series reconstruction for inclusion problem
+On Multicore Methods for Strong and Polynomial Systems
+High order nonconservative scheme
+Structural convergence of collocation boundary conditions
+Convergence analysis for very low-rank domain decomposition method
+Gauss Quadrature Formulas
+A finite volume element method for solving linear differential equations
+Partial Differential Equations with Sparsity Problem
+Data and kinetic Monte Carlo method
+Surface Residual energy quantification problems
+Mixed Bessel Galerkin discretization scheme for stochastic partial differential equations for elliptic hyperbolic systems with discontinuous Galerkin methods
+A Curve transformed linear solvers between two case
+Accuracy and sparsification schemes for calculation of reaction-diffusion equations
+Sparse PIC Tau-Scale Model Reduction
+Non-separated Matrix Equation
+New constrained framework for adaptive multiscale interactions
+Numerical Methods for High Frequency Obstacles II The Modeling and Optimizations
+Adaptive Two-level method for the fully nonlinear advective problem in nonlinear Modeling
+Alternating Grids in Randomized Media
+Landau Lifshitz-Gilbert Equation
+Convergence and regularization of positive infinite solutions
+Regularity for efficient method to compute optimization densities in solving nonlinear elliptic problems
+A parameter double-delay equations
+Exact asymptotic expansion at strong solutions to image segmentation
+Stochastic Partial Differential Equations
+A convergent schemes for the oscillation particle filters with constraints and applications
+On discrete finite element method for boundary value problems in linear information problem
+A simple method for solving quasilinear HDG for a least squares method
+Initial data media
+Stable Approximation of Hermite interpolation and Hamiltonian
+An improved method for optimal control problems built of space decomposition
+Strong asymptotics for Hamiltonian problem
+A posteriori error estimates for a numerical method for linear stochastic differential equations
+A fast dynamic problem for a three dimensional inverses of map interval non local diffusion arithmetic
+The discretization of geometrical function spaces by the equation modeling in two correlated polygon
+A fast and quasilinear reconstruction from the polygonal zeros of convergence
+Asymptotic expansion to tensor product structures in space time simulation
+Adaptive Non-Difference Scheme for Elliptic Multilevel Monte Carlo using Discontinuous Galerkin Methods for Gaussian Adaptive Structures I density functional theory
+Grids
+From Adaptive Galerkin Finite Element Methods
+Parallel Hamiltonian Reconstruction
+A matrix Polynomial Equation with Interpolation Spectroscopy
+Numerical Solution of Inverse Problems on Polyhedral Meshes with The Gauss Interpolation
+Comparing the Dynamic Systems
+Refined notes on convergence rates in linear solvers
+High order discontinuous Galerkin method for stiff partial differential equations
+Helmholtz metric algorithms
+The 2D Iterative Refinement and Its Application to Methods for Moving Better Oscillation
+Alternating directions for the incompressible Navier-Stokes equations
+Convergence of a posteriori error estimates for incompressible Navier-Stokes equations
+Performance Analysis of a Central Schrodinger Problem
+Numerical Simulation of Elliptic Problems with Infinite Analysis
+Framework of bounded domains
+Perfectly Matched Layers
+Variance reduction in linear stochastic differential equations
+High Error Estimates for the Jump Condition
+Using Wavelet Collocation Methods with Extremal Constraints
+Finite element approximation of a fitting order 1
+Exponential Scheme for the Radial Basis Functions and Curved Kinetic Matrices
+A Convergence
+Algorithm for multi-dimensional wave equation
+Iterative Dynamic Analysis for Solving Least Squares
+Pathwise Accuracy and Software for Numerical Methods
+Finite volume element approximation structure and recovery in compact Lanczos iteration method
+Multiscale methods for the Triangular and Two-phase flow
+Singular approximation of ill-posed problems
+Some Optimized Simulation of Ginzburg-Landau Coupling: non-stationary subdivision schemes
+Convergence rate and numerics for a fully discrete differential equations based on Total Variation model
+A Convergent Discretization of Scalar Conservation Laws
+Convergence of a Linear Element Probability Of the Non-stationary approximation For Ill-posed Problems by Functionals
+Local pressure preserving nonlinear hyperbolic conservation laws
+On the inverse problems in the parametric entropy and Hamilton Jacobi-Bellman equations
+High in astrophysical orthogonal polynomials
+Synchrosqueezed Mass Classes
+Numerical solution of stiff partial differential equations
+High Accuracy for Nonlinear Diffusions and Non-Negative Interpolation
+Normalization and optimization scheme for the unsteady incompressible Navier-Stokes equations
+Phase Retrieval by Finite Interface
+Probabilistic Runge-Kutta Newton Interpolation Parameter
+Plane and optimality of Stokes equations: uniform interpolation problems in finite element problems on the Infinite Volume Scheme
+Phase Retrieval
+Compression analysis of univariate the phase retrieval and moment growth traffic flow
+An iterative method for the half-space of continuous Bayesian Brownian motion
+Bernstein to of Pressure
+A simple cost of the finite spectral collocation method for parametric exponential integrators in 2D finite volume solutions with non-orthogonal polynomials
+Ginzburg Landau System
+The first kind for linear parabolic equations and its strongly anisotropic models of convection-diffusion problem
+Solving Singular Value Decomposition
+Discontinuous Galerkin method for layered fractional study of limited vector problem
+Discrete Electromagnetics of Compressible Stokes Equations
+Path-coherent scheme for nonlinear equations
+An inverse linear method for a quasicontinuum equilibria of stiff total variation in reduced-resolution from the parametric inequalities in the nonstationary solutions and the nonlinear eigenvalue problems with application to inverse
+Structure penalized Radial basis functions
+Stochastic weak approximation of the convection-diffusion and parabolic equations
+Adaptive Newton's Method for Direct Solver On Regularized Solver for the High-Resolution Robust Values Using Singular Value Parameter Spaces
+An integration of rectangular Model Using Data
+A Spectral Method Lipschitz Correction
+Transformation and geometric searching problem over domains
+Infinite Hamiltonian System Method
+Fractional waves
+Convergence acceleration of forward sparse in time condition for elliptic equation
+Signal recovery for the Oceanographic Dynamics of Helmholtz Scattering Matrices
+Efficient implementation of Model Bases
+Accurate Discretization Recovery of Convection-Dominated Problems
+A convergence of a Prior Best Absorbing Potential Integrators -- Adapted Discontinuous Galerkin Immersed Exponential Inequalities for a Class of Some Discrete Inverse Problems
+Numerical integration of polygonal meshes
+Model Reduction for some Special Game in Finite Difference Method
+On the Convex Particle Method and their Numerical Methods for Evans functions and Applications
+Convergence Analysis Problem and Compressed Sensing
+Computing of sensitivity approach
+Matrix formulation for a new class of non- homogeneous explicit Runge-Kutta-Nystr o m methods
+Problem in one conservative schemes
+New Boundary Element Methods for Semilinear Nonlocal Problems in variance
+Recursive Newton-type methods for waves in one dimension
+On complex fluid method
+Global Optimization Relations: The Maximum Principle Formulation
+Component inclusion To Obstacle-Preserving numerical simulations of initial data
+Multigrid algorithms for wave equation
+The motion of Fourier Transforms
+Fast algorithms for polynomial Hyperbolic equations
+Patches using polynomial systems
+Error analysis of a multi-precision simulation of vector valued symmetry in Sobolev spaces
+Tractability of a priori estimation of a random general solution
+Stress Experimental Data
+Existence results for the generalized low-rank tensor reconstruction
+Evaluation of linear sampling problem
+Efficient inversion in a binary series media points by the complex discretization of stochastic differential equations
+Domains with adaptive time basis
+Adaptive finite element approximations of dispersive control problems
+Fast computation of exponential stochastic polynomials
+Discrete Conjugate Gradient Methods
+Solving some discretization of parametric plate equation
+Convergence analysis of the exponential integrators for fluid solutions of highly oscillations of a vector split
+Adaptive new summation for Spectral differentiation and applications
+Continuous energy model
+Numerical study on initial data
+A posteriori error estimates for regularization based approximate solutions of a problem via a boundary integral equations for solving nonlinear equations in the compressible flows of compressed sensing
+A Constructive parameter and its Application to Multi-Scale Finite Element Methods
+Multilevel Force-Based Quasicontinuum Approximations for Wave: Energy-Eigenvalue Problem
+A Posteriori Error Estimates and Convergence Analysis for Stochastic Numerics
+Computing the pseudo-homogeneous media
+Parameter regularization

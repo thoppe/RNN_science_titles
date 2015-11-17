@@ -1,0 +1,957 @@
+A Nondeterministic Automata
+Distributed Tree words
+Bounded Machines
+Partially-Logic Systems
+Proceedings First Words
+Complexity of Bisimulation
+Characterizations for Weighted Automata
+Automata
+An a powers
+Decidability of Generalized Model for Parsing linear time
+Consistency
+On experimental Reversible Automata
+Quotient-languages
+Measuring communication
+On the Words
+Consistency
+Any structures
+Words
+Proceedings Problem for automata with Words
+On infinite words
+On Parsing Expressions
+The Connector automata
+Reduction
+Periodic words
+Powers and intersection of Cellular Automata
+On Integers
+On the Formal
+Languages
+A Connected Trees
+The context-free languages
+The Bases of Pushdown Automata
+On the Computational Algorithms
+Syntactic Calculus Algebras with Storage of Logics with non-Regular Expressions and Interactive
+Analysis
+Inference of Automata
+Parameterised Probabilistic Automata
+An automata Machines
+On the Synchronization and constraints
+Determinisation for Graph Automata
+Solving Automata
+C . and Equivalence Languages
+Approximation
+Problems
+Reset Words
+The complexity of uniform and Star-Tree Languages
+Algebraic Algebraic Algebras
+Supervisors
+Computation of the Regular Words
+A Languages
+Proceedings Words
+Symbolic Computable Properties of Regular Languages
+A not- of Infinite Tree Word
+The some probabilistic Automata
+Probabilistic Regular Expressions
+Free Grammars
+Structures for of systems
+Regular Expressions and their languages
+First-Order Logic
+Probabilistic Automata
+On the Pushdown Graph automata
+Automata with Fewer word equations for Synchronizing Automata
+Tree
+Transducers
+A Model
+Checking of based Computation
+Tree Logic
+Approximation of synchronizing words
+On the Factor automata
+Quotient Complexity of the computation of Indexed Languages
+On Expressiveness in infinite words
+On Languages
+Tree conjecture
+Constructions
+free languages
+Markov Machines
+Consistency Problems
+State Algebraic Algebraic with Algorithms for Regular Languages by An algorithm for automata with Advice
+Tree Automata
+On Parsing Games: Automata
+Consistency
+Basic Operations in Verification
+Languages
+Sets Reversible Pushdown Automata
+Systems
+Stochastic Traces is Languages
+Quotient of K-
+Nondeterministic Weighted Automata
+Continuous Time Algorithmic Tree Words
+A finite automata
+Analysis of Equivalence of finite automata
+Free Transducers
+Quantum and context-free languages with Automata in Timed Automata
+Deterministic Automata Sequences
+The languages
+Strategies
+for weighted context-free languages
+Sets On k the Reachability construction
+The finite Automata Systems
+Computation
+Reversal
+Computing of infinite weighted Languages
+Extended word over Quantifier Alternating E-finite words
+Synthesis in Games over Infinite Word
+On The probability problem in Rational words
+On Markov Decision Process Calculi
+On the Interaction
+Set Algebras problems
+A Bounded Derivatives
+Observation constraints
+Configurations
+An The with Regular Expressions for words in the Reachability in Data
+A Parameterised Constraints
+A Sufficient Algorithms
+Timed Systems
+Syntactic Complexity of Suffix Free Languages
+languages
+Decentralized words Word asynchronous Words
+On the context-free languages
+Shift
+Partially groups
+Context-languages
+Deterministic Real Time and Reversal
+Regular Languages
+Avoidance in Time Problems
+Word and register automata
+Matrix Grammars
+The complete infinite-Free words
+S
+Asymptotic Membrane Communication
+Some Model-Checking of Patterns with Pumping Membership for
+Symbolic Algorithms for Alternation Problem
+Word problem in Games of Star-Free grammars
+Quotient Complexity of Probabilistic Processes
+Synchronization
+Algorithms
+On Finite Automata
+Cellular Automata
+Graph Automata
+First-Order Grammars
+Quantitative Programs
+Model-Checking of Timed Automata
+A context-free grammars and Formal Languages
+On the
+Continuous Time Algorithm: Automata on infinite words
+Extended with Results: Words
+First-Order Quantified
+Self-assembly verification
+Verification of Context-Free Languages
+A groups of Turing machines in Probabilistic Regular Languages
+Synchronizing Automata and Symbolic Algorithms
+Ordered words and the Languages
+Based Automata
+A Finite weighted Tree Rewrite Systems with Automata on Words
+Proceedings First Order Infinite words
+quantum Languages by Automata and Finite Automata
+On the Trees
+and Structures and
+Words
+A Decidability of transformation Systems
+Graph
+Proceedings and Words
+Games on Automata for probabilistic Finite Automata
+Test Automata
+A note on  Model-Checking for Probabilistic Automata and Bisimulation of a
+Characterisation in Timed Automata
+A Rewriting
+Maximally Regular Expressions
+Verification
+Formal Languages
+On the Computational complexity of languages through Quasi-orders
+An automatic sequences
+Optimal linear
+Systems
+Stochastic Calculus word
+A Synthesis of Multi-languages
+Finite Automata
+The state catenation and Morphisms
+Recursive Languages
+Shortest state Computation
+Symposium on Games Automata
+small tree grammars
+On Deterministic Weighted Automata
+S uchi Complementation of information problems
+A new word
+Nondeterministic Finite Automata Generated Problem
+On infinite words
+Finite Deterministic Deterministic Reducibility
+Quotient Calculus
+Preserving finite word
+The Complexity of asynchronous Games over the decidability for Probabilistic Time
+An Efficient finite automata
+On context-free languages
+Model
+Formal languages
+On P L
+Logic
+Enumeration Definite Words
+2 extended version)
+Languages by finite automata
+An Applications of the Rational Ordered Pushdown Systems
+Bounded Automata
+Automata
+Semi-Conditional Results for probabilistic Model for Context-Free Regular Expressions
+On the Computable concurrency Path
+From linear'y Algorithms
+Words
+On Finite words
+Free Transducers
+Probabilistic words
+A Composing words in the synchronization
+Geometric Regular Languages
+Tree Transducers
+Conditional Systems
+(Mode Subshifts on Automata
+Probabilistic Automata
+On the state complexity of context-free languages with automata
+Transducers
+State One-way Pushdown Automata
+Finite Tree Transducers
+Regularity and omega- and Free Transducers
+Universal Verification
+Reversible cellular automata
+Precedence word problem
+Stochastic Analysis for Combinatorics on
+Quantitative Problem
+Quantities
+More of Probabilistic Finite Automata
+Graph Automata
+On Infinite words
+On Conditions
+State Complexity of Regular Languages
+The D0L and 3-0 2 A
+Recognizability
+Universal Finite Automata
+Automata
+Problems for Multi-Pushdown Automaton
+Primitive Finite-Automata
+Coordinates for Probabilistic Programs
+Compressed (x 3) Terms
+A Characterization
+Proceedings From Regular Languages
+Approximating Pushdown Graph free words
+Probabilistic Automata
+Synchronizing automata
+Regular ties
+Monoid of Multi-Valued Systems
+A Characterization of synchronization Words
+Concurrent Systems and the Normal systems
+Proceedings Problem
+word with Synchronization of Timed Automata
+Quantitative multi-Words
+Quantitative Languages
+Finite-State Component Reset word
+Open and undecidability of Pattern Specifications
+On On-the structures for n Tree Automata
+Minimisation
+Graph Automata
+A note on Limited Problems
+In promise problems
+Model-Checking of
+Syntactic Complexity of Dynamic Observers
+On context-free grammars
+Structure
+Operator Tree Languages
+Words
+A New Model
+Universal Cellular Automata
+An efficient Deterministic Finite Distances Characterization
+Structured Words
+Applications
+Deterministic Finite Automata
+Abelian note on a Words
+Fixed words and synthesis
+Compatible Multi-Automata
+Regular Expressions
+The  word problem by really universal
+Tree Automata
+Groups
+A Finite Automaton
+An Avoiding an Algorithms for Turing machines
+On the Property of Context-Free Grammars
+Partially-Automata in Formal Grammars
+Abelian Bounded Satisfiability
+with Automata
+The Word A
+A word problem
+Tree Control
+Definite Languages
+Approximating Context-Free Languages
+Probabilistic Variables an infinite words
+A Simulation and Automatic free languages
+Remarks on Languages
+Synchronizing automata via omega-context-free languages
+Algebraic Shifts
+Proceedings Results
+Proceedings 3rd Omega-Automata
+The S length
+Transducers
+measure
+A Connector automata
+Proceedings 1th International words
+Distributed Automata
+The Grammar-Systems
+Shortest Word
+Infinite words
+Abelian graph borders of Integers in Computable The finiteness
+The Visibly Pushdown Automata
+Syntactic
+Context-Free Grammars and Applications to Data Languages
+Decidability
+The Complexity of linear time
+Proceedings in State systems between shifts
+More P Systems
+Proceedings Constraints
+A Theoretic and Partially for automata
+Proceedings Algorithms with Transducers
+Framework
+Simulations
+Proceedings
+Tree word
+Automata groups and automata
+Transformation Automata
+Bounded Probabilistic Automata
+Non-deterministic One Top-Down Tree Tree Automata
+Operational States
+Syntactic Complexity of Cellular Automata
+with subword Machines
+Synthesis of Timed Automata
+Decidability of Words
+Decision of Basic Parameters
+Bounded Reachability Translation of the efficient Algorithms
+Primitive Words
+Symbolic Systems with computational Graphs
+A Synthesis of subset Dynamic quantum finite automata
+On Context-Free Languages
+The Tree Transducers
+Algebraic Structures
+On Regular and iterated graph Automata and Data Compression
+Automaton free languages
+Algebraic Complexity of Petri Nets context-free languages
+A Monoids and Verification
+Graph Automata
+Generating an operations
+Proceedings
+First Words
+Languages
+Generalized Properties of languages
+Semi-linear Order Regular Languages
+Tree languages
+Graph Automata
+On Words
+On the synchronizable
+Partially-Connected Automata and State Computability and Regular Expression Matching
+with means of union and Parameterised Pushdown Systems
+Generating Pushdown Systems
+The complexity of Functional Automata
+Graph Properties of Pushdown Systems
+Universal Words
+Some graphs -n Context-Free languages
+A structures of Alternating Pushdown Automata
+More Words
+of extended Transducers
+Ordered Automata
+Games
+On the Complexity of the languages of Languages recognized by two-Communication
+Infinite words
+Languages
+Model-Automata
+Generation Avoidance
+Length of context-free languages
+Decidability problem of Deterministic Finite Automata
+Processes
+Top-Model
+Analysis of binary machines
+Monoid of Register Automata
+Words
+Algorithms for data automata
+Groups defined by infinite morphisms
+A Note on infinite word
+On the Reachability Measures and Probabilistic Model
+Deterministic Analysis
+On Concurrent Timed Processes
+On -Way Incomplete Sets
+Proceedings First Automata
+Constructions
+Complexity of Timed Automata
+Proceedings 1th Workshop on
+Context free languages
+Are Computational Complexity of Probabilistic Automata
+Decision
+Infinite automata
+Relations
+State systems
+On infinite Automata: Characterizations of quantum finite automata
+Computable computation
+On Structures
+Tree Grammars
+LTL Systems and the Bounded Quantitative Languages
+State complexity of languages
+A
+On Pushdown Automata
+Languages
+On the state complexity of regular languages
+Systems
+On the Algebraic Properties of Cellular Automata
+Membership Factors
+Inverse A Simple for context-free languages
+Logic and Subword-Transducers
+Decidability of Probabilistic Automata
+Abstract Machines
+A State on k
+Markov Nondeterministic Automata
+Infinite words
+Operator
+Operational Addition Systems
+Simple Tree Automata
+Nondeterministic Minimal Subshifts
+Sturmian Words
+Operations of Regular Languages
+On the Tree Transducers
+from with a strongly for uniform
+On Word On the Equations
+Algorithms
+A note on Words
+Quotient Compositional Automata
+Context-Free Languages
+Proceedings 1th International Workshop on Free Regular Expressions and th Words
+Distributed Languages
+On the Regular languages
+Proceedings th Workshop on Linear-Time model checking
+Graph Automata
+Infinite words and words
+A cellular automata
+Defining and Applications
+Petri Net
+Synthesis
+Any Theory of Words
+The E Probabilistic Automata
+A Transformation Problem
+On semilinear Finite Definite Words
+The Membrane Constructions for context-free languages
+Simulation Reversal
+Timed Topologies
+Enumeration models
+Relations
+A Note on Regular Languages
+Algorithms
+On the hyperbolic cellular automata and quantum automata lattices words
+Grammar
+The computation
+On the Synchronization of P Systems Design Words
+On equivalence
+On the Multi-Note Systems
+Representing Binary Finite Automata
+More
+A Note on Universal Witnesses
+The Complexity of Boolean Models
+The finite Finite Automata
+Proceedings Verification
+Nondeterministic Automata
+Markov Games
+Symbolic Systems
+Nondeterministic State Complexity of integers
+Reset Words
+A Note on Relations
+A Automata
+Rational Words
+A Note on Languages
+Decision Automata
+On th-Words
+Modelling the Probabilistic Automaton on Deterministic Timed Automata
+Transition Complexity of Timed Automata
+An Event and Automata
+Symbolic Transducers
+Model-checking of the Information Characterizations for Languages
+Simulation
+B uchi Games
+and Quotient Complexity
+The Complexity of Context-Free Grammars regular languages
+Bounded Verification of Undecidable
+Two way Pushdown Automata
+Decidability of Context-Free languages
+Words
+On non-Computer Science Extended Version)
+Extension by Finite Automata
+Free Returns
+First-Order Systems
+Transducers
+State Propagating an experiments of Context-Free Languages
+The context-free ordinals
+Automata
+Time Parameters
+A Characterizations
+Grammar
+Quantities
+On Weighted Automata for Regular Languages
+Characterization
+Proceedings 1th International Workshop on Synthesis
+State Computation-of rational An Logic
+On infinite words
+A Growth infinite transducers
+Graph Automaton and Extended Version)
+On State complexity of context-free grammars in Regular Languages
+One-Markov Automata
+Proceedings First groups
+Verification of sets and Languages
+Synchronization
+Tree word
+Bisimulation
+with Two-Some Word of the Quotient Words
+Minimal Automata and related for fuzzy automata
+Synthesis of Regular Languages recognized by automata and Determinising Words
+Reset Words
+Non-deterministic Automata
+Automaton Using Machines
+Automata
+In
+Graph with an integers
+Representation of Deterministic Finite Automata
+An Automata
+Finite automata and Probabilistic Languages
+Syntactic Approximations
+Systems
+Word
+Proceedings First Order Logic
+On the Symbolic Logics
+Minimization of Infinite words
+Patterns in Topology
+The Minimal Words
+Word Automata
+Synchronizing automata
+Partially and L-synchronizing automata recognized by minimal Automata
+Graph Logics with Deterministic Automata
+In regular languages
+A Simulations With Products
+Undecidability of regular cellular automata
+A Problem for powerful state machines
+Reachability in Transducers
+Infinite words
+The Bisimulation of Basic Power of infinite Algebras
+Discrete-Event and Back- a Computational Approach
+Pushdown Systems
+On Finite Complexity of regular languages
+Infinite Words
+Weak Pushdown Systems
+Axiomatization context-free languages
+Dynamical and Words
+Embedded Minimal Systems with Words
+A Note on groups
+A characterization and the Infinite concurrency in Timed Automata
+The Morphisms of Language Systems
+State
+Characterization of Context-Free Languages
+Abstraction
+On the Parity Automata
+An automata
+Regular Languages
+Finite-Systems
+Computational Approach
+Finite Strings
+Machines
+On Cellular Automata
+The exponents
+for state free infinite State Complexity of Bisimulation in Formal Parameterized Deterministic Finite Automata
+A unifying words
+Pattern-a bisimulation
+Stochastic Cellular Automata
+Functional Automata
+Power of Regular Expressions
+More on Deterministic Timed context-free
+Quotient Computation
+Models
+Automata on Words
+On plane Calculus
+Monoid and Weighted Automata
+Measuring Problems
+Semigroup of Formal Words
+Enumeration Semigroups With a  a Class of Data Languages recognized by Automata hyperbolic cellular automata
+A finite and Strings
+Equational promise problems
+Some Constructions
+Languages
+On the B-uchi Nondeterministic Automata and verification
+A Note on Regular Languages Theorem in Parameters
+-Decidability of universality of the infinite words over generalized Specification of  Approximating Multi-Automata
+Abelian complexity of deterministic Finite Automata
+Learning and Transducers
+Regular Languages
+Infinite State Complexity of Language Theory
+Bounded Strong in Time Constrained for State Complexity of Timed Automata
+Groups
+The word problem for Probabilistic Automata
+Bounded Operations
+A note on synchronizing Automata
+Decidability
+Structures formal systems
+Reactive of information
+Unambiguous Tree Transducers
+Function
+For Synchronization
+Modelling of a uniform
+Deterministic Finite Automata Languages
+Two-way Pushdown Automata
+Revisiting the Languages
+Finite Automata
+Languages
+Towards using Applications
+Recognizable
+An Automata
+On the Equivalence of Compressed Timed Systems
+Reset Words
+On generalized Visibly Pushdown Systems
+Deterministic Words
+An Efficient Algorithm
+Probabilistic Automata
+A Connection
+Classical and uniform Context-Free grammars
+A new approach
+On the Determinization
+Dynamic Observers
+Group
+Proceedings 1th Words
+On Uniform Approximations for binary words
+Shortest Reset Words
+A new context-free orders
+Proceedings First Words: Words
+A) Undecidability
+Partially words
+On a quantum linear-Machines
+Infinite to Words
+String Nondeterministic Finite Automata
+Reset Word for Expected Verification
+Verification of A Simple Quantifier Alternation Control
+Pattern avoidance
+Automata Collapsible Pushdown Automata
+Quantifier Alternation
+Reversibility in Bisimulation
+On The connected automata and the Local Divisors
+Bounded synchronizing Automata
+Deterministic Regular Expressions and the Models
+Recognizable structures
+Transformations
+Finite Linear Systems
+A Note on Deletion
+A Particle Self-Assembly
+On
+Markov Games
+In-infinite word
+On the Compositional sets
+On Words
+An automata and approach
+Infinite block and Turing machines
+An Infinite word
+Words
+Probabilistic Languages
+Nondeterministic State Systems
+Word problems
+Relational Strategies
+A logic of Binary Compositional Regular Expressions
+On Networks of Extending Bounded monoids
+Computable Pushdown Automata in Power of Regular Languages
+An a divisors Problem
+Reset Words
+An Algorithms
+On
+Compositional Verification
+Markov Automata
+Analysis of Finite Automata
+Relations on probabilistic Analysis
+Probabilistic Structures
+Power of Regular Automata
+Tree-grammars with a compact encoding Context-Free Words
+Words
+Partially finite sequences
+Proceedings 1th International Automata
+Probabilistic Partially Computation
+A words and finite quantum words
+Universal Cellular Automata
+Counting Sets of number specification
+Some Control
+A
+Graph Automata
+An Automata and approach
+for word hyperbolic cellular automata
+Quotient words
+Extended word
+Infinite complexity of Regular expressions
+On Monoid of a Computations and words
+Infinite State systems
+minimal Regular Languages
+The Complexity
+On Basic Words
+Algorithms
+A Note on Deterministic Finite Automata
+Mechanical Relations between the Finite Automata
+Equations of Automata
+On Automaton (Some Configuration
+On equations and String Modelling of paths in quantum register Automata
+Words and context-free orders of regular languages
+Reachability Automata
+Tree language
+Algebraic from Suffix-Free Transducers
+Structures of probabilistic Automata
+From weighted Tree Automata
+Probabilistic Models with Languages
+Synthesis
+Extended Approximations Reducibility
+An Alternative Words
+On Turing machines
+Reduction of the languages Accepted by piecewise testability
+Words
+A not  or a single graph free languages
+Logics
+Languages
+Algebras of n-Graph Automata
+Bounded Structures
+Quantitative words
+On multi-letter sets and Binary Words
+Bounded Markov Words
+Automata for Random Automata
+Suffix-S
+generalized Parameters
+Compact on Submonoids
+The Complexity of 1-Finite Words
+On the Measures
+Hierarchies: Markov Algorithms
+Proceedings 1th International Workshop on Synthesis of Languages are Expectations
+Computable Synthesis
+Systems
+Quantum automaton is PSPACE-complete Systems
+Functional Formal Languages
+Structures
+Recognizable
+A Characterizations
+Construction with Probabilistic Automata: I Markov Automata
+Computing Preserving The probability
+On Implicit Results for Probabilistic Arithmetic Automata
+graph Automata
+Reverse Efficient Sets of word equations on Multi-Counter Structures for infinite properties of Suffix-Free Grammars
+Finite Markov contexts
+On the Structures
+On concurrency of Probabilistic Words
+A new approach
+An Efficient Finite Automata
+A Time
+Asynchronous Systems
+On Finite Systems
+On The Complexity of Context-Free Grammars and their Hybrid Automata
+Partially complexity of Computable Sets
+Computable Languages
+Delay Grammars and regular languages
+an a computing by Cellular Automata
+Distributed Algorithms
+An automata for Words
+Control with Communication
+Decidability of S
+Syntactic Compositional Regular Expressions
+A Characterization of Context-Free Languages
+Rational Weighted Automata
+Problems of Model-infinite words
+Words
+A Finite Finite Automata Transducers
+Construction
+Modelling Computation of Words
+Proceedings Fifth Reachability of Boolean Finite Automata
+Languages through
+On Termination
+Decision
+Properties of a new word
+Basic Space Complexity of Finite Automata
+An Extension Grammars and Universal cellular automata
+International Expressions
+Quantified Algebras
+Experimental Results
+On State machine and Strings
+decidable free
+Formal systems
+Universal Finite State Machines
+Algorithms
+A Proceedings 3rd State Machines
+Context Free context-free languages
+Regular Expressions
+Graph languages
+A Decidability
+Length
+Infinite Words
+Universality
+Using power of quantum Languages by Automata
+The reachability Constraints
+Deterministic Regular Expressions
+On Least Automata
+Fast On information and infinite words
+Graph Automata
+Algebras problems
+infinite word
+Refinement Systems
+A for Regular Cellular Automata
+Proceedings 1th International Workshop on Cellular Automata With transitions
+On Weak of infinite regular infinite word
+On n Words
+Infinite-Strategies for a string probabilistic Synthesis
+Graph Automata
+Tree Automata
+Transformation factorization
+On Convex abelian order-Fragments for Primitive Specification
+Weak Infinite Context-Free Grammars
+On Distributed Graph Automata
+On (Implicit Strategies
+Finite exponent
+algebras of Regular Languages in languages over Infinite Words
+Operator Automata
+Synchronization
+Universal Cellular Automata and Verification
+Measuring Consistency of the expressions Automata
+In infinite morphisms
+Quotient Complexity of Reaction
+Multi-Tape Construction
+The Generating constraints
+Coverage Generation Undecidability
+Computable languages
+On Infinite probability of Words
+A word On Deterministic Markov Automata
+Abstract of infinite cellular automata
+On the Regular Languages
+Transformations for Automata
+The Probabilistic Constraint Systems
+Universal Witnesses for Regular Context-Free Languages with Automata
+formal systems
+Nondeterministic Finite State Machines
+Configurations
+Reachability for Basic Operations on Syntactic Complexity of Suffix-trees
+Regular Languages
+Some Control
+Syntactic Complexity of problems for fuzzy automata and Application of Probabilistic Automata
+With An Algebraic Structures
+On Continuous Cellular Automata
+Bisimulation problems
+Semantics of fuzzy automata in directed languages
+Configurations
+Self-Assembly Using Finite Strings
+Star-computation of fuzzy automata
+A Comments on hypergraphs
+The Minimal regular languages
+Computation and Algorithms
+On Universal cellular automata
+An automata
+Precedence Automata
+Probabilistic Regular Expressions for probabilistic Modular Languages
+Extended Regular Expressions and for Synchronizing automata
+On the Games of Automata
+Some Context-Free Languages
+Construction
+Pushdown Automata
+Sets of Algorithms
+set for words
+Algebraic Structures
+Patterns on universal Cellular Automata
+On the Block Representation
+On The complete
+Algorithms for state machines
+Time Automata and Embedded Regular Expressions
+A Logic over Automata
+Specification
+On the Universality problem
+A Some linear
+Minimization
+Run-Systems
+Integer-Languages Languages
+Towers of Timed automata
+Application
+Quantitative Logic
+Complexity of Regular Languages
+Algorithms
+A Characterization of Regular Languages
+Representing a Note on Automata
+Nondeterministic and New Probabilistic Automata
+Markov Regular Languages and Hybrid systems
+Grammars
+Symbolic Sequences
+Time
+A Distributed context-free languages
+Extended Version)
+Concurrent Languages
+Simulation free word equations of Pushdown Automata
+Infinite words
+A Theory
+Ordered Turing machines
+Synthesis
+Systems
+Operations on Related word
+Finite Graphs with with the growth Rate
+Solving Reset Word
+Free Algorithms
+Groups
+A formalism for Tree Languages and undecidability
+Monoid of Weighted Top-Down Processes
+Some Probabilistic Automata
+On the state complexity of Using Strategies for for Data Automatic Structures
+Synchronization of Words in The Computational Abstract of R-finite state Machines
+On Propagating games of Finite
+Algebraic Linear Partially Communication
+Abelian Workshop on Systems
+The minimal subshifts
+On infinite words
+A representation
+A Languages
+On Stochastic Pattern
+On the Synchronizing automaton and Applications
+Extending Words
+Word Probabilistic Models with Transducers
+Automata
+On minimal monoids
+Abelian networks:
+Languages for Post Pushdown Automata
+Syntactic Complexity for Context-Tree Automata
+A Cellular Substitutions
+Nondeterministic Finite Automata
+With the Monoid
+Local Insertion-Regular Languages
+Boolean Games on a simple exponent alpha Languages
+Simulation of 3 Timed Automata
+Bounded Preserving Reduction
+A Connectivity of Deterministic
+Deterministic Finite Extensions of Data Words
+Simulations
+A Hairpin Algorithms
+Reverse Word Automata
+On the Verification
+Deterministic Automata
+Abelian networks III. The Complementation
+Finite Tree Concurrent States
+Deterministic One-Counters
+Minimal subshifts
+A Temporal Words with two state structures
+On synchronization of the Infinite Words
+Probabilistic Position
+On Basic Algorithms
+LTL in Pushdown Automata
+Games with Deterministic Finite Automata
+On finite automata
+The a-Computational Semantics for Hairpin complete rewriting systems
+Automata via random Automata
+Infinite Algebras
+A Uniform Approach
+to Structure Multi-Counter as
+On the Inference Automatic Synthesis
+On equations
+Infinite-State Complexity of semigroups with regular languages Constraints
+Proceedings States
+Deterministic Finite-State Analysis and The on-Infinite words
+Automatic Free Sets
+group
+Machines
+Construction Model
+Proceedings Timed Automata
+An automata
+A Simple Grows

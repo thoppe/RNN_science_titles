@@ -1,0 +1,446 @@
+Towards Biochemical Filter with Sigmoidal Response to pH Changes: Buffered Biocatalytic Signal Transduction
+Noise-based information processing: Noise-based logic and computing: what do we have so far?
+Artificial Immune Privileged Sites as an Enhancement to Immuno-Computing Paradigm
+Cluster quantum computer on the basis of quasi-part
+Quantum Reading of a Classical Digital Memory
+Simulating Spiking Neural P systems without delays using GPUs
+Design and experimental demonstration of a high-directive emission with optical transformations
+Self-Assembly with Geometric Tiles
+DNA Circuits Based on Isothermal Constrained Loop Extension DNA Amplification
+Trans-Canada Slimeways: Slime mould imitates the Canadian transport network
+ReveR: Software Simulator of Reversible Processor with Stack
+1st International Workshop on Distributed Evolutionary Computation in Informal Environments
+QIS-ML: An Extensible Markup Language for Quantum Information Science
+Exploratory simulation of an Intelligent Iris Verifier Distributed System
+Process Optimization and Downscaling of a Single Electron Single Dot Memory
+Sub-Nyquist Sampling: Bridging Theory and Practice
+Note on Needle in a Haystack
+The Life and Death of Unwanted Bits: Towards Proactive Waste Data Management in Digital Ecosystems
+Frequency Domain Approach for Activity Classification using Accelerometer
+Reversible Circuit Optimization via Leaving the Boolean Domain
+Next Generation High Speed Computing Using Photonic Based Technolog
+A Spatial Calculus of Wrapped Compartments
+Brane Calculi Systems: A Static Preview of their Possible Behaviour
+Synchronization of P Systems with Simplex Channels
+Generalized Communicating P Systems Working in Fair Sequential Model
+Multiscale Modelling: A Mobile Membrane Approach
+Proceedings of the th Workshop on Membrane Computing and Biologically Inspired Process Calculi (MeCBIC 2011)
+Memristor-based Synaptic Networks and Logical Operations Using In-Situ Computing
+Improving Ranking Using Quantum Probability
+Collective Adaptive Systems: Challenges Beyond Evolvability
+Vesicle computers: Approximating Voronoi diagram on Voronoi automata
+Review on Feature Selection Techniques and the Impact of SVM for Cancer Classification using Gene Expression Profile
+A Study of Computer-Based Simulations for Nano-Systems and their types
+Monitoring Breathing via Signal Strength in Wireless Networks
+Empirical study of sensor observation services server instances
+More powerful biomolecular computers
+How to build a DNA search engine like Google?
+Solving mazes with memristors: a massively-parallel approach
+Realization and Properties of Biochemical-Computing Biocatalytic OR Gate Based on Enzyme Inhibition by a Substrate
+Reducing Quantum Cost in Reversible Toffoli Circuits
+Physarum Can Compute Shortest Paths
+Non-volatile Complementary Resistive Switch-based Content Addressable Memory
+Simulation and Optimization of MQW based optical modulator for on chip optical interconnect
+Memristors can implement fuzzy logic
+Power aware physical model for 3d IC's
+A Theory of Consciousness Founded on Neurons That Behave Like Qubits
+Parallel Algorithms for DNA Probe Placement on Small Oligonucleotide Arrays
+Massively parallel computing on an organic molecular layer
+Checking Equivalence of Quantum Circuits and States
+On the CNOT-cost of TOFFOLI gates
+Semi-optimal Practicable Algorithmic Cooling
+Spectrally and Spatially Configurable Superlenses for Optoplasmonic Nanocircuits
+On Three Challenges of Artificial Living Systems and Embodied Evolution
+Beating the Landauer's limit by trading energy with uncertainty
+Robustness Analysis for Battery Supported Cyber-Physical Systems
+An Analytical Approach for Memristive Nanoarchitectures
+Logic circuits from zero forcing
+Stabilizer States as a Basis for Density Matrices
+Fuzzy cellular model for on-line traffic simulation
+Optimal Inverter VAR Control in Distribution Systems with High PV Penetration
+Temporal Psychovisual Modulation: a new paradigm of information display
+A New Full Adder Cell for Molecular Electronics
+A Novel Methodology for Thermal Aware Silicon Area Estimation for 2D 3D MPSoCs
+Cognitive Memory Network
+A Neuron Based Switch: Application to Low Power Mixed Signal Circuits
+Fast matrix multiplication techniques based on the Adleman-Lipton model
+Efficient Squares and Turing Universality at Temperature 1 with a Unique Negative Glue
+Circuit Theory for SPICE of Spintronic Integrated Circuits
+A memristive nanoparticle organic hybrid synapstor for neuro-inspired computing
+Cross-point architecture for spin transfer torque magnetic random access memory
+Informed Source Separation using Iterative Reconstruction
+Hybrid CMOS-MQCA Logic Architectures using Multi-Layer Spintronic Devices
+Thermal analysis optimization of a 3 dimensional heterogeneous structure
+Design and modelling of different SRAM's based on CNTFET 32nm technology
+Numerical computations and mathematical modelling with infinite and infinitesimal numbers
+Higher order numerical differentiation on the Infinity Computer
+Methodology of Numerical Computations with Infinities and Infinitesimals
+Secured Distributed Cognitive MAC and Complexity Reduction in Channel Estimation for the Cross Layer based Cognitive Radio Networks
+Automation of Mobile Pick and Place Robotic System for Small Food Industry
+Intra-bodyhybrid communication scheme for healthcare systems
+Robust Soldier Crab Ball Gate
+A Novel Design for Quantum-dot Cellular Automata Cells and Full Adders
+A Novel Design for Quantum-dot Cellular Automata Cells and Full Adders
+Coordinated Home Energy Management for Real-Time Power Balancing
+Optical Solver of Combinatorial Problems: Nano-Technological Approach
+A low power high bandwidth four quadrant analog multiplier in 32 nm CNFET technology
+Automating Open Fault Correction in Integrated Circuits via Field Induced Diffusion Limited Aggregation
+CDMA Based Interconnect Mechanism for SOPC
+Slime mould computes planar shapes
+Slime mould solves maze in one pass ... assisted by gradient of chemo-attractants
+Computing with Liquid Crystal Fingers: Models of geometric and logical computation
+Are motorways rational from slime mould's point of view?
+High-dimensional noise-based logical controller
+A New Architecture of a Ubiquitous Health Monitoring System: A Prototype Of Cloud Mobile Health Monitoring System
+Optoelectronic Reservoir Computing
+Teaching Memory Circuit Elements via Experiment-Based Learning
+Polariton Condensate Transistor Switch
+Proposal For Neuromorphic Hardware Using Spin Devices
+Memristor-based mono-stable oscillator
+Modular Arithmetic Expressions and Primality Testing via DNA Self-Assembly
+Automated Training and Maintenance through Kinect
+Proceedings th International Workshop on Developments of Computational Methods
+Filamentary Extension of the Mem-Con theory of Memristance and its Application to Titanium Dioxide Sol-Gel Memristors
+The Effect of Electrode Size on Memristor Properties: An Experimental and Theoretical Study
+Steering plasmodium with light: Dynamical programming of Physarum machine
+A Study of Optimal -bit Reversible Toffoli Circuits and Their Synthesis
+Operator formalism for optical neural network based on the parametrical four-wave mixing process
+A Library-Based Synthesis Methodology for Reversible Logic
+Rule-Based Optimization of Reversible Circuits
+Reversible Circuit Synthesis Using a Cycle-Based Approach
+Block-based quantum-logic synthesis
+Synthesis of Quantum Circuits for Linear Nearest Neighbor Architectures
+Analysis of Cognitive Radio Scenes Based on Non-cooperative Game Theoretical Modelling
+A Framework for Heterotic Computing
+A Survey of Delay Tolerant Networks Routing Protocols
+All Spin Nano-magnetic State Elements
+Design Simulation of 12x Interpolator Filter
+Eigenvalue Based Sensing and SNR Estimation for Cognitive Radio in Presence of Noise Correlation
+Time After Time: Notes on Delays In Spiking Neural P Systems
+Brain Computer Interface Technologies in the Coming Decades
+An Exploration on Brain Computer Interface and Its Recent Trends
+Active Tile Self-assembly Self-similar Structures and Recursion
+Proceedings th Workshop on Membrane Computing and Biologically Inspired Process Calculi
+Membrane Systems and Petri Net Synthesis
+Device Considerations for Nanophotonic CMOS Global Interconnects
+How to make dull cellular automata complex by adding memory: Rule 12 case study
+Towards Physarum Engines
+Toward Turing's A-type Unorganised Machines in an Unconventional Substrate: a Dynamic Representation in Compartmentalised Excitable Chemical Media
+Initiation of waves in B encapsulated vesicles using light - towards design of computing architectures
+On The Delays In Spiking Neural P Systems
+Coevolving Cellular Automata with Memory for Chemical Computing: Boolean Logic Gates in the B- Reaction
+Speed Optimization In Unplanned Traffic Using Bio-Inspired Computing And Population Knowledge Base
+Diametrical Mesh Of Tree (D2D-MoT) Architecture: A Novel Routing Solution For NoC
+On beta-skeleton automata with memory
+Material Targets for Scaling All Spin Logic
+Organic Memristor Devices for Logic Elements with Memory
+Evolution of Plastic Learning in Spiking Networks via Memristive Connections
+Linear Nearest Neighbor Synthesis of Reversible Circuits by Graph Partitioning
+Noise based logic: why noise? A comparative study of the necessity of randomness out of orthogonality
+Information theoretic security by the laws of classical physics
+Applications of fMRI for Brain Mapping
+Beyond electronics beyond optics: single circuit parallel computing with phonons
+Faster Quantum Number Factoring via Circuit Synthesis
+Cross-layer Optimization for Next Generation Wi-Fi
+Thinking like Archimedes with a 3D printer
+Phenomenology of retained refractoriness: On semi-memristive discrete media
+Sinusoidal analysis of memristor bridge circuit-rectifier for low frequencies
+Depth-Optimized Reversible Circuit Synthesis
+Beyond Markov Chains Towards Adaptive Memristor Network-based Music Generation
+Finite Horizon Adaptive Optimal Distributed Power Allocation for Enhanced Cognitive Radio Network in the Presence of Channel Uncertainties
+mrPUF: A Memristive Device based Physical Unclonable Function
+A Study on Spectral Efficiency of Physical Layer over Cognitive Radio
+Exploration of Recent Advances in the Field of Brain Computer Interfaces
+Pavlov's dog associative learning demonstrated on synaptic-like organic transistors
+Dynamic Power Reduction in a Novel CMOS T-SRAM for Low-Power SoC
+Quantum-inspired Huffman Coding
+Q a quantum computation package for the .NET platform
+Synthesis and Optimization of Reversible Circuits - A Survey
+Fast and efficient exact synthesis of single qubit unitaries generated by Clifford and T gates
+Reversible Logic Synthesis by Quantum Rotation Gates
+Linear-Depth Quantum Circuits for n-qubit Toffoli gates with no Ancilla
+Overview of Optical Interconnect Technology
+FreeIMU: An Open Hardware Framework for Orientation and Motion Sensing
+Computation of the Travelling Salesman Problem by a Shrinking Blob
+On Mobile DNA in Artificial Regulatory Networks: Evolving Functional and Structural Dynamism
+A 2D Nearest-Neighbor Quantum Architecture for Factoring in Polylogarithmic Depth
+Quantum circuits of T-depth one
+Memcomputing: a computing paradigm to store and process information on the same physical platform
+Exact synthesis of multiqubit Clifford T circuits
+Constant-Factor Optimization of Quantum Adders on 2D Quantum Architectures
+Self-organization and solution of shortest-path optimization problems with memristive networks
+On Creativity of Slime Mould
+Global cognitive radio based communication systems: Space-time communications
+Smart Microgrids: Overview and Outlook
+Nanoscale photonic network for solution searching and decision making problems
+An Efficient MAC Protocol with Selective Grouping and Cooperative Sensing in Cognitive Radio Networks
+Learning and Spatiotemporally Correlated Functions Mimicked in Oxide-Based Artificial Synaptic Transistors
+Quantum Circuits for GCD Computation with O(n log n) Depth and O(n) Ancillae
+Fast Equivalence-checking for Quantum Circuits
+Route 20 autobahn  and Physarum polycephalum: Approximating longest roads in USA and Germany with slime mould on 3D terrains
+Asymptotically optimal approximation of single qubit unitaries by Clifford and T circuits using a constant number of ancillary qubits
+Accurate and Robust Indoor Localization Systems using Ultra-wideband Signals
+Bio-imitaiton of Mexican migration routes to the USA with slime mould on 3D terrains
+SECA: Snapshot-based Event Detection for Checking Asynchronous Context Consistency in Ubiquitous Computing
+The Story of Telebrain: A multi-performer telematic platform for performatization
+High-performance Energy Minimization with Applications to Adiabatic Quantum Computing
+Boolean logic gate design principles in unconventional computers: an NMR case study
+A Nuclear Magnetic Resonance Implementation of a Classical Deutsch-Jozsa Algorithm
+Analysis of patent activity in the field of quantum information processing
+Enhanced secure key exchange systems based on the Johnson-noise scheme
+Slime mould tactile sensor
+DNA Pen: A Tool for Drawing on a Molecular Canvas
+Finding Numerical Solutions of Diophantine Equations using Ant Colony Optimization
+A Single Universal n-bit Gate for Reversible Circuit Synthesis
+A Quantum Physical Design Flow Using ILP and Graph Drawing
+Slimy hairs: Hair sensors made with slime mould
+Synthesis of unitaries with Clifford T circuits
+Fault-tolerant Operations for Universal Blind Quantum Computation
+A Space-Efficient Design for Reversible Floating Point Adder in Quantum Computing
+A temporal logic approach to modular design of synthetic biological circuits
+RFID Technology Based Attendance Management System
+Quipper: A Scalable Quantum Programming Language
+Planning of Cellular Networks Enhanced by Energy Harvesting
+An Introduction to Quantum Programming in Quipper
+Stochastic Memristive Devices for Computing and Neuromorphic Applications
+DNA Reservoir Computing: A Novel Molecular Computing Approach
+Algorithms for Producing Linear Dilution Gradient with Digital Microfluidics
+Extracting the trustworthiest way to service provider in complex online social networks
+Design of Parity Preserving Logic Based Fault Tolerant Reversible Arithmetic Logic Unit
+Human Brain Mapping based on COLD Signal Hemodynamic Response and Electrical Neuroimaging
+Memcapacitive neural networks
+Efficient Inner-product Algorithm for Stabilizer States
+Spintronic Switches for Ultra Low Energy On-Chip and Inter-Chip Current-Mode Interconnects
+Ultra Low Power Associative Computing with Spin Neurons and Resistive Crossbar Memory
+Resistive Threshold Logic
+Designing Parity Preserving Reversible Circuits
+Opportunistic Spectrum Sensing and Transmissions
+Exploring Boolean and Non-Boolean Computing Applications of Spin Torque Devices
+Ultra-low Energy High Performance and Programmable Magnetic Threshold Logic
+Ultra-low Energy High-Performance Dynamic Resistive Threshold Logic
+Delay Optimal Scheduling for Energy Harvesting Based Communications
+Artificial Immune Systems (INTROS 2)
+Securing Cognitive Radio Networks against Primary User Emulation Attacks
+Intrinsic universality and the computational power of self-assembly
+On the Equivalence of Cellular Automata and the Tile Assembly Model
+Clarification on the Mapping of Reversible Circuits to the NCV-v1 Library
+Nano-scale reservoir computing
+Spin Neurons: A Possible Path to Energy-Efficient Neuromorphic Computers
+Physarum wires: Self-growing self-repairing smart wires made from slime mould
+Thermally induced error: density limit for magnetic data storage
+A State Distillation Protocol to Implement Arbitrary Single-qubit Rotations
+Efficient Maority-Logic Decoding of Short-Length Reed--Muller Codes at Information Positions
+On quantum circuits employing roots of the Pauli matrices
+Towards Gigayear Storage Using a Silicon-Nitride Tungsten Based Medium
+An Improved Maority-Logic Decoder Offering Massively Parallel Decoding for Real-Time Control in Embedded Systems
+Digital Circuits Implementation On Rpga Simulator
+On the internalisation intraplasmodial carriage and excretion of metallic nanoparticles in the slime mould Physarum polycephalum
+Generators and relations for n-qubit Clifford operators
+Asynchronous Signal Passing for Tile Self-Assembly: Fuel Efficient Computation and Efficient Assembly of Shapes
+A meet-in-the-middle algorithm for fast synthesis of depth-optimal quantum circuits
+All-optical Reservoir Computing
+Analog readout for optical reservoir computers
+Optimization of Clifford Circuits
+A quantum circuit to find discrete logarithms on ordinary binary elliptic curves in depth O(log 2 n)
+Spin polarized induction of quantum correlations-entanglement using a 2 MeV proton beam channeling
+Towards Hybrid Artificial-Slime Mould Devices
+A traffic model based on fuzzy cellular automata
+Channel and Noise Models for Nonlinear Molecular Communication Systems
+Toward bio-inspired information processing with networks of nano-scale switching elements
+Quantum binary field inversion: improved circuit depth via choice of basis representation
+Efficient quantum circuits for binary elliptic curve arithmetic: reducing T-gate complexity
+Errors and their mitigation at the Kirchhoff-law-Johnson-noise secure key exchange
+Signal Transmission Across Tile Assemblies: 3D Static Tiles Simulate Active Self-Assembly by 2D Signal-Passing Tiles
+Geospatial Narratives and their Spatio-Temporal Dynamics: Commonsense Reasoning for High-level Analyses in Geographic Information Systems
+Energy Efficient Spectrum Sensing and Handoff Strategies in Cognitive Radio Networks
+Times in noise-based logic: increased dimensions of logic hyperspace
+Fully Automatic Liquid Metal Printer towards Personal Electronics Manufacture
+Routing of Physarum polycephalum signals using simple chemicals
+Towards slime mould colour sensor: Recognition of colours by Physarum polycephalum
+Towards slime mould chemical sensor: Mapping chemical inputs onto electrical potential dynamics of Physarum Polycephalum
+Which Memristor Theory is Best for Relating Devices Properties to Memristive Function?
+Decomposition and Gluing for Adiabatic Quantum Optimization
+Remarks on Matsumoto and Amano's normal form for single-qubit Clifford T operators
+Design of Reversible Random Access Memory
+A Novel Approach for Designing Online Testable Reversible Circuits
+Improving Receiver Performance of Diffusive Molecular Communication with Enzymes
+Resilience in Numerical Methods: A Position on Fault Models and Methodologies
+Effect of ISI Mitigation on Modulation Techniques in Communication via Diffusion
+Towards plant wires
+Energy Harvesting in M2M and WSN Space
+Performance Analysis of Spin Transfer Torque Random Access Memory with cross shaped free layer using Heusler Alloys by using micromagnetic studies
+Design and Construction of a Brain-Like Computer: A New Class of Frequency-Fractal Computing Using Wireless Communication in a Supramolecular Organic Inorganic System
+Path Selection for Quantum Repeater Networks
+Current and voltage based bit errors and their combined mitigation for the Kirchhoff-law-Johnson-noise secure key exchange
+Design of an Amplifier through Second Generation Current Conveyor
+Hierarchical Temporal Memory Based on Spin-Neurons and Resistive Memory for Energy-Efficient Brain-Inspired Computing
+Design of a Hybrid Robot Control System using Memristor-Model and Ant-Inspired Based Information Transfer Protocols
+Does the D.C. Response of Memristors Allow Robotic Short-Term Memory and a Possible Route to Artificial Time Perception?
+The Short-term Memory (D.C. Response) of the Memristor Demonstrates the Causes of the Memristor Frequency Effect
+Connecting Spiking Neurons to a Spiking Memristor Network Changes the Memristor Dynamics
+Is Spiking Logic the Route to Memristor-Based Computers?
+Boolean Logic Gates From A Single Memristor Via Low-Level Sequential Logic
+LIQUi : A Software Design Architecture and Domain-Specific Language for Quantum Computing
+Emergent Spiking in Non-Ideal Memristor Networks
+Practical approximation of single-qubit unitaries by single-qubit quantum Clifford and T circuits
+Integration of nanoscale memristor synapses in neuromorphic computing architectures
+Table-Top Molecular Communication: Text Messages Through Chemical Signals
+The Power of Duples (in Self-Assembly): It's Not So Hip To Be Square
+Optimal ancilla-free Clifford T approximation of z-rotations
+Doubles and Negatives are Positive (in Self-Assembly)
+Towards slime mould electrical logic gates with optical coupling
+Sensory fusion in Physarum polycephalum and implementing multi-sensory functional computation
+Neuromorphic electronic circuits for building autonomous cognitive systems
+A Molecular Communication Link for Monitoring in Confined Environments
+Slime mould electronic oscillators
+Molecular Communication Systems Design for Future City
+Asymptotically Optimal Topological Quantum Compiling
+Realization of Morphing Logic Gates in a Repressilator with Quorum Sensing Feedback
+Performance of Macro-Scale Molecular Communications with Sensor Cleanse Time
+Metal-Gated Junctionless Nanowire Transistors
+Skybridge: 3-D Integrated Circuit Technology Alternative to CMOS
+Nanowire Volatile RAM as an Alternative to SRAM
+3D Vertical Dual-Layer Oxide Memristive Devices for Neuromorphic Computing
+Transmit Pulse Shaping for Molecular Communications
+Uniform and Piece-wise Uniform Fields in Memristor Models
+A Compressive Multi-Mode Superresolution Display
+Reflections on Tiles (in Self-Assembly)
+Size-Separable Tile Self-Assembly: A Tight Bound for Temperature-1 Mismatch-Free Systems
+Movers and Shakers: Kinetic Energy Harvesting for the Internet of Things
+DNACloud: A Potential Tool for storing Big Data on DNA
+Reservoir Computing Approach to Robust Computation using Unreliable Nanoscale Networks
+Analysis of S Band Substrate Integrated Waveguide Power Divider Circulator and Coupler
+3DNA: A Tool for DNA Sculpting
+Ancilla-Quantum Cost Trade-off during Reversible Logic Synthesis using Exclusive Sum-of-Products
+Decomposition of Diagonal Hermitian Quantum Gates Using Multiple-Controlled Pauli  Gates
+Complexity Analysis of Reversible Logic Synthesis
+Fundamental Tensor Operations for Large-Scale Data Analysis in Tensor Train Formats
+Slime Mould Logic Gates Based on Frequency Changes of Electrical Potential Oscillation
+Designing Complex Dynamics in Cellular Automata with Memory
+Out Performance Of Cuckoo Search Algorithm Among Nature Inspired Algorithms in Planar Antenna Arrays
+Analog input layer for optical reservoir computers
+A Model for Variation- and Fault-Tolerant Digital Logic using Self-Assembled Nanowire Architectures
+Channel Modeling of Human Somatosensory Nanonetwork: Body Discriminative Touch and Proprioception Perspective
+Degenerate Resistive Switching and Ultrahigh Density Storage in Resistive Memory
+TCP-like molecular communications
+Mobile Computing in Digital Ecosystems: Design Issues and Challenges
+Dynamic Computing Random Access Memory
+When does a physical system compute?
+ermelo Navigation and a Speed Limit to Quantum Information Processing
+A Cost Minimization Approach to Synthesis of Linear Reversible Circuits
+Development of Tool for Mapping Conventional Circuit to Reversible Logic
+Compressed EEG Acquisition with Limited Channels using Estimated Signal Correlation
+A Compact Model of Silicon-Based Nanowire Field Effect Transistor for Circuit Simulation and Design
+Photonic spike processing: ultrafast laser neurons and an integrated photonic network
+Optical modular arithmetic
+Quantum Cost Optimization for Reversible Sequential Circuit
+Efficient Design of Reversible Sequential Circuit
+Practical intractability: a critique of the hypercomputation movement
+Reconstruction of gene regulatory network of colon cancer using information theoretic approach
+Quantum Computing's Classical Problem Classical Computing's Quantum Problem
+Full-Duplex Transceiver System Calculations: Analysis of ADC and Linearity Challenges
+Era of Big Data Processing: A New Approach via Tensor Networks and Tensor Decompositions
+On the cracking scheme in the paper A directional coupler attack against the Kish key distribution system by Gunn Allison and Abbott
+A framework for reversible circuit complexity
+RTI Goes Wild: Radio Tomographic Imaging for Outdoor People Detection and Localization
+The expressive power of quantum walks in terms of language acceptance
+Applying Spiking Neural Nets to Noise Shaping
+Gabor-like Image Filtering using a Neural Microcircuit
+Integration Testing of Heterotic Systems
+Cortical Processing with Thermodynamic-RAM
+Universal Computation with Arbitrary Polyomino Tiles in Non-Cooperative Self-Assembly
+Embedding of Large Boolean Functions for Reversible Logic
+Actin automata: Phenomenology and localizations
+Ancilla-free synthesis of large reversible functions using binary decision diagrams
+Facts myths and fights about the KLJN classical physical key exchanger
+Bird's-eye view on Noise-Based Logic
+Brain: Biological noise-based logic
+The exact synthesis of 1- and 2-qubit Clifford T circuits
+Memcomputing and Swarm Intelligence
+Efficient synthesis of universal Repeat-Until-Success circuits
+Parallel computation using active self-assembly
+Elimination of a Second-Law-attack and all cable-resistance-based attacks in the Kirchhoff-law-Johnson-noise (KLJN) secure key exchange system
+Limits on the performance of Infotaxis under inaccurate modelling of the environment
+Perceptrons with Hebbian learning based on wave ensembles in plastic potentials
+DNA Human Memory and the Storage Technology of the 21st Century
+OTA based 200 G Omega resistance on 00 mu m2 in 10 nm CMOS for neuromorphic applications
+Efficient synthesis of probabilistic quantum circuits with fallback
+Advances in Macromolecular Data Storage
+Optimal ancilla-free Pauli V approximation of z-rotations
+Applicability of Well-Established Memristive Models for Simulations of Resistive Switching Devices
+Design and Analysis of Wireless Communication Systems Using Diffusion-Based Molecular Communication Among Bacteria
+Relaying in Diffusion-Based Molecular Communication
+Spin Orbit Torque Based Electronic Neuron
+Memristive Threshold Logic Circuit Design of Fast Moving Obect Detection
+A Complementary Resistive Switch-based Crossbar Array Adder
+Algorithm engineering for a quantum annealing platform
+Laser Induced Magnetization Reversal for Detection in Optical Interconnects
+Memcomputing with membrane memcapacitive systems
+A Comprehensive Survey of Recent Advancements in Molecular Communication
+Redesigning Commercial Floating-Gate Memory for Analog Computing Applications
+Arrival Modeling and Error Analysis for Molecular Communication via Diffusion with Drift
+Effect of Degradation in Molecular Communication: Impairment or Enhancement?
+ISI Mitigation Techniques in Molecular Communication
+Optimal Power and Rate Allocation in the Degraded Gaussian Relay Channel with Energy Harvesting Nodes
+Polynomial-time T-depth Optimization of Clifford T circuits via Matroid Partitioning
+Slime Mould Memristors
+Design and Synthesis of Ultra Low Energy Spin-Memristor Threshold Logic
+A fractal approach to the dark silicon problem: a comparison of 3D computer architectures -- standard slices versus fractal Menger sponge geometry
+Introduction to RIMEP2: A Multi-Expression Programming System for the Design of Reversible Digital Circuits
+Verifying Chemical Reaction Network Implementations: A Pathway Decomposition Approach
+Logic gates and complex dynamics in a hexagonal cellular automaton: the Spiral rule
+More Tight Bounds for Active Self-Assembly Using an Insertion Primitive
+Optimal program-size complexity for self-assembly at temperature 1 in 3D
+Spin Wave Neuroanalog of von Neumann's Microwave Computer
+Infinite Obect Coating in the Amoebot Model
+On Timing Synchronization for Quantity-based Modulation in Additive Inverse Gaussian Channel with Drift
+Performance Analysis for Energy Harvesting Communication Protocols with Fixed Rate Transmission
+Enhanced Modulation Technique for Molecular Communication: OOMoSK
+Power Allocation in the Energy Harvesting Full-Duplex Gaussian Relay Channels
+Social Behavior in Bacterial Nanonetworks: Challenges and Opportunities
+Can we build a conscious machine?
+Threshold Logic Computing: Memristive-CMOS Circuits for Fast Fourier Transform and Vedic Multiplication
+Liquid State Machine with Dendritically Enhanced Readout for Low-power Neuromorphic VLSI Implementations
+Effect of Receptor Density and Size on Signal Reception in Molecular Communication via Diffusion with an Absorbing Receiver
+Physarum Chip: Developments in growing computers from slime mould
+Constant-Optimized Quantum Circuits for Modular Multiplication and Exponentiation
+On the security of the Kirchhoff-law-Johnson-noise (KLJN) communicator
+Readout Optical System of Sapphire Disks intended for Long-Term Data Storage
+Low-distance Surface Codes under Realistic Quantum Noise
+Boolean Computation Using Self-Sustaining Nonlinear Oscillators
+Neuromimetic Circuits with Synaptic Devices based on Strongly Correlated Electron Systems
+Memcomputing NP-complete problems in polynomial time using polynomial resources and collective states
+Training and Operation of an Integrated Neuromorphic Network Based on Metal-Oxide Memristors
+Quipper: Concrete Resource Estimation in Quantum Algorithms
+A review of Memcomputing NP-complete problems in polynomial time using polynomial resources (ariv:111.)
+Asymptotic bounds of the gate complexity for the reversible circuit consisting of NOT CNOT and 2-CNOT gates
+A Biological-Realtime Neuromorphic System in 2 nm CMOS using Low-Leakage Switched Capacitor Circuits
+Switched-Capacitor Realization of Presynaptic Short-Term-Plasticity and Stop-Learning Synapses in 2 nm CMOS
+Multi-Scale Stochastic Simulation for Diffusive Molecular Communication
+Nano-artifact metrics based on random collapse of resist
+Spin-Orbit Torque Induced Spike-Timing Dependent Plasticity
+Search Methods for Tile Sets in Patterned DNA Self-Assembly
+Carbon Nanotube Based Delay Model For High Speed Energy Efficient on Chip Data Transmission Using: Current Mode Technique
+Minimizing the Latency of Quantum Circuits during Mapping to the Ion-Trap Circuit Fabric
+Squash: A Scalable Quantum Mapper Considering Ancilla Sharing
+QPEL: Quantum Program and Effect Language
+Maze Solving Automatons for Self-Healing of Open Interconnects: Modular Add-on for Circuit Boards
+STT-SNN: A Spin-Transfer-Torque Based Soft-Limiting Non-Linear Neuron for Low-Power Artificial Neural Networks
+Fault Tolerant Synthesis of Reversible Circuits
+Limits on Fundamental Limits to Computation
+On the physical and circuit-theoretic significance of the Memristor
+Synthesis of Sequential Reversible Circuits through Finite State Machine
+A New Gate for Optimal Fault Tolerant Testable Reversible Sequential Circuit Design
+Optimized Implementation of Memristor-Based Full Adder by Material Implication Logic
+LEQA: Latency Estimation for a Quantum Algorithm Mapped to a Quantum Circuit Fabric
+Design of a Universal Logic Block for Fault-Tolerant Realization of any Logic Operation in Trapped-Ion Quantum Circuits
+Asymptotic bounds of depth for the reversible circuit consisting of NOT CNOT and 2-CNOT gates
+Whole Genome Sequencing: Innovation Dream or Privacy Nightmare?
+Universal Memcomputing Machines
+A Stochastic Model for Electron Transfer in Bacterial Cables
+Reservoir computing with a single time-delay autonomous Boolean node
+High performance photonic reservoir computer based on a coherently driven passive cavity
+0 GHz MAC Standardization: Progress and Way Forward
+A 0.02 mm 2 programmable biphasic stimulator for cochlear implants suitable for a large number of channels
+Computing Real Numbers using DNA Self-Assembly
+Self-Inverse Functions and Palindromic Circuits

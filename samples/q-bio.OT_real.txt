@@ -1,0 +1,563 @@
+Symmetries by base substitutions in the genetic code predict 2' or 3' aminoacylation of tRNAs
+Evolving inductive generalization via genetic self-assembly
+Dimensionality and dynamics in the behavior of C elegans
+Swimming with a friend at low Reynolds number
+Icosahedral packing of RNA viral genomes
+Topological Origin of the Phase Transition in a Model of DNA Denaturation
+Pore dynamics of osmotically stressed vesicles
+Active transport: A kinetic description based on thermodynamic grounds
+Renewal processes and fluctuation analysis of molecular motor stepping
+Dielectrophoresis of nanoscale dsDNA and humidity effects on its electrical conductivity
+Epidemic variability in complex networks
+Complex noise in diffusion-limited reactions of replicating and competing species
+Reaction-diffusion processes and metapopulation models in heterogeneous networks
+Phase Disorder Effects in a Cellular Automaton Model of Epidemic Propagation
+Global Stabilization of a Class of Partially Known Positive Systems
+Modeling Endogenous Social Networks: the Example of Emergence and Stability of Cooperation without Refusal
+Fractional Generalization of Gradient Systems
+Re-examination of the 3 -law of Metabolism
+A Historical Perspective on Cancer
+Kinetic model of DNA replication in eukaryotic organisms
+On the Compatibility Between Physics and Intelligent Organisms
+Comment on Swarming Ring Patterns in Bacterial Colonies Exposed to Ultraviolet Radiation
+Autoregulation of the total number of cells in culture
+On physical nature of radiation regulating quantity of cells in population
+Role of Polymer Loops in DNA Replication
+Fluctuations in type IV pilus retraction
+SIR dynamics in structured populations with heterogeneous connectivity
+Abrupt structural transitions involving functionally optimal networks
+Quantum noise entanglement and chaos in the quantum field theory of mind brain states
+Why humans die -- an unsolved biological problem
+Mathematical models of haploinsufficiency
+From the Termite Mound to the Stars: Meditations on Discussions With Ilya Prigogine
+Results and Limitations of the Soliton Theory of DNA Transcription
+Galilean Satellites as Sites for Incipient Life and the Earth as its Shelter
+Correction algorithm for finite sample statistics
+Projective geometry for human motion with an application to injury risk
+Phase synchronization in cerebral hemodynamics
+Complex Systems Analysis of Cell Cycling Models in Carcinogenesis
+Applications of Novel Techniques to Health Foods Medical and Agricultural Biotechnology
+The effect of biodiversity on the Hantavirus epizootic
+The role of M cells and the long QT syndrome in cardiac arrhythmias: simulation studies of reentrant excitations using a detailed electrophysiological model
+Mathematics Biology and Physics: Interactions and Interdependence
+Design Principle of Gene Expression Used by Human Stem Cells Implication for Pluripotency
+The dissipative brain
+Human and computer learning: An experimental study
+A simple derivation of the Gompertz law for human mortality
+Mutation model for oligonucleotides fitting a ule distribution
+Robust formation of morphogen gradients
+Power-law scaling in dimension-to-biomass relationship of fish schools
+The Effects of EGF-Receptor Density on Multiscale Tumor Growth Patterns
+Dissociation in a polymerization model of homochirality
+Morphogen Gradient from a Noisy Source
+SARS oubreaks in Ontario Hong Kong and Singapore: the role of diagnosis and isolation as a control mechanism
+The Basic Reproductive Number of Ebola and the Effects of Public Health Measures: The Cases of Congo and Uganda
+Role-similarity based functional prediction in networked systems: Application to the yeast proteome
+Non-Maxwellian velocity distribution and anomalous diffusion of it in vitro kidney cells
+Long-term evolution of an ecosystem with spontaneous periodicity of mass extinctions
+Nucleation and the transition state of the SH3 domain
+Discretization of Time Series Data
+Hydromechanical considerations on the evolution and diversification of the echinoderm bauplans
+Hydromechanical considerations on the origin of the pentaradial body structure of echinoderms
+The effect of travel restrictions on the spread of a highly contagious disease in Sweden
+Modeling the dynamics of natural rotifer populations: phase-parametric analysis
+Min-protein oscillations in Escherichia coli with spontaneous formation of two-stranded filaments in a three-dimensional stochastic reaction-diffusion model
+Mutation model for nucleotide sequences based on crystal basis
+Statistical model selection methods applied to biological networks
+Towards a Quantitative Metabolic Theory for Mammalian Sleep
+Nonlinear brain dynamics and many-body field dynamics
+Dynamics of Heterogeneous Populations and Communities and Evolution of Distributions
+Prediction and predictability of global epidemics: the role of the airline transportation network
+Connectivity and expression in protein networks: Proteins in a complex are uniformly expressed
+Reading Sequences of Interspike Intervals in Biological Neural Circuits
+The Tangled nature model with inheritance and constraint: Evolutionary ecology restricted by a conserved resource
+Impact of Climate Change on Forests in India
+Evolution as context-driven actualization of potential: Toward an interdisciplinary theory of change of state
+Finding the center reliably: robust patterns of developmental gene expression
+Diffusion and Home Range Parameters from Rodent Population Measurements in Panama
+Theory of Home Range Estimation from Mark-Recapture Measurements of Animal Populations
+Functional alignment of regulatory networks: A study of temperate phages
+Efficiency Robustness and Stochasticity of Gene Regulatory Networks in Systems Biology: lambda Switch as a Working Example
+Modeling stochastic gene expression under repression
+Egocentric Path Integration Models and their Application to Desert Arthropods
+The WHO surveillance threshold and the emergence of drug-resistant HIV strains in Botswana
+Ambiguous model learning made unambiguous with 1 f priors
+Perceptions of Complex Systems Are Governed by Power Laws
+Mechanochemical coupling of kinesin studied with the neck linker swing model
+Straub tail the deprivation effect and addiction to aggression
+Mining Mass Spectra: Metric Embeddings and Fast Near Neighbor Search
+Mathematical Model of HIV superinfection dynamics and R to  switch
+Ecosystems in the Mind: Fuzzy Cognitive Maps of the Kizilirmak Delta Wetlands in Turkey
+Shorelines of islands of tractability: Algorithms for parsimony and minimum perfect phylogeny haplotyping problems
+Thriving at high hydrostatic pressure: the example of ammonoids (extinct cephalopods)
+Bifurcations of self-similar solutions of the Fokker-Plank Equation
+Estimating the Number of Essential Genes in Random Transposon Mutagenesis Libraries
+Cicada's wings as determinant factor for the sound emission: The case of textit Quesada gigas
+Morphogen Transport in Epithelia
+Using graph concepts to understand the organization of complex systems
+Asterias: a parallelized web-based suite for the analysis of expression and aCGH data
+Genetic Code as a Harmonic System
+The Factors of the Classification of Protein Amino Acids
+Quantum Effects and Genetics Code: Dynamics and Information Transfer in DNA Replication
+Exploring the assortativity-clustering space of a network's degree sequence
+Genetic Code: A New Understanding of Codon - Amino Acid Assignment
+Compression stress in opposite wood of angiosperms: observations in chestnut mani and poplar
+An axiomatic theory for interaction between species in ecology: Gause's exclusion conjecture
+Gene expression from polynomial dynamics in the 2-adic information space
+A number theoretical observation about the degeneracy of the genetic code
+Cognitive Maps of Complex Systems Show Hierarchical Structure and Scale-Free Properties
+Lotka-Volterra population model of genetic evolution
+Noise Correlation Induced Synchronization in a Mutualism Ecosystem
+Modeling the Worldwide Spread of Pandemic Influenza: Baseline Case and Containment Interventions
+A quantum-theoretical approach to the phenomenon of directed mutations in bacteria
+Topological coding in hippocampus
+Positive Feedback Stochasticity and Genetic Competence
+The G-Ball a New Icon for Codon Symmetry and the Genetic Code
+Criteria for quantum coherent transfer of excitons between chromophores in a polar solvent
+Quantum dissipation and neural net dynamics
+A successive sub-grouping method for multiple sequence alignments analysis
+The Light Quanta Modulated Physiological Response of Brassica uncea Seedlings Subjected to Ni(II) Stress
+On the Gompertzian dynamics of growth and self-organization
+On the Classification Scheme for Phenomenological Universalities in Growth Problems in Physics and Other Sciences
+Elasticities and stabilities: lipid membranes vs cell membranes
+Infected surfaces of vehicles as possible way of people's infection by bird flu pathogenic culture
+Non-coding DNA programs express adaptation and its universal law
+Partition test and sexual motivation in male mice
+Darwinian Dynamics Implies Developmental Ascendency
+A model for exploring bird morphology
+Tight-binding modeling of charge migration in DNA devices
+Borges Dilemma Fundamental Laws and Systems Biology
+Effect of THz-radiation on Behavior of Male Mice
+Complexity Collective Effects and Modelling of Ecosystems: formation function and stability
+Newton-type Methods for REML Estimation in Genetic Analysis of Quantitative Traits
+The contact network of patients in a regional healthcare system
+Frequency and phase synchronization of two coupled neurons with channel noise
+Risk perception in epidemic modeling
+Nucleosome shape dictates chromatin-fiber structure
+Fractal scale-invariant and nonlinear properties of cardiac dynamics remain stable with advanced age: A new mechanistic picture of cardiac control in healthy elderly
+Constructing Bio-molecular Databases on a DNA-based Computer
+Information retrieval from a phoneme time series database
+Simulating Genomes and Populations in the Mutation Space: An example with the evolution of HIV drug resistance
+Size-independent differences between the mean of discrete stochastic systems and the corresponding continuous deterministic systems
+Study Of Spatial Biological Systems Using a Graphical User Interface
+Biological Organization and Negative Entropy: Based on Schroedinger's reflections
+Predictability and epidemic pathways in global outbreaks of infectious diseases: the SARS case study
+Towards an unifying perspective of the fundamental properties and structural principles governing the immune system
+Within-host HIV models with periodic antiretroviral therapy
+Efficient Implementation of the AI-REML Iteration for Variance Component QTL Analysis
+Nemo: a computational tool for analyzing nematode locomotion
+A microstructurally informed model for the mechanical response of three-dimensional actin networks
+Vortices in brain waves
+Nucleotide Frequencies in Human Genome and Fibonacci Numbers
+Run and tumble chemotaxis in a shear flow: the effect of temporal comparisons and other complications
+Dynamic origin of species
+Resonance and frequency-locking phenomena in spatially extended phytoplankton-zooplankton system with additive noise and periodic forces
+Influence of experimental context on the development of anhedonia in male mice imposed to chronic social stress
+New method for the study of psychotropic drug effects under simulated clinical conditions
+The immune system: look who's talking
+Prey-predator modeling of CO2 atmospheric concentration
+Matrix genetics part 2: the degeneracy of the genetic code and the octave algebra with two quasi-real units (the genetic octave in-ang-algebra)
+Analytical Equations to the Chromaticity Cone: Algebraic Methods for Describing Color
+Anapedesis: Implications and Applications of Bio-Structural Robustness
+Phase Transitions Chaos and oint Action in the Life Space Foam
+Reverse Engineering of Proteasomal Translocation Rates
+Human-Robot Biodynamics
+Failure of antibiotic treatment in microbial populations
+Unifying Theories of Molecular Community and Network Evolution
+Statistical Mechanics of Interacting Run-and-Tumble Bacteria
+Iron Behaving Badly: Inappropriate Iron Chelation as a Major Contributor to the Aetiology of Vascular and Other Progressive Inflammatory and Degenerative Diseases
+Wobbling of What?
+The genetic code multiplet structure in one number
+Nontrivial quantum effects in biology: A skeptical physicists' view
+Bias in the journal impact factor
+Comparing bird and human soaring strategies
+Hierarchies of Biocomplexity: modeling lifes energetic complexity
+Existence of biological uncertainty principle implies that we can never find 'THE' measure for biological complexity
+The genetic code degeneracy and the amino acids chemical composition are connected
+Sparse Approximation of Computational Time Reversal Imaging
+On Pattern and Evolution
+Coherent states fractals and brain waves
+Leaf litter decomposition -- Estimates of global variability based on asso0 model
+Vaccination against rubella: Analysis of the temporal evolution of the age-dependent force of infection and the effects of different contact patterns
+Mechanics of Reversible Unzipping
+Rapid emergence of co-colonization with community-acquired and hospital-acquired methicillin-resistant Staphylococcus aureus strains in the hospital setting
+Persistence extinction and spatio-temporal synchronization of SIRS cellular automata models
+Towards a Post Reductionist Science: The Open Universe
+A Molecular Mass Gradient is the Key Parameter of the Genetc Code Organization
+The structure of human olfactory space
+Tree diameter height and stocking in even-aged forests
+A taylor-made arithmetic model of the genetic code and applications
+Reasons underlying certain tendencies in the data on the frequency of codon usage
+A Unified Theory on Construction and Evolution of the Genetic Code
+Developing a Theoretical Framework for Optofluidic Device Designing for System Identification in Systems Biology: the EGFR Study Case
+Cellular Automata Model of Macroevolution
+Multiple positive steady states in subnetworks defined by stoichiometric generators
+Mathematical Models of Bipolar Disorder
+east Protein Interactome Topology Provides Framework for Coordinated-Functionality
+Dynamical Structure Functions for the Estimation of LTI Networks with Limited Information
+Non-neutral theory of biodiversity
+On (Schr oedinger's) quest for new physics for life
+A Hybrid Agent Based and Differential Equation Model of Body Size Effects on Pathogen Replication and Immune System Response
+Scaling and Intermittency in Animal Behavior
+Small world effect in an epidemiological model
+Evolutionary games on minimally structured populations
+On Gene Duplication Models for Evolving Regulatory Networks
+Relationship between cellular response and behavioral variability in bacterial chemotaxis
+Spreading of sexually transmitted diseases in heterosexual populations
+Mutual information in random Boolean models of regulatory networks
+Imposition of Different Optimizing Object with Non-Linear Constraints on Flux Sampling and Elimination of Free Futile Pathways
+The prisoners dilemma on a stochastic non-growth network evolution model
+Spatiotemporal Noise Triggering Infiltrative Tumor Growth under Immune Surveillance
+Bifurcation analysis of a normal form for excitable media: Are stable dynamical alternans on a ring possible?
+Synchronization of oscillators coupled through an environment
+The genetic code Via Godel encoding
+Dynamics and Steady States in excitable mobile agent systems
+Probing the Mechanisms of Fibril Formation Using Lattice Models
+Fluorescent nanodiamonds for FRET-based monitoring of a single biological nanomotor FoF1-ATP synthase
+Coherent and Noncoherent Photonic Communications in Biological Systems
+Scaling of human body mass with height: the Body Mass Index revisited
+Differential Operator in Seizure Detection
+Accelerating the pace of discovery by changing the peer review algorithm
+Biological Computing Fundamentals and Futures
+Genetic Code and Number Theory
+Electrostatic correlations: from Plasma to Biology
+Disease Spreading in Structured Scale-Free Networks
+Viral self-assembly as a thermodynamic process
+Epidemic Incidence in Correlated Complex Networks
+Introduction to Statistical Physics outside Physics
+Dictionary based methods for information extraction
+Fitness for Synchronization of Network Motifs
+Core percolation and onset of complexity in Boolean networks
+Complex networks generated by the Penna bit-string model: Emergence of small-world and assortative mixing
+Single-molecule experiments in biological physics: methods and applications
+Measuring the energy landscape roughness and the transition state location of biomolecules using single molecule mechanical unfolding experiments
+Universality in Complex Networks: Random Matrix Analysis
+Modeling oscillatory Microtubule--Polymerization
+Folding Trp-cage to NMR resolution native structure using a coarse-grained model
+Lattice gas cellular automata model for rippling and aggregation in myxobacteria
+The Importance of DNA Repair in Tumor Suppression
+Fluctuations of Complex Networks: Electrical Properties of Single Protein Nanodevices
+Quantum Brain: A Recurrent Quantum Neural Network Model to Describe Eye Tracking of Moving Targets
+Vaccination pattern affects immunological response
+1 f Scaling in Heart Rate Requires Antagonistic Autonomic Control
+Graded and Binary Responses in Stochastic Gene Expression
+Noise Characteristics of Feed Forward Loops
+Emergence of Complex Dynamics in a Simple Model of Signaling Networks
+On the Genealogy of Populations: Trees Branches and Offsprings
+Dynamics of conduction blocks in a model of paced cardiac tissue
+Modelization of Thermal Fluctuations in G Protein-Coupled Receptors
+A minimal stochastic model for influenza evolution
+A core genetic module : the Mixed Feedback Loop
+Spiky oscillations in NF-kB signalling
+Gene Copy Number and Cell Cycle Arrest
+Expression profiles of acute lymphoblastic and myeloblastic leukemias with ALL-1 rearrangements
+On the discrete Peyrard-Bishop model of DNA: stationary solutions and stability
+Nonlinear brain dynamics as macroscopic manifestation of underlying many-body field dynamics
+Pure multiplicative stochastic resonance of anti-tumor model with seasonal modulability
+Thermodynamic behavior of a phase transition in a model for sympatric speciation
+Use of the Metropolis algorithm to simulate the dynamics of protein chains
+Mitochondrial Dna Replacement Versus Nuclear Dna Persistence
+Short-time dynamics of polypeptides
+Quantum noise induced entanglement and chaos in the dissipative quantum model of brain
+A Quantum Approach to Classical Statistical Mechanics
+Data management in systems biology I - Overview and bibliography
+VirusPKT: A Search Tool For Assimilating Assorted Acquaintance For Viruses
+Data management in Systems biology II - Outlook towards the semantic web
+Road planning with slime mould: If Physarum built motorways it would route M M through Newcastle
+Integration of a Phosphatase Cascade with the MAP Kinase Pathway provides for a Novel Signal Processing Function
+Control and ultrasonic actuation of a gas-liquid interface in a microfluidic chip
+Optimization of Production Protocol of Alkaline Protease by Streptomyces pulvereceus
+The shade avoidance syndrome: a non-markovian stochastic growth model
+Drug absorption through a cell monolayer: a theoretical work on a non-linear three-compartment model
+A new simulation-based model for calculating post-mortem intervals using developmental data for Lucilia sericata (Dipt: Calliphoridae)
+The genome is software and evolution is a software developer
+Semi-Circular Canals Anomalies Idiopathic Scoliosis
+A stem-cell ageing hypothesis on the origin of Parkinson's disease
+Active Matter
+Attractor and Basin Entropies of Random Boolean Networks Under Asynchronous Stochastic Update
+How Interactions Control Molecular Transport in Channels
+Equations of Motion that Recognize Biochemical Patterns
+The large core limit of spiral waves in excitable media: A numerical approach
+Induction level determines signature of gene expression noise in cellular systems
+On applications of Ulam-Hyers stability in biology and economics
+A heuristic view about the evolution and species
+Complete Human Mitochondrial Genome Construction Using L-systems
+Anxiety as a Factor in the Development of Autistic Spectrum Symptoms: an Experimental Study
+Mobilisation readiness state and the frequency structure of heart rate variability
+Matrix genetics part : genetic projection operators and direct sums
+Microbial Fuel Cells Applied to the Metabolically-Based Detection of Extraterrestrial Life
+Triadic Conceptual Structure of the Maximum Entropy Approach to Evolution
+Parameter estimation for Boolean models of biological networks
+Passive swimming in low Reynolds number flows
+Run-and-tumble particles with hydrodynamics: sedimentation trapping and upstream swimming
+Technical performance and interpretation of physical experiment in problems of cell biology
+Dynamics of person-to-person interactions from distributed RFID sensor networks
+A Hybrid Model for Disease Spread and an Application to the SARS Pandemic
+Amino Acids in Comets and Meteorites: Stability under Gamma Radiation and Preservation of Chirality
+Optimal strategies for fighting persistent bugs
+Unique mechanisms from finite two-state trajectories
+Path probability density functions for semi-Markovian random walks
+Thermodynamics of chemical free energy generation in off-axis hydrothermal vent systems and its consequences for compartmentalization and the emergence of life
+'Genesis': A takeover from field-responsive matter?
+The Entropy of Morbidity Trauma and Mortality
+Maximum Power Efficiency and Criticality in Random Boolean Networks
+A Fokker-Planck formalism for diffusion with finite increments and absorbing boundaries
+Synthesis of Sugar and fixation of CO2 through Artificial Photosynthesis driving by Hydrogen or Electricity
+Optimization of Enzymatic Biochemical Logic for Noise Reduction and Scalability: How Many Biocomputing Gates Can Be Interconnected in a Circuit?
+Towards Biosensing Strategies Based on Biochemical Logic Systems
+Motion Parallax is Asymptotic to Binocular Disparity
+Information Maximization Fails to Maximize Expected Utility in a Simple Foraging Model
+There's plenty of time for evolution
+Hierarchical group dynamics in pigeon flocks
+Annealed and Mean-Field formulations of Disease Dynamics on Static and Adaptive Networks
+Realization and Properties of Biochemical-Computing Biocatalytic OR Gate Based on Signal Change
+Identificaci 'on de nuevos medicamentos a trav 'es de m 'etodos computacionales
+p-Adic Modelling of the Genome and the Genetic Code
+The degeneracy of the genetic code and Hadamard matrices
+Thermal soaring flight of birds and unmanned aerial vehicles
+Linked Environment Data for the Life Sciences
+Characterization of the norepinephrine-activation of adenylate cyclase suggests a role in memory affirmation pathways Overexposure to epinephrine inactivates adenylate-cyclase a causal pathway for stress-pathologies
+The Virtual Institute for Integrative Biology (VIIB)
+PhyloGrid: a development for a workflow in Phylogeny
+Advances in the Biomedical Applications of the EELA Project
+BioLogistics and the Struggle for Efficiency: Concepts and Perspectives
+Biological Concepts Instrument (BCI): A diagnostic tool for revealing student thinking
+Chem2Bio2RDF: A Linked Open Data Portal for Chemical Biology
+DNA waves and water
+Dynamics of glucose-lactose diauxic growth in E coli
+What's in a crowd? Analysis of face-to-face behavioral networks
+Rate distortion coevolutionary dynamics and the flow nature of cognitive epigenetic systems
+The human genome and drug discovery after a decade Roads (still) not taken
+Effective swimming strategies in low Reynolds number flows
+Anthropogenic Renourishment Feedback on Shorebirds: a Multispecies Bayesian Perspective
+Randomness and Multi-level Interactions in Biology
+What does photon energy tell us about cellphone safety?
+Application in the Ethanol Fermentation of Immobilized east Cells in Matrix of Alginate Magnetic Nanoparticles on Chitosan-Magnetite Microparticles and Cellulose-coated Magnetic Nanoparticles
+DNA Circuits Based on Isothermal Constrained Loop Extension DNA Amplification
+Trans-Canada Slimeways: Slime mould imitates the Canadian transport network
+Quantum theory of hydrogen key of point mutation in DNA
+Output Stream of Binding Neuron with Feedback
+Social Network Sensors for Early Detection of Contagious Outbreaks
+Brownian walkers within subdiffusing territorial boundaries
+Genetic Code: Four Diversity Types of Protein Amino Acids
+A Cognitive Model of an Epistemic Community: Mapping the Dynamics of Shallow Lake Ecosystems
+Are mental properties supervenient on brain properties?
+Collective Classification of Textual Documents by Guided Self-Organization in T-Cell Cross-Regulation Dynamics
+The physical condition from the perspective of complexity: Application of a physical activity program for Alzheimer's disease
+Mean-field theory of collective motion due to velocity alignment
+Biometric Cards for Indian Population: Role of Mathematical Models in Assisting and Planning
+Dynamical modeling of collective behavior from pigeon flight data: flock cohesion and dispersion
+Experimental Researches of Cutaneous Melanoma Immunotherapy by Antitumor Cell-Whole GM-CSF-Producing Vaccines
+Free Final-Time Optimal Control for HIV Viral Dynamics
+On Programs and Genomes
+A pulse fishery model with closures as function of the catch: Conditions for sustainability
+Complexities of Human Promoter Sequences
+Top-Down Causation by Information Control: From a Philosophical Problem to a Scientific Research Program
+A (possible) mathematical model to describe biological context-dependence : case study with protein structure
+Conformation changes and protein folding induced by phi  interaction
+Friction contribution to water-bond breakage kinetics
+Toward molecular neuroeconomics of obesity
+A neuroeconomic theory of bidirectional synaptic plasticity and addiction
+Mean Exit Time and Escape Probability for a Tumor Growth System under Non-Gaussian Noise
+Evaluation of text data mining for database curation: lessons learned from the KDD Challenge Cup
+On the Ancestral Compatibility of Two Phylogenetic Trees with Nested Taxa
+Updating Schemes in Random Boolean Networks: Do They Really Matter?
+Predictability complexity and learning
+Spatiotemporal Pattern Formation in BioFluids I: Cell Shape Perturbants As Evidence of Spatially-Organised Membrane Flows
+The use of the GARP genetic algorithm and internet grid computing in the Lifemapper world atlas of species biodiversity
+Compression ratios based on the Universal Similarity Metric still yield protein distances far from CATH distances
+The transposition distance for phylogenetic trees
+Bistable equilibrium points of mercury body burden
+Genetic Code as a Harmonic System: two Supplements
+The differences between natural and artificial life Towards a definition of life
+Systematic Approach on Differences in Avian Viral Proteins Based on Carbon Composition
+Consciousness: A Direct Link with Life's Origin?
+The genetic code -dimensional hypercomplex numbers and dyadic shifts
+Dengue disease basic reproduction number and control
+Three-stage Origin of Life as a Result of Directional Darwinian Evolution
+New Osmosis Law and Theory: the New Formula that Replaces van't Hoff Osmotic Pressure Equation
+No entailing laws but enablement in the evolution of the biosphere
+Noise-induced volatility of collective dynamics
+The interplay of mutations and electronic properties in disease-related genes
+A classification scheme of Amino Acids in the Genetic Code by Group Theory
+p-Adic Structure of the Genetic Code
+A new model for magnetoreception
+A 2-dimensional Geometry for Biological Time
+Protention and retention in biological systems
+From Physics to Biology by Extending Criticality and Symmetry Breakings
+Using Mimicry to Learn about Mental Representations
+Quantifying Limits to Detection of Early Warning for Critical Transitions
+Fundamental Complexity Measures of Life
+Photonic Communications and Information Encoding in Biological Systems
+Free flight of the mosquito Aedes aegypti
+Influenza Virus Vaccine Efficacy Based On Conserved Sequence Alignment
+Entromics -- thermodynamics of sequence dependent base incorporation into DNA reveals novel long-distance genome organization
+The multiplet structure of the genetic code in one and small number
+Individual rules for trail pattern formation in Argentine ants (Linepithema humile)
+Living Devices
+Soft Active Matter
+The irregular (integer) tetrahedron as a warehouse of biological information
+Evolutionary Transitions and Top-Down Causation
+Length Weight and ield in Channel Catfish Lake Diane MI
+Field-control phase-transitions and life's emergence
+Life's Solutions are Complex Fluids A Mathematical Challenge
+Generalized Gumbel distribution of current fluctuations in purple membrane monolayers
+Potential of Traditional Medicinal Plants for Treating Obesity: A Review
+Can Resonant Oscillations of the Earth Ionosphere Influence the Human Brain Biorhythm?
+DNA sequencing and predictions of the cosmic theory of life
+Biologists meet statisticians: A workshop for young scientists to foster interdisciplinary team work
+The dynamics of H-bonds of the hydration shells of ions ATPase and NE-activated adenylyl cyclase on the coupling of energy and signal transduction
+A Theoretical Mechanism of Szilard Engine Function in Nucleic Acids and the Implications for Quantum Coherence in Biological Systems
+Diagonalizing the genome I: navigation in tree spaces
+A Network-Based Meta-Population Approach to Model Rift Valley Fever Epidemics
+A Simple Proposal for a Solution to the Accommodation-Vergence Mismatch Problem in 3D Displays
+Affine invariance of human hand movements: a direct test
+Theoretical Considerations on Compensation of the Accommodation-Vergence Mismatch by Refractive Power of Focus-Adjustable 3D Glasses
+Diagonalizing the genome II: toward possible applications
+Affordability cost and cost-effectiveness of universal anti-retroviral therapy for HIV
+Quantum Process in Living Cells
+In Vivo Renal Clearance Biodistribution Toxicity of Gold nanoclusters
+Hydrogen magnetic reaction gene regulation
+Field theory approach in the dynamics of biomatter
+General law of growth and replication Growth equation and its applications
+Fractional Chemotaxis Diffusion Equations
+Neuroeconomics of suicide
+Stress hormones predict hyperbolic time-discount rates six months later in adults
+Depressive patients are more impulsive and inconsistent in intertemporal choice behavior for monetary gain and loss than healthy subjects- an analysis based on Tsallis' statistics
+Theoretical frameworks for neuroeconomics of intertemporal choice
+The Algorithmic Origins of Life
+On Cyclic DNA Codes
+A Broader Perspective about Organization and Coherence in Biological Systems
+The three different phases in the dynamics of chemical reaction networks and their relationship to cancer
+Matrix genetics part 1: permutations of positions in triplets and symmetries of genetic matrices
+Dyadic groups dyadic trees and symmetries in long nucleotide sequences
+Human anaerobic intestinal rope parasites
+Catastrophe Management and Inter-Reserve Distance for Marine Reserve Networks
+How can we improve problem-solving in undergraduate biology? Applying lessons from 30 years of physics education research
+Horizontal symmetry in the algebraic approach of genetic code
+Predicting growth and finding biomass production using the general growth mechanism
+Stochastic Physics Complex Systems and Biology
+Mineral bridges in nacre revisited
+The Polonnaruwa meteorite: oxygen isotope crystalline and biological composition
+Fossil diatoms in a new carbonaceous meteorite
+Quantum Biology at the Cellular Level - elements of the research program
+The Social Maintenance of Cooperation through Hypocrisy
+Demonstrating that chlorine dioxide is a size-selective antimicrobial agent and high purity ClO2 can be used as a local antiseptic
+Universality in the merging dynamics of parametric active contours: a study in MRI-based lung segmentation
+Boolean modeling of collective effects in complex networks
+Optimality Properties of a Proposed Precursor to the Genetic Code
+Epidemic spreading in evolving networks
+Phase transition in a class of non-linear random networks
+Fluctuation-driven Turing patterns
+Sine-Gordon Solitons Kinks and Breathers as Physical Models of Nonlinear Excitations in Living Cellular Structures
+Exploration-exploitation trade-off features a saltatory search behaviour
+On the role of chemical synapses in coupled neurons with noise
+Harmonic mean as a determinant of the genetic code
+Agreeing to disagree some ironies disappointing scientific practice and a call for better: reply to The poor performance of TMM on microRNA-Seq
+Association between Experiences and Representations: Memory Dreaming Dementia and Consciousness
+The Geometry of Morphogenesis and the Morphogenetic Field Concept
+Biological Systems as Systems of Increasing Entropy: Language and Genetics
+Translating photobiology to electrophysiology: A brief overview of several photobiological processes with accent on electrophysiology
+Insights Into Quantitative Biology: analysis of cellular adaptation
+Towards a mathematical theory of meaningful communication
+Information Measures of Complexity Emergence Self-organization Homeostasis and Autopoiesis
+Designing the statistically optimal drug for cancer therapy
+Genetic information physical interpreters and thermodynamics the material-informatic basis of biosemiosis
+The role of blood circulatory system in thermal regulation of animals explained by entropy production analysis
+Substance Abuse via Legally Prescribed Drugs: The Case of Vicodin in the United States
+Dynamics and Control of an Invasive Species: The Case of the Rasberry Crazy Ant Colonies
+Physics of Rheologically-Enhanced Propulsion: Different Strokes in Generalized Stokes
+Symmetry breaking cilia-driven flow in the zebrafish embryo
+DNA evolved to minimize frameshift mutations
+Liquid general anesthetics lower critical temperatures in plasma membrane vesicles
+The Immune System: the ultimate fractionated cyber-physical system
+Human strategy updating in evolutionary games
+Galactic cosmic ray induced radiation dose on terrestrial exoplanets
+G-quadruplexes and mRNA localization
+New Approach for Prediction Pre-cancer via Detecting Mutated in Tumor Protein P3
+Lagerkvist versus Crick
+Statistics of genome architecture
+Centenary of Researches on irritability of plants by agadis Chandra Bose
+Vibrations Quanta and Biology
+Bioinformatics Knowledge Transmission (training learning and teaching): overview and flexible comparison of computer based training approaches
+The matrix method of representation analysis and classification of long genetic sequences
+The age specific incidence anomaly suggests that cancers originate during development
+Is mathematics invading human cells? Impressions from a collaboration with diabetes doctors
+The Methicillin-Resistant Staphylococcus Aureus Infection Controls
+Dynamic DNA Processing: A Microcode Model of Cell Differentiation
+Correlation of multiple sclerosis incidence in the UK 10-2010 with geomagnetic disturbances
+Genetic proof of chromatin diminution under mitotic agamospermy
+Time series analysis of Parkinson's disease Huntington's disease and Amyotrophic Lateral Sclerosis
+Possibilities of life around Alpha Centauri B
+On the habitability of exoplanets orbiting Proxima Centauri
+Responding to the AIDS epidemic in Angola
+Living is information processing: from molecules to global systems
+Local dynamic stability of treadmill walking: intrasession and week-to-week repeatability
+Entropy biological evolution and the psychological arrow of time
+Thermodynamic Function of Life
+Thermodynamic Origin of Life
+Parent-offspring Conflict in feral dogs: A Bioassay
+Parameter Space Compression Underlies Emergent Theories and Predictive Models
+Law of Urination: all mammals empty their bladders over the same duration
+Density-based and transport-based core-periphery structures in networks
+Pairwise alignment of the DNA sequence using hypercomplex number representation
+Parkinson disease is a TH1 dominant autoimmune disorder against accumulated alpha-synuclein
+Construction d'une plate-forme int 'egr 'ee pour la cartographie de l'exposition des populations aux substances chimiques de l'environnement
+Foundations of biology
+Cybernetic Principles of Aging and Rejuvenation: the buffering-challenging strategy for life extension
+A probabilistic model to describe the dual phenomena of biochemical pathway damage and biochemical pathway repair
+Social well-being of a sample of Iranian nurses: a descriptive-analytic study
+A construction of the genetic material and of proteins
+An Improved Temporal Formulation of Pupal Transpiration in Glossina
+Success of Chemotherapy in Soft Matter
+A Logical Framework for Systems Biology
+Conception of Biologic System: Basis Functional Elements and Metric Properties
+The Natural Science Underlying Big History
+LEDs for Energy Efficient Greenhouse Lighting
+Synthetic biology: From a word to a world
+The genetic code invariance: when Euler and Fibonacci meet
+Practical Applications of Cosmology to Human Society
+The model of circular and longitudinal smooth muscle motions in the motility of intestinal segment
+The Wow signal of the terrestrial genetic code
+Technological integration and hyper-connectivity: Tools for promoting extreme human lifespans
+Biological Electric Fields and Rate Equations for Biophotons
+An Integration of Integrated Information Theory with Fundamental Physics
+Information -sharing adaptive epigenetics and human longevity
+Optimization of brain and life performance: Striving for playing at the top for the long run
+A Model of Teneral Dehydration in Glossina
+A Set of Discrete Formulae for the Performance of a Tsetse Population During Aerial Spraying
+Ontogeny of aerial righting and wing flapping in juvenile birds
+Modeling how windfarm geometry affects bird mortality
+DNA Human Memory and the Storage Technology of the 21st Century
+Accounting for the 'network' in the Natura 2000 network: A response to Hochkirch et al 2013
+Ising model description of long range correlations in DNA sequences
+The entropic basis of collective behaviour
+Population pressure and global markets drove a decade of deforestation in Africa's Albertine Rift
+Entropy and its relationship to allometry
+Development stages of the rope human intestinal parasite
+Geometry of Morphogenesis
+Selectivity filter gate versus voltage-sensitive gate: A study of quantum probabilities in the Hodgkin-Huxley equation
+The role of unk DNA
+Experimental Investigation of Distant Cellular Interaction among Adipose Derived Stem-Cells
+Is there any measurable benefit in publishing preprints in the ariv section Quantitative Biology?
+A Model on Genome Evolution
+Entropy and long-range correlations in DNA sequences
+Beta sheet propensity and the genetic code
+A High Power-Density Mediator-Free Microfluidic Biophotovoltaic Device for Cyanobacterial Cells
+Biological effects of pulsating magnetic fields: role of solitons
+Stem Cell Transplantation As A Dynamical System: Are Clinical Outcomes Deterministic?
+Starvation of Cancer via Induced Ketogenesis and Severe Hypoglycemia
+Two-component feedback loops and deformed mechanics
+A Simulation for Neurophotonic Quantum Computation in Visual Pathways
+Health Matters: Human Organ Donations Sales and the Black Market
+The genetic code algebra of projection operators and problems of inherited biological ensembles
+A Quantum Model on Chemically-Physically Induced Pluripotency in Stem Cells
+Native American Flute Ergonomics
+Transduction of DNA information through water and electromagnetic waves
+Heart rate and its variability as an indicator of mental health in male prisoners
+Comment on Activation of Visual Pigments by Light and Heat (Science 332 130-312 2011)
+Review of Magnetic Shark Deterrents: Hypothetical Mechanisms and Evidence for Selectivity
+Measurement in biological systems from the self-organisation point of view
+Heterogeneity of cells may explain allometric scaling of metabolic rate
+Spices form the basis of food pairing in Indian cuisine
+Complexity and self-organization in Turing

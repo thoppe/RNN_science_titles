@@ -1,0 +1,847 @@
+Multilevel Deconstruction of the In Vivo Behavior of Looped DNA-Protein Complexes
+Efficiency and versatility of distal multisite transcription regulation
+Fundamental Limits to Position Determination by Concentration Gradients
+Asymptotic velocity of one dimensional diffusions with periodic drift
+Modeling the effects of HIV-1 virions and proteins on Fas-induced apoptosis of infected cells
+Walks of molecular motors in two and three dimensions
+Single Stranded DNA Translocation Through A Nanopore: A Master Equation Approach
+Translocation of a Single Stranded DNA Through a Conformationally Changing Nanopore
+Ligand-induced Coupling versus Receptor Pre-association: Cellular automaton simulations of FGF-2 binding
+Membrane fluctuations around inclusions
+Stability of adhesion clusters under constant force
+Phase transitions in systems with two species of molecular motors
+Active transport: A kinetic description based on thermodynamic grounds
+Movements of molecular motors: Ratchets random walks and traffic phenomena
+Renewal processes and fluctuation analysis of molecular motor stepping
+Boundary-bulk interplay of molecular motor traffic flow through a compartment
+Adhesion of membranes via actively switched receptors
+Kinetic Origin of Heredity in a Replicating System with a Catalytic Network
+Transitions Induced by the Discreteness of Molecules in a Small Autocatalytic System
+Alteration of Chemical Concentrations through Discreteness-Induced Transitions in Small Autocatalytic Systems
+Dynamics of Immobilized Flagella
+Molecular Discreteness in Reaction-Diffusion Systems ields Steady States Not Seen in the Continuum Limit
+Discreteness-induced Stochastic Steady State in Reaction Diffusion Systems: Self-consistent Analysis and Stochastic Simulations
+Modeling of the dynamic pole-to-pole oscillations of the min proteins in bacterial cell division: The effect of an external field
+Discreteness-Induced Transitions in Autocatalytic Systems
+Power-law rheology and mechano-sensing in a cytoskeleton model with forced protein unfolding
+Fluctuations in type IV pilus retraction
+Filament attachment dynamics in actin-based propulsion
+Oscillations in molecular motor assemblies
+Traffic of interacting ribosomes on mRNA during protein synthesis: effects of chemo-mechanics of individual ribosomes
+Dwell time of a Brownian interacting molecule in a cellular microdomain
+A mechanism for polar protein localization in bacteria
+The influence of geometry surface character and flexibility on the permeation of ions and water through biological pores
+Information Processing in Brain Microtubules
+How does the chromatin fiber deal with topological constraints?
+Ligand Rebinding: Self-consistent Mean-field Theory and Numerical Simulations Applied to SPR Studies
+Theory of Nucleosome Corkscrew Sliding in the Presence of Synthetic DNA Ligands
+Nanosurgery: Observation of Peptidoglycan Strands in Lactobacillus helveticus Cell Walls
+Phase Transition in Reconstituted Chromatin
+Combinatorial complexity and dynamical restriction of network flows in signal transduction
+DNA looping and physical constraints on transcription regulation
+A one-dimensional Lattice Boltzmann method for modeling the dynamic pole-to-pole oscillations of Min proteins for determining the position of the midcell division plane
+The dynamics of the min proteins of Escherichia coli under the constant external fields
+Force generation in small ensembles of Brownian motors
+Single Stranded DNA Translocation Through a Fluctuating Nanopore
+Self-organized density patterns of molecular motors in arrays of cytoskeletal filaments
+Release of Brain Mitochondrial Hexokinase by Acidic Proteins and Macromolecular Polyanions
+Cellular organization by self-organization : mechanisms and models for Min protein dynamics
+Kinetics of target site localization of a protein on DNA: a stochastic approach
+Non-Maxwellian velocity distribution and anomalous diffusion of it in vitro kidney cells
+Spontaneous flow transition in active polar gels
+Metabolic Network Modelling: Including Stochastic Effects
+Min-oscillations in Escherichia coli induced by interactions of membrane-bound proteins
+On Myosin II dynamics in the presence of external loads
+Modeling the dynamics of natural rotifer populations: phase-parametric analysis
+Min-protein oscillations in Escherichia coli with spontaneous formation of two-stranded filaments in a three-dimensional stochastic reaction-diffusion model
+Transitions in Microtubule C-termini conformations as a possible Dendritic signaling phenomenon
+Budded membrane microdomains as regulators for cellular tension
+Stochastic model for Soj relocation dynamics in Bacillus subtilis
+Integrin activation - the importance of a positive feedback
+Differential gene expression in Bacillus subtilis
+Signal processing in the TGF-beta superfamily ligand-receptor network
+Role of transport performance on neuron cell morphology
+Metabolic Futile Cycles and Their Functions: A Systems Analysis of Energy and Control
+Modelling and simulation of polycomb-dependent chromosomal interactions in drosophila
+Protocell Self-Reproduction in a Spatially Extended Metabolism-Vesicle System
+A stochastic model of Min oscillations in Escherichia coli and Min protein segregation during cell division
+Efficiency Robustness and Stochasticity of Gene Regulatory Networks in Systems Biology: lambda Switch as a Working Example
+Cooperative Cargo Transport by Several Molecular Motors
+Inferring the in vivo looping properties of DNA
+Cooperativity sensitivity and noise in biochemical signaling
+Effect of channel block on the spiking activity of excitable membranes in a stochastic Hodgkin-Huxley model
+Intracellular delay limits cyclic changes in gene expression
+A Chemical Kinetic Model of Transcriptional Elongation
+The Water Circuit of the Plants - Do Plants have Hearts ?
+Multiprotein DNA looping
+Systems theory of Smad signaling
+Dynamic stability of spindles controlled by molecular motor kinetics
+Analysis of a microscopic stochastic model of microtubule dynamic instability
+A model of hyphal tip growth involving microtubule-based transport
+A Bio-Polymer Transistor: Electrical Amplification by Microtubules
+A multiscale mathematical model of cancer and its use in analyzing irradiation therapies
+Relationship between Thermodynamic Driving Force and One-Way Fluxes in Reversible Chemical Reactions
+Topological classification of RNA structures
+Focal adhesions as mechanosensors: the two-spring model
+Stochastic dynamics of macromolecular-assembly networks
+DNA looping: the consequences and its control
+Predicting essential components of signal transduction networks: a dynamic model of guard cell abscisic acid signaling
+The di-flavoenzyme reductase directly activates oxygen for the metabolism of diverse drug molecules by liver microsomal Cytochrome Ps
+Modeling Dual Pathways for the Metazoan Spindle Assembly Checkpoint
+Loss of AP- function affects spontaneous and evoked release at hippocampal mossy fiber synapses
+Cooperative transport by small teams of molecular motors
+Utilizing of protein splicing phenomenon for optimization of obtaining and purification of the recombinant human growth hormone
+Associative learning in biochemical networks
+An HIV Feedback-Resistor: Auto-Regulatory Circuit Deactivator and Noise Buffer
+Effective Potential Energy Expression for Membrane Transport
+The Role of Lipid Bilayer Mechanics in Mechanosensation
+Cooperative Gating and Spatial Organization of Membrane Proteins through Elastic Interactions
+Correctly validating results from single molecule data: the case of stretched exponential decay in the catalytic activity of single lipase B molecules
+The microtubule transistor
+What can biology bestow to quantum mechanics?
+Superdiffusion in a Model for Diffusion in a Molecularly Crowded Environment
+Ion transport through cell membrane channels
+Free Energy of Activation for the Comorosan Effect
+Crystal Irradiation Stimulation of Enzyme Reactivity: An Explanation
+Antiproliferative MCR peptides block physical interaction of insulin with retinoblastoma protein RB in human lung cancer cells
+Planet RB: a personal contribution to a proteomic map of human retinoblastoma protein
+Stability in generic mitochondrial models
+Computational investigations into the orgins of short term biochemical memory in T cell activation
+Retinoblastoma protein is the likely common effector for distinct anti-aging pathways
+The insulin superfamily of growth-promoting proteins
+Impact of receptor-ligand distance on adhesion cluster stability
+Structural plasticity of single chromatin fibers revealed by torsional manipulation
+Ascorbic acid enhances the inhibitory effect of aspirin on neuronal cyclooxygenase-2-mediated prostaglandin E2 production
+Kinetic Accessibility of Buried DNA Sites in Nucleosomes
+Cancer Genesis and Progression as Dynamics in Functional Landscape of Endogenous Molecular-Cellular Network
+Membrane adhesion and domain formation
+A Physical Model for the Condensation and Decondensation of Eukaryotic Chromosomes
+Model for Osteosarcoma- as a Potent Factor in Cell Survivor and Resistance to Apoptosis
+MAPK Cascades as Feedback Amplifiers
+A practical guide to stochastic simulations of reaction-diffusion processes
+The insulin-RB synapse in health and disease: cellular rocket science
+Across and beyond the cell are peptide strings
+Mechanical deformation of monocytic THP-1 cells : occurrence of two seqential phases with differential sensitivity to metabolic inhibitors
+Toward a quantitative analysis of virus and plasmid trafficking in cells
+Cell-permeable tumor suppressor peptides for cancer therapy: back to the future
+Microscale swimming: The molecular dynamics approach
+Conformational equilibria in monomeric alpha-synuclein at the single molecule level
+Oncoprotein metastasis disjoined
+Operating Regimes of Signaling Cycles: Statics Dynamics and Noise Filtering
+Unidirectional rotary nanomotors powered by an electrochemical potential gradient
+Effective Motion of a Virus Trafficking Inside a Biological Cell
+Signal duration and the time scale dependence of signal integration in biochemical pathways
+A microstructurally informed model for the mechanical response of three-dimensional actin networks
+Molecular motors: design mechanism and control
+A model for hand-over-hand motion of molecular motors
+Spreading of EGF Receptor Activity into EGF-free Regions and Molecular Therapies of Cancer
+Surfing at the wave fronts: the bidirectional movement of cargo particles driven by molecular motors
+Genotype-based Case-Control Analysis Violation of Hardy-Weinberg Equilibrium and Phase Diagrams
+Dynamic states of cells adhering in shear flow: from slipping to rolling
+Stochastic Dynamical Structure SDS of Nonequilibrium Processes in the Absence of Detailed Balance. II: construction of SDS with nonlinear force and multiplicative noise
+Conformation of single-stranded RNA in a virus capsid: implications of dimensional reduction
+Polymer-induced tubulation in lipid vesicles
+Traffic of single-headed motor proteins KIF1A: effects of lane changing
+The limits of filopodium stability
+Coexistence of amplitude and frequency modulations in intracellular calcium dynamics
+Shuttle-mediated proton pumping across the inner mitochondrial membrane
+Theory of fluorescence correlation spectroscopy at variable observation area for two-dimensional diffusion on a meshgrid
+Reverse Engineering of Proteasomal Translocation Rates
+Mean encounter times for cell adhesion in hydrodynamic flow: analytical progress by dimensional reduction
+Tug-of-war as a cooperative mechanism for bidirectional cargo transport by molecular motors
+Traffic by small teams of molecular motors
+Cyclooxygenase inhibition in ischemic brain injury
+Consistency Principle in Biological Dynamical Systems
+Fluids as Dynamic Templates for Cytoskeletal Proteins in Plant Cells
+The Dynamic Template Mechanism - A Co-Ordination Role for Shear Thermal and Electrical Stressors in Muscle Cell Contraction
+Resource Letter: Bio-molecular Nano-machines: where Physics Chemistry Biology and Technology meet
+Monte Carlo simulations of proteins in cages: influence of confinement on the stability of intermediate states
+Intra-cellular traffic: bio-molecular motors on filamentary tracks
+Domain wall delocalization dynamics and fluctuations in an exclusion process with two internal states
+Predicting the asymmetric response of a genetic switch to noise
+Power-law scaling in protein synthesis of a stochastic regulon
+Peptide strings clues to the genesis and treatment of rheumatoid arthritis: rebuilding self-protective immunity amid fungal ruins
+The role of microtubule movement in bidirectional organelle transport
+Minimal models for proteins and RNA: From folding to function
+Theory of DNA translocation through narrow ion channels and nanopores with charged walls
+Geometrical Bioelectrodynamics
+A quantitative comparison of sRNA-based and protein-based gene regulation
+The influence of microwave radiation on the state of chromatin in human cells
+Target Location by DNA-Binding Proteins: Effects of Roadblocks and DNA Looping
+Ribosome collisions and Translation efficiency: Optimization by codon usage and mRNA destabilization
+A thermodynamic switch for chromosome colocalization
+Self-Reduction Rate of a Microtubule
+Macro- and Microscopic Self-Similarity in Neuro- and Psycho-Dynamics
+Regulation of signal duration and the statistical dynamics of kinase activation by scaffold proteins
+Stochastic models and numerical algorithms for a class of regulatory gene networks
+The dynamics of cargo driven by molecular motors in the context of asymmetric simple exclusion processes
+Effects of the chemomechanical stepping cycle on the traffic of molecular motors
+Quantitative Resolution to some Absolute Discrepancies in Cancer Theories: a View from Phage lambda Genetic Switch
+Detection of subthreshold pulses in neurons with channel noise
+A thermodynamic model for agglomeration of DNA-looping proteins
+Self-organized periodicity of protein clusters in growing bacteria
+Possible mechanisms for initiating macroscopic left-right asymmetry in developing organisms
+The switching dynamics of the bacterial flagellar motor
+Stochasticity and traffic jams in the transcription of ribosomal RNA: Intriguing role of termination and antitermination
+The switching dynamics of the bacterial flagellar motor - Supporting Information
+Effective charge and free energy of DNA inside an ion channel
+Osmotic pressure: resisting or promoting DNA ejection from phage
+Tumor suppressor and anti-inflammatory protein: an expanded view on insulin-degrading enzyme IDE
+Calculation of the relative metastabilities of proteins in subcellular compartments of Saccharomyces cerevisiae
+Growth-rate dependent partitioning of RNA polymerases in bacteria
+Microtubule depolymerization by the kinesin- motor Kipp: a mathematical model
+From random to directed motion: Understanding chemotaxis in E. Coli within a simplified model
+Effects of intersegmental transfers on target location by proteins
+Fundamentally different strategies for transcriptional regulation are revealed by information-theoretical analysis of binding motifs
+A physical model of nicotinic ACh receptor kinetics
+Nucleosome-mediated cooperativity between transcription factors
+Power Spectrum of Out-of-equilibrium Forces in Living Cells : Amplitude and Frequency Dependence
+Simulation of mitochondrial metabolism using multi-agents system
+Coherent motion of stereocilia assures the concerted gating of hair-cell transduction channels
+How T-cells use large deviations to recognize foreign antigens
+A FRAP model to investigate reaction-diffusion of proteins within a bounded domain: a theoretical approach
+Tug-of-war in motility assay experiments
+Quantitative interpretation of binding reactions of rapidly diffusing species using fluorescence recovery after photobleaching
+Nucleocytoplasmic transport: a thermodynamic mechanism
+Strong cooperativity and inhibitory effects in DNA multi-looping processes
+Genome-scale reconstruction of the metabolic network in ersinia pestis strain 11
+Collective Langevin Dynamics of Flexible Cytoskeletal Fibers
+Investigating the two-moment characterisation of subcellular biochemical networks
+Non-equilibrium phase transitions in tubulation by molecular motors
+On the Influence of Weak Magnetic and Electric Fields on the Fluctuations of Ionic Electric Currents in Blood Circulation
+The First Passage Probability of Intracellular Particle Trafficking
+Analytical description of anomalous diffusion in living cells
+Boolean Network Approach to Negative Feedback Loops of the p Pathways: Synchronized Dynamics and Stochastic Limit Cycles
+RNA polymerase motors: dwell time distribution velocity and dynamical phases
+Wave and quantum properties of peptide strings: defining a helix in spacetime
+Discrete- versus continuous-state descriptions of the F1-ATPase molecular motor
+The dynamics of individual nucleosomes controls the chromatin condensation pathway: direct AFM visualization of variant chromatin
+Collective effects in intra-cellular molecular motor transport: coordination cooperation and competetion
+A mathematical model for period-memorizing behavior in Physarum plasmodium
+Transport by molecular motors in the presence of static defects
+Lipid Domain Order and the Algebra of Morphology
+Accelerated search kinetics mediated by redox reactions of DNA repair enzymes
+Taking the reaction-diffusion master equation to the microscopic limit
+RNA polymerase motor on DNA track: effects of interactions external force and torque
+Bidirectional cooperative motion of myosin-II motors on actin tracks with randomly alternating polarities
+Stochastic Control of Metabolic Pathways
+Adhesion of membranes via receptor-ligand complexes: Domain formation binding cooperativity and active processes
+Self-organization of the MinE ring in subcellular Min oscillations
+Polar Chemoreceptor Clustering by Coupled Trimers of Dimers
+Biophysical mechanism for Ras-nanocluster formation and signaling in plasma membrane
+Accuracy of direct gradient sensing by single cells
+Accuracy of direct gradient sensing by cell-surface receptors
+In Vivo Localization of Fas-Associated Death Domain Protein in the Nucleus and Cytoplasm of Normal Thyroid and Liver Cells
+Quantifying Stochastic Effects in Biochemical Reaction Networks using Partitioned Leaping
+Mutual information between in- and output trajectories of biochemical networks
+Stochastic kinetics of ribosomes: single motor properties and collective behavior
+Modeling and simulation of Ran-mediated nuclear import
+Attenuation of transcriptional bursting in mRNA transport
+The stochastic entry of enveloped viruses: Fusion vs. endocytosis
+The role of cooperative binding on noise expression
+Stochastic Control Analysis for Biochemical Reaction Systems
+Emergent Network Structure evolvable Robustness and non-linear Effects of Point Mutations in an Artificial Genome Model
+Distribution of phylogenetic diversity under random extinction
+Transcriptional pulsing and consequent stochasticity in gene expression
+Rare event simulation for T-cell activation
+New mechanism of solution of the kT -problem in magnetobiology
+Self-organized Models of Selectivity in Ca and Na Channels
+Effects of jamming on non-equilibrium transport times in nano-channels
+Dynamics of intracellular Ca 2 oscillations in the presence of multisite Ca 2 -binding proteins
+The Gated Narrow Escape Time for molecular signaling
+Maximum likelihood and the single receptor
+Amphiphilic Membranes
+Modeling stochastic Ca 2 release from a cluster of IP  -sensitive receptors
+Phospholipid demixing and the birth of a lipid droplet
+Steps in the bacterial flagellar motor
+A model for the generation of localized transient Na elevations in vascular smooth muscle
+Dynamics of Enzyme Digestion of a Single Elastic Fiber Under Tension: An Anisotropic Diffusion Model
+Mechanics and Dynamics of -Chromosome Pairing at  Inactivation
+Thermodynamic pathways to genome spatial organization in the cell nucleus
+Stop-and-go kinetics in amyloid fibrillation
+Investigating the robustness of the classical enzyme kinetic equations in small intracellular compartments
+Entropy-driven pumping across zeolites and biological channels
+A Thermodynamic Model for Receptor Clustering
+Discrete stochastic modeling of calcium channel dynamics
+The influence of the cylindrical shape of the nucleosomes and H1 defects on properties of chromatin
+Peeling and Sliding in Nucleosome Repositioning
+Cooperative action in eukaryotic gene regulation: physical properties of a viral example
+Nanorheology of viscoelastic shells: Applications to viral capsids
+Modeling partitioning of Min proteins between daughter cells after septation in Escherichia coli
+Allovalency revisited: an analysis of multisite phosphorylation and substrate rebinding
+Self-consistent theory of reversible ligand binding to a spherical cell
+Non-equilibrium microtubule fluctuations in a model cytoskeleton
+Time and length scales of autocrine signals in three dimensions
+Length control of microtubules by depolymerizing motor proteins
+Forster mechanism of electron-driven proton pump
+Functions of Bifans in Context of Multiple Regulatory Motifs in Signaling Networks
+Fluctuation analysis of mechanochemical coupling depending on the type of bio-molecular motor
+A Symmetry Breaking Model for  Chromosome Inactivation
+Fluctuations in protein synthesis from a single RNA template: stochastic kinetics of ribosomes
+Quantifying intermittent transport in cell cytoplasm
+Viscous Fingering-like Instability of Cell Fragments
+Transcriptional bursts: a unified model of machines and mechanisms
+How occasional backstepping can speed up a processive motor protein
+Proton transport and torque generation in rotary biomotors
+New Proposed Mechanism of Actin-Polymerization-Driven Motility
+Cytoskeleton mediated effective elastic properties of model red blood cell membranes
+Comment to the Paper of Michael . Saxton: A Biological Interpretation of Transient Anomalous Subdiffusion. I. Qualitative Model
+A three-state kinetic mechanism for scaffold mediated signal transduction
+Effect of macromolecular crowding on the rate of diffusion-limited enzymatic reaction
+Kinetic regulation of coated vesicle secretion
+Dynamics of protein-protein encounter: a Langevin equation approach with reaction patches
+Diffusion of two particles with a finite interaction potential in one dimension
+Effects of multiple occupancy and inter-particle interactions on selective transport through narrow channels: theory versus experiment
+Charge transport-mediated recruitment of DNA repair enzymes
+Mechanisms of receptor coreceptor-mediated entry of enveloped viruses
+Estimating the rate constant of cyclic GMP hydrolysis by activated phosphodiesterase in photoreceptors
+Modelling the Establishment of PAR Protein Polarity in the One-Cell C. elegans Embryo
+A model for bidirectional traffic of cytoskeletal motors
+Coherent and Noncoherent Photonic Communications in Biological Systems
+Analysis of interaction partners of H histone by a new proteomics approach
+Dynamic compartmentalization of bacteria: accurate division in E. coli
+Pore Stability and Dynamics in Polymer Membranes
+A Simple Kinetic Model Describes the Processivity of Myosin-V
+Recursiveness Switching and Fluctuations in a Replicating Catalytic Network
+Pattern formation inside bacteria: fluctuations due to low copy number of proteins
+Dynamics of non-equilibrium membrane bud formation
+Self-organized Pattern Formation in Motor-Microtubule Mixtures
+Rheology of Active-Particle Suspensions
+Indirect interactions of membrane-adsorbed cylinders
+Ribosome recycling diffusion and mRNA loop formation in translational regulation
+Autonomous Energy Transducer: Proposition Example Basic Characteristics
+Dynamic instability of microtubules: effect of catastrophe-suppressing drugs
+Clustered bottlenecks in mRNA translation and protein synthesis
+Gating-by-tilt of mechanosensitive membrane channels
+Multiple stalk formation as a pathway of defect-induced membrane fusion
+Rupture of a liposomal vesicle
+Nonlinear Elasticity in Biological Gels
+Self-assembly of polyhedral shells: A molecular dynamics study
+DNA in nanopore-counterion condensation and coion depletion
+Dynamics of membranes driven by actin polymerization
+Non-equilibrium raft-like membrane domains under continuous recycling
+Conductance of ion channels and nanopores with charged walls: a toy model
+Spicules and the effect of rigid rods on enclosing membrane tubes
+Finite-size effects in intracellular microrheology
+Self-energy limited ion transport in sub-nanometer channels
+Stochastic Chemical Reactions in Micro-domains
+Model of Morphogenesis
+Increased Concentration of Polyvalent Phospholipids in the Adsorption Domain of a Charged Protein
+Spatial curvature effects on molecular transport by diffusion
+Fission of a multiphase membrane tube
+Budding and Fission of a multiphase vesicle
+Intra-cellular transport of single-headed molecular motors KIF1A
+Traffic of interacting ribosomes: effects of single-machine mechano-chemistry on protein synthesis
+Intra-cellular transport by single-headed kinesin KIF1A: effects of single-motor mechano-chemistry and steric interactions
+Modeling protein synthesis from a physicists perspective: a toy model
+Mobility of Taxol in Microtubule Bundles
+Force steps during viral DNA packaging ?
+Bi-Phasic Vesicles: instability induced by adsorption of proteins
+Simulation of Drosophila Circadian Oscillations Mutations and Light Responses by a Model with VRI PDP-1 and CLK
+Mechanisms of pattern formation during T cell adhesion
+Turbulence near cyclic fold bifurcations in birhythmic media
+Nucleosome interactions in chromatin: fiber stiffening and hairpin formation
+Effects of receptor clustering on ligand dissociation: Theory and simulations
+All-or-none switching of transcriptional activity on single DNA molecules caused by a discrete conformational transition
+Pattern formation within Escherichia coli: diffusion membrane attachment and self-interaction of MinD molecules
+Observations of magnetic field induced contraction of fission yeast cells using optical projection microscopy
+Electrostatics and the Assembly of an RNA Virus
+Collective charge excitations along cell membranes
+Competing Polymerization of Actin Skeleton explains Relation between Network Polarity and Cell Movements
+Filament depolymerization by motor molecules
+L-selectin mediated leukocyte tethering in shear flow is controlled by multiple contacts and cytoskeletal anchorage facilitating fast rebinding events
+Detection of confinement and jumps in single molecule membrane trajectories
+Chromosome Oscillations in Mitosis
+A Hydrophobic Gate in an Ion Channel: The Closed State of the Nicotinic Acetylcholine Receptor
+Continuum Description of the Cytoskeleton: Ring Formation in the Cell Cortex
+Collective dynamics of molecular motors pulling on fluid membranes
+Exact results for noise power spectra in linear biochemical reaction networks
+Quantification and Correction of Systematic Errors Due to Detector Time-Averaging in Single-Molecule Tracking Experiments
+Embryonic Pattern Scaling Achieved by Oppositely Directed Morphogen Gradients
+Thresholds long delays and stability from generalized allosteric effect in protein networks
+Large-scale inference and graph theoretical analysis of gene-regulatory networks in B. stubtilis
+Mechanisms of B cell Synapse Formation Predicted by Stochastic Simulation
+Capacitance fluctuations causing channel noise reduction in stochastic Hodgkin-Huxley systems
+Finite-size domains in membranes with active two-state inclusions
+Macroscopic consequences of calcium signaling in microdomains: A first passage time approach
+Duality thermodynamics and the linear programming problem in constraint-based models of metabolism
+Kinetics of proton pumping in cytochrome c oxidase
+Diffusion-controlled generation of a proton-motive force across a biomembrane
+Specificity and Completion Time Distributions of Biochemical Processes
+Modeling torque versus speed shot noise and rotational diffusion of the bacterial flagellar motor
+Mapping Complex Networks: Exploring Boolean Modeling of Signal Transduction Pathways
+Cooperativity and Frustration in Protein-Mediated Parallel Actin Bundles
+Glutamate regulation of calcium and IP oscillating and pulsating dynamics in astrocytes
+Multimodal encoding in a simplified model of intracellular calcium signaling
+Traffic of Molecular Motors
+DNA heats up : Energetics of genome ejection from phage revealed by isothermal titration calorimetry
+Coupling biochemistry and mechanics in cell adhesion: a model for inhomogeneous stress fiber contraction
+Survival of the aligned: ordering of the plant cortical microtubule array
+Stochastic simulations of cargo transport by processive molecular motors
+Stochastic Dynamics of Bionanosystems: Multiscale Analysis and Specialized Ensembles
+Regulatory assembly of the vacuolar proton pump VOV1-ATPase in yeast cells by FLIM-FRET
+Continuum Electrostatics in Cell Biology
+Predictive Modeling of Non-Viral Gene Transfer
+Models of dynamic extraction of lipid tethers from cell membranes
+Bistability of cell-matrix adhesions resulting from non-linear receptor-ligand dynamics
+Transient Pulse Formation in asmonate Signaling Pathway
+Microtubule length distributions in the presence of protein-induced severing
+Heterogeneous anomalous diffusion of virus in cytoplasm of a living cell
+Origin of broad polydispersion in functionalized dendrimers and its effects on cancer cell binding affinity
+Computational Modelling of Nonlinear Calcium Waves
+Traffic of cytoskeletal motors with disordered attachment rates
+Macroscopic Kinetic Effect of Cell-to-Cell Variation in Biochemical Reactions
+History dependent dynamics in a generic model of ion channels - an analytic study
+Tensile Forces and Shape Entropy Explain Observed Crista Structure in Mitochondria
+A Master equation approach to modeling an artificial protein motor
+Force transduction by the microtubule-bound Dam1 ring
+The Aldous-Shields model revisited with application to cellular ageing
+Non-meanfield deterministic limits in chemical reaction kinetics far from equilibrium
+Modeling the formation of in vitro filopodia
+Optimal cytoplasmatic density and flux balance model under macromolecular crowding effects
+Role of the particles stepping cycle in an asymmetric exclusion process: A model of mRNA translation
+Light-harvesting in bacteria exploits a critical interplay between transport and trapping dynamics
+Spatial and Temporal Correlates of Vesicular Release at Hippocampal Synapses
+Undulation instability in a bilayer lipid membrane due to electric field interaction with lipid dipoles
+Polymorphic Dynamics of Microtubules
+Microtubule Dynamics and Oscillating State for Mitotic Spindle
+Phase Transition Induced Fission in Lipid Vesicles
+Dendritic Actin Filament Nucleation Causes Traveling Waves and Patches
+Can entropy save bacteria?
+Model of ionic currents through microtubule nanopores and the lumen
+Revisiting Date and Party Hubs: Novel Approaches to Role Assignment in Protein Interaction Networks
+Mutual information in time-varying biochemical systems
+Analysis of Diffusion of Ras2 in Saccharomyces cerevisiae Using Fluorescence Recovery after Photobleaching
+The role of the cytoskeleton in volume regulation and beading transitions in PC12 neurites
+Computational modelling of the collective stochastic motion of Kinesin nano motors
+Increased accuracy of ligand sensing by receptor internalization
+Leaky Membrane Dynamics
+Crowding effects in non-equilibrium transport through nano-channels
+Segregation of receptor-ligand complexes in cell adhesion zones: Phase diagrams and role of thermal membrane roughness
+Dynamics of the bacterial flagellar motor with multiple stators
+Dynamics of the bacterial flagellar motor with multiple stators - Supporting Information
+Telling time with an intrinsically noisy clock
+Molecular Model of the Contractile Ring
+Renewal-anomalous-heterogeneous files
+The Effects of Stator Compliance Backs Steps Temperature and Clockwise Rotation on the Torque-Speed Curve of Bacterial Flagellar Motor
+Uncorrelated two-state single molecule trajectories from reducible kinetic schemes
+What can one learn from two-state single molecule trajectories?
+Mobility of Min-proteins in Escherichia coli measured by fluorescence correlation spectroscopy
+Molecular Electroporation and the Transduction of Oligoarginines
+An alternative scenario for the formation of specialized protein nano-domains cluster phases in biomembranes
+Quality control by a mobile molecular workshop: quality versus quantity
+Translocation time of periodically forced polymer chains
+Lattice-gas model for active vesicle transport by molecular motors with opposite polarities
+Arrangement of Annexin A2 tetramer and its impact on the structure and diffusivity of supported lipid bilayers
+Intra- and intercellular fluctuations in Min-protein dynamics decrease with cell length
+Toolbox model of evolution of prokaryotic metabolic networks and their regulation
+Modeling the effects of cymene on the distribution of germination and growth of Beauveria bassiana
+Linear noise approximation of noise-induced oscillation in NF- kappa B signaling network
+Sensitivity analysis of a computational model of the IKK-NF- kappa B-I kappa B alpha -A2 signal transduction network
+Microphase separation in nonequilibrium biomembranes
+Demixing of compact polymers chains in three dimensions
+A dynamical systems approach to actin-based motility in Listeria monocytogenes
+Polarity patterns of stress fibers
+RSC remodeling of oligo-nucleosomes: an atomic force microscopy study
+Stochastic approach and fluctuation theorem for ion transport
+Influence of direct motor-motor interaction in models for cargo transport by a single team of motors
+Accurate prediction of gene expression by integration of DNA sequence statistics with detailed modeling of transcription regulation
+Estimation of the number of biophotons involved in the visual perception of a single-object image: Biophoton intensity can be considerably higher inside cells than outside
+A Stochastic Markov Model for Coordinated Molecular Motors
+Facilitated diffusion of proteins on chromatin
+Distribution of dwell times of a ribosome: effects of infidelity kinetic proofreading and ribosome crowding
+Increased accuracy of ligand sensing by receptor diffusion on cell surface
+Dosage-dependent NF-kB oscillatory and heterogeneous dynamics in response to E. Coli Lipopolyssachride stimulation
+Collective response of self-organised clusters of mechanosensitive channels
+Computational modeling of differences in the quorum sensing induced luminescence phenotypes of textit Vibrio harveyi and textit Vibrio cholerae
+Visualization of membrane loss during the shrinkage of giant vesicles under electropulsation
+Phenotypic Heterogeneity in Mycobacterial Stringent Response
+Optimal orientation in branched cytoskeletal networks
+Insights into the mechanisms of electromediated gene delivery and application to the loading of giant vesicles with negatively charged macromolecules
+Electromediated formation of DNA complexes with cell membranes and its consequences for gene delivery
+Stall force of polymerizing microtubules and filament bundles
+Viscoelastic response of contractile filament bundles
+Stochastic model for nucleosome sliding in the presence of DNA ligands
+Non-equilibrium self-assembly of a filament coupled to ATP GTP hydrolysis
+Inhibition of DNA ejection from bacteriophage by Mg 2 counterions
+Role of ATP-hydrolysis in the dynamics of a single actin filament
+Reentrant behavior of divalent counterion mediated DNA-DNA electrostatic interaction
+Stochastic kinetics of a single headed motor protein: dwell time distribution of KIF1A
+Crosstalk between non-processive myosin motors mediated by the actin filament elasticity
+Relative velocity of sliding of microtubules by the action of Kinesin-
+Theoretical analysis of the role of chromatin interactions in long-range action of enhancers and insulators
+Structure formation in active networks
+Clustering in anomalous files of independent particles
+Cooperative protein transport in cellular organelles
+Direct measurement of the correlated dynamics of the protein-backbone and proximal waters of hydration in mechanically strained elastin
+Transcription factor search for a DNA promoter in a three-states model
+Noise Filtering Strategies of Adaptive Signaling Networks: The Case of E. Coli Chemotaxis
+A Surprising Clarification of the Mechanism of Ion-channel Voltage-Gating
+The efficiency of the molecular motors
+Properties of tug-of-war model for cargo transport by molecular motors
+A general two-cycle network model of molecular motors
+Dynamic Stability and Thermodynamic Characterization in an Enzymatic Reaction at the Single Molecule Level
+Diffusion-based DNA target colocalization by thermodynamic mechanisms
+Loose mechanochemical coupling of molecular motors
+Shock of three-state model for intracellular transport of kinesin KIF1A
+Collective dynamics of active cytoskeletal networks
+Dynamic control of catalysis within biological cells
+Remarks on the statistical study of protein-protein interaction in living cells
+Formation and Stability of Synaptic Receptor Domains
+Dynamic modeling of gene expression in prokaryotes: application to glucose-lactose diauxie in Escherichia coli
+Clusters of proteins in bio-membranes: insights into the roles of interaction potential shapes and of protein diversity
+Minimal Bending Energies of Bilayer Polyhedra
+Magnetically-triggered Nanocomposite Membranes: a Versatile Platform for Triggered Drug Release
+Monodisperse domains by proteolytic control of the coarsening instability
+Boundary-induced orientation of dynamic filament networks and vesicle agglomerations
+The mechanical creep compliance of tissue cells is gamma distributed
+Electrostatic models of electron-driven proton transfer across a lipid membrane
+Enzyme sharing as a cause of multistationarity in signaling systems
+On the distribution of estimators of diffusion constants for Brownian motion
+Realistic extensions of a Brownian ratchet for protein translocation
+Effective temperature and glassy dynamics of active matter
+Mechanochemical modeling of dynamic microtubule growth involving sheet-to-tube transition
+Phenomenological analysis of ATP dependence of motor protein
+Directed transport in equilibrium : analysis of the dimer model with inertial terms
+Ion Concentration Dynamics as a Mechanism for Neuronal Bursting
+Cytoskeleton and Cell Motility
+Stochastic theory of protein synthesis and polysome: ribosome profile on a single mRNA transcript
+Non-equilibrium phase transitions in biomolecular signal transduction
+Modeling the early steps of cytoplasmic trafficking in viral infection and gene delivery
+Instrinsic oscillations of treadmilling microtubules in a motor bath
+Agent-Based Modeling of Intracellular Transport
+Exact Analysis of Intrinsic Qualitative Features of Phosphorelays using Mathematical Models
+Toward tunable RNA thermo-switches for temperature dependent gene expression
+Active Polymers Confer Fast Reorganization Kinetics
+Computer Simulation of Cytoskeleton-Induced Blebbing in Lipid Membranes
+Thermal Fluctuations of Anisotropic Semiflexible Polymers
+Steady-state MreB helices inside bacteria: dynamics without motors
+Force-velocity relations for multiple-molecular-motor transport
+Geometric and Electromagnetic Aspects of Fusion Pore Making
+Limits of sensing temporal concentration changes by single cells
+Generic phases of cross-linked active gels: Relaxation Oscillation and Contractility
+Crowding of molecular motors determines microtubule depolymerization
+The plasticity of TGF-beta signaling
+Asymptotic Analysis of Microtubule-Based Transport by Multiple Identical Molecular Motors
+A new cooperation mechanism of kinesin motors when extracting membrane tube
+Challenging packaging limits and infectivity of phage lambda
+Trafficking Coordinate Description of Intracellular Transport Control of Signaling Networks
+Branching actin network remodeling governs the force-velocity relationship
+Tug-of-war of molecular motors: the effects of uneven load sharing
+Incorporating expression data in metabolic modeling: a case study of lactate dehydrogenase
+Multipolar Reactive DPD: A Novel Tool for Spatially Resolved Systems Biology
+Quantification of Biological Robustness at the Systemic Level
+Optimal receptor-cluster size determined by intrinsic and extrinsic noise
+Generic principles of active transport
+Active dendrites enhance neuronal dynamic range
+amming of molecular motors as a tool for transport cargos along microtubules
+Calculation of complex DNA damage induced by ions
+Statistical Physics approach to dendritic computation: The excitable-wave mean-field approximation
+Forces between clustered stereocilia minimize friction in the ear on a subnanometre scale
+Coagulation-fragmentation for a finite number of particles and application to telomere clustering in the yeast nucleus
+The DNA Single-Strand Break Repair Machinery Facilitates CAF-1-Mediated Histone Deposition at Oxidative DNA Strand Breaks
+Classes of fast and specific search mechanisms for proteins on DNA
+Chiral Quasicrystalline Order and Dodecahedral Geometry in Exceptional Families of Viruses
+Optimal Placement of Origins for DNA Replication
+Stochastic force generation by small ensembles of myosin II motors
+Mechanisms of budding of nanoscale particles through lipid bilayers
+A minimal model of plasma membrane heterogeneity requires coupling cortical actin to criticality
+Growth and shortening of microtubules: a two-state model approach
+Membrane clustering and the role of rebinding in biochemical signaling
+Reliability of frequency- and amplitude-decoding in gene regulation
+A solution to the subdiffusion-efficiency paradox: Inactive states enhance reaction efficiency at subdiffusion conditions in living cells
+Relative stereociliary motion in a hair bundle opposes amplification at distortion frequencies
+Machines of life: catalogue stochastic process modeling probabilistic reverse engineering and the PIs- from Aristotle to Alberts
+Optimal estimates of the diffusion coefficient of a single Brownian trajectory
+Requirements for contractility in disordered cytoskeletal bundles
+Living Cell Cytosol Stability to Segregation and Freezing-Out:Thermodynamic aspect
+A first-passage-time theory for search and capture of chromosomes by microtubules in mitosis
+Prolonging assembly through dissociation:A self assembly paradigm in microtubules
+ipping mechanism for force-generation by growing filament bundles
+Experimental observations of dynamic critical phenomena in a lipid membrane
+Possible origins of macroscopic left-right asymmetry in organisms
+Mesoscopic Biochemical Basis of Isogenetic Inheritance and Canalization: Stochasticity Nonlinearity and Emergent Landscape
+Mathematical Modelling of Polarizing GTPases in Developing Axons
+Reconstructing the free-energy landscape associated to molecular motors processivity
+Microtubule length dependence of motor traffic in cells
+The Dynamics of eroth-Order Ultrasensitivity: A Critical Phenomenon in Cell Biology
+Changes in chromatin state in donors subjected to physical stress
+A Mathematical Model of Tripartite Synapse: Astrocyte Induced Synaptic Plasticity
+A Mathematical model for Astrocytes mediated LTP at Single Hippocampal Synapses
+Equilibrium insertion of nanoscale objects into phospholipid bilayers
+Contractile units in disordered actomyosin bundles arise from F-actin buckling
+Steady-state fluctuations of a genetic feedback loop: an exact solution
+Contraction of cross-linked actomyosin bundles
+Simple variation of the logistic map as a model to invoke questions on cellular protein trafficking
+The mechanics of a microscopic mixer: microtubules and cytoplasmic streaming in Drosophila oocytes
+Footprint traversal by ATP-dependent chromatin remodeler motor
+How to Grow an Organism Inside-Out: Evolution of an internal skeleton from an external skeleton in bilateral organisms
+Colorectal cancers differ in respect of PARP-1 protein expression
+Routes to Binary Gene Expression
+Allosteric collaboration between elongation factor G and the ribosomal L1 stalk directs tRNA movements during translation
+How the DNA sequence affects the Hill curve of transcriptional response
+Length-dependent dynamics of microtubules
+Molecular Constraints on Synaptic Tagging and Maintenance of Long-Term Potentiation: A Predictive Model
+Memory-assisted exciton diffusion in the chlorosome light-harvesting antenna of green sulfur bacteria
+The chaos within: exploring noise in cellular biology
+Stabilization of microtubules due to microtubule-associated proteins: A simple model
+Novel steady state of a microtubule assembly in a confined geometry
+An Information Theoretical Analysis of Kinase Activated Phosphorylation Dephosphorylation Cycle
+Stuttering Min oscillations within E. coli bacteria: A stochastic polymerization model
+Generalized microscopic theory of ion selectivity in voltage-gated ion channels
+Running faster together: huge speed up of thermal ratchets due to hydrodynamic coupling
+Origin and diversification of a metabolic cycle in oligomer world
+Extra-Low-Frequency Magnetic Fields alter Cancer Cells through Metabolic Restriction
+Effect of voltage dynamics on response properties in a model of sensory hair cell
+Microtubule Length-Regulation by Molecular Motors
+Signalling noise enhances chemotactic drift of E. coli
+Evidence for early identification of Alzheimers disease
+Time in the cell: a plausible role for the plasma membrane
+Docking Studies on HIV Integrase Inhibitors Based On Potential Ligand Binding Sites
+Anomalous diffusion of phospholipids and cholesterols in a lipid bilayer and its origins
+Flexibility Induced Motion Transition of Active Filament: Rotation without Long-range Hydrodynamic Interaction
+Digital clocks: simple Boolean models can quantitatively describe circadian systems
+Positive feedback and temperature mediated molecular switch controls differential gene regulation in Bordetella pertussis
+Patterning of polar active filaments on a tense cylindrical membrane
+Scale-dependent non-affine elasticity of semiflexible polymer networks
+Application of magnetically induced hyperthermia on the model protozoan Crithidia fasciculata as a potential therapy against parasitic infections
+Cargo transportation by two species of motor protein
+Optimal fits of diffusion constants from single time data points of Brownian trajectories
+The Physics of Life: one molecule at a time
+Spontaneous symmetry breaking in active droplets provides a generic route to motility
+A model for motor-mediated bidirectional transport along an antipolar microtubule bundle
+Actively stressed marginal networks
+On the photosynthetic potential in the very Early Archean oceans
+Facilitated diffusion on mobile DNA: configurational traps and sequence heterogeneity
+Dynamics and length distribution of microtubules under force and confinement
+Quantitative description of ion transport via plasma membrane of yeast and small cells
+Macro-scale Topology Optimization for Controlling Internal Shear Stress in a Porous Scaffold Bioreactor
+Transport on a Lattice with Dynamical Defects
+Cooperative dynamics of microtubule ensembles: Polymerization forces and rescue-induced oscillations
+Ion transport through a graphene nanopore
+Capstan friction model for DNA ejection from bacteriophages
+Encounter dynamics of a small target by a polymer diffusing in a confined domain
+Extremely low-frequency electromagnetic fields cause DNA strand breaks in normal Vero cells
+In vivo facilitated diffusion model
+An Evolutionary Reduction Principle for Mutation Rates at Multiple Loci
+Towards a Nano Geometry? Geometry and Dynamics on Nano Scale
+A theoretical model for attachment lifetimes of kinetochore-microtubules: Mechano-kinetic catch-bond mechanism for error-correction
+Active Gel Model of Amoeboid Cell Motility
+Membrane mediated aggregation of curvature inducing nematogens and membrane tubulation
+Effect of microtubule-associated protein tau in dynamics of single-headed motor proteins KIF1A
+Molecular motors robustly drive active gels to a critically connected state
+An asymmetry between pushing and pulling for crawling cells
+The actin cortex as an active wetting layer
+Comment on Steady-state fluctuations of a genetic feedback loop: an exact solution . Chem. Phys. bf 1 1 212.
+Modeling the Q-cycle mechanism of transmembrane energy conversion
+Multi-ion conduction bands in a simple model of calcium ion channels
+Monolayer curvature stabilizes nanoscale raft domains in mixed lipid bilayers
+Thermodynamic Relaxation Drives Expulsion in Giant Unilamellar Vesicles
+Phase Transition and dissipation driven budding in lipid vesicles
+Unifying autocatalytic and zeroth order branching models for growing actin networks
+Quantifying extrinsic noise in gene expression using the maximum entropy framework
+Stochastic Modelling of T-Cell-Activation
+Mesoscopic model for filament orientation in growing actin networks: the role of obstacle geometry
+Dependence of Substrate Irradiation Reaction Rate Stimulation on Lactic Dehydrogenase Source
+Analysis of the two-regime method on square meshes
+Convergence of methods for coupling of microscopic and mesoscopic reaction-diffusion simulations
+A model of HIV budding and self-assembly role of cell membrane
+Transformation from spots to waves in a model of actin pattern formation
+Transition to superdiffusive behavior in intracellular actin-based transport mediated by molecular motors
+Predictions from a stochastic polymer model for the MinDE dynamics in E.coli
+A model for the orientational ordering of the plant microtubule cortical array
+Structural Reorganization of Parallel Actin Bundles by Crosslinking Proteins: Incommensurate States of Twist
+Microtubules Interacting with a Boundary: Mean Length and Mean First-Passage Times
+Dislocation-mediated growth of bacterial cell walls
+Directional interactions and cooperativity between mechanosensitive membrane proteins
+Spatial and Temporal Sensing Limits of Microtubule Polarization in Neuronal Growth Cones by Intracellular Gradients and Forces
+Theory and experiment reveal unexpected calcium profiles in one-dimensional systems
+Muscle contraction and the elasticity-mediated crosstalk effect
+Distance matters: the impact of gene proximity in bacterial gene regulation
+A Model for the Dynamics of Gene Networks
+Maxwells demon for calcium binding to calmodulin?
+Hydrodynamic Instabilities Provide A Generic Route To Spontaneous Biomimetic Oscillations In Chemomechanically Active Filaments
+Solving single molecules: filtering noisy discrete data made of photons and other type of observables
+From Clarkia to Escherichia and anus: the physics of natural and synthetic active colloids
+Coupling between switching regulation and torque generation in bacterial flagellar motor
+Bursts of Active Transport in Living Cells
+Translation by adaptor-helicase cycle in oligomer world
+Motor function in interpolar microtubules during metaphase
+Diffusion dimensionality and noise in transcriptional regulation
+Effectiveness of a dynein team in tug-of-war helped by reduced load-sensitivity of detachment: evidence from study of bidirectional endosome transport in Dictyostelium discoideum
+A Convergent Reaction-Diffusion Master Equation
+The Influence of Spatial Variation in Chromatin Density Determined by -ray Tomograms on the Time to Find DNA Binding Sites
+A new model of filtration and macromolecules transport across capillary walls
+A simple model of filtration and macromolecule transport through microvascular walls
+Cell-cycle regulated transcription associates with DNA replication timing in yeast and human
+Transient domain formation in membrane-bound organelles undergoing maturation
+AQP1 Is Not Only a Water Channel: It Contributes to Cell Migration through Lin Beta-Catenin
+CCR a Newly Defined Biomarker of Tissue-Specific Stem Cell Asymmetric Self-Renewal Identifies More Aggressive Human Melanoma Cancer Stem Cells
+Modelling the efficacy of hyperthermia treatment
+Intrinsic noise of microRNA-regulated genes and the ceRNA hypothesis
+Sticky Surfaces: Sphere-Sphere Adhesion Dynamics
+The effects of transcription factor competition on gene regulation
+Metastable behavior in Markov processes with internal states
+Intracellular facilitated diffusion: searchers crowders and blockers
+A model for the self-organization of vesicular flux and protein distributions in the Golgi apparatus
+Nonlinear Biochemical Signal Processing via Noise Propagation
+Nanoscale elucidation of Na K-ATPase isoforms in dendritic spines
+Kinetic vs. energetic discrimination in biological copying
+Quantification of noise in the bifunctionality-induced post-translational modification
+First-passage problems in DNA replication: effects of template tension on stepping and exonuclease activities of a DNA polymerase motor
+Stochastic dynamics of small ensembles of non-processive molecular motors: the parallel cluster model
+Control of ribosome traffic by position-dependent choice of synonymous codons
+Clustering and optimal arrangement of enzymes in reaction-diffusion systems
+Optimization of collective enzyme activity via spatial localization
+The macroscopic effects of microscopic heterogeneity
+Nonlocal actin orientation models select for a unique orientation pattern
+Single-Neuron Criticality Optimizes Analog Dendritic Computation
+Memory Bias and Correlations in Bidirectional Transport of Molecular Motor-driven Cargoes
+Microtubule catastrophe from protofilament dynamics
+Slow protein fluctuations explain the emergence of growth phenotypes and persistence in clonal bacterial populations
+A genome wide dosage suppressor network reveals genetic robustness and a novel mechanism for Huntingtons disease
+The importance of crowding in signaling genetic and metabolic networks
+Channel noise induced stochastic facilitation in an auditory brainstem neuron model
+Single molecule enzymology a la Michaelis-Menten
+Properties of sodium-driven bacterial flagellar motor: A two-state model approach
+Self-regulating genes. Exact steady state solution by using Poisson Representation
+Biological mechanism and identifiability of a class of stationary conductance model for Voltage-gated Ion channels
+Development of Morphogen Gradient: The Role of Dimension and Discreteness
+Dynamical Modeling of the Interaction between Autophagy and Apoptosis in Mammalian Cells:A Systems Pharmacology Framework
+Patterns in Space: Coordinating Adhesion and Actomyosin Contractility at E-cadherin unctions
+Non-equilibrium stochastic model for tRNA binding time statistics
+Analysis of DevR regulated genes in Mycobacterium tuberculosis
+Cooperative wrapping of nanoparticles by membrane tubes
+Active polar fluid flow in finite droplets
+Modelling the effect of myosin  motors on filopodia growth
+Collective behavior of minus-ended motors in mitotic microtubule asters gliding towards DNA
+Greatwall-phosphorylated Endosulfine is Both an Inhibitor and a Substrate of PP2A-B Heterotrimers
+Finite size effects in non-equilibrium membrane phase separation
+Electrodiffusive model for astrocytic and neuronal ion concentration dynamics
+Quantitative analysis of intra-Golgi transport reveals inter-cisternal exchange for all cargo
+Coexistence and efficiency of normal and anomalous transport by molecular motors in living cells
+Distribution of lifetimes of kinetochore-microtubule attachments: interplay of energy landscape molecular motors and microtubule de-polymerization
+Non-equilibrium structure and dynamics in a microscopic model of thin film active gels
+Role of functionality in two-component signal transduction: A stochastic study
+Virus Assembly on a Membrane is Facilitated by Membrane Microdomains
+A chromatin structure based model accurately predicts DNA replication timing in human cells
+Entropy production of a steady-growth cell with catalytic reactions
+CRISPR Cas For Photoactivated Localization Microscopy PALM
+Force-induced dynamical properties of multiple cytoskeletal filaments are distinct from that of single filaments
+Getting into shape: how do rod-like bacteria control their geometry?
+A computational study of stress fiber-focal adhesion dynamics governing cell contractility
+The mechano-chemistry of cytoskeletal force generation
+Motor regulation results in distal forces that bend partially disintegrated Chlamydomonas axonemes into circular arcs
+Anomalous diffusion in fractal globules
+Thermodynamic constraints on neural dimensions firing rates brain temperature and size
+Collective force generated by multiple biofilaments can exceed the sum of forces due to individual ones
+Stochastic Dynamics of Electrical Membrane with Voltage-Dependent Ion Channel Fluctuations
+Studying protein assembly with reversible Brownian dynamics of patchy particles
+Cell development obeys maximum Fisher information
+Bistable protein distributions in rod-shaped bacteria
+Nonspecic transcription factor binding reduces variability in transcription factor and target protein expression
+Moment Closure Approximations in a Genetic Negative Feedback Circuit
+Why Microtubules run in Circles - Mechanical Hysteresis of the Tubulin Lattice
+Isolating intrinsic noise sources in a stochastic genetic switch
+Traffic ams and Shocks of Molecular Motors inside Cellular Protrusions
+Effective two-dimensional model does not account for geometry sensing by self-organized proteins patterns - Supplementary document
+Variable stoichiometry among core ribosomal proteins
+Response to Halatek and Frey: Effective two-dimensional model does account for geometry sensing by self-organized proteins patterns
+Suppression and enhancement of transcriptional noise by DNA looping
+Fluorescence Correlation Spectroscopy and Nonlinear Stochastic Reaction-Diffusion
+Towards quantitative prediction of proteasomal digestion patterns of proteins
+Biophysics of filament length regulation by molecular motors
+Does Plasmodium falciparum have an Achilles heel?
+Potential wells for AMPA receptors organized in ring nanodomains
+Modelling Lipid Competition Dynamics in Heterogeneous Protocell Populations
+The Long and Viscous Road: Uncovering Nuclear Diffusion Barriers in Closed Mitosis
+Force generation by Myosin II Filaments in Compliant Networks
+Residence times of receptors in dendritic spines analyzed by simulations in empirical domains
+Stochastic modeling of cargo transport by teams of molecular motors
+Ligand-dependent opening of the multiple AMPA receptor conductance states: a concerted model
+A reaction-subdiffusion model of fluorescence recovery after photobleaching FRAP
+Noise-induced multistability in chemical systems: Discrete vs Continuum modeling
+Topology Regulation during Replication of the Kinetoplast DNA
+First Passage Problems in Biology
+Protein translocation without specific quality control in a computational model of the Tat system
+Model for bidirectional movement of cytoplasmic dynein
+Bidirectional transport and pulsing states in a multi-lane ASEP model
+Stepping and crowding of molecular motors: statistical kinetics from an exclusion process perspective
+Protein crowding on biomembranes: analysis of contour instabilities
+Stochastic dynamics and mechanosensitivity of myosin II minifilaments
+Motor proteins traffic regulation by supply-demand balance of resources
+Kinesin Motor Transport is Altered by Macromolecular Crowding and Transiently Associated Microtubule-Associated Proteins
+Influence of Multiplicative Stochastic Variation on Translational Elongation Rates
+Sensitivity of mRNA Translation
+Type-IV Pilus Deformation Can Explain Retraction Behavior
+Pearling instability of membrane tubes driven by curved proteins and actin polymerization
+Fluctuation effects in bidirectional cargo transport
+Fast cholesterol flip-flop and lack of swelling in skin lipid multilayers
+Environmental control of microtubule-based bidirectional cargo-transport
+Molecular Mechanisms for Microtubule Length Regulation by Kinesin- and MAP21 Proteins
+The lower bound on the precision of transcriptional regulation
+Conformational mechanism for the stability of microtubule-kinetochore attachments
+Geometrical origins of contractility in disordered actomyosin networks
+Ensemble velocity of non-processive molecular motors with multiple chemical states
+Simulated Cytoskeletal Collapse via Tau Degradation
+Anomalous transport of subdiffusing cargos by single kinesin motors: the role of mechanochemical coupling and anharmonicity of tether
+Boundary induced phase transition with stochastic entrance and exit
+Single-cell analysis of growth in budding yeast and bacteria reveals a common size regulation strategy
+Glucagon stop-go kinetics supports a monomer-trimer fibrillation model
+Single-molecule modeling of mRNA degradation by miRNA: Lessons from data
+Condensation of actin filaments pushing against a barrier
+Dominance of extreme statistics in a prototype many-body Brownian ratchet
+Cytoplasmic nanojunctions between lysosomes and sarcoplasmic reticulum are required for specific calcium signaling
+Efficiency of cellular information processing
+The robustness of proofreading to crowding-induced pseudo-processivity in the MAPK pathway
+Salinity tolerance in plants: attempts to manipulate ion transport
+Connecting local active forces to macroscopic stress in elastic media
+Working under confinement
+Antenna mechanism of length control of actin cables
+Minimal model of transcriptional elongation processes with pauses
+Quantifying the role of chaperones in protein translocation by computational modelling
+Single cell visualization of transcription kinetics variance of highly mobile identical genes using D nanoimaging
+Efficiency of cellular uptake of nanoparticles via receptor-mediated endocytosis
+First passage times and asymmetry of DNA translocation
+Coupling of actin hydrolysis and polymerization: Reduced description with two nucleotide states
+Effects of microtubule mechanics on hydrolysis and catastrophes
+Protein synthesis driven by dynamical stochastic transcription
+Coherent regulation in yeast cell cycle network
+Forced desorption of semiflexible polymers adsorbed and driven by molecular motors
+Theory of cargo and membrane trafficking
+Feedback Mechanism for Microtubule Length Regulation by Stathmin Gradients
+Single-enzyme kinetics with branched pathways: exact theory and series expansion
+Aging in catastrophe as a mechanism for oscillations in microtubule dynamics
+Transport of organelles by elastically coupled motor proteins
+Probabilistic self-organization in meiosis I
+Active patterning and asymmetric transport in a model actomyosin network
+Asymptotic and numerical methods for metastable events in stochastic gene networks
+Single molecule thermodynamics of ATP synthesis by F 1 -ATPase
+Ion mediated cross-shield driven mucous swelling kinetics
+Collective cargo hauling by a bundle of parallel microtubules: bi-directional motion caused by load-dependent polymerization and depolymerization
+Reaction rates for mesoscopic reaction-diffusion kinetics
+Transcriptional leakage versus noise: A simple mechanism of conversion between binary and graded response in autoregulated genes
+Viscoelasticity of model interphase chromosomes
+Motility states in bidirectional cargo transport
+The flavin reductase ActVB from Streptomyces coelicolor: characterization of the electron transferase activity of the flavoprotein form
+New insights on the Dynamic Cellular Metabolism
+Persistence of activity in noisy motor-filament assemblies
+Persistence of strain in motor-filament assemblies
+Mechanics of torque generation in the bacterial flagellar motor
+Signal focusing through active transport
+Cryoelectron Microscopy as a Functional Instrument for Systems Biology Structural Analysis Experimental Manipulations with Living Cells. A comprehensive review of the current works
+How to get moving: lessons in eukaryotic motility from a prototypic model of cell polarization
+Healthy sweet inhibitor of Plasmodium falciparum aquaglyceroporin
+Composition variation and underdamped mechanics near membrane proteins and coats
+Detachment Futile Cycling and Nucleotide Pocket Collapse in Myosin-V Stepping
+Role of dynamic capsomere supply for viral capsid self-assembly
+Stochastic dynamics of virus capsid formation: direct versus hierarchical self-assembly
+Analysis of single particle trajectories: when things go wrong
+Epigenetics: What it is about?
+Endocytic proteins drive vesicle growth via instability in high membrane tension environment
+Aggregation-fragmentation model of robust concentration gradient formation
+Mathematical and Statistical Techniques for Systems Medicine: The Wnt Signaling Pathway as a Case Study
+Theoretical analysis of transcription process with polymerase stalling
+Translation with frameshifting of ribosome along mRNA transcript
+Many-body effects in tracer particle diffusion with applications for single-protein dynamics on DNA
+Photostimulation activates restorable fragmentation of single mitochondrion by initiating oxide flashes

@@ -1,0 +1,251 @@
+Virtualization: A double-edged sword
+A network file system over HTTP: remote access and modification of files and files
+Solaris System Resource Manager: All I Ever Wanted Was My Unfair Advantage (And Why ou Cant Have It )
+UNI Resource Managers: Capacity Planning and Resource Issues
+System Support for Bandwidth Management and Content Adaptation in Internet Applications
+Open Source Real Time Operating Systems Overview
+The Weaves Reconfigurable Programming Framework
+Experimental Software Schedulability Estimation For Varied Processor Frequencies
+The combinatorics of resource sharing
+End-User Effects of Microreboots in Three-Tiered Internet Systems
+Predictable Software -- A Shortcut to Dependable Computing 
+Microreboot -- A Technique for Cheap Recovery
+Securing Data in Storage: A Review of Current Research
+A Shared Write-protected Root Filesystem for a Group of Networked Clients
+Modeling the input history of programs for improved instruction-memory performance
+Threats of Human Error in a High-Performance Storage System: Problem Statement and Case Study
+Sequential File Programming Patterns and Performance with NET
+Markets are Dead Long Live Markets
+UNICORE - From Proect Results to Production Grids
+A File System Abstraction for Sense and Respond Systems
+A Scalable Stream-Oriented Framework for Cluster Applications
+Software Performance Analysis
+Disks Partitions Volumes and RAID Performance with the Linux Operating System
+A Fresh Look at the Reliability of Long-term Digital Storage
+A Survey of Virtualization Techniques Focusing on Secure On-Demand Cluster Computing
+Checkbochs: Use Hardware to Check Software
+Language Support for Optional Functionality
+Unmanaged Internet Protocol: Taming the Edge Network Management Crisis
+User-Relative Names for Globally Connected Personal Devices
+Secure Component Deployment in the OSGi(tm) Release  Platform
+A Low-Footprint Class Loading Mechanism for Embedded Java Virtual Machines
+2FACE: Bi-Directional Face Traversal for Efficient Geometric Routing
+Executing the same binary on several operating systems
+The Design and Architecture of the Microsoft Cluster Service -- A Practical Approach to High-Availability and Scalability
+A nested transaction mechanism for LOCUS
+A Flit Level Simulator for Wormhole Routing
+Perpetual Adaptation of Software to Hardware: An Extensible Architecture for Providing Code Optimization as a Central System Service
+ODP channel obects that provide services transparently for distributing processing systems
+A Survey of Unix Init Schemes
+Practical Multiwriter Lock-Free Queues for Hard Real-Time Systems without CAS
+After Compilers and Operating Systems : The Third Advance in Application Support
+Exact Feasibility Tests for Real-Time Scheduling of Periodic Tasks upon Multiprocessor Platforms
+Power-Aware Real-Time Scheduling upon Identical Multiprocessor Platforms
+Discovering Network Topology in the Presence of Byzantine Faults
+Discrete Frequency Selection of Frame-Based Stochastic Real-Time Tasks
+Integrating Job Parallelism in Real-Time Scheduling Theory
+Local Read-Write Operations in Sensor Networks
+Interface Matching and Combining Techniques for Services Integration
+A Distributed and Deterministic TDMA Algorithm for Write-All-With-Collision Model
+(m k)-firm constraints and DBP scheduling: impact of the initial k-sequence and exact schedulability test
+Managing Varying Worst Case Execution Times on DVS Platforms
+Multiprocessor Global Scheduling on Frame-Based DVFS Systems
+Mode Change Protocol for Multi-Mode Real-Time Systems upon Identical Multiprocessors
+Optimizing Binary Code Produced by Valgrind (Proect Report on Virtual Execution Environments Course - AVExe)
+The meaning of concurrent programs
+SAFIUS - A secure and accountable filesystem over untrusted storage
+A Type System for Data-Flow Integrity on Windows Vista
+Performance Evaluation of Multiple TCP connections in iSCSI
+Void Traversal for Guaranteed Delivery in Geometric Routing
+Telex: Principled System Support for Write-Sharing in Collaborative Applications
+Control-theoretic dynamic voltage scaling for embedded controllers
+Feedback Scheduling: An Event-Driven Paradigm
+Package upgrades in FOSS distributions: details and challenges
+DMTCP: Transparent Checkpointing for Cluster Computations and the Desktop
+CloudSim: A Novel Framework for Modeling and Simulation of Cloud Computing Infrastructures and Services
+MORA: an Energy-Aware Slack Reclamation Scheme for Scheduling Sporadic Real-Time Tasks upon Multiprocessor Platforms
+Aneka: A Software Platform for NET-based Cloud Computing
+Predictability of Fixed-Job Priority Schedulers on Heterogeneous Multiprocessor Real-Time Systems
+Remembrance: The Unbearable Sentience of Being Digital
+A Conceivable Origin of Machine Consciousness in the IDLE process
+Tycoon: an Implementation of a Distributed Market-based Resource Allocation System
+Virtual-Threading: Advanced General Purpose Processors Architecture
+Temporal Debugging using URDB
+On the stability of two-chunk file-sharing systems
+A New Scheduling Algorithms For Real Time Tasks
+Sharp utilization thresholds for some real-time scheduling problems
+Process Description of COM Obect Life Cycle
+A distributed file system for a wide-area high performance computing infrastructure
+Fault Tolerance in Real Time Multiprocessors - Embedded Systems
+Deterministic Consistency: A Programming Model for Shared Memory Parallelism
+A Data Capsule Framework For Web Services: Providing Flexible Data Access Control To Users
+A new model for virtual machine migration in virtualized cluster server based on Fuzzy Decision Making
+FIFO anomaly is unbounded
+Proficient Pair of Replacement Algorithms on L and L2 Cache for Merge Sort
+Searching publications on operating systems
+Scheduling Multi-Mode Real-Time Systems upon Uniform Multiprocessor Platforms
+Efficient System-Enforced Deterministic Parallelism
+File Managing and Program Execution in Web Operating Systems
+On the definition of a theoretical concept of an operating system
+Perbandingan Shell Unix
+Gang FTP scheduling of periodic and parallel rigid real-time tasks
+Semi-Partitioned Hard Real-Time Scheduling with Restricted Migrations upon Identical Multiprocessor Platforms
+Determinating Timing Channels in Compute Clouds
+Simulation de traces r eelles dE S disque de PC
+Dynamic and Transparent Analysis of Commodity Production Systems
+Scaling Turbo Boost to a  cores
+CloneCloud: Boosting Mobile Device Applications Through Cloud Clone Execution
+An Introduction to Time-Constrained Automata
+Use of Data Mining in Scheduler Optimization
+Leakage-Aware Reallocation for Periodic Real-Time Tasks on Multicore Processors
+Sesame: Self-Constructive System Energy Modeling for Battery-Powered Mobile Systems
+Seamless Flow Migration on Smartphones without Network Support
+Customer Appeasement Scheduling
+Application of Global and One-Dimensional Local Optimization to Operating System Scheduler Tuning
+Dynamic Scheduling of Skippable Periodic Tasks with Energy Efficiency in Weakly Hard Real-Time System
+Exact Schedulability Test for global-EDF Scheduling of Periodic Hard Real-Time Tasks on Identical Multiprocessors
+On the Design of an Optimal Multiprocessor Real-Time Scheduling Algorithm under Practical Considerations (Extended Version)
+Comparison of Loss ratios of different scheduling algorithms
+Multi-Criteria Evaluation of Partitioning Schemes for Real-Time Systems
+Global Scheduling of Multi-Mode Real-Time Applications upon Multiprocessor Platforms
+Efficient and Playful Tools to Teach Unix to New Students
+Building enoBuntu Linux Distribution for Teaching and Prototyping Real-Time Operating Systems
+Transparent Programming of Heterogeneous Smartphones for Sensing
+A New Proposed Dynamic Quantum with Re-Adusted Round Robin Scheduling Algorithm and Its Performance Analysis
+A New Dynamic Round Robin and SRTN Algorithm with Variable Original Time Slice and Intelligent Time Slice for Soft Real Time Systems
+Deterministic Real-time Thread Scheduling
+An Optimal Real-Time Scheduling Approach: From Multiprocessor to Uniprocessor
+Priority Based Dynamic Round Robin (PBDRR) Algorithm with Intelligent Time Slice for Soft Real Time Systems
+User Mode Memory Page Allocation: A Silver Bullet For Memory Allocation
+User Mode Memory Page Management: An old idea applied anew to the memory wall problem
+Unleashing the Power of Mobile Cloud Computing using ThinkAir
+Scheduling of Hard Real-Time Multi-Thread Periodic Tasks
+Supporting Parallelism in Server-based Multiprocessor Systems
+A Characterization of the SPARC T- System
+Efficient Deterministic Replay Using Complete Race Detection
+Towards Bridging IoT and Cloud Services: Proposing Smartphones as Mobile and Autonomic Service Gateways
+A faster exact multiprocessor schedulability test for sporadic tasks
+Light-weight Locks
+Design and Performance Evaluation of A New Proposed Fittest Job First Dynamic Round Robin(FJFDRR) Scheduling Algorithm
+Comparative performance analysis of multi dynamic time quantum Round Robin(MDTQRR) algorithm with arrival time
+Efficient Synchronization Primitives for GPUs
+Sufficient FTP Schedulability Test for the Non-Cyclic Generalized Multiframe Task Model
+Java Components Vulnerabilities - An Experimental Classification Targeted at the OSGi Platform
+OS Debugging Method Using a Lightweight Virtual Machine Monitor
+RTK-Spec TRON: A Simulation Model of an ITRON Based RTOS Kernel in SystemC
+The UWB Solution for Multimedia Traffic in Wireless Sensor Networks
+Evolution of a Modular Software Network
+A New Round Robin Based Scheduling Algorithm for Operating Systems: Dynamic Quantum Using the Mean Average
+Robustness Analysis for Battery Supported Cyber-Physical Systems
+DRAFT : Task System and Item Architecture (TSIA)
+Quest-V: A Virtualized Multikernel for High-Confidence Systems
+What is an OS
+AdSplit: Separating smartphone advertising from applications
+Windows And Linux Operating Systems From A Security Perspective
+Schedulability Test for Soft Real-Time Systems under Multiprocessor Environment by using an Earliest Deadline First Scheduling Algorithm
+Age Based User Interface in Mobile Operating System
+Proposed Challenges And Areas of Concern in Operating System Research and Development
+How to Bypass Verified Boot Security in Chromium OS
+Energy-Aware Task Partitioning on Heterogeneous Multiprocessor Platforms
+The Necessity for Hardware QoS Support for Server Consolidation and Cloud Computing
+A Secure Dynamic Job Scheduling on Smart Grid using RSA Algorithm
+Performance Evaluation of Flash File Systems
+Building Resilient Cloud Over Unreliable Commodity Infrastructure
+Security Issues in the Android Cross-Layer Architecture
+Classification Of Heterogeneous Operating System
+JooFlux: Hiacking Java  InvokeDynamic To Support Live Code Modifications
+Online Adaptive Fault Tolerant based Feedback Control Scheduling Algorithm for Multiprocessor Embedded Systems
+Disk Scheduling: Selection of Algorithm
+An Insight View of Kernel Visual Debugger in System Boot up
+Multicore Dynamic Kernel Modules Attachment Technique for Kernel Performance Enhancement
+Automatic Verification of Message-Based Device Drivers
+A Formal Model of a Virtual Filesystem Switch
+On the Use of Underspecified Data-Type Semantics for Type Safety in Low-Level Code
+Chiefly Symmetric: Results on the Scalability of Probabilistic Model Checking for Operating-System Code
+A Generic Checkpoint-Restart Mechanism for Virtual Machines
+Feasibility Tests for Recurrent Real-Time Tasks in the Sporadic DAG Model
+Adaptive Scheduling in Real-Time Systems Through Period Adustment
+LNOS - Live Network Operating System
+Dynamic Transparent General Purpose Process Migration For Linux
+Schedulability Analysis of Distributed Real-Time Applications under Dependence and Several Latency Constraints
+Parametric Schedulability Analysis of Fixed Priority Real-Time Distributed Systems
+Energy Minimization for Parallel Real-Time Systems with Malleable Jobs and Homogeneous Frequencies
+Capturing Information Flows inside Android and Qemu Environments
+LFTL: A multi-threaded FTL for a Parallel IO Flash Card under Linux
+Towards Python-based Domain-specific Languages for Self-reconfigurable Modular Robotics Research
+Survey of Server Virtualization
+Making I O Virtualization Easy with Device Files
+Paging with dynamic memory capacity
+Invasive Computing - Common Terms and Granularity of Invasion
+Network Control Systems RTAI framework A Review
+Practical Fine-grained Privilege Separation in Multithreaded Applications
+Augmenting Operating Systems With the GPU
+On the periodic behavior of real-time schedulers on identical multiprocessor platforms
+RevDedup: A Reverse Deduplication Storage System Optimized for Reads to Latest Backups
+EURETILE 2-22 summary: first three years of activity of the European Reference Tiled Experiment
+V-BOINC: The Virtualization of BOINC
+Partitioned scheduling of multimode multiprocessor real-time systems with temporal isolation
+A Comparative Study of CPU Scheduling Algorithms
+An Optimum Multilevel Dynamic Round Robin Scheduling Algorithm
+The Unix KISS: A Case Study
+An Improving Method for Loop Unrolling
+Intensional view of General Single Processor Operating Systems
+Opacity of Memory Management in Software Transactional Memory
+Flashmon V2: Monitoring Raw NAND Flash Memory I O Requests on Embedded Linux
+Simulation of an Optimum Multilevel Dynamic Round Robin Scheduling Algorithm
+Cudagrind: A Valgrind Extension for CUDA
+Impacting the bioscience progress by backporting software for Bio-Linux
+C2MS: Dynamic Monitoring and Management of Cloud Infrastructures
+The Quest-V Separation Kernel for Mixed Criticality Systems
+Predictable Migration and Communication in the Quest-V Multikernel
+Quest-V: A Virtualized Multikernel for Safety-Critical Real-Time Systems
+Efficient Runtime Monitoring with Metric Temporal Logic: A Case Study in the Android Operating System
+Impact of Limpware on HDFS: A Probabilistic Estimation
+On Benchmarking Embedded Linux Flash File Systems
+A Hardware Time Manager Implementation for the enomai Real-Time Kernel of Embedded Linux
+File System - A Component of Operating System
+Towards the Framework of the File Systems Performance Evaluation Techniques and the Taxonomy of Replay Traces
+Cache-aware static scheduling for hard real-time multicore systems based on communication affinities
+Rio: A System Solution for Sharing I O between Mobile Systems
+Support for Error Tolerance in the Real-Time Transport Protocol
+Revisiting deadlock prevention: a probabilistic approach
+Performance Impact of Lock-Free Algorithms on Multicore Communication APIs
+Anception: Application Virtualization For Android
+Transparent Checkpoint-Restart over InfiniBand
+Transparent Checkpoint-Restart for Hardware-Accelerated D Graphics
+LWRP: Low Power Consumption Weighting Replacement Policy using Buffer Memory
+Formal Description of Components in Operating Systems
+Performance Evaluation of Java File Security System (JFSS)
+Design and Performance Evaluation of an Optimized Disk Scheduling Algorithm (ODSA)
+A Group based Time Quantum Round Robin Algorithm using Min-Max Spread Measure
+A Taxonomy for Attack Patterns on Information Flows in Component-Based Operating Systems
+Task Resource Self-adaptive Embedded Real-time Operating System Microkernel for Wireless Sensor Nodes
+File System Design Approaches
+Toward Parametric Timed Interfaces for Real-Time Components
+An Effective Round Robin Algorithm using Min-Max Dispersion Measure
+Enhancing CPU Performance using Subcontrary Mean Dynamic Round Robin (SMDRR) Scheduling Algorithm
+Managing NymBoxes for Identity and Tracking Protection
+Proceedings of the First Workshop on Resource Awareness and Adaptivity in Multi-Core Computing (Racing 2)
+Heterogeneity-aware Fault Tolerance using a Self-Organizing Runtime System
+Resource-Aware Replication on Heterogeneous Multicores: Challenges and Opportunities
+Hello rootKitty: A lightweight invariance-enforcing framework
+Supporting Soft Real-Time Sporadic Task Systems on Heterogeneous Multiprocessors with No Utilization Loss
+Timing Analysis for DAG-based and GFP Scheduled Tasks
+On the Reverse Engineering of the Citadel Botnet
+Preemptive Thread Block Scheduling with Online Structural Runtime Prediction for Concurrent GPGPU Kernels
+An Enhanced Multi-Pager Environment Support for Second Generation Microkernels
+Effects of Hard Real-Time Constraints in Implementing the Myopic Scheduling Algorithm
+Security of OS-level virtualization technologies: Technical report
+Faults in Linux 2
+Assessment of Response Time for New Multi Level Feedback Queue Scheduler
+Making FPGAs Accessible to Scientists and Engineers as Domain Expert Software Programmers with LabVIEW
+Rank-Aware Dynamic Migrations and Adaptive Demotions for DRAM Power Management
+Proceedings 2 International Workshop on Advanced Intrusion Detection and Prevention
+Mining Block I O Traces for Cache Preloading with Sparse Temporal Non-parametric Mixture of Multivariate Poisson
+Sprobes: Enforcing Kernel Code Integrity on the Trustone Architecture
+A First Look at Firefox OS Security
+Glider: A GPU Library Driver for Improved System Security
+A Case Study: Task Scheduling Methodologies for High Speed Computing Systems
+k2U: A General Framework from k-Point Effective Schedulability Analysis to Utilization-Based Tests
+OS-level Failure Inection with SystemTap
+Protecting Memory-Performance Critical Sections in Soft Real-Time Applications

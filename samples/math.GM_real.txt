@@ -1,0 +1,1772 @@
+A procedure for finding the k-th power of a matrix
+Fundamental solutions for a class of non-elliptic homogeneous differential operators
+The concrete theory of numbers: initial numbers and wonderful properties of numbers repunit
+Decartes' Perfect Lens
+Another Riemann-Farey Computation
+Identities for number series and their reciprocals: Dirac delta function approach
+On Carmichael's Conjecture
+Representation Of Level Paths Of An Analytic Function
+Triacontagonal coordinates for the E() root system
+Existence and Number of Solutions of Diophantine Quadratic Equations with Two Unknowns in Z and N
+The General Form Of Cyclic Orthonormal Generators In R N
+On the Theory of Colorful Graphs
+On Solving General Linear Equations in the Set of Natural Numbers
+How to release Frege's system from Russell's antinomy
+On Two of Erd os's Open Problems
+Subjective Questions and Answers for a Mathematics Instructor of Higher Education
+On the Riemann zeta-function Part I: Outline
+Discontinuity and Involutions on Countable Sets
+On the complexity of solving ordinary differential equations in terms of Puiseux series
+p -Adic Haar multiresolution analysis and pseudo-differential operators
+Ces aro means of orthogonal expansions in several variables
+On the Riemann zeta-function Part II
+On the Riemann zeta-function Part III
+Notes on planar semimodular lattices. I. Construction
+The Call of Mathematics
+On Stability of Sampling-Reconstruction Models
+Utilitarian resource assignment
+On SUSY-QM fractal strings and steps towards a proof of the Riemann hypothesis
+Final steps towards a proof of the Riemann hypothesis
+Integrating factors for second order ODEs
+First order ODEs Symmetries and Linear Transformations
+The introduction to the operator method for solving differential equations.First-order DE
+Majorana transformation for differential equations
+The structure of general solutions and integrability conditions for rational first-order ODE's
+Equivalent forms of the Bessis-Moussa-Villani conjecture
+The rational generalized integrating factors for first-order ODEs
+Fractional operators and special functions. II. Legendre functions
+Minimal Riesz Energy Point Configurations for Rectifiable d-Dimensional Manifolds
+A hyper-geometric approach to the BMV-conjecture
+Elliptic Faulhaber polynomials and Lam 'e densities of states
+Lam 'e equation quantum top and elliptic Bernoulli polynomials
+p-Adic analysis in the Lizorkin type spaces: fractional operators pseudo-differential equations and Tauberian theorems
+Nonlinear Integral-Equation Formulation of Orthogonal Polynomials
+p -Adic multidimensional wavelets and their application to p -adic pseudo-differential operators
+Generalized functions as a tool for nonsmooth nonlinear problems in mathematics and physics
+Dirichlet integral dual-access collocation-kernel space analytic interpolation for unit disks: DIDACKS I
+A new integral representation for the Riemann Zeta function
+Simple Divisibility Rules for the 1st 1000 Prime Numbers
+Tactics dialectics representation theory
+Integer Sequences associated with Integer Monic Polynomial
+Symbolic computation of the roots of any polynomial with integer coefficients
+Roots of any Polynomial with Complex Integer Coefficients using Replacement Sequences Ruler and Compass
+An Abel ordinary differential equation class generalizing known integrable classes
+Random triangle problem: geometrical approach
+Bifurcating Continued Fractions
+Experimental detection of interactive phenomena and their analysis
+Matrix exponentials
+On the Complete Solution to the Most General Fifth Degree Polynomial
+A Possible Origin of Logic
+A lemma on the minimal surfaces
+A Proof of Goldbach's Conjecture
+On the dynamic flows
+On the quantum model of gravitational electrodynamics
+Goldbach's Rule
+On the generation of linear groups by combinatoric groups
+On the rigid algebraic structure of Euclidean spaces
+On some mathematical construction of many-dimensional cosmos
+On the interior structure of exterior algebra
+New mathematical methods for psychophysical filtering of experimental data and their processing
+Orthogonal matrices with rational components in composing tests for High School students
+Antinomies of Mathematical Reason: The Inconsistency of PM Arithmetic and Related Systems
+Density preserving functions
+Nonlocal Mathematics
+Bifurcating Continued Fractions II
+Why a Conjecture of Poincare Doesn't Work
+On Partitions of Goldbach's Conjecture
+Introductory Calculus from the Viewpoint of Non-Standard Analysis - Derivative of Sine and Cosine
+An Introduction to the Neutrosophic Probability Applied in Quantum Physics
+On Rugina's System of Thought
+Neutrosophy
+Special Algebraic Structures
+Mixed Non-Euclidean Geometries
+Linguistic Paradoxes and Tautologies
+A Set of Sequences in Number Theory
+Numerology
+Funny Problems
+Another Set of Sequences Sub-Sequences and Sequences of Sequences
+Thirty-Six Unsolved Problems in Number Theory
+G Add-On Digital Sieve General Periodical and Non-Arithmetic Sequences
+Considerations on New Functions in Number Theory
+A Generalized Numeration Base
+The 42 Assessors and the Box-Kites they fly: Diagonal Axis-Pair Systems of Zero-Divisors in the Sedenions' 1 Dimensions
+Correspondence principle for idempotent calculus and some computer applications
+Multi-dimensional Meta-analysis for Assessment of Relationships between Asthma Rates and Particulate Air Pollution
+Riemann hypothesis and super-conformal invariance
+Triplets and Symmetries of Arithmetic mod p k
+On primitive roots of unity divisors of p -1 Wieferich primes and quadratic analysis mod p 3
+Powersums representing residues mod p k from Fermat to Waring
+Finite Semigroups of Constant Rank and the five Basic State Machine types
+On the cardinality of the set of the real numbers
+Stochastic processes on non-Archimedean spaces. I. Stochastic processes on Banach spaces
+Stochastic processes on non-Archimedean spaces. II. Stochastic antiderivational equations
+Symmetric Logic Synthesis with Phase Assignment
+On the set of natural numbers
+Generalized Steiner's Problem and its Solution with the Concepts in Field Thoery
+Le cryptosysteme non-commutatif
+Intrinsic palindromic numbers
+A new Binary Number Code and a Multiplier based on 3 as semi-primitive root of 1 mod 2 k
+The Origin of a Metric
+Stochastic processes on non-Archimedean spaces. III. Stochastic processes on totally disconnected topological groups
+Quasi-invariant and pseudo-differentiable measures on a non-Archimedean Banach space.I. Real-valued measures
+Quasi-invariant and pseudo-differentiable measures on a non-Archimedean Banach space. II. Measures with values in non-Archimedean fields
+Diophantine and Non-Diophantine Arithmetics: Operations with Numbers in Science and Everyday Life
+The Essence of Intuitive Set Theory
+White Hole Black Whole and The Book
+Testing the Existence of a Supporting Plane
+A further step in the proof of Riemann hypothesis
+A Computational Algorithm for pi(N)
+Introductory Topics in Distributions over Binary Test Functions
+Introductory Topics in Binary Set Functions
+Comments to Neutrosophy
+A Strategy for Proving Riemann Hypothesis
+On power sets
+An algebraic approach to representations of the permutation group
+Can our number system be improved?
+Separations inside a cube
+Intentionally and Unintentionally. On Both A and Non-A in Neutrosophy
+Beyond Goedel : Simply consistent constructive systems of first order Peano's Arithmetic that do not yield undecidable propositions by Goedel's reasoning
+Paradox regained: Life beyond Goedel's shadow
+Rapid growth sequences
+Infinite and natural numbers
+An Extension to Fermat's Factorisation and a simple primality test
+The Banach-Tarski paradox or what mathematics and religion have in common
+Fuzziness and Funds Allocation in Portfolio Optimization
+A Family of Estimators of Population Mean Using Multiauxiliary Information in Presence of Measurement Errors
+Diff 'erentielles non commutatives et th 'eorie de Galois diff 'erentielle ou aux diff 'erences
+Prime number logarithmic geometry on the plane
+Oscillating Population Models
+Reviewing Goedel's and Rosser's meta-reasoning of undecidability
+On the polycirculant conjecture
+Seven Lectures on the Universal Algebraic Geometry
+Une caracterisation des fonctions holomorphes injectives en analyse ultrametriqe
+On the real zeroes of the Hurwitz zeta-function and Bernoulli polynomials
+Heuristic algorithm for solving of the graph isomorphism problem
+Proof of Goldbach's Conjecture
+A methodological exhibition of the theory of the identification of Lineal Dynamic systems
+Omega-inconsistency in Goedel's formal system: a constructive proof of the Entscheidungsproblem
+A Simple Proof of the Four-Color Theorem
+Goedel's Incompleteness Theorems hold vacuously
+On the Root Ambiguity in the Complete Solution to the Most General Fifth Degree Polynomial
+The Mathematical Universe in a Nutshell
+On a Linear Property of Bilinearly Defined Sets in mathbb R n
+On some sequences of functions and their applications in Physics
+On Goldbach's Conjecture
+Some consequences of a recursive number-theoretic relation that is not the standard interpretation of any of its formal representations
+Automorphisms of the category of free Lie algebras
+Algebras with the same (algebraic) geometry
+Restricted linear properties of scalar product in T-geometry
+Proof of the Poincare' conjecture
+Deformation principle and problem of parallelism in geometry and physics
+Computational Exploration of Investor Utilities Underlying a Portfolio Insurance Strategy
+Are there parts of our arithmetical competence that no sound formal system can duplicate?
+Geometrical Equivalents of Goldbach Conjecture and Fermat Like Theorem
+On a stellar structure for a stellar manifold
+A multidimensional Law of Sines
+Logic: A Misleading Concept. A Contradiction Study toward Agent's Logic
+A Proposed Artificial Neural Network Classifier to Identify Tumor Metastases
+Utility of Choice: An Information Theoretic Approach to Investment Decision-making
+Multivector Functions of a Real Variable
+Multivector Functions of a Multivector Variable
+Multivector Functionals
+Non-Archimedean stochastic processes on non-Archimedean manifolds
+Is a deterministic universe logically consistent with a probabilistic Quantum Theory?
+Modelling the Zero Point Field
+Definitions Derived from Neutrosophics
+Optimal Plant Layout Design for Process-focused Systems
+A Theorem on Prime Numbers
+The prisoners may be in two minds
+Differential Calculus Manifolds and Lie Groups over Arbitrary Infinite Fields
+Implicit Functions from Topological Vector Spaces to Banach Spaces
+Econometric Analysis on Efficiency of Estimator
+Empirical Study in Finite Correlation Coefficient in Two Phase Estimation
+Is there a duality in the classical acceptance of non-constructive foundational concepts as axiomatic?
+Is there a loophole in Goedel's interpretation of his formal reasoning and its consequences?
+Three beliefs that lend illusory legitimacy to Cantor's diagonal argument
+Can Turing machines capture everything we can compute?
+Smarandache Semigroups
+Groupoids and Smarandache Groupoids
+Smarandache semirings semifields and semivector spaces
+The formal roots of Platonism
+On Reidys and Stadler's metrics for RNA secondary structures
+Can we express every transfinite concept constructively?
+Is mathematics consistent?
+Is the Halting probability a Dedekind real number?
+Why we must heed Wittgenstein's notorious paragraph
+Smarandache Non-Associative Rings
+Smarandache Near-rings
+Less than 2 omega many translates of a compact nullset may cover the real line
+Smarandache Loops
+How definitive is the standard interpretation of Goedel's Incompleteness Theorem?
+Does Church-Kleene ordinal omega 1 CK exist?
+Can Laplace's formula model a deterministic universe that is irreducibly probabilistic?
+A Geometric Proof of Riemann Hypothesis
+Standard-model symmetry in complexified spacetime algebra
+Smarandache Rings
+Functional Equation of the Rate of Inflation
+A Geometric Proof of Generalized Riemann Hypothesis
+Bialgebraic Structures and Smarandache Bialgebraic Structures
+Radii of regular polytopes
+Oversampling and transmission of hidden information
+Mathematics and Logic as Information Compression by Multiple Alignment Unification and Search
+Smarandache Linear Algebra
+A Geometric Proof of the Hecke Conjecture
+New Entropy and other state functions from analysis of open system Carnot cycle
+The Proof of Goldbach Conjecture Twin Primes Conjecture and Other Two Propositions
+Smarandache Fuzzy Algebra
+On the Blackman's Association Problem
+Partial Ordering of Hyper-powersets and Matrix Representation of Belief Functions within DSmT
+Variations of thin piezoelectric shallow shells: Two-dimensional approximation
+The diophantine equation x 3 3 y 3 z 3-2xyz=0
+A Proof that Euler's Constant Gamma is an Irrational Number
+Claims On Primorial Primes
+Pascal Pyramids Pascal Hyper-Pyramids and a Bilateral Multinomial Theorem
+Fuzzy Cognitive Maps and Neutrosophic Cognitive Maps
+The Bilateral Vandermonde Convolution
+New Trigonometric form of The Hamilton's Quaternions
+Topologically Fragmental Space and the Proof of Hadwiger's Conjecture
+Deformation principle as a foundation of physical geometry
+Beyond Uncountable
+Bernoulli-Taylor formula for psi-umbral difference calculus
+Algebraic Logic Varieties of Algebras and Algebraic Varieties
+Geometrical equivalence geometrical similarity and geometrical compatibility of algebras
+An Algebraic Approach to Knowledge Bases Informational Equivalence
+Algebraic geometry in First Order Logic
+Invariant and evolutionary properties of the skew-symmetric differential forms
+On trigonometric-like decompositions of functions with respect to the cyclic group of order n
+Elementary evaluation of int 0 infty sin p t t q dt
+A Faster Product for Pi and a New Integral for ln(Pi 2)
+An exposition of results of Fricke
+A New Approach to Renormalization Using Zeta regularization
+On duality triads
+The second part of on duality triads' paper
+Coxeter groups of stellar manifolds
+Signal Transmission in Passive Media
+A.K.Kwasniewski W.Bajguz Generalized Clifford Algebras and the Last Fermat Theorem
+The complete dimension theory of partially ordered systems with equivalence and orthogonality
+Countability of the Real Numbers
+The Meaning of Infinity
+Remarks on Cantor's diagonalization proof of 191
+On the Constructive Inverse Problem in Differential Galois Theory
+Some remarks on autoequivalences of categories
+Stochastic arbitrage return and its implications for option pricing
+Left Invariant Contact Structures on Lie Groups
+Transformations of Grassman Spaces
+Identical and Nonidentical Relations. Nondegenerate and Degenerate Transformations. (Properties of skew-symmetric differential forms)
+An Astronomical View-point on the Easter Date
+Fusion of imprecise uncertain and conflicting beliefs with DSm rules of combination
+Infinite classes of counter-examples to the Dempster's rule of combination
+On the Tweety Penguin Triangle Problem
+A Function in the Congruence Theory
+A General Theorem for the Characterization of N Prime Numbers Simultaneously
+There are only countably many sets
+A Function in the Number Theory
+A Method of Solving a Dophantine Equation of Second Degree with N Variables
+Complete proper minimal surfaces in convex bodies of R 3
+A new formula for the nth prime
+An Algebraic Identity Leading to Wilson Theorem
+Problems in algebra inspired by universal algebraic geometry
+Hyperreal Waves on Transfinte Terminated Distortionless and Lossless Transmission Lines
+Smarandache Function Applied to Perfect Numbers
+Analysis of Social Aspects of Migrant Labourers Living With HIV AIDS Using Fuzzy Theory and Neutrosophic Cognitive Maps: With Special Reference to Rural Tamil Nadu in India
+Correction to a theorem of Schoenberg
+Nonstandard Transfinite Graphs and Networks of Higher Ranks
+Fuzzy Relational Equations and Neutrosophic Relational Equations
+Short introduction to Nonstandard Analysis
+A Functional Recurrence to obtain the Prime Numbers using the Smarandache Prime Function
+Properties and Problems related to Smarandache Type Functions
+Do Goedel's incompleteness theorems set absolute limits on the ability of the brain to express and communicate mental concepts verifiably?
+An Introduction to Some Spaces of Interval Functions
+A severe inconsistency of transfinite set theory
+Learning a Machine for the Decision in a Partially Observable Markov Universe
+On the nature of finite groups
+An Axiomatization of Realities
+A New Family of Almost Identities
+First-Order Intuitionistic Logic with Decidable Propositional Atoms
+Interval Neutrosophic Sets
+Von Neumann coordinatization is not first-order
+Distributive semilattices as retracts of ultraboolean ones functorial inverses without adjunction
+Lifting retracted diagrams with respect to projectable functors
+Some combinatorial aspects of composition of a set of functions
+The Mobius-Pompeiu metric property
+Methods for determination and approximation of the domain of attraction
+On a necessary and sufficient cyclicity condition for a quadrilateral
+A congruence with the Euler totient function
+Non-differentiable variational principles
+An Explicit Formula for the Matrix Logarithm
+Variations of a Coin-Removal Problem
+On automorphisms of categories of universal algebras
+Two Simple Ways of Generating the Partitions of (n 1) from the Partitions of n
+A New Integral Transform
+Limits and the system of near-numbers
+M-hyperquasivarieties
+Basic Neutrosophic Algebraic Structures and their Application to Fuzzy and Neutrosophic Models
+Hilbert's first and second problems and the foundations of mathematics
+The Maslov dequantization idempotent and tropical mathematics: a very brief introduction
+A matrix-based proof of the quaternion representation theorem for four-dimensional rotations
+Sublattices of lattices of convex subsets of vector spaces
+Sublattices of complete lattices with continuity conditions
+Semilattices of finitely generated ideals of exchange rings with finite stable rank
+Sublattices of lattices of order-convex sets III. The case of totally ordered sets
+Sublattices of lattices of order-convex sets II. Posets of finite length
+Sublattices of lattices of order-convex sets I. The main representation theorem
+Embedding finite lattices into finite biatomic lattices
+On the number of join-irreducibles in a congruence representation of a finite distributive lattice
+Representation of algebraic distributive lattices with aleph 1 compact elements as ideal lattices of regular rings
+Congruence amalgamation of lattices
+Solutions to five problems on tensor products of lattices and related matters
+Join-semilattices with two-dimensional congruence amalgamation
+Direct decompositions of non-algebraic complete lattices
+A survey of recent results on congruence lattices of lattices
+Liftings of diagrams of semilattices by diagrams of dimension groups
+Unsolvable one-dimensional lifting problems for congruence lattices of lattices
+Forcing extensions of partial lattices
+From join-irreducibles to dimension theory for lattices with chain conditions
+A survey of tensor products and related constructions in two lectures
+Simultaneous representations of semilattices by lattices with permutable congruences
+A new lattice construction: the box product
+Tensor products and transferability of semilattices
+The M 3 D construction and n-modularity
+Flat semilattices
+Finitely presented coherent and ultrasimplicial ordered abelian groups
+Finitely presented and coherent ordered modules and rings
+Tensor products of semilattices with zero revisited
+The dimension monoid of a lattice
+Proper congruence-preserving extensions of lattices
+A uniform refinement property for congruence lattices
+Congruence lattices of free lattices in non-distributive varieties
+Norm-closed intervals of norm-complete ordered abelian groups
+The notion of dimension in geometry and algebra
+Gitterwege reeller Zahlen
+The Classical Smarandache Function and a Formula for Twin Primes
+A theory of hyperfinite sets
+The k -orbit theory and Fein-Kantor-Schacher Theorem
+An arguable addition to the standard Deduction Theorems of first order theories
+An arguable inconsistency in ZF
+Some remarks on good sets
+On intuitionistic fuzzy sub-hyperquasigroups of hyperquasigroups
+On categorical approach to derived preference relations in some decision making problems
+Embedding simple commutative monoids into simple refinement monoids
+Bernoulli numbers and solitons
+On a possible generalization of Fermats last theorem
+Intuitionistic fuzzy H v -submodules
+Fluid varieties
+New crisis in geometry?
+Relative invariants difference equations and the Picard-Vessiot theory
+The k -orbit theory and polycirculant conjecture
+Heterogeneous ubiquitous systems in mathbb R d and Hausdorff dimension
+Asymptotic approximation of degenerate fiber integrals
+The Friendship Theorem and Minimax Theorems
+Logical conditional and classical probability
+Geometric algebra and particle dynamics
+Multimagic Squares
+Some Observations on the 3x 1 Problem
+Conditional probability of actually detecting a financial fraud - a neutrosophic extension to Benford's law
+Nel's category theory based differential and integral Calculus or did Newton know category theory ?
+Remark on Cavalieri's Quadrature Formula
+Counting Bitangents with Stable Maps
+Composition and exponential of compactly supported generalized integral kernel operators
+Refinement of Inequalities among Means
+Automorphism groups of maps surfaces and Smarandache geometries
+Distributive congruence lattices of congruence-permutable algebras
+A K 0 -avoiding dimension group with an order-unit of index two
+On Cantor's Theorem
+Physical Constraints of Numbers
+Is the Halting problem effectively solvable non-algorithmically and is the Goedel sentence in NP but not in P?
+A new view of combinatorial maps by Smarandache's notion
+Necessary And Sufficient Conditions For Existence of the LU Factorization of an Arbitrary Matrix
+Ramanujan's Perimeter of an Ellipse
+Introduction to Bimatrices
+Foundations of real analysis and computability theory in non-Aristotelian finitary logic
+Divisibility tests with weighted digital sums
+The Maslov dequantization idempotent and tropical mathematics: A brief introduction
+Fuzzy and Neutrosophic Analysis of Women with HIV AIDS
+Towards commutator theory for relations
+PA is instantiationally complete but algorithmically incomplete: An alternative interpretation of Goedelian incompleteness under Church's Thesis that links formal logic and computability
+The Mechanist's Challenge
+The Goebbellian Syndrome
+A Direct Proof of Landen's Transformation
+Mathematical computability questions for some classes of linear and non-linear differential equations originated from Hilbert's tenth problem
+A Qualitative Property of the Riemann zeta function
+Recurrence Divisibility Tests
+Tensor Permutation Matrices in Finite Dimensions
+A range description for the planar circular Radon transform
+Geometric triangulations and discrete Laplacians on manifolds
+On the Possible Monoid Structures of the Natural Numbers N or Finding All Associative Binary Operations on N
+Introduction to Linear Bialgebra
+On series solutions of Volterra equations
+Solving Problems in Scalar Algebras of Reduced Powers
+A congruence identity satisfied by m-permutable varieties
+New directions in enumerative chess problems
+Automorphic equivalence of one-sorted algebras
+Applications of Bimatrices to some Fuzzy and Neutrosophic Models
+Towards commutator theory for relations. II
+Analysis in J 2
+Mathematical conceptualism
+A Circuit-Theoretic Anomaly Resolved by Nonstandard Analysis
+An intermediate value theorem for sequences with terms in a finite set
+An Introduction to Zoli Numbers
+An analytic proof of Fermat-Wiles theorem
+There are Infinitely Many Pairs of Twin Prime
+Automorphisms of the semigroup of all endomorphisms of free algebras
+On surfaces with p g=q=1 and non-ruled bicanonical involution
+Non-extendability of semilattice-valued measures on partially ordered sets
+There is at least one pair of double primes for any even number
+On Algebraic Multi-Group Spaces
+Godel's theorem is invalid
+On Algebraic Multi-Ring Spaces
+On Multi-Vector Spaces
+On Multi-Metric Spaces
+Fundamental solutions of homogeneous elliptic differential operators
+Exponential functions in prime characteristic
+Finite order differentiability properties fixed points and implicit functions over valued fields
+On 3-manifolds
+Fuzzy and Neutrosophic Analysis of Periyar's views on Untouchability
+On three dimensional stellar manifolds
+When is 0.999... equal to 1?
+Euclidean geometry as algorithm for construction of generalized geometries
+Algebraic operations on the space of Hausdorff continuous interval functions
+Naive Philosophical Foundations
+Three Theorems on modular sieves that suggest the Prime Difference is O(Number of primes  (p(n) 1 2))
+Several Applications of Bezout Matrices
+Ranking Participants in Tournaments by means of Rating Functions
+Incidence structures and Stone-Priestley duality
+Proof of Murphy-Cohen Conjecture on One-dimensional Hard Ball Systems
+Riesz basis of exponentials for a union of cubes in R d
+Finite transducers for divisibility monoids
+Logic for Everyone
+Why do partitions occur in Faa di Bruno's chain rule for higher derivatives?
+A note about entropy
+Introduction to n-adaptive fuzzy models to analyze public opinion on AIDS
+Hyperbolic polynomials and multiparameter real analytic perturbation theory
+N-Algebraic Structures and S-N-Algebraic Structures
+On angles formed by N points of the Euclidean and Hyperbolic planes
+Fibonacci-Lucas densities
+A new inverse formula for the Laplas's transformation
+An extension of the classical derivative
+Some Neutrosophic Algebraic Structures and Neutrosophic N-Algebraic Structures
+A Comment on On Some Contradictory Computations in Multi-dimensional Mathematics
+Why Brouwer was right in suggesting that Hilbert's Law of the Excluded Middle needed qualification
+An elementary proof that P = = NP
+On a Proof of the Goldbach Conjecture and the Twin Prime Conjecture
+Smarandache Neutrosophic Algebraic Structures
+Sequences of Numbers Involved in Unsolved Problems
+On the parallelepipeds in algebra and topology
+An extension of the Eilenberg - Mac Lane concept of category in the case of nonrigid structures
+From Incompleteness Towards Completeness
+Smarandache Multi-Space Theory(II)--Multi-spaces on graphs
+Smarandache Multi-Space Theory(III)--Map geometries and pseudo-plane geometries
+A Triple Inequality with Series and Improper Integrals
+Bijections and metric spaces induced by some collective properties of concave Young-functions
+Midy's Theorem for Periodic Decimals
+On Algebraic Solutions of Polynomial Equations of Degree n in one Variable
+Integrals and Series Related to the Surface Area of Arbitrary Ellipsoids
+Zero-Preserving Iso-spectral Flows Based on Parallel Sums
+On cyclic numbers and an extension of Midy's theorem
+A multi-space model for Chinese bids evaluation with analyzing
+An Approach to PI(x) and other Arithmetical function by Variational principles
+On Ramsey Numbers
+A Brief Comment on Post inversion formula for the Laplace transform
+Fuzzy h -ideals of hemirings
+Interval valued intuitionistic (S T) -fuzzy H v -submodules
+Basic Fourier series: convergence on and outside the q-linear grid
+The classification of football patterns
+Beyond Undecidable
+Which are the Maximal Ideals ?
+Hyperdeterminants on semilattices
+Why we shouldn't fault Lucas and Penrose for continuing to believe in the Goedelian argument against computationalism
+Multiblock Grid Generation for Simulations in Geological Formations
+Hyperdeterminantal calculations of Selberg's and Aomoto's integrals
+Congruences Compatible with the Shuffle Product
+Transitive factorizations of free partially commutative monoids and Lie algebras
+A note on primes dividing alternating sums
+Introducing bisemistructures
+Neutrosophic Rings
+The graph isomorphism problem is polynomial
+Order in Dezert Smarandache Theory definition of continuous Dezert Smarandache models
+Redundancies : An Omission in Probability Theory ?
+Simultaneous Translational and Multiplicative Tiling and Wavelet Sets in R 2
+Evaluation of Functional Integrals by means of series and the method of Borel transform
+Strict infty -categories. Concrete Duality
+A Riemann-Farey Computation
+Manifolds Structures Categorically
+Transfinite partitions of Jordan curves
+Towards a Hermeneutic Categorical Mathematics or why Category theory goes beyond Mathematical Structuralism
+One method for proving inequalities by computer
+Comparison of some notions of C k-maps in multi-variable non-archimedian analysis
+Fuzzy Interval Matrices Neutrosophic Interval Matrices and their Applications
+Lattices which can be represented as lattices of intervals
+Square Eulerian Quadruples
+Extending Mappings between Posets
+Unfolding the Labyrinth: Open Problems in Mathematics Physics Astrophysics and Other Areas of Science
+Difficulties with Learning and Teaching Calculus
+On random measures unordered sums and discontinuities of the first kind
+The structure of tame minimal dynamical systems
+On the mathematical modelling of measurement
+Correcting a minor error in Cantor's calculation of the power of the continuum
+On the problem of M-hyperquasivarieties
+A Method to Solve the Diophantine Equation ax 2-by 2 c=0
+Bilateral binomial duplication formula
+A Characterization of the Convexity of Cyclic Polygons in Terms of the Central Angles
+Convexity of Sub-polygons of Convex Polygons
+Crisis in the geometry development and its social consequences
+Structure of the Prime Distribution within the Sequence of Natural Numbers
+An explicit formula for Pi(x) in the form of a sum over the Non-trivial zeros of the Riemann Zeta function
+Generalized Functions and Infinitesimals
+New Method for Solving Large Classes of Nonlinear Systems of PDEs
+A Generalization of Euler's Theorem on Congruencies
+On the reduction principle for differential equations with piecewise constant argument of generalized type
+Generalizations of Ceva's Theorem and Applications
+On the Classification of Finite Semigroups and RA-loop with the Hyperbolic Property
+Broccoli Reduces The Risk of Splenetic Fever The use of induction and falsifiability in statistics and model selection
+Fuzzy Logic Informativeness and Bayesian Decision-Making Problems
+Representations of the Complex Classical Cayley-Klein Categories
+Quantization of Arbitrary Hamiltonians
+Generalized persistency of excitation
+Comparison of geometric figures
+Further Generalization of Golden Mean in Relation to Euler Divine Equation
+Note on Integer Factoring Methods I
+Vedic Mathematics: 'Vedic' or 'Mathematics' -- A Fuzzy and Neutrosophic Analysis
+Junction Conditions Resolution of Singularities and Nonlinear Equations of Physics
+How to Define Global Lie Group Actions on Functions
+Finite Projective Planes
+Lattice Basis and Entropy
+Non-strict l'Hospital-Type Rules for Monotonicity: Intervals of Constancy
+L'Hospital-type rules for monotonicity and limits: Discrete case
+Spreading of infectious diseases on complex networks with non-symmetric transmission probabilities
+Erlang's loss function and a property of the exponential function
+A Class of Recursive Sets
+K-Nomial Coefficients
+The Asymmetric Traveling Salesman Problem
+Statistical Convergence and Convergence in Statistics
+Handles Hooks and Scenarios: A fresh Look at the Collatz Conjecture
+Deducibility Theorems in Boolean Logic
+Systems of germs and theorems of zeros in infinite-dimensional spaces
+On the minimization of operational risks
+Negative dimension in general and asymptotic topology
+A new kind of numbers the Non-Dedekindian Numbers and the extension to them of the notion of algorithmic randomness
+Some results in the exceptional set of Twin Prime Problem
+How to compute sum 1 n 2 by solving triangles
+Counting all equilateral triangles in 0 1 2 ... n 3
+Languages Algorithms Procedures Calculi and Metalogic
+From the Goldbach Conjecture to the Theorem
+Robust Understanding of Word Problems with Extraneous Information
+Monotonicity Analysis over Chains and Curves
+Design of Optimal Regulators
+A forgotten little chapter on isoperimetric inequalities: On the fraction of a convex and closed plane area lying outside a circle with which it shares a diameter
+Derivation of the Euler-Rodrigues formula for three-dimensional rotations from the general formula for four-dimensional rotations
+Elementary fuzzy matrix theory and fuzzy models for social scientists
+The velocity translation in the game of Life
+Note on Integer Factoring Algorithms II
+A Theoretic Proof of the Four Color Theorem
+Linguistic-Mathematical Statistics in Rebus Lyrics Juridical Texts Fancies and Paradoxes
+Algorithms for Solving Linear Congruences and Systems of Linear Congruences
+The AIM REU: individual projects with a common theme
+Bases of Solutions for Linear Congruences
+Non-Euclidean method of the generalized geometry construction and its application to space-time geometry
+Synthesizing Sums
+La Derivada del Coseno
+Linear algebra in lattices the Fitting lemma
+Criteria of Primality
+On Diophantine Equation x 2 = 2y 4-1
+A generalization of Stokes theorem on combinatorial manifolds
+A matrix generalization of Euler identity e (ix) = cosx i sinx
+Improvement on a Central Theory of PDEs
+Comments on a recent item by Yu I Manin
+Two presumptions in Goedel's interpretation of his own formal reasoning that are classically objectionable
+Proof of the Goldbach conjecture in a more stringent form
+Simple proofing of Jordan's theorem
+A Concise and Direct Proof of Fermat's Last Theorem
+Riemann Hypothesis
+Sieve Method and Landau Problem
+Tactical games behavioral self-organization
+A counting method for finding rational approximates to arbitrary order roots of integers
+A replacement sequence' method for finding the largest real root of an integer monic polynomial
+An approach to the problem of generating irreducible polynomials over the finite field GF(2) and its relationship with the problem of periodicity on the space of binary sequences
+A Predictive Theory of Games
+Vector- and tensor-valued descriptors for spatial patterns
+Single or combined location measurements of the same parameter without prior probability. (Altern. title Parametric inference as useful illusion Part 1)
+Life on Both Sides of the Fence: Mentoring Versus Being Mentored
+Mesoscopic structure conditions the emergence of cooperation on social networks
+On Hadwiger Conjecture
+Proof of generalized Riemann hypothesis for Dedekind zetas and Dirichlet L-functions
+The Riemann hypothesis - an elementary analytic approach based on complex Laplace transform
+Solution of the Dirac Equation using the Lanczos Algorithm
+Smarandache Type Function Obtained by Duality
+The order completion method for systems of nonlinear PDEs: Pseudo-topological perspectives
+Immediate Calculation of some Poisson Type Integrals Using Supermathematics Circular Ex-Centric Functions
+Hyperbolic classification of natural numbers and Goldbach Conjecture
+The dimension of a variety
+On the Riemann zeta-function Parts IV-V
+Implicit function density computation
+A geometrical link between the circle and sexagesimal system
+A double demonstration of a theorem of Newton which gives a relation between the coefficient of an algebraic equation and the sums of the powers of its roots
+The concrete theory of numbers : Problem of simplicity of Fermat number-twins
+On the location and classification of all prime numbers
+An Infinite Family of Quadratic Quadrinomial APN Functions
+Parastrophic invariance of Smarandache quasigroups
+On the Derivatives of Central Loops
+Conjectures on Partitions of Integers as Summations of Primes
+Six Conjectures which Generalize or Are Related to Andrica's Conjecture
+About the Characteristic Function of a Set
+A parameterization of the Fermat curves satisfying x (2N) y (2N)=1
+Ramanujan's Harmonic Number Expansion into Negative Powers of a Triangular Number
+A short Brownian motion proof of the Riemann hypothesis
+Note Integer Factoring Methods III
+Mathematical Aspects of the Periodic Law
+An holomorphic study of the Smarandache concept in loops
+A system for constructing relatively small polyhedra from Sonob 'e modules
+Special Fuzzy Matrices for Social Scientists
+Isogonal Conjugacy and Fermat Problems
+Hexagonal parquet tilings: k-isohedral monotiles with arbitrarily large k
+Applications of Wallis Theorem
+A novel operation associated with Gauss' arithmetic-geometric means
+An Ergodic Result
+Basis Manifold
+Current Mathematics Appears to Be Inconsistent
+Constructing a quadrilateral inside another one
+About Goldbach strong conjecture
+An elementary sieve
+A Fixed Point Conjecture
+A Problem in Categories
+Godel's theorem as a corollary of impossibility of complete axiomatization of geometry
+Ring geometries Two-Weight Codes and Strongly Regular Graphs
+One page proof of the Riemann hypothesis
+The Set of Prime Numbers
+A general learning algorithm for functions between metric spaces
+Lattice Option Pricing By Multidimensional Interpolation
+Uncertainty of the Shapley Value
+On the universality of some Smarandache loops of Bol-Moufang type
+Palindromic permutations and generalized Smarandache palindromic permutations
+Solving General Equations by Order Completion
+Remarks to Glazek's results on n-ary groups
+New families of cryptographic systems
+A Generalization of A Leibniz Geometrical Theorem
+Primes Pi and Irrationality Measure
+Descartes' Rule of Signs by an Easy Induction
+Greedy and quasi-greedy expansions in non-integer bases
+Explicit approximation of the sum of the reciprocal of the imaginary parts of the zeta zeros
+Proceedings of the First International Conference on Neutrosophy Neutrosophic Logic Neutrosophic Set Neutrosophic Probability and Statistics
+Computer analysis of the two versions of Byzantine chess
+A Survey on the Special Function Shin
+Metrics for more than two points at once
+On a Result of Hardy and Ramanujan
+The uniform order convergence structure on ML()
+Bernoulli-Taylor formula in the case of Q-umbral Calculus
+Twisted p-adic (h q)-L-functions
+Ueber Eigenwerte Integrale und pi 2 : Die Idee der Spurformel (On eigenvalues integrals and pi 2 : The idea of the trace formula)
+Quasi-Sectorial Contractions
+On q-deformed Stirling numbers
+Twisted Dedekind Type Sums Associated with Barnes' Type Multiple Frobenius-Euler l-Functions
+Inequalities for Integer and Fractional Parts
+Goldbach Conjecture and First-Order Arithmetic
+LULU operators for functions of continuous argument
+p-Adic refinable functions and MRA-based wavelets
+Poincare's Conjecture for three manifolds
+Equations in a free group. Elementary theory
+Pauli Pascal Pyramids Pauli Fibonacci Numbers and Pauli Jacobsthal Numbers
+Integer Algorithms to Solver Diophantine Linear Equations and Systems
+The generalized Abel-Plana formula with applications to Bessel functions and Casimir effect
+On the 1-density of Unit Ball Covering
+Fillings method in number theory
+Some Nonlinear Equations with Double Solutions: Soliton and Chaos
+Difference Problems and Differential Problems
+An Exact Exprsssion of Pi(x)
+The cycle problem: an intriguing periodicity to the zeros of the Riemann zeta function
+A direct and simple proof of Jacobi identities for determinants
+The ordered distribution of natural numbers on the square root spiral
+How to Create a New Integer Sequence
+A Cheerful Introduction to Forcing and the Continuum Hypothesis
+Nonstandard Analysis Applied to Advanced Undergraduate Mathematics - Infinitesimal Modeling
+Sifting Function Partition for the Goldbach Problem
+A Note on Testing of Hypothesis
+The distribution of prime numbers on the square root spiral
+Structure of the extended Schrodinger-Virasoro Lie algebra
+A new form of governing equations of fluids arising from Hamilton's principle
+Super Fuzzy Matrices and Super Fuzzy Models for Social Scientists
+New Classes of Codes for Cryptologists and Computer Scientists
+The derivations central extensions and automorphism group of the Lie algebra W
+About the logic of the prime number distribution
+An Improved Construction of Progression-Free Sets
+The distribution of natural numbers divisible by 2 3  11 13 and 1 on the Square Root Spiral
+On the Goedel's formula
+The work of Andrei Okounkov
+An example of algebraization of analysis and Fibonacci cobweb poset characterization
+Quasiperiodic Spectra and Orthogonality for Iterated Function System Measures
+Motzkin numbers central trinomial coefficients and hybrid polynomials
+The lollipop graph is determined by its spectrum
+Ising Problem on Simple Cubic Lattice
+A Double Cryptography Using The Keedwell Cross Inverse Quasigroup
+On A Cryptographic Identity In Osborn Loops
+Prime numbers of a kind x 2 1
+The wave equation on static singular space-times
+Riemann Hypothesis may be proved by induction
+Fermats Last Theorem on Topological Fields
+A note on three dimensional good sets
+One Special Identity between the complete elliptic integrals of the first and the third kind
+Spherical completeness of the non-archimedean ring of Colombeau generalized numbers
+Homogeneity in generalized function algebras
+Symmetries of quadratic forms classes and of quadratic surds continued fractions. Part I: A Poincar 'e model for the de Sitter world
+Symmetries of quadratic forms classes and of quadratic surds continued fractions. Part II: Classification of the periods' palindromes
+Number of binomial coefficients divided by a fixed power of a prime
+Support theorems for the Radon transform and Cram 'er-Wold theorems
+Cauchy Riemann Equations for Cayley Numbers Functions
+A Conjecture about the Density of Prime Numbers
+Archimedean Type Conditions in Categories
+Asymptotic analysis of k -noncrossing matchings
+More on Algebraic Structure of the Complete Partition Function for the Z n - Potts Model Part 1
+Euler sums and a prime numbers conundrum
+Validation of a Model of the Domino Effect?
+Generalizations of Popoviciu's inequality
+The property of the set of the real numbers generated by a Gelfond-Schneider operator and the countability of all real numbers
+Differentiating polynomials and zeta(2)
+Certain Properties of Pythagorean Triangles involving the interior diameter and the exterior diameters
+Triangle angles and sides in progression and the diophantine equation x 2 3y 2 =z 2
+A solution to a problem and the Diophantine equation  2 b c=Y 2
+When is sinx cosx tanx cotx secx cscx an integer ?
+Prolate Spheroidal Wave Functions In q-Fourier Analysis
+The Riemann Hypothesis and the Nontrivial Zeros of the General L-Functions
+Hypergeometric solutions for third order linear ODEs
+Triangle Area Numbers and Solid Rectangular Numbers
+Structural Dynamics of Various Causes of Migration in Jaipur
+A little noticed right triangle
+Number Gossip
+A change of variables theorem for the multidimensional Riemann integral
+Four Properties of Reproducing Kernel Hilbert Spaces
+Recursion and w-order
+Beyond Chaos
+Some applications of the Beta function
+A Lost Theorem: Definite Integrals in Asymptotic Setting
+Computable counter-examples to the Brouwer fixed-point theorem
+Pairings of Sheaves of mathcal A -Modules through Bilinear mathcal A -Morphisms
+The equation asinx bcosx=c and a family of cyclic Heron quadrilaterals
+On the Collatz Problem
+The concrete theory of numbers : New Mersenne conjectures. Simplicity and other wonderful properties of numbers L(n) = 2 2n pm2 n pm1
+On an area property of the sum cotA cotB cotC in a triangle
+Infinite sequences in the framework of classical logic
+Heron isosceles with integral external radii
+Differentially Transcendental Functions
+Analytical and differential - algebraic properties of Gamma function
+On tolerances representable as R circ R -
+Algebraic properties of some varieties of central loops
+Square root voting in the Council of the European Union: Rounding effects and the Jagiellonian Compromise
+A summation by Gencev
+Notes on Convex Sets Polytopes Polyhedra Combinatorial Topology Voronoi Diagrams and Delaunay Triangulations
+Some conjectures about q-Fibonacci polynomials
+The Classification Theorem for Compact Surfaces And A Detour On Fractals
+A Note on Fuzzy Real and Complex Field
+Two Theorems on the structure of Pythagorean triples and some diophantine consequences
+Degree-distribution stability of scale-free networks
+The Iterative Simplicity of Basic Topological Operations
+Lattice points on the plane ax by cz=d and the diophantine system ax by cz=d ex fy gz=h
+On Some Discrete Differential Equations
+A New Differential Test for Series of Positive Terms
+Ambiguity theory old and new
+Recurrence Formulas for Fibonacci Sums
+Classification of complex naturally graded quasi-filiform Zinbiel algebras
+Proving the existence of the n th root by induction
+An Introduction to Smooth Infinitesimal Analysis
+On Caccetta-Haggkvist Conjecture
+A more intuitive definition of limit
+On distribution and almost convergence of bounded sequences
+Truth as value and duty: lessons of mathematics
+A Mathematical Approach to the Plato's Problem
+Smarandache Isotopy Theory Of Smarandache: Quasigroups And Loops
+On Some Autotopisms Of Non-Steiner Central Loops
+On central loops and the central square property
+Multidimensional cellular automata and generalization of Fekete's lemma
+The Infinite in Sciences and Arts
+A Pair of Smarandachely Isotopic Quasigroups and Loops of the Same Variety
+Fourier-Based Spectral Analysis with Adaptive Resolution
+An holomorphic study of Smarandache automorphic and cross inverse ploperty loops
+Integration of e (x n) and e (-x n) in forms of series their applications in the field of differential equation introducing generalized form of Skewness and Kurtosis extension of starling's approximation
+On Smarandache Bryant Schneider group of a Smarandache loop
+About Factorial Sums
+On Hamilton Decompositions
+The Antinomy of the Liar and Provability
+Recurrence relations for powers of q-Fibonacci polynomials
+On the factor set of code loops
+Ueber die Geometrie der alten Aegypter
+Does Ten Have a Friend?
+Sur la convergence des s 'eries trigonom 'etriques qui servent a repr 'esenter une fonction arbitraire entre des limites donn 'ees
+On a Theorem on sums of the form 1 2 (2 n) 2 (2 n 1) ... 2 (2 n m) and a result linking Fermat with Mersenne numbers
+On the zeroes of the Riemann zeta function
+Canonical RNA pseudoknot structures
+Set Linear Algebra and Set Fuzzy Linear Algebra
+Modern Set
+M 'etodos de Multiresoluci 'on y su Aplicaci 'on a un Modelo de Ingenier 'ia
+On Positive Integers Represented as Arithmetic Series
+Gap in Nonlinear Equivalence for Numerical Methods for PDEs
+Self-similar and self-affine sets measure of the intersection of two copies
+Partial Chromatic Polynomials and Diagonally Distinct Sudoku Squares
+Fibonacci Identities and Graph Colorings
+Integral representations for a generalized Hermite linear functional
+On Multidimensional Pythagorean Numbers
+Algebraic Graph Theory (a short course for postgraduate students and researchers)
+Linearizing a certain family of nonlinear differential equations
+Divisor and Totient Functions Estimates
+Smoothing Effects for Navier-Stokes Equations
+Three-dimensional compact manifolds and the Poincare conjecture
+Stacks in canonical RNA pseudoknot structures
+A simple method for generating rational triangles
+On Entanglement and Separability
+Methods in Industrial Biotechnology for Chemical Engineers
+Super Linear Algebra
+On the Inviscid Burgers Equation and the Axiom of Choice
+Cutting Cakes Correctly
+Sylvester's Minorant Criterion Lagrange-Beltrami Identity and Nonnegative Definiteness
+Blueprint for a Classic Proof of the Four Colour Theorem
+On a certain relation between Legendre's conjecture and Bertrand's postulate
+Group Invariant Entanglements in Generalized Tensor Products
+Defining the Mean of a Real-Valued Function on an Arbitrary Metric Space
+The power of multifolds: Folding the algebraic closure of the rational numbers
+Asymptotical behavior of one class of p -adic singular Fourier integrals
+Non-Haar p -adic wavelets and their application to pseudo-differential operators and equations
+Uncertainty Principles for Compact Groups
+An equivalent form of Young's inequality with upper bound
+Note on Integer Factoring Methods IV
+Alternatives to Pearson's and Spearman's Correlation Coefficients
+Voting power and Qualified Majority Voting with a no vote option
+The Seventeen Elements of Pythagorean Triangles
+The Gauss-Dirichlet Orbit Number
+About Bernoulli's Numbers
+On the rank of elliptic curves
+The Continuum is Countable: Infinity is Unique
+The simplest and fastest method of solving Exact Differential Equation by developing the idea of Basic Functions
+An algorithmic implementation of the Pi function based on a new sieve
+Two Generalizations of Tensor Products Beyond Vector Spaces
+Hurwitz's Freeness Property
+Two Essays on the Archimedean versus Non-Archimedean Debate
+Modeling the creative process of the mind by prime numbers and a simple proof of the Riemann Hypothesis
+Modeling the Dialectic
+Improvement in Estimating Population Mean using Two Auxiliary Variables in Two-Phase Sampling
+The Necessary Structure of Congruences in Free Semigroups
+Proof of the Hilbert's Eighth Problem
+Vectored Route-length Minimization - A Heuristic and An Open Conjecture
+Maple Symbolic Computation in the Calculus of Variations
+On the Study of Richard Tom Robert Identity
+Convergence of a Family of Series
+New asymptotic estimates for spherical designs
+Categories. Beginning Course (in Russian)
+Massive Feynman diagrams and inverse binomial sums
+Expansions of algebras and superalgebras and some applications
+On recent strategies proposed for proving the Riemann hypothesis
+Inverse problem and Bertrand's theorem
+Around the Hossz 'u-Gluskin theorem for n -ary groups
+Erlangen Program at Large-0: Starting with the group SL(2 R)
+Multi-Solid Varieties and Mh-Transducers
+Constituting Atoms of a sigma Algebra via Its Generator
+Edge connectivity in graphs: an expansion theorem
+Voyage by Catamaran: Effecting Semantic Network Bricolage via Infinite-Dimensional Zero-Divisor Ensembles
+A symmetry property of some harmonic algebraic curves
+Logarithmically Improved Criteria for Navier-Stokes Equations
+A trivial formalization of the theory of grossone
+About Very Perfect Numbers
+The Goldbach conjecture resulting from global-local cuspidal representations and deformations of Galois representations
+n-Linear Algebra of type I and its applications
+Magmatic Quantum-Like Systems
+Collective Property of Numbers and Its Mathematical Refutation
+Vandermonde's quintic and multiple decompositions of the number 131
+Special Classes of Set Codes and Their Applications
+The non-trivial zeros of Riemann's zeta-function
+Around the Chinese Remainder Theorem
+On cross-ratio distortion and Schwarz derivative
+On boundedness existence and uniqueness of strong solutions of the Navier-Stokes Equations in 3 dimensions
+On Primes In Short Intervals
+Skew-symmetric differential forms. Invariants. Realization of invariant structures
+Square-free Integers and Infinite products
+Every transcendental operator has a non-trivial invariant subspace
+Interval valued ( in ivq) -fuzzy filters of pseudo BL -algebras
+On the Safe Use of Inconsistent Mathematics
+Halfway Up To the Mathematical Infinity: On the Ontological and Epistemic Sustainability of Georg Cantor's Transfinite Design
+On a class of entire functions all the zeros of which are real
+A von Neumann theorem for uniformly distributed sequences of partitions
+Heisenberg Uncertainty in Reduced Power Algebras
+n-Linear Algebra of type II
+Improved Exponential Estimator for Population Variance Using Two Auxiliary Variables
+New Type of Soliton Equation Described Some Statistical Distributions and Nonlinear Equations Unified Quantum Statistics
+A proof of the Riemann Hypothesis
+The significance of Nathanson's 'boss' factor in legitimising Aristotle's particularisation: Why we need to revise current interpretations of Cantor's Goedel's Turing's and Tarski's formal reasoning
+A simple approach to some Hankel determinants
+Smarandache Special Definite Algebraic Structures
+Projection representable relations on Menger (2 n) -semigroups
+Deformations and Inversion Formulas For Formal Automorphisms in Noncommutative Variables
+A half-space approach to order dimension
+Super-Mathematics Functions
+Geometries with intransitive equivalence relation
+Algebraic Elements and Invariant Subspaces
+Some Properties of Transforms in Culture Theory
+Seven Conjectures in Geometry and Number Theory
+Prime Reciprocal Digit Frequencies and the Euler Zeta Function
+Towards a statistical proof of the Riemann Hypothesis
+Stabilizers of functional Menger systems
+Disproof of the Continuum Hypothesis and Determination of the Cardinality of Continuum by Approximations of Sets
+Realization of the Riemann Hypothesis via Coupling Constant Spectrum
+Further Comments on Realization of Riemann Hypothesis via Coupling Constant Spectrum
+Concerning Riemann Hypothesis
+Self-Referential Definition of Orthogonality
+Abel Prize 2009 as a necessitation to discussion on geometry or physicist versus geometers
+Algorithmic proof of Barnette's Conjecture
+Exploring Progressions: A Collection of Problems
+An interesting temporalization of G odel's ontological proof
+Towards commutator theory for relations. III
+A Categorical Construction of Ultrafilters
+Asymptotically periodic L 2 minimizers in strongly segregating diblock copolymers
+Asymmetric numeral systems
+About a virtual subset
+Brief Lecture Notes on Self-Referential Mathematics and Beyond
+A Novel Variational Principle arising from Electromagnetism
+New Identities In Universal Osborn Loops
+New results based on Riemann hypothesis is tenable
+Solving the Properties of Primes within Prime Series Based on the GRH is Tenable
+Predicativity beyond Gamma 0
+Yet another short proof of the 4-colour theorem
+Bounds on the cardinality of partition
+Remplissage De L'Espace Euclidien Par Des Complexes Poly 'Edriques D'Orientation Impos 'Ee Et De Rotondit 'E Uniforme
+To Get Overall Shapes and New Data of the 120-Cell and the 00-Cell
+Higher order fractional derivatives
+Estimation of Mean in Presence of Non Response Using Exponential Estimator
+Distributive properties of the rationals
+New Developed Pattern on Number System New Number Field and Their Applications in Physics
+Superbimatrices and their generalizations
+Groups as Graphs
+The n-dimensional Cube--A New Way to Prove the Fermat's Last Theorem
+A new proof of Goodstein's Theorem
+On the honeycomb conjecture and the Kepler problem
+Brief Notes on Sheaves Theory
+Brief Research Notes on Transformation of Series and Special Functions
+Research note on a well posed integral used in Apery's proof for the irrationality of Z(3)
+Fermat Reals - Nilpotent Infinitesimals and Infinite Dimensional Spaces
+An Algebra of Fault Tolerance
+Integral points on hyperbolas: A special case
+Ratio Estimators in Simple Random Sampling Using Information on Auxiliary Attribute
+A novel for prediction and approximation of functions (self approximation method)
+Four multiplicative cohomology theorems
+A Nonmeasurable Set from Coin Flips
+The nontrivial zeros of the Zeta Function lie on the Critical Line
+Solving the additive eigenvalue problem associated to a dynamics of a 2D-traffic system
+Indefinite quadratic forms and the invariance of the interval in Special Relativity
+New lower bounds for the size of a non-trivial loop in the Collatz 3x 1 and generalized px q problem
+The Error Term In The Primes Counting Function
+A new inequality involving primes
+A virtual substitution of Brouwer choice sequence
+Pythagorean Triangles with Repeated Digits-Repeated Bases
+L'indice de Maslov dans les JB -triples
+Combinatorics Of RNA Structures With Pseudoknots
+Non-crossing Knight's Tour in 3-Dimension
+Generalizations of a theorem about the binomial coefficient
+W Sequences and the Distribution of Primes in Short Interval
+A Non-Existence Property of Pythagorean Triangles with a 3-D Application
+On a Weakened Form of Polignac Conjecture
+On one number-theoretic conception: towards a new theory
+A Class of Stationary Sequences
+Reservation for Other Backward Classes in Indian Central Government Institutions like IITs IIMs and AIIMs- A Study of the Role of Media using Fuzzy Super FRM models
+Sufficient conditions for the invariant Subspace Problem
+Generalizations of an Ancient Greek Inequality about the Sequence of Primes
+An elementary proof of the robustness of the linear hyperbolic flows
+Measuring on Lattices
+Where Infinitesimals Come From ..
+On three consecutive primes
+A Generator System of Invariant differential forms
+Double Integrals for Euler's Constant and ln(4 Pi) and an Analog of Hadjicostas's Formula
+Infinite sets are non-denumerable
+On the abundance of the irrational numbers
+On Cantor's important proofs
+On the Generation of Hyper-powersets for the DSmT
+Parallel bundles in planar map geometries
+There are infinitely many cousin primes
+Smarandache Multi-Space Theory(I)-Algebraic multi-spaces
+Smarandache Multi-Space Theory(IV)--Application to theoretical physics
+Combinatorial Speculations and the Combinatorial Conjecture for Mathematics
+Chebyshev Partition function: A connection between Statistical Physics and Riemann Hypothesis
+The Number of Complete Maps on Surfaces
+Automorphisms and Enumeration of Maps of Cayley Graph of a Finite Group
+The Continuing Story of Zeta
+Pseudo-Manifold Geometries with Applications
+Geometrical Theory on Combinatorial Manifolds
+Hyper Space Complex Number
+Flag Foliations Functionals. The Hopf Hypothesis
+A Reformulation of the Riemann Hypothesis in Terms of Continuity of the Limit Function of a Certain Ratio of Partial Sums of a Series for the Dirichlet Eta Function
+An elementary proof of the uniqueness of the solutions of linear odes
+Failed attempt to disproof the Riemann Hypothesis
+Identities of the Function f(x y) = x 2 y 3
+On the Diophantine Equation 2 a3 b 2 c3 d = 2 e3 f 2 g3 h
+A Method of Solving Certain Nonlinear Diophantine Equations
+The general solution of the linear difference equation of degree-2 and the continued fraction produced from this equation
+A Computational Approach to Factoring Large Integers
+Pascal's Hexagon Theorem implies a Butterfly Theorem in the Complex Projective Plane
+Abel ODEs: Equivalence and Integrable Classes
+Additive structure of Z(.) mod m k (squarefree) and Goldbach's Conjecture
+An approach to non-standard analysis
+Stationary subsets of functional Menger cap -algebras of multiplace functions
+Reference Frame Fields based on Quantum Theory Representations of Real and Complex Numbers
+An Asymptotic Formalism for Reconstructing Small Perturbations of Scatterers from Electric or Acoustic Far-Field Measurements
+The Aleph-zero or zero dichotomy
+Criteria equivalent to the Riemann Hypothesis
+On the Infinitude of Some Special Kinds of Primes
+Notes on Dickson's Conjecture
+The general solution of Schrodigers differential equation
+Notes on the Zeros of Riemann's Zeta Function
+Intuitionistic Fuzzy Continuity and Uniform Convergence
+Dickson's conjecture on Z n --An equivalent form of Green-Tao's conjecture
+Partition of a Set Which Contains an Infinite Arithmetic (Respectively Geometric) Progression
+Amorphous packings of hard spheres in large space dimension
+Multiply Warped Products with Non-Smooth Metrics
+Obtaining Bounds on The Sum of Divergent Series in Physics
+Fractional operators and special functions. I. Bessel functions
+A method to construct refracting profiles
+Scale calculus and the Schrodinger equation
+Observations concerning G odel's 1931
+Backward Optimized Orthogonal Matching Pursuit
+Generalized Integral Operators and Applications
+Power spectrum of the fluctuation of Chebyshev's prime counting function
+Hilbert's machine and w-order
+Constructive updating downdating of oblique projectors: a generalization of the Gram-Schmidt process
+Oblique Matching Pursuit
+Geometric Riemann scheme of the Painlev 'e equations
+District Level Analysis of Urbanization from Rural-to-Urban Migration in the Rajasthan State
+An ancient Egyptian problem:the diophantine equation 4 n=1 x 1 y 1 z nor=2
+Scaled Asymptotics for Some q-Series as q Approaches One
+Evaluations of Ramanujan Continued Fractions
+Special set linear algebra and special set fuzzy linear algebra
+On the Jacobian Question
+On the Non-degeneracy of Kendall's and Spearman's Correlation Coefficients
+From Bombieri's Mean Value Theorem to the Riemann Hypothesis
+Essential variables and positions in terms
+Surprising Properties of Non-Archimedean Field Extensions of the Real Numbers
+A New Algorithm for Multicommodity Flow
+Analysis on a Fractal Set
+Non-Archimedean Scale Invariance and Cantor Sets
+The arrow of time complexity and the scale free analysis
+Higher derivative discontinuous solutions to linear ordinary differential equations: A new route to complexity?
+The Golden mean scale free extension of Real number system fuzzy sets and 1 f spectrum in Physics and Biology
+Dynamical real numbers and living systems
+Beyond Topologies Part I
+Jacobian Elliptic Functions Continued Fractions and Ramanujan Quantities
+A Relational Axiomatic Framework for the Foundations of Mathematics
+The Matrix of Linear Mappings
+An Alternative Form of the Functional Equation for Riemann's Zeta Function
+Multiply Connected Topological Economics Confidence Relation and Political Economy
+Goldbach Conjecture and the least prime number in an arithmetic progression
+Euclid's Number-Theoretical Work
+The problem of the least prime number in an arithmetic progression and its applications to Goldbach's conjecture
+Inevitable Infinite Branching in the Multiplication of Singularities
+Probabilistic interpretation of the M obius function identity and the Riemann Hypothesis
+Some possible approaches to the Riemann Hypothesis via the Li Keiper constants
+Fuzzy Anti-bounded Linear Operator
+Remark on the irrationality of the Brun's constant
+Addressing mathematical inconsistency: Cantor and Godel refuted
+Congruent numbers elliptic curves and the passage from the local to the global
+On The Universality Of Central Loops
+Some necessary and sufficient conditions for parastrophic invariance of the associative law in quasigroups
+On a Pair of Universal Weak Inverse Property Loops
+On Isotopic Characterization of Central Loops
+On the existence of A-loops with some commutative inner mappings and others of order 2
+The Lindelof Hypothesis for almost all Hurwitz's Zeta-Functions holds True
+A Double Cryptography Using The Smarandache Keedwell Cross Inverse Quasigroup
+Linearization of the inverse conductivity problem
+The Square of the Dirichlet-to-Neumann map equals minus Laplacian
+Spectrum of analytic continuation
+On the number of extreme measures with fixed marginals
+On Some Algebraic Properties of Generalized Groups
+Two arguments that the nontrivial zeros of the Riemann zeta function are irrational
+Four Departures in Mathematics and Physics
+Not Every Osborn Loop Is Universal
+Basic Properties Of Second Smarandache Bol Loops
+Singularities in Space-time Foam Algebras
+New classes of Neutrosophic Linear Algebras
+Compactable semilattices
+A proof of Lindel of's hypothesis
+Acid zeta function and ajoint acid zeta function
+The order of complex numbers
+Implementing the Law of Sines to solve SAS triangles
+Algebraic representations of von Neumann algebras
+A Recurrence Method for Generalizing Known Scientific Results
+Formulae of Partial Reduction for Linear Systems of First Order Operator Equations
+Quantifying Transversality by Measuring the Robustness of Intersections
+Nine Solved and Nine Open Problems in Elementary Geometry
+On the representations of N(T) via prime numbers
+A Theorem about Simultaneous Orthological and Homological Triangles
+Smarandache's Cevian Triangle Theorem in The Einstein Relativistic Velocity Model of Hyperbolic Geometry
+Dynamics in the Category Set
+Calculating ( int 0 infty(sin 2n x) x 2n dx)
+Rank Distance Bicodes and their Generalization
+Genaral Pi Function and the Pi number
+Biring of Matrices
+Spectral Radius and Amenability in Hilbert Geometries
+Large semilattices of breadth three
+An infinite combinatorial statement with a poset parameter
+Optimum Statistical Test Procedure
+Collatz Problem of Positive Integers
+Pythagorean Boxes with Primitive Faces
+Rigid and Non-Rigid Mathematical Theories: the Ring mathbb Z Is Nearly Rigid
+On Some Results Related to Napoleon's Configurations
+Logical reloading as overcoming of crisis in geometry
+Generalization and Alternatives of Kaprekar's Routine
+A Note on Generalized Intuitionistic Fuzzy psi Normed Linear Space
+Note on Prime Gaps and Zero Spacings
+Local Functions : Algebras Ideals and Reduced Power Algebras
+Does resolving PvNP require a paradigm shift?
+Combinatorial Structure of Manifolds with Poincar 'e Conjecture
+Limits of Recursive Triangle and Polygon Tunnels
+The Topological Structure of Question Theory
+Periodic functions with variable period
+A Generalization of Seifert-Van Kampen Theorem for Fundamental Groups
+Existence of a Limiting Distribution for the Binary GCD Algorithm
+Critical points between varieties generated by subspace lattices of vector spaces
+Representation and Superposition of Discrete Functions and Equations with Parameterized Operations
+Analytic implications from the remainder term of the prime number theorem
+An euclidean affine invariant of quadrilaterals
+Super Special Codes using Super Matrices
+Three Problems of Distinction
+Neutrosophic Bilinear Algebras and their Generalizations
+An Infinitude of Primes of the Form b 2 1
+Exponential decay for products of Fourier integral operators
+On the Stochastic Burgers Equation and the Axiom of Choice
+A Generalization of the Idea of Disjunction
+Role of skew-symmetric differential forms in mathematics
+Pythagorean triangles within Pythagorean triangles
+Weighted and controlled frames
+On the existence of polynomial-time algorithms to the subset sum problem
+Scale Free Analysis and the Prime Number Theorem
+Logic With Verbs and its Mathematical Structure
+A non-coordinatizable sectionally complemented modular lattice with a large J 'onsson four-frame
+Maximal r-Diameter Sets and Solids of Constant Width
+A Property of the Gamma Function at its Singularities
+A Generalization of Certain Remarkable Points of the Triangle Geometry
+Neutrosophic Logic - Generalization of the Intuitionistic Fuzzy Logic
+A Note on the Weighted Harmonic-Geometric-Arithmetic Means Inequalities
+Two Remarkable Ortho-Homological Triangles
+Interval Groupoids
+Cone Normed Linear Spaces
+A Note on Intuitionistic Fuzzy Hypervector Spaces
+Some Notes on the Solutions of non Homogeneous Differential Equations
+Higher algebraic K-theories related to the global program of Langlands
+Monistic conception of geometry
+Intuitionistic Fuzzy Banach Algebra
+A Unifying Field in Logics: Neutrosophic Logic Neutrosophic Set Neutrosophic Probability and Statistics (fourth edition)
+Logic and probability
+AP Theory II:Intrinsic 4D Quantum YM Theory with Mass Gap
+AP Theory III: Cone-like Graded SUSY Dynamic Dark Energy and the YM Millenium Problem
+Pantazi's Theorem Regarding the Bi-orthological Triangles
+L-Fuzzy Semi-Preopen Operator in L-Fuzzy Topological Spaces
+Generalised intuitionistic fuzzy soft sets and its application in decision making
+Fuzzy ideals in Gamma- semiring
+Riemann hypothesis from the Dedekind psi function
+Introduction to Projective Arithmetics
+Elementary Evaluation of the Zeta and Related Functions
+AP Theory IV: Intrinsic Topological Quantum Langlands Theory
+Nonstandard Analysis - A Simplified Approach
+A note on infinite extreme correlation matrices
+Erlangen Program at Large--2: Inventing a wheel. The parabolic one
+On inversion formulas and Fibonomial coefficients
+Tromino Tiling Deficient Cubes of Any Side Length
+Degree of Negation of an Axiom
+Bernoulli Operator and Riemann's Zeta Function
+Notes On a Continued Fraction of Ramanujan
+On Fixed-point theorems in Intuitionistic Fuzzy metric Space
+Numerical Chaos in a Fractional Order Logistic Map
+Eisenstein Series Alternative Modular Bases and Approximations of 1 pi
+Parametric Evaluations of the Rogers Ramanujan Continued Fraction
+Solutions to Yang-Mills equations
+Ivan Bernoulli Series Universalissima
+Diagonalisation schemes and applications
+Can We Prove Goldbach's Conjecture?
+Elliptic Curves and Hyperdeterminants in Quantum Gravity
+Determinants of Population Growth in Rajasthan: An Analysis
+Interval Linear Algebra
+The attractor structure of logarithmic iterations in the complex plane
+Symmetry in Data Mining and Analysis: A Unifying View based on Hierarchy
+The Remarkable Simplicity of Very High Dimensional Data: Application of Model-Based Clustering
+On Zeros of Certain Entire Functions
+On the zeros of the Riemann Zeta function
+On the existence of exotic homotopy 3-spheres
+A note on the Hodge conjecture
+Two Applications of Desargues' Theorem
+The distribution of the non-prime numbers - A new Sieve
+Discrete multivariate distributions
+Eventological theory of decision making for stock markets
+Introduction into Geometry over Division Ring
+Hausdorff-Colombeau measure and axiomatic quantum field theory in spacetime with negative B.Mandelbrot dimensions
+Higher order derivatives and perturbation bounds for some functions of matrices
+Inversion Formula
+Residues of functions of Cayley-Dickson variables and Fermat's last theorem
+On Q-Fuzzy Ideal Extensions in Semigroups
+On Q-Fuzzy Ideals in Gamma-Semigroups
+A Short Note on Fuzzy Characteristic Interior Ideals of Po-Gamma-Semigroups
+Intuitionistic Fuzzy Points in Semigroups
+Atanassov's Intuitionistic Fuzzy Ideals of Gamma Semigroups
+Study of Gamma Semigroups via its Operator Semigroups in terms of Atanassov's Intuitionistic Fuzzy Ideals
+On Intuitionistic Fuzzy Magnified Translation in Semigroups
+On Fuzzy Bi-ideals and Fuzzy Quasi Ideals in Gamma-Semigroups
+(Alpha Beta)-Fuzzy Subsemigroup and (Alpha Beta)-Fuzzy Bi-ideal in Gamma- Semigroups
+Two Triangles with the Same Orthocenter and a Vectorial Proof of Stevanovic's Theorem
+Intuitionistic fuzzy psi - phi -contractive mappings and fixed point theorems in non-Archimedean intuitionistic fuzzy metric spaces
+Interval Semigroups
+The Triangular Theorem of the Primes: Binary Quadratic Forms and Primitive Pythagorean Triples
+Note on pre-Courant algebroid structures for parabolic geometries
+Different representations of Euclidean geometry and their application to the space-time geometry
+Ratio Estimators in Simple Random Sampling when Study Variable is an Attribute
+Squarefree Integers And Extreme Values Of Some Arithmetic Functions
+Note on the Theory of Perfect Numbers
+On Ergodic Hypothesis
+The Exact General Solution of Painlev 'e's Sixth Equation (PVI) and The Exact General Solution of the Navier Stokes Equations with Applications to Boundary Layer Problems
+Des nombres infiniment petits et des entiers infiniment grands mais d 'efinis a l'unit 'e pr es
+On Fixed-point theorems in Intuitionistic Fuzzy metric Space I
+Discrete Euclidian Spaces: a starting point toward the discretization of mathematics
+The First Derivative of Ramanujans Cubic Continued Fraction
+A generalization of Ostrowski inequality on time scales for k points
+An Ostrowski-Gruss type inequality on time scales
+A new generalization of Ostrowski type inequality on time scales
+Quaternion Rhapsody
+Fold-Saddle Bifurcation in Non-Smooth Vector Fields on the Plane
+A Group-Pertmutation Algorithm to Solve the Generalized SUDOKU
+Notion of a virtual derivative
+A Class of Orthohomological Triangles
+On a new proof of the Prime Number Theorem
+Triplets of Tri-Homological Triangles
+Well-Posedness Of Common Fixed Point Theorem For Three and Four Mappings Under Strict Contractive Conditions In Fuzzy metric Space
+The family of Eulerian constants in the isodimensional discrete calculus
+A simple finitary proof of Goodstein's Theorem
+Formulas for the approximation of the complete Elliptic Integrals
+Hyperbolic cosines and sines theorems for the triangle formed by intersection of three semicircles on Euclidean plane
+How definitive is the standard interpretation of Goodstein's argument?
+A Logical Calculus To Intuitively And Logically Denote Number Systems
+On Osculating Interpolation
+Fermi-Dirac integrals in terms of Zeta Functions
+From objects to diagrams for ranges of functors
+A new proof of Menelaus's Theorem of Hyperbolic Quadrilaterals in the Poincar 'e Model of Hyperbolic Geometry
+A Note On The Spectral Norms of The Matrices Connected Integer Numbers Sequence
+An Integral Representation of Kekul 'e Numbers and Double Integrals Related to Smarandache Sequences
+Apology of Euclid
+Leibniz's Definition of Monad
+Linear Programming and Kantorovich Spaces
+Parametrization of Pythagorean triples by a single triple of polynomials
+An equation satisfied by all non-trivial zeros rho of the Riemann zeta function zeta
+A Note on Hypervector Spaces
+Innerproduct Hyperspaces
+Notes on non-archimedean topological groups
+On the Series sum n=0 infty t nf (n) (t) (-1) n n
+On the Eigenvalues of the Operator (Tf)(t)=f(t)- sum n=0 infty frac f (n) (0) n t n
+Evaluations of Derivatives of Jacobi Theta Functions in the origin
+Interval Semirings
+On Path Decomposition Conjecture of Tibor Gallai
+Glimpses of the Octonions and Quaternions History and Todays Applications in Quantum Physics
+A new criterion of the Riemann hypothesis
+Analysis of Riemann Zeta-Function Zeros using Pochhammer Polynomial Expansions
+An equivalent problem to the Twin Prime Conjecture
+Algebraic Structures using Natural Class of Intervals
+Numerical analysis of minimal beta-sequences associated with a family of entire functions
+Expression of a Tensor Commutation Matrix in Terms of the Generalized Gell-Mann Matrices
+Beyond Complex Numbers
+Moebius functions Irreducible Polynomials and Dirichlet Series
+Recursion Relations and Functional Equations for the Riemann Zeta Function
+Orthogonal Basis and Motion in Finsler Geometry
+Interval Algebraic Bistructures
+Banishing divergence Part 2: Limits of oscillatory sequences and applications
+Banishing divergence Part 1: Infinite numbers as the limit of sequences of real numbers
+On Isomorphism of Graphs and the k-clique Problem
+Proof of Riemann Hypothesis
+On a certain asymptotic relationship involving vartheta(t) - lfloor t rfloor and t 1 2
+A note on gaps
+On an arithmetical approach to the Riemann hypothesis
+Sieve Procedure for the M obius prime-functions the Infinitude of Primes and the Prime Number Theorem
+Fuzzy Rough Relations
+Definition and Existence of the Eigenderivative
+Random matrices and Riemann hypothesis
+Properties and applications of the prime detecting function: infinitude of twin primes asymptotic law of distribution of prime pairs differing by an even number
+A Geometric Interpretation of the Neutrosophic Set - A Generalization of the Intuitionistic Fuzzy Set
+On the Gaps between Two Consecutive Prime Numbers
+A note on first-order arithmetic
+Goedel's proof: a revisionist view
+Some new Inequalities of Hardy-Hilbert Type with general kernel
+Properties of proper rational numbers
+Reciprocal Properties of Pythagorean triangles
+A point of order 
+Algebraic Structures Using Super Interval Matrices
+Eighth lattice points
+An inverse of the modular invariant
+Fourier Cosine and Sine Transform on fractal space
+Integrability of Newton ovals computation of air damper inlets
+Integer roots of quadratic and cubic polynomials with integer coefficients
+The Reconstruction of Graphs
+The Integrals of Motion for the Deformed Virasoro Algebra
+A proof of Goldbach's conjecture that all even numbers greater than four are the sum of two primes
+On the Jacobian conjecture
+Examples of Admissible Simplification of Mathematical Theories
+Generalizations of Holder's and some related integral inequalities on fractal space
+Finite Neutrosophic Complex Numbers
+Ramanujan type 1 pi Approximation Formulas
+The Riemann Hypothesis is Unprovable
+General Logic-Systems and Consequence Operators
+On the decomposition of n into primes
+A Generalization in Space of Jung's Theorem
+On some definite integrals connecting with certain infinite series
+Fuzzy h-ideals of a Gamma- hemiring and its operator hemirings
+Operations on fuzzy ideals of Gamma -semirings
+Role of operator semirings in characterizing Gamma -semirings in terms of fuzzy subsets
+Extension of Fuzzy h-ideals in Gamma -hemirings
+A case for weakening the Church-Turing Thesis
+DSm Vector Spaces of Refined Labels
+Resolving G odel's Incompleteness Myth: Polynomial Equations and Dynamical Systems for Algebraic Logic
+A Theorem of Probability
+Five Exponential Diophantine Equations and Mayhem Problem M429
+The Radical Mistakes in the Theories on Calculus of Cauchy-Lebesgue System
+The Fiedler Rose: On the extreme points of the Fiedler vector
+Is it possible to compute the Moebius function without factoring?
+A representation theorem for MV-algebras
+Superswapping
+A disturbing supertask
+Extending Cantor Paradox
+Mathematical Proofs of Two Conjectures: The Four Color Problem and The Uniquely 4-colorable Planar Graph
+Cantor versus Cantor
+On Bifurcated supertasks and related questions
+Nested-set inconsistency
+Contact geometry and the Poincar 'e conjecture
+On fuzzy h-ideals in h-regular Gamma -hemiring and h-duo Gamma -hemiring
+The domain of the Fourier integral
+Solving Polynomial Equations from Complex Numbers
+Polymultisets Multisuccessors and Multidimensional Peano Arithmetics
+Henri Lebesgue and the End of Classical Theories on Calculus
+Linear parameterization of group GL(N C)
+Recursion and the Axiom of Infinity
+Consistency Spaces
+Fuzzy Anti-norm and Fuzzy alpha -anti-convergence
+A Geometric View of the Sieve of Eratosthenes
+Natural Product n on matrices
+Relations on Intuitionistic Fuzzy Soft Sets
+Hexile Sieve Analysis of Prime and Composite Integers
+Fermat's Last Theorem Solution Sets v
+Galois theory for iterative connections and nonreduced Galois groups
+Play Ground for Victor's Magic Squares
+Rohit Self-Class Group
+The Rational Number n p as a sum of two unit fractions
+Results on fuzzy soft topological spaces
+Additive Relation and Algebraic System of Equations
+Fuzzy Linguistic Topological Spaces
+La cometa di Goldbach e ... le altre
+Una costruzione del sistema dei numeri reali
+Ideal-quasi-Cauchy sequences
+An Application of Ptolemy's Theorem:Integral triangles with a 120 degree angle and the bisector(of the 120degree angle)also of integral length
+A new applied approach for executing computations with infinite and infinitesimal quantities
+Evaluating the exact infinitesimal values of area of Sierpinski's carpet and volume of Menger's sponge
+Numerical point of view on Calculus for functions assuming finite infinite and infinitesimal values over finite infinite and infinitesimal domains
+Counting systems and the First Hilbert problem
+On accuracy of mathematical languages used to deal with the Riemann zeta function and the Dirichlet eta function
+Extracting squares from any quadrilateral
+The Diophantine Equation arctan(1 x) arctan(m y)= arctan(1 k)
+Smarandache Curves According to Bishop Frame in Euclidean 3-Space
+Special Smarandache Curves According To Darboux Frame In E3
+The Geometry of Homological Triangles
+The notion of abstract Manifold: a pedagogical approach
+The arithmetic of solids
+P-Quasi-Cauchy Sequences
+Functional Power Series
+A Simple Counterexample to Havil's Reformulation of the Riemann Hypothesis
+Linear Equation in Finite Dimensional Algebra
+To Prove Four Color Theorem
+Linear Orderings and Powers of Characterizable Cardinal
+Mathematics of Knowledge Refinement: Probabilistic Arithmetic with no unknowns and no infinity. Part I. Generalized Probabilistic Arithmetic. Basic definitions and properties
+On the Rayleigh-Taylor instability for incompressible viscous magnetohydrodynamic equations
+Rayleigh-Taylor instability for compressible rotating flows
+Erasure Techniques in MRD codes
+A Geometric Way to Generate Blundon Type Inequalities
+Dual Smarandache Curves and Smarandache Ruled Surfaces
+Related Fixed Point Theorems For Two Pairs Of Mappings In Fuzzy Metric Spaces
+Generalized modular forms including the weak Maass forms the Ramanujan's Theta functions and the Tau function
+Half quasi-Cauchy sequences
+Real Version of Calculus of Complex Variable (II): Cauchy's Point of View
+Real Version of Calculus of Complex Variable (I): Weierstrass Point of View
+Character Sums Over The Prime Numbers
+Omega limit sets minimal dynamical systems and the Julia set of ....
+Levy Processes involving Riemann zeta function
+Persistence and global attractivity in the model A n 1 =A nF(A n-m )
+On an improvement of the Hardy-Hilbert type inequality
+A generalized Young inequality and some new results on fractal space
+Gr obner Basis Convex Polytopes and Planar Graph
+Mappings of Conjugation of Quaternion Algebra
+Alternative Mathematics without Actual Infinity
+Algebra of Fractions of Algebra with Conjugation
+Mathematical Analysis of the Problems faced by the People With Disabilities (PWDs)
+Dynamical Sieve of Eratosthenes
+The McDougal Cave and Counting issues
+Roots and polynomials as homeomorphic spaces
+A Factorial Analysis based Prove on Goldbach's Conjecture
+On the Banach-Stone Theorem and the Manifold Topological Classification
+The Gateaux Derivative of Map over Division Ring
+Les extensions intrinseques les plus simples des ensembles R et N pour une nouvelle Analyse Non standard
+Weak Golbach's Conjecture from Isomorphic and Equivalent Odd Prime Number Functions
+Abstract Concept of Changeable Set
+How to draw combinatorial map? From graphs and edges to corner rotations and permutations
+Structured Multi-Matrix Variate Matrix Polynomial Equations: Solution Techniques
+Parameter Estimation of Noise Corrupted Sinusoids
+Generalizations of Ramanujans Continued fractions
+On Structure and Organization: An Organizing Principle
+Variational description of Gibbs-non-Gibbs dynamical transitions for the Curie-Weiss model
+Nonstandard Tools for Nonsmooth Analysis
+Elementary Primes Counting Methods
+On fuzzy weakly-closed sets
+Integral Triangles with one angle twice another and with the bisector(of the double angle) also of integral length
+Riemann Zeta Function Expressed as the Difference of Two Symmetrized Factorials Whose Zeros All Have Real Part of 1 2
+Efficient application of the Chiarella and Reichel series approximation of the complex error function
+On Fuzzy Boundary
+A General Method for Constructing Ramanujan Formulas for 1 pi nu
+The Collatz 3n 1 Conjecture is Unprovable
+Counterexamples to the conjectured transcendence of sum 1 (n alpha) k its closed-form summation and extensions to polygamma functions and zeta series
+Some consequences of interpreting the associated logic of the first-order Peano Arithmetic PA finitarily
+On a General Sextic Equation Solved by the Rogers Ramanujan Continued Fraction
+Fractal Topology Foundations
+A new signal processing tool developed with the help of the Clifford algebra
+Conformal Euler-Lagrangian Equations on Para-Quaternionic Kahler Manifolds
+The Tragedy of Mathematics in Russia
+Finite Dimensional Intuitionistic Fuzzy Normed Linear Space
+A Note on the Zero-Free Regions of the Zeta Function
+On the solution of the Graph Isomorphism Problem Part 1
+Some Remarkable Concurrences in the Quadrilateral
+Is the function 1 x continuous at 0?
+Spinor Darboux Equations of Curves in Euclidean 3-Space
+La conjetura de Goldbac y su relaci 'on con el Teorema de Dirichlet
+A Converting of the Directed Graphs
+Integral regular truncated pyramids with rectangular bases and the diophantine equation x 2 y 2 z 2= t 2
+The Conics Generated by the Method of Application of Areas
+Theory on Structure and Coloring of Maximal Planar Graphs (I): Relationship between Structure and Coloring
+Quantum Knots and Riemann Hypothesis
+The Theory of Ultralogics Part II
+Variable Topology on Fractal Manifold
+Polynomial representation of Fermat's Last Theorem
+Every set has its S-divisor
+Two Musical Orderings
+Generalized measurement on size of set
+Topological Expansion Study and Applications
+Free Algebra with Countable Basis
+On NP complete problems I
+Solutions to 3-dimensional Navier-Stokes equations for incompressible fluid
+An Elementary Proof by the Heegaard Splittings of the 3-Dimentional Poincare Conjecture
+A Brief note on the Riemann hypothesis
+A Brief Note on the Riemann hypothesis II
+Topic In Elliptic Curves Over Finite Fields: The Groups of Points
+Summatory Mobius Function and Summatory Liouville Function
+Some applications of the sine and cosine integrals
+On an integral involving the digamma function
+Arithmetical Functions : Infinite Products
+Hasse theorem -- an elementary approach
+Some notes on characterizations of compact sets in fuzzy number spaces
+The Theory of Ultralogics Part I
+A Counter Example To the Hodge Conjecture
+Proof of the Density Hypothesis
+Binary signals: a note on the prime period of a point
+Integral points on rational curves of the form y=(x 2 bx c) (x a) a b c integers
+Characterizations of LA-semigroups by new types of fuzzy ideals
+Alternative to the Well-known Statistical Dynamics of Linear Systems
+A New Algorithm for Linear Programming
+Introduction into Calculus over Division Ring
+On mean values and zeroes of Dirichlet series
+About one class polynomial problems with not polynomial certificates
+Primes In Cubic Arithmetic Progressions
+Asymptotic estimates on the Erd H o s-Straus conjecture
+Real and complex order integrals and derivatives operators over the set of causal functions
+Analytic implication from the prime number theorem
+On the prime number theorem and distribution of nontrivial zeros of the Riemann zeta function
+Two definitions of fractional derivatives of power functions
+Definitions of real order integrals and derivatives using operator approach
+Ray trajectories binomial of a new type and the binary system on binomial distribution of the second (nonlinear) type for big binomial power
+About the proof of the Collatz conjecture
+Beurling spectrum of functions in Banach space
+Spectral measure of Laplacean operators in Paley-Wiener space
+(m n)-Semirings and a Generalized Fault Tolerance Algebra of Systems
+Mechanical Equations on Bi-Para Conformal Geometry
+Homing missile guidance law with imperfect measurements and imperfect information about the system
+Topics In Normal Bases Of Finite Fields
+On Fuzzy semihyperrings
+Exotic heat PDE's
+Exotic Heat PDE's.II
+Exotic n-d'Alembert PDE's and Stability
+Exotic PDE's
+Quantum extended crystal PDE's
+Quantum Exotic PDE's
+The Error Term of the Summatory Euler Phi Function
+A positive answer to the Riemann hypothesis: A new result predicting the location of zeros
+Polynomial over Associative D-Algebra
+New conjectures in number theory - The distribution of prime numbers
+Two Symmetric Properties of Mersenne Numbers and Fermat Numbers
+On Soft Mappings
+Hamiltonian Graphs and the Traveling Salesman Problem
+Proof of the Linderlof hypothesis
+On the tensor Permutation Matrices
+Generalized Elliptic Integrals and Applications
+Zeros of the Riemann Zeta Function
+Zeta of 2 and Euler constant: on a mathematical metaphor of Jonathan Sondow
+Matrix Online Characteristic Number and Its applications in Goldbach Conjecture Polignac Conjecture the Twin Prime Conjecture
+Three proofs of the Casas-Alvero conjecture
+Generalized Fractional Order Derivatives Its Properties and Applications
+An almost trivial proof of the 4-colour theorem
+Linear difference equations and periodic sequences over finite fields
+Random Distances Associated with Rhombuses
+Random Distances Associated with Hexagons
+Random Distances Associated With Equilateral Triangles
+Jassologie : Une vision originale sur les cartes orientables
+lambda -statistically quasi-Cauchy sequences
+Random Distances Associated with Trapezoids
+Upward and downward statistical continuities
+Nonstandard Vector Space with a Metric and Its Topological Structure
+On completely regular and strongly regular ordered Gamma -semigroups
+Convex and Concave Soft Sets and Some Properties
+The properties of sendograph metric on fuzzy number spaces
+The cardinality of the set of real numbers
+A proof of the non existence of Frey curves without using TSW theorem
+Integer-Sided Triangles with integral medians
+The Riemann Hypothesis
+Uniform approximation of some Dirichlet series by partial products of Euler type
+Orthonormal Polynomial Basis and Kellerian Mapping
+Sixth-order and Seventh-order Iterative Methods for Solving Nonlinear Equations
+Time-frequency analysis and Harmonic Gaussian Functions
+The transitive algebra problem has an affirmative answer
+On soft linear spaces and soft normed linear spaces
+On Solving Some Trigonometric Series
+Some Notes on Compact Sets in Soft Metric Spaces
+Integer Solutions Rational solutions of the equations x 4 y 4 z 4 -2(x 2)(y 2)-2(y 2)(z 2)-2(z 2)(x 2)=n and x 2 y 4 z 4-2x(y 2)-2x(z 2)-2(y 2)(z 2)=n And Crux Mathematicorum Contest problem CC24
+Fixed point theorems of soft contractive mappings
+A Proof On Arnold-Chekanov Conjecture
+A Proof On Arnold Chord Conjecture
+Physical interpretation of the Riemann hypothesis
+Ramanujan's Heirs
+On the Riemann Hypothesis
+The Strong Goldbach Conjecture: Proof for All Even Integers Greater than 32
+Hilbert-Polya conjecture and Generalized Riemann Hypothesis
+On some additive problems in number theory
+On One Function Defined on the Cartesian Product and Guinness Numbers
+Decomposition Of Invertible And Conformal Transformations
+Proof of Riemann's zeta-hypothesis
+A note on the modified q-Dedekind sums
+Normed Omega-Group
+Fourier Coefficients Of Some Cusp Forms
+A Birthday Attack on Roulette
+Fuzzy Gamma-hypersemigroups
+On a new method for calculation of the number of prime numbers in the given interval
+Arithmetic of fuzzy numbers and intervals -- a new perspective with examples
+A Unifying Approach to Quaternion Adaptive Filtering: Addressing the Gradient and Convergence
+On Lehmer Binomial Series
+On Number Representation
+On Elementary Methods To Evaluate Values of The Riemann Zeta Function and Another Closely Related Infinite Series At Natural Numbers
+On Gracefully Labeling Trees
+Logarithms and Square Roots of Real Matrices
+A Simple Proof On Poincar 'e Conjecture
+On integrals of fractional parts and the theory of prime differences
+Existence Of Contact Structure
+Kronecker Square Roots and The Block vec Matrix
+Generalization of N-Ideals Of BE-algebras
+The sum of the squares of p positive integers which are consecutive terms of an arithmetic progression: Always a non-perfect square when p(a prime)=3 or p is congruent to  or  modulo 12
+Remarks on the Cayley Representation of Orthogonal Matrices and on Perturbing the Diagonal of a Matrix to Make it Invertible
+Effective prime factors and Goldbach's Theorem Conjecture
+On a Formula of Mellin and its Application to the Study of the Riemann zeta-function Rnum 2 on the Zero-free Region of the Riemann zeta-function
+The mathematics of Septoku
+Non-archimedean analysis on the extended hyperreal line R d and some transcendence conjectures over field Q and Q omega
+Spectrum of bounded sequences and inhomogeneous delay linear difference equations in Banach spaces
+Some considerations in favor of the truth of Goldbach's Conjecture
+A study on ideal ward continuity
+Difficulties of the set of natural numbers
+Random Distances Associated with Arbitrary Triangles: A Systematic Approach between Two Random Points
+On Double Sequences
+Weak Solutions of Navier-Stokes equations through bounded operators
+Functions preserving slowly oscillating double sequences
+Finite Hilbert Transforms Logarithmic Potentials and Singular Integral Equations
+Gateaux and Frechet Derivative in Intuitionistic Fuzzy Normed Linear spaces
+Generalized Lob's Theorem.Strong Reflection Principles and Large Cardinal Axioms.Consistency Results in Topology
+Application of difference sequences theory
+Tensor Commutation Matrices and Some Generalizations of the Pauli Matrices
+The Fibonacci Sequence via the sigma transform
+A Triangular Array of the Counts of Natural Numbers with the Same Number of Prime Factors (Dimensions) Within 2n Space
+Rational trigonometry via projective geometric algebra
+The zeros of the Riemann-zeta function and the transition from pseudo-random to harmonic behavior
+General Divisibility Criteria
+Some Results Related to Soft Topological Spaces
+Fuzzy subgroups commutativity degree of dihedral groups
+The use of soft matrices on soft multisets in an optimal decision process
+Zeroth-rank operation and non transitive numbers. Nulranga operacio kaj netransitivaj nombroj. Operazione di rango zero e numeri non transitivi
+The integration theory of linear ordinary differential equations
+The Riemann Hypothesis and the possible proof
+A Note on Laplace Transforms of Some Particular Function Types
+Interval-valued neutrosophic soft sets and its decision making
+Comment on Generalized ideal elements in le - Gamma -semigroups
+Unified Approach to Real Numbers in Various Mathematical Settings
+Nonstandard Analysis Applied to Special and General Relativity - The Theory of Infinitesimal Light-Clocks
+The GGU-model and Generation of the Developmental Paradigms
+Periodic continued fractions and hyperelliptic curves
+Association schemes related to universally optimal configurations Kerdock codes and extremal Euclidean line-sets
+Bounds for the Ratios of Differences of Power Means in Two Arguments
+Potential flow in the critical strip and the Riemann hypothesis
+On Algebraic Functions
+Algebraic Equations Solved with Jacobi Elliptic Functions
+Necessary condition for divisibility by the power of prime ideal and its application to the Fermat's problem
+On Generalized Integrals and Ramanujan-Jacobi Special Functions
+Integral of Map into Abelian Omega -group
+The abstract Cauchy problem for the non-stationary bulk queue M(t) M k B 1
+A Periodic Solution to Impulsive Logistic Equation
+On ordered Gamma -semigroups ( Gamma -semigroups)
+Correctness of depiction in planar diagrams of spatial figures
+Semiopen and semiclosed sets in fuzzy soft topological spaces
+Fuzzy Cosets and Quotient Fuzzy AG-subgroups
+Some more proofs from the Book: solvability and insolvability of equations in radicals
+Paraconsistent second order arithmetic Z 2 based on the paraconsistent logic LP with infinite hierarchy levels of contradiction. Berry's and Richard's inconsistent numbers within Z 2
+Irrationality of the Zeta Constants
+The Riemann hypothesis proved
+Primes Solutions Of Linear Diophantine Equations
+Infinite Computations and the Generic Finite
+Some problems in additive number theory
+Note on a Nonlinear Differential Equation
+Neutrosophic soft sets and neutrosophic soft matrices based on decision making
+Density of the Values Set of the Tau Function
+Helmholtz Theorem for Differential Forms in 3-D Euclidean Space
+On the Riemann Hypothesis and its generalizations
+Proof of the Riemann's hypothesis
+Fuzzy semiprime subsets of ordered groupoids (groupoids)
+Counterexamples to Cantorian Set Theory
+A note on On Green's relations 2 0 -regularity and quasi-ideals in Gamma -semigroups Acta Math. Sin. Engl. Ser. 29 No. 3 09-24(2013)
+Summary Of Four Generalized Exponential Models (GEM) For Continuous Probability Distributions
+Some results on Theory of Infinite Series and Divisor Sums
+Twin Prime Sieve
+Quadratic Primes
+Finitely Axiomatized Set Theory: a nonstandard first-order theory implying ZF
+Solving nth order fuzzy differential equation by fuzzy Laplace transform
+Solving fuzzy two-point boundary value problem using fuzzy Laplace transform
+Solving fuzzy convolution Volterra integro-differential equation via fuzzy Laplace transforms
+A new approach to the distribution of prime numbers
+Decomposition of a Nonlinear Multivariate Function using the Heaviside Step Function
+A new operator giving integrals and derivatives operators for any order at the same time
+Proving zeta(2) through an evolution of the Mengoli's series to the set of rational numbers
+Application of fuzzy Laplace transforms for solving fuzzy partial Volterra integro-differential equations
+Researches on the Twin Prime Problem
+A prime fractal and global quasi-self-similar structure in the distribution of prime-indexed primes
+On Concrete Universals: A Modern Treatment using Category Theory
+Consistency Decision
+On prime-generating linear polynomials and x 2 1
+An Explicit Formula For The Divisor Function
+Topologies and approximation operators induced by binary relations
+Factorization of quadratic polynomials in the ring of formal power series over Z
+The complete evaluation of Rogers Ramanujan and other continued fractions with elliptic functions
+Simple Zeros Of The Zeta Function
+On a Method for Solving Infinite Series
+Einige S atze uber Primzahlen und spezielle binomische Ausdr ucke english Some Theorems about prime numbers and Special Binomial expressions
+On Divisibility Properties of Truncated Binomial Series
+The proof of the correctness of the Birch and Swinnerton-Diyer conjecture
+A new approach to bipolar soft sets and its applications
+Infinitely many pairs of primes p and p 2
+Compatibility of equations with truncated Newton's binomials
+The rate of increase for recursion with quadratic non-linearity
+A Single Proof to Four Conjectures
+The Landau's problems. I-II
+Goldbach's conjecture
+Extensions of real numbers using coset groups
+Topological structures of vague soft sets
+A positive solution to Hilbert's 10th problem
+Four Dimensional Quantum Yang-Mills Theory and Mass Gap I: Quantization of the Solution of the Classical Equation
+Comment on Filtres in ordered Gamma -semigroups
+The geometry of the set of real square roots of pm I 2
+Trapezoidal Fuzzy Logic Model for Learning Assessment
+The boundary value problem for second order ordinary linear differential equations with variable coefficients
+On Hilbert's Tenth Problem
+Riemann hypothesis is not correct
+Rapidly Convergent Series of the Divisors Functions
+Remark on quasi-ideals of ordered semigroups
+Proof of the the Riemann hypothesis from the strong density hypothesis via a power sum method
+Approximation capability of the convolution methods for fuzzy numbers
+A Search of The Four-Color Theorem and its Higher Dimensional Generalization
+A note on the product of the conjugates of a polynomial
+Approximate solutions of a time-fractional diffusion equation with a source term using the variational iteration method
+Cross product in N Dimensions - the doublewedge product
+Building accurate initial models using gain functions for waveform inversion in the Laplace domain
+On Problems Related to Primes: Some Ideas
+Clifford Algebras Clifford Groups and a Generalization of the Quaternions
+Theorems on twin primes-dual case
+Study odd numbers with traditional functions
+Every z-linear maps is a functional p-convex
+Galois groups of Fermat polynomials and the arithmetic groups of Diophantine curves
+The Alternative Form of Fermat's Equation
+Truly Hypercomplex Numbers: Unification of Numbers and Vectors
+Computing Characteristics of One Class of Non-commutative Hypercomplex Number Systems of 4-dimension
+Properties of Soft Semi-open and Soft semi-closed Sets
+Soft Neutrosophic Algebraic Structures and Their Generalization Vol. 2
+Integrating the Jacobian equation
+Quaternion Derivatives: The GHR Calculus
+High Degree Diophantine Equation c q=a p b p
+About new Inverse Formulas of the Transformation of Laplace II.The Laplace transform and the potential of Newton
+Fixed points of multiplicative contraction mappings on multiplicative metric spaces
+An Alternative Form of the Functional Equation for Riemann's Zeta Function II
+On the nonexistence of cycles for the Collatz function
+The Faa di Bruno formula revisited
+The Theory of Quaternion Matrix Derivatives
+A Method of Incorporating Matrix Theory to Create Mathematical Function-Based Music
+MRA-Wavelet subspace architecture for logic probability and symbolic sequence processing
+Properties and applications of transversal operators
+How we pass from fuzzy po -semigroups to fuzzy po - Gamma -semigroups
+Partition of unity systems and B-splines
+A Characterization of Cauchy Sequences in Fuzzy Metric Spaces and Its Application to Fuzzy Fixed Point Theory
+The special case I 3 of the Kholodenko-Silagadze multiple integral considered anew
+A new proof of Vantieghem's theorem
+Ranking of Intuitionistic Fuzzy Numbers by New Distance Measure
+Lectures on Linear Algebra over Division Ring
+The Relationship Between a Function a Functions Inverse and their Antiderivatives with an Emphasis in Finding Exact Roots with the Technique of Integration
+On Riemann Hypotheses
+Semi Compactness in Multiset Topology
+The recursive structure of the distribution of primes
+Degenerate 4-Dimensional Matrices with Semi-Group Structure
+Zeta Functional Analysis
+Prime number generation and factor elimination
+An order theoretic approach in fixed point theory
+Companion Matrices and Their Relations to Toeplitz and Hankel Matrices
+On some properties of seminormed fuzzy integrals
+Reasoning about Primes (II)
+A Closed-Form Solution to the Arbitrary Order Cauchy Problem with Propagators
+Higher Order Recurrences for Analytical Functions of Tchebysheff Type
+A generalization of an inequality from IMO 200
+How to prove that some Bernoulli convolution has the weak Gibbs property
+Exact quasiclassical asymptotics beyond Maslov canonical operator
+On the representation of even numbers as the sum and difference of two primes and the representation of odd numbers as the sum of an odd prime and an even semiprime and the distribution of primes in short intervals
+On algebraic structure of the set of prime numbers
+Helmholtz-Hodge Theorems: Unification of Integration and Decomposition Perspectives
+On the Number of Representation of Integers into Quadratic Forms
+Solution of Polynomial Equations with Nested Radicals
+On a Deterministic Property of the Category of k -almost Primes: A Deterministic Structure Based on a Linear Function for Redefining the k -almost Primes ( exists n in rm N 1 le k le n ) in Certain Intervals
+Some Unique Fixed Point Theorems in Multiplicative Metric Spaces
+On the Gauss Circle Problem
+Kaehler Algebra: Idempotents for Solutions with Symmetry in Metric Spaces
+Erratum to Solutions problem 9-2: On the principal value of a quadruple integral SIAM Rev. 32 (1990) 143
+On the structure and the behaviour of Collatz 3n 1 sequences - Finite subsequences and the role of the Fibonacci sequence
+On an alternative proof of Fermat's Last Theorem
+An algorithm for improving Non-Local Means operators via low-rank approximation
+Inconsistency of Measure-Theoretic Probability
+Alternative Proofs of Ten Inequalities
+Method of Separating Tangents
+Division in Associative D -Algebra
+Similarity entropy and subsethood measures based on cardinality of soft hybrid sets
+Obtaining a New Representation for the Golden Ratio by Solving a Biquadratic Equation
+General Logic-Systems that Determine Significant Collections of Consequence Operators
+Ultra LI-ideals in lattice implication algebras and MTL-algebras
+On the Level Curves of the i Function
+The Dirichlet series that generates the M obius function is the inverse of the Riemann zeta function in the right half of the critical strip
+On a new measure on infinite dimensional unite cube
+Bigeometric Calculus and Runge Kutta Method
+A Vitali-like Convergence Theorem For Generalized Analytic functions Sequence And Its Application
+Topics In Primitive Roots
+Geometric Algebras for Euclidean Geometry
+Fourier series and periodicity
+h-Holomorphic Functions of Double Variable and their Applications
+On existence of infinite primes and infinite twin primes
+On sequences of natural numbers having pairwise relatively prime terms
+On Fuzzy Ideals and Level Subsets of Ordered Gamma -Groupoids
+On Some Algebra and the Corresponding Analysis in the Pseudo-Riemannian Space with Signature 1 -1 -1 -1
+Comparing maximal mean values on different scales
+On deriving nonreflecting boundary conditions in generalized curvilinear coordinates
+A new approach to euclidean plane geometry based on projective geometric algebra
+Detection and discrimination of the periodicity of prime numbers by discrete Fourier transform
+Boundary and Exterior of a Multiset Topology
+Probabilistic approach to the distribution of primes and to the proof of Legendre and Elliott-Halberstam conjectures
+Representations of (2 n) -semigroups by multiplace functions
+Representation of Universal Algebra
+On the Evaluation of the Fifth Degree Elliptic Singular Moduli
+Strong reactions in quantum super PDE's. I-II
+Strong reactions in quantum super PDEs. III: Exotic quantum supergravity
+The Goldbach Conjecture
+Note On The Maximal Primes Gaps
+On Mathematical Functions for Theoretical and Experimental Distributions for Shrutis (Micro Tonal Intervals) and Their Application in Hindustani Music
+Linear Map of D -Algebra

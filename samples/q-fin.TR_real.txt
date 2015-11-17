@@ -1,0 +1,632 @@
+Entropy Oriented Trading: A Trading Strategy Based on the Second Law of Thermodynamics
+Detecting anchoring in financial markets
+The limit order book on different time scales
+Multifractal regime transition in a modified minority game model
+Reinforcement learning in market games
+In which Financial Markets do Mutual Fund Theorems hold true?
+Empirical regularities of order placement in the Chinese stock market
+The value of information in financial markets: An agent-based simulation
+Statistical Arbitrage and Optimal Trading with Transaction Costs in Futures Markets
+Empirical shape function of limit-order books in the Chinese stock market
+Waiting Times in Simulated Stock Markets
+On Agents' Agreement and Partial-Equilibrium Pricing in Incomplete Markets
+A model for interevent times with long tails and multifractality in human communications: An application to financial trading
+Detecting speculative bubbles created in experiments via decoupling in agent based models
+Detrended fluctuation analysis of intertrade durations
+Stochastic resonance and the trade arrival rate of stocks
+Minimal Agent Based Model For The Origin And Self-Organization Of Stylized Facts In Financial Markets
+Existence uniqueness and efficiency of equilibrium in hedonic markets with multidimenstional types
+The distribution of first-passage times and durations in FORE and future markets
+ueue-length Variations In A Two-Restaurant Problem
+The Stock Market as a Game: An Agent Based Approach to Trading in Stocks
+How markets slowly digest changes in supply and demand
+Time Consistent Dynamic Limit Order Books Calibrated on Options
+Computational modeling of collective human behavior: Example of financial markets
+Comment on: Thermal model for Adaptive Competition in a Market
+Trading behavior and excess volatility in toy markets
+A Continuous Time Asynchronous Model of the Stock Market Beyond the LLS Model
+Life in the Stockmarket - a Realistic Model for Trading
+On the nature of the stock market: Simulations and experiments
+From Minority Games to real markets
+Moving averages and markets inefficiency
+The price dynamics of common trading strategies
+The waiting-time distribution of LIFFE bond futures
+Statistical mechanics of asset markets with private information
+A process-reconstruction analysis of market fluctuations
+How Traders enter the Market through the Book
+Why Financial Markets Will Remain Marginally Inefficient?
+Inner Market as a Black Box
+The Dynamics of the Linear Random Farmer Model
+Forecasting Uncertain Events with Small Groups
+Artificial market model based on deterministic agents and derivation of limit of GARCH type process
+Microscopic Models of Financial Markets
+Symmetry Breaking in Stock Demand
+Sornette-Ide model for markets: Trader expectations as imaginary part
+The Perception of Time Risk and Return During Periods of Speculation
+Non-equilibrium statistical mechanics of Minority Games
+Hedging Extreme Co-Movements
+Excess Demand Financial Market Model
+Single Curve Collapse of the Price Impact Function for the New ork Stock Exchange
+Designing agent-based market models
+The Interactive Minority Game: Instructions for Experts
+Multiplicative Stochastic Model of the Time Interval between Trades in Financial Markets
+Dynamical Behavior of Continuous Tick Data in Futures Exchange Market
+Generalized Technical Analysis. Effects of transaction volume and risk
+Long Memory in Stock Trading
+Market Simulation Displaying Multifractality
+On Simple Mean-Field Stochastic Model of Market Dynamics
+Fluctuations and response in financial markets: the subtle nature of random' price changes
+Could short selling make financial markets tumble?
+The Predictive Power of ero Intelligence in Financial Markets
+Anomalous waiting times in high-frequency financial data
+Real payoffs and virtual trading in agent based market models
+Tobin tax and market depth
+What really causes large price changes?
+The Opinion Game: Stock price evolution from microscopic market modelling
+On the Origin of Power-Law Fluctuations in Stock Prices
+Price return auto-correlation and predictability in agent-based models of financial markets
+Random walks liquidity molasses and critical response in financial markets
+Global Optimization of Minority Game by Smart Agents
+Mathew Effect in Artificial Stock Market
+Extreme times in financial markets
+Statistical Facts of Artificial Stock Market
+A Mechanism for Pockets of Predictability in Complex Adaptive Systems
+Topology and Behaviour of Agents: Capital Markets
+Reply to cond-mat : Comment on Generating functional analysis of Minority Games with real merket histories' by H Ho WC Man F Chow and HF Chau
+Effects of Tobin Taxes in Minority Game markets
+Electrodynamical model of quasi-efficient financial market
+The Uneven Distribution of Numbers in Nature
+Reaction-Diffusion-Branching Models of Stock Price Fluctuations
+How to reconcile Market Efficiency and Technical Analysis
+A prognosis oriented microscopic stock market model
+Correlations in the Bond-Future Market
+Transaction costs: a new point of view
+An equilibrium model for matching impatient demand and patient supply over time
+Game theoretic derivation of discrete distributions and discrete pricing formulas
+Capital process and optimality properties of a Bayesian Skeptic in coin-tossing games
+No-arbitrage and closure results for trading cones with transaction costs
+Donsker theorem for the Rosenblatt process and a binary market model
+Interacting Agent Feedback Finance Model
+The Effects of Implementation Delay on Decision-Making Under Uncertainty
+Induced Minority Dynamics in a Stock Market Model
+Agent-based Model Construction In Financial Economic System
+Maority Orienting Model for the Oscillation of Market Price
+On Some Processes and Distributions in a Collective Model of Investors' Behavior
+Time series analysis for minority game simulations of financial markets
+The Maxwell Demon and Market Efficiency
+Macro-players in stock markets
+Dynamical Minority Games in Futures Exchange Markets
+The law of large numbers for completely random behavior of market participants. uantum economics
+Investment horizons : A time-dependent measure of asset performance
+Automated Trading Systems: Developed and Emerging Capital Markets
+Agents Play Mix-game
+Design in Complex Systems: Individual Performance versus System Efficiency
+Anomalous waiting times in high-frequency financial data
+An empirical behavioral model of price formation
+Market efficiency and the long-memory of supply and demand: Is price impact variable and permanent or fixed and temporary?
+Relation between Bid-Ask Spread Impact and Volatility in Double Auction Markets
+Multi-asset minority games
+The Apparent Madness of Crowds: Irrational collective behavior emerging from interactions among rational agents
+Market reaction to temporary liquidity crises and the permanent market impact
+Anomalous fluctuations in Minority Games and related multi-agent models of financial markets
+The average behaviour of financial market by  scale homogenisation
+Waiting times between orders and trades in double-auction markets
+Diffusive behavior and the modeling of characteristic times in limit order executions
+Strategy bifurcation and spatial inhomogeneity in a simple model of competing sellers
+Market Model with Heterogeneous Buyers
+Emergence of product differentiation from consumer heterogeneity and asymmetric information
+Illiquidity and Derivative Valuation
+Economic Models with Chaotic Money Exchange
+Agent-Based Model Approach to Complex Phenomena in Real Economy
+The Impact of Heterogeneous Trading Rules on the Limit Order Book and Order Flows
+A Unified Framework for Dynamic Pari-Mutuel Information Market Design
+Scale Invariance Bounded Rationality and Non-Equilibrium Economics
+Le trading algorithmique
+Time Series Technical Analysis via New Fast Estimation Methods: A Preliminary Study in Mathematical Finance
+Price Impact
+Escaping the Brownian stalkers
+Introducing Chaos in Economic Gas-like Models
+Perturbation theory in a pure exchange non-equilibrium economy
+Minimizing the expected market time to reach a certain wealth level
+Doves and hawks in economics revisited. An evolutionary quantum game theory-based analysis of financial crises
+Simplified stock markets described by number operators
+Emergence of Price Divergence in a Model Short-Term Electric Power Market
+A microscopic model of triangular arbitrage
+Trading leads to scale-free self-organization
+High frequency market microstructure noise estimates and liquidity measures
+Predator-Prey Model for Stock Market Fluctuations
+Liquidity Crisis Granularity of the Order Book and Price Fluctuations
+Housing Market Microstructure
+Market impact and trading profile of large trading orders in stock markets
+The International-Trade Network: Gravity Equations and Topological Properties
+On Financial Markets Based on Telegraph Processes
+A Computational View of Market Efficiency
+The scale of market quakes
+Multiplicative point process as a model of trading activity
+Modeling of waiting times and price changes in currency exchange data
+Dynamic communities in multichannel data: An application to the foreign exchange market during the -- credit crisis
+Studies of the limit order book around large price changes
+Eroding market stability by proliferation of financial instruments
+Hedging in an equilibrium-based model for a large investor
+From naive to sophisticated behavior in multiagents based financial market models
+Stock Market Speculation: Spontaneous Symmetry Breaking of Economic Valuation
+Self-organized model for information spread in financial markets
+Diffusion and Aggregation in an Agent Based Model of Stock Market Fluctuations
+Determining bottom price-levels after a speculative peak
+Generating Functional Analysis of the Dynamics of the Batch Minority Game with Random External Information
+A Self-organising Model of Market with Single Commodity
+A Prototype Model of Stock Exchange
+A generalized spin model of financial markets
+Toward a Theory of Marginally Efficient Markets
+Capital flow in a two-component dynamical system
+Analysis of the phenomenon of speculative trading in one of its basic manifestations: postage stamp bubbles
+Modeling Market Mechanism with Minority Game
+Fundamental Framework for Technical Analysis
+Speculative trading: the price multiplier effect
+Simple model of a limit order-driven market
+Stochastic analysis of an agent-based model
+Models of Financial Markets with Extensive Participation Incentives
+Feedback and efficiency in limit order markets
+Rational Expectations psychology and inductive learning via moving thresholds
+Trading activity as driven Poisson process: comparison with empirical data
+On the transition to efficiency in Minority Games
+Applications of physical methods in high-frequency futures markets
+Effects of diversification among assets in an agent-based market model
+Activity spectrum from waiting-time distribution
+Illusory versus Genuine Control in Agent-Based Games
+Modeling interaction of trading volume in financial dynamics
+Adaptive networks of trading agents
+Market response to external events and interventions in spherical minority games
+Minimal Agent Based Model for Financial Markets I: Origin and Self-Organization of Stylized Facts
+Minimal Agent Based Model for Financial Markets II: Statistical Properties of the Linear and Multiplicative Dynamics
+Outflow Dynamics in Modeling Oligopoly Markets: The Case of the Mobile Telecommunications Market in Poland
+A model of subective supply-demand: the maximum Boltzmann Shannon entropy solution
+Mechanisms of Self-Organization and Finite Size Effects in a Minimal Agent Based Model
+Emergence of Power Law in a Market with Mixed Models
+Effects of introduction of new resources and fragmentation of existing resources on limiting wealth distribution in asset exchange models
+Stock markets and quantum dynamics: a second quantized description
+Stylized facts of financial markets and market crashes in Minority Games
+Price fluctuations from the order book perspective - empirical facts and a simple model
+Minority Games and stylized facts
+Agent-based simulation of a financial market
+Market ecology of active and passive investors
+A Nonlinear Super-Exponential Rational Model of Speculative Financial Bubbles
+Mean-field approximation for a limit order driven market model
+Application of multi-agent games to the prediction of financial time-series
+Time-reversal asymmetry in Cont-Bouchaud stock market model
+Analyzing and modelling  d markets
+Dynamics of the Batch Minority Game with Inhomogeneous Decision Noise
+uantifying Stock Price Response to Demand Fluctuations
+Dynamical Solution of the On-Line Minority Game
+Broken ergodicity and memory in the minority game
+The domino effect for markets
+Triangular arbitrage as an interaction among foreign exchange rates
+Colored minority games
+Waiting-times and returns in high-frequency financial data: an empirical study
+Price Drops Fluctuations and Correlation in a Multi-Agent Model of Stock Markets
+Exact Hurst exponent and crossover behavior in a limit order market model
+Dynamics of price and trading volume in a spin model of stock markets with heterogeneous agents
+Volatility Cluster and Herding
+Statistical theory of the continuous double auction
+Criticality and finite size effects in a simple realistic model of stock market
+Limit order market analysis and modelling: on an universal cause for over-diffusive prices
+Analytic treatment of a trading market model
+Dynamics of multi-frequency minority games
+Cooperativity in a trading model with memory and production
+Traders' strategy with price feedbacks in financial market
+Limited profit in predictable stock markets
+Generalized minority games with adaptive trend-followers and contrarians
+Market depth and price dynamics: A note
+Study on Evolvement Complexity in an Artificial Stock Market
+Need Greed and Noise: Competing Strategies in a Trading Model
+Generating functional analysis of Minority Games with real market histories
+A theory for long-memory in supply and demand
+Master equation for a kinetic model of trading market and its analytic solution
+On the interplay between fluctuations and efficiency in a model economy with heterogeneous adaptive consumers
+Coordination intermittency and trends in generalized Minority Games
+Stationary states of a spherical Minority Game with ergodicity breaking
+The Minority Game: a statistical physics perspective
+Uncertainty relations in models of market microstructure
+Bid distributions of competing agents in simple models of auctions
+Evolution and anti-evolution in a minimal stock market model
+Phase coexistence in a forecasting game
+Application of hangs Square Root Law and Herding to Financial Markets
+News and price returns from threshold behaviour and vice-versa: exact solution of a simple agent-based market model
+Characteristic time scales of tick quotes on foreign currency markets: an empirical study and agent-based model
+Micro-economic Analysis of the Physical Constrained Markets: Game Theory Application to Competitive Electricity Markets
+Hidden Forces and Fluctuations from Moving Averages: A Test Study
+Stylized facts from a threshold-based heterogeneous agent model
+The demise of constant price impact functions and single-time step models of speculation
+Mechanical vs. informational components of price impact
+Detecting the traders' strategies in Minority-Maority games and real stock-prices
+The value of information in a multi-agent market model
+Trading strategies in the Italian interbank market
+Limit order placement as an utility maximization problem and the origin of power law distribution of limit order prices
+Agent-based Models of Financial Markets
+Correlation of coming limit price with order book in stock markets
+Liquidity Risk Price Impacts and the Replication Problem
+A new formulation of asset trading games in continuous time with essential forcing of variation exponent
+Executing large orders in a microscopic market model
+Leverage Causes Fat Tails and Clustered Volatility
+Does Security Transaction Volume-Price Behavior Resemble a Probability Wave?
+Experimental evidence for the interplay between individual wealth and transaction network
+The tick-by-tick dynamical consistency of price impact in limit order books
+Optimal execution strategies in limit order books with general shape functions
+The Minimal Model of Financial Complexity
+A Security Price Volatile Trading Conditioning Model
+A new space-time model for volatility clustering in the financial market
+Statistical properties of agent-based models in markets with continuous double auction mechanism
+Reverse Engineering Financial Markets with Maority and Minority Games using Genetic Algorithms
+Sensitivity of the Performance of a Simple Exchange Model to its Topology
+Outsider Trading
+Statistical identification with hidden Markov models of large order splitting strategies in an equity market
+Dynamical Clustering of Exchange Rates
+Scaling and memory in the non-poisson process of limit order cancelation
+Sequences of Arbitrages
+Interacting Many-Investor Models Opinion Formation and Price Formation with Non-extensive Statistics
+Schizophrenic Representative Investors
+On information efficiency and financial stability
+Intraday Patterns in the Cross-section of Stock Returns
+Turnover account value and diversification of real traders: evidence of collective portfolio optimizing behavior
+Market making behaviour in an order book model and its impact on the bid-ask spread
+Numerical methods for an optimal order execution problem
+A note on the theory of fast money flow dynamics
+Reduced form modeling of limit order markets
+Modelling savings behavior of agents in the kinetic exchange models of market
+Optimizing a basket against the efficient market hypothesis
+Optimal split of orders across liquidity pools: a stochastic algorithm approach
+Compensating asynchrony effects in the calculation of financial correlations
+Recurrence interval analysis of trading volumes
+How simple regulations can greatly reduce inequality
+Price dynamics in financial markets: a kinetic approach
+Automated Liquidity Provision and the Demise of Traditional Market Making
+Lowest Unique Bid Auctions
+Multistep Bayesian strategy in coin-tossing games and its application to asset trading games in continuous time
+Continuous-time trading and the emergence of probability
+A queueing theory description of fat-tailed price returns in imperfect financial markets
+Stochastic Switching Games and Duopolistic Competition in Emissions Markets
+Market behavior and performance of different strategy evaluation schemes
+Order flow dynamics around extreme price changes on an emerging stock market
+A Chaotic Approach to Market Dynamics
+An algorithmic information-theoretic approach to the behaviour of financial markets
+Critical comparison of several order-book models for stock-market fluctuations
+The price impact of order book events: market orders limit orders and cancellations
+Impact of the tick-size on financial returns and correlations
+Is high-frequency trading inducing changes in market microstructure and dynamics?
+Empirical Limitations on High Frequency Trading Profitability
+Chaos and Unraveling in Matching Markets
+Comparing Prediction Market Structures With an Application to Market Making
+Convergence of Income Growth Rates in Evolutionary Agent-Based Economics
+inetic models for socio-economic dynamics of speculative markets
+Class formation in a social network with asset exchange
+A Multi Agent Model for the Limit Order Book Dynamics
+Market dynamics immediately before and after financial shocks: quantifying the Omori productivity and Bath laws
+Statistical causes for the Epps effect in microstructure noise
+How sensitive are equilibrium pricing models to real-world distortions?
+The nature of price returns during periods of high market activity
+Continuous-time trading and emergence of randomness
+Continuous-time trading and emergence of volatility
+How to grow a bubble: A model of myopic adapting agents
+Insuring against loss of evidence in game-theoretic probability
+Transition from Exponential to Power Law Distributions in a Chaotic Market
+Regulatory Medicine Against Financial Market Instability: What Helps And What Hurts?
+Insider Trading in the Market with Rational Expected Price
+Critical Overview of Agent-Based Models for Economics
+Modeling microstructure noise with mutually exciting point processes
+Local Risk Decomposition for High-frequency Trading Systems
+Segmentation algorithm for non-stationary compound Poisson processes
+Financial correlations at ultra-high frequency: theoretical models and empirical estimation
+Trading activity and price impact in parallel markets: SETS vs. off-book market at the London Stock Exchange
+Cooperation amongst competing agents in minority games
+Phenomenology of minority games in efficient regime
+Inside Trading Public Disclosure and Imperfect Competition
+The slippage paradox
+Constrained Mixture Models for Asset Returns Modelling
+Pollution permits Strategic Trading and Dynamic Technology Adoption
+Mean Reversion Pays but Costs
+Margin setting with high-frequency data
+Minimum Capital Requirement Calculations for U Futures
+Intra-Day Seasonality in Foreign Exchange Market Transactions
+Response of double-auction markets to instantaneous Selling-Buying signals with stochastic Bid-Ask spread
+Multi-market minority game: breaking the symmetry of choice
+Impact of heterogenous prior beliefs and disclosed insider trades
+Stochastic Price Dynamics Implied By the Limit Order Book
+Adding to the Regulator's Toolbox: Integration and Extension of Two Leading Market Models
+Financial factor influence on scaling and memory of trading volume in stock market
+Optimal High Frequency Trading with limit and market orders
+Financial Friction and Multiplicative Markov Market Game
+Can We Learn to Beat the Best Stock
+Efficiency and Equilibria in Games of Optimal Derivative Design
+Models for the impact of all order book events
+Identification of clusters of investors from their real trading activity in a financial market
+Initial Enlargement in a Markov chain market model
+Econophysics: Empirical facts and agent-based models
+A proected gradient dynamical system modeling the dynamics of bargaining
+Endogenous Bubbles in Derivatives Markets: The Risk Neutral Valuation Paradox
+Optimal trade execution and price manipulation in order books with time-varying liquidity
+Detecting Collusive Cliques in Futures Markets Based on Trading Behaviors from Real Data
+Distinguishing manipulated stocks via trading network analysis
+Multi-agent based analysis of financial data
+Price impact asymmetry of institutional trading in Chinese stock market
+Dynamics of Bid-ask Spread Return and Volatility of the Chinese Stock Market
+A limit order book model for latency arbitrage
+Memory effects in stock price dynamics: evidences of technical trading
+Anomalous price impact and the critical nature of liquidity in financial markets
+Machine Learning Markets
+Optimal Trading Execution with Nonlinear Market Impact: An Alternative Solution Method
+Mesoscopic approach to minority games in herd regime
+Non-parametric kernel estimation for symmetric Hawkes processes. Application to high frequency financial data
+Measuring market liquidity: An introductory survey
+Liquidation in Limit Order Books with Controlled Intensity
+High Frequency Lead lag Relationships - Empirical facts
+Evidence of market manipulation in the financial crisis
+Combinatorial Modelling and Learning with Prediction Markets
+On contingent claims pricing in incomplete markets: A risk sharing approach
+Liquidity in Credit Networks: A Little Trust Goes a Long Way
+Determinants of immediate price impacts at the trade level in an emerging order-driven market
+Understanding agent-based models of financial markets: a bottom-up approach based on order parameters and phase diagrams
+Predatory trading and risk minimisation: how to beat the competition
+Assessing market uncertainty by means of a time-varying intermittency parameter for asset price fluctuations
+Order book dynamics in liquid markets: limit theorems and diffusion approximations
+Individual impact of agent actions in financial markets
+Periodic Sequences of Arbitrage: A Tale of Four Currencies
+Comprehensive Analysis of Market Conditions in the Foreign Exchange Market: Fluctuation Scaling and Variance-Covariance Matrix
+Price ump Prediction in Limit Order Book
+Optimal execution and price manipulations in time-varying limit order books
+Optimal Trade Execution in Illiquid Markets
+How does the market react to your order flow?
+Effects of long memory in the order submission process on the properties of recurrence intervals of large price fluctuations
+Optimal multifactor trading under proportional transaction costs
+Super-exponential bubbles in lab experiments: evidence for anchoring over-optimistic expectations on price
+Optimal High Frequency Trading in a Pro-Rata Microstructure with Predictive Information
+A Multi Period Equilibrium Pricing Model
+Calibration of optimal execution of financial transactions in the presence of transient market impact
+A No-Arbitrage Model of Liquidity in Financial Markets involving Brownian Sheets
+High-frequency market-making with inventory constraints and directional bets
+Effective Trade Execution
+Semiclosed Pricing Mechanism
+Structural distortions in the Euro interbank market: The role of 'key players' during the recent market turmoil
+Adaptive Execution: Exploration and Learning of Price Impact
+Portfolio liquidation in dark pools in continuous time
+Directed Random Markets: Connectivity determines Money
+Optimal posting price of limit orders: learning by trading
+Financial instability from local market measures
+The Transition from Brownian Motion to Boom-and-Bust Dynamics in Financial and Economic Systems
+Universal price impact functions of individual trades in an order-driven market
+A Utility Framework for Bounded-Loss Market Makers
+Price-Setting of Market Makers: A Filtering Problem with an Endogenous Filtration
+Designing Informative Securities
+Probability and Asset Updating using Bayesian Networks for Combinatorial Prediction Markets
+High Frequency Market Making
+Complex Systems with Trivial Dynamics
+Heavy-Tailed Features and Empirical Analysis of the Limit Order Book Volume Profiles in Futures Markets
+A Model of Market Limit Orders By Stochastic PDE's Parameter Estimation and Investment Optimization
+High-Frequency Trading Synchronizes Prices in Financial Markets
+Market Liquidity and Convexity of Order Book Evidence From China
+Les r 'eservations et les suspensions de cotation sont-elles un frein a l'efficience informationnelle des march 'es ?
+Modeling First Line Of An Order Book With Multivariate Marked Point Processes
+High Frequency Trading and Mini Flash Crashes
+Double Exponential Instability of Triangular Arbitrage Systems
+Microscopic understanding of heavy-tailed return distributions in an agent-based model
+Market Impact with Autocorrelated Order Flow under Perfect Competition
+Informed Traders
+Ising-like agent-based technology diffusion model: adoption patterns vs. seeding strategies
+Stochastic impulse control on optimal execution with price impact and transaction cost
+Risk Premia and Optimal Liquidation of Credit Derivatives
+A drift formulation of Gresham's Law
+Point process bridges and weak convergence of insider trading models
+Large tick assets: implicit spread and optimal tick size
+Coupled effects of market impact and asymmetric sensitivity in financial markets
+The normaly distributed daily returns in stock trading
+Hawkes model for price and trades high-frequency dynamics
+On Bankruptcy Game Theoretic Interval Rules
+Stock Price Fluctuations in an Agent-Based Model with Market Liquidity
+On the relation between forecast precision and trading profitability of financial analysts
+Three-state herding model of the financial markets
+Weighted Sets of Probabilities and MinimaxWeighted Expected Regret: New Approaches for Representing Uncertainty and Making Decisions
+Market Microstructure nowledge Needed for Controlling an Intra-Day Trading Process
+Information Transmission Between Financial Markets in Chicago and New ork
+Drift dependence of optimal trade execution strategies under transient price impact
+Realtime market microstructure analysis: online Transaction Cost Analysis
+Econophysics of adaptive power markets: When a market does not dampen fluctuations but amplifies them
+A Mathematical Approach to Order Book Modeling
+Limit Order Books
+Dealing with the Inventory Risk. A solution to the market making problem
+Optimal Portfolio Liquidation with Limit Orders
+A non-linear model of trading mechanism on a financial market
+Estimating the efficient price from the order flow: a Brownian Cox process approach
+High-frequency market-making for multi-dimensional Markov processes
+A Peer-based Model of Fat-tailed Outcomes
+Maximizing Matching in Double-sided Auctions
+Solvable Stochastic Dealer Models for Financial Markets
+Asymmetric statistics of order books: The role of discreteness and evidence for strategic order placement
+The position profiles of order cancellations in an emerging stock market
+Robust Strategies for Optimal Order Execution in the Almgren-Chriss Framework
+From Minority Game to Black Scholes pricing
+On statistical indistinguishability of the complete and incomplete markets
+Semi Markov model for market microstructure
+Multivariate high-frequency financial data via semi-Markov processes
+A quantitative model of trading and price formation in financial markets
+General Intensity Shapes in Optimal Liquidation
+Scaling stability and distribution of the high-frequency returns of the IBE index
+BSDEs with singular terminal condition and control problems with constraints
+A theoretical framework for trading experiments
+Ensemble properties of high frequency data and intraday trading rules
+Bandit Market Makers
+Impact of meta-order in the Minority Game
+Time-reversal asymmetry in financial systems
+Fractality of profit landscapes and validation of time series models for stock prices
+How efficiency shapes market impact
+Analysis of trade packages in Chinese stock market
+Trading networks abnormal motifs and stock manipulation
+A Fokker-Planck description for the queue dynamics of large tick stocks
+A hot-potato game under transient price impact and some effects of a transaction tax
+Modeling of Stock Returns and Trading Volume
+Grand canonical minority game as a sign predictor
+Futures market efficiency diagnostics via temporal two-point correlations. Russian market case study
+Characterizing financial crisis by means of the three states random field Ising model
+A Pre-Trade Algorithmic Trading Model under Given Volume Measures and Generic Price Dynamics GVM-GPD
+Optimal Execution Traectories. Linear Market Impact with Exponential Decay
+Speculative bubbles and fat tail phenomena in a heterogeneous agent model
+Intermittent chaos in a model of financial markets with heterogeneous agents
+An interacting-agent model of financial markets from the viewpoint of nonextensive statistical mechanics
+Unstable Price Dynamics as a Result of Information Absorption in Speculative Markets
+Bubbles umps and Scaling from Properly Anticipated Prices
+Two-step memory within Continuous Time Random Walk. Description of double-action market dynamics
+Corporations and Regulators: The Game of Influence in Regulatory Capture
+Continuous-time Modeling of Bid-Ask Spread and Price Dynamics in Limit Order Books
+Random Matrix Application to Correlations Among Volatility of Assets
+Optimal Order Scheduling for Deterministic Liquidity Patterns
+Modeling the coupled return-spread high frequency dynamics of large tick assets
+Multiagent's model of stock market with p-adic description of prices
+Nash equilibrium for coupling of CO allowances and electricity markets
+Simulating the Synchronizing Behavior of High-Frequency Trading in Multiple Markets
+The order book as a queueing system: average depth and influence of the size of limit orders
+Filters and smoothers for self-exciting Markov modulated counting processes
+A model for a large investor trading at market indifference prices. I: single-period case
+A multi-agent nonlinear Markov model of the order book
+Execution and block trade pricing with optimal constant rate of participation
+Trust in foreseeing neighbours - a novel threshold model of financial market
+Smooth solutions to portfolio liquidation problems under price-sensitive market impact
+Agent-Based Stock Market Model with Endogenous Agents' Impact
+Trade arrival dynamics and quote imbalance in a limit order book
+The Self-Financing Equation in High Frequency Markets
+Simultaneous auctions for complementary goods
+Market Impact Paradoxes
+Coupled mode theory of stock price formation
+Modelling emergence of money from the barter trade: multiscaling edge effects
+A Monte Carlo method for optimal portfolio executions
+A Global Game with Heterogenous Priors
+Adaptive Expectations Confirmatory Bias and Informational Efficiency
+The Price Impact of Order Book Events
+Price dynamics in a Markovian limit order market
+A model for a large investor trading at market indifference prices. II: continuous-time case
+Dynamical Trading Mechanism in Limit Order Markets
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part I: The Models
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part II: Analysis of the Models
+Dynamical Models of Stock Prices Based on Technical Trading Rules Part III: Application to Hong ong Stocks
+When Finance Meets Physics: The Impact of the Speed of Light on Financial Markets and their Regulation
+Diversity of scales makes an advantage: The case of the Minority Game
+Strategy switches and co-action equilibria in a minority game
+Ergodicity and scaling limit of a constrained multivariate Hawkes process
+Financial Brownian particle in the layered order book fluid and Fluctuation-Dissipation relations
+Market impact as anticipation of the order flow imbalance
+Partial correlation analysis: Applications for financial markets
+Rock around the Clock: An Agent-Based Model of Low- and High-Frequency Trading
+Multi-scale Representation of High Frequency Market Liquidity
+On Simulation of Various Effects in Consolidated Order Book
+Rebalancing with Linear and uadratic Costs
+Finding informed traders in futures and their inderlying assets in intraday trading
+The string prediction models as an invariants of time series in forex market
+Permanent market impact can be nonlinear
+Ergodic transition in a simple model of the continuous double auction
+Efficiency of the Price Formation Process in Presence of High Frequency Participants: a Mean Field Game analysis
+Firm competition in a probabilistic framework of consumer choice
+Prospect Theory for Online Financial Trading
+Multi-period Trading Prediction Markets with Connections to Machine Learning
+On the Hawkes Process with Different Exciting Functions
+Do Google Trend data contain more predictability than price returns?
+Detecting informed activities in European-style option tradings
+Optimal starting times stopping times and risk measures for algorithmic trading: Target Close and Implementation Shortfall
+The adaptive nature of liquidity taking in limit order books
+Dynamic optimal execution in a mixed-market-impact Hawkes price model
+Microscopic determinants of the weak-form efficiency of an artificial order-driven stock market
+An agent-based computational model for China's stock market and stock index futures market
+Analysis of a decision model in the context of equilibrium pricing and order book pricing
+Price manipulation in a market impact model with dark pool
+Optimal execution comparison across risks and dynamics with solutions for displaced diffusions
+VWAP execution and guaranteed VWAP
+Optimal Liquidity Provision in Limit Order Markets
+Stylized facts of price gaps in limit order books: Evidence from Chinese stocks
+Gaussian-Chain Filters for Heavy-Tailed Noise with Application to Detecting Big Buyers and Big Sellers in Stock Market
+Wealth share analysis with fundamentalist chartist heterogeneous agents
+R D Strategy Document
+Patience vs. Impatience of Stock Traders
+Short-term Market Reaction after Trading Halts in Chinese Stock Market
+Self-organization and phase transition in financial markets with multiple choices
+Does the uptick rule stabilize the stock market? Insights from Adaptive Rational Equilibrium Dynamics
+Arbitrage-free exchange rate ensembles over a general trade network
+Reduction of systemic risk by means of Pigouvian taxation
+Using an Artificial Financial Market for studying a Cryptocurrency Market
+An Optimal Execution Problem with a Geometric Ornstein-Uhlenbeck Price Process
+Random Market Models with an H-Theorem
+Impact of information cost and switching of trading strategies in an artificial stock market
+Slow decay of impact in equity markets
+Power law scaling and Dragon-ings in distributions of intraday financial drawdowns
+Time-Bridge Estimators of Integrated Variance
+A simple microstructure return model explaining microstructure noise and Epps effects
+Impulse Control of a Diffusion with a Change Point
+Intra-day variability of the stock market activity versus stationarity of the financial time series
+Pragmatic Information Rates Generalizations of the elly Criterion and Financial Market Efficiency
+Optimal execution strategy in the presence of permanent price impact and fixed transaction cost
+Ito calculus without probability in idealized financial markets
+Tick Size Reduction and Price Clustering in a F Order Book
+Simulating and analyzing order book data: The queue-reactive model
+Accelerated Share Repurchase: pricing and execution strategy
+The Random Walk of High Frequency Trading
+Design and Implementation of Schedule-Based Trading Strategies Based on Uncertainty Bands
+On the design of sell-side limit and market order tactics
+Can Market Risk Perception Drive Inefficient Prices? Theory and Evidence
+High-Resilience Limits of Block-Shaped Order Books
+On a stochastic differential equation arising in a price impact model
+A reinforcement learning extension to the Almgren-Chriss model for optimal trade execution
+A Bellman View of esse Livermore
+Optimal Execution with Dynamic Order Flow Imbalance
+Apparent impact: the hidden cost of one-shot trades
+On volatility smile and an investment strategy with out-of-the-money calls
+Optimal execution of ASR contracts with fixed notional
+Volatility is rough
+Optimal order placement in limit order markets
+On possible origins of trends in financial market price changes
+Exact and asymptotic solutions of the call auction problem
+One-level limit order books with sparsity and memory
+Stability and analytic expansions of local solutions of systems of quadratic BSDEs with applications to a price impact model
+Evolving intraday foreign exchange trading strategies utilizing multiple instruments price series
+Simple Stochastic Order-Book Model of Swarm Behavior in Continuous Double Auction
+An Optimal Execution Problem with Market Impact
+Why is order flow so persistent?
+Optimal execution and block trade pricing: a general framework
+Multivariate transient price impact and matrix-valued positive definite functions
+Agent-based models for latent liquidity and concave price impact
+Modeling F market activity around macroeconomic news: a Hawkes process approach
+A convex duality method for optimal liquidation with participation constraints
+VWAP Execution as an Optimal Strategy
+Hydrodynamic limit of order book dynamics
+A fully consistent minimal model for non-linear market impact
+Market impacts and the life cycle of investors orders
+Beyond the square root: Evidence for logarithmic dependence of market impact on size and participation rate
+A Million Metaorder Analysis of Market Impact on the Bitcoin
+Optimal execution with nonlinear transient market impact
+Convenient liquidity measure for Financial markets
+Backtest of Trading Systems on Candle Charts
+Estimation of slowly decreasing Hawkes kernels: Application to high frequency order book modelling
+Large-scale empirical study on pairs trading for all possible pairs of stocks listed on the first section of the Tokyo Stock Exchange
+A Non-Markovian Liquidation Problem and Backward SPDEs with Singular Terminal Conditions
+High frequency trading and asymptotics for small risk aversion in a Markov renewal model
+Asymptotic Glosten Milgrom equilibrium
+Anomalous impact in reaction-diffusion models
+Facilitation and Internalization Optimal Strategy in a Multilateral Trading Context
+Optimal Execution in Lit and Dark Pools
+Continuous time analysis of fleeting discrete price moves
+Forecasting day ahead electricity spot prices: The impact of the EAA to other European electricity markets
+A law of large numbers for limit order books
+Multiplicative Limit Order Markets with Transient Impact and ero Spread
+Analyses of Statistical Structures in Economic Indices
+Optimal Trading with Alpha Predictors
+An optimal trading problem in intraday electricity markets
+An Optimal Execution with Uncertain Market Impact
+Option pricing and hedging with execution costs and market impact
+A state-constrained differential game arising in optimal portfolio liquidation
+Second order statistics characterization of Hawkes processes and non-parametric estimation
+Trading with Small Price Impact
+A Functional Limit Theorem for Limit Order Books with State Dependent Price Dynamics
+Optimal Mean Reversion Trading with Transaction Costs and Stop-Loss Exit
+Foreign Exchange Market Microstructure and the WM Reuters pm Fix
+uasi-Centralized Limit Order Books
+Equilibrium Pricing in an Order Book Environment: Case Study for a Spin Model
+Information and Trading Targets in a Dynamic Market Equilibrium
+Dark-Pool Perspective of Optimal Market Making
+Stationary distribution of the volume at the best quote in a Poisson order book model
+A weak law of large numbers for a limit order book model with fully state dependent order dynamics
+A dynamic optimal execution strategy under stochastic price recovery
+Hawkes processes in finance

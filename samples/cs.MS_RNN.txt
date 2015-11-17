@@ -1,0 +1,456 @@
+An Introduction
+Operand Automatic Differentiation of Eigenvalue Problems
+On Interpolation
+Parallel Computer Algebra
+TeXmacs interface
+Fast Matrix Vector Multiplication
+Experiences Arithmetic Expressions
+S in Coq
+Recursive Algorithm: A for Mathematica
+Bound and Functions Using Arbitrary Precision
+Arithmetic
+A Fast Matrix Multiplication
+Matrix Implementations for Scientific Computations
+A Practical Parallel Sparse Matrix Implementation
+C Curves
+Computer
+A Paralleled
+Fast Computing
+Computer Algebra Sparse Principal Component Analysis
+Framework
+A System
+Computational GPUs
+Proceedings
+Accelerators
+A Framework for randomness
+Computational Simulation
+Problems
+Forest-Matrix Methods: An applications
+Matrix Vector Multiplication
+Geometric Analysis
+Software for Estimation
+Software
+Diversification for GPUs and CPUs
+A Frameworks
+Parallel Numbers
+Systems
+Efficient
+Solving Wave Equations
+Algorithms
+Algorithmic Differentiation
+The Python library for a matrix Programming Formally
+Matrix Multiplication
+Programming
+Matrix Operator
+Finite element matrices
+Classes
+Data
+Fast Software with Performance Computers
+Matrix Operations
+Symmetric Adaptive
+A Semantic Functions
+Formal Profiles
+Multivariate Polynomials on Many-core Systems
+A
+Vector Multiplication of Matrix Algebra
+Certificates
+Preconditioned Systems
+Programming Solvers
+Higher-Order Functions
+A Framework for the Finite Fields
+Framework
+Symbolic Software
+Heterogeneous Coefficients
+Computer Systems
+S
+Fully Inference
+Universal algorithms
+Automated code generation for Multiplication for Scientific Computing
+Software for Mathematica
+A Unified Solution Finite
+Computational Tools
+symbolic
+The Method for Systems
+Framework
+A Framework for Parallel Algebraic Programming
+Calculations for the Polynomial Systems
+and GPU
+Computing
+Systems
+Diversification of Parallel
+Multiplication
+A matrix-Algorithm Primitives
+R
+Interpolation
+Method for Solving Eigenvalue Problems
+A computer algebra and numerical Computation
+Automated code generator for parallel systems
+Frameworks
+D
+A Matrix Method
+Algorithmic Programs
+Precision Arithmetic
+Fast Framework
+Formally
+Computational Scalable Computer Algebraic Curves
+Computer
+Computing
+Framework
+R
+Algorithmic Differentiation Tools
+Computer
+Software with Performance Variables
+Random numbers
+2: Numerical Computation in Coq
+Matrix Implementations
+A and variates for Problem
+Computer Programs
+Computational Software
+Accelerators
+Using Computation
+Scalable Applying Version (.0
+Linear Algebra Kernels
+Software
+A Parallel Fast Matrix Multiplication
+Programs
+Construction for Distributed Framework
+Computing Accurately Singular Systems
+Under
+Machine Learning Python
+Software for Computing
+Method for Scientific Computations of Programs
+A Generating Solver
+Computer Algebra
+Theory Graphs
+Computing
+A Programming
+Software
+Polynomial Systems by the outer Graphs
+Series Systems
+Matrix Multiplication
+Programming Solvers
+A Matrix Operations
+Using Further processing
+Recursive Algorithm in FFT algorithm
+Proving System
+Analysis
+Software
+Computer Programs
+Processing Arithmetic
+Computations for Graphs
+Over
+Computer
+A Numerical Algebraic Decomposition
+On The ACL2 Formal Reconstruction Programs
+A Framework
+High Performance Isogeometric analysis
+A functions Using Processes
+Programming Fast Matrix Multiplication
+Formal Computing
+Computer
+Computer
+Software
+Multivariate Polynomials
+Using Library for Distributed
+A Functional Algebraic Projection
+Architectures
+Formally
+A High-Performance Matrix Inversion
+Numerical Computational Networks
+Numerical High Performance Matrix Multiplication
+On Experiments
+Computational Processing Framework
+Formal Specification in Octave
+API in System
+A Heterogeneous Algebra
+Verified Networks
+Symbolic Processing with Sparse Principal Component Analysis
+Diversification Using C
+Arithmetic
+Tree-Based Arithmetic
+Constructing
+in Multiplication
+Symbolic
+Simulation Multiplication
+Verification
+Automated generation
+A multiple Problems
+On the Finite Field Theory (S)
+Learning Systems
+Parallel Random Matrices
+High-Performance Programming Relaxations for Scientific Computing
+Integration for Scientific Computing
+Computer interface
+Sparse Matrices
+Argument Solutions
+Method for Systems
+Package for Scientific Computing
+C
+Linear Algebra
+A Graphic Processing Units
+R Parallel Bases functions
+Symbolic Computing
+Algorithmic Analysis
+Software for Computing
+Proceedings of Simulation for Global Eigensolver
+Algorithms for Projection Computation of Computers
+Algebra
+Optimization for Graph Algorithm: Analysis
+Method for Systems: A new storage Matrix
+Multiplication
+An Implementation library
+Computer Algebra
+A Tensor Concepts
+Mathematica
+Functions
+A Systems
+Algorithm conservation and C
+A Hybrid Systems
+Algorithms in Computer
+Programs in C Algorithms
+Performance of Python runtimes
+Mathematica Software
+A
+Matrix Method
+Algorithmic Differentiation
+Framework
+Matrix-Multiplication
+A Tool-for Formal Parallelizing Mathematica
+Programming Algorithm for Interval
+System
+Computational Problems
+Proceedings of the Scilab
+Parallel Sparse Matrix Matrix
+Formal Mathematics Expressions
+Decomposition
+Polynomials
+Matrix Methods for Systems
+Programming
+Multivariate Polynomials
+Of A graphics Processing Units
+Matrix Interface
+Programming
+HOPE: A Python
+Solvers in C Processing Matrix Algebra
+A Projections
+A Fast Multipole Method
+Library for Interval Arithmetic
+Implementing Framework
+Parallelizing Mathematica
+A for Mathematica
+Element Computing
+Symmetric QR Algorithms
+Program
+Programs
+for Problems
+Some Precision Arithmetic
+The OpenCPU Systems
+The performance of Solution Computation using Computer Matrix Multiplication
+Program Verification for MPI algebra
+Computational theory
+Computational theory
+The Optimization for Computer Algebra Algorithms in Data
+A numerical Computation
+A New Formal Preconditioned and Fourier
+Framework
+Architecture
+A Framework
+Algebra
+C and s
+Proof of a Graphical Precision Arithmetic
+Solver
+Multivariate Polynomials
+Matrix Matrix Multiplication on GPUs
+Formal Matrix Matrix Multiplication
+Exploring Solver
+Implementing Framework
+program Verification of Higher-Order Functions
+Polynomials
+Parallel Fast Matrix Multiplication
+random Graphs
+Computer Algebra
+Algorithms for systems
+Computer Algebra
+Solving Verification of GPU Algebra
+Parallel Sparse Approximate Matrix Multiplication
+Multivariate Polynomials
+Model and Scilab
+Simplifier
+An Introduction
+A for Scientific Computing
+Arithmetic
+Computing
+Matrix Distributed
+Computing
+Formal Computing
+Problems
+Using Decomposition Problems or Multi-threaded Architecture
+Matrix-Implementation
+Symmetric QR Algorithm
+A Computer Algebra Processing
+Matrix Algebra
+Experiences from Software Processing Automated Decomposition
+High Performance Variables
+Computer
+Computational Software
+Computers
+Operand Architectures
+Computing Server
+Computational Software
+Computer
+Programs
+Computer Algebra Software
+Symmetric QR A Scala
+Performance using Mathematica
+Parallel
+A Symbolic Computing
+Problems
+Arithmetic
+Parallel Functions
+Applications
+Finite elements
+The Parallel Arithmetic
+Parallel Implementing Multiplication
+Formally
+C
+Programming
+Architectures
+Simulation
+An Programs
+Enhancing Library for GPUs and MPI clusters
+Example of Functional Curves Depending
+Functional Implementation of Images
+Paralleled Sparse Graphs
+Simulation Software
+The Sparse Processing Units
+Sparse Matrix Multiplication on GPUs
+System: A Python
+Matrix Vector
+A Interpolation
+Provers
+Computational polynomials
+Precision Arithmetic
+Algebraic Programming the Singular Systems
+Software
+Open a graphics Processing Units
+Method for Sparse Program Reasoning Mathematica
+Manopt System
+A Matrix Implementations
+Algebraic Curves
+GPU arithmetic
+Parallel Implementations
+D Algorithm in Fully
+Programming
+generators
+A Constructing Algorithms
+Algorithms for Computing Arithmetic
+Implementing Framework
+Some numerical Matrix Multiplication
+Generation in Mathematica
+Formally-Verified Argument Verification of Multivariate Polynomials
+Scalable Efficient Graphs
+Accelerating Polynomials
+Towards an Efficient Processing
+Computational Science and D
+Solution Set Algorithm
+Frameworks
+Computer Algebra Software
+Processing and quad double arithmetic
+A Programming
+Software for Experiments
+Isogeometric Analysis
+Numerical Systems
+Precision Arithmetic
+Computational theory
+Method for Simplicial Computer
+An Implementations
+Numerical Library
+by software and Construction Computations in computer matrices
+An efficient System
+S
+Parallel Software and data
+Algebraic Systems
+Proceedings of Scientific Computing
+Algebra Algebra
+A High Performance Variables
+A Framework
+A Fast Inversion on GPUs
+Architectures
+Automatic Differentiation of High Performance
+Matrix Algebra
+Programming Systems
+Experiences from Interfaces
+Clusters : a format for Computer Systems
+Solutions for Programming Algorithms for Multicore Architectures
+Experiences from Implementing Framework
+Optimized
+Adaptive Mathematica
+Framework
+Sparse Matrix-Implementation
+in OpenCL
+Problems
+The MathScheme Library
+Functional Computational Framework
+Scaling Of Polynomials
+A Projection
+Implementation
+Computational Simulation Software
+Program Verification
+Theory
+Method for Systems
+Computer Framework
+Analytical Arithmetic
+The Optimization
+Proceedings of Marsaglia's Systems
+An Construction
+Architectures
+A Parallel
+Inversion
+An implementation
+Arithmetic
+Data
+Local Interface for GPUs and CPU
+Computer-Algebra Operators
+Formally
+A Design for Mathematica
+D Fast Matrix Multiplication
+A Processing Units
+Software
+Sine finite Elements
+User Graphs
+A Library for Processing in OpenCL
+Towards an and Tool for ACL2
+Software for Scalable Tools and Method
+A Systems
+Interpolation
+Elements
+Arithmetic Program
+Simulations
+Proceedings
+The OpenCPU Systems
+Proceedings Framework
+Computer Algebra Algorithms for Multicore Architectures
+Numbering Systems
+Computer
+An Implementations
+Server 200
+Processing
+Method
+Isogeometric analysis
+Formally verified Real Functions
+Mathematical Software
+Computers
+the Maple Programs
+Solver for Matrix Operations
+A Search Systems
+Computers
+On Prover
+A unified sparse matrix-vector
+The OpenCPU
+Using Language and Solver
+Efficient Problems
+Permutations
+R
+Computer Algebra
+Systems
+Polynomials

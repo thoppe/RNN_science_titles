@@ -1,0 +1,1190 @@
+2D Path Solutions from a Single Layer Excitable CNN Model
+The Optimization of a Novel Prismatic Drive
+The Multiobjective Optimization of a Prismatic Drive
+On Isotropic Sets of Points in the Plane. Application to the Design of Robot Archirectures
+The Kinematic Analysis of a Symmetrical Three-Degree-of-Freedom Planar Parallel Manipulator
+Uniqueness Domains in the Workspace of Parallel Manipulators
+The Kinematic design of a 3-dof Hybrid Manipulator
+Definition sets for the Direct Kinematics of Parallel Manipulators
+A New Three-DOF Parallel Mechanism: Milling Machine Applications
+Strategies for the Design of a Slide-o-Cam Transmission
+Regions of Feasible Point-to-Point Trajectories in the Cartesian Workspace of Fully-Parallel Manipulators
+The Design of Parallel Kinematic Machine Tools Using Kinetostatic Performance Criteria
+S 'eparation des Solutions aux Mod eles G 'eom 'etriques Direct et Inverse pour les Manipulateurs Pleinement Parall eles
+On the Kinetostatic Optimization of Revolute-Coupled Planar Manipulators
+Kinematic Calibration of the Orthoglide-Type Mechanisms
+The Design of a Novel Prismatic Drive for a Three-DOF Parallel-Kinematics Machine
+Calibration of quasi-isotropic parallel kinematic Machines: Orthoglide
+Design of a 3 Axis Parallel Machine Tool for High Speed Machining: The Orthoglide
+The Isoconditioning Loci of Planar Three-DOF Parallel Manipulators
+A Novel method for the design of 2-DOF Parallel mechanisms for machining applications
+Design of a Three-Axis Isotropic Parallel Manipulator for Machining Applications: The Orthoglide
+Workspace Analysis of the Orthoglide using Interval Analysis
+P 'eriph 'eriques haptiques et simulation d'objets de robots et de mannequins dans un environnement de CAO-Robotique : eM-Virtual Desktop
+The Optimal Design of Three Degree-of-Freedom Parallel Mechanisms for Machining Applications
+Classification of one family of 3R positioning Manipulators
+The Orthoglide: Kinematics and Workspace Analysis
+Subjective Evaluation of Forms in an Immersive Environment
+Realistic Rendering of Kinetostatic Indices of Mechanisms
+A New Concept of Modular Parallel Mechanism for Machining Applications
+A Workspace based Classification of 3R Orthogonal Manipulators
+Singularity Surfaces and Maximal Singularity-Free Boxes in the Joint Space of Planar 3-RPR Parallel Manipulators
+Kinematics analysis of the parallel module of the VERNE machine
+An Algorithm for Computing Cusp Points in the Joint Space of 3-RPR Parallel Manipulators
+Safe cooperative robot dynamics on graphs
+Novelty Detection for Robot Neotaxis
+A Real-Time Novelty Detector for a Mobile Robot
+Novelty Detection on a Mobile Robot Using Habituation
+Multiagent Control of Self-reconfigurable Robots
+Design of an Electro-Hydraulic System Using Neuro-Fuzzy Techniques
+A Fuzzy Relational Identification Algorithm and Its Application to Predict The Behaviour of a Motor Drive System
+Learning from Scarce Experience
+Robust Global Localization Using Clustered Particle Filtering
+Instabilities of Robot Motion
+Algorithms for Rapidly Dispersing Robot Swarms in Unknown Environments
+Qualitative Study of a Robot Arm as a Hamiltonian System
+Differential Methods in Catadioptric Sensor Design with Applications to Panoramic Imaging
+State complexes for metamorphic robots
+Using Propagation for Solving Complex Arithmetic Constraints
+Mathematical Analysis of Multi-Agent Systems
+Online Searching with an Autonomous Robot
+Field Geology with a Wearable Computer: First Results of the Cyborg Astrobiologist System
+Neural Architectures for Robot Intelligence
+The Cyborg Astrobiologist: First Field Experience
+Artificial Intelligence and Systems Theory: Applied to Cooperative Robots
+Dynamic Modelling and Adaptive Traction Control for Mobile Robots
+Coevolution Based Adaptive Monte Carlo Localization (CEAMCL)
+Topological Navigation of Simulated Robots using Occupancy Grid
+Design and Implementation of a General Decision-making Model in RoboCup Simulation
+Space Robotics Part 2: Space-based Manipulators
+Bionic Humans Using EAP as Artificial Muscles Reality and Challenges
+Neural Networks in Mobile Robot Motion
+Gyroscopically Stabilized Robot: Balance and Tracking
+WebotsTM: Professional Mobile Robot Simulation
+Dynamic simulation of task constrained of a rigid-flexible manipulator
+Assembly and Disassembly Planning by using Fuzzy Logic Genetic Algorithms
+Robotic Applications in Cardiac Surgery
+One-Chip Solution to Intelligent Robot Control: Implementing Hexapod Subsumption Architecture Using a Contemporary Microprocessor
+How to achieve various gait patterns from single nominal
+The Self-Organization of Speech Sounds
+Geometric Models of Rolling-Shutter Cameras
+Iterative MILP Methods for Vehicle Control Problems
+A T Step Ahead Optimal Target Detection Algorithm for a Multi Sensor Surveillance System
+Multi-Modal Human-Machine Communication for Instructing Robot Grasping Tasks
+Field geology with a wearable computer: 1st results of the Cyborg Astrobiologist System
+Explorations in engagement for humans and robots
+Cybercars : Past Present and Future of the Technology
+Applying Evolutionary Optimisation to Robot Obstacle Avoidance
+Effects of Initial Stance of Quadruped Trotting on Walking Stability
+An Agent-based Manufacturing Management System for Production and Logistics within Cross-Company Regional and National Production Networks
+Nonlinear Receding-Horizon Control of Rigid Link Robot Manipulators
+Integration of navigation and action selection functionalities in a computational model of cortico-basal ganglia-thalamo-cortical loops
+Wavefront Propagation and Fuzzy Based Autonomous Navigation
+Control of a Lightweight Flexible Robotic Arm Using Sliding Modes
+A Hybrid Three Layer Architecture for Fire Agent Management in Rescue Simulation Environment
+Dynamic Balance Control of Multi-arm Free-Floating Space Robots
+Robust Motion Control for Mobile Manipulator Using Resolved Acceleration and Proportional-Integral Active Force Control
+CAGD - Computer Aided Gripper Design for a Flexible Gripping System
+A Descriptive Model of Robot Team and the Dynamic Evolution of Robot Team Cooperation
+Robot Swarms in an Uncertain World: Controllable Adaptability
+Modular Adaptive System Based on a Multi-Stage Neural Structure for Recognition of 2D Objects of Discontinuous Production
+Study of Self-Organization Model of Multiple Mobile Robot
+Optimal Point-to-Point Trajectory Tracking of Redundant Manipulators using Generalized Pattern Search
+Robotics Vision-based Heuristic Reasoning for Underwater Target Tracking and Navigation
+New Intelligent Transmission Concept for Hybrid Mobile Robot Speed Control
+Asymptotic constant-factor approximation algorithm for the Traveling Salesperson Problem for Dubins' vehicle
+Metric State Space Reinforcement Learning for a Vision-Capable Mobile Robot
+The Snowblower Problem
+Predicting the Path of an Open System
+Modeling and Mathematical Analysis of Swarms of Microscopic Robots
+Analysis of Dynamic Task Allocation in Multi-Robot Systems
+Curve Shortening and the Rendezvous Problem for Mobile Autonomous Robots
+Circle Formation of Weak Robots and Lyndon Words
+Circle Formation of Weak Mobile Robots
+Application Layer Definition and Analyses of Controller Area Network Bus for Wire Harness Assembly Machine
+Traveing Salesperson Problems for a double integrator
+Evolving controllers for simulated car racing
+Multirobot rendezvous with visibility sensors in nonconvex environments
+Distributed Control of Microscopic Robots in Biomedical Applications
+Neural Computation with Rings of Quasiperiodic Oscillators
+A Classification of R Manipulators
+Curve Tracking Control for Legged Locomotion in Horizontal Plane
+Target assignment for robotic networks: asymptotic performance under limited communication
+Locked and Unlocked Polygonal Chains in 3D
+A Human - machine interface for teleoperation of arm manipulators in a complex environment
+Topological robotics: motion planning in projective spaces
+Topological Robotics: Subspace Arrangements and Collision Free Motion Planning
+Utilisation de la substitution sensorielle par ' e lectro-stimulation linguale pour la pr ' e vention des escarres chez les parapl ' e giques. Etude pr ' e liminaire
+Challenges and Opportunities of Evolutionary Robotics
+Design Implementation and Cooperative Coevolution of an Autonomous Teleoperated Control System for a Serpentine Robotic Manipulator
+Cross-Entropic Learning of a Machine for the Decision in a Partially Observable Universe
+Workspace Analysis of the Parallel Module of the VERNE Machine
+Singular curves and cusp points in the joint space of 3-RPR parallel manipulators
+The Kinematics of Manipulators Built From Closed Planar Mechanisms
+Moveability and Collision Analysis for Fully-Parallel Manipulators
+Working Modes and Aspects in Fully-Parallel Manipulator
+The Isoconditioning Loci of A Class of Closed-Chain Manipulators
+Workspace and Assembly modes in Fully-Parallel Manipulators : A Descriptive Study
+Conception Isotropique D'Une Morphologie Parall Ele : Application a L'Usinage
+A distributed Approach for Access and Visibility Task under Ergonomic Constraints with a Manikin in a Virtual Reality Environment
+Mod 'elisation Dynamique d'un Robot Parall ele a 3-DDL : l'Orthoglide
+Degeneracy study of the forward kinematics of planar 3-RPR parallel manipulators
+Kinematic Analysis of a Family of 3R Manipulators
+The Computation of All R Serial Spherical Wrists With an Isotropic Architecture
+A design oriented study for 3R Orthogonal Manipulators With Geometric Simplifications
+Design of a Spherical Wrist with Parallel Architecture: Application to Vertebrae of an Eel Robot
+Passive Control Architecture for Virtual Humans
+Animation of virtual mannequins robot-like simulation or motion captures
+A Framework to Illustrate Kinematic Behavior of Mechanisms by Haptic Feedback
+A Comparative Study between Two Three-DOF Parallel Kinematic Machines using Kinetostatic Criteria and Interval Analysis
+The Virtual Manufacturing concept: Scope Socio-Economic Aspects and Future Trends
+A Classification of 3R Orthogonal Manipulators by the Topology of their Workspace
+Kinematic and stiffness analysis of the Orthoglide a PKM with simple regular workspace and homogeneous performances
+Workspace and Kinematic Analysis of the VERNE machine
+The Kinetostatic Optimization of a Novel Prismatic Drive
+A Six Degree-Of-Freedom Haptic Device Based On The Orthoglide And A Hybrid Agile Eye
+Analyse Comparative des Manipulateurs 3R a Axes Orthogonaux
+An Exhaustive Study of the Workspace Topologies of all 3R Orthogonal Manipulators with Geometric Simplifications
+Integration of a Balanced Virtual Manikin in a Virtual Reality Platform aimed at Virtual Prototyping
+Balanced Virtual Humans Interacting with their Environment
+Virtual reality: A human centered tool for improving Manufacturing
+A New Six Degree-of-Freedom Haptic Device based on the Orthoglide and the Agile Eye
+L'orthoglide : une machine-outil rapide d'architecture parall ele isotrope
+A Comparative Study of Parallel Kinematic Architectures for Machining Applications
+Kinematic Analysis of a New Parallel Machine Tool: the Orthoglide
+The Computation of All R Serial Spherical Wrists With an Isotropic Architecture
+Virtual Manufacturing : Tools for improving Design and Production
+Real-time control and monitoring system for LIPI's Public Cluster
+An Interval Analysis Based Study for the Design and the Comparison of 3-DOF Parallel Kinematic Machines
+Architecture Optimization of a 3-DOF Translational Parallel Mechanism for Machining Applications the Orthoglide
+Parametric stiffness analysis of the Orthoglide
+Kinematics and Workspace Analysis of a Three-Axis Parallel Manipulator: the Orthoglide
+Parametric Stiffness Analysis of the Orthoglide
+Design Strategies for the Geometric Synthesis of Orthoglide-type Mechanisms
+An Exhaustive Study of the Workspaces Tolopogies of all 3R Orthogonal Manipulators with Geometric Simplifications
+The Isoconditioning Loci of Planar Three-DOF Parallel Manipulators
+Kinematic analysis of the 3-RPR parallel manipulator
+Working and Assembly Modes of the Agile Eye
+A DH-parameter based condition for 3R orthogonal manipulators to have  distinct inverse kinematic solutions
+Designing a Virtual Manikin Animation Framework Aimed at Virtual Prototyping
+Multi-Sensor Fusion Method using Dynamic Bayesian Network for Precise Vehicle Localization and Road Matching
+Experiments with small helicopter automated landings at unusual attitudes
+Control and Monitoring System for Modular Wireless Robot
+A Decomposition Approach to Multi-Vehicle Cooperative Control
+Singular Curves in the Joint Space and Cusp Points of 3-RPR parallel manipulators
+Kinematic calibration of orthoglide-type mechanisms
+Medical image computing and computer-aided medical interventions applied to soft tissues. Work in progress in urology
+Computer- and robot-assisted urological surgery
+Implementation of perception and action at nanoscale
+TER: A Robot for Remote Ultrasonic Examination: Experimental Evaluations
+Stiffness Analysis of 3-d.o.f. Overconstrained Translational Parallel Manipulators
+Image Processing in Optical Guidance for Autonomous Landing of Lunar Probe
+Hardware In The Loop Simulator in UAV Rapid Development Life Cycle
+Effects of Leaders Position and Shape on Aerodynamic Performances of V Flight Formation
+Automated Flight Test and System Identification for Rotary Wing Small Aerial Platform using Frequency Responses Analysis
+Virtual Reality Simulation of Fire Fighting Robot Dynamic and Motion
+Heading Lock Maneuver Testing of Autonomous Underwater Vehicle
+Development of Architectures for Internet Telerobotics Systems
+Unmanned Aerial Vehicle Instrumentation for Rapid Aerial Photo System
+First Principle Approach to Modeling of Small Scale Helicopter
+Optimal Tracking Controller Design for a Small Scale Helicopter
+Development of a peristaltic micropump for bio-medical applications based on mini LIPCA
+Intelligent Unmanned Explorer for Deep Space Exploration
+Study of improving nano-contouring performance by employing cross-coupling controller
+The Numerical Control Design for a Pair of Dubins Vehicles
+Simulation of Dynamic aw Stability Derivatives of a Bird Using CFD
+Wavelet Based Iterative Learning Control with Fuzzy PD Feedback for Position Tracking of A Pneumatic Servo System
+Positive Real Synthesis of Networked Control System An LMI Approach
+Analysis of Stability Response and LQR Controller Design of a Small Scale Helicopter Dynamics
+Design and control of dynamical quantum processes in ortho para H2 conversion on surfaces
+Design of Attitude Stability System for Prolate Dual-spin Satellite in Its Inclined Elliptical Orbit
+Modeling And Simulation Of Prolate Dual-Spin Satellite Dynamics In An Inclined Elliptical Orbit: Case Study Of Palapa B2R Satellite
+Onboard Multivariable Controller Design for a Small Scale Helicopter Using Coefficient Diagram Method
+Design Development and Testing of Underwater Vehicles: ITB Experience
+Linear Parameter Varying Model Identification for Control of Rotorcraft-based UAV
+An Algebraic Approach for the MIMO Control of Small Scale Helicopter
+On Endogenous Reconfiguration in Mobile Robotic Networks
+Avoider robot design to dim the fire with dt basic mini system
+A  bits Pipeline Analog to Digital Converter Design for High Speed Camera Application
+Design and Implementation a  bits Pipeline Analog to Digital Converter in the Technology 0. mu m CMOS Process
+Self-Motions of General 3-RPR Planar Parallel Robots
+Medical robotics: where we come from where we are and where we could go
+Spatial planning with constraints on translational distances between geometric objects
+The NAO humanoid: a combination of performance and affordability
+Exploiting Bird Locomotion Kinematics Data for Robotics Modeling
+I'm sorry to say but your understanding of image processing fundamentals is absolutely wrong
+Microcontroller-based System for Modular Networked Robot
+Kinetostatic Performance of a Planar Parallel Mechanism with Variable Actuation
+Kinematic and Dynamic Analyses of the Orthoglide -axis
+Singularity Analysis of Limited-dof Parallel Manipulators using Grassmann-Cayley Algebra
+Framework for Dynamic Evaluation of Muscle Fatigue in Manual Handling Work
+SINGULAB - A Graphical user Interface for the Singularity Analysis of Parallel Robots based on Grassmann-Cayley Algebra
+Changing Assembly Modes without Passing Parallel Singularities in Non-Cuspidal 3-R underline P R Planar Parallel Robots
+A Computational Study on Emotions and Temperament in Multi-Agent Systems
+Stiffness Analysis Of Multi-Chain Parallel Robotic Systems
+Path Planner for Objects Robots and Mannequins by Multi-Agents Systems or Motion Captures
+A Vision-based Computed Torque Control for Parallel Kinematic Machines
+Motion Primitives for Robotic Flight Control
+Characterizing 1-Dof Henneberg-I graphs with efficient configuration spaces
+Analyse de la rigidit 'e des machines outils 3 axes d'architecture parall ele hyperstatique
+Quiescence of Self-stabilizing Gossiping among Mobile Agents in Graphs
+Non-Singular Assembly-mode Changing Motions for 3-RPR Parallel Manipulators
+Kinematic Analysis of the vertebra of an eel like robot
+Kinematic Analysis of a Serial - Parallel Machine Tool: the VERNE machine
+Urologic robots and future directions
+Dynamic Muscle Fatigue Evaluation in Virtual Working Environment
+A new muscle fatigue and recovery model and its ergonomics application in human simulation
+BiopSym: a simulator for enhanced learning of ultrasound-guided prostate biopsy
+A List of Household Objects for Robotic Retrieval Prioritized by People with ALS (Version 0200)
+An Integrated Software-based Solution for Modular and Self-independent Networked Robot
+Modeling the Experience of Emotion
+Dynamic Multi-Vehicle Routing with Multiple Classes of Demands
+Distributed and Adaptive Algorithms for Vehicle Routing in a Stochastic and Dynamic Environment
+Time manipulation technique for speeding up reinforcement learning in simulations
+Equitable Partitioning Policies for Mobile Robotic Networks
+New Technologies for Sustainable Urban Transport in Europe
+Stiffness Analysis of Overconstrained Parallel Manipulators
+Kinematics of A 3-PRP planar parallel robot
+Kinematic and Dynamic Analysis of the 2-DOF Spherical Wrist of Orthoglide -axis
+Eligibility Propagation to Speed up Time Hopping for Reinforcement Learning
+Fuzzy inference based mentality estimation for eye robot agent
+Intent expression using eye robot for mascot robot system
+Average Entropy Functions
+A Distributed Software Architecture for Collaborative Teleoperation based on a VR Platform and Web Application Interoperability
+Better Global Polynomial Approximation for Image Rectification
+I Quantum Robot: Quantum Mind control on a Quantum Computer
+FaceBots: Steps Towards Enhanced Long-Term Human-Robot Interaction by Utilizing and Publishing Online Social Information
+Soft Motion Trajectory Planner for Service Manipulator Robot
+Optimal byzantine resilient convergence in oblivious robot networks
+Optimal Byzantine Resilient Convergence in Asynchronous Robot Networks
+Vision Based Navigation for a Mobile Robot with Different Field of Views
+An Evolved Neural Controller for Bipdedal Walking with Dynamic Balance
+On Cyclic and Nearly Cyclic Multiagent Interactions in the Plane
+Computer- and robot-assisted Medical Intervention
+FPGA-based Controller for a Mobile Robot
+Byzantine Convergence in Robots Networks: The Price of Asynchrony
+Reconfiguration of 3D Crystalline Robots Using O(log n) Parallel Moves
+Semantic Robot Vision Challenge: Current State and Future Directions
+Geometric Analysis of the Conformal Camera for Intermediate-Level Vision and Perisaccadic Perception
+Chaotic Transitions in Wall Following Robots
+A Dynamic Boundary Guarding Problem with Translating Targets
+Optimal Probabilistic Ring Exploration by Asynchronous Oblivious Robots
+The eel-like robot
+On the optimal design of parallel robots taking into account their deformations and natural frequencies
+Kinematic analysis of a class of analytic planar 3-RPR parallel manipulators
+Accuracy Improvement for Stiffness Modeling of Parallel Manipulators
+Design optimization of parallel manipulators for high-speed precision machining applications
+Design of an ultrasound-guided robotic brachytherapy needle insertion system
+Kinematic calibration of Orthoglide-type mechanisms from observation of parallel leg motions
+Stiffness Analysis Of Multi-Chain Parallel Robotic Systems
+Replay Debugging of Complex Real-Time Systems: Experiences from Two Industrial Case Studies
+Modeling Microscopic Chemical Sensors in Capillaries
+Decomposition of forging die for high speed machining
+Circular tests for HSM machine tools: Bore machining application
+Machining strategy choice: performance VIEWER
+Decomposition of forging dies for machining planning
+D 'efinition d'une pi ece test pour la caract 'erisation d'une machine UGV
+Dynamics of the Orthoglide parallel robot
+Path placement optimization of manipulators based on energy consumption: application to the orthoglide 3-axis
+Singularity Analysis of Lower-Mobility Parallel Manipulators Using Grassmann-Cayley Algebra
+On the characterization of the regions of feasible trajectories in the workspace of parallel manipulators
+Torque Ripple Minimization in a Switched Reluctance Drive by Neuro-Fuzzy Compensation
+Calibration of 3-d.o.f. Translational Parallel Manipulators Using Leg Observations
+Multi-Objective Optimisation Method for Posture Prediction and Analysis with Consideration of Fatigue Effect and its Application Case
+The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with Geological Significance
+Olfactory search at high Reynolds number
+A Multi-stage Probabilistic Algorithm for Dynamic Path-Planning
+Combining a Probabilistic Sampling Technique and Simple Heuristics to solve the Dynamic Path Planning Problem
+Single-Agent On-line Path Planning in Continuous Unpredictable and Highly Dynamic Environments
+Nonlinear Effects in Stiffness Modeling of Robotic Manipulators
+Modeling and Application of Series Elastic Actuators for Force Control Multi Legged Robots
+The Cyborg Astrobiologist: Porting from a wearable computer to the Astrobiology Phone-cam
+A Minimum Relative Entropy Controller for Undiscounted Markov Decision Processes
+Cuspidal and Noncuspidal Robot Manipulators
+Position Analysis of the RRP-3(SS) Multi-Loop Spatial Structure
+Asymptotically Stable Walking of a Five-Link Underactuated 3D Bipedal Robot
+Developing Experimental Models for NASA Missions with ASSL
+A Neuro-Fuzzy Multi Swarm FastSLAM Framework
+Fuzzy-based Navigation and Control of a Non-Holonomic Mobile Robot
+Chemical Power for Microscopic Robots in Capillaries
+A Little More a Lot Better: Improving Path Quality by a Simple Path Merging Algorithm
+Modelling and Verification of Multiple UAV Mission Using SMV
+Fuzzy Logic of Speed and Steering Control System for Three Dimensional Line Following of an Autonomous Vehicle
+Higher coordination with less control - A result of information maximization in the sensorimotor loop
+Incremental Sampling-based Algorithms for Optimal Motion Planning
+Dynamical issues in interactive representation of physical objects
+Dynamic Motion Modelling for Legged Robots
+Evolution of Biped Walking Using Neural Oscillators Controller and Harmony Search Algorithm Optimizer
+Open-Ended Evolutionary Robotics: an Information Theoretic Approach
+Design specifications of the Human Robotic interface for the biomimetic underwater robot yellow submarine project
+Genetic-Algorithm Seeding Of Idiotypic Networks For Mobile-Robot Navigation
+Idiotypic Immune Networks in Mobile Robot Control
+An Idiotypic Immune Network as a Short Term Learning Architecture for Mobile Robots
+Mimicking the Behaviour of Idiotypic AIS Robot Controllers Using Probabilistic Systems
+The Application of a Dendritic Cell Algorithm to a Robotic Classifier
+Two-Timescale Learning Using Idiotypic Behaviour Mediation For A Navigating Mobile Robot
+A Framework for Interactive Work Design based on Digital Work Analysis and Simulation
+Fatigue evaluation in maintenance and assembly operations by digital human simulation
+Approximate Robotic Mapping from sonar data by modeling Perceptions with Antonyms
+Online Event Segmentation in Active Perception using Adaptive Strong Anticipation
+The Transfer of Evolved Artificial Immune System Behaviours between Small and Large Scale Robotic Platforms
+Optimal Path Planning under Temporal Logic Constraints
+Formal-language-theoretic Optimal Path Planning For Accommodation of Amortized Uncertainties and Dynamic Effects
+Polygon Exploration with Time-Discrete Vision
+Quantum robot: structure algorithms and applications
+RoboCast: Asynchronous Communication in Robot Networks
+Mobile Testbeds with an Attitude
+A new closed-loop output error method for parameter identification of robot dynamics
+Improving the Quality of Non-Holonomic Motion by Hybridizing C-PRM Paths
+Towards Quality of Service and Resource Aware Robotic Systems through Model-Driven Software Development
+On reverse-engineering the KUKA Robot Language
+On the complexity of the multiple stack TSP kSTSP
+Approximability of the Multiple Stack TSP
+A Scenario-Based Mobile Application for Robot-Assisted Smart Digital Homes
+A Platform-independent Programming Environment for Robot Control
+Regions of Attraction for Hybrid Limit Cycles of Walking Robots
+On optimizing over lift-and-project closures
+Events (Reactivity in urbiscript)
+A new muscle fatigue and recovery model and its ergonomics application in human simulation
+Towards Physarum robots: computing and manipulating on water surface
+Physarum boats: If plasmodium sailed it would never leave a port
+Pairwise Optimal Discrete Coverage Control for Gossiping Robots
+The assembly modes of rigid 11-bar linkages
+Fundamentals of Mathematical Theory of Emotional Robots
+The Inverse Task of the Reflexive Game Theory: Theoretical Matters Practical Applications and Relationship with Other Issues
+Artificial Hormone Reaction Networks: Towards Higher Evolvability in Evolutionary Multi-Modular Robotics
+Ball on a beam: stabilization under saturated input control with large basin of attraction
+Multi-Agent Deployment for Visibility Coverage in Polygonal Environments with Holes
+Survey on Various Gesture Recognition Techniques for Interfacing Machines Based on Ambient Intelligence
+Automatic Image Segmentation by Dynamic Region Merging
+Stiffness Analysis of Parallel Manipulators with Preloaded Passive Joints
+Performance evaluation of parallel manipulators for milling application
+Integrating digital human modeling into virtual environment for ergonomic oriented design
+Stiffness modelling of parallelogram-based parallel manipulators
+Cusp points in the parameter space of RPR-2PRR parallel manipulator
+Joint space and workspace analysis of a two-DOF closed-chain manipulator
+On the determination of cusp points of 3-R underline P R parallel manipulators
+Comparison of Planar Parallel Manipulator Architectures based on a Multi-objective Design Optimization Approach
+To study the phenomenon of the Moravec's Paradox
+Curve Reconstruction in Riemannian Manifolds: Ordering Motion Frames
+Using virtual human for an interactive customer-oriented constrained environment design
+Exploring Grid Polygons Online
+Exploring Simple Triangular and Hexagonal Grid Polygons Online
+The Ethics of Robotics
+Use of Python and Phoenix-M Interface in Robotics
+Casting Robotic End-effectors To Reach Faraway Moving Objects
+Distributed Collision-free Protocol for AGVs in Industrial Environments
+Logical Consensus for Distributed and Robust Intrusion Detection
+Distributed Intrusion Detection for the Security of Societies of Robots
+Distributed Consensus on Set-valued Information
+Multi-Vehicle Cooperative Control Using Mixed Integer Linear Programming
+Active Markov Information-Theoretic Path Planning for Robotic Environmental Sensing
+Boolean network robotics: a proof of concept
+Evaluation of Three Vision Based Object Perception Methods for a Mobile Robot
+Delays Induce an Exponential Memory Gap for Rendezvous in Trees
+Persistent Robotic Tasks: Monitoring and Sweeping in Changing Environments
+Optimal Synthesis for Nonholonomic Vehicles With Constrained Side Sensors
+An Approximation Algorithm for Computing Shortest Paths in Weighted 3-d Domains
+Detecting Separation in Robotic and Sensor Networks
+Characterizing and approximating eigenvalue sets of symmetric interval matrices
+Proceedings of the first international workshop on domain-specific languages for robotic systems (DSLRob 2010)
+Dynamic replanning in uncertain environments for a sewer inspection robot
+Climbing depth-bounded adjacent discrepancy search for solving hybrid flow shop scheduling problems with multiprocessor tasks
+Probabilistically Safe Vehicle Control in a Hostile Environment
+MDP Optimal Control under Temporal Logic Constraints
+AxialGen: A Research Prototype for Automatically Generating the Axial Map
+Visual Localisation of Mobile Devices in an Indoor Environment under Network Delay Conditions
+Designing a Miniature Wheel Arrangement for Mobile Robot Platforms
+Enhanced stiffness modeling of manipulators with passive joints
+A distributed Approach for Access and Visibility Task with a Manikin and a Robot in a Virtual Reality Environment
+Haptic devices and objects robots and mannequin simulation in a CAD-CAM software: eM-Virtual Desktop
+A framework of motion capture system based human behaviours simulation for ergonomic analysis
+Uniqueness domains and non singular assembly mode changing trajectories
+LTL Control in Uncertain Environments with Probabilistic Satisfaction Guarantees
+A novel approach for determining fatigue resistances of different muscle groups in static cases
+Can virtual reality predict body part discomfort and performance of people in realistic world for assembling tasks
+The Design of a Novel Prismatic Drive for a Three-DOF Parallel-Kinematics Machine
+Prosper: image and robot-guided prostate brachytherapy
+Physical Simulation of Inarticulate Robots
+An Unmanned Aerial Vehicle as Human-Assistant Robotics System
+Collective Construction of 2D Block Structures with Holes
+Distributed Self-Organization Of Swarms To Find Globally epsilon -Optimal Routes To Locally Sensed Targets
+Doubly Robust Policy Evaluation and Learning
+Affine trajectory correction for nonholonomic mobile robots
+Patient-Specific Prosthetic Fingers by Remote Collaboration - A Case Study
+Sampling-based Algorithms for Optimal Motion Planning
+Self-organized adaptation of a simple neural circuit enables complex robot behaviour
+A Real-Time Model-Based Reinforcement Learning Architecture for Robot Control
+Symmetries in observer design: review of some recent results and applications to EKF-based SLAM
+Optimal Camera Placement to measure Distances Conservativly Regarding Static and Dynamic Obstacles
+Visibility-preserving convexifications using single-vertex moves
+Emergent velocity agreement in robot networks
+Perception of Personality and Naturalness through Dialogues by Native Speakers of American English and Arabic
+A Probabilistic Perspective on Gaussian Filtering and Smoothing
+Learning to Place New Objects
+The BG-simulation for Byzantine Mobile Robots
+Markov Localization for Mobile Robots in Dynamic Environments
+Learning Geometrically-Constrained Hidden Markov Models for Robot Navigation: Bridging the Topological-Geometrical Gap
+Optimal Sensor Configurations for Rectangular Target Dectection
+A study of the singularity locus in the joint space of planar parallel manipulators: special focus on cusps and nodes
+Some remarks on cops and drunk robbers
+Symmetry-Based Search Space Reduction For Grid Maps
+Inferring 3D Articulated Models for Box Packaging Robot
+Labeling 3D scenes for Personal Assistant Robots
+Active Classification: Theory and Application to Underwater Inspection
+Self-Assembling Systems are Distributed Systems
+Optimal Multi-Robot Path Planning with Temporal Logic Constraints
+Motion Planning via Manifold Samples
+Integrating Generic Sensor Fusion Algorithms with Sound State Representations through Encapsulation of Manifolds
+Cartesian stiffness matrix of manipulators with passive joints: analytical approach
+Singular surfaces and cusps in symmetric planar 3-RPR manipulators
+Controlling wheelchairs by body motions: A learning framework for the adaptive remapping of space
+Smart depth of field optimization applied to a robotised view camera
+Multi-Modal Local Sensing and Communication for Collective Underwater Systems
+Multi-robot Deployment From LTL Specifications with Reduced Communication
+Hybrid 3-D Formation Control for Unmanned Helicopters
+Feature Reinforcement Learning In Practice
+Three-dimensional Torques and Power of Horse Forelimb Joints at Trot
+Exploiting the Passive Dynamics of a Compliant Leg to Develop Gait Transitions
+SNF Project Locomotion: Final report 200-2010
+SNF Project Locomotion: Progress report 200-200
+Magneto-mechanical actuation model for fin-based locomotion
+Least Squares Temporal Difference Actor-Critic Methods with Applications to Robot Motion Control
+Multi-Robot Organisms: State of the Art
+Multi-Robot Searching Algorithm Using Levy Flight and Artificial Potential Field
+Time Hopping technique for faster reinforcement learning in simulations
+Discrete Partitioning and Coverage Control for Gossiping Robots
+Adaptive Locomotion of Multibody Snake-like Robot
+Heterogeneity for Increasing Performance and Reliability of Self-Reconfigurable Multi-Robot Organisms
+Sample-Based Planning with Volumes in Configuration Space
+IR-based Communication and Perception in Microrobotic Swarms
+Artificial Skin Ridges Enhance Local Tactile Shape Discrimination
+New Principles of Coordination in Large-scale Micro- and Molecular-Robotic Groups
+Three Cases of Connectivity and Global Information Transfer in Robot Swarms
+Performance Bounds for Lambda Policy Iteration and Application to the Game of Tetris
+Multidimensional Online Robot Motion
+An Optimal Control Approach for the Persistent Monitoring Problem
+A Behavior-based Approach for Multi-agent Q-learning for Autonomous Exploration
+Towards Holistic Scene Understanding: Feedback Enabled Cascaded Classification Models
+Diffusion of Information in Robot Swarms
+Swarmrobot.org - Open-hardware Microrobotic Project for Large-scale Artificial Swarms
+Synthesis of Distributed Control and Communication Schemes from Global LTL Specifications
+Development of a Cost-efficient Autonomous MAV for an Unstructured Indoor Environment
+Collective Energy Foraging of Robot Swarms and Robot Organisms
+On Three Challenges of Artificial Living Systems and Embodied Evolution
+The Gathering Problem for Two Oblivious Robots with Unreliable Compasses
+Simulation Techniques and Prosthetic Approach Towards Biologically Efficient Artificial Sense Organs- An Overview
+High Performance Controllers for Speed and Position Induction Motor Drive using New Reaching Law
+Design and Implementation of Prosthetic Arm using Gear Motor Control Technique with Appropriate Testing
+A Survey on Open Problems for Mobile Robots
+Robot Companions: Technology for Humans
+Awareness and Self-Awareness for Multi-Robot Organisms
+Asynchronous Distributed Searchlight Scheduling
+Vers une commande multivariable sans mod ele
+Modeling and frequency domain analysis of nonlinear compliant joints for a passive dynamic swimmer
+Bootstrapping Intrinsically Motivated Learning with Human Demonstrations
+Future Robotics Database Management System along with Cloud TPS
+On Position Translation Vector
+Universal Reconfiguration of (Hyper-)cubic Robots
+Observability of Strapdown INS Alignment: A Global Perspective
+Umgebungserfassungssystem fuer mobile Roboter (environment logging system for mobile autonomous robots)
+Cops and Invisible Robbers: the Cost of Drunkenness
+A Spiking Neural Learning Classifier System
+Dynamic behavior analysis for a six axis industrial machining robot
+Experimental Characterization of Robot Arm Rigidity in Order to Be Used in Machining Operation
+RT-SLAM: A Generic and Real-Time Visual SLAM Implementation
+Memory Based Machine Intelligence Techniques in VLSI hardware
+Design of a Smart Unmanned Ground Vehicle for Hazardous Environments
+Optimal Foraging of Renewable Resources
+High-speed Flight in an Ergodic Forest
+Deployment of mobile routers ensuring coverage and connectivity
+Learning to Place New Objects in a Scene
+Predicting Contextual Sequences via Submodular Function Maximization
+Temporal Logic Motion Control using Actor-Critic Methods
+Multi-robot coverage to locate fixed targets using formation structures
+Stiffness matrix of manipulators with passive joints: computational aspects
+Immuno-inspired robotic applications: a review
+MAV Stabilization using Machine Learning and Onboard Sensors
+An Incremental Sampling-based Algorithm for Stochastic Optimal Control
+Intelligent Car System
+Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms
+Optimal grid exploration by asynchronous oblivious robots
+Incremental Temporal Logic Synthesis of Control Policies for Robots Interacting with Dynamic Agents
+A Cross-cultural Corpus of Annotated Verbal and Nonverbal Behaviors in Receptionist Encounters
+On-Board Visual Tracking with Unmanned Aircraft System (UAS)
+A Study on the Behavior of a Neural Network for Grouping the Data
+Path Planning Algorithm for Extinguishing Forest Fires
+Onboard Flight Control of a Small Quadrotor Using Single Strapdown Optical Flow Sensor
+Real-time Image-based -DOF Localization in Large-Scale Environments
+Automation of Mobile Pick and Place Robotic System for Small Food Industry
+Optimal Pruning for Multi-Step Sensor Scheduling
+Distributed Multi-view Matching in Networks with Limited Communications
+Estimating Rigid Transformation Between Two Range Maps Using Expectation Maximization Algorithm
+Progressive Gaussian Filtering
+Service-Oriented Architecture for Weaponry and Battle Command and Control Systems in Warfighting
+Service-Oriented Architecture for Space Exploration Robotic Rover Systems
+Learning from Humans as an I-POMDP
+Framing Human-Robot Task Communication as a POMDP
+Robust methods for LTE and WiMA dimensioning
+Design and Engineering of a Chess-Robotic Arm
+The Lego Mindstorms Robotics Invention Systems 2.0 Toolkit: A Study Case
+Human Muscle Fatigue Model in Dynamic Motions
+Compensation of compliance errors in parallel manipulators composed of non-perfect kinematic chains
+Publishing Identifiable Experiment Code And Configuration Is Important Good and Easy
+Solution regions in the parameter space of a 3-RRR decoupled robot for a prescribed workspace
+Cusp Points in the Parameter Space of Degenerate 3-RPR Planar Parallel Manipulators
+Promoting scientific thinking with robots
+Sensor Management: Past Present and Future
+Acoustic Communication for Medical Nanorobots
+Catroid: A Mobile Visual Programming System for Children
+The Role of Vertex Consistency in Sampling-based Algorithms for Optimal Motion Planning
+An Approach For Robots To Deal With Objects
+An optimal consensus tracking control algorithm for autonomous underwater vehicles with disturbances
+Fast Optimal Joint Tracking-Registration for Multi-Sensor Systems
+Accurate 3D maps from depth images and motion sensors via nonlinear Kalman filtering
+Kinodynamic RRT : Optimal Motion Planning for Systems with Linear Differential Constraints
+Implementation of an Onboard Visual Tracking System with Small Unmanned Aerial Vehicle (UAV)
+Evolution of central pattern generators for the control of a five-link bipedal walking mechanism
+Multi-timescale Nexting in a Reinforcement Learning Robot
+Synergy-based Hand Pose Sensing: Reconstruction Enhancement
+Synergy-Based Hand Pose Sensing: Optimal Glove Design
+An IMU-Aided Carrier-Phase Differential GPS Positioning System
+Human Arm simulation for interactive constrained environment design
+A new approach to muscle fatigue evaluation for Push Pull task
+Adaptive Fractional PID Controller for Robot Manipulator
+Study of the Importance of Adequacy to Robot Verbal and Non Verbal Communication in Human-Robot interaction
+Alan Turing and the Hard and Easy Problem of Cognition: Doing and Feeling
+Ant Robotics: Covering Continuous Domains by Multi-A(ge)nt Systems
+An Adaptative Multi-GPU based Branch-and-Bound. A Case Study: the Flow-Shop Scheduling Problem
+Multi-robot Cooperative Box-pushing problem using Multi-objective Particle Swarm Optimization Technique
+Decentralized Data Fusion and Active Sensing with Mobile Sensors for Modeling and Predicting Spatiotemporal Traffic Phenomena
+Robust Multi-Robot Optimal Path Planning with Temporal Logic Constraints
+A Joint Model of Language and Perception for Grounded Attribute Learning
+Learning Object Arrangements in 3D Scenes using Human Context
+A Self-Supervised Terrain Roughness Estimator for Off-Road Autonomous Driving
+Wait-Free Gathering of Mobile Robots
+Online Exploration of Polygons with Holes
+Map-aided Fusion Using Evidential Grids for Mobile Perception in Urban Environment
+Probabilistically Safe Control of Noisy Dubins Vehicles
+Robotic Mapping with Polygonal Random Fields
+Telerobotic Pointing Gestures Shape Human Spatial Cognition
+A Spectral Learning Approach to Range-Only SLAM
+A GPS Pseudorange Based Cooperative Vehicular Distance Measurement Technique
+An Approach to Model Interest for Planetary Rover through Dezert-Smarandache Theory
+Frame Interpretation and Validation in a Open Domain Dialogue System
+Motion Planning Of an Autonomous Mobile Robot Using Artificial Neural Network
+A Unified Approach of Observability Analysis for Airborne SLAM
+Adaptive Algorithms for Coverage Control and Space Partitioning in Mobile Robotic Networks
+Robust Filtering and Smoothing with Gaussian Processes
+Gathering an even number of robots in an odd ring without global multiplicity detection
+Invariants for Homology Classes with Application to Optimal Search and Planning Problem in Robotics
+Planning Random path distributions for ambush games in unstructured environments
+Attraction-Based Receding Horizon Path Planning with Temporal Logic Constraints
+Contextually Guided Semantic Labeling and Search for 3D Point Clouds
+Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guarantee
+Shortest Path Set Induced Vertex Ordering and its Application to Distributed Distance Optimal Multi-agent Formation Path Planning
+Synthesis and Adaptation of Effective Motor Synergies for the Solution of Reaching Tasks
+Lift-off dynamics in a simple jumping robot
+Development of a Novel Robot for Transperineal Needle Based Interventions: Focal Therapy Brachytherapy and Prostate Biopsies
+First Clinical Experience in Urologic Surgery with a Novel Robotic Lightweight Laparoscope Holder
+Incremental Control Synthesis in Probabilistic Environments with Temporal Logic Constraints
+Learning Prioritized Control of Motor Primitives
+Internal joint forces in dynamics of a 3-PRP planar parallel robot
+Visual Tracking with Similarity Matching Ratio
+Sparsification of Motion-Planning Roadmaps by Edge Contraction
+DAARIA: Driver Assistance by Augmented Reality for Intelligent Automobile
+Safe and Stabilizing Distributed Multi-Path Cellular Flows
+Decision-Theoretic Coordination and Control for Active Multi-Camera Surveillance in Uncertain Partially Observable Environments
+A Low Cost Vision Based Hybrid Fiducial Mark Tracking Technique for Mobile Industrial Robots
+Control Design along Trajectories with Sums of Squares Programming
+Sensory Anticipation of Optical Flow in Mobile Robotics
+Networked Decision Making for Poisson Processes: Application to nuclear detection
+Symbolic Planning and Control Using Game Theory and Grammatical Inference
+Simulated Tom Thumb the Rule Of Thumb for Autonomous Robots
+Stochastic Surveillance Strategies for Spatial Quickest Detection
+Asynchronous Decentralized Algorithm for Space-Time Cooperative Pathfinding
+Cutaneous Force Feedback as a Sensory Subtraction Technique in Haptics
+Collaborative High Accuracy Localization in Mobile Multipath Environments
+Memoryless Control Design for Persistent Surveillance under Safety Constraints
+Use of PSO in Parameter Estimation of Robot Dynamics Part Two: Robustness
+Ball Striking Algorithm for a 3 DOF Ping-Pong Playing Robot Based on Particle Swarm Optimization
+Use of PSO in Parameter Estimation of Robot Dynamics Part One: No Need for Parameterization
+Learning Monocular Reactive UAV Control in Cluttered Natural Environments
+From Angular Manifolds to the Integer Lattice: Guaranteed Orientation Estimation with Application to Pose Graph Optimization
+Gliders2012: Development and Competition Results
+Stochastic receding horizon control of nonlinear stochastic systems with probabilistic state constraints
+Optimal Selection of Measurement Configurations for Stiffness Model Calibration of Anthropomorphic Manipulators
+Industry-oriented Performance Measures for Design of Robot Calibration Experiment
+Rendezvous of Agents with Different Speeds
+Compliance error compensation technique for parallel robots composed of non-perfect serial chains
+Stiffness modeling of non-perfect parallel manipulators
+Rendezvous of two robots with visible bits
+Design of Calibration Experiments for Identification of Manipulator Elastostatic Parameters
+Optimization of measurement configurations for geometrical calibration of industrial robot
+Optimal Multi-Robot Path Planning with LTL Constraints: Guaranteeing Correctness Through Synchronization
+From the decoding of cortical activities to the control of a JACO robotic arm: a whole processing chain
+Design of Experiments for Calibration of Planar Anthropomorphic Manipulators
+A General Formulation for the Stiffness Matrix of Parallel Mechanisms
+A simple method for decision making in robocup soccer simulation 3d environment
+Toward Intelligent Biped-Humanoids Gaits Generation
+Decentralized Sensor Fusion With Distributed Particle Filters
+Policy-contingent abstraction for robust robot control
+The Revisiting Problem in Mobile Robot Map Building: A Hierarchical Bayesian Approach
+Dynamic Simulation of Soft Heterogeneous Objects
+Proceedings of the Second International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob 2011)
+Large Scale Estimation in Cyberphysical Systems using Streaming Data: a Case Study with Smartphone Traces
+Low Speed Automation a French Initiative
+Collaborating Robotics Using Nature-Inspired Meta-Heuristics
+New design of Robotics Remote lab
+Quantum Interaction Approach in Cognition Artificial Intelligence and Robotics
+Using the DiaSpec design language and compiler to develop robotics systems
+Planning Optimal Paths for Multiple Robots on Graphs
+Multi-agent Path Planning and Network Flow
+Control of Noisy Differential-Drive Vehicles from Time-Bounded Temporal Logic Specifications
+IK-PSO PSO Inverse Kinematics Solver with Application to Biped Gait Generation
+Generating Motion Patterns Using Evolutionary Computation in Digital Soccer
+Human-Recognizable Robotic Gestures
+Autonomously Learning to Visually Detect Where Manipulation Will Succeed
+A Framework for Analysing Driver Interactions with Semi-Autonomous Vehicles
+Investigating the performance of Correspondence Algorithms in Vision based Driver-assistance in Indoor Environment
+Learning Hierarchical Object Maps Of Non-Stationary Environments with mobile robots
+Particle Filters in Robotics (Invited Talk)
+A Linear Time Algorithm for the Feasibility of Pebble Motion on Graphs
+A Compliant Underactuated Hand for Robust Manipulation
+Active Learning of Inverse Models with Intrinsically Motivated Goal Exploration in Robots
+Multi-Class Detection and Segmentation of Objects in Depth
+Improving the lifecycle of robotics components using Domain-Specific Languages
+On Time-optimal Trajectories for a Car-like Robot with One Trailer
+A Domain Specific Language for kinematic models and fast implementations of robot dynamics algorithms
+Data Survivability in Networks of Mobile Robots in Urban Disaster Environments
+Technical Report: A Receding Horizon Algorithm for Informative Path Planning with Temporal Logic Constraints
+Multi-Robot Informative Path Planning for Active Sensing of Environmental Phenomena: A Tale of Two Algorithms
+Incremental Map Generation by Low Cost Robots Based on Possibility Necessity Grids
+Multi-agent RRT : Sampling-based Cooperative Pathfinding (Extended Abstract)
+Trajectory generation and display for free flight
+Proceedings of the Third International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob 2012)
+Model-driven engineering approach to design and implementation of robot control system
+Towards Python-based Domain-specific Languages for Self-reconfigurable Modular Robotics Research
+Work in Progress: Enabling robot device discovery through robot device descriptions
+A Domain-Specific Language for Rich Motor Skill Architectures
+Transverse Contraction Criteria for Existence Stability and Robustness of a Limit Cycle
+Torque Saturation in Bipedal Robotic Walking through Control Lyapunov Function Based Quadratic Programs
+Pure Coordination using the Coordinator--Configurator Pattern
+Modeling Basic Aspects of Cyber-Physical Systems
+Optimal Receding Horizon Control for Finite Deterministic Systems with Temporal Logic Constraints
+Expressing Ethnicity through Behaviors of a Robot Character
+A survey on sensing methods and feature extraction algorithms for SLAM problem
+Minimum-violation LTL Planning with Conflicting Specifications
+Dealing with Run-Time Variability in Service Robotics: Towards a DSL for Non-Functional Properties
+A Diffusion Process on Riemannian Manifold for Visual Tracking
+Maximum Likelihood Fusion of Stochastic Maps
+A Graphical Language for Real-Time Critical Robot Commands
+A Primal Dual Algorithm for a Heterogeneous Traveling Salesman Problem
+Velocity Position Integration Formula (I): Application to In-flight Coarse Alignment
+Velocity Position Integration Formula (II): Application to Inertial Navigation Computation
+Efficient Touch Based Localization through Submodularity
+Mutual Localization: Two Camera Relative -DOF Pose Estimation from Reciprocal Fiducial Observation
+Occupancy Grids: A Stochastic Spatial Representation for Active Robot Perception
+Shadow Detection: A Survey and Comparative Evaluation of Recent Methods
+Domain Specific Language for Geometric Relations between Rigid Bodies targeted to robotic applications
+Roborobo a Fast Robot Simulator for Swarm and Collective Robotics
+Application of Evidential Reasoning to Helicopter Flight Path Control
+Off-policy Learning with Eligibility Traces: A Survey
+DORI: Distributed Outdoor Robotic Instruments
+Visual Room-Awareness for Humanoid Robot Self-Localization
+Manipulation in Clutter with Whole-Arm Tactile Sensing
+Bingham Procrustean Alignment for Object Detection in Clutter
+The Use of Probabilistic Systems to Mimic the Behaviour of Idiotypic AIS Robot Controllers
+Computational topology for configuration spaces of hard disks
+k-Color Multi-Robot Motion Planning
+Synchronization and quorum sensing in a swarm of humanoid robots
+Learning Human Activities and Object Affordances from RGB-D Videos
+Recursive Estimation of Orientation Based on the Bingham Distribution
+Fast Collision Checking: From Single Robots to Multi-Robot Teams
+A Nonlinear Constrained Optimization Framework for Comfortable and Customizable Motion Planning of Nonholonomic Mobile Robots - Part I
+A Nonlinear Constrained Optimization Framework for Comfortable and Customizable Motion Planning of Nonholonomic Mobile Robots - Part II
+Information-Theoretic Approach to Efficient Adaptive Path Planning for Mobile Robotic Environmental Sensing
+Reinforcement Learning for the Soccer Dribbling Task
+Seeing Unseeability to See the Unseeable
+Real-world Transfer of Evolved Artificial Immune System Behaviours between Small and Large Scale Robotic Platforms
+Technical Report: Convex Optimization of Nonlinear Feedback Controllers via Occupation Measures
+Improved and Generalized Upper Bounds on the Complexity of Policy Iteration
+Narrative based Postdictive Reasoning for Cognitive Robotics
+Inferring Robot Task Plans from Human Team Meetings: A Generative Modeling Approach with Logic-Based Prior
+Control Strategies for Mobile Robot With Obstacle Avoidance
+Gaussian Process-Based Decentralized Data Fusion and Active Sensing for Mobility-on-Demand System
+Policy Search: Any Local Optimum Enjoys a Global Performance Guarantee
+Autonomous search for a diffusive source in an unknown environment
+Rendezvous of Two Robots with Constant Memory
+Adapting sample size in particle filters through KLD-resampling
+Proceedings of the 2nd Workshop on Robots in Clutter: Preparing robots for the real world (Berlin 2013)
+A Novel Approach for Intelligent Robot Path Planning
+A variant of the multi-agent rendezvous problem
+Cognitive Interpretation of Everyday Activities: Toward Perceptual Narrative Based Visuo-Spatial Scene Interpretation
+Factorization of Rational Curves in the Study Quadric and Revolute Linkages
+Information driven self-organization of complex robotic behaviors
+Recursive Bayesian Initialization of Localization Based on Ranging and Dead Reckoning
+Handover adaptation for dynamic load balancing in 3gpp long term evolution systems
+An investigation into the relationship between type-2 FOU size and environmental uncertainty in robotic control
+Crossing the Reality Gap: a Short Introduction to the Transferability Approach
+Negotiating the Probabilistic Satisfaction of Temporal Logic Motion Specifications
+Robotic Arm for Remote Surgery
+Top-down and Bottom-up Feature Combination for Multi-sensor Attentive Robots
+An Architecture for Autonomously Controlling Robot with Embodiment in Real World
+Decentralized Multi-Robot Target Encirclement in 3D Space
+The vehicle relocation problem for the one-way electric vehicle sharing
+Sampling-Based Temporal Logic Path Planning
+Multi-command Chest Tactile Brain Computer Interface for Small Vehicle Robot Navigation
+ROSoClingo: A ROS package for ASP-based robot control
+Reasoning for Moving Blocks Problem: Formal Representation and Implementation
+Levels of Integration between Low-Level Reasoning and Task Planning
+Integration of 3D Object Recognition and Planning for Robotic Manipulation: A Preliminary Report
+ReAct An Interactive Tool for Hybrid Planning in Robotics
+Brain-Computer Interface Controlled Robotic Gait Orthosis
+Knowledge Representation for Robots through Human-Robot Interaction
+Combining Answer Set Programming and POMDPs for Knowledge Representation and Reasoning on Mobile Robots
+Robotic Message Ferrying for Wireless Networks using Coarse-Grained Backpressure Control
+On Generalized Bayesian Data Fusion with Complex Models in Large Scale Networks
+Expanding the Knowledge Horizon in Underwater Robot Swarms
+Performance Measurement Under Increasing Environmental Uncertainty In The Context of Interval Type-2 Fuzzy Logic Based Robotic Sailing
+Circumnavigation of an Unknown Target Using UAVs with Range and Range Rate Measurements
+The Theory of Bonds: A New Method for the Analysis of Linkages
+Integrated Pre-Processing for Bayesian Nonlinear System Identification with Gaussian Processes
+Robust Belief Roadmap: Planning Under Intermittent Sensing
+A Verifiable and Correct-by-Construction Controller for Robot Functional Levels
+BayesOpt: A Library for Bayesian optimization with Robotics Applications
+Discrete and Continuous Probabilistic Anticipation for Autonomous Robots in Urban Environments
+Sensor Setups for State and Wind Estimation for Airborne Wind Energy Converters
+Web Standards as Standard Pieces in Robotics
+An optimal fuzzy-PI force motion controller to increase industrial robot autonomy
+Direct off-line robot programming via a common CAD package
+CAD-based robot programming: The role of Fuzzy-PI force control in unstructured environments
+Discretization and fitting of nominal data for autonomous robots
+Real-Time and Continuous Hand Gesture Spotting: an Approach Based on Artificial Neural Networks
+High-level robot programming based on CAD: dealing with unpredictable environments
+A low-cost laser scanning solution for flexible robotic cells: spray coating
+Accelerometer-based control of an industrial robotic arm
+High-level programming and control for industrial robotics: using a hand-held accelerometer-based input device for gesture and posture recognition
+Data-Driven Grasp Synthesis - A Survey
+Further results on Velocity-position integration formula part I-Application to in-flight alignment
+Cable-Driven Robots with Wireless Control Capability for Pedagogical Illustration in Science
+Temporal-Difference Learning to Assist Human Decision Making during the Control of an Artificial Limb
+Four-Pose Synthesis of Angle-Symmetric R Linkages
+Information Acquisition with Sensing Robots: Algorithms and Error Bounds
+Nonmyopic View Planning for Active Object Detection
+Decentralized identification and control of networks of coupled mobile platforms through adaptive synchronization of chaos
+The Random Bit Complexity of Mobile Robots Scattering
+An Efficient Index for Visual Search in Appearance-based SLAM
+Dynamic Sliding Mode Control based on Fractional calculus subject to uncertain delay based chaotic pneumatic robot
+A Mathematical Model Implementation and Study of a Swarm System
+A Mobile Robotic Personal Nightstand with Integrated Perceptual Processes
+RANSAC: Identification of Higher-Order Geometric Features and Applications in Humanoid Robot Soccer
+Real-Time Planning with Primitives for Dynamic Walking over Uneven Terrain
+Interlimb neural connection is not required for gait transition in quadruped locomotion
+Cooperative localization by dual foot-mounted inertial sensors and inter-agent ranging
+Incremental Sampling-based Algorithm for Minimum-violation Motion Planning
+Asymptotically near-optimal RRT for fast high-quality motion planning
+Why robots A survey on the roles and benefits of social robots in the therapy of children with autism
+Non-linear Task-Space Disturbance Observer for Position Regulation of Redundant Robot Arms against Perturbations in 3D Environments
+Free-configuration Biased Sampling for Motion Planning: Errata
+Validation of a Control Algorithm for Human-like Reaching Motion using -DOF Arm and 1-DOF Hand-Arm Systems
+Exploring Deep and Recurrent Architectures for Optimal Control
+Mixed Human-Robot Team Surveillance
+Localizing Grasp Affordances in 3-D Points Clouds Using Taubin Quadric Fitting
+Hydrodynamic surrogate models for bio-inspired micro-swimming robots
+Reflection methods for user-friendly submodular optimization
+Perception and Steering Control in Paired Bat Flight
+A message-passing algorithm for multi-agent trajectory planning
+3-D position estimation from inertial sensing: minimizing the error from the process of double integration of accelerations
+Off-line Programming and Simulation from CAD Drawings: Robot-Assisted Sheet Metal Bending
+Control Contraction Metrics and Universal Stabilizability
+On 'A Kalman Filter-Based Algorithm for IMU-Camera Calibration: Observability Analysis and Performance Evaluation'
+Distributed Painting by a Swarm of Robots with Unlimited Sensing Capabilities and Its Simulation
+Trajectory control of a bipedal walking robot with inertial disc
+Unscented Orientation Estimation Based on the Bingham Distribution
+Efficiency Improvement of Measurement Pose Selection Techniques in Robot Calibration
+Modelling of the gravity compensators in robotic manufacturing cells
+Robust algorithm for calibration of robotic manipulator model
+Advanced robot calibration using partial pose measurements
+CAD-based approach for identification of elasto-static parameters of robotic manipulators
+Stiffness modeling of robotic manipulator with gravity compensator
+Identification of geometrical and elastostatic parameters of heavy industrial robots
+Sensitivity Analysis of the Orthoglide a 3-DOF Translational Parallel Kinematic Machine
+Vision-Guided Robot Hearing
+Glasgow's Stereo Image Database of Garments
+Long-Lived Distributed Relative Localization of Robot Swarms
+Connectivity maintenance by robotic Mobile Ad-hoc NETwork
+3D Maps Registration and Path Planning for Autonomous Robot Navigation
+Mobile Robots in Teaching Programming for IT Engineers and its Effects
+Path Based Mapping Technique for Robots
+New Method for Localization and Human Being Detection using UWB Technology: Helpful Solution for Rescue Robots
+Teleoperation System Using Past Image Records Considering Narrow Communication Band
+Intelligent Bug Algorithm (IBA): A Novel Strategy to Navigate Mobile Robots Autonomously
+Strategic Control of Proximity Relationships in Heterogeneous Search and Rescue Teams
+Implementation of WSN which can simultaneously monitor Temperature conditions and control robot for positional accuracy
+Evaluation of Plane Detection with RANSAC According to Density of 3D Point Clouds
+Proceedings of the Fourth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob 2013)
+Trackability with Imprecise Localization
+Stopping Rules for Bag-of-Words Image Search and Its Application in Appearance-Based Localization
+Covering with Excess One: Seeing the Topology
+A Top-Down Approach to Managing Variability in Robotics Algorithms
+Cellular Automata based Feedback Mechanism in Strengthening biological Sequence Analysis Approach to Robotic Soccer
+A Martingale Approach and Time-Consistent Sampling-based Algorithms for Risk Management in Stochastic Optimal Control
+Research on the mobile robots intelligent path planning based on ant colony algorithm application in manufacturing logistics
+Towards A Domain-specific Language For Pick-And-Place Applications
+Enhancement performance of road recognition system of autonomous robots in shadow scenario
+Efficient Informative Sensing using Multiple Robots
+Multi-Robot Adversarial Patrolling: Facing a Full-Knowledge Opponent
+Engineering the Hardware Software Interface for Robotic Platforms - A Comparison of Applied Model Checking with Prolog and Alloy
+Humanoid Robot With Vision Recognition Control System
+Learning and Reasoning with Action-Related Places for Robust Mobile Manipulation
+Modelling Observation Correlations for Active Exploration and Robust Object Detection
+A Review of Verbal and Non-Verbal Human-Robot Interactive Communication
+Automation of Prosthetic Upper Limbs for Transhumeral Amputees Using Switch-controlled Motors
+Least Entropy-Like Approach for Reconstructing L-Shaped Surfaces Using a Rotating Array of Ultrasonic Sensors
+Bio-inspired friction switches: adaptive pulley systems
+Learning Mid-Level Features and Modeling Neuron Selectivity for Image Classification
+Enhancing Mobile Object Classification Using Geo-referenced Maps and Evidential Grids
+Kinematics analysis and three-dimensional simulation of the rehabilitation lower extremity exoskeleton robot
+Methods for Collision-Free Navigation of Multiple Mobile Robots in Unknown Cluttered Environments
+Motion planning and control of a planar polygonal linkage
+Classification of Angle-Symmetric R Linkage
+Multi-Task Policy Search
+Route Swarm: Wireless Network Optimization through Mobility
+An Efficiently Solvable Quadratic Program for Stabilizing Dynamic Locomotion
+Qualitative Relational Mapping and Navigation for Planetary Rovers
+A Robust Framework for Moving-Object Detection and Vehicular Traffic Density Estimation
+Exploration via Structured Triangulation by a Multi-Robot System with Bearing-Only Low-Resolution Sensors
+Local Gaussian Regression
+A Hierarchical fuzzy controller for a biped robot
+Determination of subject-specific muscle fatigue rates under static fatiguing operations
+Force-Guiding Particle Chains for Shape-Shifting Displays
+Optimal Parameter Identification for Discrete Mechanical Systems with Application to Flexible Object Manipulation
+Planning for Decentralized Control of Multiple Robots Under Uncertainty
+Robot Training Under Conditions of Incomplete Information
+Proceedings of the 1st Workshop on Robotics Challenges and Vision (RCV2013)
+Finding Coordinated Paths for Multiple Holonomic Agents in 2-d Polygonal Environment
+Crowdsourcing Swarm Manipulation Experiments: A Massive Online User Study with Large Swarms of Simple Robots
+Sound Representation and Classification Benchmark for Domestic Robots
+Decentralized Goal Assignment and Trajectory Generation in Multi-Robot Networks
+Particle Computation: Designing Worlds to Control Robot Swarms with only Global Signals
+Design of a Hybrid Robot Control System using Memristor-Model and Ant-Inspired Based Information Transfer Protocols
+Does the D.C. Response of Memristors Allow Robotic Short-Term Memory and a Possible Route to Artificial Time Perception
+Line Maps in Cluttered Environments
+Collision free autonomous navigation and formation building for non-holonomic ground robots
+Study of the Dynamic Coupling Term ( mu) in Parallel Force Velocity Actuated Systems
+Preliminary Studies on Force Motion Control of Intelligent Mechanical Systems
+Decentralized Rendezvous of Nonholonomic Robots with Sensing and Connectivity Constraints
+The Cerebellum: New Computational Model that Reveals its Primary Function to Calculate Multibody Dynamics Conform to Lagrange-Euler Formulation
+A New Technique for Analyzing R Linkages: Quad Polynomials
+Abiot: A Low cost agile sonic pest control tricopter
+Tools for dynamics simulation of robots: a survey based on user feedback
+Fast Damage Recovery in Robotics with the T-Resilience Algorithm
+Robustness: a new SLIP model based criterion for gait transitions in bipedal locomotion
+Non-singular assembly mode changing trajectories in the workspace for the 3-RPS parallel robot
+Optimal Sampling-Based Motion Planning under Differential Constraints: the Driftless Case
+Pattern Formation for Asynchronous Robots without Agreement in Chirality
+Uav Route Planning For Maximum Target Coverage
+A Receding Horizon Approach to Multi-Agent Planning from Local LTL Specifications
+Transverse Contraction Criteria for Stability of Nonlinear Hybrid Limit Cycles
+The NUbots Team Description Paper 201
+Finding a needle in an exponential haystack: Discrete RRT for exploration of implicit roadmaps in multi-robot motion planning
+Priority-based coordination of robots
+Between Sense and Sensibility: Declarative narrativisation of mental models as a basis and benchmark for visuo-spatial cognition and computation focussed collaborative cognitive systems
+Online Approximate Optimal Station Keeping of an Autonomous Underwater Vehicle
+Precision improvement of MEMS gyros for indoor mobile robots with horizontal motion inspired by methods of TRI
+Adaptive Visual Tracking for Robotic Systems Without Visual Velocity Measurement
+Distributed Algorithms for Stochastic Source Seeking with Mobile Robot Networks: Technical Report
+A New Technique for INS GNSS Attitude and Parameter Estimation Using Online Optimization
+Multi-Robot Control Using Time-Varying Density Functions
+Proceedings of Third Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2013)
+Sampling-based Roadmap Planners are Probably Near-Optimal after Finite Computation
+Practical Comparison of Optimization Algorithms for Learning-Based MPC with Linear Models
+Modelling of Walking Humanoid Robot With Capability of Floor Detection and Dynamic Balancing Using Colored Petri Net
+Couple Control Model Implementation on Antagonistic Mono- and Bi-Articular Actuators
+UAV Circumnavigating an Unknown Target Under a GPS-denied Environment with Range-only Measurements
+Embed System for Robotic Arm with 3 Degree of Freedom Controller using Computational Vision on Real-Time
+Joint Estimation and Localization in Sensor Networks
+Upgrade of A Robot Workstation for Positioning of Measuring Objects on CMM
+Using industrial robot to manipulate the measured object in CMM
+Reducing the Barrier to Entry of Complex Robotic Software: a MoveIt Case Study
+Control of Robotic Mobility-On-Demand Systems: a Queueing-Theoretical Perspective
+GP-Localize: Persistent Mobile Robot Localization using Online Sparse Gaussian Process Observation Model
+Find my mug: Efficient object search with a mobile robot using semantic segmentation
+Optimization and design of a laser-cutting machine using delta robot
+Similar Part Rearrangement With Pebble Graphs
+Min-type Morse theory for configuration spaces of hard spheres
+On the Power of Manifold Samples in Exploring Configuration Spaces and the Dimensionality of Narrow Passages
+Priority-based intersection management with kinodynamic constraints
+Observability Identifiability and Sensitivity of Vision-Aided Navigation
+Conservative collision prediction and avoidance for stochastic trajectories in continuous time and space
+Probably Approximately Correct MDP Learning and Control With Temporal Logic Constraints
+Compliant motion control for handling a single object by two similar industrial robots
+Robust Tracking Control for Constrained Robots
+Proceedings of the First Workshop on Resource Awareness and Adaptivity in Multi-Core Computing (Racing 201)
+A sampling-based approach to scalable constraint satisfaction in linear sampled-data systems---Part I: Computation
+Efficient Reuse of Previous Experiences to Improve Policies in Real Environment
+Robots with Lights: Overcoming Obstructed Visibility Without Colliding
+A Relevant Reduction Method for Dynamic Modeling of a Seven-linked Humanoid Robot in the Three-dimensional Space
+Analysis of Asymptotically Optimal Sampling-based Motion Planning Algorithms for Lipschitz Continuous Dynamical Systems
+Resource-Aware Programming for Robotic Vision
+Resource Prediction for Humanoid Robots
+The inverted Pendulum: A fundamental Benchmark in Control Theory and Robotics
+Gait trajectory generation for a five link bipedal robot based on a reduced dynamical model
+Study of Humanoid Push Recovery Based on Experiments
+Real-Time Predictive Modeling and Robust Avoidance of Pedestrians with Uncertain Changing Intentions
+Impossibility of Gathering a Certification
+Polynomial trajectory algorithm for a biped robot
+Efficient Model Learning for Human-Robot Collaborative Tasks
+Information-Theoretic Stochastic Optimal Control via Incremental Sampling-based Algorithms
+Optimal Sampling-Based Motion Planning under Differential Constraints: the Drift Case with Linear Affine Dynamics
+Unstructured Human Activity Detection from RGBD Images
+Synthesizing Manipulation Sequences for Under-Specified Tasks using Unrolled Markov Random Fields
+An algebraic study of linkages with helical joints
+Simulation leagues: Analysis of competition formats
+NUROA: A Numerical Roadmap Algorithm
+Towards the Safety of Human-in-the-Loop Robotics: Challenges and Opportunities for Safety Assurance of Robotic Co-Workers
+Approximating Pareto Curves using Semidefinite Relaxations
+Bipedal Model Based on Human Gait Pattern Parameters for Sagittal Plane Movement
+HATP: An HTN Planner for Robotics
+Artificial Wrestling: A Dynamical Formulation of Autonomous Agents Fighting in a Coupled Inverted Pendula Framework
+A Probabilistic Framework for Learning Kinematic Models of Articulated Objects
+An Invariant Linear Quadratic Gaussian controller for a simplified car
+Rescue Robotics in Bore well Environment
+PlanIt: A Crowdsourcing Approach for Learning to Plan Paths from Large Scale Preference Feedback
+Robotic positioning device for three-dimensional printing
+An Educational Fuzzy-based Control platform using LEGO Robots
+Robot Impedance Control and Passivity Analysis with Inner Torque and Velocity Feedback Loops
+Teaching Software Engineering through Robotics
+Multi-Objective Design Optimization of the Leg Mechanism for a Piping Inspection Robot
+Designing a minimalist socially aware robotic agent for the home
+Using Surface-Motions for Locomotion of Microscopic Robots in Viscous Fluids
+User Equilibrium Route Assignment for Microscopic Pedestrian Simulation
+Cognitive Robotics: for never was a story of more woe than this
+Cross-calibration of Time-of-flight and Colour Cameras
+Robotic manipulation of multiple objects as a POMDP
+Outdoor flocking and formation flight with autonomous aerial robots
+A Cognitive Model for Humanoid Robot Navigation and Mapping using Alderbaran NAO
+A Novel Method for Developing Robotics via Artificial Intelligence and Internet of Things
+From a Competition for Self-Driving Miniature Cars to a Standardized Experimental Platform: Concept Models Architecture and Evaluation
+Low-cost commercial LEGO platform for mobile robotics
+Hands-on experiments on intelligent behavior for mobile robots
+Velocity Selection for High-Speed UGVs in Rough Unknown Terrains using Force Prediction
+Newton methods for k-order Markov Constrained Motion Problems
+Systematic Derivation of Behaviour Characterisations in Evolutionary Robotics
+Bi-directioal Motion Detection: A Neural Intelligent Model For Perception of Cognitive Robots
+Curved Trajectory Detection : A Novel Neurocognitive Perception Approach for Autonomous Smart Robots
+Sampling Strategies for Path Planning under Kinematic Constraints
+Measuring information transfer in a soft robotic arm
+Design and Autonomous Control of the Active Adaptive Suspension System Rudra Mars Rover
+Low-Effort Specification Debugging and Analysis
+Learning Rich Features from RGB-D Images for Object Detection and Segmentation
+Self-motions of pentapods with linear platform
+Pushbroom Stereo for High-Speed Navigation in Cluttered Environments
+DMVP: Foremost Waypoint Coverage of Time-Varying Graphs
+Towards Automatic Migration of ROS Components from Software to Hardware
+Pebble Motion on Graphs with Rotations: Efficient Feasibility Tests and Planning Algorithms
+Deep Learning for Detecting Robotic Grasps
+Target Assignment in Robotic Networks: Distance Optimality Guarantees and Hierarchical Strategies
+Guaranteed Collision Detection With Toleranced Motions
+Bond theory for pentapods and hexapods
+Latent Kullback Leibler Control for Continuous-State Systems using Probabilistic Graphical Models
+Robots that can adapt like natural animals
+Fence patrolling by mobile agents with distinct speeds
+A Framework for learning multi-agent dynamic formation strategy in real-time applications
+Towards a Domain Specific Language for a Scene Graph based Robotic World Model
+A Hands-on Education Program on Cyber Physical Systems for High School Students
+Modeling Basic Aspects of Cyber-Physical Systems Part II
+Using Learned Predictions as Feedback to Improve Control and Communication with an Artificial Limb: Preliminary Findings
+Formation of General Position by Asynchronous Mobile Robots
+PSPACE-hardness of unlabeled motion planning and variants
+Improved Object Tracking via Bags of Affine Subspaces
+Towards a Robot Perception Specification Language
+Autonomous Surveying Boat
+Sensor Noise Rejection
+Observable dynamics and coordinate systems for automotive target tracking
+Optimal control with reset-renewable resources
+Reduced egomotion estimation drift using omnidirectional views
+Further results on the observability analysis and observer design for single range localization in 3D
+Decentralized Rigidity Maintenance Control with Range Measurements for Multi-Robot Systems
+Persistent Monitoring of Events with Stochastic Arrivals at Multiple Stations
+A Classification of Configuration Spaces of Planar Robot Arms with Application to a Continuous Inverse Kinematics Problem
+Intrinsic filtering on Lie groups with applications to attitude estimation
+A General Fast and Robust Implementation of the Time-Optimal Path Parameterization Algorithm
+Parallel computation using active self-assembly
+Pentapods with Mobility 2
+Multiple chaotic central pattern generators with learning for legged locomotion and malfunction compensation
+Priority-based coordination of autonomous and legacy vehicles at intersection
+Autonomous Driving -  ears after the Urban Challenge: The Anticipatory Vehicle as a Cyber-Physical System
+Versatile Land Navigation Using Inertial Sensors and Odometry: Self-calibration In-motion Alignment and Positioning
+Unsynthesizable Cores - Minimal Explanations for Unsynthesizable High-Level Robot Behaviors
+A wireless hand-held platform for robotic behavior control
+Rapid Integration and Calibration of New Sensors Using the Berkeley Aachen Robotics Toolkit (BART)
+Black-box Integration of Heterogeneous Modeling Languages for Cyber-Physical Systems
+Prioritized Planning Algorithms for Trajectory Coordination of Multiple Mobile Robots
+Robot Monitoring for the Detection and Confirmation of Stochastic Events
+On the fundamental limitations of performance for distributed decision-making in robotic networks
+Tensity Research Based on the Information of Eye Movement
+Inferring Object Properties from Incidental Contact with a Tactile Sensing Forearm
+Optimal Navigation Functions for Nonlinear Stochastic Systems
+Touch attention Bayesian models for robotic active haptic exploration of heterogeneous surfaces
+Compliance error compensation in robotic-based milling
+Accuracy Improvement of Robot-Based Milling Using an Enhanced Manipulator Model
+Caroline: An Autonomously Driving Vehicle for Urban Environments
+A New Skill Based Robot Programming Language Using UML P Statecharts
+Gradient-based Taxis Algorithms for Network Robotics
+Efficient high-quality motion planning by fast all-pairs r-nearest-neighbors
+Controllability Analysis and Degraded Control for a Class of Hexacopters Subject to Rotor Failures
+Mathematical Modelling of Turning Delays in Swarm Robotics
+Experimental Implementation of an Invariant Extended Kalman Filter-based Scan Matching SLAM
+Adaptive Control of Robot Manipulators With Uncertain Kinematics and Dynamics
+Asymptotically-Optimal Motion Planning using Lower Bounds on Cost
+Motion planning and Collision Avoidance using Non-Gradient Vector Fields. Technical Report
+Batch Informed Trees (BIT ): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs
+Optimal Tourist Problem and Anytime Planning of Trip Itineraries
+Integrating active sensing into reactive synthesis with temporal logic constraints under partial observations
+Priority-based coordination of mobile robots
+In Situ Calibration of Six-Axes Force Torque Sensors using Accelerometer Measurements
+Optimal Strategies for Search and Rescue Operations with Robot Swarms
+Experience-Based Planning with Sparse Roadmap Spanners
+Introducing SLAMBench a performance and accuracy benchmarking methodology for SLAM
+Local Policies for Efficiently Patrolling a Triangulated Region by a Robot Swarm
+Spatial Straight Line Linkages by Factorization of Motion Polynomials
+Convex Model Predictive Control for Vehicular Systems
+Applied Neural Cross-Correlation into the Curved Trajectory Detection Process for Braitenberg Vehicles
+Prioritized motion-force control of constrained fully-actuated robots: Task Space Inverse Dynamics
+Multi-Agent Shape Formation and Tracking Inspired from a Social Foraging Dynamics
+Inertial Parameter Identification Including Friction and Motor Dynamics
+Prioritized Optimal Control
+Partial Force Control of Constrained Floating-Base Robots
+Robust Topological Feature Extraction for Mapping of Environments using Bio-Inspired Sensor Networks
+Finding Near-optimal Solutions in Multi-robot Path Planning
+Mobility Enhancement for Elderly
+Dynamics-Based Reactive Synthesis and Automated Revisions for High-Level Robot Control
+Optimal online and offline algorithms for robot-assisted restoration of barrier coverage
+Momentum Control with Hierarchical Inverse Dynamics on a Torque-Controlled Humanoid
+Observability Covariance and Uncertainty of ICP Scan Matching
+Towards Learning Object Affordance Priors from Technical Texts
+Balancing experiments on a torque-controlled humanoid with hierarchical inverse dynamics
+On the Minimal Revision Problem of Specification Automata
+Variational Gaussian Process State-Space Models
+Asymptotically Optimal Sampling-based Kinodynamic Planning
+A Theory of Cheap Control in Embodied Systems
+A Decentralized Interactive Architecture for Aerial and Ground Mobile Robots Cooperation
+Addressing the non-functional requirements of computer vision systems: A case study
+Restricted Discrete Invariance and Self-Synchronization For Stable Walking of Bipedal Robots
+Simultaneous Localization Mapping and Manipulation for Unsupervised Object Discovery
+ira laser tools: a ROS LaserScan manipulation toolbox
+Enhancing software module reusability using port plug-ins: an experiment with the iCub robot
+High-level Reasoning and Low-level Learning for Grasping: A Probabilistic Logic Pipeline
+Online SLAM with Any-time Self-calibration and Automatic Change Detection
+Reverse Engineering of Middleware for Verification of Robot Control Architectures
+Hardware and Software manual for Evolution of Oil Droplets in a Chemo-Robotic Platform
+Trade-Offs in Exploiting Body Morphology for Control: from Simple Bodies and Model-Based Control to Complex Bodies with Model-Free Distributed Control Schemes
+Prefrontal Cortex Motivated Cognitive Architecture for Multiple Robots
+Gaze Stabilization for Humanoid Robots: a Comprehensive Framework
+3-D Reciprocal Collision Avoidance on Physical Quadrotor Helicopters with On-Board Sensing for Relative Positioning
+Learning Fuzzy Controllers in Mobile Robotics with Embedded Preprocessing
+Planning Truly Dynamic Motions: Path-Velocity Decomposition Revisited
+GASP : Geometric Association with Surface Patches
+Structured Hough Voting for Vision-based Highway Border Detection
+Particle Filtering for Attitude Estimation Using a Minimal Local-Error Representation: A Revisit
+Vision and Learning for Deliberative Monocular Cluttered Flight
+A Flexible and Robust Large Scale Capacitive Tactile System for Robots
+Real time Detection of Lane Markers in Urban Streets
+Proceedings of the Fifth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob 201)
+Behaviour Trees for Evolutionary Robotics
+Algorithms for leader selection in stochastically forced consensus networks
+Evasion Paths in Mobile Sensor Networks
+Evolving a Behavioral Repertoire for a Walking Robot
+Correlated Orienteering Problem and it Application to Persistent Monitoring Tasks
+State Estimation for a Humanoid Robot
+Informed RRT : Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic
+Object Structure from Manipulation via Particle Filter and Robot-based Active Learning
+Inverse Reinforcement Learning with Multi-Relational Chains for Robot-Centered Smart Home
+An Intelligent Personal Robot Assistant
+Optimization-based Alignment for Strapdown Inertial Navigation System Comparison and Extension
+Bi-objective Optimization for Robust RGB-D Visual Odometry
+Robotic Behavior Prediction Using Hidden Markov Models
+A Control Strategy for an Autonomous Robotic Vacuum Cleaner for Solar Panels
+Batch Nonlinear Continuous-Time Trajectory Estimation as Exactly Sparse Gaussian Process Regression
+RoboBrain: Large-Scale Knowledge Engine for Robots
+Colorisation et texturation temps r 'eel d'environnements urbains par syst eme mobile avec scanner laser et cam 'era fish-eye
+From Human-Computer Interaction to Human-Robot Social Interaction
+Towards a graphical language for quadrotor missions
+Model Predictive Control for Micro Aerial Vehicle Systems (MAV) Systems
+Plan or not: Remote Human-robot Teaming with Incomplete Task Information
+Real-Time Grasp Detection Using Convolutional Neural Networks
+Towards Robot-independent Manipulation Behavior Description
+Towards Error Handling in a DSL for Robot Assembly Tasks
+Towards Live Programming in ROS with PhaROS and LRP
+Towards Interactive Incremental Programming of ROS Nodes
+A representation of robotic behaviors using component port arbitration
+Robust Inference for Visual-Inertial Sensor Fusion
+Simulation leagues: Enabling replicable and robust investigation of complex robotic systems
+Pareto efficiency in synthesizing shared autonomy policies with temporal logic constraints
+Intelligent Indoor Mobile Robot Navigation Using Stereo Vision
+Finite Time Formation of Multiple Groups of Nonholonomic Robots Using Sliding Mode Control
+Grounding Hierarchical Reinforcement Learning Models for Knowledge Transfer
+Game-Theoretic Analysis of the Hegselmann-Krause Model for Opinion Dynamics in Finite Dimensions
+An Extensible Benchmarking Infrastructure for Motion Planning Algorithms
+Quantifying Natural and Artificial Intelligence in Robots and Natural Systems with an Algorithmic Behavioural Test
+First Passage Value
+Multi Time Scale Behaviour of The Formation of Multiple Groups of Nonholonomic Wheeled Mobile Robots
+Models of robotic feeding choice and the survival mechanism
+Implementation of a Hierarchical fuzzy controller for a biped robot
+Technical Report: Cooperative Multi-Target Localization With Noisy Sensors
+Learning Trajectory Preferences for Manipulators via Iterative Improvement
+Efficient Multi-Robot Motion Planning for Unlabeled Discs in Simple Polygons
+M obius Photogrammetry
+Maze solving Algorithm for line following robot and derivation of linear path distance from nonlinear path
+On using the Microsoft Kinect rm TM sensor in the analysis of human motion
+Adaptive Control of -DoF Robot manipulator
+Comparison of Selection Methods in On-line Distributed Evolutionary Robotics
+KitRobot: A multi-platform graphical programming IDE to program mini-robotic agents
+HOG based Fast Human Detection
+Simplified vision based automatic navigation for wheat harvesting in low income economies
+Low Cost Semi-Autonomous Agricultural Robots In Pakistan-Vision Based Navigation Scalable methodology for wheat harvesting
+Autonomous Farm Vehicles: Prototype of Power Reaper
+Teleoperando Rob os Pioneer Utilizando Android
+Stability and Performance Limits of Latency-Prone Distributed Feedback Controllers
+Assessing Whole-Body Operational Space Control in a Point-Foot Series Elastic Biped: Balance on Split Terrain and Undirected Walking
+Localizing antipodal grasps in point clouds
+Video Manipulation Techniques for the Protection of Privacy in Remote Presence Systems
+Complete analytic solution to Brownian unicycle dynamics
+On the Performance of ConvNet Features for Place Recognition
+Stability of Surface Contacts for Humanoid Robots: Closed-Form Formulae of the Contact Wrench Cone for Rectangular Support Areas
+Full-Body Collision Detection and Reaction with Omnidirectional Mobile Platforms: A Step Towards Safe Human-Robot Interaction
+Recursive Bayesian Filtering in Circular State Spaces
+Learning Contact-Rich Manipulation Skills with Guided Policy Search
+Identification of a Hybrid Spring Mass Damper via Harmonic Transfer Functions as a Step Towards Data-Driven Models for Legged Locomotion
+Factorization of Rational Motions: A Survey with Examples and Applications
+R Darboux Linkages by Factorization of Motion Polynomials
+Fast Marching Tree: a Fast Marching Sampling-Based Method for Optimal Motion Planning in Many Dimensions
+Curiosity Based Exploration for Learning Terrain Models
+Flocking and turning: a new model for self-organized collective motion
+Controllability Analysis for Multirotor Helicopter Rotor Degradation and Failure
+Qualitative Analysis of POMDPs with Temporal Logic Specifications for Robotics Applications
+Model-Free 3D Reconstruction of Weld Joint Using Laser Scanning
+Does Learning Imply a Decrease in the Entropy of Behavior
+Complete Decentralized Method for On-Line Multi-Robot Trajectory Planning in Valid Infrastructures
+Fast and Robust Feature Matching for RGB-D Based Localization
+ORB-SLAM: a Versatile and Accurate Monocular SLAM System
+Cooperative Positioning in Vehicular Ad-hoc Networks Supported by Stationary Vehicles
+A Hybrid Systems Model for Simple Manipulation and Self-Manipulation Systems
+Learning Articulated Motions From Visual Demonstration
+From Pixels to Torques: Policy Learning with Deep Dynamical Models
+A behavioural approach to obstacle avoidance for mobile manipulators based on distributed sensing
+Planning for robotic exploration based on forward simulation
+An overview on automatic design of robot controllers for complex tasks
+Gaussian Processes for Data-Efficient Learning in Robotics and Control
+Adaptive Fault Tolerant Execution of Multi-Robot Missions using Behavior Trees
+Benchmarking in Manipulation Research: The CB Object and Model Set and Benchmarking Protocols
+The NUbots Team Description Paper 201
+Deep Neural Programs for Adaptive Control in Cyber-Physical Systems
+An Adaptive Sampling Approach to 3D Reconstruction of Weld Joint
+Consensus on the average in arbitrary directed network topologies with time-delays
+Real-Time Stochastic Optimal Control for Multi-agent Quadrotor Swarms
+Experimental Characterization of a Bearing-only Sensor for Use With the PHD Filter
+The Penn Jerboa: A Platform for Exploring Parallel Composition of Templates
+Planar Linkages Following a Prescribed Motion

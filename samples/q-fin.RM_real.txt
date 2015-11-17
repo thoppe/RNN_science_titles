@@ -1,0 +1,723 @@
+Mutual Fund Theorems when Minimizing the Probability of Lifetime Ruin
+Optimal cross hedging for insurance derivatives
+A Model for Counterparty Risk with Geometric Attenuation Effect and the Valuation of CDS
+Credit risk - A structural model with jumps and correlations
+Discussion of 200 IMS Medallion Lecture: Local Rademacher complexities and oracle inequalities in risk minimization'' by V. Koltchinskii
+Discussion of 200 IMS Medallion Lecture: Local Rademacher complexities and oracle inequalities in risk minimization'' by V. Koltchinskii
+Valuations and dynamic convex risk measures
+Maturity-independent risk measures
+Cash Sub-additive Risk Measures and Interest Rate Ambiguity
+Optimal intertemporal risk allocation applied to insurance pricing
+Incorporating exchange rate risk into PDs and asset correlations
+Arbitrage free cointegrated models in gas and oil future markets
+Intensity process and compensator: A new filtration expansion approach and the Jeulin--or theorem
+Convex Risk Measures: Lebesgue Property on one Period and Multi Period Risk Measures and Application in Capital Allocation Problem
+Deterministic definition of the capital risk
+Minimizing the Probability of Ruin when Consumption is Ratcheted
+Heterogeneous credit portfolios and the dynamics of the aggregate losses
+Ruin models with investment income
+Hazard processes and martingale hazard processes
+Graphical models for correlated defaults
+Ruin probabilities under general investments and heavy-tailed claims
+The instability of downside risk measures
+Market bubbles and crashes
+A Stochastic Processes Toolkit for Risk Management
+Corporate Default Behavior: A Simple Stochastic Model
+Expected Shortfall as a Tool for Financial Risk Management
+On the coherence of Expected Shortfall
+Risk Aversion and Coherent Risk Measures: a Spectral Representation Theorem
+Introducing Variety in Risk Management
+Calculating Value-at-Risk contributions in CreditRisk
+A shortcut to sign Incremental Value-at-Risk for risk allocation
+Calculating credit risk capital charges with the one-factor model
+Concave risk measures in international capital regulation
+Calculating Concentration-Sensitive Capital Charges with Conditional Value-at-Risk
+Long range Ising model for credit risk modeling in homogeneous portfolios
+The single risk factor approach to capital charges in case of correlated loss given default rates
+Estimating Probabilities of Default for Low Default Portfolios
+Basel II for Physicists: A Discussion Paper
+Probability distribution of drawdowns in risky investments
+Measuring and hedging financial risks in dynamical world
+Value-at-Risk and expected shortfall for linear portfolios with elliptically distributed risk factors
+VaR and ES for linear portfolios with mixture of elliptic distributed Risk Factors
+Modeling Credit Risk with Partial Information
+On the Neyman-Pearson problem for law-invariant risk measures and robust utility functionals
+Dynamic monetary risk measures for bounded discrete-time processes
+Study on optimal timing of mark-to-market for contingent credit risk control
+A Note on the Ruin Problem with Risky Investments
+Fast Computation of the Expected Loss of a Loan Portfolio Tranche in the Gaussian Factor Model: Using Hermite Expansions for Higher Accuracy
+Fast Computation Of the Economic Capital the Value at Risk and the Greeks of a Loan Portfolio in the Gaussian Factor Model
+Capital Requirement for Achieving Acceptability
+On decomposing risk in a financial-intermediate market and reserving
+Pricing with coherent risk
+Equilibrium with coherent risk
+Coherent measurement of factor risks
+Pricing and hedging in incomplete markets with coherent risk
+CAPM rewards and empirical asset pricing with coherent risk
+Multivariate risks and depth-trimmed regions
+Time Consistent Dynamic Risk Processes Cadlag Modification
+Error calculus and path sensitivity in financial models
+Local asymptotic minimax risk bounds in a locally asymptotically mixture of normal experiments under asymmetric loss
+Suboptimality of Penalized Empirical Risk Minimization in Classification
+Minimizing the Lifetime Shortfall or Shortfall at Death
+Minimizing the Probability of Lifetime Ruin under Borrowing Constraints
+Optimal Deferred Life Annuities to Minimize the Probability of Lifetime Ruin
+Insurance policy value and Pareto-optimal retention in the hypothesis of rare loss events
+Forecasting Portfolio Risk in Normal and Stressed Markets
+Implications of Correlated Default For Portfolio Allocation To Corporate Bonds
+Firm Projects NPV and Risk
+On Value at Risk for foreign exchange rates - the copula approach
+Credit contagion and credit risk
+Volatility and dividend risk in perpetual American options
+Downside Risk analysis applied to Hedge Funds universe
+Noise sensitivity of portfolio selection under various risk measures
+Counterparty risk valuation for Energy-Commodities swaps: Impact of volatilities and correlation
+Partial Equilibria with Convex Capital Requirements: Existence Uniqueness and Stability
+SURE shrinkage of Gaussian paths and signal identification
+Monitoring dates of maximal risk
+Large portfolio losses: A dynamic contagion model
+The empirical properties of large covariance matrices
+Inference on multivariate ARCH processes with large sizes
+Risk Measures in Quantitative Finance
+The Structural Modelling of Operational Risk via Bayesian inference: Combining Loss Data with Expert Opinions
+Optimisation of Stochastic Programming by Hidden Markov Modelling based Scenario Generation
+The Quantification of Operational Risk using Internal Data Relevant External Data and Expert Opinions
+Model uncertainty in claims reserving within Tweedie's compound Poisson models
+Estimation of Operational Risk Capital Charge under Parameter Uncertainty
+A Toy Model for Operational Risk Quantification using Credibility Theory
+An Introduction to Hedge Funds
+Addressing the Impact of Data Truncation and Parameter Uncertainty on Operational Risk Estimates
+Haar Wavelets-Based Approach for Quantifying Credit Portfolio Losses
+Bayesian Analysis of Value-at-Risk with Product Partition Models
+Conditional Value-at-Risk Constraint and Loss Aversion Utility Functions
+Capital allocation for credit portfolios with kernel estimators
+Dynamic operational risk: modeling dependence and combining different sources of information
+Modeling operational risk data reported above a time-varying threshold
+An application to credit risk of a hybrid Monte Carlo-Optimal quantization method
+Preferences ielding the Precautionary Effect
+Dynamical complexity and symplectic integrability
+A new approach for scenario generation in Risk management
+Shaping tail dependencies by nesting box copulas
+Macrostate Parameter an Econophysics Approach for the Risk Analysis of the Stock Exchange Market Transactions
+Robust mean-variance hedging in the single period model
+Most Efficient Homogeneous Volatility Estimators
+Second Order Risk
+Average optimality for risk-sensitive control with general state space
+Discussion of 200 IMS Medallion Lecture: Local Rademacher complexities and oracle inequalities in risk minimization by V. Koltchinskii
+Discussion of 200 IMS Medallion Lecture: Local Rademacher complexities and oracle inequalities in risk minimization'' by V. Koltchinskii
+Discussion of 200 IMS Medallion Lecture: Local Rademacher complexities and oracle inequalities in risk minimization'' by V. Koltchinskii
+Feasibility of Portfolio Optimization under Coherent Risk Measures
+Variance-covariance based risk allocation in credit portfolios: analytical approximation
+Portfolio Optimization Under Uncertainty
+Correlation breakdown copula credit default models and arbitrage
+Calibration of transparency risks: a note
+Financial Applications of Random Matrix Theory: a short review
+Bilateral counterparty risk valuation with stochastic dynamical models and application to Credit Default Swaps
+Collective firm bankruptcies and phase transition in rating dynamics
+Formulas for the Laplace Transform of Stopping Times based on Drawdowns and Drawups
+Regularizing Portfolio Optimization
+Les G 'en 'erateurs de Sc 'enarios 'Economiques : quelle utilisation en assurance?
+The StressVaR: A New Risk Concept for Superior Fund Allocation
+Evaluating the RiskMetrics Methodology in Measuring Volatility and Value-at-Risk in Financial Markets
+VaR-Efficient Portfolios for a Class of Super- and Sub-Exponentially Decaying Assets Return Distributions
+Effects of Economic Interactions on Credit Risk
+Risk Minimization through Portfolio Replication
+Phase Transitions in Operational Risk
+Representation of the penalty term of dynamic concave utilities
+Model for Non-Gaussian Intraday Stock Returns
+Hidden Noise Structure and Random Matrix Models of Stock Correlations
+Risk Concentration and Diversification: Second-Order Properties
+A duality approach to the worst case value at risk for a sum of dependent random variables with known covariances
+The first passage event for sums of dependent L 'evy processes with applications to insurance risk
+Tails of correlation mixtures of elliptical copulas
+Credit Calibration with Structural Models: The Lehman case and Equity Swaps under Counterparty Risk
+Defining Estimating and Using Credit Term Structures. Part 2: Consistent Risk Measures
+Dynamic Estimation of Credit Rating Transition Probabilities
+A Non-Gaussian Approach to Risk Measures
+Systemic Risk in a Unifying Framework for Cascading Processes on Networks
+Leverage Causes Fat Tails and Clustered Volatility
+The Underlying Dynamics of Credit Correlations
+Allocation d'actifs selon le crit ere de maximisation des fonds propres 'economiques en assurance non-vie
+Mesure des risques de march 'e et de souscription vie en situation d'information incompl ete pour un portefeuille de pr 'evoyance
+Mesure de l'incertitude tendancielle sur la mortalit 'e ? application a un r 'egime de rentes
+Etude du risque syst 'ematique de mortalit 'e
+Asymptotics of the probability minimizing a down-side risk
+Consistency properties of a simulation-based estimator for dynamic processes
+Dual Representation of Quasiconvex Conditional Maps
+Optimal Reversible Annuities to Minimize the Probability of Lifetime Ruin
+Computing Tails of Compound Distributions Using Direct Numerical Integration
+An extension of Davis and Lo's contagion model
+The Hazards of Propping Up: Bubbles and Chaos
+Optimal consumption and investment with bounded downside risk measures for logarithmic utility functions
+Loss distributions conditional on defaults
+Spin Glass Model of Operational Risk
+Risk assessment for uncertain cash flows: Model ambiguity discounting ambiguity and the role of bubbles
+Optimal investment with bounded VaR for power utility functions
+Dynamic risk measures
+Good deal bounds induced by shortfall risk
+First-passage and risk evaluation under stochastic volatility
+Estimating discriminatory power and PD curves when the number of defaults is small
+A proof of a conjecture in the Cram 'er-Lundberg model with investments
+Tracking errors from discrete hedging in exponential L 'evy models
+Credit Default Swaps Liquidity modeling: A survey
+WARNING: Physics Envy May Be Hazardous To our Wealth
+Ruin probability with Parisian delay for a spectrally negative L 'evy risk process
+Simple Fuzzy Score for Russian Public Companies Risk of Default
+Managing Derivative Exposure
+Chain ladder method: Bayesian bootstrap versus classical bootstrap
+A Top-down Model for Cash CLO
+Fractional smoothness and applications in finance
+When do improved covariance matrix estimators enhance portfolio optimization? An empirical comparative study of nine estimators
+Mean-Variance Hedging for Pricing European Options Under Assumption of Non-continuous Trading
+Hedging Errors Induced by Discrete Trading Under an Adaptive Trading Strategy
+Delta Hedging in Financial Engineering: Towards a Model-Free Approach
+On the fractional Black-Scholes market with transaction costs
+Some Remarks on T-copulas
+Random Matrix Theory and Fund of Funds Portfolio Optimisation
+Implementing Loss Distribution Approach for Operational Risk
+Optimal dividend and investing control of a insurance company with higher solvency constraints
+A Loan Portfolio Model Subject to Random Liabilities and Systemic Jump Risk
+Alarm System for Insurance Companies: A Strategy for Capital Allocation
+Time consistency and moving horizons for risk measures
+What risk measures are time consistent for all filtrations?
+Target market risk evaluation
+Proving Regularity of the Minimal Probability of Ruin via a Game of Stopping and Control
+Recurrence interval analysis of high-frequency financial returns and its application to risk estimation
+Inf-convolution of G-expectations
+Optimization of dividend and reinsurance strategies under ruin probability constraint
+Optimal control of a big financial company with debt liability under bankrupt probability constraints
+Analytical Framework for Credit Portfolios
+Modeling total expenditure on warranty claims
+Log-supermodularity of weight functions and the loading monotonicity of weighted insurance premiums
+Monte Carlo Portfolio Optimization for General Investor Risk-Return Objectives and Arbitrary Return Distributions: a Solution for Long-only Portfolios
+Hidden Regular Variation: Detection and Estimation
+Belief Propagation Algorithm for Portfolio Optimization Problems
+Optimal Dividend and reinsurance strategy of a Property Insurance Company under Catastrophe Risk
+Completing CVA and Liquidity: Firm-Level Positions and Collateralized Trades
+About the Justification of Experience Rating: Bonus Malus System and a new Poisson Mixture Model
+On the Savety Loading for Chain Ladder Estimates: A Monte Carlo Simulation Study
+A three dimensional stochastic Model for Claim Reserving
+Liquidity-adjusted Market Risk Measures with Stochastic Holding Period
+An Efficient Distributable Risk Neutral Framework for CVA Calculation
+Ordering of multivariate probability distributions with respect to extreme portfolio losses
+The t copula with Multiple Parameters of Degrees of Freedom: Bivariate Characteristics and Application to Risk Management
+Accounting for risk of non linear portfolios: a novel Fourier approach
+Impact of Insurance for Operational Risk: Is it worthwhile to insure or be insured for severe losses?
+Hedging Pure Endowments with Mortality Derivatives
+Ruin probability in the presence of risky investments
+Bankruptcy risk model and empirical tests
+Reduced form models of bond portfolios
+Static replications with traffic light options
+Computation of VaR and CVaR using stochastic approximations and unconstrained importance sampling
+Risk measuring under model uncertainty
+Theoretical and numerical Analysis on Optimal dividend policy of an insurance company with positive transaction cost and higher solvency
+Optimal control of risk process in a regime-switching environment
+Will the US Economy Recover in 200? A Minimal Spanning Tree Study
+A time before which insiders would not undertake risk
+Regulatory Medicine Against Financial Market Instability: What Helps And What Hurts?
+Default Risk Modeling Beyond the First-Passage Approximation: Extended Black-Cox Model
+Applications of time-delayed backward stochastic differential equations to pricing hedging and portfolio management
+The economic default time and the Arcsine law
+Collateral Margining in Arbitrage-Free Counterparty Valuation Adjustment including Re-Hypotecation and Netting
+An Active Margin System and its Application in Chinese Margin Lending Market
+Ruin probabilities in tough times - Part  - Heavy-traffic approximation for fractionally integrated random walks in the domain of attraction of a nonGaussian stable distribution
+Local Risk Decomposition for High-frequency Trading Systems
+Optimal Liquidation Strategies Regularize Portfolio Selection
+Quantile hedging for multiple assets derivatives
+Analytic Loss Distributional Approach Model for Operational Risk from the alpha-Stable Doubly Stochastic Compound Processes and Implications for Capital Allocation
+Transition Probability Matrix Methodology for Incremental Risk Charge
+Minimizing shortfall risk for multiple assets derivatives
+Ruin probabilities in tough times - Part 2 - Heavy-traffic approximation for fractionally differentiated random walks in the domain of attraction of a nonGaussian stable distribution
+Portfolio Insurance under a risk-measure constraint
+Calibration of structural and reduced-form recovery models
+Recent progress in random metric theory and its applications to conditional risk measures
+Robust Estimation of Operational Risk
+Risk VaR CVaR and their associated Portfolio Optimizations when Asset Returns have a Multivariate Student T Distribution
+Optimal Investment and Premium Policies under Risk Shifting and Solvency Regulation
+An Empirical Analysis of Dynamic Multiscale Hedging using Wavelet Decomposition
+A Note on Delta Hedging in Markets with Jumps
+Spectral Risk Measures with an Application to Futures Clearinghouse Variation Margin Requirements
+Exponential Spectral Risk Measures
+Hedging Effectiveness under Conditions of Asymmetry
+Margin setting with high-frequency data
+Minimum Capital Requirement Calculations for UK Futures
+Tail Behaviour of the Euro
+Varying the VaR for Unconditional and Conditional Environments
+Extreme Spectral Risk Measures: An Application to Futures Clearinghouse Margin Requirements
+Implied correlation from VaR
+Modelling catastrophic risk in international equity markets: An extreme value approach
+Evaluating the Precision of Estimators of Quantile-Based Risk Measures
+Estimating financial risk measures for futures positions: a non-parametric approach
+Spectral Risk Measures and the Choice of Risk Aversion Function
+How Unlucky is 2-Sigma?
+Spectral Risk Measures: Properties and Limitations
+Extreme Measures of Agricultural Financial Risk
+Scaling conditional tail probability and quantile estimators
+Hedging: Scaling and the Investor Horizon
+Time Varying Risk Aversion: An Application to Energy Hedging
+A Utility Based Approach to Energy Hedging
+Financial Risks and the Pension Protection Fund: Can it Survive Them?
+Impact of the topology of global macroeconomic network on the spreading of economic crises
+Concave Distortion Semigroups
+Collateralized CDS and Default Dependence
+Dynamic Coherent Acceptability Indices and their Applications to Finance
+Is a probabilistic modeling really useful in financial engineering? - A-t-on vraiment besoin d'un mod ele probabiliste en ing 'enierie financi ere ?
+Banking retail consumer finance data generator - credit scoring data repository
+Is there a bubble in LinkedIn's stock price?
+Marking Systemic Portfolio Risk with Application to the Correlation Skew of Equity Baskets
+A Random Matrix Approach to Credit Risk
+Credit contagion and risk management with multiple non-ordered defaults
+Distortion risk measures for sums of dependent losses
+Impact of the first to default time on Bilateral CVA
+Dynamic Large Spatial Covariance Matrix Estimation in Application to Semiparametric Model Construction via Variable Clustering: the SCE approach
+A Stochastic Model for the Analysis of Demographic Risk in Pay-As-ou-Go Pension Funds
+Analytical Framework for Credit Portfolios. Part I: Systematic Risk
+KISS approach to credit portfolio modeling
+Counterparty Risk and the Impact of Collateralization in CDS Contracts
+Convex risk measures for good deal bounds
+Living on the multi-dimensional edge: seeking hidden risks using regular variation
+Expected Shortfall and Beyond
+Remarks on the monotonicity of default probabilities
+Credit Risk Contributions to Value-at-Risk and Expected Shortfall
+A traffic lights approach to PD validation
+Validation of internal rating systems and PD estimates
+Losing money with a high Sharpe ratio
+Investment Volatility: A Critique of Standard Beta Estimation and a Simple Way Forward
+The Lehman Brothers Effect and Bankruptcy Cascades
+Hedging strategies with a put option and their failure rates
+Modeling Multiple Risks: Hidden Domain of Attraction
+Menger  revisited
+Calculating Variable Annuity Liability 'Greeks' Using Monte Carlo Simulation
+Anti-Robust and Tonsured Statistics
+Hedging of time discrete auto-regressive stochastic volatility options
+Recovery Rates in investment-grade pools of credit assets: A large deviations analysis
+Scaling portfolio volatility and calculating risk contributions in the presence of serial cross-correlations
+The time resolution of the St. Petersburg paradox
+Copula-based Hierarchical Aggregation of Correlated Risks. The behaviour of the diversification benefit in Gaussian and Lognormal Trees
+Numerical Solutions of Optimal Risk Control and Dividend Optimization Policies under A Generalized Singular Control Formulation
+On the Necessity of Five Risk Measures
+Viewing Risk Measures as Information
+Historical risk measures on stock market indices and energy markets
+Privacy-Preserving Methods for Sharing Financial Risk Exposures
+Multifractal modeling of short-term interest rates
+A Mathematical Method for Deriving the Relative Effect of Serviceability on Default Risk
+Optimal Trading Execution with Nonlinear Market Impact: An Alternative Solution Method
+Quantile Mechanics II: Changes of Variables in Monte Carlo methods and GPU-Optimized Normal Quantiles
+Multivariate heavy-tailed models for Value-at-Risk estimation
+Derivative Pricing under Asymmetric and Imperfect Collateralization and CVA
+Looking for grass-root sources of systemic risk: the case of cheques-as-collateral network
+Common persistence in conditional variance: A reconsideration
+Funding Valuation Adjustment: a consistent framework including CVA DVA collateral netting rules and re-hypothecation
+Clean Valuation Framework for the USD Silo
+Estimating financial risk using piecewise Gaussian processes
+Minimal Cost of a Brownian Risk without Ruin
+Optimal Constrained Investment in the Cramer-Lundberg model
+Quantum Financial Economics - Risk and Returns
+Saddlepoint methods in portfolio theory
+Quasi self-dual exponential L 'evy processes
+A Bayesian Networks Approach to Operational Risk
+A Dynamical Model for Forecasting Operational Losses
+Pricing and Semimartingale Representations of Vulnerable Contingent Claims in Regime-Switching Markets
+A mathematical treatment of bank monitoring incentives
+A Dynamical Approach to Operational Risk Measurement
+Iterated risk measures for risk-sensitive Markov decision processes with discounted cost
+Comparative statistics of Garman-Klass Parkinson Roger-Satchell and bridge estimators
+Active margin system for margin loans and its application in Chinese market: using cash and randomly selected stock as collateral
+Active margin system for margin loans using cash and stock as collateral and its application in Chinese market
+Capital allocation for credit portfolios under normal and stressed market conditions
+Multidimensional dynamic risk measure via conditional g-expectation
+Performance-based regularization in mean-CVaR portfolio optimization
+Empirical Evidence for the Structural Recovery Model
+Any Regulation of Risk Increases Risk
+One-year reserve risk including a tail factor: closed formula and bootstrap approaches
+Using Decision Tree Learner to Classify Solvency Position for Thai Non-life Insurance Companies
+Ordinal Classification Method for the Evaluation Of Thai Non-life Insurance Companies
+The Mathematics of the Relationship between the Default Risk and ield-to-Maturity of Coupon Bonds
+Systemic losses in banking networks: indirect interaction of nodes via asset prices
+On break-even correlation: the way to price structured credit derivatives by replication
+Perturbative Expansion Technique for Non-linear FBSDEs with Interacting Particle Method
+The Variance of Standard Option Returns
+Comparison results for Garch processes
+A Generalized Fourier Transform Approach to Risk Measures
+Hermitian and non-Hermitian covariance estimators for multivariate Gaussian and non-Gaussian assets from random matrix theory
+Using The Censored Gamma Distribution for Modeling Fractional Response Variables with an Application to Loss Given Default
+A Quasi-Sure Approach to the Control of Non-Markovian Stochastic Differential Equations
+Restructuring Counterparty Credit Risk
+Real Output Costs of Financial Crises: A Loss Distribution Approach
+Credit Default Swaps Drawup Networks: Too Tied To Be Stable?
+From Risk Measures to Research Measures
+Central Counterparty Risk
+A multivariate piecing-together approach with an application to operational loss data
+Optimal retirement consumption with a stochastic force of mortality
+A different perspective on retirement income sustainability: the blueprint for a ruin contingent life annuity RCLA
+Two Models of Stochastic Loss Given Default
+Collateralized CVA Valuation with Rating Triggers and Credit Migrations
+On the nature of financial leverage
+Counterparty Risk FAQ: Credit VaR PFE CVA DVA Closeout Netting Collateral Re-hypothecation WWR Basel Funding CCDS and Margin Lending
+Robust utility maximization for L 'evy processes: Penalization and solvability
+Forecasting Value-at-Risk with Time-Varying Variance Skewness and Kurtosis in an Exponential Weighted Moving Average Framework
+Preliminary remarks on option pricing and dynamic hedging
+Alpha Representation For Active Portfolio Management and High Frequency Trading In Seemingly Efficient Markets
+Representation Theory for Risk On Markowitz-Tversky-Kahneman Topology
+A structural approach to pricing credit default swaps with credit and debt value adjustments
+Active Portfolio Management Positive Jensen-Jarrow Alpha and ero Sets of CAPM
+From Smile Asymptotics to Market Risk Measures
+Interest Rate Risk of Bond Prices on Macedonian Stock Exchange - Empirical Test of the Duration Modified Duration and Convexity and Bonds Valuation
+Illustrating a problem in the self-financing condition in two 200-20 papers on funding collateral and discounting
+A Dynamical Model for Operational Risk in Banks
+Computing Quantiles in Regime-Switching Jump-Diffusions with Application to Optimal Risk Management: a Fourier Transform Approach
+A proposal for impact-adjusted valuation: Critical leverage and execution risk
+Large deviations for a mean field model of systemic risk
+On dependence consistency of CoVaR and some other systemic risk measures
+Mathematical Definition Mapping and Detection of AntiFragility
+Hedging Swing contract on gas markets
+Optimal dividend control for a generalized risk model with investment incomes and debit interest
+On the drawdown of completely asymmetric Levy processes
+A Goal Programming Model with Satisfaction Function for Risk Management and Optimal Portfolio Diversification
+Complete duality for quasiconvex dynamic risk measures on modules of the L p -type
+Risk Measures on mathcal P  mathbb R  and Value At Risk with Probability Loss function
+Vine Constructions of Levy Copulas
+Scenarios and their Aggregation in the Regulatory Risk Measurement Environment
+The Future Has Thicker Tails than the Past: Model Error As Branching Counterfactuals
+Preferential Attachment in the Interaction between Dynamically Generated Interdependent Networks
+Pricing Illiquid Options with N  Liquid Proxies Using Mixed Dynamic-Static Hedging
+Spectral Risk Measures With Adaptions For Stochastic Optimization
+Sparsifying Defaults: Optimal Bailout Policies for Financial Networks in Distress
+Dependence of defaults and recoveries in structural credit risk models
+Applying hedging strategies to estimate model risk and provision calculation
+Bivariate Semi-Markov Process for Counterparty Credit Risk
+The European debt crisis: Defaults and market equilibrium
+Consumer finance data generator - a new approach to Credit Scoring technique comparison
+How We Tend To Overestimate Powerlaw Tail Exponents
+Fostering Project Scheduling and Controlling Risk Management
+Smooth Nonparametric Bernstein Vine Copulas
+Russian interbank networks: main characteristics and stability with respect to contagion
+An introduction to particle integration methods: with applications to risk and insurance
+Counterparty Risk and Funding: The Four Wings of the TVA
+Solvency assessment within the ORSA framework: issues and quantitative methodologies
+Measuring and Analysing Marginal Systemic Risk Contribution using CoVaR: A Copula Approach
+Stability analysis of financial contagion due to overlapping portfolios
+The eeman Effect in Finance: Libor Spectroscopy and Basis Risk Management
+The full-tails gamma distribution applied to model extreme values
+The role of the Model Validation function to manage and mitigate model risk
+Funded Bilateral Valuation Adjustment
+On the new central bank strategy toward monetary and financial instabilities management in finances: Econophysical analysis of nonlinear dynamical financial systems
+On the Risk Management with Application of Econophysics Analysis in Central Banks and Financial Institutions
+Closed form solutions of measures of systemic risk
+Optimal portfolio model based on WVAR
+Precautionary Measures for Credit Risk Management in Jump Models
+Weak Dynamic Programming for Generalized State Constraints
+Bounds for rating override rates
+Percentiles of sums of heavy-tailed random variables: Beyond the single-loss approximation
+The best gain-loss ratio is a poor performance measure
+A Copula Based Bayesian Approach for Paid-Incurred Claims Models for Non-Life Insurance Reserving
+Parameter estimation of a Levy copula of a discretely observed bivariate compound Poisson process with an application to operational risk modelling
+Dynamic quasi-concave performance measures
+Risk Measures in a Regime Switching Model Capturing Stylized Facts
+The dynamics of financial stability in complex networks
+The bounds of heavy-tailed return distributions in evolving complex networks
+Risk Premia and Optimal Liquidation of Credit Derivatives
+Eigenvector dynamics: general theory and some applications
+On Reduced Form Intensity-based Model with Trigger Events
+On Infectious Model for Dependent Defaults
+The Foster-Hart Measure of Riskiness for General Gambles
+On consistent valuations based on distorted expectations: from multinomial random walks to L ' e vy processes
+Portfolio Management Approach in Trade Credit Decision Making
+Planning Optimal From the Firm Value Creation Perspective Levels of Operating Cash Investments
+Polish and Silesian Non-Profit Organizations Liquidity Strategies
+Measuring Model Risk
+Ecosystems perspective on financial networks: diagnostic tools
+DebtRank-transparency: Controlling systemic risk in financial networks
+Markets Evolution After the Credit Crunch
+Optimal leverage from non-ergodicity
+Perfect and partial hedging for swing game options in discrete time
+Default clustering in large portfolios: Typical events
+Uniqueness of Kusuoka Representations
+Efficient Importance Sampling for Rare Event Simulation with Applications
+Collateral-Enhanced Default Risk
+Inference for Extremal Conditional Quantile Models with an Application to Market and Birthweight Risks
+Parisian ruin probability for spectrally negative L ' e vy processes
+Ergodicity breaking in geometric Brownian motion
+Cascading Failures in Bi-partite Graphs: Model for Systemic Risk Propagation
+A new approach for an unitary risk theory
+Understanding Operational Risk Capital Approximations: First and Second Orders
+Quantifying the Impact of Leveraging and Diversification on Systemic Risk
+On Multivariate Extensions of Value-at-Risk
+How big is too big? Critical Shocks for Systemic Failure Cascades
+The Reactive Volatility Model
+Premiums And Reserves Adjusted By Distortions
+Measuring the default risk of sovereign debt from the perspective of network
+Risk measures for processes and BSDEs
+Asymptotics of Random Contractions
+Mean-Variance Asset-Liability Management with State-Dependent Risk Aversion
+Risk Measure Estimation On Fiegarch Processes
+Hedging without sweat: a genetic programming approach
+Superhedging and Dynamic Risk Measures under Volatility Uncertainty
+Dynamic Conic Finance: Pricing and Hedging in Market Models with Transaction Costs via Dynamic Coherent Acceptability Indices
+Scaling stability and distribution of the high-frequency returns of the IBE index
+A Financial Risk Analysis: Does the 200 Financial Crisis Give Impact on Weekends Returns of the U.S. Movie Box Office?
+Ruin probability of a discrete-time risk process with proportional reinsurance and investment for exponential and Pareto distributions
+The convergence of regional house prices in the USA in the context of the stress testing of financial institutions
+From Text to Bank Interrelation Maps
+On the time spent in the red by a refracted L 'evy risk process
+Compound Wishart Matrices and Noisy Covariance Matrices: Risk Underestimation
+Computational Dynamic Market Risk Measures in Discrete Time Setting
+Moderate deviations for importance sampling estimators of risk measures
+Minimizing Shortfall
+Early Warning with Calibrated and Sharper Probabilistic Forecasts
+Transmission of distress in a bank credit network
+Optimal portfolio for a robust financial system
+Pricing Corporate Defaultable Bond using Declared Firm Value
+Factorising equity returns in an emerging market through exogenous shocks and capital flows
+The Meaning of Probability of Default for Asset-backed Loans
+Assessing Financial Model Risk
+Contraction or steady state? An analysis of credit risk management in Italy in the period 200-202
+A Remark on the Structure of Expectiles
+Where Do Thin Tails Come From?
+Tight Approximations of Dynamic Risk Measures
+The explicit Laplace transform for the Wishart process
+Exact and asymptotic results for insurance risk models with surplus-dependent premiums
+On random convex analysis -- the analytic foundation of the module approach to conditional risk measures
+Systematic and non-systematic mortality risk in pension portfolios
+Liability-driven investment in longevity risk management
+Time-reversal asymmetry in financial systems
+Optimal Dynamic Portfolio with Mean-CVaR Criterion
+Achieving Speedup in Aggregate Risk Analysis using Multiple GPUs
+A pricing measure to explain the risk premium in power markets
+Analyzing Herd Behavior in Global Stock Markets: An Intercontinental Comparison
+Computation of ruin probabilities for general discrete-time Markov models
+Random G-expectations
+Bayesian estimation of probabilities of default for low default portfolios
+Funding Liquidity Debt Tenor Structure and Creditor's Belief: An Exogenous Dynamic Debt Run Model
+L 'evy Information and the Aggregation of Risk Aversion
+Risk Without Return
+G-consistent price system and bid-ask pricing for European contingent claims under Knightian uncertainty
+Tail behavior of sums and differences of log-normal random variables
+Hedging under multiple risk constraints
+Reconstruction of financial network for robust estimation of systemic risk
+Inference of Extreme Synchrony with an Entropy Measure on a Bipartite Network
+Malliavin calculus method for asymptotic expansion of dual control problems
+The Calculus of Expected Loss: Backtesting Parameter-Based Expected Loss in a Basel II Framework
+Higher Order Binaries with Time Dependent Coefficients and Two Factors - Model for Defaultable Bond with Discrete Default Information
+Integrals of Higher Binary Options and Defaultable Bond with Discrete Default Information
+Random Matrix Application to Correlations Among Volatility of Assets
+An optimal three-way stable and monotonic spectrum of bounds on quantiles: a spectrum of coherent measures of financial risk and economic inequality
+Restructuring the one-way CSA counterparty risk in a CDO
+The Pricing of A Moving Barrier Option
+Analytical Pricing of Defaultable Bond with Stochastic Default Intensity
+Bayesian inference for CoVaR
+Credit Risk and the Instability of the Financial System: an Ensemble Approach
+Hedging in L 'evy models and the time step equivalent of jumps
+Modeling catastrophic deaths using EVT with a microsimulation approach to reinsurance pricing
+There is a VaR beyond usual approximations
+On the Capital Allocation Problem for a New Coherent Risk Measure in Collective Risk Theory
+On time scaling of semivariance in a jump-diffusion process
+Modeling systemic risks in financial markets
+Pr 'evision du risque de cr 'edit : Une 'etude comparative entre l'Analyse Discriminante et l'Approche Neuronale
+Numerical methods for the quadratic hedging problem in Markov models with jumps
+Quadratic hedging schemes for non-Gaussian GARCH models
+The art of probability-of-default curve calibration
+Continuous compliance: a proxy-based monitoring framework
+Stochastic areas of diffusions and applications in risk theory
+Optimal insurance purchase strategies via optimal multiple stopping times
+The impact of systemic risk on the diversification benefits of a risk portfolio
+Extrapolating the term structure of interest rates with parameter uncertainty
+Systematic and multifactor risk models revisited
+Hedging Against the Interest-rate Risk by Measuring the ield-curve Movement
+Bankruptcy Risk Induced by Career Concerns of Regulators
+Expected Shortfall: a natural coherent alternative to Value at Risk
+A Coupled Markov Chain Approach to Credit Risk Modeling
+Quantifying mortality risk in small defined-benefit pension schemes
+Killed Brownian motion with a prescribed lifetime distribution and models of default
+Derivatives and Credit Contagion in Interconnected Networks
+Capital requirements with defaultable securities
+Comparative and qualitative robustness for law-invariant risk measures
+Leverage-induced systemic risk under Basle II and other credit risk policies
+Early-warning signals of topological collapse in interbank networks
+Efficient immunization strategies to prevent financial contagion
+Network versus portfolio structure in financial systems
+The Skin In The Game Heuristic for Protection Against Tail Events
+Optimal consumption and portfolio choice with ambiguity
+Four Points Beginner Risk Managers Should Learn from Jeff Holman's Mistakes in the Discussion of Antifragile
+Law-invariant risk measures: extension properties and qualitative robustness
+Why free markets die: An evolutionary perspective
+Beyond cash-additive risk measures: when changing the num ' e raire fails
+A unified approach to pricing and risk management of equity and credit risk
+Rationalizing Investors Choice
+Maximum Lebesgue Extension of Monotone Convex Functions
+Investment under uncertainty competition and regulation
+Capital adequacy tests and limited liability of financial institutions
+On the Measurement of Economic Tail Risk
+Elimination of systemic risk in financial networks by means of a systemic risk transaction tax
+Risk Margin Quantile Function Via Parametric and Non-Parametric Bayesian Quantile Regression
+Large deviation asymptotics for the left tail of the sum of dependent positive random variables
+Densely Entangled Financial Systems
+Estimation Error of Expected Shortfall
+Loss-Based Risk Measures
+Resilience to Contagion in Financial Networks
+Quadratic BSDEs with jumps: a fixed-point approach
+Central Clearing of OTC Derivatives: bilateral vs multilateral netting
+On the Lebesgue Property of Monotone Convex Functions
+Explicit solution of an inverse first-passage time problem for L ' e vy processes and counterparty credit risk
+Gold Oil and Stocks
+Measuring risk with multiple eligible assets
+Optimal Investment and Risk Control Problem for an Insurer: Expected Utility Maximization
+On the Hawkes Process with Different Exciting Functions
+Modelling Credit Default Swaps: Market-Standard Vs Incomplete-Market Models
+Quadratic BSDEs with jumps: related non-linear expectations
+Structural Models under Additional Information
+Sophisticated gamblers ruin and survival chances
+Credit acceptance process strategy case studies - the power of Credit Scoring
+Asymptotically optimal discretization of hedging strategies with jumps
+Involving copula functions in Conditional Tail Expectation
+Non stationary multifractality in stock returns
+A Fourier Approach to the Computation of CV R and Optimized Certainty Equivalents
+Coherence and elicitability
+Interconnected risk contributions: an heavy-tail approach to analyse US financial sectors
+Systemic risk in dynamical networks with stochastic failure criterion
+Omega risk model with tax
+On the range of admissible term-structures
+Utility indifference pricing of derivatives written on industrial loss indexes
+Discretisation-Invariant Swaps
+A Stochastic Maximum Principle for Risk-Sensitive Mean-Field Type Control
+Financial bubbles: mechanisms and diagnostics
+L p regularized portfolio optimization
+Incorporating a Volatility Smile into the Markov-Functional Model
+Set-valued risk measures for conical market models
+Time consistency of dynamic risk measures in markets with transaction costs
+Set-valued average value at risk and its computation
+Second Order BSDEs with Jumps: Existence and probabilistic representation for fully-nonlinear PIDEs
+Optimal execution comparison across risks and dynamics with solutions for displaced diffusions
+Consistent iterated simulation of multi-variate default times: a Markovian indicators characterization
+Loss Distribution Approach for Operational Risk Capital Modelling under Basel II: Combining Different Data Sources for Risk Estimation
+Analytical models of operational risk and new results on the correlation problem
+The role of the information set for forecasting - with applications to risk management
+Hedging of equity-linked with maximal success factor
+Market risk modelling in Solvency II regime and hedging options not using underlying
+Distortion Risk Measures and Elicitability
+Set-valued shortfall and divergence risk measures
+VAR and ES CVAR Dependence on data cleaning and Data Models: Analysis and Resolution
+On the concentration of large deviations for fat tailed distributions with application to financial data
+The Financing of Innovative SMEs: a multicriteria credit rating model
+A model of financial contagion with variable asset returns may be replaced with a simple threshold model of cascades
+Explicit Solutions of Optimal Consumption Investment and Insurance Problem with Regime Switching
+Bregman superquantiles. Estimation methods and applications
+Notes on Alpha Stream Optimization
+On Optimal Reinsurance Policy with Distortion Risk Measures and Premiums
+Investment under Duality Risk Measure
+Upside and Downside Risk Exposures of Currency Carry Trades via Tail Dependence
+Reduction of systemic risk by means of Pigouvian taxation
+How to hedge extrapolated yield curves
+Systemic risk through contagion in a core-periphery structured banking network
+On the Depletion Problem for an Insurance Risk Process: New Non-ruin Quantities in Collective Risk Theory
+Suitability of Capital Allocations for Performance Measurement
+Dynamic Limit Growth Indices in Discrete Time
+Optimal Hedging for Fund Insurance Managers with Partially Observable Investment Flows
+Bank Networks from Text: Interrelations Centrality and Determinants
+A two-stage model for dealing with temporal degradation of credit scoring
+Stochastic model of a pension plan
+On a Transform Method for the Efficient Computation of Conditional VaR and VaR with Application to Loss Models with Jumps and Stochastic Volatility
+A Consistent Model of Explosive' Financial Bubbles With Mean-Reversing Residuals
+Financial Bubbles Real Estate bubbles Derivative Bubbles and the Financial and Economic Crisis
+The Illusion of the Perpetual Money Machine
+DVA for Assets
+Dynamic Assessment Indices
+Regulatory-Compliant Derivatives Pricing is Not Risk-Neutral
+Risk aggregation and stochastic claims reserving in disability insurance
+The dynamics of the leverage cycle
+Value-at-Risk time scaling for long-term risk estimation
+Downturn LGD: A More Conservative Approach for Economic Decline Periods
+Diversification and Endogenous Financial Networks
+Hedging Conditional Value at Risk with Options
+Calculation of aggregate loss distributions
+Theoretical Sensitivity Analysis for Quantitative Operational Risk Management
+Multivariate risk measures: a constructive approach based on selections
+A Bond Consistent Derivative Fair Value
+Default contagion risks in Russian interbank market
+Opening discussion on banking sector risk exposures and vulnerabilities from virtual currencies: An operational risk perspective
+Contagion in an interacting economy
+The effect of the number of states on the validity of credit ratings
+The Credibility Theory applied to backtesting Counterparty Credit Risk
+Mean of Ratios or Ratio of Means: statistical uncertainty applied to estimate Multiperiod Probability of Defaul
+On time consistency of dynamic risk and performance measures in discrete time
+Parametric Risk Parity
+Default risk modeling beyond the first-passage approximation: Position-dependent killing
+On the Computational Complexity of Measuring Global Stability of Banking Networks
+Multiportfolio time consistency for set-valued convex and coherent risk measures
+Ruin Probabilities for Risk Processes with Non-Stationary Arrivals and Subexponential Claims
+Heavy tailed time series with extremal independence
+Community detection for correlation matrices
+Inside Money Procyclical Leverage and Banking Catastrophes
+Are credit ratings time-homogeneous and Markov?
+Systemic Interbank Network Risks in Russia
+A General Duality Relation with Applications in Quantitative Risk Management
+An initial approach to Risk Management of Funding Costs
+Consistency of internal risk measure estimates
+Impact of shadow banks on financial contagion
+Risk diversification: a study of persistence with a filtered correlation-network approach
+qGaussian model of default
+A new multivariate dependence measure based on comonotonicity
+Markov chain Monte Carlo estimation of default and recovery: dependent via the latent systematic factor
+Optimal Dividend Payments for the Piecewise-Deterministic Poisson Risk Model
+Dependent default and recovery: MCMC study of downturn LGD credit risk model
+Default Probability Estimation via Pair Copula Constructions
+On the Super-Additivity and Estimation Biases of Quantile Contributions
+Can Turnover Go to ero?
+Exact fit of simple finite mixture models
+Efficient solution of structural default models with correlated jumps and mutual obligations
+Systemic risk in a large claims insurance market with bipartite graph structure
+Risk measures with the CxLS property
+Modelling cross-border systemic risk in the European banking sector: a copula approach
+Impact of credit default swaps on financial contagion
+Multi-curve HJM modelling for risk management
+Diversification versus specialization -- lessons from a noise driven linear dynamical system
+Two maxentropic approaches to determine the probability density of compound risk losses
+On robust representation of conditional risk measures on a L infty -type module
+What is the best risk measure in practice? A comparison of standard measures
+An importance sampling approach for copula models in insurance
+Estimating Operational Risk Capital with Greater Accuracy Precision and Robustness
+Factor Models for Alpha Streams
+Classical mechanics of economic networks
+Optimal Monitoring and Mitigation of Systemic Risk in Financial Networks
+On the Coherent Risk Measure Representations in the Discrete Probability Spaces
+Improving predictability of time series using maximum entropy methods
+Assessing the Basel II Internal Ratings-Based Approach: Empirical Evidence from Australia
+Regulatory Capital Modelling for Credit Risk
+A stochastic switching control model arising in general OTC contracts with contingent CSA in presence of CVA collateral and funding
+Stess-testing the system: Financial shock contagion in the realm of uncertainty
+Max-factor individual risk models with application to credit portfolios
+Equilibrium in risk-sharing games
+Russian-Doll Risk Models
+Efficient VA Management: Pricing Hedging and Attribution using Trade-Level Regression and Global Conditioning
+Aggregation operators for the measurement of systemic risk
+Dynamic Conic Finance via Backward Stochastic Difference Equations
+Risk measuring under liquidity risk
+Tail Risk Constraints and Maximum Entropy
+Cross-Ownership as a Structural Explanation for Over- and Underestimation of Default Probability
+A comparison of techniques for dynamic multivariate risk measures
+A nested factor model for non-linear dependences in stock returns
+MVA: Initial Margin Valuation Adjustment by Replication and Regression
+Combining Alpha Streams with Costs
+Warehousing Credit CVA Risk Capital KVA and Tax TVA Consequences
+Custom v. Standardized Risk Models
+On Stochastic Orders and its applications : Policy limits and Deductibles
+Methodological thoughts on expected loss estimates for IFRS  impairment: hidden reserves cyclical loss predictions and LGD backtesting
+Signs of dependence and heavy tails in non-life insurance data
+A Composite Risk Measure Framework for Decision Making under Uncertainty
+The Two Dimensions of Drawdown: Magnitude and Duration
+Shortfall Deviation Risk
+Combining Alphas via Bounded Regression
+Multivariate Stop loss Mixed Erlang Reinsurance risk: Aggregation Capital allocation and Default risk
+Large Portfolio Asymptotics for Loss From Default
+Constructing Sublinear Expectations on Path Space
+Fluctuation Analysis for the Loss From Default
+Default Clustering in Large Pools: Large Deviations
+Quasi-Hadamard differentiability of general risk functionals and its application
+Systemic Risk and Default Clustering for Large Financial Systems
+Reward-risk momentum strategies using classical tempered stable distribution
+Paths and indices of maximal tail dependence
+Sequential Monte Carlo Samplers for capital allocation under copula-dependent risk models
+A New Methodology for Estimating Internal Credit Risk and Bankruptcy Prediction under Basel II Regime
+A Directional Multivariate Value at Risk
+Systemic Risk with Exchangeable Contagion: Application to the European Banking System
+Diversification protection of liability holders and regulatory arbitrage

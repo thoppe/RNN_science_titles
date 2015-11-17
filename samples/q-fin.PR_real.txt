@@ -1,0 +1,1029 @@
+Yield Curve Shapes and the Asymptotic Short Rate Distribution in Affine One-Factor Models
+Pricing Life Insurance under Stochastic Mortality via the Instantaneous Sharpe Ratio: Theorems and Proofs
+Financial Valuation of Mortality Risk via the Instantaneous Sharpe Ratio: Applications to Pricing Pure Endowments
+Optimal cross hedging for insurance derivatives
+Financial equilibria in the semimartingale setting: complete markets and markets with withdrawal constraints
+On the semimartingale property via bounded logarithmic utility
+The Quantum Black-Scholes Equation
+Perpetual American options within CTRW's
+Stochastic Knapsack Problem Revisited: Switch-Over Policies and Dynamic Pricing
+Models with time-dependent parameters using transform methods: application to Heston's model
+L  -approximating pricing under restricted information
+American Options under Proportional Transaction Costs: Pricing Hedging and Stopping Algorithms for Long and Short Positions
+Understanding the volatility smile of options markets through microsimulation
+High-order accurate implicit methods for the pricing of barrier options
+Adapted Downhill Simplex Method for Pricing Convertible Bonds
+Modelling Bonds Credit Default Swaps using a Structural Model with Contagion
+The fundamental theorem of asset pricing under proportional transaction costs
+Market completion using options
+Least Squares Importance Sampling for Libor Market Models
+Optimal intertemporal risk allocation applied to insurance pricing
+How close are the option pricing formulas of Bachelier and Black-Merton-Scholes?
+Renewal equations for option pricing
+Pricing Equity Default Swaps under an approximation to the CGMY L ' e vy Model
+The derivatives of Asian call option prices
+Moment Explosions and Long-Term Behavior of Affine Stochastic Volatility Models
+Reflected backward stochastic differential equations and a class of non linear dynamic pricing rule
+Approximate formulae for pricing zero-coupon bonds and their asymptotic analysis
+Valuation of Mortality Risk via the Instantaneous Sharpe Ratio: Applications to Life Annuities
+On Equilibrium Prices in Continuous Time
+Mirror-time diffusion discount model of options pricing
+A new market model in the large volatility case
+The numeraire portfolio in semimartingale financial models
+No-Free-Lunch equivalences for exponential Levy models
+On Agents' Agreement and Partial-Equilibrium Pricing in Incomplete Markets
+On perpetual American put valuation and first-passage in a regime-switching model with jumps
+The price of bond and European option on bond without credit risk. Classical look and its quantum extension
+Consistent price systems and face-lifting pricing under transaction costs
+Convex pricing by a generalized entropy penalty
+An introduction to L ' e vy processes with applications in finance
+Max-Plus decomposition of supermartingales and convex order. Application to American options and portfolio insurance
+Option pricing under stochastic volatility: the exponential Ornstein-Uhlenbeck model
+Insurance Reinsurance and Dividend Payment
+Backward Stochastic PDEs related to the utility maximization problem
+Perturbative Approach on Financial Markets
+Risk Premium Impact in the Perturbative Black Scholes Model
+A path integral approach to closed-form option pricing formulas with applications to stochastic volatility and interest rate models
+Optimal investment and consumption in a Black--Scholes market with L 'evy-driven stochastic coefficients
+Some Control Variates for exotic options
+Classification of barrier options
+Counterparty risk valuation for CDS
+An Information-Based Framework for Asset Pricing: X-Factor Theory and its Applications
+Superhedging in illiquid markets
+Robust hedging of double touch barrier options
+Local time and the pricing of time-dependent barrier options
+Affine Models
+Optimal Time to Sell a Stock in Black-Scholes Model: Comment on Thou shall buy and hold by A. Shiryaev . Xu and X.Y. hou
+Implied volatility explosions: European calls and implied volatilities close to expiry in exponential L 'evy models
+Smile dynamics -- a theory of the implied leverage effect
+Hedging of claims with physical delivery under convex transaction costs
+The Continuous Time Nonzero-sum Dynkin Game Problem and Application in Game Options
+Binomial approximations of shortfall risk for game options
+Quantile hedging for an insider
+Option Pricing Model Based on a Markov-modulated Diffusion with Jumps
+A Finite Element Framework for Option Pricing with the Bates Model
+Discrete Time vs Continuous Time Stock-price Dynamics and implications for Option Pricing
+The general mixture-diffusion SDE and its relationship with an uncertain-volatility option model with volatility-asset decorrelation
+Arbitrage-free Pricing of Credit Index Options: The no-armageddon pricing measure and the role of correlation after the subprime crisis
+Constant Maturity Credit Default Swap Pricing with Market Models
+Default correlation cluster dynamics and single names: The GPCL dynamical loss model
+An exact formula for default swaptions' pricing in the SSRJD stochastic intensity model
+Learning short-option valuation in the presence of rare events
+Path Dependent Option Pricing: the path integral partial averaging method
+Asians and cash dividends: Exploiting symmetries in pricing theory
+Tradable Schemes
+Pricing formulas model error and hedging derivative portfolios
+Black-Scholes-Like Derivative Pricing With Tsallis Non-extensive Statistics
+A Theory of Non Gaussian Option Pricing
+A Quantum Field Theory Term Structure Model Applied to Hedging
+Quantum Mechanics Path Integrals and Option Pricing: Reducing the Complexity of Finance
+A theory for Fluctuations in Stock Prices and Valuation of their Options
+Hamiltonian and Potentials in Derivative Pricing Models: Exact Results and Lattice Simulations
+Premium Forecasting of an Insurance Company: Automobile Insurance
+Pseudo-diffusions and Quadratic term structure models
+Non-Life Insurance Pricing : Statistical Mechanics Viewpoint
+Partial Derivative Approach for Option Pricing in a Simple Stochastic Volatility Model
+Premium Calculation Based on Physical Principles
+Utility Function from Maximum Entropy Principle
+Long memory stochastic volatility in option pricing
+The American put and European options near expiry under Levy processes
+Practical guide to real options in discrete time
+Universal bad news principle and pricing of options on dividend-paying assets
+Option pricing with fractional volatility
+Pricing Exotic Options in a Path Integral Approach
+Stock Price Clustering and Discreteness: The Compass Rose and Predictability
+Modelling the term structure of interest rates ' a la Heath-Jarrow-Morton but with non Gaussian fluctuations
+Hints for an extension of the early exercise premium formula for American options
+An Adaptive Method for Valuing an Option on Assets with Uncertainty in Volatility
+A Merton-Like Approach to Pricing Debt based on a non-Gaussian Asset Model
+Financial Modeling and Option Theory with the Truncated Levy Process
+The Dynamics of the Forward Interest Rate Curve with Stochastic String Shocks
+Risk-return arguments applied to options with trading costs
+Revisiting the Black-Scholes equation
+Hedging The Risk In The Continuous Time Option Pricing Model With Stochastic Stock Volatility
+Option Pricing Model for Incomplete Market
+Pricing defaultable debt: some exact results
+Generalizing Merton's approach of pricing risky debt: some closed form results
+Quantum Field Theory of Treasury Bonds
+A general methodology to price and hedge derivatives in incomplete markets
+Gauge Physics of Finance: simple introduction
+Using path integrals to price interest rate derivatives
+Virtual Arbitrage Pricing Theory
+Derivative pricing with virtual arbitrage
+How to account for virtual arbitrage in the standard derivative pricing
+Towards a Bayesian framework for option pricing
+Pricing of options on stocks driven by multi-dimensional operator stable Levy processes
+Conditional Expectation as Quantile Derivative
+Analytical ramifications of derivatives valuation: Asian options and special functions
+Brownian excursions an Parisian barrier options: a note
+Pricing rule based on non-arbitrage arguments for random volatility and volatility smile
+A Monte Carlo method for exponential hedging of contingent claims
+Exact Solution of Discrete Hedging Equation for European Option
+A model of the term structure of interest rates based on L 'evy fields
+Indifference pricing and hedging in stochastic volatility models
+On the Hedging of American Options in Discrete Time Markets with Proportional Transaction Costs
+On nonexistence of non-constant volatility in the Black-Scholes formula
+On the super replication price of unbounded claims
+Generalized stochastic differential utility and preference for information
+The right time to sell a stock whose price is driven by Markovian noise
+Some remarks on first passage of Levy processes the American put and pasting principles
+Dynamic State Tameness
+A boundary point lemma for Black-Scholes type operators
+Convexity preserving jump-diffusion models for option pricing
+Martingale selection problem and asset pricing in finite discrete time
+State Dependent Utility
+Getting real with real options
+The Bismut-Elworthy-Li formula for jump-diffusions and applications to Monte Carlo pricing in finance
+A Delayed Black and Scholes Formula I
+A Delayed Black and Scholes Formula II
+CAPM rewards and empirical asset pricing with coherent risk
+Modelling Derivatives Pricing Mechanisms with Their Generating Functions
+Generalizations of Ho-Lee's binomial interest rate model I: from one- to multi-factor
+An Algorithmic Approach to Non-self-financing Hedging in a Discrete-Time Incomplete Market
+Error estimates for binomial approximations of game options
+The Exact Value for European Options on a Stock Paying a Discrete Dividend
+On utility-based super-replication prices of contingent claims with unbounded payoffs
+Exponential Martingales and Time integrals of Brownian Motion
+One-Factor Term Structure without Forward Rates
+Option Pricing without Price Dynamics: A Probabilistic Approach
+A Call-Put Duality for Perpetual American Options
+General Duality for Perpetual American Options
+Option pricing with log-stable L ' e vy processes
+Pricing Options in Incomplete Equity Markets via the Instantaneous Sharpe Ratio
+Pathwise inequalities for local time: Applications to Skorokhod embeddings and optimal stopping
+Fractional constant elasticity of variance model
+On the optimal dividend problem for a spectrally negative L ' e vy process
+Bid-Ask Dynamic Pricing in Financial Markets with Transaction Costs and Liquidity Risk
+Delta Hedging without the Black-Scholes Formula
+Equilibrium condition in Insurance Pricing: a particular case
+Pricing European Options in Realistic Markets
+A Common Market Measure for Libor and Pricing Caps Floors and Swaps in a Field Theory of Forward Interest Rates
+Hedging LIBOR Derivatives in a Field Theory Model of Interest Rates
+Linear vs. Nonlinear Diffusion and Martingale Option Pricing
+Market memory and fat tail consequences in option pricing on the expOU stochastic volatility model
+Asset Price Dynamics in a Financial Market with Heterogeneous Trading Strategies and Time Delays
+Volatility and dividend risk in perpetual American options
+A two-Factor Asset Pricing Model and the Fat Tail Distribution of Firm Sizes
+No Arbitrage Conditions For Simple Trading Strategies
+Measuring expectations in options markets: An application to the SP index
+Illiquidity and Derivative Valuation
+Robust pricing and hedging of double no-touch options
+Counterparty risk valuation for Energy-Commodities swaps: Impact of volatilities and correlation
+Efficient Pricing of CPPI using Markov Operators
+Efficient swaptions price in Hull-White one factor model
+Volatility forecasts and the at-the-money implied volatility: a multi-components ARCH approach and its relation with market models
+BSLP: Markovian Bivariate Spread-Loss Model for Portfolio Credit Derivatives
+Climbing Down from the Top: Single Name Dynamics in Credit Top Down Models
+On the Perpetual American Put Options for Level Dependent Volatility Models with Jumps
+A Fourier transform method for spread option pricing
+T-Systems and the lower Snell envelope
+Physics of Finance
+Black-Scholes equation from Gauge Theory of Arbitrage
+A transform approach to compute prices and greeks of barrier options driven by a class of Levy processes
+Quantized Interest Rate at the Money for American Options
+Quantum Neural Computation for Option Price Modelling
+Behavioural and Dynamical Scenarios for Contingent Claims Valuation in Incomplete Markets
+Exact Pricing Asymptotics of Investment-Grade Tranches of Synthetic CDO's Part I: A Large Homogeneous Pool
+Exact Pricing Asymptotics for Investment-Grade Tranches of Synthetic CDO's. Part II: A Large Heterogeneous Pool
+Escaping the Brownian stalkers
+Addressing the bias in Monte Carlo pricing of multi-asset options with multiple barriers through discrete sampling
+A Review of Volatility and Option Pricing
+Regime Switching Stochastic Volatility with Perturbation Based Option Pricing
+Credit risk modeling using time-changed Brownian motion
+Law of the exponential functional of one-sided L 'evy processes and Asian options
+Implied Correlation for Pricing multi-FX options
+Spectral methods for volatility derivatives
+Volatility derivatives in market models with jumps
+Perturbation Expansion for Option Pricing with Stochastic Volatility
+Smart expansion and fast calibration for jump diffusion
+Indifference price with general semimartingales
+Asymptotic Behavior of the Stock Price Distribution Density and Implied Volatility in Stochastic Volatility Models
+Asymptotic Formulas with Error Estimates for Call Pricing Functions and the Implied Volatility at Extreme Strikes
+Spiraling toward market completeness and financial instability
+Pricing European Options with a Log Student's t-Distribution: a Gosset Formula
+Perpetual American vanilla option pricing under single regime change risk. An exhaustive study
+Pricing and Hedging Asian Basket Options with Quasi-Monte Carlo Simulations
+Binomial Approximations for Barrier Options of Israeli Style
+Pricing Bermudan options using nonparametric regression: optimal rates of convergence for lower estimates
+Robust mean-variance hedging in the single period model
+Gauge Invariance Geometry and Arbitrage
+A policyholder's utility indifference valuation model for the guaranteed annuity option
+On the Stickiness Property
+Fractional term structure models: No-arbitrage and consistency
+Correlation breakdown copula credit default models and arbitrage
+Introduction into Local Correlation Modelling
+Stability analysis with applications of a two-dimensional dynamical system arising from a stochastic model of an asset market
+A Steady State Solution to a Mortgage Pricing Problem
+A Non-Gaussian Option Pricing Model with Skew
+Bessel processes the integral of geometric Brownian motion and Asian options
+State price density estimation via nonparametric mixtures
+BSDEs with random default time and their applications to default risk
+Implied Multi-Factor Model for Bespoke CDO Tranches and other Portfolio Credit Derivatives
+Hedging in an equilibrium-based model for a large investor
+Exact Simulation of Bessel Diffusions
+A Heat Kernel Approach to Interest Rate Models
+Optimal partial hedging in a discrete-time market as a knapsack problem
+Gauge theory of Finance?
+Stochastic relaxational dynamics applied to finance: towards non-equilibrium option pricing theory
+Growth Optimal Investment and Pricing of Derivatives
+On the semimartingale property of discounted asset-price processes
+The continuous behavior of the numeraire portfolio under small changes in information structure probabilistic views and investment constraints
+Probability distribution of returns in the exponential Ornstein-Uhlenbeck model
+Bilateral counterparty risk valuation with stochastic dynamical models and application to Credit Default Swaps
+A remark on Gatheral's 'most-likely path approximation' of implied volatility
+Discrete-Time Interest Rate Modelling
+Market Implied Probability Distributions and Bayesian Skew Estimation
+Empirical asset pricing with nonlinear risk premia
+Bonds with volatilities proportional to forward rates
+A Dynamic Model for Credit Index Derivatives
+Adaptive-Wave Alternative for the Black-Scholes Option Pricing Model
+Coupling Index and Stocks
+Quantum Field Theory of Forward Rates with Stochastic Volatility
+A Path Integral Way to Option Pricing
+Option Pricing Formulas based on a non-Gaussian Stock Price Model
+Hedging in Field Theory Models of the Term Structure
+A master equation approach to option pricing
+Pricing Derivatives by Path Integral and Neural Networks
+Non-Life Insurance Pricing: Multi Agents Model
+Arbitrage Opportunities and their Implications to Derivative Hedging
+Markov Processes Hurst Exponents and Nonlinear Diffusion Equations with application to finance
+Fokker-Planck and Chapman-Kolmogorov equations for Ito processes with finite memory
+Black-Scholes option pricing within Ito and Stratonovich conventions
+High-resolution path-integral development of financial options
+Delta Hedged Option Valuation with Underlying Non-Gaussian Returns
+Martingale Option Pricing
+Non-Parametric Extraction of Implied Asset Price Distributions
+Stochastic model for market stocks with strong resistance
+Self-Consistent Asset Pricing Models
+Infectious Default Model with Recovery and Continuous Limit
+Liquidity Risk Price Impacts and the Replication Problem
+Pricing and hedging barrier options in a hyper-exponential additive model
+Strict Local Martingale Deflators and Pricing American Call-Type Options
+Finitely additive probabilities and the Fundamental Theorem of Asset Pricing
+Asymptotic behavior of prices of path dependent options
+Variance Optimal Hedging for continuous time processes with independent increments and applications
+Early exercise boundary for American type of floating strike Asian option and its numerical approximation
+Credit Default Swap Calibration and Equity Swap Valuation under Counterparty Risk with a Tractable Structural Model
+Credit Default Swap Calibration and Counterparty Risk Valuation with a Scenario based First Passage Model
+Credit Calibration with Structural Models: The Lehman case and Equity Swaps under Counterparty Risk
+Defining Estimating and Using Credit Term Structures. Part 1: Consistent Valuation Measures
+Defining Estimating and Using Credit Term Structures. Part : Consistent Risk Measures
+Defining Estimating and Using Credit Term Structures. Part : Consistent CDS-Bond Basis
+A Guide to Modeling Credit Term Structures
+Probabilities of Positive Returns and Values of Call Options
+GARCH options via local risk minimization
+Adaptive Wave Models for Option Pricing Evolution: Nonlinear and Quantum Schr odinger Approaches
+Recovery Swaps
+The Underlying Dynamics of Credit Correlations
+Stochastic discount factors
+Diverse Beliefs
+A Subjective and Probabilistic Approach to Derivatives
+A comprehensive method for exotic option pricing
+Jump-diffusion modeling in emission markets
+New Financial Research Program: General Option-Price Wave Modeling
+The impact of uncertainties on the pricing of contingent claims
+Pricing options with VG model using FFT
+Semi-static hedging for certain Margrabe type options with barriers
+On the valuation of compositions in L 'evy term structure models
+An extension of Davis and Lo's contagion model
+One-Dimensional Pricing of CPPI
+Study of the risk-adjusted pricing methodology model with methods of Geometrical Analysis
+Bilateral counterparty risk valuation for interest-rate products: impact of volatilities and correlations
+Credit models and the crisis or: how I learned to stop worrying and love the CDOs
+Extra-Dimensional Approach to Option Pricing and Stochastic Volatility
+Using pseudo-parabolic and fractional equations for option pricing in jump diffusion models
+Optimal consumption and investment with bounded downside risk for power utility functions
+Information Asymmetry in Pricing of Credit Derivatives
+Convergence of Heston to SVI
+On the Dybvig-Ingersoll-Ross Theorem
+A model-insensitive determination of First-hitting-time densities with Application to Equity default-swaps
+Adiabaticity Conditions for Volatility Smile in Black-Scholes Pricing Model
+Overview of utility-based valuation
+Nonlinear option pricing models for illiquid markets: scaling properties and explicit solutions
+Pricing and hedging of derivatives based on non-tradable underlyings
+Closed form asymptotics for local volatility models
+Pricing Fixed-Income Securities in an Information-Based Framework
+Levy Random Bridges and the Modelling of Financial Information
+Pricing options in illiquid markets: optimal systems symmetry reductions and exact solutions
+The Validity of Company Valuation Using Discounted Cash Flow Methods
+Continuous time Ehrenfest process in term structure modelling
+Variance dispersion and correlation swaps
+Shortfall Risk Approximations for American Options in the multidimensional Black--Scholes Model
+Error Estimates for Multinomial Approximations of American Options in Merton's Model
+Limit Theorems for Partial Hedging Under Transaction Costs
+Consistent Valuation of Bespoke CDO Tranches
+Valuation Bound of Tranche Options
+A Top-down Model for Cash CLO
+Fractional processes as models in stochastic finance
+A Dynamic Correlation Modelling Framework with Consistent Stochastic Recovery
+Mean-Variance Hedging for Pricing European Options Under Assumption of Non-continuous Trading
+Explicit solutions for a nonlinear model of financial derivatives
+Vanna-Volga methods applied to FX derivatives : from theory to market practice
+Information of Interest
+Asymptotic formulae for implied volatility in the Heston model
+From the decompositions of a stopping time to risk premium decompositions
+Delta Hedging in Financial Engineering: Towards a Model-Free Approach
+On the fractional Black-Scholes market with transaction costs
+An Econophysics Model for the Currency Exchange with Commission
+Variational inequality method in stock loans
+Market Price of Risk and Random Field Driven Models of Term Structure: A Space-Time Change of Measure Look
+Arbitrage and deflators in illiquid markets
+Security Pricing with Information-Sensitive Discounting
+The Impact of Credit Risk and Implied Volatility on Stock Returns
+Functionals of Exponential Brownian Motion and Divided Differences
+Bounds on Stock Price probability distributions in Local-Stochastic Volatility models
+Interest-Rate Modeling with Multiple Yield Curves
+Analysis of Fourier transform valuation formulas and applications
+Market viability via absence of arbitrage of the first kind
+Old and new approaches to LIBOR modeling
+Regularity of the Exercise Boundary for American Put Options on Assets with Discrete Dividends
+Student's t-Distribution Based Option Sensitivities: Greeks for the Gosset Formulae
+The fractional volatility model: No-arbitrage leverage and risk measures
+Pricing in an equilibrium based model for a large investor
+Asymptotic equivalence in Lee's moment formulas for the implied volatility and Piterbarg's conjecture
+Moment Explosion in the LIBOR Market Model
+Non-existence of Markovian time dynamics for graphical models of correlated default
+Sibuya copulas
+Models of self-financing hedging strategies in illiquid markets: symmetry reductions and exact solutions
+Upper and lower bounds on dynamic risk indifference prices in incomplete markets
+Stock loan with Automatic termination clause cap and margin
+Normalization for Implied Volatility
+On a free boundary problem for an American put option under the CEV process
+Completing CVA and Liquidity: Firm-Level Positions and Collateralized Trades
+Perpetual Cancellable American Call Option
+Asset pricing with random information flow
+Analytical and Numerical Approaches to Pricing the Path-Dependent Options with Stochastic Volatility
+American Options Pricing under Stochastic Volatility: Approximation of the Early Exercise Surface and Monte Carlo Simulations
+Asymptotic Implied Volatility at the Second Order with Application to the SABR Model
+Exotic derivatives under stochastic volatility models with jumps
+Information-based models for finance and insurance
+On Calibrating Stochastic Volatility Models with time-dependent Parameters
+FX Smile in the Heston Model
+An Efficient Distributable Risk Neutral Framework for CVA Calculation
+Stock loans in incomplete markets
+Do your volatility smiles take care of extreme events?
+A la Carte of Correlation Models: Which One to Choose?
+Option pricing under Ornstein-Uhlenbeck stochastic volatility: a linear model
+Credit risk premia and quadratic BSDEs with a single jump
+On refined volatility smile expansion in the Heston model
+Asymptotic and Exact Pricing of Options on Variance
+Morse Potential Contour Integrals and Asian Options
+Heath-Jarrow-Morton-Musiela equation with linear volatility
+Hedging Pure Endowments with Mortality Derivatives
+Parsimonious HJM Modelling for Multiple Yield-Curve Dynamics
+Generalized pricing formulas for stochastic volatility jump diffusion models applied to the exponential Vasicek model
+Dangers of Bilateral Counterparty Risk: the fundamental impact of closeout conventions
+A finite dimensional approximation for pricing moving average options
+Calibration of One- and Two-Factor Models For Valuation of Energy Multi-Asset Derivative Contracts
+Static replications with traffic light options
+On fair pricing of emission-related derivatives
+Continuously monitored barrier options under Markov processes
+Cumulant Expansion and Monthly Sum Derivative
+The Impossible Trio in CDO Modeling
+Pricing of barrier options by marginal functional quantization
+Financial markets with volatility uncertainty
+Heat Kernel Interest Rate Models with Time-Inhomogeneous Markov Processes
+Optimal Stopping for Non-linear Expectations
+Is the minimum value of an option on variance generated by local volatility?
+Applications of time-delayed backward stochastic differential equations to pricing hedging and portfolio management
+Phase transition in a log-normal Markov functional model
+Market-consistent valuation of insurance liabilities by cost of capital
+A Mispricing Model of Stocks Under Asymmetric Information
+Sensitivity analysis of the early exercise boundary for American style of Asian options
+GPGPUs in computational finance: Massive parallel computing for American style options
+Path integral approach to the pricing of timer options with the Duru-Kleinert time transformation
+Collateral Margining in Arbitrage-Free Counterparty Valuation Adjustment including Re-Hypotecation and Netting
+Maximum Entropy Distributions Inferred from Option Portfolios on an Asset
+A Family of Maximum Entropy Densities Matching Call Option Prices
+Statistical Inference for Time-changed Brownian Motion Credit Risk Models
+Weighted Monte Carlo: Calibrating the Smile and Preserving Martingale Condition
+Utility Indifference Pricing: A Time Consistent Approach
+Optimal Redeeming Strategy of Stock Loans
+Comparison of numerical and analytical approximations of the early exercise boundary of the American put option
+Improved Frechet bounds and model-free pricing of multi-asset options
+Quadratic Reflected BSDEs with Unbounded Obstacles
+Price as a matter of choice and nonstochastic randomness
+A unified approach to determining the early exercise boundary position at expiry for American style of general class of derivatives
+Extension theorems for linear operators on L infty and application to price systems
+Arbitrage hedging strategy and one more explanation of the volatility smile
+Arbitrage and Hedging in a non probabilistic framework
+A Note on Delta Hedging in Markets with Jumps
+Spin models as microfoundation of macroscopic financial market models
+Housing risk and return: Evidence from a housing asset-pricing model
+A Comparative Anatomy of REITs and Residential Real Estate Indexes: Returns Risks and Distributional Characteristics
+Topological structures in the equities market network
+Exchangeability type properties of asset prices
+On a numerical approximation scheme for construction of the early exercise boundary for a class of nonlinear Black-Scholes equations
+Stochastic evolution equations in portfolio credit modelling with applications to exotic credit products
+Collateralized CDS and Default Dependence
+American Options Based on Malliavin Calculus and Nonparametric Variance Reduction Methods
+Approximation of the distribution of a stationary Markov process with application to option pricing
+Hedging of Defaultable Contingent Claims using BSDE with uncertain time horizon
+Analyticity of the Wiener-Hopf factors and valuation of exotic options in L 'evy models
+Two stock options at the races: Black-Scholes forecasts
+The Hartman-Watson Distribution revisited: Asymptotics for Pricing Asian Options
+Model independent hedging strategies for variance swaps
+Exercise Boundary of the American Put Near Maturity in an Exponential L 'evy Model
+Stochastic programs without duality gaps
+Don't stay local - extrapolation analytics for Dupire's local volatility
+Adjusted Closing Prices
+Asymptotic Expansion for the Normal Implied Volatility in Local Volatility Models
+Fourier Transform Methods for Regime-Switching Jump-Diffusions and the Pricing of Forward Starting Options
+Erratum for: Smile dynamics -- a theory of the implied leverage effect
+Small-Time Asymptotics of Option Prices and First Absolute Moments
+Marking Systemic Portfolio Risk with Application to the Correlation Skew of Equity Baskets
+Power Series Representations for European Option Prices under Stochastic Volatility Models
+Volatility of Power Grids under Real-Time Pricing
+Calibration of Chaotic Models for Interest Rates
+Impact of the first to default time on Bilateral CVA
+The path integral representation kernel of evolution operator in Merton-Garman model
+Optimal hedging of Derivatives with transaction costs
+Picard approximation of stochastic differential equations and application to LIBOR models
+BSDEs with time-delayed generators of a moving average type with applications to non-monotone preferences
+A certain estimate of volatility through return for stochastic volatility models
+Pricing and Hedging in Affine Models with Possibility of Default
+Stock Price Processes with Infinite Source Poisson Agents
+Implied Volatility Surface: Construction Methodologies and Characteristics
+On the Representation of General Interest Rate Models as Square Integrable Wiener Functionals
+A note on essential smoothness in the Heston model
+On the Stability the Least Squares Monte Carlo
+Theory of Information Pricing
+Convex risk measures for good deal bounds
+Large deviations and stochastic volatility with jumps: asymptotic implied volatility for affine models
+Probability-free pricing of adjusted American lookbacks
+Pricing Variable Annuity Contracts with High-Water Mark Feature
+Path integral approach to Asian options in the Black-Scholes model
+Endogenous Bubbles in Derivatives Markets: The Risk Neutral Valuation Paradox
+Existence uniqueness and global regularity for degenerate elliptic obstacle problems in mathematical finance
+Time-Consistent Actuarial Valuations
+Numerical integration of Heath-Jarrow-Morton model of interest rates
+Arbitrage Opportunities in Misspecified Stochastic volatility Models
+Optimal Timing to Purchase Options
+A Numerical Study of Radial Basis Function Based Methods for Options Pricing under the One Dimension Jump-diffusion Model
+Controlled options: derivatives with added flexibility
+Error estimates for finite difference approximations of American put option price
+The Small and Large Time Implied Volatilities in the Minimal Market Model
+Bridge Copula Model for Option Pricing
+Two-factor capital structure models for equity and credit
+Hedging of time discrete auto-regressive stochastic volatility options
+A stochastic volatility model with jumps
+Conditional Density Models for Asset Pricing
+Critical Analysis of the Binomial-Tree approach to Convertible Bonds in the framework of Tsiveriotis-Fernandes model
+A simplified Capital Asset Pricing Model
+Black-Scholes model under subordination
+Financial rogue waves
+Valuation equations for stochastic volatility models
+Financial Rogue Waves Appearing in the Coupled Nonlinear Volatility and Option Pricing Model
+Derivative Pricing under Asymmetric and Imperfect Collateralization and CVA
+Optimal consumption and investment for markets with random coefficients
+The small-maturity smile for exponential Levy models
+Default and Systemic Risk in Equilibrium
+Funding Valuation Adjustment: a consistent framework including CVA DVA collateral netting rules and re-hypothecation
+Asymptotic Expansions of the Lognormal Implied Volatility : A Model Free Approach
+Clean Valuation Framework for the USD Silo
+A Note on the Equivalence between the Normal and the Lognormal Implied Volatility : A Model Free Approach
+Dual representations for general multiple stopping problems
+Credit derivatives pricing with default density term structure modelled by L 'evy random fields
+Pricing a Contingent Claim Liability with Transaction Costs Using Asymptotic Analysis for Optimal Investment
+An application of the method of moments to volatility estimation using daily high low opening and closing prices
+Fundamental theorems of asset pricing for piecewise semimartingales of stochastic dimension
+A Simplified Approach to modeling the credit-risk of CMO
+Forward equations for option prices in semimartingale models
+Option Pricing in Multivariate Stochastic Volatility Models of OU Type
+Modelling Information Flows in Financial Markets
+Credit Risk Market Sentiment and Randomly-Timed Default
+Conservative delta hedging under transaction costs
+Analytical Approximation for Non-linear FBSDEs with Perturbation Scheme
+Indifference Pricing of American Option Underlying Illiquid Stock under Exponential Forward Performance
+A CDS Option Miscellany
+Futures pricing in electricity markets based on stable CARMA spot models
+Heat kernel methods in finance: the SABR model
+Parameter Estimation using Empirical Likelihood combined with Market Information
+Perturbed Copula: Introducing the skew effect in the co-dependence
+Small-time expansions of the distributions densities and option prices of stochastic volatility models with L 'evy jumps
+Pricing and Semimartingale Representations of Vulnerable Contingent Claims in Regime-Switching Markets
+Optimal dual martingales their analysis and application to new algorithms for Bermudan products
+Short-time asymptotics for marginal distributions of semimartingales
+Minimax Option Pricing Meets Black-Scholes in the Limit
+A parsimonious model for intraday European option pricing
+A Black--Scholes Model with Long Memory
+Regularity of the Optimal Stopping Problem for Jump Diffusions
+Differentiability of quadratic BSDEs generated by continuous martingales
+A note on super-hedging for investor-producers
+Implied volatility formula of European Power Option Pricing
+Asymptotics of robust utility maximization
+Consistent Long-Term Yield Curve Prediction
+A flexible matrix Libor model with smiles
+Large deviations for the extended Heston model: the large-time case
+Pricing electricity derivatives within a Markov regime-switching model
+Asset Pricing under uncertainty
+On the valuation of arithmetic-average Asian options: Laguerre series and Theta integrals
+On the valuation of arithmetic-average Asian options: the Geman-Yor Laplace transform revisited
+Approximations and asymptotics of upper hedging prices in multinomial models
+Interest Rates After The Credit Crunch: Multiple-Curve Vanilla Derivatives and SABR
+Power Utility Maximization in Discrete-Time and Continuous-Time Exponential Levy Models
+Pricing Derivatives on Multiscale Diffusions: an Eigenfunction Expansion Approach
+We've walked a million miles for one of these smiles
+The Mathematics of the Relationship between the Default Risk and Yield-to-Maturity of Coupon Bonds
+Pricing Variable Annuity Guarantees in a Local Volatility framework
+Local Volatility Pricing Models for Long-dated FX Derivatives
+On break-even correlation: the way to price structured credit derivatives by replication
+Perturbative Expansion Technique for Non-linear FBSDEs with Interacting Particle Method
+The Variance of Standard Option Returns
+Time-Changed Ornstein-Uhlenbeck Processes And Their Applications In Commodity Derivative Models
+On Pricing Basket Credit Default Swaps
+Yield to maturity modelling and a Monte Carlo Technique for pricing Derivatives on Constant Maturity Treasury (CMT) and Derivatives on forward Bonds
+Libor model with expiry-wise stochastic volatility and displacement
+Using Premia and Nsp for Constructing a Risk Management Benchmark for Testing Parallel Architecture
+Spectral Decomposition of Option Prices in Fast Mean-Reverting Stochastic Volatility Models
+A Fast Mean-Reverting Correction to Heston's Stochastic Volatility Model
+Long-term and blow-up behaviors of exponential moments in multi-dimensional affine diffusions
+Time-Changed Fast Mean-Reverting Stochastic Volatility Models
+Storage option an Analytic approach
+Risk-Neutral Pricing of Financial Instruments in Emission Markets: A Structural Approach
+Consistent single- and multi-step sampling of multivariate arrival times: A characterization of self-chaining copulas
+On absolutely continuous compensators and nonlinear filtering equations in default risk models
+Central Counterparty Risk
+Electricity price modeling and asset valuation: a multi-fuel structural approach
+The Valuation of Clean Spread Options: Linking Electricity Emissions and Fuels
+Pricing options on illiquid assets with liquid proxies using utility indifference and dynamic-static hedging
+Valuation and hedging of the ruin-contingent life annuity (RCLA)
+Variance Optimal Hedging for discrete time processes with independent increments. Application to Electricity Markets
+Two Models of Stochastic Loss Given Default
+Modeling and Pricing of Covariance and Correlation Swaps for Financial Markets with Semi-Markov Volatilities
+Collateralized CVA Valuation with Rating Triggers and Credit Migrations
+Modeling interest rate dynamics: an infinite-dimensional approach
+Counterparty Risk FAQ: Credit VaR PFE CVA DVA Closeout Netting Collateral Re-hypothecation WWR Basel Funding CCDS and Margin Lending
+The Wronskian parameterizes the class of diffusions with a given distribution at a random time
+Binomial Tree Model for Convertible Bond Pricing within Equity to Credit Risk Framework
+Preliminary remarks on option pricing and dynamic hedging
+Pricing joint claims on an asset and its realized variance under stochastic volatility models
+A structural approach to pricing credit default swaps with credit and debt value adjustments
+A No-Arbitrage Model of Liquidity in Financial Markets involving Brownian Sheets
+A shorter proof of Lemma A. (arXiv:1.)
+Evaluating Callable and Putable Bonds: An Eigenfunction Expansion Approach
+Asymptotics for Exponential Levy Processes and their Volatility Smile: Survey and New Results
+Chi-square simulation of the CIR process and the Heston model
+Sequential Monte Carlo pricing of American-style options under stochastic volatility models
+Efficient and accurate log-L 'evy approximations to L 'evy driven LIBOR models
+New solvable stochastic volatility models for pricing volatility derivatives
+A CB (corporate bond) pricing probabilities and recovery rates model for deriving default probabilities and recovery rates
+A new look at short-term implied volatility in asset price models with jumps
+Illustrating a problem in the self-financing condition in two 1-11 papers on funding collateral and discounting
+Digital double barrier options: Several barrier periods and structure floors
+Pricing credit default swaps with bilateral value adjustments
+A note on asymptotic exponential arbitrage with exponentially decaying failure probability
+Two Curves One Price: Pricing Hedging Interest Rate Derivatives Decoupling Forwarding and Discounting Yield Curves
+Small-time asymptotics for fast mean-reverting stochastic volatility models
+Consistent Modeling of VIX and Equity Derivatives Using a   plus Jumps Model
+A Numerical Scheme Based on Semi-Static Hedging Strategy
+Option prices with call prices
+Large liquidity expansion of super-hedging costs
+Small time central limit theorems for semimartingales with applications
+Wrong-way risk in credit and funding valuation adjustments
+Portfolio optimization with insider's initial information and counterparty risk
+On Az 'ema-Yor processes their optimal properties and the Bachelier-drawdown equation
+Arbitrage Bounds for Prices of Weighted Variance Swaps
+Approximating Functional of Local Martingale Under the Lack of Uniqueness of Black-Scholes PDE
+General Theory of Geometric L 'evy Models for Dynamic Asset Pricing
+Perturbative Expansion of FBSDE in an Incomplete Market with Stochastic Volatility
+Pricing Illiquid Options with N 1 Liquid Proxies Using Mixed Dynamic-Static Hedging
+Stock Price Dynamics and Option Valuations under Volatility Feedback Effect
+Optimization problem and mean variance hedging on defaultable claims
+Hedging under arbitrage
+Applying hedging strategies to estimate model risk and provision calculation
+Convex order of discrete continuous and predictable quadratic variation applications to options on variance
+Option calibration of exponential L 'evy models: Confidence intervals and empirical results
+A Stochastic Delay Model For Pricing Debt And Loan Guarantees: Theoretical Results
+A New Trinomial Recombination Tree Algorithm and Its Applications
+A Semi-Markov Modulated Interest Rate Model
+Counterparty Risk and Funding: The Four Wings of the TVA
+Ethics and Finance: the role of mathematics
+Simple arbitrage
+Singular Forward-Backward Stochastic Differential Equations and Emissions Derivatives
+Recovering a time-homogeneous stock price process from perpetual option prices
+Semi-Static Hedging Based on a Generalized Reflection Principle on a Multi Dimensional Brownian Motion
+The Exact Smile of some Local Volatility Models
+The eeman Effect in Finance: Libor Spectroscopy and Basis Risk Management
+Large Financial Markets and Asymptotic Arbitrage with Small Transaction Costs
+Funded Bilateral Valuation Adjustment
+European Option Pricing with Transaction Costs and Stochastic Volatility: an Asymptotic Analysis
+Can there be an explicit formula for implied volatility?
+Optimal hedging in discrete time
+Application of simplest random walk algorithms for pricing barrier options
+An FBSDE Approach to American Option Pricing with an Interacting Particle Method
+The Pricing Mechanism of Contingent Claims and its Generating Function
+Power Utility Maximization in Constrained Exponential L 'evy Models
+Rational term structure models with geometric Levy martingales
+American Step-Up and Step-Down Default Swaps under Levy Models
+Option Pricing from Wavelet-Filtered Financial Series
+Default Swap Games Driven by Spectrally Negative Levy Processes
+Utility based pricing and hedging of jump diffusion processes with a view to applications
+Option Pricing and Hedging with Small Transaction Costs
+Funding Collateral and Hedging: uncovering the mechanics and the subtleties of funding valuation adjustments
+A Note on A Family of Maximum Entropy Densities Matching Call Option Prices
+Information-Based Asset Pricing
+Dam Rain and Cumulative Gain
+Risk Premia and Optimal Liquidation of Credit Derivatives
+Negative Call Prices
+Bilateral Credit Valuation Adjustment of an Optional Early Termination Clause
+Homogeneously Saturated Model for Development in Time of the Price of an Asset
+Ambiguous volatility and asset pricing in continuous time
+A simple time-consistent model for the forward density process
+Model-independent no-arbitrage conditions on American put options
+Pricing Using a Homogeneously Saturated Equation
+Option pricing with market impact and non-linear Black and Scholes pde's
+Markets Evolution After the Credit Crunch
+Perfect and partial hedging for swing game options in discrete time
+No-arbitrage of second kind in countable markets with proportional transaction costs
+Model-independent Bounds for Option Prices: A Mass Transport Approach
+Degenerate elliptic operators in mathematical finance and Holder continuity for solutions to variational equations and inequalities
+Dynkin Games and Israeli Options
+Robust no-free lunch with vanishing risk a continuum of assets and proportional transaction costs
+CVA and FVA to Derivatives Trades Collateralized by Cash
+On return rate implied by behavioural present value
+Inflation-rate Derivatives: From Market Model to Foreign Currency Analogy
+Efficient Markets Behavioral Finance and a Statistical Evidence of the Validity of Technical Analysis
+On the Robust superhedging of measurable claims
+Variance optimal hedging for continuous time additive processes and applications
+Technical report : Risk-neutral density recovery via spectral analysis
+Pricing Step Options under the CEV and other Solvable Diffusion Models
+A Class of Solvable Optimal Stopping Problems of Spectrally Negative Jump Diffusions
+How to make Dupire's local volatility work with jumps
+Optimal dividends problem with a terminal value for spectrally positive Levy processes
+An Optimal Pairs-Trading Rule
+Swing options in commodity markets: A multidimensional L 'evy diffusion model
+CoCo Bonds Valuation with Equity- and Credit-Calibrated First Passage Structural Models
+Root's barrier: Construction optimality and applications to variance options
+Forward Exponential Performances: Pricing and Optimal Risk Sharing
+Why are quadratic normal volatility models analytically tractable?
+Arbitrage-free SVI volatility surfaces
+USLV: Unspanned Stochastic Local Volatility Model
+An analytic multi-currency model with stochastic volatility and stochastic interest rates
+Utility maximisation and utility indifference price for exponential semi-martingale models with random factor
+US Corporate Bond Yield Spread : A default risk debate
+Instantaneous mean-variance hedging and instantaneous Sharpe ratio pricing in a regime-switching financial model with applications to equity-linked claims
+A note on pricing of contingent claims under G-expectation
+A Solution to Kolmogorov-Feller Equation and Pricing of Options
+Volatility Swap Under the SABR Model
+Optimal quantization for the pricing of swing options
+Dual Quantization for random walks with application to credit derivatives
+Discrete tenor models for credit risky portfolios driven by time-inhomogeneous L 'evy processes
+The Smile of certain L 'evy-type Models
+Superreplication under Volatility Uncertainty for Measurable Claims
+Two unconditionally implied parameters and volatility smiles and skews
+Interest-Rate Modelling in Collateralized Markets: Multiple curves credit-liquidity effects CCPs
+Robust price bounds for the forward starting straddle
+Hedging of Game Options under Model Uncertainty in Discrete Time
+A variation of the Canadisation algorithm for the pricing of American options driven by L 'evy processes
+On the pricing and hedging of options for highly volatile periods
+On option pricing in illiquid markets with jumps
+Option pricing Bayes risks and Applications
+Hedging in bond markets by the Clark-Ocone formula
+Linear stochastic volatility models
+Marginal density expansions for diffusions and stochastic volatility part I: Theoretical Foundations
+Robust Hedging of Withdrawal Guarantees (Extended Version)
+From Minority Game to Black Scholes pricing
+On statistical indistinguishability of the complete and incomplete markets
+Barrier Options under L 'evy Processes: a Simple Short-Cut
+A note on replicating a CDS through a repo and an asset swap
+A Galerkin approximation scheme for the mean correction in a mean-reversion stochastic differential equation
+Markov switching quadratic term structure models
+A First-Order BSPDE for Swing Option Pricing
+Pricing bonds with optional sinking feature using Markov Decision Processes
+Bilateral Credit Valuation Adjustment for Large Credit Derivatives Portfolios
+Hedging without sweat: a genetic programming approach
+Marginal density expansions for diffusions and stochastic volatility part II: Applications to the Stein--Stein model
+On the Existence of Consistent Price Systems
+Smiles all around: FX joint calibration in a multi-Heston model
+American option of stochastic volatility model with negative Fichera function on degenerate boundary
+Volatility in options formulae for general stochastic dynamics
+An alternative proof of a result of Takaoka
+On the probability density function of baskets
+Fractional G-White Noise Theory Wavelet Decomposition for Fractional G-Brownian Motion and Bid-Ask Pricing Application to Finance Under Uncertainty
+Valuation and hedging of OTC contracts with funding costs collateralization and counterparty credit risk: Part 1
+Non-Equivalent Beliefs and Subjective Equilibrium Bubbles
+Dynamic Term Structure Modelling with Default and Mortality Risk: New Results on Existence and Monotonicity
+Explosive behavior in a log-normal interest rate model
+A tractable LIBOR model with default risk
+Exponential L 'evy-type models with stochastic volatility and stochastic jump-intensity
+Variance Swaps on Defaultable Assets and Market Implied Time-Changes
+Stochastic PDEs and Quantitative Finance: The Black-Scholes-Merton Model of Options Pricing and Riskless Trading
+Pricing Corporate Defaultable Bond using Declared Firm Value
+Time-independent pricing of options in range bound markets
+Risk-minimization and hedging claims on a jump-diffusion market model Feynman-Kac Theorem and PIDE
+Optimal exercise of swing contracts in energy markets: an integral constrained stochastic optimal control problem
+Importance sampling for jump processes and applications to finance
+On model-independent pricing hedging using shortfall risk and quantiles
+Utility indifference valuation for non-smooth payoffs with an application to power derivatives
+Relativistic Black-Scholes model
+On the Pricing of Storable Commodities
+When terminal facelift enforces Delta constraints
+Modelling energy spot prices by volatility modulated L ' e vy-driven Volterra processes
+CVA for Bilateral Counterparty Risk under Alternative Settlement Conventions
+Quantum Tunneling of Stock Price in Range Bound Market Conditions
+An identity of hitting times and its application to the valuation of guaranteed minimum withdrawal benefit
+The explicit Laplace transform for the Wishart process
+A Schauder approach to degenerate-parabolic partial differential equations with unbounded coefficients
+On the martingale problem for degenerate-parabolic partial differential operators with unbounded coefficients and a mimicking theorem for Ito processes
+The Pricing of Multiple-Expiry Exotics
+The Small-Maturity Heston Forward Smile
+On a Heath-Jarrow-Morton approach for stock options
+A general Multidimensional Monte Carlo Approach for Dynamic Hedging under stochastic volatility
+Mean Field Games and Systemic Risk
+American options with gradual exercise under proportional transaction costs
+A pricing measure to explain the risk premium in power markets
+Optimal robust bounds for variance options
+The Impact of the Prior Density on a Minimum Relative Entropy Density: A Case Study with SPX Option Data
+Heat Kernel Framework for Asset Pricing in Finite Time
+G-consistent price system and bid-ask pricing for European contingent claims under Knightian uncertainty
+Exact Simulation of Wishart Multidimensional Stochastic Volatility Model
+Fundamental Theorem of Asset Pricing under Transaction costs and Model uncertainty
+L 'evy-FBSDE approach to option pricing
+On lower and upper bounds for Asian-type options: a unified approach
+Multi-Asset Option Pricing with Exponential L 'evy Processes and the Mellin Transform
+Hedging under multiple risk constraints
+Call option on the maximum of the interest rate in the one factor affine model
+Pricing financial derivatives by a minimizing method
+A method for pricing American options using semi-infinite linear programming
+Symmetries of the Black-Scholes equation
+Time Consistent Bid-Ask Dynamic Pricing Mechanisms for Contingent Claims and Its Numerical Simulations Under Uncertainty
+Maximum principles for boundary-degenerate second-order linear elliptic differential operators
+Optimal multiple stopping with random waiting times
+Malliavin calculus method for asymptotic expansion of dual control problems
+Generalised arbitrage-free SVI volatility surfaces
+Lower Bound Approximation to Basket Option Values for Local Volatility Jump-Diffusion Models
+Higher Order Binaries with Time Dependent Coefficients and Two Factors - Model for Defaultable Bond with Discrete Default Information
+Integrals of Higher Binary Options and Defaultable Bond with Discrete Default Information
+Prices and Asymptotics for Discrete Variance Swaps
+Comprehensive Unified Models of Structural and Reduced Form Models for Defaultable Fixed Income Bonds (Part 1: One factor-model Part :Two factors-model)
+Pricing and Hedging Derivative Securities with Unknown Local Volatilities
+General Properties of Solutions to Inhomogeneous Black-Scholes Equations with Discontinuous Maturity Payoffs and Application
+When to sell a Markov chain asset?
+Probabilistic aspects of finance
+When roll-overs do not qualify as num 'eraire: bond markets beyond short rate paradigms
+Convergence of the discrete variance swap in time-homogeneous di?usion models
+Arbitrage-Free Pricing Before and Beyond Probabilities
+Superreplication when trading at market indifference prices
+Stochastic Modeling and Fair Valuation of Drawdown Insurance
+On pricing kernels information and risk
+Valuing FtD Contract under Copula Approach via Monte-Carlo Stimulation
+Portfolio optimization in a default model under full partial information
+Path Integral and Asian Options
+On the Hedging of Options On Exploding Exchange Rates
+Schauder a priori estimates and regularity of solutions to boundary-degenerate elliptic linear second-order partial differential equations
+On controller-stopper problems with jumps and their applications to indifference pricing of American options
+The Pricing of A Moving Barrier Option
+Analytical Pricing of Defaultable Bond with Stochastic Default Intensity
+Social Discounting and the Long Rate of Interest
+Efficient valuation method for the SABR model
+Variance matters (in stochastic dividend discount models)
+Affine HJM Framework on S d and Long-Term Yield
+Varadhan's formula conditioned diffusions and local volatilities
+An Excursion-Theoretic Approach to Regulator's Bank Reorganization Problem
+Option Pricing with Lie Symmetry Analysis and Similarity Reduction Method
+Multiscale Stochastic Volatility Model for Derivatives on Futures
+A numerical algorithm for fully nonlinear HJB equations: an approach by control randomization
+Recursive formula for arithmetic Asian option prices
+High moment variations and their application
+Remark on repo and options
+Left-wing asymptotics of the implied volatility in the presence of atoms
+A note on arbitrage approximate arbitrage and the fundamental theorem of asset pricing
+The affine LIBOR models
+Pricing for Large Positions in Contingent Claims
+Numerical methods for the quadratic hedging problem in Markov models with jumps
+Quadratic hedging schemes for non-Gaussian GARCH models
+Valuation Perspectives and Decompositions for Variable Annuities with GMWB riders
+A Systematic Approach to Constructing Market Models With Arbitrage
+CCPs Central Clearing CSA Credit Collateral and Funding Costs Valuation FAQ: Re-hypothecation CVA Closeout Netting WWR Gap-Risk Initial and Variation Margins Multiple Discount Curves FVA?
+Arbitrages in a Progressive Enlargement Setting
+On static hedging real options and valuation of cash flows with skewed distributions
+Pricing and Hedging Basket Options with Exact Moment Matching
+Market models with optimal arbitrage
+Extrapolating the term structure of interest rates with parameter uncertainty
+Sensitivity analysis in a market with memory
+Information and optimal investment in defaultable assets
+A family of density expansions for L 'evy-type processes
+The fundamental theorem of asset pricing the hedging problem and maximal claims in financial markets with short sales prohibitions
+The formation of share market prices under heterogeneous beliefs and common knowledge
+Second-order BSDEs with general reflection and game options under uncertainty
+An Iterated Az ' e ma-Yor Type Embedding for Finitely Many Marginals
+Prospect Agents and the Feedback Effect on Price Fluctuations
+G-Doob-Meyer Decomposition and its Application in Bid-Ask Pricing for American Contingent Claim Under Knightian Uncertainty
+Informational Efficiency under Short Sale Constraints
+Refined wing asymptotics for the Merton and Kou jump diffusion models
+A stochastic control approach to no-arbitrage bounds given marginals with an application to lookback options
+CCP Cleared or Bilateral CSA Trades with Initial Variation Margins under credit funding and wrong-way risks: A Unified Valuation Approach
+On multicurve models for the term structure
+Multidimensional Breeden-Litzenberger representation for state price densities and static hedging
+Option Pricing of Twin Assets
+Good-deal bounds in a regime-switching diffusion market
+Alternative approach to the optimality of the threshold strategy for spectrally negative Levy processes
+Local Risk-Minimization under the Benchmark Approach
+A unified approach to pricing and risk management of equity and credit risk
+Superreplication under Model Uncertainty in Discrete Time
+Optimal dividend problem for a generalized compound Poisson risk model
+Local Variance Gamma and Explicit Calibration to Option Prices
+On hedging American options under model uncertainty
+Non-Arbitrage up to Random Horizon for Semimartingale Models
+Hedging Expected Losses on Derivatives in Electricity Futures Markets
+Option Pricing Historical Volatility and Tail Risks
+Option Pricing for Symmetric L 'evy Returns with Applications
+Pricing Currency Derivatives with Markov-modulated Levy Dynamics
+Currency Derivatives Pricing for Markov-modulated Merton Jump-diffusion Spot Forex Rate
+A debt behaviour model
+Time-dependent Heston model
+Strict Local Martingales with Jumps
+Efficient hedging in general Black-Scholes model
+Power identities for L 'evy risk models under taxation and capital injections
+No-arbitrage conditions and absolutely continuous changes of measure
+On the shortfall risk control -- a refinement of the quantile hedging method
+Asset Prices and Risk Aversion
+On the Frequency of Drawdowns for Brownian Motion Processes
+Modelling the Bid and Ask Prices of Illiquid CDSs
+Modelling Credit Default Swaps: Market-Standard Vs Incomplete-Market Models
+Coherent Chaos Interest Rate Models
+A fast Fourier transform method for Mellin-type option pricing
+Representation of infinite dimensional forward price models in commodity markets
+A change of measure preserving the affine structure in the BNS model for commodity markets
+Asymptotic analysis of stock price densities and implied volatilities in mixed stochastic models
+Time-changed CIR default intensities with two-sided mean-reverting jumps
+Connecting discrete and continuous lookback or hindsight options in exponential L 'evy models
+Time-Consistent and Market-Consistent Evaluations
+Stochastic target games with controlled loss
+High-order short-time expansions for ATM option prices of exponential L 'evy models
+Asymptotic arbitrage in the Heston model
+Efficient Solution of Backward Jump-Diffusion PIDEs with Splitting and Matrix Exponentials
+Recovering from Derivatives Funding: A consistent approach to DVA FVA and Hedging
+Non-Arbitrage under a Class of Honest Times
+Utility indifference pricing of derivatives written on industrial loss indexes
+Parallel American Monte Carlo
+Discretisation-Invariant Swaps
+Derivative pricing under the possibility of long memory in the supOU stochastic volatility model
+Ramsey Rule with Progressive Utility in Long Term Yield Curves Modeling
+Ramsey Rule with Progressive utility and Long Term Affine Yields Curves
+Pricing of Basket Options Using Polynomial Approximations
+A Note on the Pricing of Basket Options Using Taylor Approximations
+Smile from the Past: A general option pricing framework with multiple volatility and leverage components
+Stochastic Spot Volatility Correlation in Stochastic Volatility Models and Barrier Option Pricing
+Expected Cash Flow: A Novel Model Of Evaluating Financial Assets
+Incorporating a Volatility Smile into the Markov-Functional Model
+Polynomial Models for interest rates and stochastic volatility
+Nonlinear Valuation under Collateral Credit Risk and Funding Costs: A Numerical Case Study Extending Black-Scholes
+An algorithm for calculating the set of superhedging portfolios in markets with transaction costs
+A Multidimensional Exponential Utility Indifference Pricing Model with Applications to Counterparty Risk
+The Wishart short rate model
+Weak and strong no-arbitrage conditions for continuous financial markets
+Information no-arbitrage and completeness for asset price models with a change point
+Option pricing with non-Gaussian scaling and infinite-state switching volatility
+Admissible Trading Strategies under Transaction Costs
+On the Stochastic Solution to a Cauchy Problem Associated with Nonnegative Price Processes
+Hedging of equity-linked with maximal success factor
+Market risk modelling in Solvency II regime and hedging options not using underlying
+Simple examples of pure-jump strict local martingales
+Arbitrage Pricing of Multi-person Game Contingent Claims
+Convergence in Multiscale Financial Models with Non-Gaussian Stochastic Volatility
+Option Pricing in a Dynamic Variance-Gamma Model
+VAR and ES CVAR Dependence on data cleaning and Data Models: Analysis and Resolution
+No-arbitrage pricing under cross-ownership
+On stochastic calculus related to financial assets without semimartingales
+American and Bermudan options in currency markets under proportional transaction costs
+From characteristic functions to implied volatility expansions
+Small-time asymptotics for a general local-stochastic volatility model with a jump-to-default: curvature and the heat kernel expansion
+Gas storage valuation and hedging. A quantification of the model risk
+Affine LIBOR models with multiple curves: theory examples and calibration
+Implied volatility of basket options at extreme strikes
+Numerical analysis for Spread option pricing model in illiquid underlying asset market: full feedback model
+A generalized pricing and hedging framework for multi-currency fixed income desks
+A Method of Reducing Dimension of Space Variables in Multi-dimensional Black-Scholes Equations
+Historical Backtesting of Local Volatility Model using AUD USD Vanilla Options
+Analitic approach to solve a degenerate parabolic PDE for the Heston model
+A One-Factor Conditionally Linear Commodity Pricing Model under Partial Information
+A robust algorithm and convergence analysis for static replications of nonlinear payoffs
+An Unconventional Attempt to Tame Mandelbrot's Grey Swans
+From Black-Scholes to Online Learning: Dynamic Hedging under Adversarial Environments
+How to hedge extrapolated yield curves
+Credit Risk in a Geometric Arbitrage Perspective
+Optimal Stopping under Adverse Nonlinear Expectation and Related Games
+On the Robust Optimal Stopping Problem
+Optimal Payoffs under State-dependent Preferences
+Sequential Design for Optimal Stopping Problems
+On the martingale property in stochastic volatility models based on time-homogeneous diffusions
+The Use of Numeraires in Multi-dimensional Black-Scholes Partial Differential Equations
+Inflation securities valuation with macroeconomic-based no-arbitrage dynamics
+Computing Greeks for L 'evy Models: The Fourier Transform Approach
+Discrete Non Probabilistic Market Models. Arbitrage and Pricing Intervals
+Markovian Nash equilibrium in financial markets with asymmetric information and related forward-backward systems
+Geometric Asian Option Pricing in General Affine Stochastic Volatility Models with Jumps
+Arbitrage in markets with bid-ask spreads
+An exact and explicit formula for pricing lookback options with regime switching
+An exact and explicit formula for pricing Asian options with regime switching
+Arbitrage-free prediction of the implied volatility smile
+Linear vector optimization and European option pricing under proportional transaction costs
+Effective and simple VWAP option pricing model
+New analytic approach to address Put - Call parity violation due to discrete dividends
+Robust valuation and risk measurement under model uncertainty
+Critical transaction costs and 1-step asymptotic arbitrage in fractional binary markets
+Second Order Multiscale Stochastic Volatility Asymptotics: Stochastic Terminal Layer Analysis Calibration
+CDS pricing under Basel III: capital relief and default protection
+DVA for Assets
+A note on high-order short-time expansions for close-to-the-money option prices under the CGMY model
+The Small Maturity Implied Volatility Slope for L 'evy Models
+Regulatory-Optimal Funding
+Sticky continuous processes have consistent price systems
+Regulatory-Compliant Derivatives Pricing is Not Risk-Neutral
+Intrinsic Prices Of Risk
+Dynamic Linkages between Tokyo and Osaka Rice Futures Markets in Prewar Japan
+On small-noise equations with degenerate limiting system arising from volatility models
+The optimal hedging in a semi-Markov modulated market
+Holder-extendible European option: corrections and extensions
+Implied Probability Measures of Volatility
+European Option Pricing with Liquidity Shocks
+The arbitrage-free Multivariate Mixture Dynamics Model: Consistent single-assets and index volatility smiles
+The pricing formula for cancellable European options
+Weak reflection principle for L 'evy processes
+A note on the Fundamental Theorem of Asset Pricing under model uncertainty
+Shapes of implied volatility with positive mass at zero
+Taylor approximation of incomplete Radner equilibrium models
+A primal-dual algorithm for BSDEs
+Accelerated Share Repurchase: pricing and execution strategy
+Statistical Arbitrage in the Black-Scholes Framework
+A Bond Consistent Derivative Fair Value
+Pricing Spread Options under Stochastic Correlation and Jump-Diffusion Models
+The alpha -Hypergeometric Stochastic Volatility Model
+Pricing and hedging of energy spread options and volatility modulated Volterra processes
+Funding Value Adjustment and Incomplete Markets
+Calculation of a power price equilibrium
+On martingale measures and pricing for continuous bond-stock market with stochastic bond
+Default risk modeling beyond the first-passage approximation: Position-dependent killing
+C 1 1 regularity for degenerate elliptic obstacle problems
+Martingale Inequalities and Deterministic Counterparts
+Inside Money Procyclical Leverage and Banking Catastrophes
+Short-time expansions for close-to-the-money options under a L 'evy jump model with stochastic volatility
+KVA: Capital Valuation Adjustment
+Risk Neutral Option Pricing With Neither Dynamic Hedging nor Complete Markets
+New Pricing Framework: Options and Bonds
+Mean-variance hedging based on an incomplete market with external risk factors of non-Gaussian OU processes
+On volatility smile and an investment strategy with out-of-the-money calls
+Path Integral and Asset Pricing
+Tug-of-war market manipulation and option pricing
+Asset Pricing in an Imperfect World
+Large-Maturity Regimes of the Heston Forward Smile
+Pricing and Hedging GMWB Riders in a Binomial Framework
+Efficient price dynamics in a limit order market: an utility indifference approach
+CDO term structure modelling with Levy processes and the relation to market models
+Exact Pricing and Hedging Formulas of Long Dated Variance Swaps under a   Volatility Model
+Behavioural present value
+A new method to obtain risk neutral probability without stochastic calculus and price modeling confirms the universal validity of Black-Scholes-Merton formula and volatility's role
+A First-Order BSPDE for Swing Option Pricing: Classical Solutions
+Efficient solution of structural default models with correlated jumps and mutual obligations
+Pricing of European Basket Call Option under Exponential Ornstein-Uhlenbeck Process
+Pricing and Hedging Long-Term Options
+Fast Numerical Method for Pricing of Variable Annuities with Guaranteed Minimum Withdrawal Benefit under Optimal Withdrawal Strategy
+General smile asymptotics with bounded maturity
+A continuous auction model with insiders and random time of information release
+Algebraic Form of Malliavin Calculus: Creation-Annihilation Operators Conserved Currents and All That
+On Trading American Put Options with Interactive Volatility
+Dual Stochastic Transformations of Solvable Diffusions
+Valuation and parities for exchange options
+Note on multidimensional Breeden-Litzenberger representation for state price densities
+Implicit transaction costs and the fundamental theorems of asset pricing
+Model-independent Superhedging under Portfolio Constraints
+A Polynomial Scheme of Asymptotic Expansion for Backward SDEs and Option pricing
+Local martingale deflators for asset processes stopped at a default time S tau or right before S tau-
+Fair and profitable bilateral prices under funding costs and collateralization
+Fair bilateral prices in Bergman's model
+Misspecified Recovery
+The impact of startup costs and the grid operator on the power price equilibrium
+Gas Storage valuation with regime switching
+Reflected Backward SDE approach to the price-hedge of defaultable claims with contingent switching CSA
+Efficient XVA Management: Pricing Hedging and Attribution using Trade-Level Regression and Global Conditioning
+Dynamic Conic Finance via Backward Stochastic Difference Equations
+A new perspective on the fundamental theorem of asset pricing for large financial markets
+Derivatives pricing in energy markets: an infinite dimensional approach
+Accounting for Earnings Announcements in the Pricing of Equity Options
+Cross-Ownership as a Structural Explanation for Over- and Underestimation of Default Probability
+MVA: Initial Margin Valuation Adjustment by Replication and Regression
+Warehousing Credit (CVA) Risk Capital (KVA) and Tax (TVA) Consequences
+A note on the spot-forward no-arbitrage relations in an investment-production model for commodities
+Entropy-Based Financial Asset Pricing
+The Golden Target: Analyzing the Tracking Performance of Leveraged Gold ETFs
+Self-Financing Trading and the Ito-Doeblin Lemma
+A New Approach to Model Free Option Pricing
+Arbitrage-Free Pricing of XVA -- Part I: Framework and Explicit Examples
+Pricing Derivatives with Counterparty Risk and Collateralization: A Fixed Point Approach
+Degenerate-elliptic operators in mathematical finance and higher-order regularity for solutions to variational equations
+Valuation of asset and volatility derivatives using decoupled time-changed L 'evy processes
+Asymptotics of forward implied volatility
+Analytical Pricing of American Bond Options in the Heath-Jarrow-Morton Model
+Convergence of European Lookback Options with Floating Strike in the Binomial Model
+On strong binomial approximation for stochastic processes and applications for financial modelling
+From the Samuelson Volatility Effect to a Samuelson Correlation Effect: Evidence from Crude Oil Calendar Spread Options
+Martingale optimal transport in the Skorokhod space
+On the optimal exercise boundaries of swing put options
+An equilibrium model for spot and forward prices of commodities
+Short-time asymptotics for the implied volatility skew under a stochastic volatility model with L 'evy jumps
+An Analysis of the Heston Stochastic Volatility Model: Implementation and Calibration using Matlab
+Mass at zero and small-strike implied volatility expansion in the SABR model
+Asymptotic indifference pricing in exponential L 'evy models
+The existence of optimal bang-bang controls for GMxB contracts

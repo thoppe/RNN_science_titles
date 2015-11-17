@@ -1,0 +1,2965 @@
+Invariance and the twisted Chern character : a case study
+On the KK-theory of strongly self-absorbing C -algebras
+K 0-theory of n-potents in rings and algebras
+Lectures on derived and triangulated categories
+L-theory of groups with unstable derived series
+Gersten's conjecture
+Parallel computation of the rank of large sparse matrices from algebraic K-theory
+The E-theoretic descent functor for groupoids
+The equivariant analytic index for proper groupoid actions
+The analytic index for proper Lie groupoid actions
+Continuous family groupoids
+Mittag-Leffler conditions on modules
+Excision for K-theory of connective ring spectra
+The fundamental theorem for the algebraic K-theory of spaces. III. the nil-term
+The cyclic homology of monogenic extensions in the noncommutative setting
+Realizing Kasparov's KK-theory groups as the homotopy classes of maps of a Quillen model category
+Antisymmetric elements in group rings with an orientation morphism
+Notes on Schubert classes of a loop group
+Equivariant K-Theory of Simply Connected Lie Groups
+Orientifolds and K-theory
+Conformal Field Theory and Torsion Elements of the Bloch Group
+Brane Descent Relations in K-theory
+Constructing D-Branes from K-Theory
+Poincare Duality and Spin c Structures for Noncommutative Manifolds
+Twisted entire cyclic cohomology J-L-O cocycles and equivariant spectral triples
+Penrose Tilings Chaotic Dynamical Systems and Algebraic K-Theory
+K-Theory in Quantum Field Theory
+Asymptotic Spectral Measures: Between Quantum Theory and E-theory
+Remarks on modules over deformation quantization algebras
+On the Connes-Kreimer construction of Hopf Algebras
+Rigidity and Vanishing Theorems in K-Theory II
+Failure of Brown representability in derived categories
+Equivariant Kasparov theory and generalized homomorphisms
+Riemann-Roch via deformation quantization II
+Noncommutative differential calculus homotopy BV algebras and formality conjectures
+Chern character for the Schwartz algebra of p-adic GL(n)
+Tamarkin's proof of Kontsevich formality theorem
+Explicit regulator maps on polylogarithmic motivic complexes
+Foliation groupoids and their cyclic homology
+Bordism-finiteness and semi-simple group actions
+Spectra and symmetric spectra in general model categories
+A Littlewood-Richardson rule for the K-theory of Grassmannians
+Graphs of groups and the Atiyah conjecture for one-relator groups
+Classification of equivariant real vector bundles over a circle
+Coarse Obstructions to Positive Scalar Curvature Metrics in Noncompact Arithmetic Manifolds
+On the Leibniz cohomology of vector fields
+Decomposition of the Hochschild Complex of a Scheme in Arbitrary Characteristic
+On semi-infinite cohomology of finite dimensional algebras
+Non-commutative Symplectic Geometry Quiver varieties and Operads
+Equivariant K-groups of spheres with actions of involutions
+The Eta-invariant and Pontryagin duality in K-theory
+Finite and p-adic polylogarithms
+On the derived invariance of cohomology theories for coalgebras
+Construction of Miniversal Deformations of Lie Algebras
+Weighted Completion of Galois Groups and Galois Actions on the Fundamental Group of P 1 - 0 1 infinity
+On motives for Deligne-Mumford stacks
+On the Eisenstein symbol
+Representable E-theory for Co(X)-algebras
+Differentiable and algebroid cohomology van Est isomorphisms and characteristic classes
+On Poly(ana)logs I
+A Homeomorphism Invariant for Substitution Tiling Spaces
+A new proof of the Frobenius conjecture on the dimensions of real algebras without zero divisors
+Gradient flows of closed 1-forms and their closed orbits
+Grothendieck Groups of Poisson Vector Bundles
+On a conjecture of Atiyah
+Quantum Real Projective Space Disc and Sphere
+Chern characters via connections up to homotopy
+Equivariant Cyclic Cohomology of H-Algebras
+Connections up to homotopy and characteristic classes
+A New Cyclic Module for Hopf Algebras
+From Mennicke symbols to Euler class groups
+A proof of the Tsygan formality conjecture for chains
+K-theory computations for boundary algebras of tA 2 groups
+Hopf Algebra Equivariant Cyclic Homology and Cyclic Homology of Crossed Product Algebras
+Tsygan formality and Duflo formula
+Cech-De Rham theory for leaf spaces of foliations
+K-Theory Past and Present
+Transgression on Hyperk a hler Manifolds and Generalized Higher Torsion Forms
+The Verlinde algebra is twisted equivariant K-theory
+From Jacobians to one-motives: exposition of a conjecture of Deligne
+Dialgebras
+Floating bundles and their applications
+Operads and Algebraic Homotopy II. Suspensions
+A duality between standard simplices and Stasheff polytopes
+Cohomology of split algebras and of trivial extensions
+Algebraic fundamental group and simplicial complexes
+Cyclic Theory and the Bivariant Chern-Connes Character
+Relative completions and the cohomology of linear groups over local rings
+Grothendieck classes of quiver varieties
+Hochschild cohomology of triangular matrix algebras
+Hochschild (co)homology of Hopf crossed products
+Ordered abelian groups over a CW complex
+Non-commutative Characteristic Polynomials and Cohn Localization
+Higher K-theory of toric varieties
+Polyhedral K 2
+Quantum K-Theory I: Foundations
+Gerbes over Orbifolds and Twisted K-theory
+Para-Hopf algebroids and their cyclic cohomology
+Formal groups over Hopf algebras
+Positivity in the Grothendieck group of complex flag varieties
+Homotopy Ends and Thomason Model Categories
+Leibniz Homology Characteristic Classes and K-theory
+Etale realization on the A 1-homotopy theory of schemes
+Torsion free groups with indecomposable holonomy group I
+Regular graded algebras and obstructed categories with duality
+Geometric realization and K-theoretic decomposition of C -algebras
+The Fine Structure of the Kasparov Groups II: topologizing the UCT
+Cyclic Cohomology of Crossed Coproduct Coalgebras
+Higher algebraic K-theory for actions of diagonalizable groups
+Cohomology of trivial extensions of Frobenius algebras
+Higher polyhedral K-groups
+Index defects in the theory of nonlocal boundary value problems and the eta invariant
+On the minimal number of critical points of functions on h-cobordisms
+Cyclic Homology of Hopf Comodule Algebras and Hopf Module Coalgebras
+On the Isomorphism Conjecture in algebraic K-theory
+A representation of generalized braid group in classical braid group
+Hochschild homology and cohomology of generalized Weyl algebras
+K-Theory and peiodic cyclic homology of some noncompact quantum algebras
+Spaces of tilings finite telescopic approximations and gap-labelling
+Algebra structure on the Hochschild cohomology of the ring of invariants of a Weyl algebra under a finite group
+On the cohomology algebra of free loop spaces
+Andr 'e-Quillen homology via functor homology
+C -Structure and K-Theory of Boutet de Monvel's Algebra
+The syntomic regulator for K-theory of fields
+Generalized Riemann-Hilbert Transmission and Boundary Value Problems Fredholm Pairs and Bordisms
+The Continuous Hochschild Cochain Complex of a Scheme
+Homology stability for unitary groups
+Morse theory and higher torsion invariants I
+Homology of Gaussian groups
+A geometric counterpart of the Baum-Connes map for GL(n)
+Gap-labelling for quasi-crystals (proving a conjecture by J. Bellissard)
+K-homology of the CAR algebra
+Cibils'spectral sequence for the cohomology of triangular algebras
+Equivariant spectral triples on the quantum SU(2) group
+The Gromov-Lawson-Rosenberg conjecture for cocompact Fuchsian groups
+K-homology of certain group C -algebras
+Index theory eta forms and Deligne cohomology
+Existence of vector bundles and global resolutions for singular surfaces
+An index theorem for gauge-invariant families: The case of solvable groups
+Homology of algebras of families of pseudodifferential operators
+Periodic cyclic homology of Iwahori-Hecke algebras
+An index for gauge-invariant operators and the Dixmier-Douady invariant
+Cancellation theorem
+KK-theory of C -categories and the analytic assembly map
+Homogeneous algebras
+Linear extensions and nilpotence for Maltsev theories
+Toric varieties with huge Grothendieck group
+Variations on the Bloch-Ogus Theorem
+Operator biflatness of the Fourier algebra and approximate indicators for subgroups
+Relative K 0 annihilators Fitting ideals and the Stickelberger phenomena
+Real polarizable Hodge structures arising from foliations
+Residues and homology for pseudodifferential operators on foliations
+C -categories Groupoid Actions Equivariant KK-theory and the Baum-Connes Conjecture
+Spectral flow and Dixmier traces
+Hochschild homology of iterate skew polynomial rings
+A proof of the Gap Labeling Conjecture
+C -algebras of Hilbert module product systems
+Comparisons between periodic analytic and local cyclic cohomology
+Poincare duality quivers
+Abstract harmonic analysis homological algebra and operator spaces
+The Euler characteristic and finiteness obstruction of manifolds with periodic ends
+Coseparable Corings
+Yang-Mills algebra
+Unitaire multiplicatif K-moyennable
+Quelques calculs de la cohomologie de GL N(Z) et de la K-theorie de Z
+Invariant Cyclic Homology
+Refined and l-adic Euler characteristics of nearly perfect complexes
+Galois structure of Zariski cohomology for weakly ramified covers of curves
+K-theory of Solvable Groups
+Injective Hopf bimodules cohomologies of infinite dimensional Hopf algebras and graded-commutativity of the Yoneda product
+Covering dimension and quasidiagonality
+Boundary Value Problems on Manifolds with Fibered Boundary
+Functional equations of higher logarithms
+G-Structure on the cohomology of Hopf algebras
+Bimodule deformations Picard groups and contravariant connections
+Fine Structure of Class Groups of Prime Power Cyclotomic Fields and the Kervaire-Murthy Conjectures
+Morita Equivalence of Cherednik Algebras
+Towards the Baum-Connes' Analytical Assembly Map for the Actions of Discrete Quantum Groups
+Remarks on a conjecture of Gromov and Lawson
+Real C -Algebras United K-Theory and the Kunneth Formula
+K-theory of stratified vector bundles
+A resolution (minimal model) of the PROP for bialgebras
+The Hilton-Eckmann argument for cup-products
+Fine Structure of Class Groups cl (p) Q( z n) and the Kervaire--Murthy Conjectures II
+K-theory and derived equivalences
+The nilpotence conjecture in K-theory of toric varieties
+Various L2-signatures and a topological L2-signature theorem
+Operator algebras and topology
+Whitehead Groups of Localizations and the Endomorphism Class Group
+Towers of MU-algebras and the generalized Hopkins-Miller theorem
+Spaces of multiplicative maps between highly structured ring spectra
+Hochschild cohomology of Frobenius algebras
+Algebraic deformations arising from orbifolds with discrete torsion
+Andre-Quillen homology of algebra retracts
+A remark on K-theory and S-categories
+The first cohomology group of the trivial extension of a monomial algebra
+Crossed squares and 2-crossed modules
+Riemann-Roch Theorem and Index Theorem in Non-commutative Geometry
+The coefficient field in the nilpotence conjecture for toric varieties
+K-Theory Tools For Local and Asymptotic Cyclic Cohomology
+Local-global principle for the Baum-Connes conjecture with coefficients
+Cohomology theories for highly structured ring spectra
+The BGQ spectral sequence for noncommutative spaces
+The p-chain spectral sequence
+K-duality for pseudomanifolds with isolated singularities
+Algebraic structure of the space of homotopy classes of cycles and singular homology
+Plus-construction for algebras over an operad cyclic and Hochschild homologies up to homotopy
+Koszulity for nonquadratic algebras II
+A generalization of the topological Brauer group
+Whitehead groups and the Bass conjecture
+A Variant of K-theory: K -
+Chern numbers for two families of noncommutative Hopf fibrations
+Higher complex torsion and the framing principle
+N-Fold Cech Derived Functors and Generalised Hopf Type Formulas
+Fibrewise nullification and the cube theorem
+On the Cyclic Homology of Hopf Crossed Products
+Cyclic Cohomology of Hopf algebras and Hopf Algebroids
+L 2-Betti numbers isomorphism conjectures and noncommutative localization
+Categorical and combinatorial aspects of descent theory
+Versal Deformations of Three Dimensional Lie Algebras as L-infinity Algebras
+Hopf Algebra Equivariant Cyclic Cohomology K-theory and Index Formulas
+On the calculation of UNil
+Algebraic K-theory view on KK-theory
+An Atiyah-Hirzebruch spectral sequence for KR-theory
+A Remark on Letzter-Makar-Limanov Invariants
+Algebraic cobordism
+Norm varieties and algebraic cobordism
+Quantization of Multiply Connected Manifolds
+Equivalence of spectral projections in semiclassical limit and a vanishing theorem for higher traces in K-theory
+Morse theory and higher torsion invariants II
+Algebraic K-theory of mapping class groups
+Two-vector bundles and forms of elliptic cohomology
+A Thom Isomorphism for Infinite Rank Euclidean Bundles
+Localization of Andre-Quillen-Goodwillie towers and the periodic homology of infinite loopspaces
+Twisted K-theory of differentiable stacks
+The CROCs non-commutative deformations and (co)associative bialgebras
+L2-index KK-theory and connections
+Topological and Smooth Stacks
+Codescent theory I: Foundations
+Hopf-cyclic homology and cohomology with coefficients
+Finite dimensional objects in distinguished triangles
+K-theory of the moduli of bundles over a Riemann surface and deformations of the Verlinde algebra
+Andr 'e-Quillen cohomology and rational homotopy of function spaces
+The Chern-Galois character
+Cyclic homology of Hopf Galois extensions and Hopf algebras
+Eta invariant and Chern-Simons current
+Triple Cohomology of Lie-Rinehart Algebras and the Canonical Class of Associative Algebras
+Strongly Homotopy Lie Algebras of One Even and Two Odd Dimensions
+On the Farrell-Jones Conjecture for higher algebraic K-theory
+Codescent theory II: Cofibrant approximations
+Model theoretic reformulation of the Baum-Connes and Farrell-Jones conjectures
+Spectral flow in Fredholm modules eta invariants and the JLO cocycle
+Etale Groupoids eta invariants and index theory
+Cohomological quotients and smashing localizations
+Purity for Similarity Factors
+Stable rank of corner rings
+Infinite-dimensional vector bundles in algebraic geometry (an introduction)
+Algebra cohomology over a commutative algebra revisited
+Noncommutative Maslov Index and Eta Forms
+Hermitian-holomorphic (2)-Gerbes and tame symbols
+A Note on Cyclic Duality and Hopf Algebras
+The analytic index for proper Lie groupoid actions
+A formula for the Whitehead group of a three-dimansional crystallographic group
+Hochschild cohomology and derived Picard groups
+Bornological versus topological analysis in metrizable spaces
+Representation theory of some infinite-dimensional algebras arising in continuously controlled algebra and topology
+Sur les A-infini cat 'egories
+AF-embeddings into C -algebras of real rank zero
+A Complete Formulation of Baum-Conens' Conjecture for the Action of Discrete Quantum Groups
+Transversally Elliptic Operators
+Reidemeister torsion twisted Alexander polynomial and fibered knots
+K-twisted K-theory for SU(N)
+Support varieties for selfinjective algebras
+A concept of frac23 PROP and deformation theory of (co)associative bialgebras
+A characterization of the Dirac Dual Dirac Method
+Homology of linear groups via cycles in BG times X
+C ast -algebras from Anzai flows and their K -groups
+On topologically finite-dimensional simple C -algebras
+Split Injectivity of the Baum-Connes Assembly Map
+Twisted K-theory and loop group representations
+Acyclicity of Schneider and Stuhler's coefficient systems:another approach in the level 0 case
+The Baum-Connes Conjecture via Localisation of Categories
+The cyclic homology and K-theory of certain adelic crossed products
+Homology stability for Unitary groups II
+Homology over local homomorphisms
+The de Rham-Witt complex and p-adic vanishing cycles
+Classification and versal deformations of L infinity algebras on a 2 1-dimensional space
+Systems of Diagram Categories and K-theory I
+Flasque model structures for simplicial presheaves
+Shukla cohomology and additive track theories
+Commutator automorphisms of formal power series rings
+Dualizing the coarse assembly map
+Bivariant K -theory and the Weyl algebra
+Euclidean scissor congruence groups and mixed Tate motives over dual numbers
+Algebras of operations in K-theory
+Systems of Diagram Categories and K-theory. II
+The Hochschild cohomology ring modulo nilpotence of a monomial algebra
+Scindement d'associativite et algebres de Hopf
+On K 2 of 1-dimensional local rings
+A Formality Theorem for Hochschild Chains
+Controlled K-theory I: Basic theory
+The Baum-Connes and the Farrell-Jones Conjectures in K- and L-Theory
+Isomorphisms between quantum generalized Weyl algebras
+A K-Theoretic Proof of Boutet de Monvel's Index Theorem for Boundary Value Problems
+A counterexample to the (unstable) Gromov-Lawson-Rosenberg conjecture
+Non-Hausdorff groupoids proper actions and K-theory
+On twisted forms and relative algebraic K-theory
+Representation rings of Lie superalgebras
+Extensions of L infinity algebras of two even and one odd dimension
+Elliptic operators on manifolds with singularities and K-homology
+Isoperimetric inequalities and the Friedlander-Milnor conjecture
+Twisted representation rings and Dirac induction
+Cohomologie de de Rham entiere (Integral de Rham cohomology)
+Lie superalgebra structures in cohomology spaces of Lie algebras with coefficients in the adjoint representation
+Invariants of Boundary Link Cobordism II. The Blanchfield-Duval Form
+On a generalized Connes-Hochschild-Kostant-Rosenberg theorem
+Induction Theorems and Isomorphism Conjectures for K- and L-Theory
+A Controlled Approach to the Isomorphism Conjecture
+Simple Riesz groups having wild intervals
+Profinite groups profinite completions and a conjecture of Moore
+Deformation theory of abelian categories
+Hochschild cohomology of abelian categories and ringed spaces
+EZ-structures and topological applications
+Noncommutative Poincare duality for boundary actions of hyperbolic groups
+A descent principle for the Dirac dual Dirac method
+Polytopes and K-theory
+Eta-invariants Torsion forms and Flat vector bundles
+Braided Cyclic Cocycles and Non-Associative Geometry
+Elliptic Operators and Higher Signatures
+Hyperplane arrangements and K-theory
+Fibred sites and stack cohomology
+The cyclotomic trace map and values of zeta-functions
+Obstruction theory for objects in abelian and derived categories
+Secondary derived functors and the Adams spectral sequence
+Computation of the E 3-term of the Adams spectral sequence
+Twisted K -theory
+Oriented Cohomology and Motivic Decompositions of Relative Cellular Spaces
+Finite Hochschild cohomology without finite global dimension
+Une structure de categorie de modeles de Quillen sur la categorie des dg-categories
+Bordism rho-invariants and the Baum-Connes conjecture
+Cut-and-Paste on Foliated Bundles
+Isomorphism Conjecture for homotopy K-theory and groups acting on trees
+Bialgebra Cyclic Homology with Coefficients Part I
+A Simple Algebraic Proof of the Algebraic Index Theorem
+The boundary motive: definition and basic properties
+The homotopy theory of dg-categories and derived Morita theory
+Relative cyclic homology of square zero extensions
+Very Basic Noncommutative Geometry
+The Chern character for Lie-Rinehart algebras
+Bi-relative algebraic K-theory and topological cyclic homology
+Continuous Fields of Kirchberg C -algebras
+Entire cyclic homology of Schatten ideals
+mathbf Z 2 -graded Cech Cohomology in Noncommutative Geometry
+Bialgebra Cyclic Homology with Coefficients Part II
+Computation of generalized equivariant cohomologies of Kac-Moody flag varieties
+Noncommutative Spherical Tight Frames in finitely generated Hilbert C -modules
+Coactions of Hopf- C -algebras and equivariant E -theory
+The cohomology structure of string algebras
+On the cohomology of a Galois entwining
+Cycles in the chamber homology of GL(3)
+A non-commutative geometry approach to the representation theory of reductive p -adic groups: Homology of Hecke algebras a survey and some new results
+Equivariant K-Theory of Smooth Toric Varieties
+On the topology of the Kasparov groups and its applications
+Hochschild cohomology of quantized symplectic orbifolds and the Chen-Ruan cohomology
+Embeddings of derived categories of bornological modules
+Combable groups have group cohomology of polynomial growth
+When is Galois cohomology free or trivial
+Cup Products in Hopf-Cyclic Cohomology
+The Local Index Formula in Semifinite von Neumann Algebras I: Spectral Flow
+The Local Index Formula in Semifinite von Neumann Algebras II: The Even Case
+Nonabelian localization in equivariant K-theory and Riemann-Roch for quotients
+On C -algebras and K-theory for infinite-dimensional Fredholm Manifolds
+A general symmetry preserving reduction scheme and normal form for dynamical systems with a compact symmetry group
+Loday--Quillen--Tsygan Theorem for Coalgebras
+Equivariant periodic cyclic homology
+A new description of equivariant cohomology for totally disconnected groups
+Algebras with one operation including Poisson and other Lie-admissible algebras
+An algebraic model for mod 2 topological cyclic homology
+Effective computation of Tor k (M N)
+Homotopy invariance of higher signatures and 3-manifold groups
+Unbounded symmetric operators in K -homology and the Baum-Connes Conjecture
+Homological realization of prescribed abelian groups via K -theory
+Homology of formal deformations of proper etale Lie groupoids
+Entire cyclic homology of continuous trace algebras
+On equivariant Dirac operators for SU q(2)
+Strong Morita equivalence of higher-dimensional noncommutative tori. II
+On the nonexistence of certain morphisms from Grassmannian to Grassmannian in characteristic 0
+Peiffer Elements in Simplicial Groups and Algebras
+Liftings of diagrams of semilattices by diagrams of dimension groups
+Cohomology of lambda-rings
+Cohomology of truncated polynomial lambda-rings
+On the classification of simple Z-stable C -algebras with real rank zero and finite decomposition rank
+Fields of cohomological dimension one versus C 1-fields
+Strongly self-absorbing C -algebras
+Outer authomorphisms and the Jacobian
+Relative completions and K 2 of curves
+Projective multiresolution analyses for dilations in higher dimensions
+On Deformations of Associative Algebras
+Recollement for Differential Graded Algebras
+On triangulated orbit categories
+Introduction to Hopf-Cyclic Cohomology
+Algebraic K-theory and locally convex algebras
+The product formula in unitary deformation K-theory
+Hirzebruch classes and motivic Chern classes for singular spaces
+Surjectivity for Hamiltonian G-spaces in K-theory
+Equivariant spectral triples for SU q( ell 1) and the odd dimensional quantum spheres
+On the Homotopy Classification of Elliptic Operators on Manifolds with Edges
+Cyclic homology of H -unital (pro-) algebras Lie algebra homology of matrices and a paper of Hanlon's
+Index theorey and Non-Commutative Geometry. II. Dirac operators and index bundles
+A Proof of Tsygan's Formality Conjecture for an Arbitrary Smooth Manifold
+Twisted K-Theory and TQFT
+On Compact and Fredholm Operators over C -algebras and a New Topology in the Space of Compact Operators
+K-theory and elliptic operators
+Quadratic envelope of the category of class two nilpotent groups
+Euler characteristics and Gysin sequences for group actions on boundaries
+Double derivations and Cyclic homology
+K-teoria de operadores pseudodiferenciais na reta com simbolos semiperiodicos (in Portuguese)
+Chern character for twisted K-theory of orbifolds
+Mirror Symmetry and Integral Variations of Hodge Structure Underlying One Parameter Families of Calabi-Yau Threefolds
+T-spectra and Poincar 'e Duality
+The Thom isomorphism in gauge-equivariant K-theory
+Correspondences and index
+A Comparison of Leibniz and Cyclic Homologies
+Invariants additifs de dg-categories
+Rational Computations of the Topological K-Theory of Classifying Spaces of Discrete Groups
+Thom isomorphism and Push-forward map in twisted K-theory
+An algebraic index theorem for orbifolds
+Index in K-theory for families of fibred cusp operators
+Stable cohomology over local rings
+Z-stable ASH algebras
+On the topological cyclic homology of the algebraic closure of a local field
+On the Classification of Vector Bundles with Periodic Maps
+On restriction properties of equivariant K-theory rings
+An application of the second Riemann continuation theorem to cohomology of the Lie algebra of vector fields on the complex line
+Inductive limits of K-theoretic complexes with torsion coefficients
+Detecting K-theory by cyclic homology
+On the classification problem for nuclear C -algebras
+Quasi-commutative cochains in algebraic topology
+Lie elements in pre-Lie algebras trees and cohomology operations
+Hyperelementary assembly for K-theory of virtually abelian groups
+When the theories meet: Khovanov homology as Hochschild homology of links
+A descent theorem in topological K-theory
+Hermitian K-theory of the integers
+Algebraic and Real K-theory of Algebraic varieties
+Periodicity of hermitian K-theory and Milnor's K-groups
+On the Baum-Connes conjecture in the real case
+Equivariant K-theory of real vector spaces and real vector bundles
+On the degree 2 map for a sphere
+Cohomologie des alg e bres de Kr o necker g ' e n ' e rales
+Brauer groups and crepant resolutions
+From algebraic K-theory to hermitian K-theory
+Stabilization of the Witt group
+G-structures on spheres
+Hochschild-Mitchell cohomology and Galois extensions
+Chow's moving lemma and the homotopy coniveau tower
+Flat dimension growth for C -algebras
+Complexification of real cycles and Lawson suspension theorem
+Coefficients for the Farrell-Jones Conjecture
+Twisted K-theory and cohomology
+Excision in Hopf cyclic homology
+Derived categories resolutions and Brown representability
+K-Theory of pseudodifferential operators with semi-periodic symbols
+A criterion for cohomological dimension
+Noncommutative index theory for mirror quantum spheres
+On a spectral sequence for equivariant K-theory
+Multiplicative structure on the Hochschild cohomology of crossed product algebras
+Non-commutative Cartier operator and Hodge-to-de Rham degeneration
+Non-Abelian Hopf Cohomology
+Universal coverings of Steinberg Lie algebras of small characteristic
+The Noncommutative Geometry of k-graph C -Algebras
+The Picard Group of Corings
+An Analytic Approach to Spectral Flow in von Neumann Algebras
+Semi-topological K-theory for certain projective varieties
+On differential graded categories
+The K-theory of abelian versus nonabelian symplectic quotients
+The collapse of the periodicity sequence in the stable range
+The Steinberg group of a monoid ring nilpotence and algorithms
+Amplitude inequalities for Differential Graded modules
+Recasting the Elliott conjecture
+Descent cohomology and corings
+Comments on: Operator K -theory for the group SU(n 1) by P. Julg and G. Kasparov
+Equivariant K-theory of affine flag manifolds and affine Grothendieck polynomials
+Equivariant cyclic homology for quantum groups
+Pattern-Equivariant Cohomology with Integer Coefficients
+K-theory. An elementary introduction
+Gauss-Manin connections and Lie-Rinehart cohomology
+On the Steinberg property of the Contou-Carrere symbol
+Simple C -algebras with locally finite decomposition rank
+The discrete module category for the ring of K-theory operations
+Smooth K-theory of locally convex algebras
+Equivariant homology and cohomology of groups
+Motivic interpretation of Milnor K -groups attached to Jacobian varieties
+Maximal commutative subalgebras Poisson geometry and Hochschild homology
+Third Mac Lane cohomology
+The Noncommutative Geometry Generalization of Fundamental Group
+Characters of Fredholm modules and a problem of Connes
+Zeta functions in triangulated categories
+Periodic cyclic homology of Hecke algebras and their Schwartz completions
+The homotopy Gerstenhaber algebra of Hochschild cochains of a regular algebra is formal
+The Behavior of Nil-Groups under Localization and the Relative Assembly Map
+Algebraic cobordism revisited
+Trivial Cocycles and Invariants of Homology 3-Spheres
+Topological Hochschild homology of twisted group algebras
+Central extensions of Steinberg Lie superalgebras of small rank
+Base change and K-theory for GL(n)
+A-infinity structure on Ext-algebras
+Notes on A-infinity algebras A-infinity categories and non-commutative geometry. I
+Hopf--Hochschild (co)homology of module algebras
+Bivariant Hopf cyclic cohomology
+Vanishing of the cyclic cohomology of infinite von Neumann algebras
+On the K-theory of graph C -algebras
+Constant and Equivariant Cyclic Cohomology
+Resolutions of free partially commutative monoids
+Heat kernels and the range of the trace on completions of twisted group algebras
+Homology and homotopy in semi-abelian categories
+Cyclic Cohomology of Corings
+Algebraic cycles and Connes periodicity
+Cohomology and deformation of module-algebras
+Geometric structure in the representation theory of p-adic groups
+On the structure of Calabi-Yau categories with a cluster tilting subcategory
+Generalized orientations and the Bloch invariant
+Zero cycles on certain surfaces in arbitrary characteristic
+Brace operations and Deligne's Conjecture for module-algebras
+A new topology on the space of unbounded selfadjoint operators and the spectral flow
+K-theory of some C -algebras and buildings
+Formality theorem for Hochschild (co)chains of the algebra of endomorphisms of a vector bundle
+Elliptic Theory on Manifolds with Corners: II. Homotopy classification and K -Homology
+On stability manifolds of Calabi-Yau surfaces
+Characteristic classes of A-infinity algebras
+Derived invariance of Hochschild-Mitchell (co)homology and one-point extensions
+Homotopy theory of associative rings
+Third Mac Lane cohomology via categorical rings
+Equivariant local cyclic homology and the equivariant Chern-Connes character
+Chern character for totally disconnected groups
+The Equivariant Noncommutative Atiyah-Patodi-Singer Index Theorem
+Chern-Connes Character for the Invariant Dirac Operator in Odd Dimensions
+The RO(G)-graded coefficients of (Z 2) n-equivariant K-theory
+Algebraic K-theory of Fredholm modules and KK-theory
+Algebraic K-theory of Fredholm modules and KK-theory
+On the classification of complex vector bundles of stable rank
+The universal Hopf cyclic theory
+Complexes with free actions by the group of automorphisms of a free group
+Exercises on derived categories resolutions and Brown representability
+Twisted K-theory and Poincare duality
+Type III and spectral triples
+Modular Lattice for C o -Operators
+On exactness of long sequences of homology semimodules
+On A A A A A and on a W n -action on the consecutive commutators of free associative algebra
+Determinant functors on triangulated categories
+Sur la topologie de l'espace des operateurs pseudodifferentiels inversibles d'ordre 0
+Pairings in Hopf-cyclic cohomology of algebras and coalgebras with coefficients
+K 0 and the dimension filtration for p-torsion Iwasawa modules
+The Elliott conjecture for Villadsen algebras of the first type
+A note on cohomological localization
+Products and push-forwards in parametrised cohomology theories
+The Chern Character of Semifinite Spectral Triples
+Direct image for multiplicative and relative K -theories from transgression of the families index theorem part 1
+Boutet de Monvel's Calculus and Groupoids I
+On Lie algebra crossed modules
+On Carvalho's K -theoretic formulation of the cobordism invariance of the index
+Torsion classes of finite type and spectra
+An analytic index for Lie groupoids
+Vogel's notion of regularity for non-coherent rings
+Continuous representations of groupoids
+A new Quillen model for the Morita homotopy theory of DG categories
+On the Gauss-Manin connection in cyclic homology
+Global coefficient ring in the nilpotence conjecture
+Cohomologie du groupe lin ' e aire a coefficients dans les polyn o mes de matrices
+Characterization of SU q( ell 1) -equivariant spectral triples for the odd dimensional quantum spheres
+Torus equivariant spectral triples for odd dimensional quantum spheres coming from C -extensions
+Orbifold index and equivariant K-homology
+Additive Chow groups of schemes
+Categorical aspects of bivariant K-theory
+A note on spaces of symmetric matrices
+Obstruction to lagrangian transversality
+Bounded derived categories and repetitive algebras
+Gersten's conjecture for commutative discrete valuation rings
+Vanishing of the KNil groups: localization methods
+Inheritance of Isomorphism Conjectures under colimits
+Higher algebraic K -theory of finitely generated torsion modules over principal ideal domains
+Homotopy theory of Well-generated algebraic triangulated categories
+Densities of 4-ranks of K 2( mathcal O )
+Tame kernels and further 4-rank densites
+A note on 4-rank densities
+On the Farrell-Jones Conjecture and its applications
+n-Dimensional filiform Leibniz algebras of length (n-1) and their derivations
+More on five commutator identities
+On the Cartan map for crossed products and Hopf-Galois extensions
+Integral homology of PGL 2 over elliptic curves
+Low dimensional homology of linear groups over Hensel local rings
+Congruence subgroups and twisted cohomology of SL n(F t )
+Relative completions of linear groups over Z t and Z t t -1
+On the cyclic homology of ringed spaces and schemes
+Riemann-Roch for tensor powers
+The projective class ring of half-quantum groups at roots of unity
+Adelic constructions of direct images for differentials and symbols
+Affine quantum groups and equivariant K-theory
+Amalgamated free products unstable homotopy invariance and the homology of SL 2(Z t )
+Duality of Albanese and Picard 1-motives
+On Cyclic Homology of A infty Algebras
+Homology of L infty -Algebras and Cyclic Homology
+K-theory of simplicial toric varieties
+Chern Classes in Alexander-Spanier Cohomology
+K 0 of invariant rings and nonabelian H 1
+On the Structure of Lie Group C -Algebras and Compact Quantum Groups
+A K-Theoretic Note on Geometric Quantization
+Algebraic K 0 of the Quantum Sphere and Noncommutative Index Theorem
+On the K-theory of elliptic curves
+Computing the homology of Koszul complexes
+On the topology of the group of invertible elements
+A Hochschild homology Euler characteristic for circle actions
+From Representation Theory to Homotopy Groups
+Cyclic cohomology of Hopf algebras and a non-commutative Chern-Weil theory
+The G-Signature Theorem Revisited
+Cohomology of uniformly powerful p-groups
+On Grothendieck's Conjecture about Principal Homogeneous Spaces for some Classical Algebraic Groups
+The algebraic construction of the Novikov complex of a circle-valued Morse function
+The homology groups of some two-step nilpotent Lie algebras associated to symplectic vector spaces
+Quillen stratification for the Steenrod algebra
+Actions of compact groups C -index theorem and families
+Iterated Peiffer pairings in the Moore complex of a simplicial group
+Freeness conditions for crossed squares and squared complexes
+Rigidity of Secondary Characteristic Classes
+A Homology Theory for Etale Groupoids
+Riemann-Roch for equivariant Chow groups
+A note on the localization of J-groups
+On J-orders of elements of KO(CP m)
+Asymptotic Morphisms and Elliptic Operators over C -algebras
+On Graded K-theory Elliptic Operators and the Functional Calculus
+Equivariant Singular Riemann-Roch Theorem
+Analytic cyclic cohomology
+Elliptic operators in even subspaces
+Elliptic operators in odd subspaces
+Elliptic operators in subspaces and the eta invariant
+The trace on the K-theory of group C -algebras
+Equivariant K-theory wreath products and Heisenberg algebra
+K-theory and cohomology of algebraic stacks: Riemann-Roch theorems D-modules and GAGA theorems
+Indecomposable Higher Chow Cycles on Low Dimensional Jacobians
+Propositional Manifolds
+Locally complete intersection homomorphisms and a conjecture of Quillen on the vanishing of cotangent homology
+Classification of Equivariant Complex Vector Bundles over a Circle
+Symmetric powers of Galois modules on Dedekind schemes
+Bimodule complexes via strong homotopy actions
+Introduction to A-infinity algebras and modules
+On the K-theory of local fields
+Localization of the Riemann-Roch character
+The homotopy classification and the index of boundary value problems for general elliptic operators
+Twisted index theory on good orbifolds I: noncommutative Bloch theory
+A definition of graph homology and graph K-theory of algebras
+Algebraic structure of the loop space Bockstein spectral sequence
+Higher algebraic K-theory of group actions with finite stabilizers
+Derived Categories and Projective Classes
+Notes on G-theory of Deligne-Mumford stacks
+Orbifold cup products and ring structures on Hochschild cohomologies
+Braided Sweedler cohomology
+A New Proof of the New Intersection Theorem
+An explicit construction of the Quillen homotopical category of dg Lie algebras
+Gorenstein cohomology in abelian categories
+The spectral measure of certain elements of the complex group ring of a wreath product
+Non-commutative duplicates of finite sets
+Homology of generalized Steinberg varieties and Weyl group invariants
+On the K-theory of the coordinate axes in the plane
+Equivariant K-theory of compactifications of algebraic groups
+Morita classes in the homology of Aut(F n) vanish after one stabilization
+Twisted Poincare duality for some quadratic Poisson algebras
+Limiting modular symbols and their fractal geometry
+Cyclic Cohomology and Higher Rank Lattices
+Equalizers in the category of cocomplete cocategories
+The cohomology of monogenic extensions in the noncommutative setting
+On elliptic differential operators with shifts
+The Borel conjecture for manifolds with virtually solvable fundamental groups
+A local ring such that the map between Grothendieck groups with rational coefficient induced by completion is not injective
+Noncommutative geometry through monoidal categories I
+Applications of the change-of-rings spectral sequence to the computation of Hochschild cohomology
+Complex cobordism and algebraic topology
+The Baum-Connes assembly map and the generalized Bass conjecture
+On elliptic differential operators with shifts: II. The cohomological index formula
+Symplectic C infty -algebras
+Category of Noncommutative CW complexes. III
+A homology and cohomology theory for real projective varieties
+On the noncommutative spectral flow
+Intersection pairing and intersection motive of surfaces
+Algebraic cycles and additive dilogarithm
+The Van den Bergh duality and the modular symmetry of a Poisson variety
+Projective modules over discrete Hodge algebras
+Values at s-1 of L-functions for multi-quadratic extensions of number fields and the fitting ideal of the tame kernel
+Classifying finite localizations of quasi-coherent sheaves
+On the Hochschild (co)homology of quantum exterior algebras
+Tate motives and the fundamental group
+Witt groups of sheaves on topological spaces
+The Cuntz semigroup the Elliott conjecture and dimension functions on C -algebras
+An infinite family of non-isomorphic C -algebras with identical K-theory
+Twisted K-theory old and new
+Cyclic cohomology of certain nuclear Fr 'echet and DF algebras
+Localizing the Elliott conjecture at strongly self-absorbing C -algebras
+A sufficient criterion for homotopy cartesianess
+Harder-Narasimhan Filtrations and K-Groups of an Elliptic Curve
+The K unneth formula for nuclear DF -spaces and Hochschild cohomology
+(Co)homology of quantum complete intersections
+Non-commutative residue of projections in Boutet de Monvel's calculus
+ell-adic class field theory for regular local rings
+Linearization of skew-periodic loops and mathbb S 1 -cocycles
+The Index Formula on the Moduli of G-bundles
+Interpolation categories for homology theories
+Bounded generation of SL(n A) (after D. Carter G. Keller and E. Paige)
+Truncated resolution model structures
+Universal Central Extensions of the Matrix Leibniz Superalgebras sl(m n A)
+A groupoid approach to noncommutative T-duality
+Chern character for twisted complexes
+The forgetful map in rational K-theory
+On the 2-typical de Rham-Witt complex
+Twisted equivariant K-theory for proper actions of discrete groups
+On the Farrell-Jones and related Conjectures
+On crossed product rings with twisted involutions their module categories and L-theory
+Products in Hopf-Cyclic Cohomology
+Cup products in Hopf cyclic cohomology via cyclic modules I
+Vector bundles on contractible smooth schemes
+On injectivity of maps between Grothendieck groups induced by completion
+Third homology of general linear groups
+On the K-theory of groups with finite asymptotic dimension
+On the p-adic Beilinson conjecture for number fields
+The K-Theory of Toeplitz C -Algebras of Right-Angled Artin Groups
+Lawson homology morphic cohomology and Chow motives
+Smooth parametrized torsion -- a manifold approach
+Metric sparsification and operator norm localization
+Algebraic K -theory Spectra and Factorisations of Analytic Assembly Maps
+The Hunting of the Hopf Ring
+Simplicial Hochschild cochains as an Amitsur complex
+Differential graded versus Simplicial categories
+Additivity for parametrized topological Euler characteristic and Reidemeister torsion
+On the second cohomology group in semi-abelian categories
+Consistent Orientation of Moduli Spaces
+Hopf algebroids and secondary characteristic classes
+A problem with Artin's Vanishing for torsion motivic homology
+Complexes of Injective Words and Their Commutation Classes
+On the K-theory of higher rank graph C -algebras
+Group bundle duality invariants for certain C -algebras and twisted equivariant K-theory
+The tower of K-theory of truncated polynomial algebras
+Dominant K-theory and Integrable highest weight representations of Kac-Moody groups
+Adjamagbo Determinant and Serre conjecture for linear groups over Weyl algebras
+Homological properties of cochain Differential Graded algebras
+The Mobius Band and the Mobius Foliation
+The Jiang-Su algebra revisited
+Galois theory and integral models of Lambda-rings
+Clifford modules and twisted K-theory
+The Range of Approximate Unitary Equivalence Classes of Homomorphisms from AH-algebras
+Differential equations associated to Families of Algebraic Cycles
+Universal Toda brackets of ring spectra
+The K-theory of abelian symplectic quotients
+Adelic resolution for homology sheaves
+Covering Homology
+The Popescu-Gabriel theorem for triangulated categories
+Maltsiniotis's first conjecture for K 1
+Cartier isomorphism and Hodge Theory in the non-commutative case
+Construction of Fredholm representations and a modification of the Higson-Roe corona
+Singular extensions and triangulated categories
+Motives of Azumaya algebras
+A noncommutative Atiyah-Patodi-Singer index theorem in KK-theory
+Koszul differential graded algebras and BGG correspondence
+Twisted cyclic theory and an index theory for the gauge invariant KMS state on Cuntz algebras
+XI Solomon Lefschetz Memorial Lecture Series: Hodge structures in non-commutative geometry. (Notes by Ernesto Lupercio)
+A Hochschild-cyclic approach to additive higher Chow cycles
+Higher Extension Modules and the Yoneda Product
+A Schwartz type algebra for the Tangent Groupoid
+Cohomology of diagrams of algebras
+DG quotients of DG categories
+A construction of quotient A infinity-categories
+Quotients of unital A infty -categories
+Comparison morphisms and the Hochschild cohomology ring of truncated quiver algebras
+Inertia and delocalized twisted cohomology
+Injective and projective Hilbert C -modules and C -algebras of compact operators
+Local cohomology and support for triangulated categories
+Relative K -cycles and elliptic boundary conditions
+A Comparison of Continuously Controlled and Controlled K-theory
+Discrete groups Grothendieck rings and families of finite subgroups
+Lifting KK-elements asymptotical unitary equivalence and classification of simple C -algebras
+Semigroup cohomology and applications
+On the Duality between l 1-Homology and Bounded Cohomology
+The finiteness result for Khovanov homology and localization in monoidal categories
+Hopf algebras of primitive Lie pseudogroups and Hopf cyclic cohomology
+On 0-homology of categorical at zero semigroups
+Poisson (co)homology of polynomial Poisson algebras in dimension four : Sklyanin's case
+Some remarks on Nil groups in algebraic K-theory
+Compactly supported analytic indices for Lie groupoids
+Class field theory for curves over p -adic fields
+Triviality of a trace on the space of commuting trace-class self-adjoint operators
+Twisting the Baum-Connes morphism by a non-unitary representation
+When is Group Cohomology Finitary
+Finitary Group Cohomology and Group Actions on Spheres
+Functoriality of the canonical fractional Galois ideal
+Deforming motivic theories I: Pure weight perfect Modules on divisorial schemes
+Cohomology of twisted tensor products
+Convergence of the Eilenberg-Moore spectral sequence for generalized cohomology theories
+Homological stability for certain classical groups
+Unramified cohomology of degree 3 and Noether's problem
+On the Twisted K-Homology of Simple Lie Groups
+Enlargeability and index theory: Infinite covers
+An approach toward a finite-dimensional definition of twisted K-theory
+An algebraic index theorem for Poisson manifolds
+Relative differential K-characters
+Mod-2 Equivalence of the K-theoretic Euler and Signature Classes
+Relative support varieties
+An Artin-Rees Theorem and applications to zero cycles
+Relative homology and maximal l-orthogonal modules
+Milnor K -group attached to a torus and Birch-Tate conjecture
+Homological symbols and the Quillen conjecture
+Non-unitary representations Baum-Connes morphism and unconditional completions
+A Milnor-Moore Type Theorem for Braided Bialgebras
+Homology of SL n and GL n over an infinite field
+Symplectic homology as Hochschild homology
+An algebraic integration for Mahler measure
+Mahler measures and computations with regulators
+A infty-subalgebras and natural transformations
+Homology of GL n over algebraically closed fields
+The affine part of the Picard scheme
+A Projective C -Algebra Related to K-Theory
+A Lefschetz fixed-point formula for certain orbifold C -algebras
+Spectral multiplicity and odd K-theory
+Del Pezzo Surfaces of degree  over an arbitrary field
+Cyclic homology of crossed products
+A New Definition of the Steenrod Operations in Algebraic Geometry
+Natural Equivariant Dirac Operators
+On Morita equivalence for simple Generalized Weyl algebras
+Postnikov towers k-invariants and obstruction theory for DG categories
+A K-Theory Proof of the Cobordism Invariance of the Index
+Cohomology of bifunctors
+Regulators on additive higher Chow groups
+Parshin's conjecture revisited
+Index theory for actions of compact Lie groups on C -algebras
+KK -theory spectra for C ast -categories and discrete groupoid C ast -algebras
+An L infty algebra structure on polyvector fields
+Poisson (co)homology of truncated polynomial algebras in two variables
+Hopf-cyclic homology with contramodule coefficients
+The Hochschild cohomology ring of the standard Podles quantum sphere
+Groupoid representations and modules over the convolution algebras
+Finitely summable Fredholm modules over higher rank groups and lattices
+Computation of a Feynman integral
+Norm Varieties and the Chain Lemma (after Markus Rost)
+Galois module structure of Milnor K-theory in characteristic p
+Galois module structure of Galois cohomology and partial Euler-Poincare characteristics
+Cohomological dimension and Schreier's formula in Galois cohomology
+Galois module structure of Milnor K-theory mod p s in characteristic p
+A DG guide to Voevodsky's motives
+Relating the Farrell Nil-groups to the Waldhausen Nil-groups
+Geometric cycles index theory and twisted K-homology
+Twisted K-theory and finite-dimensional approximation
+A version of smooth K-theory adapted to the total Chern class
+Comparison of cobordism theories
+Oriented cohomology Borel-Moore homology and algebraic cobordism
+Miniversal deformations of dialgebras
+Modular Invariants and Twisted Equivariant K-theory
+Homological Quantum Field Theory
+Orbifold Index Cobordism Invariance
+On uniqueness of characteristic classes
+Coarse and equivariant co-assembly maps
+Explicit HRS-Tilting
+The strong Novikov conjecture for low degree cohomology
+Topological Andr 'e-Quillen homology for cellular commutative S -algebras
+Secondary invariants for Frechet algebras and quasihomomorphisms
+Theories of bundles with additional homotopy conditions
+Vector partition function and generalized Dahmen-Micchelli spaces
+Formality of the homotopy calculus algebra of Hochschild (co)chains
+O carater de Chern-Connes para C -sistemas dinamicos calculado em algumas algebras de operadores pseudodiferenciais
+The third homology of the special linear group of a field
+An algorithm for the unit group of the Burnside ring of a finite group
+Twisted cyclic theory equivariant KK theory and KMS States
+A simple proof of a theorem on (2n)-weak amenability
+2-Gerbes bound by complexes of gr-stacks and cohomology
+Two-Categorical Bundles and Their Classifying Spaces
+Homological algebra in bivariant K-theory and other triangulated categories
+Higher K-theory via universal invariants
+On the noncommutative spin geometry of the standard Podles sphere and index computations
+Differential Twisted K-theory and Applications
+K-theoretic exceptional collections at roots of unity
+Index eta and rho-invariants on foliated bundles
+D-branes and bivariant K-theory
+The equivariant K-theory of toric varieties
+Multitransgression and regulators
+Sur la conjecture de Zagier pour n4
+Some Fr 'echet algebras for which the Chern character is an isomorphism
+Quillen's relative Chern character is multiplicative
+Kuranishi homology and Kuranishi cohomology: a User's Guide
+The Steinberg Variety and Representations of Reductive Groups
+A K-theoretic L2-index theorem for families
+Fibrations with noncommutative fibers
+Integral Deligne Cohomology for Real Varieties
+Duality Theorem for Motives
+The Avrunin-Scott theorem for quantum complete intersections
+Higher localized analytic indices and strict deformation quantization
+Le theoreme de periodicite en K-theorie hermitienne
+Fredholm modules over certain group C -algebras
+K-homology of the rotation algebras A theta
+The noncommutative geometry of the discrete Heisenberg group
+Secondary invariants for Frechet algebras quasihomomorphisms and the residue Chern character
+Coarse topology enlargeability and essentialness
+D-branes KK-theory and duality on noncommutative spaces
+Rings without a Gorenstein analogue of the Govorov-Lazard Theorem
+On the vanishing of cohomology in triangulated categories
+Ext-symmetry over quantum complete intersections
+Twisted K-theory and K-theory of bundle gerbes
+T-Duality: Topology Change from H-flux
+D-Branes RR-Fields and Duality on Noncommutative Manifolds
+The Atiyah-Singer index theorem and the gauge field copy problem
+Simplicial homology and Hochschild cohomology of Banach semilattice algebras
+Free crossed resolutions from simplicial resolutions with given CW-basis
+Deformation bicomplex of module-algebras
+Equivariant Lefschetz maps for simplicial complexes and smooth manifolds
+C -Algebras over Topological Spaces: The Bootstrap Class
+Homological algebra in bivariant K-theory and other triangulated categories. II
+Index of transversally elliptic operators
+Uniqueness of pairings in Hopf-cyclic cohomology
+The Lawson-Yau Formula and its generalization
+Support varieties and the Hochschild cohomology ring modulo nilpotence
+The Mayer-Vietoris principle for Grothendieck-Witt groups of schemes
+Sur les formules locales de l'indice
+Operations in Milnor K-theory
+K-Theory D-Branes and Ramond-Ramond Fields
+Cyclic Homologies of Crossed Modules of Algebras
+Determinants of perfect complexes and Euler characteristics in relative K 0-groups
+A limit approach to group homology
+d -Koszul algebras 2- d determined algebras and 2- d -Koszul algebras
+On the algebraic index for riemannian 'etale groupoids
+Koszul duality for monoids and the operad of enriched rooted trees
+Real secondary index theory
+On cohomology rings of infinite groups
+Deformation theory of dialgebra morphisms
+The KH -Isomorphism Conjecture and Algebraic KK -theory
+The Gauss higher relative class number problem
+Formality theorems for Hochschild complexes and their applications
+Complexity and cohomology of cohomological Mackey functors
+Description of the vector G -bundles over G -spaces with quasi-free proper action of discrete group G
+On embedding of the Bratteli diagram into a surface
+Homological index formulas for elliptic operators over C -algebras
+Lefschetz numbers for C -algebras
+Homotopy theory of Spectral categories
+On the relative and bi-relative K-theory of rings of finite characteristic
+Topological conjugacy classes of affine maps
+Higher central extensions and Hopf formulae
+K-theory for the maximal Roe algebra of certain expanders
+K-Theory for operator algebras. Classification of C -algebras
+Fibre product approach to index pairings for the generic Hopf fibration of SU q(2)
+On complexes of finite complete intersection dimension
+Induction for Banach algebras groupoids and KK ban
+The Bost conjecture open subgroups and groups acting on trees
+A generalised Green-Julg theorem for proper groupoids and Banach algebras
+Homological matrices
+Cofibrations in Homotopy Theory
+On finite dimensionality of mixed Tate motives
+Nonisomorphic Verdier octahedra on the same base
+On operations and characteristic classes
+Notes on the biextension of Chow groups
+Localization theory for triangulated categories
+On bundles related to groupoids of matrix subalgebras
+A 1-homotopy groups excision and solvable quotients
+Norm functors and effective zero cycles
+Two-sided vector spaces
+Equivariant K-theory of finite dimensional real vector spaces
+The motivic fundamental group of the punctured projective line
+The cyclotomic trace for symmetric ring spectra
+A calculation of the multiplicative character
+Categorical rings subsume ann-categories
+Spaces with vanishing l sp 2 -homology and their fundamental groups (after Farber and Weinberger)
+Support varieties for modules over stacked monomial algebras
+The cohomology of motivic A(2)
+The transfer in mod-p group cohomology between Sigma p int Sigma p n-1 Sigma p n-1 int Sigma p and Sigma p n
+The ring structure for equivariant twisted K-theory
+On the Equivalence of Geometric and Analytic K-Homology
+Equivariant K-theory and Equivariant Cohomology
+Algebraic K-theory of hyperbolic 3-simplex reflection groups
+A chain morphism for Adams operations on rational algebraic K-theory
+Product formula for Atiyah-Patodi-Singer index classes and higher signatures
+Exact Categories
+Duality and products in algebraic (co)homology theories
+Matrix invariants of Spectral categories
+The l -adic K -theory of a p -local field
+Spectral Filtrations via Generalized Morphisms
+Coxeter transformation and inverses of Cartan matrices for coalgebras
+K 1 of a p-adic group ring I. The determinantal image
+On the Grothendieck groups of toric stacks
+On the vanishing of homology for modules of finite complete intersection dimension
+On growth in totally acyclic minimal complexes
+p -adic Cocycles and their Regulator Maps
+Cylindrical Homomorphisms and Lawson Homology
+Adams operations in smooth K-theory
+The higher-dimensional amenability of tensor products of Banach algebras
+Equivalence of higher torsion invariants
+Completing Verlinde Algebras
+Algebraic cycles and completions of equivariant K-theory
+Arithmetic homology and an integral version of Katos conjecture
+Reflexivity in Derived Categories
+On multilinearity and skew-symmetry of certain symbols in motivic cohomology of fields
+Homology stability for the special linear group of a field and Milnor-Witt K-theory
+Limits over categories of extensions
+DG-category and simplicial bar complex
+Non-abelian Hopf Cohomology of Radford products
+Cubical Homology of Asynchronous Transition Systems
+An index theorem for manifolds with boundary
+Nilpotency of Bocksteins Kropholler's hierarchy and a conjecture of Moore
+Cyclic theory for commutative differential graded algebras and s-cohomology
+Extensions of Formal Hodge Structures
+A Hochschild Cohomology Comparison Theorem for prestacks
+On the nonexistence of higher twistings
+K-teoria de operadores pseudodiferenciais com simbolos semi-periodicos no cilindro (in Portuguese)
+Derived Equivalence induced by n -tilting modules
+Module theory over Leavitt path algebras and K -theory
+The Dennis' Supertrace and the Hochschild Homology of Supermatrices
+On the Morita invariance of the Hochschild homology of superalgebras
+On the cyclic homology of supermatrices
+Factoring the Becker-Gottlieb Transfer Through the Trace Map
+Base change and K-theory for GL(n R)
+A Spectral Sequence for the K-theory of Tiling Spaces
+Transfer maps and nonexistence of joint determinant
+Localization over complex-analytic groupoids and conformal renormalization
+A converse to the Whitehead Theorem
+Left determined model structures for locally presentable categories
+Generalization of a going-down theorem in the category of Chow-Grothendieck motives due to N. Karpenko
+On Kurosh problem in varieties of algebras
+Adams operations on higher arithmetic K-theory
+Two classes of algebras with infinite Hochschild homology
+PV cohomology of pinwheel tilings their integer group of coinvariants and gap-labelling
+Equivalences induced by infinitely generated tilting modules
+Flat Model Structures for Nonunital Algebras and Higher K-Theory
+Examples of Auslander-Reiten components in the bounded derived Category
+Cycle modules and the intersection A-infinity algebra
+The equivariant index theorem in entire cyclic cohomology
+Comparison of spectral sequences involving bifunctors
+Noncommutative correspondences duality and D-branes in bivariant K-theory
+Bloch-Wigner theorem over rings with many units
+Noncommutative correspondence categories simplicial sets and pro C -algebras
+Isomorphismusvermutungen und 3-Mannigfaltigkeiten
+A note on third homology of GL 2
+Cubical Resolutions and Derived Functors
+Chern classes on differential K-theory
+Hochschild cohomology and support varieties for tame Hecke algebras
+Dualit 'e de Van den Bergh et Structure de Batalin-Vilkovisky sur les alg ebres de Calabi-Yau
+Motivic strict ring models for K-theory
+L'invariant de Suslin en caract 'eristique positive
+The Drinfel'd Double and Twisting in Stringy Orbifold Theory
+On the Whitehead spectrum of the circle
+Cyclic cocycles on deformation quantizations and higher index theorems
+Continuous trace C -algebras gauge groups and rationalization
+On the (non)vanishing of some derived categories of curved dg algebras
+Local-Global Principle for Transvection Groups
+Formality theorems for Hochschild chains in the Lie algebroid setting
+Bredon homology and equivariant K-homology of SL(3 Z)
+Equivariant K-homology for some Coxeter groups
+Theorie homotopique des DG-categories
+Topological Hochschild homology of l and ko
+The Twisted Higher Harmonic Signature for Foliations
+Formality of DG algebras (after Kaledin)
+Local index formula and twisted spectral triples
+Autour des r 'esultats d'annulation cohomologique de Scorichenko
+Linear Algebra Over a Ring
+Vanishing Theorems for Real Algebraic Cycles
+Moving Lemma for additive Chow groups and applications
+Injective Stability for K 1 of Classical Modules
+The stabilization theorem for proper groupoids
+The depth formula for modules with reducible complexity
+Morita equivalence and characteristic classes of star products
+Riemann-Roch and index formulae in twisted K-theory
+Functoriality of Isovariant Homotopy Classification
+Strictification of categories weakly enriched in symmetric monoidal categories
+A telescope comparison lemma for THH
+Hochschild Cohomology of Algebras in Monoidal Categories and Splitting Morphisms of Bialgebras
+The Mukai pairing I: the Hochschild structure
+The Mukai pairing II: the Hochschild-Kostant-Rosenberg isomorphism
+Volumes of symmetric spaces via lattice points
+Rings modules and algebras in infinite loop space theory
+The K-Theory of Heegaard-Type Quantum 3-Spheres
+Derived categories of sheaves: a skimming
+The localization sequence for the algebraic K-theory of topological K-theory
+K-theory of the norm functor
+Lifting Lie algebras over the residue field of a discrete valuation ring
+General linear and functor cohomology over finite fields
+Periodic cyclic homology of reductive p-adic groups
+On the Hochschild (co)homology of Quantum Homogeneous Spaces
+Sur l'homologie des groupes orthogonaux et symplectiques a coefficients tordus
+Higher-dimensional categories with finite derivation type
+Cellular covers of cotorsion-free modules
+Finite and torsion KK-theories
+A class of nonassociative algebras including flexible and alternative algebras operads and deformations
+Periodic cyclic homology of affine Hecke algebras
+Quelques classes caracteristiques en theorie des nombres
+Geometry of the smooth dual of GL(n)
+A proof of the Baum-Connes conjecture for reductive adelic groups
+On K 1 of a Waldhausen category
+R-groups and geometric structure in the representation theory of SL(N)
+Representations and K -theory of Discrete Groups
+Projective module description of the q-monopole
+Periodic cyclic homology of certain nuclear algebras
+Twisted higher index theory on good orbifolds II: fractional quantum numbers
+Strong Connections and Chern-Connes Pairing in the Hopf-Galois Theory
+On the relation of Voevodsky's algebraic cobordism to Quillen's K-theory
+Leibniz algebra deformations of a Lie algebra
+The Bernstein-Gelfand-Gelfand complex and Kasparov theory for SL(3 C)
+Cobordism invariance of the family index
+Hopf cyclic cohomology in braided monoidal categories
+Coactions on Hochschild Homology of Hopf-Galois Extensions and Their Coinvariants
+Distributive lattices and cohomology
+Equivariant Poincar 'e duality for quantum group actions
+The signature package on Witt spaces I. Index classes
+Extensions and renormalized traces
+On the derived functors of the third symmetric-power functor
+An algorithmic approach to Dold-Puppe complexes
+The signature package on Witt spaces II. Higher signatures
+Quantum differentiation and chain maps of bimodule complexes
+On the dimension of some real bounded rank matrix spaces
+New Cases of Differential Rigidity for Non-Generic Partially Hyperbolic Actions
+Unitary SK1 of graded and valued division algebras I
+Algebraic K-theory of the fraction field of topological K-theory
+Separable K-Linear Categories
+K-theory for ring C -algebras attached to function fields
+A note on Quadratic and Hermitian Groups
+Superconnections Anomalies and Non-BPS Brane Charges
+D-Branes Tachyons and K-Homology
+Twisted K-Theory of Lie Groups
+Geometric K-Homology of Flat D-Branes
+KO-Homology and Type I String Theory
+Deformation quantization and the Baum-Connes conjecture
+Pattern equivariant functions and cohomology
+An exact sequence for Milnor's K-theory with applications to quadratic forms
+Equivariant K-theory generalized symmetric products and twisted Heisenberg algebra
+Asymptotic Spectral Measures Quantum Mechanics and E-theory
+Graph C -algebras and Z 2Z-quotients of quantum spheres
+Spectral triples and associated Connes-de Rham complex for the quantum SU(2) and the quantum sphere
+Fredholm Modules for Quantum Euclidean Spheres
+On hermitian-holomorphic classes related to uniformization the dilogarithm and the Liouville Action
+On motivic decompositions arising from the method of Bialynicki-Birula
+Tame class field theory for arithmetic schemes
+Stringy K-theory and the Chern character
+Cohomology of 3-dimensional color Lie algebras
+Hopf Modules and Noncommutative Differential Geometry
+A pairing between super Lie-Rinehart and periodic cyclic homology
+Relative pairing in cyclic cohomology and divisor flows
+Periodicity and the determinant bundle
+An index theorem for Wiener--Hopf operators
+The K-theoretic Farrell-Jones Conjecture for hyperbolic groups
+Index theory and partitioning by enlargeable hypersurfaces
+Gerbes on orbifolds and exotic smooth R 4
+Ranks of operators in simple C -algebras
+Suslin's singular homology and cohomology
+Massey Product and Twisted Cohomology of A-infinity Algebras
+A rigid analytical regulator for the K 2 of Mumford curves
+On the kernel and the image of the rigid analytic regulator in positive characteristic
+The rigid analytical regulator and K 2 of Drinfeld modular curves
+Quantum group actions on rings and equivariant K-theory
+Secondary Invariants for String Bordism and tmf
+Description of G-bundles over G-spaces with quasi-free proper action of discrete group II
+The characteristic cohomology class of a triangulated category
+Abelian subcategories closed under extensions: K-theory and decompositions
+Refining thick subcategory theorems
+A higher index theorem for foliated manifolds with boundary
+A triangulated category without models
+Chow motives without projectivity
+Notes on Artin-Tate motives
+Group cohomology with coefficients in a crossed-module
+The Eilenberg-Watts theorem over schemes
+Hermitian K-theory and 2-regularity for totally real number fields
+Holonomy twisting cochains and characteristic classes
+Absence of torsion for NK 1(R) over associative rings
+Perfect forms and the cohomology of modular groups
+Exotic smooth R 4 noncommutative algebras and quantization
+Identities of dual Leibniz algebras
+A complete g -vector for convex polytopes
+On the homology of the dual de Rham complex
+An index theorem to solve the gap-labeling conjecture for the pinwheel tiling
+Gottlieb and Whitehead center groups of projective spaces
+Homology of graded Hecke algebras
+On the construction and topological invariance of the Pontryagin classes
+Lower algebraic K-theory of certain reflection groups
+Hochschild cohomology of socle deformations of a class of Koszul self-injective algebras
+K -theory of cones of smooth varieties
+Batanin's category of pruned trees is Koszul
+Symmetric monoidal structure on Non-commutative motives
+Invariance results for pairings with algebraic K-theory
+Parshin's conjecture and motivic cohomology with compact support
+Springer's theorem for tame quadratic forms over Henselian fields
+Algebraic cobordism of bundles on varieties
+Motivic connective K-theories and the cohomology of A(1)
+Descent properties of equivariant K-theory
+Anick-type resolutions and consecutive pattern avoidance
+On rings and categories of general representations
+Splitting in the K-theory localization sequence of number fields
+A universal characterization of the Chern character maps
+Hopf cyclic cohomology and Hodge theory for proper actions
+On non-commutative twisting in etale and motivic cohomology
+An algorithmic approach to resolutions
+Hilbert 0 for Galois cohomology
+Noncommutative del Pezzo surfaces and Calabi-Yau algebras
+DG-algebras and derived A-infinity algebras
+Iwasawa theory of totally real fields for certain non-commutative p -extensions
+The lazy homology of a Hopf algebra
+Deformation quantization modules II. Hochschild class
+Derived Mackey functors
+The Borel Conjecture for hyperbolic and CAT(0)-groups
+On the algebraic K-theory of the complex K-theory spectrum
+Inductive construction of the p-adic zeta functions for non-commutative p-extensions of totally real fields with exponent p
+The limit of F p-Betti numbers of a tower of finite covers with amenable fundamental groups
+Comparing invariants of SK1
+Slices and Transfers
+On Coarse Spectral Geometry in Even Dimension
+Stability of rings
+Cyclotomic complexes
+Cohomology ring of differential operator rings
+On P -generic Splitting Varieties for Milnor K-symbols mod P
+On the vanishing of the lower K-theory of the Holomorph of a free group on two generators
+Universal suspension via Non-commutative motives
+Some aspects of the functor K 2 of fields
+On the classification and properties of noncommutative duplicates
+Bass' NK groups and cdh -fibrant Hochschild homology
+Grothendieck Group and Generalized Mutation Rule for 2-Calabi--Yau Triangulated Categories
+Koszul duality in deformation quantization and Tamarkin's approach to Kontsevich formality
+On the Hochschild homology of elliptic Sklyanin algebras
+Tensor-triangulated categories and dualities
+Geometric description of the connecting homomorphism for Witt groups
+Biextensions of 1-motives in Voevodsky's category of motives
+Deligne's conjecture on extensions of 1-motives
+The higher fixed point theorem for foliations I. Holonomy invariant currents
+The Koszul complex is the cotangent complex
+Amenable actions invariant means and bounded cohomology
+Atiyah's L 2 -Index theorem
+The C -algebra of a vector bundle
+From acyclic groups to the bass conjecture for amenable groups
+A negative answer to a question of Bass
+The yoga of schemic Grothendieck rings a topos-theoretical approach
+Central extension of graded Lie algebras
+K-theoretical boundary rings in N2 coset models
+Quantum even spheres Sigma q 2n from Poisson double suspension
+Bijectivity of the canonical map for the noncommutative instanton bundle
+Hochschild duality localization and smash products
+A partial A infty -structure on the cohomology of C n times C m
+The Mukai pairing I: a categorical approach
+The Entire Cyclic Cohomology of Noncommutative 2-Tori
+The second homology group of current Lie algebras
+On Wagoner complexes
+On K -theory automorphisms related to bundles of finite order
+A general framework for homotopic descent and codescent
+The Entire Cyclic Cohomology of Noncommutative 3-Spheres
+Traces on finite W-algebras
+The coarse Baum--Connes conjecture and groupoids II
+Cohomology and Deformations of Hom-algebras
+Closed manifolds with transcendental L2-Betti numbers
+The K -groups and the index theory of certain comparison C -algebras
+Equivariant homology for pseudo-differential operators
+Twisted longitudinal index theorem for foliations and wrong way functoriality
+Orientable homotopy modules
+Intrinsic brackets and the L infty -deformation theory of bialgebras
+The topology of T-duality for T n-bundles
+Homology of perfect complexes
+Locally Compact Objects in Exact Categories
+Calculation of UNil for the cyclic group of order two
+Quasihomomorphisms and the residue Chern character
+Noncommutative calculus and the Gauss-Manin connection
+The cyclic theory of Hopf algebroids
+Connected gradings and fundamental group
+An interpretation of E n-homology as functor homology
+On a conjecture by Boyd
+Kervaire--Murthy conjecture Ullom's inequality and Iwaswa numbers
+K-theory and the Enriched Tits Building
+Transversal Dirac operators on distributions foliations and G-manifolds: Lecture notes
+A splitting for K 1 of completed group rings
+K-groups of the quantum homogeneous space SU q (n) SU q (n-2)
+Transfer maps and projection formulas
+The acyclic group dichotomy
+A Composition Formula for Asymptotic Morphisms
+Galois invariants of K 1-groups of Iwasawa algebras
+Simplicial homotopy in semi-abelian categories
+On the derived category of a regular toric scheme
+Equivariant T-Duality of Locally Compact Abelian Groups
+On the Grassmannian homology of mathbbm F 2 and mathbbm F 3
+Tensor Structure on Smooth Motives
+Classification of equivariant vector bundles over two-torus
+The eta invariant and equivariant index of transversally elliptic operators
+The KO -rings of BT m the Davis-Januszkiewicz Spaces and certain toric manifolds
+The Relative Chern Character and Regulators
+Corrigendum: Uniqueness of smooth extensions of generalized cohomology theories
+(a b)-Koszul algebras
+Filtrations in abelian categories with a tilting object of homological dimension two
+Local index theorem for projective families
+Extensions and biextensions of locally constant group schemes tori and abelian schemes
+Derived H -module endomorphism rings
+Continuous Control and the Algebraic L-theory Assembly Map
+Mapping class groups are linear
+K-Theory of non-linear projective toric varieties
+The Linearisation Map in Algebraic K-Theory
+Ring completion of rig categories
+Induction and computation of Bass Nil Groups for finite groups
+The C -algebras qA otimes K and S 2A otimes K are asymptotically equivalent
+Twisted Homology of Quantum SL(2) - Part II
+Topological obstructions to embedding of a matrix algebra bundle into a trivial one
+On the vanishing of negative K-groups
+K-theoretic rigidity and slow dimension growth
+Gautchi's ratio and the Volume of the unit ball in R n
+Higher Dimensional Homology Algebra III:Projective Resolutions and Derived 2-Functors in (2-SGp)
+Homology of finite K-area
+On the Stickelberger splitting map in the K --theory of number fields
+1 Lectures on K-Theory
+A residue formula for the fundamental Hochschild class of the Podles sphere
+The Kneser-Tits conjecture for groups with Tits-index E  2  over an arbitrary field
+Stable categories and reconstruction
+Families of Dirac operators and quantum affine groups
+Higher Dimensional Homology Algebra IV:Projective Resolutions and Derived 2-Functors in ( cR -2-Mod)
+Some applications for Fadell-Dold theorm in fibration theory by using homotopy groups
+On classifying Hurewicz fibrations and fibre bundles over polyhedron bases
+Puzzles positroid varieties and equivariant K-theory of Grassmannians
+Higher Dimensional Homology Algebra V:Injective Resolutions and Derived 2-Functors in ( cR -2-Mod)
+Buildings Group Homology and Lattices
+Motivic twisted K-theory
+Separable Functors and Formal Smoothness
+Homotopy approximations to the space of knots Feynman diagrams and a conjecture of Scannell and Sinha
+Some naturally ocurring examples of A-infinity bialgebras
+Smooth K-Theory
+A Note on Kasparov Product and Duality
+Groups with the same cohomology as their profinite completions
+Generalized Frobenius Algebras and the Theory of Hopf Algebras
+Homotopy types of reduced 2-nilpotent simplicial groups
+The Mukai pairing and integral transforms in Hochschild homology
+Groups with the same cohomology as their pro- p completions
+RO(S 1)-graded TR-groups of F p Z and ell
+Weight structures and motives comotives coniveau and Chow-weight spectral sequences and mixed complexes of sheaves: a survey
+Duality correspondences and the Lefschetz map in equivariant KK-theory: a survey
+On homotopy groups of the suspended classifying spaces
+The third cohomology group classifies crossed module extensions
+Universal deformation formulas and braided module algebras
+Abelian and derived deformations in the presence of Z-generating geometric helices
+A geometric criterion for generating the Fukaya category
+Integral Excision for K-Theory
+On the Algebraic K-theory of Monoids
+Lattices and Cohomology
+Segal Enriched Categories I
+Unitary SK 1 of semiramified graded and valued division algebras
+The cohomology of lambda-rings and K-theory
+Somekawa's K-groups and Voevodsky's Hom groups (preliminary version)
+Quasi-weak equivalences in complicial exact categories
+Cup products in Hopf cyclic cohomology with coefficients in contramodules
+Edinburgh Lectures on Geometry Analysis and Physics
+K-Theoretic Duality for Hyperbolic Dynamical Systems
+Using homological duality in consecutive pattern avoidance
+The Baum-Connes conjecture noncommutative Poincare duality and the boundary of the free Group
+Heller triangulated categories
+Hochschild cohomology and Atiyah classes
+Cancellation problem for projective modules over affine algebras
+Hochschild and cyclic homology of Yang-Mills algebras
+The extended Bloch group and algebraic K-theory
+Relative Index Pairing and Odd Index Theorem for Even Dimensional Manifolds
+On Type II noncommutative geometry and the JLO character
+2-Modules and the Representation of 2-Rings
+Cycle classes and the syntomic regulator
+A Geometric Construction of Cyclic Cocycles on Twisted Convolution Algebras
+Abel-Jacobi isomorphism for one cycles on Kirwan's resolution of the moduli space SU C(2 O C)
+A classification of finite rank dimension groups by their representations in ordered real vector spaces
+The extension algebra of some cohomological Mackey functors
+Lie triple system central extensions of Lie algebras
+On the cycle map for products of elliptic curves over a p -adic field
+The Picard Group of a Noncommutative Algebraic Torus
+Schur functors and motives
+A Simple Construction of Derived Representation Schemes
+Talbot Workshop 2010 Talk 2: K-Theory and Index Theory
+Homotopy theory of bundles with fiber matrix algebra
+Wheeled PROPs graph complexes and the master equation
+Torsion Invariants for Families
+Divided differences and the Weyl character formula in equivariant K-theory
+An Inverse K-Theory Functor
+On Graded Simple Algebras
+Ascending HNN extensions of polycyclic groups have the same cohomology as their profinite completions
+Relative DGA and mixed elliptic motives
+On the algebraic K-theory of formal power series
+Equivariant K-theory and the Chern character for discrete groups
+Equivariant K-theory for proper actions of non-compact Lie groups
+A classifying space for Phillips' equivariant K-theory
+Galois descent of determinants in the ramified case
+Joint torsion of several commuting operators
+Quaternionic Grassmannians and Pontryagin classes in algebraic geometry
+On the motivic commutative ring spectrum BO
+On the algebraic cobordism spectra MSL and MSp
+On the relation of symplectic algebraic cobordism to hermitian K-theory
+Cyclic structures in algebraic (co)homology theories
+Comparison of Cubical and Simplicial Derived Functors
+Exact sequences for locally convex subalgebras of Pimsner algebras with an application to Quantum Heisenberg Manifolds
+On the topology of T-duality
+A cubical approach to homotopy orbits of circle actions
+The Intrinsic Fundamental Group of a Linear Category
+Relative Chern character boundaries and index formulae
+Proof of Swiss Cheese Version of Deligne's Conjecture
+Fredholm realizations of elliptic symbols on manifolds with boundary II: fibered boundary
+The K -theory spectrum of the reduced group C ast -algebra is a functor
+Sato Grassmannians for generalized Tate spaces
+The new nu -metric induces the classical gap topology
+K-theory of lambda -rings and tensorlike functors
+Twisted bundles and twisted K-theory
+Bounds for Hochschild cohomology of block algebras
+Clifford modules and invariants of quadratic forms
+Higher index theory for certain expanders and Gromov monster groups I
+Higher index theory for certain expanders and Gromov monster groups II
+Lie-Hopf algebras and their Hopf cyclic cohomology
+Structure and K-theory of crossed products by proper actions
+The slice filtration and Grothendieck-Witt groups
+Fredholm realizations of elliptic symbols on manifolds with boundary
+Comparison of secondary invariants of algebraic K-theory
+Galois module structure of Galois cohomology for embeddable cyclic extensions of degree p n
+Torsionfree Dimension of Modules and Self-Injective Dimension of Rings
+Cohomological obstruction theory for Brauer classes and the period-index problem
+Splitting maps and norm bounds for the cyclic cohomology of biflat Banach algebras
+Tensor triangular geometry and KK-theory
+K-Theory for the Leaf Space of Foliations formed by the Generic K-Ornits of some indecomposable MD  -Groups
+On the derived DG functors
+Bivariant cyclic cohomology and Connes' bilinear pairings in Non-commutative motives
+Stable A 1-homotopy and R-equivalence
+Products multiplicative Chern characters and finite coefficients via Non-commutative motives
+Equivalence of Fell Systems and their Reduced C -Algebras
+K-Theory of Azumaya Algebras
+Sur la conjecture de Zagier pour n4. II
+Periodicity of hermitian K-groups
+The cohomology of lambda-rings and Psi-rings
+Scissors Congruence as K-theory
+On special elements in higher algebraic K-theory and the Lichtenbaum-Gross Conjecture
+A p -adic analogue of the Borel regulator and the Bloch-Kato exponential map
+Eta cocycles
+Cech approximation to the Brown-Gersten spectral sequence
+Equivariant extensions of -algebras
+Algebraic K-theory of the first Morava K-theory
+Hopf cyclic cohomology and transverse characteristic classes
+Equivariant Hopf Galois extensions and Hopf cyclic cohomology
+The Bloch-Kato Conjecture and Galois Theory
+Derived equivalences from cohomological approximations and mutations of Phi -Yoneda algebras
+Eta cocycles relative pairings and the Godbillon-Vey index theorem
+Real dimension groups
+Convex polytopes and the index of Wiener-Hopf operators
+The functors Wbar and Diag o Nerve are simplicially homotopy equivalent
+Andre-Quillen cohomology of algebras over an operad
+The integral homology of PSL 2 of imaginary quadratic integers with non-trivial class group
+Gysin map and Atiyah-Hirzebruch spectral sequence
+An Algebraic Proof of Quillen's Resolution Theorem for K 1
+Hochschild cohomology for Lie algebroids
+Injective Envelopes and (Gorenstein) Flat Covers
+On the second cohomology group of a simplicial group
+Some remarks on orbit sets of unimodular rows
+Projective modules over the real algebraic sphere of dimension 3
+Stably free modules over smooth affine threefolds
+Algebraic Geometry of Topological Spaces I
+Homological properties of certain generalized Jacobian Poisson structures in dimension 3
+Classification of equivariant vector bundles over two-sphere
+Derived equivalences for Cohen-Macaulay Auslander algebras
+Chow motives versus non-commutative motives
+Cyclic cocycles on twisted convolution algebras
+Classification of equivariant vector bundles over real projective plane
+About Leibniz cohomology and deformations of Lie algebras
+Bordism Invariance of the Coarse Index
+Operads for n-ary algebras - calculations and conjectures
+Twisted K-theory with coefficients in C -algebras
+Noncommutative Fr 'echet Spaces and Unbounded Bivariant K-Theory
+Finite generation conjectures for cohomology over finite fields
+The fundamental theorem via derived Morita invariance localization and A 1-homotopy invariance
+The Yamabe invariant for non-simply connected manifolds
+The Farrell-Jones isomorphism conjecture for 3-manifold groups
+The isomorphism conjecture for 3-manifold groups and K-theory of virtually poly-surface groups
+An analogue of the Novikov Conjecture in complex algebraic geometry
+Algebraic K-theory of groups wreath product with finite groups
+The isomorphism conjecture in L-theory
+The K-homology class of the Euler characteristic operator is trivial
+The Atiyah conjecture and Artinian rings
+Push-forwards for Witt groups of schemes
+Global Dimension of Polynomial Rings in Partially Commuting Variables
+Smooth varieties up to A 1-homotopy and algebraic h-cobordisms
+String structures and trivialisations of a Pfaffian line bundle
+K-theory of Azumaya algebras over schemes
+The topological K-theory of certain crystallographic groups
+An analogue of Hilbert's Syzygy Theorem for the algebra of one-sided inverses of a polynomial algebra
+On the Orientability of the Slice Filtration
+On modules over valuations
+The Chern-Connes character is not rationally injective
+Cohomology of exact categories and (non-)additive sheaves
+A note on Kasparov products
+The Thom isomorphism in bivariant K-theory
+Motivic intersection complex
+Gerhard Hochschild (11 2010) A Mathematician of the XXth Century
+On a theorem of Hazrat and Hoobler
+K-theory for ring C -algebras attached to function fields with only one infinite place
+Differential algebras with Banach-algebra coefficients I: From C -algebras to the K-theory of the spectral curve
+A functorial equivariant K-theory spectrum and an equivariant Lefschetz formula
+Unsuspended Connective E -Theory
+Lines crossing a tetrahedron and the Bloch group
+Higher K-theory of polynomial categories
+On von Neumann spectral triples
+Foliated group actions and cyclic cohomology
+Pure motives mixed motives and extensions of motives associated to singular surfaces
+Dualities in equivariant Kasparov theory
+On the descending central sequence of absolute Galois groups
+Superconnections and Index Theory
+Invariants of Lie algebras extended over commutative algebras without unit
+Non-existence of invariant symmetric forms on generalized Jacobson-Witt algebras revisited
+Twisted equivariant K-theory groupoids and proper actions
+Ideles in higher dimension
+Identities among relations for higher-dimensional rewriting systems
+Multiplicative 2-cocycles at the prime 2
+Excision in Hochschild and cyclic homology without continuous linear sections
+Free resolutions via Gr obner bases
+Boundary motive relative motives and extensions of motives
+Leavitt path algebras of separated graphs
+A note on K-theory and triangulated derivators
+The main conjecture of Iwasawa theory for totally real fields
+Schur finiteness and nilpotency
+Schur-finiteness and endomorphisms universally of trace zero via certain trace relations
+The Odd Dimensional Analogue of a Theorem of Getzler and Wu
+Positive scalar curvature K-area and essentialness
+Noncommutative motives numerical equivalence and semi-simplicity
+Infinitely generated projective modules over pullbacks of rings
+Derived categories of coherent sheaves and motives of K3 surfaces
+Lambda actions of rings of integers
+Noncommutative elliptic theory. Examples
+On the algebraic K-theory of the coordinate axes over the integers
+Formality theorem for Hochschild cochains via transfer
+Witt groups of complex cellular varieties
+The Stickelberger splitting map and Euler systems in the K --theory of number fields
+On homological stability for orthogonal groups and special orthogonal groups
+Index of elliptic operators for a diffeomorphism
+Leibniz triple systems
+Hochschild homology and cohomology of Generalized Weyl algebras: the quantum case
+The Baum-Connes conjecture for free orthogonal quantum groups
+The minimal model for the Batalin-Vilkovisky operad
+Twisted Spectral Triples and Connes' Character Formula
+Cyclic homology of braided Hopf crossed products
+Homotopy categories and idempotent completeness weight structures and weight complex functors
+On resolutions of diagrams of algebras
+Index character associated to the projective Dirac operator
+K-Theories for Certain Infinite Rank Bundles
+Twisting cochains and higher torsion
+Algebraic K-theory and abstract homotopy theory
+The K -theory of toric varieties
+Relatively spectral morphisms and applications to K-theory
+Relative Chern characters for nilpotent ideals
+K -theory of Leavitt path algebras
+Algebraic v. topological K-theory: a friendly match
+(Non-)Koszulness of operads for n-ary algebras galgalim and other curiosities
+Homotopy invariance for homology of linear groups: the case SL 4
+Operator algebra quantum homogeneous spaces of universal gauge groups
+Verlinde modules and quantization
+Cyclic cohomology of Lie algebras
+A guided tour through the garden of noncommutative motives
+The 0-th stable A 1-homotopy sheaf and quadratic zero cycles
+Third homology of general linear groups over rings with many units
+Third homology of SL 2 and the indecomposable K 3
+Integrality of L2-Betti numbers
+Infinitesimal K-theory
+Cyclic homology of commutative algebras over general ground rings
+On the derived functor analogy in the Cuntz-Quillen framework for cyclic homology
+The obstruction to excision in K-theory and in cyclic homology
+Excision in bivariant periodic cyclic cohomology: a categorical approach
+Cosimplicial versus DG-rings: a version of the Dold-Kan correspondence
+Cyclic homology cdh-cohomology and negative K-theory
+Bivariant algebraic K-Theory
+K-regularity cdh-fibrant Hochschild homology and a conjecture of Vorst
+Comparison between algebraic and topological K-theory of locally convex algebras
+Infinitesimal cohomology and the Chern character to negative cyclic homology
+L2-determinant class and approximation of L2-Betti numbers
+Periodic cyclic homology as sheaf cohomology
+Auslander Bounds and Homological Conjectures
+Spectral triples and the geometry of fractals
+Weight structures and simple dg modules for positive dg algebras
+Comparison of Dualizing Complexes
+Homology and K-theory of the Bianchi groups
+Universal cycles and homological invariants of locally convex algebras
+The Igusa-Todorov function for comodules
+SAYD modules over Lie-Hopf algebras
+Topological K-theory of the group C -algebra of a semi-direct product Z n rtimes Z m for a free conjugation action
+A Hochschild's -term exact sequence for restricted Lie superalgebras
+More counterexamples to Happel's question and Snashall-Solberg's conjecture
+Cacti and filtered distributive laws
+KK-fibrations arising from Rieffel deformations
+Local 3 Index Theorem
+Finitistic Dimension Conjecture and Conditions on Ideals
+Derived categories and syzygies
+Relatively hyperbolic groups rapid decay algebras and a generalization of the Bass conjecture
+On Brill-Noether loci over Quot schemes and a Torelli theorem
+(Co)Simplicial Descent Categories
+Multiplicativity of the JLO-character
+Artin-Tate motivic sheaves with finite coefficients over an algebraic variety
+Geometric K-homology with coefficients I
+On the integral homology of PSL4(Z) and other arithmetic groups
+Actions of Eilenberg-MacLane spaces on K-theory spectra and uniqueness of twisted K-theory
+Tate-Hochschild homology and cohomology of Frobenius algebras
+A bialgebra axiom and the Dold-Kan correspondence
+Polynomially bounded cohomology and discrete groups
+Filtrations of simplicial functors and the Novikov Conjecture
+Quelques cas d'annulation du troisi eme groupe de cohomologie non ramifi 'ee
+Maximal and reduced Roe algebras of coarsely embeddable spaces
+Remarks on filtrations of the homology of real varieties
+Noncommutative numerical motives Tannakian structures and motivic Galois groups
+Cohomology of Restricted Lie-Rinehart Algebras and the Brauer Group
+Lawson Homology for Abelian Varieties
+The K-theory of Heegaard quantum lens spaces
+An Analytic Novikov Conjecture for Semigroups
+Noncommutative Solenoids
+The Cubical Homology of Trace Monoids
+K 1 of certain Iwasawa algebras after Kakde
+On the work of Ritter and Weiss in Comparison with Kakde's Approach
+Supersymmetric WZW models and twisted K-theory of SO(3)
+The Baum-Connes Conjecture for KK-theory
+Representation and character theory in 2-categories
+Triangulated categories without models
+Characterizing group C ast -algebras through their unitary groups: the Abelian case
+Gauge-equivariant Hilbert bimodules and crossed products by endomorphisms
+A counterexample to generalizations of the Milnor-Bloch-Kato conjecture
+Kontsevich formality and PBW algebras
+Bundles of C -algebras and the KK(X - -)-bifunctor
+Poincare isomorphism in K-theory on manifolds with edges
+Atiyah-Bott index on stratified manifolds
+A Characteristic Map for Symplectic Manifolds
+Finite generation of Tate cohomology
+Bundles of C -categories II: C -dynamical systems and Dixmier-Douady invariants
+Index formulas on stratified manifolds
+Differential orbifold K-Theory
+Pseudo-differential Operators and Regularity of Spectral Triples
+Birational invariants and A 1-connectedness
+Deformation quantization modules
+Group homology and ideal fundamental cycles
+Curved Koszul duality theory
+Schur-finiteness in lambda -rings
+Operator-valued pseudo-differential operators and the twisted index pairing
+Derived algebraic geometry determinants of perfect complexes and applications to obstruction theories for maps and complexes
+Jacobi-Zariski Exact Sequence for Hochschild Homology and Cyclic (Co)Homology
+Trivial Witt groups of flag varieties
+Leafwise homotopies and Hilbert-Poincare complexes. I. Regular HP-complexes and leafwise pull-back maps
+G-Theory of F 1-Algebras I: the Equivariant Nishida Problem
+Homogeneous SK1 of simple graded algebras
+Twistings of KR for Real groupoids
+Finite dimensional ordered vector spaces with Riesz interpolation and Effros-Shen's unimodularity conjecture
+Exact Sequences in Non-Exact Categories (An Application to Semimodules)
+Self-dual and quasi self-dual algebras
+Uniformization and an Index Theorem for Elliptic Operators Associated with Diffeomorphisms of a Manifold
+The convolution algebra structure on K G( mathcal B times mathcal B )
+Six-Term Exact Sequences for Smooth Generalized Crossed Products
+Categorical Foundations for K-Theory
+On the homology of almost Calabi-Yau algebras associated to SU(3) modular invariants
+Tensor functor from Smooth Motives to motives over a base
+A descent homomorphism for semimultiplicative sets
+Algebraic analogue of Atiyah's theorem
+Layer potentials C -algebras of domains with conical points
+The resolvent cocycle in twisted cyclic cohomology and a local index formula for the Podles sphere
+On modular semifinite index theory
+Characteristic classes of transitive Lie algebroids. Categorical point of view
+Weight structure on noncommutative motives
+Index defects in the theory of spectral boundary value problems
+Crossed Products by Endomorphisms Vector Bundles and Group Duality
+The C -algebra of a vector bundle and fields of Cuntz algebras
+On the functoriality of cohomology of categories
+Bundles of C -categories and duality
+The 1-type of a Waldhausen K-theory spectrum
+Relative hyperbolicity classifying spaces and lower algebraic K-theory
+On the homotopy classification of elliptic operators on stratified manifolds
+KK-theoretic duality for proper twisted actions
+Non-commutative Hodge-to-de Rham degeneration via the method of Deligne-Illusie
+Cyclic homology with coefficients
+Hodge realizations of 1-motives and the derived Albanese
+Non connective K-theory via universal invariants
+Eta forms and the odd pseudodifferential families index
+Projective resolutions for modules over infinite groups
+Periodicity in the stable representation theory of crystallographic groups
+Integral objects and Deligne's category Rep(S t)
+Moduli of PT-Semistable Objects I
+The signature package on Witt spaces
+Grothendieck's Homotopy Hypothesis
+Exponents of Zero divisors in the Cohomology ring of a finite group
+Pseudodifferential extension and Todd class
+Bordisms of manifolds with proper action of a discrete group: signatures and descriptions of G -bundles
+The Chern-Connes Character for pseudodifferential operators on the sphere
+Some inverse limits of Cuntz algebras
+On adjoint functors of the Heller operator
+On de Rham Cohomology of Linear Categories
+Pseudodifferential operators on manifolds with fibred corners
+The localized longitudinal index theorem for Lie groupoids and the van Est map
+On the Index Formula for an Isometric Diffeomorphism
+Morita homotopy theory of C -categories
+Milnor K -groups modulo p n of a complete discrete valuation field
+An index formula for perturbed Dirac operators on Lie manifolds
+(Co)cyclic (co)homology of bialgebroids: An approach via (co)monads
+Examples of para-cocyclic objects induced by BD-laws
+How Euler would compute the Euler-Poincar 'e characteristic of a Lie superalgebra
+Hodge Theory on Metric Spaces
+Semi-topological cycle theory I
+Sheaves and K -theory for mathbb F 1 -schemes
+Sur l'homologie des groupes unitaires a coefficients polynomiaux
+p-adic J-homomorphisms and a product formula
+A Dirac Morphism for the Farrell-Jones Isomorphism Conjecture in K-Theory
+Measures on Cantor sets: the good the ugly the bad
+Topological K-(co-)homology of classifying spaces of discrete groups
+Secondary Theories for etale groupoids
+Completion theorem for equivariant K -theory
+Homology stability for symplectic groups
+C -Algebras over Topological Spaces: Filtrated K-Theory
+The fundamental isomorphism conjecture via non-commutative motives
+On the H -ring structure of infinite Grassmannians
+Bounded and unbounded Fredholm modules for quantum projective spaces
+R 'ealisations de Hodge des motifs de Voevodsky
+Localizing subcategories in the Bootstrap category of separable C -algebras
+On the asymptotic S n-structure of invariant differential operators on symplectic manifolds
+Differential K-theory. A survey
+Universal coefficient theorems for C -algebras over finite topological spaces
+MC Elements in Pronilpotent DG Lie Algebras
+Realizable homotopy colimits
+A cohomological study of local rings of embedding codepth 3
+A new construction of cyclic homology
+Spectral multiplicity and odd K-theory-II
+On groupoids with involutions and their cohomology
+On deformations of triangulated models
+Tetramodules over a bialgebra form a 2-fold monoidal category
+On 2-Holonomy
+Noncommutative Poisson structures derived representation schemes and Calabi-Yau algebras
+On motives of algebraic groups associated to a divsion algebra
+Algebra HomotopyOperad
+Gorenstein homological theory for differential modules
+Quillen's work on the foundations of cyclic cohomology
+Cycle classes for p-adic 'etale Tate twists and the image of p-adic regulators
+Polynomially bounded cohomology and the Novikov Conjecture
+Box splines and the equivariant index theorem
+Restriction maps in equivariant KK -theory
+A ghost ring for the left-free double Burnside ring and an application to fusion systems
+Higher spectral flow and an entire bivariant JLO cocycle
+Riemannian manifolds in noncommutative geometry
+Projective twists in A-infinity categories
+Monoidal cofibrant resolutions of dg algebras
+On Kazhdan's Property (T) for the special linear group of holomorphic functions
+A computation with the Connes-Thom isomorphism
+Proper Resolutions and Gorenstein Categories
+The isomorphism conjecture in L-theory: graphs of groups
+Torsion in the full orbifold K-theory of abelian symplectic quotients
+Cyclic Homology of Strong Smash Product Algebras
+Hochschild (co)homology of the Dunkl operator quantization of Z 2 -singularity
+Exotic smooth structures on topological fibre bundles II
+Bounded homotopy theory and the K -theory of weighted complexes
+A variant of the Mukai pairing via deformation quantization
+Equivariant Kasparov theory of finite groups via Mackey functors
+On a quantitative operator K-theory
+Shuffle algebras homology and consecutive pattern avoidance
+On compact generation of deformed schemes
+Exotic smooth structures on topological fibre bundles I
+Circle actions on a quantum Seifert manifold
+(Co)homology of abelian groups with (co)invariant coefficients modules
+A note on the isomorphism conjectures for Leavitt path algebras
+K-amenability of HNN extensions of amenable discrete quantum groups
+The third homology of SL 2 of higher-dimensional local fields
+Real embeddings eta invariant and Chern-Simons current
+Degree formula for connective K-theory
+The Atiyah-Patodi-Singer index theorem for Dirac operators over C -algebras
+Surgery groups of the fundamental groups of hyperplane arrangement complements
+The homology of digraphs as a generalisation of Hochschild homology
+On the K- and L-theory of hyperbolic and virtually finitely generated abelian groups
+Support varieties and representations of tame basic classical Lie superalgebras
+The Chern Character of Certain Infinite Rank Bundles arising in Gauge Theory
+De Rham cohomology and homotopy Frobenius manifolds
+Property (RD) for Hecke pairs
+Formal Groups Witt vectors and Free Probability
+Idempotent deformations of finite groups
+Homology of the Koszul complex of a system of polynomial equations
+Koszul complexes of embedded systems of polynomials and duality
+K-theory of noncommutative Bieberbach manifolds
+K2 of localisations of local rings
+Serre-Godeaux varieties and the etale index
+Operads clones and distributive laws
+On the K-theory of crossed products by automorphic semigroup actions
+The Grothendieck group of an n-angulated category
+Homotopy unital A infinity-algebras
+A infinity-morphisms with several entries
+The Cuntz semigroup of continuous fields
+Surgery on widetilde Bbb SL times Bbb E n -manifolds
+Twisted second homology groups of the automorphism group of a free group
+Quantisation commutes with reduction at discrete series representations of semisimple groups
+Net bundles over posets and K-theory
+Homological interpretation of extensions and biextensions of 1-motives
+Bivariant K-theory via correspondences
+Equivariant embedding theorems and topological index maps
+Some considerations on the nonabelian tensor square of crystallographic groups
+E-Theory for C -algebras over topological spaces
+Localisation and colocalisation of KK-theory at sets of primes
+Analytic formulas for topological degree of non-smooth mappings: the odd-dimensional case
+Hochschild (co)homology of the second kind I
+Commuting powers and exterior degree of finite groups
+Galois groups and cohomological functors
+Finite quotients of symplectic groups vs mapping class groups
+L 2 -index formula for proper cocompact group actions
+A remark on the Isomorphism Conjectures
+On discontinuities of cocycles in cohomology theories for topological groups
+On the conjectural cohomology for groups
+Algebraic Kasparov K-theory. II
+The product structure of the equivariant K-theory of the based loop group of SU(2)
+Higher arithmetic Chern character
+Local Hochschild Homology of Hilbert-Schmidt Operators on Simplicial Spaces
+Thom-Porteous formulas in algebraic cobordism
+Homogeneous Vector Bundles on Symplectic Grassmannians
+Stabilization of the category of simplicial objects in CAT
+A Course on Derived Categories
+Rigidity and Vanishing Theorems in K-Theory I
+Superpotential algebras and manifolds
+Motivic integral of K3 surfaces over a non-archimedean field
+On the algebraic K-theory of Witt vectors of finite length
+Uniqueness of the multiplicative cyclotomic trace
+Tensor triangular geometry of non-commutative motives
+Toric varieties monoid schemes and cdh descent
+Non-commutative Hodge structures: Towards matching categorical and geometric examples
+The homological torsion of PSL 2 of the imaginary quadratic integers
+Central units of integral group rings
+Large N Duality Mirror Symmetry and a Q-deformed A-polynomial for Knots
+A Relative Theory for Leibniz n-Algebras
+On A 1-fundamental groups of isotropic reductive groups
+Cohomology theories with supports
+Elliptic theory for operators associated with diffeomorphisms of smooth manifolds
+On the algebraic K-theory of Spec Z N
+Monodromy of Gauss-Manin connection for deformation by group cocycles
+Low-dimensional representations of matrix groups and group actions on CAT(0) spaces and manifolds
+The homotopy category of N-complexes is a homotopy category
+Free products cyclic homology and the Gauss-Manin connection
+Reduced Steenrod operations and resolution of singularities
+Higher-dimensional normalisation strategies for acyclicity
+Integrality of the Chern character in small codimension
+PBW-deformations and deformations a la Gerstenhaber of N-Koszul algebras
+Higher algebraic K -groups and mathcal D -split sequences
+K'-Theory of a Local Ring of Finite Cohen-Macaulay Type
+Motives of Deligne-Mumford Stacks
+Fox-Neuwirth cell structures and the cohomology of symmetric groups
+Products in Generalized Differential Cohomology
+Notes on Algebraic Operads Graph Complexes and Willwacher's Construction
+The Gm-equivariant Motivic Cohomology of Stiefel Varieties
+A relative higher index theorem diffeomorphisms and positive scalar curvature
+The syntomic regulator for K 4 of curves
+Algebraic Definition of weak ( infty n)-Categories
+Finitely summable Fredholm modules for boundary actions of hyperbolic groups
+A singular analogue of Gersten's conjecture and applications to K-theoretic adeles
+Algebraic K-theory of endomorphism rings
+Wild Kernels and divisibility in K-groups of global fields
+On a definition of multi-koszul algebras
+Semiregularity as a consequence of Goodwillie's theorem
+The maximal coarse Baum-Connes conjecture for spaces which admit a fibred coarse embedding into Hilbert space
+Applications of Asymptotic Riesz Representation Theorem
+Generalization of the Menger's Theorem to Simplicial Complexes and Certain Invariants of the Underlying Topological Spaces
+A Borel-Weil-Bott type theorem of quantum shuffle algebras
+Hochster's theta pairing and numerical equivalence
+K-duality for stratified pseudomanifolds
+Equivariant K-theory groupoids and proper actions
+Caldararu's conjecture and Tsygan's formality
+Homological stability for classical groups
+On the Functoriality of the Slice Filtration
+A relative version of the ordinary perturbation lemma
+The Pimsner-Voiculescu sequence for coactions of compact Lie groups
+A spectral sequence for the Hochschild cohomology of a coconnective dga
+Reduced K-Theory Relations of the Hopf Bundle over Lens Spaces
+K-motives of algebraic varieties
+Relative property A and relative amenability for countable groups
+Chen-Ruan orbifold cohomology of the Bianchi groups
+New Products Chern Classes and Power Operations in Orbifold K-theory
+Continuous homotopy invariance of bivariant local cyclic homology for sigma-C -algebras
+On a question of Serre
+Algebraic cobordism theory attached to algebraic equivalence
+The K-theory of the triple-Toeplitz deformation of the complex projective plane
+Stable A 1 -connectedness
+The negative side of cohomology for Calabi-Yau categories
+Grothendieck-Riemann-Roch for derived schemes
+Comparison of categorical characteristic classes of transitive Lie algebroid with Chern-Weil homomorphism
+The index bundle for Fredholm morphisms
+Hermitian K-theory derived equivalences and Karoubi's Fundamental Theorem
+On the structure of K G(T G M)
+Descent and the KH -assembly map
+Complete Reduction in K-Theory
+The lower algebraic K-theory of the braid groups of the sphere
+A parametrized version of the Borsuk Ulam theorem
+Periodic twisted cohomology and T-duality
+Equivariant geometric K-homology for compact Lie group actions
+A Geometric Description of Equivariant K-Homology for Proper Actions
+An index theorem of Callias type for pseudodifferential operators
+On the Homology of Completion and Torsion
+Biextensions of Picard stacks and their homological interpretation
+The Novikov conjecture for algebraic K-theory of the group algebra over the ring of Schatten class operators
+Morphisms of A-infinity Bialgebras and Applications
+On the splitting of polynomial functors
+Integral cohomology of rational projection method patterns
+Transformations of L -values
+Batalin-Vilkovisky Structures on Ext and Tor
+Homologies of Algebraic Structures via Braidings and Quantum Shuffles
+A transformation rule for the index of commuting operators
+Quantization of Higher Abelian Gauge Theory in Generalized Differential Cohomology
+Positivity in T-Equivariant K-theory of flag varieties associated to Kac-Moody groups
+K-theory of hermitian symmetric spaces and root lattices
+On the motivic spectral sequence
+On rational injectivity of Kasparovs assembly map in dimension 2
+Classical Polylogarithm -- Abstract of a series of lectures given at the workshop on polylogs in Essen May 1 -- 4 1
+Proper local complete intersection morphisms preserve perfect complexes
+Exact Sequences of Semimodules over Semirings
+Noncommutative calculus and operads
+Free resolutions of algebras
+Fixed points of compact quantum groups actions on Cuntz algebras
+Characteristic classes of foliations via SAYD-twisted cocycles
+Sheaf theory and Paschke duality
+Stability of Gorenstein flat categories with respect to a semidualizing module
+Intermediate rank and property RD
+An algorithm for low dimensional group homology
+Motivic invariants of p-adic fields
+Homology torsion growth and Mahler measure
+Index maps in the K-theory of graph algebras
+The space of stability conditions for quivers with two vertices
+Finite domination and Novikov rings. Iterative approach
+Double complexes and vanishing of Novikov cohomology
+The differential analytic index in Simons-Sullivan differential K-theory
+Birational Motivic Homotopy Theories and the Slice Filtration
+Riemann-Roch for Deligne-Mumford stacks
+Global Dimensions of Some Artinian Algebras
+Algebraic connections on ellipsoid surfaces
+Local rings of embedding codepth 3. Examples
+On the growth of L 2 -invariants for sequences of lattices in Lie groups
+Positive curvature partial vanishing theorems and coarse indices
+Unstable analogues of the Lichtenbaum-Quillen conjecture
+The Lower Algebraic K-Theory of Split Three-Dimensional Crystallographic Groups
+omega -Operads of Coendomorphisms for Higher Structures
+Cyclic homology Serre's local factors and the lambda -operations
+An Elementary Differential Extension of Odd K-theory
+Bloch-Kato pro-p groups and locally powerful groups
+A proof of Baum-Connes conjecture of real semisimple Lie groups with coefficient on flag varieties
+Arithmetic mirror symmetry for the 2-torus
+Equivariant KK -theory of r -discrete groupoids and inverse semigroups
+The Baum-Connes conjecture with coefficients for word-hyperbolic groups (after Vincent Lafforgue)
+The Grothendieck ring of the structure group of the geometric Frobenius morphism
+A Spectral sequence for polynomially bounded cohomology
+Witt groups of Grassmann varieties
+Triangulated categories of mixed motives
+The algebra of closed forms in a disk is Koszul
+Splitting vector bundles and A 1-fundamental groups of higher dimensional varieties
+Bases of total Witt groups and lax-similitude
+Morita base change in Hopf-cyclic (co)homology
+K-theory of toric varieties revisited
+Structure and classification of monoidal groupoids
+K -continuity is equivalent to K -exactness
+Connective algebraic K-theory
+The Mayer-Vietoris Sequence for the Analytic Structure Group
+The Tate-Hochschild cohomology ring of a group algebra
+Dualizing complexes and homomorphisms vanishing in Koszul homology
+Jacobians of noncommutative motives
+Subexponential group cohomology and the K-theory of Lafforgue's algebra A max (pi)
+Grothendieck groups of complexes with null-homotopies
+Quantum SU(2) and the Baum-Connes conjecture
+Non-trivial self-concordances and a recent conjecture by Botvinnik
+Loop Groups and Twisted K-Theory II
+Multicomplexes and spectral sequences
+Descente par 'eclatements en K-th 'eorie invariante par homotopie
+A refined Bloch group and the third homology of SL 2 of a field
+On the abelianization of derived categories and a negative solution to Rosicky's problem
+A Bloch-Wigner complex for SL 2
+Index theory for locally compact noncommutative geometries
+A unified approach to the plus-construction Bousfield localization Moore spaces and zero-in-the-spectrum examples
+Twisted Morava K-theory and E-theory
+A note on the K unneth theorem for nonnuclear C -algebras
+Families index for Boutet de Monvel operators
+Conformal nets and KK-theory
+Proper maps bordism and geometric quantization
+Completion by Derived Double Centralizer
+Flat pairing and differential homology
+A nice group structure on the orbit space of unimodular rows-II
+On the K-Ring of the Classifying Space of the Generalized Quaternion Group
+Higher torsion and secondary transfer of unipotent bundles
+On exact functors for Heller triangulated categories
+Leibniz Homology of the Affine Indefinite Orthogonal Lie Algebra
+Unstable operations in 'etale and motivic cohomology
+On the string topology category of compact Lie groups
+Power operations in orbifold Tate K-theory
+Universality of K-Theory
+Global Mackey functors with operations and n-special lambda rings
+Consequences of the existence of Auslander-Reiten triangles with applications to perfect complexes for self-injective algebras
+Geometric homology revisited
+Special precovers and preenvelopes of complexes
+Fundamental groups homology equivalences and one-sided h-cobordisms
+Assembly Maps for Group Extensions in K -Theory and L -Theory with Twisted Coefficients
+The Pullbacks of Principal Coactions
+n -angulated categories
+Weights for relative motives relation with mixed complexes of sheaves
+On homology of linear groups over k t
+Geometric K -homology with coefficients II
+On the K-theory of boundary C -algebras of widetilde A 2 groups
+Character formul ae and GKRS multiplets in equivariant K-theory
+Dualities in Field Theories and the Role of K-Theory
+On the crystalline period map
+Homotopy invariance of non-stable K 1-functors
+Finite decomposition complexity and the integral Novikov conjecture for higher algebraic K-theory
+Twisted K-Theory for the Orbifold G
+Generalized tilting theory
+Some homological criteria for regular complete intersection and Gorenstein rings
+The Grothendieck--Teichm uller group and the stable symplectic category
+K-theory of endomorphisms via noncommutative motives
+The Weak Finitistic Dimension of a Path Algebra is Finite
+A survey of surface braid groups and the lower algebraic K-theory of their group rings
+Notes on omega -graphs reflexive omega -graphs their higher transformations and omega -operads
+Asymptotic K-theory for groups acting on tildeA 2 buildings
+Torsion in K-theory for boundary actions on affine buildings of type tA n
+Boundary operator algebras for free uniform tree lattices
+Torsion in Boundary Coinvariants and K-theory for Affine Buildings
+Tiling systems and homology of lattices in tree products
+A simple construction of Grassmannian polylogarithms
+On a conjecture of Vorst
+Localization techniques in circle-equivariant KK-theory
+On determinant functors and K -theory
+Homotopy Theory for C -algebras
+Modular Invariants and Twisted Equivariant K-theory II: Dynkin diagram symmetries
+Projective freeness of algebras of real symmetric functions
+Lefschetz and Hirzebruch-Riemann-Roch formulas via noncommutative motives
+The Unstable Slice Filtration
+From exceptional collections to motivic decompositions via noncommutative motives
+Equivariant K -theory of GKM bundles
+On the growth of Betti numbers in p -adic analytic towers
+The KH-Theory of Complete Simplicial Toric Varieties and the Algebraic K-Theory of Weighted Projective Spaces
+On C -Algebras Generated by Isometries with Twisted Commutation Relations
+The first Hochschild cohomology group of a cluster-tilted algebra revisited
+Hattori-Stallings trace and character
+The Baum-Connes conjecture Swan group actions and controlled topology
+Higher K-theory of Koszul cubes
+The homotopy theory of cyclotomic spectra
+On the splitting of the exact sequence relating the wild and tame kernels
+Relative homological algebra Waldhausen K -theory and quasi-Frobenius conditions
+Topological K-Theory of Complex Projective Spaces
+Non-connective K-theory of relative exact categories
+Equivariant loops on classifying spaces
+An equivariant Lefschetz fixed-point formula for correspondences
+Mickelsson's twisted K-theory invariant and its generalizations
+On odd unitary Steinberg group
+Low-dimensional cohomology of current Lie algebras and analogs of the Riemann tensor for loop manifolds
+Operator algebra of foliations with projectively invariant transverse measure
+Higher topological cyclic homology and the Segal conjecture for tori
+Replacement of fixed sets for compact group actions: The 2 rho theorem
+T-duality and Differential K-Theory
+K-theory Cyclic Cohomology and Pairings for Quantum Heisenberg Manifolds
+Integrals and Potentials of Differential 1-forms on the Sierpinski Gasket
+Shifted Symplectic Structures
+Rational equivariant K-homology of low dimensional groups
+Higher Koszul duality for associative algebras
+Representations of Conformal Nets Universal C -Algebras and K-Theory
+On the K-Ring of the Classifying Space of the Dihedral Group
+Pseudo-Riemannian spectral triples and the harmonic oscillator
+On certain products of algebraic groups over a finite field
+On the Schr o dinger group
+Noncommutative stable homotopy theory
+An A-infinity operad in spineless cacti
+Parametrized K-Theory
+Delooping of relative exact categories
+On complete representability of Pinter's algebras and related structures
+Untwisting a twisted Calabi-Yau algebra
+Weakening idempotency in K-theory
+Gersten-Witt Complex of Hirzebruch Surfaces
+Spectral triples and KK-theory: A survey
+Derived Representation Schemes and Noncommutative Geometry
+A-infinity Algebras Derived from Associative Algebras with a Non-Derivation Differential
+K-theory and exact sequences of partial translation algebras
+Symplectic cohomology and duality for the wrapped Fukaya category
+Hochschild cohomology with support
+The group rm K 1( mS n) of the algebra of one-sided inverses of a polynomial algebra
+Lie algebras and Higher torsion in p-groups
+K-theory of locally finite graph C -algebras
+Equivariant comparison of quantum homogeneous spaces
+K-theoretic analogues of factorial Schur P- and Q-functions
+On the K-theory of the C -algebra generated by the left regular representation of an Ore semigroup
+Hopf Galois (Co)Extensions In Noncommutative Geometry
+K- and L-theory of group rings over GL n(Z)
+On the homotopy type of A( Sigma(X))
+A groupoid approach to L uck's amenability conjecture
+Cohomological length functions
+The Fr olicher spectral sequence of certain solvmanifolds
+On the first homology of normal subgroups and Halperin-Carlsson Conjecture
+Equivariant K-homology of Bianchi groups with non-trivial class group
+Cyclic homology tight crossed products and small stabilizations
+Additive invariants of finite dimensional algebras of finite global dimension
+Bredon cohomological dimensions for proper actions and Mackey functors
+Torsors and the Quillen-Barr-Beck cohomology for restricted Lie algebras
+On the multi-Koszul property for connected algebras
+Rigid objects triangulated subfactors and abelian localizations
+On algebras of finite Cohen-Macaulay type
+G - functors arising from categorical group actions on abelian categories
+(Contravariant) Koszul duality for DG algebras
+Deformation of a projection in the multipleir algebra and projection lifting from the corona algebra of a non-simple C -algebra
+The Local Index Theorem
+Hopf-cyclic cohomology of bicrossed product Hopf algebras
+Computation of the Hochschild Cohomology Algebra of the Down-Up Algebra A(0 1 0)
+Self-stabilization in certain infinite-dimensional matrix algebras
+The module structure of the equivariant K-theory of the based loop group of SU(2)
+Groupoid cocycles and K-theory
+Assembly maps with coefficients in topological algebras and the integral K-theoretic Novikov conjecture
+Twisted K-theory and obstructions against positive scalar curvature metrics
+Derived Representation Schemes and Cyclic Homology
+Quillen homology for operads via Gr obner bases
+Arithmetic Aspects of Bianchi Groups
+An approach to categorification of some small quantum groups
+Cohomologically Cofinite Complexes
+Motivic Brown-Peterson invariants of the rationals
+Regulators and cycle maps in higher-dimensional differential algebraic K-theory
+On the relation of special linear algebraic cobordism to Witt groups
+A blueprinted view on mathbb F 1 -geometry
+Trace class operators regulators and assembly maps in K-theory
+Differential function spectra the differential Becker-Gottlieb transfer and applications to differential algebraic K-theory
+Negative K-groups of abelian categories
+D-branes and K -homology
+On the K-theory of feedback actions on linear systems
+Dense domains symmetric operators and spectral triples
+Unit spectra of K-theory from strongly self-absorbing C -algebras
+J-Groups of Lens Spaces modulo Odd Prime Powers
+On the Negative K -theory of Singular Varieties
+Noncommutative Motives II: K-Theory and Noncommutative Motives
+Duality of Preenvelopes and Pure Injective Modules
+Comparing Euler classes
+A categorical approach to cyclic duality
+B-Bounded cohomology and applications
+Analytic formulas for topological degree of non-smooth mappings: the even-dimensional case
+Curved A-infinity algebras and Landau-Ginzburg models
+A Candidate for the abelian category of mixed elliptic motives
+Degree formula for the Euler characteristic
+Simplicial Homology of Random Configurations
+Twisted K-theory K-homology and bivariant Chern-Connes type character of some infinite dimensional spaces
+Stable Formality Quasi-isomorphisms for Hochschild Cochains I
+Brauer spaces for commutative rings and structured ring spectra
+On Previdi's delooping conjecture for K-theory
+Remarks on the flat Grothendieck-Riemann-Roch theorem
+C -Algebra approach to the index theory of boundary value problems
+Smoothness of equivariant derived categories
+Exceptional collections of line bundles on the Beauville surface
+Axioms for Higher Twisted Torsion Invariants of Smooth Bundles
+Big de Rham-Witt cohomology: basic results
+On the Q construction for exact quasicategories
+On the deformation of path algebras
+All coefficients entering Kontsevich's formality quasi-isomorphism can be replaced by rational numbers
+Motives and oriented cohomology of a linear algebraic group
+Wakamatsu-silting complexes
+Codimension 2 cycles on products of projective homogeneous surfaces
+Segal's Spectral Sequence in Twisted Equivariant K-theory for proper and discrete actions
+Homology of analogues of Heisenberg Lie algebras
+Localized Index and L 2 -Lefschetz fixed point formula for orbifolds
+On a KK-theoretic counterpart of relative index theorems
+Cyclic cohomology and Baaj-Skandalis duality
+Relative index theorem in K-homology
+Slices of Co-Operations for KGL
+Weak coherence of groups and finite decomposition complexity
+Graphs of quantum groups and K-amenability
+Invariants topologiques des Espaces non commutatifs
+Motivic secondary characteristic classes and the Euler class
+Quillen model structures for relative homological algebra
+Spectra associated to symmetric monoidal bicategories
+The 2-group of symmetries of a split chain complex
+A Counterexample to a Conjecture about Positive Scalar Curvature
+A Structure Theorem for Leibniz Homology
+Twisted Cyclic Cohomology and Modular Fredholm Modules
+Erratum: On the torsion of Chow groups of twisted Spin-flags
+Equivariant semi-topological K-homology and a theorem of Thomason
+Constructive Homological Algebra and Applications
+On the gamma-filtration of oriented cohomology of complete spin-flags
+Twisted equivariant K- Theory and K-Homology of Sl3(Z)
+The motivic Steenrod algebra in positive characteristic
+A combinatorial universal star -product is incorrect
+Derived Hochschild functors over commutative adic algebras
+Local Algebraic K-Theory
+Flat bundles von Neumann algebras and K -theory with R Z -coefficients
+The index of geometric operators on Lie groupoids
+On some negative motivic homology groups
+On coniveau filtration of Grothendieck group of a scheme
+Syzygy Modules and Injective Cogenerators for Noether Rings
+A note on the real coarse Baum-Connes conjecture
+The Novikov conjecture on Cheeger spaces
+Trace theories and localization
+Higher hairy graph homology
+R-Matrices Yetter-Drinfel ' d Modules and Yang-Baxter Equation
+Finite part of operator K-theory for groups finitely embeddable into Hilbert space and the degree of non-rigidity of manifolds
+On the isomorphism conjecture for groups acting on trees
+Recollements and Hochschild theory
+Higher Chow Cycles on an Abelian Surface and a non-Archimedean analogue of the Hodge-D-conjecture
+On the classifying space for proper actions of groups with cyclic torsion
+On a Localisation Sequence for the K-Theory of Skew Power Series Rings
+The K-theory of free quantum groups
+Accessing the cohomology of discrete groups above their virtual cohomological dimension
+Tate and Tate-Hochschild Cohomology for finite dimensional Hopf Algebras
+A descent theorem for formal smoothness
+Sur l'homologie des groupes d'automorphismes des groupes libres a coefficients polynomiaux
+K-theory of one-dimensional rings via pro-excision
+Non-connective K- and Nil-spectra of additive categorie
+Torsion homology of arithmetic lattices and K2 of imaginary fields
+Subextensions for a permutation PSL(2 q)-module
+Global actions K-theory and unimodular rows
+Multiple Derived Lagrangian Intersections
+The space of stability conditions for A 3 -quiver
+On the spectral and homological dimension of k-Minkowski space
+A twisted Bass-Heller-Swan decomposition for the non-connective K-theory of additive categories
+Volume gradients and homology in towers of residually-free groups
+K i loc ( mathbb C ) i  0 1
+Zeta Functions Excision in Cyclic Cohomology and Index Problems
+A Geometric Model for Odd Differential K-theory
+Finite Part of Operator K -Theory for Groups with Rapid Decay
+On the Hochschild homology of open Frobenius algebras
+The surgery exact sequence K-theory and the signature operator
+Hodge decomposition for elliptic complexes over unital C -algebras
+Scissors Congruence Groups and the third homology of SL 2 of local rings and fields
+A geometric reformulation of the representational assembly conjecture for the K-theory of fields with pro-l absolute Galois group
+Geometric models for higher Grothendieck-Witt groups in A1-homotopy theory
+Galois descent for completed Algebraic K-theory
+The Farrell-Jones conjecture for S-arithmetic groups
+Numerical verification of Beilinson's conjecture for K2 of hyperelliptic curves
+On the Integral Cohomology of Bianchi groups
+K-theoretic matching of brane charges in S- and U-duality
+On The Torsion Homology of Non-Arithmetic Hyperbolic Tetrahedral Groups
+Arakelov motivic cohomology I
+K-theory of Equivariant Quantization
+Universal twist in Equivariant K-theory for proper and discrete actions
+Arakelov motivic cohomology II
+Classification of symmetric special biserial algebras with at most one non-uniserial indecomposable projective
+On the algebraic K-theory of truncated polynomial algebras in several variables
+Higher torsion in the Abelianization of the full Bianchi groups
+Gorenstein complexes and recollements from cotorsion pairs
+A higher chromatic analogue of the image of J
+Parahoric induction and chamber homology for SL2
+Galois descent of additive invariants
+On the K-theory of planar cuspical curves and a new family of polytopes
+On subdirect factors of a projective module and applications to system theory
+Equivariant KK -theory for generalised actions and Thom isomorphism in groupoid twisted K -theory
+Minifolds and Phantoms
+Topological Hochschild homology and the Bass trace conjecture
+The Existence of Coupling in the Category of Transitive Lie Algebroid
+Hodge theory on Cheeger spaces
+Equivariant Refinements
+Property A and uniform embedding for locally compact groups
+Good measures for non-simple dimension groups
+The Equivalence of Grayson and Friedlander-Suslin Spectral Sequences
+Perfect correspondences and Chow motives
+Witt vectors semirings and total positivity
+A topological group of extensions of Q by Z
+Higher Dirac cohomology of modules with generalized infinitesimal character
+Additive invariants of toric and twisted projective homogeneous varieties via noncommutative motives
+Algebraic and Hermitian K-theory of K-rings
+K-theory of weight varieties
+Description of coupling in the category of transitive Lie algebroids
+Spectral Triples and Generalized Crossed Products
+Divided difference operators in equivariant KK -theory
+Higher algebraic K-theory and tangent spaces to Chow groups
+Duality and the topological filtration
+On a filtration of the second cohomology of nilpotent Lie algebras
+Versal deformation theory of algebras over a quadratic operad
+Milnor K -groups and function fields of hypersurfaces in positive characteristic
+Algebraic vector bundles on spheres
+Noncommutative Artin motives
+Interpreting the Bokstedt smash product as the norm
+Invariants of upper motives
+Cohomology computations of solvmanifolds with local coefficients
+Deformation quantization of integrable systems
+Topological K-theory of complex noncommutative Spaces
+Homological stability for Hurwitz spaces and the Cohen-Lenstra conjecture over function fields II
+Kirchberg X-algebras with real rank zero and intermediate cancellation
+Reduction of filtered K-theory and a characterization of Cuntz-Krieger algebras
+The non-commutative n-th Chern number
+One-parameter continuous fields of Kirchberg algebras with rational K-theory
+On the cohomology of linear groups over imaginary quadratic fields
+Smooth crossed products of Rieffel's deformations
+On the origin of higher braces and higher-order derivations
+A variant of K-theory and topological T-duality for Real circle bundles
+Relative algebraic K-theory by elementary means
+Higher n-angulations from local algebras
+Classification of tight C -algebras over the one-point compactification of mathbb N
+Differential cohomology theories as sheaves of spectra
+Untwisting algebras with van den Bergh duality into Calabi-Yau algebras
+Hochschild cohomology ring for self-injective algebras of tree class E 
+The K-theory of filtered deformations of graded polynomial algebras
+Algebraic proofs of some fundamental theorems in algebraic K -theory
+An approach to intersection theory on singular varieties using motivic complexes
+Slices of hermitian K-theory and Milnor's conjecture on quadratic forms
+A loop group extension of the odd Chern character
+Motivically functorial coniveau spectral sequences direct summands of cohomology of function fields
+Cup Coproducts in Hopf Cyclic Cohomology
+Gerstenhaber-Schack diagram cohomology from operadic point of view
+Complexifiable characteristic classes
+Tensor products of Leavitt path algebras
+Hochschild homology of affine Hecke algebras
+On model-theoretic connected components in some group extensions
+On the Strong Homotopy Lie-Rinehart Algebra of a Foliation
+A cohomological formula for the Atiyah-Patodi-Singer index on manifolds with boundary
+Central idempotents of the bifree and left-free double Burnside ring
+Some remarks on graded nilpotent Lie algebras and the Toral Rank Conjecture
+Geometric Phantom Categories
+Cartier's first theorem for Witt vectors on Z  0 n - 0
+E n-regularity implies E (n-1)-regularity
+On weights for relative motives with integral coefficients
+A local-global principle for the telescope conjecture
+Algebraic K-theory of Geometric Groups
+The deformation complex is a homotopy invariant of a homotopy algebra
+Triangulated categories of motives in positive characteristic
+A 'Darboux theorem' for derived schemes with shifted symplectic structure
+Symmetric Representation Rings are lambda-Rings
+K-theoretic Chow groups of derived categories of schemes-on a question by Green-Griffiths
+Noncommutative motives and their applications
+Fourier-Mukai transformation on algebraic cobordism
+Vector bundles from generalized pairs of cocycles
+On numerical equivalence for algebraic cobordism
+Orthosymplectic Lie superalgebras Koszul duality and a complete intersection analogue of the Eagon-Northcott complex
+Hochschild and cyclic (co)homology of superadditive categories
+On the motive of a commutative algebraic group
+Duality and Tilting for Commutative DG Rings
+Highest weight categories and Macdonald polynomials
+Hochschild cohomology the characteristic morphism and derived deformations
+Kontsevich's noncommutative numerical motives
+Making Lifting Obstructions Explicit
+Rationality problems and conjectures of Milnor and Bloch-Kato
+Hochschild homology of Hopf algebras and free Yetter-Drinfeld resolutions of the counit
+K-groups of reciprocity functors
+The mapping space of unbounded differential graded algebras
+Realizing the analytic surgery group of Higson and Roe geometrically Part I: The geometric model
+On the homology and homotopy of commutative shuffle algebras
+Tangent spaces to motivic cohomology groups-on CH bullet (X 1) and CH bullet (X 2)
+On the lengths of compact exceptional objects in derived module categories
+Cycle theory of relative correspondences
+Quasi DG categories and mixed motivic sheaves
+Local index theory for certain Fourier integral operators on Lie groupoids
+The Farrell-Jones conjecture for arbitrary lattices in virtually connected Lie groups
+Relative (generalized) differential cohomology
+Universal measurability and the Hochschild class of the Chern character
+A localization theorem for the K -theory of assemblers with an application to the Grothendieck spectrum of varieties
+Relative cyclotomic spectra and topological cyclic homology via the norm
+Invariants of Hamiltonian flow on locally complete intersections
+Subtle Characteristic Classes
+On derived categories and noncommutative motives of varieties
+Model approximations for relative homological algebra
+Homological Descent for Motivic Homology Theories
+Equivariant K-theory of compact Lie groups with involution
+A topological index theorem for manifolds with corners
+The refined transfer bundle structures and algebraic K-theory
+A Maslov cocycle for unitary groups
+Equivariant representable K-theory
+Hirzebruch-Riemann-Roch theorem for DG algebras
+Loop groups and twisted K-theory I
+Splitting formulas for certain Waldhausen Nil-groups
+On Bass' question for finitely generated algebras over large fields
+Finitary Group Cohomology and Eilenberg-Mac Lane Spaces
+Hochschild homology and global dimension
+Principal noncommutative torus bundles
+The symplectic Verlinde algebras and string K-theory
+Cohomology of finite dimensional pointed Hopf algebras
+Algebraic K-theory A 1-homotopy and Riemann-Roch theorems
+Stable bundles over rig categories
+Mod-two cohomology of symmetric groups as a Hopf ring
+The cohomological restriction map and FP-infinity groups
+Derived Koszul Duality and Involutions in the Algebraic K-Theory of Spaces
+A universal coefficient theorem for twisted K-theory
+Algebraic K-theory over the infinite dihedral group: a controlled topology approach
+A model of the twisted K -theory related to bundles of finite order
+Higher rho-invariants and the surgery structure set
+Higher Whitehead torsion and the geometric assembly map
+Hairy graphs and the unstable homology of Mod(g s) Out(F n) and Aut(F n)
+Multisymplectic 3-forms on -dimensional manifolds
+Unconditional noncommutative motivic Galois groups
+Graded Brauer groups of a groupoid with involution
+K-theory and the connection index
+On Cyclic Cohomology of x-Hopf algebras
+On the algebraic K-theory of higher categories
+Higher adeles and non-abelian Riemann-Roch
+Hopfological Algebra
+R Z-valued index theory via geometric K-homology
+The K-theory of toric varieties in positive characteristic
+Projective dimension in filtrated K-theory
+Quantisation of presymplectic manifolds K-theory and group representations
+Operational K-theory
+Stability of strongly Gorenstein flat modules
+The triangulated category of K-motives DK (k)
+Hodge theory for elliptic complexes over unital Banach C -algebras
+Banach spaces whose algebra of bounded operators has the integers as their K 0 -group
+Sigma -pure injectivity and Brown representability
+Stable representation homology and Koszul duality
+Regulator of modular units and Mahler measures
+On D 'evissage for Witt groups
+Classification of certain continuous fields of Kirchberg algebras
+A new look at the Julg-Valette homotopy for groups acting on trees
+The 2-torsion in the second homology of the genus 3 mapping class group
+Bar and cobar constructions for curved algebras and coalgebras
+Spectral flow for nonunital spectral triples
+Two- and three-cocycles for Laver tables
+Curved homotopy coalgebras
+Topological invariance of the homological index
+A Quick Overview On Regular Algebraic K-Theory For Groups
+On the vanishing of Hochster's theta invariant
+Rack homology and conjectural Leibniz homology
+Rojtman's theorem for normal schemes
+K-theory of derivators revisited
+A Goodwillie-type Theorem for Milnor K-Theory
+Algebraic K-theory and properly infinite C -algebras
+Derived Witt-D 'evissage Formalism
+Algebraic vs. topological vector bundles on spheres
+A1-homotopy theory of noncommutative motives
+Classifying spaces with virtually cyclic stabilizers for linear groups
+Index theory for manifolds with Baas-Sullivan singularities
+Hecke characters and the K -theory of totally real and CM number fields
+Twisted equivariant K-theory with complex coefficients
+Axioms for higher torsion invariants of smooth bundles
+Homology Functors with Cubical Bars
+Operations on A-theoretic nil-terms
+K-Theory for group C -algebras
+Computing Borel's Regulator
+Computing Borel's Regulator II
+Duality theorems for 'etale gerbes on orbifolds
+A note on the invariance in the nonabelian tensor product
+Two-dimensional Id eles with Cycle Module Coefficients
+On Projections in the Noncommutative 2-Torus Algebra
+Isomorphism conjectures with proper coefficients
+Localization for THH(ku) and the topological Hochschild and cyclic homology of Waldhausen categories
+Operator ideals and assembly maps in K -theory
+Hochschild Lefschetz Class for D -modules
+Embedding of category of twisted Chow-Witt correspondences into geometric stable A 1 -derived category over a field
+Twisted K-theory constructions in the case of a decomposable Dixmier-Douady class
+An additive variant of Somekawa's K -groups and K ahler differentials
+Milnor K-groups attached to elliptic curves over a p-adic field
+Homotopy invariance through small stabilizations
+Multiple zeta value cycles in low weight
+Homotopy-theoretic E-theory and n-order
+Matrix factorizations and higher residue pairings
+The Analytical Assembly Map and Index Theory
+Noncommutative motives of Azumaya algebras
+The Real K-Theory of Compact Lie Groups
+The K-theoretical range of Cuntz-Krieger algebras
+Completed power operations for Morava E-theory
+Excision descent and singularity in algebraic K -theory
+Reciprocity sheaves I
+Regularity of structured ring spectra and localization in K-theory
+Finite generation and continuity of topological Hochschild and cyclic homology
+Milnor-Thurston homology groups of the Warsaw Circle
+Vector bundles on the projective line and finite domination of chain complexes
+Curved cooperads and homotopy unital A-infty-algebras
+K -theory and homotopies of 2-cocycles on higher-rank graphs
+Localization in equivariant operational K-theory and the Chang-Skjelbred property
+An explicit KO-degree map and applications
+Hochschild and cyclic homology of the crossed product of algebraic irrational rotational algebra by finite subgraoups of SL(2 mathbb Z)
+Algebraic K-theory of strict ring spectra
+Permanence properties of property A and coarse embeddability for locally compact groups
+Twisted Cyclic Homology And Crossed Product Algebras
+Unbounded bivariant K -theory and correspondences in noncommutative geometry
+Equivariant correspondences and the Borel-Bott-Weil theorem
+Mixed Artin-Tate motives with finite coefficients
+Calabi-Yau algebras and superpotentials
+Koszul pairs. Applications
+The slice Burnside ring and the section Burnside ring of a finite group
+A condensed proof of the differential Grothendieck-Riemann-Roch theorem
+On the torsion of Chow groups of Severi-Brauer varieties
+The eta invariant on two-step nilmanifolds
+Applying geometric K-cycles to fractional indices
+On exact infinity-categories and the Theorem of the Heart
+Restriction to compact subgroups in the cyclic homology of reductive p-adic groups
+Analytic and topological index maps with values in the K-theory of mapping cones
+Geometric realizations and duality for Dahmen-Micchelli modules and De Concini-Procesi-Vergne modules
+K 1 of a p-adic group ring II. The determinantal kernel SK 1
+Braided Systems: a Unified Treatment of Algebraic Structures with Several Operations
+On third homology of SL 2 and weak homotopy invariance
+A matrix description for K 1 of graded rings
+On The K-Ring of the Classifying Space of the Symmetric Group on Four Letters
+Spectral sections twisted rho invariants and positive scalar curvature
+A Separated Cohomologically Complete Module is Complete
+K-homological finiteness and hyperbolic groups
+Patching and Quillen K-Theory
+Spectral triples and finite summability on Cuntz-Krieger algebras
+A cohomological Hasse principle over two-dimensional local rings
+Cohomology of mathcal A theta alg rtimes mathbb Z 2 and its Chern-Connes pairing
+Topological Vertex String Amplitudes and Spectral Functions of Hyperbolic Geometry
+Lefschetz coincidence numbers of solvmanifolds with Mostow conditions
+Canonical holomorphic sections of determinant line bundles
+Simplicial Structure on Complexes
+A relative version of the Beilinson-Hodge conjecture
+Standard Vector Bundles
+Projective Families of Dirac operators on a Banach Lie Groupoid
+Coronae of product spaces and the Coarse Baum-Connes conjecture
+Some homological properties of category O. III
+Pro unitality and pro excision in algebraic K-theory and cyclic homology
+Zero cycles on singular varieties and their desingularisations
+Formal Verlinde Module
+A Cacti theoretical interpretation of the axioms of bialgebras and H-module algebras
+K-theory with fibred control
+Homology of SL2 over function fields I: parabolic subcomplexes
+Low-dimensional Homology of SL 2(k t 1 t )
+Reduction of Hochschild cohomology over algebras finite over their center
+Independent resolutions for totally disconnected dynamical systems II: C -algebraic case
+Random graphs weak coarse embeddings and higher index theory
+Darmon points on elliptic curves over number fields of arbitrary signature
+Tensor product of filtered A infty -algebras
+On special values of Jacobi-sum Hecke L-functions
+On the Noncommutative Residue for Projective Pseudodifferential Operators
+On the relation between Nori Motives and Kontsevich Periods
+On the Hochschild and cyclic (co)homology of rapid decay group algebras
+Combinatorial Descent Data for Gerbes
+Andr 'e spectral sequences for Baues-Wirsching cohomology of categories
+A derivability criterion based on the existence of adjunctions
+A configuration space for equivariant connective K-homology
+Thomason cohomology of categories
+Orlov spectra as a filtered cohomology theory
+Twisted K-theory constructions in the case of a decomposable Dixmier-Douady class II: Topological and equivariant models
+On the Strong Homotopy Associative Algebra of a Foliation
+Recollements of derived categories II: Algebraic K-theory
+The C(X)-algebra of a net and index theory
+Positive scalar curvature higher rho invariants and localization algebras
+Differential graded categories and Deligne conjecture
+From semi-orthogonal decompositions to polarized intermediate Jacobians via Jacobians of noncommutative motives
+Isomorphism Conjecture for Baumslag-Solitar groups
+Spectral Sequences for the Cohomology Rings of a Smash Product
+The Gysin Sequence for Quantum Lens Spaces
+Waldhausen K-theory of spaces via comodules
+On the Koszul map of Lie algebras
+The cohomology ring of the 12-dimensional Fomin-Kirillov algebra
+Cohomology of presheaves with oriented weak transfers
+Poisson-de Rham homology of hypertoric varieties and nilpotent cones
+Higher Tate central extensions via K-theory and infinity-topos theory
+Hochschild (co)homology and Koszul duality
+Batalin-Vilkovisky structure over the Hochschild cohomology ring of a group algebra
+Homologically optimal categories of sequences lead to N-complexes
+On the Mahler measure of a family of genus 2 curves
+Effective motives with and without transfers in characteristic p
+BV-differential on Hochschild cohomology of Frobenius algebras
+The nilpotence theorem for the algebraic K -theory of the sphere spectrum
+Mapping the surgery exact sequence for topological manifolds to analysis
+A more general method to classify up to equivariant KK-equivalence
+Galois cohomology of certain field extensions and the divisible case of Milnor-Kato conjecture
+Weight structures vs. t -structures weight filtrations spectral sequences and complexes (for motives and in general)
+Category of Noncommutative CW Complexes
+Schubert calculus for algebraic cobordism
+Z 1 p -motivic resolution of singularities
+Weights and t-structures: in general triangulated categories for 1-motives mixed motives and for mixed Hodge complexes and modules
+Milnor K-theory and the graded representation ring
+Remarks on the Milnor conjecture over schemes
+Symmetric and exterior powers of categories
+Algebraic K-theory of the infinite place
+The derived category of a GIT quotient
+The elliptic Weyl character formula
+Operadic Twisting -- with an application to Deligne's conjecture
+Exceptional collections of line bundles on projective homogeneous varieties
+Splitting vector bundles outside the stable range and A 1-homotopy sheaves of punctured affine spaces
+The rigid syntomic ring spectrum
+Generalized Schubert Calculus
+The transverse index theorem for proper cocompact actions of Lie groupoids
+Descente galoisienne sur le second groupe de Chow : mise au point et applications
+An Equivariant Version of Hatcher's G O Construction
+Controlled Algebra for Simplicial Rings and Algebraic K-theory
+Localization sequences for logarithmic topological Hochschild homology
+Singular coefficients in the K-theoretic Farrell-Jones conjecture
+Spectral Mackey functors and equivariant algebraic K-theory (I)
+Koszul property and Bogomolov's conjecture
+The topology of positive scalar curvature
+The Hochschild cohomology ring of a Frobenius algebra with semisimple Nakayama automorphism is a Batalin-Vilkovisky algebra
+The local spectrum of the Dirac operator for the universal cover of SL 2( mathbb R)
+Finite homological dimension and a derived equivalence
+Extensions of Motives and the Fundamental Group
+Linear polygraphs and Koszulity of algebras
+kk-Theory for Banach Algebras I: The Non-Equivariant Case
+Ausoni-Bokstedt duality for topological Hochschild homology
+Twisted differential cohomology
+The First Differential of the Functor Algebraic K-Theory of Spaces
+Lecture notes on torsions
+Rational homotopy theory of function spaces and Hochschild cohomology
+Homological Algebra for Diffeological Vector Spaces
+Categorical tori
+Category of Noncommutative CW Complexes. II
+The Noncommutative Chern-Connes Character of the Locally Compact Quantum Normalizer of SU(1 1) in SL(2 C)
+Non-Commutative Chern Characters of Compact Quantum Groups
+Non-Commutative Chern Characters of Compact Lie Group C -Algebras
+Non-Commutative Geometry Methods for Group C -Algebras
+Galois cohomology of a number field is Koszul
+Projective Dirac Operators Twisted K-Theory and Local Index Formula
+Matrix factorizations via Koszul duality
+Around Quillen's theorem A
+Vanishing of negative K -theory in positive characteristic
+Remarks on flat and differential K-theory
+Spaces of Graphs Boundary Groupoids and the Coarse Baum-Connes Conjecture
+Harmonic cochains and K-theory for widetilde A 2 groups
+The category and operad of matching dialgebras
+Multiplicative structures on algebraic K-theory
+Action of derived automorphisms on infinity-morphisms
+The Noncommutative Infinitesimal Equivariant Index Formula
+Boundary C -algebras of triangle geometries
+Analysis of Twisted Supercharge Families on Product Manifolds
+A proof of extension conjecture
+Multiplicative differential algebraic K-theory and applications
+Noncommutative covering projections and K -homology
+String theory on elliptic curve orientifolds and KR-theory
+Tamarkin's construction is equivariant with respect to the action of the Grothendieck-Teichmueller group
+Revisiting Farrell's nonfiniteness of Nil
+Hermitian lattices and bounds in K-theory of algebraic integers
+Quillen-Segal objects and structures: an overview
+On universal modular symbols
+The Bass and topological stable ranks of the Bohl algebra are infinite
+Understanding higher structures through Quillen-Segal objects
+Functorial properties of Putnam's homology theory for Smale spaces
+Notes on Triangulated Categories
+Groupes d'extensions et foncteurs polynomiaux
+A note on Hopf Cyclic Cohomology in Non-symmetric Monoidal Categories
+Gerbal central extensions of reductive groups by K 3
+On the Hochschild cohomology ring of the quaternion group of order eight in characteristic two
+Hochschild dimension is not semi-continous
+Primely generated refinement monoids
+On the string Lie algebra
+Functor homology and homology of commutative monoids
+A converse to the Second Whitehead Lemma
+Central extensions of current algebras
+K 0 of hypersurfaces defined by x 1 2 ... x n 2  pm 1
+A note on cancellation of projective modules
+Karoubi's relative Chern character the rigid syntomic regulator and the Bloch-Kato exponential map
+Equivariant algebraic kk-theory and adjointness theorems
+Characteristic classes of flags of foliations and Lie algebra cohomology
+A compendium of Lie structures on tensor products
+Tannaka duality for enhanced triangulated categories
+A quadratic refinement of the Grothendieck-Lefschetz-Verdier trace formula
+Higher rho invariants and the moduli space of positive scalar curvature metrics
+Stable motivic pi 1 of low-dimensional fields
+On the definition and K-theory realization of a modular functor
+Central theorems for cohomologies of certain solvable groups
+Expanders exact crossed products and the Baum-Connes conjecture
+Bredon Cohomology K theory and K homology of Pullbacks of groups
+Equivariant K-Theory of Central Extensions and Twisted Equivariant K-theory: Sl3(Z) and St3(Z)
+On the coincidence of zeroth Milnor-Thurston homology with singular homology
+K-theory for Leavitt path algebras: computation and classification
+The homotopy groups of the algebraic K-theory of the sphere spectrum
+Smooth models of motivic spheres
+Fredholm modules over graph C -algebras
+From Topology to Noncommutative Geometry: K -theory
+Quantum algebraic kk-theory
+Extensions of algebraic systems
+The Completion Theorem in twisted equivariant K -Theory for proper and discrete actions
+Restriction to subgroups as 'etale extensions in topology KK-theory and geometry
+kk -Theory for Banach Algebras II: Equivariance and Green-Julg type theorems
+Tate tame symbol and the joint torsion of commuting operators
+A new approach to recent constructions of C -algebras from modular index theory
+Enveloping algebras of some quantum Lie algebras
+Reconstructing function fields from rational quotients of mod- ell Galois groups
+A note on transfers for non-stable K 1-functors of classical type
+Strict polynomial superfunctors and universal extension classes for algebraic supergroups
+A Variational Tate Conjecture in crystalline cohomology
+New Coefficients For Hopf Cyclic Cohomology
+Structure of H-(co)module Lie algebras
+Borel stability for congruence subgroups
+Involutive A-infinity algebras and dihedral cohomology
+A Comparison of Products in Hochschild Cohomology
+Stable Calabi--Yau dimension of self-injective algebras of finite type
+On the Ext-computability of Serre quotient categories
+Godement resolutions and sheaf homotopy theory
+Relations between the Chow motive and the noncommutative motive of a smooth projective variety
+Fibred coarse embeddings a-T-menability and the coarse analogue of the Novikov conjecture
+Non-commutative localizations of additive categories and weight structures applications to birational motives
+A higher limit approach to homology theories
+Symmetric operations for all primes and Steenrod operations in Algebraic Cobordism
+Algebraic K-theory K-regularity and T-duality of mathcal O infty -stable C -algebras
+Descent and the Koszul duality for locally constant factorization algebras
+K-Groups of reciprocity functors for G a and abelian varieties
+A 1-connected components of schemes
+Gersten weight structures for motivic homotopy categories direct summands of cohomology of function fields and coniveau spectral sequences
+On the Baum-Connes conjecture for Gromov monster groups
+K -theory and homotopies of 2-cocycles on transformation groups
+Codimension two index obstructions to positive scalar curvature
+On K 2 of certain families of curves
+Joint torsion equals the determinant invariant
+Formal geometric quantisation for proper actions
+Picard-Lefschetz theory and dilating C -actions
+Independent resolutions for totally disconnected dynamical systems I: Algebraic case
+Non-stable K 1-functors of multiloop groups
+Cotorsion triple and applications
+KR -theory of compact Lie groups with group anti-involutions
+Quantum Dimension and Quantum Projective Spaces
+An Alternate Approach to the Lie Bracket on Hochschild Cohomology
+Projective resolutions of associative algebras and ambiguities
+Nonvanishing cohomology classes on finite groups of Lie type with Coxeter number at most p
+Generalized Coefficients for Hopf Cyclic Cohomology
+Absolutely Clean Level and Gorenstein AC-Injective Complexes
+On perverse homotopy t -structures coniveau spectral sequences cycle modules and relative Gersten weight structures
+Cohomologie des foncteurs polynomiaux sur les groupes libres
+Operations and poly-operations in Algebraic Cobordism
+A1-contractibility of Koras-Russell threefolds
+Homotopy derivations
+On the relative motive of a commutative group scheme
+On the K-theory of subgroups of virtually connected Lie groups
+Fibration theorem for Waldhausen K-theory
+Hopf-cyclic Cohomology of Quantum Enveloping Algebras
+The norm map of Witt vectors
+On the K-theory of truncated polynomial rings in non-commuting variables
+Exotic crossed products and the Baum-Connes conjecture
+Framed motives of algebraic varieties (after V. Voevodsky)
+Cobordism invariants of the moduli space of stable pairs
+Pimsner algebras and Gysin sequences from principal circle actions
+All modules have Gorenstein flat precovers
+Homology of spaces of non-resultant polynomial systems in R 2 and C 2
+Functional calculus and joint torsion of pairs of almost commuting operators
+Koszul duality for filtered E n-algebras
+Descent properties of the topological chiral homology
+Koszul duality for locally constant factorization algebras
+Factorisations of distributive laws
+A1-homotopy invariants of dg orbit categories
+Differential graded motives: weight complex weight filtrations and spectral sequences for realizations Voevodsky vs. Hanamura
+Cohomology theories for homotopy algebras and noncommutative geometry
+Permutative categories multicategories and algebraic K-theory
+Yang-Mills theory over surfaces and the Atiyah-Segal theorem
+The R(S 1)-graded equivariant homotopy of THH(F p)
+Landweber exact formal group laws and smooth cohomology theories
+Algebraic K-theory over the infinite dihedral group: an algebraic approach
+An involution on the K-theory of bimonoidal categories with anti-involution
+Topological Hochschild and cyclic homology for Differential graded categories
+The -local homotopy of eo 4
+The Atiyah--Segal completion theorem in twisted K-theory
+Locally symmetric spaces and K-theory of number fields
+Preorientations of the derived motivic multiplicative group
+A splitting result for the algebraic K-theory of projective toric schemes
+A note on the graded K-theory of certain graded rings
+On Quillen's calculation of graded K -theory
+The Motivic Cohomology of Stiefel Varieties
+Expanders and Property A
+On the Algebraic Classification of Module Spectra
+The coarse Baum-Connes conjecture for relatively hyperbolic groups
+The axioms for n-angulated categories
+K-theory for ring C -algebras - the case of number fields with higher roots of unity
+A finite dimensional approach to the strong Novikov conjecture
+Totalization of simplicial homotopy types
+Smoothing maps into algebraic sets and spaces of flat connections
+The K unneth Theorem in equivariant K-theory for actions of a cyclic group of order 2
+On a conjecture of Morel
+Finite domination and Novikov rings. Laurent polynomial rings in two variables
+The Farrell-Jones Conjecture for Graph Products
+Homology equivalences of manifolds and zero-in-the-spectrum examples
+Semi-topologization in motivic homotopy theory and applications
+Coronae of relatively hyperbolic groups and coarse cohomologies
+The coarse Baum-Connes conjecture for Busemann non-positively curved spaces
+On the K-theory of groups with Finite Decomposition Complexity
+Homological smoothness and deformations of generalized Weyl algebras
+T-duality For Orientifolds and Twisted KR-theory
+Sur une conjecture de Kato et Kuzumaki concernant les hypersurfaces de Fano
+The two definitions of the index difference
+Twisted Spin cobordism and positive scalar curvature
+Explicit Wodzicki excision in cyclic homology
+The K-homology of nets of C -algebras
+Relative continuous K-theory and cyclic homology
+Twisted homological stability for extensions and automorphism groups of free nilpotent groups
+Tate Objects in Exact Categories (with appendix by Jan vS vtov ' i vcek and Jan Trlifaj)
+The universal eta-invariant for manifolds with boundary
+K-theory for the Leaf Space of Foliations Formed by the Generic K-orbits of a class of Solvable Real Lie Groups
+On Euler-Poincare characteristics
+K -theory and homotopies of 2-cocycles on group bundles
+On the transfer reducibility of certain Farrell-Hsiang groups
+Motivic Birational Covers and Finite Filtrations on Chow Groups
+Smooth deformations and the Gauss-Manin connection
+The Index Map in Algebraic K-Theory
+Manifolds K-theory and the calculus of functors
+The Farrell-Jones Conjecture for some nearly crystallographic groups
+Logarithmic topological Hochschild homology of topological K-theory spectra
+Comparing A 1-h-cobordism and A 1-weak equivalence
+Exceptional collections on some fake quadrics
+Singular Equivalence of Morita Type with Level
+On the K-theory of certain extensions of free groups
+Finite domination and Novikov rings. Laurent polynomial rings in several variables
+Quantum weighted projective and lens spaces
+The category of Waldhausen categories as a closed multicategory
+The Joint Spectral Flow and Localization of the Indices of Elliptic Operators
+Symmetric operads in abstract symmetric spectra
+An isomorphism of motivic Galois groups
+A-infinity-algebras spectral sequences and exact couples
+Total scissors congruence
+K-theory for the Leaf Spaces of the Orbit Foliations of the co-adjoint Action of some -dimensional Solvable Lie groups
+Deformations of W 1(n) otimes A and modular semisimple Lie algebras with a solvable maximal subalgebra
+Picard-Fuchs equations Integrable Systems and higher Algebraic K-theory
+Motivic cell structures
+Real versus complex K-theory using Kasparov's bivariant KK-theory
+The Milnor-Chow homomorphism revisited
+Sheaf theory for stacks in manifolds and twisted cohomology for S 1-gerbes
+Twisted Hochschild homology and MacLane homology
+Excision for deformation K-theory of free products
+Rational algebraic K-theory of topological K-theory
+Ramond-Ramond Fields Fractional Branes and Orbifold Differential K-Theory
+Localization theorems in topological Hochschild homology and topological cyclic homology
+Comparing two approaches to the K-theory classification of D-branes
+Notes on Cohomologies of Ternary Algebras of Associative Type
+On the Taylor Tower of Relative K-theory
+Two kinds of derived categories Koszul duality and comodule-contramodule correspondence
+An index theorem in differential K-theory
+A universal characterization of higher algebraic K-theory
+A cohomological characterisation of Yu's Property A for metric spaces
+Index formulas and charge deficiencies on the Landau levels
+Algebraic Kasparov K-theory. I
+Tetrahedra of flags volume and homology of SL(3)
+The period-index problem for twisted topological K-theory
+Topological T-duality for general circle bundles
+Obstructions to stably fibering manifolds
+Derived Kan extension for strict polynomial functors
+Bloch-Wigner theorem over rings with many units II
+Lagrangian homology spheres in (A m) Milnor fibres via C -equivariant A infinity modules
+Logarithmic structures on topological K-theory spectra
+The special linear version of the projective bundle theorem
+Derived algebraic cobordism
+Chern class and Riemann-Roch theorem for cohomology theory without homotopy invariance
+The Cup Product on Hochschild Cohomology for Localizations of Filtered Koszul Algebras
+Equivariant principal bundles and their classifying spaces
+What makes a multi-complex exact
+The Ekedahl Invariants for finite groups
+Introduction to the Ekedahl Invariants
+On the relative dual of an S 1 -gerbe over an orbifold
+Some remarks concerning Voevodsky's nilpotence conjecture
+Fundamental theorems for the K-theory of bf S -algebras I: the connective case
+The derived category with respect to a generator
+A Fourier-Mukai Approach to the K-theory of Compact Lie Groups
+On the K-theoretic classification of topological phases of matter
+Coefficient systems and Jacquet modules
+Quantising proper actions on Spin c -manifolds
+Quantum Integrability and Generalised Quantum Schubert Calculus
+Witt Vector Rings and the Relative de Rham Witt Complex
+On the existence of unimodular elements and cancellation of projective modules over noetherian and non-noetherian rings
+On K4 of the Gaussian and Eisenstein integers
+Twisted K-homology Geometric cycles and T-duality
+A Direct Computation of the Cohomology of the Braces Operad
+On the structure of quantum automorphism groups
+Gerstenhaber-Schack and Hochschild cohomologies of co-Frobenius Hopf algebras
+Poincar 'e duality for Ext-groups between strict polynomial fucnctors
+The gamma-filtration on the Witt ring of a scheme
+Affine strict polynomial functors and formality
+On Farrell-Tate cohomology of SL 2 over S-integers
+Homotopy theory of homotopy algebras
+Relative-partitioned index theorem
+Detecting the c-effectivity of motives their weights and dimension via Chow-weight (co)homology: a mixed motivic decomposition of the diagonal
+Gabor Frames for Quasicrystals K -theory and Twisted Gap Labeling
+D-branes B-fields and twisted K-theory
+Torsion D-Branes in Nongeometrical Phases
+Equivariant Euler characteristics and K-homology Euler classes for proper cocompact G-manifolds
+Finite group extensions and the Baum-Connes conjecture
+The surgery obstruction groups of the infinite dihedral group
+The complex of words and Nakaoka stability
+Noncommutative localisation in algebraic K-theory I
+K- and L-theory of the semi-direct product of the discrete 3-dimensional Heisenberg group by Z 4
+Radical cube zero weakly symmetric algebras and support varieties
+The big de Rham-Witt complex
+A combinatorial invariant for Spherical CR structures
+Controlled algebraic G-theory I
+Coherent presentations of Artin monoids
+The Gauss-Manin connection and noncommutative tori
+Cycle complex over the projective line minus three points : toward multiple zeta values cycles
+Pro cdh-descent for cyclic homology and K -theory
+The cohomology of virtually torsion-free solvable groups of finite rank
+Homotopy invariance of higher K-theory for abelian categories
+Batalin-Vilkovisky algebra structures on (Co)Tor and Poisson bialgebroids
+T-duality for circle bundles via noncommutative geometry
+Homotopy colimits of classifying spaces of abelian subgroups of a finite group
+Large scale index of multi-partitioned manifolds
+Six model structures for DG-modules over DGAs: Model category theory in homological action
+Index map sigma -connections and Connes-Chern character in the setting of twisted spectral triples
+On differential characteristic classes
+Compact operators and algebraic K -theory for groups which act properly and isometrically on Hilbert space
+A relative basis for mixed Tate motives over the projective line minus three points
+Gorenstein categories singular equivalences and finite generation of cohomology rings in recollements
+Voevodsky's mixed motives versus Kontsevich's noncommutative mixed motives
+Realizing the analytic surgery group of Higson and Roe geometrically Part II: Relative eta-invariants
+Another presentation for symplectic Steinberg groups
+Torsion cohomology for solvable groups of finite rank
+A regulator for smooth manifolds and an index theorem
+Zeta functions Grothendieck groups and the Witt ring
+Cartan-Eilenberg complexes and Auslander categories
+Algebraic Cobordism as a module over the Lazard ring
+The Higson-Roe exact sequence and ell 2 eta invariants
+Generalized Equivariant Cohomology and Stratifications
+Non-additive functors and Euler characteristics
+Refined blowups
+Algebraic K-theory of quasi-coherent modules over spectral schemes and the representation in affine case
+Homology and the stability problem in the Thompson group family
+On the interior motive of certain Shimura varieties: the case of Picard surfaces
+The noncommutative infinitesimal equivariant index formula: part II
+The bulk-edge correspondence for the quantum Hall effect in Kasparov theory
+A categorification of the square root of -1
+Multiplicities of equivariant Spin c Dirac operators
+Noncommutative motives of separable algebras
+On the Evrard's fibrant replacement of a functor
+Positive scalar curvature and product formulas for secondary index invariants
+Hochschild cohomology of deformation quantizations over mathbb Z p n mathbb Z
+A-infinity functors and homotopy theory of dg-categories
+Coarse co-assembly as a ring homomorphism
+Realizing the analytic surgery group of Higson and Roe geometrically Part III: Higher invariants
+Exponentiation of motivic measures
+A higher homotopic extension of persistent (co)homology
+Homology of infinite loop spaces
+Boundary and shape of Cohen-Macaulay cone
+Noncommutative mixed (Artin) motives and their motivic Hopf dg algebras
+Cyclic homology and quantum orbits
+Relative symplectic Steinberg group
+K -theory as an Eilenberg-Maclane spectrum
+The noncommutative family Atiyah-Patodi-Singer index theorem
+Mackey profunctors
+The Witt group of a braided Monoidal category
+Equivariant stable homotopy methods in the algebraic K-theory of infinite groups
+Derived Mackey functors and profunctors: an overview of results
+Local-global principle for General Quadratic and General Hermitian groups and the nilpotence of KH 1
+Equivariant Fredholm modules for the full quantum flag manifold of SU q(3)
+On localization sequences in the algebraic K-theory of ring spectra
+Controlled algebraic G-theory II
+On the diagonal subalgebra of an Ext algebra
+From homotopy operads to infinity-operads
+An equivariant index theorem for hypoelliptic operators
+Formality of derived intersections and the orbifold HKR isomorphism
+Dennis trace map for certain K -groups of categories with cofibrations
+Mixed motivic sheaves (and weights for them) exist if 'ordinary' mixed motives do
+(Self-)similar groups and the Farrell-Jones conjectures
+The cohomological reduction method for computing n-dimensional cocyclic matrices
+Loop Differential K-theory
+A cohomological classification of vector bundles on smooth affine threefolds
+Representations of Homotopy Lie-Rinehart Algebras
+Bundles of spectra and algebraic K-theory
+Equivariant calculus of functors and Z 2-analyticity of real K-theory
+Gauge Theory for Spectral Triples and the Unbounded Kasparov Product
+ON cyclotomic elements and cyclotomic subgroups in K 2 of a field
+Gerstenhaber and Batalin-Vilkovisky structures on modules over operads
+On Thompson's group T and algebraic K-theory
+Geometric Baum-Connes assembly map for twisted Differentiable Stacks
+Monoidal categories and the Gerstenhaber bracket in Hochschild cohomology
+Categorical Bockstein sequences
+Real Baum-Connes assembly and T-duality for torus orientifolds
+A spectrum-level Hodge filtration on topological Hochschild homology
+A note on the higher Atiyah-Patodi-Singer index theorem on Galois coverings
+The isomorphism conjecture for groups with generalized free product structure
+Homological epimorphisms recollements and Hochschild cohomology - with a conjecture by Snashall-Solberg in view
+From the global signature to higher signatures
+The Squaring Operation for Commutative DG Rings
+A module structure and a vanishing theorem for cycles with modulus
+Colocalizations of noncommutative spectra and bootstrap categories
+On standard derived equivalences of orbit categories
+The isomorphism conjecture for Artin groups
+On an index theorem by Bismut
+Obstructions to compatible splittings
+Grothendieck-Neeman duality and the Wirthm uller isomorphism
+The Hochschild homology of A(1)
+Splitting the relative assembly map Nil-terms and involutions
+Homology of GL 3 of function rings of elliptic curves
+Strong shift equivalence and algebraic K-theory
+Triangular objects and systematic K-theory
+Multiplicative Structures and the Twisted Baum-Connes Assembly map
+The extension class and KMS states for Cuntz--Pimsner algebras of some bi-Hilbertian bimodules
+Twisted Geometric K-homology for Proper actions of discrete groups
+Introduction to Derived Categories
+Stacks of Ann-Categories and their morphisms
+On the interior motive of certain Shimura varieties: the case of Hilbert-Blumenthal varieties
+The homotopy fixed point theorem and the Quillen-Lichtenbaum conjecture in hermitian K-theory
+Witt Groups of Curves and Surfaces
+Berkovich Spaces and Tubular Descent
+Milnor descent for cohesive dg-categories
+KO-Rings of Full Flag Varieties
+Rho-classes index theory and Stolz' positive scalar curvature sequence
+Kontsevich's graph complex GRT and the deformation complex of the sheaf of polyvector fields
+Estimations of the low dimensional homology of Lie algebras with large abelian ideals
+Twisted Witt Groups of Flag Varieties
+Factorization homology and calculus a la Kontsevich Soibelman
+Weil transfer of noncommutative motives
+Chow groups of intersections of quadrics via homological projective duality and (Jacobians of) noncommutative motives
+Symmetric monoidal noncommutative spectra strongly self-absorbing C -algebras and bivariant homology
+Index pairings for mathbb R n -actions and Rieffel deformations
+On the third cohomology group of commutative monoids
+The Arason invariant of orthogonal involutions of degree 12 and  and quaternionic subgroups of the Brauer group
+A Generalized Contou-Carr ere Symbol and its Reciprocity Laws in Higher Dimensions
+Reciprocity laws and K -theory
+A K-theoretic interpretation of real Deligne cohomology
+The second homology of SL 2 of S-integers
+E n-cohomology with coefficients as functor cohomology
+Kazhdan projections random walks and ergodic theorems
+Biextensions bimonoidal functors multilinear functor calculus and categorical rings
+Milnor-Witt K -groups of local rings
+A group theoretical version of Hilbert's theorem 0
+On the K-theory of linear groups
+Homological Dimensions Relative to Preresolving Subcategories
+Extrapolating an Euler class
+On centrality of K 2 for Chevalley groups of type E l
+A noncommutative model for higher twisted K-Theory
+Pre-Lie deformation theory
+Superrigidity from Chevalley groups into acylindrically hyperbolic groups via quasi-cocycles
+Naturality of FHT isomorphism
+Homological Aspects of the Dual Auslander Transpose
+Nonunital spectral triples and metric completeness in unbounded KK-theory
+Left Adjoints for Generalized Multicategories
+On loop extensions and cohomology of loops
+Derived invariance of support varieties
+Long and thin covers for cocompact flow spaces
+A1-homotopy invariance of algebraic K-theory with coefficients and Kleinian singularities
+Euler class groups and the homology of elementary and special linear groups
+A Motivic Grothendieck-Teichm uller Group

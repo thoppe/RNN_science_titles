@@ -1,0 +1,1818 @@
+Boolean network model predicts cell cycle sequence of fission yeast
+Delay estimation in a two-node acyclic network
+Python Unleashed on Systems Biology
+Efficiency and versatility of distal multisite transcription regulation
+A generic mechanism for adaptive growth rate regulation
+A Model of Late Long-Term Potentiation Simulates Aspects of Memory Maintenance
+Primordial Evolution in the Finitary Process Soup
+Network Structure of Protein Folding Pathways
+Modeling the effects of HIV-1 virions and proteins on Fas-induced apoptosis of infected cells
+Viable flux distribution in metabolic networks
+The Origin of the RNA World: a Kinetic Model
+Robustness as an Evolutionary Principle
+Stability and noise in biochemical switches
+Small Cycles in Small Worlds
+Biological Networks
+Subnetwork hierarchies of biochemical pathways
+Gene networks from DNA microarray data: centrality and lethality
+Structure and evolution of protein interaction networks: A statistical model for link dynamics and gene duplications
+Evidence of Scale-Free Topology and Dynamics in Gene Regulatory Networks
+The style of genetic computing
+Global Snapshot of Protein Interaction Network -- A Percolation Based Approach
+Preferential attachment in the protein network evolution
+Sensitivity of Phage Lambda upon Variations of the Gibbs Free Energy
+On the uniform generation of random graphs with prescribed degree sequences
+Self-organized pattern formation and noise-induced control from particle computation
+The shortest path to complex networks
+Hide and seek on complex networks
+Quantum transport through a DNA wire in a dissipative environment
+Towards a Theory of Scale-Free Graphs: Definition Properties and Implications (Extended Version)
+Emergent Criticality from Co-evolution in Random Boolean Networks
+Finite size corrections to random Boolean networks
+Approximation of dynamical systems using S-systems theory : application to biological systems
+Peano Count Trees (P-Trees) and Rule Association Mining for Gene Expression Profiling of Microarray Data
+Intramolecular Structure of Proteins as driven by Steiner Optimization Problems
+Optimal length and signal amplification in weakly activated signal transduction cascades
+Discrete time piecewise affine models of genetic regulatory networks
+Global existence results for complex hyperbolic models of bacterial chemotaxis
+The Role of Redundancy in the Robustness of Random Boolean Networks
+Synchronization of Coupled Nonidentical Genetic Oscillators
+Clustering and Signalling of Cell Receptors
+A Historical Perspective on Cancer
+Coordinated Slowing of Metabolism in Enteric Bacteria under Nitrogen Limitation: A Perspective
+Correlating overrepresented upstream motifs to gene expression: a computational approach to regulatory element discovery in eukaryotes
+Graph-driven features extraction from microarray data
+Redundancies in Large-scale Protein Interaction Networks
+Uncovering the overlapping community structure of complex networks in nature and society
+Reconstruct the Hierarchical Structure in a Complex Network
+Switching Dynamics in Reaction Networks Induced by Molecular Discreteness
+Dynamical hysteresis in multisite protein modification
+Monotone Systems with Inputs and Outputs
+Multi-Stability in Monotone Input Output Systems
+Adaptation and regulation with signal detection implies internal model
+Discovery and analysis of biochemical subnetwork hierarchies
+On the structure of proten-protein interaction networks
+Robust gene regulation: Deterministic dynamics from asynchronous networks with delay
+Scaling in Counter Expressed Gene Networks Constructed from Gene Expression Data
+Bioinformatics analysis of experimentally determined protein complexes in the yeast S. cerevisiae
+Fold-Hopf Bursting in a Model for Calcium Signal Transduction
+Communication on the letter: Evolutionary Conservation of Motif Constituents in the Yeast Protein Interaction Network.
+Upstream Plasticity and Downstream Robustness in Evolution of Molecular Networks
+Statistical analysis of the spatial distribution of operons in the transcriptional regulation network of Escherichia coli
+Adaptive walks in a gene network model of morphogenesis: insights into the Cambrian explosion
+The topology of the regulatory interactions predics the expression pattern of the segment polarity genes in Drosophila melanogaster
+Is prokaryotic complexity limited by accelerated growth in regulatory overhead?
+Systemic lupus erythematosus in African-American women: Cognitive physiological modules autoimmune disease and structured psychosocial stress
+Homogeneous and Scalable Gene Expression Regulatory Networks with Random Layouts of Switching Parameters
+Evolution of the Protein Interaction Network of Budding Yeast: Role of the Protein Family Compatibility Constraint
+Inherent size constraints on prokaryote gene networks due to accelerating growth
+Failed nonaccelerating models of prokaryote gene regulatory networks
+A Computational Algebra Approach to the Reverse Engineering of Gene Regulatory Networks
+Modularity for free in genome architecture?
+Specific protein-protein binding in many-component mixtures of proteins
+How to find decision makers in neural circuits?
+Power laws in biological networks
+Morphogenesis by coupled regulatory networks
+Toy Models and Statistical Mechanics of Subgraphs and Motifs of Genetic and Protein Networks
+Regulation of Neuromodulator Receptor Efficacy - Implications for Whole-Neuron and Synaptic Plasticity
+Discriminative Topological Features Reveal Biological Network Mechanisms
+An Exact Model of Fluctuations in Gene Expression
+Global Topological Study of the Protein-protein Interaction Networks
+Reliably determining which genes have a high posterior probability of differential expression: A microarray application of decision-theoretic multiple testing
+HighProbability determines which alternative hypotheses are sufficiently probable: Genomic applications include detection of differential gene expression
+Global organization of metabolic fluxes in the bacterium Escherichia coli
+Calculating Biological Behaviors of Epigenetic States in Phage lambda Life Cycle
+Large-scale reverse engineering by the Lasso
+Edge vulnerability in neural and metabolic networks
+Robustness Stability and Efficiency of Phage lambda Gene Regulatory Network: Dynamical Structure Analysis
+On the stability of Murray's testosterone model
+Graphic requirements for multistationarity
+Clustering under the line graph transformation: Application to reaction network
+Green's Function Reaction Dynamics: a new approach to simulate biochemical networks at the particle level and in time and space
+Hypothesis: Is percolative clustering an emerging paradigm in protein-protein interactions ?
+Modeling Interactome: Scale-Free or Geometric?
+Scale-Free topologies and Activatory-Inhibitory interactions
+Model evaluation for glycolytic oscillations in yeast biotransformations of xenobiotics
+The Orchestral Analog of Molecular Biology
+Scaling laws in the functional content of genomes: Fundamental constants of evolution?
+The Heart of Protein-Protein Interaction Networks
+Spatio-temporal Dynamics in the Origin of Genetic Information
+Modeling of microarray data with zippering
+Michaelis-Menten Dynamics in Complex Heterogeneous Networks
+Conserved network motifs allow protein-protein interaction prediction
+Random autocatalytic networks
+Cell Cycling Models of Carcinogenesis: A Complex Systems Analysis
+Analytical Solution of a Stochastic Content Based Network Model
+Dynamics and coding of a biologically-motivated network
+Biological Profiling of Gene Groups utilizing Gene Ontology
+The architecture of the protein domain universe
+Quantifying the relevance of different mediators in the human immune cell network
+Model of the early development of thalamo-cortical connections and area patterning via signaling molecules
+Chemical models of genetic toggle switches
+Scale-rich metabolic networks: background and introduction
+Co-expression of statistically over-represented peptides in proteomes: a key to phylogeny ?
+High-dimensional switches and the modeling of cellular differentiation
+Multiple weak hits confuse complex systems: A transcriptional regulatory network as an example
+On The Reconstruction of Interaction Networks with Applications to Transcriptional Regulation
+ARACNE: An Algorithm for the Reconstruction of Gene Regulatory Networks in a Mammalian Cellular Context
+Conditional Network Analysis Identifies Candidate Regulator Genes in Human B Cells
+Lethality and synthetic lethality in the genome-wide metabolic network of Escherichia coli
+Combinatorial complexity and dynamical restriction of network flows in signal transduction
+Modeling network dynamics: the lac operon a case study
+Genetic networks with canalyzing Boolean rules are always stable
+Transcriptional Regulation by the Numbers 1: Models
+Transcriptional Regulation by the Numbers 2: Applications
+The Logic Backbone of a Transcription Network
+An RNA-centered view of eukaryotic cells
+Counting attractors in synchronously updated random Boolean networks
+The efficiency of multi-target drugs: the network approach might help drug design
+Modeling Genetic Networks from Clonal Analysis
+Binding properties and evolution of homodimers in protein-protein interaction networks
+Are scale-free regulatory networks larger than random ones?
+Robustness and fragility of Boolean models for genetic regulatory networks
+Functionality Encoded In Topology? Discovering Macroscopic Regulatory Modules from Large-Scale Protein-DNA Interaction Networks
+The Effects of EGF-Receptor Density on Multiscale Tumor Growth Patterns
+Some Properties of the Speciation Model for Food-Web Structure - Mechanisms for Degree Distributions and Intervality
+The large-scale logico-chemical structure of a transcriptional regulation network
+Morphogen Gradient from a Noisy Source
+A new model for the immune clonal networks
+DNA looping in gene regulation: from the assembly of macromolecular complexes to the control of transcriptional noise
+Robustness in Gene Circuits: Clustering of Functional Responses
+Comparative Analysis of the Saccharomyces cerevisiae and Caenorhabditis elegans Protein Interaction Network
+Role-similarity based functional prediction in networked systems: Application to the yeast proteome
+Probabilistic methods for predicting protein functions in protein-protein interaction networks
+Computational Theory of Biological Function I
+Extracellular-to-intracellular signal transfer via G-proteins
+Principles in the Evolution of Metabolic Networks
+Ubiquity of Log-normal Distributions in Intra-cellular Reaction Dynamic
+Morphological complex networks: Can individual morphology determine the general connectivity and dynamics of networks?
+Metabolic Network Modelling: Including Stochastic Effects
+Geometrical constraints in a gene network model and pattern formation
+Evidence of a universal power law characterizing the evolution of metabolic networks
+On Recursive Production and Evolvabilty of Cells: Catalytic Reaction Network Approach
+Self-organization of gene regulatory network motifs enriched with short transcript's half-life transcription factors
+Low Degree Metabolites Explain Essential Reactions and Enhance Modularity in Biological Networks
+Modeling of negative autoregulated genetic networks in single cells
+Statistical model selection methods applied to biological networks
+Some protein interaction data do not exhibit power law statistics
+Probability Models for Degree Distributions of Protein Interaction Networks
+Integrin activation - the importance of a positive feedback
+Differential gene expression in Bacillus subtilis
+An inversion in the wiring of an intercellular signal: evolution of Wnt signaling in the nematode vulva
+Complex Network Approach to Human Promoter Sequences
+Connectivity and expression in protein networks: Proteins in a complex are uniformly expressed
+Networks of Mobile Elements for Biological Systems
+Identification of the growth-limiting step in continuous cultures from initial rates measured in response to substrate-excess conditions
+Signal processing in the TGF-beta superfamily ligand-receptor network
+Weighted and unweighted network of amino acids within protein
+Algorithmic and Complexity Results for Decompositions of Biological Networks into Monotone Subsystems
+Comparative analysis of some models of mixed-substrate microbial growth
+A p53 Oscillator Model of DNA Break Repair Control
+Network growth models and genetic regulatory networks
+Mathematical approaches to differentiation and gene regulation
+Genome-wide discovery of modulators of transcriptional interactions in human B lymphocytes
+Signal Propagation in Nonlinear Stochastic Gene Regulatory Networks
+Metabolic Futile Cycles and Their Functions: A Systems Analysis of Energy and Control
+Gene expression analysis reveals a strong signature of an interferon induced pathway in childhood lymphoblastic leukemia as well as in breast and ovarian cancer
+The promoters of human cell cycle genes integrate signals from two tumor suppressive pathways during cellular transformation
+Functional alignment of regulatory networks: A study of temperate phages
+Efficiency Robustness and Stochasticity of Gene Regulatory Networks in Systems Biology: lambda Switch as a Working Example
+Uniqueness of steady states for a certain chemical reaction
+Cooperativity sensitivity and noise in biochemical signaling
+Universal core modules govern the dynamics of cellular regulatory networks
+A dichotomy for a class of cyclic delay systems
+Towards an understanding of lineage specification in hematopoietic stem cells: A mathematical model for the interaction of transcription factors GATA-1 and PU.1
+The Activity Reaction Core and Plasticity of Metabolic Networks
+Structural Kinetic Modeling of Metabolic Networks
+CFinder: Locating cliques and overlapping modules in biological networks
+Intracellular delay limits cyclic changes in gene expression
+Development of a Three-Dimensional Multiscale Agent-Based Tumor Model: Simulating Gene-Protein Interaction Profiles Cell Phenotypes Multicellular Patterns in Brain Cancer
+Complex networks theory for analyzing metabolic networks
+Enhanced self-attraction of proteins and its evolutionary implications
+Diffusion and interfaces in pattern formation
+Systems theory of Smad signaling
+Diffusion of transcription factors can drastically enhance the noise in gene expression
+Graph Theory and Networks in Biology
+The adaptive filter of the yeast galactose pathway
+Complex Qualitative Models in Biology: a new approach
+Structure and function of negative feedback loops at the interface of genetic and metabolic networks
+Hierarchical modularity of nested bow-ties in metabolic networks
+Methods of robustness analysis for Boolean models of gene control networks
+Superstability of the yeast cell cycle dynamics: Ensuring causality in the presence of biochemical stochasticity
+Aging cellular networks: chaperones as major participants
+Reverse-engineering of polynomial dynamical systems
+Sequential recruitment and combinatorial assembling of multiprotein complexes in transcriptional activation
+Is the intrinsic disorder of proteins the cause of the scale-free architecture of protein-protein interaction networks?
+Evolution of Protein Interaction Networks by Whole Genome Duplication and Domain Shuffling
+Randomization and Feedback Properties of Directed Graphs Inspired by Gene Networks
+Temporal differentiation and the optimization of system output
+A quantitative study of the benefits of co-regulation using the spoIIA operon as an example
+Synergy from Silence in a Combinatorial Neural Code
+Stochastic Gene Expression in a Lentiviral Positive Feedback Loop: HIV-1 Tat Fluctuations Drive Phenotypic Diversity
+Supplemental Data: Stochastic Gene Expression in a Lentiviral Positive Feedback Loop: HIV-1 Tat Fluctuations Drive Phenotypic Diversity
+Transient Resetting: A Novel Mechanism for Synchrony and Its Biological Examples
+A Petri Net approach to the study of persistence in chemical reaction networks
+Bacterial gene regulation in diauxic and nondiauxic growth
+Dynamic re-wiring of protein interaction: The case of transactivation
+Comparative study of the transcriptional regulatory networks of E. coli and yeast: Structural characteristics leading to marginal dynamic stability
+Using graph concepts to understand the organization of complex systems
+Genetic Regulation of Fluxes: Iron Homeostasis of Escherichia coli
+Stochastic dynamics of macromolecular-assembly networks
+Bayesian analysis of biological networks: clusters motifs cross-species correlations
+Predicting essential components of signal transduction networks: a dynamic model of guard cell abscisic acid signaling
+Transcriptional Interactions During Smallpox Infection and Identification of Early Infection Biomarkers
+Optimal experimental design in an EGFR signaling and down-regulation model
+Robustness and modular design of the Drosophila segment polarity network
+Topological basis of signal integration in the transcriptional-regulatory network of the yeast Saccharomyces cerevisiae
+Asymptotic Evolution of Protein-Protein Interaction Networks for General Duplication-Divergence Models
+Encoding folding paths of RNA switches
+Monotone and near-monotone network structure (part I)
+Monotone and near-monotone network structure (part II)
+Principles of microRNA regulation of a human cellular signaling network
+Optimal signal processing in small stochastic biochemical networks
+MicroRNAs preferentially target the genes with high transcriptional regulation complexity
+Directionality is an inherent property of biochemical networks
+Associative learning in biochemical networks
+UV-induced mutagenesis in Escherichia coli SOS response: A quantitative model
+An HIV Feedback-Resistor: Auto-Regulatory Circuit Deactivator and Noise Buffer
+Oscillations in I O monotone systems under negative feedback
+Molecular chaperones: The modular evolution of cellular networks
+Comparing Protein Interaction Networks via a Graph Match-and-Split Algorithm
+Stochastic Simulations of Genetic Switch Systems
+Bistability preserving model reduction in apoptosis
+Stochastic Synchronization of Genetic Oscillator Networks
+Effect of DNA looping on the induction kinetics of the lac operon
+How to design multi-target drugs: Target search options in cellular networks
+Deterministic and Stochastic Simulations of Simple Genetic Circuits
+An allosteric model for circadian KaiC phosphorylation - Supporting Information
+Global statistical analysis of the protein homology network
+Quantitative Characterization of Combinatorial Transcriptional Control of the Lactose Operon of E. coli
+Comparing Classical Pathways and Modern Networks: Towards the Development of an Edge Ontology
+A statistical mechanics approach to reverse engineering: sparsity and biological priors on gene regulatory networks
+Multi-bit information storage by multisite phosphorylation
+Correlation-sharing for detection of differential gene expression
+Chemical organization theory: towards a theory of constructive dynamical systems
+microRNAs may sharpen spatial expression patterns
+Molecular Synchronization Waves in Arrays of Allosterically Regulated Enzymes
+Propagation of external regulation and asynchronous dynamics in random Boolean networks
+Computational investigations into the orgins of 'short term' biochemical memory in T cell activation
+From Protein Interactions to Functional Annotation: Graph Alignment in Herpes
+Bistability of the lac operon during growth of Escherichia coli on lactose and lactose glucose
+Control of poultry chicken malaria by surface functionalized amorphous nanosilica
+Nanosilica mops up host lipids and fights baculovirus: a B. mori model
+Nanosilica mop up host lipids and fights baculovirus
+Control of rodent sleeping sickness disease by surface functionalized amorphous nanosilica
+On Cycles in the Transcription Network of Saccharomyces cerevisiae
+Some measure theory on stacks of graphs
+High-gain nonlinear observer for simple genetic regulation process
+Modeling for evolving biological networks with scale-free connectivity hierarchical modularity and disassortativity
+Stress-induced rearrangements of cellular networks: consequences for protection and drug design
+On the existence of potential landscape in the evolution of complex systems
+Transcription and noise in negative feedback loops
+Ascorbic acid enhances the inhibitory effect of aspirin on neuronal cyclooxygenase-2-mediated prostaglandin E2 production
+A Design of an Autonomous Molecule Loading Transporting Unloading System Using DNA Hybridization and Biomolecular Linear Motors
+Metabolite essentiality elucidates robustness of Escherichia coli metabolism
+Propagation of large concentration changes in reversible protein binding networks
+The p53-MDM2 network: from oscillations to apoptosis
+Enzyme localization can drastically affect signal amplification in signal transduction pathways
+Differential and graphical approaches to multistability theory for chemical reaction networks
+Cancer Genesis and Progression as Dynamics in Functional Landscape of Endogenous Molecular-Cellular Network
+Modular co-evolution of metabolic networks
+Pseudo-Random Fluctuations Stochastic Cooperativity and Burstiness in Dynamically Unstable High-Dimensional Biochemical Networks
+Two distinct logical types of network control in gene expression profiles
+Scale- free networks in cell biology
+Elucidation of Directionality for Co-Expressed Genes: Predicting Intra-Operon Termination Sites
+Bow-tie topological features of metabolic networks and the functional significance
+Attribute Exploration of Discrete Temporal Transitions
+Functional Annotation of Genes in Saccharomyces cerevisiae based on oint Betweenness
+Modular model building
+Potential for regulatory genetic networks of gene expression near a stable point
+Shape size and robustness: feasible regions in the parameter space of biochemical networks
+MAPK Cascades as Feedback Amplifiers
+The stochastic behavior of a molecular switching circuit with feedback
+Compositionality stochasticity and cooperativity in dynamic models of gene regulation
+Validating module network learning algorithms using simulated data
+Mixed membership analysis of high-throughput interaction studies: Relational data
+Reconstruction of metabolic networks from high-throughput metabolite profiling data: in silico analysis of red blood cell metabolism
+Prediction and verification of indirect interactions in densely interconnected regulatory networks
+Modeling Protein Contact Networks
+A feedback approach to bifurcation analysis in biochemical networks with many parameters
+Assortative mixing in Protein Contact Networks and protein folding kinetics
+Large attractors in cooperative bi-quadratic Boolean networks. Part I
+Network properties of protein structures
+Spontaneous Self-Assembly of Transcription Factor Based Gene Regulation Networks
+A Generic Rate Equation for modeling Enzymatic Reactions under Living Conditions
+Modeling a simple enzyme reaction with delay and discretization
+A Collaboration Network Model Of Cytokine-Protein Network
+Operating Regimes of Signaling Cycles: Statics Dynamics and Noise Filtering
+MicroRNA Systems Biology
+A computational systems biology study of the lambda-lac mutants
+Cancer systems biology: exploring cancer-associated genes on cellular networks
+Cell biology: Networks regulation pathways
+Damage Spreading and Criticality in Finite Random Dynamical Networks
+Gene regulation in continuous cultures: A unified theory for bacteria and yeasts
+Optimal metabolic pathway activation
+Large attractors in cooperative bi-quadratic Boolean networks. Part II
+Comment on Regularizing capacity of metabolic networks
+Evolution of complex modular biological networks
+Chaperones as integrators of cellular networks: Changes of cellular integrity in stress and diseases
+Cost and Capacity of Signaling in the Escherichia coli Protein Reaction Network
+Uncovering Biological Network Function via Graphlet Degree Signatures
+Determinants of bistability in induction of the Escherichia coli lac operon
+The diffusive influx and carrier efflux have a strong effect on the bistability of the lac operon in Escherichia coli
+Positive feedback and noise activate the stringent response regulator Rel in mycobacteria
+The Structure and Dynamics of Gene Regulation Networks
+Bistable MAP Kinase Activity: A Plausible Mechanism Contributing to Maintenance of Late Long-Term Potentiation
+Signal duration and the time scale dependence of signal integration in biochemical pathways
+On the functional properties of microRNA-mediated feed forward loops
+The evolution of microRNA-regulation in duplicated genes facilitates expression divergence
+Molecular Systems with Infinite and Finite Degrees of Freedom. Part II: Deterministic Dynamics and Examples
+Complexity in Biology
+The regulatory network of E. coli metabolism as a boolean dynamical system exhibits both homeostasis and flexibility of response
+One Hub-One Process: A Tool Based View on Regulatory Network Topology
+Stochastic Network Model of Receptor Cross-Talk Predicts Anti-Angiogenic Effects
+Multiscale Analysis of Reaction Networks
+The Blind Watchmaker Network: Scale-freeness and Evolution
+Predicting synthetic rescues in metabolic networks
+Decomposition of Complex Reaction Networks into Reactons
+Spreading of EGF Receptor Activity into EGF-free Regions and Molecular Therapies of Cancer
+Introducing a Probabilistic Structure on Sequential Dynamical Systems Simulation and Reduction of Probabilistic Sequential Networks
+Kinetic proofreading of gene activation by chromatin remodeling
+Stochastic Dynamical Structure (SDS) of Nonequilibrium Processes in the Absence of Detailed Balance. III: potential function in local stochastic dynamics and in steady state of Boltzmann-Gibbs type distribution function
+From Network Structure to Dynamics and Back Again: Relating dynamical stability and connection topology in biological complex systems
+When correlations matter - response of dynamical networks to small perturbations
+Erwin Schroedinger Francis Crick and epigenetic stability
+Unbiased Random Threshold Networks Are Chaotic or Critical
+Regulatory control and the costs and benefits of biochemical noise
+Network Structure and Dynamics and Emergence of Robustness by Stabilizing Selection in an Artificial Genome
+The Dynamics of Conjunctive and Disjunctive Boolean Networks
+A comparative evolutionary study of transcription networks
+Elucidation of differential response networks from toxicogenomics data
+Reliability of regulatory networks and its evolution
+The Goldbeter-Koshland switch in the first-order region and its response to dynamic disorder
+Sensitivity Regulation based on Noise Propagation in Stochastic Reaction Networks
+A dynamic logic method for determining behaviors of biological networks
+Optimal Control of Evolutionary Dynamics
+A fast and efficient gene-network reconstruction method from multiple over-expression experiments
+Multi-Scale Multi-Resolution Brain Cancer Modeling
+Cancer Cell Motility: Optimizing Spatial Search Strategies
+Hierarchy Measures in Complex Networks
+Chaotic Gene Regulatory Networks Can Be Robust Against Mutations and Noise
+Constructing a Knowledge Base for Gene Regulatory Dynamics by Formal Concept Analysis Methods
+Network Evolution of Body Plans
+Drug-therapy networks and the predictions of novel drug targets
+Updating Probabilities: A Complex Agent Based Example
+Mean clustering coefficients: the role of isolated nodes and leafs on clustering measures for small-world networks
+The Invention of Proteomic Code and mRNA Assisted Protein Folding
+Towards Kinetic Modeling of Global Metabolic Networks with Incomplete Experimental Input on Kinetic Parameters
+Exact solution of a model DNA-inversion genetic switch with orientational control
+A quantitative comparison of sRNA-based and protein-based gene regulation
+The influence of microwave radiation on the state of chromatin in human cells
+Colored extrinsic fluctuations and stochastic gene expression
+Residue Network Construction and Predictions of Elastic Network Models
+Multistep greedy algorithm identifies community structure in real-world and computer-generated networks
+Sensitivity dependent model of protein-protein interaction networks
+Regulation of signal duration and the statistical dynamics of kinase activation by scaffold proteins
+Algebraic Methods for Inferring Biochemical Networks: a Maximum Likelihood Approach
+The Generation of Promoter-Mediated Transcriptional Noise in Bacteria
+Gene-gene cooperativity in small networks
+On the role of conserved moieties in shaping the robustness and production capabilities of reaction networks
+Detection of the dominant direction of information flow in densely interconnected regulatory networks
+Creative elements: network-based predictions of active centres in proteins cellular and social networks
+Extremely chaotic Boolean networks
+Hierarchical structure and the prediction of missing links in networks
+Positional distribution of human transcription factor binding sites
+Wide-Scale Analysis of Human Functional Transcription Factor Binding Reveals a Strong Bias towards the Transcription Start Site
+A Multivariate Regression Approach to Association Analysis of Quantitative Trait Network
+Computer algebra in systems biology
+A discrete inhomogeneous model for the yeast cell cycle
+Analytical distributions for stochastic gene expression
+Recent Developments in Immune Network Theory including a concept for an HIV Vaccine
+Study of the structure and dynamics of complex biological networks
+Metabolomic and flux-balance analysis of age-related decline of hypoxia tolerance in Drosophila muscle tissue
+Delayed coupling theory of vertebrate segmentation
+Fundamentally different strategies for transcriptional regulation are revealed by information-theoretical analysis of binding motifs
+Time-Varying Networks: Recovering Temporally Rewiring Genetic Networks During the Life Cycle of Drosophila melanogaster
+Comment on Yu et al. High Quality Binary Protein Interaction Map of the Yeast Interactome Network. Science 322 10 (200)
+The Adaptation of Complexity in the Evolution of Macromolecules
+Module networks revisited: computational assessment and prioritization of model predictions
+Spontaneous Reaction Silencing in Metabolic Optimization
+Enumeration and Online Library of Mass-Action Reaction Networks
+Intrinsic fluctuations in stochastic delay systems: theoretical description and application to a simple model of gene regulation
+A SAT-Based Algorithm for Computing Attractors in Synchronous Boolean Networks
+Biological network comparison using graphlet degree distribution
+Cell-to-Cell stochastic fluctuations in apoptotic signaling can decide between life and death
+Oscillations in the expression of a self-repressed gene induced by a slow transcriptional dynamics
+Genetic noise control via protein oligomerization
+The effect of network topology on the stability of discrete state models of genetic control
+Model of Transcriptional Activation by MarA in Escherichia coli
+Functional characteristics of a double positive feedback loop coupled with autorepression
+Functional models for large-scale gene regulation networks: realism and fiction
+Athena: Modular CAM CAD Software for Synthetic Biology
+Adaptive gene regulatory networks
+A Dimension Reduction Method for Inferring Biochemical Networks
+How T-cells use large deviations to recognize foreign antigens
+Statistical physics of a model binary genetic switch with linear feedback
+Robustness of Transcriptional Regulation in Yeast-like Model Boolean Networks
+Design of a dynamic model of genes with multiple autonomous regulatory modules by evolution in silico
+Limit cycles in piecewise-affine gene network models with multiple interaction loops
+Cis-Regulatory Modules Drive Dynamic Patterns of a Multicellular System
+Genome-scale reconstruction of the metabolic network in Yersinia pestis strain 1001
+Perturbation waves in proteins and protein networks: Applications of percolation and game theories in signaling and drug design
+Heterogeneous distribution of metabolites across plant species
+Synchronization and clustering of synthetic genetic networks: A role for cis-regulatory modules
+Reverse-engineering transcriptional modules from gene expression data
+Boolean Network Approach to Negative Feedback Loops of the p53 Pathways: Synchronized Dynamics and Stochastic Limit Cycles
+Synchronized Dynamics and Nonequilibrium Steady States in a Stochastic Yeast Cell-Cycle Network
+Damage Spreading in Spatial and Small-world Random Boolean Networks
+Robust Regulatory Networks
+Global Sensitivity Analysis of Biochemical Reaction Networks via Semidefinite Programming
+Regulatory networks and connected components of the neutral space
+Comparative analysis of module-based versus direct methods for reverse-engineering transcriptional regulatory networks
+Global alignment of protein-protein interaction networks by graph matching methods
+On persistence and cascade decompositions of chemical reaction networks
+DNA looping provides stability and robustness to the bacteriophage lambda switch
+Conservation of high-flux backbone in alternate optimal and near-optimal flux distributions of metabolic networks
+Information processing and signal integration in bacterial quorum sensing
+Equilibrium Blocking Model of Isometric Tension
+Stochastic Control of Metabolic Pathways
+Robustness of the Drosophila segment polarity network to transient perturbations
+Positive Feedback Regulation Results in Spatial Clustering and Fast Spreading of Active Signaling Molecules on a Cell Membrane
+Gene network reconstruction from transcriptional dynamics under kinetic model uncertainty: a case for the second derivative
+Coarse-graining stochastic biochemical networks: quasi-stationary approximation and fast simulations using a stochastic path integral technique
+Mutual information between in- and output trajectories of biochemical networks
+An Optimization Algorithm for Finding Parameters for Bistability
+Global entrainment of transcriptional systems to periodic inputs
+Reduction of Boolean Networks
+Spatio-temporal correlations can drastically change the response of a MAPK pathway
+Open Regulatory Networks and Modularity
+Fundamental Dynamic Units: Feedforward Networks and Adjustable Gates
+Optimal flux states reaction replaceability and response to knockouts in the human red blood cell
+Three faces of metabolites: Pathways localizations and network positions
+TinkerCell: Modular CAD Tool for Synthetic Biology
+Genome-Wide Survey of MicroRNA - Transcription Factor Feed-Forward Regulatory Circuits in Human
+The role of spatial averaging in the precision of gene expression patterns
+Ergodic and Nonergodic Anomalous Diffusion in Coupled Stochastic Processes
+Inferring genetic networks: An information theoretic approach
+Stochastic Coherence in an Oscillatory Gene Circuit Model
+On the accessibility of adaptive phenotypes of a bacterial metabolic network
+Long delay times in reaction rates increase intrinsic fluctuations
+Morphogenesis by coupled regulatory networks: Reliable control of positional information and proportion regulation
+Emergent Network Structure evolvable Robustness and non-linear Effects of Point Mutations in an Artificial Genome Model
+Modeling of the genetic switch of bacteriophage TP01-1: A heteromer of CI and MOR ensures robust bistability
+Molecular Systems with Infinite and Finite Degrees of Freedom. Part I: Multi-Scale Analysis
+Developing a Theoretical Framework for Optofluidic Device Designing for System Identification in Systems Biology: the EGFR Study Case
+Flux networks in metabolic graphs
+Sensitivity of protein rigidity analysis to small structural variations: a large-scale comparative analysis
+A stochastic spectral analysis of transcriptional regulatory cascades
+Model validation of simple-graph representations of metabolism
+Modular Gene Dynamics and Network Theory at Mesoscopic Scale
+Systems approaches and algorithms for discovery of combinatorial therapies
+A Model of Sequential Branching in Hierarchical Cell Fate Determination
+Estimation of biochemical network parameter distributions in cell populations
+The Repressor-Lattice: Feed-Back Commensurability and Dynamical Frustration
+Network strategies to understand the aging process and help age-related drug design
+Proteins with greater influence on network dynamics evolve more slowly but are not more essential
+Pitchfork and Hopf bifurcation thresholds in stochastic equations with delayed feedback
+mRNA diffusion explains protein gradients in textit Drosophila early development
+Emergent thresholds in genetic regulatory networks: Protein patterning in Drosophila morphogenesis
+On testing the significance of sets of genes
+Introduction to Random Boolean Networks
+The Role of Computation in Complex Regulatory Networks
+Network of tRNA Gene Sequences
+Yeast Protein Interactome Topology Provides Framework for Coordinated-Functionality
+The synchronization of stochastic oscillators
+Dynamical Structure Functions for the Estimation of LTI Networks with Limited Information
+Variable-free exploration of stochastic models: a gene regulatory network example
+On the equilibria of the MAPK cascade: cooperativity modularity and bistability
+Topological network alignment uncovers biological function and phylogeny
+Quantifying evolvability in small biological networks
+Centralized Modularity of N-Linked Glycosylation Pathways in Mammalian Cells
+Balance between cell survival and death: a minimal quantitative model of tumor necrosis factor alpha cytotoxicity
+Generating functional analysis of complex formation and dissociation in large protein interaction networks
+Dynamical and Structural Modularity of Discrete Regulatory Networks
+A study on the combined interplay between stochastic fluctuations and the number of flagella in bacterial chemotaxis
+Quantifying mRNA synthesis and decay rates using small RNAs
+A model for signal transduction during quorum sensing in emph Vibrio harveyi
+Quantifying the connectivity of a network: The network correlation function method
+Sparse essential interactions in model networks of gene regulation
+Investigating the robustness of the classical enzyme kinetic equations in small intracellular compartments
+Robustness under functional constraint: The genetic network for temporal expression in Drosophila neurogenesis
+Adaptation and Optimal Chemotactic Strategy for E. Coli
+Topological Evolution of Dynamical Networks: Global Criticality from Local Dynamics
+Neutral Mutations and Punctuated Equilibrium in Evolving Genetic Networks
+Cooperative Model of Bacterial Sensing
+Adaptive Ising Model and Bacterial Chemotactic Receptor Network
+Error Propagation in the Hypercycle
+Stochastic fluctuations in metabolic pathways
+Deterministic characterization of stochastic genetic circuits
+Clustering Coefficients of Protein-Protein Interaction Networks
+Effects of the DNA state fluctuation on single-cell dynamics of self-regulating gene
+The Interplay between Chemistry and Mechanics in the Transduction of a Mechanical Signal into a Biochemical Function
+Molecular Clock on a Neutral Network
+Relationship between cellular response and behavioral variability in bacterial chemotaxis
+Cooperative action in eukaryotic gene regulation: physical properties of a viral example
+Allovalency revisited: an analysis of multisite phosphorylation and substrate rebinding
+Reliability of genetic networks is evolvable
+Stable stochastic dynamics in yeast cell cycle
+Node similarity within subgraphs of protein interaction networks
+The effect of negative feedback loops on the dynamics of Boolean networks
+Critical Line in Random Threshold Networks with Inhomogeneous Thresholds
+Incorporating postleap checks in tau-leaping
+Self-organization of heterogeneous topology and symmetry breaking in networks with adaptive thresholds and rewiring
+Aggregate Dynamics in an Evolutionary Network Model
+Reply to ''Comment on 'Regularizing Capacity of Metabolic Networks' ''
+Noise enhanced persistence in a biochemical regulatory network with feedback control
+Stochastic Simulations of the Repressilator Circuit
+Epigenetic Chromatin Silencing: Bistability and Front Propagation
+Correlated Phenotypic Transitions to Competence in Bacterial Colonies
+Exponential sensitivity of noise-driven switching in genetic networks
+Reaction coordinates for the flipping of genetic switches
+Eliminating fast reactions in stochastic simulations of biochemical networks: a bistable genetic switch
+The window at the edge of chaos in a simple model of gene interaction networks
+Functions of Bifans in Context of Multiple Regulatory Motifs in Signaling Networks
+Non-equilibrium dynamics of gene expression and the arzynski equality
+Dynamics of gene expression and the regulatory inference problem
+Fluctuations in Mass-Action Equilibrium of Protein Binding Networks
+Mean-field vs. stochastic models for transcriptional regulation
+Flux distribution in metabolic networks close to optimal biomass production
+Reaction Brownian Dynamics and the effect of spatial fluctuations on the gain of a push-pull network
+Avalanches branching ratios and clustering of attractors in Random Boolean Networks and in the segment polarity network of emph Drosophila
+Mechanism of robust circadian oscillation of KaiC phosphorylation in vitro
+Serially-regulated biological networks fully realize a constrained set of functions
+A three-state kinetic mechanism for scaffold mediated signal transduction
+Dynamical Analysis on Gene Activity in the Presence of Repressors and an Interfering Promoter
+Evolution of a population of random Boolean networks
+Small RNAs Establish Delays and Temporal Thresholds in Gene Expression
+Identifying essential genes in E. coli from a metabolic optimization principle
+Spontaneous Emergence of Modularity in a Model of Evolving Individuals and in Real Networks
+Morphogen Profiles Can Be Optimised to Buffer Against Noise
+Quantum information processing at the cellular level. Euclidean approach
+Spectral solutions to stochastic models of gene expression with bursts and regulation
+Analysis of interaction partners of H histone by a new proteomics approach
+Theoretical analyses predict A20 regulates period of NF-kB oscillation
+Network theory approach for data evaluation in the dynamic force spectroscopy of biomolecular interactions
+Explosive Percolation in the Human Protein Homology Network
+Bigraphical models for protein and membrane interactions
+A framework for protein and membrane interactions
+A Process Calculus for Molecular Interaction Maps
+A compartmental model of the cAMP PKA MAPK pathway in Bio-PEPA
+A Type System for a Stochastic CLS
+On the basic computational structure of gene regulatory networks
+When it Pays to Rush: Interpreting Morphogen Gradients Prior to Steady-State
+Infinite-Order Percolation and Giant Fluctuations in a Protein Interaction Network
+Correlated random networks
+Scaling in ordered and critical random Boolean networks
+Subgraphs in random networks
+Investigation of a Protein Complex Network
+Some asymptotic properties of duplication graphs
+Local graph alignment and motif search in biological networks
+Fitness for Synchronization of Network Motifs
+Core percolation and onset of complexity in Boolean networks
+Collective Chaos Induced by Structures of Complex Networks
+Evolving networks by merging cliques
+Computational core and fixed-point organisation in Boolean networks
+The sloppy model universality class and the Vandermonde matrix
+Testing the transition state theory in stochastic dynamics of a genetic switch
+Spectral Analysis and the Dynamic Response of Complex Networks
+Universality in Complex Networks: Random Matrix Analysis
+Effects of thermal fluctuation and the receptor-receptor interaction in bacterial chemotactic signalling and adaptation
+Mechanisms of noise-resistance in genetic oscillators
+Distance dissimilarity index and network community structure
+Generic theory of active polar gels: a paradigm for cytoskeletal dynamics
+Nonlinear software sensor for monitoring genetic regulation processes with noise and modeling errors
+Gene regulatory networks: a coarse-grained equation-free approach to multiscale computation
+Synchronization Properties of Network Motifs
+Evolving networks through deletion and duplication
+Structure of n-clique networks embedded in a complex network
+The Yeast Cell-Cycle Network Is Robustly Designed
+Enhancement of the stability of genetic switches by overlapping upstream regulatory domains
+Dynamic receptor team formation can explain the high signal transduction gain in E. coli
+Topological Generalizations of network motifs
+Random Boolean Network Models and the Yeast Transcriptional Network
+Simulation of Drosophila Circadian Oscillations Mutations and Light Responses by a Model with VRI PDP-1 and CLK
+Bifurcation analysis of a model of the budding yeast cell cycle
+Fluctuations and noise in cancer development
+Coarse-Graining and Self-Dissimilarity of Complex Networks
+Spectral Analysis of Protein-Protein Interactions in Drosophila melanogaster
+Sampling rare switching events in biochemical networks
+Fluctuations of Complex Networks: Electrical Properties of Single Protein Nanodevices
+The statistical mechanics of complex signaling networks : nerve growth factor signaling
+The Emergence of Scaling in Sequence-based Physical Models of Protein Evolution
+Self consistent proteomic field theory of stochastic gene switches
+Inferring Network Mechanisms: The Drosophila melanogaster Protein Interaction Network
+Topology of biological networks and reliability of information processing
+Noise Characteristics of Feed Forward Loops
+An Information-Theoretic Approach to Network Modularity
+Length Protein-Protein Interactions and Complexity
+Duplication-divergence model of protein interaction network
+Nonlinear Protein Degradation and the Function of Genetic Circuits
+Cliques and duplication-divergence network growth
+Accelerating hyper-accelerating and decelerating probabilistic networks
+Graph theoretic analysis of protein interaction networks of eukaryotes
+The use of oscillatory signals in the study of genetic networks
+Functional cartography of complex metabolic networks
+Application of Random Matrix Theory to Biological Networks
+Evolutionary origin of power-laws in Biochemical Reaction Network embedding abundance distribution into topology
+A core genetic module : the Mixed Feedback Loop
+Signal detection modularity and the correlation between extrinsic and intrinsic noise in biochemical networks
+A simple physical model for scaling in protein-protein interaction networks
+Spiky oscillations in NF-kB signalling
+Gene Copy Number and Cell Cycle Arrest
+Content based network model with duplication and divergence
+Absolute Rate Theories of Epigenetic Stability
+Finding mesoscopic communities in sparse networks
+Exact results for noise power spectra in linear biochemical reaction networks
+A Model of the Roles of Essential Kinases in the Induction and Expression of Late Long-Term Potentiation
+Genetic Toggle Switch Without Cooperative Binding
+Cross-species analysis of biological networks by Bayesian alignment
+Stochastic Model of Yeast Cell Cycle Network
+Impact of observational incompleteness on the structural properties of protein interaction networks
+Subgraph Ensembles and Motif Discovery Using a New Heuristic for Graph Isomorphism
+Large-scale inference and graph theoretical analysis of gene-regulatory networks in B. stubtilis
+A variational approach to the stochastic aspects of cellular signal transduction
+The interplay between discrete noise and nonlinear chemical kinetics in a signal amplification cascade
+Free-energy distribution of binary protein-protein binding suggests cross-species interactome differences
+Dynamic Studies of Scaffold-dependent Mating Pathway in Yeast
+Function Constrains Network Architecture and Dynamics: A Case Study on the Yeast Cell Cycle Boolean Network
+Propagation of fluctuations in interaction networks governed by the law of mass action
+Oscillation patterns in negative feedback loops
+Efficient Degradation and Expression Prioritization with Small RNAs
+The Regularizing Capacity of Metabolic Networks
+The Berry phase and the pump flux in stochastic chemical kinetics
+Hierarchy and Feedback in the Evolution of the E. coli Transcription Network
+Attractors in continuous and Boolean networks
+Graph animals subgraph sampling and motif search in large networks
+Representing perturbed dynamics in biological network models
+An allosteric model of KaiC phosphorylation
+Oscillations and temporal signalling in cells
+Robust protein-protein interactions in crowded cellular environments
+From differential equations to Boolean networks: A Case Study in modeling regulatory networks
+Anomalies in the transcriptional regulatory network of the yeast Saccharomyces cerevisiae
+Simplicity of Completion Time Distributions for Common Complex Biochemical Processes
+Fluctuations in Gene Regulatory Networks as Gaussian Colored Noise
+Mapping Complex Networks: Exploring Boolean Modeling of Signal Transduction Pathways
+Slave nodes and the controllability of metabolic networks
+Accomplishments in Genome-Scale In Silico Modeling for Industrial and Medical Biotechnology
+Glutamate regulation of calcium and IP3 oscillating and pulsating dynamics in astrocytes
+Calibration and validation of a genetic regulatory network model describing the production of the gap gene protein Hunchback in emph Drosophila early development
+Inspiration from genetics to promote recognition and protection within ad hoc sensor networks
+A survey of statistical network models
+Reverse engineering time discrete finite dynamical systems: A feasible undertaking?
+Siphons in chemical reaction networks
+Extrinsic noise passing through a Michaelis-Menten reaction: A universal response of a genetic switch
+Integration of a Phosphatase Cascade with the MAP Kinase Pathway provides for a Novel Signal Processing Function
+Switchable Genetic Oscillator Operating in Quasi-Stable Mode
+RNAnet a Map of Human Gene Expression
+Switch and template pattern formation in a discrete reaction diffusion system inspired by the Drosophila eye
+Systems biology: From the cell to the brain
+Higher Order Boolean networks as models of cell state dynamics
+Resonant activation: a strategy against bacterial persistence
+Conversion of graded to binary response in an activator-repressor system
+Modularity map of the network of human cell differentiation
+The solution space of metabolic networks: producibility robustness and fluctuations
+Orientational Order Governs Collectivity of Folded Proteins
+Density-based modeling and identification of biochemical networks in cell populations
+Complementary approaches to understanding the plant circadian clock
+Rejection-free kinetic Monte Carlo simulation of multivalent biomolecular interactions
+The Function of Communities in Protein Interaction Networks at Multiple Scales
+Dynamical modeling of microRNA action on the protein translation process
+Beyond the average: Detecting global singular nodes from local features in complex networks
+Improved Network Performance via Antagonism: From Synthetic Rescues to Multi-drug Combinations
+Offdiagonal Complexity: A computationally quick complexity measure for graphs and networks
+Simulating Brain Tumor Heterogeneity with a Multiscale Agent-Based Model: Linking Molecular Signatures Phenotypes and Expansion Rate
+Estimating the size of the solution space of metabolic networks
+ITM Probe: analyzing information flow in protein networks
+An integrative approach to modeling biological networks
+Noise Characteristics of Molecular Oscillations in Simple Genetic Oscillatory Systems
+The performance of modularity maximization in practical contexts
+Signatures of arithmetic simplicity in metabolic network architecture
+Macroscopic Kinetic Effect of Cell-to-Cell Variation in Biochemical Reactions
+Genotype networks in metabolic reaction spaces
+Statistical Analysis of Global Connectivity and Activity Distributions in Cellular Networks
+Challenges in experimental data integration within genome-scale metabolic models
+Missing and spurious interactions and the reconstruction of complex networks
+Optimal cytoplasmatic density and flux balance model under macromolecular crowding effects
+Inferring the Sign of Kinase-Substrate Interactions by Combining Quantitative Phosphoproteomics with a Literature-Based Mammalian Kinome Network
+Programming Discrete Physical Systems
+Living on the edge of chaos: minimally nonlinear models of genetic regulatory dynamics
+SABRE: A Tool for Stochastic Analysis of Biochemical Reaction Networks
+Mutual inactivation of Notch and Delta permits a simple mechanism for lateral inhibition patterning
+Patterns of subnet usage reveal distinct scales of regulation in the transcriptional regulatory network of Escherichia coli
+Modularity and anti-modularity in networks with arbitrary degree distribution
+Revisiting Date and Party Hubs: Novel Approaches to Role Assignment in Protein Interaction Networks
+Random matrix analysis of localization properties of Gene co-expression network
+Mutual information in time-varying biochemical systems
+One way to grow many ways to shrink: the reversible Von Neumann expanding model
+From statistical mechanics to information theory: understanding biophysical information-processing systems
+Kinetic Monte Carlo Method for Rule-based Modeling of Biochemical Networks
+An Averaging Principle for Combined Interaction Graphs. Part I: Connectivity and Applications to Genetic Switches
+Mean-field diffusive dynamics on weighted networks
+Parameter estimation for Boolean models of biological networks
+On the Stability of Metabolic Cycles
+Discovering Graphical Granger Causality Using the Truncating Lasso Penalty
+Detecting local network motifs
+Complex dynamics in hard oscillators: the influence of constant inputs
+A Monte Carlo study of ligand-dependent integrin signal initiation
+Induction of microRNAs mir-155 mir-222 mir-2 and mir-503 promotes monocytic differentiation through combinatorial regulation
+Towards a Quantitative Modeling of the Synthesis of the Pectate Lyases Essential Virulence Factors in Dickeya Dadantii
+Neuroglobin protects nerve cells from apoptosis by inhibiting the intrinsic pathway of cell death
+Bcl-2 inhibits apoptosis by increasing the time-to-death and intrinsic cell-to-cell variations in the mitochondrial pathway of cell death
+A colorful origin for the genetic code: Information theory statistical mechanics and the emergence of molecular codes
+Networks with the Smallest Average Distance and the Largest Average Clustering
+Protein contact networks at different length scales and role of hydrophobic hydrophilic and charged residues in protein's structural organisation
+A rate-distortion scenario for the emergence and evolution of noisy molecular codes
+Optimal Design of a Molecular Recognizer: Molecular Recognition as a Bayesian Signal Detection Problem
+Messenger RNA Fluctuations and Regulatory RNAs Shape the Dynamics of Negative Feedback Loop
+Substance graphs are optimal simple-graph representations of metabolism
+Experimental demonstration of associative memory with memristive neural networks
+Network motifs come in sets: correlations in the randomization process
+Telling time with an intrinsically noisy clock
+Increased entropy of signal transduction in the cancer metastasis phenotype
+A Coarse-Grained Biophysical Model of E. coli and Its Application to Perturbation of the rRNA Operon Copy Number
+Effect of promoter architecture on the cell-to-cell variability in gene expression
+Network-based confidence scoring system for genome-scale metabolic reconstructions
+Finding attractors in asynchronous Boolean dynamics
+Uniformly curated signaling pathways reveal tissue-specific cross-talks and support drug target discovery
+Searching bifurcations in high-dimensional parameter space via a feedback loop breaking approach
+MicroRNA Interaction network in human: implications of clustered microRNA in biological pathways and genetic diseases
+Optimization of Enzymatic Logic Gates and Networks for Noise Reduction and Stability
+Community landscapes: an integrative approach to determine overlapping network module hierarchy identify key nodes and predict network dynamics
+A quantum spin approach to histone dynamics
+Theory for stability and regulation of epigenetic landscapes
+Rule-based Modeling and Simulation of Biochemical Systems with Molecular Finite Automata
+Network Archaeology: Uncovering Ancient Networks from Present-day Interactions
+A Minimal Model of Signaling Network Elucidates Cell-to-Cell Stochastic Variability in Apoptosis
+How can we kill cancer cells: insights from the computational models of apoptosis
+Significance analysis and statistical mechanics: an application to clustering
+Induction kinetics of a conditional pH stress response system in Escherichia coli
+Timing and dynamics of single cell gene expression in the arabinose utilization system
+Toolbox model of evolution of prokaryotic metabolic networks and their regulation
+Toolbox model of evolution of metabolic pathways on networks of arbitrary topology
+Designing sequential transcription logic: a simple genetic circuit for conditional memory
+Structure Learning in Nested Effects Models
+Optimization of Enzymatic Biochemical Logic for Noise Reduction and Scalability: How Many Biocomputing Gates Can Be Interconnected in a Circuit?
+Ageing as a price of cooperation and complexity: Self-organization of complex systems causes the ageing of constituent networks
+Network Analysis of Biochemical Logic for Noise Reduction and Stability: A System of Three Coupled Enzymatic AND Gates
+Estimating time-varying networks
+Analog Noise Reduction in Enzymatic Logic Gates
+Enzymatic AND-Gate Based on Electrode-Immobilized Glucose--Phosphate Dehydrogenase: Towards Digital Biosensors and Biochemical Logic Systems with Low Noise
+Network modules help the identification of key transport routes signaling pathways in cellular and other networks
+Enzyme-Based Logic Systems for Information Processing
+How to understand the cell by breaking it: network analysis of gene perturbation screens
+Networks of motifs from sequences of symbols
+Enzymatic AND Logic Gates Operated Under Conditions Characteristic of Biomedical Applications
+Stability as a natural selection mechanism on interacting networks
+Analysis of a Mathematical Model of Apoptosis: Individual Differences and Malfunction in Programmed Cell Death
+Noise-induced oscillatory shuttling of NF- kappa B in a two compartment IKK-NF- kappa B-I kappa B-A20 signaling model
+Novel statistical ensemble analysis for simulating extrinsic noise-driven response in NF- kappa B signaling network
+Genotype networks innovation and robustness in sulfur metabolism
+Application of new probabilistic graphical models in the genetic regulatory networks studies
+A new framework for identifying combinatorial regulation of transcription factors: a case study of the yeast cell cycle
+A sparse regulatory network of copy-number driven expression reveals putative breast cancer oncogenes
+Saturation Probabilities of Continuous-Time Sigmoidal Networks
+Linear noise approximation of noise-induced oscillation in NF- kappa B signaling network
+Sensitivity analysis of a computational model of the IKK-NF- kappa B-I kappa B alpha -A20 signal transduction network
+Intercellular spiral waves of calcium in a two dimensional network of cells
+Protein Interaction Networks are Fragile against Random Attacks and Robust against Malicious Attacks
+How the Dimension of Space Affects the Products of Pre-Biotic Evolution: The Spatial Population Dynamics of Structural Complexity and The Emergence of Membranes
+Dickkopf1 - a new player in modelling the Wnt pathway
+A state-space mixed membership blockmodel for dynamic network tomography
+Detection of network motifs by local concentration
+Multivariate dependence and genetic networks inference
+Time-dependent corrections to effective rate and event statistics in Michaelis-Menten kinetics
+Stability and chaos in coupled two-dimensional maps on Gene Regulatory Network of bacterium E.Coli
+Biochemical Filter with Sigmoidal Response: Increasing the Complexity of Biomolecular Logic
+Selective pressure on metabolic network structures as measured from the random blind-watchmaker network
+A network model with structured nodes
+Characterization of differentially expressed genes using high-dimensional co-expression networks
+Boolean Threshold Networks: Virtues and Limitations for Biological Modeling
+RecA-mediated homology search as a nearly optimal signal detection system
+Protein-Interaction-Networks: More than mere modules
+Information content based model for the topological properties of the gene regulatory network of Escherichia coli
+Robustness of circadian clocks to daylight fluctuations: hints from the picoeucaryote Ostreococcus tauri
+Critical properties of complex fitness landscapes
+An Algebraic Approach to Signaling Cascades with n Layers
+Gene clusters reflecting macrodomain structure respond to nucleoid perturbations
+Quantification and Minimization of Crosstalk Sensitivity in Networks
+Flows in complex biochemical networks: Role of low degree nodes
+Role-based similarity in directed networks
+Accurate prediction of gene expression by integration of DNA sequence statistics with detailed modeling of transcription regulation
+Transient dynamics around unstable periodic orbits in the generalized repressilator model
+Exploring dimethylsulfate for in vivo proteome footprinting
+The interplay of microscopic and mesoscopic structure in complex networks
+Including transcription factor information in the superparamagnetic clustering of microarray data
+Are Genetically Robust Regulatory Networks Dynamically Different from Random Ones?
+Protein abundances and interactions coevolve to promote functional complexes while suppressing non-specific binding
+Dosage-dependent NF-kB oscillatory and heterogeneous dynamics in response to E. Coli Lipopolyssachride stimulation
+A computational analysis of the dynamic roles of talin Dok1 and PIPKI for integrin activation
+Identification of the key parameters in a mathematical model of PAR1-mediated signaling in endothelial cells
+Timing is everything: on the stochastic origins of cell-to-cell variability in cancer cell death decisions
+Construction and Functional Analysis of Human Genetic Interaction Networks with Genome-wide Association Data
+Integration of Differential Gene-combination Search and Gene Set Enrichment Analysis: A General Approach
+Michaelis-Menten Relations for Complex Enzymatic Networks
+Finding undetected protein associations in cell signaling by belief propagation
+Computational modeling of differences in the quorum sensing induced luminescence phenotypes of textit Vibrio harveyi and textit Vibrio cholerae
+Charge transport in bacteriorhodopsin monolayers: The contribution of conformational change to current-voltage characteristics
+Enzymatic Logic Gates with Noise-Reducing Sigmoid Response
+Error-Control and Digitalization Concepts for Chemical and Biomolecular Information Processing Systems
+Fan-out in Gene Regulatory Networks
+Control of Noise in Chemical and Biochemical Information Processing
+Towards Biochemical Filter with Sigmoidal Response to pH Changes: Buffered Biocatalytic Signal Transduction
+Reduced models of networks of coupled enzymatic reactions
+Stochastic modeling of regulation of gene expression by multiple small RNAs
+Inferring Disease and Gene Set Associations with Rank Coherence in Networks
+Regulation by small RNAs via coupled degradation: mean-field and variational approaches
+Reverse Engineering of Molecular Networks from a Common Combinatorial Approach
+Partition Decoupling for Multi-gene Analysis of Gene Expression Profiling Data
+Maximal and minimal realizations of reaction kinetic systems: computation and properties
+Post-transcriptional regulation of noise in protein distributions during gene expression
+Applications of Little's Law to stochastic models of gene expression
+Colored motifs reveal computational building blocks in the C. elegans brain
+Intrinsic noise in stochastic models of gene expression with molecular memory and bursting
+Probabilistic analysis of the human transcriptome with side information
+Estimating Reaction Rate Parameters in Cell Signaling Pathways Using Extreme Decomposition and Belief Propagation Tailored for Data-Rich Cases
+Bayesian design of synthetic biological systems
+Computing weakly reversible realizations of chemical reaction networks
+Dispensability of Escherichia coli's latent pathways
+Role-similarity based comparison of directed networks
+Dynamics on networks I. Combinatorial categories of modular continuous-time systems
+Evidence for the Dominance of Indirect Effects in 50 Trophically-Based Ecosystem Networks
+Homologous Control of Protein Signaling Networks
+Understanding and predicting synthetic lethal genetic interactions in Saccharomyces cerevisiae using domain genetic interactions
+Gene circuit designs for noisy excitable dynamics
+Semi-Markov models of mRNA-translation
+Efficient Energy Transport in Photosynthesis: Roles of Coherence and Entanglement
+Parallelism and Time in Hierarchical Self-Assembly
+Microreversible recycled chemical systems. Comment on A Re-Examination of Reversibility in Reaction Models for the Spontaneous Emergence of Homochirality
+Boolean Models of Bistable Biological Systems
+A Systemic Receptor Network Triggered by Human cytomegalovirus Entry
+Finding complex balanced and detailed balanced realizations of chemical reaction networks
+Multi-scale sequence correlations increase proteome structural disorder and promiscuity
+A proof of the Global Attractor Conjecture in the single linkage class case
+Defining a robust biological prior from Pathway Analysis to drive Network Inference
+Determining the stability of genetic switches: explicitly accounting for mRNA noise
+Emergence of switch-like behavior in a large family of simple biochemical networks
+Atmospheric reaction systems as null-models to identify structural traces of evolution in metabolism
+Mining Temporal Patterns from iTRAQ Mass Spectrometry(LC-MS MS) Data
+Extremal Properties of Complex Networks
+Nonlinear regulation of commitment to apoptosis by simultaneous inhibition of Bcl-2 and IAP in leukemia and lymphoma cells
+Controlling Complex Networks with Compensatory Perturbations
+Molecular Codes in Biological and Non-Biological Reaction Networks
+Control of gene expression by modulated self-assembly
+Modules of human micro-RNA co-target network
+Adaptive response and enlargement of dynamic range
+Mass Conservation And Inference of Metabolic Networks from High-throughput Mass Spectrometry Data
+Formation and Stability of Synaptic Receptor Domains
+Why aren't the small worlds of protein contact networks smaller
+Recursive Shortest Path Algorithm with Application to Density-integration of Weighted Graphs
+Brain Network Analysis: Separating Cost from Topology using Cost-integration
+Boundedness of trajectories for weakly reversible single linkage class reaction systems
+Dynamic modeling of gene expression in prokaryotes: application to glucose-lactose diauxie in Escherichia coli
+Protein Hypernetworks: a Logic Framework for Interaction Dependencies and Perturbation Effects in Protein Networks
+Canalization in the Critical States of Highly Connected Networks of Competing Boolean Nodes
+Stochastic analysis of a miRNA-protein toggle switch
+Perturbed and Permuted: Signal Integration in Network-Structured Dynamic Systems
+Phase transitions and memory effects in the dynamics of Boolean networks
+Approximation scheme based on effective interactions for stochastic gene regulation
+Type-dependent irreversible stochastic spin models for biochemical reaction networks
+Randomizing genome-scale metabolic networks
+Enzyme sharing as a cause of multistationarity in signaling systems
+Chemical reaction systems with toric steady states
+Category theoretic analysis of hierarchical protein materials and social networks
+Finding weakly reversible realizations of chemical reaction networks using optimization
+A comparative study of Gaussian Graphical Model approaches for genomic data
+Computing fluxes and chemical potential distributions in biochemical networks: energy balance analysis of the human red blood cell
+Variable elimination in post-translational modification reaction networks with mass-action kinetics
+Stochastic Binary Modeling of Cells in Continuous Time as an Alternative to Biochemical Reaction Equations
+Analysis of noise-induced bistability in Michaelis Menten single-step enzymatic cycle
+Stochastic theory of large-scale enzyme-reaction networks: Finite copy number corrections to rate equation models
+An iterative feature selection method for GRNs inference by exploring topological properties
+Sequence correlations shape protein promiscuity
+The Quality of Oscillations in Overdamped Networks
+The totally asymmetric simple exclusion process on networks
+Heat shock partially dissociates the overlapping modules of the yeast protein-protein interaction network: a systems level model of adaptation
+Modeling the topology of protein interaction networks
+Structure and Dynamics of Polynomial Dynamical Systems
+Noise Propagation in Biological and Chemical Reaction Networks
+Are there laws of genome evolution?
+Predictability of evolutionary trajectories in fitness landscapes
+Environmental versatility promotes modularity in genome-scale metabolic networks
+PUB-MS - a mass-spectrometry-based method to monitor protein-protein proximity in vivo
+Switching in mass action networks based on linear inequalities
+The role of incoherent microRNA-mediated feedforward loops in noise buffering
+Optimizing periodicity and polymodality in noise-induced genetic oscillators
+A variational principle for computing nonequilibrium fluxes and potentials in genome-scale biochemical networks
+Physical approaches to the dynamics of genetic circuits: A tutorial
+Scaffold-mediated Nucleation of Protein Signaling Complexes: Elementary Principles
+Biological network comparison via Ipsen-Mikhailov distance
+Stochastic modeling of p53-regulated apoptosis upon radiation damage
+Reverse engineering gene regulatory networks using approximate Bayesian computation
+Variable elimination in chemical reaction networks with mass action kinetics
+Enrichment and aggregation of topological motifs are independent organizational principles of integrated interaction networks
+Uncovering the hidden geometry behind metabolic networks
+Concordant Chemical Reaction Networks
+Tropical geometries and dynamics of biochemical networks. Application to hybrid cell cycle models
+Microscopic Reversibility or Detailed Balance in Ion Channel Models
+A brief overview on the BioPA and SBML standards for formal presentation of complex biological knowledge
+Tunable kinetic proofreading in a model with molecular frustration
+Exact Analysis of Intrinsic Qualitative Features of Phosphorelays using Mathematical Models
+On the relationship of steady states of continuous and discrete models
+Noise Effects in Nonlinear Biochemical Signaling
+A linear elimination framework
+A new homeostatic model of the T cell system
+ppiTrim: Constructing non-redundant and up-to-date interactomes
+Motifs emerge from function in model gene regulatory networks
+Existence of Positive Steady States for Mass Conserving and Mass-Action Chemical Reaction Networks with a Single Terminal-Linkage Class
+Realization and Properties of Biochemical-Computing Biocatalytic OR Gate Based on Enzyme Inhibition by a Substrate
+Bistability in the Chemical Master Equation for Dual Phosphorylation Cycles
+Analysis of the impact degree distribution in metabolic networks using branching process approximation
+Dynamics of cooperativity in chemical sensing among cell-surface receptors
+Network architectural conditions for prominent and robust stochastic oscillations
+Computing equilibrium concentrations for large heterodimerization networks
+Identification of network motifs capable of frequency-tunable and robust oscillation
+Link between allosteric signal transduction and functional dynamics in a multi-subunit enzyme: S-adenosylhomocysteine hydrolase
+Maximizing Output and Recognizing Autocatalysis in Chemical Reaction Networks is NP-Complete
+A remark on the number of steady states in a multiple futile cycle
+A modified Next Reaction Method for simulating chemical systems with time dependent propensities and delays
+Design of experiments and biochemical network inference
+Limits of sensing temporal concentration changes by single cells
+Catalysis in Reaction Networks
+Spectral Properties of Directed Random Networks with Modular Structure
+Information content of colored motifs in complex networks
+Low probability Bid-Bax reaction generates heterogeneity in apoptosis resistance of cancer and cancer stem cells
+A New Computationally Efficient Measure of Topological Redundancy of Biological and Social Networks
+A Formal Verification Approach to the Design of Synthetic Gene Networks
+Allo-network drugs: harnessing allostery in cellular networks
+Biomolecular Filters for Improved Separation of Output Signals in Enzyme Logic Systems Applied to Biomedical Analysis
+Cancer Networks: A general theoretical and computational framework for understanding cancer
+COLoR - Coordinated On-Line Rankers for Network Reconstruction
+The plasticity of TGF-beta signaling
+DNA sequence correlations shape nonspecific transcription factor-DNA binding affinity
+Trafficking Coordinate Description of Intracellular Transport Control of Signaling Networks
+Global parameter identification of stochastic reaction networks from single trajectories
+Updating Schemes in Random Boolean Networks: Do They Really Matter?
+Currency and commodity metabolites: Their identification and relation to the modularity of metabolic networks
+Stochastic approach to molecular interactions and computational theory of metabolic and genetic regulations
+Dynamical robustness of biological networks with hierarchical distribution of time scales
+Evolution of Canalizing Boolean Networks
+Universally Sloppy Parameter Sensitivities in Systems Biology
+A General Mathematical Framework Suitable for Studying Signaling Cascades
+A simple negative interaction in the positive transcriptional feedback of a single gene is sufficient to produce reliable oscillations
+Preclusion of switch behavior in reaction networks with mass-action kinetics
+Stability and multi-attractor dynamics of a toggle switch based on a two-stage model of stochastic gene expression
+Linear models of activation cascades: analytical solutions and applications
+Maladaptation and the paradox of robustness in evolution
+Information Flow in Interaction Networks
+A Self-Replicating Peptide Nucleic Acid
+Biological control networks suggest the use of biomimetic sets for combinatorial therapies
+oint scaling laws in functional and evolutionary categories in prokaryotic genomes
+The behavior of noise-resilient Boolean networks with diverse topologies
+Quantifying the dynamics of coupled networks of switches and oscillators
+Genetic Co-Occurrence Network across Sequenced Microbes
+Robust and flexible response of Ostreococcus tauri circadian clock to light dark cycles of varying photoperiod
+Positional information in bits
+Mathematics of the NFAT signalling pathway
+Mapping of Affymetrix probe sets to groups of transcripts using transcriptional networks
+Piecewise linear models of chemical reaction networks
+The Problem of Colliding Networks and its Relation to Cancer
+A race model for singular olfactory receptor expression
+Evaluating sources of variability in pathway profiling
+On Natural Genetic Engineering: Structural Dynamism in Random Boolean Networks
+Non-Stationary Forward Flux Sampling
+Rare switching events in non-stationary systems
+Dramatic reduction of dimensionality in large biochemical networks due to strong pair correlations
+Is the immune network a complex network?
+The Stability of Boolean Networks with Generalized Canalizing Rules
+Robust circadian clocks from coupled protein modification and transcription-translation cycles
+Molecular Distributions in Gene Regulatory Dynamics
+Dissecting the Specificity of Protein-Protein Interaction in Bacterial Two-Component Signaling: Orphans and Crosstalks
+Simplifying the acobian Criterion for precluding multistationarity in chemical reaction networks
+Composite structural motifs of binding sites for delineating biological functions of proteins
+Mass conserved elementary kinetics is sufficient for the existence of a non-equilibrium steady state concentration
+Chiral symmetry breaking via crystallization of the glycine and alpha-amino acid system: a mathematical model
+Spatial organization of proteomes: A low-rank approximation
+Global modeling of transcriptional responses in interaction networks
+A self-organized model for cell-differentiation based on variations of molecular decay rates
+Stochastic simulation of biochemical systems with randomly fluctuating rate constants
+Topological effects of data incompleteness of gene regulatory networks
+A Characterization of Scale Invariant Responses in Enzymatic Networks
+Casual Compressive Sensing for Gene Network Inference
+Predicting effects of structural stress in a genome-reduced model bacterial metabolism
+A new mechanism of development and differentiation through slow binding unbinding of regulatory proteins to the genes
+Learning and innovative elements of strategy adoption rules expand cooperative network topologies
+A statistical method for revealing form-function relations in biological networks
+Modular Random Boolean Networks
+Disordered proteins and network disorder in network descriptions of protein structure dynamics and function. Hypotheses and a comprehensive review
+Weak error analysis of numerical methods for stochastic models of population processes
+Biochemical network decomposition reveals absolute concentration robustness
+Dynamics and Processing in Finite Self-Similar Networks
+Flexible and robust patterning by centralized gene networks
+Membrane clustering and the role of rebinding in biochemical signaling
+Nested canalyzing depth and network stability
+CytoITMprobe: a network information flow plugin for Cytoscape
+Neutral theory of chemical reaction networks
+Reliability of frequency- and amplitude-decoding in gene regulation
+Quantum biology on the edge of quantum chaos
+Flexible and robust networks
+Network Physiology reveals relations between network topology and physiological function
+Inference of Temporally Varying Bayesian Networks
+Computational modeling of neuronal networks
+A Dynamical Model Reveals Gene Co-Localizations in Nucleus
+Biological Circuits: Analysis of a Biological Oscillator
+Fixed-points in Random Boolean Networks: The impact of parallelism in the scale-free topology case
+Reconstruction of Network Evolutionary History from Extant Network Topology and Duplication History
+Specification Construction and Exact Reduction of State Transition System Models of Biochemical Processes
+Growth efficiency as a cellular objective in Eschericia coli
+On the relation between reactions and complexes of (bio)chemical reaction networks
+The von Neumann entropy of networks
+Information flow in interaction networks II: channels path lengths and potentials
+Energy fluctuations shape free energy of nonspecific biomolecular interactions
+The transition between stochastic and deterministic behavior in an excitable gene circuit
+Emergence of robustness against noise: A structural phase transition in evolved models of gene regulatory networks
+Stochastic single-gene auto-regulation
+The Energetic Costs of Cellular Computation
+Concordant Chemical Reaction Networks and the Species-Reaction Graph
+Dynamic phenotypes as criteria for model discrimination: fold-change detection in R. sphaeroides
+Probabilistic and Flux Landscapes of the Phage lambda Genetic Switch
+Attribute Exploration of Gene Regulatory Processes
+Identifying edge clusters in networks via edge graphlet degree vectors (edge-GDVs) and edge-GDV-similarities
+Nonspecific Protein-DNA Binding Is Widespread in the Yeast Genome
+Efficiency of autonomous soft nano-machines at maximum power
+Gain control in molecular information processing: Lessons from neuroscience
+Inference and Characterization of Multi-Attribute Networks with Application to Computational Biology
+Organization and evolution of synthetic idiotypic networks
+Integration of cellular signals in chattering environments
+Continuous time Boolean modeling for biological signaling: application of Gillespie algorithm
+Universal protein fluctuations in populations of microorganisms
+The Landscape of Complex Networks
+The Structure of Autocatalytic Sets: Evolvability Enablement and Emergence
+Evolutionary algorithms in genetic regulatory networks model
+Von Neumann's growth model: statistical mechanics and biological applications
+Predicting Phenotype from Genotype Through Automatically Composed Petri Nets
+Data Gathering in Networks of Bacteria Colonies: Collective Sensing and Relaying Using Molecular Communication
+Augmented Sparse Reconstruction of Protein Signaling Networks
+The effect of feedback on the fidelity of information transmission of time-varying signals
+Multiplexing Biochemical Signals
+Bistability of an In Vitro Synthetic Autoregulatory Switch
+A modular synthetic device to calibrate promoters
+Geometric Path Integrals. A Language for Multiscale Biology and Systems Robustness
+The collective oscillation period of inter-coupled Goodwin oscillators
+Automation on the generation of genome scale metabolic models
+Why Optimal States Recruit Fewer Reactions in Metabolic Networks
+AK STAT signalling - an executable model assembled from molecule-centred modules demonstrating a module-oriented database concept for systems- and synthetic biology
+Autocatalytic Sets Extended: Dynamics Inhibition and a Generalization
+The interplay of intrinsic and extrinsic bounded noises in genetic networks
+Quasi-potential landscape in complex multi-stable systems
+Networks in Motion
+Gene autoregulation via intronic microRNAs and its functions
+Extraction of Deep Phylogenetic Signal and Improved Resolution of Evolutionary Events within the recA RAD51 Phylogeny
+Reaction networks as systems for resource allocation: A variational principle for their non-equilibrium steady states
+A scalable algorithm to explore the Gibbs energy landscape of genome-scale metabolic networks
+Inferring Biologically Relevant Models: Nested Canalyzing Functions
+Transcriptional regulation: Effects of promoter proximal pausing on speed synchrony and reliability
+Atoms of multistationarity in chemical reaction networks
+A Variational Approach to Parameter Estimation in Ordinary Differential Equations
+Network Topologies and Dynamics Leading to Endotoxin Tolerance and Priming in Innate Immune Cells
+Quality Control System Response to Stochastic Growth of Amyloid Fibrils
+The Influence of Decoys on the Noise and Dynamics of Gene Expression
+Complex-linear invariants of biochemical networks
+How to Grow an Organism Inside-Out: Evolution of an internal skeleton from an external skeleton in bilateral organisms
+Protein Function Prediction Based on Kernel Logistic Regression with 2-order Graphic Neighbor Information
+Computer control of gene expression: Robust setpoint tracking of protein mean and variance using integral feedback
+Routes to Binary Gene Expression
+An introduction to spectral distances in networks (extended version)
+Reverse Engineering Gene Networks with ANN: Variability in Network Inference Algorithms
+Replica procedure for probabilistic algorithms as a model of gene duplication
+A machine learning pipeline for discriminant pathways identification
+Branching process approach for Boolean bipartite networks of metabolic reactions
+Noise-induced metastability in biochemical networks
+Synthetic spatially graded Rac activation drives directed cell polarization and locomotion
+Molecular Constraints on Synaptic Tagging and Maintenance of Long-Term Potentiation: A Predictive Model
+Systematic transcriptome wide analysis of lncRNA-miRNA interactions
+Mutual Repression enhances the Steepness and Precision of Gene Expression Boundaries
+Timing Channels with Multiple Identical Quanta
+Utilizing gene regulatory information to speed up the calculation of elementary flux modes
+Inferring Chemical Reaction Patterns Using Rule Composition in Graph Grammars
+A Model of the Cellular Iron Homeostasis Network Using Semi-Formal Methods for Parameter Space Exploration
+Biochemical pathways simulation
+Spectral analysis of Gene co-expression network of ebrafish
+Interlinked Dual-Time Feedback Loops can Enhance Robustness to Stochasticity and Persistence of Memory
+Bayesian variable selection and data integration for biological regulatory networks
+Impact of individual nodes in Boolean network dynamics
+Switching between oscillations and homeostasis in competing negative and positive feedback motifs
+Modeling and Analysis of Abnormality Detection in Biomolecular Nano-Networks
+Coarse-Grained Modeling of Genetic Circuits as a Function of the Inherent Time Scales
+Metabolic network modularity arising from simple growth processes
+Stability Indicators in Network Reconstruction
+Protein logic: a statistical mechanical study of signal integration at the single-molecule level
+Balancing noise and plasticity in eukaryotic gene expression
+Extraction of hidden information by efficient community detection in networks
+Key to Network Controllability
+Simulations demonstrate a simple network to be sufficient to control branch point selection smooth muscle and vasculature formation during lung branching morphogenesis
+Towards the Recapitulation of Ancient History in the Laboratory: Combining Synthetic Biology with Experimental Evolution
+Paurush Praveen Erfan Younesi and Martin Hofmann-Apitius
+Metabolic robustness and network modularity: A model study
+An approach for the identification of targets specific to bone metastasis using cancer genes interactome and gene ontology analysis
+Origins of Binary Gene Expression in Post-transcriptional Regulation by MicroRNAs
+Stability of Boolean Multilevel Networks
+How simple can a model of an empty viral capsid be? Charge distributions in viral capsids
+Deterministic and stochastic descriptions of gene expression dynamics
+Partial equilibrium approximations in Apoptosis
+A unified view on bipartite species-reaction and interaction graphs for chemical reaction networks
+Phase resetting reveals network dynamics underlying a bacterial cell cycle
+Modeling competing endogenous RNAs networks
+Size Dependent Growth in Metabolic Networks
+Cellular compartments cause multistability in biochemical reaction networks and allow cells to process more information
+How input fluctuations reshape the dynamics of a biological switching system
+A Monte Carlo Approach to Measure the Robustness of Boolean Networks
+Fundamental Limits on Sensing Chemical Concentrations with Linear Biochemical Networks
+Avoid Internal Loops in Steady State Flux Space Sampling
+Dynamic Landscapes: A Model of Context and Contingency in Evolution
+Digital clocks: simple Boolean models can quantitatively describe circadian systems
+Florigenic and antiflorigenic signalling in plants
+Enhancing the functional content of protein interaction networks
+Gene Regulation by Riboswitches with and without Negative Feedback Loop
+Positive feedback and temperature mediated molecular switch controls differential gene regulation in Bordetella pertussis
+On dynamic network entropy in cancer
+Alignment and integration of complex networks by hypergraph-based spectral clustering
+Canalizing Boolean Functions Maximize the Mutual Information
+Circuit architecture explains functional similarity of bacterial heat shock responses
+Rigorous elimination of fast stochastic variables from the linear noise approximation using projection operators
+Assessing the significance of knockout cascades in metabolic networks
+Theory of Interface: Category Theory Directed Networks and Evolution of Biological Networks
+Mechanics and Resonance of the Cyanobacterial Circadian Oscillator
+Gene-based and semantic structure of the Gene Ontology as a complex network
+A formal model of autocatalytic sets emerging in an RNA replicator system
+RNA interference and Register Machines (extended abstract)
+Mathematical framework of epigenetic DNA methylation in gene body Arabidopsis
+On the role of intrinsic noise on the response of the p53-Mdm2 module
+Entropic estimate of cooperative binding of substrate on a single oligomeric enzyme: An index of cooperativity
+A survey of computational methods for protein complex prediction from protein interaction networks
+AND-NOT logic framework for steady state analysis of Boolean network models
+URDME v. 1.2: User's manual
+Refining the Protein-Protein Interactome using Gene Expression Data
+Binary threshold networks as a natural null model for biological networks
+Deciphering Network Community Structure by Surprise
+Computational study of the mechanism of Bcl-2 apoptotic switch
+ModuLand plug-in for Cytoscape: determination of hierarchical layers of overlapping network modules and community centrality
+erarca: Efficient Analysis of Complex Networks Using Hierarchical Clustering
+Rigidity and flexibility of biological networks
+Sources of stochasticity in constitutive and autoregulated gene expression
+Phylogenetic tree reconstruction from genome-scale metabolic models
+PyNetMet: Python tools for efficient work with networks and metabolic models
+Model of haplotype and phenotype in the evolution of a duplicated autoregulatory activator
+Positive feedback produces broad distributions in maximum activation attained within a narrow time window in stochastic biochemical reactions
+Flux-based classification of reactions reveals a functional bow-tie organization of complex metabolic networks
+Model-order reduction of biochemical reaction networks
+Transition Path Quasi-potential Energy Landscape and Stability of Genetic Switches
+A Hierarchical Exact Accelerated Stochastic Simulation Algorithm
+A Dynamic-Epistemic Logic for Mobile Structured Agents
+Minimal autocatalytic networks
+Cellular polarization: interaction between extrinsic bounded noises and wave-pinning mechanism
+Boolean network-based model of the Bcl-2 family mediated MOMP regulation
+A Developmental Network Theory of Gynandromorphs Sexual Dimorphism and Species Formation
+Dynamic evolution of precise regulatory encodings creates the clustered signature of developmental enhancers
+CplexA: a Mathematica package to study macromolecular-assembly control of gene expression
+Regulatory patterns in molecular interaction networks
+Analytical study of an exclusive genetic switch
+Modeling Stochasticity and Variability in Gene Regulatory Networks
+Boolean nested canalizing functions: a comprehensive analysis
+Basic and simple mathematical model of coupled transcription translation and degradation
+Computation of biochemical pathway fluctuations beyond the linear noise approximation using iNA
+Complete characterization by multistationarity of fully open networks with one non-flow reaction
+Complex quantum network model of energy transfer in photosynthetic complexes
+Growth-rate-dependent dynamics of a bacterial genetic oscillator
+MicroRNAs as a selective channel of communication between competing RNAs: a steady-state theory
+Quantitative analysis of competition in post-transcriptional regulation reveals a novel signature in target expression variation
+Microscopic Description of Entanglements in Polyethylene Networks and Melts: Strong Weak Pairwise and Collective Attributes
+Existence of Oscillations in Cyclic Gene Regulatory Networks with Time Delay
+Surprise maximization reveals the community structure of complex networks
+Employing functional interactions for characterization and detection of sparse complexes from yeast PPI networks
+Digit patterning during limb development as a result of the BMP-receptor interaction
+Supervised semi-supervised and unsupervised inference of gene regulatory networks
+Cell death and life in cancer: mathematical modeling of cell fate decisions
+Virtual-organism toy-model as a tool to develop bioinformatics approaches of Systems Biology for medical-target discovery
+Integration of TNF induced apoptosis model and quantitative proteomics data of HeLa cells - our first experience
+Prediction of lethal and synthetically lethal knock-outs in regulatory networks
+Chemical sensing by cell-surface chemoreceptor arrays: the roles of receptor cooperativity and adaptation
+Transfer Functions for Protein Signal Transduction: Application to a Model of Striatal Neural Plasticity
+Canalization and control in automata networks: body segmentation in Drosophila melanogaster
+Increased Network Interdependency Leads to Aging
+Scaling laws in critical random Boolean networks with general in- and out-degree distributions
+Formation of the frozen core in critical Boolean Networks
+Noise reduction by coupling of stochastic processes and canalization in biology
+Extrinsic noise driven phenotype switching in a self-regulating gene
+On prediction of regulatory genes by analysis of C.elegans functional networks
+Note on the Complex Networks and Epidemiology Part I: Complex Networks
+From data towards knowledge: Revealing the architecture of signaling systems by unifying knowledge mining and data mining of systematic perturbation data
+The protein-protein interaction network of human Sirtuin family
+The evolutionary dynamics of protein-protein interaction networks inferred from the reconstruction of ancient networks
+Cross-talk and interference enhance information capacity of a signaling pathway
+A Projection Argument for Differential Inclusions with Applications to Persistence of Mass-Action Kinetics
+Bounds on the Average Sensitivity of Nested Canalizing Functions
+A statistical mechanics description of environmental variability in metabolic networks
+Warburg Effect due to Exposure to Different Types of Radiation
+Starch metabolism and antiflorigenic signals modulate the juvenile-to-adult phase transition in Arabidopsis
+Optimal enumeration of state space of finitely buffered stochastic molecular networks and exact computation of steady state landscape probability
+Functional redundancy in the NF- kappa B signalling pathway
+Toggling a Genetic Switch Using Reinforcement Learning
+Dynamical properties of models for the Calvin cycle
+Modular dynamical systems on networks
+Stress induces remodelling of yeast interaction and co-expression networks
+A general moment expansion method for stochastic kinetic models
+The coupling of thermodynamics with the organizational water-protein intra-dynamics driven by the H-bonds dissipative potential of cluster water
+The origin of large molecules in primordial autocatalytic reaction networks
+arrayMap: A Reference Resource for Genomic Copy Number Imbalances in Human Malignancies
+Mathematical modeling of microRNA-mediated mechanisms of translation repression
+Deformed Toric Ideal Constraints for Stoichiometric Networks
+A Biophysical Model of the Mitochondrial ATP-Mg Pi Carrier
+Titration and hysteresis in epigenetic chromatin silencing
+Under-dominance constrains the evolution of negative autoregulation in diploids
+Negative-feedback self-regulation contributes to robust and high-fidelity transmembrane signal transduction
+Edge usage motifs and regulatory logic for cell cycling genetic networks
+Quantifying extrinsic noise in gene expression using the maximum entropy framework
+Minimal Model for Stem-Cell Differentiation
+Synthetic Biology in Leishmaniasis: Design simulation and validation of constructed Genetic circuit
+Modeling pre-biotic self-organization: The chemical dynamics of autocatalytic networks
+Timing in chemical reaction networks
+The Graph Grammar Library - a generic framework for chemical graph rewrite systems
+Monte-Carlo Simulation of a Multi-Dimensional Switch-Like Model of Stem Cell Differentiation
+Standardized network reconstruction of E. coli metabolism
+Standardized network reconstruction of CHO cell metabolism
+Multistate nested canalizing functions
+Enzyme-Based Logic Analysis of Biomarkers at Physiological Concentrations: AND Gate with Double-Sigmoid Filter Response
+Salmonella chemoreceptors McpB and McpC mediate a repellent response to L-cystine: a potential mechanism to avoid oxidative conditions
+Leaderless deterministic chemical reaction networks
+Computing Pathways to Systems Biology: Key Contributions of Computational Methods in Pathway Identification
+Realization of Associative Memory in an Enzymatic Process: Towards Biomolecular Networks with Learning and Unlearning Functionalities
+The Stubborn Roots of Metabolic Cycles
+Exact protein distributions for stochastic models of gene expression using partitioning of Poisson processes
+Reconstructing protein binding patterns from ChIP time-series
+Vitamin D sensitivity to the immune responses and autoimmunity: A chemical network model study
+Virtual Identification of Essential Proteins Within the Protein Interaction Network of Yeast
+Equilibrium-like behavior in far-from-equilibrium chemical reaction networks
+Boolean modeling of collective effects in complex networks
+Lambda-prophage induction modeled as a cooperative failure mode of lytic repression
+Noise and critical phenomena in biochemical signaling cycles at small molecule numbers
+Optimizing information flow in small genetic networks. II: Feed forward interactions
+Knockouts Robustness and Cell Cycles
+Distribution of essential interactions in model gene regulatory networks under mutation-selection balance
+Boolean versus continuous dynamics on simple two-gene modules
+Stability of Boolean and continuous dynamics
+Harmonic Analysis of Boolean Networks: Determinative Power and Perturbations
+Time-Scale and Noise Optimality in Self-Organized Critical Adaptive Networks
+Limitations of the stochastic quasi-steady-state approximation in open biochemical reaction networks
+Features and heterogeneities in growing network models
+Dynamical Instability in Boolean Networks as a Percolation Problem
+On the Clausius formulation of the second law in stationary chemical networks through the theorems of the alternative
+Robustness Leads Close to the Edge of Chaos in Coupled Map Networks: toward the understanding of biological networks
+Exchange of stability as a function of system size in a nonequilibrium system
+Influence of homology and node-age on the growth of protein-protein interaction networks
+Enhanced entrainability of genetic oscillators by period mismatch
+Monochromaticity in Neutral Evolutionary Network Models
+Influences of Excluded Volume of Molecules on Signaling Processes on Biomembrane
+Finding New Order in Biological Functions from the Network Structure of Gene Annotations
+Structure and dynamics of molecular networks: A novel paradigm of drug discovery. A comprehensive review
+Compensatory evolution and the origins of innovations
+Gateway vectors for efficient artificial gene assembly in vitro and expression in yeast Saccharomyces cerevisiae
+Early signatures of regime shifts in gene expression dynamics
+Tropicalization and tropical equilibration of chemical reactions
+A Biochemical Logic Approach to Biomarker-Activated Drug Release
+Stabilizing Gene Regulatory Networks Through Feedforward Loops
+Principles of Adaptive Sorting Revealed by In Silico Evolution
+Optimality of Moore neighborhoods in protein contact maps
+Enzyme-Based Logic: OR Gate with Double-Sigmoid Filter Response
+The Dynamics of Hybrid Metabolic-Genetic Oscillators
+A Model for the Dynamics of Gene Networks
+Bcl-2 family controls mitochondrial outer membrane permeabilization by performing non-trivial pattern recognition
+Sinusoidal-Input Describing Function of a Simple Biomolecular Signaling System
+Thresholding of Semantic Similarity Networks using a Spectral Graph Based Technique
+Network Entropy measures applied to different systemic perturbations of cell basal state
+Design of Digital Response in Enzyme-Based Bioanalytical Systems for Information Processing Applications
+Simulating Tissue Morphogenesis and Signaling
+Extended Linear Response for Bioanalytical Applications Using Multiple Enzymes
+Two-Input Enzymatic Logic Gates Made Sigmoid by Modifications of the Biocatalytic Reaction Cascades
+Kidney branching morphogenesis under the control of a ligand-receptor based Turing mechanism
+Transcriptional delay stabilizes bistable gene networks
+Optimal Path to Epigenetic Switching
+Stochastic oscillations induced by intrinsic fluctuations in a self-repressing gene: a deterministic approach
+Markovian Dynamics on Complex Reaction Networks
+The evolutionary origins of modularity
+The effect of phenotypic selection on stochastic gene expression
+An effective network reduction approach to find the dynamical repertoire of discrete dynamic networks
+Local search on protein residue networks
+Dynamic Transcript Profiling of Candida Albicans Infection in ebrafish: a Pathogen-Host Interaction Study
+Evolving Boolean Regulatory Networks with Epigenetic Control
+Evolving Gene Regulatory Networks with Mobile DNA Mechanisms
+Robustness and Directed Structures in Ecological Flow Networks
+Data reliability in complex directed networks
+Transient fluctuation of the prosperity of firms in a network economy
+Power-law Kinetics and Determinant Criteria for the Preclusion of Multistationarity in Networks of Interacting Species
+MiRank: A bioinformatics tool for gene miRNA ranking and pathway profiling with TCGA-KEGG data sets
+Synchronisation of stochastic oscillators in biochemical systems
+Successful strategies for competing networks
+Simplifying Biochemical Models With Intermediate Species
+Nodes having a major influence to break cooperation define a novel centrality measure: game centrality
+Multistationarity in sequential distributed multisite phosphorylation networks
+Realistic Control of Network Dynamics
+Biomolecular resource utilization in elementary cell-free gene circuits
+Dynamic Image-Based Modelling of Kidney Branching Morphogenesis
+Characterization of Boolean Networks with Single or Bistable States
+Systems Biophysics of Gene Expression
+Link-weight distribution of microRNA co-target networks exhibit universality
+Modular organization of cancer signaling networks is associated with patient survivability
+Autocatalytic Sets and Biological Specificity
+Chemical sensing by nonequilibrium cooperative receptors
+Biologic: Gene circuits and feedback in an introductory physics sequence for biology and premedical students
+Revealing missing parts of the interactome
+A combination of transcriptional and microRNA regulation improves the stability of the relative concentrations of target genes
+Dynamic networks reveal key players in aging
+Comparison of Modules of Wild Type and Mutant Huntingtin and TP53 Protein Interaction Networks: Implications in Biological Processes and Functions
+Some Perspectives on Network Modeling in Therapeutic Target Prediction
+A Minimum-Labeling Approach for Reconstructing Protein Networks across Multiple Conditions
+Information flow and optimization in transcriptional control
+Information capacity of genetic regulatory elements
+Diffusion dimensionality and noise in transcriptional regulation
+Optimizing information flow in small genetic networks. I
+Information transmission in genetic regulatory networks: a review
+Optimizing information flow in small genetic networks. III. A self-interacting gene
+Generalized mass action systems: Complex balancing equilibria and sign vectors of the stoichiometric and kinetic-order subspaces
+Time-dependent information transmission in a model regulatory circuit
+Parametric Sensitivity Analysis for Biochemical Reaction Networks based on Pathwise Information Theory
+Reduction of Mathematical Models of Nuclear Receptor Binding to Promoter Regions
+The Influence of Spatial Variation in Chromatin Density Determined by -ray Tomograms on the Time to Find DNA Binding Sites
+Theoretical estimation of metabolic network robustness against multiple reaction knockouts using branching process approximation
+Integral population control of a quadratic dimerization process
+Complexity in genetic networks: topology vs. strength of interactions
+The spatial structure of cell signaling systems
+The Control of Branching Morphogenesis
+Universal distribution of component frequencies in biological and technological systems
+StochDecomp - Matlab package for noise decomposition in stochastic biochemical systems
+Pathway drug cocktail: targeting Ras signaling based on structural pathways
+Gene and Gene-Set Analysis for Genome-Wide Association Studies
+Piecewise linear and Boolean models of chemical reaction networks
+A stochastic hybrid model of a biological filter
+Sequence selection in an autocatalytic binary polymer model
+Self-other organization: Why early life did not evolve through natural selection
+Ideas are Not Replicators but Minds Are
+The role of input noise in transcriptional regulation
+The effect of scale-free topology on the robustness and evolvability of genetic regulatory networks
+Potential application of network descriptions for understanding conformational changes and protonation states of ABC transporters
+L 'evy Noise Induced Switch in the Gene Transcriptional Regulatory System
+The compositional and evolutionary logic of metabolism
+Transcription fluctuation effects on biochemical oscillations
+Intrinsic noise of microRNA-regulated genes and the ceRNA hypothesis
+The effects of transcription factor competition on gene regulation
+Can we always sweep the details of RNA-processing under the carpet?
+Metabolic Control Analysis: Rereading Reder
+Adaptation and learning of molecular networks as a description of cancer development at the systems-level: Potential use in anti-cancer therapies
+Statistical data mining for symbol associations in genomic databases
+Factors determining nestedness in complex networks
+Backward SDE approach to modelling of gene expression
+Elasticity sampling links thermodynamics to metabolic control
+The impact of high density receptor clusters on VEGF signaling
+A hybrid mammalian cell cycle model
+Producing a Set of Models for the Iron Homeostasis Network
+A Hybrid Model of a Genetic Regulatory Network in Mammalian Sclera
+SteatoNet- Modelling steatosis identifies candidate systemic flux distribution deregulations
+A model for the self-organization of vesicular flux and protein distributions in the Golgi apparatus
+Prediction Stability in a data-based mechanistic model of sigmaF during sporulation in Bacillus subtilis
+SBML Qualitative Models: a model representation format and infrastructure to foster interactions between qualitative modelling formalisms and tools
+Monte Carlo study elucidates the type 1 type 2 choice in apoptotic death signaling in normal and cancer cells
+Simulating Organogenesis in COMSOL: Parameter Optimization for PDE-based models
+Identifying all irreducible conserved metabolite pools in genome-scale metabolic networks: a general method and the case of Escherichia coli
+Nonlinear Biochemical Signal Processing via Noise Propagation
+Morphogenesis at criticality?
+Multiplexing oscillatory biochemical signals
+A Novel Methodology to Estimate Metabolic Flux Distributions in Constraint-Based Models
+Maternal origins of developmental reproducibility
+Chemical concrete machine
+A computational model for histone mark propagation reproduces the distribution of heterochromatin in different human cell types
+On the Complexity of Reconstructing Chemical Reaction Networks
+The role of multiple marks in epigenetic silencing and the emergence of a stable bivalent chromatin state
+Quantification of noise in the bifunctionality-induced post-translational modification
+The influence of transcription factor competition on the relationship between occupancy and affinity
+Perturbation centrality and Turbine: a novel centrality measure obtained using a versatile network dynamics tool
+Data-driven quantification of robustness and sensitivity of cell signaling networks
+Identifying conserved protein complexes between species by constructing interolog networks
+A network approach to analyzing highly recombinant malaria parasite genes
+Recent developments in research on catalytic reaction networks
+Chemical communication between synthetic and natural cells: a possible experimental design
+Evolution and development of complex computational systems using the paradigm of metabolic computing in Epigenetic Tracking
+Application of a Semi-automatic Algorithm for Identification of Molecular Components in SBML Models
+A model of protocell based on the introduction of a semi-permeable membrane in a stochastic model of catalytic reaction networks
+A Model of Colonic Crypts using SBML Spatial
+An ensemble approach to the study of the emergence of metabolic and proliferative disorders via Flux Balance Analysis
+Modelling the burden caused by gene expression: an in silico investigation into the interactions between synthetic gene circuits and their chassis cell
+Correlative-causative structures and the 'pericause': an analysis of causation and a model based on cellular biology
+Simulation of Gene Regulatory Networks
+The parallel logic gates in synthetic gene networks induced by non-Gausssian noise
+Lazy Updating increases the speed of stochastic simulations
+Clustering and optimal arrangement of enzymes in reaction-diffusion systems
+Optimization of collective enzyme activity via spatial localization
+Counting and correcting thermodynamically infeasible flux cycles in genome-scale metabolic networks
+Mapping the intramolecular signal transduction of G-protein coupled receptors
+Autocatalytic sets in a partitioned biochemical network
+Synthetic biocomputation design using supervised gene regulatory networks
+Model composition through model reduction: a combined model of CD5 and NF- kappa B signaling pathways
+Energy metabolism and glutamate-glutamine cycle in the brain: a stoichiometric modeling perspective
+Cellular network entropy as the energy potential in Waddington's differentiation landscape
+The Inferred Cardiogenic Gene Regulatory Network in the Mammalian Heart
+Statistical properties of multistep enzyme-mediated reactions
+Analytic methods for modeling stochastic regulatory networks
+The macroscopic effects of microscopic heterogeneity
+Spatial partitioning improves the reliability of biochemical signaling
+Fast Reconstruction of Compact Context-Specific Metabolic Network Models
+Cell responses only partially shape cell-to-cell variations in protein abundances in Escherichia coli chemotaxis
+Large-scale generation of computational models from biochemical pathway maps
+Slow protein fluctuations explain the emergence of growth phenotypes and persistence in clonal bacterial populations
+Bioinspired Associative Memory System Based on Enzymatic Cascades
+Modularity of Biochemical Filtering for Inducing Sigmoid Response in Both Inputs in an Enzymatic AND Gate
+Enzymatic AND Logic Gate with Sigmoid Response Induced by Photochemically Controlled Oxidation of the Output
+Application of CellDesigner to the Selection of Anticancer Drug Targets: Test Case using P53
+MAGNA: Maximizing Accuracy in Global Network Alignment
+A genome wide dosage suppressor network reveals genetic robustness and a novel mechanism for Huntington's disease
+The oral tolerance as a complex network phenomenon
+Species-specific differences in follicular antral sizes result from diffusion-based limitations on the thickness of the granulosa cell layer
+HINO: a BFO-aligned ontology representing human molecular interactions and pathways
+Mathematical Foundations for Information Theory in Diffusion-Based Molecular Communications
+The importance of crowding in signaling genetic and metabolic networks
+ero-order ultrasensitivity: A study of criticality and fluctuations under the total quasi-steady state approximation in the linear noise regime
+Probabilistic generation of random networks taking into account information on motifs occurrence
+Dimension Reduction of Large AND-NOT Network Models
+Learning a nonlinear dynamical system model of gene regulation: A perturbed steady-state approach
+The evolution of complex gene regulation by low specificity binding sites
+Parametric inference in the large data limit using maximally informative models
+Mutation Rules and the Evolution of Sparseness and Modularity in Biological Systems
+Efficient Stochastic Simulation of Chemical Kinetics Networks using a Weighted Ensemble of Trajectories
+Oscillation in microRNA Feedback Loop
+Circadian clocks optimally adapt to sunlight for reliable synchronization
+VTCdb: A transcriptomics co-expression database for the crop species Vitis vinifera (grapevine)
+A network model for cellular aging
+DuctApe: a suite for the analysis and correlation of genomic and OmnilogTM Phenotype Microarray data
+Prior Biological Knowledge And Epigenetic Information Enhances Prediction Accuracy Of Bayesian Wnt Pathway
+Noise and information transmission in promoters with multiple internal states
+Enzyme allocation problems in kinetic metabolic networks: Optimal solutions are elementary flux modes
+Structure and dynamics of core-periphery networks
+Deciphering Interactions in Causal Networks without Parametric Assumptions
+Inferring Regulatory Networks by Combining Perturbation Screens and Steady State Gene Expression Profiles
+Impact of receiver reaction mechanisms on the performance of molecular communication networks
+Input-output relations in biological systems: measurement information and the Hill equation
+Determining the long-term behavior of cell populations: A new procedure for detecting ergodicity in large stochastic reaction networks
+Coarse-grained analysis of stochastically simulated cell populations with a positive feedback genetic network architecture
+Networked Enzymatic Logic Gates with Filtering: New Theoretical Modeling Expressions and Their Experimental Application
+eamine: a Cytoscape app for exploring annotated modules in networks
+Integration of Omics Data and Systems Biology Modeling: Effect of Cyclosporine A on the Nrf2 Pathway in Human Renal Kidneys Cells
+Molecular communication networks with general molecular circuit receivers
+RNA-based regulation: dynamics and response to perturbations of competing RNAs
+Kinetic approaches to lactose operon induction and bimodality
+Prediction and Dissipation in Biochemical Sensing
+A Theory of Stochastic Transition Between Cellular Phenotypes: Gene Regulation under Nonequilibrium Steady State
+Dynamical Modeling of the Interaction between Autophagy and Apoptosis in Mammalian Cells:A Systems Pharmacology Framework
+Algorithmic Perspectives of Network Transitive Reduction Problems and their Applications to Synthesis and Analysis of Biological Networks
+Graphical Modelling in Genetics and Systems Biology
+How biochemical resources determine fundamental limits in cellular sensing
+Analysis of DevR regulated genes in Mycobacterium tuberculosis
+Robustness of Network Measures to Link Errors
+Stochastic analysis of biochemical reaction networks with absolute concentration robustness
+Deciphering transcriptional dynamics in vivo by counting nascent RNA molecules
+What Transcription Factors Can't Do: On the Combinatorial Limits of Gene Regulatory Networks
+Generalization of the construction method for multistability-equivalent gene regulatory networks to systems with multi-input multi-output loopbreaking
+Using biophotonics to study signaling mechanisms in a single living cell
+Distribution of population averaged observables in stochastic gene expression
+Modeling delay in genetic networks: From delay birth-death processes to delay stochastic differential equations
+Bifurcation in epigenetics: implications in development proliferation and diseases
+Modules in the metabolic network of E.coli with regulatory interactions
+Cooperativity Can Enhance Cellular Signal Detection
+Communities of dense weighted networks: MicroRNA co-target network as an example
+Hierarchy of Gene Expression Data is Predictive of Future Breast Cancer Outcome
+A Constraint Solving Approach to Tropical Equilibration and Model Reduction
+Large number of receptors may reduce cellular response time variation
+Noise-aided Logic in an Electronic Analog of Synthetic Genetic Networks
+Efficient fold-change detection based on protein-protein interactions
+Correlation of Automorphism Group Size and Topological Properties with Program-size Complexity Evaluations of Graphs and Complex Networks
+Mesoscopic behavior from microscopic Markov dynamics and its application to calcium release channels
+Evolution and Controllability of Cancer Networks: a Boolean Perspective
+Knowledge-fused differential dependency network models for detecting significant rewiring in biological networks
+The shrinking human protein coding complement: are there now fewer than 20 000 genes?
+A simple mechanism for controlling the onset and arrest of collective oscillations in genetic circuits
+Rigidity and flexibility in protein-protein interaction networks: a case study on neuromuscular disorders
+Greatwall-phosphorylated Endosulfine is Both an Inhibitor and a Substrate of PP2A-B55 Heterotrimers
+Overelaxed hit-and-run Monte Carlo for the uniform sampling of convex bodies with applications in metabolic network analysis
+Evolution-Development Congruence in Pattern Formation Dynamics: Bifurcations in Gene Expressions and Regulation of Networks Structures
+Estimating the Energetic State of Malignant Cells from RNA Transcription and Protein Interaction Network Data
+Biomolecular events in cancer revealed by attractor metagenes
+Inference of RNA Polymerase II Transcription Dynamics from Chromatin Immunoprecipitation Time Course Data
+Perturbation Biology: inferring signaling networks in cellular systems
+A Computational Model of Liver Iron Metabolism
+Metabolic evolution of a deep-branching hyperthermophilic chemoautotrophic bacterium
+Adaptation dynamics in densely clustered chemoreceptors
+Bridging physiological and evolutionary time scales in a gene regulatory network
+Searching for feasible stationary states in reaction networks by solving a Boolean constraint satisfaction problem
+Role of functionality in two-component signal transduction: A stochastic study
+Multicriteria global optimization for biocircuit design
+Topological implications of negative curvature for biological and social networks
+Sloppy models can be identifiable
+Stochastic equations for a self-regulating gene
+Stochastic noise reduction upon complexification: positively correlated birth-death type systems
+Entropy production of a steady-growth cell with catalytic reactions
+Theoretical Analysis of Discreteness-Induced Transition in Autocatalytic Reaction Dynamics
+MAPK's networks and their capacity for multistationarity due to toric steady states
+System level mechanisms of adaptation learning memory formation and evolvability: the role of chaperone and other networks
+Dynamics on networks of manifolds
+Global Epigenetic State Network Governs Cellular Pluripotent Reprogramming and Transdifferentiation
+Modelling the ATP production in mitochondria
+Essential plasticity and redundancy of metabolism unveiled by synthetic lethality analysis
+SurpriseMe: an integrated tool for network community structure characterization using Surprise maximization
+Realization of Morphing Logic Gates in a Repressilator with Quorum Sensing Feedback
+Discriminatory proofreading regimes in non-equilibrium systems
+N-site phosphorylation systems with 2N-1 steady states
+Physical constraints determine the logic of bacterial promoter architectures
+A proof of bistability for the dual futile cycle
+Setting Parameters for Biological Models With ANIMO
+Delay Line as a Chemical Reaction Network
+A signature of power law network dynamics
+Lower glycolysis carries a higher flux than any biochemically possible alternative
+3-D Channel Characteristics for Molecular Communications with an Absorbing Receiver
+A robust and efficient method for estimating enzyme complex abundance and metabolic flux from expression data
+How enzyme economy shapes metabolic fluxes
+A stochastic chemical dynamic approach to correlate autoimmunity and optimal vitamin-D range
+Enzyme economy in metabolic networks
+Generic Properties of Random Gene Regulatory Networks
+An Algorithm for Detecting Fixed Points of Boolean Networks
+Boolean Networks with Multi-Expressions and Parameters
+A decomposition theory for vertex enumeration of convex polyhedra
+Positional information positional error and read-out precision in morphogenesis: a mathematical framework
+Analytical Equilibrium Solutions of Biochemical Systems with Synthesis and Degradation
+Bridging scales in cancer progression: Mapping genotype to phenotype using neural networks
+The energy costs of biological insulators
+Stochastically-induced bistability in chemical reaction systems
+A scalable computational framework for establishing long-term behavior of stochastic reaction networks
+Quantifying randomness in protein-protein interaction networks of different species: A random matrix approach
+On the Lyapunov function for complex-balanced mass-action systems
+Evolution of bow-tie architectures in biology
+Uncoupled Analysis of Stochastic Reaction Networks in Fluctuating Environments
+Algebraic and Topological Indices of Molecular Pathway Networks in Human Cancers
+Nonspecic transcription factor binding reduces variability in transcription factor and target protein expression
+Optimal first-passage time in gene regulatory networks
+Designing anti-cancer drugs and directing anti-cancer therapy
+Computational modeling of protein interactions and phosphoform kinetics in the KaiABC cyanobacterial circadian clock
+Analysis of the hierarchical structure of the B. subtilis transcriptional regulatory network
+Moment Closure Approximations in a Genetic Negative Feedback Circuit
+Distributed classifier based on genetically engineered bacterial cell cultures
+Prokaryotic regulatory systems biology: Common principles governing the functional architectures of Bacillus subtilis and Escherichia coli unveiled by the natural decomposition approach
+Functional architecture of Escherichia coli: new insights provided by a natural decomposition approach
+Does your gene need a background check? How genetic background impacts the analysis of mutations genes and evolution
+Network Inference Using Steady State Data and Goldbeter-Koshland Kinetics
+On the dephasing of genetic oscillations
+A Network Biology Approach to Denitrification in Pseudomonas aeruginosa
+Stochasticity in Ca 2 increase in spines enables robust and sensitive information coding
+Memory effects in biochemical networks as the natural counterpart of extrinsic noise
+Molecular mechanisms that regulate the coupled period of the mammalian circadian clock
+Attractor structures of signaling networks: Consequences of different conformational barcode dynamics and their relations to network-based drug design
+The Human Plasma Membrane Peripherome: Visualization and Analysis of Interactions
+Variable stoichiometry among core ribosomal proteins
+ATP concentration regulates enzyme kinetics
+Modulation of calmodulin lobes by different targets: an allosteric model with hemiconcerted conformational transitions
+The validity of quasi steady-state approximations in discrete stochastic simulations
+Estimating cellular pathways from an ensemble of heterogeneous data sources
+Generalized Mass-Action Systems and Positive Solutions of Polynomial Equations with Real and Symbolic Exponents
+From Intracellular Signaling to Population Oscillations: Bridging Scales in Collective Behavior
+Generic temperature compensation of biological clocks by autonomous regulation of catalyst concentration
+Computing Weakly Reversible Linearly Conjugate Chemical Reaction Networks with Minimal Deficiency
+Bayesian Analysis for miRNA and mRNA Interactions Using Expression Data
+Translated Chemical Reaction Networks
+Prediction of kinase inhibitor response using activity profiling in-vitro screening and elastic net regression
+The Metabo library: building metabolic networks from KEGG database
+Learning Two-input Linear and Nonlinear Analog Functions with a Simple Chemical System
+Inference of Sparse Networks with Unobserved Variables. Application to Gene Regulatory Networks
+Fast-SL: An efficient algorithm to identify synthetic lethal reaction sets in metabolic networks
+On the Optimization of non-Dense Metabolic Networks in non-Equilibrium State Utilizing 2D-Lattice Simulation
+Parameter estimation and bifurcation analysis of stochastic models of gene regulatory networks: tensor-structured methods
+New Approach to the Stability of Chemical Reaction Networks: Piecewise Linear in Rates Lyapunov Functions
+Universal relationship in gene-expression changes for cells in steady-growth state
+Expression proteomics reveals protein targets and highlights mechanisms of action of small molecule drugs
+COEL: A Web-based Chemistry Simulation Framework
+SANTA: quantifying the functional content of molecular networks
+Ligand-dependent opening of the multiple AMPA receptor conductance states: a concerted model
+A Computational Approach to Steady State Correspondence of Regular and Generalized Mass Action Systems
+Fair Evaluation of Global Network Aligners
+Rare event simulation in immune biology: Models of negative selection in T-cell maturation
+A note on MAPK networks and their capacity for multistationarity due to toric steady states
+BioPreDyn-bench: benchmark problems for kinetic modelling in systems biology
+Relative Stability of Network States in Boolean Network Models of Gene Regulation in Development
+Fast reconstruction of compact context-specific metabolic networks via integration of microarray data
+Detection of construction biases in biological databases: the case of miRBase
+A scalable method for molecular network reconstruction identifies properties of targets and mutations in acute myeloid leukemia
+Feedbacks Receptor Clustering and Receptor Restriction to Single Cells yield large Turing Spaces for Ligand-receptor based Turing Models
+A model of cell biological signaling predicts a phase transition of signaling and provides mathematical formulae
+Self-organization of signal transduction
+Systematically Dissecting the Global Mechanism of miRNA Functions in Pluripotent Stem Cells
+Stochastic gene expression with delay
+Reconstruction of gene regulatory network of colon cancer using information theoretic approach
+Unexpected links reflect the noise in networks
+Environmental statistics and optimal regulation
+Theory on the Dynamics of Oscillatory Loops in the Transcription Factor Networks
+Cellular signaling networks function as generalized Wiener-Kolmogorov filters to suppress noise
+Memory improves precision of cell sensing in fluctuating environments
+A logic-based modeling derived from boolean networks: adding fuzzy logic and edge tuning
+Metabolic networks are almost nonfractal: A comprehensive evaluation
+Validity conditions for moment closure approximations in stochastic chemical kinetics
+A stochastic model of catalytic reaction networks in protocells
+Stability analysis of a model gene network links aging stress resistance and negligible senescence
+Analytic stability analysis of three-component self-regulatory genetic circuit
+Signalling Entropy: a novel network-theoretical framework for systems analysis and interpretation of functional omic data
+An integrative approach for modeling and simulation of Heterocyst pattern formation in Cyanobacteria strands
+Complex-based analysis of dysregulated cellular processes in cancer
+Negative Feedback and Physical Limits of Genes
+Predictive genomics: A cancer hallmark network framework for predicting tumor clinical phenotypes using genome sequencing data
+Transition to diversification by competition for resources in catalytic reaction networks
+Elimination of Intermediate Species in Multiscale Stochastic Reaction Networks
+Revealing networks from dynamics: an introduction
+Role of relaxation time scale in noisy signal transduction
+Phenotypic constraints promote latent versatility and carbon efficiency in metabolic networks
+Design principles of noise-induced oscillation in biochemical reaction networks: II. coupled positive and negative feedback loops
+Evolving Modular Genetic Regulatory Networks with a Recursive Top-Down Approach
+Recurrent Neural Network Based Hybrid Model of Gene Regulatory Network
+Positive feedback can lead to dynamic nanometer-scale clustering on cell membranes
+Motif Conservation Laws for the Configuration Model
+The Machinery of Biocomplexity: understanding non-optimal architectures in biological systems
+Epigenetic landscapes explain partially reprogrammed cells and identify key reprogramming genes
+Geometric phase shifts in biological oscillators
+A globally attractive cycle driven by sequential bifurcations containing ghost effects in a 3-node yeast cell cycle model
+Relationship between promoter sequence and its strength in gene expression
+Boolean networks with veto functions
+Cause and Cure of Sloppiness in Ordinary Differential Equation Models
+Facilitated diffusion buffers noise in gene expression
+Perturbation Detection Through Modeling of Gene Expression on a Latent Biological Pathway Network: A Bayesian hierarchical approach
+Nitric Oxide as stress inducer and synchronizer of p53 dynamics
+Collective regulation by non-coding RNA
+The co-existence of states in p53 dynamics driven by miRNA
+Dynamics of stress p53: Nitric oxide induced transition of states and synchronization
+Cancer systems biology in the genome sequencing era: Part 1 dissecting and modeling of tumor clones and their networks
+Cancer systems biology in the genome sequencing era: Part 2 evolutionary dynamics of tumor clonal networks and drug resistance
+GeneNetMiner: accurately mining gene regulatory networks from literature
+Stochastic synchronization of genetic oscillators induced by miRNA
+Signaling Network Assessment of Mutations and Copy Number Variations Predicts Breast Cancer Subtype-specific Drug Targets
+Understanding genomic alterations in cancer genomes using an integrative network approach
+ump-Diffusion Approximation of Stochastic Reaction Dynamics: Error bounds and Algorithms
+Mapping high-growth phenotypes in the flux space of microbial metabolism
+Modeling the dynamics of hypoxia inducible factor-1 alpha (HIF-1 alpha ) within single cells and 3D cell culture systems
+Catalytic Buffering for Optimal Scheduling of Self-Replication
+Reduction of dynamical biochemical reaction networks in computational biology
+DTW-MIC Coexpression Networks from Time-Course Data
+A geometric approach to the Global Attractor Conjecture
+Boolean constraint satisfaction problems for reaction networks
+Coupled Reversible and Irreversible Bistable Switches Underlying TGF- beta-induced Epithelial to Mesenchymal Transition
+Autocatalysis in Reaction Networks
+Dynamic optimization of metabolic networks coupled with gene expression
+Uniform sampling of steady states in metabolic networks: heterogeneous scales and rounding
+Control of asymmetric Hopfield networks and application to cancer attractors
+Optimal implementations for reliable circadian clocks
+Irreversible thermodynamics of open chemical networks I: Emergent cycles and broken conservation laws
+A global convergence result for processive multisite phosphorylation systems
+Thermodynamics of statistical inference by cells
+Mining the modular structure of protein interaction networks
+The lower bound on the precision of transcriptional regulation
+One file to share them all: Using the COMBINE Archive and the OME format to share all information about a modeling project
+Network analysis reveals a potentially 'evil' alliance of opportunistic pathogens inhibited by a cooperative network in human milk bacterial communities
+Design and Analysis of Wireless Communication Systems Using Diffusion-Based Molecular Communication Among Bacteria
+Relaying in Diffusion-Based Molecular Communication
+On the Hamiltonian structure of large deviations in stochastic hybrid systems
+Epigenetic Dynamics of Cell Reprogramming
+Multi-input distributed classifiers for synthetic genetic circuits
+On Dynamically Generating Relevant Elementary Flux Modes in a Metabolic Network using Optimization
+Structurally Robust Control of Complex Networks
+Bifurcation in cell cycle dynamics regulated by p53
+Simultaneous Optimization of Both Node and Edge Conservation in Network Alignment via WAVE
+Compact Representation of Photosynthesis Dynamics by Rule-based Models (Full Version)
+Simulating Organogenesis: Algorithms for the Image-based Determination of Displacement Fields
+Lyapunov functions stationary distributions and non-equilibrium potential for chemical reaction networks
+GREAT: GRaphlet Edge-based network AlignmenT
+Single-molecule modeling of mRNA degradation by miRNA: Lessons from data
+The Unreasonable Effectiveness of Blood Pressure Measurement: Molecular Communication in Biological Systems
+Analyzing effective models: An example from AK STAT5 signaling
+Effect of noise in intelligent cellular decision making
+Gene switching rate determines response to extrinsic perturbations in a transcriptional network motif
+Finding the positive feedback loops underlying multi-stationarity
+Faster graphical model identification of tandem mass spectra using peptide word lattices
+A Dynamic Network Formation Model for Understanding Bacterial Self-Organization into Micro-Colonies
+Hematopoietic cancers and Nup fusions: determining common mechanisms of malignancy
+Host Cell Factors Necessary for Influenza A Infection: Meta-Analysis of Genome Wide Studies
+Properties of Random Complex Chemical Reaction Networks and Their Relevance to Biological Toy Models
+An explanatory evo-devo model for the developmental hourglass
+Striking a balance with Recon 2.1
+Motif statistics of artificially evolved and biological networks
+Subgraph covers -- An information theoretic approach to motif analysis in networks
+Randomness and preserved patterns in cancer network
+The robustness of proofreading to crowding-induced pseudo-processivity in the MAPK pathway
+Evolution of regulatory networks towards adaptability and stability in a changing environment
+Exact distributions for stochastic gene expression models with bursting and feedback
+Interaction patterns in diabetes mellitus II network: An RMT relation
+Integral feedback generically achieves perfect adaptation in stochastic biochemical networks
+FUSE: Multiple Network Alignment via Data Fusion
+Reconstruction of gene regulatory networks from steady state data
+Stochastic Chemical Kinetics. Theory and (Mostly) Systems Biological Applications P. Erdi G. Lente. Springer (201)
+Reverse enGENEering of regulatory networks from Big Data: a guide for a biologist
+Verifying Chemical Reaction Network Implementations: A Pathway Decomposition Approach
+A network inference method for large-scale unsupervised identification of novel drug-drug interactions
+Capacity of a Simple Intercellular Signal Transduction Channel
+Network Methods for Pathway Analysis of Genomic Data (Review)
+Differential gene co-expression networks via Bayesian biclustering models
+Kinetic Model for a Threshold Filter in an Enzymatic System for Bioanalytical and Biocomputing Applications
+Computational model of sphingolipids metabolism: a case study of Alzheimer's disease
+Graph-theoretic analysis of multistationarity using degree theory
+Quantification of reachable attractors in asynchronous discrete dynamics
+Nested Canalizing Functions and Their Networks
+A Coupled Stochastic Model Explains Differences in Circadian Behavior of Cry1 and Cry2 Knockouts
+Communication over the network of binary switches regulates the activation of A 2A adenosine receptor
+Dynamic epistasis for different alleles of the same gene
+On necessary and sufficient conditions for proto-cell stationary growth
+On the stability of stochastic jump kinetics
+Controlling Networks of Nonlinearly-Coupled Nodes using Response Surfaces
+Stochastic Optimization Based Study of Dimerization Kinetics
+Evolution of autocatalytic sets in a competitive percolation model
+Modeling Epidermis Homeostasis and Psoriasis Pathogenesis
+A detailed balanced reaction network is sufficient but not necessary for its Markov chain to be detailed balanced
+What makes the lac-pathway switch: identifying the fluctuations that trigger phenotype switching in gene regulatory systems
+Cancer stem cells display extremely large evolvability: alternating plastic and rigid networks as a potential mechanism
+Communication on structure of biological networks
+Multiple Quantitative Trait Analysis Using Bayesian Networks
+Mapping eQTL networks with mixed graphical Markov models
+Thermodynamic costs of information processing in sensory adaption
+Non-genetic heterogeneity criticality and cell differentiation
+Limits of feedback control in bacterial chemotaxis
+Injectivity multiple zeros and multistationarity in reaction networks
+An in silico target identification using boolean network attractors: avoiding pathological phenotypes
+Cell fate reprogramming by control of intracellular network dynamics
+Theoretical modelling discriminates the stochastic and deterministic hypothesis of cell reprogramming
+Inferring metabolic phenotypes from the exometabolome through a thermodynamic variational principle
+Hierarchical Network Structure Promotes Dynamical Robustness
+Modular decomposition and analysis of biological networks
+Stochastic analysis of bistability in coherent mixed feedback loops combining transcriptional and post-transcriptional regulations
+Assembling biological boolean networks using manually curated databases and prediction algorithms
+Accelerated Sensitivity Analysis in High-Dimensional Stochastic Reaction Networks
+Protein residue networks from a local search perspective
+Detecting evolution and adaptation fingerprints in bacterial metabolic backbones
+Exploring the structure and function of temporal networks with dynamic graphlets
+RKappa: Statistical sampling suite for Kappa models
+A survey of methods for deciding whether a reaction network is multistationary
+Energy Demand and Metabolite Partitioning in Spatially Lumped and Distributed Models of Neuron-Astrocyte Complex
+Reverse Engineering Chemical Reaction Networks from Time Series Data
+Using Python to Dive into Signalling Data with CellNOpt and BioServices
+A web-based tool to Analyze Semantic Similarity Networks
+Optimal census by quorum sensing
+Remarks on the energy costs of insulators in enzymatic cascades
+Asymptotic and numerical methods for metastable events in stochastic gene networks
+Transcriptional bursting in gene expression: analytical results for general stochastic models
+Network Topology as a Driver of Bistability in the lac Operon
+A Model of Gene Expression Based on Random Dynamical Systems Reveals Modularity Properties of Gene Regulatory Networks
+Modeling stochastic phenotype switching and bet-hedging in bacteria: stochastic nonlinear dynamics and critical state identification
+Adaptive Hybrid Simulations for Multiscale Stochastic Reaction Networks
+Topological determinants of self-sustained activity in a simple model of excitable dynamics on graphs
+Core regulatory network motif underlies the ocellar complex patterning in Drosophila melanogaster
+A Theory of Decomposition of Complex Chemical Networks using the Hill Functions
+Toward a multilevel representation of protein molecules: comparative approaches to the aggregation folding propensity problem
+Characterization of graphs for protein structure modeling and recognition of solubility
+ComPPI a cellular compartment-specific database for protein-protein interaction network analysis
+Model Checking Gene Regulatory Networks
+Functional Splicing Network Reveals Extensive Regulatory Potential of the Core Spliceosomal Machinery
+Origin and implications of zero degeneracy in networks spectra
+Efficient reduction of Kappa models by static inspection of the rule-set
+Simulated evolution of protein-protein interaction networks with realistic topology
+In silico prediction of protein-protein interactions in human macrophages
+Surface modified sulfur nanoparticles can escape the glutathione reductase mediated detoxification system in fungi
+The enzyme cost of given metabolic flux distributions as a function of logarithmic metabolite levels is convex
+Stochastic kinetics of the circular gene hypothesis: feedback effects and protein fluctuations
+Optimizing information flow in small genetic networks. IV. Spatial coupling
+Nonlinearity arising from noncooperative transcription factor binding enhances negative feedback and promotes genetic oscillations
+Identifying robust clusters and multi-community nodes by combining top-down and bottom-up approaches to clustering
+Self-sustaining autocatalytic networks within open-ended reaction systems
+The multi-tier structure of patterning networks increases access to positional information
+Satisfiability sequence niches and molecular codes in cellular signaling
+NaviCell: a web-based environment for navigation curation and maintenance of large molecular interaction maps
+Methods of Information Theory and Algorithmic Complexity for Network Biology
+A method of speed coefficients' for biochemical model reduction applied to the NF-kappaB system
+Phylogeny of Metabolic Networks: A Spectral Graph Theoretical Approach
+Parameter-free methods distinguish Wnt pathway models and guide design of experiments
+Slow poisoning and destruction of networks: Edge proximity and its implications for biological and infrastructure networks
+Can bio-inspired information processing steps be realized as synthetic biochemical processes?
+Dynamic Epistasis under Varying Environmental Perturbations
+DeDaL: Cytoscape 3.0 app for producing and morphing data-driven and structure-driven network layouts
+Sloppiness and Emergent Theories in Physics Biology and Beyond
+On RAF Sets and Autocatalytic Cycles in Random Reaction Networks
+SBtab - Conventions for structured data tables in Systems Biology
+The search for candidate relevant subsets of variables in complex systems
+Aggregation-fragmentation model of robust concentration gradient formation
+Transcriptomic and metabolomic analysis of copper stress acclimation in Ectocarpus siliculosus highlights signaling and tolerance mechanisms in brown algae
+Nonequilibrium sensing and its analogy to kinetic proofreading
+Promoters regulated by repressors with fast binding kinetics can have large transcriptional bursts
+Algebraic Systems Biology: A Case Study for the Wnt Pathway
+Coevolution of Information Processing and Topology in Hierarchical Adaptive Random Boolean Networks
+Inherent directionality explains the lack of feedback loops in empirical networks
+Stable leader election in population protocols requires linear time
+Critical dynamics of gene networks is a mechanism behind ageing and Gompertz law
+Classification and its application to drug-target interaction prediction
+Ricci Curvature and Robustness of Cancer Networks
+Detecting Binomiality

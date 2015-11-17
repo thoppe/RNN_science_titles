@@ -1,0 +1,571 @@
+Cluster Computing White Paper
+Cluster Computing: A High-Performance Contender
+Towards a Theory of Cache-Efficient Algorithms
+The Anatomy of the Grid - Enabling Scalable Virtual Organizations
+Verifying Sequential Consistency on Shared-Memory Multiprocessors by Model Checking
+SNS Timing System
+Behaviour-based Knowledge Systems: An Epigenetic Path from Behaviour to Knowledge
+Synthesis of Low-Power Digital Circuits Derived from Binary Decision Diagrams
+On the Information Engine of Circuit Design
+Analytical formulations of Peer-to-Peer Connection Efficiency
+Fast Parallel I O on Cluster Computers
+On a composition of digraphs
+Adaptive Domain Model: Dealing With Multiple Attributes of Self-Managing Distributed Object Systems
+High-density and Secure Data Transmission via Linear Combinations
+Using Propagation for Solving Complex Arithmetic Constraints
+The Graphics Card as a Streaming Computer
+Design and Implementation of MPICH2 over InfiniBand with RDMA Support
+2 P2P or Not 2 P2P
+Efficient and Scalable Barrier over Quadrics and Myrinet with a New NIC-Based Collective Message Passing Protocol
+End-User Effects of Microreboots in Three-Tiered Internet Systems
+Quantum Computers
+A High-Level Reconfigurable Computing Platform Software Frameworks
+Exposing Software Defined Radio Functionality To Native Operating System Applications via Virtual Devices
+Collaborative Storage Management In Sensor Networks
+Utilizing Reconfigurable Hardware Processors via Grid Services
+A Self-Reconfigurable Computing Platform Hardware Architecture
+Data-stationary Architecture to Execute Quantum Algorithms Classically
+ScotGrid: A Prototype Tier 2 Centre
+CDTP Chain Distributed Transfer Protocol
+A Geographic Directed Preferential Internet Topology Model
+Tree Parity Machine Rekeying Architectures
+A Practical Approach for Circuit Routing on Dynamic Reconfigurable Devices
+Defragmenting the Module Layout of a Partially Reconfigurable Device
+Selfish vs. Unselfish Optimization of Network Creation
+Quantum Algorithm Processor For Finding Exact Divisors
+Representing Digital Assets using MPEG-21 Digital Item Declaration
+Quantum Algorithm Processors to Reveal Hamiltonian Cycles
+DyNoC: A Dynamic Infrastructure for Communication in Dynamically Reconfigurable Devices
+Parameters Affecting the Resilience of Scale-Free Networks to Random Failures
+Reversible CAM Processor Modeled After Quantum Computer Behavior
+Associative Memory For Reversible Programming and Charge Recovery
+Difficulties in the Implementation of Quantum Computers
+Novel BCD Adders and Their Reversible Logic Implementation for IEEE 54r Format
+A New Reversible TSG Gate and Its Application For Designing Efficient Adder Circuits
+An Extension to DNA Based Fredkin Gate Circuits: Design of Reversible Sequential Circuits using Fredkin Gates
+Implementation of float-float operators on graphics hardware
+Novel Reversible Multiplier Architecture Using Reversible TSG Gate
+Peer to Peer Networks for Defense Against Internet Worms
+Fast and Generalized Polynomial Time Memory Consistency Verification
+An Internet-enabled technology to support Evolutionary Design
+Combinational Logic Circuit Design with the Buchberger Algorithm
+Int ' e gration de la synth e se m ' e moire dans l'outil de synth e se d'architecture GAUT Low Power
+High-level synthesis under I O Timing and Memory constraints
+A Memory Aware High Level Synthesis Too
+Memory Aware High-Level Synthesis for Embedded Systems
+Synth e se Comportementale Sous Contraintes de Communication et de Placement M ' e moire pour les composants du TDSI
+Design of multimedia processor based on metric computation
+The Effect of Scheduling on Link Capacity in Multi-hopWireless Networks
+Novel Reversible TSG Gate and Its Application for Designing Components of Primitive Reversible Quantum ALU
+VLSI Implementation of RSA Encryption System Using Ancient Indian Vedic Mathematics
+Reversible Programmable Logic Array (RPLA) using Fredkin Feynman Gates for Industrial Electronics and Applications
+Reduced Area Low Power High Throughput BCD Adders for IEEE 54r Format
+A Non-anchored Unified Naming System for Ad Hoc Computing Environments
+Combined Integer and Floating Point Multiplication Architecture(CIFM) for FPGAs and Its Reversible Logic Implementation
+Hard Disk Drive as a Magnetomechanical Logic Device
+Power Assignment Problems in Wireless Communication
+On the Correlation of Geographic and Network Proximity at Internet Edges and its Implications for Mobile Unicast and Multicast Routing
+Petascale Computational Systems
+Empirical Measurements of Disk Failure Rates and Error Rates
+Locally Served Network Computers
+Producing NLP-based On-line Contentware
+Flysig: Dataflow Oriented Delay-Insensitive Processor for Rapid Prototyping of Signal Processing
+Automatic Hardware Synthesis for a Hybrid Reconfigurable CPU Featuring Philips CPLDs
+Space-Efficient Routing Tables for Almost All Networks and the Incompressibility Method
+Processor Verification Using Efficient Reductions of the Logic of Uninterpreted Functions to Propositional Logic
+Scalability Terminology: Farms Clones Partitions Packs RACS and RAPS
+Characterizing Self-Developing Biological Neural Networks: A First Step Towards their Application To Computing Systems
+A Communication Model for Adaptive Service Provisioning in Hybrid Wireless Networks
+A Methodology for Efficient Space-Time Adapter Design Space Exploration: A Case Study of an Ultra Wide Band Interleaver
+A Design Methodology for Space-Time Adapter
+M 'ethodologie de mod 'elisation et d'impl 'ementation d'adaptateurs spatio-temporels
+Cross-Layer Optimization of MIMO-Based Mesh Networks with Gaussian Vector Broadcast Channels
+Nature-Inspired Interconnects for Self-Assembled Large-Scale Network-on-Chip Designs
+Application of a design space exploration tool to enhance interleaver generation
+A Light-Based Device for Solving the Hamiltonian Path Problem
+Solving the Hamiltonian path problem with a light-based computer
+Solving the subset-sum problem with a light-based device
+DPA on quasi delay insensitive asynchronous circuits: formalization and improvement
+Frequency Analysis of Decoupling Capacitors for Three Voltage Supplies in SoC
+Decoding the Golden Code: a VLSI design
+Combined Integer and Variable Precision (CIVP) Floating Point Multiplication Architecture for FPGAs
+Partial Reversible Gates(PRG) for Reversible BCD Arithmetic
+Transactional WaveCache: Towards Speculative and Out-of-Order DataFlow Execution of Memory Operations
+Optimal Memoryless Encoding for Low Power Off-Chip Data Buses
+Noise Limited Computational Speed
+Policies of System Level Pipeline Modeling
+Efficient implementation of GALS systems over commercial synchronous FPGAs: a new approach
+ANUS: an FPGA-based System for High Performance Scientific Computing
+Assessing Random Dynamical Network Architectures for Nanoelectronics
+Archer: A Community Distributed Computing Infrastructure for Computer Architecture Research and Education
+An adaptive embedded architecture for real-time Particle Image Velocimetry algorithms
+Easily testable logical networks based on a 'widened long flip-flop'
+Interval Semantics for Standard Floating-Point Arithmetic
+NB-FEB: An Easy-to-Use and Scalable Universal Synchronization Primitive for Parallel Programming
+Decting Errors in Reversible Circuits With Invariant Relationships
+On Transformations of Load-Store Maurer Instruction Set Architecture
+A High Dynamic Range 3-Moduli-Set with Efficient Reverse Converter
+Adaptive FPGA NoC-based Architecture for Multispectral Image Correlation
+Limit on the Addressability of Fault-Tolerant Nanowire Decoders
+Exact Cover with light
+Optimal cache-aware suffix selection
+CRT-Based High Speed Parallel Architecture for Long BCH Encoding
+Introducing a Performance Model for Bandwidth-Limited Loop Kernels
+Hardware Trojan by Hot Carrier Injection
+Exploiting Semiconductor Properties for Hardware Trojans
+Function Interface Models for Hardware Compilation: Types Signatures Protocols
+FPGA-based Controller for a Mobile Robot
+Hardware Virtualization Support In INTEL AMD And IBM Power Processors
+Boosting XML Filtering with a Scalable FPGA-based Architecture
+Turbo NOC: a framework for the design of Network On Chip based turbo decoder architectures
+Programmable Ethernet Switches and Their Applications
+A Fault-tolerant Structure for Reliable Multi-core Systems Based on Hardware-Software Co-design
+Virtual-Threading: Advanced General Purpose Processors Architecture
+Multi-core architectures: Complexities of performance prediction and the impact of cache topology
+Simulating spin systems on IANUS an FPGA-based computer
+Hard Data on Soft Errors: A Large-Scale Assessment of Real-World Error Rates in GPGPU
+Chaos in computer performance
+Logic Design Organization of PTVD-SHAM A Parallel Time Varying Data Super-helical Access Memory
+Theoretical Engineering and Satellite Comlink of a PTVD-SHAM System
+Classifying Application Phases in Asymmetric Chip Multiprocessors
+A Multicore Processor based Real-Time System for Automobile management application
+An Architectural Approach for Decoding and Distributing Functions in FPUs in a Functional Processor System
+Maintaining Virtual Areas on FPGAs using Strip Packing with Delays
+VLSI Architectures for WIMAX Channel Decoders
+Virtual Machine Support for Many-Core Architectures: Decoupling Abstract from Concrete Concurrency Models
+Evaluation and Design Space Exploration of a Time-Division Multiplexed NoC on FPGA for Image Analysis Applications
+Ahb Compatible DDR Sdram Controller Ip Core for Arm Based Soc
+Static Address Generation Easing: a Design Methodology for Parallel Interleaver Architectures
+On Complexity Energy- and Implementation-Efficiency of Channel Decoders
+On the operating unit size of load store architectures
+Interfacing the ControlLogix PLC over Ethernet IP
+Low Power Shift and Add Multiplier Design
+FPGA Implementation of a Reconfigurable Viterbi Decoder for WiMAX Receiver
+Associative control processor with a rigid structure
+Asynchronous logic circuits and sheaf obstructions
+Reversible Logic Synthesis of Fault Tolerant Carry Skip BCD Adder
+Fault tolerant reversible logic synthesis: Carry look-ahead and carry-skip adders
+Synthesis of Fault Tolerant Reversible Logic Circuits
+Efficient Approaches for Designing Fault Tolerant Reversible Carry Look-Ahead and Carry-Skip Adders
+Variable Block Carry Skip Logic using Reversible Gates
+Building Toffoli Network for Reversible Logic Synthesis Based on Swapping Bit Strings
+A Novel Quantum Cost Efficient Reversible Full Adder Gate in Nanotechnology
+Sorting Network for Reversible Logic Synthesis
+Fourier Domain Decoding Algorithm of Non-Binary LDPC codes for Parallel Implementation
+BSSSN: Bit String Swapping Sorting Network for Reversible Logic Synthesis
+A Scalable VLSI Architecture for Soft-Input Soft-Output Depth-First Sphere Decoding
+Memristor-based Circuits for Performing Basic Arithmetic Operations
+Memristor Crossbar-based Hardware Implementation of IDS Method
+Memristor Crossbar-based Hardware Implementation of Fuzzy Membership Functions
+Wideband Spectrum Sensing at Sub-Nyquist Rates
+Power optimized programmable embedded controller
+On the Design and Analysis of Quaternary Serial and Parallel Adders
+A Unique 10 Segment Display for Bengali Numerals
+Universal Numeric Segmented Display
+Concurrent Processing Memory
+Circuit Design for A Measurement-Based Quantum Carry-Lookahead Adder
+Multi-standard programmable baseband modulator for next generation wireless communication
+Model-Based Development of Distributed Embedded Systems by the Example of the Scicos SynDEx Framework
+QPACE -- a QCD parallel computer based on Cell processors
+Multi-core: Adding a New Dimension to Computing
+Physarum machine: Implementation of Kolmogorov-Uspensky machine in biological substrat
+Reversible Logic Based Concurrent Error Detection Methodology For Emerging Nanocircuits
+Systolic Arrays for Lattice-Reduction-Aided MIMO Detection
+A Simulation Experiment on a Built-In Self Test Equipped with Pseudorandom Test Pattern Generator and Multi-Input Shift Register (MISR)
+APEnet : high bandwidth 3D torus direct network for petaflops scale commodity clusters
+A Secure Asynchronous FPGA Architecture Experimental Results and Some Debug Feedback
+Hardware architectures for Successive Cancellation Decoding of Polar Codes
+High Speed Multiple Valued Logic Full Adder Using Carbon Nano Tube Field Effect Transistor
+Scalability of spin FPGA: A Reconfigurable Architecture based on spin MOSFET
+Computer Arithmetic Preserving Hamming Distance of Operands in Operation Result
+Improving Network-on-Chip-based turbo decoder architectures
+Algebra-Logical Repair Method for FPGA Logic Blocks
+Brain-like infrastructure for embedded SoC diagnosis
+A Flexible LDPC code decoder with a Network on Chip as underlying interconnect architecture
+Multi-Amdahl: Optimal Resource Sharing with Multiple Program Execution Segments
+ReveR: Software Simulator of Reversible Processor with Stack
+HMTT: A Hybrid Hardware Software Tracing System for Bridging Memory Trace's Semantic Gap
+A Simple Multi-Processor Computer Based on Subleq
+Pseudo-Ring Testing Schemes and Algorithms of RAM Built-In and Embedded Self-Testing
+SoC Software Components Diagnosis Technology
+Reversible arithmetic logic unit
+AWRP: Adaptive Weight Ranking Policy for Improving Cache Performance
+A Novel Methodology for Thermal Analysis 3-Dimensional Memory Integration
+An improved distributed routing algorithm for Benes based optical NoC
+Intelligent Bees for QoS Routing in Networks-on-Chip
+Designing a CPU model: from a pseudo-formal document to fast code
+Memristive fuzzy edge detector
+Fault-tolerant Algorithms for Tick-Generation in Asynchronous Logic: Robust Pulse Generation
+Power comparison of CMOS and adiabatic full adder circuit
+Faster and Low Power Twin Precision Multiplier
+Multi-core processors - An overview
+Optimal Final Carry Propagate Adder Design for Parallel Multipliers
+Accelerating Algorithms using a Dataflow Graph in a Reconfigurable System
+Formal Verification of an Iterative Low-Power x8 Floating-Point Multiplier with Redundant Feedback
+CAFFEINE: Template-Free Symbolic Model Generation of Analog Circuits via Canonical Form Functions and Genetic Programming
+Hardware Support for Arbitrarily Complex Loop Structures in Embedded Applications
+A Probabilistic Collocation Method Based Statistical Gate Delay Model Considering Process Variations and Multiple Input Switching
+Why Systems-on-Chip Needs More UML like a Hole in the Head
+Buffer Insertion for Bridges and Optimal Buffer Sizing for Communication Sub-System of Systems-on-Chip
+Modeling the Non-Linear Behavior of Library Cells for an Accurate Static Noise Analysis
+Generic Pipelined Processor Modeling and High Performance Cycle-Accurate Simulator Generation
+Cycle Accurate Binary Translation for Simulation Acceleration in Rapid Prototyping of SoCs
+At-Speed Logic BIST for IP Cores
+Fast Dynamic Memory Integration in Co-Simulation Frameworks for Multiprocessor System on-Chip
+Stochastic Power Grid Analysis Considering Process Variations
+Locality-Aware Process Scheduling for Embedded MPSoCs
+Simultaneous Reduction of Dynamic and Static Power in Scan Structures
+Modeling Interconnect Variability Using Efficient Parametric Model Order Reduction
+A Fast Diagnosis Scheme for Distributed Small Embedded SRAMs
+A Memory Hierarchical Layer Assigning and Prefetching Technique to Overcome the Memory Performance Energy Bottleneck
+New Schemes for Self-Testing RAM
+Compositional Memory Systems for Multimedia Communicating Tasks
+Synchronization Processor Synthesis for Latency Insensitive Systems
+Thermal-Aware Task Allocation and Scheduling for Embedded Systems
+Bright-Field AAPSM Conflict Detection and Correction
+Statistical Modeling of Pipeline Delay and Design of Pipeline under Process Variation to Enhance ield in sub-100nm Technologies
+New Perspectives and Opportunities From the Wild West of Microelectronic Biochips
+Integration Verification and Layout of a Complex Multimedia SOC
+SOC Testing Methodology and Practice
+Evolutionary Optimization in Code-Based Test Compression
+An Application-Specific Design Methodology for STbus Crossbar Generation
+ield Enhancement of Digital Microfluidics-Based Biochips Using Space Redundancy and Local Reconfiguration
+Design of Fault-Tolerant and Dynamically-Reconfigurable Microfluidic Biochips
+CMOS-Based Biosensor Arrays
+DVS for On-Chip Bus Designs Based on Timing Error Correction
+A Quality-of-Service Mechanism for Interconnection Networks in System-on-Chips
+Reliability-Centric High-Level Synthesis
+Reliable System Specification for Self-Checking Data-Paths
+Test Planning for Mixed-Signal SOCs with Wrapped Analog Cores
+On-Chip Test Infrastructure Design for Optimal Multi-Site Testing of System Chips
+On the Optimal Design of Triple Modular Redundancy Logic for SRAM-based FPGAs
+An O(bn 2) Time Algorithm for Optimal Buffer Insertion with b Buffer Types
+Cantilever-Based Biosensors in CMOS Technology
+Memory Testing Under Different Stress Conditions: An Industrial Evaluation
+Statistical Timing Based Optimization using Gate Sizing
+A Way Memoization Technique for Reducing Power Consumption of Caches in Application Specific Integrated Processors
+Resource Sharing and Pipelining in Coarse-Grained Reconfigurable Architecture for Domain-Specific Optimization
+A Study of the Speedups and Competitiveness of FPGA Soft Processor Cores using Dynamic Hardware Software Partitioning
+An Infrastructure to Functionally Test Designs Generated by Compilers Targeting FPGAs
+Energy- and Performance-Driven NoC Communication Architecture Synthesis Using a Decomposition Approach
+Analog and Digital Circuit Design in 5 nm CMOS: End of the Road
+FPGA Architecture for Multi-Style Asynchronous Logic
+An Accurate SER Estimation Method Based on Propagation Probability
+Improving the Process-Variation Tolerance of Digital Circuits Using Gate Sizing and Statistical Techniques
+Assertion-Based Design Exploration of DVS in Network Processor Architectures
+Circuit-Level Modeling for Concurrent Testing of Operational Defects due to Gate Oxide Breakdown
+Optimized Generation of Data-Path from C Codes for FPGAs
+Multi-Placement Structures for Fast and Optimized Placement in Analog Circuit Synthesis
+Specification Test Compaction for Analog Circuits and MEMS
+Soft-Error Tolerance Analysis and Optimization of Nanometer Circuits
+IEEE 114.4 Compatible ABMs for Basic RF Measurements
+Designer-Driven Topology Optimization for Pipelined Analog to Digital Converters
+Systematic Figure of Merit Computation for the Design of Pipeline ADC
+Top-Down Design of a Low-Power Multi-Channel 2.5-Gbit s Channel Gated Oscillator Clock-Recovery Circuit
+Energy-Aware Routing for E-Textile Applications
+Modeling and Analysis of Loading Effect in Leakage of Nano-Scaled Bulk-CMOS Logic Circuits
+Leakage-Aware Interconnect for On-Chip Network
+Smart Temperature Sensor for Thermal Testing of Cell-Based ICs
+Worst-Case and Average-Case Analysis of n-Detection Test Sets
+A New Embedded Measurement Structure for eDRAM Capacitor
+Exploring NoC Mapping Strategies: An Energy and Timing Aware Technique
+Hardware Accelerated Power Estimation
+An Efficient Transparent Test Scheme for Embedded Word-Oriented Memories
+Systematic Transaction Level Modeling of Embedded Systems with SystemC
+Influence of Memory Hierarchies on Predictability for Time Constrained Embedded Software
+Design of a Virtual Component Neutral Network-on-Chip Transaction Layer
+Techniques for Fast Transient Fault Grading Based on Autonomous Emulation
+A Fast Concurrent Power-Thermal Model for Sub-100nm Digital ICs
+Low Power Oriented CMOS Circuit Optimization Protocol
+Low-Cost Multi-Gigahertz Test Systems Using CMOS FPGAs and PECL
+Area-Efficient Selective Multi-Threshold CMOS Design Methodology for Standby Leakage Power Reduction
+Logic Design for On-Chip Test Clock Generation - Implementation Details and Impact on Delay Test Quality
+Hotspot Prevention Through Runtime Reconfiguration in Network-On-Chip
+Power-Performance Trade-Offs in Nanometer-Scale Multi-Level Caches Considering Total Leakage
+Test Time Reduction Reusing Multiple Processors in a Network-on-Chip Based Architecture
+A Hybrid Prefetch Scheduling Heuristic to Minimize at Run-Time the Reconfiguration Overhead of Dynamically Reconfigurable Hardware
+Behavioural Transformation to Improve Circuit Performance in High-Level Synthesis
+Modeling of a Reconfigurable OFDM IP Block Family For an RF System Simulator
+A VLSI Design Flow for Secure Side-Channel Attack Resistant ICs
+Fast and Accurate Transaction Level Modeling of an Extended AMBA2.0 Bus Architecture
+C Based Hardware Design for Wireless Applications
+Area and Throughput Trade-Offs in the Design of Pipelined Discrete Wavelet Transform Architectures
+Queue Management in Network Processors
+picoArray Technology: The Tool's Story
+ISEGEN: Generation of High-Quality Instruction Set Extensions by Iterative Improvement
+FPGA based Agile Algorithm-On-Demand Co-Processor
+Meeting the Embedded Design Needs of Automotive Applications
+The Integration of On-Line Monitoring and Reconfiguration Functions using EDAA - European design and Automation Association114.4 Into a Safety Critical Automotive Electronic Control Unit
+Debug Support Calibration and Emulation for Multiple Processor and Powertrain Control SoCs
+SystemC Analysis of a New Dynamic Power Management Architecture
+Exploiting Real-Time FPGA Based Adaptive Systems Technology for Real-Time Sensor Fusion in Next Generation Automotive Safety Systems
+Platform Based Design for Automotive Sensor Conditioning
+A bit 1.2GSps Low-Power Flash-ADC in 0.13 mu m Digital CMOS
+A mW 110MS s 12b Pipeline ADC Implemented in 0.18 mu m Digital CMOS
+Testing Logic Cores using a BIST P1500 Compliant Approach: A Case of Study
+Using Mobilize Power Management IP for Dynamic Static Power Reduction in SoC at 130 nm
+MultiNoC: A Multiprocessing System Enabled by a Network on Chip
+A Partitioning Methodology for Accelerating Applications in Hybrid Reconfigurable Platforms
+Evaluation of SystemC Modelling of Reconfigurable Embedded Systems
+Hardware Support for QoS-based Function Allocation in Reconfigurable Systems
+Multiplierless Modules for Forward and Backward Integer Wavelet Transform
+Formulation and Development of a Novel Quaternary Algebra
+FPGA implementation of short critical path CORDIC-based approximation of the eight-point DCT
+Efficient Network for Non-Binary QC-LDPC Decoder
+Reduced-Latency SC Polar Decoder Architectures
+Low-Latency SC Decoder Architectures for Polar Codes
+Design and Simulation of an 8-bit Dedicated Processor for calculating the Sine and Cosine of an Angle using the CORDIC Algorithm
+Performance of Cache Memory Subsystems for Multicore Architectures
+Elastic Fidelity: Trading-off Computational Accuracy for Energy Reduction
+Parametric Estimation of the Ultimate Size of Hypercomputers
+Hardware Implementation of Successive Cancellation Decoders for Polar Codes
+A New Design for Array Multiplier with Trade off in Power and Area
+Multiplexed multiple- tau auto- and cross- correlators on a single FPGA
+Umgebungserfassungssystem fuer mobile Roboter (environment logging system for mobile autonomous robots)
+Information Analysis Infrastructure for Diagnosis
+Theoretical Modeling and Simulation of Phase-Locked Loop (PLL) for Clock Data Recovery (CDR)
+An efficient FPGA implementation of MRI image filtering and tumor characterization using Xilinx system generator
+A Novel Methodology for Thermal Aware Silicon Area Estimation for 2D 3D MPSoCs
+A Resolution for Shared Memory Conflict in Multiprocessor System-on-a-Chip
+Cross-point architecture for spin transfer torque magnetic random access memory
+FATAL : A Self-Stabilizing Byzantine Fault-tolerant Clocking Scheme for SoCs
+Design and ASIC implementation of DUC DDC for communication systems
+A handy systematic method for data hazards detection in an instruction set of a pipelined microprocessor
+The Distributed Network Processor: a novel off-chip and on-chip interconnection network architecture
+Designing a WISHBONE Protocol Network Adapter for an Asynchronous Network-on-Chip
+LOCKE Detailed Specification Tables
+Feasibility Conditions for Interference Alignment
+Faster Energy Efficient Dadda Based Baugh-Wooley Multipliers
+C-slow Technique vs Multiprocessor in designing Low Area Customized Instruction set Processor for Embedded Applications
+Effect of Thread Level Parallelism on the Performance of Optimum Architecture for Embedded Applications
+Performance-Optimum Superscalar Architecture for Embedded Applications
+Reversible Programmable Logic Array (RPLA) using Feynman MUX Gates for Low Power Industrial Applications
+Stochastic fuzzy controller
+Fault Tolerant Variable Block Carry Skip Logic (VBCSL) using Parity Preserving Reversible Gates
+Quantum Cost Efficient Reversible BCD Adder for Nanotechnology Based Systems
+Mppsocgen: A framework for automatic generation of mppsoc architecture
+Wishbone bus Architecture - A Survey and Comparison
+Microcontroller Based Testing of Digital IP-Core
+Design Space Exploration to Find the Optimum Cache and Register File Size for Embedded Applications
+Design and implementation of real time AES-128 on real time operating system for multiple FPGA communication
+Relaxed Half-Stochastic Belief Propagation
+Investigating Warp Size Impact in GPUs
+Architecture for real time continuous sorting on large width data volume for fpga based applications
+RepTFD: Replay Based Transient Fault Detection
+The Necessity for Hardware QoS Support for Server Consolidation and Cloud Computing
+Design and simulation of a sigma delta ADC
+A full-custom ASIC design of a 8-bit 25 MHz Pipeline ADC using 0.35 um CMOS technology
+A simple 1-byte 1-clock RC4 design and its efficient implementation in FPGA coprocessor for secured ethernet communication
+Dynamic Priority Queue: An SDRAM Arbiter With Bounded Access Latencies for Tight WCET Calculation
+Design and Development of Low Cost Multi-Channel USB Data
+Design of PIC12F5 Microcontroller Based Data Acquisition System for Slowly Varying Signals
+Low Cost PC Based Real Time Data Logging System Using PCs Parallel Port For Slowly Varying Signals
+Design and Performance Analysis of hybrid adders for high speed arithmetic circuit
+Ethernet Packet Processor for SoC Application
+A Design Methodology for Folded Pipelined Architectures in VLSI Applications using Projective Space Lattices
+Design and implementation of a digital clock showing digits in Bangla font using microcontroller AT8C4051
+On the Effect of Quantum Interaction Distance on Quantum Addition Circuits
+An Theta( sqrt n ) -depth Quantum Adder on a 2D NTC Quantum Computer Architecture
+Reconfigurable computing for Monte Carlo simulations: results and prospects of the anus project
+A Cache Management Strategy to Replace Wear Leveling Techniques for Embedded Flash Memory
+Deadlock Recovery Technique in Bus Enhanced NoC Architecture
+DLS: Directoryless Shared Last-level Cache
+Emulating a large memory sequential machine with a collection of small memory ones
+A Low-Power -bit Pipelined CMOS ADC with Amplifier and Comparator Sharing Technique
+Design Simulation of 128x Interpolator Filter
+A Ternary Digital to Analog Converter with High Power Output and 10-dB Dynamic Range
+Dynamic Warp Resizing in High-Performance SIMT
+Design Of A Reconfigurable DSP Processor With Bit Efficient Residue Number System
+Static Analysis of Lockless Microcontroller C Programs
+Design and Implementation of Multistage Interconnection Networks for SoC Networks
+Diametrical Mesh Of Tree (D2D-MoT) Architecture: A Novel Routing Solution For NoC
+A brief experience on journey through hardware developments for image processing and its applications on Cryptography
+Reconfiguration Strategies for Online Hardware Multitasking in Embedded Systems
+RISC and CISC
+Performance Evaluation of Sparse Matrix Multiplication Kernels on Intel Xeon Phi
+MGSim - Simulation tools for multi-core processor architectures
+Reduction in Packet Delay Through the use of Common Buffer over Distributed Buffer in the Routing Node of NOC Architecture
+A Low-Power Content-Addressable-Memory Based on Clustered-Sparse-Networks
+Dynamic Power Reduction in a Novel CMOS 5T-SRAM for Low-Power SoC
+Using Virtual Addresses with Communication Channels
+An efficient cntfet-based -input minority gate
+On whether and how D-RISC and Microgrids can be kept relevant (self-assessment report)
+FreeIMU: An Open Hardware Framework for Orientation and Motion Sensing
+Object-oriented approach to Rapid Custom Instruction design
+A Fast Improved Fat Tree Encoder for Wave Union TDC in an FPGA
+Hybrid Crossbar Architecture for a Memristor Based Memory
+Improved Analytical Delay Models for RC-Coupled Interconnects
+An Improved GEF Fast Addition Algorithm
+Open Tiled Manycore System-on-Chip
+Hardware Implementation of Algorithm for Cryptanalysis
+Abstract Stobjs and Their Application to ISA Modeling
+A formalisation of XMAS
+A 2.0 Gb s Throughput Decoder for QC-LDPC Convolutional Codes
+Phase-Priority based Directory Coherence for Multicore Processor
+A joint communication and application simulator for NoC-based SoCs
+EURETILE 2010-2012 summary: first three years of activity of the European Reference Tiled Experiment
+A Novel Reconfigurable Architecture of a DSP Processor for Efficient Mapping of DSP Functions using Field Programmable DSP Arrays
+An Improved Structure Of Reversible Adder And Subtractor
+Performance Evaluation of Low Power MIPS Crypto Processor based on Cryptography Algorithms
+The Effect of Communication and Synchronization on Amdahl Law in Multicore Systems
+A Wrapper of PCI Express with FIFO Interfaces based on FPGA
+Marrying Many-core Accelerators and InfiniBand for a New Commodity Processor
+Power efficient carry propagate adder
+Design of Parity Preserving Logic Based Fault Tolerant Reversible Arithmetic Logic Unit
+Thermal analysis of 3D associative processor
+Relative Performance of a Multi-level Cache with Last-Level Cache Replacement: An Analytic Review
+Allocating the chains of consecutive additions for optimal fixed-point data path synthesis
+FpSynt: a fixed-point datapath synthesis tool for embedded systems
+Resistive Threshold Logic
+Designing Parity Preserving Reversible Circuits
+First experiences with the Intel MIC architecture at LR
+Ultra-low Energy High Performance and Programmable Magnetic Threshold Logic
+Ultra-low Energy High-Performance Dynamic Resistive Threshold Logic
+Selective Decoding in Associative Memories Based on Sparse-Clustered Networks
+Low power-area designs of 1bit full adder in cadence virtuoso platform
+Evaluation of the Performance Energy Overhead in DSP Video Decoding and its Implications
+On the Performance Potential of Speculative Execution based on Branch and Value Prediction
+Energy Saving Techniques for Phase Change Memory (PCM)
+Advances in computer architecture
+Microgrid - The microthreaded many-core architecture
+Design space exploration in the microthreaded many-core architecture
+A Cache-Coloring Based Technique for Saving Leakage Energy In Multitasking Systems
+A Cache Reconfiguration Approach for Saving Leakage and Refresh Energy in Embedded DRAM Caches
+A Low-Voltage Low-Power 4-bit BCD Adder designed using the Clock Gated Power Gating and the DVT Scheme
+Recycled Error Bits: Energy-Efficient Architectural Support for Higher Precision Floating Point
+Technical report: Functional Constraint Extraction From Register Transfer Level for ATPG
+A Novel Reconfigurable Computing Architecture for Image Signal Processing Using Circuit-Switched NoC and Synchronous Dataflow Model
+Dynamic cache reconfiguration based techniques for improving cache energy efficiency
+An Improved Majority-Logic Decoder Offering Massively Parallel Decoding for Real-Time Control in Embedded Systems
+Evaluating Cache Coherent Shared Virtual Memory for Heterogeneous Multicore Chips
+Computer Architecture with Associative Processor Replacing Last Level Cache and SIMD Accelerator
+Using Cache-coloring to Mitigate Inter-set Write Variation in Non-volatile Caches
+A Technique for Efficiently Managing SRAM-NVM Hybrid Cache
+Input-Output Logic based Fault-Tolerant Design Technique for SRAM-based FPGAs
+3D Cache Hierarchy Optimization
+Architectural improvements and 28 nm FPGA implementation of the APEnet 3D Torus network for hybrid HPC systems
+A Hardware Time Manager Implementation for the Xenomai Real-Time Kernel of Embedded Linux
+Fast Polar Decoders: Algorithm and Implementation
+anus II: a new generation application-driven computer for spin-system simulations
+Dominant block guided optimal cache size estimation to maximize IPC of embedded software
+A Survey of Network-On-Chip Tools
+FFTPL: An Analytic Placement Algorithm Using Fast Fourier Transform for Density Equalization
+Design of Reversible Random Access Memory
+A Novel Approach for Designing Online Testable Reversible Circuits
+A Survey of Techniques For Improving Energy Efficiency in Embedded Computing Systems
+On the likelihood of multiple bit upsets in logic circuits
+Hardware Implementation of four byte per clock RC4 algorithm
+Fault Detection for RC4 Algorithm and its Implementation on FPGA Platform
+Design of novel architectures and field programmable gate arrays implementation of two dimensional gaussian surround function
+HERMES: A Hierarchical Broadcast-Based Silicon Photonic Interconnect for Scalable Many-Core Systems
+The Design of a Network-On-Chip Architecture Based On An Avionic Protocol
+Design of a High Speed XAUI Based on Dynamic Reconfigurable Transceiver IP Core
+Design of an Encryption-Decryption Module Oriented for Internet Information Security SOC Design
+Hardware Architecture for List SC Decoding of Polar Codes
+Performance Evaluation of ECC in Single and Multi Processor Architectures on FPGA Based Embedded System
+L-Shape based Layout Fracturing for E-Beam Lithography
+Triple Patterning Lithography (TPL) Layout Decomposition using End-Cutting
+E-BLOW: E-Beam Lithography Overlapping aware Stencil Planning for MCC System
+Self-Aligned Double Patterning Friendly Configuration for Standard Cell Library Considering Placement
+Layout decomposition for triple patterning lithography
+Network flow-based simultaneous retiming and slack budgeting for low power design
+Floorplanning and Topology Generation for Application-Specific Network-on-Chip
+Design and Implementation of Bit Transition Counter
+Methodology for standard cell compliance and detailed placement for triple patterning lithography
+A High-Performance Triple Patterning Layout Decomposer with Balanced Density
+Multi-Voltage and Level-Shifter Assignment Driven Floorplanning
+GLOW: A global router for low-power thermal-reliable interconnect synthesis using photonic wavelength multiplexing
+EPIC: Efficient prediction of IC manufacturing hotspots with a unified meta-classification formulation
+TRIAD: a triple patterning lithography aware detailed router
+Voltage and Level-Shifter Assignment Driven Floorplanning
+Lithography Hotspot Detection and Mitigation in Nanometer VLSI
+The Short-term Memory (D.C. Response) of the Memristor Demonstrates the Causes of the Memristor Frequency Effect
+Is Spiking Logic the Route to Memristor-Based Computers
+Boolean Logic Gates From A Single Memristor Via Low-Level Sequential Logic
+Building fast Bayesian computing machines out of intentionally stochastic digital parts
+Open Cores for Digital Signal Processing
+Five Modular Redundancy with Mitigation Technique to Recover the Error Module
+Development of SyReC based expandable reversible logic circuits
+State Dependent Statistical Timing Model for Voltage Scaled Circuits
+Parallel Interleaver Design for a High Throughput HSPA LTE Multi-Standard Turbo Decoder
+A Flexible Design for Optimization of Hardware Architecture in Distributed Arithmetic based FIR Filters
+Design space exploration tools for the ByoRISC configurable processor family
+Instruction-set Selection for Multi-application based ASIP Design: An Instruction-level Study
+Heterogeneous processor pipeline for a product cipher application
+Generating and evaluating application-specific hardware extensions
+MIMS: Towards a Message Interface based Memory System
+Metal-Gated unctionless Nanowire Transistors
+Skybridge: 3-D Integrated Circuit Technology Alternative to CMOS
+Comments on IEEE 1588 Clock Synchronization using Dual Slave Clocks in a Slave
+A Signal Processor for Gaussian Message Passing
+Modeling the Temperature Bias of Power Consumption for Nanometer-Scale CPUs in Application Processors
+Design space exploration for image processing architectures on FPGA targets
+A Survey of Methods For Analyzing and Improving GPU Energy Efficiency
+Hardware Efficient WiMAX Deinterleaver Capable of Address Generation for Random Interleaving Depths
+FPGA design of a cdma2000 turbo decoder
+A Technique for Write-endurance aware Management of Resistive RAM Last Level Caches
+Multiplierless Approximate 4-point DCT VLSI Architectures for Transform Block Coding
+Massively Parallel Processor Architectures for Resource-aware Computing
+Emulated ASIC Power and Temperature Monitor System for FPGA Prototyping of an Invasive MPSoC Computing Architecture
+Architectural Design of a RAM Arbiter
+Network Function Virtualization based on FPGAs:A Framework for all-Programmable network devices
+Modeling Algorithms in SystemC and ACL2
+The 1: Architecture and Algorithms of Konrad use's First Computer
+NaNet: a Low-Latency Real-Time Multi-Standard Network Interface Card with GPUDirect Features
+An Efficient Synchronous Static Memory design for Embedded System
+Application Specific Cache Simulation Analysis for Application Specific Instruction set Processor
+Preemptive Thread Block Scheduling with Online Structural Runtime Prediction for Concurrent GPGPU Kernels
+Dynamic Computing Random Access Memory
+Selective Match-Line Energizer Content Addressable Memory(SMLE -CAM)
+Application Specific Hardware Design Simulation for High Performance Embedded System
+FPGA Based Efficient Multiplier for Image Processing Applications Using Recursive Error Free Mitchell Log Multiplier and KOM Architecture
+An ECG-SoC with 535nW channel lossless data compression for wearable sensors
+RTL2RTL Formal Equivalence: Boosting the Design Confidence
+New Trends in Parallel and Distributed Simulation: from Many-Cores to Cloud Computing
+A Cache Energy Optimization Technique for STT-RAM Last Level Cache
+Modeling and simulation of multiprocessor systems MPSoC by SystemC TLM2
+Proceedings of the First International Workshop on FPGAs for Software Programmers (FSP 2014)
+A Many-Core Overlay for High-Performance Embedded Computing on FPGAs
+On Delay Faults Affecting I O Blocks of an SRAM-Based FPGA Due to Ionizing Radiations
+Design of Novel Algorithm and Architecture for Gaussian Based Color Image Enhancement System for Real Time Applications
+Rank-Aware Dynamic Migrations and Adaptive Demotions for DRAM Power Management
+An ECG-on-Chip with 535-nW Channel Integrated Lossless Data Compressor for Wireless Sensors
+An ECG-on-Chip for Wearable Cardiac Monitoring Devices
+Row-Based Dual Vdd Assignment for a Level Converter Free CSA Design and Its Near-Threshold Operation
+Memristive Threshold Logic Circuit Design of Fast Moving Object Detection
+Multi Core SSL TLS Security Processor Architecture Prototype Design with automated Preferential Algorithm in FPGA
+An Efficient List Decoder Architecture for Polar Codes
+Programming the Adapteva Epiphany 4-core Network-on-chip Coprocessor
+Inner Loop Optimizations in Mapping Single Threaded Programs to Hardware
+Energy Efficient Full Adder Cell Design With Using Carbon Nanotube Field Effect Transistors In 32 Nanometer Technology
+Designing high-speed low-power full adder cells based on carbon nanotube technology
+Fast Prefix Adders for Non-Uniform Input Arrival Times
+Evaluation of silicon consumption for a connectionless Network-on-Chip
+Analog Signal Processing Solution for Image Alignment
+Threshold Logic Computing: Memristive-CMOS Circuits for Fast Fourier Transform and Vedic Multiplication
+Correction to the 2005 paper: Digit Selection for SRT Division and Square Root
+Versatile Data Acquisition and Controls for Epics Using Vme-Based Fpgas
+A Dual Digital Signal Processor VME Board For Instrumentation And Control Applications
+Topics in asynchronous systems
+High-Precision Tuning of State for Memristive Devices by Adaptable Variation-Tolerant Algorithm
+Reversible Squaring Circuit For Low Power Digital Signal Processing
+A high-level model of embedded flash energy consumption
+Sphynx: A Shared Instruction Cache Exporatory Study
+Performance Enhancement of Routers in Networks-on-Chip Using Dynamic Virtual Channels Allocation
+Prophet: A Speculative Multi-threading Execution Model with Architectural Support Based on CMP
+A High-Throughput Energy-Efficient Implementation of Successive-Cancellation Decoder for Polar Codes Using Combinational Logic
+Kickstarting High-performance Energy-efficient Manycore Architectures with Epiphany
+A 23 Gbps Unrolled Hardware Polar Decoder
+Very Low Cost Entropy Source Based on Chaotic Dynamics Retrofittable on Networked Devices to Prevent RNG Attacks
+A Feasibility Study on Programmer Specific Instruction Set Processors (PSISPs)
+Partial Sums Generation Architecture for Successive Cancellation Decoding of Polar Codes
+Partial Sums Computation In Polar Codes Decoding
+On Metric Sorting for Successive Cancellation List Decoding of Polar Codes
+A Model Study of an All-Digital Discrete-Time and Embedded Linear Regulator
+Design of a Transport Triggered Architecture Processor for Flexible Iterative Turbo Decoder
+Tejas Simulator : Validation against Hardware
+Recursive Descriptions of Decoding Algorithms and Hardware Architectures for Polar Codes
+Running Identical Threads in C-Slow Retiming based Designs for Functional Failure Detection
+A High-Performance Solid-State Disk with Double-Data-Rate NAND Flash Memory
+Circuit Level Modeling of Extra Combinational Delays in SRAM FPGAs Due to Transient Ionizing Radiation
+A Row-parallel 8 times 8 2-D DCT Architecture Using Algebraic Integer Based Exact Computation

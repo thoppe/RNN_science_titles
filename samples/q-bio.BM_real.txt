@@ -1,0 +1,2525 @@
+Intricate Knots in Proteins: Function and Evolution
+A Finite Element framework for computation of protein normal modes and mechanical response
+Multilevel Deconstruction of the In Vivo Behavior of Looped DNA-Protein Complexes
+Observation of Multiple folding Pathways of beta-hairpin Trpzip2 from Independent Continuous Folding Trajectories
+Inferring DNA sequences from mechanical unzipping data: the large-bandwidth case
+Fourier Analysis of Biological Evolution: Concept of Selection Moment
+Network Structure of Protein Folding Pathways
+In silico evidence of the relationship between miRNAs and siRNAs
+A first-principles model of early evolution: Emergence of gene families species and preferred protein folds
+The Hypercube of Life: How Protein Stability Imposes Limits on Organism Complexity and Speed of Molecular Evolution
+Statistical thermodynamics of membrane bending mediated protein-protein attraction
+Optimal shapes of compact strings
+Recurrent oligomers in proteins - an optimal scheme reconciling accurate and concise backbone representations in automated folding and design studies
+Learning effective amino acid interactions through iterative stochastic techniques
+Molecular Dynamics Studies on HIV-1 Protease: Drug Resistance and Folding Pathways
+Chromatin: a tunable spring at work inside chromosomes
+Low temperature physics at room temperature in water: Charge inversion in chemical and biological systems
+Diffusion Dynamics Moments and Distribution of First Passage Time on the Protein-Folding Energy Landscape with Applications to Single Molecules
+Glass transition in secondary structures formed by random RNA sequences
+Hydrogen Bonds Hydrophobicity Forces and the Character of the Collapse Transition
+General criterion for controllable conformational transitions of single and double stranded DNA
+Folding of a Small Helical Protein Using Hydrogen Bonds and Hydrophobicity Forces
+Thermal Folding and Mechanical Unfolding Pathways of Protein Secondary Structures
+Folding and Stretching in a Go-like Model of Titin
+Enumerating Designing Sequences in the HP Model
+Prediction of Protein Secondary Structures From Conformational Biases
+Simple models for charge and salt effects in protein crystallisation
+Optimal prediction of folding rates and transition state placement from native state geometry
+The Designability of Protein Structures: A Lattice-Model Study using the Miyazawa-Jernigan Matrix
+Elastic properties of proteins: insight on the folding process and evolutionary selection of native structures
+Nonlinear Mechanical Response of DNA due to Anisotropic Bending Elasticity
+Crucial stages of protein folding through a solvable model: predicting target sites for enzyme-inhibiting drugs
+Flexibility of alpha -helices: Results of a statistical analysis of database protein structures
+Membrane bound protein diffusion viewed by fluorescence recovery after bleaching experiments : models analysis
+Adaptive elastic properties of chromatin fiber
+Elucidation of the disulfide folding pathway of hirudin by a topology-based approach
+Electrostatic effects in DNA stretching
+The physics of chromatin
+Designability and Thermal Stability of Protein Structures
+A new perspective on the analysis of helix-helix packing preferences in globular proteins
+Duplex-single strand denaturing transition in DNA oligomers
+Remarks on homo- and hetero-polymeric aspects of protein folding
+Thermodynamics of DNA packaging inside a viral capsid: the role of DNA intrinsic thickness
+Virus shapes and buckling transitions in spherical shells
+Thermally activated processes in polymer dynamics
+Small-world communication of residues and significance for protein dynamics
+Statistical linguistic study of DNA sequences
+Flexibility of beta-sheets: Principal-component analysis of database protein structures
+Protein crystallization in confined geometries
+Machinery of Functional Dynamics in Native Proteins
+Full Optimization of Linear Parameters of a United Residue Protein Potential
+Statistical Physics of Unzipping DNA
+Uniqueness of thermodynamic projector and kinetic basis of molecular individualism
+Design of a Protein Potential Energy Landscape by Parameter Optimization
+Functionals linear in curvature and statistics of helical proteins
+Charge transport in l-DNA probed by conducting-AFM and relationship with its structure
+Shape Selection in Chiral Self-Assembly
+Correlated and Decorrelated Positional and Orientational Order in the Nucleosomal Core Particle Mesophases
+Collective Dynamics of Lipid Membranes studied by Inelastic Neutron Scattering
+Collective dynamics in phospholipid bilayers investigated by inelastic neutron scattering: Exploring the dynamics of biological membranes with neutrons
+Feedback control in a collective flashing ratchet
+Adhesion clusters under shared linear loading: a stochastic analysis
+Accurate and efficient description of protein vibrational dynamics: comparing molecular dynamics and Gaussian models
+Inter-filament Attractions Narrow the Length Distribution of Actin Filaments
+Encapsulation of DNA by cationic diblock copolymer vesicles
+Quantum transport through a DNA wire in a dissipative environment
+Statistical mechanics of base stacking and pairing in DNA melting
+Nonlinear waves in double-stranded DNA
+Study of the Villin Headpiece folding dynamics by combining coarse-grained Monte Carlo evolution and all-atom Molecular Dynamics
+Modeling truncated hemoglobin vibrational dynamics
+Slow energy relaxation of macromolecules and nano-clusters in solution
+A Burnt Bridge'' Brownian Ratchet
+Structural Polymorphism of the Cytoskeleton: A Model of Linker-Assisted Filament Aggregation
+Local Cooperativity Mechanism in the DNA Melting Transition
+Sequence heterogeneity and the dynamics of molecular motors
+Analytic theory of DNA condensation
+TransPath: A Computational Method to Study the Ion Transit Pathways in Membrane Channels
+Generalized Haldane Equation and Fluctuation Theorem in the Steady State Cycle Kinetics of Single Enzymes
+Physics of thick polymers
+Exploring the energy landscape of model proteins: a metric criterion for the determination of dynamical connectivity
+Passage Times for Unbiased Polymer Translocation through a Narrow Pore
+Dielectrophoresis of nanoscale dsDNA and humidity effects on its electrical conductivity
+Lengthscales and Cooperativity in DNA Bubble Formation
+Reversible mesoscopic model of protein adsorption: From equilibrium to dynamics
+Modelling Disorder: the Cases of Wetting and DNA Denaturation
+Low energy states of a semiflexible polymer chain with attraction and the whip-toroid transitions
+Long-Range Order and Interactions of Macroscopic Objects in Polar Liquids
+Gel-state nucleation in multilamellar vesicles of dimyristoylphosphatidylcholine and its relation to the critical temperature: A lattice model and microcalorimetry
+Coarse-grained Interaction Potentials for Anisotropic Molecules
+How does a protein search for the specific site on DNA: the role of disorder
+Curvature of the energy landscape and folding of model proteins
+Floppy modes and non-affine deformations in random fiber networks
+Threshold feedback control for a collective flashing ratchet: threshold dependence
+Kinetics of the Wako-Saito-Munoz-Eaton Model of Protein Folding
+Carbon Nanotubes as Electrodes for Dielectrophoresis of DNA
+Randomly forced DNA
+An Ising-Like model for protein mechanical unfolding
+DNA toroid condensation as analytic solutions
+Structure and Aggregation of a Helix-Forming Polymer
+Inverse design of proteins with hydrophobic and polar amino acids
+Dissipative Dynamics and the Statistics of Energy States of a Hookean Model for Protein Folding
+Combinatorial Toolbox for Protein Sequence Design and Landscape Analysis in the Grand Canonical Model
+Long Proteins with Unique Optimal Foldings in the H-P Model
+Simulations of Protein Folding
+From quantum groups to genetic mutations
+Intramolecular Structure of Proteins as driven by Steiner Optimization Problems
+Bounds for DNA codes with constant GC-content
+Classification of Tangle Solutions for Integrases A Protein Family that Changes DNA Topology
+Stretching and relaxation dynamics in double stranded DNA
+Effect of base-pair inhomogeneities on charge transport along DNA mediated by twist and radial polarons
+Charge transport in poly(dG)-poly(dC) and poly(dA)-poly(dT) DNA polymers
+Moving breathers in bent DNA with realistic parameters
+A-Tract Induced DNA Bending is A Local Non-Electrostatic Effect
+The Physical Origin of Intrinsic Bends in Double Helical DNA
+Molecular Dynamics Studies of Sequence-directed Curvature in Bending Locus of Trypanosome Kinetoplast DNA
+A Unifying Hypothesis for the Conformational Change of Tubulin
+An Analysis of the Thermodynamics of Hydrophobic Solvation Based on Scaled Particle Theory
+Simulated and Experimental Bending Dynamics in DNA with and without A-Tracts
+A Model of Sequence Dependent Protein Diffusion Along Dna
+DNA Dynamics in A Water Drop
+Numerical estimation of entropy loss on dimerization: improved prediction of the quaternary structure of the GCN4 leucine zipper
+On the Kinematics of Protein Folding
+Effective spring constants for the elastically coupled insertions in membranes
+Reversible B A Transitions in Single DNA Molecule Immersed in A Water Drop
+Role of Polymer Loops in DNA Replication
+Protein secondary structure prediction based on quintuplets
+Probing complex RNA structures by mechanical force
+In-silico folding of a three helix protein and characterization of its free-energy landscape in an all-atom forcefield
+Protein folding in high-dimensional spaces:hypergutters and the role of non-native interactions
+A general expression for bimolecular association rates with orientational constraints
+Fractional diffusion modeling of ion channel gating
+Fluctuation-Driven Molecular Transport in an Asymmetric Membrane Channel
+Directed Ligand Passage Over the Surface of Diffusion-Controlled Enzymes: A Cellular Automata Model
+Elastic lever arm model for myosin V
+Influence of subunit structure on the oligomerization state of light harvesting complexes: a free energy calculation study
+Velocity and processivity of helicase unwinding of double-stranded nucleic acids
+Influence of fluctuations in actin structure on myosin V step size
+Topological features of proteins from amino acid residue networks
+Stepwise bending of DNA by a single TATA-box Binding Protein
+RNA secondary structure design
+Single DNA conformations and biological function
+Dynamics of allosteric action in multisite protein modification
+Demonstrated convergence of the equilibrium ensemble for a fast united-residue protein model
+A Rational Approach to Ring Flexibility in Internal Coordinate Dynamics
+A Minimal Model of B-DNA
+Visualizing Conformations in Molecular Dynamics
+On the 20 canonical amino acids by a cooperative vector-addition principle based on the quasi-2-gon symmetry of the genetic code
+The Inter-Strand Modes of the DNA as a Probe into MW-Radiation
+The bi-pyramidal nature the Lucas series in the genetic code and their relation to aminoacyl-tRNA synthetases
+The naturally designed spherical symmetry in the genetic code
+The long reach of DNA sequence heterogeneity in diffusive processes
+Hydration Water Dynamics and Instigation of Protein Structural Relaxation
+Thermal denaturation and folding rates of single domain proteins: size matters
+Asymmetry in the shapes of folded and denatured states of proteins
+Protein secondary structure prediction by combining hidden Markov models and sliding window scores
+Pattern overlapping decomposition by Cumulative Local Cross-Correlation
+Protein secondary structure: Entropy correlations and prediction
+Relaxation of DNA curvature by single stranded breaks: Simulations and experiments
+Cooperativity in two-state protein folding kinetics
+Complex folding pathways in a simple beta-hairpin
+Are residues in a protein folding nucleus evolutionarily conserved?
+Persistence length of chromatin determines origin spacing in Xenopus early-embryo DNA replication: Quantitative comparisons between theory and experiment
+Localization of DNA damage by current exchanging repair enzymes: effects of cooperativity on detection time
+Peptide size dependent active transport in the proteasome
+Correlation between sequence hydrophobicity and surface-exposure pattern of database proteins
+Thermal effects in stretching of Go-like models of titin and secondary structures
+Specific protein-protein binding in many-component mixtures of proteins
+Brownian Dynamics Simulation of Nucleosome Formation and Disruption under Stretching
+Folding thermodynamics of three beta-sheet peptides: A model study
+Sequence-based study of two related proteins with different folding behaviors
+Speed-Up of DNA Melting Algorithm with Complete Nearest Neighbor Properties
+Complex cooperativity of ATP hydrolysis in the F1-ATPase molecular motor
+A First Principles Density-Functional Calculation of the Electronic and Vibrational Structure of the Key Melanin Monomers
+Realistic protein-protein association rates from a simple diffusional model neglecting long-range interactions free energy barriers and landscape ruggedness
+Homochiral growth through enantiomeric cross-inhibition
+Kinetics of protein-DNA interaction: facilitated target location in sequence-dependent potential
+Dynamics of heterodimeric kinesins and cooperation of kinesins
+Inhibition of protein crystallization by evolutionary negative design
+Generalized Poland-Scheraga model for DNA hybridization
+Can contact potentials reliably predict stability of proteins?
+Vibrational energy relaxation (VER) of a CD stretching mode in cytochrome c
+The protein folding network
+The Triplet Genetic Code had a Doublet Predecessor
+Searching low-energy conformations of two elastin sequences
+Lever-arm and Washboard-potential theories jointly account for Myosin II dynamics
+Partly melted DNA conformations obtained with a probability peak finding method
+Protein Structure and Evolutionary History Determine Sequence Space Topology
+Fast DNA translocation through a solid-state nanopore
+Information theory in molecular biology
+Proteins associated with diseases show enhanced sequence correlation between charged residues
+Topological thermal instability and length of proteins
+What one can learn from experiments about the elusive transition state?
+Prediction of RNA pseudoknots by Monte Carlo simulations
+The principal eigenvector of contact matrices and hydrophobicity profiles in proteins
+Imperfect DNA Repair and the Error Catastrophe
+A computational study of the statistical mechanics of antibody-antigen conformations
+Untangling influences of hydrophobicity on protein sequences and structures
+Unbound Protein-Protein Docking Selections by the DFIRE-based Statistical Pair Potential
+Amino acid substitution matrices for protein conformation identification
+Modeling the thermal evolution of enzyme-created bubbles in DNA
+Theory of Nucleosome Corkscrew Sliding in the Presence of Synthetic DNA Ligands
+Modeling of microarray data with zippering
+How Long can Left and Right Handed Life Forms Coexist?
+The effects of non-native interactions on protein folding rates: Theory and simulation
+Do theoretical physicists care about the protein-folding problem?
+Potential function of simplified protein models for discriminating native proteins from decoys: Combining contact interaction and local sequence-dependent geometry
+An Alternative Model of Amino Acid Replacement
+Generalized Poland-Scheraga model for supercoiled DNA
+Order independent structural alignment of circularly permuted proteins
+Developing optimal nonlinear scoring function for protein design
+The architecture of the protein domain universe
+Of sequence and structure: Strategies of protein thermostability in evolutionary perspective
+Design of a folding inhibitor of the HIV-1 Protease
+Epitope analysis for influenza vaccine design
+5 6-dihydroxyindole-2-carboxylic acid (DHICA): a First Principles Density-Functional Study
+Probing vibrational energy relaxation in proteins using normal modes
+Sequence-dependent B-A transitions in DNA in silico: Electrostatic condensation mechanism
+Latent periodicity of serine-threonine and tyrosine protein kinases and another protein families
+Enzyme as a thermal resonance pump
+Hidden symmetries in primary sequences of small alpha proteins
+FSSP to SCOP and CATH (F2CS) Prediction Server
+Representation of protein structure based on frequency distributions of oriented cycles in contact graphs
+Water and molecular chaperones act as weak links of protein folding networks: energy landscape and punctuated equilibrium changes point towards a game theory of proteins
+A modular Fibonacci sequence in proteins
+Molecular Dynamics Simulations of a Nucleosome and Free DNA
+Prediction of site-specific amino acid distributions and limits of divergent evolutionary changes in protein sequences
+Folding is Not Required for Bilayer Insertion: Replica Exchange Simulations of an a-Helical Peptide with an Explicit Lipid Bilayer
+Stretching single RNAs: exact numerical and stochastic simulation methods
+Thermodynamics of RNA DNA hybridization in high density oligonucleotide microarrays
+Hybridization Isotherms of DNA Microarrays and the Quantification of Mutation Studies
+Universal 1 f noise cross-overs of scaling exponents and chromosome specific patterns of GC content in DNA sequences of the human genome
+Model for processive movement of dynein
+A Phenomenological model of Myosin II dynamics in the presence of external loads
+Why high-error-rate random mutagenesis libraries are enriched in functional and improved proteins
+Native geometry and the dynamics of protein folding
+The Go model revisited: Native structure and the geometric coupling between local and long-range contacts
+A Statistical Analysis of RNA Folding Algorithms Through Thermodynamic Parameter Perturbation
+Coupled dynamics of DNA-breathing and single-stranded DNA binding proteins
+Looking at structure stability and evolution of proteins through the principal eigenvector of contact matrices and hydrophobicity profiles
+Mutation model for oligonucleotides fitting a Yule distribution
+Surfaces and orientations: much to fret about?
+A double-deletion method to quantifying incremental binding energies in proteins from experiment. Example of a destabilizing hydrogen bonding pair
+Ion-Phosphate Mode in the DNA Low-Frequency Spectra
+Conformational transformations of DNA macromolecule in heteronomous conformation
+Global optimization of proteins using a dynamical lattice model: Ground states and energy landscapes
+A protein structural alphabet and its substitution matrix CLESUM
+Vibrational energy relaxation in proteins
+Recoverable One-dimensional Encoding of Three-dimensional Protein Structures
+The posterior-Viterbi: a new decoding algorithm for hidden Markov models
+Base pair interactions and hybridization isotherms of matched and mismatched oligonucleotide probes on microarrays
+Information Capacity of Biological Macromoleculae Reloaded
+Predicting Residue-wise Contact Orders of Native Protein Structure from Amino Acid Sequence
+Heisenberg uncertainty principle for thermal response of the microtubules excited by ultra-short laser pulses
+Dissociation in a polymerization model of homochirality
+Loop-closure events during protein folding: Rationalizing the shape of Phi-value distributions
+Release of Brain Mitochondrial Hexokinase by Acidic Proteins and Macromolecular Polyanions
+DNA looping in gene regulation: from the assembly of macromolecular complexes to the control of transcriptional noise
+Complete structure of topographic maps in ephrin-A deficient mice
+Symmetry and Dynamics in living organisms: The self-similarity principle governs gene expression dynamics
+Universal collective fluctuations in gene expression dynamics from yeast to human
+New symmetry in nucleotide sequences
+Study the effects of metallic ions on the combination of DNA and histones with molecular combing technique
+Functional Dynamics of PDZ Binding Domains: A Normal Mode Analysis
+Nucleation and the transition state of the SH3 domain
+Quantifying Influenza Vaccine Efficacy and Antigenic Distance
+Predicting Secondary Structures Contact Numbers and Residue-wise Contact Orders of Native Protein Structure from Amino Acid Sequence by Critical Random Networks
+Elastic properties of grafted microtubules
+Free energy adopted stochastic optimization protein folding
+Electronic Transport in DNA
+Design of HIV-1-PR inhibitors which do not create resistance: blocking the folding of single monomers
+Structure calculation strategies for helical membrane proteins a comparison study
+Nonlinear Modeling Approach to Human Promoter Sequences
+Inferring interactions from combinatorial protein libraries
+Prediction of transcription factor binding to DNA using rule induction methods
+Geometrical model for the native-state folds of proteins
+The histone octamer influences the wrapping direction of DNA on it: Brownian dynamics simulation of the nucleosome chirality
+Spatial dynamics of homochiralization
+Uni-directional polymerization leading to homochirality in the RNA world
+The effect of genome length on ejection forces in bacteriophage lambda
+Correlations of Amino Acids with Secondary Structure Types: Connection with Amino Acid Structure
+Mutation model for nucleotide sequences based on crystal basis
+Folding of small proteins: A matter of geometry?
+DNA as a programmable viscoelastic nanoelement
+Chemical and Structural Disorder in Eumelanins - A Possible Explanation for Broad Band Absorbance
+Entropic stabilization of proteins and its proteomic consequences
+Activation and Protonation of Dinitrogen at the FeMo-Cofactor of Nitrogenase
+Phi-values in protein folding kinetics have energetic and structural components
+A helicoidal transfer matrix model for inhomogeneous DNA melting
+A complex adaptive systems approach to the kinetic folding of RNA
+A base pairing model of duplex formation I: Watson-Crick pairing geometries
+A toolkit for the construction of icosahedral particles with local symmetry axes
+Directed motion emerging from two coupled random processes: Translocation of a chain through a membrane nanopore driven by binding proteins
+Master equation approach to the assembly of viral capsids
+Towards Structure-Property-Function Relationships for Eumelanin
+Physical origins of protein superfamilies
+Equation of state of looped DNA
+An intermediate phase in DNA melting
+A folding inhibitor of the HIV-1 Protease
+Functional modes of proteins are among the most robust ones
+In silicio stretching of chromatin
+Weighted and unweighted network of amino acids within protein
+Embedded transfer RNA Genes
+Population genetics of translational robustness
+Protein crystallization in vivo
+A new formalism for calculation of the partition function of single stranded nucleic acids
+Are structural biases at protein termini a signature of vectorial folding?
+A New Form-Factor Method for the Analysis of Tissue Fluorescence
+How do proteins search for their specific sites on coiled or globular DNA
+Novel gene cluster analysis method identifies horizontally transferred genes with high reliability and reveals their involvement in operon formation
+Conservation of statistical results under the reduction of pair-contact interactions to solvation interactions
+Wave-Diffusion Transition in Microtubules
+On the Fibril Elongation Mechanism of the Prion Protein Fragment PrP106-126
+Stretching of proteins in a force-clamp
+An RNA foldability metric implications for the design of rapidly foldable RNA sequences
+Cooperative Cargo Transport by Several Molecular Motors
+Diversity in Free Energy Landscape of Proteins with the Same Native Topology
+The energy cost of protein messages lead to a new protein information law
+Inferring the in vivo looping properties of DNA
+A new series of polyhedra as blueprints for viral capsids in the family of Papovaviridae
+Biophysical analysis of electric current mediated nucleoprotein inactivation process
+Estimation of Amino Acid Residue Substitution Rates at Local Spatial Regions and Application in Protein Function Inference: A Bayesian Monte Carlo Approach
+Computation of protein geometry and its applications: Packing and function prediction
+Knowledge-based energy functions for computational studies of proteins
+Empirical Potential Function for Simplified Protein Models: Combining Contact and Local Sequence-Structure Descriptors
+Hierarchy of events in protein folding: beyond the Go model
+Substructural cooperativity and parallel versus sequential events during protein unfolding
+A simple measure of native-state topology and chain connectivity predicts the folding rates of two-state proteins with and without crosslinks
+In vivo evidence of alternative loop geometries in DNA-protein complexes
+The evaluation of protein folding rate constant is improved by predicting the folding kinetic order with a SVM-based method
+A two stage model for quantitative PCR
+The Modern Theory of Evolution from the Viewpoint of Statistical Physics
+A Chemical Kinetic Model of Transcriptional Elongation
+Enhanced self-attraction of proteins and its evolutionary implications
+Multiprotein DNA looping
+A Structure-Centric View of Protein Evolution Design and Adaptation
+Information and Protein Interfaces
+Effective affinities in microarray data
+PIPER: An FFT-based Protein Docking Program with Pairwise Potentials
+Structural Change of Myosin Motor Domain and Nucleotide Dissociation
+Thermodynamics of Neutral Protein Evolution
+Emergence of the protein universe in organismal evolution
+Transition States in Protein Folding Kinetics: The Structural Interpretation of Phi-values
+A Bio-Polymer Transistor: Electrical Amplification by Microtubules
+Protein Structure Prediction: The Next Generation
+Ab initio simulations of Cu binding sites in the N-terminal region of PrP
+Diagnosis of rotator cuff lesions by FT-Raman spectroscopy: a biochemical study
+Simple solvation potential for coarse-grained models of proteins
+Study of Non-Altered Colorectal Tissue by FT-Raman Spectroscopy
+Positive and negative design in stability and thermal adaptation of natural proteins
+Protein and DNA sequence determinants of thermophilic adaptation
+Probability distribution of bubble lengths in DNA
+Relationship between Thermodynamic Driving Force and One-Way Fluxes in Reversible Chemical Reactions
+Comment on: Solving the riddle of the bright mismatches: Labeling and effective binding in oligonucleotide arrays
+Topological classification of RNA structures
+The structural de-correlation time: A robust statistical measure of convergence of biomolecular simulations
+Cytoskeletal bundle bending buckling and stretching behavior
+Focal adhesions as mechanosensors: the two-spring model
+The Discretizable Molecular Distance Geometry Problem
+A Petri Net approach to the study of persistence in chemical reaction networks
+Simulation Studies of A Phenomenological Model for the Assembly of Elongated Virus Capsids
+Scenarios for protein aggregation: Molecular Dynamics simulations and Bioinformatic Analysis
+Gene cluster analysis method reliably identifies horizontally transferred genes and reveals their involvement in operon formation
+Comparison of amino acid occurrence and composition for predicting protein folds
+DNA looping: the consequences and its control
+Structural similarity enhances interaction propensity of proteins
+Number sequence representation of protein structures based on the second derivative of a folded tetrahedron sequence
+A domain wall model for spectral reflectance of plant leaves
+The di-flavoenzyme reductase directly activates oxygen for the metabolism of diverse drug molecules by liver microsomal Cytochrome P450s
+The minimal molecular surface
+Kinesin as an electrostatic machine
+Contr o le paracrine du d ' e veloppement du tissu adipeux par l'autotaxine et l'acide lysophosphatidique
+The Factors of the Classification of Protein Amino Acids
+Biological Consequences of Tightly Bent DNA: The Other Life of a Macromolecular Celebrity
+Effect of supercoiling on formation of protein mediated DNA loops
+Manipulating single enzymes by an external harmonic force
+A Note on Genome Organisation in RNA Viruses with Icosahedral Symmetry
+Genetic Code: A New Understanding of Codon - Amino Acid Assignment
+Protein structural variation in computational models and crystallographic data
+Pathways and kinetic barriers in mechanical unfolding and refolding of RNA and proteins
+Cooperativity and the origins of rapid single-exponential kinetics in protein folding
+Encoding folding paths of RNA switches
+The folding mechanics of a knotted protein
+Thermodynamics of the Hairpin Ribozyme from All-Atom Simulations
+All-atom ab initio folding of a diverse set of proteins
+Energetics of Protein-DNA Interactions
+Cooperative transport by small teams of molecular motors
+Utilizing of protein splicing phenomenon for optimization of obtaining and purification of the recombinant human growth hormone
+Folding of the Protein Domain hbSBD
+Effect of finite size on cooperativity and rates of protein folding
+Survey of the didemnins: A class of depsipeptide natural products with promising biomedical applications
+A robust methodology for inferring physiology of a protein family: application to K -ion channel family
+Hybridization to surface-bound oligonucleotide probes: Influence of point defects
+The cosmological model of eternal inflation and the transition from chance to biological evolution in the history of life: The possibility of chance emergence of the replication and translation systems and the protein superfolds
+Correctly validating results from single molecule data: the case of stretched exponential decay in the catalytic activity of single lipase B molecules
+Continuum model of actin-mediated bacterial propulsion
+How to design multi-target drugs: Target search options in cellular networks
+A New Genetic Code Table
+Coulomb Interaction as the Source of Muscle Force
+Role of boundary constraints in DNA cyclization
+Dynamics of RNA Translocation through a Nanopore
+From a quantum mechanical description of the assembly processes in microtubules to their semiclassical nonlinear dynamics
+Carbon--The First Frontier of Information Processing
+Genetic information and quantum gas
+Mathematical Physics and Life
+Quantum spin model fitting the Yule distribution of oligonucleotides in DNA
+Criteria for quantum coherent transfer of excitons between chromophores in a polar solvent
+A three-state prediction of single point mutations on protein stability changes
+Nonlinear Relaxation Dynamics in Elastic Networks and Design Principles of Molecular Machines
+Free-Energy Landscape of Kinesin by a Realistic Lattice Model
+Influence of Hydrodynamic Interactions on Mechanical Unfolding of Proteins
+How do trehalose maltose and sucrose influence some structural and dynamical properties of lysozyme ? An insight from Molecular Dynamics simulations
+Free Energy of Activation for the Comorosan Effect
+Crystal Irradiation Stimulation of Enzyme Reactivity: An Explanation
+Protein structure prediction by an iterative search method
+Antiproliferative MCR peptides block physical interaction of insulin with retinoblastoma protein (RB) in human lung cancer cells
+Planet RB: a personal contribution to a proteomic map of human retinoblastoma protein
+Genetic Transferability of Anomalous Irradiation Alterations of Antibiotic Activity
+Discrete breathers in protein secondary structure
+Thermal denaturation of an helicoidal DNA model
+Trapping of 27 bp -  kbp DNA and immobilization of thiol-modified DNA using dielectrophoresis
+Random RNA under tension
+Network analysis of protein dynamics
+Neutral genetic drift can aid functional protein evolution
+Exploring the Protein G Helix Free Energy Surface by Solute Tempering Metadynamics
+Vibrational energy relaxation (VER) of isotopically labeled amide I modes in cytochrome c: Theoretical investigation of VER rates and pathways
+Control of poultry chicken malaria by surface functionalized amorphous nanosilica
+Nanosilica mops up host lipids and fights baculovirus: a B. mori model
+Nanosilica mop up host lipids and fights baculovirus
+Control of rodent sleeping sickness disease by surface functionalized amorphous nanosilica
+Post-transcriptional Regulation Drives Temporal Compartmentalization of the Yeast Metabolic Cycle
+Retinoblastoma protein is the likely common effector for distinct anti-aging pathways
+The insulin superfamily of growth-promoting proteins
+Effect of Anomalous Dynamics on Unbiased Polymer Translocation
+Computational Consequences of Neglected First-Order van der Waals Forces
+CRNPRED: Highly Accurate Prediction of One-dimensional Protein Structures by Large-scale Critical Random Networks
+Nucleation phenomena in protein folding: The modulating role of protein sequence
+Fluctuation-dissipation ratios in the dynamics of self-assembly
+Structural plasticity of single chromatin fibers revealed by torsional manipulation
+Predicting Knot or Catenane Type of Site-Specific Recombination Products
+Allosteric communication in Dihydrofolate Reductase: Signaling network and pathways for closed to occluded transition and back
+Detection of an ancient principle and an elegant solution to the protein classification problem
+A probabilistic regulatory network for the human immune system
+Propagation of large concentration changes in reversible protein binding networks
+Model for processive nucleotide and repeat additions by the telomerase
+Pseudoknot RNA Structures with Arc-Length ge 3
+Towards a model for protein production rates
+Model for unidirectional movement of axonemal and cytoplasmic dynein molecules
+Coupling of transverse and longitudinal response in stiff polymers
+Structure-Activity Relationship Investigation of Some New Tetracyclines by Electronic Index Methodology
+Rate Determining Factors in Protein Model Structures
+Downhill versus two-state protein folding in a statistical mechanical model
+Loop-closure principles in protein folding
+Compound-specific isotope analysis
+Stretching dynamics of semiflexible polymers
+Reversible self-assembly of patchy particles into monodisperse icosahedral clusters
+Indexing Schemes for Similarity Search In Datasets of Short Protein Fragments
+Reconstructing the free energy landscape of a mechanically unfolded model protein
+Protein mechanical unfolding: a model with binary variables
+Evolution of the genetic code from the GC- to the AGUC-alphabet
+Metadynamic sampling of the free energy landscapes of proteins coupled with a Monte Carlo algorithm
+Bayesian analysis of time series of single RNA under fluctuating force
+Colloidal particle motion as a diagnostic of DNA conformational transitions
+Traffic of molecular motors: from theory to experiments
+Crystallography without crystals I: the common-line method for assembling a 3D intensity volume from single-particle scattering
+Crystallographic modelling of protein loops and their heterogeneity with Rappertk
+RNA sampling and crystallographic refinement using Rappertk
+Thermodynamic and structural consensus principle predicts mature miRNA location and structure categorizes conserved interspecies miRNA subgroups and hints new possible mechanisms of miRNA maturization
+Discrete differential geometry of tetrahedrons and encoding of local protein structure
+Anomalous Dynamics of Unbiased Polymer Translocation through a Narrow Pore
+Evolution of the genetic code. Emergence of stop codons
+The insulin-RB synapse in health and disease: cellular rocket science
+Across and beyond the cell are peptide strings
+A Unified Model of alpha -Helix beta -Sheet Random-Coil Transition in Proteins
+Numerical analysis of solitons profiles in a composite model for DNA to rsion dynamics
+A global view of drug-therapy interactions
+Cyclooxygenase Inhibition Limits Blood-Brain Barrier Disruption following Intracerebral Injection of Tumor Necrosis Factor-alpha in the Rat
+Modeling Protein Contact Networks
+Assortative mixing in Protein Contact Networks and protein folding kinetics
+Emergence of clonal selection and affinity maturation in an ab initio microscopic model of immunity
+Icosadeltahedral geometry of fullerenes viruses and geodesic domes
+Anomalous fluctuations in sliding motion of cytoskeletal filament driven by molecular motors: Model simulations
+Cell-permeable tumor suppressor peptides for cancer therapy: back to the future
+Network properties of protein structures
+The Mystery of Two Straight Lines in Bacterial Genome Statistics. Release 2007
+Informational Way to Protein Alphabet: Entropic Classification of Amino Acids
+Homochirality in an early peptide world
+Similarity search for local protein structures at atomic resolution by exploiting a database management system
+RNA-LEGO: Combinatorial Design of Pseudoknot RNA
+k -noncrossing RNA structures with arc-length ge 3
+Thermodynamic behavior of short oligonucleotides in microarray hybridizations can be described using Gibbs free energy in a nearest-neighbor model
+Computational analysis of folding and mutation properties of C5 domain from Myosin binding protein C
+Conformational equilibria in monomeric alpha-synuclein at the single molecule level
+Capillarity-like growth of protein folding nuclei
+Identification of DNA-binding protein target sequences by physical effective energy functions. Free energy analysis of lambda repressor-DNA complexes
+Oncoprotein metastasis disjoined
+Operating Regimes of Signaling Cycles: Statics Dynamics and Noise Filtering
+The search kinetics of a target inside the cell nucleus
+Relevant distance between two different instances of the same potential energy in protein folding
+A physically meaningful method for the comparison of potential energy functions
+Definition of Systematic Approximately Separable and Modular Internal Coordinates (SASMIC) for macromolecular simulation
+Quantum mechanical calculation of the effects of stiff and rigid constraints in the conformational equilibrium of the Alanine dipeptide
+Physical approaches to DNA sequencing and detection
+Exact Statistical Mechanical Investigation of a Finite Model Protein in its environment: A Small System Paradigm
+On the optimal contact potential of proteins
+A toy model of polymer stretching
+Passage Times for Polymer Translocation Pulled through a Narrow Pore
+Fluctuating semiflexible polymer ribbon constrained to a ring
+Interacting RNA polymerase motors on DNA track: effects of traffic congestion and intrinsic noise on RNA synthesis
+Pore-blockade Times for Field-Driven Polymer Translocation
+RNA Secondary Structures: Complex Statics and Glassy Dynamics
+Structural Fluctuations of Microtubule Binding Site of KIF1A in Different Nucleotide States
+Bubble Gating Currents in Ionic Channels
+Genetic Code: Four-Codon and Non-Four-Codon Degeneracy
+Understanding Life with Molecular Dynamics and Thermodynamics: Comment on Nature 451 240-243 (200)
+A coarse-grained Langevin molecular dynamics approach to de novo protein structure prediction
+Phenomenological modeling of DNA overstretching
+Shapes of Semiflexible Polymer Rings
+Functionalized nanopore-embedded electrodes for rapid DNA sequencing
+A mean-field version of the Nicodemi-Prisco SSB model for X-chromosome inactivation
+DNA denaturation bubbles at criticality
+Evolution of the genetic code. Emergence of DNA
+Large Deviations for Random Trees and the Branching of RNA Secondary Structures
+Solitons in Yakushevich-like models of DNA dynamics with improved intrapair potential
+Solitons in a double pendulums chain model and DNA roto-torsional dynamics
+Electrostatic theory of viral self-assembly: a toy model
+Tightening of knots in proteins
+Nature of protein family signatures: Insights from singular value analysis of position-specific scoring matrices
+A growth model for RNA secondary structures
+Myosin V passing over Arp2 3 junctions: branching ratio calculated from the elastic lever arm model
+Kinetic proofreading of gene activation by chromatin remodeling
+Genus Distributions For Extended Matrix Models Of RNA
+Mechanical unfolding and refolding pathways of ubiquitin
+Quantum Zeno Effect Underpinning the Radical-Ion-Pair Mechanism of Avian Magnetoreception
+Evolution of the genetic code. Why are there strong and weak letter doublets? The first gene the first protein. Early (ancient) biosynthesis of protein
+Are proteins ultrametric?
+Dynamics of Microtubule Growth and Catastrophe
+Dynamical Implications of Viral Tiling Theory
+Reconstructing the free energy landscape of a polyprotein by single-molecule experiments
+Evolution of the genetic code. From the CG- to the CGUA-alphabet from RNA double helix to DNA
+Observation of the DNA ion-phosphate vibrations
+Diversity against adversity: How adaptive immunity evolves potent antibodies
+Extrinsic and intrinsic nucleosome positioning signals
+Assembly Models for Papovaviridae based on Tiling Theory
+Locating the Long-range Contact Centers with B-factors and Hydrophobic Cores
+Spatial effects on the speed and reliability of protein-DNA search
+Modelling background intensity in Affymetrix Genechips
+Quantum Theory of Radical-Ion-Pair Recombination: A New Physical Paradigm for Low-Magnetic-Field Effects
+Concentration and Length Dependence of DNA Looping in Transcriptional Regulation
+Observation of Cholesterol Dissolved in Microscopic Deposits of Free Fatty Acids in the Lumen of an Aorta of a Mouse Model for Human Atherosclerosis
+Do quantum effects hold together DNA condensates?
+Characterization of Protein Folding by Dominant Reaction Pathways
+Emergence of mutationally robust proteins in a microscopic model of evolution
+Aging Fragility and Reversibility Window in Bulk Alloy Glasses
+There and (slowly) back again: Entropy-driven hysteresis in a model of DNA overstretching
+Asymptotic hitting time for a simple evolutionary model of protein folding
+A Lax Pair for the Dynamics of DNA Modeled as a Shearable and Extensible Elastic Rod: III. Discretizatioon of Arc Length and Time
+DNA Hash Pooling and its Applications
+Thermodynamic restrictions on evolutionary optimization of transcription factor proteins
+A stitch in time: Efficient computation of genomic DNA melting bubbles
+An Extended Model for the Evolution of Prebiotic Homochirality: A Bottom-Up Approach to the Origin of Life
+Permeation as a Diffusion Process
+The driving force behind genomic diversity
+The ruggedness of protein-protein energy landscape and the cutoff for 1 r n potentials
+Mesoscopic model for mechanical characterization of biological protein materials
+Design and Production of Specifically and with High Affinity Reacting Peptides
+Correlation between nucleotide composition and folding energy of coding sequences with special attention to wobble bases
+Studies on the Origin and Evolution of Codon Bias
+Monte Carlo simulations of proteins in cages: influence of confinement on the stability of intermediate states
+Dynamics of icosahedral viruses: what does Viral Tiling Theory teach us?
+Mechanochemical action of the dynamin protein
+Quantum Zeno Effect in Radical-Ion-Pair Recombination Reactions
+Spontaneous Unknotting of a Polymer Confined in a Nanochannel
+Depletion theory and the precipitation of protein by polymer
+The Invention of Proteomic Code and mRNA Assisted Protein Folding
+Peptide strings clues to the genesis and treatment of rheumatoid arthritis: rebuilding self-protective immunity amid fungal ruins
+Minimal models for proteins and RNA: From folding to function
+Microtubule dynamics depart from wormlike chain model
+The twenty-four near-instabilities of Caspar-Klug viruses
+Identifying critical residues in protein folding: Insights from phi-value and Pfold analysis
+Non-random coil behavior as a consequence of extensive PPII structure in the denatured state
+Kramers Theory for Conformational Transitions of Macromolecules
+Selected-fit versus induced-fit protein binding: Kinetic differences and mutational analysis
+RNA matrix models with external interactions and their asymptotic behaviour
+On the relation between native geometry and conformational plasticity
+Functioning of the dimeric GABA(B) receptor extracellular domain revealed by glycan wedge scanning
+Molecular determinants involved in the allosteric control of agonist affinity in the GABAB receptor by the GABAB2 subunit
+Protein Folding: A New Geometric Analysis
+Contagious obesity: from adenovirus 36 to RB dysfunction
+Energy landscape of ubiquitin modulated by periodic forces: Asymmetric protein stability and shifts in unfolding pathways
+Watson-Crick pairing the Heisenberg group and Milnor invariants
+Anisotropic Elastic Model for Short DNA Loops
+Modeling polymerization of microtubules: a quantum mechanical approach
+The effectiveness of position- and composition-specific gap costs for protein similarity searches
+Plotting Calibration Curve Using Biosynthetic Specifically Labeled Compounds for Accurate Mass Isotopomer Analysis
+Five models for myosin V
+The Role of Protein Electrostatics in Facilitating the Catalysis of DEAD-box Proteins
+ESPSim: A JAVA Application for Calculating Electrostatic Potential Map Similarity Scores
+Interrelationship Between Protein Electrostatics and Evolution in HCV and HIV Replicative Proteins
+Calibration of Tethered Particle Motion Experiments
+From protein binding to pharmacokinetics: a novel approach to active drug absorption prediction
+Twirling of actin by myosins II and V observed via polarized TIRF in a modified gliding assay
+Temperature dependence of normal mode reconstructions of protein dynamics
+Introduction to protein folding for physicists
+Creative elements: network-based predictions of active centres in proteins cellular and social networks
+Predicting Transcription Factor Specificity with All-Atom Models
+Efficient model chemistries for peptides. II. Basis set convergence in the B3LYP method
+The Chirality Of Life: From Phase Transitions To Astrobiology
+Elasticity and electrostatics of plectonemic DNA
+Description and Recognition of Regular and Distorted Secondary Structures in Proteins Using the Automated Protein Structure Analysis Method
+Cross-correlated TIRF AFM shows Self-assembled Synthetic Myosin Filaments are Asymmetric - Implications for Motile Filaments
+Stability of racemic and chiral steady states in open and closed chemical systems
+Projecting Three-dimensional Protein Structure into a One-dimensional Character Code Utilizing the Automated Protein Structure Analysis Method
+Effect of Bending Anisotropy on the 3D Conformation of Short DNA Loops
+Identity and divergence of protein domain architectures after the Yeast Whole Genome Duplication event
+Prebiotic Homochirality as a Critical Phenomenon
+Generalized Ensemble and Tempering Simulations: A Unified View
+A symmetry breaking mechanism for selecting the speed of relativistic solitons
+Salerno's model of DNA reanalysed: could solitons have biological significance?
+A Preliminary Work on Evolutionary Identification of Protein Variants and New Proteins on Grids
+Segmentation of DNA sequences into twostate regions and melting fork regions
+Effects of confinement and crowding on folding of model proteins
+Tumor suppressor and anti-inflammatory protein: an expanded view on insulin-degrading enzyme (IDE)
+Numerical Evidence of Small Coherent Subsystems at Low Temperatures in Light Harvesting Complex II
+Efficacy of Put and Spd sprayed on leaves from Brassica juncea plants against Cd2 -induced oxidative stress
+Exact steady-state velocity of ratchets driven by random sequential adsorption
+Multiple timescales in a model for DNA denaturation dynamics
+The relevance of neck linker docking in the motility of kinesin
+Mechanism of thermal renaturation and hybridization of nucleic acids: Kramers process and universality in Watson-Crick base pairing
+Changing the mechanical unfolding pathway of FnIII10 by tuning the pulling strength
+Congruent evolution of genetic and environmental robustness in microRNA
+Crowding effects on the mechanical stability and unfolding pathways of Ubiquitin
+Fundamentally different strategies for transcriptional regulation are revealed by information-theoretical analysis of binding motifs
+Stretching and twisting of the DNA duplexes in coarse grained dynamical models
+Synthesis of DNA Templated Tri-functional Electrically Conducting Optical and Magnetic nanochain of Nicore-Aushell for Bio-device
+The Adaptation of Complexity in the Evolution of Macromolecules
+Identification of direct residue contacts in protein-protein interaction by message passing
+Self-Templated Nucleation in Peptide and Protein aggregation
+Generic Mechanism of Emergence of Amyloid Protofilaments from Disordered Oligomeric aggregates
+Thermodynamic consequences of molecular crowding in information growth during pre biotic evolution
+Work distribution in manipulated single biomolecules
+Nucleosome-mediated cooperativity between transcription factors
+How knots influence properties of proteins
+Comprehensive structural classification of ligand binding motifs in proteins
+A freely relaxing polymer remembers how it was straightened
+Knot-controlled ejection of a polymer from a virus capsid
+Enhancement of cargo processivity by cooperating molecular motors
+Hidden Semi-Markov Models for Single-Molecule Conformational Dynamics
+Probing Noise in Gene Expression and Protein Production
+Opening a hydrophobic gate: the nicotinic acetylcholine receptor as an example
+Mechanical model for a collagen fibril pair in extracellular matrix
+What the difference between Thymine and Uracil?
+Vibrational entropy and the structural organization of proteins
+Adaptation through stochastic switching into transient mutators in finite asexual populations
+Non-specific DNA-protein interaction: Why proteins can diffuse along DNA
+Conformational Transitions in Molecular Systems
+Dynamic force spectroscopy of DNA hairpins. II. Irreversibility and dissipation
+On the decomposition of k -noncrossing RNA structures
+Irreducibility in RNA structures
+Integrity of H1 helix in prion protein revealed by molecular dynamic simulations to be especially vulnerable to changes in the relative orientation of H1 and its S1 flank
+A FRAP model to investigate reaction-diffusion of proteins within a bounded domain: a theoretical approach
+Toward homochiral protocells in noncatalytic peptide systems
+36 degree step size of proton-driven c-ring rotation in FoF1-ATP synthase
+Stochastic resonance with applied and induced fields: the case of voltage-gated ion channels
+CLeFAPS: Fast Flexible Alignment of Protein Structures Based on Conformational Letters
+Lethal Mutagenesis in Viruses and Bacteria
+The AGBNP2 Implicit Solvation Model
+Strong cooperativity and inhibitory effects in DNA multi-looping processes
+Genetic Code Table: A note on the three splittings into amino acid classes
+Evolution favors protein mutational robustness in sufficiently large populations
+Perturbation waves in proteins and protein networks: Applications of percolation and game theories in signaling and drug design
+Propagation of twist solitons in real DNA chains
+A thermodynamic basis for prebiotic amino acid synthesis and the nature of the first genetic code
+Genetic Code: The unity of the stereochemical determinism and pure chance
+Morphology and Interaction between Lipid Domains
+An effective all-atom potential for proteins
+Mechanical conversion of low-affinity Integration Host Factor binding sites into high-affinity sites
+Molecular origin of constant m-values denatured state collapse and residue-dependent transition midpoints in globular proteins
+Comments on Remeasuring the Double Helix
+Transition states in protein folding
+Characterization of a naphthalene dioxygenase endowed with an exceptionally broad substrate specificity toward polycyclic aromatic hydrocarbons
+Purification and Characterization of an Arene cis-Dihydrodiol Dehydrogenase Endowed with Broad Substrate Specificity toward Polycyclic Aromatic Hydrocarbon Dihydrodiols
+Biodegradation of 2-ethylhexyl nitrate (2-EHN) by Mycobacterium austroafricanum IFP 2173
+Characterization of a novel angular dioxygenase from fluorene-degrading Sphingomonas sp. strain LB126
+Parametric analysis of RNA folding
+Topological phase transition in a RNA model in the de Gennes regime
+Wave and quantum properties of peptide strings: defining a helix in spacetime
+Effects of kink and flexible hinge defects on mechanical responses of short double stranded DNA molecules
+A theory for viral capsid assembly around electrostatic cores
+Quantitative approach to facilitated diffusion with intersegmental jumping
+Anomalous scaling in nanopore translocation of structured heteropolymers
+Fatgraph Models of Proteins
+Temperature dependence of circular DNA topological states
+Understanding the Concentration Dependence of Viral Capsid Assembly Kinetics - the Origin of the Lag Time and Identifying the Critical Nucleus Size
+How accurate are polymer models in the analysis of Forster resonance energy transfer experiments on proteins?
+Thermodynamic stability of small-world oscillator networks: A case study of proteins
+Lipid Domain Order and the Algebra of Morphology
+Atomic-detailed milestones along the folding trajectory of protein G
+Accelerated search kinetics mediated by redox reactions of DNA repair enzymes
+How adsorption influences DNA denaturation
+Stochastic resonance of ELF-EMF in voltage-gated channels: the case of the cardiac I Ks potassium channel
+Equilibrium Blocking Model of Isometric Tension
+Kinetics of the helix-coil transition
+Supercoil formation in DNA denaturation
+Profile Conditional Random Fields for Modeling Protein Families with Structural Information
+Exploring the Free Energy Landscape: From Dynamics to Networks and Back
+Comparative analysis of rigidity across protein families
+Cause of Chirality Consensus
+Thermal Adaptation in Viruses and Bacteria
+Binding cooperativity of membrane adhesion receptors
+Mechanics of Reversible Unzipping
+Polar Chemoreceptor Clustering by Coupled Trimers of Dimers
+Protein Folding as a Quantum Transition Between Conformational States
+Effects of Quantum Vacuum Fluctuations of the Electric Field on DNA Condensation
+Dependence on temperature and GC content of bubble length distributions in DNA
+Quantum Measurement Theory Explains the Deuteration Effect in Radical-Ion-Pair Reactions
+Enhancement of charged macromolecule capture by nanopores in a salt gradient
+Knots and Swelling in Protein Folding
+Criteria to observe mesoscopic emergence of protein biophysical properties
+Finding the optimum activation energy in DNA breathing dynamics: A Simulated Annealing approach
+A new protein binding pocket similarity measure based on comparison of 3D atom clouds: application to ligand prediction
+Automated Protein Structure Classification: A Survey
+Analytical derivation of thermodynamic properties of bolalipid membrane
+A Molecular Mass Gradient is the Key Parameter of the Genetc Code Organization
+Design of magnetic tweezers for DNA manipulation
+Optical control of DNA-base radio-sensitivity
+Presence of pKa Perturbations Among Homeodomain Residues Facilitates DNA Binding
+Sequence composition and environment effects on residue fluctuations in protein structures
+A length-dynamic Tonks gas theory of histone isotherms
+Amplitude and Frequency Spectrum of Thermal Fluctuations of A Translocating RNA Molecule
+Modelling DNA at the mesoscale: a challenge for nonlinear science?
+Twirling motion of actin filaments in gliding assays with non-processive myosin motors
+Structural alignment using the generalized Euclidean distance between conformations
+Statistical Mechanics of Integral Membrane Protein Assembly
+Protein simulations combining an all-atom force field with a Go term
+Target prediction and a statistical sampling algorithm for RNA-RNA interaction
+Coarse Grained Simulations of a Small Peptide: Effects of Finite Damping and Hydrodynamic Interactions
+A contact-waiting-time metric and RNA folding rates
+Neutral Networks of Sequence to Shape Maps
+Asymptotic Enumeration of RNA Structures with Pseudoknots
+Molecular Systems with Infinite and Finite Degrees of Freedom. Part I: Multi-Scale Analysis
+Mechanisms of Size Control and Polymorphism in Viral Capsid Assembly
+Sensitivity of protein rigidity analysis to small structural variations: a large-scale comparative analysis
+Highly efficient energy excitation transfer in light-harvesting complexes: The fundamental role of noise-assisted transport
+Dynamic force spectroscopy of DNA hairpins. I. Force kinetics and free energy landscapes
+Two Perspectives on the Twist of DNA
+Isotropic-nematic phase transition in amyloid fibrilization
+An Algorithm for RNA Pseudoknots
+Pause Point Spectra in DNA Constant-Force Unzipping
+Three Bead Rotating Chain model shows universality in the stretching of proteins
+Binding of molecules to DNA and other semiflexible polymers
+Prediction of Peptide Conformation by Multicanonical Algorithm: A New Approach to the Multiple-Minima Problem
+Ideal-Chain Collapse in Biopolymers
+Modeling DNA Conformational Transformations on the Mesoscopic Scales
+Allostery in a Coarse-Grained Model of Protein Dynamics
+Expanding the Temporal Analysis in Single-Molecule Switching Experiments Through the Auto-Correlation Function: Mathematical Framework
+Wringing out DNA
+Minimal model of self-replicating nanocells: a physically embodied information-free scenario
+Peptide Folding Kinetics from Replica Exchange Molecular Dynamics
+Entanglement and intra-molecular cooling in biological systems? - A quantum thermodynamic perspective
+The self-assembly of DNA Holliday junctions studied with a minimal model
+The limited role of non-native contacts in folding pathways of a lattice protein
+The self-assembly and evolution of homomeric protein complexes
+Entropic contributions to the splicing process
+Elongation dynamics of amyloid fibrils: a rugged energy landscape picture
+Global cross-over dynamics of single semiflexible polymers
+Modeling of two-dimensional DNA display
+Ab-initio Dynamics of Rare Thermally Activated Reactions
+Maximum Cliques in Protein Structure Comparison
+Interplay between writhe and knotting for swollen and compact polymers
+Arginine-rich peptides destabilize the plasma membrane consistent with a pore formation translocation mechanism of cell penetrating peptides
+Combining predictors of natively unfolded proteins to detect a twilight zone between order and disorder in generic datasets
+Equivalence Classes of Optimal Structures in HP Protein Models Including Side Chains
+Constraint-based Local Move Definitions for Lattice Protein Models Including Side Chains
+From the Wobble to Reliable Hypothesis
+The Functional Form of Angular Forces around Transition Metal Ions in Biomolecules
+Pulling Pinned Polymers and Unzipping DNA
+Order of the phase transition in models of DNA thermal denaturation
+Symmetry and designability for lattice protein models
+Sequencing of folding events in Go-like proteins
+Free energy approximations in simple lattice proteins
+On Hydrophobicity Correlations in Protein Chains
+Three-helix-bundle Protein in a Ramachandran Model
+Force Dependence of the Michaelis Constant in a Two-State Ratchet Model for Molecular Motors
+Reply to the Comment on Glassy Transition in a Disordered Model for the RNA Secondary Structure'
+Properties and Origins of Protein Secondary Structure
+Folding Kinetics of Protein Like Heteropolymers
+Nature of Driving Force for Protein Folding -- A Result From Analyzing the Statistical Potential
+Diffusive Dynamics of the Reaction Coordinate for Protein Folding Funnels
+Why Do Proteins Look Like Proteins?
+Protein folding anisotropic collapse and blue phases
+Local Interactions and Protein Folding: A Model Study on the Square and Triangular Lattices
+Torsional Directed Walks Entropic Elasticity and DNA Twist Stiffness
+Are Protein Folds Atypical?
+Monte Carlo Procedure for Protein Design
+Protein design in a lattice model of hydrophobic and polar amino acids
+Sequence Effects on DNA Entropic Elasticity
+Steric constraints in model proteins
+Variational approach to protein design and extraction of interaction potentials
+Coarse grained description of the protein folding
+Protein folding and models of dynamics on the lattice
+DNA-Protein Cooperative Binding through Long-Range Elastic Coupling
+Protein structures and optimal folding emerging from a geometrical variational principle
+RNA secondary structure formation: a solvable model of heteropolymer folding
+Conformations of closed DNA
+Elastic Rod Model of a Supercoiled DNA Molecule
+Energy landscapes supergraphs and folding funnels in spin systems
+Organized condensation of worm-like chains
+Transport of Torsional Stress in DNA
+Glassy transition in a disordered model for the RNA secondary structure
+Scaling of folding properties in simple models of proteins
+Glassy Dynamics of Protein Folding
+Two State Behavior in a Solvable Model of beta -hairpin folding
+The Extension of Rod-Coil Multiblock Copolymers and the Effect of the Helix-Coil Transition
+Conserved Linking in Single- and Double-Stranded Polymers
+On the Helix-Coil transition in grafted chains
+Spin analogs of proteins: scaling of folding properties
+Molecular dynamics of folding of secondary structures in Go-type models of proteins
+Simple Models of the Protein Folding Problem
+Driven Polymer Translocation Through a Narrow Pore
+Annealed importance sampling of dileucine peptide
+Optimal flexibility for conformational transitions in macromolecules
+AFM Imaging of SWI SNF action: mapping the nucleosome remodeling and sliding
+Modeling transcription factor binding events to DNA using a random walker jumper representation on a 1D 2D lattice with different affinity sites
+The Worm-Like Chain Theory And Bending Of Short DNA
+The Interplay between Chemistry and Mechanics in the Transduction of a Mechanical Signal into a Biochemical Function
+Peeling and Sliding in Nucleosome Repositioning
+Excluded volume local structural cooperativity and the polymer physics of protein folding rates
+Quantum dynamics of N-methylacetamide studied by the vibrational configuration interaction method
+Flexible-to-semiflexible chain crossover on the pressure-area isotherm of lipid bilayer
+Hidden Structure in Protein Energy Landscapes
+Force unfolding kinetics of RNA using optical tweezers. I. Effects of experimental variables on measured results
+Funnels in Energy Landscapes
+Pathways to folding nucleation events and native geometry
+Melting of Branched RNA Molecules
+Optimizing Replica Exchange Moves For Molecular Dynamics
+Curvature and torsion in growing actin networks
+Denaturation transition of stretched DNA
+On Dynamics and Optimal Number of Replicas in Parallel Tempering Simulations
+Transition states in protein folding kinetics: Modeling Phi-values of small beta-sheet proteins
+Proteins in a shear flow
+Twist solitons in complex macromolecules: from DNA to polyethylene
+Mechanical control of the directional stepping dynamics of the kinesin motor
+Two-State Folding Folding through Intermediates and Metastability in a Minimalistic Hydrophobic-Polar Model for Proteins
+New force replica exchange method and protein folding pathways probed by force-clamp technique
+Understanding the physics of oligonucleotide microarrays: the Affymetrix spike-in data reanalysed
+Structural motifs of biomolecules
+Controlling Viral Capsid Assembly with Templating
+Mechanical response of plectonemic DNA: an analytical solution
+Reliable protein folding on non-funneled energy landscapes: the free energy reaction path
+Potential for modulation of the hydrophobic effect inside chaperonins
+Stretching An Anisotropic DNA
+Radial distribution of RNA genome packaged inside spherical viruses
+Scaling theory of DNA confined in nanochannels and nanoslits
+A solvable model of the genesis of amino-acid sequences via coupled dynamics of folding and slow genetic variation
+Discrete breathers in protein structures
+Thermodynamics of a model for RNA folding
+Solvent viscosity dependence for enzymatic reactions
+Geometry of the energy landscape and folding transition in a simple model of a protein
+Mechanism of robust circadian oscillation of KaiC phosphorylation in vitro
+The cardiac Ca-sensitive regulatory switch a system in dynamic equilibrium
+Stretching chimeric DNA: a test for the putative S-form
+Conformation of Circular DNA in 2 Dimensions
+Quantum Zeno Effect Explains Magnetic-Sensitive Radical-Ion-Pair Reactions
+First-principles calculation of DNA looping in tethered particle experiments
+Protein Structure Prediction Using Basin-Hopping
+Inherent flexibility determines the transition mechanisms of the EF-hands of Calmodulin
+Density of States for a Short Overlapping-Bead Polymer: Clues to a Mechanism for Helix Formation?
+Dynamics of protein-protein encounter: a Langevin equation approach with reaction patches
+DNA nano-mechanics: how proteins deform the double helix
+Residue network in protein native structure belongs to the universality class of three dimensional critical percolation cluster
+Emergence of species in evolutionary simulated annealing
+Macromolecular crowding modulates folding mechanism of alpha beta protein apoflavodoxin
+Diffusion of two particles with a finite interaction potential in one dimension
+A first principle (3 1) dimensional model for microtubule polymerization
+Thermal (in)stability of type I collagen fibrils
+Non-driven polymer translocation through a nanopore: computational evidence that the escape and relaxation processes are coupled
+Charge transport-mediated recruitment of DNA repair enzymes
+Mechanisms of receptor coreceptor-mediated entry of enveloped viruses
+New method for deciphering free energy landscape of three-state proteins
+Probing the Mechanisms of Fibril Formation Using Lattice Models
+Genetic drift at expanding frontiers promotes gene segregation
+Topological Methods for Exploring Low-density States in Biomolecular Folding Pathways
+Hydrodynamic Interactions in Protein Folding
+Fluorescent nanodiamonds for FRET-based monitoring of a single biological nanomotor FoF1-ATP synthase
+Simultaneous monitoring of the two coupled motors of a single FoF1-ATP synthase by three-color FRET using duty cycle-optimized triple-ALEX
+Multi-Dimensional Theory of Protein Folding
+Field Theory of the RNA Freezing Transition
+Long-range energy transfer in proteins
+Amplification and detection of single molecule conformational fluctuation through a protein interaction network with bimodal distributions
+Simulations of tubulin sheet polymers as possible structural intermediates in microtubule assembly
+The first peptides: the evolutionary transition between prebiotic amino acids and early proteins
+Equilibrium properties and force-driven unfolding pathways of RNA molecules
+A Brownian Dynamics Model of Kinesin in Three Dimensions Incorporating the Force-Extension Profile of the Coiled-Coil Cargo Tether
+Progressive Mauve: Multiple alignment of genomes with gene flux and rearrangement
+Mechanical Strength of 17 134 Model Proteins and Cysteine Slipknots
+Brainstorming through the Sequence Universe: Theories on the Protein Problem
+Physico-chemical modelling of target depletion during hybridisation on oligonulceotide microarrays
+Inhomogeneous DNA: conducting exons and insulating introns
+Longitudinal dispersion of DNA in nanochannels
+Influence of Protein Electromagnetic Field on Hydrogen Bonding
+A Generalized Theory of DNA Looping and Cyclization
+Scaling phase transition and genus distribution functions in matrix models of RNA with linear external interactions
+A systematically coarse-grained model for DNA and its predictions for persistence length stacking twist and chirality
+Asymmetric Spatiotemporal Evolution of Prebiotic Homochirality
+Force-induced denaturation of RNA
+Pulling hairpinned polynucleotide chains: Does base-pair stacking interaction matter?
+Studies of a weak polyampholyte at the air-buffer interface: The effect of varying pH and ionic strength
+DNA folding: structural and mechanical properties of the two-angle model for chromatin
+Polymer reptation and nucleosome repositioning
+Primary Sequences of Protein-Like Copolymers: Levy Flight Type Long Range Correlations
+Electrostatically induced undulations of lamellar DNA-lipid complexes
+Constraints Histones and the 30 Nanometer Spiral
+Effects of mechanical strain on thermal denaturation of DNA
+Positional Reorientational and Bond Orientational Order in DNA Mesophases
+Statistical mechanics of secondary structures formed by random RNA sequences
+Single Molecule Statistics and the Polynucleotide Unzipping Transition
+Fast Tree Search for Enumeration of a Lattice Model of Protein Folding
+Conformations of Proteins in Equilibrium
+Proteins Wriggle
+Nature of the glassy phase of RNA secondary structure
+Unfolding Rates for the Diffusion-Collision Model
+How short-ranged electrostatics controls the chromatin structure on much larger scales
+Photocontrol of Protein Conformation in a Langmuir Monolayer
+Phase Behavior of Columnar DNA Assemblies
+Folding Pathways of Prion and Doppel
+Molecular dynamics simulation of polymer helix formation using rigid-link methods
+Triple minima in free energy of semiflexible polymers
+Elasticity of semi-flexible polymers
+Molecular elasticity and the geometric phase
+On the electrical double layer contribution to the interfacial tension of protein crystals
+Statistical Physics of RNA-folding
+The secondary structure of RNA under tension
+Designability of alpha-helical Proteins
+First-Passage Time Distribution and Non-Markovian Diffusion Dynamics of Protein Folding
+Distribution of the second virial coefficients of globular proteins
+Universality classes in folding times of proteins
+Cohesive energy stability and structural transitions in polyelectrolyte bundles
+Two-level system with a thermally fluctuating transfer matrix element: Application to the problem of DNA charge transfer
+Mechanically probing the folding pathway of single RNA molecules
+The effects of added salt on the second virial coefficients of the complete proteome of E. coli
+Raft Instability of Biopolymer Gels
+Electrons in Dry DNA from Density Functional Calculations
+Intercalation and buckling instability of DNA linker within locked chromatin fiber
+Functionals linear in curvature and statistics of helical proteins
+Solitons on H-bonds in proteins
+Statistical mechanics of RNA folding: a lattice approach
+Deformation of crosslinked semiflexible polymer networks
+Unfolding and unzipping of single-stranded DNA by stretching
+Protein crystals and charged surfaces: interactions and heterogeneous nucleation
+Electrostatic Contribution to Twist Rigidity of DNA
+Mean Field Approach for a Statistical Mechanical Model of Proteins
+Translocation of structured polynucleotides through nanopores
+Solution stability neutral evolution and variability in a simple model of globular proteins
+Diffusion-limited loop formation of semiflexible polymers: Kramers theory and the intertwined time scales of chain relaxation and closing
+Winding angle distribution for planar random walk polymer ring entangled with an obstacle and all that: Spitzer-Edwards-Prager-Frisch model revisited
+Conformational space annealing and an off-lattice frustrated model protein
+Dynamics of polymer chain collapse into compact states
+Metropolis Algorithms in Generalized Ensemble
+Helix vs. Sheet Formation in a Small Peptide
+Optimization of protein force-field parameters with the Protein Data Bank
+Molecular dynamics of C-peptide of ribonuclease A studied by replica-exchange Monte Carlo method and diffusion theory
+Network rigidity at finite temperature: Relationships between thermodynamic stability the non-additivity of entropy and cooperativity in molecular systems
+Prediction of transmembrane helix configurations by replica-exchange simulations
+Charge Transfer and Charge Transport on the Double Helix
+Teaching computers to fold proteins
+Polymer Induced Bundling of F-actin and the Depletion Force
+The pulling force of a single DNA molecule condensed by spermidine
+Sensitivity Specificity and the Hybridization Isotherms of DNA Chips
+Dynamics of Molecular Motors and Polymer Translocation with Sequence Heterogeneity
+Anomalous Dynamics of Forced Translocation
+Generalized-Ensemble Simulations of the Human Parathyroid Hormone Fragment PTH(1-34)
+Measurement of the Phase Diagram of DNA Unzipping in the Temperature- Force Plane
+Thermodynamics of Lattice Heteropolymers
+A Finite-Size Scaling Study of a Model of Globular Proteins
+Twist-bend instability for toroidal DNA condensates
+Cationic DMPC DMTAP Lipid Bilayers: Molecular Dynamics Study
+A macroscopic scale model of bacterial flagellar bundling
+Discrete molecular dynamics simulations of peptide aggregation
+Spin-boson models for quantum decoherence of electronic excitations of biomolecules and quantum dots in a solvent
+A simple model of the charge transfer in DNA-like substances
+Simple Growth Models of Rigid Multifilament Biopolymers
+Lateral phase separation in mixtures of lipids and cholesterol systems
+Probing molecular free energy landscapes by periodic loading
+The Writhe Distribution Of Stretched Polymers
+Unwrapping of DNA-protein complexes under external stretching
+Topologically Driven Swelling of a Polymer Loop
+Charge Transport in DNA-Based Devices
+Complete Phase Diagram of DNA Unzipping: Eye Y-fork and triple point
+Optimized Baxter Model of Protein Solutions: Electrostatics versus Adhesion
+Kinks rings and rackets in filamentous structures
+Thermodynamic and kinetic aspects of RNA pulling experiments
+Understanding Mechanochemical Coupling in Kinesins Using First-Passage Time Processes
+Self-assembly of polyhedral shells: A molecular dynamics study
+Linear response of a grafted semiflexible polymer to a uniform force field
+Phase diagram of solution of oppositely charged polyelectrolytes
+Exact theory of kinkable elastic polymers
+Dynamics of Molecular Motors with Finite Processivity on Heterogeneous Tracks
+Unified perspective on proteins: A physics approach
+Effects of Kinks on DNA Elasticity
+Polymerization dynamics of double-stranded biopolymers: chemical kinetic approach
+Distribution Functions Loop Formation Probabilities and Force-Extension Relations in a Model for Short Double-Stranded DNA Molecules
+Influence of supercoiling on the disruption of dsDNA
+Inequivalence of Statistical Ensembles in Single Molecule Measurements
+Hierarchical Chain Model of Spider Capture Silk Elasticity
+Theory of Bubble Nucleation and Cooperativity in DNA Melting
+Entropic Elasticity of Double-Strand DNA Subject to Simple Spatial Constraints
+Structure and stability of chiral beta-tapes: a computational coarse-grained approach
+Bimodality in the transverse fluctuations of a grafted semiflexible polymer and the diffusion-convection analogue: an effective-medium approach
+Inferring the diameter of a biopolymer from its stretching response
+Elasticity of semiflexible polymers in two dimensions
+ATP hydrolysis stimulates large length fluctuations in single actin filaments
+Dynamic Phase Transitions in Coupled Motor Proteins
+Dynamical contribution into enzyme catalytic efficiency
+Inferring the effective thickness of polyelectrolytes from stretching measurements at various ionic strengths: applications to DNA and RNA
+Kinetics of Interior Loop Formation in Semiflexible Chains
+Entropy and Barrier-Hopping Determine Conformational Viscoelasticity in Single Biomolecules
+Fluid-crystal coexistence for proteins and inorganic nanocolloids: dependence on ionic strength
+Analytical First Derivatives of the RE-squared Interaction Potential
+Helical structures from an isotropic homopolymer model
+Condensation transition in DNA-polyaminoamide dendrimer fibers studied using optical tweezers
+Force dependent fragility in RNA hairpins
+Single-molecule experiments in biological physics: methods and applications
+Mechanical limits of viral capsids
+Interaction Between Motor Domains Can Explain the Complex Dynamics of Heterodimeric Kinesins
+Tangle Solutions for a Family of DNA-Rearranging Proteins
+Multi-site H-bridge breathers in a DNA--shaped double strand
+Physical Constraints and Functional Characteristics of Transcription Factor-DNA Interaction
+Theory of High-Force DNA Stretching and Overstretching
+Structure Space of Model Proteins --A Principle Component Analysis
+The bend stiffness of S-DNA
+Anisotropic coarse-grained statistical potentials improve the ability to identify native-like protein structures
+Simulations of Oligomeric Intermediates in Prion Diseases
+Modeling Amyloid Beta Peptide Insertion into Lipid Bilayers
+Prediction and statistics of pseudoknots in RNA structures using exactly clustered stochastic simulations
+Control of catalytic activity of proteins in vivo by nanotube ropes excited with infrared light
+Two-State Migration of DNA in a structured Microchannel
+Theoretical studies of the kinetics of mechanical unfolding of cross-linked polymer chains and their implications for single molecule pulling experiments
+Non-exponential relaxation and hierarchically constrained dynamics in a protein
+Energy controlled insertion of polar molecules in dense fluids
+From the double-stranded helix to the chiral nematic phase of B-DNA: a molecular model
+Model for Folding and Aggregation in RNA Secondary Structures
+Modeling protein synthesis from a physicist's perspective: a toy model
+A non-equilibrium dynamic mechanism for the allosteric effect
+Force steps during viral DNA packaging ?
+Differential hydrophobicity drives self-assembly in Huntington's disease
+Analytic models for mechanotransduction: gating a mechanosensitive channel
+Stretching of Proteins in the Entropic Limit
+Coarse-Grained Model of Entropic Allostery
+DNA Renaturation at the Water-Phenol Interface
+Ionic effect on combing of single DNA molecules and observation of their force-induced melting by fluorescence microscopy
+A model for processivity of molecular motors
+Mechanism of unidirectional movement of kinesin motors
+Model for processive movement of myosin V and myosin VI
+Thermodynamics of alpha- and beta-structure formation in proteins
+Two-state folding over a weak free-energy barrier
+Coupled folding-binding versus docking: A lattice model study
+Temperature Dependent Conformational Transitions and Hydrogen Bond Dynamics of the Elastin-Like Octapeptide GVG(VPGVG): a Molecular Dynamics Study
+Cooperativity and Contact Order in Protein Folding
+Helix-coil Transition in Closed Circular DNA
+Stability and the Evolvability of Function in a Model Protein
+Physics of RecA-mediated homologous recognition
+Disorder and fluctuations in nonlinear excitations in DNA
+Actin Polymerization Kinetics Cap Structure and Fluctuations
+Importance of chirality and reduced flexibility of protein side chains: A study with square and tetrahedral lattice models
+Reconstruction of protein structures from a vectorial representation
+Correlations in the T Cell Response to Altered Peptide Ligands
+Simulation Experiment and Evolution: Understanding Nucleation in Protein S6 Folding
+Exact Sequence Analysis for Three-Dimensional HP Lattice Proteins
+Kinetic barriers in RNA unzipping
+Geometry and symmetry presculpt the free-energy landscape of proteins
+Membrane-protein interactions in mechanosensitive channels
+Forces During Bacteriophage DNA Packaging and Ejection
+Thermodynamics of beta-amyloid fibril formation
+Deriving amino acid contact potentials from their frequencies of occurence in proteins: a lattice model study
+Simple models of protein folding and of non--conventional drug design
+Nucleosome interactions in chromatin: fiber stiffening and hairpin formation
+A Constructive Approach to Gene Expression Dynamics
+Nonlinear excitations in DNA: Aperiodic models vs actual genome sequences
+Dynamics of force-induced DNA slippage
+Three-body Interactions Improve the Prediction of Rate and Mechanism in Protein Folding Models
+Protein folding rates correlate with heterogeneity of folding mechanism
+The Effects of Stacking on the Configurations and Elasticity of Single Stranded Nucleic Acids
+All-or-none switching of transcriptional activity on single DNA molecules caused by a discrete conformational transition
+Medium effects on the selection of sequences folding into stable proteins in a simple model
+Oligomerization of amyloid Abeta peptides using hydrogen bonds and hydrophobicity forces
+Thermodynamic Prediction of Protein Neutrality
+Replica exchange molecular dynamics simulations of amyloid peptide aggregation
+A model for the accidental catalysis of protein unfolding in vivo
+Exons introns and DNA thermodynamics
+Rydberg-London Potential for Diatomic Molecules and Unbonded Atom Pairs
+Specific and non specific hybridization of oligonucleotide probes on microarrays
+Lattice tube model of proteins
+Electrostatics and the Assembly of an RNA Virus
+Enumeration of RNA structures by Matrix Models
+Adsorption models of hybridization and post-hybridisation behaviour on oligonucleotide microarrays
+Spectral Analysis of Guanine and Cytosine Fluctuations of Mouse Genomic DNA
+Mechanical properties of the domains of titin in a Go-like model
+Finite size effects on thermal denaturation of globular proteins
+Duplication-divergence model of protein interaction network
+Chirality and Protein Folding
+Folding thermodynamics of peptides
+Finite size effects on calorimetric cooperativity of two-state proteins
+Off-lattice simulation of the solid phase DNA amplification
+Correlations in Systems of Complex Directed Macromolecules
+Mechanical Stretching of Proteins: Calmodulin and Titin
+DNA condensation and redissolution: Interaction between overcharged DNA molecules
+Nonlinear Protein Degradation and the Function of Genetic Circuits
+Determination of barrier heights and prefactors from protein folding rate data
+Short-range spectroscopic ruler based on a single-molecule optical switch
+Resolution exchange simulation
+A stochastic approach to multi-gene expression dynamics
+Early events in insulin fibrillization studied by time-lapse atomic force microscopy
+Helices in Biomolecules
+Controlled DNA compaction within chromatin: the tail-bridging effect
+Estimation of protein folding probability from equilibrium simulations
+Mechanical unfolding of RNA hairpins
+Study of a model for the folding of a small protein
+Geometric and physical considerations for realistic protein models
+Design of amino acid sequences to fold into C alpha-model proteins
+Specificity of Trypsin and Chymotrypsin: Loop Motion Controlled Dynamic Correlation as a Determinant
+Geometry of proteins: hydrogen bonding sterics and marginally compact tubes
+Mesoscopic modeling for nucleic acid chain dynamics
+Stochastic approach to DNA breathing dynamics
+Dynamics of DNA Ejection From Bacteriophage
+Coupled dynamics of RNA folding and nanopore translocation
+Proteins and polymers
+Excluded-Volume Effects in Tethered-Particle Experiments: Bead Size Matters
+The Topology of Pseudoknotted Homopolymers
+A simple physical model for scaling in protein-protein interaction networks
+High resolution protein folding with a transferable potential
+A Hydrophobic Gate in an Ion Channel: The Closed State of the Nicotinic Acetylcholine Receptor
+Classification of capped tubular viral particles in the family of Papovaviridae
+Dominant Pathways in Protein Folding
+Solvent and mutation effects on the nucleation of amyloid beta -protein folding
+Dynamic Pathways for Viral Capsid Assembly
+Persistence Length Changes Dramatically as RNA Folds
+The Freezing of Random RNA
+What thermodynamic features characterize good and bad folders? Results from a simplified off-lattice protein model
+An irreversible growth model for virus capsid assembly
+Force Modulating Dynamic Disorder: Physical Theory of Catch-slip bond Transitions in Receptor-Ligand Forced Dissociation Experiments
+Protein folding dynamics via quantification of kinematic energy landscape
+Time-dependent perturbation theory for vibrational energy relaxation and dephasing in peptides and proteins
+Forced-unfolding and force-quench refolding of RNA hairpins
+Thermal unfolding of proteins
+Dynamics of an inchworm nano-walker
+Effects of constraints in general branched molecules: A quantitative ab initio study in HCO-L-Ala-NH2
+Protein folding in a force-clamp
+Thermodynamics of aggregation of two proteins
+Ligand Binding Protein Fluctuations and Allosteric Free Energy
+Amplified biochemical oscillations in cellular systems
+Solitons in the Yakushevich model of DNA beyond the contact approximation
+Optimization and evaluation of a coarse-grained model of protein motion using X-ray crystal data
+A composite model for DNA torsion dynamics
+Dynamics of Semiflexible Polymers in a Flow Field
+Mass Fractal Dimension of the Ribosome and Implication of its Dynamic Characteristics
+A Kinetic Model Describing the Processivity of Myosin-V
+Parametrization of the Hybrid Potential for Pairs of Neutral Atoms
+Statistically enhanced self-attraction of random patterns
+Ground state and glass transition of the RNA secondary structure
+Sequence sensitivity of breathing dynamics in heteropolymer DNA
+A versatile maskless microscope projection photolithography system and its application in light-directed fabrication of DNA microarrays
+Evolutionary Analysis of Biological Excitability
+Mechanical unfolding of RNA: From hairpins to structures with internal multiloops
+Size shape and flexibility of RNA structures
+Hydrophobic hydrophilic and charged amino acids' networks within Protein
+Elementary simulation of tethered Brownian motion
+Stretching of proteins in a uniform flow
+Stochastic kinetics of viral capsid assembly based on detailed protein structures
+Kinetics of viral self-assembly: the role of ss RNA antenna
+Refolding upon force quench and pathways of mechanical and thermal unfolding of ubiquitin
+Breathing dynamics in heteropolymer DNA
+Dynamics of allosteric transitions in GroEL
+Anharmonicity and self-similarity of the free energy landscape of protein G
+Dwell time symmetry in random walks and molecular motors
+Elastic Correlations in Nucleosomal DNA Structure
+Quantitative Protein Dynamics from Dominant Folding Pathways
+Role of electrostatic interactions in amyloid beta-protein (Abeta) oligomer formation: A discrete molecular dynamics study
+Internal strain regulates the nucleotide binding site of the kinesin leading head
+Spatial Constraint Corrections to the Elasticity of dsDNA Measured with Magnetic Tweezers
+Elasticity of strongly stretched ssDNA
+Effects of Langmuir Kinetics of Two-Lane Totally Asymmetric Exclusion Processes in Protein Traffic
+Robust protein-protein interactions in crowded cellular environments
+Lymphotactin: how a protein can adopt two folds
+Critical examination of the inherent-structure-landscape analysis of two-state folding proteins
+Molecular Dynamics Simulations of Cytochrome c un-folding in AOT Reverse Micelles: the first steps
+Dominant Folding Pathways of a Beta-Hairpin
+Performance Analysis on Molecular Dynamics Simulation of Protein Using GROMACS
+Dependence of protein mechanical unfolding pathways on pulling speeds
+Protein mechanical unfolding: importance of non-native interactions
+Urea destabilizes RNA by forming stacking interactions and multiple hydrogen bonds with nucleic acid bases
+Large-scale simulation of RNA macroevolution by an energy-dependent fitness model
+Interplay between pleiotropy and secondary selection determines rise and fall of mutators in stress response
+Searching for targets on a model DNA: Effects of inter-segment hopping detachment and re-attachment
+Self-assembly of protein amyloid: a competition between amorphous and ordered aggregation
+Investigating the thermodynamics of small biosystems with optical tweezers
+Self-assembly of monodisperse clusters: Dependence on target geometry
+Monodisperse self-assembly in a model with protein-like interactions
+Precision analysis for standard deviation measurements of single fluorescent molecule images
+Intra-molecular refrigeration in enzymes
+Dodging the crisis of folding proteins with knots
+Jamming proteins with slipknots and their free energy landscape
+Femtonewton Forces Can Control Protein-Meditated DNA Looping
+The effects of mismatches on hybridization in DNA microarrays: determination of nearest neighbor parameters
+Conformational Dynamics of Supramolecular Protein Assemblies in the EMDB
+Measurement of the copy number of the master quorum-sensing regulator of a bacterial cell
+On Critical Relative Distance of DNA Codes for Additive Stem Similarity
+Hydropathy Conformational Letter and its Substitution Matrix HP-CLESUM: an Application to Protein Structural Alignment
+Local transition gradients determine the global attributes of protein energy landscapes
+Supernovae and the Chirality of the Amino Acids
+Topological interactions between ring polymers: Implications for chromatin loops
+Freezing and folding behavior in simple off-lattice heteropolymers
+Dynamic force spectroscopy on multiple bonds: experiments and model
+Computational Estimates of Binding Affinities for Estrogen Receptor Isoforms in Rainbow Trout
+Statics and Dynamics of the Wormlike Bundle Model
+Modelling the Self-Assembly of Virus Capsids
+Stochastic simulations of cargo transport by processive molecular motors
+Structural Investigations into Shwachman Bodian Diamond Syndrome SBDS using a Bioinformatics Approach
+Automated DNA Motif Discovery
+Orientational Order Governs Collectivity of Folded Proteins
+Targeting cytochrome C oxidase in mitochondria with Pt(II)-porphyrins for Photodynamic Therapy
+Prediction of RNA-RNA interaction structure by centroids in the Boltzmann ensemble
+Comment on Twisted Protein Aggregates and Disease: The Stability of Sickle Hemoglobin Fibers
+Manipulation of conformational change in proteins by single residue perturbations
+Renormalisation group determination of the order of the DNA denaturation transition
+Mechanisms of viral capsid assembly around a polymer
+Changes in the zero point energy of the protons as the source of the binding energy of water to A phase DNA
+Role of anisotropy for protein-protein encounter
+Bistability of cell-matrix adhesions resulting from non-linear receptor-ligand dynamics
+Stretching weakly bending filaments with spontaneous curvature in two dimensions
+Model for solvent viscosity effect on enzymatic reactions
+Dynamical modeling of microRNA action on the protein translation process
+Monocyte and T-lymphocyte trans-endothelial migration in relation to cardiovascular disease: some alternative boundary conditions in a model recently proposed by Little et al. (PLoS Comput Biol 200 5(10) e100053)
+Ion-dependent dynamics of DNA ejections for bacteriophage lambda
+Model for Diversity Analysis of Antigen Receptor Repertoires
+Langevin dynamics simulations of biomolecules on graphics processors
+Inverse Folding of RNA Pseudoknot Structures
+Why is life so exact?
+Nanoindentation of virus capsids in a molecular model
+Determination of factors governing fibrillogenesis of polypeptide chains using lattice models
+Non-Markovian theory of vibrational energy relaxation and its applications to biomolecular systems
+Excluded volume effects on semiflexible ring polymers
+Random Network Behaviour of Protein Structures
+Protein-mediated DNA Loop Formation and Breakdown in a Fluctuating Environment
+Electrostatics in the Stability and Misfolding of the Prion Protein: Salt Bridges Self-Energy and Solvation
+Embedding protein 3D-structures in a cubic lattice. I. The basic algorithms
+Coarse Graining RNA Nanostructures for Molecular Dynamics Simulations
+Consequences of cell-to-cell P-glycoprotein transfer on acquired multidrug resistance in breast cancer: a cell population dynamics model
+Structural Stability and Immunogenicity of Peptides
+The evaluation of directionally writhing polymers
+Effect of Internal Viscosity on Brownian Dynamics of DNA Molecules in Shear Flow
+DNA nanotweezers studied with a coarse-grained model of DNA
+Macrodipoles of potassium and chloride ion channels as revealed by electronic structure calculations
+The geometrical origin of the strain-twist coupling in double helices
+Denaturation Patterns in Heterogeneous DNA
+Role of Loading Device on Single-Molecule Mechanical Manipulation of Free Energy Landscape
+Statistical Mechanics Model for Protein Folding
+Bayesian algorithms for recovering structure from single-particle diffraction snapshots of unknown orientation: a comparison
+Some topics in the kinetics of protein aggregation
+Polymorphic Dynamics of Microtubules
+Spatial structure and composition of polysaccharide-protein complexes from Small Angle Neutron Scattering
+How the diffusivity profile reduces the arbitrariness of protein folding free energies
+Multiscale approach to radiation damage induced by ion beams: complex DNA damage and effects of thermal spikes
+Dynamic supercoiling bifurcations of growing elastic filaments
+Energetic and Entropic Analysis of Mirror Symmetry Breaking Processes in a Recycled Microreversible Chemical System
+Can entropy save bacteria?
+Quantum control and entanglement in a chemical compass
+Homochirality and the need of energy
+Model of ionic currents through microtubule nanopores and the lumen
+Entanglement and entangling power of the dynamics in light-harvesting complexes
+Breakdown of thermodynamic equilibrium for DNA hybridization in microarrays
+Buckling of stiff polymer rings in weak spherical confinement
+The entropic cost to tie a knot
+A Condensation-Ordering Mechanism in Nanoparticle-Catalyzed Peptide Aggregation
+Phase Diagram of alpha-Helical and beta-Sheet Forming Peptides
+Evidence Of Protein Collective Motions On The Picosecond Time Scale
+Nonlinearity of Mechanochemical Motions in Motor Proteins
+Insight into the correlation between lag time and aggregation rate in the kinetics of protein aggregation
+Nucleation of amyloid fibrils
+Algorithm for Predicting Protein Secondary Structure
+Combinatorics of RNA-RNA interaction
+Combinatorial analysis of interacting RNA molecules
+Molecular Dynamics at Low Time Resolution
+Counterion-Mediated Weak and Strong Coupling Electrostatic Interaction between Like-Charged Cylindrical Dielectrics
+Non-Markovian stochastic description of quantum transport in photosynthetic systems
+The Energy Landscape Folding Pathways and the Kinetics of a Knotted Protein
+A simple theory of protein folding kinetics
+Intensities of the Raman bands in the low-frequency spectra of DNA with light and heavy counterions
+Membrane morphology induced by anisotropic proteins
+Quantum-assisted biomolecular modelling
+Chiral Interactions of Histidine in a Hydrated Vermiculite
+Theoretical Perspectives on Protein Folding
+Mathematical models of homochiralisation by grinding of crystals
+Protein contact networks at different length scales and role of hydrophobic hydrophilic and charged residues in protein's structural organisation
+Conformational Proofreading: The Impact of Conformational Changes on the Specificity of Molecular Recognition
+Cross-species analysis traces adaptation of Rubisco towards optimality in a low dimensional landscape
+Molecular Recognition as an Information Channel: The Role of Conformational Changes
+The physical language of molecular codes: A rate-distortion approach to the evolution and emergence of biological codes
+Coding limits on the number of transcription factors
+Rules for biological regulation based on error minimization
+Messenger RNA Fluctuations and Regulatory RNAs Shape the Dynamics of Negative Feedback Loop
+Dominant folding pathways of a peptide chain from ab-initio quantum-mechanical simulations
+Pathways of mechanical unfolding of FnIII 10 : low force intermediates
+Protein Folding as a Quantum Transition Between Conformational States: Basic Formulas and Applications
+High fidelity of RecA-catalyzed recombination: a watchdog of genetic diversity
+Ab initio analysis of the x-ray absorption spectrum of the myoglobin-carbon monoxide complex: Structure and vibrations
+A Coarse-Grained Biophysical Model of E. coli and Its Application to Perturbation of the rRNA Operon Copy Number
+Protein-DNA computation by stochastic assembly cascade
+High-Fidelity DNA Sensing by Protein Binding Fluctuations
+Structural and dynamic properties of linker histone H1 binding to DNA
+Effect of pressure on the kinetics of bulge bases in small RNAs
+Semiflexible Filamentous Composites
+Mobility of Min-proteins in Escherichia coli measured by fluorescence correlation spectroscopy
+Experimental and theoretical studies of sequence effects on the fluctuation and melting of short DNA molecules
+Molecular Electroporation and the Transduction of Oligoarginines
+Optimization of Enzymatic Logic Gates and Networks for Noise Reduction and Stability
+Self-assembly modularity and physical complexity
+A quantum spin approach to histone dynamics
+The effect of internal and global modes on the radial distribution function of confined semiflexible polymers
+Transfer matrix solution of the Wako-Sait o-Mu noz-Eaton model augmented by arbitrary short range interactions
+Encapsulation of a polymer by an icosahedral virus
+Extending fragment-based free energy calculations with library Monte Carlo simulation: Annealing in interaction space
+Thermal and mechanical properties of a DNA model with solvation barrier
+Bioheterojunction Effect on Fluorescence Origin and Efficiency Improvement of Firefly Chromophores
+Crowded Charges in Ion Channels
+Computing the Field in Proteins and Channels
+Equilibrium Sampling in Biomolecular Simulation
+Arrangement of Annexin A2 tetramer and its impact on the structure and diffusivity of supported lipid bilayers
+Fluctuation Assisted Ejection of DNA From Bacteriophage
+Simple Model of the Transduction of Cell-Penetrating Peptides
+Exploring the energy landscape of biopolymers using single molecule force spectroscopy and molecular simulations
+BioBlender: Fast and Efficient All Atom Morphing of Proteins Using Blender Game Engine
+Optimization of Enzymatic Biochemical Logic for Noise Reduction and Scalability: How Many Biocomputing Gates Can Be Interconnected in a Circuit?
+Single-molecule imaging of protein adsorption mechanisms to surfaces
+Analog Noise Reduction in Enzymatic Logic Gates
+Enzymatic AND-Gate Based on Electrode-Immobilized Glucose-6-Phosphate Dehydrogenase: Towards Digital Biosensors and Biochemical Logic Systems with Low Noise
+Induced fit conformational selection and independent dynamic segments: an extended view of binding events
+Selective Adsorption and Chiral Amplification of Amino Acids in Vermiculite Clay -Implications for the origin of biochirality
+Intercellular spiral waves of calcium in a two dimensional network of cells
+Side-chain conformational changes upon protein-protein association
+Thermodynamics of protein folding: a random matrix formulation
+A simplified exactly solvable model for beta-amyloid aggregation
+TT2NE: A novel algorithm to predict RNA secondary structures with pseudoknots
+An exactly solvable model for a beta-hairpin with random interactions
+Unwinding dynamics of double-stranded polymers
+Error Correction and Digitalization Concepts in Biochemical Computing
+Back-stepping hidden substeps and conditional dwell times in molecular motors
+Speciation due to hybrid necrosis in plant-pathogen models
+The close-packed triple helix as a possible new structural motif for collagen
+Stretching semiflexible filaments with quenched disorder
+Potentials of Mean Force for Protein Structure Prediction Vindicated Formalized and Generalized
+Glassy state of native collagen fibril
+Factors governing fibrillogenesis of polypeptide chains
+A nested mixture model for protein identification using mass spectrometry
+From Structure to Function in Open Ionic Channels
+RecA-mediated homology search as a nearly optimal signal detection system
+Dynamics of Microtubule Instabilities
+On the performance of combined dichotomic predictors of natively unfolded proteins
+DNA-Protein Binding Rates: Bending Fluctuation and Hydrodynamic Coupling Effects
+Constitutive-law Modeling of Microfilaments from their Discrete-Structure Simulations - A Method based on an Inverse Approach Applied to a Static Rod Model
+Towards Quantitative Classification of Folded Proteins in Terms of Elementary Functions
+Ion-specificity in alpha -helical folding kinetics
+Dynamics of Bacteriophage Genome Ejection In Vitro and In Vivo
+Influence of proteins from physiological solutions on the electrochemical behaviour of the Ti-6Al-4V alloy: reproducibility and time-frequency dependence. ---- Influence de la teneur en prot 'eines de solutions physiologiques sur le comportement 'electrochimique du Ti-6Al-4V : reproductibilit 'e et repr 'esentation temps-fr 'equence
+The effects of bio-fluid on the internal motion of DNA
+Role of water in the enzymatic catalysis: study of ATP AMP - 2ADP conversion by adenylate kinase
+Fluctuation Pressure Assisted Ejection of DNA From Bacteriophage
+Efficient exploration of discrete energy landscapes
+The Storm and Nelson's model for polymer stretching revisited
+Modeling capsid self-assembly: Design and analysis
+Protein abundances and interactions coevolve to promote functional complexes while suppressing non-specific binding
+Low energy pathways for reproducible in vivo protein folding
+Liquid chromatography mass spectrometry-based proteomics: Biological and technological aspects
+First-principles GW calculations for DNA and RNA nucleobases
+Neck linker docking coordinates the kinetics of kinesin's heads
+Characteristic noise features in light transmission across membrane protein undergoing photocycle
+Topological change and impedance spectrum of rat olfactory receptor I7: A comparative analysis with bovine rhodopsin and bacterior
+The electronic structure and dipole moment of charybdotoxin a scorpion venom peptide with K channel blocking activity
+A natural mechanism for l-homochiralization of prebiotic aminoacids
+A quantum mechanical analysis of the light-harvesting complex 2 from purple photosynthetic bacteria. Insights into the electrostatic effects of transmembrane helices
+Longitudinal Response of Confined Semiflexible Polymers
+How does the first water shell fold proteins so fast ?
+Drug transport mechanism of P-glycoprotein monitored by single molecule fluorescence resonance energy transfer
+Monte Carlo simulations of the HP model (the Ising model of protein folding)
+Subunit rotation in a single FoF1-ATP synthase in a living bacterium monitored by FRET
+The role of topology in electrical properties of bacteriorhodopsin and rat olfactory receptor I7
+Molecular jamming - the cystine slipknot mechanical clamp in all-atom simulations
+Temperature Dependence of Protein Folding Deduced from Quantum Transition
+Olfactory receptors for a smell sensor: A comparative study of the electrical responses of rat I7 and human 17-40
+Discontinuities at the DNA supercoiling transition
+Role of ATP-hydrolysis in the dynamics of a single actin filament
+Reentrant behavior of divalent counterion mediated DNA-DNA electrostatic interaction
+Microscopic implications of S-DNA
+Dynamic cluster-scaling in DNA
+Generating Transition Paths by Langevin Bridges
+The Discrete Frenet Frame Inflection Point Solitons And Curve Visualization with Applications to Folded Proteins
+Analysis of the Equilibrium and Kinetics of the Ankyrin Repeat Protein Myotrophin
+Compaction and tensile forces determine the accuracy of folding landscape parameters from single molecule pulling experiments
+Kinetics of double stranded DNA overstretching revealed by 0.5-2 pN force steps
+Why Can't We Predict RNA Structure At Atomic Resolution?
+Electronically Excited States of Vitamin B12: Benchmark Calculations Including Time-Dependent Density Functional Theory and Correlated Ab Initio Methods
+Topoisomer Differentiation of Molecular Knots by FTICR MS: Lessons from Class II Lasso Peptides
+Evidence for zinc ion sharing in metallothionein dimers provided by collision-induced dissociation
+Non-linear interaction in random matrix models of RNA
+Protein Folding: A Perspective From Statistical Physics
+DNA Replication via Entanglement Swapping
+Rigidity analysis of HIV-1 protease
+Two-dimensional chemical mapping for non-coding RNAs
+Macromolecular Dynamics in Red Blood Cells Investigated Using Neutron Spectroscopy
+Solitons and Physics of the Lysogenic to Lytic Transition in Enterobacteria Lambda Phage
+On universal aspects of the left-handed helix region
+A Topological Framework for the Computation of the HOMFLY Polynomial and Its Application to Proteins
+Intermittency as a universal characteristic of the complete chromosome DNA sequences of eukaryotes: From protozoa to human genomes
+Discrete Persistent Chain Model for Protein Binding on DNA
+Self-organised criticality in base-pair breathing in DNA with a defect
+Flow-dependent unfolding and refolding of an RNA by nonequilibrium umbrella sampling
+Can biopolymer structures be sampled enumeratively? Atomic-accuracy RNA loop modeling by a stepwise ansatz
+A Surprising Clarification of the Mechanism of Ion-channel Voltage-Gating
+Multi-scale sequence correlations increase proteome structural disorder and promiscuity
+Statistical Mechanics of Nucleosomes Constrained by Higher-Order Chromatin Structure
+Monomer abundance distribution patterns as a universal biosignature: Examples from terrestrial and digital life
+Secondary structure formation of homopolymeric single-stranded nucleic acids including force and loop entropy: implications for DNA hybridization
+The surface accessibility of alpha -bungarotoxin monitored by a novel paramagnetic probe
+Life's Solutions are Not Ideal
+A biophysical protein folding model accounts for most mutational fitness effects in viruses
+Homogeneity tests for Michaelis-Menten curves with application to fluorescence resonance energy transfer data
+Relationships between ligand binding sites protein architecture and correlated paths of energy and conformational fluctuations
+Influence of Nanoparticle Size and Shape on Oligomer Formation of an Amyloidogenic Peptide
+Hydrophobic and ionic-interactions in bulk and confined water with implications for collapse and folding of proteins
+Mechanical Characterization of Amyloid Fibrils Using Coarse-Grained Normal Mode Analysis
+Protein Photo-folding and Quantum Folding Theory
+Mechanisms of kinetic trapping in self-assembly and phase transformation
+Unfolding mechanism and the free energy landscape of a single stranded DNA i-motif
+The Boltzmann factor DNA melting and Brownian ratchets: Topics in an introductory physics sequence for biology and premedical students
+Functional State Dependence of Picosecond Protein Dynamics
+Improving signal-to-noise resolution in single molecule experiments using molecular constructs with short handles
+The Effect of Macromolecular Crowding Ionic Strength and Calcium Binding on Calmodulin Dynamics
+Long range correlations in DNA : scaling properties and charge transfer efficiency
+Predicting Knot and Catenane Type of Products of Site-specific Recombination on Twist Knot Substrates
+Quantum Diffusive Dynamics of Macromolecular Transitions
+Formation and Stability of Synaptic Receptor Domains
+Why aren't the small worlds of protein contact networks smaller
+Four small puzzles that Rosetta doesn't solve
+Emergence of information transmission in a prebiotic RNA reactor
+Equilibrium Clusters in Concentrated Lysozyme Protein Solutions
+Biology of Prions
+Nonlinear aspects of astrobiological research
+Anisotropic Hydrodynamic Mean-Field Theory for Semiflexible Polymers under Tension
+Protein sliding and hopping kinetics on DNA
+Protein Models Comparator: Scalable Bioinformatics Computing on the Google App Engine Platform
+Stacking Interactions in Denaturation of DNA Fragments
+Energy conversion in Purple Bacteria Photosynthesis
+Statistical Analysis of Structural Transitions in Small Systems
+Statistical Mechanics of Aggregation and Crystallization for Semiflexible Polymers
+Contact-Density Analysis of Lattice Polymer Adsorption Transitions
+Interplay between Secondary and Tertiary Structure Formation in Protein Folding Cooperativity
+Hierarchies in Nucleation Transitions
+Structural Basis of Folding Cooperativity in Model Proteins: Insights from a Microcanonical Perspective
+Microscopic Mechanism of Specific Peptide Adhesion to Semiconductor Substrates
+Nucleated polymerisation in the presence of pre-formed seed filaments
+Single-image diffusion coefficient measurements of proteins in free solution
+Subtle pH differences trigger single residue motions for moderating conformations of calmodulin
+Deconvolution of dynamic mechanical networks
+Microcanonical entropy inflection points: Key to systematic understanding of transitions in finite systems
+Massively parallelized replica-exchange simulations of polymers on GPUs
+Molecular Dynamics Studies of Changes in the DNA- Structure as Result of Interactions with Cisplatin
+Role of water in Protein Aggregation and Amyloid Polymorphism
+Reconstructing an Icosahedral Virus from Single-Particle Diffraction Experiments
+Base sequence dependent sliding of proteins on DNA
+Molecular Labor Division: Its Cause and Consequence
+Searching fast for a target on a DNA without falling to traps
+Sequence correlations shape protein promiscuity
+Evaluating force field accuracy with long-time simulations of a tryptophan zipper peptide
+Salt Modulated Structure of Polyelectrolyte-Macroion Complex Fibers
+Discrete Breathers in a Realistic Coarse-Grained Model of Proteins
+The chain sucker: translocation dynamics of a polymer chain into a long narrow channel driven by longitudinal flow
+Nanodiamond as a vector for siRNA delivery to Ewing sarcoma cells
+A constrained random-force model for weakly bending semiflexible polymers
+Direction dependent mechanical unfolding and Green Fluorescent Protein as a force sensor
+Quantum Proteomics
+Chaperone-assisted translocation of a polymer through a nanopore
+Order parameter prediction from molecular dynamics simulations in proteins
+Bayesian hidden Markov model analysis of single-molecule force spectroscopy: Characterizing kinetics under measurement uncertainty
+Crowding Promotes the Switch from Hairpin to Pseudoknot Conformation in Human Telomerase RNA
+A robust approach to estimating rates from time-correlation functions
+Finding a unifying motif of intermolecular cooperativity in protein associations
+Predictability of evolutionary trajectories in fitness landscapes
+Spontaneous Polaron Transport in Biopolymers
+Structure and Thermodynamics of Molecular Hydration via Grid Inhomogeneous Solvation Theory
+Investigating Biological Matter with Theoretical Nuclear Physics Methods
+Thermal and mechanical denaturation properties of a DNA model with three sites per nucleotide
+Polymer translocation through a nanopore under an applied external field
+Properties of contact matrices induced by pairwise interactions in proteins
+Dynamical modelling of molecular constructions and setups for DNA unzipping
+Cell-Penetrating Peptides Electroporation and Drug Delivery
+On the Growth Rate of Non-Enzymatic Molecular Replicators
+Understanding the errors of SHAPE-directed RNA structure modeling
+Thermodynamics of Twisted DNA with Solvent Interaction
+Covalent bond symmetry breaking and protein secondary structure
+Protein Regge Trajectories Phase Coexistence and Physics of Alzheimer's Disease
+Modeling the early steps of cytoplasmic trafficking in viral infection and gene delivery
+Looking for packing units of the protein structure
+Target search on a dynamic DNA molecule
+Physical limits on cooperative protein-DNA binding and the kinetics of combinatorial transcription regulation
+Some inverse problems in biophysics
+Soliton concepts and the protein structure
+Protein multi-scale organization through graph partitioning and robustness analysis: Application to the myosin-myosin light chain interaction
+The protein dynamical transition is a pseudogap changeover
+Hidden complexities in the unfolding mechanism of a cytosine-rich DNA strand
+Capturing the essence of folding and functions of biomolecules using Coarse-Grained Models
+Archaea-based Microbial Fuel Cell Operating at High Ionic Strength Conditions
+Autocatalyses
+Properties of compatible solutes in aqueous solution
+Static and dynamic characteristics of protein contact networks
+DNA as a one-dimensional chiral material: Application to the structural transition between B form and Z form
+Mechanism of magnetic field effect in cryptochrome
+Unfolding protein with an atomic force microscope: Force-fluctuation induced non-exponential kinetics
+Determining the DNA stability parameters for the breathing dynamics of heterogeneous DNA by stochastic optimization
+The Stanford RNA Mapping Database for sharing and visualizing RNA structure mapping experiments
+Automated RNA structure prediction uncovers a missing link in double glycine riboswitches
+Gap Junctions: The Claymore for Cancerous Cells
+Macromolecular unfolding properties in presence of compatible solutes
+Entropic Stabilization of Proteins by TMAO
+A Solvable Model for Polymorphic Dynamics of Biofilaments
+3D Protein Structure Predicted from Sequence
+Structure fluctuations and conformational changes in protein binding
+Link between allosteric signal transduction and functional dynamics in a multi-subunit enzyme: S-adenosylhomocysteine hydrolase
+A novel method for identification of local conformational changes in proteins
+Discrete breathers in nonlinear network models of proteins
+How a protein searches for its specific site on DNA: the role of intersegment transfer
+Nucleosome Chiral Transition under Positive Torsional Stress in Single Chromatin Fibers
+Universality and diversity of folding mechanics for three-helix bundle proteins
+Active elastic dimers: self-propulsion and current reversal on a featureless track
+Existence of periodic solutions for enzyme-catalysed reactions with periodic substrate input
+Stability domains of actin genes and genomic evolution
+An algorithm to relate protein surface roughness with local geometry of protein exterior shape
+Force-velocity relations for multiple-molecular-motor transport
+Splitting probabilities as a test of reaction coordinate choice in single-molecule experiments
+Cooperative Lattice Dynamics and Anomalous Fluctuations of Microtubules
+Controlled self-assembly of peptides on graphite via rational mutation
+A new cooperation mechanism of kinesin motors when extracting membrane tube
+A Quantum-mechanical Approach for Constrained Macromolecular Chains
+Quantum coherent contributions in biological electron transfer
+Soliton driven relaxation dynamics and universality in protein collapse
+DNA sequence correlations shape nonspecific transcription factor-DNA binding affinity
+Dominant Folding Pathways of a WW Domain
+Stochastic self-assembly of incommensurate clusters
+Nonspecific transcription factor-DNA binding influences nucleosome occupancy in yeast
+The effect of point mutations on energy conduction pathways in proteins
+Reoccurring patterns in hierarchical protein materials and music: The power of analogies
+Model for crankshaft motion of protein backbone in nonspecific binding site of serine proteases
+RamaDA: complete and automated conformational overview of proteins
+Equilibrium properties of realistic random heteropolymers and their relevance for globular and naturally unfolded proteins
+Molecular Dynamics Simulation of Folding and Diffusion of Proteins in Nanopores
+Opening of DNA double strands by helicases. Active versus passive opening
+DNA entropic elasticity for short molecules attached to beads
+Electrostatic Edge Instability of Lipid Membranes
+Physics-based analysis of Affymetrix microarray data
+Genetic Code as a Harmonic System: two Supplements
+Analysis of Accordion DNA Stretching Revealed by The Gold Cluster Ruler
+3-10 and Pi-Helices: Stochastic Events on Sequence Space Reasons and Implications of their Accidental Occurrences across Protein Universe
+Anharmonic Torsional Stiffness of DNA Revealed under Small External Torques
+Exploring the Energy Landscapes of Protein Folding Simulations with Bayesian Computation
+Entanglement Swapping Model of DNA Replication
+Replica exchange and expanded ensemble simulations as Gibbs sampling: Simple improvements for enhanced mixing
+Local elasticity of strained DNA studied by all-atom simulations
+Analyzing mechanisms and microscopic reversibility of self-assembly
+Heat-Bath Cooling of Spins in Two Amino Acids
+Ejection dynamics of a ring polymer out of a nanochannel
+Channels as Enzymes: Oxymoron and Tautology
+Electrostatic determinants of voltage sensitivity in ion channels: Simulations of sliding-helix mechanisms
+Theoretical Studies of Structure-Function Relationships in Kv Channels: Electrostatics of the Voltage Sensor
+On the bursting of gene products
+Evaluation of Competing J domain:Hsp70 Complex Models in Light of Existing Mutational and NMR Data
+Robust monomer-distribution biosignatures in evolving digital biota
+Comprehensive data-driven analysis of the impact of chemoinformatic structure on the genome-wide biological response profiles of cancer cells to 115 drugs
+Modular organisation of interaction networks based on asymptotic dynamics
+Automatic post-picking improves particle image detection from Cryo-EM micrographs
+Quantum scattering model of energy transfer in photosynthetic complexes
+Binding Parameters of Alkaloids Berberine and Sanguinarine with DNA
+Irregular transcription dynamics for rapid production of high-fidelity transcripts
+Double strand breaks in DNA resulting from double-electron-emission events
+Monitoring transient elastic energy storage within the rotary motors of single FoF1-ATP synthase by DCO-ALEX FRET
+Diffusion properties of single FoF1-ATP synthases in a living bacterium unraveled by localization microscopy
+Melting of genomic DNA: predictive modeling by nonlinear lattice dynamics
+Bubbles clusters and denaturation in genomic DNA: modeling parametrization efficient computation
+Classes of fast and specific search mechanisms for proteins on DNA
+Chiral polymerization: symmetry breaking and entropy production in closed systems
+Composite structural motifs of binding sites for delineating biological functions of proteins
+Michaelis-Menten dynamics of a polymer chain out of a dichotomous ATP-based motor
+Chiral symmetry breaking via crystallization of the glycine and alpha-amino acid system: a mathematical model
+Direct-coupling analysis of residue co-evolution captures native contacts across many protein families
+Effects of static and temporally fluctuating tensions on semiflexible polymer looping
+Effects of confinement on thermal stability and folding kinetics in a simple Ising-like model
+Rapid simulation of protein motion: merging flexibility rigidity and normal mode analyses
+Base Pair Openings and Temperature Dependence of DNA Flexibility
+Enol form of uracil in the GU wobble pair. NMR evidence
+Master equation of proteins in interaction with implicit or explicit solvent
+Step size of the rotary proton motor in single FoF1-ATP synthase from a thermoalkaliphilic bacterium by DCO-ALEX FRET
+Homochiral oligopeptides by chiral amplification: Interpretation of experimental data with a copolymerization model
+DNA bending and structural waters in major and minor grooves of A-tracts. Monte Carlo computer simulations
+Quantum Charge Transport and Conformational Dynamics of Macromolecules
+Ultraviolet Shadowing of RNA Causes Substantial Non-Poissonian Chemical Damage in Seconds
+Ion Binding Sites and their Representations by Quasichemical Reduced Models
+Entropy-Enthalpy Compensation May Be a Useful Interpretation Tool for Complex Systems Like Protein-DNA Complexes: An Appeal to Experimentalists
+Effect of interaction shape on the condensed DNA toroid
+Entropic Tension in Crowded Membranes
+Nonequilibrium effects in DNA microarrays: a multiplatform study
+Ion fluxes through nano-pores and transmembrane channels
+Comment on Length-dependent translation of messenger RNA by ribosomes
+From Cosmos to Intelligent Life: The Four Ages of Astrobiology
+Life's Chirality From Prebiotic Environments
+Translocation of a polymer chain driven by a dichotomous noise
+Universal geometrical factor of protein conformations as a consequence of energy minimization
+Electrokinetic-flow-induced viscous drag on a tethered DNA inside a nanopore
+Unzipping and binding of small interfering RNA with single walled Carbon Nanotube: a platform for small interfering RNA delivery
+Modeling of solvent flow effects in enzyme catalysis under physiological conditions
+Structure of DNA-Functionalized Dendrimer Nanoparticles
+A remarkable emergent property of spontaneous (amino acid content) symmetry breaking
+The Role of Non-native Interactions in the Folding of Knotted Proteins
+Driven polymer translocation through a cylindrical nanochannel: Interplay between the channel length and the chain length
+RNA unwinding from reweighted pulling simulations
+Stretching force dependent transitions in single stranded DNA
+Control of pathways and yields of protein crystallization through the interplay of nonspecific and specific attractions
+Energy fluctuations shape free energy of nonspecific biomolecular interactions
+Probing biological light-harvesting phenomena by optical cavities
+Hill's Small Systems Nanothermodynamics: A Simple Macromolecular Partition Problem with a Statistical Perspective
+Chiral Polymerization in Open Systems From Chiral-Selective Reaction Rates
+Absence of arsenate in DNA from arsenate-grown GFAJ-1 cells
+Protein Folding: The Gibbs Free Energy
+Anharmonic stacking in supercoiled DNA
+Evaluation of the Structural disorder of the protein FMR1 with Carbon Composition
+Macroscopic loop formation in circular DNA denaturation
+Multi-plectoneme phase of double-stranded DNA under torsion
+Nicotinic alpha 7 acetylcholine receptor-mediated currents are not modulated by the tryptophan metabolite kynurenic acid in adult hippocampal interneurons
+Numerical study of linear and circular model DNA chains confined in a slit: metric and topological properties
+Soluble oligomerization provides a beneficial fitness effect on destabilizing mutations
+Protein sequence and structure: Is one more fundamental than the other?
+Asymptotic distribution of motifs in a stochastic context-free grammar model of RNA folding
+Nonspecific Protein-DNA Binding Is Widespread in the Yeast Genome
+Role of ionic liquids in protein refolding: native fibrillar versus treated lysozyme
+Predicting Fixation Tendencies of the H3N2 Influenza Virus by Free Energy Calculation
+Substrate-Enzyme Interaction in Pig Liver Esterase
+Prolonging assembly through dissociation:A self assembly paradigm in microtubules
+Generalized Einstein or Green-Kubo relations for active biomolecular transport
+Statistical inference optimized with respect to the observed sample for single or multiple comparisons
+Stochastic thermodynamics of single enzymes and molecular motors
+Coherent open-loop optimal control of light-harvesting dynamics
+The nature of the low energy band of the Fenna-Matthews-Olson complex: vibronic signatures
+Modeling the interactions of biomatter and biofluid
+Controlling the folding and substrate-binding of proteins using polymer brushes
+Functional quantum biology in photosynthesis and magnetoreception
+The probability of double-strand breaks in giant DNA decreases markedly as the DNA concentration increases
+Conformational selection and induced changes along the catalytic cycle of E. coli DHFR
+Surface charges effects on the 2D conformation of supercoiled DNA
+A twist on folding: Predicting optimal sequences and optimal folds of simple protein models with the hidden-force algorithm
+Mechanism of helicase translocation along nucleic acid
+Hidden symmetries enhance quantum transport in Light Harvesting systems
+Compositional Analysis of the High Molecular Weight Ethylene Oxide Propylene Oxide Copolymer by MALDI Mass Spectrometry
+Periodic force induced stabilization or destabilization of the denatured state of a protein
+Folding of Pig Gastric Mucin Non-glycosylated Domains: A Discrete Molecular Dynamics Study
+Nucleosome positioning and energetics: Recent advances in genomic and computational studies
+High-throughput sequencing reveals a simple model of nucleosome energetics
+Statistical mechanics of nucleosome ordering by chromatin structure-induced two-body interactions
+Intuitive representation of surface properties of biomolecules using BioBlender
+Bistability of an In Vitro Synthetic Autoregulatory Switch
+The thermal denaturation of Peyrard-Bishop model with an external potential
+Classification Framework and Structure-Activity-Relationship (SAR) of Tetracycline-Structure-Based Drugs
+Dynamics of DNA Bubble in Viscous Medium
+DNA Self-Assembly and Computation Studied with a Coarse-grained Dynamic Bonded Model
+On the origin of the unusual behavior in the stretching of single-stranded DNA
+Cytokine expression in malaria-infected non-human primate placentas
+Origins of concentration dependence of waiting times for single-molecule fluorescence binding
+Shapes of hydrophobic thick membranes
+Ion Channels Natural Nanovalves
+Simulations of HIV capsid protein dimerization reveal the effect of chemistry and topography on the mechanism of hydrophobic protein association
+A Proposal on Quantum Histone Modification in Gene Expression
+A Novel Approach for Protein Structure Prediction
+Semiflexible bundle model explains the elasticity of fibrin networks
+Amino-acid-dependent main-chain torsion-energy terms for protein systems
+Building non-coding RNA families
+Sequence Dependence of Transcription Factor-Mediated DNA Looping
+CTCF-mediated transcriptional regulation through cell type-specific chromosome organization in the beta -globin locus
+The mechanics of a microscopic mixer: microtubules and cytoplasmic streaming in Drosophila oocytes
+Analysis of microtubule motion due to drag from kinesin walkers
+Nonlinear conformation of secondary protein folding
+Intrinsic Mean Square Displacements in Proteins
+Voltage sensing in ion channels: Mesoscale simulations of biological devices
+In silico modeling of the molecular structure and binding of leukotriene A4 into leukotriene A4 hydrolase
+Ratcheted molecular-dynamics simulations identify efficiently the transition state of protein folding
+Quantitative DMS mapping for automated RNA secondary structure inference
+The torque transfer coefficient in DNA under torsional stress
+Using Sequence Alignments to Predict Protein Structure and Stability With High Accuracy
+Helices at Interfaces
+Unraveling siRNA Unzipping Kinetics with Graphene
+Molecular dynamics simulations of a single stranded (ss) DNA
+Marked changes in electron transport through the blue copper protein azurin in the solid state upon deuteration
+On the feasibility and utility of exploiting real time database search to improve adaptive peak selection
+CoFold: thermodynamic RNA structure prediction with a kinetic twist
+Is ion channel selectivity mediated by confined water?
+Force unfolding kinetics of RNA using optical tweezers. II. Modeling experiments
+Learning Rates and States from Biophysical Time Series: A Bayesian Approach to Model Selection and Single-Molecule FRET Data
+Allosteric collaboration between elongation factor G and the ribosomal L1 stalk directs tRNA movements during translation
+Competition for hydrogen bond formation in the helix-coil transition and protein folding
+Dynamics of DNA breathing in the Peyrard-Bishop model with damping and external force
+Osmotic pressure induced coupling between cooperativity and stability of a helix-coil transition
+Lattice model of protein conformations
+Hydrogen bond models for the simulation of protein folding and aggregation
+Entropy involved in fidelity of DNA replication
+Fluorecently labeled bionanotransporters of nucleic acid based on carbon nanotubes
+Mesoscopic Model for Free Energy Landscape Analysis of DNA sequences
+Diffusion-limited rates on low-dimensional manifolds with extreme aspect ratios
+Optimizations of protein force fields
+Novel steady state of a microtubule assembly in a confined geometry
+Stacking and Hydrogen Bonding. DNA Cooperativity at Melting
+Interstrand pairing patterns in beta -barrel membrane proteins: the positive-outside rule aromatic rescue and strand registration prediction
+Improved coarse-graining of Markov state models via explicit consideration of statistical uncertainty
+Dynamical model for the full stretching curve of DNA
+Modeling and Analysis of Abnormality Detection in Biomolecular Nano-Networks
+Optimized Wang-Landau sampling of lattice polymers: Ground state search and folding thermodynamics of HP model proteins
+Length distribution of stiff self-assembled polymers at thermal equilibrium
+Implicit Ligand Theory: Rigorous Binding Free Energies and Thermodynamic Expectations from Molecular Docking
+Eigenvalues of the Homogeneous Finite Linear One Step Master Equation: Applications to Downhill Folding
+On correlation between protein secondary structure backbone bond angles and side-chain orientations
+Protein loops solitons and side-chain visualization with applications to the left-handed helix region
+Molecular structure and interactions of nucleic acid components in nanopaticles: ab initio calculations
+Solitons and Collapse in the lambda-repressor protein
+Punctuated evolution of influenza virus neuraminidase (A H1N1) under migration and vaccination pressures
+Virtual screening and lead optimisation to identify novel inhibitors for HDAC-
+Punctuated evolution of influenza virus hemagglutinin (A H1N1) under opposing migration and vaccination pressures
+Extra-Low-Frequency Magnetic Fields alter Cancer Cells through Metabolic Restriction
+Elastic Network Models: Theoretical and Empirical Foundations
+The nature of the infectious agents: PrP models of resistant species to prion diseases (dog rabbit and horses)
+Energies and pressures in viruses: contribution of nonspecific electrostatic interactions
+Molecular Dynamics Studies on the Structural Stability of Wild-Type Rabbit Prion Protein: Surface Electrostatic Charge Distributions
+Cooperativity in the annealing of DNA origamis
+Medicinal Plants Database and Three Dimensional Structure of the Chemical Compounds from Medicinal Plants in Indonesia
+Hysteresis and nonequilibrium work theorem for DNA unzipping
+Autonomous Motility of Active Filaments due to Spontaneous Flow-Symmetry Breaking
+Sequence-dependent thermodynamics of a coarse-grained DNA model
+Mesoscopic models for DNA stretching under force: new results and comparison to experiments
+Role of the Subunits Interactions in the Conformational Transitions in Adult Human Hemoglobin: an Explicit Solvent Molecular Dynamics Study
+Aptamer-based Impedimetric Sensor for Bacterial Typing
+Molecular Simulations of the Fluctuating Conformational Dynamics of Intrinsically Disordered Proteins
+Self-Organized Criticality: A Prophetic Path to Curing Cancer
+Rodlike Complexes of a Polyelectrolyte (Hyaluronan) and a Protein (Lysozyme) observed by SANS
+Docking Studies on HIV Integrase Inhibitors Based On Potential Ligand Binding Sites
+DNA as a one-dimensional chiral material. II. Dynamics of the structural transition between B form and Z form
+On the role of thermal backbone fluctuations in myoglobin ligand gate dynamics
+Performance Analysis Cluster and GPU Computing Environment on Molecular Dynamic Simulation of BRV-1 and REM2 with GROMACS
+Impact of Charge Variation on the Encapsulation of Nanoparticles by Virus Coat Proteins
+Study of the photocycle of the metastable states of SRII and their mutants with the use of light activated NMR spectroscopy
+Replica-Permutation Method with the Suwa-Todo Algorithm beyond the Replica-Exchange Method
+Florigenic and antiflorigenic signalling in plants
+Length scale dependence of DNA mechanical properties
+Orientation Sensitive Terahertz Resonances Observed in Protein Crystals
+Uncovering hidden macromolecular dynamics with Modulated Orientation Sensitive Terahertz Spectroscopy
+Structural Fluctuation of Protein in Water around Its Native State: A New Statistical Mechanics Formulation
+Relationship between preexponent and distribution over activation barrier energies for enzymatic reactions
+Stochastic thermodynamics fluctuation theorems and molecular machines
+Temperature and force dependence of nanoscale electron transport via the Cu protein Azurin
+Doping Human Serum Albumin with Retinoate Markedly Enhances Electron Transport Across the Protein
+Sequence-dependent spin-selective tunneling along double-stranded DNA
+Comparative Analysis of RNA Families Reveals Distinct Repertoires for Each Domain of Life
+Efficiencies of a molecular motor: A generic hybrid model applied to the F1-ATPase
+Cystine plug and other novel mechanisms of large mechanical stability in dimeric proteins
+Hidden Complexity in the Isomerization Dynamics of Holliday Junctions
+Direct observation of silver nanoparticle-ubiquitin corona formation
+Ensemble-based characterization of unbound and bound states on protein energy landscape
+Probing Hybridization parameters from microarray experiments: nearest neighbor model and beyond
+Effect of bending rigidity on the knotting of a polymer under tension
+Dynamical Aspects of Information in Copolymerization Processes
+Reconstructing the free-energy landscape of Met-enkephalin using dihedral Principal Component Analysis and Well-tempered Metadynamics
+Facilitated diffusion on confined DNA
+Control of a Model of DNA Division via Parametric Resonance
+Fold or die: experimental evolution in vitro
+The Physics of Life: one molecule at a time
+Salt Contribution to the Flexibility of Single-stranded Nucleic Acid of Finite Length
+Accurate Demarcation of Protein Domain Linkers based on Structural Analysis of Linker Probable Region
+Calcium Carbonate Polyamorphism and Its Role in Biomineralization: How Many Amorphous Calcium Carbonates Are There?
+RNA under Tension: Folding Landscapes Kinetic Partitioning Mechanism and Molecular Tensegrity
+Cluster-scaling chaotic order and coherence in DNA
+An optimization strategy on prion AGAAAAGA amyloid fibril molecular modeling
+Canonical dual theory applied to a Lennard-Jones potential minimization problem
+A strategy on prion AGAAAAGA amyloid fibril molecular modelling
+Correcting pervasive errors in RNA crystallography through enumerative structure prediction
+Chain Length Determines the Folding Rates of RNA
+Molecular dynamics simulation of reversibly self-assembling shells in solution using trapezoidal particles
+Universal Sequence Replication Reversible Polymerization and Early Functional Biopolymers: A Model for the Initiation of Prebiotic Sequence Evolution
+Multiple barriers in forced rupture of protein complexes
+Computational Potential Energy Minimization Studies on the Prion AGAAAAGA Amyloid Fibril Molecular Structures
+Microscopically Computing Free-energy Profiles and Transition Path Time of Rare Macromolecular Transitions
+Force-clamp analysis techniques reveal stretched exponential unfolding kinetics in ubiquitin
+Polymer uncrossing and knotting in protein folding and their role in minimal folding pathways
+Entropically Dominant State of Proteins
+Self-consistent field theory for the interactions between keratin intermediate filaments
+Molecular interactions between the constituents of small ribosomal subunit
+Dynamics of polymer translocation into a circular nanocontainer through a nanopore
+Chain conformation of ring polymers under a cylindrical nanochannel confinement
+Dynamics of polymer translocation into an anisotropic confinement
+Translocation of stiff polymers through a nanopore driven by binding particles
+ProtFract: A server to calculate interior and exterior fractal properties of proteins: Case study with Ras superfamily proteins
+Single-molecule stochastic resonance
+Residue mobility has decreased during protein evolution
+A criterion to identify the equilibration time in lipid bilayer simulations
+Comparing secondary structures of RNA and calculating the free energy of an interior loop using a novel method for calculating free energy
+Comparing proteins by their internal dynamics: exploring structure-function relationships beyond static structural alignments
+Link the Fluorescence and TEM Studies on Amyloid Fiber Formation -- To Reconstruct the Fiber Length Distribution Based on the Knowledge of Moments Evolution
+Modeling Fibril Fragmentation in Real-Time
+The size of the nucleosome
+Consequences of local inter-strand dehybridization for large-amplitude bending fluctuations of double-stranded DNA
+Combinatorics of locally optimal RNA secondary structures
+Self-assembly of artificial microtubules
+Understanding surface-adsorption of proteins: the Vroman effect
+First principles structures and circular dichroism spectra for the close-packed and the 7 2 motif of collagen
+The LBFGS Quasi-Newtonian Method for Molecular Modeling Prion AGAAAAGA Amyloid Fibrils
+Inference of Co-Evolving Site Pairs: an Excellent Predictor of Contact Residue Pairs in Protein 3D structures
+Pull moves for rectangular lattice polymer models are not fully reversible
+Unwinding and rewinding the nucleosome inner turn: Force dependence of the kinetic rate constants
+Non-Ideality of a DNA Strand Displacement AND Gate Studied with a Dynamic Bonded DNA Model
+Diffusion NMR study of complex formation in membrane-associated peptides
+Membrane environment imposes unique selection pressures on transmembrane domains of G protein-coupled receptors
+Microcanonical thermostatistics of coarse-grained proteins with amyloidogenic propensity
+Simulating rare events using a Weighted Ensemble-based string method
+On the confinement of semiflexible chains under torsion
+Photo-mechanical energy conversion using polymer brush dissociation
+Hierarchical Nystrom Methods for Constructing Markov State Models for Conformational Dynamics
+Spontaneous motion in hierarchically assembled active matter
+Adiabatic reduction of models of stochastic gene expression with bursting
+An Efficient Algorithm for Upper Bound on the Partition Function of Nucleic Acids
+Polarization effect of zinc on the region 1-16 of amyloid-beta peptide: a molecular dynamics study
+The RNA Newton Polytope and Learnability of Energy Parameters
+Modeling Viral Capsid Assembly
+Dynamic behavior of stochastic gene expression models in the presence of bursting
+Studying DNA translocation in nanocapillaries using single molecule fluorescence
+Helices 2 and 3 are the initiation sites in the PrPc - PrPsc transition
+Delivery of time-varying stimuli using ChR2
+Surface adsorption of lattice HP proteins: Thermodynamics and structural transitions using Wang-Landau sampling
+Generic folding and transition hierarchies for surface adsorption of hydrophobic-polar lattice model proteins
+Unraveling the beautiful complexity of simple lattice model polymers and proteins using Wang-Landau sampling
+A molecular dynamics and circular dichroism study of a novel synthetic antimicrobial peptide
+Coarse-grained simulations of RNA and DNA duplexes
+Protein flexibility upon ligand binding: Docking predictions and statistical analysis
+Examining the meaning of the peptide transfer free energy obtained from blocked (Gly) n and cyclic-diglycine model compounds
+Confinement induces conformational transition of semiflexible polymer rings to figure eight form
+Fibril elongation mechanisms of HET-s prion-forming domain: Topological evidence for growth polarity
+Selecting fast folding proteins by their rate of convergence
+McGenus: A Monte Carlo algorithm to predict RNA secondary structures with pseudoknots
+Quantum transport in quantum networks and photosynthetic complexes at the steady state
+Role of osmotic and hydrostatic pressures in bacteriophage genome ejection
+Tunable Thermal Switching via DNA-Based Nano Devices
+The Lipid-RNA World
+Mechanical probes of SOD1 predict systematic trends in metal and dimer affinity of ALS-associated mutants
+Structure-property-function relationships in triple helical collagen hydrogels
+SOD1 Exhibits Allosteric Frustration to Facilitate Metal Binding Affinity
+A mutate-and-map protocol for inferring base pairs in structured RNA
+Serverification of Molecular Modeling Applications: the Rosetta Online Server that Includes Everyone (ROSIE)
+Unified model for conductance through DNA with the Landauer-Buttiker formalism
+Stereochemistry of Polypeptide Conformation in Coarse Grained Analysis
+Folding Pathways of a Knotted Protein with a Realistic Atomistic Force Field
+Modeling DNA Dynamics by Path Integrals
+Comparative Molecular Mechanics and Quantum Mechanics Study of Microhydration of Nucleic Acid Bases
+Monitoring subunit rotation in single FRET-labeled FoF1-ATP synthase in an anti-Brownian electrokinetic trap
+Hybrids of a Genetically Engineered Antibody and a Carbon Nanotube Transistor for Detection of Prostate Cancer Biomarkers
+Detecting Lyme Disease Using Antibody-Functionalized Single-Walled Carbon Nanotube Transistors
+How conformational changes can affect catalysis inhibition and drug resistance of enzymes with induced-fit binding mechanism such as the HIV-1 protease
+Role of Energy-Level Mismatches in a Multi-Pathway Complex of Photosynthesis
+Electrostatic considerations affecting the calculated HOMO-LUMO gap in protein molecules
+Entropic control of particle sizes during viral self-assembly
+Subunit rotation in single FRET-labeled F1-ATPase hold in solution by an anti-Brownian electrokinetic trap
+Coexistence between fluid and crystalline phases of proteins in photosynthetic membranes
+Identification of slow molecular order parameters for Markov model construction
+The Tension on dsDNA Bound to ssDNA RecA Filaments May Play an Important Role in Driving Efficient and Accurate Homology Recognition and Strand Exchange
+Transcription and the Pitch Angle of DNA
+Optimal reconstruction of the folding landscape using differential energy surface analysis
+Force-clamp experiments reveal the free energy profile and diffusion coefficient of the collapse of proteins
+Glycerol Modulates Water Permeation through Escherichia coli Aquaglyceroporin GlpF
+Glycerol Inhibits Water Permeation through Plasmodium Falciparum Aquaglyceroporin
+Kinetic Pathways of the DNA Melting Transition
+ClusCo: clustering and comparison of protein models
+Genome-wide organization of eukaryotic pre-initiation complex is influenced by nonconsensus protein-DNA binding
+Modeling the interaction of DNA with alternating fields
+Automated Identification and Classification of Stereochemistry: Chirality and Double Bond Stereoisomerism
+Aggregate geometry in amyloid fibril nucleation
+Starch metabolism and antiflorigenic signals modulate the juvenile-to-adult phase transition in Arabidopsis
+Local compression properties of double-stranded DNA based on a dynamic simulation
+The molecular yo-yo method: Live jump detection improves throughput of single-molecule force spectroscopy for out-of-equilibrium transitions
+Hierarchical hydropathic evolution of influenza glycoproteins (N2 H3 A H3N2) under relentless vaccination pressure
+The dynamics and flexibility of protein disulphide-isomerase (PDI): predictions of experimentally-observed domain motions
+From mechanical folding trajectories to intrinsic energy landscapes of biopolymers
+A new approach to microscopic modeling of a hole transfer in heteropolymer DNA
+Formation of Cystine Slipknots in Dimeric Proteins
+The combinatorial multitude of fatty acids can be described by Fibonacci numbers
+DNA duplex cage structures with icosahedral symmetry
+DNA cages with icosahedral symmetry in bionanotechnology
+Group theory of icosahedral virus capsids: a dynamical top-down approach
+Impact of vibrational entropy on the stability of unsolvated peptide helices with increasing length
+Orientation Determination from Cryo-EM images Using Least Unsquared Deviation
+pH-dependent coarse-grained model of peptides
+An energetic model for macromolecules unraveling
+Experimental free energy measurements of kinetic molecular states using fluctuation theorems
+A model of H-NS mediated compaction of bacterial DNA
+Massively Parallel RNA Chemical Mapping with a Reduced Bias MAP-seq Protocol
+The Graph Grammar Library - a generic framework for chemical graph rewrite systems
+Kinetic proofreading at single molecular level: Aminoacylation of tRNA Ile and the role of water as an editor
+On the possibility of electronic DNA nanobiochips
+A Coarse-Grained Model for Predicting RNA Folding Thermodynamics
+Entropic stabilization of the folded states of RNA due to macromolecular crowding
+The MIp Toolset: an efficient algorithm for calculating Mutual Information in protein alignments
+Quorum sensing inhibitory compounds from extremophilic microorganisms isolated from a hypersaline cyanobacterial mat
+Dynamics of Charge Transfer in Ordered and Chaotic Nucleotide Sequences
+On the Possibility of Superfast Charge Transfer in DNA
+The atomic-level mechanism underlying the functionality of aquaporin-0
+Consensus for the Fip35 folding mechanism?
+Stimulation of Enzyme Reaction Rates by Crystalline Substrate Irradiation: Dependence on Identity of Irradiated Substance
+Multiscale enhanced path sampling based on the Onsager-Machlup action: Application to a model polymer
+Uniform generation of RNA pseudoknot structures with genus filtration
+A remote response of ATP hydrolysis
+Atomic Biology Electrostatics and Ionic Channels
+The Meccano of life
+Coarse-grained protein-protein stiffnesses and dynamics from all-atom simulations
+Optimality Properties of a Proposed Precursor to the Genetic Code
+Simulating Stochastic Dynamics Using Large Time Steps
+Nucleation at the DNA supercoiling transition
+Bubble statistics and positioning in superhelically stressed DNA
+Direct measurement of cell wall stress-stiffening and turgor pressure in live bacterial cells
+Optical switching of radical pair conformation enhances magnetic sensitivity
+Influences of Excluded Volume of Molecules on Signaling Processes on Biomembrane
+Domain-domain interactions in Filamin A (16-23) impose a hierarchy of unfolding forces
+Statistical Mechanics of DNA unzipping under periodic force: Scaling behavior of hysteresis loop
+Directional interactions and cooperativity between mechanosensitive membrane proteins
+Elements of Coevolution in Biological Sequences
+Probing Protein Ensemble Rigidity and Hydrogen-Deuterium exchange
+Dynamics of ion-phosphate lattice of DNA in left-handed double helix form
+Intracellular micro-rheology probed by micron-sized wires
+Probing the Origins of Two-State Folding
+Ion-mediated RNA structural collapse: effect of spatial confinement
+Optimality of Moore neighborhoods in protein contact maps
+Coherent diffraction and holographic imaging of individual biomolecules using low-energy electrons
+Interacting Ions in Biophysics: Real is not Ideal
+Low concentrated hydroxyectoine solutions in presence of DPPC lipid bilayers: a computer simulation study
+Fighting against uncertainty: An essential issue in bioinformatics
+In silico investigation of lactone and thiolactone inhibitors in bacterial quorum sensing using molecular modeling
+Ubiquitous nucleosome unwrapping in the yeast genome
+Helix untwisting and bubble formation in circular DNA
+Reduced Dimensionality tailored HN(C)N Pulse Sequences for Efficient Backbone Resonance Assignment of Proteins through Rapid Identification of Sequential HSQC peaks
+Ligand Discrimination in Myoglobin from Linear-Scaling DFT U
+Primordial RNA Replication and Applications in PCR Technology
+In Silico Design Extended Molecular Dynamic Simulations and Binding Energy Calculations for a New Series of Dually Acting Inhibitors against EGFR and HER2
+Getting DNA twist rigidity from single molecule experiments
+Deconstructing the energy landscape: new algorithms for folding heteropolymers
+Ion in Fluctuating Channels: Transistors Alive
+Stretching short biopolymers by fields and forces
+Systematic Field Theory of the RNA Glass Transition
+DNA: From rigid base-pairs to semiflexible polymers
+Efficient model chemistries for peptides. I. Split-valence Gaussian basis sets and the heterolevel approximation in RHF and MP2
+Asymptotics of Canonical and Saturated RNA Secondary Structures
+Structural mechanical and thermodynamic properties of a coarse-grained DNA model
+Ionic Interactions in Biological and Physical Systems: a Variational Treatment
+DNA cruciform arms nucleate through a correlated but non-synchronous cooperative mechanism
+Coarse-grained simulations of DNA overstretching
+Molecular Dynamics Studies on 3D Structures of the Hydrophobic Region PrP(10-136)
+Mechanical resistance in unstructured proteins
+Replication of proto-RNAs sustained by ligase-helicase cycle in oligomer world
+Is protein folding problem really a NP-complete one ? First investigations
+Protein structure prediction software generate two different sets of conformations. Or the study of unfolded self-avoiding walks
+Activity and Steady-State Kinetics of One-Dimensional Kinetic Ising Model
+Efficient Exploration of the Space of Reconciled Gene Trees
+Local search on protein residue networks
+Performance of a GPU-based Direct Summation Algorithm for Computation of Small Angle Scattering Profile
+Free energy barrier for melittin reorientation from a membrane-bound state to a transmembrane state
+Detecting Repetitions and Periodicities in Proteins by Tiling the Structural Space
+Photo-active collagen systems with controlled triple helix architecture
+Generalized Iterative Annealing Model for the action of RNA chaperones
+Prediction of the effective force on DNA in a nanopore based on density functional theory
+Computational investigations of folded self-avoiding walks related to protein folding
+Force-Induced Unzipping Transitions in an Athermal Crowded Environment
+Statistical inference for template-based protein structure prediction
+Propagation of Tension along a Polymer Chain
+Electrophoresis of a DNA Coil Near a Nanopore
+Electrophoretic Capture of a DNA Chain into a Nanopore
+When does TMAO fold a polymer chain and urea unfold it?
+Electrostatic map of T7 DNA. Comparative analysis of functional and electrostatic properties of T7 RNA polymerase specific promoters
+Long range correlations and folding angle in polymers with applications to alpha -helical proteins
+Convergent dynamics in the protease enzymatic superfamily
+Recent progress in fluctuation theorems and free energy recovery
+Non-specific binding of Na and Mg 2 to RNA determined by force spectroscopy methods
+Statistical analysis of sizes and shapes of virus capsids and their resulting elastic properties
+Increase of cationic concentration due to bending of overcharged DNA in strong Coulomb coupling regime
+Biomolecular resource utilization in elementary cell-free gene circuits
+Structure and mechanical characterization of DNA i-motif nanowires by molecular dynamics simulation
+Force Spectroscopy with Dual-Trap Optical Tweezers: Molecular Stiffness Measurements and Coupled Fluctuations Analysis
+Counter-propagating dual-trap optical tweezers based on linear momentum conservation
+The network of stabilizing contacts in proteins studied by coevolutionary data
+Combine Umbrella Sampling with Integrated Tempering Method for Efficient and Accurate Calculation of Free Energy Changes of Complex Energy Surface
+RNA secondary structure prediction from multi-aligned sequences
+Protein Energy Landscapes Determined by 5-Dimensional Crystallography
+Solvent Sensitivity of Protein Unfolding: Study of Chicken Villin Headpiece Subdomain in Water-Ethanol and Water-DMSO Mixtures
+Interplay between folding and assembly of fibril-forming polypeptides
+Plasmodium falciparum Hsp70-x: A Heat Shock Protein at the Host - Parasite Interface
+Translation by adaptor-helicase cycle in oligomer world
+Folding Kinetics of Riboswitch Transcriptional Terminators and Sequesterers
+Exploring the mechanisms of protein folding
+Spatiotemporal model of a key step in endocytosis: SNX recruitment via phosphoinositides
+Multi-plectoneme phase of double-stranded DNA under torsion
+Urea-induced denaturation of PreQ1-riboswitch
+RNA peptide binding driven by electrostatics -- Insight from bi-directional pulling simulations
+A Fourier-based Approach for Iterative 3D Reconstruction from Cryo-EM Images
+Motor function in interpolar microtubules during metaphase
+Transmembrane and Antimicrobial Peptides. Hydrophobicity Amphiphilicity and Propensity to Aggregation
+Elasticity of DNA and the effect of Dendrimer Binding
+Nonequilibrium dynamics of an exactly solvable Ising-like model and protein translocation
+Distribution of graph-distances in Boltzmann ensembles of RNA secondary structures
+Shear-Induced Unfolding Activates von Willebrand Factor A2 Domain for Proteolysis
+A Statistical Mechanical Approach to Protein Aggregation
+Error correction during DNA replication
+From principal component to direct coupling analysis of coevolution in proteins: Low-eigenvalue modes are needed for structure prediction
+Quantum conformational transition in biological macromolecule
+Structural and evolutionary tunnels of pairwise residue-interaction symmetries connect different structural classes of proteins
+How Cations Change Peptide Structure
+Dissipative Quantum Transport in Macromolecules: An Effective Field Theory Approach
+pH-dependent Response of Coiled Coils: A Coarse-Grained Molecular Simulation Study
+On the distribution of DNA translocation times in solid-state nanopores: an analysis using Schrodinger's first-passage-time theory
+Buried and accessible surface area control intrinsic protein flexibility
+The spatial structure of cell signaling systems
+In vitro toxicity of nanoceria: effect of coating and stability in biofluids
+Numerical Simulation of Folding and Unfolding of Proteins
+Combining Coarse-Grained Protein Models with Replica-Exchange All-Atom Molecular Dynamics
+Protein folding tames chaos
+Dipole-dipole interactions in protein-protein complexes: a quantum mechanical study of the ubiquitin-Dsk2 complex
+A structure-based model fails to probe the mechanical unfolding pathways of the titin I27 domain
+Pathway drug cocktail: targeting Ras signaling based on structural pathways
+Protein conformational dynamics and electronic structure
+Strong Traces Model of Self-Assembly Polypeptide Structures
+Predicting non-neutral missense mutations and their biochemical consequences using genome-scale homology modeling of human protein complexes
+Bipedal nanowalker by pure physical mechanisms
+Hydrophobic interactions and hydrogen bonds in beta-sheet formation
+Statistical Mechanical Treatments of Protein Amyloid Formation
+A Kinetic Study of Amyloid Formation: Fibril Growth and Length Distributions
+Triple-helical collagen hydrogels via covalent aromatic functionalization with 1 3-Phenylenediacetic acid
+Elastic energy of proteins and the stages of protein folding
+The statistical properties of protein folding in the phi 4 theory
+In silico screening of 33 mutants facilitates enzyme engineering of amidase activity in CalB
+Electrostatic forces on charged surfaces of bilayer lipid membranes
+Density-functional theory study of gramicidin A ion channel geometry and electronic properties
+A computational method for the systematic screening of reaction barriers in enzymes: Searching for Bacillus circulans xylanase mutants with greater activity towards a synthetic substrate
+On the crucial features of a single-file transport model for ion channels
+Quantum Calculations Show Caution Is Needed In Interpreting Methanethiosulfonate Accessibility Experiments On Ion Channels
+Dimension reduction of clustering results in bioinformatics
+Fast and Exact Sequence Alignment with the Smith-Waterman Algorithm: The SwissAlign Webserver
+Liquid general anesthetics lower critical temperatures in plasma membrane vesicles
+Carboplatin binding to a model protein in non-NaCl conditions to eliminate partial conversion to cisplatin and the use of different criteria to choose the resolution limit
+Nanodiamonds with silicon vacancy defects for non-toxic photostable fluorescent labeling of neural precursor cells
+Global SAXS data analysis for multilamellar vesicles: Evolution of the scattering density profile (SDP) model
+Allostery without conformation change: modelling protein dynamics at multiple scales
+Robust signals from a quantum-based magnetic compass sensor
+Equilibrium morphologies and force extension behavior for polymers with hydrophobic patches: Role of quenched disorder
+Multicanonical simulation of the Domb-Joyce model and the Go model: new enumeration methods for self-avoiding walks
+Reply to Comment on 'Length Scale Dependence of DNA Mechanical Properties'
+A cascade of metabolic and protein folding gene loss at the base of Metazoa
+DNA hybridization kinetics: zippering internal displacement and sequence dependence
+Effective harmonic potentials: insights into the internal cooperativity and sequence-specificity of protein dynamics
+Rerouting Excitation Transfer in the Fenna-Matthews-Olson Complex
+Protein folding: Complex potential for the driving force in a two-dimensional space of collective variables
+Single-Base DNA Discrimination via Transverse Ionic Transport
+Monolayer Spontaneous Curvature of Raft-Forming Membrane Lipids
+Prediction of linear cationic antimicrobial peptides based on characteristics responsible for their interaction with the membranes
+Energy landscape theory for cotranslational protein folding
+Bundling in brushes of directed and semiflexible polymers
+Dynamics of ions in the selectivity filter of the KcsA channel: Towards a coupled Brownian particle description
+Computing 1-D atomic densities in macromolecular simulations: the Density Profile Tool for VMD
+Ligand-induced stabilization of the aptamer terminal helix in the add adenine riboswitch
+Correlated local bending of DNA double helix and its effect on the cyclization of short DNA fragments
+Self Organizing Maps to efficiently cluster and functionally interpret protein conformational ensembles
+Density Functional Theory for Protein Transfer Free Energy
+Sequence-Structure Relationship in Proteins: a Computational Analysis of Proteins that Differ in Sequence but Share the Same Fold
+Statistical Mechanics of DNA Rupture: Theory and Simulations
+Enantiomer-specific isotope analysis of D- and L-alanine: Nitrogen isotopic hetero- and homogeneity in microbial and chemical processes
+Statistical Inference of a canonical dictionary of protein substructural fragments
+Solvation Effects on Hole Mobility in the Poly G Poly C Duplex
+Poly(dA:dT)-rich DNAs are highly flexible in the context of DNA looping
+Mapping the intramolecular signal transduction of G-protein coupled receptors
+Exact Learning of RNA Energy Parameters From Structure
+Design principles governing the motility of myosin V
+Characterizing protein crystal contacts and their role in crystallization: rubredoxin as a case study
+Maximum allowed solvent accessibilites of residues in proteins
+Comments on Length scale dependence of DNA mechanical properties
+Twist neutrality a zero sum rule for oriented closed space curves with applications to circular DNA
+H-loop Histidine Catalyzes ATP Hydrolysis in the E. coli ABC-Transporter HlyB
+Effect of magnesium ions on dielectric relaxation in semidilute DNA aqueous solutions
+New phase transition in random planar diagrams and RNA-type matching
+Parallel DNA Synthesis : Two PCR product from one DNA template
+Mobility of core water in Bacillus subtilis spores by 2 H NMR
+Dynamic Monte Carlo simulation of coupled transport through a narrow multiply-occupied pore
+Balance of enthalpy and entropy in depletion forces
+Interplay between single-stranded binding proteins on RNA secondary structure
+Conditional solvation of isoleucine in model extended and helical peptides: context dependence of hydrophobic hydration and the failure of the group-transfer model
+Mode-coupling points to functionally important residues in Myosin II
+Internal water and microsecond dynamics in myoglobin
+A physicist's view of DNA
+In situ ore formation experiment: Amino acids and amino sugars trapped in artificial chimneys on deep-sea hydrothermal systems at Suiyo Seamount Izu-Bonin Arc Pacific Ocean
+Lattice solution model for order-disorder transitions in membranes and Langmuir monolayers
+Computational biology approach to uncover hepatitis C virus helicase operation
+Optimal atomic-resolution structures of prion AGAAAAGA amyloid fibrils
+The Structural Stability of Wild-type Horse Prion Protein - Molecular Dynamics Studies
+A novel canonical dual computational approach for prion AGAAAAGA amyloid fibril molecular modeling
+Effects of electropermeabilization and gene electrotransfert on the lateral mobility of a GPi anchored protein
+Quinary lattice model of secondary structures of polymers
+Three-Way Electrochemical Sensing of Ultra-Low MicroRNA Levels
+Modeling the mechano-chemistry of the phi 2 DNA translocation motor
+Molecular dynamics studies on the NMR and X-ray structures of rabbit prion protein wild-type and mutants
+Energetics of discrete selectivity bands and mutation-induced transitions in the calcium-sodium ion channels family
+The entropic lock and key of the histone code
+The Principle of Stationary Action in Biophysics: Stability in Protein Folding
+5-Methylation of Cytosine in CG:CG Base-Pair Steps: A Physicochemical Mechanism for the Epigenetic Control of DNA Nanomechanics
+A new formulation of protein evolutionary models that account for structural constraints
+Origin of long-lived oscillations in 2D-spectra of a Quantum Vibronic Model: Electronic vs Vibrational coherence
+On the application of Good-Turing statistics to quantify convergence of biomolecular simulations
+Electron spin and the origin of Bio-homochirality I. Extant enzymatic reaction model
+From Metadynamics to Dynamics
+Structural flexibility of intrinsically disordered proteins induces stepwise target recognition
+Annealed lattice animal model and Flory theory for the melt of non-concatenated rings: Towards the physics of crumpling
+On the ion-mediated interaction between protein and DNA
+Protein-DNA electrostatics: toward a new paradigm for protein sliding
+Statistical model of intra-chromosome contact maps
+Sequence-dependent folding landscapes of adenine riboswitch aptamers
+Frustration in Biomolecules
+Accuracy of translation on ribosome could be provided by a resonance of intramolecular oscillations in tRNA molecules
+Molecular Motor-Powered Shuttles along Multi-walled Carbon Nanotube Tracks
+PLUMED-GUI: an environment for the interactive development of molecular dynamics analysis and biasing scripts
+Unzipping of DNA under the influence of external fields
+Unfolding kinetics of periodic DNA hairpins
+Shiga Toxin Detection Methods : A Short Review
+Activation-triggered subunit exchange between CaMKII holoenzymes facilitates the spread of kinase activity
+Simplified flexibility analysis of proteins
+Sensitivity of Water Dynamics to Biologically Significant Surfaces of Monomeric Insulin: Role of Topology and Electrostatic Interactions
+Evolution through time of Pyrrolizidine Alkaloids detection and quantification
+Contact and first layer residues prediction in protein dimers using the Gaussian Network model with adjustable number of fast modes
+Hierarchical model of the actomyosin molecular motor based on ultrametric diffusion with drift
+Computational Studies of the Structural Stability of Rabbit Prion Protein Compared to Human and Mouse Prion Proteins
+Planar diagrams from optimization
+Learning a peptide-protein binding affinity predictor with kernel ridge regression
+Analyzing Machupo virus-receptor binding by molecular dynamics simulations
+Predicting protein contact map using evolutionary and physical constraints by integer programming (extended version)
+Joint Multi-family Evolutionary Coupling Analysis for Protein Contact Prediction
+Optimizing weights of protein energy function to improve ab initio protein structure prediction
+Learning to Fold Proteins Using Energy Landscape Theory
+A unified description of solvent effects in the helix-coil transition
+Nanosystem Self-Assembly Pathways Discovered via All-Atom Multiscale Analysis
+Effect of ionic ordering in conductivity experiments of DNA aqueous solutions
+Olive oil's polyphenolic metabolites - from their influence on human health to their chemical synthesis
+Coarse-grained DNA model capable of simulating ribose flexibility
+Correcting a SHAPE-directed RNA structure by a mutate-map-rescue approach
+Secondary structure prediction of protein constructs using random incremental truncation and vacuum-ultraviolet CD spectroscopy
+Single Molecule FRET Reveals Pore Size and Opening Mechanism of MscL
+Output-input coupling in thermally fluctuating biomolecular machines
+Deep-sequencing of the Peach Latent Mosaic Viroid Reveals New Aspects of Population Heterogeneity
+Photoreceptors for a light biotransducer: a comparative study of the electrical responses of two (type-1)-opsins
+Lipid ion channels and the role of proteins
+From a melt of rings to chromosome territories: The role of topological constraints in genome folding
+Can pseudocomplementary peptide nucleic acid nucleases (pcPNANs) be a new tool for genetic engineering?
+Iterative derivation of effective potentials to sample the conformational space of proteins at atomistic scale
+Mathematical model of alternative mechanism of telomere length maintenance
+The role of carbohydrates at the origin of homochirality in biosystems
+Nucleotide-induced conformational motions and transmembrane gating dynamics in a bacterial ABC transporter
+Quick Detection of Contaminants Leaching from Polypropylene Centrifuge Tube with Surface Enhanced Raman Spectroscopy and Ultra Violet Absorption Spectroscopy
+Monolithic Integrations of Slanted Silicon Nanostructures on 3D Microstructures and Their Application to Surface Enhanced Raman Spectroscopy
+Using Markov State Models to Study Self-Assembly
+The regulatory switch of F1-ATPase studied by single-molecule FRET in the ABEL Trap
+Regulatory conformational changes of the epsilon subunit in single FRET-labeled FoF1-ATP synthase
+Comparing open and closed molecular self-assembly
+RNA Control of HIV-1 Particle Size Polydispersity
+Protonation States of Remote Residues Affect Binding-Release Dynamics of the Ligand but not the Conformation of apo Ferric Binding Protein
+Microtubule shuttles on kinesin-coated glass micro-wire tracks
+PDBCirclePlot: A Novel Visualization Method for Protein Structures
+Development and applications of Coarse Grained models for RNA
+Coarse-grained modeling of protein unspecifically bound to DNA
+Models of DNA denaturation dynamics: universal properties
+Theoretical and Experimental Investigations of DNA Open States
+Evidence of disorder in biological molecules from single molecule pulling experiments
+A circular order on edge-coloured trees and RNA m-diagrams
+Atomic-accuracy prediction of protein loop structures through an RNA-inspired ansatz
+Protein structure validation and refinement using amide proton chemical shifts derived from quantum mechanics
+Exact Partition Function Zeros of the Wako-Saito-Mu noz-Eaton Protein Model
+Rare-event trajectory ensemble analysis reveals metastable dynamical phases in lattice proteins
+A Cubic Equation of State for Amyloid Plaque Formation
+Rotationally Invariant Image Representation for Viewing Direction Classification in Cryo-EM
+Thermodynamic Description of Beta Amyloid Formation
+Tracking individual nanodiamonds in Drosophila melanogaster embryos
+DNA confined in a two-dimensional strip geometry
+Hydrogen peroxide thermochemical oscillator as driver for primordial RNA replication
+Improving contact prediction along three dimensions
+Shapes of topological RNA structures
+Amino acid metabolism conflicts with protein diversity
+Stochastic noise reduction upon complexification: positively correlated birth-death type systems
+Nanoplasmonic Tweezers Visualize Protein p53 Suppressing Unzipping of Single DNA-Hairpins
+Competition between monomeric and dimeric crystals in schematic models for globular proteins
+Virus-Encoded Ribonucleotide Reductases
+Bright and fast voltage reporters across the visible spectrum via electrochromic FRET (eFRET)
+Stronger findings from mass spectral data through multi-peak modeling
+Does quantum entanglement in DNA synchronize the catalytic centers of type II restriction endonucleases?
+Breathing dynamics based parameter sensitivity analysis of hetero-polymeric DNA
+RNA as a Permutation
+Observation of a Change in Bend of an RNA Kissing Complex Using the Angular Dependence of Fluorescence Resonance Energy Transfer
+Mechanosensitive Channel Activation by Diffusio-Osmotic Force
+Initiating Heavy-atom Based Phasing by Multi-Dimensional Molecular Replacement
+Parametrized Stochastic Grammars for RNA Secondary Structure Prediction
+Bistability in Apoptosis by Receptor Clustering
+Generic Strategies for Chemical Space Exploration
+Sensing viruses by mechanical tension of DNA in responsive hydrogels
+Uniform generation of RNA-RNA interaction structures of fixed topological genus
+Prediction of residue-residue contacts from protein families using similarity kernels and least squares regularization
+Microtubule dynamic instability: the role of cracks between protofilaments
+Kinetics and Thermodynamics of Membrane Protein Folding
+A molecular understanding of the dynamic mechanism of aquaporin osmosis
+A Pre-Docking Filter Based on Image Recognition
+DNA polymerase V activity is autoregulated by a novel intrinsic DNA-dependent ATPase
+Attractors in residual interactions explain the differentially-conserved stability of Immunoglobulins
+Nonlinear excitations match correlated motions unveiled by NMR in proteins: a new perspective on allosteric cross-talk
+Covalently bound Bovine Serum Albumin (BSA) protein modified Hydrogenated Diamond Like Carbon (HDLC) surface as biosensor application
+Predicting complex 3D RNA structrues via a high resolution coarse-grained model
+G-protein coupled receptor subfamily identification using phylogenetic comparison of gene and species trees
+Cross-link induced shrinkage of grafted Gaussian chains
+Volume Determination of Globular Proteins by Molecular Dynamics
+Models for twistable elastic polymers in Brownian dynamics and their implementation for LAMMPS
+DNA Confinement drives uncoating of the HIV Virus
+Plectoneme tip bubbles: Coupled denaturation and writhing in supercoiled DNA
+Efficient fidelity control by stepwise nucleotide selection in polymerase elongation
+A microscopic model for hydrated biological tissues
+Protein accumulation in the endoplasmic reticulum as a non-equilibrium phase transition
+A Comparative Study of Protein Unfolding in Aqueous Urea and DMSO Solutions: Surface Polarity Solvent Specificity and Sequence of Secondary Structure Melting
+Conformations of Macromolecules and their Complexes from Heterogeneous Datasets
+Viral genome structures are optimal for capsid assembly
+Dynamics of a Semiflexible Polymer or Polymer Ring in Shear Flow
+In silico prediction of mutant HIV-1 proteases cleaving a target sequence
+Studying protein assembly with reversible Brownian dynamics of patchy particles
+Blue Emission in Proteins
+Synthesis and Pharmacology of Ester Modified ( -)-threo-Methylphenidate Analogs
+Ionic Coulomb Blockade and Resonant Conduction in Biological Ion Channels
+Understanding Protein Dynamics with L1-Regularized Reversible Hidden Markov Models
+Selection of Arginine-Rich Anti-Gold Antibodies Engineered for Plasmonic Colloid Self-Assembly
+Pathways for virus assembly around nucleic acids
+Shapes of interacting RNA complexes
+Protein Structure Determination Using Chemical Shifts
+Proteotronics: Electronic devices based on proteins
+Fundamental Molecules of Life are Pigments which Arose and Evolved to Dissipate the Solar Spectrum
+Stochastic Ratchet Mechanisms for Replacement of Proteins Bound to DNA
+The synergy between protein positioning and DNA elasticity: energy minimization of protein-decorated DNA minicircles
+Pairwise alignment incorporating dipeptide covariation
+DNA origami and the complexity of Eulerian circuits with turning costs
+Twist versus Nonlinear Stacking in Short DNA Molecules
+Spectrins in Axonal Cytoskeletons: Dynamics Revealed by Extensions and Fluctuations
+A systematic study of electron or hole transfer along DNA dimers trimers and polymers
+A nucleotide-level coarse-grained model of RNA
+Twisting and Bending Stress in DNA Minicircles
+Control of catalytic efficiency by a co-evolving network of catalytic and non-catalytic residues
+The Human Plasma Membrane Peripherome: Visualization and Analysis of Interactions
+Interactions of aqueous amino acids and proteins with the (110) surface of ZnS in molecular dynamics simulations
+Amino acids and proteins at ZnO-water interfaces in molecular dynamics simulations
+Aqueous Amino Acids and Proteins Near the Surface of Gold in Hydrophilic and Hydrophobic Force Fields
+Anomalous dynamics of DNA hairpin folding
+Variable stoichiometry among core ribosomal proteins
+Zigzag Stacks and m-Regular Linear Stacks
+The Structural Biology and Critical Evaluation of Bacterial Proteases as Targets in New Drug Design
+Modulation of calmodulin lobes by different targets: an allosteric model with hemiconcerted conformational transitions
+Wolumes - An algorithm to compute the volume of atoms and residues in proteins
+Plasticity of hydrogen bond networks regulates mechanochemistry of cell adhesion complexes
+Transferable coarse-grained potential for textit de novo protein folding and design
+Effect of low-intensity pulsed ultrasound on biocompatibility and cellular uptake of chitosan-TPP nanoparticles
+N-body Information Theory (NbIT) Analysis of Rigid-Body Dynamics in Intracellular Loop 2 of the 5-HT2A Receptor
+Hydrophobic hydration driven self-assembly of Curcumin in water: Similarities to nucleation and growth under large metastability and an analysis of water dynamics at heterogeneous surfaces
+Molecular Dynamics of a kB DNA Element: Base Flipping via Cross-strand Intercalative Stacking in a Microsecond-scale Simulation
+An Introduction to RNA Databases
+Revisiting the Excitation Energy Transfer in the Fenna-Matthews-Olson Complex
+Sawtooth patterns in biomolecules force-extension curves: an equilibrium-statistical-mechanics theory
+Probability of observing a number of unfolding events while stretching poly-proteins
+DNA flexibility on short length scales probed by atomic force microscopy
+Changes of statistical structural fluctuations unveils an early compacted degraded stage of PNS myelin
+Charge transfer along DNA dimers trimers and polymers
+Statistical analysis of crystallization database links protein physico-chemical features with crystallization mechanisms
+Protein adsorption onto Fe3O4 nanoparticles with opposite surface charge and its impact on cell uptake
+Fine-structured large deviations and the fluctuation theorem: Molecular motors and beyond
+Historical contingency and entrenchment in protein evolution under purifying selection
+Predicting evolutionary site variability from structure in viral proteins: buriedness packing flexibility and design
+Soft Confinement for Polymer Solutions
+Gauge field strings solitons anomalies and the speed of life
+Universal relations in the self-assembly of proteins and RNA
+TALEs from a spring -- superelasticity of Tal effector protein structures
+Membrane-protein interactions hold the key to understanding amyloid formation
+Propensity to form amyloid fibrils is encoded as excitations in the free energy landscape of monomeric proteins
+Fractal Structure of Shortest Interaction Paths in Native Proteins and Determination of Residues on a Given Shortest Path
+Constrained geometric dynamics of the Fenna-Matthews-Olson complex: The role of correlated motion in reducing uncertainty in excitation energy transfer
+How molecular knots can pass through each other
+An Introduction to Biomolecular Simulations and Docking
+Mechanisms of virus assembly
+Emergence of molecular chirality due to chiral interactions in a biological environment
+Ten Simple Rules for Creating Biomolecular Graphics
+Characterizing the folding core of the cyclophilin A - cyclosporin A complex I: hydrogen exchange data and rigidity analysis
+Characterizing the folding core of the cyclophilin A - cyclosporin A complex II: improving folding core predictions by including mobility
+Development Implementation of a PyMOL 'putty' Representation
+Abstractions Algorithms and Data Structures for Structural Bioinformatics in PyCogent
+Molecular dynamics studies on the NMR structures of rabbit prion protein wild-type and mutants: surface electrostatic charge distributions
+On X-ray scattering model for single particles Part I: The legacy of protein crystallography
+On X-ray scattering model for single particles Part II: Beyond protein crystallography
+Capturing coevolutionary signals in repeat proteins
+Ab initio Prediction of RNA Nucleotide Interactions with Backbone k-Tree Model
+Effect of Dielectric Properties of Ceramic-Solvent Interface on the Binding of Protein to Oxide Ceramics: a Non Local Electrostatic Approach
+Statistical-mechanical lattice models for protein-DNA binding in chromatin
+An allosteric model of the inositol trisphosphate receptor with nonequilibrium binding
+Noise-induced quantum coherence in photosynthetic complexes with multiple energy transfer pathways
+Thermodynamic relations for DNA phase transitions
+Opsin vs opsin: new materials for biotechnological applications
+Inherent variability in the kinetics of autocatalytic protein self-assembly
+CABS-flex predictions of protein flexibility compared with NMR ensembles
+Characterizing the Interaction Between DNA and GelRed Fluorescent Stain
+Dynamic density functional theory of protein adsorption on polymer-coated nanoparticles
+Efficient inference of protein structural ensembles
+Electrostatic Binding and Hydrophobic Collapse of Peptide-Nucleic Acid Aggregates Quantified Using Force Spectroscopy
+Coherent band pathways between knots and links
+Complete RNA inverse folding: computational design of functional hammerhead ribozymes
+Stochastic Modelling and Simulation of Ion Transport through Channels
+DNA hairpins primarily promote duplex melting rather than inhibiting hybridization
+A Tandem Cell for Nanopore-based DNA Sequencing with Exonuclease
+Perspective: Markov Models for Long-Timescale Biomolecular Dynamics
+Quantifying the influence of conformational uncertainty in biomolecular solvation
+Photo-activated biological processes as quantum measurements
+Entropy drives protein conformational distributions in native globular proteins
+Development of a DNA sensor using molecular logic gate
+Fluorescence Resonance Energy Transfer (FRET) sensor
+RNA structure prediction: progress and perspective
+Weak self-interactions of globular proteins studied by small-angle X-ray scattering and structure-based modeling
+Crunching Biofilament Rings
+Sitting at the edge: How biomolecules use hydrophobicity to tune their interactions and function
+Geometry of the Energy Landscape for a Protein Folding on the Ribosome
+RNA topology remoulds electrostatic stabilization of viruses
+A design proposal of the reverse DNA polymerase (3'-5' direction)
+Multiple Lac-mediated loops revealed by Bayesian statistics and tethered particle motion
+Memory efficient RNA energy landscape exploration
+Theory on the mechanism of rapid binding of transcription factor proteins at specific-sites on DNA
+Can we make biochemistry an exact science?
+A coarse-grained model with implicit salt for RNAs: predicting 3D structure stability and salt effect
+Understanding the dynamics of rings in the melt in terms of annealed tree model
+Conformational selection in protein binding and function
+Are there Unfoldable Proteins in Dimension Three?
+Kinesin Motor Transport is Altered by Macromolecular Crowding and Transiently Associated Microtubule-Associated Proteins
+Predictions of tertiary stuctures of alpha -helical membrane proteins by replica-exchange method with consideration of helix deformations
+Efficient estimation of rare-event kinetics
+Universality in the morphology and mechanics of coarsening amyloid fibril networks
+Thermomechanics of DNA
+Initial conformation of kinesin's neck linker
+Synchronization as a unifying mechanism for protein folding
+The robust assembly of small symmetric nano-shells
+The surface charge of a cell lipid membrane
+Arginine-Phosphate Salt Bridges Between Histones and DNA: Intermolecular Actuators that Control Nucleosome Architecture
+Criteria for minimal model of driven polymer translocation
+Diffusion and bulk flow in phloem loading - a theoretical analysis of the polymer trap mechanism in plants
+Thermomechanical Stability and Mechanochemical Response of DNA: a Minimal Mesoscale Model
+Notes on stochastic (bio)-logic gates: the role of allosteric cooperativity
+Affinity stoichiometry and cooperativity of heterochromatin protein 1 (HP1) binding to nucleosomal arrays
+Modeling sequence-specific polymers using anisotropic coarse-grained sites allows quantitative comparison with experiment
+High-resolution coarse-grained modeling using oriented coarse-grained sites
+Using Simulations and kinetic network models to reveal the dynamics and functions of Riboswitches
+Enhanced brightness and photostability of cyanine dyes by supramolecular containment
+The Role of Nucleobase Interactions in RNA Structure and Dynamics
+Filovirus Glycoprotein Sequence Structure and Virulence
+Hydropathic evolution of hemagglutinin and neuraminidase glycoproteins of A(H1N1 and H3N2) viruses
+Fractal Scaling of Cortical Matter Amyloid Fragmentation and Plaque Formation across Rodents and Primates
+The unknotted strands of life: knots are very rare in RNA structures
+Whole genome mapping of 5' RNA ends in bacteria by tagged sequencing : A comprehensive view in Enterococcus faecalis
+Energy Transfer in molecular devices
+Unconditionally stable time splitting methods for the electrostatic analysis of solvated biomolecules
+Electrostatic Affinities and Binding Kinetics among alpha 2 textrm I Integrin Domains Divalent Cations and 21-mer Collagen Fragment
+On the abundance of intrinsically disordered proteins in the human proteome and its relation to diseases: there is no enrichment
+Persistence Length of DNA Macromolecule with Kinks
+Single-molecule modeling of mRNA degradation by miRNA: Lessons from data
+A microfluidic platform for high-throughput multiplexed protein quantitation
+Free-energy calculations for semi-flexible macromolecules: Applications to DNA knotting and looping
+Epigenetic effects of cytosine derivatives are caused by their tautomers in Hoogsteen base pairs
+Adsorption at Liquid Interfaces Induces Amyloid Fibril Bending and Ring Formation
+Peierls-Nabarro Barrier and Protein Loop Propagation
+Synonymous mutations reduce genome compactness in icosahedral ssRNA viruses
+The study of water shell structure of double-helical B-DNA fragments using parallel computing
+A Gauge Field Theory of Chirally Folded Homopolymers with Applications to Folded Proteins
+Optical spectrum of proflavine and its ions
+Chain deformation helps translocation
+Simulating a burnt-bridges DNA motor with a coarse-grained DNA model
+Dynamics of Self-Assembly of Model Viral Capsids in the Presence of a Fluctuating Membrane
+Coarse-graining DNA for simulations of DNA nanotechnology
+A novel minimal in vitro system for analyzing HIV-1 Gag mediated budding
+Chromatin Loops as Allosteric Modulators of Enhancer-Promoter Interactions
+Metabolite Characterization in Peritoneal Dialysis Effluent Using High-resolution 1H and 1H-13C NMR Spectroscopy
+Coarse-grained Modeling of DNA Curvature
+Probing the elastic limit of DNA bending
+Sequence co-evolution gives 3D contacts and structures of protein complexes
+Onset of autocatalysis of information-coding polymers
+Pseudo 5D HN(C)N Experiment to Facilitate the Assignment of Backbone Resonances in Proteins Exhibiting High Backbone Shift Degeneracy
+Simulating the Entropic Collapse of Coarse-Grained Chromosomes
+Quantum Theory on Glucose Transport Across Membrane
+Information-theoretic considerations concerning the origin of life
+The Role of the Concentration Scale in the Definition of Transfer Free Energies
+Expected degree for RNA secondary structure networks
+Inferring coarse-grain histone-DNA interaction potentials from high-resolution structures of the nucleosome
+Entropic Penalties in Circular DNA Assembly
+Structure and function of Enterotoxigenic Escherichia coli fimbriae from differing assembly pathways
+Breakout character of islet amyloid polypeptide hydrophobic mutations at the onset of type-2 diabetes
+DNA nanotechnology: understanding and optimisation through simulation
+Entropy and enthalpy of interaction between amino acid side chains in nanopores
+Uncovering allosteric pathways in caspase-1 with Markov transient analysis and multiscale community detection
+Modelling toehold-mediated RNA strand displacement
+Interplay of intrinsic disorder and macromolecular crowding on fibril formation of alpha -synuclein
+Structures and pathways for clathrin self-assembly in the bulk and on membranes
+Analysis of kinesin mechanochemistry via simulated annealing
+Communication over the network of binary switches regulates the activation of A 2A adenosine receptor
+Relative Mobility of Human Transferrin Domains Accounts for Its Efficient Recognition and Recycling
+Target Fishing: A Single-Label or Multi-Label Problem?
+Quantifying the role of chaperones in protein translocation by computational modelling
+A theory of Plasma Membrane Calcium Pump stimulation and activity
+The prion-like folding behavior in aggregated proteins
+First passage times and asymmetry of DNA translocation
+The random release of phosphate controls the dynamic instability of microtubules
+Plasmodium falciparum Hop: Detailed analysis on complex formation with Hsp70 and Hsp0
+A minimal representation of the self-assembly of virus capsids
+Effects of topological constraints on globular polymers
+Protein sectors: statistical coupling analysis versus conservation
+Calibrated Langevin dynamics simulations of intrinsically disordered proteins
+Combined collapse by bridging and self-adhesion in a prototypical polymer model inspired by the bacterial nucleoid
+Machine learning for ultrafast X-ray diffraction patterns on large-scale GPU clusters
+A survey and a molecular dynamics study on the (central) hydrophobic region of prion proteins
+The role of loop stacking in the dynamics of DNA hairpin formation
+Structure stability and elasticity of DNA nanotube
+A Kinetic Model for Cell Damage Caused by Oligomer Formation
+Differential geometry-based solvation and electrolyte transport models for biomolecular modeling: a review
+Crucial role of non-specific interactions in amyloid nucleation
+Discovery of superoxide reductase: an historical perspective
+Which way up? Recognition of homologous DNA segments in parallel and antiparallel alignment
+Using cycles in high dimensional data to analyze protein binding
+Cavity as a source of conformational fluctuation and high-energy state: High-pressure NMR study of a cavity-enlarged mutant of T4 lysozyme
+Objective-oriented Persistent Homology
+Persistent Homology for The Quantitative Prediction of Fullerene Stability
+Persistent topology for cryo-EM data analysis
+Anisotropic membrane curvature sensing by antibacterial peptides
+Superoxide reductase from Desulfoarculus baarsii
+Persistent homology analysis of protein structure flexibility and folding
+Fast and Anisotropic Flexibility-Rigidity Index
+Ultrafast solvation dynamics at internal site of staphylococcal nuclease investigated by site-directed mutagenesis
+M o ssbauer characterization of an unusual high-spin side-on peroxo-Fe3 species in the active site of superoxide reductase from Desulfoarculus Baarsii. Density functional calculations on related models
+Identifying RNA contacts from SHAPE-MaP by partial correlation analysis
+Feline coronaviruses associated with feline infectious peritonitis have modifications to spike protein activation sites at two discrete positions
+The Structure of Cholesterol in Lipid Rafts
+Fe3 -hydroxide ligation in the superoxide reductase from Desulfoarculus baarsii is associated with pH dependent spectral changes
+Reaction of the desulfoferrodoxin from Desulfoarculus baarsii with superoxide anion. Evidence for a superoxide reductase activity
+Reaction of the NAD(P)H:flavin oxidoreductase from Escherichia coli with NADPH and riboflavin: identification of intermediates
+Raman-assisted crystallography reveals end-on peroxide intermediates in a nonheme iron enzyme
+Characterizing the bending and flexibility induced by bulges in DNA duplexes
+pyFRET: A Python Library for Single Molecule Fluorescence Data Analysis
+ATMAN: Atomic Torsional Modal Analysis for high-resolution proteins
+Multidimensional persistence in biomolecular data
+Thermal diode effect detected in allosteric communication pathways of PDZ-2 protein. A computational study
+Aspects of structural landscape of human islet amyloid polypeptide
+Virtual reality based approach to protein heavy-atom structure reconstruction
+Multiple alignment of structures using center of proteins
+Protein secondary structure analysis with a coarse-grained model
+WHAT IS LIFE - Sub-cellular Physics of Live Matter
+Towards atomistic resolution structure of phosphatidylcholine glycerol backbone and choline headgroup at different ambient conditions
+Dynamical Transition and Heterogeneous Hydration Dynamics in RNA
+Coil-helix transition of polypeptide at water-lipid interface
+DNA denaturation bubbles: free-energy landscape and nucleation closure rates
+Toward a multilevel representation of protein molecules: comparative approaches to the aggregation folding propensity problem
+Characterization of graphs for protein structure modeling and recognition of solubility
+State Transitions and Decoherence in the Avian Compass
+Changes in epistatic interactions in the long-term evolution of HIV-1 protease
+A Review on the Salt Bridge Between ASP177 and ARG163 of Wild-Type Rabbit Prion Protein
+Analysis of heat kernel highlights the strongly modular and heat-preserving structure of proteins
+Effects of macromolecular crowding on the collapse of biopolymers
+RNA structure generates natural cooperativity between single-stranded RNA binding proteins targeting 5' and 3'UTRs
+Viscoelasticity of model interphase chromosomes
+Ab initio RNA folding
+Effect of Sequence-Dependent Rigidity on Plectoneme Localization in dsDNA
+Fe(3 )-eta(2)-peroxo species in superoxide reductase from Treponema pallidum. Comparison with Desulfoarculus baarsii
+Detoxification of superoxide without production of H2O2: antioxidant activity of superoxide reductase complexed with ferrocyanide
+Hydrogen bonding to the cysteine ligand of superoxide reductase: acid--base control of the reaction intermediates
+The NAD(P)H:flavin oxidoreductase from Escherichia coli. Evidence for a new mode of binding for reduced pyridine nucleotides
+Superoxide reductase from Desulfoarculus baarsii: reaction mechanism and role of glutamate 47 and lysine 4 in catalysis
+Pulse radiolysis studies on superoxide reductase from Treponema pallidum
+The flavin reductase ActVB from Streptomyces coelicolor: characterization of the electron transferase activity of the flavoprotein form
+A two-component flavin-dependent monooxygenase involved in actinorhodin biosynthesis in Streptomyces coelicolor
+Identification of iron(III) peroxo species in the active site of the superoxide reductase SOR from Desulfoarculus baarsii
+Structure of superoxide reductase bound to ferrocyanide and active site expansion upon X-ray-induced photo-reduction
+Effects of ligand binding upon flexibility of proteins
+Modulation of N- to C-terminal interactions enhances protein stability
+Valid plane trees: Combinatorial models for RNA secondary structures with Watson-Crick base pairs
+Yeast caspase 1 suppresses the burst of reactive oxygen species and maintains mitochondrial stability in Saccharomyces cerevisiae
+Extracting folding landscape characteristics of biomolecules using mechanical forces
+Bayesian protein structure alignment
+Structures of Spherical Viral Capsids as Quasicrystalline Tilings
+Numerical calculation of protein-ligand binding rates through solution of the Smoluchowski equation using smooth particle hydrodynamics
+Fast approximate kinetics of RNA folding
+On phase diagram and the pseudogap state in a linear chiral homopolymer model
+On the Classical Vibrational Coherence of Carbonyl Groups in the Selectivity Filter Backbone of KcsA Ion Channel
+Description and comparison of algorithms for correcting anisotropic magnification in cryo-EM images
+Free energy landscape and characteristic forces for the initiation of DNA unzipping
+Structural transitions and energy landscape for Cowpea Chlorotic Mottle Virus capsid mechanics from nanomanipulation in vitro and in silico
+JMS: A workflow management system and web-based cluster front-end for the Torque resource manager
+Satisfiability sequence niches and molecular codes in cellular signaling
+Healthy sweet inhibitor of Plasmodium falciparum aquaglyceroporin
+Calculating the contribution of different binding modes to Quinacrine - DNA complex formation from polarized fluorescence data
+Variational Scheme to Compute Protein Reaction Pathways using Atomistic Force Fields with Explicit Solvent
+Deconvoluting chain heterogeneities from driven translocation through a nano-pore
+Variational cross-validation of slow dynamical modes in molecular kinetics
+Detachment Futile Cycling and Nucleotide Pocket Collapse in Myosin-V Stepping
+Protein folding and binding can emerge as evolutionary spandrels through structural coupling
+Classifying sequences by the optimized dissimilarity space embedding approach: a case study on the solubility analysis of the E. coli proteome
+Alignment of cryo-EM movies of individual particles by optimization of image translations
+Multifractal Characterization of Protein Contact Networks
+Effective rates from thermodynamically consistent coarse-graining of models for molecular motors with probe particles
+Molecular mechanisms thermodynamics and dissociation kinetics of knob-hole interactions in fibrin
+Role of dynamic capsomere supply for viral capsid self-assembly
+3D-localization microscopy and tracking of FoF1-ATP synthases in living bacteria
+The competition between surface adsorption and folding of fibril-forming polypeptides
+Of fishes and birthdays: Efficient estimation of polymer configurational entropies
+On the mechanisms responsible of photocurrent in bacteriorhodopsin (Bacteriorhodopsin's sense of light)
+Observing conformations of single FoF1-ATP synthases in a fast anti-Brownian electrokinetic trap
+The role of packaging sites in efficient and specific virus assembly
+Chromosome-scale shotgun assembly using an in vitro method for long-range linkage
+Conceptual framework for performing simultaneous fold and sequence optimization in multi-scale protein modeling
+Towards de novo RNA 3D structure prediction

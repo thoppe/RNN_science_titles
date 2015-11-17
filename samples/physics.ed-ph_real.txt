@@ -1,0 +1,1526 @@
+What does Hirsch index evolution explain us? A case study: Turkish Journal of Chemistry
+MATLAB codes for teaching quantum physics: Part 1
+Teaching for transfer
+The physical meaning of Lagrange multipliers
+Advantages of the multiple scattering representation approach to radiation trapping
+The picture of our universe: A view from modern cosmology
+Cosmology calculations almost without general relativity
+Gravity's Relentless Pull: An interactive multimedia website about black holes for Education and Public Outreach
+Missing Pages in Our Photo Album of the Infant Universe
+Bose-Einstein condensation of two interacting particles
+Brownian Motion in a Classical Ideal Gas: a Microscopic Approach to Langevin's Equation
+Methods of nonlinear kinetics
+Introduction to Markov Chain Monte Carlo Simulations and their Statistical Analysis
+Resolving the order parameter of High-T c Superconductors through quantum pumping spectroscopy
+Heat capacity in bits
+On the use of algebraic programming in the general relativity
+Obtention of a Gravitational Force from a Relativistic Solution to Binet's Equation: The Schwarzschild's Case
+Relativity theory of clocks and rulers
+Universal one-way light speed from a universal light speed over closed paths
+Clock rate comparison in a uniform gravitational field
+Measures and metrics in uniform gravitational fields
+Fock-Lorentz transformations and time-varying speed of light
+Towards a physical interpretation for the Stephani Universes
+A simple analytical calculation of mean-field potential in heavy nuclei
+Simple quantum systems in the momentum representation
+Dream of a Christmas lecture
+Teaching the EPR-Paradox at High School?
+Averages of static electric and magnetic fields over a spherical region: a derivation based on the mean-value theorem
+The oscillations in the lossy medium
+Heat and Kinetic Theory in 19th-Century Physics Textbooks: The Case of Spain
+Electromagnetic interaction between two uniformly moving charged particles: a geometrical derivation using Minkowski diagrams
+Effective Field Theory for Pedestrians
+Can spontaneous symmetry breaking occur in potential with one minima?
+Elementary Quantum Mechanics
+Revitalization of an undergraduate physics program
+Lagrangians and Hamiltonians for High School Students
+Matching Conditions on Capillary Ripples: Polarization
+Classical Electrodynamics
+CERN as a Non-School Resource for Science Education
+The problem of friction in two-dimensional relative motion
+Astrophysical Dynamics 1999 2000: Merging Research and Education
+Work performed by a Classical- reversible -Carnot cycle: Raising's distribution for the small driving weights
+The Nobel Prize in Physics 1999
+Challenges in Affecting U.S. Attitudes Towards Space Science
+The easiest way to Heaviside ellipsoid
+Compactification of the moduli space in symplectization and hidden symmetries of its boundary
+Comment on Do ero-energy Solutions of Maxwell Equations Have the Physical Origin Suggested by A. E. Chubykalo? by V.V. Dvoeglazov
+Maple procedures in teaching the canonical formalism of general relativity
+Birth and Early Development of Indian Astronomy
+Two particle states lepton mixing and oscillations
+A bubble theorem
+Mecanica Relacional: A proposito de uma resenha
+Neutrinos
+Hydrodynamical interaction between a shock wave and a cloud. One dimensional approach
+On the interaction of point charges in an arbitrary domain
+Addition Laws in Introductory Physics
+The invention of the quantum energy concept according to Planck
+Lessons From the Physics-Education Reform Effort
+Introducing Time Dependence into the Static Maxwell Equations
+Exploring closed-loop feedback control using experiments in optics
+How simple is simple pendulum
+Improving the effectiveness of introductory physics service courses: Bridging to engineering courses
+How to Introduce A World Time to A Part of Two Dimensional de Sitter Manifold
+Direction dependency of extraordinary refraction index
+An experience model for anyspeed motion
+Trajectory of the harmonic oscillator in the Schreodinger wave
+Modernizing Newton to work at any speed
+Kinematics on oblique axes
+Linearisation of Simple Pendulum
+How Is Nature Asymmetric ? 1. Discrete Symmetries in Particle Physics and Parity Violation
+How Is Nature Asymmetric 2 CP and T Violation in Elementary Particle Physics
+Speed of light measurement using ping
+Complexity: An Introduction
+Trotter formula and thermodynamic limits
+A Hundred Years of Larmor Formula
+Can we derive the Lorentz force from Maxwell's equations?
+Initial-amplitude dependence in weakly damped oscillators
+Education Curricula of the Regional Centres for Space Science and Technology Education (Affiliated to the United Nations)
+Schwinger's oscillator method supersymmetric quantum mechanics and massless particles
+Body Motion in a Resistive Medium at Temperature T
+Where Did the Laws of Physics Come From?
+Epistemology mediating conceptual knowledge: Constraints on data accessible from interviews
+The challenge of listening: The effect of researcher agenda on data collection and interpretation
+Student Resources in Quantum Mechanics or Why Students Need Meta-resources
+Mathematical Tutorials in Introductory Physics
+Infinite square well and periodic trajectories in classical mechanics
+Effectiveness of group interaction on conceptual standardized test performance
+Student understanding of time in special relativity: simultaneity and reference frames
+A Wind Tunnel in Your Classroom: The Design and Implementation of a Portable Wind Tunnel for Use in the Science Classroom
+The elastic capacitor and its unusual properties
+Measuring the Earth with Traceroute
+Limitations in predicting student performance on standardized tests
+Elementary thermodynamics of trapped particles
+Listening to the coefficient of restitution and the gravitational acceleration of a bouncing ball
+An investigation into a half page from Newton's Principia in the wake of Chandra
+Model of Internal Friction Damping in Solids
+Stress in Rotating Disks and Cylinders
+Analise Termodinamica da aceleracao de uma massa
+Generic composition of boosts: an elementary derivation of the Wigner rotation
+The Nobel Prize in Physics 2002 for the observation of cosmic neutrinos
+The Driven Pendulum at Arbitrary Drive Angle
+Wick Calculus
+Fundamental Research and Developing Countries
+Causality light speed constancy and local action principle
+Proposal of an experimental strategy to introduce relativity in elementary physics courses
+Effect of the spherical Earth on a simple pendulum
+Mona Lisa - ineffable smile of quantum mechanics
+Causality and time-space evolution of physical systems
+A Note on Derivation of Rutherford Formula within Born Approximation
+Physical Science: A revitalization of the traditional course by avatars of Hollywood in the physics classroom
+Brownian Motion: Theory and Experiment:: A simple Classroom Measurement of the Diffusion Coefficient
+The Linear Momentum as a Tensor Function
+Particle in a box at high temperature
+Comment on Phase Transition-Like Behavior in a Low-Pass Filter
+Some Remarks about Variable Mass Systems
+Some peculiarities of equilibrium between springs and charges
+Analisi dimensionale: due interessanti applicazioni (Dimensional analysis: two interesting applications)
+Nonholonomic Constraints and Voronec's Equations
+Nonlinear Damping of the 'Linear' Pendulum
+The Flex-Pendulum -- Basis for an Improved Timepiece
+A comment on W. Greiner's Quantum Mechanics -- An Introduction
+The action as a differential n-form and the analytic deduction of the nuclear potentials
+Ruchhardt Oscillator Decay- Thermodynamic basis for Hysteretic Damping
+The Pedagogy of the p-n Junction: Diffusion or Drift?
+Intuitive Derivation of Reynolds Number
+Harmonic Oscillator Potential to describe Internal Dissipation
+Textos de f ' i sica para professores e estudantes
+Comment on Perturbation theory for Heisenberg Operators
+Infrared Spectroscopy plausible
+A poor man's approach to modelling of micro-structured optical fibres
+The Lorentz Group a Galilean Approach
+Expressing the power radiated by electric charged systems
+Derivation of the Lorentz Force Law and the Magnetic Field Concept using an Invariant Formulation of the Lorentz Transformation
+Classroom computer animations of relativistic objects
+Biopolymer Elasticity
+Quaternions in University-Level Physics Considering Special Relativity
+Study of Friction at the Mesoscale using Nitinol Shape Memory Alloy
+Wake Fields and Impedance
+Complex functions as lumps of energy
+On an Elementary Derivation of the Hamilton-Jacobi Equation from the Second Law of Newton
+Celestial mechanics from high-school to Newton's Principia
+On the Use of Approximations in Statistical Physics
+Indian Physics: Outline of Early History
+Magic Fountain
+Ballistic trajectory: parabola ellipse or what?
+Expressing the electromagnetic interaction energy
+The rules of coherence and other habits
+Problems When Studying Holography (Probleme beim Erlernen der Holographie)
+Classical Electrodynamics and Theory of Relativity
+WALTA school-network cosmic ray detectors
+Student Conceptions of Holography (Schuelervorstellungen zur Holographie)
+An Elementary Treatment of the Reverse Sprinkler
+Mechanics of Schrodinger mechanics
+What happened to modern physics?
+A Didactic Approach to Linear Waves in the Ocean
+Still Shrouded in Mystery: The Photon in 192
+Making sense of studying physics
+Learning-focuses in physics simulation learning situations
+Expressing Maxwell's equations independently of the unit system
+Polarization Measurements - A Numerical Approach
+Difficulties of Model Construction in Optics (Probleme der Modellbildung in der Optik)
+Finite Difference Time Domain (FDTD) Simulations of Electromagnetic Wave Propagation Using a Spreadsheet
+Observing nonlinear effects in vibrating strings
+The role of immersive informal science programs
+Physics in Films: A New Approach to Teaching Science
+Playing Games with the Quantum Three-Body Problem
+Considerations on Classical and Quantum Bits
+An Introduction to Logical Operations on Classical and Quantum Bits
+Physics Education Research: Or it's so hard to find good help these days
+The resemblances in mathematical structures between the optical constants of artificial electromagnetic media and some physical phenomena in field theory
+Catching Attention in Fiber Optics Class
+Distributions in spherical coordinates with applications to classical electrodynamics
+Energy conservation laws in classical electrodynamics
+An easy way to Gravimagnetism
+Solution to two-dimensional Incompressible Navier-Stokes Equations with SIMPLE SIMPLER and Vorticity-Stream Function Approaches. Driven-Lid Cavity Problem: Solution and Visualization
+Pressure Model of Soft Body Simulation
+Circular Orbits under Central Forces in Special Relativity
+Tangent planes and the mean-field approximation
+de'Broglie's paradox relativistic Doppler effect and the derivation of mass-energy relation in special relativity
+Beyond the Linear Damping Model for Mechanical Harmonic Oscillators
+Tacoma Bridge Failure-- a Physical Model
+Braving the Challenges of Being Small--The Unique Physics Program at Manhattanville College
+Suppressing and restoring constants in physical equations
+The Doppler effect from a uniformly moving mirror
+Contemporary Approach for Simulation and Computation of Fluid Flows in Centrifugal Hydromachines
+Possibilities of Simulation of Fluid Flows Using the Modern CFD Software Tools
+Spectroscopy in the Presence of Geometrical Constraints: A Torsional Pendulum
+Where will a pen fall to?
+Safe domain and elementary geometry
+Virtual Displacement in Lagrangian Dynamics
+Orbits in a central force field: Bounded orbits
+Simple 0 microprocessor compatible I O card
+Influence and Inference in Bell's Theorem
+Concept Mapping as an Instrument for Evaluating an Instruction Unit on Holography (Concept Maps als Evaluierungsinstrumente einer Unterrichtseinheit zur Holographie)
+A Theoretical Framework for Physics Education Research: Modeling Student Thinking
+Solar Neutrinos: A Popular Account
+Special Relativity for the School Going Child
+Why does the meter beat the second?
+The mathematical representation of physical objects and relativistic Quantum Mechanics
+Transverse Solutions of the Vector Laplace and Helmholtz Equations for Spherical Coordinates and Boundary Conditions with Azimuthal Symmetry
+Brownian Motion for the School-Going Child
+Approximation of the energy levels of the particle on a segment by energy levels of the particle in monomial potential well
+Identifying Student Difficulties with Understanding Induced EMF
+Innovative Experimental Particle Physics through Technological Advances
+Classical position probability densities for spherically symmetric potentials
+A Compact Apparatus for Muon Lifetime Measurement and Time Dilation Demonstration in the Undergraduate Laboratory
+Study of the Pioneer Anomaly: A Problem Set
+Lorenz or Coulomb in Galilean Electromagnetism ?
+Ordinary Differential Equations through Dimensional Analysis
+It is about time to say eureka in teaching physics
+The Yo-yo Oscillator (Analysis of a Nonlinear System using Spice)
+Spice Modeling of the Vilnius Chaotic Oscillator
+Images in Christmas Balls
+La aventura de la fisica
+Renormalization Theory in the Electrostatic and Vector Potential Calculation
+A comparison between the styles Romanian and American students use to approach an E M physics problem
+Cultural differences in answering physics questions: Could they arise from the difference between reasoning expected in answering exam questions in those cultures?
+Symmetry in a Perturbed Optical System
+General students' misconceptions related to Electricity and Magnetism
+Some Aspects of the Electromagnetic Multipole Expansions
+Numerical Solution of the 1D Schr odinger Equation: Bloch Wavefunctions
+A laboratory work: A teaching robot arm for mechanics and electronic circuits
+How Ampere could have derived the Lorentz Transformations
+A Formula for Gauge Invariant Reduction of Electromagnetic Multipole Tensors
+Of Connections and Fields
+The conceptualization of time and the constancy of the speed of light
+On the Abuse and Use of Relativistic Mass
+On the Use of Relativistic Mass in Various Published Works
+Another thought experiment in special relativity
+Methodical Instructions For Solutions of Problems in Nuclear Physics
+The Hundredth Anniversary of Einstein's Annus Mirabilis
+On the transformation of torques between the laboratory and center of mass reference frames
+Taking nanotechnology to schools
+A Note About the Simulation Programs for Heat and Molecular Physics Laboratory
+A Simple General Solution for Maximal Horizontal Range of Projectile Motion
+Teaching and learning physics: A model for coordinating physics instruction outreach and research
+The Image of a Wormhole
+Numerical Methods as an Integrated Part of Physics Education
+Visualizing proper-time in Special Relativity
+Advantages of adopting the operational definition of weight
+On the Energy-Time Uncertainty Relations: A didactical note for undergraduate students
+Is the Bohr's quantization hypothesis necessary ?
+Do we really need the weight force?
+Mesoscale Quantization and Self-Organized Stability
+Bead Hoop and Spring as a Classical Spontaneous Symmetry Breaking Problem
+An inferential analysis of the effect of activity based physics instruction on the persistent misconceptions of lecture students
+Relativistic Temperature Transformation Revisited One hundred years after Relativity Theory
+Conceptual and Epistemological discussions on Quantum Mechanics in a Virtual Laboratory
+Nanotechnology and Society: A discussion-based undergraduate course
+Teaching About Nature's Nuclear Reactors
+Relativistic force transformation
+Evaluating the Root-Mean-Squared of a Sinusoidal Signal Without Using Calculus
+Thermal Expansion Puzzles
+Quantization of conductivity of nanotechnological point contact. Simple derivation of the Landauer formula
+LC sine-wave oscillators using general-purpose voltage operational-amplifiers
+Moments of inertia for solids of revolution and variational methods
+Textos de Fisica para professores e estudantes--II
+Fundamental particles and their interactions
+Physical intuition and time-dependent generalization of the Coulomb and Biot-Savart laws
+Compton effect: interacting particles or interacting waves
+Creep-Enhanced Low-Frequency Sensitivity of Seismometers
+Transforming student learning with classroom communication systems
+Teaching vs. learning: Changing perspectives on problem solving in physics instruction
+Probing physics students' conceptual knowledge structures through term association
+ASK-IT A2L: Assessing student knowlede with instructional technology
+Bringing Science into Schools through Astronomy. Project ASTRO Tucson
+Concepts of Renormalization in Physics
+The eta Function Method and the Harmonic Oscillator Propagator
+Path Integral and the Induction Law
+Advanced Optics with Laser Pointer and Metersticks
+Through Einstein's Eyes
+Passive Lorentz transformations with spacetime algebra
+A tool for teaching General Relativity
+Personal computer realizations for two classics of quantum chemistry
+A neglected topic in relativistic electrodynamics: transformation of electromagnetic integrals
+Natural configurations and normal frequencies of a vertically suspended spinning loaded chain with both extremities pinned
+Celebrating the Physics in Geophysics
+Student understanding of rotational and rolling motion concepts
+Teaching Earth Dynamics: What's Wrong with Plate Tectonics Theory?
+An illustrative experiment on electromagnetic oscillations
+Sur un effet physique attribuable uniquement au potentiel vecteur en ' e lectromagn ' e tisme classique
+Correspondence principle and evolution of physics
+A Map of the Nanoworld: Sizing up the Science Politics and Business of the Infinitesimal
+Geometrical Optics via electromagnetic wave quantization
+On the physical meaning of the gauge conditions of Classical Electromagnetism : the hydrodynamics analogue viewpoint
+Introduction to Quantum Cryptography
+Serial and parallel combinations of diodes: equivalence formulae and their do-main of validity
+Simple derivation of dyadic Green functions of a simply moving isotropic dielectric-magnetic medium
+The quantization of energy in the harmonic-oscillator potential: Power series solution
+Generalized relativistic velocity addition with spacetime algebra
+Comunicare Fisica all'americana
+An inverted pendulum with a springy control as a model of human standing
+Observations on teaching first-year physics
+Is the assumption of a special system of reference consistent with Special Relativity?
+Is it time for a science counterpart of the Benezet-Berman mathematics teaching experiment of the 1930's?
+Estimating gas mileage: An example of order-of-magnitude physics
+A radioactive decay simulation (For Education)
+Measuring Bullet Velocity with a PC Soundcard
+Throwing and jumping for maximum horizontal range
+Observer with a constant proper acceleration
+Observable Effects of Noncommutative Spacetime on the Hydrogen Atom
+Enrico Fermi e Ettore Majorana: continuita' e rinnovamento nell'insegnamento della Fisica teorica
+Visualisation of Cherenkov Radiation and the Fields of a Moving Charge
+Modeling theory applied modeling instruction in university physics
+The Postulates of Quantum Mechanics
+Elements topology and T-shirts
+Algebraic Derivation of the Schwarzschild Time Dilation Function
+Energy flow lines as light paths: a didactical analysis (Energiestromlinien als Lichtwege: Eine didaktische Analyse)
+Cooling in the Universe
+Majorana and the path-integral approach to Quantum Mechanics
+Comment on: Microscopic modeling of multi-lane highway traffic flow Nathan O. Hodas and Arnand Jagota Am. J. Phys. 1 (12) 2003 pp. 124
+Special Relativity in Absolute Space: from a contradiction in terms to an obviousness
+Electromagnetic braking: a simple quantitative model
+Malus' Law for a Real Polarizer
+Do we have enough air?
+Lab-Tutorials for teaching quantum physics (Lab-Tutorials fuer den Quantenphysik Unterricht)
+Rayleigh-Sommerfeld Fraunhofer Diffraction
+Measuring complexity with zippers
+Reflection of light from a moving mirror: derivation of the relativistic Doppler formula without Lorentz transformations
+Teaching Fourier Analysis and Wave Physics with the Bass Guitar
+Measurement of Earth's Free-Oscillations using a Pendulum
+Comparing a current-carrying circular wire with polygons of equal perimeter Magnetic field versus magnetic flux
+Electromagnetics from a quasistatic perspective
+Physics Magic
+Galileo's Double Star: The Experiment That Proved the Earth Did Not Move
+Dynamics and (de)localization in a one-dimensional tight-binding chain
+The Effect of Electric Fields In A Classic Introductory Physics Treatment of Eddy Current Forces
+Optical Doppler shift measurement using a rotating mirror
+Real Time Relativity
+Intergalactic spaceflight: an uncommon way to relativistic kinematics and dynamics
+Is Peudoscience the Solution to Science Literacy?
+Study of the Damped Pendulum
+Ultrafast Pulse Radiolysis Using a Terawatt Laser Wakefield Accelerator
+Integrated approaches in physics education: A graduate level course in physics pedagogy and education research
+Exploring Student Understanding of Energy through the Quantum Mechanics Conceptual Survey
+Problem Solving and the Use of Math in Physics Courses
+Promoting Instructional Change via Co-Teaching
+Assessing the Impact of Student Learning Style Preferences
+Preparing graduate students to be educators
+Realizing a New Research Agenda for Writing-to-Learn: Embedding Process in Context
+Dimensional Analysis and Physical Laws
+Physics in Films: An Assessment
+Air resistance
+Unveiling the dynamics of the universe
+Interactive computer simulations of electrokinetic physics phenomena
+A study of resistance forces
+Graduate Program in Astrophysics in Split
+Recognition of paper samples by correlation of their speckle patterns
+Compound Pendulum to Monitor Hurricanes and Tropical Storms
+How to Derive the Schrodinger Equation
+On the equipartition of kinetic energy in an ideal gas mixture
+The Red Queen visits Minkowski Space
+Success and Persistence in Science: The Influence of Classroom Climate
+Life on Both Sides of the Fence: Mentoring Versus Being Mentored
+On an identity for the volume integral of the square of a vector field. Remark on a paper by A. M. Stewart
+Comment on Development and assessment of research-based tutorials on heat engines and the second law of thermodynamics by Matthew J. Cochran and Paula R. L. Heron Am. J. Phys. 4 34--41 (200)
+The Didactical Relevance of the Pauli Pascal Triangle (Die didaktische Relevanz des Pauli-Pascal-Dreiecks)
+A trip to the end of the universe and the twin paradox
+Industrial Strength Software in Computer Based Engineering Education (CBEE): a Case Study
+Relativistic addition of perpendicular velocity components from the constancy of the speed of light
+Oscillations bounded by the simple pendulum and the oscillating rigid rod
+Relativistic momentum and kinetic energy and Emc 2
+Constructional details for A simple atmospheric electrical instrument for educational use
+Understanding Student Pathways in Context-rich Problems
+Visualizing the Doppler Effect
+Project-based assessment for graduate coursework in physics
+Introductory Quantum Physics Courses using a LabVIEW multimedia module
+Better Physics Teaching Can Increase Physics Enrollment
+Measuring and modeling physics students' conceptual knowledge structures through term association times
+Peer Instruction: Comparing Clickers to Flashcards
+The Development of an Inquiry-based Curriculum Specifically for the Introductory Algebra-based Physics Course
+Research News -- Meson scattering at high precision
+Force Equation That Describes the Quantum States of a Relativistic Spinless Particle
+Lessons Drawn from Implementation of Online Tutoring System in Physics Courses
+Teaching Newton with anticipation(...)
+Have We At Last Found The A-toms?
+On the difference between the charge-free and the charge-neutral solutions of Maxwell equations
+Potential Momentum Gauge Theory and Electromagnetism in Introductory Physics
+The Living Network of Schools Owned by Teachers and Students
+Introduction to the Fock Quantization of the Maxwell Field
+Early Theories on the Distance to the Sun
+Statistical Mechanics in a Nutshell
+Aberration and Special Relativity
+World Wide Student Laboratory. Description of Project
+Louis de Broglie und die Quantenmechanik
+Ruler-changes and Relative Velocity
+Superluminality and Pair-Production
+Quantum Mechanics: I
+The finite one-dimensional wire problem
+Some Remarks on the Question of Charge Densities in Stationary-Current-Carrying Conductors
+Minimizing postulation in a senior undergraduate course in electromagnetism
+Bayesian reasoning versus conventional statistics in High Energy Physics
+The use of the algebraic programming in teaching general relativity
+A Formula for the Rotation Periods of the Planets Asteroids
+Behind the shirts is symmetry
+Four-Spinor Reference Sheets
+Universality of the Hohenberg-Kohn functional
+Notes on Brownian motion and related phenomena
+Gauge Invariance and Canonical Variables
+Intrinsic Kinematics
+Progetto per la costituzione del centro di divulgazione della cultura scientifica a Sesto Fiorentino
+Post-Gaussian variational method for quantum anharmonic oscillator
+MY LIFE AS TUTOR: Reflections on Two Recent Experiences
+Mecanica Clasica (Classical Mechanics)
+Synchronization and Inertial Frames
+Classical Electrodynamics: A Tutorial on its Foundations
+Gravitational Waves: An Introduction
+Do ero-Energy Solutions of Maxwell Equations Have the Physical Origin Suggested by A. E. Chubykalo? Comment on the paper in Mod. Phys. Lett. A13 (199) 2139-214
+Oscar's Physics Phaire: A Collection of Problems
+Winning Over Future Scientists
+Fundamental Physical Constants and the Principle of Parametric Incompleteness
+Thermodynamics of Magnets
+Classical Mechanics
+Regional Centres for Space Science and Technology Education (Affiliated to the United Nations)
+Solidification pipes: from solder pots to igneous rocks
+Making sense of Physics in the first year of study
+The Variant Principle
+An elementary quantum mechanics calculation for the Casimir effect in one dimension
+In search of fundamental laws
+Compendium of vector analysis with applications to continuum mechanics
+Mechanical analogy for the wave-particle: helix on a vortex filament
+The Wave Function: It or Bit?
+A simple quantum heat engine
+Spin 1 2 Particle on a Cylinder with Radial Magnetic Field
+Collapsing the Wavefunction of a Baseball
+Vectorlike representation of one-dimensional scattering
+Why the Afshar Experiment Does Not Refute Complementarity
+A simple formula for ground state energy of a two-electron atom
+Causation Physics
+Identity Geometry Permutation And The Spin-Statistics Theorem
+Alice and Bob and Hendrik
+Examining the Location of the Magnetopause in an Undergraduate Lab
+A Research-Based Curriculum for Teaching the Photoelectric Effect
+Newton's 2nd Law and the Physics of Dance
+A Home Experiment in Elasticity
+Two-Particle Models Diagrams and Graphs as Aids to Understanding Internal Energy
+Hollywood Blockbusters: Unlimited Fun but Limited Science Literacy
+Travaux pratiques sur les r 'eseaux locaux de type WIFI utilisant des simulations num 'eriques des ph 'enom enes de propagation des ondes 'electromagn 'etiques
+The Scientific Method
+A Global View of Cognitive Structure and Implications for Instruction and Assessment
+Cinema Fermi Problems General Education
+Search for Chaotic Behavior in a Flapping Flag
+Lectures on Astronomy Astrophysics and Cosmology
+On the need to enhance physical insight via mathematical skills
+The role of the two postulates of special relativity
+Contributions from cognitive research to mathematics and science education
+The Transfer of Knowledge from Physics and Mathematics to Engineering Applications
+First-person visualizations of the special and general theory of relativity
+Threadbare Parallel Port DAQ Card
+Voltage Controlled Resistance
+Science-Based Comparative Culture: A New Theme of Experiment for Freshmen in Tohoku University
+Cinema Fiction vs Physics Reality: Ghosts Vampires and ombies
+A simple atmospheric electrical instrument for educational use
+Real-world ballistics: A dropped bucket
+Aspetti Moderni della Fisica Greca Modern Aspects of Ancient Greek Physics
+Quaternionen and Geometric Algebra (Quaternionen und Geometrische Algebra)
+Impacts of real-time data collection on introductory algebra-based physics
+A New Simple Derivation of Schroedinger Uncertainty Relation
+Research News -- Quantum Mechanical Entanglement and Tests of CPT Theorem with Neutral Mesons at e e- Colliders
+A practical guide to stochastic simulations of reaction-diffusion processes
+Approche p 'edagogique sur l'innocuit 'e des technologies de r 'eseaux sans fil
+Sheep Collisions: the Good the Bad and the TBI
+Quantifying Student Effort and Class Involvement in the Introductory Higher Education Science Classroom
+Photographing by means of a diffractive axicon
+Magnetic Flux Diffusion and Expulsion with Thin Conducting Sheets
+Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics
+On the sound of snapping shrimp
+Using Physics to Learn Mathematica to Do Physics: From Homework Problems to Research Examples
+Coordinate Conditions for a Uniformly Accelerated or Static Plane Symmetric Metric
+Comment to Recent Climate Observations Compared to Projections by Rahmstorf et al
+An Experiment of Research-Oriented Teaching Learning
+Tiger Tales: A Critical Examination of the Tiger's Enclosure at the San Francisco oo
+The geometrical nature and some properties of the capacitance coefficients based on Laplace's Equation
+An In-Class Discussion Activity on the Nature of Science and Intelligent Design
+The simple complex numbers
+Rise and fall of the old quantum theory
+Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow
+Non-coordinate time velocity pairs in special relativity
+A one-map two-clock approach to teaching relativity in introductory physics
+Information physics: From energy to codes
+A dynamical model of the chemical bond
+Some minimally-variant map-based rules of motion at any speed
+A Elasticidade Relativista
+Renormalizing Recitation Grades
+Excitons with anisotropic effective mass
+Subatomic Physics-100 Not Out and Still Going Strong
+Coordination of Mathematics and Physical Resources by Physics Graduate Students
+The Dynamics of Students' Behaviors and Reasoning during Collaborative Physics Tutorial Sessions
+A Primer in Quantum Mechanics for NMR Students
+An inquiry into the reproduction of physics-phobic children by physics-phobic teachers
+Measuring the 2D Vector Aspect of Momentum Using Only One Dimension
+Wave propagation in a chiral fluid: an undergraduate study
+A Newtonian pre-introduction to gravitational lenses
+Dynamics of Non-Conservative Voters
+Exam fairness
+The European Electricity Grid System and Winter Peak Load Stress: For how long can the european grid system survive the ever increasing demand during cold winter days?
+Teaching superfluidity at the introductory level
+Considerations for Anderson-Bridge Experiment
+Visualizing Teleportation
+Experimentos simples demostrando algunas propiedades de lentes difractivas y redes espirales
+Dynamic Models of Learning and Education Measurement
+The Theory of Relativity - Galileo's Child
+Gravitational-wave Astronomy: Opening a New Window on the Universe for Students Educators and the Public
+A spaceship with a thruster - one body one force
+Teacher Learning of Technology-Enhanced Formative Assessment
+Astronomy at school: present situation and future perspectives
+Support of Study on Engineering Technology from Physics and Mathematics
+Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison
+A student designed experiment measuring the speed of sound as a function of altitude
+Learning from Physics Education Research: Lessons for Economics Education
+Plagiarism: Words and ideas
+The latent potential of YouTube - Will it become the 21st Century lecturer's film archive?
+Physics education research: Resources for graduate student instructors
+Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers
+Misconceptions on Relativity Gravitation and Cosmology
+Should there be more women in science and engineering?
+Heuristic model of teaching
+Situational diagnosis for preservice elementary teachers on some basic astronomical phenomena
+Impact of Context-Rich Multifaceted Problems on Students' Attitudes Towards Problem-Solving
+Corpos no interior de um recipiente fechado e transparente em queda livre
+Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class
+Measurement of mutual inductance from frequency dependence of impedance of AC coupled circuit using digital dual-phase lock-in amplifier
+Putnam Physics Competition: a suggestion
+A particular case of a Lifting Hele-Shaw Cell
+Relativity without tears
+The general relativistic infinite plane
+Research News--Recent Advances in the Study of B-meson systems
+A simulation of hard spheres gas for educational purposes
+Simple circuit theory and the solution of two electricity problems from the Victorian Age
+Using Garlic As A Far-Transfer Problem of Proportional And Probabilistic Reasoning
+Morris-Thorne wormholes with a cosmological constant
+Two Examples of Circular Motion for Introductory Courses in Relativity
+Photons and static gravity
+The Phase Diagram of QCD
+Hadron spectra from a non-relativistic model with confining harmonic potential
+Application of Pad ' e interpolation to stationary state problems
+Parity and the Spin-Statistics Connection
+The Projectile inside the Loop
+Introducing the notion of bare and effective mass via Newton's second law of motion
+Teaching Theoretical Physics: the cases of Enrico Fermi and Ettore Majorana
+Educational studies of cosmic rays with telescope of Geiger-Muller counters
+Research News -- Progess in determination of neutrino oscillation parameters
+Hands-on Gravitational Wave Astronomy: Extracting astrophysical information from simulated signals
+Using ordinary multiplication to do relativistic velocity addition
+Eight Minutes and a Half
+The gravitational analogue to the hydrogen atom (A summer study at the borders of quantum mechanics and general relativity)
+On the Interpretation of the Redshift in a Static Gravitational Field
+Quantum mechanics: Myths and facts
+Eduction and Economy -- An Analysis of Statistical Data
+On the formulation of Electrodynamics in a form independent of units
+Visualizing changes in student responses using consistency plots
+Wireless Keypads - A New Classroom Technology Using Enhanced Multiple-Choice Questions
+Five Frequently Fatal Freshman Physics Fantasies
+Acoustic measurement of potato cannon velocity
+The path and the multi-teaching issues in the coupled pendulum and mass-spring experiments
+Test item response time and the response likelihood
+The role of sign in students' modeling of scalar equations
+Understanding the use of two integration methods on separable first order differential equations
+On the teaching and learning of physics: A Criticism and a Systemic Approach
+Non-linear spectroscopy of rubidium: An undergraduate experiment
+Expanding Space: the Root of all Evil?
+Making Sense of the Legendre Transform
+Effectiveness of Ninth-Grade Physics in Maine: Conceptual Understanding
+Kermit's What-Happens-Next-Machine Reloaded
+Physics education research: Resources for middle school science teachers
+Spatial Localization Problem and the Circle of Apollonius
+The meaning of 1 in l(l 1)
+A computer controlled pendulum with position readout
+Nuclear Phenomenology: A Conceptual Proposal for High School Teaching
+A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism
+Analysis of the Educative Reform for Secondary School in Mexico and its implications on Science II subject for the new curriculum
+Visualizing Imaginary Rotations and Applications in Physics
+Electromagnetism Tutorial (Tutorial de Eletromagnetismo)
+Granularit 'e laser et interf 'erences de speckles
+A Study of an Acrylic Cerenkov Radiation Detector
+Objects In Telescope Are Farther Than They Appear: How diffraction tricked Galileo into mismeasuring the distances to the stars
+Sunsets tall buildings and the Earth's radius
+Particle in a box with a delta-function potential: strong and weak coupling limits
+Measuring the Molecular Polarizability of Air
+A constructive approach to the special theory of relativity
+Studying Three Phase Supply in School
+Exploring the Use of Virtual Worlds as a Scientific Research Platform: The Meta-Institute for Computational Astrophysics (MICA)
+Why is cheating wrong?
+A simple low-cost data-logging pendulum built from a computer mouse
+Echoes from the Moon
+Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop
+Technical paper: Collecting classroom video on a budget
+Geometrical simplification of the dipole-dipole interaction formula
+Are Self-explaining and Coached Problem Solving More Effective When Done by Pairs of Students Than Alone?
+Productive Dialog During Collaborative Problem Solving
+Inquiries into the Nature of Free Energy and Entropy in Respect to Biochemical Thermodynamics
+Elementary Nonrelativistic Quantum Mechanics
+A simple Solvable Model of Body Motion in a One-dimensional Resistive Medium
+Mass redistribution in variable mass systems
+Abstract Applets: a Method for Integrating Numerical Problem-Solving into the Undergraduate Physics Curriculum
+Comparative kinetics of the snowball respect to other dynamical objects
+Fundamental units: physics and metrology
+Introductory physics: The new scholasticism
+Charges suspended by strings: a new twist to an old problem
+How to Create Black Holes on Earth?
+The Quantized Hall Effect. (Lab Tutorial. In German.)
+Newtonian approach for the Kepler-Coulomb problem from the point of view of velocity space
+How to teach statistical thermal physics in the introductory physics course
+The dog-and-rabbit chase problem as an exercise in introductory kinematics
+The mystery of lost energy in ideal capacitors
+Historical roots of gauge invariance
+Quantum Transparency of Barriers for Structure Particles
+Tasting edge effects
+Partnerships For Physics Teaching Reform -- a crucial role for universities and colleges
+Ideal Gas in a Finite Container
+Simple Linearizations of the Simple Pendulum for Any Amplitude
+Importance of an Astrophysical Perspective for Textbook Relativity
+On the Physical Origin of the Oppenheimer-Ahluwalia ero-Energy Solutions
+From Newton's Laws to the Wheeler-DeWitt Equation
+The Quantum Mechanical Current of the Pauli Equation
+When a mass term does not represent a mass
+Lengths on rotating platforms
+A Problem of Relative Constrained Motion
+On the relativistic L-S coupling
+From circular paths to elliptic orbits: A geometric approach to Kepler's motion
+Is the number of Photons a Classical Invariant?
+Finite Rotations
+Hydrodynamic interactions betweem many spheres
+Difficult Problems Having Easy Solutions
+The evolution and revival structure of angular momentum quantum wave packets (Tutorial)
+A Piecewise-Conserved Constant of Motion for a Dissipative System
+Teaching statistics in the physics curriculum: Unifying and clarifying role of subjective probability
+Crater Property in Two-Particle Bound States: When and Why
+Hydrogen atom in a spherical well: linear approximation
+Mathematical surprises and Dirac's formalism in quantum mechanics
+Quantum Coins Dice and Children: Probability and Quantum Statistics
+Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning
+No Way Back: Maximizing survival time below the Schwarzschild event horizon
+Radiation trapping in 1D using the Markov chain formalism: A computational physics project
+A small tabletop experiment for a direct measurement of the speed of light
+Reaction Time of a Group of Physics Students
+Why we should teach the Bohr model and how to teach it effectively
+Comment on On an identity for the volume integral of the square of a vector field
+Blogging in the physics classroom: A research-based approach to shaping students' attitudes towards physics
+Computation in Classical Mechanics
+Developing and Researching PhET simulations for Teaching Quantum Mechanics
+Light and Electromagnetic Waves Teaching in Engineering Education
+Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation
+On Quarks and Flavour Symmetry
+Gesture analysis for physics education researchers
+Symbolic Manipulators Affect Mathematical Mindsets
+A time of flight method to measure the speed of sound using a stereo sound card
+Neutrino Mass
+Teaching statistical physics by thinking about models and algorithms
+Failure of intuition in elementary rigid body dynamics
+A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling
+Sustaining Educational Reforms in Introductory Physics
+Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content
+Splitting the wavefunctions of two particles in two boxes
+The Lorentz Force and the Radiation Pressure of Light
+Using Warrants As a Window to Epistemic Framing
+Transversality of Electromagnetic Waves in the Calculus-Based Introductory Physics Course
+The absoption refrigerator as a thermal transformer
+The theory of relativity and the Pythagorean theorem
+From least action in electrodynamics to magnetomechanical energy -- a review
+The Revolution in Astronomy Education: Data Science for the Masses
+La Nube: La Manera Mas Emocionante De Experimentar Espejos Planos
+The movement of shadows: a teaching proposal for the secondary school
+Student experiences of virtual reality - a case study in learning special relativity
+Academic performance student engagement in level 1 physics undergraduates
+Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration
+Using R for data analysis and graphing in an introductory physics laboratory
+Ex-nihilo: Obstacles Surrounding Teaching the Standard Model
+Compact objects for everyone: I. White dwarf stars
+Phase Transitions In Compact Stars
+Propagating and evanescent waves in absorbing media
+Spacetime and Euclidean Geometry
+General Relativity in the Undergraduate Physics Curriculum
+The Phase of Neutrino Oscillations
+Simple derivation of general Fierz-type identities
+Perturbation theory via Feynman diagrams in classical mechanics
+Imaginary in all directions: an elegant formulation of special relativity and classical electrodynamics
+Theory of resistor networks: The two-point resistance
+An asymptotic form of the reciprocity theorem with applications in x-ray scattering
+Teaching Symmetry in the Introductory Physics Curriculum
+The Precessing Top
+Coriolis force in Geophysics: an elementary introduction and examples
+A new solution for inflation
+The Physicist's Guide to the Orchestra
+Fermat's principle and variational analysis of an optical model for light propagation exhibiting a critical radius
+The attractive nonlinear delta-function potential
+Adding Resistances and Capacitances in Introductory Electricity
+Verifying the learning process in Physics
+Generic Smooth Connection Functions - A New Analytic Approach to Interpolation
+Carnot cycle for an oscillator
+A Dynamical Study of the Friedmann Equations
+Electromagnetic induction and damping - quantitative experiments using PC interface
+Relativistic Causality and Conservation of Energy in Classical Electromagnetic Theory
+Flatness of the setting Sun
+Expounding on physics -- A phenomenographic study of physicists talking of their physics
+Investigating Student Understanding of Quantum Mechanics: Spontaneous Models of Conductivity
+Understanding and Affecting Student Reasoning About Sound Waves
+The Object Coordination Class Applied to Wavepulses: Analysing Student Reasoning in Wave Physics
+Enhancing science education in the elementary schools
+The Vocabulary of Introductory Physics and its Implications for Learning Physics
+The challenge of changing deeply-held student beliefs about the relativity of simultaneity
+Making Sense of How Students Make Sense of Mechanical Waves
+The physics of stone skipping
+Toy models for the falling chimney
+A dipole in a dielectric: Intriguing results and shape dependence of the distant electric field
+Short Proof of Jacobi's Identity for Poisson Brackets
+Teaching with Physlets: Examples from Optics
+Supercritical bifurcation of a hula hoop
+QCD and Natural Philosophy
+Illustrating Dynamical Symmetries in Classical Mechanics: The Laplace-Runge-Lenz Vector Revisited
+Random sampling of an AC source: A tool to teach probabilistic observations
+Tracing a planet's orbit with a straight hedge and a compass with the help of the hodograph and the Hamilton vector
+An Approximate Expression for the Large Angle Period of a Simple Pendulum
+Ex-nihilo II: Examination Syllabi and the Sequencing of Cosmology Education
+Vector constants of the motion and orbits in the Coulomb Kepler problem
+Random Walk with Shrinking Steps
+Students' Understanding of Direct Current Resistive Electrical Circuits
+Quantum Statistics: Is there an effective fermion repulsion or boson attraction?
+Visualizing the Mass and Width Spectrum of Unstable Particles
+Lorentz Invariance of Neutrino Oscillations
+Fermi and Bose pressures in statistical mechanics
+Students' Models of Newton's Second Law in Mechanics and Electromagnetism
+On vector potential of the Coulomb gauge
+A microscopic mechanical derivation for the adiabatic gas relation
+The Thomas Precession Factor in Spin-Orbit Interaction
+Steppingstones in Hamiltonian dynamics
+On negative streamers: a deterministic approach
+Inaccurate use of asymptotic formulas
+An elliptic property of parabolic trajectories
+The Hertz contact in chain elastic collisions
+A Billiard-Theoretic Approach to Elementary 1d Elastic Collisions
+All electromagnetic form factors
+Toy Blocks and Rotational Physics
+Linear Momentum Density in Quasistatic Electromagnetic Systems
+Electrodynamics of a Magnet Moving through a Conducting Pipe
+Relativity in Introductory Physics
+Exponential versus linear amplitude decay in damped oscillators
+A Scaling Approach to Ideal Quantum Gases
+New Pedagogy for Using Internet-Based Teaching Tools in Physics Course
+Simple Pendulum Revisited
+Derivation of the Lorentz Force Law the Magnetic Field Concept and the Faraday-Lenz Law using an Invariant Formulation of the Lorentz Transformation
+The impact of epistemology on learning: A case study from introductory physics
+Understanding the temperature and the chemical potential using computer simulations
+Physics the google way
+A transfer matrix method for the analysis of fractal quantum potentials
+Surveying the solar system by measuring angles and times: from the solar density to the gravitational constant
+Addressing student models of energy loss in quantum tunnelling
+Snell's Law from an Elementary Particle Viewpoint
+Macroscopic coherence effects in a mesoscopic system: Weak localization of thin silver films in an undergraduate lab
+Science Icebreaker Activities: An Example from Gravitational Wave Astronomy
+Hamilton's principle: why is the integrated difference of kinetic and potential energy minimized?
+Learning physics in context: a study of student learning about electricity and magnetism
+A unified model for the long and high jump
+Introduction to thermodynamics of spin models in the Hamiltonian limit
+Radioactivity Induced by Neutrons: a Thermodynamic Approach to Radiative Capture
+Designing Effective Questions for Classroom Response System Teaching
+Teaching the hidden symmetry of the Kepler problem in relativistic quantum mechanics - from Pauli to Dirac electron
+Gravitational Waves: new observatories for new astronomy
+On Virtual Displacement and Virtual Work in Lagrangian Dynamics
+Einstein's ur Elektrodynamik... (190) Revisited with Some Consequences
+A revisitation of the 1 H.Hertz experiment
+Laboratory-Tutorial activities for teaching probability
+Using resource graphs to represent conceptual change
+The scientific heritage of Richard Henry Dalitz FRS (192-200)
+The effect of multiple internal representations on context rich instruction
+Understanding the tsunami with a simple model
+On some applications of Galilean electrodynamics of moving bodies
+Nonlinear Damping of the LC Circuit using Anti-parallel Diodes
+Using the System Schema Representational Tool to Promote Student Understanding of Newton's Third Law
+Reforming a large lecture modern physics course for engineering majors using a PER-based design
+Physics Faculty and Educational Researchers: Divergent Expectations as Barriers to the Diffusion of Innovations
+Dynamics of a liquid dielectric attracted by a cylindrical capacitor
+Working with simple machines
+Educational cosmic ray experiments with Geiger counters
+A Physics Show Performed by Students for Kids: From Mechanics to Elementary Particle Physics
+Testing theoretical models of magnetic damping using an air track
+From Emc 2 to the Lorentz transformations via the law of addition of relativistic velocities
+Emerging technologies in physics education
+The decoherence criterion
+The hydrogen atom in electric and magnetic fields : Pauli's 192 article
+Playing Quantum Physics Jeopardy with zero-energy eigenstates
+Babinet's principle in the Fresnel regime studied using ultrasound
+Geometric phases without geometry
+High School Class for Gifted Pupils in Physics and Sciences and Pupils Skills Measured by Standard and Pisa Test
+Education and Research in the SEENET-MTP Regional Framework for Higher Education in Physics
+Ettore Majorana's Inaugural Lecture on Theoretical Physics (Naples Italy Jan.13 193)
+Gli Strumenti Scientifici di Interesse Storico di tre antiche Scuole Medie Superiori di Bergamo ( Lussana Vittorio Emanuele e Quarenghi )
+In-situ observation of a soap film catenoid - a simple educational physics experiment
+A longitudinal study of student conceptual understanding in Electricity and Magnetism
+Do Computer Simulations Allow a Better Understanding of Basic Electrical Circuits than Real Lab Experiments?
+Ettore Majorana's Scientific (and Human) Personality
+Determining the Muon Mass in an Instructional Laboratory
+Making Meaning with Math in Physics: A semantic analysis
+Numerical calculation of near field scalar diffraction using angular spectrum of plane waves theory and FFT
+Exact calculation of the number of degrees of freedom of a rigid body constituted by n particles
+The Moving Center of Mass of a Leaking Bob
+A Classroom Demonstration of Levitation and Suspension of a Superconductor over a Magnetic Track
+An extensive Study of Teaching Learning Quantum Mechanics in College
+Beyond epistemological deficits: Incorporating flexible epistemological views into fine-grained cognitive dynamics
+Where to find the mind: Identifying the scale of cognitive dynamics
+A student's guide to searching the literature using online databases
+A search for the Mpemba effect: When hot water freezes faster then cold water
+Solving the brachistochrone and other variational problems with soap films
+Incorporating Affect in an Engineering Student's Epistemological Dynamics
+Understanding students' difficulties in terms of coupled epistemological and affective dynamics
+The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention
+An accurate formula for the period of a simple pendulum oscillating beyond the small-angle regime
+Motion of falling object
+Data Mining the University: College GPA Predictions from SAT Scores
+Graduate Quantum Mechanics Reform
+The weight of a falling chain revisited
+Modified Newton's rings: II
+Shaping Attitudes Toward Science in an Introductory Astronomy Class
+Understanding Quaternions and the Dirac Belt Trick
+On a random walk with memory and its relation to Markovian processes
+Data analysis and graphing in an introductory physics laboratory: spreadsheet versus statistics suite
+Some remarks on a current study involving preservice elementary teachers and some basic astronomical phenomena
+Scientific Metaphors in the journalistic discourse
+Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling
+Computational Modelling with Modellus: An Enhancement Vector for the General University Physics Course
+Measuring the speed of light using beating longitudinal modes in an open-cavity HeNe laser
+Falling spring and falling catenary as cases of force propagation
+Verification of the Rayleigh Scattering Cross Section
+Educational asymmetries in the making: Science Fair Competitions as Proxies of the Economic Development
+Teaching and Learning Science with Learning Assistants
+Nonlinear Pendulum: A Simple Generalization
+An Introductory Course on Quantum Mechanics
+Teaching Physics Using Virtual Reality
+Analyzing Force Concept Inventory with Item Response Theory
+Using conceptual blending to describe emergent meaning in wave propagation
+Introducing students to the culture of physics: Explicating elements of the hidden curriculum
+Students' Responses To Different Representations Of A Vector Addition Question
+Multiple Conceptual Coherences in the Speed Tutorial: Micro-processes of Local Stability
+History of Scientists? Elimination of Naive Beliefs about Movement - The testing of the theories of Galileo in his lifetime on board of a galley -
+Introductory Astronomy as a Measure of Grade Inflation
+Students' Consistency of Graphical Vector Addition Method on 2-D Vector Addition Tasks
+The Case for Dynamic Models of Learners' Ontologies in Physics
+Atomic Clocks and Coherent Population Trapping: Experiments for Undergraduate Laboratories
+Is Magnification Consistent? Why people from amateur astronomers to science's worst enemy have some basic physics wrong and why
+Fluctuations in Student Understanding of Newton's 3rd Law
+Understanding How Students Use Physical Ideas in Introductory Biology Courses
+Hitchhiker's Guide to First Year Physics Labs at UCD
+Circuit Design: An inquiry lab activity at Maui Community College
+Digital image exploration at Maui Community College
+Simple system to measure the Earth's magnetic field
+The Design and Implementation of the Akamai Maui Short Course
+Teaching Charge Coupled Devices Using Models as Part of the Engineering Design Process at Maui Community College
+A Global Citizen of the Skies
+Investigations about Science Misconceptions
+Productivity tools to study constrained motion: electrician's approach to mechanician's problem
+Can Physics Teaching be improved by Explanation of Tricks with a Motorcycle?
+Teaching Optics and Systems Engineering With Adaptive Optics Workbenches
+Lens Inquiry: An Astronomy Lab for Non-science Majors at Hartnell Community College
+The Relativistic Mug
+The Wonders of Levitation
+Making Liquid Oxygen
+About the proof of the so called exact classical confidence intervals. Where is the trick?
+The kinematic origin of the cosmological redshift
+A simplified approach to electromagnetism using geometric algebra
+Visualising a Fuse
+The Archaeo-Astronomy Project -- Supporting the Outdoor Classroom
+Affordable Digital Planetariums with WorldWide Telescope
+Nonlinear Psychometric Thresholds for Physics and Mathematics
+A non-standard approach to introduce simple harmonic motion
+The CfAO's Astronomy Course in COSMOS: Curriculum Design Rationale and Application
+Comparing the Matter and Interactions Curriculum with a Traditional Physics Curriculum: A Think Aloud Study
+The falling raindrop revisited
+From Classical to Quantum Mechanics through Optics
+Solving the time-dependent Schr odinger equation with absorbing boundary conditions and source terms in Mathematica .0
+A digital oscilloscope setup for the measurement of a transistor's characteristics
+Exploring the action landscape with trial world-lines
+The Design and Validation of the Quantum Mechanics Conceptual Survey
+Quantum Interference with Slits Revisited
+Formulation Of A N-Degree Polynomial For Depth Estimation using a Single Image
+Software architecture for an unattended remotely controlled telescope
+Test problems in mechanics and special relativity
+Density Functional Theory -- an introduction
+Studying springs in series using a single spring
+In favour of the time variable in classical thermoDYNAMICS
+Integrability and chaos: the classical uncertainty
+Are we teaching students to think like scientists?
+International research work experience of young females in physics
+Directly integrating the Schroedinger to determine tunneling rates for arbitrary one-dimensional potential barriers
+The Sky is for Everyone - Outreach and Educaction with the Virtual Observatory
+Wronskian method for bound states
+Una controversia historica al servicio de una situacion de aprendizaje: una reconstruccion didactica basada en Dialogo sobre los dos maximos sistemas del mundo de Galileo
+Why Cheating is Wrong
+The wisdom of sages: nuclear physics education knowledge-inquiry and wisdom-inquiry
+The Evening Tutoring Center at the United States Air Force Academy
+Effective Administration of a Large Undergraduate Physics Class: From Enrolment to Assessment Feedback
+The One Dimensional Damped Forced Harmonic Oscillator Revisited
+Rutherford scattering with radiation damping
+On the Correct Use of Statistical Tests: Reply to Lies damned lies and statistics (in Geology)
+Experiments on Radioactivity in a Virtual Laboratory
+Steady states of the parametric rotator and pendulum
+Implementing Elements of The Physics Suite at a Large Metropolitan Research University
+How to display science since images have no mass
+Resource Letter: Quantum Chromodynamics
+Locating the source of projectile fluid droplets
+Physics Education Research and the Teaching and Learning of Physics
+The QuarkNet Grid Collaborative Learning e-Lab
+Arithmetic Operations Beyond Floating Point Number Precision
+The geometry of sound rays in a wind
+Whither Does the Sun Rove?
+Causality in classical electrodynamics
+Students' Concepts in Understanding Of Sound
+Extrasolar Planets in the Classroom
+Could the Coand u a effect be called the Young effect? The understanding of fluid dynamics of a legendary polymath
+Examining the Impact of Student Expectations on Undergraduate Biology Education Reform
+A diagnostic e-module for testing conceptual understanding of Symmetry and Gauss's Law
+Teaching Fluid Mechanics for Undergraduate Students in Applied Industrial Biology: from Theory to Atypical Experiments
+Investigating viscous damping using a webcam
+Experimental determination of heat capacities and their correlation with quantum predictions
+The End of Cheap Uranium
+Sprinkler Head Revisited: Momentum Forces and Flows in Machian Propulsion
+High resolution stopwatch for cents
+Studying null and time-like geodesics in the classroom
+Introduction to pinhole astronomy
+The Buddy Quiz: A collaborative assessment and a representation of the scientific enterprise
+On the Lorentzian route to Relativity
+Teaching introductory undergraduate Physics using commercial video games
+Dirac and Majorana Constructs
+Motion of the heavens: a pedagogical proposal for secondary education teachers
+Precession of the Equinoxes: a pedagogical proposal for secondary education teachers
+Demonstration of double EIT using coupled harmonic oscillators and RLC circuits
+Applications of a constrained mechanics methodology in economics
+Efficient Sound Card Based Experimention At Different Levels Of Natural Science Education
+Enhancing Introductory Student Motivation with a Major-Managed Course Blog: A Pilot Study
+Evaluation of inverse integral transforms for undergraduate physics students
+Non-Cartesian Thinking
+Compact USB-based Instruments for Education and Remote Laboratory Projects
+Investigating Systematic Uncertainty and Experimental Design with Projectile Launchers
+Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes
+Interpretation in Quantum Physics as Hidden Curriculum
+Refined Characterization of Student Perspectives on Quantum Physics
+Relativistic Electron Experiment for the Undergraduate Laboratory
+Application of exterior calculus to waveguides
+Probability and dynamics in the toss of a non-bouncing thick coin
+Quantum Computation: Particle and Wave Aspects of Algorithms
+Solving the Einstein-Podolksy-Rosen puzzle: a possible origin of non-locality
+Perspectives in Quantum Physics: Epistemological Ontological and Pedagogical. An investigation into student and expert perspectives on the physical interpretation of quantum mechanics with implications for modern physics instruction
+Examining student ability to interpret and use potential energy diagrams for classical systems
+Statistical Physics for Humanities: A Tutorial
+Particle Physics Masterclasses
+Bringing the LHC and ATLAS to a regional planetarium
+The Multimedia Project Quarked
+Solution of the quantum harmonic oscillator plus a delta-function potential at the origin: The oddness of its even-parity solutions
+Beyond a dichotomic approach to concepts: the case of colour phenomena
+Laboratory Exercises Using the Haystack VSRT Interferometer To Teach the Basics of Aperture Synthesis
+Observation of triple-photon decay in positron-electron pair annihilation: a triple coincidence setup for the undergraduate laboratory
+Celebrating 30 Years of K-12 Educational Programing at Fermilab
+Sub- 10 sound card photogate variants
+A Protocol for Messaging to Extraterrestrial Intelligence
+Virtual images and billiards
+An outlook of the user support model to educate the users community at the CMS Experiment
+Scientific reasoning abilities of non-science majors in physics-based courses
+Two exercises about neutrino departure times at CERN
+Mathematical Physics : Problems and Solutions of The Students Training Contest Olympiad in Mathematical and Theoretical Physics (May 21st - 24th 2010)
+Evaluation of High School Programme for Gifted Pupils in Physics and Sciences in Serbia - Experience in Regional Cooperation -- SEENET-MTP Network
+Bernoulli Levitation
+Neutrino Oscillations for Dummies
+The Forgotten Night: The Number Devil Explores Spherical Geometry
+Finding the Center of Mass of a Soft Spring
+Computerized Stokes analysis of optically active polymer films
+A New Keyboard for the Bohlen-Pierce Scale
+The Adaptive Optics Summer School Laboratory Activities
+Statistical uncertainty in educational experiment on the attenuation of gamma radiation
+TEI Piraeus students' knowledge on the beneficial applications of nuclear physics: Nuclear energy radioactivity - consequences
+Do Prescribed Prompts Prime Sensemaking During Group Problem Solving?
+Santa and the moon
+A Program for Integrating Math and Physics Internet-Based Teaching Tools into Large University Physics Courses
+Real Time Relativity: exploration learning of special relativity
+Lessons in Particle Physics
+A blackbody is not a blackbox
+Teaching Galileo? Get to know Riccioli -- What a forgotten Italian astronomer can teach students about how science works
+The First Three Rungs of the Cosmological Distance Ladder
+Building Thinking Skills in Pre-service Elementary School Teachers
+UCTM: A User friendly Configurable Trigger scaler and delay Module for nuclear and particle physics
+Relativity on Rotated Graph Paper
+Trajectories of charged particles trapped in Earth's magnetic field
+Fostering Computational Thinking
+Mobile Phone Faraday Cage
+Extending and Evaluating and Novel Course Reform of introductory Mechanics
+A Low Cost Remote Sensing System Using PC and Stereo Equipment
+Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings
+Undergraduate experiment in point-contact spectroscopy with a Nb Au junction
+Teaching Waves with Google Earth
+WorldWide Telescope in Research and Education
+Visualizing Flat Spacetime: Viewing Optical versus Special Relativistic Effects
+An Introduction to Quantum Mechanics ... for those who dwell in the macroscopic world
+Bi Event Timer for Physics Lab
+U-Shaped development of Newtonian concepts: Implications for pedagogical design and research practice
+Edaq30: a transparent open-end and open-source measurement solution in natural science education
+Understanding Pound-Drever-Hall locking using voltage controlled radio-frequency oscillators: An undergraduate experiment
+Gender Gaps in the Mathematical Sciences: The Creativity Factor
+Free Fall Frame to Demonstrate Weightlessness
+Getting the Swing of Surface Gravity
+Astrophysics datamining in the classroom: Exploring real data with new software tools and robotic telescopes
+High Voltage Generation for Physics Lab
+Experiments with a Malkus-Lorenz water wheel: Chaos and Synchronization
+Students Watching Stars Evolve
+Peak into the Past - An Archaeo-Astronomy Summer School
+Archaeo-Astronomy in Society: Supporting Citizenship in Schools Across Europe
+A better presentation of Planck's radiation law
+Feynman Path Integral approach to electron diffraction for one and two slits analytical results
+Computer-games for gravitational wave science outreach: Black Hole Pong and Space Time Quest
+Barn and Pole paradox: revisited
+Simple model of photo acoustic system for greenhouse effect
+Motion Tracking in Undergraduate Physics Laboratories with the Wii Remote
+The Orion constellation as an installation - An innovative three dimensional teaching and learning environment
+Fourier Optics and Time Evolution of De Broglie Wave Packets
+Computing Accurate Age and Distance Factors in Cosmology
+Optimal Pacing for Running 400 m and 00 m Track Races
+EI Videos
+Spreading scientific philosophies with instruments: the case of Atwood's machine
+Decoding Pure Rotational Molecular Spectra for Asymmetric Molecules
+The true colours of white light: hands-on optical spectrometry
+Promoting scientific thinking with robots
+The Atwood's machine as a tool to introduce variable mass systems
+Falling chains as variable mass systems: theoretical model and experimental analysis
+Teaching Differentials in Thermodynamics using Spatial Visualization
+Physics on Smallest Scales - An Introduction to Minimal Length Phenomenology
+Photonics Explorer - An European program to foster science education with hands-on experiments
+Mpemba Effect Shechtman's Quasicrystals and Students' Exploring Activities
+Albert Einstein and Scientific Theology
+Interactional processes for stabilizing conceptual coherences in physics
+General-Relativistic Equations of Motion in terms of Energy and Angular Momentum
+On Equivalent Expressions for the Faraday's Law of Induction
+Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics
+A College-Level Inquiry-Based Laboratory Activity on Transiting Planets
+An Introduction to String Theory
+Fizeau's aether-drag experiment in the undergraduate laboratory
+On Understanding Statistical Data Analysis in Higher Education
+One-dimensional collision carts computer model and its design ideas for productive experiential learning
+Interactive visualization of a thin disc around a Schwarzschild black hole
+Using Tracker as a Pedagogical Tool for Understanding Projectile Motion
+Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study
+Implementing and assessing computational modeling in introductory mechanics
+Electroluminescence in photovoltaic cell
+Investigating Student Communities with Network Analysis of Interactions in a Physics Learning Center
+How numbers help students solve physics problems
+An empirical approach to interpreting card-sorting data
+Learning with multiple representations: An example of a revision lesson in mechanics
+Leveraging on Easy Java Simulation tool and open source computer simulation library to create interactive digital media for mass customization of high school physics curriculum
+Video Analysis and Modeling Tool for Physics Education: A workshop for Redesigning Pedagogy
+Measuring the eccentricity of the Earth orbit with a nail and a piece of plywood
+Development and Validation of the Colorado Learning Attitudes about Science Survey for Experimental Physics
+The role of context and culture in teaching physics: The implication of disciplinary differences
+Magnetic levitation on a type-I superconductor as a practical demonstration experiment for students
+Demonstration experiments for solid state physics using a table top mechanical Stirling refrigerator
+Teaching Astronomy with an Inquiry Activity on Stellar Populations
+Educating and Training Accelerator Scientists and Technologists for Tomorrow
+Fluorescence for high school students
+Research-Based Course Materials and Assessments for Upper-Division Electrodynamics (E M II)
+Building Classroom and Organizational Structure Around Positive Cultural Values
+Light Pollution as Part of the Environmental Problems
+Teaching the third law of thermodynamics
+Modeling a falling slinky
+Preparing Undergraduates for Research Careers: Using Astrobites in the Classroom
+Teaching and understanding of quantum interpretations in modern physics courses
+Science and Engineering Education: Who is the Customer?
+Looking Beyond Content: Skill development for engineers
+Reinventing College Physics for Biologists: Explicating an epistemological curriculum
+Subtleties on energy calculations in the image method
+Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants
+Simple analysis of off-axis solenoid fields using the scalar magnetostatic potential: application to a eeman-slower for cold atoms
+Epistemic Complexity and the Journeyman-Expert Transition
+Students' Views of Macroscopic and Microscopic Energy in Physics and Biology
+Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students
+Qualitative study of perfect-fluid Friedmann-Lema i tre-Robertson-Walker models with a cosmological constant
+ACER: A Framework on the Use of Mathematics in Upper-division Physics
+Upper-division Student Understanding of Coulomb's Law: Difficulties with Continuous Charge Distributions
+How far can Tarzan jump?
+Development of quantum perspectives in modern physics
+Influencing Student Relationships With Physics Through Culturally Relevant Tools
+Changing Roles and Identities in a Teacher Driven Professional Development Community
+Changing Identities and Evolving Conceptions of Inquiry through Teacher-Driven Professional Development
+Adaptation of the Euler-Lagrange equation for studying one-dimensional motions in a constant force
+Technical Notes on Classical Electromagnetism with exercises
+Inverted Classroom an der Hochschule Karlsruhe - ein nicht quantisierter Flip
+Model Analysis: Assessing the dynamics of student learning
+A sensitive cloud chamber without radioactive sources
+A Aplica c c ao de uma Nova Metodologia de Ensino de F 'isica: O Aprendizado Colaborativo
+An introduction to leptogenesis and neutrino properties
+Simulating Interference and Diffraction in Instructional Laboratories
+Improving student's problem-solving ability as well as conceptual understanding without sacrificing the physics content of a class
+A class where qualitative discussions coming weeks before computationally complicated practice helps students' problem solving abilities
+Designing Open Source Computer Models for Physics by Inquiry using Easy Java Simulation
+Teaching introductory STEM with the Marble Game
+An intermediate-level physics laboratory: A system of two coupled oscillators with low-cost accelerometers
+3rd grade English language learners making sense of sound
+Physics Educators as Designers of Simulation using Easy Java Simulation (Ejs)
+Application of FCI at engineering students in Bogota: an interpretation of the answers through a random model of two levels
+Semi-quantitative diagram about temporal evolution in basic physics learning: a study with engineering students
+The Harmonic Oscillator in Quantum Mechanics: A Third Way
+On parameter estimation in the physics lab based on inverting a slope regression coefficient
+Virtual experiments about a walker fly: beyond the Neumann s solution
+Fundamentals of Atmospheric Physics for Engineering
+The double well potential in quantum mechanics: a simple numerically exact formulation
+Possible Bubbles of Spacetime Curvature in the South Pacific
+A graphical tool for demonstrating the techniques of radio interferometry
+Teaching Classical Mechanics using Smartphones
+Physics Educators as Designers of Simulation using Easy Java Simulation (Ejs) Part 2
+Trends of development of the methodical system of teaching physics in high schools of Kazakhstan
+Gender differences in conceptual understanding of Newtonian mechanics: a UK cross-institution comparison
+Videos of physics experiments. A supplementary educational tool for students and teachers
+Illuminating Fourier Series with Audacity
+The amazing normal forces
+Estimate of resources required for a meaningful reform of education
+Learning about non-Newtonian fluids in a student-driven classroom
+Bipolar Transistor Tester Digital IC Tester for Physics Lab
+Fostering Student Enrollment in Basic Sciences: the Case of Southern Tuscany
+Quantum Randi Challenge
+Open Source Energy Simulation for Elementary School
+Impossible? Publication Quality Research with the Weakest 10 of Incoming Freshmen
+Attempts of Transforming Teacher Practice Through Professional Development
+Cosmology and Science Education: Problems and Promises
+An empirical study on a learning path on wave physics focused on energy
+Publishing an Article: A Main Goal for a Graduate Course
+Geostationary Earth Orbit Satellite Model using Easy Java Simulation
+Using the mobile phone acceleration sensor in Physics experiments: free and damped harmonic oscillations
+Metric-first entropy-first surprises
+Visualizing the logistic map with a microcontroller
+The Elements of Item Response Theory and its Framework in Analyzing Introductory Astronomy College Student Misconceptions. I. Galaxies
+The Process of Transforming an Advanced Lab Course: Goals Curriculum and Assessments
+Direction dependency of extraordinary refraction index in uniaxial nematic liquid crystals
+Students' Interdisciplinary Reasoning about High-Energy Bonds and ATP
+The Compass Project: Charting a New Course in Physics Education
+Solving for three-dimensional central potentials using matrix mechanics
+La optica de imagenes en la extension universitaria de Unicamp
+The MICA Experiment: Astrophysics in Virtual Worlds
+From adiabatic piston to non-equilibrium hydrodynamics
+Spatial geometry of the rotating disk and its non-rotating counterpart
+Notes from Sidney Coleman's Physics 23a
+Sticky physics of joy: On the dissolution of spherical candies
+How can we improve problem-solving in undergraduate biology? Applying lessons from 30 years of physics education research
+A simple strobe to study high-order harmonics and multifrequency oscillations in mechanical resonators
+On deriving flux freezing in magnetohydrodynamics by direct differentiation
+Interactive Methods of Teaching Physics at Technical Universities
+Admissions Criteria and Diversity in Graduate School
+Boundary element method and simulated annealing algorithm applied to electrical impedance tomography image reconstruction
+Teach Network Science to Teenagers
+Probing Student Understanding With Alternative Questioning Strategies
+Twelve Years of Education and Public Outreach with the Fermi Gamma-ray Space Telescope
+Enabling Gravity Physics by Inquiry using Easy Java Simulation
+Reflection off Surfaces of Revolution: a Teachers' primer to the Introduction of the Cross-section Concept
+Biophysics software for interdisciplinary education and research
+Using the Big Ideas in Cosmology to Teach College Students
+An educational path for the magnetic vector potential and its physical implications
+Galaxy oo: Motivations of Citizen Scientists
+Introducing nanoengineering and nanotechnology to the first year students through an interactive seminar course
+Velocities: mean average and instantaneous in uniform accelerated motion some pedagogical comments
+An English translation o Bertrand's theorem
+The Sun's position in the sky
+The rhythm of coupled metronomes
+Liquid crystals: a new topic in physics for undergraduates
+Grading by Category: A simple method for providing students with meaningful feedback on exams in large courses
+The FuturICT Education Accelerator
+De- and Re-constructing Introductory Physics for the Life Sciences
+Use of research-based instructional strategies: how to avoid faculty quitting
+Remote Mentoring Young Females in STEM through MAGIC
+Revisiting Fizeaus Observations: Spectral study of Na source using Newtons rings
+The electrostatic field of a point charge and an electrical dipole in the presence of a conducting sphere
+A Jumping Cylinder on an Incline
+Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis
+Modern Cosmology: Interactive Computer Simulations that use Recent Observational Surveys
+The Relativity Concept Inventory: development analysis and results
+Who teaches science in Alagoas? A quantitative analysis of non-specialist teaching at primary and secondary schools in Brazil
+An exercise on Gauss' law for gravitation: The Flat Earth model
+From Fma to Flying Squirrels: Curricular Change in an Introductory Physics Course
+From Agents to Continuous Change via Aesthetics: Learning Mechanics with Visual Agentbased Computational Modeling
+Making the case of GPUs in courses on computational physics
+The dynamics of a rotating ellipsoid
+Physics Pedagogy and Assessment in Secondary Schools in the U.S.
+Feedback from students' tests as a tool in teaching
+Dark Matter and MOOCs
+Diurnal astronomy: using sticks and threads to find our latitude on Earth
+Representation-independent manipulations with Dirac matrices and spinors
+Google Earth Physics
+Using the Sound Card as a Timer
+User guide to TIM a ray-tracing program for forbidden ray optics
+An undergraduate study of harmonic and parametric motion of a simple spring-mass system from motion waveforms
+Learning Each Others' Ropes: Negotiating interdisciplinary authenticity
+Electromotive Force: A Guide for the Perplexed
+Dr TIM: Ray-tracer TIM with additional specialist scientific capabilities
+Assessing Student Learning in Middle-Division Classical Mechanics Math Methods
+Contrastive Sets and Framing: A Case Study in Scientific Writing
+How to Demonstrate the Voltage on a charged object in Physics Laboratory
+An Instructional Scaffolding for Intuitive Explanation of Why does not a spinning top collapse?
+Understanding Student Computational Thinking with Computational Modeling
+Estimation of solar zenith passage on the Earth's surface by a simple harmonic motion
+Physical Determination of the Action
+Consequences the extensive use of multiple-choice questions might have on student's reasoning structure
+Toward affect-inclusive models of cognitive dynamics: Coupling epistemological resources and emotions
+A new introductory quantum mechanics curriculum
+Biologic: Gene circuits and feedback in an introductory physics sequence for biology and premedical students
+Development and results from a survey on students views of experiments in lab classes and research
+A proper understanding of the Davisson and Germer experiments for undergraduate modern physics course
+Student Variability in Learning Advanced Physics
+Exploring Pedagogical Content Knowledge of Physics Instructors and Teaching Assistants Using the Force Concept Inventory
+Exploring Pedagogical Content Knowledge of Teaching Assistants Using the Test of Understanding Graphs in Kinematics
+The Decrease in Physics Enrollment
+Student Understanding of Taylor Series Expansions in Statistical Mechanics
+Variation of Instructor-Student Interactions in an Introductory Interactive Physics Course
+Standing Sound Waves in a tube: Approach analysis sugestions
+Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers
+Evolution of quasi-history in a Physics Textbook
+The Effect of Student Learning Styles on the Learning Gains Achieved When Interactive Simulations Are Coupled with Real-Time Formative Assessment via Pen-Enabled Mobile Technology
+Evaluating Astronomy Literacy of the General Public
+Assessing the quality of a student-generated question repository
+Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course
+Open Source Physics
+Using Inksurvey with Pen-enabled Mobile Devices for Real-time Formative Assessment I: Applications in Diverse Educational Enviroments
+Using Inksurvey with Pen-enabled Movile Devices for Real-time Formative Assessment II: Indications of Effectiveness in Diverse Educational Environments
+Toward Better Physics Labs for Future Biologists
+Constructing a Multiple-Choice Assessment For Upper-Division Quantum Physics From An Open-Ended Tool
+Time Development of Early Social Networks: Link analysis and group dynamics
+Employing real experiments and modern viewpoints in the teaching of modern physics
+Integrated Testlets and the Immediate Feedback Assessment Technique
+Multiple-choice Assessment for Upper-division Electricity and Magnetism
+Frictionless Racquetball?
+Numerical Chladni figures
+Intentional Design for Empowerment
+Addressing learning difficulties in Newtons 1st and 3rd Laws through problem based inquiry using Easy Java Simulation
+Extending positive C-LASS results across multiple instructors and multiple classes of Modeling Instruction
+The Initial State of Students Taking an Introductory Physics MOOC
+Physics as a Mechanism for Including ELLs in Classroom Discourse
+The Role of Dimensional Analysis in Teaching Physics
+Developing Tutorials for Advanced Physics Students: Processes and Lessons Learned
+Just in Time to Flip Your Classroom
+Radial Forcing and Edgar Allan Poe's Lengthening Pendulum
+CosMO - A Cosmic Muon Observer Experiment for Students
+Mass Speed Direction: John Buridan's 14th century concept of momentum
+Experimental determination of circuit equations
+Why do Earth satellites stay up?
+Visualizing Angular Momentum Eigenstates using the Spin Coherent State Representation
+Measures of radioactivity: a tool for understanding statistical data analysis
+Active and Cooperative Learning Paths in the Pigelleto's Summer School of Physics
+Disciplinary Knots and Learning Problems in Waves Physics
+The Planeterrella experiment: from individual initiative to networking
+Computer Models Design for Teaching and Learning using Easy Java Simulation
+Higgs Boson -- on Your Own
+Memory of Quark Matter Card Game
+A Thousand Problems in Cosmology. Chapter 4: Black holes
+A New Approach to Developing Interactive Software Modules through Graduate Education
+Using river locks to teach hydrodynamic concepts
+Problem Roulette: Studying Introductory Physics in the Cloud
+Participation And performance In .02x Electricity And Magnetism: The First Physics MOOC From MITx
+A simple method to characterize the electrical and mechanical properties of micro-fibers
+Physics of non-steady state diffusion of lightweight atoms in a heavy atom matrix. Introducing an open-source tool for simulated-experiments in fluid mechanics
+The occultation of Arcturus in the Vatican
+Meeting Student Needs for Multivariate Data Analysis: A Case Study in Teaching a Multivariate Data Analysis Course with No Pre-requisites
+Research Methodology
+Integrating Numerical Computation into the Modeling Instruction Curriculum
+Incorporating learning goals about modeling into an upper-division physics laboratory experiment
+A Model for Incorporating Computation Without Changing the Course: An example from middle-division classical mechanics
+The Higgs boson
+Developing Cloud Chambers with High School Students
+Transforming High School Physics with Modeling and Computation
+Tagging and Linking Lecture Audio Recordings: Goals and Practice
+Fractions in elementary education
+Digital planetariums as virtual museums for discovering today's science
+Introduction of interactive learning into French university physics classrooms
+Do You Always Need a Textbook to Teach Astro 101?
+Physics Items and Student's Performance at Enem
+Output stages inside a negative feedback loop: application to a low-voltage three-phase DC-AC converter for educational purposes
+Benford's Law: Textbook Exercises and Multiple-choice Testbanks
+Student's Video Production as Formative Assessment
+Evaluation of a College Freshman Diversity Research Program
+A Comprehensive Assessment Strategy for Physics Laboratory Courses
+A Novel Approach to Encourage Students Independent Thinking in the Physics Laboratory
+How students blend conceptual and formal mathematical reasoning in solving physics problems
+First Steps into Physics in the Winery
+Bridging Physics and Biology Teaching through Modeling
+Exploring viscous damping in undergraduate Physics laboratory using electromagnetically coupled oscillators
+Detecting Concepts Crucial for Success in Mathematics Courses from Knowledge State-based Placement Data
+Valuing Student Ideas Morally Instrumentally and Intellectually
+What we can learn about quantum physics from a single qubit
+Imaging the Moon II: Webcam CCD observations analysis (a two week lab for non-majors)
+Spin glasses: the game
+Conditions for building a community of practice in an advanced physics laboratory
+Acoustic resonance spectroscopy for the advanced undergraduate laboratory
+Lessons from a Large-Scale Assessment: Results from Conceptual Inventories
+The Effect of Problem Format on Students Responses
+Tirocinio Formativo Attivo nell'Ateneo di Palermo: Classe di Abilitazione A049 - Matematica e Fisica
+A Thousand Problems in Cosmology: Interaction in the Dark Sector
+A low-cost mirror mount control system for optics setups
+Interpreting Recoil For Undergraduate Students
+Computer algebra systems as tools for learning Physics and Mathematics
+Correspondence between geometrical and differential definitions of the sine and cosine functions and connection with kinematics
+Measuring the thermal diffusivity in a student laboratory
+Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals
+Software Carpentry: Lessons Learned
+A Thousand Problems in Cosmology: Horizons
+Implementing a simple vectorial bridge with a digital oscilloscope
+Measurement of the convective heat-transfer coefficient
+A multipurpose action for learning-teaching process: The Pigelleto's Summer School of Physics
+Acustica con una Bic e uno smartphone
+Lessons from a Large-Scale Assessment: Results from Free Response Pre- and Post-testing in Electricity and Magnetism
+Seeing and interacting with the invisible: A powerful tool for the learning of science
+Easy Java Simulation an innovative tool for teachers as designers of gravity-physics computer models
+Theoretical and Experimental Studies on a Cylinder Containing Granules Rolling Down an Inclined Plane
+Becoming the Change: A Critical Evaluation of the Changing Face of Life Science as Reflected in the NGSS
+Gaming the System: Video Games as a Theoretical Framework for Instructional Design
+Common Mistakes in Writing Astronomy and Physics Literature in English
+The physical basis of natural units and truly fundamental constants
+A Simple Method to Reduce Thermodynamic Derivatives by Computer
+Forces on wheels and fuel consumption in cars
+Connecting microscopic physics with the macroscopic properties of materials in introductory physics courses
+From mechanics to thermodynamics -- analysis of selected examples
+Supporting Level 1 Physics Astronomy Undergraduates at the University of Glasgow
+The parametric spring-mass system its connection with non-linear optics and an approach for undergraduate students
+Gender gap on concept inventories in physics: what is consistent what is inconsistent and what factors influence the gap?
+An astronomical survey conducted in Belgium
+Integrated STEM in Elementary Grades Using Distributed Agent-based Computation
+21st Century Ergonomic Education From Little e to Big E
+Sound and Noise: Proposal for an Interdisciplinary Learning Path
+Affective Factors in STEM Learning and Scientific Inquiry: Assessment of Cognitive Conflict and Anxiety
+Foldscope: Origami-based paper microscope
+MPPhys - A many-particle simulation package for computational physics education
+The physics of a walking robot
+Writing Science Fiction Stories to Motivate Analysis of Journal Articles
+Curr 'iculo interdisciplinar para licenciatura em ci encias da natureza
+More network science for teenagers
+Perspectival Computational Thinking for Learning Physics: A Case Study of Collaborative Agent-based Modeling
+Demonstration of the Inverse Square Law with the aid of a Tablet smartphone
+K-12 Teaching and Physics Enrollment
+Examining Perceptions of Astronomy Images Across Mobile Platforms
+Equilibria and Instabilities of a Slinky: Discrete Model
+Lecture Script: Introduction to Computational Quantum Mechanics
+Simulating a guitar with a conventional sonometer
+Microwave Bragg-scattering zone-axis-pattern analysis
+Chemical energy in an introductory physics course for the life sciences
+Entropy and spontaneity in an introductory physics course for life science students
+A field study of data analysis exercises in a bachelor physics course using the internet platform VISPA
+Changes to the TN Middle Grades Science Curriculum According to NGSS
+Illustrations of Equivalent Methods to Reproduce Vehicle and Occupant Dynamics as a Pedagogical Tool
+How to Establish a Bioinformatics Postgraduate Degree Programme: A Case Study from South Africa
+Montecarlo Techniques as a tool for teaching statistics
+The University of Washington Mobile Planetarium Do-it-Yourself Guide
+Role of face-to-face lecturing in large enrollment physics classes
+Unveiling the physics of the Thomson jumping ring
+Best Practices for Administering Concept Inventories
+A Workshop that Works
+How different incentives affect homework completion in introductory physics courses
+Negative Energy: Why Interdisciplinary Physics Requires Multiple Ontologies
+Oersted Lecture 2013: How should we think about how our students think?
+An epistemology and expectations survey about experimental physics: Development and initial results
+Real-time analysis of mechanical and electrical resonances with open source sound card software
+An inquiry-based laboratory on friction
+Active learning in pre-service science teacher education
+A pilot experience in physics laboratory for a professional school
+Lessons Learned from Development of a Software Tool to Support Academic Advising
+Extending Item Response Theory to Online Homework
+A Vision of Interdisciplinary Education: Students' Reasoning about High-Energy Bonds and ATP
+Fourteen Years of Education and Public Outreach for the Swift Gamma-ray Burst Explorer Mission
+Dreamtime Astronomy: development of a new Indigenous program at Sydney Observatory
+Free fall misconceptions: results of a graph based pre test of sophomore civil engineering students
+A Colorful Demonstration of Thermal Refraction
+Second Life Physics: Virtual real or surreal?
+Big Data as a Mediator in Science Teaching: A Proposal
+TATI -- A Logo-like interface for microworlds and simulations for physics teaching in Second Life
+Mathematics and Climate Infographics: A Mechanism for Interdisciplinary Collaboration in the Classroom
+How to Control a Decrease in Physics Enrollment?
+Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets
+Second Life as a Platform for Physics Simulations and Microworlds: An Evaluation
+pyro: A teaching code for computational astrophysical hydrodynamics
+From evaluation to learning: Some aspects of designing a cyber-university
+Why are differential equations used for expressing the laws of physics?
+Acceleration Measurements Using Smartphone Sensors: Dealing with the Equivalence Principle
+An Electric Circuit Lab for General Physics Classes
+Interactions between teaching assistants and students boost engagement in physics labs
+An Educational Kit Based on a Modular Silicon Photomultiplier System
+Ontological metaphors for negative energy in an interdisciplinary context
+Teaching labs the Compass way: Engaging students in authentic research practices and guided self-reflection
+Sector Models - A Toolkit for Teaching General Relativity. Part 1: Curved Spaces and Spacetimes
+An Empirical Study of the Effect of Granting Multiple Tries for Online Homework
+Learning about the Energy of a Hurricane System through an Estimation Epistemic Game
+Rubric Design for Separating the Roles of Open-Ended Assessments
+Studying Expert Practices to Create Learning Goals for Electronics Labs
+Revealing Differences Between Curricula Using the Colorado Upper-Division Electrostatics Diagnostic
+The motion of a leaking oscillator -- a study for the physics class
+Small Oscillations via Conservation of Energy in a Simple Static Equilibrium Problem
+Modeling the dynamics of single-bubble sonoluminescence
+A Review of High School Level Astronomy Student Research Projects over the last two decades
+Volume Integral of the Pressure Gradient and Archimedes' Principle
+A model for including Arduino microcontroller programming in the introductory physics lab
+Interdisciplinarity in Socio-economics mathematical analysis and predictability of complex systems
+Re-thinking the Rubric for Grading the CUE: The Superposition Principle
+How physics instruction impacts students' beliefs about learning physics
+Modeling and experimentation with asymmetric rigid bodies: a variation on disks and inclines
+A comparison of integrated testlet and constructed-response question formats
+Essays on Eclipses Transits and Occultations as Teaching Tools in the Introductory Astronomy College Course
+Personas as a Powerful Methodology to Design Targeted Professional Development Resources
+Validation of a Conceptual Assessment Tool in E M II
+Becoming Agents of Change through Participation in a Teacher-Driven Professional Research Community
+Educational trajectories of graduate students in physics education research
+Teaching to Learn: iPads as Tools for Transforming Physics Student Roles
+How they (should have) built the pyramids
+An intuitive introduction to the concept of spatial coherence
+Energy Conversion in Lifting Mass Vertically using a DC Electric Motor by Observing Required Time to Lift Object for a Certain Height
+Open Educational Resources from Performance Task using Video Analysis and Modeling - Tracker and K12 science education framework
+Estereoscopio de Wheatstone 'Revival'
+Analytic expression for pull-or-jerk experiment
+Quantum Mechanics: Bell and Quantum Entropy for the Classroom
+NEUS Physics: An interdisciplinary repurposing of physics for biologists
+Goals for teacher learning about energy degradation and usefulness
+Plasduino: an inexpensive general purpose data acquisition framework for educational experiments
+A priori analysis: an application to the estimate of the uncertainty in course grades
+Polarization of physics on global courses
+Student Use of a Single Lecture Video in a Flipped Introductory Mechanics Course
+Vernier caliper and micrometer computer models using Easy Java Simulation and its pedagogical design feature-ideas to augment learning with real instruments
+Design Customization and Implementation of Energy Simulation with E Model in Elementary Classroom
+Upper-Level Physics Students' Perceptions of Physicists
+Proposal of an enriched three-tier test to assess learning risks in students on undergraduate physics courses
+GrayStar: A Web application for pedagogical stellar atmosphere and spectral line modelling and visualisation II: Methods
+A model for discussing entropy and time reversibility
+The introductory astronomy course at the University of Cape Town: probing student perspectives
+Visible optical beats at the hertz level
+Approcher l'identit 'e professionnelle d'enseignants universitaires de physique : un levier pour initier des changements de pratiques p 'edagogiques
+Leveraging a Relationship with Biology to Expand a Relationship with Physics
+Foucault's method in new settings
+An equity investigation of attitudinal shifts in introductory physics
+Random Group Problem-Based Learning in Engineering Dynamics
+Language of physics language of math: Disciplinary culture and dynamic epistemology
+Brief embedded spontaneous metacognitive talk indicates thinking like a physicist
+Unpacking Students' Use of Mathematics in Upper-division Physics
+Efficacy of multimedia learning modules as preparation for lecture-based tutorials in electromagnetism
+Gravitational-wave Science in the High School Classroom
+HoloHands: Kinect Control of Optical Tweezers
+Secondary implementation of interactive engagement teaching techniques: Choices and challenges in a Gulf Arab context
+What Should be the Role of Field Energy in Introductory Physics Courses?
+Analytic Framework for Students' Use of Mathematics in Upper-Division Physics
+Optimization Of Simulations And Activities For A New Introductory Quantum Mechanics Curriculum
+Peer Evaluation of Video Lab Reports in a Blended Introductory Physics Course
+Engaging Physics Faculty in Course Transformation
+Student Reasoning About the Divergence of a Vector Field
+Peer Evaluation of Video Lab Reports in an Introductory Physics MOOC
+Coupled Multiple-response vs. Free-response Conceptual assessment: An Example from upper-division Physics
+Student Difficulties with the Dirac Delta Function
+NRF2011-EDU001-EL001 EduLab Project Scaling-up Reflections on Using Open Source Physics
+Becoming a Physicist: The Roles of Research Mindsets and Milestones in upper-division student perceptions
+Experts' understanding of partial derivatives using the Partial Derivative Machine
+Ontological Flexibility and the Learning of Quantum Mechanics
+Energy conservation in dissipative processes: Teacher expectations and strategies associated with imperceptible thermal energy
+The Physics of Life an undergraduate general education biophysics course
+Investigating the Influence of Visualization on Student Understanding of Quantum Superposition
+Coming home from a MOOC
+A free real-time hourly tilted solar irradiation data Website for Europe
+Pwning Level Bosses in MATLAB: Student Reactions to a Game-Inspired Computational Physics Course
+From Fear to Self-Expression: The Contextual Nature of Physics Student Motivations
+Peer assessment enhances student learning
+Development and Uses of Upper-division Conceptual Assessment
+Should we train scientific generalists?
+A Mathematical Modeling In Computer Algebra Systems (CAS) As A Base For A Development of The Mathematics Education
+A thought to illustrate the uncertainty principle on the base of Otto-Wiener's experiment
+Kinesthetic activities in physics instruction: Image schematic justification and design based on didactic situations
+Rheology in the Teaching Lab: Properties of Starch Suspensions
+Introduction to foundations of probability and randomness (for students in physics) Lectures given at the Institute of Quantum Optics and Quantum Information Austrian Academy of Science Lecture-1: Kolmogorov and von Mises
+The physics of volume rendering
+EMP Needs of Medical Undergraduates in a Saudi Context
+Librational motion of asymmetric rolling bodies and the role of friction force
+An Exploration of the Limits of the Maxwell-Boltzmann Distribution
+Investigation carried out with pre-service elementary teachers on some basic astronomical topics
+Foundations of Newtonian Dynamics: An Axiomatic Approach for the Thinking Student
+Friction of spheres on a rotating parabolic support
+Educational Robotics of low cost applied to Physics Teaching in Brazil
+A simple experiment demonstrating the connection between chaos and music
+A collaboration to document and improve PCK in Astronomy Education
+Communicative Competence for Individuals who require Augmentative and Alternative Communication: A New Definition for a New Era of Communication?
+Quantum Mechanics Another Way
+Relativistic quantum mechanics of a Dirac oscillator
+Intelligent Agents: A Physics Education Opportunity in Latin-America
+Does it matter if you answer slowly?
+How substance-based ontologies for gravity can be productive: A case study
+The OpenPicoAmp : an open-source planar lipid bilayer amplifier for hands-on learning of neuroscience
+The Preferred System of Reference Reloaded
+A mobile web for enhancing statistics and mathematics education
+Just Math: A new epistemic frame
+Resource Letter TTSM-1: Teaching thermodynamics and statistical mechanics in introductory physics chemistry and biology
+Animation with Algodoo: a simple tool for teaching and learning Physics
+On the workload and distribution of grades in the Keller individualized teaching
+Applying Conceptual Blending to Model Coordinated Use of Multiple Ontological Metaphors
+Crowdfunding Astronomy Outreach Projects: Lessons Learned from the UNAWE Crowdfunding Campaign
+Sustainable Change: A Model for Transforming Departmental Culture to Support STEM Education Innovation
+Towards a Model of Systemic Change in University STEM Education
+High School Students' Understandings and Representations of the Electric Field
+Outcome orientation - a misconception of probability that harms medical research and practice
+Learn Physics by Programming in Haskell
+An alternative for teaching and learning the simple diffusion process using Algodoo animations
+A physics exhibit to show the effect of the aerosol in the atmosphere on electromagnetic wave propagation
+Sculplexity: Sculptures of Complexity using 3D printing
+Fermi Problem: Power developed at the eruption of the Puyehue-Cord 'on Caulle volcanic system in June 2011
+Paradigms in Physics Education Research
+Selection Generalization and Theories of Cause in Case-Oriented Physics Education Research
+Measuring the Learning from Two-Stage Collaborative Group Exams
+Von Neumann Was Not a Quantum Bayesian
+A Study of the Occurrence of Supercooling of Water
+Research-based assessment affordances and constraints: Perceptions of physics faculty
+Use of Blended Approach in the Learning of Electromagnetic Induction
+Performance Task using Video Analysis and Modelling to promote K12 eight practices of science
+Understanding resonance graphs using Easy Java Simulations (EJS) and why we use EJS
+Using Tracker as a Pedagogical Tool for Understanding Toss Up-Free Fall Motion
+On the Proper Use of Statistical Analyses a Comment on Evaluation of Colorado Learning Attitudes about Science Survey by Douglas et al
+Introduction to the application of the dynamical systems theory in the study of the dynamics of cosmological models of dark energy
+Exposici 'on Temprana de Nativos Digitales en Ambientes Metodolog 'ias y T 'ecnicas de Investigaci 'on en la Universidad
+Investigating puzzling aspects of the quantum theory by means of its hydrodynamic formulation
+Planck's constant measurement for dummies
+Phase-Sensitive Detection in the undergraduate lab using a low-cost microcontroller
+Assessing student reasoning in upper-division electricity and magnetism at Oregon State University
+Participatory learning and knowledge assessment with a game-based method relying on student-generated questions
+Upper-division student difficulties with the Dirac delta function
+The benefits of completing homework for students with different aptitudes in an introductory physics course
+Teaching Quantum Interpretations: Revisiting the goals and practices of introductory quantum physics courses
+Model-Based Reasoning in the Upper-Division Physics Laboratory: Framework and Initial Results
+Peer-review Platform for Astronomy Education Activities
+Enhancing student learning of two-level quantum systems with interactive simulations
+Due 'paradossi meccanici' della Collezione Storica degli Strumenti di Fisica dell'Universit a di Palermo
+Robotics for Learning
+Multimedia-Video for Learning
+Patterns in Illinois Educational School Data
+Transforming a 4th year Modern Optics Course Using a Deliberate Practice Framework
+Students' difficulties with vector calculus in electrodynamics
+The roots of physics students' motivations: Fear and Integrity
+Incorporating Disciplinary Practices Into Characterizations of Progress in Responsive Teaching
+Bring it on : Explaining persistence in science at the intersection of identity and epistemology

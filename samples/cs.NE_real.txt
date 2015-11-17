@@ -1,0 +1,2052 @@
+Intelligent location of simultaneously active acoustic emission sources: Part II
+Architecture for Pseudo Acausal Evolvable Embedded Systems
+A neural network approach to ordinal regression
+Novel algorithm to calculate hypervolume indicator of Pareto approximation set
+A Doubly Distributed Genetic Algorithm for Network Coding
+Traitement Des Donnees Manquantes Au Moyen De L'Algorithme De Kohonen
+2D Path Solutions from a Single Layer Excitable CNN Model
+The Parameter-Less Self-Organizing Map algorithm
+Risk Assessment Algorithms Based On Recursive Neural Networks
+Control of Complex Systems Using Bayesian Networks and Genetic Algorithm
+Actin - Technical Report
+Using artificial intelligence for data reduction in mechanical engineering
+Option Pricing Using Bayesian Neural Networks
+Dynamic Model Updating Using Particle Swarm Optimization Method
+Fuzzy and Multilayer Perceptron for Evaluation of HV Bushings
+A Study in a Hybrid Centralised-Swarm Agent Community
+Condition Monitoring of HV Bushings in the Presence of Missing Data Using Evolutionary Computing
+Structural Health Monitoring Using Neural Network Based Vibrational System Identification
+On complexity of optimized crossover for binary representations
+Development and Evolution of Neural Networks in an Artificial Chemistry
+Evolution of genetic organization in digital organisms
+Threshold Disorder as a Source of Diverse and Complex Behavior in Random Nets
+Winner-Relaxing Self-Organizing Maps
+Neural network modeling of data with gaps: method of principal curves Carleman's formula and other
+Back-propagation of accuracy
+Generation of Explicit Knowledge from Empirical Data through Pruning of Trainable Neural Networks
+A Computational Study of Rotating Spiral Waves and Spatio-Temporal Transient Chaos in a Deterministic Three-Level Active System
+Numerical Modeling of Coexistence Competition and Collapse of Rotating Spiral Waves in Three-Level Excitable Media with Discrete Active Centers and Absorbing Boundaries
+Cortical Potential Distributions and Cognitive Information Processing
+Ocular dominance patterns in mammalian visual cortex: A wire length minimization approach
+Pattern Discovery and Computational Mechanics
+Novelty Detection for Robot Neotaxis
+A Real-Time Novelty Detector for a Mobile Robot
+Novelty Detection on a Mobile Robot Using Habituation
+Noise Effects in Fuzzy Modelling Systems
+Creativity and Delusions: A Neurocomputational Approach
+On the predictability of Rainfall in Kerala- An application of ABF Neural Network
+Non-convex cost functionals in boosting algorithms and methods for panel selection
+Gene Expression Programming: a New Adaptive Algorithm for Solving Problems
+Potholes on the Royal Road
+Market-Based Reinforcement Learning in Partially Observable Worlds
+Artificial Neurons with Arbitrarily Complex Internal Structures
+On Classes of Functions for which No Free Lunch Results Hold
+Alife Model of Evolutionary Emergence of Purposeful Adaptive Behavior
+Design of statistical quality control procedures using genetic algorithms
+Steady State Resource Allocation Analysis of the Stochastic Diffusion Search
+Non-negative sparse coding
+Covariance Plasticity and Regulated Criticality
+Trust Brokerage Systems for the Internet
+Learning from Scarce Experience
+Aging double helix and small world property in genetic algorithms
+Neural Net Model for Featured Word Extraction
+Computer modeling of feelings and emotions: a quantitative neural network model of the feeling-of-knowing
+Behaviour-based Knowledge Systems: An Epigenetic Path from Behaviour to Knowledge
+Extremal Optimization: an Evolutionary Local-Search Algorithm
+Selection of future events from a time series in relation to estimations of forecasting uncertainty
+Intelligence and Cooperative Search by Coupled Local Minimizers
+JohnnyVon: Self-Replicating Automata in Continuous Two-Dimensional Space
+Thinking Learning and Autonomous Problem Solving
+A Simple Model of Unbounded Evolutionary Versatility as a Largest-Scale Trend in Organismal Evolution
+How to Shift Bias: Lessons from the Baldwin Effect
+Myths and Legends of the Baldwin Effect
+Low Size-Complexity Inductive Logic Programming: The East-West Challenge Considered as a Problem in Cost-Sensitive Classification
+Increasing Evolvability Considered as a Large-Scale Trend in Evolution
+Optimizing GoTools' Search Heuristics using Genetic Algorithms
+A Neural Network Assembly Memory Model with Maximum-Likelihood Recall and Recognition Properties
+Recent Results on No-Free-Lunch Theorems for Optimization
+Self-Replicating Machines in Continuous Space with Virtual Physics
+On Nonspecific Evidence
+Finding a Posterior Domain Probability Distribution by Specifying Nonspecific Evidence
+Cluster-based Specification Techniques in Dempster-Shafer Theory
+Cluster-based Specification Techniques in Dempster-Shafer Theory for an Evidential Intelligence Analysis of MultipleTarget Tracks (Thesis Abstract)
+Specifying nonspecific evidence
+Creating Prototypes for Fast Classification in Dempster-Shafer Clustering
+Applying Data Mining and Machine Learning Techniques to Submarine Intelligence Analysis
+Fast Dempster-Shafer clustering using a neural network structure
+A neural network and iterative optimization hybrid for Dempster-Shafer clustering
+Simultaneous Dempster-Shafer clustering and gradual determination of number of clusters using a neural network structure
+Fast Dempster-Shafer clustering using a neural network structure
+Managing Inconsistent Intelligence
+Dempster-Shafer clustering using Potts spin mean field theory
+Conflict-based Force Aggregation
+Reliable Force Aggregation Using a Refined Evidence Specification from Dempster-Shafer Clustering
+Clustering belief functions based on attracting and conflicting metalevel evidence
+Robust Report Level Cluster-to-Track Fusion
+Automatic Classification using Self-Organising Neural Networks in Astrophysical Experiments
+Neural realisation of the SP theory: cell assemblies revisited
+Controlled hierarchical filtering: Model of neocortical sensory processing
+Artificial Neural Networks for Beginners
+What Is Working Memory and Mental Imagery? A Robot that Learns to Perform Mental Computations
+Exploration of RNA Editing and Design of Robust Genetic Algorithms
+Using Simulated Annealing to Calculate the Trembles of Trembling Hand Perfection
+A Neural Network Assembly Memory Model Based on an Optimal Binary Signal Detection Theory
+A novel evolutionary formulation of the maximum independent set problem
+Two novel evolutionary formulations of the graph coloring problem
+On Interference of Signals and Generalization in Feedforward Neural Networks
+Feedforward Neural Networks with Diffused Nonlinear Weight Functions
+Hybrid LQG-Neural Controller for Inverted Pendulum System
+Failure-Free Genetic Algorithm Optimization of a System Controller Using SAFE LEARNING Controllers in Tandem
+Mapping weblog communities
+Parameter-less hierarchical BOA
+Parameter-less Optimization with the Extended Compact Genetic Algorithm and Iterated Local Search
+An architecture for massive parallelization of the compact genetic algorithm
+A philosophical essay on life and its connections with genetic algorithms
+Genetic Algorithms and Quantum Computation
+An approach to membrane computing under inexactitude
+On the Practicality of Intrinsic Reconfiguration As a Fault Recovery Method in Analog Systems
+When Do Differences Matter? On-Line Feature Extraction Through Cognitive Economy
+Extraction of topological features from communication network topological patterns using self-organizing feature maps
+Speculation on graph computation architectures and computing via synchronization
+Evolution of a Subsumption Architecture Neurocontroller
+Efficiency Enhancement of Probabilistic Model Building Genetic Algorithms
+Designing Competent Mutation Operators via Probabilistic Model Building of Neighborhoods
+Parallel Mixed Bayesian Optimization Algorithm: A Scaleup Analysis
+Using Self-Organising Mappings to Learn the Structure of Data Manifolds
+Why Two Sexes?
+Using Stochastic Encoders to Discover Structure in Data
+Invariant Stochastic Encoders
+Non-negative matrix factorization with sparseness constraints
+The Integration of Connectionism and First-Order Knowledge Representation and Reasoning as a Challenge for Artificial Intelligence
+Applying Policy Iteration for Training Recurrent Neural Networks
+Adaptive Cluster Expansion (ACE): A Hierarchical Bayesian Network
+Neural Architectures for Robot Intelligence
+Spontaneous Dynamics of Asymmetric Random Recurrent Spiking Neural Networks
+Multidimensional data classification with artificial neural networks
+Vector Symbolic Architectures answer Jackendoff's challenges for cognitive neuroscience
+Web Usage Mining Using Artificial Ant Colony Clustering and Genetic Programming
+Swarms on Continuous Data
+The Biological Concept of Neoteny in Evolutionary Colour Image Segmentation - Simple Experiments in Simple Non-Memetic Genetic Algorithms
+Artificial Neoteny in Evolutionary Image Segmentation
+Map Segmentation by Colour Cube Genetic K-Mean Clustering
+Global minimization of a quadratic functional: neural network approach
+Q-valued neural network as a system of fast identification and pattern recognition
+Neural network ensembles: Evaluation of aggregation algorithms
+Identification of complex systems in the basis of wavelets
+Population Sizing for Genetic Programming Based Upon Decision Making
+Oiling the Wheels of Change: The Role of Adaptive Automatic Problem Decomposition in Non--Stationary Environments
+Sub-Structural Niching in Non-Stationary Environments
+Sub-structural Niching in Estimation of Distribution Algorithms
+Scalability of Genetic Programming and Probabilistic Incremental Program Evolution
+Multiobjective hBOA Clustering and Scalability
+Decomposable Problems Niching and Scalability of Multiobjective Estimation of Distribution Algorithms
+The Self-Organization of Speech Sounds
+Self-Replicating Strands that Self-Assemble into User-Specified Meshes
+Property analysis of symmetric travelling salesman problem instances acquired through evolution
+Obtaining Membership Functions from a Neuron Fuzzy System extended by Kohonen Network
+Fitness Uniform Deletion: A Simple Way to Preserve Diversity
+Learning Polynomial Networks for Classification of Clinical Electroencephalograms
+Learning Multi-Class Neural-Network Models from Electroencephalograms
+A Neural-Network Technique for Recognition of Filaments in Solar Images
+Learning from Web: Review of Approaches
+A Learning Algorithm for Evolving Cascade Neural Networks
+Self-Organizing Multilayered Neural Networks of Optimal Complexity
+Diagnostic Rule Extraction Using Neural Networks
+Polynomial Neural Networks Learnt to Classify EEG Signals
+A Neural Network Decision Tree for Learning Concepts from EEG Data
+An Evolving Cascade Neural Network Technique for Cleaning Sleep Electroencephalograms
+Self-Organization of the Neuron Collective of Optimal Complexity
+A Neural-Network Technique to Learn Concepts from Electroencephalograms
+The Combined Technique for Detection of Artifacts in Clinical Electroencephalograms of Sleeping Newborns
+A New Kind of Hopfield Networks for Finding Global Optimum
+Visual Character Recognition using Artificial Neural Networks
+Artificial Neural Networks and their Applications
+Sub-Optimum Signal Linear Detector Using Wavelets and Support Vector Machines
+Upgrading Pulse Detection with Time Shift Properties Using Wavelets and Support Vector Machines
+Wavelet Time Shift Properties Integration with Support Vector Machines
+A dissipative particle swarm optimization
+Optimizing semiconductor devices by self-organizing particle swarm
+Handling equality constraints by adaptive relaxing rule for swarm algorithms
+Handling boundary constraints for numerical optimization by particle swarm flying in periodic search space
+SWAF: Swarm Algorithm Framework for Numerical Optimization
+The Hyper-Cortex of Human Collective-Intelligence Systems
+Framework for Hopfield Network based Adaptive routing - A design level approach for adaptive routing phenomena with Artificial Neural Network
+Dynamical Neural Network: Information and Topology
+Long-term neuronal behavior caused by two synaptic modification mechanisms
+Accurate and robust image superresolution by neural processing of local image representations
+Does a Plane Imitate a Bird? Does Computer Vision Have to Follow Biological Paradigms?
+Discrete Network Dynamics. Part 1: Operator Theory
+Dimensions of Neural-symbolic Integration - A Structured Survey
+On Self-Regulated Swarms Societal Memory Speed and Dynamics
+DAMNED: A Distributed and Multithreaded Neural Event-Driven simulation framework
+Amazing geometry of genetic space or are genetic algorithms convergent?
+Evolino for recurrent support vector machines
+Going back to our roots : second generation biocomputing
+Automatic Detection of Trends in Dynamical Text: An Evolutionary Approach
+Instantaneously Trained Neural Networks
+A Study on the Global Convergence Time Complexity of Estimation of Distribution Algorithms
+R ' e seaux d'Automates de Caianiello Revisit ' e
+On the utility of the multimodal problem generator for assessing the performance of Evolutionary Algorithms
+Revisiting Evolutionary Algorithms with On-the-Fly Population Size Adjustment
+Lamarckian Evolution and the Baldwin Effect in Evolutionary Neural Networks
+The Basic Kak Neural Network with Complex Inputs
+The NoN Approach to Autonomic Face Recognition
+Topological Grammars for Data Approximation
+Theoretical Properties of Projection Based Multilayer Perceptrons with Functional Inputs
+Concerning the differentiability of the energy function in vector quantization algorithms
+On the possible Computational Power of the Human Mind
+May We Have our Attention: Analysis of a Selective Attention Task
+Modelling the Probability Density of Markov Sources
+Neural Networks with Complex and Quaternion Inputs
+Ideas by Statistical Mechanics (ISM)
+Parametrical Neural Networks and Some Other Similar Architectures
+Searching for Globally Optimal Functional Forms for Inter-Atomic Potentials Using Parallel Tempering and Genetic Programming
+Neural Network Clustering Based on Distances Between Objects
+Problem Evolution: A new approach to problem solving systems
+A Computational Model of Spatial Memory Anticipation during Visual Search
+Fitness Uniform Optimization
+Evolving controllers for simulated car racing
+An associative memory for the on-line recognition and prediction of temporal sequences
+Evolutionary Optimization in an Algorithmic Setting
+Learning and discrimination through STDP in a top-down modulated associative memory
+On the Benefits of Inoculation an Example in Train Scheduling
+On Measuring the Impact of Human Actions in the Machine Learning of a Board Game's Playing Policies
+Sufficient Conditions for Coarse-Graining Evolutionary Dynamics
+Browser-based distributed evolutionary computation: performance and scaling behavior
+Genetic Representations for Evolutionary Minimization of Network Coding Resources
+On the possibility of making the complete computer model of a human brain
+Overcoming Hierarchical Difficulty by Hill-Climbing the Building Block Structure
+Exploring Logic Artificial Chemistries: An Illogical Attempt?
+Distributed Computation as Hierarchy
+Aspects of Evolutionary Design by Computers
+Evolution of Neural Networks to Play the Game of Dots-and-Boxes
+A role of constraint in self-organization
+Generating Segment Durations in a Text-To-Speech System: A Hybrid Rule-Based Neural Network Approach
+Speech Synthesis with Neural Networks
+Text-To-Speech Conversion with Neural Networks: A Recurrent TDNN Approach
+Training Reinforcement Neurocontrollers Using the Polytope Algorithm
+Neural Network Methods for Boundary Value Problems Defined in Arbitrarily Shaped Domains
+A High Quality Text-To-Speech System Composed of Multiple Neural Networks
+The Self-Organizing Symbiotic Agent
+A Discipline of Evolutionary Programming
+An Efficient Mean Field Approach to the Set Covering Problem
+Ensembles of Radial Basis Function Networks for Spectroscopic Detection of Cervical Pre-Cancer
+Linear and Order Statistics Combiners for Pattern Classification
+Robust Combining of Disparate Classifiers through Order Statistics
+Genetic Algorithm for SU(N) gauge theory on a lattice
+Whitehead method and Genetic Algorithms
+Genetic algorithms and the Andrews-Curtis conjecture
+Consumer Profile Identification and Allocation
+Numerical Replication of Computer Simulations: Some Pitfalls and How To Avoid Them
+On model selection and the disability of neural networks to decompose tasks
+A neural model for multi-expert architectures
+Neutrality: A Necessity for Self-Adaptation
+The structure of evolutionary exploration: On crossover buildings blocks and Estimation-Of-Distribution Algorithms
+Notes on information geometry and evolutionary processes
+Bistability: a common feature in some aggregates of logistic maps
+Evolution of differentiated expression patterns in digital organisms
+Adaptive evolution on neutral networks
+Self-adaptive exploration in evolutionary search
+Genetic Algorithms in Time-Dependent Environments
+Pattern Excitation-Based Processing: The Music of The Brain
+Spike timing precision and neural error correction: local behavior
+Characterizing Self-Developing Biological Neural Networks: A First Step Towards their Application To Computing Systems
+Network Topology influences Synchronization and Intrinsic Read-out
+Selective pressures on genomes in molecular evolution
+Using Genetic Algorithms to Optimise Rough Set Partition Sizes for HIV Data Analysis
+Challenges and Opportunities of Evolutionary Robotics
+Improved Neural Modeling of Real-World Systems Using Genetic Algorithm Based Variable Selection
+Design Implementation and Cooperative Coevolution of an Autonomous Teleoperated Control System for a Serpentine Robotic Manipulator
+Evolutionary Mesh Numbering: Preliminary Results
+Distant generalization by feedforward neural networks
+Cross-Entropic Learning of a Machine for the Decision in a Partially Observable Universe
+Cross-Entropy method: convergence issues for extended implementation
+Cartes auto-organis ' e es pour l'analyse exploratoire de donn ' e es et la visualisation
+Working times in atypical forms of employment: the special case of part-time work
+On the use of self-organizing maps to accelerate vector quantization
+Statistical tools to assess the reliability of self-organizing maps
+Bootstrap for neural model selection
+From Royal Road to Epistatic Road for Variable Length Evolution Algorithm
+Where are Bottlenecks in NK Fitness Landscapes?
+Scuba Search : when selection meets innovation
+How to use the Scuba Diving metaphor to solve problem with neutrality ?
+Optimal Design of Ad Hoc Injection Networks by Using Genetic Algorithms
+Clifford Algebra of the Vector Space of Conics for decision boundary Hyperplanes in m-Euclidean Space
+One-way Hash Function Based on Neural Network
+Portfolio selection using neural networks
+Separating a Real-Life Nonlinear Image Mixture
+Statistical mechanics of neocortical interactions: Portfolio of Physiological Indicators
+Magnification Laws of Winner-Relaxing and Winner-Enhancing Kohonen Feature Maps
+Image Authentication Based on Neural Networks
+Who is the best connected EC researcher? Centrality analysis of the complex network of authors in evolutionary computation
+The universal evolutionary computer based on super-recursive algorithms of evolvability
+A Neural Networks Model of the Venezuelan Economy
+A Non Parametric Study of the Volatility of the Economy as a Country Risk Predictor
+A Non Parametric Model for the Forecasting of the Venezuelan Oil Prices
+Mutual information for the selection of relevant variables in spectrometric nonlinear modelling
+Fast Algorithm and Implementation of Dissimilarity Self-Organizing Maps
+Une adaptation des cartes auto-organisatrices pour des donn 'ees d 'ecrites par un tableau de dissimilarit 'es
+Self-organizing maps and symbolic data
+Representation of Functional Data in Neural Networks
+Functional Multi-Layer Perceptron: a Nonlinear Tool for Functional Data Analysis
+Evolving Classifiers: Methods for Incremental Learning
+Optimising the topology of complex neural networks
+A System for Predicting Subcellular Localization of east Genome Using Neural Network
+Effective linkage learning using low-order statistics and clustering
+Beyond Feedforward Models Trained by Backpropagation: a Practical Training Tool for a More Efficient Universal Approximator
+Missing values : processing with the Kohonen algorithm
+A Compact Self-organizing Cellular Automata-based Genetic Algorithm
+Estimation of fuzzy anomalies in Water Distribution Systems
+Constructing Bio-molecular Databases on a DNA-based Computer
+Evolving XSLT stylesheets
+Improving the Performance of PieceWise Linear Separation Incremental Algorithms for Practical Hardware Implementations
+TRUST-TECH based Methods for Optimization and Learning
+Chosen-Plaintext Cryptanalysis of a Clipped-Neural-Network-Based Chaotic Cipher
+Stationary probability density of stochastic search processes in global optimization
+D-optimal Bayesian Interrogation for Parameter and Noise Identification of Recurrent Neural Networks
+Automatic Generation of Benchmarks for Plagiarism Detection Tools using Grammatical Evolution
+Multi-Layer Perceptrons and Symbolic Data
+Acc 'el 'eration des cartes auto-organisatrices sur tableau de dissimilarit 'es par s 'eparation et 'evaluation
+A data-driven functional projection approach for the selection of feature ranges in spectra with ICA or cluster analysis
+Using Bayesian Blocks to Partition Self-Organizing Maps
+Extreme Learning Machine for land cover classification
+Multiclass Approaches for Support Vector Machine Based Land Cover Classification
+Neural Networks and Database Systems
+Brain architecture: A design for natural computation
+Improved evolutionary generation of XSLT stylesheets
+KohonAnts: A Self-Organizing Ant Algorithm for Clustering and Pattern Classification
+Reinforcement Learning by Value Gradients
+Cluster Approach to the Domains Formation
+Permeability Analysis based on information granulation theory
+Graphical Estimation of Permeability Using RST NFIS
+Phoneme recognition in TIMIT with BLSTM-CTC
+Logic Mining Using Neural Networks
+Logic Learning in Hopfield Networks
+Explaining the Logical Nature of Electrical Solitons in Neural Circuits
+V-like formations in flocks of artificial birds
+On Affinity Measures for Artificial Immune System Movie Recommenders
+Network Structure and Dynamics and Emergence of Robustness by Stabilizing Selection in an Artificial Genome
+Flatness of the Energy Landscape for Horn Clauses
+Contact state analysis using NFIS and SOM
+Emergence Competition and Dynamical Stabilization of Dissipative Rotating Spiral Waves in an Excitable Medium: A Computational Model Based on Cellular Automata
+Cognitive Architecture for Direction of Attention Founded on Subliminal Memory Searches Pseudorandom and Nonstop
+An Evolutionary-Based Approach to Learning Multiple Decision Models from Underrepresented Data
+Neural network learning of optimal Kalman prediction and control
+Equivalence of Probabilistic Tournament and Polynomial Ranking Selection
+Fast Density Codes for Image Data
+Clustering of scientific citations in Wikipedia
+MultiKulti Algorithm: Migrating the Most Different Genotypes in an Island Model
+Ensembles of Protein Molecules as Statistical Analog Computers
+Analysis of Estimation of Distribution Algorithms and Genetic Algorithms on NK Landscapes
+iBOA: The Incremental Bayesian Optimization Algorithm
+Structural Damage Detection Using Randomized Trained Neural Networks
+Hardware Software Co-Design for Spike Based Recognition
+Visual Grouping by Neural Oscillators
+Round Trip Time Prediction Using the Symbolic Function Network Approach
+A Novel Symbolic Type Neural Network Model- Application to River Flow Forecasting
+A computational approach to the covert and overt deployment of spatial attention
+Biology of Applied Digital Ecosystems
+Hybrid Neural Network Architecture for On-Line Learning
+The Fundamental Problem with the Building Block Hypothesis
+A Study of NK Landscapes' Basins and Local Optima Networks
+The Connectivity of NK Landscapes' Basins: A Network Analysis
+To which extend is the neural code a metric ?
+The adaptability of physiological systems optimizes performance: new directions in augmentation
+Distributed Constrained Optimization with Semicoordinate Transformations
+Self-organized criticality and adaptation in discrete dynamical networks
+Adaptive Investment Strategies For Periodic Environments
+Dimensionality Reduction and Reconstruction using Mirroring Neural Networks and Object Recognition based on Reduced Dimension Characteristic Vector
+Automatic Pattern Classification by Unsupervised Learning Using Dimensionality Reduction of Data with Mirroring Neural Networks
+A Multi-Agent Simulation of Retail Management Practices
+Understanding Retail Productivity by Simulating Management Practise
+Problem Solving and Complex Systems
+Towards a human eye behavior model by applying Data Mining Techniques on Gaze Information from IEC
+Neutral Fitness Landscape in the Cellular Automata Majority Problem
+Evolving Dynamic Change and Exchange of Genotype Encoding in Genetic Algorithms for Difficult Optimization Problems
+From Cells to Islands: An unified Model of Cellular Parallel Genetic Algorithms
+Prospective Algorithms for Quantum Evolutionary Computation
+Solving Time of Least Square Systems in Sigma-Pi Unit Networks
+Fast Computation of Moore-Penrose Inverse Matrices
+CMA-ES with Two-Point Step-Size Adaptation
+A Simple Dynamic Mind-map Framework To Discover Associative Relationships in Transactional Data Streams
+Elagage d'un perceptron multicouches : utilisation de l'analyse de la variance de la sensibilit 'e des param etres
+S 'election de la structure d'un perceptron multicouches pour la r 'eduction dun mod ele de simulation d'une scierie
+Pattern Recognition and Memory Mapping using Mirroring Neural Networks
+Finding Still Lifes with Memetic Exact Hybrid Algorithms
+Design of a P System based Artificial Graph Chemistry
+A Step Forward in Studying the Compact Genetic Algorithm
+A nonclassical symbolic theory of working memory mental computations and mental set
+Towards a Framework for Observing Artificial Evolutionary Systems
+Optimal design and optimal control of structures undergoing finite rotations and elastic deformations
+Improvements of real coded genetic algorithms based on differential operators preventing premature convergence
+A competitive comparison of different types of evolutionary algorithms
+Back analysis of microplane model parameters using soft computing methods
+Symbolic Computing with Incremental Mindmaps to Manage and Mine Data Streams - Some Applications
+Recorded Step Directional Mutation for Faster Convergence
+Introducing numerical bounds to improve event-based neural network simulation
+A Linear Programming Driven Genetic Algorithm for Meta-Scheduling on Utility Grids
+Effect of Degree Distribution on Evolutionary Search
+Lossless fitness inheritance in genetic algorithms for decision trees
+Towards a Sound Theory of Adaptation for the Simple Genetic Algorithm
+Two Remarkable Computational Competencies of the Simple Genetic Algorithm
+Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty Novelty Surprise Interestingness Attention Curiosity Creativity Art Science Music Jokes
+The use of invariant moments in hand-written character recognition
+Adaptive Learning with Binary Neurons
+Fast solving of Weighted Pairing Least-Squares systems
+Feasibility of random basis function approximators for modeling and control
+On the Workings of Genetic Algorithms: The Genoclique Fixing Hypothesis
+An Immune System Inspired Approach to Automated Program Verification
+Do not Choose Representation just Change: An Experimental Study in States based EA
+Memory Retrieved from Single Neurons
+Novel anisotropic continuum-discrete damage model capable of representing localized failure of massive structures. Part II: identification from tests under heterogeneous stress field
+Single Neuron Memories and the Network's Proximity Matrix
+Using Genetic Algorithms for Texts Classification Problems
+Fast Weak Learner Based on Genetic Algorithm
+How deals with discrete data for the reduction of simulation models using neural network
+Forecasting Model for Crude Oil Price Using Artificial Neural Networks and Commodity Futures Prices
+A genetic algorithm for structure-activity relationships: software implementation
+Characterization of the convergence of stationary Fokker-Planck learning
+The Modular Audio Recognition Framework (MARF) and its Applications: Scientific and Software Engineering Notes
+XDANNG: XML based Distributed Artificial Neural Network with Globus Toolkit
+A new model of artificial neuron: cyberneuron and its use
+Degenerate neutrality creates evolvable fitness landscapes
+Evidence of coevolution in multi-objective evolutionary algorithms
+The Self-Organization of Interaction Networks for Nature-Inspired Optimization
+Strategic Positioning in Tactical Scenario Planning
+Adaptation and Self-Organization in Evolutionary Algorithms
+Computational Scenario-based Capability Planning
+Credit Assignment in Adaptive Evolutionary Algorithms
+Use of statistical outlier detection method in adaptive evolutionary algorithms
+Network Topology and Time Criticality Effects in the Modularised Fleet Mix Problem
+Robustness and Adaptiveness Analysis of Future Fleets
+A process planning system with feature based neural network search strategy for aluminum extrusion die manufacturing
+Apply Local Clustering Method to Improve the Running Speed of Ant Colony Optimization
+An Evolved Neural Controller for Bipdedal Walking with Dynamic Balance
+A Mathematical Unification of Geometric Crossovers Defined on Phenotype Space
+Mathematical Interpretation between Genotype and Phenotype Spaces and Induced Geometric Crossovers
+Neural Modeling and Control of Diesel Engine with Pollution Constraints
+Evolution of Digital Logic Functionality via a Genetic Algorithm
+Still doing evolutionary algorithms with Perl
+Training Process Reduction Based On Potential Weights Linear Analysis To Accelarate Back Propagation Network
+Techniques for Highly Multiobjective Optimisation: Some Nondominated Points are Better than Others
+Emergent Network Structure evolvable Robustness and non-linear Effects of Point Mutations in an Artificial Genome Model
+Uncovering delayed patterns in noisy and irregularly sampled time series: an astronomy application
+On the Expressiveness of Line Drawings
+Intelligent location of simultaneously active acoustic emission sources: Part I
+Digital Ecosystems: Optimisation by a Distributed Intelligence
+On Fodor on Darwin on Evolution
+Using Dissortative Mating Genetic Algorithms to Track the Extrema of Dynamic Deceptive Functions
+Codebook Design Method for Noise Robust Speaker Identification based on Genetic Algorithm
+A Hybrid Multi Objective Particle Swarm Optimization Method to Discover Biclusters in Microarray Data
+Comparing Single and Multiobjective Evolutionary Approaches to the Inventory and Transportation Problem
+Geometrical Interpretation of Shannon's Entropy Based on the Born Rule
+Eignets for function approximation on manifolds
+Orthogonal Least Squares Algorithm for the Approximation of a Map and its Derivatives with a RBF Network
+Computational complexity and simulation of rare events of Ising spin glasses
+Fitness inheritance in the Bayesian optimization algorithm
+Let's Get Ready to Rumble: Crossover Versus Mutation Head to Head
+Efficiency Enhancement of Genetic Algorithms via Building-Block-Wise Fitness Estimation
+On the classifiability of cellular automata
+Digital Ecosystems: Stability of Evolving Agent Populations
+Digital Ecosystems: Evolving Service-Oriented Architectures
+Digital Ecosystems: Self-Organisation of Evolving Agent Populations
+A Novel Clustering Algorithm Based on Quantum Games
+Bayesian Inference Based on Stationary Fokker-Planck Sampling
+Experiment Study of Entropy Convergence of Ant Colony Optimization
+Digital Ecosystems
+Pre-processing in AI based Prediction of QSARs
+Digital Business Ecosystems: Natural Science Paradigms
+Computing of Applied Digital Ecosystems
+Password Based a Generalize Robust Security System Design Using Neural Network
+A Framework For Intelligent Multi Agent System Based Neural Network Classification Model
+Algorithms for Image Analysis and Combination of Pattern Classifiers with Application to Medical Diagnosis
+Swarm Intelligence
+Forced Evolution in Silico by Artificial Transposons and their Genetic Operators: The John Muir Ant Problem
+Optimization with Extremal Dynamics
+Theory of sexes by Geodakian as it is advanced by Iskrin
+Genetic Algorithm for SU(2) Gauge Theory on a 2-dimensional Lattice
+The importance of quantum decoherence in brain processes
+Efficient supervised learning in networks with binary synapses
+An evolutionary model with Turing machines
+Support Vector classifiers for Land Cover Classification
+A quantum diffusion network
+Location of Single Neuron Memories in a Hebbian Network
+Novel Intrusion Detection using Probabilistic Neural Network and Adaptive Boosting
+Generalized Discriminant Analysis algorithm for feature reduction in Cyber Attack Detection System
+Deterministic Autopoietic Automata
+How Creative Should Creators Be To Optimize the Evolution of Ideas? A Computational Model
+Proceedings Fifth Workshop on Developments in Computational Models--Computational Models From Nature
+Apply Ant Colony Algorithm to Search All Extreme Points of Function
+Understanding the Principles of Recursive Neural networks: A Generative Approach to Tackle Model Complexity
+Artificial Neural Network-based error compensation procedure for low-cost encoders
+Bio-inspired speed detection and discrimination
+Designing fuzzy rule based classifier using self-organizing feature map for analysis of multispectral satellite images
+Land cover classification using fuzzy rules and aggregation of contextual information through evidence theory
+New Solutions to the Firing Squad Synchronization Problems for Neural and Hyperdag P Systems
+Evolutionary design of photometric systems and its application to Gaia
+Particle Swarm Optimization: An efficient method for tracing periodic orbits in 3D galactic potentials
+Extremal Optimization for Graph Partitioning
+Jamming Model for the Extremal Optimization Heuristic
+Self-Organising Networks for Classification: developing Applications to Science Analysis for Astroparticle Physics
+Exploring tradeoffs in pleiotropy and redundancy using evolutionary computing
+Optimizing genetic algorithm strategies for evolving networks
+Evolving Stochastic Learning Algorithm Based on Tsallis Entropic Index
+Transmitting a signal by amplitude modulation in a chaotic network
+Learning about knowledge: A complex network approach
+Optimal estimation for Large-Eddy Simulation of turbulence and application to the analysis of subgrid models
+Laws in Darwinian Evolutionary Theory
+Quantum Pattern Retrieval by Qubit Networks with Hebb Interactions
+Distributed Fault Detection in Sensor Networks using a Recurrent Neural Network
+Maximin affinity learning of image segmentation
+Behavior and performance of the deep belief networks on image classification
+Neural-estimator for the surface emission rate of atmospheric gases
+Fish recognition based on the combination between robust feature selection image segmentation and geometrical parameter techniques using Artificial Neural Network and Decision Tree
+Designing Kernel Scheme for Classifiers Fusion
+Short Term Load Forecasting Using Multi Parameter Regression
+Detection of Denial of Service Attacks against Domain Name System Using Neural Networks
+NeuralNetwork Based 3D Surface Reconstruction
+Adapting Heuristic Mastermind Strategies to Evolutionary Algorithms
+Optimal Design of Fuzzy Based Power System Stabilizer Self Tuned by Robust Search Algorithm
+On Design and Implementation of the Distributed Modular Audio Recognition Framework: Requirements and Specification Design Document
+The ILIUM forward modelling algorithm for multivariate parameter estimation and its application to derive stellar parameters from Gaia spectrophotometry
+Multiprocessor Scheduling For Tasks With Priority Using GA
+Predictability of PV power grid performance on insular sites without weather stations: use of artificial neural networks
+Salience-Affected Neural Networks
+Application of Artificial Neural Networks in Aircraft Maintenance Repair and Overhaul Solutions
+Comparison of Genetic Algorithm and Simulated Annealing Technique for Optimal Path Selection In Network Routing
+Ant Colony Algorithm for the Weighted Item Layout Optimization Problem
+Probabilistic Approach to Neural Networks Computation Based on Quantum Probability Model Probabilistic Principal Subspace Analysis Example
+Competition of Self-Organized Rotating Spiral Autowaves in a Nonequilibrium Dissipative System of Three-Level Phaser
+Resource Allocation of MU-OFDM Based Cognitive Radio Systems Under Partial Channel State Information
+Weak Evolvability Equals Strong Evolvability
+Performance Comparisons of PSO based Clustering
+Using CODEQ to Train Feed-forward Neural Networks
+Existence and Global Logarithmic Stability of Impulsive Neural Networks with Time Delay
+Phase-Only Planar Antenna Array Synthesis with Fuzzy Genetic Algorithms
+Implementation of an Innovative Bio Inspired GA and PSO Algorithm for Controller design considering Steam GT Dynamics
+Implementing Genetic Algorithms on Arduino Micro-Controllers
+Multi Product Inventory Optimization using Uniform Crossover Genetic Algorithm
+Efficient Inventory Optimization of Multi Product Multiple Suppliers with Lead Time using PSO
+Neural daylight control system
+On Analysis and Evaluation of Multi-Sensory Cognitive Learning of a Mathematical Topic Using Artificial Neural Networks
+Integral Biomathics: A Post-Newtonian View into the Logos of Bios (On the New Meaning Relations and Principles of Life in Science)
+Fitness Landscape Analysis for Dynamic Resource Allocation in Multiuser OFDM Based Cognitive Radio Systems
+Beyond No Free Lunch: Realistic Algorithms for Arbitrary Problem Classes
+Particle Swarm Optimization Based Reactive Power Optimization
+Nature inspired artificial intelligence based adaptive traffic flow distribution in computer network
+Comment on Fastest learning in small-world neural networks
+The Comparison of Methods Artificial Neural Network with Linear Regression Using Specific Variables for Prediction Stock Price in Tehran Stock Exchange
+Biology-Derived Algorithms in Engineering Optimization
+Particle Swarm Optimization Based Diophantine Equation Solver
+Fuzzy-based Navigation and Control of a Non-Holonomic Mobile Robot
+Evolutionary multi-stage financial scenario tree generation
+A stochastic model of human visual attention with a dynamic Bayesian network
+Neuroevolutionary optimization
+A Gibbs distribution that learns from GA dynamics
+Reduction of behavior of additive cellular automata on groups
+Mobility Prediction in Wireless Ad Hoc Networks using Neural Networks
+On Application of the Local Search and the Genetic Algorithms Techniques to Some Combinatorial Optimization Problems
+Linking Microscopic and Macroscopic Models for Evolution: Markov Chain Network Training and Conservation Law Approximations
+ECG Feature Extraction Techniques - A Survey Approach
+Artificial Neural Network based Diagnostic Model For Causes of Success and Failures
+Universal algorithms mathematics of semirings and parallel computations
+Critical control of a genetic algorithm
+Local Minima of a Quadratic Binary Functional with Quasi-Hebbian Connection Matrix
+Genetic algorithms and the art of en
+Improving GPS INS Integration through Neural Networks
+Approximating the volume of unions and intersections of high-dimensional geometric objects
+Neural Networks for Dynamic Shortest Path Routing Problems - A Survey
+Intrusion Detection In Mobile Ad Hoc Networks Using GA Based Feature Selection
+An Immuno-Inspired Approach to Misbehavior Detection in Ad Hoc Wireless Networks
+Empirical learning aided by weak domain knowledge in the form of feature importance
+Emergence of Complex-Like Cells in a Temporal Product Network with Local Receptive Fields
+Computing by Means of Physics-Based Optical Neural Networks
+Efficient Discovery of Large Synchronous Events in Neural Spike Streams
+Towards the Design of Heuristics by Means of Self-Assembly
+Using Neural Networks to improve classical Operating System Fingerprinting techniques
+Outrepasser les limites des techniques classiques de Prise d'Empreintes grace aux Reseaux de Neurones
+A Novel Rough Set Reduct Algorithm for Medical Domain Based on Bee Colony Optimization
+SPOT: An R Package For Automatic and Interactive Tuning of Optimization Algorithms by Sequential Parameter Optimization
+Active Sites model for the B-Matrix Approach
+An Estimation of Distribution Algorithm with Intelligent Local Search for Rule-based Nurse Rostering
+A Pyramidal Evolutionary Algorithm with Different Inter-Agent Partnering Strategies for Scheduling Problems
+On the Effects of Idiotypic Interactions for Recommendation Communities in Artificial Immune Systems
+A Recommender System based on the Immune Network
+The Danger Theory and Its Application to Artificial Immune Systems
+Partnering Strategies for Fitness Evaluation in a Pyramidal Evolutionary Algorithm
+A Bayesian Optimisation Algorithm for the Nurse Scheduling Problem
+Strategic Alert Throttling for Intrusion Detection Systems
+Movie Recommendation Systems Using An Artificial Immune System
+Investigating Artificial Immune Systems For Job Shop Rescheduling In Changing Environments
+Artificial Immune Systems (AIS) - A New Paradigm for Heuristic Decision Making
+Exploiting problem structure in a genetic algorithm approach to a nurse rostering problem
+Sensing Danger: Innate Immunology for Intrusion Detection
+Dempster-Shafer for Anomaly Detection
+Simulation Optimization of the Crossdock Door Assignment Problem
+Using Intelligent Agents to understand organisational behaviour
+Using Intelligent Agents to Understand Management Practices and Retail Productivity
+An Agent-Based Simulation of In-Store Customer Experiences
+Genetic-Algorithm Seeding Of Idiotypic Networks For Mobile-Robot Navigation
+Investigating a Hybrid Metaheuristic For Job Shop Rescheduling
+An Investigation of the Sequential Sampling Method for Crossdocking Simulation Output Variance Reduction
+Improved Squeaky Wheel Optimisation for Driver Scheduling
+The Application of Bayesian Optimization and Classifier Systems in Nurse Scheduling
+Danger Theory: The Link between AIS and IDS?
+Enhanced Direct and Indirect Genetic Algorithm Approaches for a Mall Layout and Tenant Selection Problem
+An Indirect Genetic Algorithm for Set Covering Problems
+On the Application of Hierarchical Coevolutionary Genetic Algorithms: Recombination and Evaluation Partners
+Building Better Nurse Scheduling Algorithms
+An Indirect Genetic Algorithm for a Nurse Scheduling Problem
+A Recommender System based on Idiotypic Artificial Immune Networks
+Rule Generalisation in Intrusion Detection Systems using Snort
+An Estimation of Distribution Algorithm for Nurse Scheduling
+Idiotypic Immune Networks in Mobile Robot Control
+A Component Based Heuristic Search method with Adaptive Perturbations for Hospital Personnel Scheduling
+Artificial Immune Systems Tutorial
+Bayesian Optimisation Algorithm for Nurse Scheduling
+An Artificial Immune System as a Recommender System for Web Sites
+Explicit Learning: an Effort towards Human Scheduling Algorithms
+Immune System Approaches to Intrusion Detection - A Review
+Data Reduction in Intrusion Alert Correlation
+Distributed Agreement in Tile Self-Assembly
+Solving k -Nearest Neighbor Problem on Multiple Graphics Processors
+A Component Based Heuristic Search Method with Evolutionary Eliminations
+An Evolutionary Squeaky Wheel Optimisation Approach to Personnel Scheduling
+An Idiotypic Immune Network as a Short Term Learning Architecture for Mobile Robots
+An Immune Inspired Approach to Anomaly Detection
+An Immune Inspired Network Intrusion Detection System Utilising Correlation Context
+Artificial Immune Systems
+Articulation and Clarification of the Dendritic Cell Algorithm
+Artificial Immune Tissue using Self-Orgamizing Networks
+Principal manifolds and graphs in practice: from molecular biology to dynamical systems
+Cheating for Problem Solving: A Genetic Algorithm with Social Interactions
+Cooperative Automated Worm Response and Detection Immune Algorithm
+DCA for Bot Detection
+Biological Inspiration for Artificial Immune Systems
+Dendritic Cells for Real-Time Anomaly Detection
+Dendritic Cells for Anomaly Detection
+Dendritic Cells for SN Scan Detection
+Detecting Motifs in System Call Sequences
+Detecting Danger: Applying a Novel Immunological Concept to Intrusion Detection Systems
+Detecting Bots Based on Keylogging Activities
+Further Exploration of the Dendritic Cell Algorithm: Antigen Multiplier and Time Windows
+libtissue - implementing innate immunity
+Information Fusion for Anomaly Detection with the Dendritic Cell Algorithm
+Integrating Innate and Adaptive Immunity for Intrusion Detection
+Information Fusion in the Immune System
+Integrating Real-Time Analysis With The Dendritic Cell Algorithm Through Segmentation
+Malicious Code Execution Detection and Response Immune System inspired by the Danger Theory
+Mimicking the Behaviour of Idiotypic AIS Robot Controllers Using Probabilistic Systems
+A Comparison between Memetic algorithm and Genetic algorithm for the cryptanalysis of Simplified Data Encryption Standard algorithm
+Experimenting with Innate Immunity
+Behavioural Correlation for Detecting P2P Bots
+Nurse Rostering with Genetic Algorithms
+Genetic Algorithms for Multiple-Choice Problems
+Introducing Dendritic Cells as a Novel Immune-Inspired Algorithm for Anomoly Detection
+PCA  DCA: The Application Of Principal Component Analysis To The Dendritic Cell Algorithm
+Parcellation of fMRI Datasets with ICA and PLS-A Data Driven Approach
+Oil Price Trackers Inspired by Immune Memory
+Motif Detection Inspired by Immune Memory
+Performance Evaluation of DCA and SRC on a Single Bot Detection
+Modelling Immunological Memory
+Price Trackers Inspired by Immune Memory
+STORM - A Novel Information Fusion and Cluster Interpretation Technique
+A New Metaheuristic Bat-Inspired Algorithm
+Tailored RF pulse optimization for magnetization inversion at ultra high field
+The Application of a Dendritic Cell Algorithm to a Robotic Classifier
+The Deterministic Dendritic Cell Algorithm
+The DCA:SOMe Comparison A comparative study between two biologically-inspired algorithms
+The Motif Tracking Algorithm
+ToLeRating UR-STD
+Towards a Conceptual Framework for Innate Immunity
+Two-Timescale Learning Using Idiotypic Behaviour Mediation For A Navigating Mobile Robot
+Detecting Anomalous Process Behaviour using Second Generation Artificial Immune Systems
+Artificial Immune Systems (2010)
+Detecting Danger: The Dendritic Cell Algorithm
+Evolutionary Computation Algorithms for Cryptanalysis: A Study
+The Transfer of Evolved Artificial Immune System Behaviours between Small and Large Scale Robotic Platforms
+Delta Learning Rule for the Active Sites Model
+Simple Max-Min Ant Systems and the Optimization of Linear Pseudo-Boolean Functions
+Evolutionary Approach to Test Generation for Functional BIST
+Discriminating between Nasal and Mouth Breathing
+Spiking Neurons with ASNN Based-Methods for the Neural Block Cipher
+On the Optimal Convergence Probability of Univariate Estimation of Distribution Algorithms
+Computing Networks: A General Framework to Contrast Neural and Swarm Cognitions
+XOR at a Single Vertex -- Artificial Dendrites
+Optimizing Selective Search in Chess
+Memristor Crossbar-based Hardware Implementation of Fuzzy Membership Functions
+Results of Evolution Supervised by Genetic Algorithms
+Deep Self-Taught Learning for Handwritten Character Recognition
+Performance Analysis of Estimation of Distribution Algorithm and Genetic Algorithm in one Routing Protocol
+Unary Coding for Neural Network Learning
+A Constructive Algorithm for Feedforward Neural Networks for Medical Diagnostic Reasoning
+An Algorithm to Extract Rules from Artificial Neural Networks for Medical Diagnosis Problems
+Extraction of Symbolic Rules from Artificial Neural Networks
+Medical diagnosis using neural network
+A hybrid learning algorithm for text classification
+RGANN: An Efficient Algorithm to Extract Rules from ANNs
+Extracting Symbolic Rules for Medical Diagnosis Problem
+Pattern Classification using Simplified Neural Networks
+Rule Extraction using Artificial Neural Networks
+REx: An Efficient Rule Generator
+Web Page Categorization Using Artificial Neural Networks
+A Genetic Algorithm for the Multi-Pickup and Delivery Problem with time windows
+The thermodynamic temperature of a rhythmic spiking network
+Grammatical Evolution with Restarts for Fast Fractal Generation
+Building Blocks Propagation in Quantum-Inspired Genetic Algorithm
+Un Algorithme g 'en 'etique pour le probl eme de ramassage et de livraison avec fen etres de temps a plusieurs v 'ehicules
+Approche Multicrit ere pour le Probl eme de Ramassage et de Livraison avec Fen etres de Temps a Plusieurs V 'ehicules
+Optimizing Monotone Functions Can Be Difficult
+Multi-Objective Genetic Programming Projection Pursuit for Exploratory Data Modeling
+Wireless Sensor Network based Future of Telecom Applications
+Sparse and silent coding in neural circuits
+Are complex systems hard to evolve?
+Computational Complexity Analysis of Simple Genetic Programming On Two Problems Modeling Isolated Program Semantics
+Fractionally Predictive Spiking Neurons
+Soil Classification Using GATree
+Overcoming Problems in the Measurement of Biological Complexity
+Non-Existence of Linear Universal Drift Functions
+Artificial Hormone Reaction Networks: Towards Higher Evolvability in Evolutionary Multi-Modular Robotics
+Analysis of attractor distances in Random Boolean Networks
+Evolving difficult SAT instances thanks to local search
+Discover eXplore Neural Network (DXNN) Platform a Modular TWEANN
+Automated Query Learning with Wikipedia and Genetic Programming
+Faster Black-Box Algorithms Through Higher Arity Operators
+On the Impact of Mutation-Selection Balance on the Runtime of Evolutionary Algorithms
+Adaptive Parallel Tempering for Stochastic Maximum Likelihood Learning of RBMs
+Adaptive Cluster Expansion (ACE): A Multilayer Network for Estimating Probability Density Functions
+Stochastic Vector Quantisers
+The Development of Dominance Stripes and Orientation Maps in a Self-Organising Visual Cortex Network (VICON)
+Self-Organising Stochastic Encoders
+A Self-Organising Neural Network for Processing Data from Multiple Sensors
+Local Minima of a Quadratic Binary Functional with a Quasi-Hebbian Connection Matrix
+A Growing Self-Organizing Network for Reconstructing Curves and Surfaces
+Survival of the flexible: explaining the recent dominance of nature-inspired optimization within a rapidly evolving world
+Spectrum Management for Cognitive Radio based on Genetics Algorithm
+The Computing of Digital Ecosystems
+Spontaneous organization leads to robustness in evolutionary algorithms
+Biologically Inspired Design Principles for Scalable Robust Adaptive Decentralized Search and Automated Response (RADAR)
+New Model for Multi-Objective Evolutionary Algorithms
+Boolean network robotics: a proof of concept
+Solving the Satisfiability Problem Through Boolean Networks
+Boolean Networks Design by Genetic Algorithms
+High-Performance Neural Networks for Visual Object Classification
+Toward Measuring the Scaling of Genetic Programming
+A General Framework for Development of the Cortex-like Visual Object Recognition System: Waves of Spikes Predictive Coding and Universal Dictionary of Features
+Optimization of supply diversity for the self-assembly of simple objects in two and three dimensions
+Group Leaders Optimization Algorithm
+Improving the character recognition efficiency of feed forward BP neural network
+Cost effective approach on feature selection using genetic algorithms and fuzzy logic for diabetes diagnosis
+Diagonal Based Feature Extraction for Handwritten Alphabets Recognition System using Neural Network
+Efficient neuro-fuzzy system and its Memristor Crossbar-based Hardware Implementation
+A hybrid model for bankruptcy prediction using genetic algorithm fuzzy c-means and mars
+Memory Retrieval in the B-Matrix Neural Network
+Handwritten Digit Recognition with a Committee of Deep Neural Nets on GPUs
+Design and classification of dynamic multi-objective optimization problems
+Distribution-Independent Evolvability of Linear Threshold Functions
+Artificial Neural Networks Symmetries and Differential Evolution
+Synchronization and Redundancy: Implications for Robustness of Neural Learning and Decision Making
+Schema Redescription in Cellular Automata: Revisiting Emergence in Complex Systems
+Evolving a New Feature for a Working Program
+Simulating Spiking Neural P systems without delays using GPUs
+Idealized Dynamic Population Sizing for Uniformly Scaled Problems
+MGA trajectory planning with an ACO-inspired algorithm
+An inflationary differential evolution algorithm for space trajectory optimization
+Principal Graphs and Manifolds
+Superior Exploration-Exploitation Balance with Quantum-Inspired Hadamard Walks
+An Adaptive Quantum-inspired Differential Evolution Algorithm for 0-1 Knapsack Problem
+Stable Parallel Looped Systems -- A New Theoretical Framework for the Evolution of Order
+Computational Complexity Results for Genetic Programming and the Sorting Problem
+Optimal impact strategies for asteroid deflection
+Recalling of Images using Hopfield Neural Network Model
+A Novel Crossover Operator for Genetic Algorithms: Ring Crossover
+Taking the redpill: Artificial Evolution in native x systems
+Neural network to identify individuals at health risk
+On the Preliminary Design of Multiple Gravity-Assist Trajectories
+Convergence Analysis of Differential Evolution Variants on Unconstrained Global Optimization Functions
+Collective stability of networks of winner-take-all circuits
+Splitting method for spatio-temporal search efforts planning
+The Exact Schema Theorem
+Distributed Evolutionary Computation using REST
+SOAP vs REST: Comparing a master-slave GA implementation
+Efficient Learning of Sparse Invariant Representations
+Finite First Hitting Time versus Stochastic Convergence in Particle Swarm Optimisation
+Predicting the Structure of Alloys using Genetic Algorithms
+An Energy Efficient Scheme for Data Gathering in Wireless Sensor Networks Using Particle Swarm Optimization
+Evolutionary method for finding communities in bipartite networks
+Testing of information condensation in a model reverberating spiking neural network
+Using Variable Threshold to Increase Capacity in a Feedback Neural Network
+Evolving Pacing Strategies for Team Pursuit Track Cycling
+Ethane: A Heterogeneous Parallel Search Algorithm for Heterogeneous Platforms
+Cloud-based Evolutionary Algorithms: An algorithmic study
+1st International Workshop on Distributed Evolutionary Computation in Informal Environments
+Evolution of Things
+Evolutionary Algorithms for Reinforcement Learning
+A Neural Network Model for Construction Projects Site Overhead Cost Estimating in Egypt
+Using Hopfield to Solve Resource-Leveling Problem
+A Computational Framework for Nonlinear Dimensionality Reduction of Large Data Sets: The Exploratory Inspection Machine (XIM)
+Evolutionary Biclustering of Clickstream Data
+Dimensionally Constrained Symbolic Regression
+Natural Evolution Strategies
+Implementing Human-like Intuition Mechanism in Artificial Intelligence
+Liquid State Machines in Adbiatic Quantum Computers for General Computation
+Self-Assembly as Graph Grammar as Distributed System
+DXNN Platform: The Shedding of Biological Inefficiencies
+Exact Reconstruction of the Rank Order Coding using Frames Theory
+Why 'GSA: A Gravitational Search Algorithm' Is Not Genuinely Based on the Law of Gravity
+Enhanced Genetic Algorithm approach for Solving Dynamic Shortest Path Routing Problems using Immigrants and Memory Schemes
+Informledge System: A Modified Knowledge Network with Autonomous Nodes using Multi-lateral Links
+What can we learn from slow self-avoiding adaptive walks by an infinite radius search algorithm?
+Frequency based Classification of Activities using Accelerometer Data
+High Accuracy Human Activity Monitoring using Neural network
+Symmetry Breaking in Neuroevolution: A Technical Report
+Controlling wheelchairs by body motions: A learning framework for the adaptive remapping of space
+An optimized recursive learning algorithm for three-layer feedforward neural networks for mimo nonlinear system identifications
+Black-Box Complexities of Combinatorial Problems
+Evolving A-Type Artificial Neural Networks
+Imitation of Life: Advanced system for native Artificial Evolution
+A Novel and Robust Evolution Algorithm for Optimizing Complicated Functions
+Convergence Properties of Two ( mu lambda ) Evolutionary Algorithms On OneMax and Royal Roads Test Functions
+Convergence of a Recombination-Based Elitist Evolutionary Algorithm on the Royal Roads Test Function
+Biomimetic use of genetic algorithms
+Ant Colony Optimization of Rough Set for HV Bushings Fault Detection
+Artificial Neural Network and Rough Set for HV Bushings Condition Monitoring
+Providing information can be a stable non-cooperative evolutionary strategy
+Multi-Robot Organisms: State of the Art
+Collective Adaptive Systems: Challenges Beyond Evolvability
+Self-Adaptation Mechanism to Control the Diversity of the Population in Genetic Algorithm
+A Framework for Predicting Phishing Websites using Neural Networks
+An Efficient Preprocessing Methodology for Discovering Patterns and Clustering of Web Users using a Dynamic ART1 Neural Network
+Application of the Modified 2-opt and Jumping Gene Operators in Multi-Objective Genetic Algorithm to solve MOTSP
+Analysis of Speedups in Parallel Evolutionary Algorithms for Combinatorial Optimization
+CIXL2: A Crossover Operator for Evolutionary Algorithms Based on Population Features
+Developing a supervised training algorithm for limited precision feed-forward spiking neural networks
+Bi-Objective Community Detection (BOCD) in Networks using Genetic Algorithm
+Memristive fuzzy edge detector
+Memetic Algorithms: Parametrization and Balancing Local and Global Search
+Lamarckism and mechanism synthesis: approaching constrained optimization with ideas from biology
+Eclectic Extraction of Propositional Rules from Neural Networks
+Distributed Evolutionary Graph Partitioning
+Using Genetic Algorithm in the Evolutionary Design of Sequential Logic Circuits
+A Novel Approach for Pass Word Authentication using Brain -State -In -A Box (BSB) Model
+A Probabilistic Approach for Authenticating Text or Graphical Passwords Using Back Propagation
+Detecting Collusive Cliques in Futures Markets Based on Trading Behaviors from Real Data
+Memristors can implement fuzzy logic
+Playing Mastermind With Constant-Size Memory
+User preference extraction using dynamic query sliders in conjunction with UPS-EMO algorithm
+Exploiting Heavy Tails in Training Times of Multilayer Perceptrons: A Case Study with the UCI Thyroid Disease Database
+Fault-Trajectory Approach for Fault Diagnosis on Analog Circuits
+Computational Intelligence Characterization Method of Semiconductor Device
+GUIDE: Unifying Evolutionary Engines through a Graphical User Interface
+A Reinforcement Learning Model Using Neural Networks for Music Sight Reading Learning Problem
+Machine Learning Markets
+A New Method for Lower Bounds on the Running Time of Evolutionary Algorithms
+Iris Codes Classification Using Discriminant and Witness Directions
+An efficient implementation of the simulated annealing heuristic for the quadratic assignment problem
+Particle Swarm Optimization Framework for Low Power Testing of VLSI Circuits
+Scaling Up Estimation of Distribution Algorithms For Continuous Optimization
+Application of PSO Artificial Bee Colony and Bacterial Foraging Optimization algorithms to economic load dispatch: An analysis
+A GP-MOEA D Approach for Modelling Total Electron Content over Cyprus
+Perception of Motion and Architectural Form: Computational Relationships between Optical Flow and Perspective
+Predicting Response-Function Results of Electrical Mechanical Systems Through Artificial Neural Network
+Evaluation de Techniques de Traitement des Refus ' e s pour l'Octroi de Cr ' e dit
+Advances in Self Organising Maps
+From Neuron to Neural Networks dynamics
+The use of the GARP genetic algorithm and internet grid computing in the Lifemapper world atlas of species biodiversity
+Stochastic Optimization Algorithms
+Degeneracy: a link between evolvability robustness and complexity in biological systems
+A bio-inspired image coder with temporal scalability
+Tight Bounds on the Optimization Time of the (1 1) EA on Linear Functions
+Stability of Evolving Multi-Agent Systems
+Digital Ecosystems: Ecosystem-Oriented Architectures
+The Expert System Designed to Improve Customer Satisfaction
+A Novel Approach for Password Authentication Using Bidirectional Associative Memory
+Hybrid Heuristic-Based Artificial Immune System for Task Scheduling
+Between theory and practice: guidelines for an optimization scheme with genetic algorithms - Part I: single-objective continuous global optimization
+Evolutionary Hessian Learning: Forced Optimal Covariance Adaptive Learning (FOCAL)
+Using Artificial Bee Colony Algorithm for MLP Training on Earthquake Time Series Data Prediction
+Passive and Driven Trends in the Evolution of Complexity
+Evolution of sustained foraging in 3D environments with physics
+Quantum Control Experiments as a Testbed for Evolutionary Multi-Objective Algorithms
+Descriptor learning for omnidirectional image matching
+State dependent computation using coupled recurrent networks
+On the approximation ability of evolutionary optimization with application to minimum set cover
+Evolved preambles for MAX-SAT heuristics
+Using MOEAs To Outperform Stock Benchmarks In The Presence of Typical Investment Constraints
+Roulette-wheel selection via stochastic acceptance
+Evolving Chart Pattern Sensitive Neural Network Based Forex Trading Agents
+Numerical Weather Prediction (NWP) and hybrid ARMA ANN model to predict global radiation
+Biologically inspired design framework for Robot in Dynamic Environments using Framsticks
+Distance-Based Bias in Model-Directed Optimization of Additively Decomposable Problems
+Design of Emergent and Adaptive Virtual Players in a War RTS Game
+A Spiking Neural Learning Classifier System
+Production System Rules as Protein Complexes from Genetic Regulatory Networks
+Self-Organisation of Evolving Agent Populations in Digital Ecosystems
+A Neuron Based Switch: Application to Low Power Mixed Signal Circuits
+Comparative study of Financial Time Series Prediction by Artificial Neural Network with Gradient Descent Learning
+An Amendment of Fast Subspace Tracking Methods
+Influence of Topological Features on Spatially-Structured Evolutionary Algorithms Dynamics
+Genetic algorithms in astronomy and astrophysics
+Streaming an image through the eye: The retina seen as a dithered scalable image coder
+Classification by Ensembles of Neural Networks
+Improved Model Reduction and Tuning of Fractional Order PI lambda D mu Controllers for Analytical Rule Extraction with Genetic Programming
+On an Ethical Use of Neural Networks: A Case Study on a North Indian Raga
+Deep Big Simple Neural Nets Excel on Handwritten Digit Recognition
+Complex Networks
+Genetic Algorithm (GA) in Feature Selection for CRF Based Manipuri Multiword Expression (MWE) Identification
+Statistical Approach for Selecting Elite Ants
+A Comparative Study of Adaptive Crossover Operators for Genetic Algorithms to Resolve the Traveling Salesman Problem
+Analyzing the Performance of Mutation Operators to Solve the Travelling Salesman Problem
+A Study on the Behavior of a Neural Network for Grouping the Data
+Handwritten digit Recognition using Support Vector Machine
+Reducing the Arity in Unbiased Black-Box Complexity
+On Training Deep Boltzmann Machines
+Computational Complexity Analysis of Multi-Objective Genetic Programming
+Hybridizing PSM and RSM Operator for Solving NP-Complete Problems: Application to Travelling Salesman Problem
+Stochastic Optimization Approaches for Solving Sudoku
+Emergent Criticality Through Adaptive Information Processing in Boolean Networks
+Period-halving Bifurcation of a Neuronal Recurrence Equation
+Competition through selective inhibitory synchrony
+Evolutionary Computation in Astronomy and Astrophysics: A Review
+Elitism Levels Traverse Mechanism For The Derivation of Upper Bounds on Unimodal Functions
+Neural Network Model for Path-Planning of Robotic Rover Systems
+Managing contextual artificial neural networks with a service-based mediator
+PID Parameters Optimization by Using Genetic Algorithm
+An Implementation of Intrusion Detection System Using Genetic Algorithm
+Affine Image Registration Transformation Estimation Using a Real Coded Genetic Algorithm with SBX
+Self-Adaptive Surrogate-Assisted Covariance Matrix Adaptation Evolution Strategy
+Detecting lateral genetic material transfer
+Neuroevolution Results in Emergence of Short-Term Memory for Goal-Directed Behavior
+Convolutional Neural Networks Applied to House Numbers Digit Classification
+A Fast and Effective Local Search Algorithm for Optimizing the Placement of Wind Turbines
+Managing network congestion with a Kohonen-based RED queue
+Paraiso : An Automated Tuning Framework for Explicit Solvers of Partial Differential Equations
+Discretization of a matrix in the problem of quadratic functional binary minimization
+Weighted Patterns as a Tool for Improving the Hopfield Model
+Robot Navigation using Reinforcement Learning and Slow Feature Analysis
+Forecasting of Indian Rupee (INR) US Dollar (USD) Currency Exchange Rate Using Artificial Neural Network
+Distribution of the search of evolutionary product unit neural networks for classification
+Genetic Programming for Multibiometrics
+Efficient Methods for Unsupervised Learning of Probabilistic Models
+An Evolutionary Approach to Drug-Design Using a Novel Neighbourhood Based Genetic Algorithm
+Evolution of central pattern generators for the control of a five-link bipedal walking mechanism
+Robust artificial neural networks and outlier detection. Technical report
+Towards Analyzing Crossover Operators in Evolutionary Search via General Markov Chain Switching Theorem
+Search space analysis with Wang-Landau sampling and slow adaptive walks
+Multi-Level Error-Resilient Neural Networks with Learning
+Transfer Learning Soft Distance-Based Bias and the Hierarchical BOA
+Image Filtering using All Neighbor Directional Weighted Pixels: Optimization using Particle Swarm Optimization
+Theoretical foundation for CMA-ES from information geometric perspective
+Black-box optimization benchmarking of IPOP-saACM-ES on the BBOB-2012 noisy testbed
+A Hybrid Artificial Bee Colony Algorithm for Graph 3-Coloring
+Memetic Artificial Bee Colony Algorithm for Large-Scale Global Optimization
+MACS: An Agent-Based Memetic Multiobjective Optimization Algorithm Applied to Space Trajectory Design
+Evidence-Based Robust Design of Deflection Actions for Near Earth Objects
+On applying Neuro - Computing in E-com Domain
+Improvement of Loadability in Distribution System Using Genetic Algorithm
+Exploiting Particle Swarm Optimization in Multiple Faults Fuzzy Detection
+General Upper Bounds on the Running Time of Parallel Evolutionary Algorithms
+An Analysis of the Methods Employed for Breast Cancer Diagnosis
+An Evolutionary Approach to Drug-Design Using Quantam Binary Particle Swarm Optimization Algorithm
+Convergence of the Continuous Time Trajectories of Isotropic Evolution Strategies on Monotonic C 2-composite Functions
+Multi-robot Cooperative Box-pushing problem using Multi-objective Particle Swarm Optimization Technique
+Analysis of a Nature Inspired Firefly Algorithm based Back-propagation Neural Network Training
+Speeding up the construction of slow adaptive walks
+Black-box optimization benchmarking of IPOP-saACM-ES and BIPOP-saACM-ES on the BBOB-2012 noiseless testbed
+Piecewise Linear Topology Evolutionary Algorithms and Optimization Problems
+A Novel Approach for Authenticating Textual or Graphical Passwords Using Hopfield Neural Network
+Optoelectronic Reservoir Computing
+Optimization of Real Hermitian Quadratic Forms: Real Complex Hopfield-Amari Neural Network
+Utilizing Static Analysis and Code Generation to Accelerate Neural Networks
+More Effective Crossover Operators for the All-Pairs Shortest Path Problem
+Improving neural networks by preventing co-adaptation of feature detectors
+Meme as Building Block for Evolutionary Optimization of Problem Instances
+An experimental study of exhaustive solutions for the Mastermind puzzle
+Multimodal similarity-preserving hashing
+Object Recognition with Multi-Scale Pyramidal Pooling Networks
+A Genetic Algorithm Approach for Solving a Flexible Job Shop Scheduling Problem
+Nugget Discovery with a Multi-objective Cultural Algorithm
+Genetic agent approach for improving on-the-fly web map generalization
+Biogeography-Based Informative Gene Selection and Cancer Classification Using SVM and Random Forests
+Robust Mission Design Through Evidence Theory and Multi-Agent Collaborative Search
+Approximated Computation of Belief Functions for Robust Design Optimization
+Preliminary Design of Debris Removal Missions by Means of Simplified Models for Low-Thrust Many-Revolution Transfers
+Towards a Self-Organized Agent-Based Simulation Model for Exploration of Human Synaptic Connections
+Empirical review of standard benchmark functions using evolutionary global optimization
+Complex-network analysis of combinatorial spaces: The NK landscape case
+Communities of Minima in Local Optima Networks of Combinatorial Spaces
+DAMS: Distributed Adaptive Metaheuristic Selection
+NILS: a Neutrality-based Iterated Local Search and its application to Flowshop Scheduling
+Set-based Multiobjective Fitness Landscapes: A Preliminary Study
+Pareto Local Optima of Multiobjective NK-Landscapes with Correlated Objectives
+First-improvement vs. Best-improvement Local Optima Networks of NK Landscapes
+The Road to VEGAS: Guiding the Search over Neutral Networks
+On the Effect of Connectedness for Biobjective Multiple and Long Path Problems
+On the Neutrality of Flowshop Scheduling Fitness Landscapes
+Analyzing the Effect of Objective Correlation on the Efficient Set of MNK-Landscapes
+Clustering of Local Optima in Combinatorial Fitness Landscapes
+Motion Planning Of an Autonomous Mobile Robot Using Artificial Neural Network
+Evolving Musical Counterpoint: The Chronopoint Musical Evolution System
+A New Training Algorithm for Kanerva's Sparse Distributed Memory
+Exploring Promising Stepping Stones by Combining Novelty Search with Interactive Evolution
+A First-Order Non-Homogeneous Markov Model for the Response of Spiking Neurons Stimulated by Small Phase-Continuous Signals
+On the information-theoretic structure of distributed measurements
+The bistable brain: a neuronal model with symbiotic interactions
+Artificial Neural Network Based Prediction of Optimal Pseudo-Damping and Meta-Damping in Oscillatory Fractional Order Dynamical Systems
+Optimization hardness as transient chaos in an analog approach to constraint satisfaction
+A hybrid artificial immune system and Self Organising Map for network intrusion detection
+A study on non-destructive method for detecting Toxin in pepper using Neural networks
+Curved Space Optimization: A Random Search based on General Relativity Theory
+Energy Efficient Wireless Communication using Genetic Algorithm Guided Faster Light Weight Digital Signature Algorithm (GADSA)
+A Large Population Size Can Be Unhelpful in Evolutionary Algorithms
+An Efficient Genetic Programming System with Geometric Semantic Operators and its Application to Human Oral Bioavailability Prediction
+Modeling and Control of CSTR using Model based Neural Network Predictive Control
+Learning sparse messages in networks of neural cliques
+A novel Hopfield neural network approach for minimizing total weighted tardiness of jobs scheduled on identical machines
+New results of ant algorithms for the Linear Ordering Problem
+Sensitive Ants in Solving the Generalized Vehicle Routing Problem
+Feasibility of Genetic Algorithm for Textile Defect Classification Using Neural Network
+Design of Low Noise Amplifiers Using Particle Swarm Optimization
+Ranking-Based Black-Box Complexity
+A hybrid ACO approach to the Matrix Bandwidth Minimization Problem
+Automated Marble Plate Classification System Based On Different Neural Network Input Training Sets and PLC Implementation
+Autoregressive short-term prediction of turning points using support vector regression
+Monotonicity of Fitness Landscapes and Mutation Rate Control
+Synthesis of Stochastic Flow Networks
+Performance Analysis Of Neuro Genetic Algorithm Applied On Detecting Proportion Of Components In Manhole Gas Mixture
+Load Distribution Composite Design Pattern for Genetic Algorithm-Based Autonomic Computing Systems
+Training a Feed-forward Neural Network with Artificial Bee Colony Based Backpropagation Method
+Comparison Study for Clonal Selection Algorithm and Genetic Algorithm
+Cultural Algorithm Toolkit for Multi-objective Rule Mining
+Agent-based Exploration of Wirings of Biological Neural Networks: Position Paper
+Network Routing Optimization Using Swarm Intelligence
+The Future of Neural Networks
+A Neuro-Fuzzy Technique for Implementing the Half-Adder Circuit Using the CANFIS Model
+Making a Science of Model Search
+Developing Improved Greedy Crossover to Solve Symmetric Traveling Salesman Problem
+A Connectionist Network Approach to Find Numerical Solutions of Diophantine Equations
+Parameterized Runtime Analyses of Evolutionary Algorithms for the Euclidean Traveling Salesperson Problem
+Initial Version of State Transition Algorithm
+Self-Delimiting Neural Networks
+Think Locally Act Globally: Perfectly Balanced Graph Partitioning
+A network of spiking neurons for computing sparse representations in an energy efficient way
+Reply to Comments on Neuroelectrodynamics: Where are the Real Conceptual Pitfalls?
+A Flexible Mixed Integer Programming framework for Nurse Scheduling
+Online computation of sparse representations of time varying stimuli using a biologically motivated neural network
+Local Optima Networks Landscape Autocorrelation and Heuristic Search Performance
+A Biologically Realistic Model of Saccadic Eye Control with Probabilistic Population Codes
+Disentangling Factors of Variation via Generative Entangling
+Interplay: Dispersed Activation in Neural Networks
+Time After Time: Notes on Delays In Spiking Neural P Systems
+Black-Box Complexity: Breaking the O(n log n) Barrier of LeadingOnes
+Neural Networks for Complex Data
+Implementation of a Vision System for a Landmine Detecting Robot Using Artificial Neural Network
+Hierarchical Learning Algorithm for the Beta Basis Function Neural Network
+Creating a Digital Ecosystem: Service-Oriented Architectures with Distributed Evolutionary Computing
+Bottleneck of using single memristor as a synapse and its solution
+Quick HyperVolume
+Automatic ECG Beat Arrhythmia Detection
+Generation of Two-Layer Monotonic Functions
+Intelligent Algorithm for Optimum Solutions Based on the Principles of Bat Sonar
+Linear Antenna Array with Suppressed Sidelobe and Sideband Levels using Time Modulation
+Hybrid methodology for hourly global radiation forecasting in Mediterranean area
+The application of a perceptron model to classify an individual's response to a proposed loading dose regimen of Warfarin
+A Comparison of Meta-heuristic Search for Interactive Software Design
+Memory Capacity of a Random Neural Network
+Sequence Transduction with Recurrent Neural Networks
+A Bayesian Interpretation of the Particle Swarm Optimization and Its Kernel Extension
+Artificial Neural Network Based Optical Character Recognition
+A Brief Review of Data Mining Application Involving Protein Sequence Classification
+A Hybrid Bacterial Foraging Algorithm For Solving Job Shop Scheduling Problems
+Scaling Genetic Programming for Source Code Modification
+Ecosystem-Oriented Distributed Evolutionary Computing
+Neuro-Fuzzy Computing System with the Capacity of Implementation on Memristor-Crossbar and Optimization-Free Hardware Training
+New Hoopoe Heuristic Optimization
+Nature-Inspired Mateheuristic Algorithms: Success and New Challenges
+Erratum: Simplified Drift Analysis for Proving Lower Bounds in Evolutionary Computation
+Using Differential Evolution for the Graph Coloring
+From the decoding of cortical activities to the control of a JACO robotic arm: a whole processing chain
+An Evolution Strategy Approach toward Rule-set Generation for Network Intrusion Detection Systems (IDS)
+Artificial Neural Network for Performance Modeling and Optimization of CMOS Analog Circuits
+Metaheuristic Optimization: Algorithm Analysis and Open Problems
+Evaluation of Particle Swarm Optimization Algorithms for Weighted Max-Sat Problem: Technical Report
+Hybrid Optimized Back propagation Learning Algorithm For Multi-layer Perceptron
+On The Delays In Spiking Neural P Systems
+Identification of Nonlinear Systems From the Knowledge Around Different Operating Conditions: A Feed-Forward Multi-Layer ANN Based Approach
+Evolution of Plastic Learning in Spiking Networks via Memristive Connections
+Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation
+A Neural Network Approach to ECG Denoising
+A genetic algorithm applied to the validation of building thermal models
+Black box modelling of HVAC system : improving the performances of neural networks
+Collaborating Robotics Using Nature-Inspired Meta-Heuristics
+Distributed optimization of deeply nested systems
+Multiplicative Drift Analysis
+Ag-dependent (in silico) approach implies a deterministic kinetics for homeostatic memory cell turnover
+Chaotic multi-objective optimization based design of fractional order PI lambda D mu controller in AVR system
+Linear-Nonlinear-Poisson Neuron Networks Perform Bayesian Inference On Boltzmann Machines
+Training a Functional Link Neural Network Using an Artificial Bee Colony for Solving a Classification Problems
+Generating High-Order Threshold Functions with Multiple Thresholds
+Adaptive Intelligent Cooperative Spectrum Sensing In Cognitive Radio
+Hybridization of Evolutionary Algorithms
+Comparative Studies on Decentralized Multiloop PID Controller Design Using Evolutionary Algorithms
+Graph 3-coloring with a hybrid self-adaptive evolutionary algorithm
+Computational Intelligence for Deepwater Reservoir Depositional Environments Interpretation
+The Neural Representation Benchmark and its Evaluation on Brain and Machine
+Stochastic Pooling for Regularization of Deep Convolutional Neural Networks
+Reversible Jump MCMC Simulated Annealing for Neural Networks
+Evolutionary Algorithms and Dynamic Programming
+Financial Portfolio Optimization: Computationally guided agents to investigate analyse and invest ?
+Recurrent Neural Network Method in Arabic Words Recognition System
+Active Learning of Inverse Models with Intrinsically Motivated Goal Exploration in Robots
+Genetic Algorithm for Mulicriteria Optimization of a Multi-Pickup and Delivery Problem with Time Windows
+Effects of Compensation Connectivity and Tau in a Computational Model of Alzheimer's Disease
+Genetic braid optimization: A heuristic approach to compute quasiparticle braids
+Layer-wise learning of deep generative models
+El 'ements pour une th 'eorie des r 'eseaux en phase d'apprentissage
+Sparse Penalty in Deep Belief Networks: Using the Mixed Norm Constraint
+A New Constructive Method to Optimize Neural Network Architecture and Generalization
+Beyond Markov Chains Towards Adaptive Memristor Network-based Music Generation
+Comparison of Ant-Inspired Gatherer Allocation Approaches using Memristor-Based Environmental Models
+Improved Accuracy of PSO and DE using Normalization: an Application to Stock Price Prediction
+Evolvability Is Inevitable: Increasing Evolvability Without the Pressure to Adapt
+A Non-Binary Associative Memory with Exponential Pattern Retrieval Capacity and Iterative Learning: Extended Results
+Pavlov's dog associative learning demonstrated on synaptic-like organic transistors
+An analysis of NK and generalized NK landscapes
+Canonical dual solutions to nonconvex radial basis neural network optimization problem
+A Genetic Algorithm for Power-Aware Virtual Machine Allocation in Private Cloud
+Phoneme discrimination using KS algebra I
+A Homogeneous Ensemble of Artificial Neural Networks for Time Series Forecasting
+Estimating Sectoral Pollution Load in Lagos Nigeria Using Data Mining Techniques
+Segmentation of Alzheimers Disease in PET scan datasets using MATLAB
+PSO based Neural Networks vs. Traditional Statistical Models for Seasonal Time Series Forecasting
+Another Look at Quantum Neural Computing
+Efficient Design of Triplet Based Spike-Timing Dependent Plasticity
+Measuring the Complexity of Ultra-Large-Scale Adaptive Systems
+A Self-Organized Neural Comparator
+Towards Swarm Calculus: Urn Models of Collective Decisions and Universal Properties of Swarm Performance
+Genetic Algorithm for Designing a Convenient Facility Layout for a Circular Flow Path
+Spike and Tyke the Quantized Neuron Model
+Audio Classical Composer Identification by Deep Neural Network
+Metric-Free Natural Gradient for Joint-Training of Boltzmann Machines
+Feature Learning in Deep Neural Networks - Studies on Speech Recognition Tasks
+Polyploidy and Discontinuous Heredity Effect on Evolutionary Multi-Objective Optimization
+Parameter Identification of Induction Motor Using Modified Particle Swarm Optimization Algorithm
+K Means Segmentation of Alzheimers Disease in PET scan datasets: An implementation
+Using Artificial Intelligence Models in System Identification
+Clubs-based Particle Swarm Optimization
+Genetic Programming for Document Segmentation and Region Classification Using Discipulus
+Distributed Evolutionary Computation: A New Technique for Solving Large Number of Equations
+A Genetic algorithm to solve the container storage space allocation problem
+A Generalized Hybrid Real-Coded Quantum Evolutionary Algorithm Based on Particle Swarm Theory with Arithmetic Crossover
+Estimation of soil moisture in paddy field using Artificial Neural Networks
+Design and Development of Artificial Neural Networking (ANN) system using sigmoid activation function to predict annual rice production in Tamilnadu
+Security Assessment of Software Design using Neural Network
+Gene-Machine a new search heuristic algorithm
+Expensive Optimisation: A Metaheuristics Perspective
+Evolutionary Approaches to Expensive Optimisation
+Convex Hull-Based Multi-objective Genetic Programming for Maximizing ROC Performance
+Hybrid Evolutionary Computation for Continuous Optimization
+Neurally Implementable Semantic Networks
+Genetic algorithms for finding the weight enumerator of binary linear block codes
+Using evolutionary design to interactively sketch car silhouettes and stimulate designer's creativity
+Speech Recognition with Deep Recurrent Neural Networks
+Is the Multiverse Hypothesis capable of explaining the Fine Tuning of Nature Laws and Constants? The Case of Cellular Automata
+Fuzzy Dynamical Genetic Programming in XCSF
+Computational Capabilities of Random Automata Networks for Reservoir Computing
+Echo State Queueing Network: a new reservoir computing learning tool
+A Neuromorphic VLSI Design for Spike Timing and Rate Based Synaptic Plasticity
+Event management for large scale event-driven digital hardware spiking neural networks
+A Cumulative Multi-Niching Genetic Algorithm for Multimodal Function Optimization
+Solving Linear Equations by Classical Jacobi-SR Based Hybrid Evolutionary Algorithm with Uniform Adaptation Technique
+Synaptic Scaling Balances Learning in a Spiking Model of Neocortex
+Evolutionary Design of Digital Circuits Using Genetic Programming
+A New Distributed Evolutionary Computation Technique for Multi-Objective Optimization
+For Solving Linear Equations Recombination is a Needless Operation in Time-Variant Adaptive Hybrid Algorithms
+Roborobo a Fast Robot Simulator for Swarm and Collective Robotics
+An Approach to Solve Linear Equations Using a Time-Variant Adaptation Based Hybrid Evolutionary Algorithm
+Evolution of Swarm Robotics Systems with Novelty Search
+Generic Behaviour Similarity Measures for Evolutionary Swarm Robotics
+Modified Soft Brood Crossover in Genetic Programming
+A Novel Metaheuristics To Solve Mixed Shop Scheduling Problems
+An Improved ACS Algorithm for the Solutions of Larger TSP Problems
+Improving Generalization Ability of Genetic Programming: Comparative Study
+Solving Linear Equations Using a Jacobi Based Time-Variant Adaptive Hybrid Evolutionary Algorithm
+An accelerated CLPSO algorithm
+Coordinating metaheuristic agents with swarm intelligence
+Multiobjective optimization in Gene Expression Programming for Dew Point
+Hands-free Evolution of 3D-printable Objects via Eye Tracking
+Dew Point modelling using GEP based multi objective optimization
+Synthesis of neural networks for spatio-temporal spike pattern recognition and processing
+On Integrating Fuzzy Knowledge Using a Novel Evolutionary Algorithm
+A Discrete State Transition Algorithm for Generalized Traveling Salesman Problem
+Introduction to Multi-Agent Simulation
+The Use of Probabilistic Systems to Mimic the Behaviour of Idiotypic AIS Robot Controllers
+An estimation of distribution algorithm with adaptive Gibbs sampling for unconstrained global optimization
+Novel Analysis of Population Scalability in Evolutionary Algorithms
+The conduciveness of CA-rule graphs
+Fitness Landscape-Based Characterisation of Nature-Inspired Algorithms
+Autonomous Reinforcement of Behavioral Sequences in Neural Dynamics
+Group theory group actions evolutionary algorithms and global optimization
+Training Neural Networks with Stochastic Hessian-Free Optimization
+Digenes: genetic algorithms to discover conjectures about directed and undirected graphs
+On Comparison between Evolutionary Programming Network-based Learning and Novel Evolution Strategy Algorithm-based Learning
+The Dynamically Extended Mind -- A Minimal Modeling Case Study
+Performance Enhancement of Distributed Quasi Steady-State Genetic Algorithm
+Evolution of Covariance Functions for Gaussian Process Regression using Genetic Programming
+Improving NSGA-II with an Adaptive Mutation Operator
+A Cooperative Coevolutionary Genetic Algorithm for Learning Bayesian Network Structures
+Dienstplanerstellung in Krankenhaeusern mittels genetischer Algorithmen
+Memory Implementations - Current Alternatives
+Immune System Approaches to Intrusion Detection - A Review (ICARIS)
+A biological gradient descent for prediction through a combination of STDP and homeostatic plasticity
+The evolutionary origins of modularity
+Learning the Pseudoinverse Solution to Network Weights
+Neural Networks Built from Unreliable Components
+A hybrid bat algorithm
+Estimating Phoneme Class Conditional Probabilities from Raw Speech Signal using Convolutional Neural Networks
+EURETILE 2010-2012 summary: first three years of activity of the European Reference Tiled Experiment
+The Dendritic Cell Algorithm for Intrusion Detection
+Real-world Transfer of Evolved Artificial Immune System Behaviours between Small and Large Scale Robotic Platforms
+Motif Detection Inspired by Immune Memory (JORS)
+Wavelet feature extraction and genetic algorithm for biomarker detection in colorectal cancer data
+Theoretical formulation and analysis of the deterministic dendritic cell algorithm
+Harmony search algorithm for the container storage problem
+Evolutionary Approach for the Containers Bin-Packing Problem
+Finding Numerical Solutions of Diophantine Equations using Ant Colony Optimization
+Urban ozone concentration forecasting with artificial neural network in Corsica
+Geometric operations implemented by conformal geometric algebra neural nodes
+Non-constant bounded holomorphic functions of hyperbolic numbers - Candidates for hyperbolic activation functions
+Using the quaternion's representation of individuals in swarm intelligence and evolutionary computation
+Random Drift Particle Swarm Optimization
+Second Order Swarm Intelligence
+The Ripple Pond: Enabling Spiking Networks to See
+Time Efficient Approach To Offline Hand Written Character Recognition Using Associative Memory Net
+English Character Recognition using Artificial Neural Network
+Solution to Quadratic Equation Using Genetic Algorithm
+Non-Correlated Character Recognition using Artificial Neural Network
+Evolving Boolean Regulatory Networks with Epigenetic Control
+3-SAT Problem A New Memetic-PSO Algorithm
+Using Genetic Programming to Model Software
+Modeling The Stable Operating Envelope For Partially Stable Combustion Engines Using Class Imbalance Learning
+Learning Generalization and Functional Entropy in Random Automata Networks
+Computational Model of Music Sight Reading: A Reinforcement Learning Approach
+A Multi-objective Exploratory Procedure for Regression Model Selection
+Explaining Adaptation in Genetic Algorithms With Uniform Crossover: The Hyperclimbing Hypothesis
+Knowledge Matters: Importance of Prior Information for Optimization
+A Massively Parallel Associative Memory Based on Sparse Neural Networks
+Sustainable Cooperative Coevolution with a Multi-Armed Bandit
+DNA Reservoir Computing: A Novel Molecular Computing Approach
+Comparing various regression methods on ensemble strategies in differential evolution
+A Comparison of Non-stationary Type-2 and Dual Surface Fuzzy Control
+Constructing Hierarchical Image-tags Bimodal Representations for Word Tags Alternative Choice
+General Drift Analysis with Tail Bounds
+A New Approach to the Solution of Economic Dispatch Using Particle Swarm Optimization with Simulated Annealing
+Genetic approach for arabic part of speech tagging
+Handwritten Digits Recognition using Deep Convolutional Neural Network: An Experimental Study using EBlearn
+The Fundamental Learning Problem that Genetic Algorithms with Uniform Crossover Solve Efficiently and Repeatedly As Evolution Proceeds
+A Brief Review of Nature-Inspired Algorithms for Optimization
+The Fitness Level Method with Tail Bounds
+Optimal Recombination in Genetic Algorithms
+A New Optimization Approach Based on Rotational Mutation and Crossover Operator
+New Optimization Approach Using Clustering-Based Parallel Genetic Algorithm
+Solving Traveling Salesman Problem by Marker Method
+Sub-Dividing Genetic Method for Optimization Problems
+Speaker Independent Continuous Speech to Text Converter for Mobile Application
+Rotational Mutation Genetic Algorithm on optimization Problems
+A New Approach for Finding the Global Optimal Point Using Subdividing Labeling Method (SLM)
+Sub- Diving Labeling Method for Optimization Problem by Genetic Algorithm
+Multi-horizon solar radiation forecasting for Mediterranean locations using time series models
+Storing non-uniformly distributed messages in networks of neural cliques
+Memcapacitive neural networks
+A new approach in dynamic traveling salesman problem: a hybrid of ant colony optimization and descending gradient
+Energy Distribution of EEG Signals: EEG Signal Wavelet-Neural Network Classifier
+Neural Network Capacity for Multilevel Inputs
+Incorporating characteristics of human creativity into an evolutionary art algorithm
+Simple heuristics for the assembly line worker assignment and balancing problem
+An Agent-based Simulation of the Effectiveness of Creative Leadership
+Learning Sequence Neighbourhood Metrics
+The evolution of representation in simple cognitive networks
+Comparing several heuristics for a packing problem
+Storing cycles in Hopfield-type networks with pseudoinverse learning rule: admissibility and network topology
+Coupled Neural Associative Memories
+On the performance of a hybrid genetic algorithm in dynamic environments
+Particles Prefer Walking Along the Axes: Experimental Insights into the Behavior of a Particle Swarm
+Understanding Dropout: Training Multi-Layer Perceptrons with Auxiliary Independent Stochastic Neurons
+Clustering of Complex Networks and Community Detection Using Group Search Optimization
+Finite State Machine Synthesis for Evolutionary Hardware
+Tracking Extrema in Dynamic Environment using Multi-Swarm Cellular PSO with Local Search
+A Multi-Swarm Cellular PSO based on Clonal Selection Algorithm in Dynamic Environments
+A Note on Topology Preservation in Classification and the Construction of a Universal Neuron Grid
+Time series modeling with pruned multi-layer perceptron and 2-stage damped least-squares method
+Finite Element Model Updating Using Fish School Search Optimization Method
+Learning Features and their Transformations by Spatial and Temporal Spherical Clustering
+A radial basis function neural network based approach for the electrical characteristics estimation of a photovoltaic module
+An efficient ant based qos aware intelligent temporally ordered routing algorithm for manets
+Complete stability analysis of a heuristic ADP control design
+Guiding Designs of Self-Organizing Swarms: Interactive and Automated Approaches
+Innovative Second-Generation Wavelets Construction With Recurrent Neural Networks for Solar Radiation Forecasting
+Graph Colouring Problem Based on Discrete Imperialist Competitive Algorithm
+Implementation Of Back-Propagation Neural Network For Isolated Bangla Speech Recognition
+A study of retrieval algorithms of sparse messages in networks of neural cliques
+Genetic Algorithm for Solving Simple Mathematical Equality Problem
+How Did Humans Become So Creative? A Computational Approach
+A hybrid evolutionary algorithm with importance sampling for multi-dimensional optimization
+Complexity of evolutionary equilibria in static fitness landscapes
+Performance Measurement Under Increasing Environmental Uncertainty In The Context of Interval Type-2 Fuzzy Logic Based Robotic Sailing
+Artificial Immune Systems (INTROS 2)
+Multi-Objective Particle Swarm Optimization for Facility Location Problem in Wireless Mesh Networks
+Improving Sparse Associative Memories by Escaping from Bogus Fixed Points
+Collecting Coupons with Random Initial Stake
+Constructing Runge-Kutta Methods with the Use of Artificial Neural Networks
+Derivation of Upper Bounds on Optimization Time of Population-Based Evolutionary Algorithm on a Function with Fitness Plateaus Using Elitism Levels Traverse Mechanism
+Macro-Economic Time Series Modeling and Interaction Networks
+Improvement studies on neutron-gamma separation in HPGe detectors by using neural networks
+Evolutionary optimization of an experimental apparatus
+A Small Universal Petri Net
+Parallel machine scheduling with step deteriorating jobs and setup times by a hybrid discrete cuckoo search algorithm
+Nano-scale reservoir computing
+Application of Artificial Neural Networks in Estimating Participation in Elections
+Modeling Based on Elman Wavelet Neural Network for Class-D Power Amplifiers
+Multiplicative Approximations Optimal Hypervolume Distributions and the Choice of the Reference Point
+A Neural Network based Approach for Predicting Customer Churn in Cellular Network Services
+Using Self-Organizing Maps for Sentiment Analysis
+An ant colony optimization algorithm for job shop scheduling problem
+Spike Synchronization Dynamics of Small-World Networks
+On the Success Rate of Crossover Operators for Genetic Programming with Offspring Selection
+Data Mining using Unguided Symbolic Regression on a Blast Furnace Dataset
+Should I Stay or Should I Go: Coordinating Biological Needs with Continuously-updated Assessments of the Environment
+Proceedings Wivace 2013 - Italian Workshop on Artificial Life and Evolutionary Computation
+Understanding Boltzmann Machine and Deep Learning via A Confident Information First Principle
+Efficient Evolutionary Algorithm for Single-Objective Bilevel Optimization
+Inferring Fitness in Finite Populations with Moran-like dynamics
+Constructing Low Star Discrepancy Point Sets with Genetic Algorithms
+Learning-Based Procedural Content Generation
+An Application of Backpropagation Artificial Neural Network Method for Measuring The Severity of Osteoarthritis
+Meme and Variations: A Computer Model of Cultural Evolution
+A Hybrid Monte Carlo Ant Colony Optimization Approach for Protein Structure Prediction in the HP Model
+Semi-structured data extraction and modelling: the WIA Project
+Signed Networks Triadic Interactions and the Evolution of Cooperation
+The Novel Approach of Adaptive Twin Probability for Genetic Algorithm
+Learning ambiguous functions by neural networks
+The Generalized Traveling Salesman Problem solved with Ant Algorithms
+Green Heron Swarm Optimization Algorithm - State-of-the-Art of a New Nature Inspired Discrete Meta-Heuristics
+Towards Application of the RBNK Model
+Evolution of swarming behavior is shaped by how predators attack
+Risk aversion as an evolutionary adaptation
+Studying a Chaotic Spiking Neural Model
+Evaluation the efficiency of artificial bee colony and the firefly algorithm in solving the continuous optimization problem
+A New Mechanism for Maintaining Diversity of Pareto Archive in Multiobjective Optimization
+Analog readout for optical reservoir computers
+Predator confusion is sufficient to evolve swarming behavior
+A new bio-inspired method for remote sensing imagery classification
+Geiringer Theorems: From Population Genetics to Computational Intelligence Memory Evolutive Systems and Hebbian Learning
+A comparative analysis of methods for estimating axon diameter using DWI
+Universal Approximation Using Shuffled Linear Models
+An Adaptive Amoeba Algorithm for Shortest Path Tree Computation in Dynamic Graphs
+Q-Gaussian Swarm Quantum Particle Intelligence on Predicting Global Minimum of Potential Energy Function
+Polyhedrons and Perceptrons Are Functionally Equivalent
+Exploring Deep and Recurrent Architectures for Optimal Control
+Motility at the origin of life: Its characterization and a model
+Deep neural networks for single channel source separation
+Stochastic inference with deterministic spiking neurons
+Evolutionary perspectives on collective decision making: Studying the implications of diversity and social network structure with agent-based simulations
+Mixing Energy Models in Genetic Algorithms for On-Lattice Protein Structure Prediction
+The Optimization of Running Queries in Relational Databases Using ANT-Colony Algorithm
+Analyzing Evolutionary Optimization in Noisy Environments
+Automated and Weighted Self-Organizing Time Maps
+Neural Network Application on Foliage Plant Identification
+Color and Shape Content Based Image Classification using RBF Network and PSO Technique: A Survey
+Ant Colony Optimization and Hypergraph Covering Problems
+State Transition Algorithm
+Sparse arrays of signatures for online character recognition
+Semistability-Based Convergence Analysis for Paracontracting Multiagent Coordination Optimization
+Understanding Evolutionary Potential in Virtual CPU Instruction Set Architectures
+Improvements to deep convolutional neural networks for LVCSR
+Accelerating Hessian-free optimization for deep neural networks by implicit preconditioning and sampling
+Event-Driven Contrastive Divergence for Spiking Neuromorphic Systems
+Finding a Maximum Clique using Ant Colony Optimization and Particle Swarm Optimization in Social Networks
+Spatially-Adaptive Reconstruction in Computed Tomography using Neural Networks
+A Framework for Genetic Algorithms Based on Hadoop
+ABC-SG: A New Artificial Bee Colony Algorithm-Based Distance of Sequential Data Using Sigma Grams
+Particle Swarm Optimization of Information-Content Weighting of Symbolic Aggregate Approximation
+Towards Normalizing the Edit Distance Using a Genetic Algorithms Based Scheme
+From Maxout to Channel-Out: Encoding Information on Sparse Pathways
+End-to-end Phoneme Sequence Recognition using Convolutional Neural Networks
+A preliminary survey on optimized multiobjective metaheuristic methods for data clustering using evolutionary approaches
+A Unified Markov Chain Approach to Analysing Randomised Search Heuristics
+Performance Analysis Of Neural Network Models For Oxazolines And Oxazoles Derivatives Descriptor Dataset
+Automated Classification of L R Hand Movement EEG Signals using Advanced Feature Extraction and Machine Learning
+CACO : Competitive Ant Colony Optimization A Nature-Inspired Metaheuristic For Large-Scale Global Optimization
+A natural-inspired optimization machine based on the annual migration of salmons in nature
+An introduction to synchronous self-learning Pareto strategy
+Autonomous Quantum Perceptron Neural Network
+Rectifying Self Organizing Maps for Automatic Concept Learning from Web Images
+Comparative analysis of evolutionary algorithms for image enhancement
+Generative NeuroEvolution for Deep Learning
+Missing Value Imputation With Unsupervised Backpropagation
+My First Deep Learning System of 11 Deep Learning Timeline 12-2013
+Flower Pollination Algorithm for Global Optimization
+Unsupervised Feature Learning by Deep Sparse Coding
+Optimal parameter selection for unsupervised neural network using genetic algorithm
+GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training
+A comprehensive review of firefly algorithms
+Deep learning for class-generic object detection
+Evolutionary estimation of a Coupled Markov Chain credit risk model
+A note on evolutionary stochastic portfolio optimization and probabilistic constraints
+A new class of metrics for spike trains
+A New Continuous-Time Equality-Constrained Optimization Method to Avoid Singularity
+Towards the Evolution of Novel Vertical-Axis Wind Turbines
+Short Term Memory Capacity in Networks via the Restricted Isometry Property
+SKNET: an efficient and robust neural network training tool for machine learning in astronomy
+Guided Self-Organization of Input-Driven Recurrent Neural Networks
+Distinction between features extracted using deep belief networks
+Deep Belief Networks for Image Denoising
+Learning Paired-associate Images with An Unsupervised Deep Learning Architecture
+An empirical analysis of dropout in piecewise linear networks
+An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks
+Evolutionary Design of Numerical Methods: Generating Finite Difference and Integration Schemes by Differential Evolution
+PSO-MISMO Modeling Strategy for Multi-Step-Ahead Time Series Prediction
+Solving Poisson Equation by Genetic Algorithms
+Low-Complexity Particle Swarm Optimization for Time-Critical Applications
+Multimodal Optimization by Sparkling Squid Populations
+Spectrum Hole Prediction Based On Historical Data: A Neural Network Approach
+Time series forecasting using neural networks
+A Solution of Degree Constrained Spanning Tree Using Hybrid GA
+A Parameterized Complexity Analysis of Bi-level Optimisation with Evolutionary Algorithms
+A PSO and Pattern Search based Memetic Algorithm for SVMs Parameters Optimization
+Variations on Memetic Algorithms for Graph Coloring Problems
+A Comparative Study of Reservoir Computing for Temporal Signal Processing
+N2Sky - Neural Networks as Services in the Clouds
+An Overview of Schema Theory
+Exploiting generalisation symmetries in accuracy-based learning classifier systems: An initial study
+Amino Acid Interaction Network Prediction using Multi-objective Optimization
+Learning Bayesian Network Equivalence Classes with Ant Colony Optimization
+Intelligent Systems for Information Security
+Evolving Accuracy: A Genetic Algorithm to Improve Election Night Forecasts
+Evolutionary Optimization for Decision Making under Uncertainty
+Revolutionary Algorithms
+An Evolutionary Approach towards Clustering Airborne Laser Scanning Data
+A Genetic Algorithm to Optimize a Tweet for Retweetability
+Multi-GPU parallel memetic algorithm for capacitated vehicle routing problem
+Optimal Intelligent Control for Wind Turbulence Rejection in WECS Using ANNs and Genetic Fuzzy Approach
+Genetic Algorithms and its use with back-propagation network
+Study of Neural Network Algorithm for Straight-Line Drawings of Planar Graphs
+Learning Mid-Level Features and Modeling Neuron Selectivity for Image Classification
+Increasing Server Availability for Overall System Security: A Preventive Maintenance Approach Based on Failure Prediction
+Reaserchnig the Development of the Electrical Power System Using Systemically Evolutionary Algorithm
+Reducing the Computational Cost in Multi-objective Evolutionary Algorithms by Filtering Worthless Individuals
+Gaussian-binary Restricted Boltzmann Machines on Modeling Natural Image Statistics
+Parallel Genetic Algorithm to Solve Traveling Salesman Problem on MapReduce Framework using Hadoop Cluster
+Supervised Learning of Logical Operations in Layered Spiking Neural Networks with Spike Train Encoding
+A quantum genetic algorithm with quantum crossover and mutation operations
+Supervised Learning in Multilayer Spiking Neural Networks
+Delay Learning Architectures for Memory and Classification
+How Santa Fe Ants Evolve
+Unsupervised feature learning by augmenting single images
+Deep learning for neuroimaging: a validation study
+Multi-GPU Training of ConvNets
+Stochastic Gradient Estimate Variance in Contrastive Divergence and Persistent Contrastive Divergence
+On the number of response regions of deep feed forward networks with piece-wise linear activations
+Modeling correlations in spontaneous activity of visual cortex with centered Gaussian-binary deep Boltzmann machines
+Improving Deep Neural Networks with Probabilistic Maxout Units
+Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
+Intriguing properties of neural networks
+One-Shot Adaptation of Supervised Deep Convolutional Models
+Nonparametric Weight Initialization of Neural Networks via Integral Representation
+A Brief History of Learning Classifier Systems: From CS-1 to XCS
+On the Resilience of an Ant-based System in Fuzzy Environments. An Empirical Study
+The parametrized probabilistic finite-state transducer probe game player fingerprint model
+Multidiscipinary Optimization For Gas Turbines Design
+Microstrip Coupler Design Using Bat Algorithm
+Associative Memories Based on Multiple-Valued Sparse Clustered Networks
+Long Short-Term Memory Based Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition
+Quantum Cybernetics and Complex Quantum Systems Science - A Quantum Connectionist Exploration
+A Three-Phase Search Approach for the Quadratic Minimum Spanning Tree Problem
+MCA Learning Algorithm for Incident Signals Estimation: A Review
+Deeply Coupled Auto-encoder Networks for Cross-view Classification
+Sex as Gibbs Sampling: a probability model of evolution
+Local Optima Networks: A New Model of Combinatorial Fitness Landscapes
+A Clockwork RNN
+Does the D.C. Response of Memristors Allow Robotic Short-Term Memory and a Possible Route to Artificial Time Perception?
+Connecting Spiking Neurons to a Spiking Memristor Network Changes the Memristor Dynamics
+Is Spiking Logic the Route to Memristor-Based Computers?
+Artificial Mutation inspired Hyper-heuristic for Runtime Usage of Multi-objective Algorithms
+A Powerful Genetic Algorithm for Traveling Salesman Problem
+An Evolutionary approach for solving Shr odinger Equation
+The Cerebellum: New Computational Model that Reveals its Primary Function to Calculate Multibody Dynamics Conform to Lagrange-Euler Formulation
+Artificial super-Bee enhanced Colony (AsBeC) algorithm for numerical optimization with limited function evaluations Part 1: technologies and benchmark validation
+LSSVM-ABC Algorithm for Stock Price prediction
+Clustering Multidimensional Data with PSO based Algorithm
+Evolutionary solving of the debts' clearing problem
+Synthesis of Parametric Programs using Genetic Programming and Model Checking
+CriPS: Critical Dynamics in Particle Swarm Optimization
+A Parallel Memetic Algorithm to Solve the Vehicle Routing Problem with Time Windows
+Polyceptron: A Polyhedral Learning Algorithm
+Complex-Valued Autoencoders
+Non-Elitist Genetic Algorithm as a Local Search Method
+On Fast Dropout and its Applicability to Recurrent Networks
+A Primal-Dual Method for Training Recurrent Neural Networks Constrained by the Echo-State Property
+Network In Network
+Dropout improves Recurrent Neural Networks for Handwriting Recognition
+Fast Training of Convolutional Networks through FFTs
+Neuronal Synchrony in Complex-Valued Deep Networks
+Neural Network Approach to Railway Stand Lateral Skew Control
+A Machine Learning Model for Stock Market Prediction
+Global solar irradiation prediction using a multi-gene genetic programming approach
+Dynamic Move Chains -- a Forward Pruning Approach to Tree Search in Computer Chess
+Artificial Neuron Modelling Based on Wave Shape
+On the Sequence of State Configurations in the Garden of Eden
+Continuous Features Discretization for Anomaly Intrusion Detectors Generation
+Ant Colony based Feature Selection Heuristics for Retinal Vessel Segmentation
+Parsing using a grammar of word association vectors
+Application of Particle Swarm Optimization to Microwave Tapered Microstrip Lines
+Uav Route Planning For Maximum Target Coverage
+Evaluation of Image Segmentation and Filtering With ANN in the Papaya Leaf
+Memory Capacity of Neural Networks using a Circulant Weight Matrix
+Noise Facilitation in Associative Memories of Exponential Capacity
+Controlling Recurrent Neural Networks by Conceptors
+Similarity networks for classification: a case study in the Horse Colic problem
+Evolutionary Algorithm for Drug Discovery Interim Design Report
+A Physarum-Inspired Approach to Optimal Supply Chain Network Design at Minimum Total Cost with Demand Satisfaction
+The quasispecies regime for the simple genetic algorithm with ranking selection
+Missing Data Prediction and Classification: The Use of Auto-Associative Neural Networks and Optimization Algorithms
+Offshore Wind Farm Layout Optimization Using Adapted Genetic Algorithm: A different perspective
+Pure Strategy or Mixed Strategy?
+A Polynomial Time Approximation Scheme for a Single Machine Scheduling Problem Using a Hybrid Evolutionary Algorithm
+A Survey on Techniques of Improving Generalization Ability of Genetic Programming Solutions
+Mixed Strategy May Outperform Pure Strategy: An Initial Study
+Combining Drift Analysis and Generalized Schema Theory to Design Efficient Hybrid and or Mixed Strategy EAs
+How to Construct Deep Recurrent Neural Networks
+Learning Human Pose Estimation Features with Convolutional Networks
+The Sampling-and-Learning Framework: A Statistical View of Evolutionary Algorithms
+Swarm Intelligence Based Algorithms: A Critical Analysis
+True Global Optimality of the Pressure Vessel Design Problem: A Benchmark for Bio-Inspired Optimisation Algorithms
+Bio-Inspired Computation: Success and Challenges of IJBIC
+From ADP to the Brain: Foundations Roadmap Challenges and Research Priorities
+Multi-objective Flower Algorithm for Optimization
+Computational Optimization Modelling and Simulation: Recent Trends and Challenges
+A Novel Genetic Algorithm using Helper Objectives for the 0-1 Knapsack Problem
+Review of Face Detection Systems Based Artificial Neural Networks Algorithms
+Sparse Coding: A Deep Learning using Unlabeled Data for High - Level Representation
+A Denoising Autoencoder that Guides Stochastic Search
+Notes on Generalized Linear Models of Neurons
+Thoughts on a Recursive Classifier Graph: a Multiclass Network for Deep Object Recognition
+An effective AHP-based metaheuristic approach to solve supplier selection problem
+Influence of the learning method in the performance of feedforward neural networks when the activity of neurons is modified
+A Computationally Efficient Limited Memory CMA-ES for Large Scale Optimization
+One weird trick for parallelizing convolutional neural networks
+Probabilistic graphs using coupled random variables
+Evolution of Ideas: A Novel Memetic Algorithm Based on Semantic Networks
+Automated Generation of Cross-Domain Analogies via Evolutionary Computation
+Spectral Networks and Locally Connected Networks on Graphs
+A binary differential evolution algorithm learning from explored solutions
+Classification of Diabetes Mellitus using Modified Particle Swarm Optimization and Least Squares Support Vector Machine
+Spatial Neural Networks and their Functional Samples: Similarities and Differences
+A Network Intrusions Detection System based on a Quantum Bio Inspired Algorithm
+Training Restricted Boltzmann Machine by Perturbation
+Pulling back error to the hidden-node parameter technology: Single-hidden-layer feedforward network without output weight
+Hybrid Intelligent System A Self-Adaptive Network Protection System Using Soft Computing and Open-Source Tools
+Evaluation The Efficiency Of Cuckoo Optimization Algorithm
+Training Deep Fourier Neural Networks To Fit Time-Series Data
+Leveraging Evolutionary Search to Discover Self-Adaptive and Self-Organizing Cellular Automata
+A Multi-parent Memetic Algorithm for the Linear Ordering Problem
+A Memetic Algorithm for the Linear Ordering Problem with Cumulative Costs
+A Parallel Way to Select the Parameters of SVM Based on the Ant Optimization Algorithm
+On the saddle point problem for non-convex optimization
+Optimization of OFDM radar waveforms using genetic algorithms
+A Genetic Algorithm for solving Quadratic Assignment Problem(QAP)
+An evolutionary computational based approach towards automatic image registration
+An enhanced neural network based approach towards object extraction
+An Effective Evolutionary Clustering Algorithm: Hepatitis C Case Study
+Traversing News with Ant Colony Optimisation and Negative Pheromones
+Four Classes of Morphogenetic Collective Systems
+A Multi-threshold Segmentation Approach Based on Artificial Bee Colony Optimization
+Radial basis function process neural network training based on generalized frechet distance and GA-SA hybrid strategy
+A Comparison of Nature Inspired Algorithms for Multi-threshold Image Segmentation
+Presynaptic modulation as fast synaptic switching: state-dependent modulation of task performance
+Memorization in a neural network with adjustable transfer function and conditional gating
+Quantifying the Impact of Parameter Tuning on Nature-Inspired Algorithms
+Generating Sequences With Recurrent Neural Networks
+Average Drift Analysis and its Application
+Unsupervised Pretraining Encourages Moderate-Sparseness
+An 'alisis e implementaci 'on de algoritmos evolutivos para la optimizaci 'on de simulaciones en ingenier 'ia civil. (draft)
+On the Number of Linear Regions of Deep Neural Networks
+Learning Deep Autoencoders without Layer-wise Training
+Experimental Demonstration of Array-level Learning with Phase Change Synaptic Devices
+Online and Adaptive Pseudoinverse Solutions for ELM Weights
+ELM Solutions for Event-Based Systems
+Evolutionary Search in the Space of Rules for Creation of New Two-Player Board Games
+More Bang For our Buck: Quorum-Sensing Capabilities Improve the Efficacy of Suicidal Altruism
+ACO Implementation for Sequence Alignment with Genetic Algorithms
+Integration of a Predictive Continuous Time Neural Network into Securities Market Trading Operations
+Multi-task Neural Networks for QSAR Predictions
+Ant Colony Optimization for Inferring Key Gene Interactions
+Analyzing noise in autoencoders and deep networks
+Unsupervised Feature Learning through Divergent Discriminative Feature Accumulation
+A Hybrid Latent Variable Neural Network Model for Item Recommendation
+Maximizing Diversity for Multimodal Optimization
+A Flexible Fitness Function for Community Detection in Complex Networks
+Simulation based Hardness Evaluation of a Multi-Objective Genetic Algorithm
+Maximum Likelihood-based Online Adaptation of Hyper-parameters in CMA-ES
+A New 2.D Representation for Lymph Node Detection using Random Sets of Deep Convolutional Neural Network Observations
+Conceptors: an easy introduction
+A Hitchhiker's Guide to Search-Based Software Engineering for Software Product Lines
+Explicit Computation of Input Weights in Extreme Learning Machines
+Learning ELM network weights using linear discriminant analysis
+A Cascade Neural Network Architecture investigating Surface Plasmon Polaritons propagation for thin metals in OpenMP
+A hybrid neuro--wavelet predictor for QoS control and stability
+A swarm optimization algorithm inspired in the behavior of the social-spider
+Deep Neural Networks Rival the Representation of Primate IT Cortex for Core Visual Object Recognition
+Heterogeneous Multi-task Learning for Human Pose Estimation with Deep Convolutional Neural Network
+Neural tuning size is a key factor underlying holistic face processing
+An Evolutionary Approach for Optimal Citing and Sizing of Micro-Grid in Radial Distribution Systems
+A Heuristic Method to Generate Better Initial Population for Evolutionary Methods
+A Generalized Markov-Chain Modelling Approach to (1 lambda) -ES Linear Optimization: Technical Report
+Thermodynamic-RAM Technology Stack
+Committees of deep feedforward networks trained with few data
+Studying Collective Human Decision Making and Creativity with Evolutionary Computation
+A Quantitative Neural Coding Model of Sensory Memory
+Multi Circle Detection on Images Using Artificial Bee Colony (ABC) Optimization
+Discriminative Unsupervised Feature Learning with Convolutional Neural Networks
+Nonlinear Quality of Life Index
+copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas
+Expressive Power of Conditional Restricted Boltzmann Machines
+Dropout Rademacher Complexity of Deep Neural Networks
+Sequential Click Prediction for Sponsored Search with Recurrent Neural Networks
+A semantic network-based evolutionary algorithm for computational creativity
+Evolutionary Robotics on the Web with WebGL and Javascript
+Brain-like associative learning using a nanoscale non-volatile phase change synaptic device array
+Exponentially Increasing the Capacity-to-Computation Ratio for Conditional Computation in Deep Learning
+Intelligent Emergency Message Broadcasting in VANET Using PSO
+Exploring Task Mappings on Heterogeneous MPSoCs using a Bias-Elitist Genetic Algorithm
+An optimization algorithm for multimodal functions inspired by collective animal behavior
+Information Transfer in Swarms with Leaders
+Navigating Robot Swarms Using Collective Intelligence Learned from Golden Shiner Fish
+Dispersion and Line Formation in Artificial Swarm Intelligence
+Block matching algorithm for motion estimation based on Artificial Bee Colony (ABC)
+Supervised learning in Spiking Neural Networks with Limited Precision: SNN LP
+A Dynamic Simulation-Optimization Model for Adaptive Management of Urban Water Distribution System Contamination Threats
+Novelty Search in Competitive Coevolution
+Systematic Derivation of Behaviour Characterisations in Evolutionary Robotics
+How Many Dissimilarity Kernel Self Organizing Map Variants Do We Need?
+Continuous On-line Evolution of Agent Behaviours with Cartesian Genetic Programming
+Higher-Order Quantum-Inspired Genetic Algorithms
+Improving Performance of Self-Organising Maps with Distance Metric Learning Method
+Downscaling near-surface atmospheric fields with multi-objective Genetic Programming
+A Critical Reassessment of Evolutionary Algorithms on the cryptanalysis of the simplified data encryption standard algorithm
+Meteorological time series forecasting with pruned multi-layer perceptron and 2-stage Levenberg-Marquardt method
+A Proposed Infrastructure for Adding Online Interaction to Any Evolutionary Domain
+Deep Networks with Internal Selective Attention through Feedback Connections
+Charge Scheduling of an Energy Storage System under Time-of-use Pricing and a Demand Charge
+A Framework for Exploring Non-Linear Functional Connectivity and Causality in the Human Brain: Mutual Connectivity Analysis (MCA) of Resting-State Functional MRI with Convergent Cross-Mapping and Non-Metric Clustering
+Kernel nonnegative matrix factorization without the curse of the pre-image
+Optimization Under Uncertainty Using the Generalized Inverse Distribution Function
+A Comparative Study of Meta-heuristic Algorithms for Solving Quadratic Assignment Problem
+Deep Metric Learning for Practical Person Re-Identification
+Pixels to Voxels: Modeling Visual Representation in the Human Brain
+A Comparative Analysis for Determining the Optimal Path using PSO and GA
+A Novel Hybrid Crossover based Artificial Bee Colony Algorithm for Optimization Problem
+Artificial Life and the Web: WebAL Comes of Age
+Global optimization using L 'evy flights
+Improved Onlooker Bee Phase in Artificial Bee Colony Algorithm
+A Genetic Algorithm for Software Design Migration from Structured to Object Oriented Paradigm
+Quadratically constrained quadratic programming for classification using particle swarms and applications
+Convolutional Neural Associative Memories: Massive Capacity with Noise Tolerance
+Trainable and Dynamic Computing: Error Backpropagation through Physical Media
+Motor Learning Mechanism on the Neuron Scale
+An evolutionary solver for linear integer programming
+A Numerical Optimization Algorithm Inspired by the Strawberry Plant
+Level-based Analysis of Genetic Algorithms and other Search Processes
+A CUDA-Based Real Parameter Optimization Benchmark
+Implementation of a language driven Backpropagation algorithm
+Cognitive Aging as Interplay between Hebbian Learning and Criticality
+PCANet: A Simple Deep Learning Baseline for Image Classification?
+Codynamic Fitness Landscapes of Coevolutionary Minimal Substrates
+WebAL-1: Workshop on Artificial Life and the Web 201 Proceedings
+Robots that can adapt like natural animals
+Memetic Search in Differential Evolution Algorithm
+A Multi-Stage Supply Chain Network Optimization Using Genetic Algorithms
+Real-Time Traffic Signal Control for Modern Roundabouts by Using Particle Swarm Optimization-Based Fuzzy Controller
+Computing With Contextual Numbers
+The Case for a Mixed-Initiative Collaborative Neuroevolution Approach
+New crossover operators for multiple subset selection tasks
+Exploring the evolution of a trade-off between vigilance and foraging in group-living organisms
+Genetic Programming for Smart Phone Personalisation
+A Classifier-free Ensemble Selection Method based on Data Diversity in Random Subspaces
+Learning Multi-Scale Representations for Material Classification
+Cortical Processing with Thermodynamic-RAM
+Analysis of a chaotic spiking neural model: The NDS neuron
+Real-time emotion recognition for gaming using deep convolutional network features
+Brain: Biological noise-based logic
+Self Organization Map based Texture Feature Extraction for Efficient Medical Image Categorization
+Can Artificial Neural Networks be Applied in Seismic Predicition? Preliminary Analysis Applying Radial Topology. Case: Mexico
+On Optimal Decision-Making in Ant Colonies
+EURETILE D.3 - Dynamic DAL benchmark coding measurements on MPI version of DPSNN-STDP (distributed plastic spiking neural net) and improvements to other DAL codes
+Enhanced Estimation of Autoregressive Wind Power Prediction Model Using Constriction Factor Particle Swarm Optimization
+Swarm Intelligence Based Multi-phase OPF For Peak Power Loss Reduction In A Smart Grid
+Caffe: Convolutional Architecture for Fast Feature Embedding
+Cuckoo Search: Recent Advances and Applications
+Applications and Analysis of Bio-Inspired Eagle Strategy for Engineering Optimization
+Flower Pollination Algorithm: A Novel Approach for Multiobjective Optimization
+Cuckoo Search: A Brief Literature Review
+Bat Algorithm is Better Than Intermittent Search Strategy
+Structural bias in population-based algorithms
+Neural Mechanism of Language
+Recurrent Neural Network Based Hybrid Model of Gene Regulatory Network
+Memcomputing and Swarm Intelligence
+A KdV-like advection-dispersion equation with some remarkable properties
+EVOC: A Computer Model of the Evolution of Culture
+Learned-Norm Pooling for Deep Feedforward and Recurrent Neural Networks
+Short-term plasticity as cause-effect hypothesis testing in distal reward learning
+Arguments for Nested Patterns in Neural Ensembles
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
+Towards a Better Understanding of the Local Attractor in Particle Swarm Optimization: Speed and Solution Quality
+Application and Verification of Algorithm Learning Based Neural Network
+Analyzing the Performance of Multilayer Neural Networks for Object Recognition
+Multiple chaotic central pattern generators with learning for legged locomotion and malfunction compensation
+Context Aware Dynamic Traffic Signal Optimization
+RMSE-ELM: Recursive Model based Selective Ensemble of Extreme Learning Machines for Robustness Improvement
+Convolutional Neural Networks for Sentence Classification
+Towards a Calculus of Echo State Networks
+Storing sequences in binary tournament-based neural networks
+Neural coordination can be enhanced by occasional interruption of normal firing patterns: A self-optimizing spiking neural network model
+Augmented Neural Networks for Modelling Consumer Indebtness
+Performance Analysis on Evolutionary Algorithms for the Minimum Label Spanning Tree Problem
+Tunably Rugged Landscapes with Known Maximum and Minimum
+An Experimental Study of Adaptive Control for Evolutionary Algorithms
+Symbolic regression of generative network models
+Combining the analytical hierarchy process and the genetic algorithm to solve the timetable problem
+Particle Swarm Optimized Fuzzy Controller for Indirect Vector Control of Multilevel Inverter Fed Induction Motor
+eAnt-Miner : An Ensemble Ant-Miner to Improve the ACO Classification
+A Winner-Take-All Method for Training Sparse Convolutional Autoencoders
+Collaborative Deep Learning for Recommender Systems
+An improved genetic algorithm with a local optimization strategy and an extra mutation level for solving traveling salesman problem
+Building Program Vector Representations for Deep Learning
+A study on effectiveness of extreme learning machine
+A Deep and Autoregressive Approach for Topic Modeling of Multimodal Data
+An OvS-MultiObjective Algorithm Approach for Lane Reversal Problem
+Computing the Stereo Matching Cost with a Convolutional Neural Network
+Improving files availability for BitTorrent using a diffusion model
+Selection of Most Appropriate Backpropagation Training Algorithm in Data Pattern Recognition
+Deeply-Supervised Nets
+Virtual Electrode Recording Tool for EXtracellular potentials (VERTEX): Comparing multi-electrode recordings from simulated and biological mammalian cortical tissue
+TBCNN: A Tree-Based Convolutional Neural Network for Programming Language Processing
+A High-Level Model of Neocortical Feedback Based on an Event Window Segmentation Algorithm
+Domain Adaptive Neural Networks for Object Recognition
+Approximation errors of online sparsification criteria
+Spatially-sparse convolutional neural networks
+An Analysis on Selection for High-Resolution Approximations in Many-Objective Optimization
+Unsupervised Domain Adaptation by Backpropagation
+Combating Corrupt Messages in Sparse Clustered Associative Memories
+When Darwin meets Lorenz: Evolving new chaotic attractors through genetic programming
+MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation
+A Neural Networks Committee for the Contextual Bandit Problem
+Discrete Dynamical Genetic Programming in XCS
+Predicting Parameters in Deep Learning
+Brains and pseudorandom generators
+Do Deep Nets Really Need to be Deep?
+High-speed detection of emergent market clustering via an unsupervised parallel genetic algorithm
+Unbiased Black-Box Complexities of Jump Functions
+A Theoretical Assessment of Solution Quality in Evolutionary Algorithms for the Knapsack Problem
+Cortical spatio-temporal dimensionality reduction for visual grouping
+Randomized Memetic Artificial Bee Colony Algorithm
+Overcoming the Curse of Sentence Length for Neural Machine Translation using Automatic Segmentation
+An agent-driven semantical identifier using radial basis neural networks and reinforcement learning
+A Deep Learning Approach to Data-driven Parameterizations for Statistical Parametric Speech Synthesis
+Reservoir Computing using Cellular Automata
+Identification of Dynamic functional brain network states Through Tensor Decomposition
+Generating functionals for computational intelligence: the Fisher information as an objective function for self-limiting Hebbian learning rules
+Deep Sequential Neural Network
+Deep Directed Generative Autoencoders
+Term-Weighting Learning via Genetic Programming for Text Classification
+Contributions of natural ventilation on thermal performance of alternative floor plan designs
+Training Algorithm for Neuro-Fuzzy Network Based on Singular Spectrum Analysis
+Recognition of cDNA microarray image Using Feedforward artificial neural network
+Memcomputing with membrane memcapacitive systems
+Refined Particle Swarm Intelligence Method for Abrupt Motion Tracking
+An exact mapping between the Variational Renormalization Group and Deep Learning
+Multi-Agent Shape Formation and Tracking Inspired from a Social Foraging Dynamics
+Constructing Long Short-Term Memory based Deep Recurrent Neural Networks for Large Vocabulary Speech Recognition
+Enhanced Multiobjective Evolutionary Algorithm based on Decomposition for Solving the Unit Commitment Problem
+Non-parametric Bayesian Learning with Deep Learning Structure and Its Applications in Wireless Networks
+Evolvability signatures of generative encodings: beyond standard performance benchmarks
+Improvement of PSO algorithm by memory based gradient search - application in inventory management
+A Fast Hybrid Primal Heuristic for Multiband Robust Capacitated Network Design with Multiple Time Periods
+Initialization of multilayer forecasting artifical neural networks
+Learning deep dynamical models from image pixels
+A neural circuit for navigation inspired by C. elegans Chemotaxis
+Sub-threshold CMOS Spiking Neuron Circuit Design for Navigation Inspired by C. elegans Chemotaxis
+Towards the Evolution of Vertical-Axis Wind Turbines using Supershapes
+Learning classifier systems with memory condition to solve non-Markov problems
+How Crossover Speeds Up Building-Block Assembly in Genetic Algorithms
+Input anticipating critical reservoirs show power law forgetting of unexpected input events
+Deep Learning in Neural Networks: An Overview
+Uncertainty And Evolutionary Optimization: A Novel Approach
+Efficient On-the-fly Category Retrieval using ConvNets and GPUs
+Population Fluctuation Promotes Cooperation in Networks
+Racing to Learn: Statistical Inference and Learning in a Single Spiking Neuron with Adaptive Kernels
+Deep Unfolding: Model-Based Inspiration of Novel Deep Architectures
+Neuroevolution in Games: State of the Art and Open Challenges
+DeepSentiBank: Visual Sentiment Concept Classification with Deep Convolutional Neural Networks
+Entropy of Overcomplete Kernel Dictionaries
+Cuckoo Search Inspired Hybridization of the Nelder-Mead Simplex Algorithm Applied to Optimization of Photovoltaic Cells
+Random feedback weights support learning in deep neural networks
+Do Convnets Learn Correspondence?
+Convolutional Neural Network-based Place Recognition
+Evolving intraday foreign exchange trading strategies utilizing multiple instruments price series
+Trade-Offs in Exploiting Body Morphology for Control: from Simple Bodies and Model-Based Control to Complex Bodies with Model-Free Distributed Control Schemes
+Turn Down that Noise: Synaptic Encoding of Afferent SNR in a Single Spiking Neuron
+Accelerating the ANT Colony Optimization By Smart ANTs Using Genetic Operator
+Identification of Helicopter Dynamics based on Flight Data using Nature Inspired Techniques
+Using Ants as a Genetic Crossover Operator in GLS to Solve STSP
+Integrating Fuzzy and Ant Colony System for Fuzzy Vehicle Routing Problem with Time Windows
+Investigating the Role of Prior Disambiguation in Deep-learning Compositional Models of Meaning
+Diversity Handling In Evolutionary Landscape
+GreMuTRRR: A Novel Genetic Algorithm to Solve Distance Geometry Problem for Protein Structures
+Application of Multi-core Parallel Programming to a Combination of Ant Colony Optimization and Genetic Algorithm
+FGPGA: An Efficient Genetic Approach for Producing Feasible Graph Partitions
+A Parallel Genetic Algorithm for Three Dimensional Bin Packing with Heterogeneous Bins
+Pseudo Dynamic Transitional Modeling of Building Heating Energy Demand Using Artificial Neural Network
+Toward a Universal Cortical Algorithm: Examining Hierarchical Temporal Memory in Light of Frontal Cortical Function
+Model of Interaction between Learning and Evolution
+Attentional Neural Network: Feature Selection Using Cognitive Feedback
+Liquid State Machine with Dendritically Enhanced Readout for Low-power Neuromorphic VLSI Implementations
+Visual Sentiment Prediction with Deep Convolutional Neural Networks
+Hardware-Amenable Structural Learning for Spike-based Pattern Classification using a Simple Model of Active Dendrites
+Understanding image representations by measuring their equivariance and equivalence
+Kickback cuts Backprop's red-tape: Biologically plausible credit assignment in neural networks
+Scale-Invariant Convolutional Neural Networks
+Hypotheses of neural code and the information model of the neuron-detector
+Short-Term Memory Through Persistent Activity: Evolution of Self-Stopping and Self-Sustaining Activity in Spiking Neural Networks
+Solving the Periodic Timetabling Problem using a Genetic Algorithm
+A Weight-coded Evolutionary Algorithm for the Multidimensional Knapsack Problem
+Convergence Analysis and Parallel Computing Implementation for the Multiagent Coordination Optimization Algorithm
+Multi-agent across-neighbourhood search: a simple and efficient method for numerical optimization
+ero-bias autoencoders and the benefits of co-adapting features
+Adaptive Representations for Tracking Breaking News on Twitter
+Markov Chain Analysis of Evolution Strategies on a Linear Constraint Optimization Problem
+Systematic N-tuple Networks for Position Evaluation: Exceeding 0 in the Othello League
+Recursive Neural Networks Can Learn Logical Semantics
+Training Convolutional Networks with Noisy Labels
+Techniques for Learning Binary Stochastic Feedforward Neural Networks
+Deep Recurrent Neural Networks for Time Series Prediction
+First-Pass Large Vocabulary Continuous Speech Recognition using Bi-Directional Recurrent DNNs
+A brief survey on deep belief networks and introducing a new object oriented MATLAB toolbox (DeeBNet)
+Neural Machine Translation by Jointly Learning to Align and Translate
+A probabilistic evolutionary optimization approach to compute quasiparticle braids
+HD-CNN: Hierarchical Deep Convolutional Neural Network for Image Classification
+cuDNN: Efficient Primitives for Deep Learning
+SimNets: A Generalization of Convolutional Networks
+Understanding Locally Competitive Networks
+Neural Turing Machines
+Universality of Power Law Coding for Principal Neurons
+Addressing the Rare Word Problem in Neural Machine Translation
+How transferable are features in deep neural networks?
+Predictive Encoding of Contextual Relationships for Perceptual Inference Interpolation and Prediction
+Memcomputing NP-complete problems in polynomial time using polynomial resources and collective states
+Proof about Weakly Universal State Contracting Networks
+Scalability of using Restricted Boltzmann Machines for Combinatorial Optimization
+A Parallel Genetic Algorithm for Generalized Vertex Cover Problem
+Two Gaussian Approaches to Black-Box Optomization
+Seeding the Initial Population of Multi-Objective Evolutionary Algorithms: A Computational Study
+Scalability and Optimization Strategies for GPU Enhanced Neural Networks (GeNN)
+A review of Memcomputing NP-complete problems in polynomial time using polynomial resources (arXiv:111.)
+The inductive theory of natural selection
+End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results
+Fisher Kernel for Deep Neural Activations
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Using Artificial Neural Network Techniques for Prediction of Electric Energy Consumption
+Cells in Multidimensional Recurrent Neural Networks
+Provable Methods for Training Neural Networks with Sparse Connectivity
+Multimodal Transfer Deep Learning for Audio Visual Recognition
+Bach in 201: Music Composition with Recurrent Neural Network
+Quantum Deep Learning
+Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+Object Recognition Using Deep Neural Networks: A Survey
+Feature Weight Tuning for Recursive Neural Networks
+Unsupervised Neural Architecture for Saliency Detection
+CITlab ARGUS for historical handwritten documents
+Learning Spike Train to Spike Train Transformations in Multilayer Feedforward Neuronal Networks
+Optimization of Reliability of Network of Given Connectivity using Genetic Algorithm
+Recurrent-Neural-Network for Language Detection on Twitter Code-Switching Corpus
+MatConvNet - Convolutional Neural Networks for MATLAB
+GPTIPS 2: an open-source software platform for symbolic data mining
+Learning with Pseudo-Ensembles
+Sparse guided feature connections in an Abstract Deep Network
+Analysis of Optimal Recombination in Genetic Algorithm for a Scheduling Problem with Setups
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+Locally Scale-Invariant Convolutional Neural Networks
+Learning unbiased features
+Gene Similarity-based Approaches for Determining Core-Genes of Chloroplasts
+Representation of Evolutionary Algorithms in FPGA Cluster for Project of Large-Scale Networks
+Flattened Convolutional Neural Networks for Feedforward Acceleration
+Towards a constructive multilayer perceptron for regression task using non-parametric clustering. A case study of Photo- redshift reconstruction
+Deep Speech: Scaling up end-to-end speech recognition
+DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection
+Multiobjective Optimization of Classifiers by Means of 3-D Convex Hull Based Evolutionary Algorithm
+A theoretical basis for efficient computations with noisy spiking neurons
+On the Stability of Deep Networks
+CITlab ARGUS for historical data tables
+CITlab ARGUS for Arabic Handwriting
+Learning Temporal Dependencies in Data Using a DBN-BLSTM
+Compressing Deep Convolutional Networks using Vector Quantization
+Spread Unary Coding
+The Computational Theory of Intelligence: Applications to Genetic Programming and Turing Machines
+Study of the Influence of the Number Normalization Scheme Used in Two Chaotic Pseudo Random Number Generators Used as the Source of Randomness in Differential Evolution
+Crypto-Nets: Neural Networks over Encrypted Data
+Gradual training of deep denoising auto encoders
+Generative Modeling of Convolutional Neural Networks
+Reverse Engineering Chemical Reaction Networks from Time Series Data
+Simplified firefly algorithm for 2D image key-points search
+Detecting Epileptic Seizures from EEG Data using Neural Networks
+Qualitatively characterizing neural network optimization problems
+Self-informed neural network structure learning
+Move Evaluation in Go Using Deep Convolutional Neural Networks
+Classifier with Hierarchical Topographical Maps as Internal Representation
+Discovering Hidden Factors of Variation in Deep Networks
+Using Neural Networks for Click Prediction of Sponsored Search
+Scoring and Classifying with Gated Auto-encoders
+Permutohedral Lattice CNNs
+Why does Deep Learning work? - A perspective from Group Theory
+Incremental Adaptation Strategies for Neural Network Language Models
+SENNS: Sparse Extraction Neural NetworkS for Feature Extraction
+Striving for Simplicity: The All Convolutional Net
+Learning Activation Functions to Improve Deep Neural Networks
+Object Detectors Emerge in Deep Scene CNNs
+Half-CNN: A General Framework for Whole-Image Regression
+A Bayesian encourages dropout
+Multi-modal Sensor Registration for Vehicle Perception via Deep Neural Networks
+Occlusion Edge Detection in RGB-D Frames using Deep Convolutional Networks
+Generative Class-conditional Autoencoders
+Low precision arithmetic for deep learning
+Attention for Fine-Grained Categorization
+Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
+Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets
+Deep Fried Convnets
+Audio Source Separation Using a Deep Autoencoder
+Learning Non-deterministic Representations with Energy-based Ensembles
+Deep Networks With Large Output Spaces
+A Unified Perspective on Multi-Domain and Multi-Task Learning
+Target Propagation
+Fast Convolutional Nets With fbfft: A GPU Performance Evaluation
+Transformation Properties of Learned Visual Representations
+Learning Longer Memory in Recurrent Neural Networks
+Multiple Object Recognition with Visual Attention
+Improved Parameter Identification Method Based on Moving Rate
+Polyphonic Music Generation by Modeling Temporal Dependencies Using a RNN-DBN
+Unsupervised Learning through Prediction in a Model of Cortex
+Improving approximate RPCA with a k-sparsity prior
+Fast simple and accurate handwritten digit classification using extreme learning machines with shaped input-weights
+Spectral classification using convolutional neural networks
+Simple Image Description Generator via a Linear Phrase-Based Approach
+Disjunctive Normal Networks
+Discrete and fuzzy dynamical genetic programming in the XCSF learning classifier system
+Modeling with Copulas and Vines in Estimation of Distribution Algorithms
+Genetic Algorithm Modeling with GPU Parallel Computing Technology
+Somoclu: An Efficient Parallel Library for Self-Organizing Maps
+Toward the Coevolution of Novel Vertical-Axis Wind Turbines
+Auto-encoders: reconstruction versus compression
+Parallel Graph Partitioning for Complex Networks
+Building DNN Acoustic Models for Large Vocabulary Speech Recognition
+Learning to Generate Chairs with Convolutional Neural Networks
+An Evolutionary Optimization Approach to Risk Parity Portfolio Selection
+Teaching Deep Convolutional Neural Networks to Play Go
+Simulating a perceptron on a quantum computer
+Purine: A bi-graph based deep learning framework
+FitNets: Hints for Thin Deep Nets
+Random Walks: Training Very Deep Nonlinear Feed-Forward Networks with Smart Initialization
+An Analysis of Unsupervised Pre-training in Light of Recent Advances
+Neural Network Regularization via Robust Weight Factorization
+Contour Detection Using Cost-Sensitive Convolutional Neural Networks
+Joint RNN-Based Greedy Parsing and Word Composition
+Diverse Embedding Neural Network Language Models
+Learning linearly separable features for speech recognition using convolutional neural networks
+Exploring Invariances in Deep Convolutional Neural Networks Using Synthetic Images
+Learning Compact Convolutional Neural Networks with Nested Dropout
+Denoising autoencoder with modulated lateral connections learns invariant representations of natural images
+C-SVDDNet: An Effective Single-Layer Network for Unsupervised Feature Learning
+ADASECANT: Robust Adaptive Secant Method for Stochastic Gradient
+Learning Deep Temporal Representations for Brain Decoding
+Protein Secondary Structure Prediction with Long Short Term Memory Networks
+Image Super-Resolution Using Deep Convolutional Networks
+Sequence Modeling using Gated Recurrent Neural Networks
+An Experimental Analysis of the Echo State Network Initialization Using the Particle Swarm Optimization
+An Empirical Study of the L2-Boost technique with Echo State Networks
+Hostile Intent Identification by Movement Pattern Analysis: Using Artificial Neural Networks
+Sparse Deep Stacking Network for Image Classification
+Comparison of Selection Methods in On-line Distributed Evolutionary Robotics
+Introduction and Ranking Results of the ICSI 201 Competition on Single Objective Optimization
+Investigation of a chaotic spiking neuron model
+Photonic Delay Systems as Machine Learning Implementations
+Neural Implementation of Probabilistic Models of Cognition
+Nonlinear Model Predictive Control of A Gasoline HCCI Engine Using Extreme Learning Machines
+Stochastic Gradient Based Extreme Learning Machines For Online Learning of Advanced Combustion Engines
+Coevolutionary intransitivity in games: A landscape analysis
+Transferring Rich Feature Hierarchies for Robust Visual Tracking
+On the impact of topological properties of smart grids in power losses optimization problems
+Massively-concurrent Agent-based Evolutionary Computing
+A Neural Network Anomaly Detector Using the Random Cluster Model
+Particle swarm optimization for time series motif discovery
+On the Easiest and Hardest Fitness Functions
+Mesh Learning for Classifying Cognitive Processes
+Riemannian metrics for neural networks I: feedforward networks
+Riemannian metrics for neural networks II: recurrent networks and learning symbolic data sequences
+Active causation and the origin of meaning
+Competitive Learning with Feedforward Supervisory Signal for Pre-trained Multilayered Networks
+Attractor Metadynamics in Adapting Neural Networks
+Characterization and Compensation of Network-Level Anomalies in Mixed-Signal Neuromorphic Modeling Platforms
+Universal Memcomputing Machines
+Nonlinear dimensionality reduction of data by multilayer bootstrap networks
+Recurrent Neural Network Regularization
+Design Mining Interacting Wind Turbines
+Spatial Diffuseness Features for DNN-Based Speech Recognition in Noisy and Reverberant Environments
+Learning to Execute
+Parallel training of DNNs with Natural Gradient and Parameter Averaging
+Fuzzy Adaptive Resonance Theory Diffusion Maps and their applications to Clustering and Biclustering
+From neural PCA to deep unsupervised learning
+Domain-Adversarial Neural Networks
+On the Inductive Bias of Dropout
+Ensemble of Generative and Discriminative Techniques for Sentiment Analysis of Movie Reviews
+Variational Recurrent Auto-Encoders
+Training Deep Neural Networks on Noisy Labels with Bootstrapping
+Fully Convolutional Multi-Class Multiple Instance Learning
+Parameter Selection In Particle Swarm Optimization For Transportation Network Design Problem
+Convolutional Neural Networks for joint object detection and pose estimation: A comparative study
+Constrained Extreme Learning Machines: A Study on Classification Cases
+maxDNN: An Efficient Convolution Kernel for Deep Learning with Maxwell GPUs
+Deep Neural Networks for Sketch Recognition
+The Search for Computational Intelligence
+Evolutionary Artificial Neural Network Based on Chemical Reaction Optimization
+Real-Coded Chemical Reaction Optimization with Different Perturbation Functions
+Sensor Deployment for Air Pollution Monitoring Using Public Transportation System
+Optimal V2G Scheduling of Electric Vehicles and Unit Commitment using Chemical Reaction Optimization
+An Inter-molecular Adaptive Collision Scheme for Chemical Reaction Optimization
+Chemical Reaction Optimization for the Set Covering Problem
+Hybrid Orthogonal Projection and Estimation (HOPE): A New Framework to Probe and Learn Neural Networks
+Product Echo State Networks: Time-Series Computation with Multiplicative Neurons
+A multiset model of multi-species evolution to solve big deceptive problems
+Different approaches to calibration of nonlinear mechanical models using artificial neural networks
+Graph Partitioning for Independent Sets
+Monitoring Term Drift Based on Semantic Consistency in an Evolving Vector Field
+Massively Multitask Networks for Drug Discovery
+Gated Feedback Recurrent Neural Networks
+A Social Spider Algorithm for Global Optimization
+On the Dynamics of a Recurrent Hopfield Network
+Efficient batchwise dropout training using submatrices
+Deep Learning with Limited Numerical Precision
+The Benefit of Sex in Noisy Evolutionary Search
+MADE: Masked Autoencoder for Distribution Estimation
+Web spam classification using supervised artificial neural network algorithms
+Over-Sampling in a Deep Neural Network
+Applying deep learning techniques on medical corpora from the World Wide Web: a prototypical system and evaluation
+Analysis of Solution Quality of a Multiobjective Optimization-based Evolutionary Algorithm for Knapsack Problem
+Abstract Learning via Demodulation in a Deep Neural Network
+A Distributional Representation Model For Collaborative Filtering
+Exploring Transfer Function Nonlinearity in Echo State Networks
+Invariant backpropagation: how to train a transformation-invariant neural network
+DRAW: A Recurrent Neural Network For Image Generation
+Unsupervised Learning of Video Representations using LSTMs
+Measuring and Understanding Sensory Representations within Deep Networks Using a Numerical Optimization Framework
+Temporal Embedding in Convolutional Neural Networks for Robust Learning of Abstract Snippets
+F0 Modeling In Hmm-Based Speech Synthesis System Using Deep Belief Network
+Spike Event Based Learning in Neural Networks

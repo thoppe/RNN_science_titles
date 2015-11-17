@@ -1,0 +1,2900 @@
+Downlink Compressive Sensing for Constant Continuous Time
+Robust Compressive Sensing
+Analytical Model using Stochastic Modeling
+of Broadcast Channel with Random Filter Bank
+Multicarrier Adaptive Image Network Coded Uncertainty
+Analysis of Gaussian Interference Channel with Block Fading Channels
+On the Hard Distributed Storage Scheme for a Secure Wireless Networks
+Spatial Optimization for Competing Interference Channel with ML Decoding Algorithms
+New Information Geometry and Information Theoretic Model for Optical Flash Memories
+A Family of Multiple Half-Rate Message Protection
+Noisy and Optimal-Integer Forcing Algorithms on Polynomial Transform Subject Codes
+Asymptotics for Bi Directional Cooperation for Two-Performance in Flash Memories
+Any photon-Number Inequality
+Competitive Length Bounds for Constructing Lattice-Based Spreads for Multiuser MISO C-RANs
+Polar Codes
+Gossip based on the successive reverse bounds and the geometric bound
+ADMM
+Impact of Signal in Block Fading Channel
+Multicell Network-Modeling Reduction for Diversity Problems for Quadratic Informations and the Capacity Improvement
+Minimal Compressive Sensing for Secure Lossy Source Coding: A Theorem on Full Duplex
+Structural of Codes: Matrices Based on MIMO Interference Alignment
+Chaotic Estimation and Spectrum OFDM
+Information Spectrum and Recovery of Variable-Packet Network Coding
+Capacity Theorems for Amplify and Forward Relay Channels
+A Low-Complexity Full-Duplex Access Sensing Network Coding with the Relay Cooperation
+Security Measures of Correlated Random Hamming Statistics
+The randomness of Gaussian relay channels
+On Correlated Stopping Set Sums on Cellular Adaptation
+Capacity in Adaptive Algebraic Geometry Code Design
+On the Parameter Estimation for Random Approximation with Stable Multiplexed Synchronization
+The Handover Rate of Sample Size Channel
+Littlewood-based codes from compressed sensing
+Degrees of Freedom of Energy Harvesting Relay Channels
+Derivative Nonlinear Filters for Optimizing Distributed Coding
+A Diversity-Multiplexing Tradeoff of the 2-User MIMO Cascade Multicell MIMO Broadcast Channels
+On robust physics of quantum Lattice codes
+Distributed or sparse and number of random connectivity group coding using multi-way uniqueness expansions
+The statistical and power dimension of convolutional codes
+Spectrum Sharing and Sampling in Data Compression
+Interference Alignment for OFDM Systems
+Secondary Optimization in Two-User MIMO OFDM Environments
+The Error Probability of Local Constrained Source Coding
+On the Optimality of Group Decoding Scheme for Bent-Negabent Fixed Points with Perfect CSI
+Eigenvalue bounds in regular time series
+Symmetric MIMO Interference Channels
+The Generalized Diversity-Multiplexing Tradeoff-Receiver via Example Property
+A New Results on Locally Improved Spectrum Cooperation with Outdated RS-Energy Maximization for Random Linear Network Coding
+Random Optimality of Multi-User Performance Analysis: Effect of the Fidelity of Network Coding for Multiple-Access Channels
+Random Coding for Arbitrarily Varying Shift-Invariant Matrices
+Universal Model for General Multi-hop AF Relay Networks
+Explicit Doubly-Dispersive Codes
+Polar codes in possible turbo codes
+Optimality of MRC Receiver Sessions in Wireless Networks
+Characteristics and Decoding of Multiuser Relay Networks
+Discrete and Control in Wireless Sensor Networks
+Tracking f-Code Based Data Processing Protocols
+Block control in Frequency-Selective Feedback
+Spatial Interference Alignment for Cognitive Radios with Memoryless Channels
+Effective Efficient Scheduling in Wireless Channels in Gaussian Modulation
+A Potential Models and Their Spectrum Access and Its Achieving Multi-Feature Fading Channel under Quantum Cognitive Radios
+Underlay Cognitive Radio Relay and Relay Networks
+Distributed Queueing Shaping
+Collective Interference Mitigation Coding for Multiple Antenna Gaussian Interference Channels
+Distributive Problem from Adaptive Linear Receivers
+Universal LDPC Codes
+Successive Secrecy Rate Tradeoff over the Presence of Interference Channels
+Multi-Antenna Interfering Wireless Energy Transfer for a Nonlinear Fourier Transforms
+Statistical Mechanical Formalism of Sparse Channel Output Feedback
+Advanced Isometry Approach to Two-User Group Testing
+Repeat-Activation Codes for Continuous Time over the Multiuser OFDM Systems
+Code Construction for Compressed Sensing with Dictionary Flows
+Robust Compressive Sensing in Random Block Codes
+A Practical Approach to Relay-Assisted Filtering of Period Distributions and Randomnes
+A Novel Sparse Matrix Construction of Parameter Quality-Error Correction for Relay Channels
+Energy Efficient Localization in Multi-cell Networks with Partially Distributed Antennas
+Channel Dynamic Sensing in Multiuser Gaussian Interference Network with Low Delay Performance
+Achieving Universal Lattice Decoding for Cooperative Communications
+Upper Bound on Fourier transform noncommutative schemes
+Successive Interference Cancellation for Multiuser MISO Systems
+Delay-constrained Cooperation and Robust Network Coding in MIMO Gaussian Channels
+Inter-atom Interference Management in Uncorrelated Channels over the Relay Networks
+Degrees of Freedom of Multiuser MIMO Broadcast Channels
+Exploration of Complex Systems: An Achievable Rate Regions for Linear-Programming Decoding
+Cooperative Spreading over Noisy Networks
+Universal to Nonuniform Cooperation Correlation codes
+On Entropy Monotonic Algorithms
+On the Binary Symmetric Gaussian Interference Channel
+A new rate of Boolean functions by a coding theory for compressive denoising based on nonlinear view of many functions and reconstruction and bits from the sample power
+Random Matrix Monotonic Characterizations
+Full Diversity Analysis for Co
+Sequential Degrees-of Freedom of Three-Phase Regime Model
+Integer Flows Loss and Complex Orthogonal Matching Pursuit
+An Overview of LDPC Codes
+Symmetric Quantized Retransmission
+New Complexity of Sidelobe Can
+Iterative Filter Based on Gaussian Relay Channels
+A Cell Association in Fading Channels with Application to Secrecy Capacity
+Joint Residual-Pass Network Coding for Multiple Beamforming over Gaussian Reading
+Construction of non-cyclic codes
+generating Robust Bits
+A Priority and Partial Decode-and-Forward Tradeoff for Routing Method Under Model to Heterogeneous Networks
+Asynchronous Relaying in SISO OFDM Systems
+Physical Layer Network Coding under Linear Network Coding
+The Three-User Weighted Functions and Weights of the binary symmetric Gaussian Relay Channels
+Shannon independent Entropy
+Support Diversity Evolution for Linear Precoder Systems
+Distribution of Bi-Directional Primary and Multi-User Linear Machine Networks
+Cooperative  with Structured Processes
+A Effective Encoder for Coverage in Block-Sparse Multiaccess Channel with Noisy Information
+A Survey
+Constructions of Fading Graphical Models with an Energy Efficient Progression via Non-Orthogonal Multiple Observations
+Novel Channel Estimation for Opportunistic Beamforming for Multiple-Output Multiple-Antenna Multiaccess Channels
+Robust Sparse Methods for LDPC Convolutional Codes for N Iterative Decoding
+Coupled Coding and Relay Antenna Arrays
+New construction-for communication over the Quantum in-Battery Probability of Channel Experiments
+A note on distributed strong converse power control for linear dimensional convolutional codes
+Power Control and R coded Two-Receiver Based Hidden Markov Process Sessions
+Second-Order Algorithms for M-joint Unitarily Random Hamming Codes
+The syndrome of quantum channel capacity of the reliable length
+Categories and its application to computing maps
+New From a Linear Linear Continuous Values
+Near-optimal-based Learning (complex irregular small value distribution
+Analytical Analysis of Multiple Output Quantum Channels
+New Cyclotomic Hypercontractivity
+Low Complexity Gaussian Coupling for Limited Wireless Networks
+Distributed Resource Allocation in Multi-Hop Systems
+Exploration Property for Space-Time Codes from Coherent Channel in Wireless Information and Power Transfer
+On Lattices for Binary Differential Users of Cognitive Radio Networks
+Capacity Scaling of Individual
+wireless Information and Power Transfer in Two-way Fixed Regime
+Fountain Codes
+Joint Communication- Part I: An Analysis as a Novel Large Deviations Approach
+Statistical Mechanical Approach for Graph
+Constructions of Classical Optimal Subcarrier Systems: a Coin Case for Linear Progression Protocols for Iterative Interference Mitigation
+Compressive Sensing Is free classifiers and the Differential Generator and Matrix Completion
+Message-Passing Algorithm for Relay-Limited Full-Duplex Orthogonal and Permutation Topologies
+and
+Guessing Random Matrices
+Secrecy Capacity Bounds for the Cognitive Channel
+Universal coding for adaptive List Decoding of Linear Equalization in MIMO Wiretap Network
+Compressive Sensing: A Rate-Loss and Feature Antennas
+Medium Access Control for Wireless Sensor Networks
+Spatially Coupled Sequences by Principle
+Automorphism groups of no problem control
+Explicit from binary wireless sequence structures
+On The Capacity of Asynchronous Cooperative Wireless Networks
+Linear Fixed-Rate Low-Density Parity Check Codes
+Successive Cancellation in One-Error-Correction Protocol By Coding
+Decode-and-forward Multi-Domatic Wireless Cellular Networks with Multi-Antenna Using Channel State information
+A-Novel Linear Equation Processing
+Information-theoretic Optimization for Sparse Matrix Quantization
+Writing on Weighted Three-Hop Interference Channels with State-Known Function
+Nonlinearities and Self-dual codes for single-map channel with delayed state evolution
+wireless detectors with multiuser size solution
+Diversity-Maximized Resource Coordination Optimization for Finite-Limited Interference Channels
+Diversity in Case
+Approximate Weight Algorithms for Millimeter Wave Cellular Networks
+Repair Design for Active Set Relative the Scheme
+Complex Synchronization and Wireless Cooperative Networks
+Codes and their Correlation Framework
+Compressive sensing and analysis of Some Faults Large Systematic Polynomials via Convex Optimization
+Capacity Estimation of Interleaved Coded Multiple Beamforming
+Energy Efficient Optimization of Linear Deterministic Cooperative Layered Broadcast Channel with Correlated Interference
+Multiuser Time-Frequency Hopping Algorithms in Communications Systems
+Protocol Using Cyclic Codes over F q e
+On Statistical Mechanics
+Generalized Deception Algorithms For Compressed Sensing via Random Scaling Laws
+The Gaussian Multiple Access Relay Channels
+A Novel Power Control and its Relation to Block Framework
+The Capacity Approximating the Relationship
+On the Stability Analysis of the-Node Classical Diversity Multicasting Over MIMO Relay Channel
+On Constructing the Approximate Message Passing Compression
+A Video Channel-Weight Codes
+Secure Communication Communications Systems
+Sharp ball
+Base station deletion channel separation
+Generalized Linear MSE Multi-access Protocols for MIMO-OFDM Signal Systems
+Side-Information in Linear Multiple Access Channels
+Unified Generalized Bayesian Models of Unknown Sampling Complexity
+New Capacity Region of Three User under a multi-stream and relay structures
+On the Effect of Side-Information in Wireless Telemonitoring for Non-Binary LDPC Codes
+Consistency in Random Coding Over Restricted Isometry Property
+an O)
+an Explicit Extremal Unicast Observations: Power and Applications to Shannon Entropy
+Efficient Control in Cognitive Wireless Networks
+Cognitive Asymptotics for Sparse Signal Recovery
+A Tight Loss Relationship between Proactive Quantization Algorithm Using Compressive Sensing
+Successive and Throughput of a Energy Harvesting Communications - Part II: Random-Systems
+An Energy-Efficient Vector Quantized Decoding-for Block Classification Robust Binary Search
+Asymptotics using the Support in Distributed Storage
+Scheduling theorem on the Fluid impairments and an algebraic curve constraint
+Generalized Projections of Hopping Codes from Orthogonal Matching Pursuit
+Non-binary Recovery Conditions for Secret Key Generation
+Coding schemes for optimization and non detection path
+Entropy and power control via L-1 codes
+Multi-Stage Reduced-Rank Error Processing for the BEC
+Joint Estimation of Tree-Structured Localization: Mixed Moments
+Polar Codes with Probabilistic Construction
+A New Rate Distortion Function in the erasure channel with delayed -Switching
+Beamforming is Successive Relaying Protocols for Network with Arbitrary Families
+The Throughput in a Distributed Antenna Systems with Probabilistic Equalization
+Short Codes for Large MIMO Precoder
+Fast Dictionaries Using Noisy Carrier Processing
+Slow-Coupled Cooperative Communications in Fading Routing by Large Gauss-Markov Network Measurements
+Powers
+By maximal 2n an upper bound of the Gaussian theorem on spatial correlated systems with binary sequences
+Adaptive Index Coding for Signal Reconstruction
+Improved Quantum Information-Theoretic Analysis for Heterogeneous Decoding and Equivalence
+Analysis of sparse signal recovery for multiuser networks
+Optimal robustness of the minimal distance divergences that groups to a causal and sparse-signal recovery
+Polar Codes for Multiuser Optical Wireless Systems
+Systematic and Opportunistic Interference Alignment Strategy for Probabilities
+The Delay Matrix Programming and Secrecy Capacity
+Iterative Wireless Sensor Networks: A universal decoding of spectrum sensing for long dual codes
+Controller look correction and identification of Group Phase Modulation and Mutual Information and Loop Calculus and List-Decodable Sparse Graphs
+Classical vs. approximate message passing based on the capacity and the information sets for the length coding and wise decoding
+Bounding information of a class of bandlimited spaces
+Exploring Secondary Structures
+Interference Channels with SDMA and Secret Key Agreement Wireless Network
+Toward Sharp Inequalities for broadcast Channels under a Relation
+Network Coding and Multiple Relay Coding under Networks
+Secrecy in a Cooperative Relay Networks with Cochannel Interference
+Non-Asymptotic Optimal Redundancy-Solution for Filter Banks Through Interference Models
+Entropy power inequality capacity in cognitive relays from classical cases
+Expected Rank Codes
+Single-Source Combination of Message Passing Coded Protocol Under Computation
+On the Minimum Dependence Constrained Outage Analysis of Low Limiting Transmit Cooperation
+On the Average Based Communication with Stochastic Sequences
+Design of Physical Layer Network Coding using Clustered Spatial Cooperation
+Guessing a Novel Vector-Assisted Side Information
+Decentralized Degrees of Freedom in Wireless Networks: Aided Training Error Exponents in Multiuser Diversity
+Probabilistic Approach to Gaussian Spectrum Sharing in AF Relay Channels
+Wireless Communications with Small Currents
+Codes with Generalized Key Distributions
+Fundamental Limits and Feedback for Interference Random Networks Using Fourier Transforms
+Sampling Spectrum Sensing Algorithm
+Low-power selection and Universal Coding for non-dimensional random matrices
+Robust Quantum and Tuning with Limited Constellations
+Noiseless constructions of a any information theory and linear statistical inference
+Opportunistic Wireless Channel Sensing using Codes Adaptation in Massive MIMO Systems
+Complexity and Helleseth Bounds for Correlated Interference in Multi-Antenna Beamforming for Impact of Multi-User Detection
+Spectrally Efficient-Information Flow
+Information in energy harvesting and communication problem
+Robust Delay in Spatial Correlated Gaussian Networks
+Cross-correlation sparse coding of Many-variable quantum erasure channel exponents over finite fields of some linear constraint
+Way Product Constructions of LDPC Codes
+Distributed Source-Channel Coding for the Low-Complexity Calculation
+The Multiple Access Channel
+On quantum classical quantum channels
+Random Capacity Achieving Constraints and Overlapping Group Representations
+Randomly correction for parameters of simulating finite wireless networks
+When the Performance and Mutual Information Video Strategies in Interference-Limited Networks
+Low-Rate Full-Duplex Two-way Field Estimation
+Low-Complexity Full-Diversity Spatial Modulation in a Networks with Norm in the DoF of the MIMO Interference Channel
+How linear problems of Linear time block codes in the group codes
+On Diversity Analysis of Multi-Antenna Multi-Antenna Mobile MIMO Systems
+Bayesian Framework for Fundamental Feedback for the Multi-user Diversity and Capacity Theorems
+Multi-Antenna Power Control Theory Reconstruction in Massive MIMO in an Additive Rayleigh Fading
+Hybrid-ARQ Division Multiple Access Channels
+Capacity-Achieving Random Access Networks with Independent Data
+A Simple Source Coding and General Spatial Channel Formalism
+The Equivalence method for Beamforming for MIMO OFDM Systems
+Performance of Unified Recovery Conditioning in Sessions
+A Closed-Form Lossless Coding under Collision Networks
+Information Theoretic Behavior of Lattice Reduction-Aided Green generalization
+On Modeling and Delay of Limited Receiver Antennas
+Low-Rank Spatial Multiplexing of OFDM Systems with Multiuser MIMO Detectors Algorithms
+New Finite Constraint Localization: Sparsity Projections
+A Non-Causal Source Network Coding Algorithm for Network Coding
+The Restricted Isometry Property in of Multiclass Block Variables
+Inner and On the Generalizations of Trellis Based Spectrum Sensing in a MAC
+Polynomial-low Device-to-Device Communications via Resource Allocation in Gaussian Multiple Access Channels
+Optimal Flash Channels
+On Optimal Spectral Efficiency Problem
+Resource Allocation for Storage Regenerating Codes with Gaussian Multi-MAC
+Exploration of Maximum Likelihood Decoders for Low Density Parity Check Codes
+Coding Gain in the Multiple Source Matrix Completion
+Sparse Linear Vector Channels
+Enhanced Approximate Sphere Decoding for Sparse Matrix Recovery
+Generalized Range Measures for Heterogeneous Outer Bound for the Gaussian Interference Channel with a Cognitive Relay
+Channel coding over noisy channels
+On Quadratic Residue Codes from Noisy C-point Capacity
+Phase Transitions in Random Highly Decoding codes
+Modeling and Length Support Constraints in Wireless Sensor Networks
+Equivalence of Cyclic Codes over GF(q)
+Low-Complexity Stochastic Equalization with Properties
+Asymptotic Detection Theorems for Low-Delay Constrained Least Squares Measures
+Coverage of Poisson Cellular by Pairwise Interference
+Energy Efficient Mitigation for Shadowing Block-Fading Channels
+Computing Sparse Recovery
+List-decoding of Helper Codes
+Sparse Solutions for the DoF of the Case  of the Sphere
+Distributed Space-Time Block Codes for MIMO Communications
+Some New Class of Mobile Ad Hoc Networks
+Secure Dynamic Cooperative Relay Communication Channel Capacity
+Strong Support Recovery for Clipped Synthesis and Resource Allocation in OFDM Networks
+Performance Analysis of Bi-Directional Encoding for Sparse and Spatial Resources
+Multi-Relay Selection Collection Rate Spectrum Sensing for the Binary Relay Multi-cell Networks with Generalized Maximum Likelihood Diversity Turbo Codes
+MMSE decision making for Beamforming for Wireless Content Networks
+Accessible Frames
+Distance Measure for Fisher Information Optimality for Tailbiting Codes
+Modulations and a Random point method for the Gaussian relay channel entropy problems
+On Beamforming for MIMO AF-Relaying with A Cooperative Resource Allocation and Receive Programming
+Non-matrix Complexity of Alternating Continuous-Variable Quantum Channel Uncertainty
+Diversity of MIMO Systems via Information Inequality
+Local Wireless Beamforming for High-rate Wireless Networks Scheme For Deterministic Downlink Channels
+Cooperative Spectrum Sharing Across Timing Observers
+Spatially Coupled Systems over the Interference Channel with Instantly Connected Interference Alignment
+Downlink Performance Improvement of MG-SNR Network
+Multi-Antenna Target Process Theory
+On the Shannon Matrix With Gaussian Cooperation
+The Generalized Lattice Reduction-Limited Values of Unitary Spectrum
+Resource Allocation for MIMO-OFDM Systems with Incremental Redundancy
+Restricted Isometry Property of Bidirectional Relays
+Direct Reduced-Symmetric Domains Built on Optimal Power Allocations
+Decoding Algorithm for Analysis of Large-Scale Sensor Networks
+Low-Complexity List Decoding of Noncoherent Nakagami-m Fading Channels
+Recovering Performance with Low-Precision Mechanism on Filter Bank Optimal Data Statistics
+Robust Signal Space Optimization with Dual Interference Cancellation
+Compressive network coding with a fixed analysis coding
+Capacity of Network Coding
+Full Duplex Network Coding with Arbitrary ACK
+Energy Efficient Network Coding in Wireless Sensor Networks
+Multi-Flow Optimizing Base Station Multi-cell Networks with Partially Non-Weight Codes
+A Rayleigh Block Codes from About the Restricted Isometry Property
+Compressive Sensing by Minimum Minimization
+Multi-Stage Sensing Modeling and Opportunistic Encoders for Adaptive Layered Communications
+A statistical-proof coding theorems on receivers to but error exponents
+Weighted ell 1 -minimization for based cooperative Communication in Wireless Networks
+Joint Source-Channel Systems with SNR Capacity
+The Rank Estimation for incoherent and orbit codes
+Authentication over Networks
+Reliable Communication: Sampling Generated and Locally Repairable Codes for Random Multiple-Access Relay Channel and Joint Group Testing
+Capacity achieving the group testing and dynamic processes
+The Symmetric Bit Interleaved Coded Multi-Channel State Information at the Communication Systems
+The Energy Allocation for Energy Harvesting Cooperative Networks with Delayed CSIT
+Cyclic codes with projective property of the gaussian broadcast
+Recursive Retrieving Decomposition Diversity Problems
+On Companding Non-Regenerating Codes for Mobile Sensing MIMO Channels
+Finite-Length Coding Mechanism for Multi-hop Networks with Intermittent Spatial Coupling
+Cyclotomic classification and entropy power inequalities
+Regularized Key Size Properties for MIMO Direct-Impulse Radio UWB Lattice-Based Quantization
+Implementations on the Estimation Estimation of Sparse Recovery
+A Union Distribution of a Stationary Division and Multiple Access Channels
+A New Analysis of Multiuser Systems: A Phase Transitions Theory
+The Generalized Approximation of Entropy Kernels
+Power control in Flow Range Estimation from Quantized Estimation
+Multi-Terminal Subspaces and Its Full Diversity Quantized Interference Alignment
+Doubly Smoothing and Belief Propagation in Random Networks
+On Improved Approximation zero-Different-Architecture for Maximal Ratio Compression
+Free Likelihood Transmission Protocols in Multiuser MISO Multi-Carrier Cognitive Radio Networks: A Unified Line Communication and Bayesian Approach
+A game-theoretic universal coding for interpolation cellular coding over a symbol level Transform
+Secure and State Space Theory via Rate-Distortion Function
+Delay-Tolerant Space-Time Block Codes for Large Source Correlation
+Numerical Linear Receivers in Large-Scale MISO Systems with Rate Distortion Function and Overhead
+Performance of Worst-Case Estimation of Cloud Radio Access Networks
+Self-antenna Causal Caching
+On the Performance Analysis of Long Low Time Channels
+On network coding for linear system MDS model
+Performance of MSE-User Beamforming with Multiuser Sensor Nodes and Precoder Design
+An Achievable Degrees of Freedom in Interference Channels
+Providing Encoding in Dirty Paper
+A Shift-Sequential Orthogonal Matching Pursuit
+Analysis of LP-Decoding Algorithms for Cooperative Strategy for Network
+Conversion of Lattice Reduced-ring Techniques of Gaussian Interference Channels
+Aging Noise with Partial Information Rates
+A Rate-Distortion Function
+Green Cellular Networks with Applications to Coding Scheme
+Sparsity Algorithms for Probabilistic Random LDPC codes for Lattice codes
+Information Resolution for Spectral-Efficient Access Control
+Towards the Delay Analysis of Closed-Form Populations Based on the Analysis of Basis Pursuit
+Resource Allocation for Two-way Cooperative Networks-Without and Noisy Channel For any Reed-Muller Codes
+Efficient Joint Resource Channel Coding for Polar Codes
+Coding Gains
+How to Flow Graphs
+Opportunism Uncertainty Sphere
+Concatenated Local Matrices
+Compressive Filtering Analysis for Stationary Gaussian Interference and Broadcast Channels
+Multi--Channel Error Rate of Unicast Coded Integer-Forcing using Index Coding Ensembles
+Capacity Region of the MIMO Interference Channels with Imperfect Channel State Information using Instantly Decodable Normalization
+Distributed Communication with Collocated CSIT
+New Results on Codes and network
+A Small Cell Transmissions Using Broadcast Channel with Successive Performance Analysis
+S-Repair Coded Discrete Memoryless Channels - Part II : the Discrete Memoryless Interference Suppression in the Dirty Multiple-Access Relay Channel
+Wireless Relay Networks with Large System Analysis
+Source Coding: An Information Theoretic Bounds for Large-Scale Networks
+The capacity region of Gaussian MAC view
+MIMO Signal Method
+Identification to blind source-channel capacity
+Universal the Constructions of Generalized Distributed Data Compression and Sharing Low-Rank Matrices
+Novel and Non-Linear Operator Optimization via Statistical Channel Capacity
+Low-Complexity Cooperative Strategies for Low-Rank Matrix Recovery
+Constraint Constant-Weight Signal Typical Cooperation and the Equivalence Related to Primary CSI Leakage and Delayed Linear Beamforming Design
+Frequency-Selective Frequency-Selective MIMO Channels
+Extended Complete Parameters of Data
+Exploring Belief Propagation for Designing Cooperative Relay Based Cooperative Spectrum Efficiency
+The minimum Techniques for Generalized Directed Generalized Cryptography
+Optimal-Constrained Communication in an Energy Harvesting Side Information and Power Transfer
+LDPC Codes
+Modified-Cram 'er-Rao Bounds on Graphs
+Spectrum Efficient Throughput in Multiuser Precoding in Sensor Networks
+An-Uniform Techniques for The Spatial Information Constrained Sources
+Channel State Mergings
+Bilayer Optimization for Fading Environments
+Digital view of subsequences
+Impact of Molecular Communications
+Cooperative Broadcast Channel and the Throughput and Train Array Nonparametric Framework
+Geometric Approach
+Outage Graph Sparse Estimation in Wireless Information and Power Transfer
+Local Evaluation Bounds for Physical-Layer Network Coding: A Large-System Analysis and Achievable Degrees
+Efficient Rician Fading Channels with Distributed Storage Systems
+Measure and Upper Bounds for the Index Coding Exponents
+On Universal Reduced-Rank Random Matrices and Their Hermitian bit in cost
+Bounds on Relative information Theory
+Random Belief Propagation for LDPC Codes
+On a recursive security of s are interpolation codes
+Multi-access Channel
+Capacity under Feedback Systems with Adversarial Models
+An Empirical Clustering for Limited Multi-Dimensional Interference Mitigation
+From Rate-Distortion Functions and Resource Allocation
+A Complex System Approach to Constant-Modulus Codes
+On the Approximate Generalized Algorithm for Heterogeneous Network Coding
+Degrees of Freedom of a Class of Slow Fading Known the Channel
+A new lattice of a linear integer quantum noise
+Pilot Broadcast Estimation in Cooperative Communication
+Secure Two-dimensional Designs
+Fundamental Limits of Information Spectral Through A Single-Based Real-Interference Alignment Using Random Quantization
+Diversity of MIMO Systems With Multicast Relay
+Multiple Access Hybrid-ARQ Broadcast Channels With Imperfect Channel Inversion
+Channel Model for Random Number Generators
+Opportunistic Simultaneous Downlink Transmission Group Decoding
+Joint-Source-Channel Coding for Two-Way Relay Channels
+Superimposed Codes from Simple Multi-state Space-Time Block Codes
+Massive Sensing in Receiver with Low SNR Estimation in the Low SNR Regime
+Support Reconstruction Through Spatial Energy Efficiency in Wireless Technologies:
+Nature problem and Quantum Convolutional Coding
+Approximate Success Communication and Competitive Relay Selection
+for Erasure Channels: Optimal Power Allocation in Multiple Access Channels
+LDPC Codes by Using Smoothing Sparsity
+Structured Protocols for Random Networks with Identification
+Capacity Analysis: A Discrete Transformation in Different and Multi-Correlated Dense Wireless Secret Messages
+Estimation of the Effect of Cognitive Radio Design
+Reliable Dependent Spaces with Analog Equivalence
+Hardware Approach with Time-Diversity For Service Results
+Soft-Input Soft Output Scheme for Low-Terms of Equalizers
+Physics
+Modeling and Beyond the Polarization of Binary Classifications
+Minimal Reduced-Rank AES for Compressive Sensing
+Energy Efficient Multiuser Diversity for Wireless Communications
+Shannon Conditions for Low-Complexity Digital Signaling
+Phase transitions in wireless quantum channels
+Reduced-Rank Identifying System Design for FDM Downlink and Time Oblivious Multi-Power Constraints
+Simultaneous Wireless Security in Cognitive Radio Systems With Correlated Random Layering
+Sensing Based Distributed Detection for Frequency Search vs. Upper Bounds for Recursive Low-Density Parity-Check Codes
+Multipath Fading Channels
+Interference coordination in wireless networks
+Cost Superimposed Doubly-Cooperative Network Coding
+Broadcast and Energy Harvesting Wireless Networks-Causal-Diversity Frequency Offset Estimation
+Opportunistic Interference Protocols for Weak Source-Channel Coding Rates
+State Information as a Multiuser Relay Networks
+Degrees of Freedom Region of the Gaussian Interference Channels with Confidential Messages Based on Graphs
+Statistical mixture of linear codes
+Performance bounds for sparse code-and-forward MIMO Interference Channels using a Noncoherent Limited Random Access Using Different Algebraic Network Coding Techniques in Single-Hop Network
+Weighted sum Capacity of Wireless Networks
+Limited Feedback: Fusion of Linear Programming and Subgraphs
+Multi-channel Switched Decoding for Secrecy Using Symmetric Gaussian Interference Channels
+Energy Efficient Key Agreement Distributed Storage Systems
+On Distributed Power Allocation of Incremental Redundancy
+Cellular Communication
+Dense in the Dual of extended LDPC codes
+Reduced-Complexity Recovery In Good Codes from Randomly Spread Spectrum
+A New Double Division Buffer Matrices in Wireless Networks
+Bandit Overcomplete Polynomials over Networks and An Information-Theoretic Characterization
+Polar Codes for Layered Constant: Markov Correlated Channels
+Optimal Resource Allocation for Opportunistic Communication and Opportunistic Multi-Networks
+Equilibria on the Kolmogorov complexity of the expansion coding schemes
+A Broadcasting Decoding for Ad Hoc Relays in Pairwise MIMO Channels
+Analysis of LDPC Codes With Variable Decoding Algorithms
+Maximum-Likelihood Estimation of Minimal Distance Localization in Two-way Relay Channel
+Information Complexity of Mobile Multiuser Detection and Downlink Beamforming Algorithms
+Generalized Reed-Muller Codes Over a Compressed Sensing
+Vector Parameter Estimation for Multi-cell Relays with Protograph-Based Multicarrier Processing
+Robust Number of Generators over Wiener Phase Noise
+Explicit recovery for a hidden Markov Process Framework
+Model and Economic Structures for Sparse Recovery
+Fundamental Characterizations of Error Correction for Random Access Networks
+Weighted Sum-Rate of Binary Energy Harvesting Communications
+Joint World Approximate Massive MIMO Systems over All Parallel Coverage Channels
+Rate-Splitting Algorithms for Noisy Feedback by Sparse Factor Schemes
+Approximate message passing for the Sample Distribution of heterogeneous Distributed Storage
+Strategy for Compressive Sensing Via Semi-blind Channel Estimation for Multi-User MIMO Wiener Systems
+Lempel-Ziv language and Compressed Sensing using a MIMO-OFDM Systems
+Coding for Maximum Entropy and Sum-Relay Functions in Distributed Data Collection
+Efficient Multi-Flow-Flow Low-Rank Calculations for Indoor Uplink Cloud Radio Access MIMO
+Permutation-Decoding Problems in Homogeneous Distributed Transmission with Delayed Perfect Optimality
+On Binary Fusion Cyclic Codes on Graphs
+On the Small Results on a Multi-User Massive MIMO Uplink Channels
+A Partition Framework for Information Complexity of Subset Bounds for Strong Vector Gaussian Mixture in Diversity Multiple Access Channels
+On-the Price of Primitive Hypothesis Testing for Leaked Vector channels
+Power-law by Optimum multiple access systems
+Repair matrix recovery for ergodic capacity-Graph equations and its application to self-dual codes
+Asymmetric Channel Uncertainty of User Protocol
+Universal transmission complexity for a curves
+On Method for the Degrees of Freedom of MIMO F interference Channels
+Stability of Multilevel Polar Codes with Large Diversity
+Game-Theoretic Approach to the Weight Enumerator for Predicting Information theory
+Efficient Codes for Lossless Data Compression
+Polar Codes for a Random Graphs
+Markov-Chain Region of Time-Varying Wireless Networks
+Network Coding for Coordinated Beamforming on Cognitive Radio Networks
+Stable Block linear network coding and integer programming sequences
+Cooperative Communication Systems with Diversity and Cognition and random coding
+Joint Source-Channel Coding Networks
+From complex type flows using codewords
+A novel compressed sampling and super-resolution Models for the MIMO s-Constant Modulus communication
+Blind Interference Alignment Switching and Model of Inter-Cell Interference in Cognitive Radio Networks
+Can Self-Interference Suppression and Memoryless Interference Coordination in Multi-Dimensional Large MIMO Channels
+Closed-Form Symmetric distributed source coding using probabilistic graphical models in finite ratio and Rate Capacity distributions
+Applications of Coding for Cooperative Networks
+Superimposed Ergodic Classifications
+Sparse Recovery with Applications to Weighted Approximate Message Problem?
+Analytical Analysis of Coverage Control
+The Feedback Least Feature Wireless MAC for OFDM
+On optimal synchronization from complex systems using representations in Time via Concatenated Non-Adaptive less Noise
+Secrecy Achieving Compressive Sensing with Direct Quantum Communication Protocols
+Information-based Constructions for Variable-Degraded Message Passing
+A coding scheme for parameter estimation and robustness of optimal function via Rank-conditional and turbo codes
+Multiuser Multi- interference Model for Index Coding
+Bernoulli Power Control Approach to Detector That Power dynamics
+Low Complexity Escort Equivalence of Coverings using Sparse Recovery
+Transmitter and Tracking on Gaussian Broadcast Channels
+Active Intercell Interference Management for Random Wireless Networks
+Subspace Codes
+On the Composition of Multiple Broadcast Channels
+Polar codes for detectors over non-binary LDPC codes
+An Equivocation Theoretic Behavior of Coded Multi-Relay Networks with Un-Constant Source-Channel Relay
+Simultaneous codes for coded Noise in Nonlinear Codes
+Sharp Energy Efficiency Based on Conditional Quantized Channel Model and In
+Secrecy Side Information for Distributed Storage
+The Noisy Coding in Mobile Networks
+Achieving Exponential Unicast Estimation in OFDM Systems
+Practical Wireless Network MIMO Systems with Applications to Performance Analysis of Multi-Cell MIMO IR Systems
+Pilot-based Compressed Sensing with Binary Non-Binary LDPC Codes
+Statistical Performance of Erasure Channels with Noisy Feedback
+Large System Analysis of Long-codes from Gaussian Alphabets
+Correlation in Holographic computing
+The multiple connections to Quantum Information complexity
+Locating correlated smoothed from a constant layer dependence
+Robust Linear Codes from Orthogonal Frequency-Hopping and Opportunistic Interference Alignment
+Nonlinearity Privacy and Learning in MIMO Channel State Information
+Physical layer Network Coding with a Quantized Probabilistic Graphical Models
+Tractable Approach to Spatially Coupled Codes
+Alignment as encoders from all qubits
+The Secrecy Capacity of Interference Channels with Multi-Local Filter Detection and Cellular Networks
+To Fully Cooperative Encoding for OFDM Systems
+Asymmetric Quantum Orthogonal Matching Pursuits for Progressive Communication
+Linear-Receiver Beamforming for Multiuser Wireless Ad Hoc Networks
+Power-bounding decoding of the Energy Efficient Local Versions of the Comparative Impairments on Distributed Storage Systems
+Phase Retrieval for Union of Subspace Codes
+Adaptive Modulation in Multiple Exchange Wavelet and Receiver Design for Signal Constellations
+Two-way Wireless Communication Networks
+Spatial Interference Alignment for MIMO Gaussian Interference Channels: a delay Tolerance
+Construction of Coherence Conditions for Universally Diversity and Limitations
+Performance Analysis for Low-Feedback Rate Allocation for Sparse Multiantenna Multiuser MIMO Systems
+Delay On-the Benefit of Codeword Receivers in OFDM Based Cooperative Relay Channels
+On the Deterministic Constrained Random Linear Network Coding
+On unified Probabilistic Methods: The Shannon capacity Regions
+Beyond the High Throughput Full-Diversity Detection in Heterogeneous Relay
+Blind Noncoherent Fields
+Alpha Stochastic Control Problem
+Statistics Resilient Sphere Decoding for Correlated Amplify-and-Forward Two-way Relaying
+Overloaded Spatially Coupled LDPC Codes by Low-Rate Optimal Resource Policies for Cooperative Downlink System
+Low-Complexity Amplify-and-Forward Relaying in Wireless Networks
+Joint Uplink
+State-Based Beamforming for Heterogeneous Wireless Network Coding
+Analysis and Capacity Analysis of High-Dimensional Analog Linear Code Using Binary Sequences
+The 3-Receiver Diversity-Optimized Training Region of the Gaussian Interference Channel with Correlated Source Networks
+Low-Complexity Transceiver Designs for Constrained Constant Modulus Interference Channels with General Alternate
+Collaborative Spectrum Sharing
+Using F-divergences of Decoupled Processing of Z Transformation Based the Effect in MIMO Networks
+Interference Assisted Secure Low-Density Capacity of Gaussian Sources
+On Improves and Identity Framework
+Power Allocation for Uniform Binary Codes with Partial Systematic Models Hypothesis
+Network Coding for Interference Alignment for Feed-Forward with a Polytope Channel
+Estimation of a stable User of (N Q
+Graph Bound for Iterative Optimization Under Channel Estimation in Nonlinear Networks
+Improved Source and Channel Diversity With Cancellative Systems
+Optimal non-uniform system opportunistic scheduling
+Anti-Network Coding for Multi-Relay Networks Families
+Distributed Bounds on the Sum of Sources over AWGN
+Multi-User Communication with Uniform Flow Structure
+Power-laws from the Low and off-beta diagonalization for binary channels
+New Low-Complexity Decodable Codes in Deletion-Correcting Codes
+Huffman Code Source Allocation for the MIMO Gaussian Relay Channel
+Opportunistic Quantization with Low Information Storage Image Message Large-Distance Security
+Differential Approximation and Evaluation of The Large Deviations
+On the Secrecy Rate for the Energy Parameter Estimation in Circular Networks: A Functional Functions
+Performance Based Analysis of Joint Source-Channel Coding and Local Coupling
+Information theory and good incoherence and the predictability
+Symbol: Implications of Variable Length Code Designs and Compressed Sensing by Explicit Analysis of Time-Oracle Chains
+A Simple Search from Sparse Cognitive Theory
+Compute and Forward for Multiple Access Observations
+Asymptotic Capacity of Partially Coherent Wireless Networks
+Efficient Authentication and Local Balancing in Multicell Multiuser MIMO Systems
+A Game Theoretic Formula for Hybrid Index Coding
+Information Theory Derived from a Galois-Feedback Lattices
+Stable Laws for the Corrupted Sub-Nyquist Matrix Constraints
+Concatenated Coding for Multi-variate Message Based on Fixed-Pairs Kalman Full-Rate Multi-channel Coordination
+Binary Storage CSMA
+Wireless Network Capacity Scaling of Intersymbol Interference Channels
+Spatial Directional Codes: Principle of Spatially Mobile-Scale Base Stations
+Polynomial Repair Based on Locally Resolved LDPC Codes
+The Impact of Cooperation Strategies for Wireless Communications
+Interference Alignment
+Efficient Minimum-Distance Bounds for Linear-One-Point Localization over Linear and Non-Binary Polar Codes
+Dense Error Exponents in Large Multi-Dimensional LDPC Codes
+Cyclic Codes with in the fundamental parameter estimation
+On Distributed Good Outer Bounds for Intercell Interference Channel
+Analysis of LMMSE Receivers in Good Codes for Multi-User Cognitive Radio Networks
+Channel Quantization in Wideband LDPC Codes Revisited
+Weighting Parts L Entropy rate of Feedback
+Dynamic computation of inequalities for compressive sensing with order 2p
+Beamformers for DNA Wireless Networks
+Two-User Partial Single-Carrier Side Information in the Noisy Gradient Spaces
+Order Modulation for Nonbinary LDPC Codes
+Energy Efficiency in energy Harvesting Frames
+Analysis of Opportunistic Multi-User MIMO Relaying in Two-Way Relay Channels with Multi-Antenna Block-Fading Channels
+A New Theorem for Distributed Resource Allocation in Cooperative Networks
+Decoding Complexity Asymptotics for Asynchronous Hidden Markov Processing
+Coding of Multi-Cell Transmissions in Wireless Energy Transfer and Networks
+On the Channel Decoding for Signal Constellations Attacks
+From Lattices in Heterogeneous Vector Problems
+On Study of Z partition Flow: The MDS code of linear-level feedback in cellular networks
+Optimal Distributed Random Access with Nonlinear State-Output with Periodic Algebra
+Repair-Bandwidth and Power Allocation for Non-binary Underwater Channel Estimation
+Limited Feedback Game Access for Underwater Networks with Two-Way Write Channel
+Analysis Design in Nonlinear Regularization Systems
+Robustness of Multi-user MISO Interference Networks
+Secrecy Capacity of Capacity Region of Block-Fading Channels and Feedback
+A Lattice Reduction-Gain Based Super-Bounding Scheme
+Information-theoretic evaluation of sparse signal recovery
+On dictionary learning with Log probability
+Effect of Timing Circulant Capacity
+Maximum Likelihood Transceiver Algorithm for Secure Multicasting
+Algebraic constructing better approximations
+On Random Quantum Network Codes for UWB System
+Sparse Signal Recovery for Two-Tier Adaptive Multi-Antenna Interference Networks
+New Sparse Sparse Recovery
+Diversity Mask ISI Channels: Outage Analysis
+Sparse Recovery from Noisy Noisy Environments
+A hybrid reconciliation method for non-dimensional MIMO Interfering cellular Networks: Fundamental Limits
+Applications of optimal Joint recovery for random measurement approximation
+Matroid Polynomial in Coordinated Multi-source Networks
+The Gaussian Stationary Gaussian Bilinear Observations
+Recovering Network Coding Revisited
+Achieving the Solution of the Restricted Isometry Property
+On the Extremes
+A Generalized Basis Pursuit for Multiple-Access Channel
+Analysis of MIMO MIMO Interference Channel with Secrecy Constraints
+Regenerating Codes for Compressed Sensing
+Subsystem codes from characteristic
+MIMO Number of Track and Two-tier Games
+Relay Channel Estimation in Asynchronous CSIT
+Network Coding for MIMO Broadcast Channels
+Uniqueness in the Huffman Coding for Architecture
+Dynamic Sparse Models for Multicarrier Trellis Coded Cooperation
+Classical Quantum Capacity of the Different Dimensional Setting
+Matrix-Recovery of LDPC Codes
+BER Coding for the Gaussian Interference Channels with Interference Alignment
+Near-Optimal Quantum Sizes of Nonlinear Structures
+Capacity Region for Opportunistic Network Coding
+New Extremality of wireless networks with applications
+Worst-Case APN Functionals
+K-Network-Based A Precoding Results
+An Upper Bounds for Computing Efficient Quantization and Source Protocols for Multiple-A Sequences
+Optimal Estimation of Reed-Solomon Codes on Prefix-Free Realizable Linear Codes
+Modeling by Related Source-Channel Coding Algorithms for Recursive Full-Diversity Multi-Relay Channels
+Random access scheme for sparse signal recovery
+Hermitian Full-Diversity Full-Duplex Multi-user Cognitive Radio Networks
+On the Bayesian Matrix Sharing Requirements of Spatial Multiple Access Channels
+Degrees of Freedom Regions of Cognitive Fading Channels in Dense Wireless Systems
+Error-exponents for Pilot Codes
+Unique Weighting Model for Reciprocal Transmission in Networks
+Exploring Burst Errors Stable Linear Codes
+Mathematical Nonlinear Equations
+Scheduling Approximations of Denoising vs. Message passing with Opportunistic Scheduling
+Coded Subspace Expansion: Deterministic Matrices from Nonlinear to Interference Sum-rate
+On the Minimum Distance of Phase-Low-Rank Matrices via Spatial User Overlaid
+Subsystem Integer Contention Codes
+Structured Complete Wavelet Fails of Opportunistic Scheduling in Two-way Relay Channel
+Randomized Subcarrier Allocation in 2-D Complexity and Reed-Muller Codes
+Chaotic Model for Compressed Sensing for Distributed Storage
+Kalman Filter and its Application to Concatenated Codes
+Multi-User Detection
+Improved Data Rate of Spatially Coupling Relay
+Weighted Sum Rate Maximization in MISO Broadcast Channel and Routing Analysis
+Diversity versus Ergodic Source Allocation
+Unified Covering Products with Constrained Output Sources
+Subspace methods of Multi-Antenna Detection in Short and Fly Double Modulation of Quadratic Residue Codes
+On the Shannon Code Statistics Free Energy Properties for Cooperative Localization
+On Tensor Protocols for Linear Programming spectrum Systems in a MIMO Interference Channel
+Analysis Region of Correlated Intercell Interference Channels with Unitary and Outer Bounds
+Quantized Superposition Approach for on Multimode Diagonalization
+Secret Key Capacity of Differential Spectrum Sensing for Peak-to-Average Power Control Achieving Directed Information
+High SNR Transition for Gaussian Broadcast Channels in Multiple user and 5 Broadcast Relay Channels
+Weight Enumerator Design through Asymmetric Pairwise Directed Measurements
+An Enhanced Fundamental Limits of Femtocell Networks
+Full Case Spectrum Sensing in the Presence of Channel Inversion with Imperfect OFDM Encoders
+Optimal-spectral efficient network coding quantization: Restricted isometry constants
+MacWilliams Theorem for Linear Receivers
+Recovery of Cooperation
+Exploiting Low Rank Matrices and Finite-Length Pursuit Algorithms
+On the Average Super-Resolution for Sparse Recovery using Graphical Constraint
+Explicit Investigation With Distributed Antenna Systems
+Modeling Collision Compression of Algorithms
+Kolmogorov complexity and recursive compressive sensing and density principle to stochastic Domain
+An Amplify-and-Forward Protocol for Coordinated Shannon's Low-Density Parity-Check Codes
+Discrete Four error Exponents for Optimal Non-Coherent Capacity of Partially Learned Networks
+A Physical Analysis and Properties of Subspace Alignment for Localization
+Diversity-Average Function Channel Mapping for MIMO-OFDM Systems
+Re-Performance Evaluation of LDPC Codes for Multi-Level Coded MIMO-ARQ Protocols
+On the Scaling of Multiround Wireless Networks
+On Multiple Feedback-Based Integer-Forcing over Multi-User Interference Networks
+On Effects of Linear Time-Through Relays for Fading Cognitive Radio Networks
+Code Constructions for Binary Erasure Channels
+Repair for Finite-Length Codewords of Semidefinite Programming Models using Polar Codes Revisited
+Secure resource correcting codes
+On a identity of (Architecture problems
+Integer Space-Time Coding over Erasure Relay Channels
+Challenges of Gini-networks
+Quantifying Multi-stage Secure Downlink OFDM Based MIMO systems for MIMO Systems: A Simple Geometric Goodput In a Signal-to-Interference Channels
+Coordinating Stochastic Distributions: Combining Tail-Biting Sphere
+Coding Estimation With Coordinated Protocols
+Network Coding with Application to Compressed Sensing With Limited Estimation
+Non-linear Window-based Joint Reconstruction of the MIMO Broadcast Channel
+Recovering Bounds for Simultaneous Information and Power Transfer
+Mean-Square Expansion and Lossy Compression
+On covering radius of linear symmetric channels
+Harnessing Scalability of Local Multiterminal Source Coding
+Compressed Detection of Secure Two-Party Reduced-Rank Interference Networks
+Linear Optimization of Sparse Recovery in Strict-Relay Networks
+Doubly Cooperative Interactive Multicell Selection
+Optimal Power Allocation for Cognitive Radio MIMO-OFDM Diversity Protocols
+Non-weighted Self-orthogonal Space-Time Code that to Caching in Multiple Descriptions under Polar Codes: A Gaussian Inference Cancellation
+Distributed Protocol for Joint Discrete Memoryless Channels using Compressive Sensing:
+On the Sparsity Pattern Recovery in the Low Energy Efficiency and Cooperative Relaying Scheme
+An Overview of Block Memoryless Channel with PCA
+Near-Optimal Fading Channels with Noisy Constraints
+The Benefits of Computing Codes and its Application to Spatial Cooperation and Arbitrary over the Relay
+Coded Cooperative Relaying with Fading Channels
+Spectrum Sensing over Erasure Channels
+Estimation of Cooperative Antennas via Spatial Analysis in Distributed Space-Time Coding
+Explicit Pseudo-Codewords of LDPC Codes and Their Sphere Decoding
+Understanding Compressive Sensing in sensor networks
+Improved Power Allocation for a Receivers for Channel-Valued Channel with Confidential Messages
+MMSE and Multi-Trial Source-Channel Coding for Distributed Detection
+Multiuser Protocol for Achievable Source Multicast Networks: How Multiuser MIMO-MAC
+A closed-form-rank and fading quantum optimal least squares on not binary time series and power law shifts
+Generalization on the Architecture for Multicast Network Coding
+Network Compression
+Directed monotonic analysis for linear curves
+Cooperative Diversity of Intersymbol Interference Channels
+Network Index for Neuronal Coding of Lattices
+The Statistical Delay Tight Framework for Orthogonal Matching Pursuit with Adaptive Grouping Strategies
+Propagation in linear regression with at the converse for a quantum channel in noisy noise
+Effective Interference-Suppression via Detectors for LDPC Codes
+The Low Complexity Scheduling on Parallel Erasure Interference Channels with Low SNR Capacity Loss of Symmetric Interference Networks
+Interference and State Aspects of Statistical Mechanics
+Mixed Threshold-Maximization in Massive MIMO System in MIMO Channels
+Geometric MIMO Radar Based Analysis of Finite-Length Performance Analysis
+Group Codes from Binary MSR Error Correcting Codes
+Volume for Generalized Channel Quantization for Wireless Networks
+Symmetric Causal Quadratic Broadcast Channels Based on Complex Group Testing: Delay Support Scheme in MIMO-OFDM Transmission
+Properties of Type
+Asymptotic Geometry and Low-Complexity Primary Users and Cellular Security in Multiuser MIMO Systems
+Channel Model for Inter-Vector Precoder
+The Energy Efficient Regression in MIMO Channels: Uniform Uniform Random Network Coding in the Presence of Strong Conversion Problem
+Amplify-and-Forward Performance Analysis of Network Levels Part I: Two-stage Resource Allocation for OFDM Systems
+An Achieving MMSE Linear Transmission with Imperfect Channel Output
+Subspace Vector Quantization: Power Efficient Fading Environments
+Strong converse for the Half-duplex Wireless Networks
+Collaborative Secure Robust Principal Component Function constraints
+Constellations for Generalized Subspace Codes for Graphs and Efficient Storage
+Unified Graph Belief Propagation and Euclidean Functions
+Game Theory to Inverse Bounds of Polynomials over GF(4) from Joint Estimation
+Distributed Massive MIMO for Coding Schemes Under Correlated Random Processes
+Linear Precoding for MIMO AF Relaying with General Message Complexities
+Enhanced Interference Alignment for Multiuser MIMO Transmission-Free Sources
+On Block-Stationary Game and Reliability Scaling in Two-Way Wireless Fading Channels
+Second-Order Rate Distortion Function for Multi-Pair Training Interference Mitigation
+Blind Interference Alignment for Large-Scale MISO Channel Under Low rank and Filter Order Random Variables
+Joint Source-Channel Separation with Interference
+N-Run Network Local Correlations
+Entropy power inequality
+Large-Scale Cooperative Network Communication
+Non-Binary Erasure Channels: Embedding Non-Uniform-Mean Filter
+A Graph-Based Analysis of Weighted Sum Retrieving and Decoding and Additive Noise Channel and the Two Wireless Network Coding
+Coverage Region of Binary Erasure Channel
+Check Linear State Estimator for Spatially Coupled Codes
+Multiple Antenna Relay Selection at Sigma-Delta Nodes
+White Quantum Fading Channels
+Coprime Maximum Likelihood Decoding of Source Coding with Active Kalman Filtering Theory
+Polarization of a criterion for differential constructions for stationary measure principle in the Key method
+Full-Rate Power Control in Multi-Cellular MIMO-OFDM Systems
+Model for Sidelobe Sets Using Correlated Noise Terminals
+To Analysis and Kalman Filtering with LDPC Codes
+Efficient Algorithm for Complex Support Information and Power Transfer
+Capacity Regions of Image Scaling in Unlicensed Channel Training
+The physics of asynchronous data compression
+Multiple Access Channel with Additive White Noise and Performance Analysis
+Cooperation in Time-Varying Broadcast Channels
+A Sequential Combined Receiver via Covariance Matrix for Multiple Measurement Vectors
+Random Variable-length Quantum Key Distributions
+Lifting Strategies in Time-Level Matrix Based Cooperative Networks with Secondary Users
+On the Trade-offs of Covariance-Matrices and Constraint
+Eavesdropper Constraint
+On 2-d Optimization of Fading Channels
+Performance Analysis of Low-Rank Matrix Recovery Algorithms for Binary Alphabets
+The Probability of Information Inequality
+Uplink Circularly Wireless Energy Security
+On the Group lifting based model for iterative decoding problems in physics properties and functional equation
+Iterative Decoding of LDPC Codes for Asymmetric Quantum Outage Probability
+A Simple Coordination of Ergodic Base Station and Estimating a Mixture of Finite Programming Codes
+Dynamic Secrecy Capacity Theorems
+Optimal maximum-likelihood deletion channel with an energy efficient models of linear codes
+Source Coding with No parametric Hierarchical Successive Communication
+Message Passing Algorithm for Connectivity Analysis of Stationary Parallel Reconstruction Via Power Constraint Accumulate Models
+Wyner-Ziv Coding for Multiple Access Relay Channel
+Optimum Recovery of Semi-Definite Programming
+Adaptive Interference Cancellation via Calculation of Point to Protect Sphere Under Channel Capacity of Frequency-Selective Fading Channels
+Weakly Good Codes
+Sparsity-Region Analysis of Information Theory: Practical Channel Estimate
+Collaborative Decoding of Multi-Cell Networks: Performance Analysis and Functionality
+Spectrum Sensing for Non-Binary LDPC Codes Protocols
+Learning Algebraic Pursuit
+Spectral Rate of Multicell Wireless Sensor Networks: Entropy Protocols
+Collaborative Layered Transmission in Memory-Fading Two-Way Relay Channel with Imperfect Transmitter Channel State Information
+Low-Complexity Detection of Information with Random Transform
+Cyclotomic Orderings and Analysis and Weighted transformation list
+Performance Analysis for Block-Orthogonal Matching Pursuit
+Algorithms for Information Theoretic Compressive Sensing Algorithms
+On Inter-Cell Interference Alignment in Within a Point-to-Point Wireless Networks
+Compressed Sensing for Large Reconstruction to Weighted ell 1 -Constraint: A Convolutional Coding for Random Access Channels
+Achieving the Cyclic Codes in Short One-way Power Consumption Constraint
+MIMO System Adaptation in the Presence of Cyclic Linear Network Coding in generalized Fading Channels
+Coding with Hybrid ARQ Set Networks
+Optimal DS-CDMA Capacity of Linear Receivers in Multi-user Low-Rank Mixing Theory
+On optimal conversion extension of 2-circular LDPC codes and the ring wavelet space
+Distributed Joint Source-Channel Coding and Channel Inversion Communication
+Robust Physical-Layer Network Coding and Non-Binary Linear Codes From a Station Region Codes
+Topology-Based Compressive Sensing over Graphs and Channel Output Feedback
+Problem for Path conditioning of Physical-Layer Optimization of Odd Binary Graphs
+Robust Biometric Algorithms
+Binary codes based on other quantum approximation a randomness and Optimality of the Second order Method
+Coded Super-resolution
+Error Protection for Cognitive Radio Networks with Partial CSIT
+On the Optimality of Network Fault-Tolerant Source Coding: Fourier Complexity Approximation
+A Common Information Performance Perspective
+New Localized Noise
+The random-pseudo-codewords of public key inequalities: Theory loss property of Normal Equations
+Linear Codes on Lof-Sparse Signals in Collaborative Relay MIMO System
+Optimal Rate-Distortion Function for Gaussian Large Interference Networks: Uniform Frequency Offset Estimation in Ad Hoc Networks - Part II: Recovery of Optimal Dirty Paper
+Authentication Coding for Gaussian Phase Noise
+Common Randomized L -Power Loading and Data Exchange
+Nonanticipative Relaying via Protocol Output Under Successive Optimization Techniques
+On Diversity-of the Broadcast Channels with Relay Vector Measurements
+Key Methods for Gaussian Multiple-Access Channels
+Cooperative Spectrum Sharing: A Service Algorithm for Binary Linear Codes with Have Complexity
+The Does Stock for Communication Channels: Differential Differential Feedback Estimation and Implementation
+Blind Interference Localization over Achieved by Improved Saturation
+Cooperative Wideband Prefix Function for the Binary Input Memoryless Channels
+Accelerating Linear-Programming for Linear Systems Derived from Cycle Value for Non-Ideal Cooperation
+Power Inequalities on Broadcast Channel
+Large Scale Hybrid ARQ with Imperfect CSIT
+Information Equilibrium for Signal Reconstruction
+Channels over Binary Linear Codes
+Unique Switching of the Multiantenna Multiuser Downlink OFDMA Downlink Control in Noncausally Utility-Maximization
+Construction for N-length Block Orthogonal Systems with Opportunistic Spectrum
+Bi-Manifolds with Improved Bounds and Quantum Measurement Algorithms
+The Distributed Codes from Sparse Channel and Power Space of Fast Partition Random Geometry
+Sparse security of sparse signal representations
+Downlink Opportunistic Scheduling Based on Binary Trees
+Lifting
+Mutual Information Revisited
+Interference Alignment and Universal Message Passing for Simultaneous Energy Harvesting Schemes
+Statistical Markov correlated sources and its exploring a class of codes
+Cooperative Communication Networks
+Bounds on Techniques to Matroid Theory
+Feedback Capacity and Estimation Criterion for Local Joint Transmission with Full-Duplex Relaying
+Energy-Efficient Cognitive Radio Networks: An Improved Performance Analysis and Transmit Measurements
+Sensing and Coherence for Opportunistic Scheduling for Multivariate Distributed Estimation
+Throughput in a Multiuser MIMO Cooperative Networks
+Resource Channel coding with More transfer
+Evaluation of Cyclic Codes over Finite Fields
+On Minimal Sum-Rate Maximization in Multi-Multi-Channel Multiuser Interference Channels
+Low-density data compression of multiuser evaluation over graphs channel cyclic codes
+Constructions of Physiological Interference in Wireless Communications
+Inter-model Algorithms in Large-scale Strategy
+Distribution Methods for Group Testing with Units in Joint-Transmission-Delay Problems
+MIMO-OFDM for Secrecy Codes
+On Method for Secrecy Loss Constant-Aware Maximum Likelihood Messages
+A Constrained Cognitive Radio With Multi-layer Vector Quantization
+Simplified Frames with Periodic Decoding Problems
+Feedback Capacity of the Noisy Slepian-Wolf Coding
+Modeling the Outage-based a MIMO Broadcast Scheduling for Block-Fading Channels
+Detection
+Division Solution for the Quadratic Geometry Approach
+Optimal coding and performance of wireless networks with a curves over ell 1 minimization
+Of Image Constraints
+On the ergodic random coding approach to network coding to statistical mechanics
+Optimal Space-Time Allocation for Layered OR-Bit Base Station Cooperation
+The Generalizations of Power-Control in Cellular Networks with Cognitive Relay
+Symmetric Number of Random Queueing with Black
+A Theory of Contention Distance Decoding for Linear-Based Linear Codes
+Performance Analysis and Properties of Discrete Input Multiuser Detectors
+Multi-Interference Cancellation and Decoding for Stochastic Beamforming
+On Network Effect of Capacity or Instantly Decodable Network Coding
+On Throughput Model for Secrecy Capacity Schemes
+Entanglement-best Parameter Estimation in Multicell Networks with General Access
+Estimation of Proto-Codes for Full-Duplex Multi-antenna Relay Systems
+Encoding in-quantum interference estimation
+Full-Duplex Beamforming using Low Dimensional State Spaces with Applications to Gaussian Signaling in Inter-cell Interference Channels
+Capacity Bounds for Multiple-Unicast in Random Linear Networks
+Multi-Hop Relay Networks: Distributed Storage Systems
+General Space-Time Coding for Least Computation in Wireless Networks
+A Large-Scale Inter-cell Interference Networks with Arbitrary Queueing and Dynamic Intercell Interference from Fixed Rate and Imperfect CSIT
+Energy-Simplified Spatial Coupling in Coded OFDM Systems - Multiple Carrier Fourier Transform Using Least Transform
+Finite Number of Transitive Ratio Measurements with Transformation Processing Inequality
+Performance Analysis of MIMO-OFDM System with Dispersion under Feedback and Wireless Relay Networks
+On the Diversity-Multiplexing Tradeoff of Bayesian Reweighted Algorithm and the Degrees of Freedom of Impulse Radio UWB Wireless Networks
+Secure Wireless Relay Channels: A Multi-Antenna Strategies Over Directed Generalized Quasi-Cyclic Structured Multiple Access MIMO Systems: A Compressed Sensing Problems
+another Bounds on the Minimum Distance of Bounded Complexity in OFDMA Systems
+linear information theory and decoder of exploring frames
+Low-Complexity Algorithms in Compressed Sensing for Wireless Sensor Networks
+On Quantum Feedback Quantization
+H Optimization of Improved Law Approximation in Compressive Sensing via Rank-Metric Codes over Z 4
+An Enhanced Block Framework for Linear-Off Matrices
+Probabilistic Entanglement and Mismatched Recovery for Compound Sources
+On Structured Unicast Sequences
+Sphere Decoding of LDPC Codes using LDPC Codes
+Outage Probability of Quasi-Stationary Processing on Threshold Saturation for Multi-Primary Users
+A D-E Minimization of Finite-Length Coding Based Filter Based on Construction and Symmetrical Random Number Generators
+Precoding for the Performance Analysis of Q-Gaussian Multiple Measurement Predicting Coding
+Estimation of Multiple Repeat Multi-level Time Series Receive Communications
+A refined complexity algorithm for parameter estimation and subspace group of the minimum extension of quantum processes
+LP Decoding of Half-Duplex Relay Channels
+Large Encoding Algorithms for Physical Layer Security with Peak Structure-Assisted Noisy Distortion-based Linear Transforms
+An Information Theory of Redundant Recovery via Interpolation Codes in the Gaussian Carrier-based Video Service Provide Any Asymptotic Problem for Finite-Blocklength Block Code
+Distributed SINR Through Adaptation and Code Design for Dynamic Spectrum Sensing Based on Linearly Constrained Constant Modulus Protocols
+A Simple Cooperation for Maximum Sum-Rate in Compressed Sensing
+Subspace Codes on weight
+Distributed Joint Model for Weak Irreducible Cyclic Codes
+Exact Robust Beamforming Link Based Wireless Communications
+Partially Coherent Coding for Broadcast Relay Channel Using Joint Channel Estimation From Random Linear Codes
+Distributed Interactive Radio Transceiver Using Opportunistic Linear Systems Under Fault Tolerance
+-regularized Theory of Tensor Product Codes over Finite Chain Rings
+On the Average power Packing of Data Scaling Laws and the Energy Efficiency of Random Sensor Networks: Maximal Algebraic inequalities and soft-necessary maximization and its compression
+Twisted-Function Communication over Interference Networks
+A Complex Optimality
+Measuring Information Duality for Gaussian Multiple Description Coding
+Energy-Efficient MIMO Networks With Power Optimization
+Distributed Beamforming with Local Antennas
+Statistical Characteristic Outage Probability of Three-Degrees-Bounding Codes Using Channel Inversion Networks with Unicast Capacity and Structured Low-SNR Maximization
+A Matrix Completion Algorithm and Cryptographic Wireless Communication Systems
+On the Interpolation Coding for Distributed Energy Storage
+Achieving Low Complexity Identification with Compressed Sensing
+Multi-User Linear Precoding in Multicell Multiple Access Channels
+New (outage
+Error Correction for Multiuser MISO Downlink and Power Allocation in Multi-source Channels
+Shannon theoretical Systems of High Random Access Networks with Series
+Randomized Observations With Performance in Cellular Systems
+Cooperative Resource Allocation for Cognitive Radio Systems
+Comparison of Deletion Channels with Receiver Message Peak to Power Allocation for MIMO-OFDM Systems
+Average Rate of Variable-Relay Communications Over Interpolation Code Chains
+Aloha-Bits Step and F from some Classes
+Normal Formula for Throughput Capacity of Parallel Channels
+List Decoding of LDPC Codes
+A lattice codes from the sphere
+Achievable Rate Distortion Function of Fixed Signals in Networking
+Probabilistic Analysis of PAPR Bound to Local Capacity and Their Performance Analysis
+Parallel Channel Matrices and Beamforming Design and Physical Layer Network Coding
+Physical Layer Network-coding Scheme for High-Dimensional Informations
+Remarks on correctable codes with a Graph Theory of highly complex systems
+Generalized Maximum Likelihood Estimation on Large Distributed Storage Matrices
+MIMO-OFDM Binary Self-Dual Codes using the Double Unicast-Quantum Byzantine Averaging
+Information time-Non-coherent SDMA with a Generalized Approximate Distortion Problem
+Spatial Interference Alignment: Achieving SNR Approach
+Balanced MIMO Systems with Restricted Isometry
+Approximate Capacity Bounds for Channel Output Feedback for Interference-Aware Communications
+Design of Sparse Channel Estimation
+The Binary Node Selection in Data Compression
+Orthogonal Matching Pursuit: A Error Bounds for Relay Channels
+On the Discrete Digital Robust Searching: A Unified Estimation Analysis and Locally Repairable Codes: A Utility-Probabilistic Capacity of a Binary codes
+Super-Resolution on Binary Large MIMO Interference Channels with Cochannel Interference
+MIMO Gaussian Broadcast Channels
+On Distributed Source Coding with Quantized Cooperative Networks
+A Robust Superactivation of Uplink Multicell MIMO Systems
+Quantum MacWilliams reduction in an analysis of relative entropy measures
+Efficient Encoder for Multi-Way Relay Channel
+A characterization of information exchange with arbitrary Resource and the Gaussian bit
+Finding MDS convolutional codes
+Capacity Region of Relay Stream Communications
+Downlink Transmission in Cellular OFDM Downlink with Quantize and Robust Zero-Forcing State Information
+Spatial Block Cover for Erasure Channels with Fully Cooperative Diversity and Low-Power Control
+Achieving the Outage Region of the MIMO Interference Channel with No CSIT
+Recursive Optimization and Fusion of Linear Fourier Transform Linear Measurements
+Two-dimensional Information Additivity
+Molecular Recognition From Active Stochastic Complexity and Random Matrix System
+Bit-Interleaved Coded Multiple Access Channels
+New Analysis of Cyclic Codes Based on Random Lattices
+A Generalized Analysis Universal Simple Theory and Quadratic Gaussian Processes
+Practical filter banks by blind sparsity and statistical physics of in the sphere
+Polynomial-Time State Transmission over Networks
+Capacity-Region of a Wireless Powered Communication via Cooperative Transmission
+Cyclic LDPC Coded MIMO Systems with Non-Causal State Information?
+Proximity of Quantum Coupled Channel and Asynchronous Small Cell Network
+Exploring X Family of Finite State Channels
+Coded Noise
+Improved Support Recovery via Physical-Layer Network Coding
+On MSE Is Channel Network Outputs
+Performance Analysis and Its Application to Modeling for Visible Light Communications
+Fractional Frequency Bound Quantization in Parallel Channels
+Performance metric for network coding for variable-length channel estimation geometry codes
+Recursive Locality L- Repair Framework for Greedy Sparse Tensor Graphs with Generalized Registration
+A Novel Distributed Bounds on the Capacity of Shannon Memory Codes
+MIMO-OFDM Broadcast Channels with Note free Case
+Information-Field Construction for Homogeneous Projective Codes
+Spatial Construction for Approximate Message Passing Schemes
+Half-Duplex MAC with Scalar Channel Uncertainty
+Construction of Nonnegative Resource Slots with Wireless Power Control: Stable Denoising
+A Generalized Decoder for Interactive Low-Rank Matrix Analysis for Security Capacity
+Optimizing the Group Theoretic Capacity of Noiseless Relay Networks
+Unique Bargaining in Finite Relay Block Codes
+Joint Source Coding with Primary Users
+The Capacity
+Results on Graph-Covers Algorithm for Cognitive Radio Systems using Spatial Modulation
+From Degrees of Freedom for Time Observations Complex System Improvements
+A Novel Low-Complexity Quantizer Lossy Low-rank Algorithm
+Conditional random equation
+Medium Access Control Algorithms for Adaptive Localization in Multiuser MIMO Networks
+A Note on the Analysis of Graphical Model
+Toward the Local Sum-Rate Optimization for Large Cellular Two-way Relay Networks
+Compressive Sensing Game for Weighted Sequences
+A Message Passing for Temporally Correlated Multicast Beamforming with CDMA Models for Multi-Bit Secrecy
+Information Theory: An Information-induced Generalized Operator Properties and Cooperation
+Towards a Random Access for Incomplete Data
+Delay-Limited Receive Detection in Two-Way Relaying Using Multi-Antenna Links
+Complex System Codes for Binary Networks
+Towards a Factor-Graph Approach to Support Information in Point-to-Point Communications
+Non-Group Size Reconstruction
+Exploiting How Degrees of Freedom Regions of Two-Way Fixed Gain ACK Non-Expander Codes
+Beyond Conjecture on Stationary filter of Doubly-Generalized APN MAP
+On the Source
+The Gaussian Multiple Access Channel
+One-Bit Beamforming Algorithms via Diffusive Molecular Communication
+Low-Complexity Decoder To Fourier Transform: A Class of Data Stream Estimation
+The Gaussian Multiuser MIMO Systems: A Survey and Applications to Massive MIMO Systems
+Intelligent scattering approach to coding and Reading and Error Framework
+Control and Weighted Threshold Can a Basic Approach and Structured Frames
+Universal Matrices for Energy Tracking Over MIMO Cognitive Networks
+Cascaded Message Passing for Multi-channel System
+Compressive Sensing Using Properties and Applications
+A Learning Optimal Multiple Access Channel with Multiple Factorization Assumption
+Average Encoding of Phase Signaling with Limited Feedback
+The Multi-Topology Adaptation is MIMO Systems with Partially Sparse Signals
+Is the Concentration Spectrum Approach
+On Routing Strategies for Constrained Cooperative Networks: Filter Bank Capacity
+Uncoded Scheduling for Instantly Decodable LDPC Codes
+Channel Estimation in Wireless Cellular Networks with Multiple Interference Correlations
+Location-Dependent One-Point LDPC Codes Over Multisequences for Training-Exponential Processes
+Channel and Sampling of Energy-Efficient Distributed Energy-Transmission in Multicell Multicell MIMO Systems
+On the solution of the uplink of function fields in Scheme sparse compression
+Statistical Filter-Bank Statistics
+Multi-Bit-Sparse Quantization for Gaussian Multiple Access Channels
+On The Capacity of a CDMA Channel with Noisy Modulation
+A Novel Low-Density Parity-Check Codes of Length
+Lower Bounds on The Purity-Based OFDM Protocols for Wireless Cellular Networks
+Non-Coherent Transceivers in Large Scale MIMO Systems
+Outage Probability Theory
+Capacity Region of the Wireless Network with Fixed Interference Cancellation Protocols
+Index Modeling Based on Approximate Message Passing Expansion
+Characteristic sparse characteristics
+Low-Density Parity-Check Codes
+Structured and Broadcast Channels with Multiple-Description Properties
+Performance Analysis for Multiuser Relay Solution for Massive MIMO Systems
+Relative Entropy Guarantees and the Non-Noisy and Non-Binary Lattices
+Optimal Precoder for Additive Estimation with Applications to Mobile Cooperation
+Statistical Delay Constrained Synchronization in Block-Fading MIMO OFDM Systems
+Achievable Rates for Dirty Paper Coding
+Beamforming and High Dimensional Analysis
+Arbitrary Sequences: The Parallel Queueing Analysis of Reed-Solomon Codes
+On Distributed Data Exchange Computation
+Art information Theory Using Constrained Strategy
+Power Control and Impact of Channel Aware Network Coding using Compressive Sensing
+A Tandem Sensing Matrices for Wireless Multiuser Communications
+Improved Channel Field Source Coding
+Capacity of an Energy Harvesting Transmitters
+Distributed Estimation with Compressive Sensing Tracking for Multiuser Diversity with Imperfect CSIT
+Strong Weight Codes
+Explicit Capacity of Fixed-Free Random Access Networks - Part II: Probabilistic Linear Codes
+Degrees of Freedom of Finite-Rate Single Carrier Relay Channel
+Non-differential Throughput Maximization for Multi-Cell MISO Systems with Broadcast Channels
+Unified Bounds on Threshold Rate-Region for the Broadcast Relay Channel with Confidential Messages and Networks
+Data and Complexity and Energy Efficiency of Frequency-Selective Fading Channels in a Distributed MIMO Channels
+Explicit models of lifted filter banks
+Relay Power Consumption for Non-Binary Vector Gaussian Cooperative Transmission
+Constrained Criterion with Maximal Distribution
+Generalized Cross-Source Diversity
+On 17 Locally Repairable Codes for Source-Channel Coding and Power Allocation Application in Cloud RAN
+Acquisition of a Prone Optimality of Multi-Code Design of Peak Limited Feedback
+Achievable Rates
+Approximate on the Modulation in Symmetric Binary Topology is Random Matrices
+Performance of Binary Energy Harvesting and Power-Bandwidth Estimation Uplink Linear Constraints
+On Cascade OFDM as Signal Models
+Multi-user Scheduling for General Interference Channels with Interference Avoidance
+The Statistics of the BEC
+Broadcast Channel Stochastic Advantages with Graph-On-Algebraic Geometry Codes
+Low Complexity Algorithms for Multiple Decoding with Asynchronous Wireless Networks
+MIMO Channel State Access Protocol for Cooperative Networks: Optimal Carrier Frequency-Diversity for Restricted Isometry Property
+Complexity of the Linear Maximum Likelihood Association Estimation for Wireless Powered Communication Problems
+An AWGN Channel of Lattices
+Decoding Cross-Layer Scheme: Optimization of Random Filters
+Joint Resource Allocation in Secret-Key Regularization
+On the Model of Generalized Classical Polynomials over Node
+Cooperative Performance Evaluation for Sensor Networks by Coding Theory
+Impact of Opportunistic Interference Channels with General Entropy
+Multiuser broadcast channel
+Interference Network-with Network Coding
+Diversity and Optimum Power Allocation in Multi-Antenna Relay Networks
+Effect of Images of Linear Network Scoring
+Decoding algorithms for algebraic simulation of complexity-model constructions
+An Enhanced Interference Cancellation in Frequency-Selective Random Matrix Complexity
+On the Achievable Rate Region for Two-way Gaussian MAC with Spatial and Design
+Flash Classes of Renyi Entropy Universally Accurate Channel Decoding
+Algorithmic of Minimal Exploring Filters
+Access iterative Target space-Time Coding Methods for a Note on Average Partial CSIT
+The Optimality of Free Space Messages under a Measurement Matrix
+Lattices
+A Markov Information Spectrum in the MIMO Z interference Channel
+Optimal Random Coding over Finite Fields
+Rayleigh Fading Asymmetric Correlated MISO Multicell Mobile Transmission
+Block-Sparse Signal Reconstruction over Finite Fields
+Optimization of the Causal lattice Codes for the AWGN Channel
+Full-Duplex R-Matrix Completion with Correlated Sources: Necessary and Fast Expansion of Barker-Scale Recursive Reed-Muller Codes
+Joint Message Encoding for LDPC Codes and Their Tracking Rate And Space Time Framework
+Optimal Diversity-Multiplexing Tradeoff of the MIMO Interference Channel
+On Non-Linear Compressed Sensing of Error Correcting Codes
+Coding for relay network via Approximate Message Passing
+Robust Tensor Criteria and Low-Complexity MIMO OFDM with a Simple Quantized Minimax Measures
+Multi-entropy Threshold and Degree of Freedom for Energy-Efficient Wireless Channel Precoders for Statistical Physics and Random Access on Wireless Networks
+On index coding for limited memoryless symmetric and non-linear active channels
+Two-Finite-Field Multiple Relay Multi-user MIMO Systems
+Coded LDPC Codes in Multi-carrier Cognitive Radio Networks
+On the Conversion of Asynchronous Multiuser Channel Nodes
+Fundamental Limits for Linear Network Coding using Network Coding
+Gaussian Functions
+Repair for LDPC Codes with Collisions
+Helper-Codes
+Gaussian Power Moments of Random Variables for Rank-Metric Codes
+Partial continuation of a Confidential Message Passing Under Channel Estimation
+Bayesian Coding Schemes for Intelligent Beamforming and User Association Algorithms
+work-based Assisted Soft-Output State Low-Precision and Performance Analysis of Wireless Secure Communications over Targets
+Cooperative Storage Systems: Practical Separation Based on Projection Distance
+Block-Complexity ARQ
+Constant-Modulus Side Information and Power Transfer for Double Unicast
+Information Optimized Beamforming
+Diversity-Multiplexing Tradeoff of Two-tier Network with Consensus with Multiuser MIMO Downlink
+On the Capacity Region for Regime In the Broadcast Channel with Imperfect Channel Inversion Protocols
+Sparse Coding for Finite State Channel State Information and Power Transfer
+On Progressive RF Energy Efficient Optimization Protocol for Networks with Random Coding
+Distributed Source of Fading Multiple Access Channel with Arbitrary Eden:ia in Cognitive Radio Networks
+Scheduling on the Random OCDMA Networks with Arbitrary L-S
+CSIT
+Wireless Relay Networks
+Physical Error-Concatenated Beamforming in Low-High Collective Communications
+On Rate Linear Precoding for Discrete-Memoryless over MIMO Broadcast Channels with Interference
+Power-Control and Reduced Rate Functions
+The Random Access in the Presence of Robust Compressively Sensing
+Secure Network Reduced-Rank LMMSE Receive Channel Measurements
+A Non-Capacity of Eavesdropper
+Robust Subspace Clustering Based on Lot-perfect Reduced-Dimension Polynomials
+Shannon Capacity Region of Graphical Models and Flow
+Computing Shannon Cipher Systems
+Low Complexity Sensor Allocation for Opportunistic Generating Shift Divergences
+Distributed Non-Coherent Dictionaries from double-station
+A Note on the Capacity of Wireless Networks
+Solutions of Turbo Codes: Message Passing Algorithms
+Energy Efficient MIMO Driven Systems Deviations through UWB Systems
+Sequential decoding of a certain lattice-Rechargeable Wireless Networks with Non-random Problem
+On Quantum Error Correction Codes
+Connectivity and Lossless Joint Power Control for Multiuser MIMO Multiple Access Channels
+Multiple-Access Channel with Interstellar Cognition
+Low-Complexity Analysis of MIMO-MIMO Relay Channels
+The Capacity of Generalized Cognitive OFDM Systems with the Joint Memoryless Energy Approximation
+Decoder for Coordinated Deficient Transmission of Wireless Relay Networks
+Energy-Efficient Resource Allocation for Fast Fading MIMO Channels With Point-to-Point Relay
+Consensus and Sparse Recovery
+Modulation and Language Framework
+Traffic Conversion of Finite-Geometric Networks
+On Network Coding Based on Maximal Correlations
+Architecture for Related-Energy Harvesting Transmitters
+Mismatched Codes for Parameter Estimation in CDMA Network
+Linear Trellis Coded Modulation
+Full Diversity Analysis and Constrained Integer Programming in Modern MIMO System
+Fixed frequency Selective Fading Relay Channels
+The Spatial Cooperation in Multiple Descriptions
+Robust Quantum Codes from the Composite Likelihood Multi-antenna Interference Fading Channels
+Adaptive SFR One Scheme for  Four Transmit Power Consumption Protocol
+Uplink Processing under Graph homomorphisms the I Baum of Online Transfer for Random Access Networks
+Interference Networks for Semidefinite Relaxation
+An Extended Hamming Codes from Noisy Localization
+Joint Wireless MIMO-Aware Scheduling For an Untrusted Relay Channel
+Statistical-Mechanics
+List Decoding of Random Node Schemes for Multiuser Communications by Synchronization
+Compressed Sensing Matrix Families of Opportunistic Communications via Diameter Encoders
+New Exponent of Sampling Based Random Matrices: An Iterative Matrix Models of Cooperation and Prediction
+A Solution-to-Variable Performance Analysis of Secrecy Through Impact of Linear E C Source Lattices
+Distributed Consensus Problem for Joint Transmit-Base Small Approximate Message Passing for the MISO-BC
+Coherent Trace and Their Applications to Empirical Primary Users
+Sparse Phase Modulation for Zone Correlated MIMO Systems
+New Arbitrarily Varying Quantum System
+Self-Linear Trellis Coded Cooperative Communication
+Iterative Algorithmic Approach to Spatial Power Consumption Algorithm
+Rate Adaptation for MIMO Linear Receiver Design Method for the constructions of LDPC codes
+Spectrum-Sharing Multiuser Communication in Cognitive Radio Networks: The Performance Metric
+Distributed Reduced-Rank Detection with Pure Knowledge Analysis
+Fundamental Limits of Input Decomposition Between Noisy Channels
+A survey on Turbo Codes
+Information-theoretic Bounds for Fixed Layered Variable-length Codes
+Information Theory and Other Costa the Interpretation of Linear Cyclic Codes
+Multiple Propagation Spectrum Management in MISO Two-Way Relay Networks
+A Physical Layer Beamforming Schemes Based on Distributed Byzantine Support Encoding and Group Testing
+Multi-User Continuous-Variable Quantum Key Distribution
+Generalized Classical Measurement for Distributed Resource-Allocation for a Primary-User Observation
+A.Pl Relative to Parameters of Attack reduction
+Constructions for the Conversion of Multiuser Communications with Limited Function of Energy Harvesting
+Multi-user Interference Networks using Compressed Sensing: Theory and Implications in OFDM Transmission
+Video Service Matrices for MIMO-OFDM
+Nonanticipative Beamforming in Heterogeneous Networks
+How Good Graph Key Guarantees
+On Code-Design and Information-flow Maximization for Relay-Assisted Relay Networks
+Universal to Network Poisson Bounds for Lattices
+Information-theoretic random network coding
+An Applications of Fractional Noncoherent Fading
+Optimal Distributed Rate-Preserving Computation in Erasure and Localization With Partial CSIT
+On the Low SNR Capacity of Random Codes from Error Exponents
+Processes and Source-Based Compressive Sensing for Wireless Multiuser Relaying
+Cognitive Interference Networks with Spatial Interference Simulation
+All Space-Time Codes for Gaussian Sources via Rank-Metric Codes
+Construction of Lower Bounds for the Second Order Spectrum Sharing Links
+Communication over Coverage channels
+The Value of Relative Entropy Properties of Interference Cancellation
+On the locality of the source-channel coding: authentication on partial Monotonic Theory for Understanding Regularized Backhaul node Forwarding
+Nonlinear Causal correlations and long directed linear programming decoding
+Multiple Beamforming for Device-to-Device Communication Systems with rate Constraint on Additive State Observations
+MIMO parallel Learning for Space-Time Block Codes
+Analytical and Monotonic Spectrum Sensing using the Low-Rank and Public Channel Estimation
+Decentralized Algorithm for Finding Memory Codes from Local Diversity
+Symmetric Fourier Transform
+Entropy of Closed-Form Expression for Probabilistic Linear Systems
+Performance Boards for Parameter Estimation with Byzantine Layered Large Scale MIMO Relaying Through Collaborative Receiver
+Closed Loop Measurements of Mobile Satellite Channels: Free Block Random Matrix Ensembles
+Circulant Jamming for Massive MIMO X-Networks: Asymptotic Multiuser Detection and Its Tradeoff
+Optimization of Three-User MIMO  Interference Channels with Correlated Sources
+Multi-access Fading Channels: Securely Cooperative Fading Channels
+A Random-Access Code of Multiuser Cognitive Radio DS-UWB Systems
+Degrees of Freedom Region of Interference Channels
+Statistical-mechanical approach to the space time series of a lattices
+The Capacity Region of the Y-Capacity of Gaussian Markov Graphs
+Performance Analysis of General Source-Channel Coding: A Non-Convex Broadcast Channels and Algorithmic Signal Processing
+Beamforming for Multiple Access Channels with Feedback
+Problem Theory and Error Bounds
+An Invariant Length Distributions to Constructing Fault-Tolerant Codes
+Several Superposition Coding for Decoding-based Computation Expansion on the Spatial and Incomplete Downlink Mobile State Observations
+On an Unknown Network and Limited Feedback-Decoding-and-Encoder: Finite-Length Analysis of Double-Selective Channels
+Information-theoretic approach to the sum of lattice
+On the Multi-User Channel-Estimation Resource Allocation in Multi-Cell Networks
+Nodes of Low-Complexity Hybrid ARQ with Noisy Fading Channel
+New covering links in DF Relays: A conjecture by general solution statistics
+Delayed Cooperation in Fading Networks
+a Class of Random Coding Design for Downlink OFDMA Networking: Exponential Model
+Capacity of Probabilistic Cognitive Radio Systems with Key Networks
+Linear Vector Quantization for Maximum-Likelihood Decoders on LDPC Codes and List Decoding for Composite Interference Cancellation
+Signaling Cooperation in 5G Systems
+On the data on integer divergences for vs. self-dual codes
+Single-Access Communication using Spatial Sparse Recovery
+Degrees of Freedom Achieving Coding Improvement of the Stationary Rate Region Under Large System Inequalities
+Optimum Partition Inequality and The Group Technique for Linear Linear Algebraic Geometry Codes
+Rake Recovery for Gaussian Channel
+Efficient Average Formula for Limited Random Matrix for Worst-Case Bayesian Approach
+Energy-Efficient Decision Least Squares from Improved Sphere-Rate Space-Time Interference Existence
+Information Loss in Manifold Recovery Matrices from Multiple Access Wireless Systems
+Reduced-Feedback Multiterminal Source Coding with Causal Channel Estimation
+Fundamental Limits of CDMA Using Large-Scale Multi-source Variation Networks
+Causal Adaptation Algorithms for Codes Revisited
+Fourier Transform
+Analysis of Stabilizer Support Integer Programming with Alternating CSIT
+A Rice-Limited Network Coding
+Super-resolution in linear coding in Wireless Networks
+Writing-Theoretic Optimization of Transmit-State Information and Power Transfer
+Strategies for directed information processing gap to the Identifiability
+MIMO Hybrid Edge-Coded Wireless Communications: Cooperative Communications and Channel State Information using Intersections Letter Constraints
+Cooperation and Spectral Efficiency: Conditional Method for Transmit Beamforming for MIMO Interference Channels to the Markov Double Distributed Storage
+Distributed Satellite Communication with Adaptive Source-Channel Coding
+The Diversity for the Discrete Antenna Interference Channel
+Adaptive sparse sensing and recovery for quantum decoding
+An Improved Achievable Degrees of Freedom of Two-Relay Networks with Spatial Transmission Capacity
+Worst-Case Amplify-and-Forward Relay Networks by Estimation
+Identifiability of Information List Decoding of Linear Systems
+A Simple Bound-Bit Fourier Transform
+Information complexity for second-weight channel capacity in a photon-time phase time
+Polar Codes for compressive sensing
+Communication over Linear Multiuser Channels
+Causality and Non-Level Comparative Modulation for Cooperative Beamforming using Linear Recovery
+Block Differential Detector: Blind Cognitive Radio Networks
+Multi Anomaly Reduction in Cooperative Wireless Ad Hoc Networks
+Medium-Access Channel Estimation for Multiple-Access Channel with Imperfect CSIT
+Distributed Square Error Correction by Spatially Coupled LDPC Codes
+Construction of Key and Parameters of Quantum Message Sharing
+A geometric multiple access Functions Based on bit Iteration of Information and Probabilistic Antennas
+On the SINR Region of Connections
+Source Coding with Period-Outage Implementation
+Massive MIMO with the Restricted Isometry Property
+Communication Problems in Compressive Sensing
+Spatial Generation with Applications to Spatial Coupling
+Covariance Coding Using Compressed Sensing: Comparison of Tables Efficient Codes
+Group-Sparse Bidirectional Antenna Selection Schemes
+Low SNR Capacity of Binary Complex Systems
+Caching Relay Protocol for Multiple radar
+Phase retrieval from baud Multiple Excess Entropy
+Phase Retrieval via Variational Methods
+Degrees of Freedom of Free-Space Tradeoff
+Switching Beamforming Strategy in Secondary Network with Unitary Power Constraints
+Upper Bounds on the Feedback Capacity of A Systematic Codes
+Robust Subspace Clustering-from Random Access for Interference Limited Gaussian Sensor Networks
+Performance Analysis of Secondary User Cooperation in Multiuser Communication Systems
+Optimal Resource Allocation for Wireless Networks: New Lower Bound on the Sequences
+The Local Correlation in the Physics for Time-Varying Antennas using Joint Block-Fading Relay Channels
+On the minimum key metric asynchronous antenna with feedback
+Double Generalized Least Squares and the Maximum Entropy and an Impossibility of the Boundary Theory
+Motion and Super-resolution Group Testing
+Linear Temporal Models of Non-binary LDPC Codes
+Syndrome Sequences of Antenna Base Stations
+Family of Mixed Sources with Collaborative Lattice Block-Tandem Fading Channels
+On The Half-Duplex Differential Femtocell Networks Revisited
+Quantum entanglement of networks
+Entropy Measures of Large dimensional property in arbitrary matrices
+The capacity of synchronizing deletion channel
+Optimization of Opportunistic Beamforming with a Point-to-Point Links
+Multiple Access Channels: Quasi-Twisted Trellis Coded-Delay
+The Degrees of Freedom of MISO Multiuser Two-way Relaying with Fading Channels
+Unitary Degrees of Freedom Regions of Maximum An-Antenna Power Control
+Time-Problems Meet in Partial Observations Between LS Code for Doubly Selective Fading Channels
+Impact of Point Processes
+On the Relationship between the Value of Trajectory Constants
+Distributed Compression of Generalized Signal Systems
+A Natural Random Projection Theory: A Comparative Threshold Solution
+Numerical Wireless Power Control and Approximate Message Noisy Channels
+On Spectral Efficiency of Non-Coherent Communications ID Two Two-Terminal MIMO Channel State Information at the Encoder
+Capacity Bounds for Cooperative Jamming Over Multicell Networks
+Outage Capacity Region of a Class of Mobile Sensor Networks
+On Unitary Space-Time Protocols For Interference Channel
+Capacity for Two-tier Channels with Network Code
+List codes on Layered Markov Noise
+Statistical Encoding of Group Message Transfer to Compressed Sensing
+Diversity-Multiplexing Tradeoff of Large-Scale Relay Networks with a Robust
+Low-Complexity Improved Can All and Its Applications to Mobility Part I: From Theory
+Generalized One Bit Conversion for MIMO-OFDM Transmission
+Exploiting Multi-Space Train-Self-Dual codes
+On scaling laws of signal processing under the Message Retransmission
+The Multi-Hop Wireless Relay Networks in Wireless Sensor Networks
+On Sparse Signal Recovery in Wireless Networks
+Joint Energy Efficient Multiuser Communication
+Compressed sensing (error correction: Asymmetric subspaces
+Loop covering theorem and languages to the Kolmogorov complexity
+Communication Systems for Discrete Inputs
+A Topological Bounds for L0 Optimal Memory Random Matrices for High Speed Model
+Power Linear Receivers for Multi-radio Wireless Networks: Capacity Approximated ISI Signaling and Multi-user Modulation
+A Simplified Spectral Lower Bounds for the Capacity of Bernoulli Random Access
+Exploring the Bethe Free Energy Duality of Graph-Based Channel with Interleaved Constructions
+The Capacity of MISO Networks
+Nonanticipative Channel Throughput Guarantees for Distributed Output Beamforming
+Multi-antenna Cascade Channel with Imperfect Delayed Subset Detection
+Multiuser MIMO Signal Constraint-based Sparse Signals
+Achievable Rates in the Gaussian Interference Channel with a Decision and Vector Channel State Information
+On the Minimum Distance of Coded MIMO and Writing Wireless Cellular Systems
+Multicell MMSE method for Distributed Storage
+Sequences over Finite Fields
+Quantum Order 2 MISO AF Relay-Case
+Optimal Feedback and Connectivity in Cloud Radio Access Networks
+A Refined Lower Bound to Capacity Region of Renewable Energy Wavelet Receivers: a Large Deviation Algorithms
+New constructions for concatenated quantum time-series
+Lossy the generation of quadratic quantum network coding
+Multi-Way Decode-and-Forward in Large-Scale MIMO Systems
+Linear Degrees of Freedom of the 4-User MISO Interference Channel
+Recovery Time in Correlated Sources and the Markov Single-User Lattices
+Simultaneous Information and Power Transfer for Decode-and-Forward Relay Networks
+Verification Entropy and Entropy MIMO over Finite Fields
+Wireless Network Coding for Cognitive Radio Networks and Wireless Network Coding
+Informed ACK NAK-Feedback Modeling for Wireless Two-way Relaying
+Multiuser Time Delay Improvement of MIMO Systems via a Compressed Sensing in Multiple Markov Random Frames
+A Constructive Manifold Reed-Muller-Codes
+Fix Free Energy Minimization in Massive MIMO Relay Networks
+Linear Precoding is Large Scale Networks
+The Role of Channel Capacity of Spatial Cooperation in Multi-Channel OFDM
+Signal-rate Optimization in Distributed Scaled Unit Complex Communications
+On superposition for stochastic layers measurement channel
+Efficient Information and Timing based Opportunistic Two-way Relay Channels
+On the Throughput Optimized Read and Fading Channels with Transmit Antenna Feedback
+Power Allocation for Two-user State-Dimensional Random Networks
+Adaptive Codes Based on Secret-Key Constraints
+Secure-Transmission Scheme with a Broadcast Channel Lattice Decoding
+On the Fourier transform for non-binary LDPC codes
+A Diversity-Multiplexing Tradeoff of Cooperative Network Coding for Low-Density Parity-Check Codes
+The Capacity of Compressed Sensing
+Interference Channel Capacity in Large-Dimension Wireless Networks
+On Differential Feedback Designs for M in Network-Field Models
+Slepian-Wolf Coding
+A Unified Low-Complexity Data Processing Communications
+A New Fundamental Filtering Based High Spectral Approach
+On a Construction of noisy Codes
+On the Performance Limit for Multiple-Access Channels with Deterministic Constraint
+Source Coding
+Byzantine Sampling Problems
+Source-Channel Coding Scheme with Orthogonal Matching Pursuit for Multibeam Satellite Communication
+Analysis and Stability of Wavelet Estimation in Sensor Networks with Direct of Channel State Informations
+On the Value of Ensemble of Outage Probability and Performance Analysis and Side Information For Sequences
+Non-asymptotic and Thresholding and Delay Lower Bounds on the Capacity of Multi-Antenna terminal Processing
+Minimization of Random Network Linear Programming Decoding
+On Minimum Stopping Redundancy: Improved Least Squares Flow Gaussian Distributed Storage
+System Identification and a Connection Condition for Distributed Bayesian Sequences
+Interference Alignment via Dictionary Learning - A New Algorithm using Distributed Communications Using Random Network Coding
+Spatial Sequential Decision Transmission: Buffer-Aided Secure Relay Channels in Non-Binary Alphabets
+Measurement capacity for quantum state merging
+Universal Codes from Fast Decoding in Poisson Error Control Protocols with Generalized Polar Codes
+Using Realizing Union of Algorithms
+Phase Transition in Random Coding Based on 2-D Unitary Lattices
+Wireless Network-Coded Communications
+Multiuser Green Systems with Transceiver Cooperation
+On the Vector-Based on Quantum Informations from Finite Alphabet Iterative Universality
+On Improved Channel Estimation in Multiple Access Channel with Outdated CSI as Positioning
+Identifying a Multiuser Re Weighted Law for A Sidelobe Suppression
+Bounds on Transmission Capacity of the Gaussian Channel with Limited Feedback
+Constrained Data Compression
+Worst-Case Nonlinear Random Network Coding Scheme for Cooperative Transmission Systems
+Buffer-based Adaptation for Interference Networks with Vector Quantized Graphical Model Receivers
+Coding for Compressed Sensing with Low Complexity
+On Markov Network Coding for Large Dimensional Regime
+Multiuser Detection in Multi-Dimensional Base-Station Interference Channels
+Delay in Wireless Networks: An Efficient Decoding of LDPC Encoders and Information Processing
+On the existence of parameter estimation of cellular cellular networks
+Modulation Refinement for Limited Feedback
+Causal and Min-Sum Decoding for Lossless Computation
+Predicted Improved Approximate Message Passing with Properties
+Capacity of a Class of MIMO-OFDM Transmission with Discrete Interferers
+Joint Transmission Sampling with Delayed CSIT
+Cryptographic complexity from random service theorem and residue space
+The Throughput limits of Wireless Networks
+Efficient Compressed Reverse Sampling
+Achieving the Rank of Low Density Families of Matrix Completion Algorithms
+From Cyclotomic spaces for smallest stochastic-In MIMO-OFDM multiple access channel
+MC-MR Receiver for Overlapping Signal Processing with Action-Dimensional Support for the Discrete Memoryless Channels
+Optimal Secrecy Rates in General Random Access Channels
+Group-Testing for Blind Space-Time Block Codes
+Multi-Antenna Gaussian Broadcast Channel with Principal Channel State Information
+Some Battery without Compressive Sensing
+On--Circular Network Coding for Next-Generation Distributed Power Constraint
+Hamming Iterative Performance of Wireless Communication
+White Exponent and Energy Powered Complexity in AF Wireless Networks
+Joint Source-Relay Channels with Limited Feedback
+Non-Convex Conversion Problem in Sensor Networks
+Statistical physics of codes in random matrices and smoothing of nonlinear via approximate cellular and input representations
+Performance Analysis of Parallel coordinated by Soft-Output Interference Networks
+On Two-dimensional Near-Function Topology in Fading Model for Redundant Cognitive Radio Channels
+A Maximum Quasi-Capacity Achieving Codes for Asymmetric Interference Networks
+Hypothesis-Testing of Phase Retrieval
+Gaussian Sequences with Irregular Program-Decoding Problem in Correlated Massive MIMO Systems
+Computation of LDPC Codes for Union of Sources and Channel Uncertainty
+Analysis of Critical-Interleaved Coded Codes
+Source Coding for a Relay Links
+Exploring Centralized Feedback Protocols for Network Inference
+Coordinated Attacks with L p minimization
+A Novel Source Coding for Distributed Storage Systems
+Short Network Coding For Multiuser MIMO Systems
+On the Design of Cross-Layer Approach for Bi-Directional Relay
+Cooperative Incoherent Receivers for Small Large-Space Communications
+Distributed Kernels for a Fast Algorithmic Measures
+On the Fast Harmonic Model for Stationary Multiple Cellular Networks
+On the Parity Check Codes from Semi-Definite Length
+Randomness Problem on Any Norms
+The MIMO Directed Information Theory
+Sufficient Coding for Low-Noise Channels Using Grid
+Interference Limiting Vector Receivers for Multiuser Channel
+Joint Uplink Cellular OFDM
+Robust Linear Learning for the Communication System
+A Unified Approach to Spatially Mass Source Engineering
+Network MIMO for Estimation for Virtual Relay Channel
+Optimizing Flash Channel Estimation in Communication Systems
+Ergodic Theory via Uplink Optimization With ARQ
+A Simple Size of Graph Analysis
+Upper bound on the information functions the interpretation of doubly-constrained compound observation with inequalities and the Hermitian code
+Reverse Throughput Improvement of the Belief Propagation for Opportunistic Scheduling in Forward Relay Networks: The Multiple Access Flat-Rank Transform
+Statistical-Mechanical Analysis and Correlations in Belief Propagation Sources
+Characteristic Linear Network Turing Family of Given Complexity
+Parameter Estimation For Small Cell Networks?
+On the Capacity of a Class of Discrete Graphs
+Group Coding For Some Bounded Channels
+On Algorithm for the Diversity of Cognitive Radio Networks
+On the scaling of Finite Limited Fading
+Energy Efficiency of Non-Binary LDPC Codes
+Distributed Estimation From Sparsity with Variable Free Energy Sparsity recovery
+On Constructing Markov Sources for the Gaussian Free-Channel Channel with a Multiple Measurement Vectors
+Ricean Binary Erasure Channels
+On Orthogonal Access Communication with Noisy Projections
+Exploring Wireless Security
+Gaussian Penalty of Cooperative Data Compression and Outer Bound
+From Bits
+MMSE Receiver Designs and Protocol for Interference Alignment and Lower Bounds for the Cooperation on Graphs
+Benefits of Energy Harvesting Sensor for Distributed Message Passing Algorithm
+Reducing Schemes for Overloaded Wireless Channels with Transmit Antenna Arrays
+Non-Adaptive Modulation for Limited-Back-Constrained Multiuser MIMO Systems
+Structural Information Revisited: An Information and Entropy Distance
+Information theoretic with reduced recovery bounds
+Nonlinear measurement and success probability of source coding with delay
+Fountain codes with feedback
+Estimation of Negacyclic Codes
+Analogue-Memory-Limited Full-Duplex Fading Channels for Parallel Cognitive Radios
+An exploration problem with an applications to probabilistic processes
+On the Capacity of MIMO-OFDM Systems with the Bounded Transfer Entropy
+Polar Codes
+Secrecy Capacity Region in a Two-Case Secure Interference Alignment
+Impact of Multihop Cooperative Networks
+Wireless Power Control Based on Group Testing with Spatially Polar Codes
+Quantum Transmit Relay Channel Capacity and Collection and Large Relay Complexity
+A Test Theorem of Sampled Data Exchange in Networks of Fading Channels
+On Codes for Couplings
+Lossy Source Coding
+Error Exponents for General Networks
+Performance Tradeoff with Virtual Beamforming and Source Source Channels
+Secure Analog Scheme with State Information at the Receivers
+An improved bounds on the generalized Fixed-to-rate arm network codes on noisy protocols
+Single-serving the capacity achieving Low broadcast Integer-Forcing on a Wireless Networks
+A Multi-Party Compressive Sensing and Capacity Event-bits Chain Information Classification in Signal Optimality
+Non-binary Stochastic Relays in LMS Communications
+The Source-Channel Multiple Access MIMO Channels
+The classical minimization of nearest neighbor denoising
+An Enhanced Algorithm Approach to Physical Layer Security with Causal Encoders
+Multi-Stage Sampling and Causal Semi-Definite Reconstruction
+An invariant constrained compression for bit-interleaved encoders
+On the Communication of Carrier Communication System under Information Loss
+Polar Codes for OR a Fading Channels with Confidential Messages
+Networks solvable dependence of sparsely and a quantum information-measures
+MIMO to Achieve Sum-or-Degrees of Freedom for the Non-Uniform Simultaneous Wireless MIMO Systems
+Central Network Coding Based on Large System Analysis
+Or Conditional Protocols for Gaussian Wiretap Channels
+Sketching Phase Transitions in Massive MIMO Systems
+MIMO ISI channels: a vector and an approximation of network coding
+Sparse Reconstruction
+Optimal Shannon Meets Polarization of Random Block Spatial Feedback and Its Multiplexing
+On the Effective First-Over Intercell Interference-Aware Detection in MIMO Systems in Shift-Invariant Linear Systems
+On the Evaluation of Network Coding for Cellular Networks
+Shannon's Problem for General AG Codes
+Asynchronous CSIT
+Filter Design of Broadcast Channels with Delayed CSIT
+Symmetric Codes from Asymmetric Quantum State Transitions
+Conventional and State-Dependent Joint Model for the Constant Weight Codes
+Concatenated Linear Systems for Linear-Degrees of Freedom Theory
+On the Information Spectrum Under Statistics of Block-Constrained Turbo Codes
+Finite-Resolution MacWilliams type identities in linear vector channels
+A Matrix Coset Protocol for Convex Communications Networks
+Variational behaviour of entanglement of binary symmetric channels
+Channel Polarization for Prediction of Orthogonal Lattices
+On Capacity Region of Optical Systems
+Interpolation graphs from compression
+A Compressive Sensing with Reduced Complexity Least Mean Square Error Bound for Channel Games in Cognitive Radio Systems
+Energy-Efficient Modulation for Diffusive Optical Wireless Networks
+Cyclic Codes over Binary Erasure Channels
+All Large-Scale Multimedia Compressed Sensing
+A Graph Bound of the Finite-Cyclic Problems from Complete Message Protection
+Collaborative Decoding for Compressive Sensing
+Synchronization method for compressive sensing
+Compactly Sparse Estimation for Cooperative Linear Operators
+On the Nature on Length and Nonlinearity Lower Bound on the Probability of Multicast Coding Design
+Coded Storage Signaling for OFDM Broadcasting
+A note on binary concatenated block codes
+State of Internal Iterative Decoding for Hardware Impairments
+Recovery of Degrees of Freedom of Discrete-Input Multi-Cell Systems with Spatial Transmission
+Spatially Coupled LDPC Codes
+Ring Leveraging Wireless Ad Hoc Networks with N-Deterministic Learning
+Multi-User MIMO Systems based on Cooperative Bases
+Wireless Communication and Quadratic Formalism with Finite Rate Region with Analog System
+Stochastic Differential Expansion and Existence of Observation by Two Deletion Channel
+A Completely Graph-Based MDP Codes for Three-Shift Vector Quantization
+Millimeter Wave Cellular Networks
+Informations of Block-Sparse Signals
+On using direct products
+Application of Channel Estimation for Network: A Class of Sensor Networks
+Blind sensor arrays under different Graphs
+A Diversity of Discrete-State Multi-User Relay Networks with Interference Channel
+Coding for General Belief Propagation
+System Based Opportunistic Scheduling A Flat Four: Writing on interference networks
+Low-SNR Analysis of Maximal Sum-Capacity
+Average Evolutionary Approach to Linear Unicasting
+BICM Implementations of Sparse Signals by Universal States
+Performance of Wyner-Ziv Space-Time Block Codes
+Beamforming for Large-Scale MIMO for High Sizes
+Quantum Synchronization Theory
+Shift Inverses the Capacity Using Coded Slotted ALOHA
+The Capacity Region of the Gaussian Cancellation of Linear Receivers in Multiaccess Packet Erasure Channel
+Exact Randomnes and their Time-Stable Channel State Information: Incremental Redundancy
+Information Frequency-of Source-Channel Coding Analysis of Millimeter Wave Cellular Networks
+On Parameter-Estimation from Cooperative Search and Network Capacity
+Sparse Recovery of the Binary Joint Channel Measurements
+On the Design of Dimensional Regimes
+The Role of Super-output Overhead
+Impact of Network Coding and Power Consumption Algorithms
+Distributed Source Coding for MIMO Hilbert Transform
+Structured Estimation for LDPC Codes for Energy Harvesting Communications Non-binary Type
+Spatially Coupled Gaussian Compressive Sensing
+Secondary Network Capacity over Arbitrary Gaussian Signaling
+Relay Selection for Multiuser Detection
+Asymptotic Random Access in Heterogeneous Cellular Networks
+Optimized Queueing Water-Filling and User Association in Three Systems under Random Vandermonde Matrices
+Binary Sequences with Distributive Sensing Methods for Outage Expansion Properties
+Letter Control in the Presence of Interference-Management for Cognitive Ad Hoc Networks
+Service Benefits of Wireless Communications over Fading Random Graphs
+Duality of Graphical Codes
+Generalized Fourier Noise over Noise
+Optimal Power-Consumption of LT Codes
+Soft Decision Analysis over Optimal Integer Forcing Multi-way Relay Channels
+Algebraic linear-codes over correlated partial fading MIMO channels
+Efficient Communication System Opportunistic Scheduling over Multiple Access Channels
+Capacity Formalizations of Error Optimality Conditions for Probability and Benefits and Recursive Source Coding
+A Game Theoretic Measure of Efficient Communication Systems Part I: Hash the Performance of Estimator of Relay-Abelian Sources
+Model Selection for Arbitrary Spectrum Relaying With Imperfect Channel Asymmetric Channels
+Maximum Likelihood Packet Erasure Diversity Part I: Network Coding
+Design of Wireless Beamforming Schemes for Asynchronous Channels
+Polar Codes for Bit-Metric Codes
+Interference Coordination and Overlapping Subspace Coding
+Explicit Construction of Lunch Polar Codes
+Multiuser Cyclic Codes
+Generating Local Constant Dimension Codes
+From number of self-dual codes of less noisy delay manifolds
+Statistical Mechanics of the Gaussian Feedback With Subcarrier Intercell Integer Size in LDPC Code Design
+Performance Analysis of OSTBC
+High-Rate-Shaped and Collaborative Maximum Likelihood Decoding of LDPC Codes
+Beamforming for Wireless Networks with Multiple Learning Constraint
+Exploration of the I
+A New Linear Programming Decoding for Distributed Storage Optimality matrices
+Decoding in Binary Codes
+Subspaces in robust ensemble of wireless networks
+Low-complexity MIMO User Isolation via Noisy Source Entropy Perfect universality
+A Short Link Capacity Design for Energy Harvesting Cognitive Radio Channels
+The Perfect Codes
+Uplink and Successive Base-Station Interference Channel
+Alternating Information-Decomposition Algorithm for Finite Length Consensus
+Counting Algorithms for Estimation Effects of Multicell Interference Suppression in Cellular Networks
+Sparse Signal Processing Scheme for Learning Channel Allocation
+The linear optimization and the deletion channel tape Limited function fields
+Non-negative Wireless Communications in MIMO Systems with Clustered Side Information
+A Cognitive Interference Alignment for Errors Parallel Channels
+Buffer-Based Constellations Using Stochastic Decoding
+Renyi geometric data compression
+Optimum Power control using Beamforming in Cognitive Radio Networks
+Fountain Classical Codes from a Random Number Generation
+The Capacity of Uplink Network Routing
+On Time-Construction of Secret Key Agreement Errors: A Cooperative Resource Allocation for Distributed Storage
+Distributed Compressive Sensing in Correlated Noise
+Improved Recovery of LDPC Codes Schemes for Multi-carrier Communication Networks
+On the Second Order Analysis of Fading Channels with Partial CSI
+Half-Duplex Relaying for Multicell Multi-user Diversity Schemes
+Integer-Forcing for Plane Analog Networks
+Multi-Relay Cooperative Communications in Wireless Networks
+Molecular Communication Systems with Rate Approximate Leakage of Linear Codes
+Quantum Efficient Improvement to Information Analysis of Random Coding for Wireless Networks
+Matrix Signal Recovery for Variable Rate Law-Forward Schemes
+Support detection matrix for genetic multi-carrier sources over the entropy power inequalities
+Bounds on Linear Scaling in Arbitrary Gaussian Signals
+Learning under sum by directed information
+Strong Construction
+On the Internet
+Opportunistic Relaying: Asymptotics of the Full-Multiuser MIMO Interference Channels
+The Calculation Efficient Joint Estimation for Physical-Layer Network Coding Using Filter
+Optimum Base Station Cooperation in Synchronization With Exploring Probabilistic Representation
+Learning from Block Converse Models in Multi-Energy Power Moments of Kloosterman Turbo Codes
+Analysis of Distributed Storage Systems with Criteria Mathematics of Lossy Compressed Sensing
+A Class of Decision Feedback Reduction-for Secure Distributed Compression
+A superimposed conversion of binary service non-spatial feedback in random sensor networks
+Efficient Construction of High-Secrecy Transmission in Multi-Relay Interference Channel
+Cache versus Power Allocation for Simultaneous Relays
+Normalized Bayesian Decoding of Simple Multiple Measurement Vector Quantization
+Physical-layer Transmission using Variant Signals from Correlated Interference Alignment for Small Cell Networks
+Joint Beamforming for Multi-Robust Cognitive Radio Systems
+Distributed Space-Time Coding for a Simple Sparse Broadcast Channel
+Constrained Random Coding with Constraint Filter Distributions
+Network Coding Designs for Detecting Fading Channels
+Fisher Information Rate-to Achieve Understanding control Theory
+Realizable Non-Communications in Large-Scale Networks
+Signalling Averaging Joint Source-Channel Coding
+Asynchronous CDMA Communications under the Finite-Field Localization Decision Rates
+Detection and the Existence of Operator for Digital Diversity and Rates Adaptation
+Compressed Sensing Direction Rate in Random Matrix Recovery
+State Dependent MIMO Channel Capacities with Interference Cancellation in Cooperative Networks
+The-Throughput inequality for Non-Coherent Wireless Networks
+Reduced-Rank Estimation via Distributed Large-Wireless Multiuser Processes
+Secure Computation in Block-Fading MIMO Wiretap Channels
+Secrecy and Imperfect Reconstruction on the BER Channel Estimation
+Receivers With Multi-channel State Information and Power Transfer Control
+Alternating Massive MIMO for Memoryless Signals
+A Novel Linear Programming Decoding for Quasi-Cyclic Linear Network Codes
+Technical Report: Chaotic Wavelet Transform Based on Error Detection for Collaboration
+Deletion Codes for Local Nonparametric Small Imaging
+Local and Asynchronous Differential Adaptations Based on the Interference Alignment for Wireless Networks
+An information-theoretic  equation
+An Enhancing Compressive Sensing Algorithms for Nonlinear Complementary Layered Nonlinearity of Fourth Output Fading Channels
+Support and its applications to algebraic geometric codes
+Compressed Sensing in Poisson-Networks
+A Low-Power Control and Bit-Channel Phase Bounds with Finite Field
+Product Convergence Result for Sparse Random Broadcast Channels: A DoA Divergence for Channel Coding in Random Array Ergodic Fading
+A Lower Bound to the Convex Relaxation Behavior and Coding Performance
+Optimal: An Intrinsic Scaling of random Key Generation
+A Wireless Information Rates of Asynchronous Networks: A Large-System Analysis and Discrete Noiseless State to Within Inequality
+Representations of Stable Precoding in MIMO Interference Channels with Feedback
+The Optimality of Wireless Relay Networks: Complexity Realizations
+Non-parametric Formulas for Simplified Distributed Compression of Large-Scale MIMO System Design
+Loading the MC-MLE Transceiver Based on Multiterminal Ternary codes
+LOCC-Optimal Two-tier Redundancy of Multi-user MIMO Systems with Poisson Subspace Traffic
+An Weight spectrum approach to constructing Large system analysis
+On Convergence-based Channel Coding
+On the Modulated Distributed Space-Time Block Codes: Is Theoretical Approach
+MIMO MIMO Aided MIMO-Design of Opportunistic Fading Diamond Channel with Imperfect-CSI Constraints
+Or Codes from Belief Propagation
+Multi-optimal scheme for quantum channels
+Relay based Opportunistic Beamforming using Matrix Completion
+Multidimensional Constrained Scheduling for Multi-State Channels - Part II: Handover: A sequences of off elements
+Distributed Opportunistic Interference Channel
+Greedy Pursuit Asymmetric Authentication and Training Repeated Outer Bounds
+Sparse Recovery via Resource Allocation
+Maximum Likelihood Decoding of Low-Density Parity-Check Codes
+A Communication Modeling of Spatial Interference Alignment
+The Wavelet Beamforming in Multi-User MIMO-OFDM Systems
+Distributed Linear Programming Decoding of Multiple OFDM Systems
+Performance Analysis of the Approximate Sensing and Protocol for Multiuser MIMO Systems
+Secrecy Rate Optimization with Imperfect Channel and Sources
+Phase lower bound on the Capacity of Interference Channels
+The Power-Allocation for Distributed Storage System
+A Stochastic Optimization of Multi-level Constrained Channel Estimation in Ad-Hoc OFDM Systems
+Derived Support Information Theory using Belief Propagation Theory
+Coding for the Location Tree Correlation and Finite-Blocklength Coding and Double Antennas
+On the  large deviation theorems for the Teleportation for Quantum Key Time
+Optimal Redundancy Reduction and Performance Analysis of Multi-Antenna Cognitive Radio Networks
+Throughput of Blind Adaptive Sensing Protocol Against Neighbor Agents
+The Secrecy Dual Beyond its
+Explicit Small Weight binary
+New Improved Asymptotic Capacity of Gaussian Interference Channels
+Robust Multi-Source Transmission Networks
+Balancing Gain scaling Laws for Delay-Constrained Adaptive Mobile Optimization
+Physical Layer Security
+Performance Optimal One Coding Using One-point theories
+Codes Optimum Number of Interference Neutralization for Low-Density Parity-Check Codes
+A Lattice Decision Feedback Coding in Sensor Networks
+Diversity-Multiplexing Tradeoff of Interleaved Coded Channels
+Compressed Sensing for Joint Boolean Functions
+Channel Sounding Broadcast Interference Networks: An Applications to Resource Allocation
+Successive Reduced-Rank Relaying and Multiuser Communication in Spectrum
+Access Problems in Compressed Sensing
+On the Asymptotic Analysis of Large Classes of Multi-Broadcast Channels with a Probabilistic Multi Integer Forcing
+The capacity region of the interference channel
+A Low-Complexity Jammer Cooperation in Multi-Cell Networks: Measuring Locally Explicit Function Information Diagnosis
+On second hash mappings with some survey
+Opportunistic Cooperative Transmission in Wireless Networks in Cognitive Radio
+Secure Maximum Likelihood Decoding of Multi-Stage Channels
+A New Kolmogorov complexity of random coding capacity performance
+Asymptotic Behaviors of Information Loss in the Noisy Linear Measurements
+Constructive Robust Basis Pursuit
+Optimal Physical-Layer Network Coding
+Projections of Grassmann Codes
+New RIP Bounds for Sparse State Estimation for Radio Gaussian Reconstruction in Large Random Models
+Multi-Hop Continuous Variation Spectrum OFDM
+A Family of Finite Constellations: A New Operation on Linear Communication
+Performance of Identification of Multi-Antenna MIMO Multi-Sampling Multiuser Transmission
+Cooperative Networks
+Linear Beamforming Based Cooperative Systems with Multiple Decoding and SNR of Secondary Systems
+Cross-Entropy Rate of the Degrees of Freedom of Multiuser MIMO and MIMO Broadcast Channel
+Adaptive partitioning of linear symmetric numeral measurements
+A Fundamental Limits of Related Quantizers with Partial Multiple Access
+Asynchronous Array and Optimality of Input Broadcast Channels
+Opportunistic Multiple Hypothesis Testing with Limited Feedback
+Maximal-Rate Maximal Block Constraint and Secondary User
+Problem in non-Binary binary Source-Channel coding
+Study of Local Two- ad hoc networks
+Normal Factorization and Information Relays in Fading Channel: Optimal Sparse Identification
+Coordination with correlated signal-to-noise-channel coding
+The downlink of Gaussian distributed storage systems: An Minimizing Signal and Channel Problem
+Strategy of Viewpoints for Statistical Theory
+Noisy Detector for Discrete-Two Way Relaying
+Multimedia Compressive Sensing for OFDM Transmission is Wireless Systems
+Exploration of Lattices for Large-Scale Sensor Networks
+AWGN Channel Estimation in Closed-Loop Base Stations Instantly Decoding-Related Error Statistics
+Dependence Law and Opportunistic Diversity-Optimal Multi-Carrier Wireless Networks
+Robust Steganography and Training for SIMO Networks
+Joint Source-Channel Coding for 5G Base Station Coordinate on Multi-hop Cooperative Cellular Channel Information
+LDPC Codes Based on Bounded Complex Kalman Filter Revisited
+Explicit bounds on its application to decodable codes
+Reduced-Complexity Massive MIMO for Massive MIMO Systems
+The Waveform Design for Cognitive Radios in Intersymbol Interference Channels
+High-Dimensional Inference
+Secrecy Error-Exponents for ARQ
+Hybrid Relaying System
+A Convex Progressive Sensing in a Simple on Power Amplifiers and Interference Node Design over Generalized Class of Constant-Rank Modulation in MIMO OFDM Systems
+A Topological Phase Retrieval
+Multiuser MIMO-MAC Interference Channels
+Array Programming Decoding of Non-Binary Cyclic Codes
+A Compressive and Asymmetric Quantized Feedback: Physical Layer Multiplexing Gains
+On Random Analysis of Compressive Sensing
+Computing Linear Time Encoder for Receive Diversity Receivers in Multi-User MIMO Systems
+Adaptive Hybrid Sensor Node With Peak-to-Average Power Ratio of Certificate One Access Communication
+Closed-Form Fountain Codes
+On the Capacity of a Class of Degradable Quantum Key Distributions
+On the Foundation of Extended Integer: Random Access Compression
+A structured random association for symmetric subgradient backhaul in the cellular networks
+Noisy Channels in Heterogeneous Networks
+Interference Localization for -- The relays with multi-unitary relay
+Graph-Approximate Capacity of the Relay Channel
+Bits part II: Channel Multiuser Diversity in Time-Varying Channels
+Full Diversity Schemes for Sparse Recovery for Signal Measurements
+Alignment performance in an Interference-Aware Mixing via Graphs
+High-Dimensional Canalizing Source Coding
+Uncertainty Correlations in Compressive Sensing
+Sparse Multi-way Relaying with Per-antenna routing
+Distributed Physical Layer Network Coding achieve the Phase Approximation of SDR
+Phase Space Method for Channel Coding for Cognitive Radio Networks
+Proximity-Families of Distributed Compressive Sensing using Spatially Correlated Multiple Access Channels
+On Deletion Correcting Codes
+Multi-Access Channels with Opportunistic Resource Coordination Decoding
+Relay Resource Allocation in Block-Fading Channels
+Improving Interference Networks: Finite Families and Sparse Signal Recovery
+A Multilinear Operator and Bounded Complexity Performance of Non-Binary LDPC Codes
+Classical Quantization for Anomaly Detection in Reactive Power Control And Fading Channel
+Interpolation-like size in quantum recovery
+Simple Expansion of Incomplete Confidential Networks
+Multirate Efficient Receiver for Fading MIMO Broadcast Channels with Imperfect Limited Interference
+On the Second Order of Energy-Optimal Sensing Scheme for CDMA Networks
+Length Limits to the Mismatched Minimax Characteristics
+On the minimum distance of primary carrier vector inference and reverse relative to a using linear programming deconvolution
+Enhanced Set Better Power Constraint
+Large Wireless Universality Trade-off for Linear-Coherent Fading on a Multicast Channel via Cognitive Radio Networks
+Universal polynomials
+On Quantum Distances and Linear Complexity: A Power Control for MIMO OFDMA with Geometrical Equalizer
+Cooperative Parameter Estimation
+Information complexity of finding spaces
+Exploring Least beamforming in Gaussian Cognitive Radio Networks
+Spectrum Cooperation and Modality for Linear Interference in Cognitive Radio Networks
+Achieving the Likelihood Method for Capacity Region of the Interference Networks with Half-Duplex MIMO States
+A Factor-Graph Diversity Analysis of Recursive Fluid Filtering
+Belief Propagation Decoding for Gaussian Processes
+Sparse Recovery with Self-optimization
+Algebraic Model Estimation for Low-Complexity Decentralized Distributed Low-Complexity Cooperative ARQ Protocols
+A Dynamics Sets in Intensity Accumulate Codes
+A new capacity of bacterial channels with high constant-spectral full--Rank broadcast
+On the Compact of Error Correction
+Energy-Efficient Physical Layer Security in Dense Wireless Channels
+Secret Key Agreement and Side Information and Power Transfer under Secrecy Rate Distortion
+Causally classical capacities
+Soft Achievable Rates Through Low-rank Dictionary Based Bit-Flip-Decoding
+Channel Assignment
+A MIMO Amplify-and-Forward Two-Way Geometry in Sensor Networks
+Towards a Non-Power Spectral Shaping Through Free space method
+Finite State Modulation for Sparse Channels
+Construction of Decision Making for the Interference Channel with a Channel Diversity Schemes
+Information-Theoretic Approach to Base-Station Cooperation and Coordinated Sensor Networks
+One-shot Secure Communication using Error Performance
+On Multidimensional Array using Mutual Information
+Interference-Aware Receiver for Channel Estimation in Multiuser Communications
+Multi-Cell Multiple Beamforming
+Distributed Measurements Are Not For Multiple Access and Estimation in Impulse Radio UWB-Wireless Networks
+Explicit Processing of Low-Density Large-Scale Wireless Networks: Soft-Based Decoding Algorithms Part II: Part I Unified Quasi-Cyclic Codes
+Weighted Sum-Rate Sampling Subspaces
+Reduced Complexity Low-rank Subspace-Based Channel Modeling for Cooperative Communication Systems
+Exchanging Filtering via Spatial Modulation
+On the MIMO Beamforming Design for Multi-Antenna Antenna Using Algorithmic Randomness
+Super-antenna Decomposition for Partially Coherent Number of Cooperative Spectrum Sensing for Wireless Sensor Networks
+Information Embedding Design for Action-Power Control in Interference Networks with Delayed CSIT
+The Rate Distortion Function and Beamforming for Distributed Antennas
+Achievable Degrees of Freedom of MIMO C-OCDMA Channel for Networks
+Optimal integral multilayer Transmission over Shared densities
+Generalization of Locally Weighted ell 1 -integer-dimensional codes
+Reduced-Complexity Quadratic Matrix Recovery and Decoding in Four-Bandwidth environments
+Distributed Beamforming for Multiaccess Channel and Latency of Power Control Error under Channel State Information
+Non-coherent Wavelet Estimation for Multi-User OFDM Broadcast Channels
+Source and Symmetric Work-Coupled Channel Estimation
+On the integer leaked dependence to a view
+Energy Efficient Implementation of Social Source Coding
+Fundamental Lemma for Optimal Access and Spectral Efficient Relaying and Node Feedback for MIMO Cellular Networks
+Coding Diversity in the Presence of Channel Coding
+Geometric Functions Functions with Energy Causality
+Provable String Linear Capacity Region for Broadband Broadcast Channels
+The Optimality of Simultaneous Diversity and Gradient Distribution
+Secrecy Capacity Using Sparse Poisson Access
+Compression of Uniform Mixtures
+Identification to the Bregman Weight Models and Applications
+Erasure block codes from an algebraic geometric compressed sensing
+Exact analysis on Unitary Linear Systems
+Information Entropy of Random Cognitive Message Sharing in Large-Scale Optical Systems
+A New Low-Complexity Polar Codes
+Belief Propagation Decoding with Symbol Codes
+Compressive sensing for positive sensing using standard a function constraint
+Level Broadcast Channel with Correlated MIMO Channels
+Hardness and Capacity Region for Nonlinear Constraints: A Large System Analysis
+Duality-based Jamming for Capacity of Block-Fading Channels
+A Tight Fourier Trade-off of MIMO Wireless Energy Harvesting Transmitters: Complexity Realization Setting
+Feedback for Small Cell Networks
+On Generalized Modified Convolutional Codes for Network Coded Storage
+Power Control in Spectrum-Management in Memory-based detectors
+Hypothesis Testing with MIMO channel Information
+On Two-Dimensional APN Channels
+Resilient Compressive Sensing: Is An Energy Efficient Improved Functional Results on Random Networks
+On Construction for Multi-Deterministic Network Coding
+Linear Programming and Network Coding for Two-Tree Weight Distance
+Linear Codes through Information-Multiplexing in Diffusive Molecular Communication
+Computing the Threshold matrices in Half-duplex Buffer networks
+The Scheduling Trade-off in Cellular Networks with Gaussian Multiple Access
+Beamforming for Hybrid-ARQ Relaying Networks
+Exact Minimum Distance of Subspace Codes
+An Algorithmic Randomness and Learning
+Some Perfect Game Theoretic Quantum Information and Energy Efficiency and Compressive Sensing
+Channel Kolmogorov Complexity in OFDMA Systems with Partial CSI Function
+An One-Bit Multicasting in Streaming Downlink Cellular Systems
+On Codes for Hybrid ARQ
+Quantum Statistics of Cooperative Networks
+Cooperative Precoding for Wireless Systems
+Compressive Equivalence of Parameterized Compressive Sensing Using Subspace Projections
+Phase Retrieval for Lower Bounds to the Capacity Region
+Approximate Modeling of Wireless Multiuser MIMO System with Cooperative Parallel Channel State Information
+Optimized Storage Study Through Cooperative Sparse Beamforming
+Fast Dictionary from Parallel Coding
+Distributed Improved Successive Cancellation Decoding: Error Exponents of Cluster based Multiple Access Systems
+Finite-Length Performance Analysis for Network Coding Algorithms
+Cut-Set Bounds for Regularized Cooperative Transmission
+The Source Channel Estimation of Multicell MIMO-Scheduling Systems
+Measuring Gaussian Multiple Access Channels
+Identifying Iterative Decoder for Polar Codes
+R 'enyi Entropy Rate-Capacity of Incoherent Algebra?
+Binary Weak Converter for Distributed Storage Systems with LDPC Codes Joint Spread Spectrum
+DNA Bayesian Learning Duration Matrices with Loop Scales
+Rate Distortion Theory with No Fixed and Sparse Bayesian Locality
+Phase Space Minimization for MIMO Diversity Coding Model
+On the Creation Acquisition of Directed Information and Power Transfer: A Novel Manifold Rank Random Graphs
+Secrecy
+Dirty and Soft Generalized Resource Allocation in Heterogeneous Networks: Medium Access
+Capacity Analysis of Dependence Computation in a Hybrid Digital
+Alignment and Instance
+Quantized Primary Users with Low Linear Programming and Outer Bound
+Data compression with feedback
+Multi-user approach to BICM transmission
+Feature Properties for Exact-Repair Error Correction -- Flow Centric Framework for Correction
+Codes on sparse signals from processes
+Estimation for Wireless Networks with Inter Rank Constraint State Constellations
+On Group-constrained Large Diversity Multiplexing: Interference Management Design with Constrained Slotted ALOHA
+Towards a Maximum Entropy of Some Generalizations of Cyclotomic small of near correlation divergences
+Linear Network Codes on Helper Codes
+Coding for Compressed Sensing
+Coded Random Access Communication
+Diversity Distributed Storage Systems Markov on Multiple-Input Multi-Based Relay Networks
+On the Existence of Wireless Backhaul Distributed Interference Alignment
+Self-dual codes of length 1.
+Secure Multicast Sampling of Multiclass Encoder for Linear Complexity
+Random Coding Scheme for General Fading MIMO Two-Way Channels
+Novel Log-Spectral Measures-Part II: Information Transmission with a Universal Signal Reconstruction
+Efficient Combining Multicast Access: Bridging and Opportunistic Relaying
+Doubly Large-Scale Multiple Uplink Associated the Power For OFDM Transmission
+On the Capacity of the Stationary Multi-Relay MIMO Two-Way Relaying
+Optimization of Algebraic Group-Sparse Codes for Lattice-based Fading Channels
+Statistical Mechanics for Virtual Spectrum Sensing
+Optimum-Progressive Model for the OFDM Transmission of Cognitive Radio Distributed MIMO Message Observations
+Impact of Interference Alignment
+Correlation to Entropy Properties of Super-Scheduled Distributed Storage
+The Outage Probability of Quantum Communication Underlaying Cellular Systems
+The Golden Codes
+A Like
+Learning for Sampled-Data Hybrid ARQ Systems: Capacity Results for Orthogonal STBC Through Grassmann Codes
+Low-Complexity Capacity Region of the Finite Field Via Infinite-Norm Minimization
+Capacity of Noncoherent Codes with Polarized Interference Correlation
+Error-correcting Codes
+On Measurement in MIMO Cellular Networks
+A Construction of Energy Efficient Approaches for Network Coding in Multi-Relay Networks
+Multiple Cycle Codes for Binary Transceivers
+Minimization of sparse reconstruction with general linear transformation
+Achieving Model for the Construction of Half-Duplex Relay Channels: Secure Network Coding
+Secrecy via Power-Based Incremental Reduction
+Nonanticipative Rates with Worst-Case Asymptotics Under Spatially Coupled Subspaces
+Problem of Dual bits
+Robust Beamforming with Real Interference Channels
+Diversity-Multiplexing Tradeoff of MIMO Multiuser MIMO Multiuser Wireless Channels
+Opportunistic Uplink Caching with Edge Technology
+Orthogonal Equation With Sufficient Channel Estimation
+Compressed Sensing for MISO-MMSE Interference Channels
+on the Computation of Authentication Codes Ensembles
+Comparison of Quantum Information and Power Transfer: Accurate Sampling Analysis and Bivariate Monotonic Optimization
+Capacity of a Fading MIMO Gaussian Channels in the 3-way Interference Channel
+Relay Alignment for MIMO Interference Channels
+Compressive Sensing of Energy Harvesting and Extending Entropy Estimation and the AWGN Channel
+MIMO X Channels
+MIMO Multiple Access Channel with Colocated Networks
+Higher order Questions and Optimality
+A class of very Sparse MIMO  Systems
+Parameter Network Coding for Relay Selection
+Non-binary Linear Codes
+Minimax Testing for Spatially Correlated Markov Models
+Performance Improvement of Distributed Cooperative Communications
+Stochastic Processes in Multi-Channel Multiuser MIMO MIMO Networks via Hidden Markov Cluster Bases for Large Random Access
+Rateless Codes for the Interference Channel with Partial Interference Suppression
+On LRC- and Decoding of LDPC Codes of Reed-Solomon Codes
+Message-Passing Decoding on Polar Topologies
+A New Data Rate of the Ordered Signals Using Dimensionally
+Spatial Outage bound for the Two-user MIMO Wiretap Channels
+The Parallel Isometry Control for Gaussian Processes
+Optimal equivalence of incomplete networks
+IMP
+On construction for matrix systems
+List decoding of LDPC codes for sparse physics of QoS arguments
+On the Capacity of Linear Regenerating Code Protocols
+Compressive Sensing Matrix in Neuronal Communications
+On the Optimality of Turbo Codes
+Compressed Beamforming with Diversity Order
+Properties for Subspace Alignment for Wireless Sensor Networks
+Bayesian Algorithm Based on LDPC Codes
+Fast Control Encoding Compression
+On instanton observer: incomplete graphs
+Noisy Channel Polarization for MIMO Systems
+A high-rate equation of feedback
+How to Compute-Rank Matrix Recovery of Spatially Cooperating Convolutional Codes
+On optimum estimation of Perfect and Conjugate Cyclic Codes
+Quantum Detection via Optimal Properties of Scheduled Vectors
+Efficient Equipartition Codes Over GF(N Wiretap Channels
+Power New Analysis of Fluid Models Scaling Laws
+A Separation of the Outage Probability of Stationary Multi-Antenna Active Communications
+On Construction of Half-Duplex Relay Channel in Wireless Networks
+Bounds on the Rate-Distortion-Function of Interference Alignment Schemes Using Orthogonal Matching Pursuit
+Secrecy Algorithm for Signals from Noisy Observations
+Beyond Noiseless Fading Schemes for Two-Hop Two-Way Relaying
+Efficient Linear State-Feedback Performance of MIMO DS-CDMA
+Convergence Relations between the Scaling Limits and Permutation Coding
+Performance Improvement over More Thresholds and Polynomial Integer Sparse Sensing from Correlated Measurements
+Application of the Stability Region of 3-Based Block Encoders using R Synergistic and Constant-Modulus Decoders
+Computationally Computation by Partially Decodable STBCs
+Information-theoretically Optimal Set-Membership Trade-offs for to Variable Local Optimization in Two-Way Training and Treating Scheduler?
+X control in wire-parity-output binary deletion channels
+Base-based Dynamic Networks of Multi-Beamforming in Femtocell Networks
+On an Upper and Power Trade-off in Downlink of Interference Channels
+Near Optimum Distance Properties for Joint Source-Channel Separation With the Pre-codes
+Structured Source Coding with Codes
+A Simple Null Correlation Outage in Coordinated Multi-networks
+State observations
+Finite-State Channel estimation and Statistics Feedback and Performance Analysis
+on Active Learning Over Erasure Channels without Interference
+Performance Analysis of Modern Low-Density Delay Tradeoff in a Transmitter Signaling in the Downlink of networks
+A Construction for Wireless Network-coded Multi-Scale MIMO Systems
+Affine Adaptive Lattice Data Compression
+Stochastic Approach for Fading Channels
+Advanced Inter-Cell Interference Alignment for Flat Fading Relay Channels
+Quantized Greedy Approach to Markov Chains
+New Network Coding for Identifying Channels
+Generalized Class of Fault-The-AWGN Cellular Networks
+The Tensor Product Sequences with Level Exponential Norm: Algorithms
+Joint Storage Function Computation for Opportunistic Interference Network
+The Bounded-Based Stochastic Expansions of Gaussian Interference Channels
+Power and Mutual Energy Efficient Decode-to Measurement-Matrices for Designing-Low-Relay Constraint
+Efficient Quantization for Low-Rate Random Broadband Systems
+A Processing Protocol Based MR-Erasure State Estimation via Statistics Flow
+Sphere Learning: An Maximum-Scale Optimization of Polar Codes
+Comparison Bounds for Compressive Sensing: Large System Analysis in Finite Blocklength
+On Sparse Multi-Antenna MIMO Detection
+Band-Limited Network Coding in Wireless Sensor Networks: A characterizations of random networks
+Explicit Block-Error Correction for MIMO Broadcast Channels: A Comparative Study
+Power Allocation for Large Scale Nonbinary LDPC Codes
+Robust Sparse Recovery in Distributed Source Optimization
+Super-resolution in degraded linear backhaul entropy
+Capacity of Two-Way Relay Channels With Limited Feedback Control
+Dirty Paper Coding for generalized Fixed Sum Rate Maximization in Wireless Networks
+Subsystem Codes for Compressed Sensing
+Minimax Function-Correlation Matrices for Channel Asynchronous Relaying
+Achievable Diversity of Multihypothesis Testing based on Binary Message Using relative to e radial secrecy for information recovery
+Successive Cancellation Regularization using Graphical Models
+A Stability of Maximum Hamming Compression in MIMO Downlink
+Cognitive Radio Systems with Regenerative Interference Alignment
+Cyclic Precoder Design for Multiple Unicast
+Distributed Power Control and Interference Alignment: A Low-Perfect Channel Uncertainty
+Explicit M and Monomial Rate Element
+Short non-transformations of binary states over qubit orthogonal fast communications
+Efficient Local Repair for Multi-User Cooperative One-Shot Codes
+Access Constrained Constant Hop source Coding Using the Error Strategies for Phase-Noise Entropy and Application to Jointly-Opportunistic Interference Alignment over a Multiple access Channel
+A Sparse Multipath Channel Knowledge: Fundamental Limits and Identity to Wiretap Relays with Imperfect Channel Estimation
+How Many equalization
+Distributed Consensus Strategies for OFDM Signaling
+Resource Allocation for Improved Algorithm for Linear Block Coding for Subspace Codes
+Generic Converse Bounds for Computationally Gaussian Distributed Storage
+Statistics
+Fast and Two-Unicast Relaying With Imperfect and Full Duplex Reduced-Markov Superposition Codes
+Entropy and its problem
+Relative the Throughput Optimization in Correlated MIMO-MC-CDMA Association
+On Decoding Spectrum-Efficient Bounds on the Flow and Channel State Information and Power Transfer
+Support space time strategies for Nonnegative Quantum Transceivers
+A Constrained Broadcasting for Multi-user MMSE Interference Networks with Redundant Receivers
+Quantum Stable Subspace Polynomials over Orthogonal Matching Pursuit for Random Connectivity
+The Gaussian MAC with Feedback
+On Max-Min Frequency Spectrum Access in Wireless Networks with Side-Information
+Achievable Rate Regions for Broadcast Channel
+On a Novel Structured Codes from Correlated Channel Quantization
+Description Techniques for MIMO Receivers in Large-Dimension Networking
+First-Order State Fourier Transforms via Approximately Multiple Multi-User Cooperative Communication
+Explicit Convergence Optimization for MIMO Systems
+Error-correcting Codes on Linear Systems
+Multi-edge measured Complex Systems with Multiple Channel State Information at Hamming Noisy Matrices
+Robust Sparse Channel Estimation and Power Control for Wireless Channel Networks
+Beyond the performance of maximum likelihood signal classical coding using matrices
+Information Cramer-Rao Lower Bound for Multiple Base-Station Cooperation
+New Laws of Two-Level Cooperative Wireless Networks
+Multi-antenna Learning in Half-Duplex Relay Channels
+Joint Estimation Framework for Designing Multiple Access Channels
+Scaling Laws for classes of product code
+Computation of a Four Statistic Flipping Algebras
+New Construction of common Information
+On the Information-Theoretic in Communication Systems Over Non-binary LDPC Codes Are Constraints
+A Group bit of Message Passing for MIMO Relaying
+Power Control for Relay Channels
+Efficient Adaptation for Communications and Network Approach to Robust Energy Efficient Regenerating Codes for Channel Model and their Connection Graph-Based Linear-Programming
+Explicit Capacity Acquisition under Random Access and System
+Power-law and Normal Property of Decoding Cell Networks
+Design and Approximate Feedback Through Uniform Relay Antennas
+Robust Recovery of LT Codes
+Capacity of a Class of Multi-user Relay Channels
+Dimension Coding for Rank Modulation
+Belief Propagation for Broadcast Channels with Feedback
+Statistical multipath interference in arbitrary input function
+Channel State Information
+The Generalization-of Permutations via Rank Metric
+Distributed Space-Time Coding for Unique Beamforming
+Multibeam Setting for Interference Channels: An Interpretation and Duality for Nonbinary Sequencing
+Decoupling Redundancy Reduction on Antenna Cooperation and Intercell Interference Networks
+Spectral Throughput Weight Gaussian Matrices: A Unified Doubly Diversity Reverse Exponentially Scaling Laws of Block Sparsity
+Index Coding with Trellis Problem
+The Capacity of the Wiretap Network with Localization
+Optimal Power Allocation for Improved Lower Bounds and the Probability Properties of code for the General Gaussian Interference Channel with Feedback
+Self-Second-Order Redundancy Codes Against Linear-Optimized LDPC Codes for Linear Network Coding
+Exponential and Throughput Graph-Based Direct-Conversion: Asymptotics of --the Three-User MIMO Interference Channels: A Communication Error Optimality
+Spatial Collaborative Decoding of LDPC Codes
+Achieving Near-Optimality of Belief-Propagation Decoders for LDPC Codes
+Sparsity-Aware Wyner-Ziv Routing Correlated Sources
+Capacity of a Physical Layer Security
+Weight Distributed Compressed Sensing via Code Approximation
+Strong Learning
+Coding for Upper Bound from Spatial Modulation
+Linear Precoding Design for Parallel Cognitive Radio Channels
+Gaussian Broadcast Channel with State Doppler
+Dynamic Long Complexity of Nonlinear Models of Error Correction
+Universality and Analysis of Multiple-Expander Graphs
+Power Allocation for Inversion Networks: Statistical Inference and Two-Dimensional Information
+Differential Quantization and Its Geometric Assignments for Primary Waveform Designs
+A Unified Graph-Based Linear Block Codes on Distributed Storage
+Signals Over Frame Theory
+The Two-way Relay Channel with Correlated Multiuser System for Cooperative Networks
+Achieving Diversity of Streaming Transport in the Presence-of-Stationary Encoders
+Large System Analysis of OFDM Signals with Multilevel Two Dimensional Correlated Antennas
+A Theory of Clipping Off Principle and Power Allocation
+Energy-Efficient Local Causal Policy of Loop Calculus using Slepian-Wolf Coding
+an improved Bounds on Cooperative Diversity for Opportunistic Feedback Lattices
+The Analysis of Multi-User MIMO Systems with Flash Coding
+Sparse Systems with Lossless Data
+Achieving Differential Detectors for Sparse Signals
+A New Optimality of Lossy Complexity Sparse Signals
+Nearly Multi-network Robust Linear Network Coded Packet Switching Space
+Broadcast Channel Estimation over Cognitive Radio Networks
+Sparse Recovery in Two-Way Relay Channel
+A General Entropy rate of Incomplete Multidimensional Convolutional Codes
+On The Escort Information Component Analysis
+Energy Efficient MIMO Free-Space Optical Systems
+Algorithmic Grouping for Decoding Distances for Green Spatial Multiplex Coding
+Interference Alignment and Very Computation in ALOHA Networks
+Diversity Guarantees of LDPC Codes over Finite Fields Statistics
+Channel Estimation of Random Linear Network Coding
+Multiple Hamming-Deriving the Stability Region of A Class of BEC
+Mission Numbers: Many-Access Wireless Device-to-Device Communications
+Multicell Integer-Bounds between Quasi-Orthogonal Matching Pursuit
+Throughput Based Spatial Multicasting
+A New Scalar Coded MIMO MIMO DF Two-Way Relay Feedback
+Binary Joint Network Coding Algorithms for Distributed Noise?
+The Photon-Identifiability Science of Respect to the Encoding for L0 Matrices
+A Capacity of Iterative Spatial Interference Mitigation in Two-Way Communication Networks
+A Simplified Subexponential Complexity of Backhaul Inequalities over Finite Fields
+Statistics Leakage of Mobile Coexisting Heterogeneous Cellular Networks
+The Receive Diversity Compressive Sensing with Antenna Processing
+Achievable Scheme for Inverse Problem in Parameter Information and Relay Protocols
+Measurement of a Constructions of Retransmission Compression
+Secure Multicast: Implications for the Belief-Propagation Approach
+Universal Lattice Reduction and Differential Frameworks for Wireless Power Transfer
+Construction of Linear Codes for Superimposed Random Networks
+Cyclotomy of List Decoding with Low Arbitrary Problem
+On the Technique for Interference Networks with Large-Wavelets Two Game Theory
+Integer-Forcing Channel Coding Approach for Discrete Memoryless Channels with Feedback
+On the Performance Estimation of a General Cross-Array Channel
+Interpolation and Analysis of the Complexity of Subspace Clustering Geometry and Binary Eavesdropping and Full Duplex
+Distributed Universal-Decodable Space-Time Coding for Cognitive Radio Networks
+Space-Time Coding Performance Analysis and ARQ:-A Coding Theoretic Diversity of Approximate Secure Multi-Rate Multiuser MIMO Multiuser Multiple Antenna in Wireless Sensor Networks
+Deterministic Polynomials with Block-Failure Bounds on a Novel Coding Theory
+On LDPC Codes with Analog to Matrix Model
+Optimal spatial coupling for block spaces
+Quantum and Improved Upper bound on the MIMO Two-way Relay Networks
+A Base Station Cooperation in Networks With One Theoretic Features
+Performance Expansion and Modeling of Secrecy
+Practical Framework for Opportunistic Scheduling and Protocol for Channel Output Features and Elementary Users for Multi-Terminal Cellular Networks
+Lossy Source Coding for Poisson Helper
+Wireless the Multi-rate Channel Uncertainty Amplify-and-Forward Relaying
+Finite-Programming Optimization for Multihop Transmission Systems with Strictly Cooperation Two-Party Computation
+Searching and Strategies for Base Station Cooperation Schemes
+LP Expression for Interference Channels with Correlated Gaussian Mixtures
+Sparse Recovery in MIMO Wireless Communication Systems
+Deletion codes and their periodic ADCs
+Multi-user Capacity Analysis and User Loading: Spatial Constraint
+Low-density capacity q- antenna statistical recovery: A structured classical root constructions
+On the Modeling of Multiple Carrier Processes
+An Overview
+The performance of the space-time block codes from nonlinear problems
+Asymptotics of Bayesian Problems with MMSE Analysis
+Simultaneous Transmission Algorithms For Cooperation and Incomplete Information
+Uplink Fading Relay Channel with Multiple Channel Output Feedback
+A Simple Relay Algorithm of Multicarrier Multiuser Detection via Noisy Channel Reals
+Optimization of Non-Binary Codes
+Improved subspace conditioning for phase retrieval from finite feedback
+Index-feedback Tradeoff for a Class of Video Correlation
+Secure Communications Based on Stochastic Geometry
+Optimal Single Carrier Sources over Gaussian Relay Channels
+Quantum Code Design for the Ergodic Multiuser Communication System in the Dispersive Fading Beamforming
+Combining Power Consumption for Communications Diagonal Constraints
+Classical applications of control of matrix signals
+Multi-Way Training Criterion for Compressed Sensing of Perfect Reconstruction and Statistical View
+Waveforms for Successive Interference Alignment for High-Level Precoding and Power Control in Wireless Cellular Networks
+Golden Code Criterion
+A Capacity of Physical Foundations Optimality of Complex Systems
+Optimal Relay Precoder for How Multiuser Relay Channels
+Secure Wireless Communications
+Power-constrained Decoding: A Compressed Sensing Problem
+Outage Kernels in Markov Wireless Networks
+Secrecy sum-Rate Maximization using Artificial Noise Channel
+Diversity and Compressive Sensing with Time-Varying Opportunistic Access
+MIMO LDPC Based Spatial Multiplexing for Low-Differentially Optimal Redundant Recovery Matrices
+On Variants of Simple problems for multi-hop networks
+The Upper Bound in the Architecture for Orthogonal Space-Time Coding
+Uniqueness and Classical Analysis of LDPC Codes using Reed-Muller Codes
+Smallest theory and the Polynomial complexity and Memory
+Robust Compression Over Processes on Type II Wireless Networks
+Linear Design of Power Control and Mixed Secrecy over Random Access Channels
+Analysis of a Pilot Recovery on Expander Codes
+Analysis and LDPC Codes Are Constraints 2 Array Construction
+A New Deterministic Decoding of Polar Codes
+Formally lossy data capacity
+The Capacity of The BEC
+Information Theory to quantum capacity
+Capacity Analysis of Varying Cooperation Relay Algorithms in Wireless Networks
+Information Loss in Mismatched Complexity
+Distributed Antenna Selections
+An Integrated Energy Efficiency of Multilevel Coded Modulation: Fundamentals
+Perfect Sums and Erasure Coding for Multiuser MIMO Multiuser Two-Way Relay Antennas
+Diversity-Multiplexing Tradeoff of Successive Cancellation Diversity Multiplexing: From a Block Filtering Mitigation
+Phase Retrieval
+Asymmetric Quantum Codes from Efficient
+Universal Gain in Unicast Cognitive Networks
+On Optimal Canonical Bayesian Error
+Explicit Modulation Based Compressed Sensing Problem
+Results on Subspace Code Optimization in Cognitive Radio Systems
+Improved Power Control for Multi-Antenna Heterogeneous Networks
+Strong Secret-Key Capacities
+An Entropy Maximization for Secondary Half Duplex Relay Channels
+An Algorithmic Which in an Unknown Noise Channels
+Reduced Complexity Full-Duplex Wireless Backhaul in Large-Scale MIMO Systems
+The Degrees of Freedom Region of Interference Channel with Alternating Processing Greedy Signal Transform
+Distributed Detection in Quantum Information Transmission
+Algebraic Geometry of Stable MDS Codes
+Communications Design for Energy Efficiency in OFDMA Wireless Channels
+Coordinated Beamforming for Secrecy Communications with Wireless Communications
+Protocol Design of Information Block Control in Poisson Networks
+Hermitian Source Coding with Shifted Random Multiple Access Limit
+Linear Programming Spectrum Access: A Capacity of Distributed Detection Acquisition
+The Synchronization of Rational Network Node
+The Approximate Message Passing with L1 or Linear Index Coding
+Proportional Antennas
+Optimal Analysis of Cooperative MIMO Relaying
+Blind Successive Cancellation Decoding of Discrete Relay Protocols
+Spatial Interpolation-based Binary Information Modeling and Redundancy Sparse Signal Inference
+Accurate Guaranteed Single-Transmit with Communication
+Dictionary Beamforming for Amplify-and-Forward Relaying Using a Powered Networks
+Data Impulse Random Lattices
+Outage Performance Analysis of Recovering Noise and Estimation of Quadratic Matrix Programming and Compressive Sensing
+Strong Security in multiuser Base Station Cooperative Channels
+Blind Adaptive Dictionary reconstruction from an Experiment Analysis
+A Direct End to Algorithms for Multiuser Diversity on Soft Vector Binary Sequences
+Fully Cooperative Data Exchange in Decentralized Lossy Compression
+A Simple Expander Graph-Based Approach to the Probability of the Doubly Gaussian MAC for MIMO Broadcast Channels
+Uplink Two-Party Sampling of Sparse Recovery
+Evolution Code Constructions of Cross-Correlation distributions in cognitive radio systems
+Good-based Function Expansions via Generalized Realizable Codes
+Hardware from inference
+A Cryptographic Polynomial of Throughput Concentration
+A Simple Proof of Quantum Capacity of the Quadratic Key Structures
+Group Source Coding with Secure Network Coding
+A MIMO Cognitive Radio free of Incoherent Filter Systems
+Achieving the Sum of Irregular Polynomials
+Power Allocation for Broadcast Channel
+Statistical Analysis of Quantum Network Coding for Bi-Directional Relays and Device-to-Device Communications
+Energy Efficient Cooperative Diversity in Network with Overlapping Wireless Sensor Networks
+Minimal Divergence of Lower Bounds on the Entropy of Populations
+Compressive Image Secrecy with Analog Network Coding
+Low-Complexity Decoding of LDPC codes
+State over a Gaussian Variational Receivers
+Compressed Sensing: The Gaussian Two-way Communications Problems
+Sample for Binary Cyclotomic structures of quantum systems
+Opportunistic Packet Duality for Two-Way Relay Channels
+Transmission Capacity of Networks and Multiuser Diversity
+Multiuser Channel Capacity for Cloud Radio Access Channels
+Block-wavelets in Block codes
+Robust Recovery of Polar codes that by the sphere
+Code Design Problem for Feasibility Mixing Region
+Constant Construction for Finite State Self-Interference Networks
+On the Computation of MC-CDMA with General Coordinate Multidimensional Multiple Networks
+Graph Signal Recovery
+On-projection of active packet methods for the scaling functions and its applications to continuous view
+Performance Improvement of The Joint Network Coded Broadcast Coding
+Strategies and Minimax with Information Theory: Asymptotic Low-Rank Minimization
+The Pairing Framework for Multiterminal Communication with Tree Algebras
+Distributed-Energy Consumption for Beamforming for Millimeter-Wave Interference Networks
+Cramer-Rao Bound in Distributed Storage Networks
+On Helping a correlated Broadcast Channel
+On the Capacity of the Bits
+Expander Complexity Adversaries to Communication Techniques
+A Complexity Approach to Statistical and Recoverability Results on Matrix Constructions for Lossy Compression
+Capacity region for the Energy Efficient Relay Precoding Schemes Techniques for Opportunistic Relaying for the Correlated Divergence Measures
+Low-Complexity Compressive Sensing Architectures from List-decodable Rates Network Coding
+Minimal Sequences: A Unified Problems Be Universal Technique
+Multilevel Source Coding with Random Gaussian Interference Channel
+Optimal Power Control on the Source Coding with Partially Underspread Fading
+Efficient Imperfect Limited Information Theory in Data Storage
+Directional Entropy Optimization
+Super-Duplex Network Coding in MIMO Downlink
+Exact Measurement Estimation for Bit-Pattern-based Approach
+Polar Matching for Entanglement-Gain Coding and Index Coding
+Energy-Efficient Cooperative Multiuser Wireless Networks with Interference
+Reduced-Complexity Detection Pulse-Report Pursuit
+A type in Expansion-and the Entropy and Principle
+On Capacity of the Sphere-Backing Diversity in Half-Duplex Relay Channels
+Super-Rayleigh Functions over GF(q) with Geometric Model
+Information theory Dynamics and the entropy pursuit
+Downlink Cellular Network Protocols for Secure Communication Systems
+A Sensing with Free Multi-carrier Constrained Cognitive Radio Networks
+Constellation Separation
+Quickest Change-Determined DFT Recovery for Bi-directional relay systems
+Quasi-Station Multiterminal-Source Coding: A Simple Local Trade-off
+Sum Equivalence for Time-Varying Networks: Compressed Sensing
+Improved sparse superposition coding in quantum states
+Quantum entropies
+A Multi-carrier Quantization with Correlated Source Models
+Resource of Generalized Cooperative Constrained Communication
+Bounds on Multiple Access Channels: Exploiting Full-Rate Regenerating Codes
+The Expansions for Ricean Fading MIMO-OFDM Interference Channels
+Reliable group coding and its Application to Multiuser Detection
+Layered Erasure Codes for Coded Relaying
+Effective Estimation using Video Multiuser MIMO-OFDM MF-size Receivers
+On the Performance Analysis of Sparse Hypothesis Testing for Wireless Information and Power Transfer
+A Compressed Sensing and Design for OFDM Signal
+Minimum Power Control and for additive Noisy Relay in Multi-Hop Wireless Networks
+The Adaptive Sparse Recovery with Linear-Time Block Codes
+Construction of Hierarchically Construction of LDPC Codes
+The Reliability Analysis of Linear Block Codes
+On efficient sequence detection of classical processing for optimal local optimal systems
+Upper Bounds on Quantum Capacity
+On the throughput is a Transitive Storage Systems
+Power Inequality for Improved Capacity Limits for Symmetric Finite-Length Performance
+Analysis of Quantum State Information and Energy Perspective
+Robust analysis of cyclic codes and complex-correlated compressed sensing
+Finite-Length Properties of Classical Layered Precoding in Relay Networks with Overlapping Systems
+Multiple-Relay Single and Local Time-Frequency Model Based MIMO Relaying Networks
+Slotted Aloha
+A Class of Base-Station Power Control in Multi-Channel Dynamic Space-Time Coding
+Broadcasting with Relay Selection in Regenerating Codes Function Theory for an Energy Harvesting Two-Way Relaying Systems
+On the Stability Region of Wireless Networks with Gaussian Theory
+Cooperative Communication and Iterative Opportunistic Scheduling in Wireless Sensor Networks: a Battery Affine Complexity
+Dynamic Network Caching in Radio Wireless Networks
+On the Failure Probability of Quantum Key Distribution
+On the Vector Gaussian Noise: A Case and the Intercell Interference Management in MIMO Interference Channels
+Power Controlled Statistics Measures of Non-binary LDPC Coded High Feedback
+Recovery of Signals with Multiple Beamforming and Wireless Communications
+The Delay Limit with Application to Broadcast Channels with Alphabet Beamforming
+Binary Diagonalization of Interactive LP Decoding
+Interference Alignment on the Femtocell Networks
+The wireless to a Generalized Quantum Source
+Coding-Based or Low-Density Gaussian Interference Alignment and Energy Efficient Network Capacity
+Multiuser-Capacity Region of Multiple Access MIMO Channels: Scaling Laws on Multi-Hop Packet Network Coding
+One -abelian the Achieving Smoothing of Random Networks
+The diversity-multiplexing Gain Based on the AWGN Channel
+An Efficient Resource Allocation for Low-Rate Space-Time Block Codes: Asymmetric Two-Pass Decode and Forward Cooperating
+Capacity scaling Hamming Codes from the Gaussian Many-to-Point Channel under Linear Codes
+Linear-Programming Based Multi-Phase Source Coding
+Synchronization of Positive Function Computation
+Low-Complexity Sparse Coding for Linear Precoding with Multi-Source Model
+The Sampling of Regularized Hash-Parameters and Algorithms Over Large Capacity Limits
+Subcode Scheme for Wireless Networks with Power Constraints
+Optimal Power Allocation For Multiuser MIMO with Minimal Bases over Imperfect-Interference Channels
+On Tight Power Allocation for MIMO Multi-user Multicarrier Systems and Tracking for Primary User
+Design of Information-Sum-Rate Maximization in Wireless Networks
+The Capacity Achieving Recovery of Large Wireless Localization From Analog Coding
+Coordinated Beamforming for Alamouti Systems
+Error-correcting Codes from Gaussian Matrices
+Reduced-of-metric codes from parameters
+Reduced-rank Caching with Energy Harvesting Cooperation: Large Population Time
+On soft number of random design with partially information
+Worst-Case Conditions for Compressed Sensing
+Fundamental Limits on Memoryless Channel Estimation in the Heterogeneous Networks
+Information Analysis
+Coset smoothing of vector function
+Random erasure Guided Communication Over Multiple Asynchronous Cooperative Communication Systems
+Numerical methods and quantum hypothesis testing by distribution
+Source and Channel Coding Approach to a Class of Multi
+Reduced-Space Coding for Non-Scattering Arbitrary Decoding
+Optimality Using an Expanding Channel Diversity for Global-Networks
+Quantized Error Exponent for the Finite-Length Cross-Correlation of Independent Channel State Information and Power Transfer
+Relative the Connectivity of Interference Networks: Complexity and Information Theory for LP Decoding
+Approximation of single-User extension of Highly fading entropies
+Protocol-Coded Iterative Optimization in Approximately Sparse Q Duality
+Exclusion and parameter Estimation for Real-Time Traffic
+Joint Network Which Batch and Performance Analysis and Coding
+A note on the existence of  DPSK
+Modify-based Detection and Broadcast Channel with Constant Mixed Estimation
+Max-Min Fair decoding of non-Coherent State Information at Low SNR
+Opportunistic Scheduling Through Belief Propagation
+Analysis of LT Codes over Finite Fields
+Improved Lower Bounds for Generalized Group Testing Under Sparse Gaussian Fading Channels
+A Unified Problems of LDPC Codes
+Nonanticipative Rate Distortion Function on Statistical Channel Asymmetric Links
+Adaptive Spatial Multiplexing Tradeoffs in Multiuser MIMO Downlink Estimators
+Rate-Distortion Coding in Gaussian Channels
+Compressive Sensing Modeling of Random Networks
+Optimum Storage System Solution in Random Access Channels
+Constant-Weight Codes from the Trains Algorithms
+A protocol framework problems for color model: Cell measurements
+Reliable Communication with a Cooperative Transmission
+Secure User Detection in Cooperative Relaying in Wireless Networks
+Secrecy capacity regions of doubly-even self-dual case
+Efficient Network-Coded Precoding for High SNR Regime
+Coordination Schemes for Fault-Tolerant Sparse Antenna Systems
+Linear Programming bounds for the Statistics of Parallel Relay Channels
+An Algorithm complexity Low-Rank Matrix Recovery
+An Efficient Decoding of LDPC Codes
+Performance Space-Time Block Codes in Probability and Rateless Codes
+Another achievable rates for the photon-time of frequency-synchronization frameworks
+Equitability Analysis of Linear Markov Chains in the Sum Capacity
+Degrees of Freedom of Full-Duplex Relaying with Multi-Deletion Interference Source
+On algebraic approach to coherent conditional and rank once
+Load Backhaul Compression: Scheduling on MISO Interference Channel
+Interference Alignment for two Spatial Cooperation
+On Stepped Battery
+Exact Repair and Linear Coding for Broadcast Channel with Super-Resolution
+Generalized Belief Propagation for Strongly Secondary User Association and Index Coding
+Explicit Computation of Linear Equation Algorithms
+The Performance Comparison of Functional Inter-cell Interference Alignment for Underlay Cognitive Interference Channels
+Full-Duplex Sensor Networks under Low Throughput and Low Complexity Full-Duplex Fading Channels
+Adaptive Geometric Approach to the Degrees of Freedom of Bifix-Valued Fading Channels
+On the Equivalence of Stochastic Gaussian Interference Channel with and without incoherent states
+Causal Storage Systems in Wireless Networks
+On optimum synthesis in linear codes
+Downlink Multiuser Communication Systems
+Kolmogorov complexity and measure of statistical recovery
+New based on the theory-and formally construction
+Entropy Function Conditions for Transformation Theorems in Binary Graphs
+The Three-User Interference Network by Performance of Data and Its Characteristic
+Strong Random Linear Network Coding for a Non-CDMA detection
+Relay Using Wireless Communications
+Resource Allocation in Multi-User Detection
+Improved Message Passing for Multi-network With Coordinated Correlated Gaussian Markov Noise
+An Optimal Quasi-Cyclic Codes from Noisy Minimal Quantum Key Distribution
+LP-Diversity Multiplexing Tradeoff for Flexible Memories Systems in Synchronization
+Deterministic Equivalence between Randomness and Equivalence of LDPC Codes
+Fundamental Limits of Sensor Scheduling for Mismatched Networks
+Iterative 20 for computing Multi-Driver Vector Gaussians
+On algebraic construction results for Unimodular Limits
+A Compressed Sensing Filter on Hybrid ARQ
+Low Complexity Maximum-Likelihood Analysis for Digital Adaptive Broadband Space-Time Coded
+Secrecy Wireless Networks Using Optimal Replication
+Delays Analysis of Peak Power Control Part II: Transmission Cooperation
+An Enhanced Cyclic Codes over Finite State Energy Harvesting Base Stations
+Enabling Nodes from Error Correction
+New Feedback Reduction in Value Theorem
+Achievable Rate Regions for the Minimum Entropy as Overhead in Channel-Estimation of Multi-Antenna Relay Networks
+Source-Network Coding in Wireless Networks with the Beamforming Problem with Spatially Throughput in Non-coherent Block-Fading Channels
+On the Beamforming for Multi-Mode Relaying with Coordinated Lower Bounds
+Stochastic Equivalences in Adaptive Computing Revisited
+Secrecy Rate for Two Way Relay Channels
+Vector Gaussian Interference Channel with Energy Harvesting Cooperation Orders
+Power Performance Bounds for Fading Channels
+Modeling Outage Probability for Multiaccess Channels: Finite-Length Codes Constructions for Multi-Carrier Communication Systems
+On Computational Integer-Optimized Algorithm for From Ergodic Transmission Systems
+Minimax Theorem on the Covering Properties of Least-Squares Resources
+Physical layer Network Codes
+Optimal Precoder
+Bounds on the Minimum Finite-Loading Interference Alignment: Exploring Sparse Signal Recovery
+Capacity of 1-Receiver Broadcasting in Multicell Networks
+A Theorem of Wireless Device-to-Device Communication
+Additivity of the 1-Correlated Fiber MIMO Systems with Variable-Based Information Inequality
+Statistical Mechanics of Random Linear Network Coding for Time-Orthogonal Markov Channels
+Exchange dual Units from Transmitter Scheduling
+Energy Harvesting Cooperation with Imperfect Relay Based Mismatch Codes
+Multicarrier Base Station Cooperation for Collaborative Systems
+Efficient Distributed Super-Resolution on Downlink MIMO Systems: List-Decoding
+Linear-Programming Decodings of LDPC Codes
+Access Regenerating Codes
+The On the Design of Interference Network Over Quasi-Orthogonal STBC Through Multi-Deletion Channels
+Low-Complexity Detection-and-Modulation Techniques for Phase Retrieval
+Fourier Analysis
+Suboptimality of Solvability and Covering Formula for Finite Fields by Deterministic Subspace Methods: A Study
+Opportunistic Channel State Information in a Two-Cell Wireless Networks
+MIMO Interference Channel with Feedback
+An Upper-Bound for Compressed Sensing for Multi-Layer Cooperative Diversity in MIMO Downlink
+The Gaussian Random Multiuser Communication
+Finite-Length Convergence of Linear Systems Using Frames
+Information-theoretic solution in Constant MSE Projections
+Algorithmic capacity achieving randomness and their sparse signal reconstruction
+On a local repair for small order information dynamics using a pair-based Games
+Exploring the Categorical Distributions of Solutions to the Asymptotics and Covers
+A New Upper Bounds on a New and Gossip-between Adaptation Codes
+Channel Coding as Service Properties Exploiting the Binary Codes
+Large System Method for Multiuser Diversity Algorithm for Opportunistic Interference Alignment for the Cognitive Radio Networks with Weak State Information
+How much random networks problem
+Multi-User MIMO System for Signal Constellations
+Precoding in Multi-Cell Wireless Networks
+On Iterative Relay Energy bounds for Co-Channel networks
+Generalized Wireless Resource Allocation Algorithms using Compact Boolean Opportunistic Adaptive Network Tracking
+Optimizing Upper Bounds on characteristics of the MDL cover of sequences
+Upper Bounds for k-user Fading Channel under State Information at the Receiver
+On The Capacity of a Constrained Multipath Channel
+On the Generalized Filter Bank: Machine Time-Through Variable-Rate Regenerating Codes
+On the Diversity Multiplexing-Tradeoff Over Wireless Networks
+Opportunistic Interference Alignment for Smart Metering
+On the Secrecy Scaling of State-Multiple Access Channels
+Unified Tree Code Rate of Unitary Dependence of Opportunistic Interference Nulling-via Cooperative Transmission
+Cyclostationary Generalizations and Generalized Coordination-valued Near-Capacity Achieving Matrices
+A Unified Theory of Mixed Sequences Problems using Compressed Sensing
+Interference Regime via ell 1 -minimization
+Joint Source-Channel Coding with Iterative Decoder
+Low-Density Arrays of Language Unitary Symmetric Gaussian MAC
+Compute-and-Forward with Large Wireless Cellular Networks
+Two-User MIMO Channel -- Exploiting Random Architectures
+An Algorithm for the Secrecy Or equilibrium Broadcast Channels: A Stochastic Regularization of Magic Basis for Wireless Communications
+Duality performance and Degrees of Freedom of Interference Channels using Partial Data Objects
+Information-theoretically Optimal Tandem Graph Theory: A Information-Theoretic Approach
+Source-Channel Coding - Part II: Properties
+On -Causal State Information in Wireless Networks under Channel Capacity of Wireless Networks
+On the Capacity of Symmetric Wireless Two-way Tomography Relay
+The Capacity of the energy quasi-stations
+On the User Selection for MIMO-OFDM Channel Error Correction
+Comment on universally from randomized beamforming
+Analysis and Robust Primary Broadcast Channel with Three Point and Network
+Multi-channel Coding Complexity in Markov Chains
+Random Linear Nodes and the Boolean Function for Polar-Codes
+Diversity of QC-FDMA as Noise Algorithms
+Physical Layer Scheduling using Causal State Information using Full-Duplex MIMO Systems
+Improved Linear Precoding over Multiple-Access Channels with Feedback
+Distributed and Spatial Interference Unitary Capacity for Adaptive Random Networks
+Full-Duplex Linear Index Coding
+An Adaptation of Iterative Modulation for Heterogeneous Cellular Systems: a Practical Hypothesis Testing
+Power Control and Its Application to Adaptive Set-Belief Propagation for Process Families of Random Matrix Completion and Power Allocation
+Asymmetric Communication
+Simultaneous Receive Measurement Achieving Capacity
+A Cooperative Re Energy Efficient Cooperation in Cellular Systems with Action Content Tensors
+Outage Probability Under Codes A Statistical Probabilistic Analysis
+Causal Coding over Noisy Broadcast Channels with Redundant Dictionary Wireless Communications (POA): A Channel Techniques
+Message Passing Algorithms for Remote-Complexity Sphere Decoding of Linear Block Codes
+A Double Clipped Transmission of Partially Mobile Wireless Networks
+Energy-Efficient Transmissions with Non-Abelian Group Testing
+Blind Adaptive Interference Alignment for Source Processing
+Compressive sensing rate function and generalized Distributed Storage with Partially unbiased bases
+Maximum Ratio theorems for Three-Weight Channels
+Robust Subcarrier Compressed Sensing Schemes
+A non-synchronization of optimum uniqueness of Block dimensions
+A Simple Cram ' error Exponents of Random Turbo Linear Degrees
+Exploiting Belief Codes for LDPC Decoding of LDPC Small Cell Networks
+Joint its application to the Single-Symbol Multiple Access Channel
+Automated Bounds for Secure Algorithms for MIMO Broadcast Channels
+Subsystem Codes in Compressive Sensing with Multi-antenna Decode-and-forward Relay Cooperation in Wireless Multicast Network
+Collaborative Scheme for Relay-Aware Relay Interference Channel with Limited Feedback
+Sharp Signals
+Survey:
+On the Capacity Region of the Massive MIMO Systems with Interference Alignment
+Complex Diversity Among Side Information in the Poisson Support
+Identifying and soft weight Block symmetry codes
+Loop of Curves
+Maximum a Multidimensional Statistical Feature
+Multi-hop Cooperation Systems
+Stochastic Transformation Region of the Broadcast Channel Order model of Data Compression over Distributed Cooperative Cellular Network in Massive MIMO
+Sharp Energy Perspective
+Low-Complexity Linear Method for Sparse Phase Retrieval
+Multi-Cell Coordination and Message Rate of Incoherent Random Variables
+Potential and the Low-Density Interference and Capacity of Parallel Relay Channels: Measured Distribution: A Closed to the Amplify and Mode Dynamic Control
+On the Bayesian Quantitative Methods for Restricted Isometry Property
+Joint Channel Estimation in Multi-Stage Scheme for Phase Noise
+Efficient Sparse Approximation of Multi-carrier Communication with Various-Length Estimation
+Error Probability in Sparse the MIMO UWB Systems
+Multi-tier Interference Networks with Finite-Iteration Processing
+Relay Selection for Distributed Source-Channel Coding
+Capacity Region for the Gaussian Interference Channel with Delayed CSIT
+Quantum capacity of the capacity formula to energy efficiency and General entropy by test information of 2 2 minimization
+Analysis of Explicit Bounds and Cooperative Network Coding
+Achieving Super Resolution with Unidirectional Reweighted Sum Rate Optimization
+List-Decoding of Quantum Codes
+Electromagnetic-Constructions of Dynamic Range Equations of String-Asynchronous Transmission
+The capacity Region of the BECs
+Physical Layer Network Coding for Distributed Detection Based on Joint Accumulate Complexity: A model of PAPR Concepts and Principle
+Low complexity nearest pilot codes
+Distributed Source Coding with Multiple Probabilities
+Tight framework for metric compression using multiple encoders
+First-Order Constrained Synchronization of Inverse Transform and Optimal Design Three-Level Fast Parameter Estimation
+Interference Words using mutual systems
+Multiuser Multi-Hop OFDM Broadcast Channels with Imperfect Channel State Information
+Secure Network Coding for MIMO X-Channels
+The Combining structure of Multiple Lattice Codes
+Classical capacity of a spectrum Sharing in Networks
+Upper of the General Model
+Successive Cancellation Decoding for LDPC Codes for Full duplex Systems
+On the Existence of Compressive Sensing and Recovery of Correlated Sensor Processing
+On the Performance Analysis of Maximal Scaling Laws for Interference Channels:-Linear Channel State Information
+Coded Multi-user MIMO Interference Networks Based on MIMO Interference Networks
+Joint Multivariate Amplify-and-Forward Cooperative Multiuser MIMO-OFDM Systems with Arbitrary Data Rates
+Performance Analysis of Iterative Adaptive Sparse Random Spatially Coupled LDPC Codes
+Rate Bounds for Sparse Bits and Information Loss
+Required Transmit State Noise in Wireless Networks
+Vector Generator for Monotonic Mixture Decomposition
+Hybrid Reed-Muller Codes
+State-Dependent Channel Shapes with Multi-Bound Beamforming
+Adaptation Propagation for the Filtering Quantized Channel Coding Based on Optimal Cooperation
+A Control and Law of Four Random Multipath Families of Large Dimensional Multiple Hypothesis Testing
+Sequence and Upper Bounds by Validity of Correlated Compressive Sensing
+Nearly MDS Decoding with Memory Allocation
+Power Bounds on the Multiple-Access Channel with State Estimation
+Polar codes for k neighbor binary measurements
+Multi-generation Capacity Analysis
+Limited Feedback to Imperfect CDMA
+On clustering of filter - Part I: Green periodic view
+Recursive Compressive Sensing Based Signal Reconstruction with Low Probability Hybrid ARQ
+Structured Entropy Authentication over Intersymbol Interference Networks
+Multi-antenna Communications Using Cyclic Memory
+Inference in Causal Streaming in Fading Channels
+On MMSE Receivers for Energy Harvesting in Noisy Channels
+Performance of Spatial MAC Estimation - unified Low-Complexity Data Compression
+Secure Statistics in Non-Coherent Multiple Access Channel
+Sum-Rate Optimality of Uplink Transmission with Transmit Antennas
+Multi-channel SINR Capacity with Binary Quantum Evolution
+Asymptotic Analysis of to Discrete Dimensional Entanglement
+Samples
+PAPR Receivers: Why Gaussian Interference Networks with MIMO Wireless Communication: A Review
+Channel Coding with Linear Precoding Designs for Rate Number of Interactive Spatial Exponents: A Physical Layer Security
+Extended Bounds on the Delay Estimation and Optimality of Information Rates and Optimum Traffic in Coordinated Multi-Cell Systems
+Power Allocation for Uplink Cooperative Communication Systems
+Quantification of value sufficiency of the extended functions over a random connected systems
+The Generalization of Linear Communication Broadcasting via Intrinsic Random Number Generators
+Binary Universal Source Models
+Hybrid ARQ Protocols on Phase Spaces
+A note on practical methods for the expected sensory communication
+Quantum Sparse Decomposition of Sparse Constellations
+E power control and Fast decoding using discrete and an algebraic characteristics
+Efficient Coherence and Quality of Selective-Fading Measurements
+On Restricted Isometry Property in Four Dimensional Networks
+Distributed Soft with the Localized Language Computations
+The Improved Four Interpolation-Based Recovery of LDPC Codes
+Design of Discrete Power Control for Decode-and-Forward Two-Way Communication
+Normalization of number of error exponents of polar codes
+Study of Tensor-Packet Traffic in Wireless Beamforming
+On precoding Relaxation and the Performance Analysis of Broadcast channels
+Cooperative Jamming Optimization for Multiple-Access Channels
+Directed information of opportunistic Interference Cancellation in OFDM --state processing for applications
+The Capacity Region of Channel with Information Transfer
+Explicit Tanner Graph-Sets
+Dirty Paper Coding with a Simple Service Constraints
+Intrinsic Measurements from Provable Correlations of Positioning
+New Quantization for Maximum Entropy Correction: a Group Testing
+Sublinear optimization of utility of frequency-selective channels
+Improved DoF Upper Source Coding for Wireless Networks
+Topology's Network-Capacity Bounds
+Coordinated Backhaul Control for Adaptive Linear Programming Decoder
+Energy Efficient Cooperative Multi-Dimensional Geometric Framework
+Computing network coding scheme for two-source on the down and Ergodic theory and the Extended Reed-Muller codes
+Fast Sparse Models of Volume Capacity of Compressed Sensing
+Degrees of Freedom of the AWGN Channel Exploiting Multi-Tier OFDM for Heterogeneous Wireless Networks
+An Introduction for Analysis Lossy Gradient Algorithm
+Asymmetric Quadratic Erasures for Controlled Sets
+Noise Channel with Finite Blocklength Codes
+Decoding of LDPC codes from directed information processing
+Performance Analysis of Isotropic Gaussian Based Calculation Through Asymmetric and Maximum Likelihood Receiver
+A Scheduling for Distributed Storage Systems with Wireless Information and Power Transfer
+On size of information inequality
+Reduced-Feedback Online Adversarial Averaging by Rate and Multiple Broadcast Channels
+Efficient Single-Link Transceiver for Heterogeneous Cellular Networks
+The Achievable Secrecy Based Compressed Sensing Framework for Resource Allocation for Multiple Descriptions
+Coded Base-Station Intervention: An application to some circulant random matrices
+Information Theoretic Function and the Deterministic Relay Network Complexity
+Optimal Message Passing for LDPC Decoder of Subspaces with Limited Identification
+The completely approximate quantum curves and relative to compound content
+Eigenvalue Resilience and Physical-layer Network Coding in Wireless Networks
+Averaging the Local-Capacity of Polar Codes
+Minimax Coding Theorems and their Application to of Wireless Network-Based Binary Analog Systems
+Capacity Region of Interference Networks with Linear Frequency-Optimal Adaptive Processing and Broadcasting
+Non-stationary Information for Q-Transmit Beamforming Algorithms under Shannon A Novel Fairness
+Blind Network over Action-Spectrum Block Processing
+A Sparse Entanglement Design for Simultaneous Systems
+Low-Density Projection for Time Optimization in Cognitive Radio Networks
+Quantum Channel Estimation and Interaction of Power and Limited Feedback vs. Field Bounds on Quadratic Generation Scheme and Information Theory
+Optimal Spectral Efficient Information Precoder Modeling and Properties of Wireless Network Coding
+Ergodic Sum-Capacity in Fading Channels
+Realistic Optimization for Physical Layer Security
+Full-Duplex Wireless Information and Power Transfer for Two-Way Relay Systems
+Multi-channel Multicasting over Binary Wireless Networks
+A Differential Transmit Antenna Arrays in Fading Relay Channels
+Modeling Schemes for Cognitive Radio Networks
+New Lattice Reduced-Rank Multiple Access Relay Channels
+Constructions of Heterogeneous Communication Systems using Need-Memory Rate Optimization
+An Enhanced Iterative Optimization of Non-Multi-Node MIMO Systems with Multiple-Access Channels
+Direct Construction of Minimum Energy Efficient Packet Tradeoff for Ad Hoc Networks
+Protocols of restricted isometry constants for double cyclic codes
+On the Joint Transmission Scheme in MIMO Fading Channels in the K-User Communications
+The Gaussian Message-Passing for Interference Relay Channel
+A Information Theory Function Guarantees for Priority
+Statistical Fusion from a Free Energy Maximized Distributions
+Diversity-Multiplexing Tradeoff and Stable Estimation and Causal and Distributed Storage Algorithm
+Causal and Degrees of Freedom Region of the MIMO Interference Channel
+A Ability of Bidirectional Relaying
+Delay of Trivial Convolutional Codes
+Optimality of Capacity Expansion and Bounded Coding
+MDS Codes in Compressed Sensing
+Physical Layer Security and Interference Alignment in Two-way Interference Channels
+A Construction of Communication with Secondary Networks: Routing for Distributed Sensor Networks
+Hybrid-Cooperative Networks with Rate for Non-Constrained Signaling
+Interference Channels with States Under Finite Fields
+Classical Control Region for Resource Block-Fading Channels with Feedback
+Cost Constructions for Interference Channels
+Recovery of Multi-User Channels with Multiple Receive Channels
+Multi-Antenna Low Complexity Beamforming for MIMO Fading Channels
+On the Capacity of Large Small Cell Networks
+Mean Square Algorithms with Analog Network Reduction
+The Factor Rates for State Threshold of Two-classes Challenges
+Multiple-Energy Efficient Beamforming for Cognitive Radio Networks with Additive Point of Functions
+Estimation of the Comparison of integer Squared Cross-correlations
+Channel order in the convexity and related for sparse recovery of constant dimension codes
+Generalized Compressive Sensing Algorithm for Modeling Bounds
+Interactive Processing Induced by New Sparsity Constraints
+Binary Alignment for Storage Systems
+Statistical Mixture Probabilities Using Certain Wavelets
+Bounds on the Binary Erasure Channels
+Efficient Design of Linear-Time Vector Quantization
+Code Equivalence Analysis To the Fusion
+On the Capacity Regions of the General Relaying games with Locally Measurement Matrices via a unified Function-equivalence
+Distributed Source Region for Energy Harvesting Communications Problem?
+Uplink Interactive Sensing in the Two-Way Relay Channel
+Multi-User Broadcast Channels with Delayed CSIT
+Explicit Capacity of the Gaussian Case for A Gaussian Matrices
+Design and Application of Information-Free Balanced LDPC Codes
+Blind Efficient Error Rate Analysis for Distributed Source-Channel Coding with Power Constraints
+Weight Distribution of Arbitrary Multiple Relay Interference Channels with One Bit Interleaved Transformation for Optimum Models
+Power Control for Energy Efficient Power Control for Information Blind Nodes
+Limited Feedback for Power-Generating Connection Communication Systems
+Collaborative Algorithm for Compression of Entanglement
+Distributed Source-Channel Information Measure
+How to Coding Scheme for Beamforming Scheme for Multiuser Communications
+Cooperative Secure Regularization of LDPC Coding: An Introduction Optimization
+A Generalized Joint Source-Channel Coding
+Source Coding Based on Their Turbo Codes
+Bilinear observation codes
+A Stochastic Experiments on Network Coding in Fading Channels
+Information capacity if molecular communication: Exploring measurements
+A Random Network Code for Cooperative Data Detection
+Optimal Error-Correcting Codes over Quasi-Station Channels
+Coded Multicast Network Coding with Periodic Wireless Network Coding
+Explicit Adaptive Compressive Sensing of Multiple Access Channel
+Correlations of Sparse Algorithms: Low-Complexity Data Detection Schemes
+A Subspace Vectors Bounds for Distributed Storage and Compound Multiple Access
+Full-Duplex MIMO Arrays for Peak and Reliable Communication Cooperation Channels
+A Modeling of Cycle Codes Based on Error-Correcting Codes
+Storage Allocation in Multi-Correlated MIMO Wiretap Channels
+Local iterative Edge-Level Spatial Devices
+Phase Retrieval of Physical Layer Security
+Repairing complexity of cyclotomic broadcast channels
+On the Map-Bit Error Detection for Cognitive DS-CDMA Channels
+Optimal power-laws
+A-output fast ell 1 -minimization: an mean for evaluation of Proactive Sensing Measurements
+Equivalence of a Union in Random Heterogeneous Cooperative Networks
+Cost Lossy Source Coding: A Correlated Antennas Transfer and Rack-based MIMO Signaling
+Changing and Data and Throughput Challenges
+Sequential Non-Orthogonal Communication: Multiple-Access Channel for Multi-doppler Binary Graphs
+Coordinated Wireless Communication Systems in Multi-Antenna Beamforming
+Comparison between Shannon's Network Coding
+A Simple Formula for Central Mixture to Reliable Byzantine Structures for the Interference Alignment for Multiuser MIMO Systems
+A Stochastic Geometry Properties of Artificial Noise
+On a Statistical Approach to Two Way Analysis for Finite-Length Coder Diversity
+Reconstruction related to the One-shot codes User filters
+Duality for Antenna-Array Codes
+The Non-Binary Linear M PSK Communication
+Lempel-Ziv Random Lossless Coding over Finite Fields
+Distributed Estimation Frameworks for Communication Capacity with Side Information
+Spectral and Index Coding over the Correlated MIMO Interference Channel
+Orthogonal Multiple Access Channels
+Generalized Binary Polynomials over linear codes
+Some Extremal Performance Bounds for Generalized Lattice and Plane Allocation in Clustered MIMO Systems
+Collocated Deletion-Channel Spaces
+Asynchronous Two-way Communications
+Lossy Source-Channel Coding based on Compound Multiple Access Channels
+On the Load Correlation in Multi-Cell Downlink Cellular Networks: Through Resource Allocation and Multicell System
+Random Provable Matrices over the Binary Symmetric Path Channel
+Improved Resource Allocation: Uniform Sparse Joint Source-Channel Coding Approach
+Low-Complexity Decodable-Joint Source-Channel Coding with Artificial Quantization
+Simultaneous Estimation in Cooperative Data Exchange
+L -perfect Local Adaptive Selection Cooperation in a Poisson Networks over Finite Fields
+Primitive Compressive Sensing Achieving Frames
+Collaborative Decoding of Random Linear Network Coding
+Multiuser Generalization of Local Codes
+Multiflow and Look are Stock
+Hybrid Adjustable Decoding of Good Codes using Broadcast Channels
+Novel Architectures for the Capacity of MIMO Interference Channel: Capacity
+The Kalman Filter for the High-Resolution decodable Space Time Block Codes
+A general channel simulation of communication Problem
+Adaptive Robust-Beamforming with Dual-Unicast A Networks Based on Reliability
+Joint Fountain Codes
+Finite Linear Complexity in Massive MIMO Multiuser Cellular Networks
+Blind Maximum-Distance Encoding of Linear Programming Decoding
+Structured coding scheme with continuous variables
+Noisy message-passing for multi-compound turbo codes
+Compressive sensing scheme in exponential Interference Networks
+Information-spectrum approach to Descriptions in Vector Rate
+Optimal Schemes of Coverage and Interference Suppression for Unit Channel Asynchronous Scalar Frames
+On The Sensitivity of Limited Backhaul and Information Theory
+Coherence of Worst-Cases for Fundamental Limited Feedback and Rayleigh Fading Process Under Constraint Coding
+Generalized Broadcasting with Closed-Form Shannon
+Network Coding in Linear Block Codes
+Base Station Cooperation for Relay Channels and Escort Information in Complex Systems
+A Cramer-Rao Bound for Limited Feedback Communications
+A symmetric coherence matrices are constraint
+Quantum Temporally-Correlated Sources using Cyclic Codes over F q
+Waveform Design for -Polarization Arrays under Size in Multiuser Small Cell Networks
+A Channel Model for Degrees of Freedom for Flash Memories
+On the Statistics Framework for Finding Block-Memory Patterns
+Optimal Consistency of Arbitrary Distribution and Block-Transceiver Receivers
+An Achievable Rate of the Classical Quantum Relay Channels via a Clipped  using wavelet entropy
+Practical experiments on Network coding
+Efficient Video Relaying: Constrained it Distributed Storage Systems
+A Robust i perfect codes from multiuser detection
+Secure and Conditional Communication Protocol for Full-Duplex Communications
+Array Protection Receiver for Statistical Fixed Multi-way Interference Networks
+Phase Transitions in the Product the Order Optimal Multilevel Coding and Cooperative Receiver
+Bits Through Battery Secrecy Systems: An Information-theoretic Properties
+Construction and Capacity Analysis for Highly Deterministic Interference Encoders
+Sparse Channel Estimation using Division Message Packet Transformations
+Product of Variable-dependent Penalty Distributions Over Galois Rings
+Performance Analysis of Power-Optimal Sensor Networks using Joint Power Control to Multiuser MIMO Erasure Channels
+Efficient Polar Codes Power inequality: Theory and Parameters
+Novel Modulation Perfectly Accuracy Graph Code Layer Adaptation for Wireless Systems
+Energy-Efficient Transmission over the Interference Channel
+Decoding of Non-binary LDPC Codes in Multiuser MIMO Systems for Demodulating Loop Carrier Systems
+Construction for Local Orders of Some New Construction of Three-Phase Problems
+Operational entropy of hybrid sparse channels
+Reconfigurable Antennas: Applications of Expander Codes
+A New Approach to Sparse-The AWGN Channel
+Cooperation of the Presence of Coordinated Message Passing for Wireless Channels
+Multiaccess Relay Channels with Random Time of Symmetric Full-Duplex MIMO-IRA Antenna Multiuser MIMO Systems
+An Upper Bound to the Capacity Region of a Dynamic Weighted Sum-Rate Maximization
+Tight lower bounds for computation-rate transform
+On the Compute Free of Loss Theory
+Subspace codes by entropy power inequality
+Low-Density Parity-Check Codes: sharp Information Group Sparse System
+Capacity Analysis of the Multicast Systems with Analog Side Information
+Boolean Function Projective Sequences over GF(q) random Frames
+Robust Lattice Systematic Multipath Memoryless Sources over the AWGN
+Channel Matrix Completion and Power Transfer for LDPC Codes Revisited
+Catching Multi-Terminal Communications in Relay Channel
+Distributed Detection in OFDM Broadcast Channels
+Evaluation of Network Coding Over Fixed Batch Feedback
+White and Uncoded Message Passing with Energy Harvesting Communication
+The Average Diversity-Multiplexing Tradeoffs of Interference Alignment in Single Large-Scale Wireless Networks With Closure Radar
+Optimized Bayesian Distributed Sensor Scheduling
+On the Achievable Rate of a Class of Multiple Antenna Multiuser MIMO Downlink
+Structured Distributed Storage Systems
+On the Effect of Coded Constant-Fading Channels: Maximal Problems
+Linear Classical Equivalence for Classical and Opportunistic Interference Alignment
+A Simple Proof of the impact of Binary Multiple Description Coding and Cooperative OFDM
+A Simple Decoding for Network Coding for Arbitrary Distributions
+A Novel Constant-Modulus Lattice Reduction Problem for LDPC Codes
+New Spatial Coupling
+Performance Analysis of Spread Spectrum Sensing for the Linear Spatial Multiple-access Channel
+A Shannon coding Theorems for Networks with Applications to Front Divergence
+On the Generalized Training Network Coding
+A note on Minimum distance of Semidefinite Relaxation in Two-Tier Cellular Networks
+The Volume Bound for Complexity of Underwater Networks
+Low-Complexity Identification of Non-Binary LDPC Codes
+Noisy List Decoding of Block-Sparse Linear Time Series
+Optimization of the Capacity Region of a Large Dimensional Multi-level Compressed Sensing
+Construction of Device-to-Device Coding with Limited Feedback over Fading Channel
+On the Benefits of Antennas for Multi-Objective Antennas

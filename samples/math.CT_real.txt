@@ -1,0 +1,3114 @@
+Generic representations of orthogonal groups: projective functors in the category Fquad
+Adjoint Functors and Heteromorphisms
+L-stable functors
+Lawvere completeness in Topology
+Resource modalities in game semantics
+Biclosed bicategories: localisation of convolution
+Coherence without unique normal forms
+Infinitesimal cubical structure and higher connections
+An Algebraic View of the Relation between Largest Common Subtrees and Smallest Common Supertrees
+Polygraphs for termination of left-linear term rewriting systems
+Symmetries and transitions of bounded Turing machines
+An algebraic origin for quark confinement
+Surface holonomy and gauge 2-group
+On non-semisimple fusion rules and tensor categories
+Higher regularity properties of mappings and morphisms
+Bicategories of operator algebras and Poisson manifolds
+Combinatorics of Non-Abelian Gerbes with Connection and Curvature
+Method of Additional Structures on the Objects of a Monoidal Kleisli Category as a Background for Information Transformers Theory
+The Lorentz Boost-Link Is Not Unique. Relative velocity as a morphism in a connected groupoid category of null objects
+A Probabilistic Proof of the Rogers Ramanujan Identities
+Pentagon equation and matrix bialgebras
+Deformations of algebras over operads and Deligne's conjecture
+Algebraic duality for partially ordered sets
+Homotopy Algebras for Operads
+About the globular homology of higher dimensional automata
+Weak omega -categories as omega -hypergraphs
+From Finite Sets to Feynman Diagrams
+Semi-infinite cohomology and Hecke algebras
+An Embedding theorem for abelian monoidal categories
+Algebra of Principal Fibre Bundles and Connections
+Volume form as volume of infinitesimal simplices
+Oriented Quantum Algebras Categories and Invariants of Knots and Links
+Remarks on Quantum Physics and Noncommutative Geometry
+Coherence in Substructural Categories
+Coherent Bicartesian and Sesquicartesian Categories
+From Coherent Structures to Universal Properties
+Infinitesimal aspects of the Laplace operator
+Multiple categories: the equivalence of a globular and a cubical approach
+Higher rank graph C -algebras
+Coherence Homotopy and 2-Theories
+Universal homotopy theories
+Toward a Galoisian interpretation of homotopy theory
+Homotopies and automorphisms of crossed modules of groupoids
+Local subgroupoids II: Examples and properties
+Exactness and stability in homotopical algebra
+Higher fundamental functors for simplicial sets
+Covering groups of non-connected topological groups revisited
+Towards a 2-dimensional notion of holonomy
+Some Results for the Local Subgroupoids
+Extendibility monodromy and local triviality for topological groupoids
+Calculating maps between n-categories
+On the Galois Theory of Grothendieck
+An intrinsic homotopy theory for simplicial complexes with applications to image analysis
+Introducing Quaternionic Gerbes
+A relative Yoneda Lemma (manuscript)
+Operads in Higher-Dimensional Category Theory
+Simplicial and categorical comma categories
+G-dinaturality
+Operators Extending (Pseudo-)Metrics
+Localic Galois Theory
+Affine stacks (Champs affines)
+Operads Algebras and Modules in General Model Categories
+Categorical Analysis
+On the monad of proper factorisation systems in categories
+The branching nerve of HDA and the Kan condition
+n-Categories Admissible by n-graph
+Some differential equations in synthetic differential geometry
+Derived categories of Schur algebras
+Homotopy Quantum Field Theories and the Homotopy Cobordism Category in Dimension 1 1
+Gerbes over Orbifolds and Twisted K-theory
+Morita theory for Hopf algebroids and presheaves of groupoids
+On derivation deviations in an abstract pre-operad
+Tetracomposition
+Recursion categories of coalgebras
+A note on the holonomy of connections in twisted bundles
+Category theory for conformal boundary conditions
+Tannaka Duals in Semisimple Tensor Categories
+Differential Geometry of Gerbes
+Calculating limits and colimits in pro-categories
+Flows in Graphs and Homology of Free Categories
+Free Products of Semisimple Tensor Categories
+Topology and Higher-Dimensional Category Theory: the Rough Idea
+Topological Deformation of Higher Dimensional Automata
+Cohomologie non abelienne d'ordre superieur et applications
+The nonabelian bar resolution
+Structures in higher-dimensional category theory
+Natural Associativity without the Pentagon condition
+Obstruction Theory in Model Categories
+On the PROP corresponding to bialgebras
+Holonomy and monodromy groupoids
+Modular categories and orbifold models II
+Some properties of the theory of n-categories
+The categorical theory of relations and quantizations
+Directed homotopy theory I. The fundamental category
+Abstraction and Application in Adjunction
+Theoreme de Van Kampen pour les champs algebriques
+Module categories weak Hopf algebras and modular invariants
+Resonance Category
+From Subfactors to Categories and Topology I. Frobenius algebras in and Morita equivalence of tensor categories
+From Subfactors to Categories and Topology II. The quantum double of tensor categories and subfactors
+Representations of marked quivers
+Abelian Categories of Modules over a (Lax) Monoidal Functor
+On the Structure of Modular Categories
+A Convenient Category for The Homotopy Theory of Concurrency
+Module categories over the Drinfeld double of a finite group
+Linear extensions and nilpotence for Maltsev theories
+Representations of algebraic quantum groups and reconstruction theorems for tensor categories
+Fusion categories of rank 2
+Pushout stability of embeddings injectivity and categories of algebras
+Generators and representability of functors in commutative and noncommutative geometry
+Generalized enrichment of categories
+Topological model categories generated by finite complexes
+What is Stochastic Independence?
+The norm of a relation separating functions and representations of marked quivers
+Isomorphisms between left and right adjoints
+Tannaka-Krein duality for Hopf algebroids
+On Regular Closure Operators and Cowellpowered Subcategories
+Rev etements 'etales et groupe fondamental (SGA 1)
+On the Bernstein-Gel'fand-Gel'fand correspondence and a result of Eisenbud Fl o ystad and Schreyer
+Explicit models for perverse sheaves
+Categories arising from tabular algebras
+The omega-Categories Associated With Products of Infinite-Dimensional Globes
+Identity of Proofs Based on Normalization and Generality
+The monoidal Eilenberg-Moore construction and bialgebroids
+Galois theory and a new homotopy double groupoid of a map of spaces
+On the representation theory of Galois and Atomic Topoi
+Computads and slices of operads
+Computation and Homotopical Applications of Induced Crossed Modules
+Galois extensions of braided tensor categories and braided crossed G-categories
+A remark on K-theory and S-categories
+Automorphisms of the category of free Lie algebras
+Algebras with the same (algebraic) geometry
+Lie-admissible algebras and operads
+Connections local subgroupoids and a holonomy Lie groupoid of a line bundle gerbe
+On quantales and spectra of C -algebras
+An Objective Representation of the Gaussian Integers
+Group Objects and Internal Categories
+Notes on Operator Categories
+Cubical abelian groups with connections are equivalent to chain complexes
+A remark on a theorem by Deligne
+Remarks on 2-Groups
+Stability conditions on triangulated categories
+Introduction to the language of stacks and gerbes
+The fundamental groupoid of the quotient of a Hausdorff space by a discontinuous action of a discrete group is the orbit groupoid of the induced action
+Distorted Hankel integral operators
+Finite tensor categories
+Quantum categories star autonomy and quantum groupoids
+Binary trees and fibred categories
+The Combinatorics of Iterated Loop Spaces
+Non abelian cohomology: the point of view of gerbed tower
+A bicategorical approach to Morita equivalence for rings and von Neumann algebras
+Concurrent Process up to Homotopy (I)
+Concurrent Process up to Homotopy (II)
+Derived categories of cubic and V1 threefolds
+N-Fold Cech Derived Functors and Generalised Hopf Type Formulas
+Paracategories I: internal parategories and saturated partial algebras
+Categorical and combinatorial aspects of descent theory
+Very badly approximable matrix functions
+Some calculus with extensive quantities: wave equation
+Enrichment as Categorical Delooping I: Enrichment Over Iterated Monoidal Categories
+The monoidal centre as a limit
+Homotopy branching space and weak dihomotopy
+Weak n-categories: opetopic and multitopic foundations
+Weak n-categories: comparing opetopic foundations
+The category of opetopes and the category of opetopic sets
+Opetopic bicategories: comparison with the classical theory
+An alternative characterisation of universal cells in opetopic n-categories
+A relationship between trees and Kelly-Mac Lane graphs
+The theory of opetopes via Kelly-Mac Lane graphs
+Higher Operads Higher Categories
+Towards non commutative algebraic topology
+Homological properties of non-deterministic branchings and mergings in higher dimensional automata
+Cartan-Leray spectral sequence for Galois coverings of linear categories
+A simple approach to geometric realization of simplicial and cyclic sets
+(Co)homology of crossed modules with coefficients in a pi 1 -module
+Higher Dimensional Enrichment
+On Infinity Topoi
+On the canonical formula of C. Levi-Strauss
+Codescent theory I: Foundations
+A geometric theory of harmonic and semi-conformal maps
+Functional Equations and Their Related Operads
+A noncommutative theory of Penrose tilings
+Braided Premonoidal Coherence
+A Guided Tour in the Topos of Graphs
+2-categorical Poincare Representations and State Sum Applications
+Derived Categories of Nodal Algebras
+A stability-like theorem for cohomology of pure braid groups of the series A B and D
+Strengthening track theories
+Higher-Dimensional Algebra V: 2-Groups
+The homotopy branching space of a flow
+A model category for the homotopy theory of concurrency
+Comparing globular complex and flow
+Closed symmetric monoidal structure and flow
+Weak enriched categories - Categories enrichies faibles
+A categorical construction of 2-dimensional extended Topological Quantum Field Theory
+A generalization and a new proof of Plotkin's reduction theorem
+Measurable Categories
+Flatness preorders and general metric spaces
+Grothendieck categories and support conditions
+On the non-balanced property of the category of crossed modules in groups
+Hermitian-holomorphic (2)-Gerbes and tame symbols
+Group Actions on Posets
+Dimensions of triangulated categories
+Sur les A-infini cat 'egories
+The homotopy category of complexes of projective modules
+Configurations in abelian categories. I. Basic properties and moduli stacks
+Configurations in abelian categories. II. Moduli stacks
+Skew category Galois covering and smash product of a k -category
+On the center of a compact group
+Homotopical and Higher Categorical Structures in Algebraic Geometry
+Algebraic Logic Varieties of Algebras and Algebraic Varieties
+An Algebraic Approach to Knowledge Bases Informational Equivalence
+Stability data and t-structures on a triangulated category
+Homotopical structures in categories
+T-homotopy and refinement of observation (V) : Strom model structure for branching and merging homologies
+Systems of Diagram Categories and K-theory I
+Profinite Structures are Retracts of Ultraproducts of Finite Structures
+On G --equivariant modular categories
+Shukla cohomology and additive track theories
+mathcal S -categories mathcal S -groupoids Segal categories and quasicategories
+Homotopy theory of presheaves of simplicial groupoids
+Tensor categories (after P. Deligne)
+A generalization of Quillen's small object argument
+Systems of Diagram Categories and K-theory. II
+A duality Hopf algebra for holomorphic N1 special geometries
+Variations on a theme of Gelfand and Naimark
+Quadratic functors and one-connected two stage spaces
+On completeness in a non-Archimedean setting via firm reflections
+On the complexity of Cockett-Seely polarized games
+Updown Categories
+Comparison of Abelian categories recollements
+Flatness accessibility and metric spaces
+Vertically Iterated Classical Enrichment
+Logical Construction of Final Coalgebras
+Omega-categories and chain complexes
+Quantum Yang-Baxter equation arbitrary gradings and exchange Hecke braidings
+Particles of generalized statistics quantum logic and categories
+Braid semistatistics and doubly regular R-matrix
+Some remarks on autoequivalences of categories
+On quantales that classify C -algebras
+Finiteness in derived categories of local rings
+Weak Omega Categories I
+Les groupements
+Morphisms represented by monomorphisms
+Flow does not model flows up to weak dihomotopy
+Deligne Localized Functors
+Cofree coalgebras over operads II Homology invariance
+Algebra generators and information theory
+Deformation theory of abelian categories
+Hochschild cohomology of abelian categories and ringed spaces
+Sur quelques aspects de la g 'eom 'etrie de l'espace des arcs trac 'es sur un espace analytique
+Fiber Functors on Temperley-Lieb Categories
+Tours de torseurs geometrie differentielle des suites de fibres principaux et theorie des cordes
+Duality and triple structures
+Distributive laws for actions of monoidal categories
+Crystals and coboundary categories
+Pasting pseudofunctors
+A model category structure on the category of simplicial categories
+A Full and faithful Nerve for 2-categories
+Obstruction theory for objects in abelian and derived categories
+Secondary derived functors and the Adams spectral sequence
+Baxter Algebras and Shuffle Products
+On Products and Duality of Binary Quadratic Regular Operads
+Categorical distribution theory heat equation
+State monads and their algebras
+Nonabelian Algebraic Topology
+The continuity of the map lim T in Hausdorff spaces
+Categorical representations of categorical groups
+Higher Monodromy
+Functions on the zeroes of dx
+Extensions of racks and quandles
+The bicategories of corings
+Pseudo Limits Biadjoints and Pseudo Algebras: Categorical Foundations of Conformal Field Theory
+Thin Elements and Commutative Shells in Cubical omega-categories
+Order Reduction of Optimal Control Systems
+Non-well-founded trees in categories
+Distributive semilattices as retracts of ultraboolean ones functorial inverses without adjunction
+Lifting retracted diagrams with respect to projectable functors
+Postnikov Invariants of Crossed Complexes
+The spectrum of prime ideals in tensor triangulated categories
+Submodule Categories of Wild Representation Type
+Categorical structures enriched in a quantaloid: categories distributors and functors
+Categorical structures enriched in a quantaloid: regular presheaves regular semicategories
+Categorical structures enriched in a quantaloid: orders and ideals over a base quantaloid
+Towards an axiomatization of the theory of higher categories
+Lie 2-Algebras
+Categorical non abelian cohomology and the Schreier theory of groupoids
+Operads within monoidal pseudo algebras
+Higher gauge theory I: 2-Bundles
+A homotopy double groupoid of a Hausdorff space II: a van Kampen theorem
+Rack and quandle homology
+A model structure a la Thomason on 2-Cat
+Stability Manifold of P 1
+A general theory of self-similarity I
+A general theory of self-similarity II: recognition
+Categorical structures enriched in a quantaloid: tensored and cotensored categories
+On automorphisms of categories of universal algebras
+Combinatorial n-fold monoidal categories and n-fold operads
+Some examples of spaces of stability conditions on derived categories
+Cyclic structures for simplicial objects from comonads
+Covering groupoids
+On the mathbb Z D infty -category
+Etale groupoids and their quantales
+Operations and Identities in Tensor Algebra
+Crossings and Nestings of Matchings and Partitions
+On automorphisms of categories of free algebras of some varieties
+Derived Hall Algebras
+Notes on enriched categories with colimits of some class
+Ribbon Structure in Symmetric Pre-monoidal Categories
+Towards dynamic domains : totally continuous cocomplete Q-categories
+Spectral enrichments of model categories
+Pregroupoids and their enveloping groupoids
+Automorphisms of categories of free modules and free Lie algebras
+Galois coverings Morita equivalence and smash extensions of categories over a field
+The orthogonal subcategory problem in homotopy theory
+On the representation categories of matrix quantum groups of type A
+Lifted closure operators
+On continuity of correspondences of probability measures in the category of Tychonov spaces
+infty -Open-multicommutativity in the category comp
+A Category of Spectral Triples and Discrete Groups with Length Function
+Recollement for Differential Graded Algebras
+On categorical approach to derived preference relations in some decision making problems
+From Quantum Groups to Unitary Modular Tensor Categories
+Coherence of Proof-Net Categories
+Coherence for Star-Autonomous Categories
+On the arithmetic product of combinatorial species
+Pre-modular categories of rank 3
+Toy operads
+Logic Without Syntax
+The Auslander-Reiten Translation in Submodule Categories
+Three models for the homotopy theory of homotopy theories
+Representations of non-singular planar tangles by operators
+Quadratic envelope of the category of class two nilpotent groups
+Centralizers and Inverses to Induction as Equivalence of Categories
+Quadratic categories Koszul resolutions and operads
+Automorphisms of Categories of Free Modules Free Semimodules and Free Lie Modules
+T-homotopy and refinement of observation (III) : Invariance of the branching and merging homologies
+T-homotopy and refinement of observation (IV) : Invariance of the underlying homotopy type
+Comatrix Coring generalized and Equivalences of Categories of Comodules
+Co-rings over operads characterize morphisms
+Cohomology of Pure Braid Groups of exceptional cases
+Negation and Involutive Adjunction
+Coherence and Confluence
+A model category for local po-spaces
+Quantales as geometric objects: symmetry beyond groupoids?
+Files for Gabriel-Zisman localization
+Explaining Gabriel-Zisman localization to the computer
+Inverting weak dihomotopy equivalence using homotopy continuous flow
+On the non additivity of the trace in derived categories
+Associativity as Commutativity
+Monoidal functors acyclic models and chain operads
+Simple multiplicative proof nets with units
+Logged Rewriting for Monoids
+A sketchy note on enriched homotopical topologies and enriched homotopical stacks
+Sheaves for predicative toposes
+Systems of submodules and a remark by M.C.R. Butler
+Support varieties - an ideal approach
+Simplicial monoids and Segal categories
+Models of Non-Well-Founded Sets via an Indexed Final Coalgebra Theorem
+On lifting stable diagrams in Frobenius categories
+Notes on enriched categories with colimits of some class (completed version)
+2-C -categories with non-simple units
+Lambda-presentable morphisms injectivity and (weak) factorization systems
+Differential calculus in categories. I
+Module categories over representations of SL q(2) in the non-semisimple case
+Aupomorphisms of the category of the free nilpotent groups of the fixed class of nilpotency
+Brauer groups and crepant resolutions
+Identity and Categorification
+On homotopy varieties
+The Extension of Knot Groups to Tangles
+An Introduction to Zoli Numbers
+Cryptography and Encryption
+On the Lambek Invariants of Commutative Squares in a Quasi-Abelian Category
+On comonadicity of the extension-of-scalars functors
+A Kleisli-based approach to lax algebras
+Commutation Structures
+Derived categories resolutions and Brown representability
+A Theory of Adjoint Functors--with some Thoughts about their Philosophical Significance
+A semiorthogonal decomposition for Brauer Severi schemes
+Morphisms which are continuous on a neighborhood of the base of a groupoid
+An introduction to q-species
+Symmetric Self-Adjunctions: A Justification of Brauer's Representation of Brauer's Algebras
+Categorical Aspects of Topological Quantum Field Theories
+Computably Based Locally Compact Spaces
+Bipolar spaces
+Quadratic categories and Koszul resolutions
+Frobenius-Schur Indicators and Exponents of Spherical Categories
+Thin fillers in the cubical nerves of omega-categories
+Classification of abelian hereditary directed categories satisfying Serre duality
+Categorified Algebra and Quantum Mechanics
+Bousfield localization in quotients of module categories
+The Heyneman-Radford Theorem for Monoidal Categories
+Quadratic algebra of square groups
+Twining characters and Picard groups in rational conformal field theory
+Categorification and correlation functions in conformal field theory
+Enriched model categories and an application to additive endomorphism spectra
+On Algebraic Models for Homotopy 3-Types
+Flatness preorders and general metric spaces (revised)
+Three themes in the work of Charles Ehresmann: Local-to-global Groupoids Higher dimensions
+Categories norms and weights
+Comonadas y coanillos de Galois
+McKay correspondence and equivariant sheaves on P 1
+Homotopical Aspects of Commutative Algebras
+A characterization of fibrant Segal categories
+Many-valued complete distributivity
+Monoids Embedding Functors and Quantum Groups
+An extension of the Eilenberg - Mac Lane concept of category in the case of nonrigid structures
+Hopf monads
+Fully Coprime Comodules and Fully Coprime Corings
+Weak complicial sets a simplicial weak omega-category theory. Part I: basic homotopy theory
+Higher and derived stacks: a global overview
+Pseudo-categories
+Exponentiable functors between quantaloid-enriched categories
+Gluing in tensor triangular geometry
+A construction of semisimple tensor categories
+Notes on duality theories of abelian groups
+A construction of 2-filtered bicolimits of categories
+Compact convolution
+Relative Regular Objects in Categories
+Notes on A-infinity algebras A-infinity categories and non-commutative geometry. I
+Strict 2-toposes
+What do DG categories form?
+Premonoidal categories associated with representations of finite groups and their quantum doubles
+Comonads and Galois corings
+Homology and homotopy in semi-abelian categories
+Homotopy theory of small diagrams over large categories
+Abstract cellularization as a cellularization with respect to a set of objects
+Semistrict models of connected 3-types and Tamsamani's weak 3-groupoids
+Elementary Equivalence of Categories of Modules over Rings Endomorphism Rings and Automorphism Groups of Modules
+Coherence for Categorified Operadic Theories
+De l'oprateur de trace dans les jeux de Conway
+Epistemic actions as resources
+Strict infty -categories. Concrete Duality
+Manifolds Structures Categorically
+The invariant of Turaev-Viro from Group category
+Simple omega-categories and chain complexes
+Relative homological categories
+Homotopy Transition Cocycles
+The universal Hopf cyclic theory
+Lie n-groupoids and stacky Lie groupoids
+Exercises on derived categories resolutions and Brown representability
+Quillen model categories without equalisers or coequalisers
+Closedness properties of internal relations IV: Expressing additivity of a category via subtractivity
+The generating hypothesis in the derived category of a ring
+A survey of ( infty 1)-categories
+Determinant functors on triangulated categories
+Open-multicommutativity of the functor of upper-continuous capacities
+The site R G for a profinite group G
+Medial Commutativity
+A note on cohomological localization
+Notes on 1- and 2-gerbes
+Covers preenvelopes and purity
+Topological functors as familiarly-fibrations
+Normalisation for the fundamental crossed complex of a simplicial set
+Ehresmann doubles and Drinfel'd doubles for Lie algebroids and Lie bialgebroids
+Subobjects of the successive power objects in the topos G-Set
+Cat ' e gories de foncteurs en grassmanniennes et filtration de Krull
+Semigroupoid C -Algebras
+Termination orders for 3-dimensional rewriting
+Termination orders for 3-polygraphs
+Two polygraphic presentations of Petri nets
+The three dimensions of proofs
+Calabi-Yau algebras
+On the structure of triangulated category with finitely many indecomposables
+The cyclic bar construction on A infty H-spaces
+Cofibrance and Completion
+Monoidal functor categories and graphic Fourier transforms
+A structural approach to the locality of pseudovarieties of the form mathbf LH m mathbf V
+Quasitopoi over a base category
+Hereditary is Hereditary
+Components complements and reflection formulas
+Topologies on a triangulated category
+Cofibrant complexes are free
+Operads revisited
+Cofibrantly generated natural weak factorisation systems
+Actors in categories of interest
+Introduction to Ann-categories
+A brief review of abelian categorifications
+Erratum to: A Proof of Tsygan's Formality Conjecture for an Arbitrary Smooth Manifold
+Epireflections and supercompact cardinals
+Rational p -biset functors
+Cross Product Bialgebras - Part I
+S-Structures for k-linear categories and the definition of a modular functor
+Obstructions to Coherence: Natural Noncoherent Associativity
+Structures and Diagrammatics of Four Dimensional Topological Lattice Field Theories
+Descente pour les n-champs (Descent for n-stacks)
+On Parity Complexes and Non-abelian Cohomology
+Iterated Monoidal Categories
+Spaces of maps into classifying spaces for equivariant crossed complexes II: The general topological group case
+Monoidal categories and multiextensions
+Basic Bicategories
+Braided n-categories and Sigma -structures
+General Operads and Multicategories
+On the Breen-Baez-Dolan stabilization hypothesis for Tamsamani's weak n-categories
+Homotopy types of strict 3-groupoids
+Fibrations and homotopy colimits of simplicial sheaves
+Adelic Chern Forms and Applications
+Higher-Dimensional Algebra IV: 2-Tangles
+Galois Theory for Braided Tensor Categories and the Modular Closure
+Applications of Rewriting Systems and Groebner Bases to Computing Kan Extensions and Identities Among Relations
+Meromorphic braided category arising in quantum affine algebras
+K-Theory for Triangulated Categories III(A): The Theorem of the Heart
+On Faded Cosheaves of Sets
+Generalized Enrichment for Categories and Multicategories
+Algebraic aspects of higher nonabelian Hodge theory
+Homotopy invariants of higher dimensional categories and concurrency in computer science
+Finite groups spherical 2-categories and -manifold invariants
+fc-multicategories
+Quantum vertex algebras
+A Giraud-type characterization of the simplicial categories associated to closed model categories as infty -pretopoi
+Joins for (Augmented) Simplicial Sets
+Freeness conditions for crossed squares and squared complexes
+A canonical Tannaka duality for finite seimisimple tensor categories
+Equivalence of Borcherds G-Vertex Algebras and Axiomatic Vertex Algebras
+Berikashvili's functor D and the deformation equation
+Formal solution of the master equation via HPT and deformation theory
+On Categorification
+On Ideals and Homology in Additive Categories
+On an ambiguity in the concept of partial and total derivatives in classical analysis
+A Morita theorem for algebras of operators on Hilbert space
+On Morita's Fundamental Theorem for C -algebras
+Higher dimensional hypercategories
+Topological gravity in dimensions two and four
+Invitation to composition
+Grothendieck Categories
+The Syntax of Coherence
+C -tensor categories and free product bimodules
+Bimodule complexes via strong homotopy actions
+The Maximality of Cartesian Categories
+Noetherian hereditary categories satisfying Serre duality
+Combinatorics of branchings in higher dimensional automata
+Glutoses: a Generalization of Topos Theory
+Relaxed multi category structure of a global category of rings and modules
+Derived Categories and Projective Classes
+Operational resolutions and state transitions in a categorical setting
+Quantaloids Describing Causation and Propagation of Physical Properties
+The logic of entanglement
+De-linearizing Linearity: Projective Quantum Axiomatics from Strong Compact Closure
+POVMs and Naimark's theorem without sums
+Ring extension problem Shukla cohomology and Ann-category theory
+A universal property of the monoidal 2-category of cospans of finite linear orders and surjections
+The fundamental progroupoid of a general topos
+General concepts of graphs
+The periodic table of n -categories for low dimensions II: degenerate tricategories
+Mackey functors on compact closed categories
+Direct limits and fixed point sets
+Notes on Grothendieck topologies fibered categories and descent theory
+Relevant Categories and Partial Functions
+T-homotopy and refinement of observation (II) : Adding new T-homotopy equivalences
+From triangulated categories to abelian categories--cluster tilting in a general framework
+Double Clubs
+Equalizers in the category of cocomplete cocategories
+More Morphisms between Bundle Gerbes
+The Whittaker model of the center of the quantum group and Hecke algebras
+Harder-Narasimhan categories
+The Euler characteristic of a category as the sum of a divergent series
+Scalar extension of bicoalgebroids
+Sequential products in effect categories
+Abstract homotopical methods for theoretical computer science
+Equivariant monads and equivariant lifts versus a 2-category of distributive laws
+On Categorical Theory-Building: Beyond the Formal
+Quotients of Tannakian Categories
+Homological algebra with locally compact abelian groups
+Orientals
+The Coherence Theorem for Ann-Categories
+The periodic table of n-categories for low dimensions I: degenerate categories and degenerate bicategories
+The reverse engineering problem with probabilities and sequential behavior: Probabilistic Sequential Networks
+Cartesian Bicategories II
+Frobenius Objects in Cartesian Bicategories
+A Note on Surjective Inverse Systems
+Characterizing algebraic stacks
+Twisted automorphisms of Hopf algebras
+Nuclei of categories with tensor products
+On Reedy Model Categories
+Structure of Ann-categories and Mac Lane - Shukla cohomology
+Adjoint functors and triangulated categories
+On the moduli stack of commutative 1-parameter formal Lie groups
+2-gerbes and 2-Tate spaces
+Categories of categories
+A Logic of Injectivity
+A Generalization of De Vries Duality Theorem
+Bicartesian Coherence
+The category of local algebras and points proches
+Tensor envelopes of regular categories
+Derived Algebraic Geometry II: Noncommutative Algebra
+Complete Segal spaces arising from simplicial categories
+Compact Corigid Objects in Triangulated Categories and Co-t-structures
+Precovers localizations and stable homotopy
+Some Generalizations of Fedorchuk Duality Theorem -- I
+Extended TQFT's and Quantum Gravity
+Some Generalizations of Fedorchuk Duality Theorem -- II
+Iterated distributive laws
+A Unified Approach to Algebraic Set Theory
+Aspects of Predicative Algebraic Set Theory I: Exact Completion
+Some remarks on groupoids and small categories
+C - crossed product of groupoid actions on categories
+Higher Frobenius-Schur Indicators for Pivotal Categories
+Lectures on n-Categories and Cohomology
+Semistrict Tamsamani n-groupoids and connected n-types
+On (Enriched) Left Bousfield Localization of Model Categories
+On the Dreaded Right Bousfield Localization
+On proper and exterior sequentiality
+Gorenstein categories and Tate cohomology on projective schemes
+In Ehresmann's footsteps: from Group Geometries to Groupoid Geometries
+Lie Groupoids as generalized atlases
+Groupo ides de Lie et Feuilletages
+Towards a theory of classification
+Galois theory in bicategories
+On the second cohomology group in semi-abelian categories
+Hopf modules for autonomous pseudomonoids and the monoidal centre
+The Categorification of a Symmetric Operad is Independent of Signature
+On closure operators and reflections in Goursat categories
+A homotopy theory for enrichment in simplicial modules
+Calculating Colimits Compositionally
+Local and stable homological algebra in Grothendieck abelian categories
+Rigidity and modularity of vertex tensor categories
+2-filteredness and the point of every Galois topos
+Lawvere completion and separation via closure
+Extended Hyperbolicity
+Quantum triads: an algebraic approach
+Monoidal categories of comodules for coquasi Hopf algebras and Radford's formula
+On classes defining a homological dimension
+Pseudosymmetric braidings twines and twisted algebras
+Aspects of Predicative Algebraic Set Theory II: Realizability
+Cohomology of Frobenius Algebras and the Yang-Baxter Equation
+Iterated wreath product of the simplex category and iterated loop spaces
+Batanin higher groupoids and homotopy types
+Globular realization and cubical underlying homotopy type of time flow of process algebra
+The dual geometry of Boolean semirings
+Balanced category theory
+The ziqqurath of exact sequences of n-groupoids
+Differential Geometry of Gerbes and Differential Forms
+Generalized Andr ' e -Quillen Cohomology
+Unital A infty -categories
+Joyce invariants for K3 surfaces and mock theta functions
+Coherent presentations of structure monoids and the Higman-Thompson groups
+The topology of syntax relations of a formal language
+Category of A infinity-categories
+DG quotients of DG categories
+A construction of quotient A infinity-categories
+Quotients of unital A infty -categories
+Category Theory and Higher Dimensional Algebra: potential descriptive tools in neuroscience
+Free A infty -categories
+Isomorphisms in pro-categories
+A-infinity-bimodules and Serre A-infinity-functors
+Abelian 1-Calabi-Yau Categories
+Existence of Orbifolds IV: Examples
+External tensor product of categories of perverse sheaves
+Semigroup cohomology as a derived functor
+Archimedean Type Conditions in Categories
+Girard couples of quantales
+Categorifying Coloring Numbers
+On partita doppia
+Algebras of higher operads as enriched categories
+Proper actions fixed-point algebras and naturality in nonabelian duality
+Laplaza Sets or How to Select Coherence Diagrams for Pseudo Algebras
+Morphisms between spaces of leaves viewed as fractions
+Injective Spaces via Adjunction
+Simplicial Descent Categories
+A Note on Support in Triangulated Categories
+A construction of a quotient tensor category
+On the Cubical Homology Groups of Free Partially Commutative Monoids
+Quotients of the Multiplihedron as Categorified Associahedra
+Linking diagrams for free
+An Introduction to Smooth Infinitesimal Analysis
+Complicial Sets
+Higher Gauge Theory
+Towards a homotopy theory of process algebra
+Convex Hull Realizations of the Multiplihedra
+On ordered face structures and many-to-one computads
+Bimonads and Hopf monads on categories
+The category of 3-computads is not cartesian closed
+Multitopes are the same as principal ordered face structures
+On exotic modular tensor categories
+Tensor product for symmetric monoidal categories
+Exact sequences of fibrations of crossed complexes homotopy classification of maps and nonabelian extensions of groups
+Opposite relation on dual polar spaces and half-spin Grassmann spaces
+Morita Theory For Derived Categories: A Bicategorical Perspective
+Scalar Extension of Abelian and Tannakian Categories
+Double Categories in Mathematical Physics
+Model category extensions of the Pirashvili-S l omi ' n ska theorems
+Correction to Simplicial monoids and Segal categories
+Cubical cospans and higher cobordisms (Cospans in algebraic topology III)
+T-model structures on chain complexes of presheaves
+Derived Semidistributive Lattices
+Rigid Dualizing Complexes via Differential Graded Algebras (Survey)
+On two-Dimensional Holonomy
+The Category-Theoretic Arithmetic of Information
+Nonstandard model categories and homotopy theory
+The geometry of unitary 2-representations of finite groups and their 2-characters
+Brown representability does not come for free
+Relative injectivity as cocompleteness for a class of distributors
+Concrete Duality for Strict Infinity Categories
+Functorial reconstruction theorems for stacks
+Enlargements of Categories
+A note on coring extensions
+On weak maps between 2-groups
+Notes on 2-groupoids 2-groups and crossed-modules
+Equality of Proofs for Linear Equality
+Higher Topos Theory
+Stacky Lie groups
+Affine tangles and irreducible exotic sheaves
+On the homotopy theory of spectral categories
+Quasi-commutative algebras
+The Weil Representation in Characteristic Two
+A bicategorical version of Masuoka's theorem. Applications to bimodules over functor categories and to firm bimodules
+On slim double Lie groupoids
+2-Gerbes bound by complexes of gr-stacks and cohomology
+Hall algebras associated to triangulated categories
+Two-Categorical Bundles and Their Classifying Spaces
+Higher Hopf formulae for homology via Galois Theory
+Differentiable Categories gerbes and G-structures
+Representation theory of mv-algebras
+On satellites in arbitrary categories
+Abelian categories in dimension 2
+Graph-based Logic and Sketches
+On an extension of the notion of Reedy category
+Tannaka duality for proper Lie groupoids
+Boundedness on inhomogeneous Lipschitz spaces of fractional integrals singular integrals and hypersingular integrals associated to non-doubling measures
+Abelian categories versus abelian 2-categories
+RCF1: Theories of PR Maps and Partial PR Maps
+Q-modules are Q-suplattices
+Secondary homotopy groups
+On derived categories and derived functors
+Constructing dynamical twists over a non-abelian base
+Group action on bimodule categories
+Comparing operadic theories of n -category
+RCF3: Map-Code Interpretation via Closure
+Set theory for category theory
+W-types in sheaves
+Fibrations of simplicial sets
+Intensional properties of polygraphs
+Crossed complexes and homotopy groupoids as non commutative tools for higher dimensional local-to-global problems
+Monad interleaving: a construction of the operad for Leinster's weak omega -categories
+Le foncteur V - F 2 V otimes 3 entre F2-espaces vectoriels est noeth 'erien
+Categorical aspects of toric topology
+The identity type weak factorisation system
+Bicategory of entwinings
+Categorical quantum mechanics
+Bases in diagrammatic quantum protocols
+Introducing categories to the practicing physicist
+Toy quantum categories
+On formal codegrees of fusion categories
+Categories. Beginning Course (in Russian)
+Stability structures motivic Donaldson-Thomas invariants and cluster transformations
+Mackey-functor structure on the Brauer groups of a finite Galois covering of schemes
+Cohomology theory in 2-categories
+On the vanishing of cohomology in triangulated categories
+Computads and Multitopic Sets
+The Torsion of Homology Groups of M(E I)-sets
+Duality and defects in rational conformal field theory
+Correspondences of ribbon categories
+Picard groups in rational conformal field theory
+Ribbon categories and (unoriented) CFT: Frobenius algebras automorphisms reversions
+Topological and conformal field theory as Frobenius algebras
+Polycategories via pseudo-distributive laws
+Classification of complete Finsler manifolds through a second order differential equation
+Bicartesian Coherence Revisited
+Presentation of a Game Semantics for First-Order Propositional Logic
+Fraisse's construction from a topos-theoretic perspective
+Sur l'existence d'une cat 'egorie ayant une matrice strictement positive donn 'ee
+On the graded center of the stable category of a finite p -group
+Divided power structures and chain complexes
+Strict 2-Groups are Crossed Modules
+Determinants of perfect complexes and Euler characteristics in relative K -groups
+Monadic approach to Galois descent and cohomology
+The double of a Hopf monad
+A Spectral Theorem for Imprimitivity C -bimodules
+Every homotopy theory of simplicial algebras admits a proper model
+Generalized bialgebras and triples of operads
+A model for the homotopy theory of homotopy theory
+RCF2: Evaluation and Consistency
+Enrichments over symmetric Picard categories
+On the categorical meaning of Hausdorff and Gromov distances I
+Weakly exact categories and the snake lemma
+The compositional construction of Markov processes
+Strong Morita Equivalence of Inverse Semigroups
+Complexity and cohomology of cohomological Mackey functors
+Multiplier Hopf and bi-algebras
+On unitary 2-representations of finite groups and topological quantum field theory
+An algebra of automata which includes both classical and quantum entities
+Rota-Baxter Categories
+Morita classes of algebras in modular tensor categories
+On Deformations of Pasting Diagrams
+On Frobenius algebras in rigid monoidal categories
+Operads and chain rules for the calculus of functors
+The Homology groups of right pointed sets over a partially commutative monoid
+Higher central extensions and Hopf formulae
+Compatibility of (co)actions and localizations
+On Morphic Actions and Integrability of LA-Groupoids
+Corings with decomposition and semiperfect corings
+The simplicial interpretation of bigroupoid 2-torsors
+Products Homotopy Limits and Applications
+Uniqueness of open closed rational CFT with given algebra of open states
+Closed Model Categories for Presheaves of Simplicial Groupoids and Presheaves of 2-Groupoids
+Rational Combinatorics
+Inductive Lusternik-Schnirelmann category in a model category
+The fusion algebra of bimodule categories
+On the integration of LA-groupoids and duality for Poisson groupoids
+Tannakian categories linear differential algebraic groups and parameterized linear differential equations
+Derived equivalences of K3 surfaces and orientation
+Localization theory for triangulated categories
+A simplicial model for proper homotopy types
+A presentation of the category of stochastic matrices
+Tannaka Reconstruction of Weak Hopf Algebras in Arbitrary Monoidal Categories
+Internal precategories relative to split epimorphisms
+Bisets as categories and tensor product of induced bimodules
+Double modules' double categories and groupoids and a new homotopical double groupoid
+On the center of a triangulated category
+Visibility graphs and deformations of associahedra
+Fonctorial Construction of Frobenius Categories
+Closed injective systems and its fundamental limit spaces
+Categorical rings subsume ann-categories
+Generalised Proof-Nets for Compact Categories with Biproducts
+A comparison theorem for simplicial resolutions
+On Gr-Functors between Gr-Categories: Obstruction theory for Gr-Functors of the type ( varphi f)
+Dimensions of triangulated categories via Koszul objects
+On quantum statistics in data analysis
+Network as a computer: ranking paths to find flows
+Integrals and Valuations
+Exact Categories
+Representations of vertex operator algebras and braided finite tensor categories
+Comparison of the definitions of Abelian 2-categories
+Coherence for rewriting 2-theories
+Categorical sequences
+On the word problem for SP-categories and the properties of two-way communication
+Interchange of filtered 2-colimits and finite 2-limits
+Varieties defined by natural transformations
+Balanced Category Theory II
+Classical and quantum structuralism
+The category of categories with pullbacks is cartesian closed
+Rouquier's cocovering theorem and well-generated triangulated categories
+Closed categories vs. closed multicategories
+The parallel composition of processes
+A process algebra for the Span(Graph) model of concurrency
+On realizing diagrams of Pi-algebras
+Wide Morita contexts in Bicategories
+Reflexivity in Derived Categories
+A dichotomy characterizing analytic digraphs of uncountable Borel chromatic number in any dimension
+Derived Algebraic Geometry IV: Deformation Theory
+A Categorical Construction of Ultrafilters
+Relative Zariski Open Objects
+Meet homological mirror symmetry
+On principally generated Q-modules in general and skew local homeomorphisms in particular
+On cotilting cotorsion and torsion pairs
+Derived equivalences and stable equivalences of Morita type I
+A De Vries-type Duality Theorem for Locally Compact Spaces -- I
+Limits over categories of extensions
+Lattices of theories
+Derived Algebraic Geometry V: Structured Spaces
+(Infinity 2)-Categories and the Goodwillie Calculus I
+On the Classification of Topological Field Theories
+Image and Transfer Functions
+On the existence of a compact generator on the derived category of a noetherian formal scheme
+On the categorical interpretation of ring cohomology
+From fibered symmetric bimonoidal categories to symmetric spectra
+Variable binding symmetric monoidal closed theories and bigraphs
+An analogue of Radford's S  formula for finite tensor categories
+Rigidification of algebras over multi-sorted theories
+Super quantum and non-commutative species
+The structure of the category of parabolic equations
+Stable Infinity Categories
+Derived Algebraic Geometry III: Commutative Algebra
+Quasisymmetric and unipotent tensor categories
+A folk model structure on omega-cat
+On local-to-global spectral sequences for the cohomology of diagrams
+Modules on involutive quantales: canonical Hilbert structure applications to sheaf theory
+Applied Categories and Functors for Undergraduates
+Graphical Presentations of Symmetric Monoidal Closed Theories
+Left determined model structures for locally presentable categories
+A -Autonomous Category of Banach Spaces--Correction
+When is the diagonal functor Frobenius?
+Cartesian effect categories are Freyd-categories
+How can we recognize potentially bf Pi  xi subsets of the plane?
+Final coalgebras in accessible categories
+A working mathematician's definition of semi-abelian categories
+Higher homotopy operations and cohomology
+Additive closed symmetric monoidal structures on R-modules
+Multi-indicial symmetric functions
+Homotopy equivalence of isospectral graphs
+Envelopes of commutative rings
+When is Existential Quantification Conservative?
+Classification spaces of maps in model categories
+The Classifying Space of a Topological 2-Group
+Locally constant n-operads as higher braided operads
+Butterflies I: morphisms of 2-group stacks
+Weakly group-theoretical and solvable fusion categories
+Three Crossed Modules
+The lattice path operad and Hochschild cochains
+Amalgamated free products of topological groups being Hausdorff -- a new approach
+The Grothendieck Construction and Gradings for Enriched Categories
+On the coherence conditions for pseudo-distributive laws
+Fiber functors monoidal sites and Tannaka duality for bialgebroids
+Cubical Resolutions and Derived Functors
+A De Vries-type Duality Theorem for Locally Compact Spaces -- III
+On symmetrization of j-symbols and Levin-Wen Hamiltonian
+On the Cofibrant Generation of Model Categories
+Note On Endomorphism Algebras Of Separable Monoidal Functors
+A note on the Penon definition of n -category
+Tate cohomology with respect to semidualizing modules
+The Eckman-Hilton argument and higher operads
+Symmetrisation of n -operads and compactification of real configuration spaces
+Homotopy limits and colimits and enriched homotopy theory
+AQFT from n-functorial QFT
+Formal deformations and their categorical general fibre
+Barr's Embedding Theorem for Enriched Categories
+A De Vries-type Duality Theorem for Locally Compact Spaces -- II
+Modular invariants for group-theoretical modular data. I
+Subgroup classification in Out(F n)
+An Inverse System of Nonempty Objects with Empty Limit
+The Lusternik-Schnirelmann category of a Lie groupoid
+A parameterization process as a categorical construction
+Diagrammatic logic applied to a parameterization process
+The Structure of First-Order Causality
+The symmetric action on secondary homotopy groups
+Smash products for secondary homotopy groups
+Ind- and Pro- definable sets
+Effective codescent morphisms in some varieties of universal algebras
+On the 1-homotopy type of Lie groupoids
+Combinatorial fiber bundles and fragmentation of a fiberwise PL-homeomorphism
+The Quiver of Projectives in Hereditary Categories with Serre Duality
+Triangulated structures induced by simplicial descent categories
+The Eilenberg-Moore category and a Beck-type theorem for a Morita context
+Some equivariant constructions in noncommutative algebraic geometry
+Smoothness in Relative Geometry
+Groupoidification Made Easy
+Duality functors for triple vector bundles
+RCF: Inconsistent Quantification
+Equivalences of derived categories of sheaves on quasi-projective schemes
+On homotopy invariance for algebras over colored PROPs
+General heart construction on a triangulated category (I): unifying t-structures and cluster tilting subcategories
+Gerbes for the Chow
+A parameterization process functorially
+Abelian categories arising from a maximal n -orthogonal subcategory
+Braided Categorical Quantum Mechanics I
+Cohomology Rings of Precubical Sets
+Categorification of skew-symmetrizable cluster algebras
+Semisimple algebraic tensor categories
+Moore hyperrectangles on a space form a strict cubical omega-category
+Idempotent monads and star -functors
+Cospans and spans of graphs: a categorical algebra for the sequential and parallel composition of discrete systems
+Free Products of Higher Operad Algebras
+On The Existence Of Category Bicompletions
+Strictification of categories weakly enriched in symmetric monoidal categories
+Physical Traces: Quantum vs. Classical Information Processing
+Sheaves and Local Subgroupoids
+On Ext in the Category of Functors to Preabelian Category
+Investigating The Algebraic Structure of Dihomotopy Types
+Some combinatorial aspects of movies and movie-moves in the theory of smoothly knotted surfaces in R
+The Boardman-Vogt resolution of operads in monoidal model categories
+Weak complicial sets a simplicial weak omega-category theory. Part II: nerves of complicial Gray-categories
+When is the Product isomorphic to the Coproduct
+Fusion in the Extended Verlinde Algebra
+The homotopy theory of equivalence relations
+Spherical 2-categories and -manifold invariants
+Nuclear and Trace Ideals in Tensored -Categories
+The triangulated Hopf category n SL(2)
+Cross Product Bialgebras - Part II
+Up-to-Homotopy Monoids
+A categorical semantics of quantum protocols
+Kindergarten Quantum Mechanics
+Quantum measurements without sums
+A topos for algebraic quantum theory
+Convenient Categories of Smooth Spaces
+Cardy algebras and sewing constraints I
+Sur l'homologie des groupes orthogonaux et symplectiques a coefficients tordus
+Higher-dimensional categories with finite derivation type
+Quadratic functors on pointed categories
+Homotopy fiber products of homotopy theories
+Grothendieck topologies from unique factorisation systems
+Categories for the practising physicist
+Galois functors and entwining structures
+Actor of an alternative algebra
+General heart construction on a triangulated category (II): Associated cohomological functor
+Temperley-Lieb Algebra: From Knot Theory to Logic and Computation via Quantum Mechanics
+Abstract Scalars Loops and Free Traced and Strongly Compact Closed Categories
+Abstract Physical Traces
+Transversal homotopy theory
+The Eilenberg-Watts theorem in homotopical algebra
+Coalgebras Chu Spaces and Representations of Physical Systems
+Localizations colocalizations and non additive -objects
+Symmetric Cubical Sets
+Incidence Categories
+Heuristic and computer calculations for the magnitude of metric spaces
+The 2-group of linear auto-equivalences of an abelian category and its Lie 2-algebra
+Polygraphic programs and polynomial-time functions
+Reduction of quantum systems with arbitrary first class constraints and Hecke algebras
+Higher-dimensional Algebra and Topological Quantum Field Theory
+Homotopy theoretic models of identity types
+Diagrammatic Inference
+Feynman graphs rooted trees and Ringel-Hall algebras
+Noncommutative geometry as a functor
+Holomorphic Functions of Exponential Type and Duality for Stein Groups with Algebraic Connected Component of Identity
+'Hausdorff distance' via conical cocompletion
+Derived Algebraic Geometry VI: E k Algebras
+Tannaka duality for comonoids in cosmoi
+A non-commutative generalization of Stone duality
+How to combine diagrammatic logics
+Duality for Convexity
+Internal Kleisli categories
+Symplectic Categories
+Generalized lax epimorphisms in the additive case
+On the unipotence of autoequivalences of toric complete intersection Calabi-Yau categories
+Middle-Four Maps and Net Categories
+Causal sites as quantum geometry
+Sheafifiable homotopy model categories
+Modular categories and orbifold models
+A reason for fusion rules to be even
+Derived categories of coherent sheaves
+Triangulated categories of singularities and D-branes in Landau-Ginzburg models
+Interval Computations and their Categorification
+Computer theorem proving in math
+Conformal Orbifold Theories and Braided Crossed G-Categories
+Triangulated categories of singularities and equivalences between Landau-Ginzburg models
+Gauge theory on nonassociative spaces
+Deformation theory of objects in homotopy and derived categories I: general theory
+Quantum information-flow concretely and axiomatically
+Homotopical interpretation of globular complex by multipointed d-space
+On the Rosenberg-Zelinsky sequence in abelian monoidal categories
+n-Groupoids and Stacky Groupoids
+Locally constant functors
+Sheaves of ordered spaces and interval theories
+A sequence to compute the Brauer group of certain quasi-triangular Hopf algebras
+Fusion subcategories of representation categories of twisted quantum doubles of finite groups
+Quantum and classical structures in nondeterminstic computation
+On epimorphisms and monomorphisms of Hopf algebras
+Chains of group localizations
+Elements for a metric tangential calculus
+Universal measuring coalgebras and R - transformation algebras
+Nonassociative Riemannian Geometry by Twisting
+Localisation and colocalisation of triangulated categories at thick subcategories
+Triangulated Structures for projective Modules
+Categorifying measure theory: a roadmap
+Generalized Brown representability in homotopy categories
+Categorical Morita equivalence for group-theoretical categories
+A triangulated category without models
+Some properties of group-theoretical categories
+Singular cobordism categories
+A Quillen model category structure on some categories of comonoids
+A Cubical Set Approach to 2-Bundles with Connection and Wilson Surfaces
+Perfect Derived Categories of Positively Graded DG Algebras
+f-categories and Tate motives
+Group cohomology with coefficients in a crossed-module
+The classifying topos of a topological bicategory
+Coherence for Monoidal Endofunctors
+Coherence for Monoidal Monads and Comonads
+The fundamental Gray 3-groupoid of a smooth manifold and local 3-dimensional holonomy based on a 2-crossed module
+Centre of an algebra
+Flat descent for Artin n-stacks
+The Cardinality of Infinite Games
+Cluster tilting and complexity
+Abstract local cohomology functors
+The cohomological comparison arising from the associated abelian object
+Cubical n-Categories and Finite Limits Theories
+Homotopy theory of higher categories
+Simplicial homology of strong semilattices of Banach algebras
+Double Bicategories and Double Cospans
+Central Extensions of Gerbes
+Module categories for permutation modular invariants
+A short proof of HRS-tilting
+A Monoidal Category for Perturbed Defects in Conformal Field Theory
+Hopf algebras tetramodules and n-fold monoidal categories
+Categories without structures
+Coherence for Categorified Operadic Theories
+Normalities and Commutators
+A diagrammatic calculus of n-term syllogisms
+Stable Frames in Model Categories
+Products of compact filters and applications to classical product theorems
+Two-track categories
+A Survey of Definitions of n-Category
+Objects of Categories as Complex Numbers
+Are operads algebraic theories?
+General self-similarity: an overview
+The Euler characteristic of a category
+Translation Groupoids and Orbifold Bredon Cohomology
+Framed bicategories and monoidal fibrations
+Doubles for monoidal categories
+Closed categories star-autonomy and monoidal comonads
+On endomorphism algebras of separable monoidal functors
+Weak Hopf monoids in braided monoidal categories
+Note on Frobenius monoidal functors
+On semi-infinite cohomology of finite dimensional graded algebras
+Extending the Ehresmann-Schein-Nambooripad Theorem
+A diagrammatic approach to Hopf monads
+2-Vector Spaces and Groupoids
+On iterated almost nu -stable derived equivalences
+The Horrocks correspondence for coherent sheaves on projective spaces
+On the classification of certain fusion categories
+What Separable Frobenius Monoidal Functors Preserve
+Quantum Picturalism
+Homotopy Fibre Sequences Induced by 2-Functors
+Homological mirror symmetry of Fermat polynomials
+Full centre of an H -module algebra
+Generalized Tambara-Yamagami categories
+Internal object actions in homological categories
+On 3-crossed modules of algebras
+On Rational Pairings of Functors
+Double groupoids and homotopy 2-types
+Stacks on stratified space
+Mathematical Foundations for a Compositional Distributional Model of Meaning
+Involutive Categories and Monoids with a GNS-correspondence
+A logic for categories
+Simplicial localization of monoidal structures and a non-linear version of Deligne's conjecture
+Sigma Pi-polycategories additive linear logic and process semantics
+A language for multiplicative-additive linear logic
+Weak identity arrows in higher categories
+Elementary remarks on units in monoidal categories
+An abstract characterization of Thompson's group F
+Weak units and homotopy 3-types
+Note on commutativity in double semigroups and two-fold monoidal categories
+The logic of message passing
+The inner automorphism 3-group of a strict 2-group
+Grothendieck Group and Generalized Mutation Rule for 2-Calabi--Yau Triangulated Categories
+A-infinity monads and completion
+Tensor-triangulated categories and dualities
+Derived Smooth Manifolds
+On perfectly generating projective classes in triangulated categories
+Note On Analytic Functors As Fourier Transforms
+On Hopf 2-algebras
+A Quillen Model Structure Approach to the Finitistic Dimension Conjectures
+Algebras of higher operads as enriched categories II
+A proof of Kontsevich-Soibelman conjecture
+A remark on the additivity of traces in triangulated categories
+Constructing symmetric monoidal bicategories
+Hereditary Categories with Serre Duality which are generated by Preprojectives
+H- aquivariante Morita- Aquivalenz und Deformationsquantisierung
+Approximation in quantale-enriched categories
+Categorified symmetries
+Stack semantics and the comparison of material and structural set theories
+TFT construction of RCFT correlators II: Unoriented world sheets
+TFT construction of RCFT correlators III: Simple currents
+The Mukai pairing I: a categorical approach
+Large semilattices of breadth three
+Constructive Gelfand duality for C -algebras
+The topological structure of direct limits in the category of uniform spaces
+An almost full embedding of the category of graphs into the category of groups
+A general framework for homotopic descent and codescent
+Hopf algebras and Frobenius algebras in finite tensor categories
+Computing Critical Pairs in 2-Dimensional Rewriting Systems
+On coalgebras over algebras
+The compositional construction of Markov processes II
+Enriched Herds And Finite Quantum Groupoids
+Commutative algebras in Drinfeld categories of abelian Lie algebras
+Lie II theorem for Lie algebroids via higher groupoids
+Polynomial functors and opetopes
+Locally Compact Objects in Exact Categories
+The basic geometry of Witt vectors I: The affine case
+Tensor categories: A selective guided tour
+Adjoint functors and tree duality
+Combinatorics of labelling in higher dimensional automata
+On satellites in semi-abelian categories: Homology without projectives
+A Tannaka Theorem for Proper Lie Groupoids
+Locally well generated homotopy categories of complexes
+Generalised Moore spectra in a triangulated category
+A characterization of long exact sequences coming from the snake lemma
+Classifying spaces for braided monoidal categories and lax diagrams of bicategories
+On some peculiar aspects of the constructive theory of point-free spaces
+Crossed product tensor categories
+Monoidal 2-structure of Bimodule Categories
+Subcoalgebras and endomorphisms of free Hopf algebras
+Approximations and adjoints in homotopy categories
+Approximation of subcategories by abelian subcategories
+The basic geometry of Witt vectors II: Spaces
+Exact sequences of tensor categories
+Geometry of abstraction in quantum computation
+Relating toy models of quantum computation: comprehension complementarity and dagger mix autonomous categories
+Frobenius condition on a pretriangulated category and triangulation on the associated stable category
+Holography in the EPRL Model
+The unification of Mathematics via Topos Theory
+A homotopy approach to set theory
+Higher Dimensional Homology Algebra II:Projectivity
+Frobenius splitting and Derived category of toric varieties
+Frobenius algebras and ambidextrous adjunctions
+T-homotopy and refinement of observation (I) : Introduction
+Towards a Definition of an Algorithm
+The structure of double groupoids
+On module categories over finite-dimensional Hopf algebras
+Cluster characters for triangulated 2-Calabi--Yau categories
+Associated Graded Algebras and Coalgebras
+Homotopical equivalence of combinatorial and categorical semantics of process algebra
+Critical points between varieties generated by subspace lattices of vector spaces
+Characterizations of Morita equivalent inverse semigroups
+Notes on Beilinson's How to glue perverse sheaves
+On the duality between trees and disks
+Perfect category-graded algebras
+Algebraic Theories over Nominal Sets
+Braided bialgebras in a generated monoidal Ab-category
+Projective and injective objects in symmetric categorical groups
+Homotopy spectral sequences
+Operadic Definition of Non-Stricts Cells
+Twisting structures and strongly homotopy morphisms
+On the existence of a category with a given matrix
+On the additivity of geometric invariants in Grothendieck categories
+On Cyclic Star-Autonomous Categories
+Vector Fields and Flows on Differentiable Stacks
+An embedding theorem for Hilbert categories
+Quantifiers for quantum logic
+Quantum Logic in Dagger Kernel Categories
+A category of quantum categories
+Colocalization functors in derived categories and torsion theories
+The compositional structure of multipartite quantum entanglement
+A non-coordinatizable sectionally complemented modular lattice with a large J 'onsson four-frame
+Formal completion of a category along a subcategory
+Higher Dimensional Homology Algebra III:Projective Resolutions and Derived 2-Functors in (2-SGp)
+Towards arrow-theoretic semantics of ontologies: conceptories
+Quantum modules
+The Tannaka representation theorem for separable Frobenius functors
+On the linear independency of monoidal natural transformations
+The geometry of oriented cubes
+The Invariance and the General CCT Theorems
+Inclusion hyperspaces and capacities on Tychonoff spaces: functors and monads
+Higher Dimensional Homology Algebra IV:Projective Resolutions and Derived 2-Functors in ( cR -2-Mod)
+An Investigation of Partizan Misere Games
+Higher Dimensional Homology Algebra V:Injective Resolutions and Derived 2-Functors in ( cR -2-Mod)
+Cotensor Coalgebras in Monoidal Categories
+Wedge Products and Cotensor Coalgebras in Monoidal Categories
+Weak Projections onto a Braided Hopf Algebra
+Braided Bialgebras of Type One
+Icons
+Note on the construction of free monoids
+Generalized Frobenius Algebras and the Theory of Hopf Algebras
+Coherence for Modalities
+Weak omega-categories from intensional type theory
+A Note on Extensional PERs
+The 2-category of weak entwining structures
+A Derived Equivalence For A Del Pezzo Surface Of Degree  Over An Arbitrary Field
+Finiteness obstructions and Euler characteristics of categories
+Butterflies II: Torsors for 2-group stacks
+Bicategories of spans as cartesian bicategories
+Torsors herds and flocks
+Fusion rules on a parametrized series of graphs
+Relative homological algebra in categories of representations of infinite quivers
+Grothendieck infty -groupoids and still another definition of infty -categories
+Integral Excision for K-Theory
+A Hall-Fusion Bialgebra
+Segal Enriched Categories I
+A universe of processes and some of its guises
+Duality for distributive space
+Nilpotence radicaux et structures mono i dales
+Heller triangulated categories
+2-nerves for bicategories
+Homotopy-theoretic aspects of 2-monads
+Orbifolds as a localization of the 2-category of groupoids
+Limits of small functors
+Restriction categories III: colimits partial limits and extensivity
+A few localisation theorems
+Bicat is not triequivalent to Gray
+A 2-categories companion
+Parallel Transport over Path Spaces
+Higher-Dimensional Algebra VII: Groupoidification
+Isomorphic Formulae in Classical Propositional Logic
+Lax Monoidal Fibrations
+Multi-Stage Programs are Generalized Arrows
+Stone duality for topological theories
+2-Modules and the Representation of 2-Rings
+Abelian hereditary fractionally Calabi-Yau categories
+Thick subcategories of finite algebraic triangulated categories
+Tambarization of a Mackey functor and its application to the Witt-Burnside construction
+Type theory and homotopy
+Model structures categorial quotients and representations of super commutative Hopf algebras II The case Gl(m n)
+Homology and cohomology via enriched bifunctors
+Interior Operators and Topological Categories
+Mirror stability conditions and SYZ conjecture for Fermat polynomials
+Touchard like polynomials and generalized Stirling numbers
+Colimits Stanley-Reisner algebras and loop spaces
+Restricted exchange braidings and the monoidal centre
+Balance in stable categories
+Directed algebraic topology and higher dimensional transition system
+Recollements from generalized tilting
+A general theory of self-similarity
+Equivariant K-theory for proper actions of non-compact Lie groups
+A new duality theorem for locally compact spaces
+Deduction as Reduction
+The Web Monoid and Opetopic Sets
+Algebraic Theories and (Infinity 1)-Categories
+Open Graphs and Monoidal Theories
+Chaos in Binary Category Computation
+A monoidal structure on the category of relative Hopf modules
+Comparison of Cubical and Simplicial Derived Functors
+When an abelian category with a tilting object is equivalent to a module category
+Hereditary uniserial categories with Serre duality
+TFT construction of RCFT correlators IV: Structure constants and correlation functions
+Cohomology of the Grothendieck construction
+Universal coefficient theorem in triangulated categories
+A cubical approach to homotopy orbits of circle actions
+Relativity grupoid insted of relativity group
+The Intrinsic Fundamental Group of a Linear Category
+Dualization of the Hopf algebra of secondary cohomology operations and the Adams spectral sequence
+Dualities and dual pairs in Heyting algebras
+Model theory and the Tannakian formalism
+Higher dimensional operads
+The club of simplicial sets
+Sato Grassmannians for generalized Tate spaces
+A Geometric Construction for Permutation Equivariant Categories from Modular Functors
+On abelian 2-categories and derived 2-functors
+(Quasi-)Poisson enveloping algebras
+The formal theory of monoidal monads
+A Categorical Outlook on Cellular Automata
+Cohomological classification of braided Ann -categories
+Categories of partial algebras for critical points between varieties of algebras
+A categorical approach to internality
+A Duality of Quantale-Enriched Categories
+Concrete Foundations for Categorical Quantum Physics
+Spans and simplicial families
+The Category Theoretic Solution of Recursive Program Schemes
+Levels in the toposes of simplicial sets and cubical sets
+Borel and Continuous Systems of Measures
+Not every pseudoalgebra is equivalent to a strict one
+Euler characteristics of p-subgroup categories
+The Hecke Bicategory
+Relative categories: Another model for the homotopy theory of homotopy theories
+A characterization of simplicial localization functors
+In the category of relative categories the Rezk equivalences are exactly the DK-equivalences
+The magnitude of metric spaces
+The Partial Simplicial Category and Algebras for Monads
+A Thomason-like Quillen equivalence between quasi-categories and relative categories
+The Quotient of a Category by the Action of a Monoidal Category
+Category of fuzzy hyper BCK-algebras
+Weak Pullbacks of Topological Groupoids
+Homotopical exact squares and derivators
+The Structure of First-Order Causality (extended version)
+A Quillen theorem Bn for homotopy pullbacks
+Elgot Algebras
+Generalized operads and their inner cohomomorphisms
+Caract eres de Chern traces 'equivariantes et g 'eom 'etrie alg 'ebrique d 'eriv 'ee
+Compact generators in categories of matrix factorizations
+On Connectivity Spaces
+Hopf algebras and finite tensor categories in conformal field theory
+Virtually indecomposable tensor categories
+Monads with arities and their associated theories
+Thom-Sebastiani Duality for Matrix Factorizations
+n-Relative Categories
+Biequivalences in tricategories
+Loop spaces and coherence for monoidal and braided monoidal bicategories
+Introduction to Categories and Categorical Logic
+Matching Merging and Structural Properties of Data Base Category
+A four for the price of one duality principle for distributive spaces
+Many-one reductions between search problems
+Tall-Wraith Monoids
+Koszul duality of the category of trees and bar construction for operads
+Data Base Mappings and Monads: (Co)Induction
+C -algebras in tensor categories
+Comparing composites of left and right derived functors
+Remarks on generators and dimensions of triangulated categories
+Groupoid actions as quantale modules
+An Algebraic Proof of Quillen's Resolution Theorem for K 1
+A unified framework for generalized multicategories
+Algebraic model structures
+On the 3-arrow calculus for homotopy categories
+On the extension of stringlike localised sectors in 2 1 dimensions
+Entropy in a category
+Euler Characteristics of Categories and Homotopy Colimits
+Omni-Lie 2-algebras and their Dirac structures
+Some results on homology of Leibniz and Lie n-algebras
+A note on the Wehrheim-Woodward category
+Reflective-coreflective equivalence
+Ideals of Tambara functors
+New Definition for Fuzzy Constraint Satisfaction Problem and its Applications
+Commuting Groups and the Topos of Triads
+DB Category: Denotational Semantics for View-based Database Mappings
+Commutative Algebras in Fibonacci Categories
+On the fractions of semi-Mackey and Tambara functors
+A homotopy colimit theorem for diagrams of braided monoidal categories
+Elementary Magma Gradings on Rings
+Functorial topologies and finite-index subgroups of abelian groups
+Monoidal category of operad of graphs
+S 3 -permuted Frobenius Algebras
+The Two-Square Lemma and the connecting morphism
+Non-left-complete derived categories
+Monads and extensive quantities
+Free monoid in monoidal abelian categories
+Derived Categories of Coherent Sheaves and Triangulated Categories of Singularities
+Groupoids imaginaries and internal covers
+On inner Kan complexes in the category of dendroidal sets
+Deformation theory of objects in homotopy and derived categories II: pro-representability of the deformation functor
+Global Dimension of Polynomial Rings in Partially Commuting Variables
+Notions of Lawvere theory
+Note on the Fusion Map
+Interacting Quantum Observables: Categorical Algebra and Diagrammatics
+On the structure of simplicial categories associated to quasi-categories
+Hopf monoidal comonads
+The Euler characteristic of infinite acyclic categories with filtrations
+Multi-Level Languages are Generalized Arrows
+The Tambara-Yamagami categories and 3-manifold invariants
+Notes on bimonads and Hopf monads
+Being Van Kampen is a universal property
+Semantics of Higher-Order Recursion Schemes
+An embedding theorem for adhesive categories
+A topos-theoretic approach to Stone-type dualities
+Notes on n -Transformations by Theories ( n in mathbb N )
+A-infinity structures on the algebra of extensions of Verma modules in the parabolic category O
+Galois theory and commutators
+The unification of Mathematics via Topos Theory - Russian version
+Double groupoids matched pairs and then matched triples
+F-structures and Bredon-Galois cohomology
+Symbolic dynamics and the category of graphs
+The Category of Locales is Rigid
+Generalized heaps inverse semigroups and Morita equivalence
+Intermediaries in Bredon (Co)homology and Classifying Spaces
+A 2-Categorical Analysis of the Tripos-to-Topos Construction
+Kan Extensions in Context of Concreteness
+Butterflies in a Semi-Abelian Context
+On monoidal equivalences and Ann-equivalences
+Some finiteness results for Fourier-Mukai partners
+Identities among relations for higher-dimensional rewriting systems
+States and exceptions considered as dual effects
+Algebraic models for higher categories
+From objects to diagrams for ranges of functors
+Equivariance In Higher Geometry
+A note on K-theory and triangulated derivators
+A categorical approach to classical and quantum Schur-Weyl duality
+Traces in monoidal categories
+A generalization of The Dress construction for a Tambara functor and polynomial Tambara functors
+Homotopy theory of non-symmetric operads
+The Euler characteristics of categories and the barycentric subdivision
+Calculus of extensive quantities
+Concrete fibrations
+Generalized and quasi-localizations of braid group representations
+Phase groups and the origin of non-locality for qubits
+Symmetry and Cauchy completion of quantaloid-enriched categories
+Higher categorified algebras versus bounded homotopy algebras
+Elementary characterisation of small quantaloids of closed cribles
+An informal introduction to topos theory
+A Compositional Distributional Semantics Two Concrete Constructions and some Experimental Evaluations
+Extensions of groups by braided 2-groups
+Universal Properties of Some Quivers
+One-sided exact categories
+Maximal exact structures on additive categories revisited
+The Lifting Theorem for Multitensors
+Smooth Functors vs. Differential Forms
+Derived equivalences for cotangent bundles of Grassmannians via categorical sl(2) actions
+Orientations and Connective Structures on 2-vector Bundles
+On exact categories and applications to triangulated adjoints and model structures
+Cohomological Hall algebra exponential Hodge structures and motivic Donaldson-Thomas invariants
+The Brown-Golasinski model structure on strict infty -groupoids revisited
+The Integral Cluster Category
+Category theoretic analysis of hierarchical protein materials and social networks
+Experimental Support for a Categorical Compositional Distributional Model of Meaning
+Field theories with defects and the centre functor
+Homotopy categories and idempotent completeness weight structures and weight complex functors
+A construction of 2-cofiltered bilimits of topoi
+Experimenting with Transitive Verbs in a DisCoCat
+Higher-Dimensional Algebra VI: Lie 2-Algebras
+Groupoid sheaves as quantale sheaves
+On blocks of Deligne's category Rep(S t)
+The de Rham homotopy theory and differential graded category
+Extending binary operations to funtor-spaces
+Free topological universal algebras and absolute neighborhood retracts
+On endomorphism algebras of functors with non-compact domain
+Ologs: a categorical framework for knowledge representation
+Equivariant Modular Categories via Dijkgraaf-Witten Theory
+Pseudogroups and their etale groupoids
+Deligne's category Rep(GL delta) and representations of general linear supergroups
+Idempotent convexity and algebras for the capacity monad and its submonads
+Ambiguous representations as fuzzy relations between sets
+Infinitesimal Symmetries of Dixmier-Douady Gerbes
+Spekkens's toy theory as a category of processes
+Workshop on the homotopy theory of homotopy theories
+Linearisations of triangulated categories with respect to finite group actions
+A higher category of cobordisms and topological quantum field theory
+Whitney categories and the Tangle Hypothesis
+Higher categories colimits and the blob complex
+Groupoids of left quotients
+Commutative monads as a theory of distributions
+Interchanging homotopy limits and colimits in CAT
+Association schemes classical RCFT's and centres of monoidal functor categories
+Periodic cyclic homology as sheaf cohomology
+Principal 2-bundles and their gauge 2-groups
+Lie algebroid structures on double vector bundles and representation theory of Lie algebroids
+Categorified central extensions 'etale Lie 2-groups and Lie's Third Theorem for locally exponential Lie algebras
+A categorical proof of the Parshin reciprocity laws on algebraic surfaces
+A note on compactly generated co-t-structures
+Lectures on algebraic categorification
+Module categories over finite pointed tensor categories
+Idempotent splittings colimit completion and weak aspects of the theory of monads
+Direct products and the contravariant hom-functor
+On the mathematical synthesis of equational logics
+The Information Flow Framework: A Descriptive Category Metatheory
+A Non-Standard Semantics for Kahn Networks in Continuous Time
+On hereditary coreflective subcategories of Top
+Hereditary additive and divisible classes in epireflective subcategories of Top
+A Generalized Goursat Lemma
+Semantic Integration in the IFF
+A characterisation of algebraic exactness
+A KIF Formalization for the IFF Category Theory Ontology
+The Information Flow Framework: New architecture
+Bohrification of local nets of observables
+Algebraic theories span diagrams and commutative monoids in homotopy theory
+A Note on the Grothendieck Group of an Additive Category
+Categories as models on a suitable algebraic theory
+The Standard Aspect of Dialectical Logic
+The Dickson Subcategory Splitting Conjecture for Pseudocompact Algebras
+Invertible unital bimodules over rings with local units and related exact sequences of groups II
+Derived categories and syzygies
+Scalar extensions of triangulated categories
+On sequentially h-complete groups
+Hereditarily h-complete groups
+The Chu construction for complete atomistic coatomistic lattices
+Symmetric Self-Adjunctions and Matrices
+Bounded and unitary elements in pro-C -algebras
+The low-dimensional structures formed by tricategories
+Understanding the small object argument
+A homotopy-theoretic universal property of Leinster's operad for weak omega-categories
+Two-dimensional models of type theory
+(Co)Simplicial Descent Categories
+Homomorphisms of higher categories
+Types are weak omega-groupoids
+Ionads
+A Quillen model structure for Gray-categories
+Auslander-Buchweitz approximation theory for triangulated categories
+A Presheaf Interpretation of the Generalized Freyd Conjecture
+Invariance of orientation data for ind-constructible Calabi-Yau A infty categories under derived equivalence
+Topological and simplicial models of identity types
+An abstract view on syntax with sharing
+Automorphic Equivalence of Linear Algebras
+Notes on Weak Units of Picard 1- and 2-Stacks
+A bialgebra axiom and the Dold-Kan correspondence
+Equivalence of categories Gruson-Jensen duality and applications
+Tangled Circuits
+Decompositions of the automorphism group of a locally compact abelian group
+On Extensions of Rational Modules
+The Symmetric Join Operad
+On some Hopf monoids in graphical species
+Tilting theory and functor categories I. Classical tilting
+The Dold-Kan Correspondence and Coalgebra Structures
+Categorical interpretations of some key agreement protocols
+On Tannaka Duality
+Graphical Methods for Tannaka Duality of Weak Bialgebras and Weak Hopf Algebras in Arbitrary Braided Monoidal Categories
+Morphisms determined by objects in triangulated categories
+Smash products of E(1)-local spectra at an odd prime
+Representation and character theory in 2-categories
+Triangulated categories without models
+On the derived category of an algebra over an operad
+Bundles of C -categories II: C -dynamical systems and Dixmier-Douady invariants
+A generalization of Gabriel's Galois covering functors II: 2-categorical Cohen-Montgomery duality
+Change of Base for Commutative Algebras
+Auslander-Buchweitz context and co-t-structures
+Scalars Monads and Categories
+Derived rules for predicative set theory: an application of sheaves
+Report on locally finite triangulated categories
+The Sheaf-Theoretic Structure Of Non-Locality and Contextuality
+A structure theorem for P 1-Spec k-bimodules
+Tensorial schemes
+Exact Sequences in Non-Exact Categories (An Application to Semimodules)
+Mackey functors and abelian class field theories
+General heart construction for twin torsion pairs on triangulated categories
+Categorical Foundations for K-Theory
+The Roquette category of finite p-groups
+The univalence axiom in posetal model categories
+Presentations of Grothendieck constructions
+Spaces of Operad Structures
+The Homotopy Theory of Simplicially Enriched Multicategories
+Nori-Motive und Tannaka-Theorie
+Reoccurring patterns in hierarchical protein materials and music: The power of analogies
+Polynomial functors and categorifications of Fock space
+Protoadditive functors derived torsion theories and homology
+Tannaka duality and convolution for duoidal categories
+Crossed Products by Endomorphisms Vector Bundles and Group Duality
+On the functoriality of cohomology of categories
+Under Spec Z
+Bundles of C -categories and duality
+-Autonomous categories in quantum theory
+Pseudo Algebras and Pseudo Double Categories
+Tangent bundle and Gauss functor of a combinatorial manifold
+Adjoint and Frobenius Pairs of Functors Equivalences and the Picard Group for Corings
+A Remark on Gelfand Duality for Spectral Triples
+A Horizontal Categorification of Gelfand Duality
+Non connective K-theory via universal invariants
+Derived Azumaya algebras and generators for twisted derived categories
+Integral objects and Deligne's category Rep(S t)
+Categorical Pairs and the Indicative Shift
+Division Algebras and Supersymmetry III
+Algebras over infinity-operads
+On reflective-coreflective equivalence and associated pairs
+A Generalized Kahn Principle for Abstract Asynchronous Networks
+An infinite loop space machine for infinity-operads
+Factorizable enriched categories and applications
+Grothendieck's Homotopy Hypothesis
+The Glueing Construction and Double Categories
+On semiflexible flexible and pie algebras
+More examples of pseudosymmetric braided categories
+A duality between exceptions and states
+Strict Gr-categories and applications on classification of extensions of groups of the type of a crossed module
+Distributive laws for Lawvere theories
+Central Exact Sequences of Tensor Categories Equivariantization and Applications
+A general method for building reflections
+Aspects of algebraic exponentiation
+Admissibility stable units and connected components
+Additive versus abelian 2-representations of fiat 2-categories
+The formal theory of Tannaka duality
+Introduction aux dynamiques cat 'egoriques connectives
+Subtoposes of the Effective Topos
+Morita homotopy theory of C -categories
+Krein C -categories
+Enriched Fell Bundles and Spaceoids
+On Double Groups and the Poincar 'e group
+Non-Commutative Geometry Categories and Quantum Physics
+Monads and comonads in module categories
+The weak theory of monads
+Matrix problems triangulated categories and stable homotopy types
+Indecomposables live in all smaller lengths
+On the Failure of Fixed-Point Theorems for Chain-complete Lattices in the Effective Topos
+On the 2-categories of weak distributive laws
+Normal and conormal maps in homotopy theory
+Abelian Groups in omega-categories
+Pattern avoidance in labelled trees
+Algebraic theories monads and arities
+The core of adjoint functors
+N-tuple groups and matched n-tuples of groups
+Uniformly Flat Semimodules
+Remarks on exactness notions pertaining to pushouts
+Homotopy weighted colimits
+Span Cospan and Other Double Categories
+On the Morphisms and Transformations of Tsuyoshi Fujiwara (as a concretion of a bidimensional many-sorted general algebra and its application to the equivalence between many-sorted clones and algebraic theories)
+Logic and Categories As Tools For Building Theories
+Constructivist and Structuralist Foundations: Bishop's and Lawvere's Theories of Sets
+Logarithmic bulk and boundary conformal field theory and the full centre construction
+On tensor categories attached to cells in affine Weyl groups
+Categories of Fractions Revisited
+Congruence Subgroups and Generalized Frobenius-Schur Indicators
+A model structure for coloured operads in symmetric spectra
+Brown representability often fails for homotopy categories of complexes
+Realizable homotopy colimits
+Enhanced 2-categories and limits for lax morphisms
+The fundamental pro-groupoid of an affine 2-scheme
+Abstract sectional category
+The etale groupoid of an inverse semigroup as a groupoid of filters
+Grothendieck quasitoposes
+Lex colimits
+Categorical Results in the Theory of Two-Crossed Modules of Commutative Algebras
+D 'ecalage and Kan's simplicial loop group functor
+Highest weight sl 2-categorifications I: crystals
+Modular Categories
+The Picard crossed module of a braided tensor category
+Tangent bundles in differential lambda-categories
+Abelian categories and definable additive categories
+Categories of imaginaries for definable additive categories
+Spectra of small abelian categories
+On indexed actions
+Tetramodules over a bialgebra form a 2-fold monoidal category
+Algebra HomotopyOperad
+A Note on the categorification of Lie algebras
+Hopf algebras---Variant notions and reconstruction theorems
+t -structures for hereditary categories
+No-Cloning In Categorical Quantum Mechanics
+Formal aspects of Gray's tensor product of 2-categories
+Effective descent morphisms of regular epimorphisms
+A constructive Galois connection between closure and interior
+Non-commutative Stone duality: inverse semigroups topological groupoids and C -algebras
+Permutads
+On stretching the interval simplex-permutohedron
+Monoidal cofibrant resolutions of dg algebras
+Pictures of Processes: Automated Graph Rewriting for Monoidal Categories and Applications to Quantum Computing
+Generalized Homotopy theory in Categories with a Natural Cone
+Upper bounds for dimensions of singularity categories
+The monoidal category of Yetter-Drinfeld modules over a weak braided Hopf algebra
+Priestley-type dualities for partially ordered structures
+Decorated proofs for computational effects: Exceptions
+Proper Resolutions and Gorenstein Categories
+Almost split sequences and approximations
+Monoidal derivators and additive derivators
+Gradings smash products and Galois coverings of a small category
+Universal homogeneous constraint structures and the hom-equivalence classes of weakly oligomorphic structures
+A graphical approach to measurement-based quantum computing
+Tracing the Man in the Middle in Monoidal Categories
+Simple free star-autonomous categories and full coherence
+Sheaves as modules
+Physics Topology Logic and Computation: A Rosetta Stone
+A Prehistory of n-Categorical Physics
+Derived Hall algebras for stable homotopy theories
+Note on star-autonomous comonads
+Scaled-Free Objects
+Exponentiability via Double Categories
+Synthesising Graphical Theories
+The Brauer-Picard group of the representation category of finite supergroup algebras
+Complements on enriched precategories
+Derived equivalences between subrings
+Comparison of models for ( infty n) -categories I
+Even more spectra: tensor triangular comparison maps via graded commutative 2-rings
+Gelfand spectra and Wallman compactifications
+On the Hall algebra of semigroup representations over F 1
+Locally finitely presented categories with no flat objects
+Quantitative Concept Analysis
+Exercices de style: A homotopy theory for set theory II
+A note on the composition product of symmetric sequences
+On combinatorial model categories
+A convenient category for directed homotopy
+A characterization of representable intervals
+Are all cofibrantly generated model categories combinatorial?
+Martin-L of Complexes
+A model structure on the category of small categories for coverings
+Non-canonical isomorphisms
+A representability theorem for some huge abelian categories
+A note on the Smith is Huq condition
+Division adjoints and dualities of bilinear maps
+Enriched weakness
+Complementarity in categorical quantum mechanics
+The algebraic structure of the universal complicial sets
+Regular pairings of functors and weak (co)monads
+Support theory via actions of tensor triangulated categories
+Categorifying the Knizhnik-Zamolodchikov Connection
+On the axioms for adhesive and quasiadhesive categories
+Relative Commutator Theory in Semi-Abelian Categories
+Hom-polytopes
+Congruence Property In Conformal Field Theory
+Reasoning about Unreliable Actions
+The zeta function of a finite category
+Topologies for intermediate logics
+Operads clones and distributive laws
+Topological and algebraic pullback functors
+Topological pullback covering spaces and a triad of Quillen
+A Morphism Double Category and Monoidal Structure
+Models for singularity categories
+Classification des cat 'egories associ 'ees a la matrice des coefficients 2 d'ordre donn 'ee
+Homotopy Theory of T-algebras over Top-Cat ?
+Combinatorial realizability models of type theory
+The Grothendieck group of an n-angulated category
+Pre-Courant Algebroids and Associated Lie 2-Algebras
+A infinity-morphisms with several entries
+Enrichment of Categories of Algebras and Modules
+A model category structure on the category of simplicial multicategories
+Quantales of open groupoids
+Finite closed coverings of compact quantum spaces
+Duality and canonical extensions for stably compact spaces
+Hochschild (co)homology of the second kind I
+Stratifying derived categories of cochains on certain spaces
+On representation categories of wreath products in non-integral rank
+Locally class-presentable and class-accessible categories
+Injective Envelopes and Projective Covers of Quivers
+Tannakian formalism over fields with operators
+The topology of spaces of probability measures I
+Universality of the category of schemes
+A unified approach to the theory of normed structures - Part I: The single-sorted case
+The zeta function of a finite category which has M obius inversion
+Stacks associated to abelian tensor categories
+Elementary quotient completion
+De-equivariantization of Hopf algebras
+Filtrations via tensor actions
+A characterization of categories of coherent sheaves of certain algebraic stacks
+Pure morphisms are effective for modules
+Lax Diagrams and Enrichment
+Symmetric Categories as a Means of Virtualization for Braid Groups and Racks
+Internal bicategories
+Grothendieck quantaloids for allegories of enriched categories
+A Note on Commuting Reflection Functors for Calabi-Yau d-folds
+Stabilization of the category of simplicial objects in CAT
+A Course on Derived Categories
+Representing geometric morphisms using power locale monads
+Interactions between autoequivalences stability conditions and moduli problems
+A survey of graphical languages for monoidal categories
+Big Toy Models: Representing Physical Systems As Chu Spaces
+Generating the bounded derived category and perfect ghosts
+Modular invariant Frobenius algebras from ribbon Hopf algebra automorphisms
+Partially traced categories
+The moduli stack and motivic Hall algebra for the bounded derived category
+Relating Operator Spaces via Adjunctions
+Theories of anything
+Limit and end functors of dynamical systems via exterior spaces
+Degreewise n-projective and n-flat model structures on chain complexes
+Generalising canonical extension to the categorical setting
+A colimit decomposition for homotopy algebras in Cat
+Monads of regular theories
+Predicative toposes
+Representations of multicategories of planar diagrams and tensor categories
+Fixed and variable-basis fuzzy closure operators
+Categorical notions of layered tropical algebra and geometry
+Categories of layered semirings
+The structure of generalized inverse semigroups
+Blow up for some semilinear wave equations in multi-space dimensions
+Endomorphisms of cell 2-representations
+Waldhausen Additivity: Classical and Quasicategorical
+The zeta function of a finite category and the series Euler characteristic
+On classification of complex filiform Leibniz algebras
+Crossed interval groups and operations on the Hochschild cohomology
+Interleaved adjoints on directed graphs
+Operads of natural operations I: Lattice paths braces and Hochschild cochains
+Higher-dimensional normalisation strategies for acyclicity
+Polynomial representations and categorifications of Fock Space
+Picturing classical and quantum Bayesian inference
+Lagrange's Theorem for Hopf Monoids in Species
+On the information-theoretic structure of distributed measurements
+A dualizing object approach to non-commutative Stone duality
+Centers and homotopy centers in enriched monoidal categories
+Inner products of 2-representations
+Curved String Topology and Tangential Fukaya Categories
+Cyclic Homology of Fukaya Categories and the Linearized Contact Homology
+Finite dimensional Hilbert spaces are complete for dagger compact closed categories
+Algebraic Definition of weak ( infty n)-Categories
+Functors from Association Schemes
+On calculus of functors in model categories
+On algebraic and more general categories whose split epimorphisms have underlying product projections
+The Burnside bicategory of groupoids
+Quantifiers as Adjoint in Probability
+Differential restriction categories
+Cartesian differential categories revisited
+Multivariable adjunctions and mates
+Global orthogonal spectra
+Categorical aspects of compact quantum groups
+On the graded center of graded categories
+Strict quantum 2-groups
+A categorical framework for the quantum harmonic oscillator
+Categorical formulation of quantum algebras
+Completeness of dagger-categories and the complex numbers
+Ordinals in Frobenius Monads
+Formal completions and idempotent completions of triangulated categories of singularities
+Uniqueness of enhancement for triangulated categories
+Matrix factorizations for nonaffine LG-models
+Decorated proofs for computational effects: States
+Classifying Serre subcategories via atom spectrum
+Skew-monoidal categories and bialgebroids
+Exact completions and small sheaves
+Opetopes and chain complexes
+Skew monoidales skew warpings and quantum categories
+Skew-closed categories
+Resolutions higher extensions and the relative Mal'tsev axiom
+Higher quasi-categories vs higher Rezk spaces
+A homotopy theory of weak omega -categories
+Strongly Complete Logics for Coalgebras
+Higher genus mapping class group invariants from factorizable Hopf algebras
+The negative side of cohomology for Calabi-Yau categories
+Comparison of categorical characteristic classes of transitive Lie algebroid with Chern-Weil homomorphism
+Duality functors for n -fold vector bundles
+Von Neumann Categories
+Kleisli Database Instances
+Representations of general linear groups and categorical actions of Kac-Moody algebras
+On the representability of actions in the topos context
+Lattices and cohomological Mackey functors for finite cyclic p-groups
+Quillen model structures on the category of graphs
+The Shape of Infinity
+Database Semantics
+Stable short exact sequences define an exact structure on any additive category
+Derived categories of functors and Fourier--Mukai transform for quiver sheaves
+Higher Central Extensions in Mal'tsev Categories
+L -fuzzy strongest postcondition predicate transformers as L -idempotent linear or affine operators between semimodules of monotonic predicates
+Deformation theory of objects in homotopy and derived categories III: abelian categories
+The Maximality of the Typed Lambda Calculus and of Cartesian Closed Categories
+Syntax for Split Preorders
+A relative theory of universal central extensions
+No-go theorems for functorial localic spectra of noncommutative rings
+Transfer of algebras over operads along derived Quillen adjunctions
+Models for gapped boundaries and domain walls
+Cellularization of structures in stable homotopy categories
+Modules M such that Ext R 1(M -) commutes with direct limits
+The ternary commutator obstruction for internal crossed modules
+Algebraic theory of vector-valued integration
+Totally distributive toposes
+Integration of Lie 2-algebras and their morphisms
+Trichromatic Open Digraphs for Understanding Qubits
+A Tannakian Context for Galois
+The Cohomology of Non-Locality and Contextuality
+The Expectation Monad in Quantum Foundations
+Monoidal categories in and linking geometry and algebra
+Not every object in the derived category of a ring is Bousfield equivalent to a module
+Homologies of Algebraic Structures via Braidings and Quantum Shuffles
+Adjunctions for exceptions
+Univalence in locally cartesian closed infinity-categories
+G 'eom 'etricit 'e artinienne de l' infty -champs des 'el 'ements de Maurer-Cartan
+Determinantal Barlow surfaces and phantom categories
+Derived categories of absolutely flat rings
+The Born rule as structure of spectral bundles (extended abstract)
+Relation Liftings on Preorders and Posets
+Axiomatic Method and Category Theory
+Vanishing evaluations of simple functors
+Reidemeister Roseman-type Moves to Embedded Foams in -dimensional Space
+The classifying space of an inverse semigroup
+A general Fubini theorem for the Riesz paradigm
+Exact Sequences of Semimodules over Semirings
+Derived bi-duality via homotopy limit
+Coverings of small categories and nerves
+Cotorsion pairs and t-structures in a 2- Calabi-Yau triangulated category
+Higher order derived functors
+Generalized Plonka Sums and Products
+Interleaved equivalence of categories of persistence modules
+The uniqueness of braidings on the monoidal category of non-commutative descent data
+Shadows and traces in bicategories
+Coherence in monoidal track categories
+The unitary symmetric monoidal model category of small C -categories
+Environment and classical channels in categorical quantum mechanics
+Multiplicity of a space over another space
+On the derived category of a graded commutative noetherian ring
+Overcategories and free monoids for overcategories
+Gluing derived equivalences together
+A model structure on categories related to categories of complexes
+Frobenius-Schur indicator for categories with duality
+Theory of Interface: Category Theory Directed Networks and Evolution of Biological Networks
+Zeroth Derived Functors as Adjoints and Injective Resolutions of Coherent Functors
+On the Jordan-H older property for geometric derived categories
+Duality and traces for indexed monoidal categories
+A Quillen model for classical Morita theory and a tensor categorification of the Brauer group
+Corrections to the article: Operadic definition of the non-strict cells
+Locally torsion-free quasi-coherent sheaves
+Moduli space of fibrations in the category of simplicial presheaves
+The Embedding Theorem
+Restriction categories as enriched categories
+Noncommutativity as a colimit
+On monomorphic topological functors with finite supports
+Models for ( infty n) -categories and the cobordism hypothesis
+H -algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics
+Definable orthogonality classes in accessible categories are small
+A spectral characterization of skeletal maps
+On functors preserving skeletal maps and skeletally generated compacta
+Reedy categories and the Theta -construction
+Hom-Lie 2-algebras
+Relative Frobenius algebras are groupoids
+Univalence in Simplicial Sets
+A direct proof that the category of 3-computads is not cartesian closed
+Structure and classification of monoidal groupoids
+Unifying exact completions
+On Total Frobenius-Schur Indicators
+Tensor products of finitely cocomplete and abelian categories
+Categories of modules and their deformations
+On the Griffiths Groups of Fano Manifolds of Calabi-Yau Hodge Type
+Generalized Hopf Modules for bimonads
+Higher Segal spaces I
+Adding inverses to diagrams II: Invertible homotopy theories are spaces
+On the Axiomatics of Ann-Categories
+The Relation between Ann-Categories and Ring Categories
+Cohomological classification of Ann-functors
+On the braiding of an Ann-category
+The factor set of Gr-categories of the type ( Pi A)
+Deconstructibility and the Hill lemma in Grothendieck categories
+Duals of Ann-categories
+From triangulated categories to module categories via localisation
+Higher Lie algebra actions on Lie algebroids
+Partial model categories and their simplicial nerves
+On the abelianization of derived categories and a negative solution to Rosicky's problem
+From triangulated categories to module categories via localisation II: Calculus of fractions
+On monoidal functors between (braided) Gr-categories
+Monadic Decompositions and Classical Lie Theory
+Recollements from partial tilting complexes
+Completion by Derived Double Centralizer
+Quillen Theorems Bn for homotopy pullbacks of (infinity k)-categories
+Monoidal computer I: Basic computability by string diagrams
+Rigid C -tensor categories of bimodules over interpolated free group factors
+Module categories over affine group schemes
+Semiunital Semimonoidal Categories (Applications to Semirings and Semicorings)
+Replicating of binary operads Koszul duality Manin products and average operators
+Topological Galois Theory
+Crossed Bimodules over Rings and Shukla Cohomology
+Alain Badiou's Mistake --- Two Postulates of Dialectic Materialism
+A braided monoidal category for symplectic fermions
+Realizability Categories
+Enriched categories as a free cocompletion
+A topos for a nonstandard functional interpretation
+Global Mackey functors with operations and n-special lambda rings
+Categorical models of computation: partially traced categories and presheaf models of quantum computation
+Super Morita Theory
+The monoidal structure of strictification
+Adding inverses to diagrams encoding algebraic structures
+Operated semigroups Motzkin paths and rooted trees
+Higher dimensional algebras via colored PROPs
+On the asymptotic magnitude of subsets of Euclidean space
+O -operators on associative algebras and associative Yang-Baxter equations
+Convenient categories of reduced orbifolds
+O-operators on associative algebras and dendriform algebras
+Categorical Non-standard Analysis
+Functorial Data Migration
+Internal categories anafunctors and localisations
+Injectivity and flatness of semitopological modules
+(Co)-Induced Two Crossed Modules
+Monoidal algebraic model structures
+Modeling Stable One-Types
+The universal simplicial bundle is a simplicial group
+Morphisms of Generalized Interval Systems and PR-Groups
+Duality for bounded derived categories of complete intersections
+Cohomology of algebras over weak Hopf algebras
+Quotients of exact categories by cluster tilting subcategories as module categories
+Weak omega-categories via terminal coalgebras
+The unicity of real Picard-Vessiot fields
+Galois functors and generalised Hopf modules
+Model structures from a monad on presheaves
+Morita theory in enriched context
+Distributive inverse semigroups and non-commutative Stone dualities
+The Boardman-Vogt tensor product of operadic bimodules
+Tight spans Isbell completions and semi-tropical modules
+Equivariant Crossed Modules and Cohomology of Groups with Operators
+Universal homomorphisms universal structures and the polymorphism clones of homogeneous structures
+Stability patterns in representation theory
+Stacks of group representations
+Free Rota-Baxter algebras and rooted trees
+Fra iss 'e sequences: category-theoretic approach to universal homogeneous structures
+A diagrammatic calculus of syllogisms
+Zariski Closures of Reductive Linear Differential Algebraic Groups
+On determinant functors and K -theory
+Dendroidal Segal spaces and infinity-operads
+Global matrix factorizations
+Extensions of differential representations of SL(2) and tori
+Cohomological Classification of Ann-categories
+Parameterized Picard-Vessiot extensions and Atiyah extensions
+Tensor C -categories arising as bimodule categories of II 1 factors
+Notions of M obius inversion
+The structure and stability of persistence modules
+Remarks on Hall algebras of triangulated categories
+Bicategories and Weakly Globular Double Categories
+On universal gradings versal gradings and Schurian generated categories
+Fibred 2-categories and bicategories
+The telescope conjecture for semihereditary commutative rings
+Bicategorical fibration structures and stacks
+The Algebra of Directed Acyclic Graphs
+Version of A Generalization of Injective and Projective Complexes
+On some new model category structures from old on the same underlying category
+Types and forgetfulness in categorical linguistics and quantum mechanics
+On Deformations of Pasting Diagrams II
+Homotopy colimits in stable representation theory
+Relative homological algebra Waldhausen K -theory and quasi-Frobenius conditions
+Approximation in K-theory for Waldhausen Quasicategories
+Non-connective K-theory of relative exact categories
+Local Theory for 2-Functors on Path 2-Groupoids
+Un sch 'ema simplicial de Grothendieck-Pridham
+Autoequivalences of derived categories via geometric invariant theory
+Boolean sets skew Boolean algebras and a non-commutative Stone duality
+Bicompletions of distance matrices
+Fused Mackey functors
+Ramified coverings of small categories
+A classification of small homotopy functors from spectra to spectra
+Yoneda representations of flat functors and classifying toposes
+De Morgan classifying toposes
+De Morgan's law and the theory of fields
+Atomic toposes and countable categoricity
+Universal models and definability
+One topos many sites
+A characterization theorem for geometric logic
+Core compactness and diagonality in spaces of open sets
+Lifting defects for nonstable K -theory of exchange rings and C -algebras
+Site characterizations for geometric invariants of toposes
+The Herbrand Topos
+On the homotopy theory of enriched categories
+The Coalgebraic Structure of Cell Complexes
+On the construction of functorial factorizations for model categories
+History-Preserving Bisimilarity for Higher-Dimensional Automata via Open Maps
+On Theories of Superalgebras of Differentiable Functions
+A Categorical Treatment of Ornaments
+From operator categories to topological operads
+Cogroups in the category of connected graded algebras whose inverse and antipode coincide
+Differential equations and logarithmic intertwining operators for strongly graded vertex algebras
+A Categorification of Hall Algebras
+An A-infinity operad in spineless cacti
+Parametrized K-Theory
+Delooping of relative exact categories
+Cylindrical model structures
+Absolutely homotopy-cartesian squares
+Adjoint functors in graph theory
+Recollements of Module Categories
+Some remarks on multicategories and additive categories
+On Deligne's category uRep ab (S d)
+Adjunctions and Braided Objects
+Transfinite Adams representability
+Algebraic weighted colimits
+Dendroidal weak 2-categories
+Two-dimensional regularity and exactness
+Homological systems in triangulated categories
+Yet another category of setoids with equality on objects
+Braided equivariant crossed modules and cohomology of Gamma -modules
+Homotopy Theory of Mixed Hodge Complexes
+Exponentiable approach spaces
+On a fat small object argument
+Identities in modular arithmetic from reversible coherence operations
+Colimits of representable algebra-valued functors
+Infinite-Dimensional Representations of 2-Groups
+Grassmann sheaves and the classification of vector sheaves
+Symmetric bimonoidal intermuting categories and omega times omega reduced bar constructions
+An inner automorphism is only an inner automorphism but an inner endomorphism can be something strange
+On the functor l 2
+Leibniz 2-algebras and twisted Courant algebroids
+On diagram-chasing in double complexes
+Lie 2-bialgebras
+Bicategories for boundary conditions and for surface defects in 3-d TFT
+On two finiteness conditions for Hopf algebras with nonzero integral
+Towards multiplicities for categories O of cyclotomic rational Cherednik algebras
+The dual of Brown representability for homotopy categories of complexes
+Groupoids and cogroupoids: an one object approach
+Cohomological length functions
+Gray categories with duals and their diagrams
+The enriched Vietoris monad on representable spaces
+Quasi-Coxeter categories and a relative Etingof-Kazhdan quantization functor
+Compositional Quantum Logic
+On the universal coefficients formula for shape homology
+The operad of wiring diagrams: formalizing a graphical language for databases recursion and plug-and-play circuits
+On Arithmetic Modular Categories
+Linear Logic without Units
+Rigid objects triangulated subfactors and abelian localizations
+On algebras of finite Cohen-Macaulay type
+co-Semi-analytic functors
+Homotopy coherent centers versus centers of homotopy categories
+G - functors arising from categorical group actions on abelian categories
+An axiomatic construction of an almost full embedding of the category of graphs into the category of R-objects
+Another Sierpinski object in BFTS
+Classical Structures Based on Unitaries
+Universality of multiplicative infinite loop space machines
+Functorial Factorizations in Pro Categories
+FOLE: The First-order Logical Environment
+Determination through Universals: An Application of Category Theory in the Life Sciences
+On the notion of geometric realization
+Modelling Linear Logic Without Units (Preliminary Results)
+Finite Products are Biproducts in a Compact Closed Category
+A characterization of the category Q-TOP
+Classification of resolving subcategories and grade consistent functions
+Strong Complementarity and Non-locality in Categorical Quantum Mechanics
+Quillen homology for operads via Gr obner bases
+Tensors monads and actions
+Operational theories and Categorical quantum mechanics
+Noncommutative Motives I: A Universal Characterization of the Motivic Stable Homotopy Theory of Schemes
+Adjunctions and defects in Landau-Ginzburg models
+tau-tilting theory
+On Blow-Ups and Injectivity of Quivers
+'Etale Stacks as Prolongations
+Lambek vs. Lambek: Functorial Vector Space Semantics and String Diagrams for Lambek Calculus
+Quantum Speedup and Categorical Distributivity
+Nets relations and linking diagrams
+Analytic functors between presheaf categories over groupoids
+Q-SOB as an epireflecive hull in Q- TOP 
+Nonlinear Traces
+Secondary Traces
+A categorical analogue of the monoid semiring construction
+Negative K-groups of abelian categories
+The categories L textbf -Top  and L textbf Sob as epireflective hulls
+Kolmogorov Complexity of Categories
+Splitting of operads and Rota-Baxter operators on operads
+Weights for Objects of Monoids
+A note on strong protomodularity actions and quotients
+Relational symplectic groupoids and Poisson sigma models with boundary
+Duality of Preenvelopes and Pure Injective Modules
+Groupoids Frobenius algebras and Poisson sigma models
+Weak bimonoids in duoidal categories
+Deformations of Lie 2-algebras
+In the heart of representable metric jets
+Towards an Algebraic Characterization of 3-dimensional Cobordisms
+A categorical approach to cyclic duality
+Cohomological Twisting of 2-Linearization and Extended TQFT
+First-Order Logical Duality
+Factorization systems induced by weak distributive laws
+Bilinear factorization of algebras
+Topological Representation of Geometric Theories
+On the iteration of weak wreath products
+Subgroupoids and Quotient Theories
+Codensity and the ultrafilter monad
+On normal tensor functors and coset decompositions for fusion categories
+On Hopf monoids in duoidal categories
+On the Q construction for exact quasicategories
+Presheaf models of quantum computation: an outline
+Firm Frobenius monads and firm Frobenius algebras
+Filtered Colimit Preserving Functors on Models of a Regular Theory
+Skew-monoidal categories and the Catalan simplicial set
+Scalability using effects
+Categories of assemblies for realizability
+Categorical crepant resolutions of singularities and the Tits-Freudenthal magic square
+Lawvere theories finitary monads and Cauchy-completion
+A Note On Heisenberg Categorification
+Normalizers and split extensions
+Cofibrant models of diagrams: mixed Hodge structures in rational homotopy
+Blocked-braid Groups
+Racks and blocked braids
+Categories enriched over a quantaloid: Isbell adjunctions and Kan adjunctions
+An alternative description of braided monoidal categories
+The operad of temporal wiring diagrams: formalizing a graphical language for discrete-time processes
+Colax Reedy diagrams
+A calculus on lax functors
+Cylinders and paths in simplicial categories
+Riesz-Schwartz extensive quantities and vector-valued integration in closed categories
+Explicit Formulas for 2-Characters
+Monoidal Hom-Hopf algebras
+On the regular representation of an (essentially) finite 2-group
+Perverse coherent t-structures through torsion theories
+Spectra associated to symmetric monoidal bicategories
+The 2-group of symmetries of a split chain complex
+On the Image of the Totaling Functor
+Graph inverse semigroups: their characterization and completion
+Regular Functors and Relative Realizability Categories
+Quadratic Modules Bifibred Over Nil(2)-Modules
+Exponential Kleisli monoids as Eilenberg-Moore algebras
+The logic of quantum mechanics - Take II
+A categorical approach to loops neardomains and nearfields
+Z 2Z-extensions of Hopf algebra module categories by their base categories
+Infinite loop spaces and coherence for symmetric monoidal bicategories
+Hearts of twin cotorsion pairs on exact categories
+On uniqueness of tensor products of irreducible categorifications
+Quintic periods and stability conditions via homological mirror symmetry
+Association schemoids and their categories
+Well-Pointed Coalgebras
+Using Monoidal Categories in the Transformational Study of Musical Time-Spans and Rhythms
+An alternative Gospel of structure: order composition processes
+Toward a strictification theorem for co-Segal categories
+From A-spaces to arbitrary spaces via spatial fibrous preorders
+Dedekind complete posets from sheaves on von Neumann algebras
+Dynamical systems and categories
+The dual of the homotopy category of projective modules satisfies Brown representability
+Homotopy finiteness of some DG categories from algebraic geometry
+Azumaya monads and comonads
+Homotopy Type Theory: Univalent Foundations of Mathematics
+Category of asynchronous systems and polygonal morphisms
+Peiffer Elements in the Moore Complex of a Bisimplicial Group
+Differential Graded Categories are k-linear Stable Infinity Categories
+Dualizability in Low-Dimensional Higher Category Theory
+Abstract Tensor Systems as Monoidal Categories
+Applications of closed models defined by counting to graph theory and topology
+R-Matrices Yetter-Drinfel ' d Modules and Yang-Baxter Equation
+Second-Order Algebraic Theories
+Fusion categories between C boxtimes D and C D
+Iterated icons
+Compositories and Gleaves
+2-cosemisimplicial objects in a 2-category permutohedra and deformations of pseudofunctors
+On the Zappa-Szep Product
+A strict totally coordinatized version of Kapranov and Voevodsky's 2-category bf 2Vect
+Representation theory of 2-groups on finite dimensional 2-vector spaces
+Generalized 2-vector spaces and general linear 2-groups
+Spherical functors
+Structure of Ann-Categories
+Structure of Ann-categories
+Connections on non-abelian Gerbes and their Holonomy
+A short note on infinity-groupoids and the period map for projective manifolds
+Abstract elementary classes and accessible categories
+Multitensors as monads on categories of enriched graphs
+Colimits of accessible categories
+The radius of a subcategory of modules
+Spans in 2-Categories: A monoidal tricategory
+Silting objects simple-minded collections t -structures and co- t -structures for finite-dimensional algebras
+Rigidification of algebras over essentially algebraic theories
+Wonderful resolutions and categorical crepant resolutions of singularities
+Multitensor lifting and strictly unital higher category theory
+Quasi-unital infty -Categories
+Unramified two-dimensional Langlands correspondence
+Pointed homotopy and pointed lax homotopy of 2-crossed module maps
+Classification of co-slicings and co-t-structures for the Kronecker algebra
+Compact Closed Bicategories
+Higher comparison maps for the spectrum of a tensor triangulated category
+Category theory for scientists (Old version)
+A Whirlwind Tour of the World of ( infty 1) -categories
+Automorphic Equivalence of Many-Sorted Algebras
+Bicategorical homotopy fiber sequences
+Abstract GSOS Rules and a Modular Treatment of Recursive Definitions
+The algebra of the nerves of omega-categories
+Cartesian closed 2-categories and permutation equivalence in higher-order rewriting
+Complicial structures in the nerves of omega-categories
+On the infinity category of homotopy Leibniz algebras
+Girard's () as a reversible fixed-point operator
+Godel's Completeness Theorem and Deligne's Theorem
+The space of stability conditions for A 3 -quiver
+Abelian crossed modules and strict Picard categories
+An Equational Metalogic for Monadic Equational Systems
+Spherical DG-functors
+Sweedler Theory for (co)algebras and the bar-cobar constructions
+Sums over Graphs and Integration over Discrete Groupoids
+Coherence of Associativity in Categories with Multiplication
+On the homotopy theory of n-types
+Stability conditions for generic K3 categories
+Possible connections between whiskered categories and groupoids many object Leibniz algebras automorphism structures and local-to-global questions
+Algebraic colimit calculations in homotopy theory using fibred and cofibred categories
+Hochschild dimensions of tilting objects
+Orlov spectra: bounds and gaps
+Injective objects and retracts of Fra iss 'e limits
+Traces in symmetric monoidal categories
+A construction of relatively pure submodules
+On multisemigroups
+Reflexive functors of modules in Commutative Algebra
+Classical lambda calculus in modern dress
+Matrix factorizations and semi-orthogonal decompositions for blowing-ups
+On Artin algebras arising from Morita contexts
+Operations on derived moduli spaces of branes
+Thick simplices and quasi-categories
+Infinitesimal 2-braidings and differential crossed modules
+Infinity Links L infinity--Manifolds M L and Kirby Categories
+Type refinement and monoidal closed bifibrations
+Topological  total
+Gabriel 2-Quivers for Finitary 2-Categories
+Cooperads as Symmetric Sequences
+Projective lines as groupoids with projection structure
+Cosimplicial C-infinity rings and the de Rham complex of Euclidean space
+Matrix factorizations and motivic measures
+A new higher homotopy groupoid: the fundamental globular omega-groupoid of a filtered space
+An elementary illustrated introduction to simplicial sets
+Invertible defects and isomorphisms of rational CFTs
+The geometric realization of a simplicial Hausdorff space is Hausdorff
+A Characterization of Finite EI Categories with Hereditary Category Algebras
+Biset transformations of Tambara functors
+Glueing silting objects
+The Categorified Heisenberg Algebra I: A Combinatorial Representation
+Metric-enriched categories and approximate Fra i ss ' e limits
+The 2-category theory of quasi-categories
+Specialization orders on atom spectra of Grothendieck categories
+The homotopy bicategory of ( infty 1) -categories
+A left topological monoid associated to a topological groupoid
+Variedades de 'algebras topologicas
+Category-Theoretic Quantitative Compositional Distributional Models of Natural Language Semantics
+Concrete Categories in Homotopy Type Theory
+Higher n-angulations from local algebras
+Differential cohomology theories as sheaves of spectra
+Toposes quantales and C algebras in the atomic case
+Plots and Their Applications - Part I: Foundations
+Homotopy locally presentable enriched categories
+Short and biased introduction to groupoids
+A Categorical Theory of Patches
+Characteristic subobjects in semi-abelian categories
+Smooth Manifolds vs Differential triads
+Higher-order semantics for quantum programming languages with classical control
+Non-semistable exceptional objects in hereditary categories
+A non-simply laced version for cluster structures on 2-Calabi-Yau categories
+Azumaya Objects in Triangulated Bicategories
+Does full imply faithful?
+Four Equivalent Versions of Non-Abelian Gerbes
+Are all localizing subcategories of stable homotopy categories coreflective?
+Formal plethories
+Class-combinatorial model categories
+Landau-Ginzburg Models D-branes and Mirror Symmetry
+On the Unicity of the Homotopy Theory of Higher Categories
+Isomonodromic differential equations and differential categories
+Quotient completion for the foundation of constructive mathematics
+A categorical foundation for Bayesian probability
+Geometric Phantom Categories
+Two dimensional monadicity
+Lie monads and dualities
+Morita theory for finitary 2-categories
+A local-global principle for the telescope conjecture
+Mayer-Vietoris sequences in stable derivators
+Matrix Factorizations for Complete Intersections and Minimal Free Resolutions
+On Limits and Colimits Of Comodules over a Coalgebra in a Tensor Category
+Homotopy theory of relative simplicial presheaves
+Elements of a theory of algebraic theories
+Two isomorphism criteria for directed colimits
+A Generalization of Correspondence Theorem and Its Application to Branching Laws
+Bayesian machine learning via category theory
+Fibrations as Eilenberg-Moore algebras
+Heaps and unpointed stable homotopy theory
+Simplicial nerve of an A-infinity category
+On a symmetry of M uger's centralizer for the Drinfeld double of a semisimple Hopf algebra
+Hochschild and cyclic (co)homology of superadditive categories
+Adjoint associativity: an invitation to algebra in infinity-categories
+Typing linear algebra: A biproduct-oriented approach
+Powers of the Phantom Ideal
+Internal Homs via extensions of dg functors
+Arithmetical Foundations - Excerpt
+Introduction to tau -tilting theory
+A Potential Definition of Weak omega -Category
+Pursuing Lax Diagrams and Enrichment
+An example of a non-cofibrantly generated model category
+Intermutation
+Base change for semiorthogonal decompositions
+Length 3 Complexes of Abelian Sheaves and Picard 2-Stacks
+Integrating morphisms of Lie 2-algebras
+Structures de poids a la Bondarko sur les motifs de Beilinson
+Towards a homotopy theory of higher dimensional transition systems
+A Geometric Approach to Orlov's Theorem
+Koszul Ringel and Serre duality for strict polynomial functors
+Drinfeld center of planar algebra
+On the category of props
+Path space connections and categorical geometry
+Homotopy Theory of Labelled Symmetric Precubical Sets
+Presheaves of symmetric tensor categories and nets of C -algebras
+Mapping Spaces of Gray-Categories
+Partitions of a Finite Partially Ordered Set
+W-types in Homotopy Type Theory
+Splitting tower and degree of tt-rings
+On autoequivalences of the ( infty 1)-category of infty-operads
+Transformation Double Categories Associated to 2-Group Actions
+Mutation pairs and triangulated quotients
+Enriched factorization systems
+The Tangent Functor Monad and Foliations
+Existence of slices in a tame context
+Monotone-light factorisation systems and torsion theories
+Milnor-Moore Categories and Monadic Decomposition
+A Serre-Swan theorem for gerbe modules on 'etale Lie groupoids
+Pushouts of categories derived limits and colimits
+A new Frobenius exact structure on the category of complexes
+Arrow's Theorem by Arrow Theory
+Functorial Semantics of Second-Order Algebraic Theories
+Orbispaces and their Mapping Spaces via Groupoids: A Categorical Approach
+Further remarks on the Smith is Huq condition
+Tilting theory via stable homotopy theory
+Chasing diagrams in cryptography
+A Model Structure for Enriched Coloured Operads
+Non-Simplicial Nerves for Two-Dimensional Categorical Structures
+Homotopy theory of coalgebras over operads
+Localization of algebras over coloured operads
+Fixed point theory and trace for bicategories
+Homotopy homology and GL 2
+Clifford theory for tensor categories
+On generalized topological spaces
+Stratifying triangulated categories
+Aspects of Predicative Algebraic Set Theory III: Sheaves
+Limits of Coalgebras Bialgebras and Hopf Algebras
+Silting mutation in triangulated categories
+Bar-cobar duality for operads in stable homotopy theory
+Homotopy limits of model categories and more general homotopy theories
+Coloured quivers for rigid objects and partial triangulations: The unpunctured case
+The Ringel--Hall Lie algebra of a spherical object
+Completions of Grothendieck groups
+Characterizations of categories of commutative C -subalgebras
+Dendroidal sets and simplicial operads
+The Generating Condition for Coalgebras
+A Coboundary Morphism For The Grothendieck Spectral Sequence
+Database queries and constraints via lifting problems
+Theory Presentation Combinators
+On the algebraic K-theory of higher categories
+The homotopy theory of coalgebras over a comonad
+Extensions of Picard 2-Stacks and the cohomology groups Ext i of length 3 complexes
+Level-rank duality via tensor categories
+Contraherent cosheaves
+A braided monoidal category for free super-bosons
+Sheaves that fail to represent matrix rings
+On solid and rigid monoids in monoidal categories
+Hochster duality in derived categories and point-free reconstruction of schemes
+Towards a Categorical Account of Conditional Probability
+Permutation 2-groups I: structure and splitness
+The left (right) triangulated structures of the stable categories
+Derived categories of N -complexes
+Resolvent embeddings
+Bar and cobar constructions for curved algebras and coalgebras
+Rectification of enriched infinity-categories
+Operads with general groups of equivariance and some 2-categorical aspects of operads in Cat
+Yoneda lemma for complete Segal spaces
+Category theory logic and formal linguistics: some connections old and new
+Resolution of extensions of Picard 2-stacks
+Remarks on the Tripos To Topos Construction: extensionality comprehensions quotients and cauchy-complete objects
+Sequential multicategories
+Curved homotopy coalgebras
+Higher Inductive Types as Homotopy-Initial Algebras
+Nonstandard functional interpretations and categorical models
+Breaking a monad-comonad symmetry between computational effects
+Generalized Inversions and the Construction of Musical Group and Groupoid Actions
+Compact spaces lattices and absoluteness: a survey
+K-theory of derivators revisited
+On the Categorification of the M obius Function
+Polygraphs of finite derivation type
+Scheme representation for first-order logic
+Weil Spaces and Weil-Lie Groups
+Derived equivalences for hereditary Artin algebras
+Adjoinable Homology
+Computing with cut systems
+Extendability in the Sheaf-theoretic Approach: Construction of Bell Models from Kochen-Specker Models
+Monoidal computer II: Normal complexity by string diagrams
+Positive fragments of coalgebraic logics
+On computation of the first Baues--Wirsching cohomology of a freely-generated small category
+Combinatorial structure of type dependency
+Tilting theory for trees via stable homotopy theory
+Dendroidal sets as models for homotopy operads
+The possible values of critical points between varieties of lattices
+Four problems regarding representable functors
+An almost full embedding of the category of graphs into the category of abelian groups
+Subcategories of singularity categories via tensor actions
+Dwyer-Kan homotopy theory of enriched categories
+Theories of analytic monads
+Permutative G-categories in equivariant infinite loop space theory
+Lectures on bifunctors and finite generation of rational cohomology algebras
+On infty -Categories
+Gluing restricted nerves of infty -categories
+The additivity of traces in monoidal derivators
+Homotopy theory for algebras over polynomial monads
+On the duality of generalized Lie and Hopf algebras
+On Modular Categories
+Non-Archimedean analytic geometry as relative algebraic geometry
+Feynman Categories
+Cats
+On certain 2-categories admitting localisation by bicategories of fractions
+Smashing localizations of rings of weak global dimension at most one
+Topos Semantics for Higher-Order Modal Logic
+A note on separable functors and monads
+The accessibility rank of weak equivalences
+Fibrations of ordered groupoids and the factorization of ordered functors
+A fibrational study of realizability toposes
+Generalised bialgebras and entwined monads and comonads
+Principal bundles as Frobenius adjunctions with application to geometric morphisms
+Weak Frobenius bimonads and Frobenius bimodules
+On 2 -star-permutability in regular multi-pointed categories
+Fast decomposition of p-groups in the Roquette category for p2
+Note on the tensor product of dendroidal sets
+The bordism version of the h-principle
+Mixed Artin-Tate motives with finite coefficients
+On the Cohomology Comparison Theorem
+The groupoidal analogue Theta to Joyal's category Theta is a test category
+A Categorical Approach to Groupoid Frobenius Algebras
+The slice Burnside ring and the section Burnside ring of a finite group
+Homological dimensions and abelian model structures on chain complexes
+Pattern graph rewrite systems
+On the homotopy theory of Grothendieck infty-groupoids
+On homotopy types modelized by strict infty-groupoids
+A tale of three homotopies
+Constructing model categories with prescribed fibrant objects
+A Linear Category of Polynomial Diagrams
+The Simplicial Model of Univalent Foundations
+Strict infty-groupoids are Grothendieck infty-groupoids
+On exact infinity-categories and the Theorem of the Heart
+Universal central extensions in semi-abelian categories
+Braided Systems: a Unified Treatment of Algebraic Structures with Several Operations
+Towards a Thomason model structure on the category of strict n-categories
+MV-algebras freely generated by finite Kleene algebras
+The fundamental group functor as a Kan extension
+Obvious natural morphisms of sheaves are unique
+Separable extensions in tt-geometry and generalized Quillen stratification
+Unital hyperarchimedean vector lattices
+The Morita-equivalence between MV-algebras and abelian ell -groups with strong unit
+Bogomolov multiplier double class-preserving automorphisms and modular invariants for orbifolds
+Star-regularity and regular completions
+Terminal semantics for codata types in intensional Martin-L of type theory
+Left-induced model structures and diagram categories
+Leibniz homology of Lie algebras as functor homology
+Experience Implementing a Performant Category-Theory Library in Coq
+Stacks and sheaves of categories as fibrant objects
+Sheaves and Conditional Sets
+Simplicial Structure on Complexes
+Morita cohomology
+Standard Vector Bundles
+The Galois group of a stable homotopy theory
+Bicategorical homotopy pullbacks
+Generalized edgewise subdivisions
+Towards a good notion of categories of logics
+The centre of the extended Haagerup subfactor has 22 simple objects
+Cylinder Tensor and Tensor-Closed Module
+On the characterization of J 'onsson-Tarski and of subtractive varieties
+Categor 'ias. Los 3 primeros a nos
+A perspective on non-commutative frame theory
+A Characterization of Realizability Toposes
+Comparing localizations across adjunctions
+The hammock localization preserves homotopies
+Homological algebra of semimodules and semicontramodules: Semi-infinite homological algebra of associative algebraic structures
+Weak bimonads and weak Hopf monads
+Hopf monads on monoidal categories
+A category of kernels for equivariant factorizations and its implications for Hodge theory
+Causal categories: relativistically interacting processes
+Higher order derived functors and the Adams spectral sequence
+The Biequivalence of Locally Cartesian Closed Categories and Martin-L of Type Theories
+Andr 'e spectral sequences for Baues-Wirsching cohomology of categories
+A derivability criterion based on the existence of adjunctions
+A generalization of Ohkawa's theorem
+Dendroidal sets as models for connective spectra
+Categorification of persistent homology
+Groupoids and Faa di Bruno formulae for Green functions in bialgebras of trees
+Thomason cohomology of categories
+Spherical subcategories in algebraic geometry
+Morita contexts as lax functors
+Orlov spectra as a filtered cohomology theory
+Gorenstein Homological Dimensions and Abelian Model Structures
+Resolutions in factorization categories
+Relational Foundations For Functorial Data Migration
+The Green rings of pointed tensor categories of finite type
+Triangulations orientals and skew monoidal categories
+Differential graded categories and Deligne conjecture
+The two-dimensional Contou-Carr e re symbol and reciprocity laws
+Noncommutative reciprocity laws on algebraic surfaces: a case of tame ramification
+On Braided Linear Gr-categories
+Branching Laws of Generalized Verma Modules for Non-symmetric Polar Pairs
+Quiver Bialgebras and Monoidal Categories
+Minimal model structures
+Which abelian tensor categories are geometric?
+Compositional Operators in Distributional Semantics
+Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras
+Smooth coalgebra: testing vector analysis
+A model structure on internal categories in simplicial sets
+Operadic categories and Duoidal Deligne's conjecture
+Internal and local homotopy theory
+Semi-localizations of semi-abelian categories
+Representation theory of logics: a categorial approach
+Permutation of elements in double semigroups
+Cat 'egories a dualit 'e
+Homologically optimal categories of sequences lead to N-complexes
+Classification of categorical subspaces of locally noetherian schemes
+Pivotal tricategories and a categorification of inner-product modules
+The stable module category of a general ring
+Poisson boundaries of monoidal categories
+Categories in Control
+Cartesian Differential Storage Categories
+Nearly Morita equivalences and rigid objects
+Comparing algebraic and non-algebraic foundations of n -category theory
+On operads bimodules and analytic functors
+Coherence in Linear Predicate Logic
+A Boolean algebra and a Banach space obtained by push-out iteration
+Symmetric and exterior powers of categories
+The Gorenstein defect category
+Tilting cotilting and spectra of commutative noetherian rings
+Segal-type algebraic models of n-types
+Orbifold completion of defect bicategories
+Enriched indexed categories
+Homotopy colimits of model categories
+A bigroupoid's topology
+The theory and practice of Reedy categories
+Cellular categories
+Towards Synthetic Descriptive Set Theory: An instantiation with represented spaces
+A geometric approach to boundaries and surface defects in Dijkgraaf-Witten theories
+De la structure des foncteurs polynomiaux sur les espaces hermitiens
+A Mackey-functor theoretic interpretation of biset functors
+A model structure on GCat
+Smooth and proper noncommutative schemes and gluing of DG categories
+Free Applicative Functors
+Morphisms determined by objects and flat covers
+Spectral Mackey functors and equivariant algebraic K-theory (I)
+Extensions of flat functors and theories of presheaf type
+An elementary characterisation of sifted weights
+The Euler characteristic of an enriched category
+n -abelian and n -exact categories
+Univalent universes for elegant models of homotopy types
+Modules over etale groupoid algebras as sheaves
+Capturing Goodwillie's Derivative
+Uniformly Presented Vector Spaces
+Linear polygraphs and Koszulity of algebras
+Cartesian closed categories are distributive
+Model structure on co-Segal commutative dg-algebras in characteristic p
+A simplified definition of logically distributive categories
+Universal Associative Geometry
+Completion closure and density relative to a monad with examples in functional analysis and sheaf theory
+Factorisation and Cohomology of Higher Categories
+Natural models of homotopy type theory
+Hom commuting with filtered products
+Several adjoint constructions for biset functors via Mackey-functorial interpretation
+Cellular objects and Shelah's singular compactness theorem
+Comparison of models for ( infty n) -categories II
+Categorical crepant resolutions for quotient singularities
+The Frobenius anatomy of word meanings II: possessive relative pronouns
+The Weakly Globular Double Category of Fractions of a Category
+Notions of Computation as Monoids
+Cyclic theories
+A theory of 2-pro-objects (with expanded proofs)
+Finite matrices are complete for (dagger-)multigraph categories
+A new model for pro-categories
+A classification of congruence primal arithmetical algebras
+Exact couples in semiabelian categories revisited
+On the notion of a semi-abelian category in the sense of Palamodov
+Categorical tori
+Maximal exact structures on additive categories
+Polynomial functors and trees
+Polynomial functors and polynomial monads
+Coherence for weak units
+Feynman graphs and nerve theorem for compact symmetric multicategories (extended abstract)
+Local fibered right adjoints are polynomial
+Monads in Double Categories
+Double Adjunctions and Free Monads
+Categorification of Hopf algebras of rooted trees
+Data types with symmetries and polynomial functors over groupoids
+Bousfield lattices of non-Noetherian rings: some quotients and products
+Exact model categories approximation theory and cohomology of quasi-coherent sheaves
+The category and operad of matching dialgebras
+Traces in monoidal derivators and homotopy colimits
+Multiplicative structures on algebraic K-theory
+A local-global principle for small triangulated categories
+Multiplicative Structures on the Twisted Equivariant K-theory of Finite Groups
+An observation on n-permutability
+Variations of the telescope conjecture and Bousfield lattices for localized categories of spectra
+Anyon condensation and tensor categories
+Derived equivalences induced by big cotilting modules
+The n -fold reduced bar construction
+Cardy algebras and sewing constraints II
+Free Poisson Hopf algebras generated by coalgebras
+Decomposition Spaces Incidence Algebras and M obius Inversion
+On an enhancement of the category of shifted L-infinity algebras
+New enhancements of derived categories of coherent sheaves and applications
+Quillen-Segal objects and structures: an overview
+The linearity of traces in monoidal categories and bicategories
+The linearity of fixed point invariants
+Categories of contexts
+Understanding higher structures through Quillen-Segal objects
+A note on Frobenius monoidal functors on autonomous categories
+Epireflective subcategories of Top T 2 Unif Unif closed under epimorphic images or being algebraic
+On a class of countable Boolean inverse monoids and Matui's spatial realization theorem
+A Classical Realizability Model arising from a Stable Model of Untyped Lambda Calculus
+Symmetries
+Models of Intuitionistic Set Theory in Subtoposes of Nested Realizability Toposes
+Displacements
+Exact sequences Hochschild cohomology and the Lie module structure over the M -relative center
+Logic and linear algebra: an introduction
+Tensor functor between Morita duals of fusion categories
+Wreath products of cocommutative Hopf algebras
+Groupes d'extensions et foncteurs polynomiaux
+Categorical Green functors arising from group actions on categories
+Representation and character theory of finite categorical groups
+Review on the Kleisli and Eilenberg-Moore 2-adjunctions
+Internal monoids and groups in the category of commutative cancellative medial magmas
+The Free Courant Algebroid
+Parallel Transport and Functors
+Polynomials in categories with pullbacks
+Ideals in Deligne's category Rep(GL delta)
+Floer-Fukaya theory and topological elliptic objects
+Categories vs. groupoids via generalised Mal'tsev properties
+Presheaves of superselection structures in curved spacetimes
+On compactly generated torsion pairs and the classification of co-t-structures for commutative noetherian rings
+Generalized Counting Constraint Satisfaction Problems With Determinantal Circuits
+Digraph functors which admit both left and right adjoints
+Categorical Lagrangian Grassmannians and Brauer-Picard groups of pointed fusion categories
+Gelfand spectra in Grothendieck toposes using geometric mathematics
+Combinatorial categorical equivalences of Dold-Kan type
+Existence of Tannakian subcategories and its applications
+Annihilation of cohomology and decompositions of derived categories
+Constructing equivariant spectra via categorical Mackey functors
+Coherence for Skew-Monoidal Categories
+The balanced tensor product of module categories
+Extending obstructions to noncommutative functorial spectra
+Graphs hypergraphs and properads
+Categories of Quantum and Classical Channels (extended abstract)
+Coalgebraic Quantum Computation
+Quantum Gauge Field Theory in Cohesive Homotopy Type Theory
+Adjunctions in Quantaloid-enriched Categories
+Skew Calabi-Yau triangulated categories and Frobenius Ext-algebras
+Some notes on Esakia spaces
+From Topology to Noncommutative Geometry: K -theory
+Some remarks on pullbacks in Gumm categories
+Algebras of Open Dynamical Systems on the Operad of Wiring Diagrams
+The Sch utzenberger category of a semigroup
+Restriction to subgroups as 'etale extensions in topology KK-theory and geometry
+Continuity is an adjoint functor
+Fibrancy of Partial Model Categories
+Pure exact structures and the pure derived category of a scheme
+The derived category of an 'etale extension and the separable Neeman-Thomason theorem
+Homomorphisms of Gray-categories as pseudo algebras
+Adjointness properties for relative extensions of disk and sphere chain complexes
+Groupoids in categories with pretopology
+Simplicity primitivity and semiprimitivity of etale groupoid algebras with applications to inverse semigroup algebras
+Isotypic faithful 2 -representations of mathcal J -simple fiat 2 -categories
+Koszul-Morita duality
+Point-set topology as diagram chasing computations: Lifting property as negation
+The homotopy theory of strong homotopy algebras and bialgebras
+Chow groups and derived categories of K3 surfaces
+Behavior of Quillen (co)homology with respect to adjunctions
+Characterizing Serre quotients with no section functor and applications to coherent sheaves
+Gluing pseudofunctors via n -fold categories
+The quot functor of a quasi-coherent sheaf
+Godement resolutions and sheaf homotopy theory
+Non-commutative localizations of additive categories and weight structures applications to birational motives
+Categories of Quantum and Classical Channels
+Log-TQFT and torsion
+Invertible Bimodules Miyashita Action in Monoidal Categories and Azumaya Monoids
+Day convolution for infinity-categories
+Homotopy coherent adjunctions and the formal theory of monads
+A sheafification theorem for doctrines
+Model categories with simple homotopy categories
+Completeness results for quasi-categories of algebras homotopy limits and related general constructions
+Coalgebraic models for combinatorial model categories
+The Grothendieck construction for model categories
+Twisted actions of categorical groups
+When is a container a comonad?
+t-structures are normal torsion theories
+A folk Quillen model structure for operads
+Cohomologie des foncteurs polynomiaux sur les groupes libres
+Strong generators in tensor triangulated categories
+Categorical Non-commutative Geometry
+Remarks on Morphisms of Spectral Geometries
+Krein C -modules
+Codensity and Stone spaces
+Poincar 'e duality isomorphisms in tensor categories
+N2 minimal conformal field theories and matrix bifactorisations of x d
+Quasistrict symmetric monoidal 2-categories via wire diagrams
+Dualizing cartesian and cocartesian fibrations
+n-angulated quotient categories induced by mutation pairs
+Right n -angulated categories arising from covariantly finite subcategories
+A note on commutative algebras and their modules in quasicategories
+Fibration theorem for Waldhausen K-theory
+Witt vectors and truncation posets
+Algebraically coherent categories
+On semiabelian categories in Functional Analysis and Topological Algebras
+Cofree coalgebras over operads and representative functions
+Lattice-ordered abelian groups and perfect MV-algebras: a topos-theoretic perspective
+Abstract representation theory of Dynkin quivers of type A
+On the Derived Categories of Degree d Hypersurface Fibrations
+Homotopy Bisimilarity for Higher-Dimensional Automata
+Reflexivity and dualizability in categorified linear algebra
+Stratifying ideals and twisted products
+Categories as mathematical models
+Hearts of t-structures in the derived category of a commutative Noetherian ring
+Kan extensions and cartesian monoidal categories
+Pointwise extensions and sketches in bicategories
+Hearts of t-structures which are Grothendieck or module categories
+Semi-derived and derived Hall algebras for stable categories
+Stability of Gorenstein objects in triangulated categories
+Factorisations of distributive laws
+Notes on commutation of limits and colimits
+A C-system defined by a universe in a category
+Revisiting function complexes and simplicial localisation
+Cryptography and non commutative cohomology
+Model Structures on the Category of Small Double Categories
+A Thomason Model Structure on the Category of Small n-fold Categories
+Nerves and classifying spaces for bicategories
+Relative fixed point theory
+Rigidification of quasi-categories
+Faithfulness of a functor of Quillen
+Mapping spaces in Quasi-categories
+Associahedra and Weak Monoidal Structures on Categories
+Hecke algebras finite general linear groups and Heisenberg categorification
+Simplicial presheaves of coalgebras
+Sound and complete axiomatizations of coalgebraic language equivalence
+The axioms for n-angulated categories
+Derivators pointed derivators and stable derivators
+Triangulated subcategories of extensions stable t-structures and triangles of recollements
+On monads of exact reflective localizations of Abelian categories
+Tensor functors between categories of quasi-coherent sheaves
+On colimits and elementary embeddings
+The multiplicativity of fixed point invariants
+Highest weight sl 2-categorifications II: structure theory
+Teleparallel Gravity as a Higher Gauge Theory
+Ind-abelian categories and quasi-coherent sheaves
+Coherence for invertible objects and multi-graded homotopy rings
+A categorical invariant of flow equivalence of shifts
+The dual of Brown representability for some derived categories
+Logical systems I: Lambda calculi through discreteness
+Left fibrations and homotopy colimits
+The Catalan simplicial set
+On strong homotopy for quasi-schemoids
+Categorical duality for Yetter-Drinfeld algebras
+The other pullback lemma
+Logical systems II: Free semantics
+Selective Categories and Linear Canonical Relations
+Functoriality of groupoid quantales. I
+Constructing cogenerators in triangulated categories and Brown representability
+Properness and simplicial resolutions for the model category dgCat
+Transitive 2-representations of finitary 2-categories
+Non-semistable exceptional objects in hereditary categories: some remarks and conjectures
+Coefficients for Higher Order Hochschild Cohomology
+Derived moduli of complexes and derived Grassmannians
+A period map for global derived stacks
+Equivalence of hearts of twin cotorsin pairs on triangulated categories
+Equivalence of models for equivariant ( infty 1) -categories
+Strictly commutative models for E-infinity quasi-categories
+AF inverse monoids and the structure of countable MV-algebras
+The defect functor of a homomorphism and direct unions
+On Constructive Axiomatic Method
+On monads and warpings
+Higher Order Architecture of Collections of Objects
+Iterated spans and classical topological field theories
+Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves
+Bogomolov-Tian-Todorov theorems for Landau-Ginzburg models
+Deriving Auslander's formula
+The Picard group of topological modular forms via descent theory
+From fractions to complete Segal spaces
+Diagrammatic characterisation of enriched absolute colimits
+The 2-type model structure on the category of bicategories
+Infinite index subfactors and the GICAR categories
+Bridgeland stability conditions on the acyclic triangular quiver
+Tensor categorical foundations of algebraic geometry
+Weak Hopf Quasigroups
+Krull-Schmidt categories and projective covers
+Singular Equivalence of Morita Type with Level
+A description of the fundamental group in terms of commutators and closure operators
+Derived sections and categorical resolutions in homotopical context
+Relative Derived Category with respect to a Subcategory
+Frobenius and the derived centers of algebraic theories
+Codensity and the Giry monad
+B-systems
+Admissibility and rectification of colored symmetric operads
+Weak Factorization System for Actions of Po-monoids on Posets
+A recognition principle for small model categories
+On tensor factorizations of Hopf algebras
+Representable (T V)-categories
+Weak braided monoidal categories and their homotopy colimits
+Triangle Order leq bigtriangleup in Singular Categories
+Gauge invariant surface holonomy and monopoles
+A skew-monoidal reflection theorem
+The Isbell monad
+Enrichment over iterated monoidal categories
+Partition complexes duality and integral tree representations
+Coherent Unit Actions on Operads and Hopf Algebras
+Classification of braids which give rise to interchange
+The mixed functors of the category Fquad: a first study
+Dendroidal Sets
+Lawvere-Tierney sheaves in algebraic set theory
+G-gerbes principal 2-group bundles and characteristic classes
+A cartesian presentation of weak n-categories
+On the notion of pseudocategory internal to a category with a 2-cell structure
+A Small Observation on Co-categories
+Two kinds of derived categories Koszul duality and comodule-contramodule correspondence
+Long knots and maps between operads
+The blob complex
+Functor of continuation in Hilbert cube and Hilbert space
+Moduli spaces of algebras over non-symmetric operads
+On the Bourbaki-Witt Principle in Toposes
+Geometric Realizations of Tricategories
+Rigidity is undecidable
+Relative singularity categories I: Auslander resolutions
+A skew-duoidal Eckmann-Hilton argument and quantum categories
+Rethinking set theory
+Homotopy theory of non-symmetric operads II: change of base category and left properness
+A categorical description of Bass-Serre theory
+What makes a multi-complex exact?
+Cluster categories for topologists
+A correspondence between a class of monoids and self-similar group actions II
+Topological quasiparticles and the holographic bulk-edge relation in 2 1D string-net models
+A thick subcategory theorem for modules over certain ring spectra
+Category Theory Using String Diagrams
+On pointwise Kan extensions in double categories
+Classification theory for accessible categories
+Multiplier bialgebras in braided monoidal categories
+Residue fields for a class of rational mathbf E infty -rings and applications
+The Giry monad as a codensity monad
+Decorated marked surfaces: spherical twists versus braid twists
+Variable sets over an algebra of lifetimes: a contribution of lattice theory to the study of computational topology
+Some insights on bicategories of fractions - I
+Some insights on bicategories of fractions - II
+Some insights on bicategories of fractions - III
+Homological Projective Duality for Determinantal Varieties
+Algebraizable Logics and a functorial encoding of its morphisms
+Two Models for the Homotopy Theory of Cocomplete Homotopy Theories
+Non-commutative deformations and quasi-coherent modules
+Bousfield localisations along Quillen bifunctors and applications
+Localic Metric spaces and the localic Gelfand duality
+Extended 3-dimensional bordism as the theory of modular objects
+Measure theory over boolean toposes
+The local universes model: an overlooked coherence construction for dependent type theories
+Nonhomogeneous quadratic duality and curvature
+On Hopf adjunctions Hopf monads and Frobenius-type properties
+On the Classification of Weakly Integral Modular Categories
+Geometric constructions preserve fibrations
+Distinguishability and copiability of programs in general process theories
+Generalization of Algebraic Operations via Enrichment
+Autonomization of Monoidal Categories
+Decorated marked surfaces II: Intersection numbers and dimensions of Homs
+Relative Left Properness of Colored Operads
+Model structures for coalgebras
+Homotopy theory of homotopy algebras
+Constructive Set Theory from a Weak Tarski Universe
+A topological fibrewise fundamental groupoid
+Hopf comonads on naturally Frobenius map-monoidales
+Homotopical Morita theory for corings
+On dualizable objects in monoidal bicategories framed surfaces and the Cobordism Hypothesis
+Pointed Homotopy of Maps Between 2-Crossed Modules of Commutative Algebras
+La th 'eorie de l'homotopie des 2-cat 'egories
+The Catalan simplicial set II
+Continuous versus discrete structures I -- Discrete embeddings and ordinary differential equations
+Categorification
+Graded and Koszul categories
+Strictification of etale stacky Lie groups
+Galois Theory of Algorithms
+Coherent analogues of matrix factorizations and relative singularity categories
+An extension of Stone duality to fuzzy topologies and MV-algebras
+Envelopes and imprints in categories with applications to Functional Analysis
+Pictures of complete positivity in arbitrary dimension
+Repetitive higher cluster categories of type A n
+Univalence for inverse diagrams and homotopy canonicity
+Coherent presentations of Artin monoids
+Group actions on Segal operads
+Reedy categories which encode the notion of category actions
+Homotopical resolutions associated to deformable adjunctions
+The homotopy theory of simplicial props
+Duality and small functors
+Chow groups of tensor triangulated categories
+Homotopy invariance of higher K-theory for abelian categories
+Universes for category theory
+On direct summands of homological functors on length categories
+Des propri 'et 'es de finitude des foncteurs polynomiaux
+Six model structures for DG-modules over DGAs: Model category theory in homological action
+Tannakian duality over Dedekind rings and applications
+Kan injectivity in order-enriched categories
+Higher Orbifolds and Deligne-Mumford Stacks as Structured Infinity Topoi
+Lax monads equipments and generalized multicategory theory
+The magnitude of a graph
+Gorenstein categories singular equivalences and finite generation of cohomology rings in recollements
+The heart of a combinatorial model category
+On factorisation systems for surjective quandle homomorphisms
+Interacting Hopf Algebras
+Morita cohomology and homotopy locally constant sheaves
+The Z-calculus is incomplete for quantum mechanics
+Complexity of Grammar Induction for Quantum Types
+The Cuboid Lemma and Mal'tsev categories
+Belief propagation in monoidal categories
+A Study of Entanglement in a Categorical Framework of Natural Language
+Terminality implies non-signalling
+Grothendieck topologies on a poset
+Abstract structure of unitary oracles for quantum algorithms
+The dagger lambda calculus
+Symmetric self-adjoint Hopf categories and a categorical Heisenberg double
+Fibers of partial totalizations of a pointed cosimplicial space
+Cartan-Eilenberg complexes and Auslander categories
+Tannaka duality coclosed categories and reconstruction for nonarchimedean bialgebras
+On the extended Whittaker category
+Intercategories I: The basic theory
+A category-theoretic version of the identity type weak factorization system
+Intercategories II: Examples
+On the Evrard's fibrant replacement of a functor
+A cocategorical obstruction to tensor products of Gray-categories
+A Note on Homology over Functor Categories
+On purity and applications to coderived and singularity categories
+Derived ( infty 1) -categories of two kinds
+Weak fiber products in a bicategory of fractions
+The Witt group of a braided Monoidal category
+Left Kan extensions that are algebraic over colax-idempotent 2-monads
+Reduced smooth stacks?
+Drinfeld centers for bicategories
+Lax formal theory of monads monoidal approach to bicategorical structures and generalized operads
+From homotopy operads to infinity-operads
+Complete cotorsion pairs in exact categories
+Algebraic weak factorisation systems I: accessible AWFS
+Algebraic weak factorisation systems II: categories of weak maps
+Duality for generic algebras
+On General Closure Operators and Quasi Factorization Structures
+A trace for bimodule categories
+Homotopic Hopf-Galois extensions revisited
+Categorical Operator Algebraic Foundations of Relational Quantum Theory
+From triangulated categories to module categories via homotopical algebra
+Operads as polynomial 2-monads
+Model infty -categories I: some pleasant properties of the infty -category of simplicial spaces
+The higher Morita category of E n -algebras
+Categorical characterizations of operator-valued measures
+Closure operators in the category of quandles
+A classification theorem for t -structures
+General affine adjunctions Nullstellens atze and dualities
+Weak Cat-Operads
+A short course on infty -categories
+A note on thick subcategories of stable derived categories
+Weakly curved A-infinity algebras over a topological local ring
+Extension groups between atoms and objects in locally noetherian Grothendieck category
+Traces on Module Categories over Fusion Categories
+Lifts of longest elements to braid groups acting on derived categories
+Univalent categories and the Rezk completion
+From Kleisli categories to commutative C -algebras: Probabilistic Gelfand Duality
+A recognition principle for the existence of descent data
+Numerically finite hereditary categories with Serre duality
+Homotopy limits in type theory
+A bicategory of reduced orbifolds from the point of view of differential geometry - I
+On the equivalence between Lurie's model and the dendroidal model for infinity-operads
+On tilted Giraud subcategories
+The univalence axiom for elegant Reedy presheaves
+Completely positive projections and biproducts
+Category Theory of Symbolic Dynamics
+The weak choice principle WISC may fail in the category of sets
+On 3 -gauge transformations 3 -curvature and mathbf Gray -categories
+Enriched infty -categories via non-symmetric infty -operads
+Monoidal categories and the Gerstenhaber bracket in Hochschild cohomology
+Semistrict Higher Gauge Theory
+Categorical Bockstein sequences
+Syntax and Semantics of Linear Dependent Types
+What do homotopy algebras form?
+Realizability of Univalence: Modest Kan complexes
+Tensor categories and endomorphisms of von Neumann algebras (with applications to Quantum Field Theory)
+The stable category of a left hereditary ring
+A spectrum-level Hodge filtration on topological Hochschild homology
+Division Algebras and Supersymmetry IV
+Boundary Conditions for Topological Quantum Field Theories Anomalies and Projective Modular Functors
+Tensor products and regularity properties of Cuntz semigroups
+Hamiltonian anomalies from extended field theories
+Phases of stable representations of quivers
+Representation theory for subfactors lambda -lattices and C -tensor categories
+Monads and distributive laws for Rota-Baxter and differential algebras
+Categorification using dual projection functors
+The closed unit ball in the space of model structures on a category
+Skew monoidal monoids
+Topological categories quantaloids and Isbell adjunctions
+Building the bicategory Span 2( mathcal C )
+Smooth one-dimensional topological field theories are vector bundles with connection
+Quantum Programs as Kleisli Maps
+Failure of flat descent of model structures on module categories
+How many adjunctions give rise to the same monad?
+Combinatorics and algebra of tensor calculus
+Symmetries and defects in three-dimensional topological field theory
+Higher Lie and Leibniz algebras
+The dual fibration in elementary terms
+Grothendieck-Neeman duality and the Wirthm uller isomorphism
+Lax colimits and free fibrations in infty -categories
+Generalized Eilenberg Theorem I: Local Varieties of Languages
+Duflo involutions for 2-categories associated to tree quivers
+Quillen adjunctions induce adjunctions of quasicategories
+On Double Inverse Semigroups
+The Legendre-Fenchel transform from a category theoretic perspective
+Hearts and towers in stable infinity-categories
+Monadic Dynamics
+Isbell Duality for Refinement Types
+Varieties of Languages in a Category
+A Note on the Uniform Kan Condition in Nominal Cubical Sets
+C -algebraic drawings of dendroidal sets
+Minors of non-commutative schemes
+-graphs with trivial overlap are context-free
+Categorical Semantics for Schr odigner's Equation
+Enriched cofibration categories
+Ideal cotorsion theories in triangulated categories
+Subgroups of the group of homeomorphisms of the Cantor space and a duality between a class of inverse monoids and a class of Hausdorff 'etale groupoids
+Categories generated by a trivalent vertex
+Categorical Comprehensions and Recursion
+Toward a non-commutative Gelfand duality: Boolean locally separated toposes and Monoidal monotone complete C -categories
+A Diagrammatic Axiomatisation for Qubit Entanglement
+Drinfeld center and representation theory for monoidal categories
+Stacks of Ann-Categories and their morphisms
+Presheaves of triangulated categories and reconstruction of schemes
+Enriched Reedy categories
+An Invitation to Higher Gauge Theory
+A decomposition formula for the weighted commutator
+Coherence and strictification for self-similarity
+Approximate Hagemann-Mitschke co-operations
+Sets in homotopy type theory
+The pivotal cover and Frobenius-Schur indicators
+On the normality of Higgins commutators
+On unimodular finite tensor categories
+Peri-abelian categories and the universal central extension condition
+The geometry of cubical and regular transition systems
+On the third cohomology group of commutative monoids
+Algebraic Kan extensions in double categories
+Model Structures on Ind Categories and the Accessibility Rank of Weak Equivalences
+Gapped Domain Walls Gapped Boundaries and Topological Degeneracy
+A 2-categorical state sum model
+A constructive approach to the module of twisted global sections on relative projective spaces
+Infinity Properads and Infinity Wheeled Properads
+The relative modular object and Frobenius extensions of finite Hopf algebras
+Constructive Gelfand duality for non-unital commutative C -algebras
+Sequences of Rewrites: A Categorical Interpretation
+On a question of Rickard on tensor product of stably equivalent algebras
+This is the (co)end my only (co)friend
+Biextensions bimonoidal functors multilinear functor calculus and categorical rings
+Fourier transforms from strongly complementary observables
+On THH and 'etale base change
+Recollement of additive quotient categories
+Open System Categorical Quantum Semantics in Natural Language Processing
+Decorated Cospans
+Boundary-bulk relation for topological orders as the functor mapping higher categories to their centers
+A stratified homotopy hypothesis
+A Geometric Bohr topos
+Transfinite limits in topos theory
+Computing Higher Frobenius-Schur Indicators in Fusion Categories Constructed from Inclusions of Finite Groups
+Homological Dimensions Relative to Preresolving Subcategories
+Some quasitensor autoequivalences of Drinfeld doubles of finite groups
+A Higher Frobenius-Schur Indicator Formula for Group-Theoretical Fusion Categories
+A torsion theory in the category of cocommutative Hopf algebras
+Pre-Lie deformation theory
+Cocycles in categories of fibrant objects
+The Category of Cocommutative Hopf Algebras is Semi-Abelian
+On the 3 -representations of groups and the 2 -categorical Traces
+Left Adjoints for Generalized Multicategories
+Partial Tambara structure on the Burnside biset functor induced from a derivator-like system of adjoint triplets
+P -persistent homology of finite topological spaces
+Higher central extensions and cohomology
+Betweenness monotonicity and road systems: a categorical interpretation
+Quantales generalised premetrics and free locales
+Connections on decorated path space bundles
+Models for homotopy categories of injectives and Gorenstein injectives
+Higher-Dimensional Algebra and Planck-Scale Physics

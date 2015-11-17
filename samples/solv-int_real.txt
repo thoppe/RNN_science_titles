@@ -1,0 +1,1413 @@
+Exact integrability of the su(n) Hubbard model
+Analytical Estimation of the Maximal lyapunov Exponent in Oscillator Chains
+One-Dimensional XXZ Model for Particles Obeying Fractional Statistics
+Symmetric Fock space and orthogonal symmetric polynomials associated with the Calogero model
+Singularities in the Bethe solution of the XXX and XXZ Heisenberg spin chains
+Nonlinear nonlocal diffusion of magnetic flux in thin type-II superconductors and Josephson junction arrays: Exact solutions
+Spectra of large random matrices: A method of study
+KPZ Equation and Surface Growth Model
+A Unified Algebraic Approach to Few and Many-Body Hamiltonians having Linear Spectra
+Soliton Solutions of Integrable Hierarchies and Coulomb Plasmas
+Factorization of linear partial differential operators and Darboux integrability of nonlinear PDEs
+Monodromy Transform Approach to Solution of Some Field Equations in General Relativity and String Theory
+Monodromy transform approach to solution of the Ernst equations in General Relativity
+WKB quantization of reggeon compound states in high-energy QCD
+Evolution equations for quark-gluon distributions in multi-color QCD and open spin chains
+A Matrix Model Solution of Hirota Equation
+Gaudin Model KZ Equation and Isomonodromic Problem on Torus
+Super-Matrix KdV and Super-Generalized NS Equations from Self-Dual Yang-Mills Systems with Supergauge Groups
+Trapped States and bound states of a soliton in a well
+A Lie Algebra for Closed Strings Spin Chains and Gauge Theories
+The Inverse Spectral Theory for the Ward Equation and for the 2 1 Chiral Model
+Spontaneous Magnetization in the Finite XXZ Spin Chain with Boundaries
+Finite Size Formula in the XYZ Spin Chain
+A Spin Chain Primer
+Parity and Charge Conjugation Symmetries and S Matrix of the XXZ Chain
+The Quantization of the Generalized mKdV Equations for hat SL 2
+Soliton Solution of the Integrable Coupled Nonlinear Schrodinger Equation of Manakov Type
+Generalized statistics in one dimension
+Lax Pairs and Spectral Curves for Calogero-Moser and Spin Calogero-Moser Systems
+Seiberg-Witten Theory and Integrable Systems
+Angular Quantization of the Sine-Gordon Model at the Free Fermion Point
+Discrete analogs of the Darboux-Egoroff metrics
+Chern-Simons Solitons in Quantum Potential
+Airy functions in the thermodynamic Bethe ansatz
+On the Integrability of a Class of Monge-Ampere Equations
+Symmetry Algebras of Quantum Matrix Models in the Large-N Limit
+Equivalence of the Sutherland Model to Free Particles on a Circle
+Quantum Field Theory of Topological Defects as Inhomogeneous Condensates
+Solution Generating in Ten Dimensional Supersymmetric Classical Yang--Mills Theories
+Integral representation for the eigenfunctions of quantum periodic Toda chain
+Backlund Transformations in 1D susy Yang-Mills Theories
+Non-local Symmetries of Nonlinear Field Equations: an Algebraic Approach
+Bispectrality of KP Solitons
+Darboux Transformations of Bispectral Quantum Integrable Systems
+Graded Lie algebras representation theory integrable mappings and systems
+The exactly integrable systems connected with semisimple algebras of the second rank A 2 B 2 C 2 G 2
+On solutions of the Schlesinger Equations in Terms of Theta -Functions
+Discrete Schr o dinger equation on finite field and associated cellular automaton
+Painlev ' e type equations and Hitchin systems
+On time evolutions associated with the nonstationary Schr o dinger equation
+Moduli Space of Self-Dual Gauge Fields Holomorphic Bundles and Cohomology Sets
+B a cklund and Darboux transformations for the nonstationary Schr o dinger equation
+Supersymmetric Polychronakos Spin Chain: Motif Distribution Function and Character
+Integrable systems in spaces of arbitrary dimension
+The connection of Monge-Bateman equations with ordinary differential equations and their generalisation
+Universality of the Distribution Functions of Random Matrix Theory. II
+Nonabelian Toda equations associated with classical Lie groups
+Asymptotics of soliton solution for the perturbed Davey-Stewartson-1 equations
+More On Generalized Symmetries of Partial Differential Equations and Quasiexact Solvability
+On Time-Dependant Symmetries of Schroedinger Equation
+Flat pencils of metrics and Frobenius manifolds
+Painleve' transcendents and two-dimensional topological field theory
+Notes on the horizontal cohomology
+On the Fay identity for KdV tau functions and the identity for the Wronskian of squared solutions of Sturm-Liouville equation
+On a Functional Differential Equation of Determinantal Type
+Point Processes and the Infinite Symmetric Group. Part II: Higher Correlation Functions
+Point processes and the infinite symmetric group. Part III: Fermion point processes
+The Generation of Compatible Jacobi Tensors via Gauge Transformations and its Applications
+B acklund Transformations and Loop Group Actions
+Monodromy of certain Painleve' VI transcendents and reflection groups
+Weierstrass representations for surfaces in 4D spaces and their integrable deformations via DS hierarchy
+Frobenius Manifolds And Virasoro Constraints
+Homological Methods in Equations of Mathematical Physics
+Point Processes and the Infinite Symmetric Group. Part IV: Matrix Whittaker kernel
+Point processes and the infinite symmetric group. Part V: Analysis of the matrix Whittaker kernel
+Point processes and the infinite symmetric group. Part VI: Summary of results
+On the Distribution of the Length of the Longest Increasing Subsequence of Random Permutations
+Induced surfaces and their integrable dynamics. II. Generalized Weierstrass representations in 4D spaces and deformations via DS hierarchy
+Remarks on Fermionic Formula
+Determinants of Airy Operators and Applications to Random Matrices
+On the spectral curve of the difference Lam 'e operator
+Schrodinger flows on Grassmannians
+On the distribution of the length of the second row of a Young diagram under Plancherel measure
+Spectral Curves Opers and Integrable Systems
+Integrable Hierarchies and Wakimoto Modules
+Twisted Quantum Affine Superalgebra U q gl(m n) (2) and New U q osp(m n) Invariant R-matrices
+Integrable geodesic flow with positive topological entropy
+The asymptotics of monotone subsequences of involutions
+Elliptic Calogero-Moser Systems and Isomonodromic Deformations
+Z-Measures on partitions Robinson-Schensted-Knuth correspondence and beta=2 random matrix ensembles
+Einstein-Weyl structures from Hyper-K ahler metrics with conformal Killing vectors
+Integrable deformations of Hamiltonian systems and q-symmetries
+Exploring Surfaces through Methods from the Theory of Integrable Systems. lectures on the Bonnet problem
+Bethe Equation at q= M obius Inversion Formula and Weight Multiplicities: I. sl(2) case
+Combinatorial R matrices for a family of crystals : C (1) n and A (2) 2n-1 cases
+Random Words Toeplitz Determinants and Integrable Systems. I
+Finite-gap difference opeators with elliptic coefficients and their spectral curves
+Geodesic equivalence and integrability
+Toda lattice and toric varieties for real split semisimple Lie algebras
+Frobenius submanifolds
+Riemann-Hilbert problem and the discrete Bessel kernel
+The moment method in general Nonlinear Schrodinger Equations
+Yang-Baxter systems solutions and applications
+Some Aspects of Generalized Contact Interaction in One-Dimensional Quantum Mechanics
+Quantum and classical stochastic dynamics: Exactly solvable models by supersymmetric methods
+Nonlinear von Neumann-type equations
+Two-body Elliptic Model in proper variables: Lie-algebraic forms and their discretizations
+A new explicit expression for the Korteweg-De Vries hierarchy
+On Fifth Order KdV-Type Equation
+Hidden quantum R-matrix in discrete time classical Heisenberg magnet
+Unifying structures in quantum integrable systems
+D-modules and Darboux transformations
+The Painlev 'e approach to nonlinear ordinary differential equations
+The Discrete Painlev 'e I Hierarchy
+The Second Painlev 'e Equation in the Large-Parameter Limit I: Local Asymptotic Analysis
+Surfaces of Revolution via the Schroedinger Equation : Construction Integrable Dynamics and Visualization
+Equal-time temperature correlators of the one-dimensional Heisenberg XY chain
+Additional symmetries of the Zakharov-Shabat hierarchy String equation and Isomonodromy
+On the Integrability of the One-Dimensional Open XYZ Spin Chain
+Comment on Equal-time temperature correlators of the one-dimensional Heisenberg XY chain'' preprint solv-int 12
+The nondynamical r-matrix structure of the elliptic Calogero-Moser model
+The N=2 supersymmetric matrix GNLS hierarchies
+On the geometry of point-expansions for certain class of differential equations of the second order
+The Stackel systems and algebraic curves
+Integrability in 3 1 Dimensions: Relaxing a Tetrahedron Relation
+Dynamical Correlation Functions for an Impenetrable Bose gas with open boundary conditions
+The averaging of Hamiltonian structures in discrete variant of Whitham method
+Toda-Darboux maps and vertex operators
+Sigma Models and Minimal Surfaces
+Polarization scattering by soliton-soliton collisions
+Asymptotics of Solutions to the Modified Nonlinear Schr o dinger Equation: Solitons on a Non-Vanishing Continuous Background
+A Symmetric Generalization of Linear B acklund Transformation associated with the Hirota Bilinear Difference Equation
+N Soliton Solutions to The Bogoyavlenskii-Schiff Equation and A Quest for The Soliton Solution in (3 1) Dimensions
+Dirac Operator of a Conformal Surface Immersed in R 4: Further Generalized Weierstrass Relation
+General vorticity conservation
+Asymptotics of a class of Fredholm determinants
+Systems of PDEs obtained from factorization in loop groups
+Asymptotics of perturbed soliton for Davey--Stewartson II equation
+Universal formats for nonlinear dynamical systems
+Vacuum curves of elliptic L-operators and representations of Sklyanin algebra
+Invariants and Symmetries for Partial Differential Equations and Lattices
+On the Lakshmanan and gauge equivalent counterpart of the Myrzakulov-VIII equation
+Correlation Functions of Finite XXZ model with Boundaries
+Computation of Higher-order Symmetries for Nonlinear Evolution and Lattice Equations
+Hierarchy of Higher Dimensional Integrable System
+Surfaces curves and the Lakshmanan equivalent counterparts of the some Myrzakulov equations
+Chiral Solutions to Generalized Burgers and Burgers-Huxley Equations
+A Dirac Sea and thermodynamic equilibrium for the quantized three-wave interaction
+Eigenvector and eigenvalue problem for 3D bosonic model
+Solitons Surfaces Curves and the Spin Description of Nonlinear Evolution Equations
+Finsler-Geometrical Approach to the Studying of Nonlinear Dynamical Systems
+On the Law of Transformation of Affine Connection and its Integration. Part 1. Generalization of the Lame equations
+The Painlev 'e Integrability Test
+To the Gel'fand-Tsetlin realization of irreducible representations of classical semisimple algebras
+Towards second order Lax pairs to discrete Painlev 'e equations of first degree
+Rules of discretization for Painlev 'e equations
+Integrable discretizations of the Euler top
+All generalized SU(2) chiral models have spectral dependent Lax formulation
+On lump instability of Davey--Stewartson II equation
+The system of three vortexes of two dimensional ideal hydrodinamics as a new example of the (integrable) Nambu- Poisson mechanics
+Painlev 'e analysis for nonlinear partial differential equations
+On the relation between orthogonal symplectic and unitary matrix ensembles
+On the exact solutions of the Bianchi IX cosmological model in the proper time
+The Gambier Mapping Revisited
+Again Linearizable Mappings
+Higher Order Asymptotics of the Modified Non-Linear Schr o dinger Equation
+The Gel'fand-Tsetlin Selection Rules and Representations of Quantum Algebras
+Elliptic solutions to difference non-linear equations and nested Bethe ansatz equations
+Travelling Wave Solutions in Nonlinear Diffusive and Dispersive Media
+Long range integrable oscillator chains from quantum algebras
+Reduced Vectorial Ribaucour Transformation for the Darboux-Egoroff Equations
+Multiplicity A m Models
+Connection formulae for degenerated asymptotic solutions of the fourth Painleve equation
+On integrability of a (2 1)-dimensional perturbed Kdv equation
+Quantization of cohomology in semi-simple Lie algebras
+Singular sector of the KP hierarchy bar partial -operators of non-zero index and associated integrable systems
+Imprimitively generated Lie-algebraic Hamiltonians and separation of variables
+Pfaffian form of the Grammian determinant solutions of the BKP hierarchy
+Initial boundary value problem on a half-line for the MKdV equation
+Phonon Scattering by Breathers in the Discrete Nonlinear Schroedinger Equation
+Geometric B acklund--Darboux transformations for the KP hierarchy
+DNA Transcription Mechanism with a Moving Enzyme
+Schlesinger Transformations for Linearisable Equations
+'Universality' of the Ablowitz-Ladik hierarchy
+Dubrovin equations and integrable systems on hyperelliptic curves
+On the integrability of nonlinear partial differential equations
+An Approach to Master Symmetries of Lattice Equations
+A n (1) Toda Solitons: a Relation between Dressing transformations and Vertex Operators
+From One-Component KP Hierarchy to Two-Component KP Hierarchy and Back
+Berezinian Construction of Super-Solitons in Supersymmetric Constrained KP Hierarchies
+Equations of Geodesic Deviation and the Inverse Scattering Transform
+Finite gap integration of a discrete Euler top
+Binary Nonlinearization of AKNS Spectral Problem under Higher-Order Symmetry Constraints
+Inversion of the linearized Korteweg-deVries equation at the multi-soliton solutions
+On the Solution of a Painlev 'e III Equation
+On Explicit Parametrisation of Spectral Curves for Moser-Calogero Particles and its Applications
+Bethe ansatz solution of a closed spin 1 XXZ Heisenberg chain with quantum algebra symmetry
+Algebro-Geometric Solutions of the Boussinesq Hierarchy
+Elliptic Algebro-Geometric Solutions of the KdV and AKNS Hierarchies - An Analytic Approach
+Linear r-Matrix Algebra for a Hierarchy of One-Dimensional Particle Systems Separable in Parabolic Coordinates
+Algebraic Structure of Discrete Zero Curvature Equations and Master Symmetries of Discrete Evolution Equations
+The Generalised mKdV Equations for Level -3 of hat sl 2
+The complex geometry of Lagrange top
+Lax Pairs for Integrable Lattice Systems
+Tau-function for discrete sine-Gordon equation and quantum R-matrix
+Long range interaction corrections on the quantum vibronic soliton
+Quelques applications de l'Ansatz de Bethe (Some applications of the Bethe Ansatz)
+Miura Transformations for Integrable Evolution Equations of the Form u t=u xxx f(t x u u x u xx )
+Stochastic Soliton Lattices
+The Lax operators cal L of the Benney type equations bound with the circle
+Asymptotics of the Fredholm determinant associated with the correlation functions of the quantum Nonlinear Schrodinger equation
+Algebraic Exact Solvability of trigonometric-type Hamiltonians associated to root systems
+On Integrability and Chaos in Discrete Systems
+On Darboux-B acklund Transformations for the Q-Deformed Korteweg-de Vries Hierarchy
+Canonical variables for multiphase solutions of the KP equation
+Q-deformed KP hierarchy: Its additional symmetries and infinitesimal B acklund transformations
+Darboux Transformations and solutions for an equation in 2 1 dimensions
+Two Integrable Systems Related to Hyperbolic Monopoles
+Integrable boundary conditions for nonlinear lattices
+On Calogero wave functions
+On the Calogero model with negative harmonic term
+Random matrices Virasoro algebras and noncommutative KP
+Perturbative methods for the Painlev 'e test
+Various truncations in Painlev 'e analysis of PDEs
+Coverings and integrability of the Gauss-Mainardi-Codazzi equations
+On Discrete Painleve Equations Associated with the Lattice KdV Systems and the Painleve VI Equation
+Inhomogeneous Burgers Equation and the Feynman-Kac Path Integral
+A Realization of Discrete Geometry by String Model
+Hamiltonian Structures of Generalized Manin-Radul Super KdV and Constrained Super KP Hierarchies
+The periodic Lax operators cL of the equations of Benney type II
+Extension of the bilinear formalism to supersymmetric KdV-type equations
+Discrete and Continuous Linearizable Equations
+The Cole-Hopf and Miura transformations revisited
+The classical Boussinesq hierarchy revisited
+On some soliton equations in 2 1 dimensions and their 1 1 and or 2  dimensional integrable reductions
+Two- and Many-Dimensional Quasi-Exactly Solvable Models With An Inhomogeneous Magnetic Field
+Universality of the distribution functions of random matrix theory
+Airy Kernel and Painleve II
+The hunting for the discrete Painlev 'e VI is over
+Acoustic Scattering and the Extended Korteweg deVries hierarchy
+Darboux-type transformations and hyperelliptic curves
+Exact solutions of the associated Camassa-Holm equation
+Multi-soliton Solution of the Integrable Coupled Nonlinear Schrodinger Equation of Manakov Type
+A note on the third family of N=2 supersymmetric KdV hierarchies
+On time-dependent symmetries and formal symmetries of evolution equations
+Miura transformations for Toda--type integrable systems with applications to the problem of integrable discretizations
+On the Hamiltonian and Lagrangian structures of time-dependent reductions of evolutionary PDEs
+Modified KP and Discrete KP
+A critical Ising model on the Labyrinth
+Lax Pair Formulation and Multi-soliton Solution of the Integrable Vector Nonlinear Schrodinger Equation
+Modular Invariants and Generalized Halphen Systems
+Picard-Fuchs Equations Hauptmoduls and Integrable Systems
+Soliton equations in 2 1 dimensions: reductions bilinearizations and simplest solutions
+Nambu--Poisson reformulation of the finite dimensional dynamical systems
+The Pfaff lattice and skew-orthogonal polynomials
+Integrable mixed vertex models from braid-monoid algebra
+Integrable vs Nonintegrable Geodesic Soliton Behavior
+Singularity Structure Analysis Integrability Solitons and Dromions in (2 1)-Dimensional Zakharov Equations
+Symmetric random matrices and the Pfaff lattice
+On integrability test for ultradiscrete equations
+Integrable semi-discretization of the coupled nonlinear Schr o dinger equations
+Canonicity of Baecklund transformation: r-matrix approach. I
+Canonicity of Baecklund transformation: r-matrix approach. II
+Pole Dynamics for Elliptic Solutions of the Korteweg-deVries Equation
+Discrete equations and the singular manifold method
+Recurrent procedure for the determination of the Free Energy epsilon 2 -expansion in the Topological String Theory
+Complex sine-Gordon Equation in Coherent Optical Pulse Propagation
+On the M-XX equation
+Invariant Modules and the Reduction of Nonlinear Partial Differential Equations to Dynamical Systems
+Nonlinear waves differential resultant computer algebra and completely integrable dynamical systems
+Korteweg-de Vries hierarchy and related completely integrable systems: I. Algebro-geometrical approach
+Soliton solutions Liouville integrability and gauge equivalence of Sasa Satsuma equation
+Optical solitons in higher order nonlinear Schrodinger equation
+Compacton-like Solutions for Modified KdV and other Nonlinear Equations
+Integrability Tests for Nonlinear Evolution Equations
+Multi-Component Matrix KP Hierarchies as Symmetry-Enhanced Scalar KP Hierarchies and Their Darboux-B acklund Solutions
+From Agmon-Kannai expansion to Korteweg-de Vries hierarchy
+Solutions of Non-linear Differential and Difference Equations with Superposition Formulas
+Magnetization waves in Landau-Lifshitz Model
+Nonexistence results for the Korteweg-deVries and Kadomtsev-Petviashvili equations
+A System with a Recursion Operator but One Higher Local Symmetry of the Form u t=u xxx f(t x u u x u xx )
+On pulse broadening for optical solitons
+Multipeakons and the Classical Moment Problem
+On the bilinear equations for Fredholm determinants appearing in random matrices
+Families of quai-bi-Hamiltonian systems and separability
+Paraconformal Structures and Integrable Systems
+p-adic Difference-Difference Lotka-Volterra Equation and Ultra-Discrete Limit
+Integrability of the higher-order nonlinear Schroedinger equation revisited
+Classical skew orthogonal polynomials and random matrices
+On the equivalence of the discrete nonlinear Schr odinger equation and the discrete isotropic Heisenberg magnet
+A New Class of Optical Solitons
+New Integrable Coupled Nonlinear Schrodinger Equations
+Inter-relationships between orthogonal unitary and symplectic matrix ensembles
+Integrable Systems in the Infinite Genus Limit
+Lattice geometry of the Hirota equation
+Integrable Discrete Geometry: the Quadrilateral Lattice its Transformations and Reductions
+Discrete Dubrovin Equations and Separation of Variables for Discrete Systems
+Symmetric Linear Backlund Transformation for Discrete BKP and DKP equation
+A Spectral Mapping Theorem and Invariant Manifolds for Nonlinear Schr odinger Equations
+Multi-Field Integrable Systems Related to WKI-Type Eigenvalue Problems
+Miura Map between Lattice KP and its Modification is Canonical
+Supersymmetric KP hierarchy in N=1 superspace and its N=2 reductions
+Classical Solutions Generating Tree Form-Factors in Yang-Mills Sin(h)-Gordon and Gravity
+A Coupled AKNS-Kaup-Newell Soliton Hierarchy
+Complete integrability of derivative nonlinear Schr o dinger-type equations
+Determinant Formulas for the Toda and Discrete Toda Equations
+Towards the Lax formulation of SU(2) principal models with nonconstant metric
+Non-symmetry constraints of the AKNS system yielding integrable Hamiltonian systems
+Discrete Z a and Painleve equations
+New integrable string-like fields in 1 1 dimensions
+CPT Symmetries and the Backlund Transformations
+Lie point symmetries of integrable evolution equations and invariant solutions
+The motion of a rigid body in a quadratic potential: an integrable discretization
+Pfaff tau-functions
+The Complex Bateman Equation
+The General Solution of the Complex Monge-Amp ere Equation in two dimensional space
+The Complex Bateman Equation in a space of arbitrary dimension
+The General Solution of the Complex Monge-Amp ere Equation in a space of arbitrary dimension
+Discrete asymptotic nets and W-congruences in Plucker line geometry
+Surfaces of Constant negative Scalar Curvature and the Correpondence between the Liouvulle and the sine-Gordon Equations
+The complex Toda chains and the simple Lie algebras - solutions and large time asymptotics -- II
+Self-similar solutions of NLS-type dynamical systems
+Self-similarity in Spectral Problems and q-special Functions
+Matrix integrals and the geometry of spinors
+The KdV equation on a half-line
+Lax pair Darboux Transformations and solitonic solutions for a (2 1) dimensional NLSE
+Beyond Nonlinear Schr odinger Equation Approximation for an Anharmonic Chain with Harmonic Long Range Interaction
+Exact Solution of the Quantum Calogero-Gaudin System and of its q-Deformation
+N=2 Hamiltonians with sl(2) coalgebra symmetry and their integrable deformations
+Schlesinger transformations for elliptic isomonodromic deformations
+The averaging of non-local Hamiltonian structures in Whitham's method
+Introduction to the functions on compact Riemann surfaces and theta-functions
+Resonant Bifurcations
+Bicomplexes and finite Toda lattices
+Equations and Integrals of Motion in Discrete Integrable A k-1 Algebra Models
+Construction of variable mass sine-Gordon and other novel inhomogeneous quantum integrable models
+Quantum Lax scheme for Ruijsenaars models
+Integrable Couplings of Soliton Equations by Perturbations I. A General Theory and Application to the KdV Hierarchy
+Generalized KP hierarchy: M obius Symmetry Symmetry Constraints and Calogero-Moser System
+The Pfaff lattice Matrix integrals and a map from Toda to Pfaff
+Real forms of the complex twisted N=2 supersymmetric Toda chain hierarchy in real N=1 and twisted N=2 superspaces
+Liouville equation under perturbation
+Singular solution of the Liouville equation under perturbation
+Vector NLS hierarchy solitons revisited: dressing transformation and tau function approach
+Belavkin-Kolokoltsov Watch-Dog Effects in Interactively Controlled Stochastic Computer-Graphic Dynamical Systems. A Summary of Mathematical Researches
+Hitchin systems higher Gaudin operators and r -matrices
+Jack polynomials and Hilbert schemes of points on surfaces
+Symplectic Integration without Roundoff Error
+On the convergence of normalizing transformations in the presence of symmetries
+Ergodic Properties of the Quantum Ideal Gas in the Maxwell-Boltzmann Statistics
+Self-organized digital disorder of Davydov's beta kink
+Integration Approach to Ising Models
+Reflection equations and surface critical phenomena
+3-Dimensional Multilayered -vertex Statistical Model: Exact Solution
+Quantization of the Derivative Nonlinear Schrodinger Equation
+The Calogero Model: Integrable Structures and Orthogonal Basis
+Surface operator content of the A L face models
+On the nonHamiltonian interaction of two rotators
+Closed curves in R 3: a characterization in terms of curvature and torsion the Hasimoto map and periodic solutions of the Filament Equation
+Poisson Actions and Scattering Theory for Integrable Systems
+The Symmetries of Solitons
+Commuting difference operators with polynomial eigenfunctions
+Classical and quantum dynamics of noncanonically coupled oscillators and Lie superalgebras
+Hidden sl 2 -algebra of finite-difference equations
+The : phi 4 4: quantum field theory I. Wave operator holomorphity and Wick kernel
+Lax pair tensors and integrable spacetimes
+Area-Preserving Diffeomorphisms and Nonlinear Integrable Systems
+Introduction to Random Matrices
+Quantum Inverse Scattering Method. Selected Topics
+Hamiltonian Structure of Equations Appearing in Random Matrices
+Geometrical origin of integrability for Liouville and Toda theory
+Loop Algebra Moment Maps and Hamiltonian Models for the Painleve Transcendants
+Correlation functions of the spin-1 analog of the XXZ model
+Bethe Ansatz and Quantum Groups
+Spectrum of an Elliptic Free Fermionic Corner Transfer Matrix Hamiltonian
+Dynamical r -matrices for the Elliptic Calogero-Moser Model
+Integrability of N = 3 super Yang-Mills equations
+Universality of the universal R-matrix and applications to quantum integrable systems
+Quantum Groups
+Integrability in Hamiltonian Chern-Simons theory
+On Pentagon And Tetrahedron Equations
+Infinite dimensional symmetry of corner transfer matrices
+Large Random Matrices: Eigenvalue Distribution
+On the Duistermaat-Heckman Integration Formula And Integrable Models
+A Dynamical System Connected with Inhomogeneous -Vertex Model
+Quantum Isomonodromic Deformations and the Knizhnik--Zamolodchikov Equations
+Lagrangian Formalism Over Graded Algebras
+Discrete-time Calogero-Moser Model and Lattice KP Equations
+Quantum Deformations of tau -functions Bilinear Identities and Representation Theory
+Four Dimensional Integrable Theories
+Symmetry Reductions of the Lax Pair of the Four-Dimensional Euclidean Self-Dual Yang-Mills Equations
+KdV type systems and W-algebras in the Drinfeld-Sokolov approach
+Exact Solutions To The Generalized Lienard Equations
+Differential Geometry and Integrability of the Hamiltonian System of a Closed Vortex Filament
+Algebraic and Geometric Structure of the Integrable Models recently Proposed by Calogero
+Relation of The New Calogero Models and xxz Spin Chains
+The symmetry structure of the heavenly equation
+Effective Field Theory for Coherent Optical Pulse Propagation
+Symmetry Integrable Chain Models and Stochastic Processes
+Complex structure and the construction of the : phi 4 4: quantum field theory in four-dimensional space-time
+On Some Class of Multidimensional Nonlinear Integrable Systems
+Scaling Limit of the Ising Model in a Field
+A Nonrelativistic Chiral Soliton in One Dimension
+Poisson Structures for Dispersionless Integrable Systems and Associated W-Algebras
+Three-body Generalizations of the Sutherland Problem
+String-Orthogonal Polynomials String equations and 2-Toda symmetries
+The Dynamics of Classical Chiral QCD 2 Currents
+Quantum Integrable Systems: Basic Concepts and Brief Overview
+Gauge Symmetry and Integrable Models
+Sine-Gordon Solitons and Black Holes
+Classical limit of the Knizhnik-Zamolodchikov-Bernard equations as hierarchy of isomonodromic deformations. Free fields approach
+On the diagonalization of difference Calogero-Sutherland systems
+Quantum Dynamical R-matrices and Quantum Frobenius Group
+Factorization of differential operators quasideterminants and nonabelian Toda field equations
+Nonabelian Integrable Systems Quasideterminants and Marchenko Lemma
+Nonlinear Gauge Transformations and Exact Solutions of the Doebner-Goldin Equation
+On exact solution for some integrable nonlinear equations of the Schr odinger type
+Symmetry Reductions and Exact Solutions of a class of Nonlinear Heat Equations
+A note on the motion of surfaces
+Algorithms for the Nonclassical Method of Symmetry Reductions
+Integrable systems and symmetric products of curves
+Multi-Hamiltonian formulation for a class of degenerate completely integrable systems
+The planar filament equation
+Localized induction equation Heisenberg chain and nonlinear Schrodinger equation
+Dynamical Systems Accepting the Normal Shift
+Invariant Integrability Criterion for the Equations of Hydrodynamical Type
+Integrable Quantum Mappings
+New exact solutions for the discrete fourth Painlev 'e equation
+Symmetry Reductions and Exact Solutions of Shallow Water Wave Equations
+Darboux Transformations from Reductions of the KP Hierarchy
+Maps PDE's and Solitary Waves
+Analytic Solutions of the Vector Burgers' Equation
+Integrable Trilinear PDE's
+Limits to Extensions of Burgers Equation
+Bilinear Structure and Exact Solutions of the Discrete Painlev 'e I Equation
+B acklund transformation and the construction of the integrable boundary-value problem for the equation u xx -u tt =e u-e -2u
+Backlund Transformations and Hierarchies of Exact Solutions for the Fourth Painleve Equation and their Application to Discrete Equations
+Symmetries and Exact Solutions of a 2 1-dimensional Sine-Gordon System
+Integrable systems and Riemann surfaces of infinite genus
+The Integrable Dynamics of Discrete and Continuous Curves
+String equation--2. Physical solution
+Dual Field Approach to Correlation Functions in the Heisenberg Xxz Spin Chain
+Conservation Laws in Field Dynamics or Why Boundary Motion is Exactly Integrable
+Nonselfintersecting magnetic orbits on the plane. Proof of Principle of the Overthrowing of the Cycles.
+The Hamiltonian structure of the dispersionless Toda hierarchy
+On The Observability For Distributed Systems By Means Of Linear Operations
+On the dynamics of noncanonically coupled oscillators and its hidden superstructure
+Painlev ' e Analysis and Exact Solutions of a Modified Boussinesq Equation
+Topics in nonhamiltonian (magnetic-type) interaction of classical hamiltonian dynamical systems. I
+On the algebraic non-integrability of the Halphen system
+Toda Hierarchy with Indefinite Metric
+Approximate Lie Group Analysis of a Model Advection Equation on an Unstructured Grid
+Algebraic integrable dynamical systems 2 1-dimensional models in wholly discrete space-time and inhomogeneous models in 2-dimensional statistical physics
+Holomorphic Curves and Toda Systems
+Integrable Models on Hyper-Elliptic Surfaces
+Hamiltonian Structures on Coadjoint Orbits of Semidirect Product of G=Diff (S 1 ) and C infty (S 1 bf R )
+Separation of variables in the A 2 type Jack polynomials
+Numerical Studies of Localized Structures on an Uneven Bottom in Two Dimensions
+Symmetry approach in boundary value problems
+The relativistic Calogero model in an external field
+Nonisospectral symmetries of the KdV equation and the corresponding symmetries of the Whitham equations
+Differential substitutions and symmetries of hyperbolic equations
+The separability and dynamical r -matrix for the constrained flows of Jaulent-Miodek hierarchy
+Nonsingularity of the direct scattering transform for the KP-2 equation with real exponentially decaying at infinity potential
+Nonlinear Behaviour of Time-Stepping Algorithms for Initial Value Problems
+Peakons R-Matrix and Toda-Lattice
+Solution of SRS on the finite interval
+The Orbit Method in the Finite Zone Integration Theory
+On Integrable Models and their Interrelations
+The Gambier Mapping
+Discrete Painleve equations: coalescences limits and degeneracies
+A three-by-three matrix spectral problem for AKNS hierarchy and its binary Nonlinearization
+A Novel Integration Scheme for Partial Differential Equations: an Application to the Complex Ginzburg-Landau Equation
+Approximate Lie Group Analysis of Finite-difference Equations
+Classification of evolutionary equations on the lattice. I. The general theory
+Remarks on the Whitham equations
+Binary nonlinearization for the Dirac systems
+On evolution of multiphase nonlinear modulated waves
+Constrained KP Hierarchies: Darboux-B acklund Solutions and Additional Symmetries
+The Three-Wave Resonant Interaction: Deformation of the Plane-Wave Solutions and Darboux Transformations
+The Bi-Hamiltonian Structure of the Perturbation Equations of KdV Hierarchy
+Darboux Coordinates on Coadjoint Orbits of Lie Algebras
+Hyperelliptic Kleinian functions and applications
+Approximate Controlability by Control Constraints for Infinite Dimensional Systems
+Elliptic Ruijsenaars-Schneider and Calogero-Moser hierarchies are governed by the same r-matrix
+Non-perturbative non-integrability of non-homogeneous nonlinear lattices induced by non-resonance hypothesis
+Analytic Structure of the Landau-Ginzburg Equation in 2 1 Dimensions
+Integrable Theory of the Perturbation Equations
+The Painlev 'e Test of Higher Dimensional KdV Equation
+Classification of Integrable Evolution Equations of the Form u t=u xxx f(t x u u x u xx )
+A stability analysis for the Korteweg-de Vries equation
+Higher Order SUSY in Quantum Mechanics and Integrability of Two-dimensional Hamiltonians
+Binary Nonlinearization of Lax Pairs
+On completeness of the Moutard transformations
+On completeness of the Ribaucour transformations for triply orthogonal curvilinear coordinate systems in R 3
+On superposition of the autoBaecklund transformations for (2 1)-dimensional integrable systems
+Symmetries of KdV and Loop Groups
+Some survey remarks on Whitham theory and EM duality
+On the geometry of certain isospectral sets in the full Kostant-Toda lattice
+Loop algebras gauge invariants and a new completely integrable system
+On a generalization of the Fay-Sato identity for KP Baker functions and its application to constrained hierarchies
+Exact Solution of Frenkel-Kontorova Models with a Complete Devil's Staircase in Higher Dimensions
+A Convexity Theorem in the Scattering Theory for the Dirac Operator
+Some further curiosities from the world of integrable lattice systems and their discretizations
+A Local Asymptotic Analysis of the First Discrete Painlev 'e Equation as the Discrete Independent Variable Approaches Infinity
+Equations with an infinite number of explicit Conservation Laws
+Fusion Hierarchies with Open Boundaries and Exactly Solvable Models
+On Simplest Hamiltonian Systems
+Discrete version of the Chazy class III equation
+Nambu tensors and commuting vector fields
+Toda lattices with indefinite metric II: Topology of the iso-spectral manifolds
+Symmetries of a class of Nonlinear Third Order Partial Differential Equations
+Application of Uniform Asymptotics to the Second Painlev 'e Transcendent
+Virasoro Symmetry Algebra of Dirac Soliton Hierarchy
+Analytic-bilinear approach to integrable hierarchies. I.Generalized KP hierarchy
+Darboux Coverings and Rational Reductions of the KP Hierarchy
+Automorphisms of sl(2) and dynamical r-matrices
+On the solution of normality equations for the dimension n geq 3
+An orthogonal basis for the B N -type Calogero model
+Complex Blow-Up in Burgers' Equation: an Iterative Approach
+The Coalescence Limit of the Second Painlev 'E Equation
+Some explicit solutions of the Lam 'e and Bourlet type equations
+The conservation of the Hamiltonian structures in Whitham's method of averaging
+Representations of Two-Colour BWM Algebras and Solvable Lattice Models
+Riemannian Manifolds with Diagonal Metric. The Lam 'e and Bourlet Systems
+The Whitham equations revisited
+Some kernels on a Riemann surface
+Bispectral Operators of Rank 1 and Dual Isomonodromic Deformations
+Painleve equations in terms of entire functions
+Aspects of Solitons in Affine Integrable Hierarchies
+Some comments on the bi(tri)-Hamiltonian structure of Generalized AKNS and DNLS hierarchies
+The Fourier method for the linearized Davey-Stewartson I equation
+Some eigenstates for a model associated with solutions of tetrahedron equation
+Symplectic Structures and Volume Elements in the Function Space for the Cubic Schrodinger Equation
+The Discrete Symmetries of the N=2 Supersymmetric GNLS Hierarchies
+Some eigenstates for a model associated with solutions of tetrahedron equation. II. A bit of algebraization
+Asymptotics for Solution to the Cauchy Problem for Volterra Lattice with Step-Like Initial Values
+An Integral Operator Solution to the Matrix Toda Equations
+Symbolic Computation of Conserved Densities for Systems of Nonlinear Evolution Equations
+Poisson brackets with divergence terms in field theories: two examples
+An analog of the variational derivative and constructive necessary integrability condition for hyperbolic equation
+On the point transformations for the second order differential equations. I
+A collection of integrable systems of the Toda type in continuous and discrete time with 2x2 Lax representations
+Raman Solitons and Raman spikes
+Some eigenstates for a model associated with solutions of tetrahedron equation. III. Tetrahedral Zamolodchikov algebras and perturbed strings
+Spectral Curves and Whitham Equations in Isomonodromic Problems of Schlesinger Type
+The Correspondence between Discrete Surface and Difference Geometry of the KP-hierarchy
+Singularity analysis towards nonintegrability of nonhomogeneous nonlinear lattices
+Krichever Maps Faa' di Bruno Polynomials and Cohomology in KP Theory
+Non-commutative and commutative integrability of generic Toda flows in simple Lie algebras
+Some eigenstates for a model associated with solutions of tetrahedron equation. IV. String-particle marriage
+Trilinear representation and the Moutard transformation for the Tzitzeica equation
+Rational solutions to d-PIV
+On equation of geodesic deviation and its solutions
+On superintegrable systems closed to geodesic motion
+Some eigenstates for a model associated with solutions of tetrahedron equation. V. Two cases of string superposition
+Investigation of dynamical systems using tools of the theory of invariants and projective geometry
+On Adomian's Decomposition Method for Solving Differential Equations
+Integrability of Riccati equations and the stationary KdV equations
+Vectorial Darboux Transformations for the Kadomtsev-Petviashvili Hierarchy
+Graded Symmetry Algebras of Time-Dependent Evolution Equations and Application to the Modified KP equations
+Dual Isomonodromic Problems and Whitham Equations
+A Characterization of All Elliptic Solutions of the AKNS Hierarchy
+Algebro-Geometric Quasi-Periodic Finite-Gap Solutions of the Toda and Kac-van Moerbeke Hierarchies
+R-Matrices and Generalized Inverses
+On the point transformations for the equation y''= P 3Qy' 3R y' 2 S y' 3
+The geometry of spinors and the multicomponent BKP and DKP hierarchies
+On the Liouville transformation and exactly-solvable Schrodinger equations
+An Extension of the KdV Hierarchy Arising from a Representation of a Toroidal Lie Algebra
+The spectrum of random matrices and integrable systems
+Matrix Integrals Toda symmetries Virasoro constraints and orthogonal polynomials
+The Distribution of the Largest Eigenvalue in the Gaussian Ensembles
+Trace Formula for a System of Particles with Elliptic Potential
+Nonlinear Quasiclassics and the Painlev 'e Equations
+Quantum Coupled Nonlinear Schr odinger System with Different Masses
+A combined sine-Gordon and modified Korteweg-de Vries hierarchy and its algebro-geometric solutions
+Bifurcation diagram of a one-parameter family of dispersive waves
+The Constrained MKP Hierarchy and the Generalized Kupershmidt-Wilson Theorem
+Algebra of non-local charges in the O(N) WZNW model at and beyond criticality
+Continuum limit of nonlinear discrete systems with long range interaction potentials
+Three Graded Modified Classical Yang-Baxter Equations and Integrable Systems
+Separation of variables via integral transformations
+Integrable discretizations for lattice systems: local equations of motion and their Hamiltonian properties
+Solutions of the functional tetrahedron equation connected with the local Yang -- Baxter equation for the ferro-electric
+Nonlinear Physics: Integrability Chaos and Beyond
+The Whitham Equations for Optical Communications: Mathematical Theory of NRZ
+On a two dimensional system associated with the complex of the solutions of the Tetrahedron equation
+Generalized Symmetries of Partial Differential Equations and Quasiexact Solvability
+Point processes and the infinite symmetric group. Part I: The general formalism and the density function
+Asymptotics of Jack polynomials as the number of variables goes to infinity
+Centralizer construction for twisted Yangians
+Random Matrix Theories in Quantum Physics: Common Concepts
+Dynamical correlation functions of the spin Calogero-Sutherland model
+Gaudin Hypothesis for the XYZ Spin Chain
+Negaton and Positon Solutions of the KDV Equation
+An SU(2) Analog of the Azbel--Hofstadter Hamiltonian
+Pfaffian and Determinant Solutions to A Discretized Toda Equation for B r C r and D r
+Complex sine-Gordon Theory for Coherent Optical Pulse Propagation
+Exact Solution of a N-body Problem in One Dimension
+Integrable Discretizations of Chiral Models
+The dispersive self-dual Einstein equations and the Toda lattice
+Solutions of a discretized Toda field equation for D r from Analytic Bethe Ansatz
+Soliton equations and the zero curvature condition in noncommutative geometry
+Multidimensional Toda type systems
+Zero Curvature Formalism for Supersymmetric Integrable Hierarchies in Superspace
+The Riemann-Hilbert problem associated with the quantum Nonlinear Schrodinger equation
+Boundary S Matrix for the XXZ Chain
+Normal Ordering in the Theory of Correlation Functions of Exactly Solvable Models
+Non-Linear Integral Equations for complex Affine Toda associated to simply laced Lie algebras
+Twisted Self-Duality of Dimensionally Reduced Gravity and Vertex Operators
+The determinant representation for quantum correlation functions of the sinh-Gordon model
+Classification of Solutions to Reflection Equation of Two-Component Systems
+Direct Calculation of Breather S Matrices
+Odd Bihamiltonian Structure of New Supersymmetric N=2 4 KdV And Odd SUSY Virasoro - Like Algebra
+Yangian symmetry in the Non Linear Schrodinger hierarchy
+Whitham Deformations and Tau Functions in N = 2 Supersymmetric Gauge Theories
+On the singular spectrum of the Almost Mathieu operator. Arithmetics and Cantor spectra of integrable models
+Vertex operators semiclassical limit for soliton S-matrices and the number of bound states in Affine Toda Field Theories
+Boundary breathers in the sinh-Gordon model
+Solution of the quantum inverse problem
+Loop groups anyons and the Calogero-Sutherland model
+The q-characters of representations of quantum affine algebras and deformations of W-algebras
+Commuting difference operators with elliptic coefficients from Baxter's vacuum vestors
+Exact Solution of selfconsistent Vlasov equation
+Quasi-Exactly Solvable Time-Dependent Potentials
+The nonstandard constrained KP hierarchy and the generalized Miura transformations
+Linear Nijenhuis-Tensors and the Construction of Integrable Systems
+Separation of variables for A2 Ruijsenaars model and new integral representation for A2 Macdonald polynomials
+Separation of Variables. New Trends.
+On Integrable Doebner-Goldin Equations
+Properties of equations of the continuous Toda type
+Painlev 'e Transcendent Describes Quantum Correlation Function of the XXZ Antiferromagnet away from the free-fermion point
+Crum Transformations and Wronskian Type Solutions for Supersymmetric KdV equation
+Non-standard Construction of Hamiltonian Structures
+Generating function of correlators in the sl 2 Gaudin model
+Canonical gauge equivalences of the sAKNS and sTB hierarchies
+The nondynamical r-matrix structure of the elliptic Ruijsenaars-Schneider model with N=2
+Charged Free Fermions Vertex Operators and Classical Theory of Conjugate Nets
+Classical Integrable 2-dim Models Inspired by SUSY Quantum Mechanics
+Vertex Operator Solutions of 2d Dimensionally Reduced Gravity
+New Integrable Models from Fusion
+Differential equations and duality in massless integrable field theories at zero temperature
+Quantum Backlund transformation for the integrable DST model
+Darboux Transformation for Supersymmetric KP Hierarchies
+Ground State and Excitations of Spin Chain with Orbital Degeneracy
+Commuting quantum transfer matrix approach to intrinsic Fermion system: Correlation length of a spinless Fermion model
+Stochastic resonance for quantum channels
+Integrable Fredholm Operators and Dual Isomonodromic Deformations
+Bispectral Operators Dual Isomonodromic Deformations and the Riemann-Hilbert Dressing Method
+Double Spiral Energy Surface in One-dimensional Quantum Mechanics of Generalized Pointlike Potentials
+Fermion-Boson Duality of One-dimensional Quantum Particles with Generalized Contact Interaction
+Variance Calculations and the Bessel Kernel
+On Exact Solutions to the Cylindrical Poisson-Boltzmann Equation with Applications to Polyelectrolytes
+Level-Spacing Distributions and the Airy Kernel
+Level-Spacing Distributions and the Airy Kernel
+Level-Spacing Distributions and the Bessel Kernel
+Fredholm Determinants Differential Equations and Matrix Models
+Tau functions for the Dirac operator on the Poincare' disk
+The spectrum of coupled random matrices
+Random Unitary Matrices Permutations and Painleve
+On the Distributions of the Lengths of the Longest Monotone Subsequences in Random Words
+Fredholm determinants and the mKdV sinh-Gordon hierarchies
+Proofs of Two Conjectures Related to the Thermodynamic Bethe Ansatz
+Asymptotics of a Class of Solutions to the Cylindrical Toda Equations
+Correlation Functions Cluster Functions and Spacing Distributions for Random Matrices
+Einstein metrics hypercomplex structures and the Toda field equation
+Mean Field and Collisional Dynamics of Interacting Fermion-Boson systems in a Soluble Model
+Integer spin particles necessarily produce half-integer angular momentum in a simple complex and periodic Hamiltonian
+Is the classical Bukhvostov-Lipatov model integrable A Painlev 'e analysis
+Criterion and Regions of Stability for Quasi-Equidistant Soliton Trains
+Particles and strings in a (2 1)-D integrable quantum model
+Optical Fiber Communications:Group of the Nonlinear Transformations
+Coupled KdV equations of Hirota-Satsuma type
+The solution of the Painleve equations as special functions of catastrophes defined by a rejection in these equations of terms with derivative
+Asymptotic approach for the rigid condition of appearance of the oscillations in the solution of the Painleve-2 equation
+On exact solution of a classical 3D integrable model
+r-matrices for relativistic deformations of integrable systems
+Infinite Hierarchy of Exact Equations in the Bak-Sneppen Model
+Autoregressive model of 1 f noise
+On the local Hamiltonian structure of vector fields
+A q -anaolg of the sixth Painlev 'e equation
+A Solvable Model for Spatiotemporal Chaos
+Algebraic entropy
+A generalized ensemble of random matrices
+Four State Models and Clifford Algebras
+Exact thermostatic results for the n-vector model on the harmonic chain
+XXZ model as effective Hamiltonian for generalized Hubbard models with broken eta -symmetry
+Superconductivity in an exactly solvable Hubbard model with bond-charge interaction
+Two Extended Versions of the Continuous 2D-Heisenberg Model
+Reaction-Diffusion Processes of Hard-Core Particles
+Integro-Difference Equation for a correlation function of the spin- 1 over2 Heisenberg XXZ chain
+EQUIVALENCES BETWEEN STOCHASTIC SYSTEMS
+Ernst Ising - physicist and teacher
+Elastic Scattering by Deterministic and Random Fractals: Self-Affinity of the Diffraction Spectrum
+Rodrigues Formula for Hi-Jack Symmetric Polynomials Associated with the Quantum Calogero Model
+Bethe Ansatz and Classical Hirota Equation
+Transport and conservation laws
+Two-component plasma in a gravitational field
+Elementary Excitations and Dynamical Correlation Functions of the Calogero-Sutherland Model with Internal Symmetry
+The Many-Electron System in the Forward Exchange and BCS Approximation
+Orthogonal Symmetric Polynomials Associated with the Calogero Model
+Integrable su(3) spin chain combining different representations
+The Exact Ground State of the Frenkel-Kontorova Model with Repeated Parabolic Potential: I. Basic Results
+The Exact Ground State of the Frenkel-Kontorova Model with Repeated Parabolic Potential: II. Numerical Treatment
+Quantum integrability and exact solution of the supersymmetric U model with boundary terms
+The su(N) XX model
+The su(N) Hubbard model
+Exactly integrable family of generalized Hubbard models with twisted Yangian symmetry
+Hubbard Models as Fusion Products of Free Fermions
+Exact solution of diffusion limited aggregation in a narrow cylindrical geometry
+Correlation amplitude for S=1 2 XXZ spin chain in the critical region
+New Non-Symmetric Orthogonal Basis for the Calogero Model with Distinguishable Particles
+Connection between Calogero-Marchioro-Wolfes type few-body models and free oscillators
+N Fermion Ground State of Calogero-Sutherland Type Models in Two and Higher Dimensions
+Fermionic representations of integrable lattice systems
+Time and temperature dependent correlation functions of the 1D impenetrable electron gas
+Jack polynomials with prescribed symmetry and hole propagator of spin Calogero-Sutherland model
+Fermionization and Hubbard Models
+Integrable Impurity Model with Spin and Flavour: Model Inspired by Resonant Tunneling in Quantum Dot
+Correlations in the impenetrable electron gas
+Correlation amplitude for the XXZ spin chain in the disordered regime
+New solutions to the Reflection Equation and the projecting method
+Critical and off-critical studies of the Baxter-Wu model with general toroidal boundary conditions
+Systematic Analytical Approach to Correlation Functions of Resonances in Quantum Chaotic Scattering
+Extended integrability regime for the supersymmetric U model
+Rodrigues Formula for the Nonsymmetric Multivariable Hermite Polynomial
+Rodrigues Formula for the Nonsymmetric Multivariable Laguerre Polynomial
+Universal correlations of one-dimensional interacting electrons in the gas phase
+Group Theory Approach to Band Structure: Scarf and Lame Hamiltonians
+The Hubbard chain: Lieb-Wu equations and norm of the eigenfunctions
+Operator-valued Riemann-Hilbert problem for correlation functions of the XXZ spin chain
+Exact dynamical structure factor of the degenerate Haldane-Shastry model
+Exact Dynamics of the SU(K) Haldane-Shastry Model
+Conformal invariant functionals of immersions of tori into R 3
+Sequences of Levy Transformations and Multi-Wro 'nski Determinant Solutions of the Darboux System
+Hamiltonian formulation and exact solutions of the Bianchi type I space-time in conformal gravity
+Perturbation theory predictions and Monte Carlo simulations for the 2-d O(n) non-linear sigma-model
+Baryon Distribution Amplitudes in QCD
+SDiff(2) Toda equation -- hierarchy tau function and symmetries
+SDiff(2) KP hierarchy
+R-matrices for the semicyclic representations of U q sl (2)
+Corner Transfer Matrices and Quantum Affine Algebras
+Correlation Functions of the XXZ model for Delta-1
+Affine Toda Solitons and Automorphisms of Dynkin Diagrams
+Tau-Functions and Generalized Integrable Hierarchies
+On an algebraic approach to higher dimensional statistical mechanics
+Structure of the space of states in RSOS models
+Difference equations for the correlation functions of the eight vertex model
+Separation of Variables in the Classical Integrable SL(3) Magnetic Chain
+Solvable lattice models labelled by Dynkin diagrams
+W-infinity structure of the sl(N) conformal affine Toda theories
+Exact Solution of the general Non Intersecting String Model
+Free Fermionic Elliptic Reflection Matrices and Quantum Group Invariance
+Vertex operators in solvable lattice models
+Boundary K-matrices for the XYZ XXZ AND XXX spin chains
+Linear r -matrix algebra for classical separable systems
+String Equations for the Unitary Matrix Model and the Periodic Flag Manifold
+Akns Hierarchy Self-Similarity String Equations and the Grassmannian
+Scaling Self-Similar Formulation of the String Equations of the Hermitian Matrix Model
+Finite Chains with Quantum Affine Symmetries
+N-point Correlation Functions of the Spin-1 XXZ Model
+Toda and Volterra Lattice Equations from Discrete Symmetries of KP Hierarchies
+The Conserved Charges and Integrability of the Conformal Affine Toda Models
+On the integrability of N=2 Landau-Ginzburg models: A graph generalization of the Yang-Baxter equation
+Boundary-Induced Phase Transitions in Equilibrium and Non-Equilibrium Systems
+Representations of the S N -Extended Heisenberg Algebra and Relations Between Knizhnik-Zamolodchikov Equations and Quantum Calogero Model
+On Soliton Content of Self Dual Yang-Mills Equations
+R -matrices for the n=2 3 Elliptic Calogero-Moser Models
+Classical and Quantum Integrable Systems in wt gr gl (2) and Separation of Variables
+The R-matrix structure of the Euler-Calogero-Moser model
+On Discrete Symmetries of the Multi-Boson KP Hierarchies
+Generalized Kazakov-Migdal-Kontsevich Model: group theory aspects
+Dynamical r-matrices and Separation of Variables: The Generalised Calogero-Moser Model
+Generic solutions for some integrable lattice equations
+Labeling Schemes for Tetrahedron Equations and Dualities between Them
+Deformation analysis of matrix models
+Integrable mappings and polynomial growth
+A time-discretized version of the Calogero-Moser model
+Baxterization dynamical systems and the symmetries of integrability
+General solutions of the Monge-Amp e re equation in n -dimensional space
+Asymptotics for the Fredholm Determinant of the Sine Kernel on a Union of Intervals
+Generalized Hirota Equations and Representation Theory. I. The case of SL(2) and SL q(2)
+The Highest Weight Property for the SU q (n) Invariant Spin Chains
+Integrable Hierarchies and Dispersionless Limit
+R --Matrix Construction of Electromagnetic Models for the Painlev 'e Transcendents
+Some New Solutions of Yang-Baxter Equation
+Two-Matrix String Model as Constrained (2 1)-Dimensional Integrable System
+Dynamical R-Matrices for Integrable Maps
+Symmetries and tau function of higher dimensional dispersionless integrable hierarchies
+Reduction of Toda Lattice Hierarchy to Generalized KdV Hierarchies and Two-Matrix Model
+Free Field Representation of Quantum Affine Algebra U q widehat sl 2 and Form Factors in Higher Spin XXZ Model
+Exceptional structure of the dilute A 3 model: E  and E  Rogers--Ramanujan identities
+Painleve III and 2D Polymers
+Fusion of the q -Vertex Operators and its Application to Solvable Vertex Models
+Bispectral KP Solutions and Linearization of Calogero-Moser Particle Systems
+Quantum chains with a Catalan tree pattern of conserved charges: the Delta = -1 XXZ model and the isotropic octonionic chain
+Algebraic-geometrical formulation of two-dimensional quantum gravity
+Classical Matrix sine-Gordon Theory
+Topological Landau-Ginzburg theory with a rational potential and the dispersionless KP hierarchy
+Solution of the dispersionless Hirota equations
+Generalized Weierstrass-Enneper inducing conformal immersions and gravity
+Exact Solvability of the Calogero and Sutherland Models
+A local and integrable lattice regularization of the massive Thirring model
+Polynomial Identities Indices and Duality for the N=1 Superconformal Model SM(2 4 nu)
+The Hamiltonian Structure of Soliton Equations and Deformed W-Algebras
+Exact Bethe ansatz solution of nonultralocal quantum mKdV model
+Regularization of Toda lattices by Hamiltonian reduction
+Affine Toda Systems Coupled to Matter Fields
+Virasoro Symmetry of Constrained KP Hierarchies
+Multi-point Local Height Probabilities in the Integrable RSOS Model
+Why are the rational and hyperbolic Ruijsenaars-Schneider hierarchies governed by the same R-operators as the Calogero-Moser ones
+Affine Toda Solitons and Systems of Calogero-Moser Type
+Stationary Solitons of the Fifth Order KdV-type Equations and their Stabilization
+A Geometry for Multidimensional Integrable Systems
+phi 4 Kinks - Gradient Flow and Dynamics
+Quantum Knizhnik--Zamolodchikov equation for U q ( widehat sl n ) and integral formula
+The algebraic and Hamiltonian structure of the dispersionless Benney and Toda hierarchies
+Tau-functions and Dressing Transformations for Zero-Curvature Affine Integrable Equations
+Symmetries Currents and Conservation Laws of Self-Dual Gravity
+Faces of Relativistic Toda Chain
+Scattering of Plane Waves in Self-Dual Yang-Mills Theory
+Maxwell-Bloch equation and Correlation function for penetrable Bose gas
+Conformal internal symmetry of 2d sigma -models coupled to gravity and a dilaton
+Manifestly Supersymmetric Lax Integrable Hierarchies
+Correlation functions for the Z-invariant Ising model
+New Integrable Extensions of N=2 KdV and Boussinesq Hierarchies
+Determinant representation for dynamical correlation functions of the Quantum nonlinear Schr odinger equation
+Maximally nonabelian Toda systems
+The Multidimensional Darboux Transformation
+Completely Integrable Equation for the Quantum Correlation Function of Nonlinear Schr odinger Eqaution
+Time and Temperature Dependent Correlation Functions of 1D Models of Quantum Statistical Mechanics
+Non linear integral equation and excited--states scaling functions in the sine-Gordon model
+Tetrahedron Reflection Equation
+On Infinite-Dimensional Algebras of Symmetries of the Self-Dual Yang-Mills Equations
+On trigonometric intertwining vectors and non-dynamical R-matrix for the Ruijsenaars model
+Solitons in high-energy QCD
+The Hamiltonian structure of the N=2 supersymmetric GNLS hierarchy
+Exactly Solvable Models in Arbitrary Dimensions
+Hidden Algebras of the (super) Calogero and Sutherland models
+Self-Isospectral Periodic Potentials and Supersymmetric Quantum Mechanics
+Group analysis and renormgroup symmetries
+Moving Frames Hierarchy and BF Theory
+New Fundamental Symmetries of Integrable Systems and Partial Bethe Ansatz
+Factorization of Multiparticle Scattering in the Heisenberg Spin Chain
+Solitons and Black Holes
+Nahm's equations and root systems
+Higher-dimensional Generalisations of the Euler Top Equations
+Free Field Construction for Correlation Functions of the Eight-Vertex Model
+The N=2 supersymmetric Toda lattice and matrix models
+Integrable dissipative structures in the gauge theory of gravity
+Two-Component Reduction of Nahm's Equations and Hyper-elliptic Solution
+The Equivalence Principle of Quantum Mechanics: Uniqueness Theorem
+Symmetries of Large N Matrix Models for Closed Strings
+Form Factors Thermal States and Modular Structures
+A Lax Representation for the Born-Infeld Equation
+Symmetry Algebras of Large-N Matrix Models for Open Strings
+Bihamiltonian Hierarchies in 2D Topological Field Theory At One-Loop Approximation
+Vertex Operator Representation of the Soliton Tau Functions in the A n (1) Toda Models by Dressing Transformations
+On form-factors in Sin(h)-Gordon theory
+Exact solution for a quantum field with delta -like interaction
+General Solution of D Octonionic Top Equation
+Boundary conditions changing operators in non conformal theories
+Quantization of the Nonlinear Schrodinger Equation on the Half Line
+The Determinant Representation for a Correlation Function in Scaling Lee-Yang Model
+Boundary flows in minimal models
+Hitchin Systems at Low Genera
+Bulk and Boundary S Matrices for the SU(N) Chain
+Calogero-Moser Lax Pairs with Spectral Parameter for General Lie Algebras
+Calogero-Moser and Toda Systems for Twisted and Untwisted Affine Lie Algebras
+Integrable Chiral Theories in 2 1 Dimensions
+Calogero-Moser Models: A New Formulation
+Explicit solution of the quantum three-body Calogero-Sutherland model
+Exact Form Factors in Integrable Quantum Field Theories: the Sine-Gordon Model
+Nearest neighbor two-point correlation function of the Z -invariant eight-vertex model
+Integrability of Supersymmetric Quantum Matrix Models in the Large-N Limit
+Generalized Calogero-Sutherland systems from many-matrix models
+Hungry Volterra equation multi boson KP hierarchy and Two Matrix Models
+The Geometrodynamics of Sine-Gordon Solitons
+Exact vortex solutions of the complex sine-Gordon theory on the plane
+Duality and quantum-algebra symmetry of the A N-1 (1) open spin chain with diagonal boundary fields
+Exact solutions of graded Temperley-Lieb Hamiltonians
+Discrete Symmetries and S Matrix of the XXZ Chain
+Tau-Functions generating the Conservation Laws for Generalized Integrable Hierarchies of KdV and Affine-Toda type
+Calogero-Moser Models II: Symmetries and Foldings
+Equivalence Principle Planck Length and Quantum Hamilton-Jacobi Equation
+Equivalence Principle: Tunnelling Quantized Spectra and Trajectories from the Quantum HJ Equation
+Soliton-preserving boundary condition in affine Toda field theories
+Integrable theories in any dimension and homogenous spaces
+Resonance NLS Solitons as Black Holes in Madelung Fluid
+On the equivalence of the rational Calogero-Moser system to free particles
+Quantum Exchange Algebra and Exact Operator Solution of A 2 -Toda Field Theory
+Generalized Calogero models through reductions by discrete symmetries
+Algebraic approach in unifying quantum integrable models
+Progress in classically solving ten dimensional supersymmetric reduced Yang-Mills theories
+The Nonlinear Schrodinger Equation on the Half Line
+Exact solution of double-delta function Bose gas through interacting anyon gas
+Calogero-Moser Models III: Elliptic Potentials and Twisting
+Whitham Deformations of Seiberg-Witten Curves for Classical Gauge Groups
+Fluid Dynamical Profiles and Constants of Motion from d-Branes
+Eigenvalue Dynamics and the Matrix Chain
+Toroidal solitons in 3 1 dimensional integrable theories
+Integrable theories in any dimension: a perspective
+Particle Reflection Amplitudes in a n (1) Toda Field Theories
+Exact spectrum and partition function of SU(m n) supersymmetric Polychronakos model
+Generalised Calogero-Moser models and universal Lax pair operators
+Exact static soliton solutions of 3 1 dimensional integrable theory with nonzero Hopf numbers
+Renormalization-group Method for Reduction of Evolution Equations invariant manifolds and envelopes
+Non-local conservation laws and flow equations for supersymmetric integrable hierarchies
+A Review of Symmetry Algebras of Quantum Matrix Models in the Large-N Limit
+Soliton S matrices for the critical A N-1 (1) chain
+Calogero-Moser Models IV: Limits to Toda theory
+Conformal maps and dispersionless integrable hierarchies
+Calogero-Moser Models V: Supersymmetry and Quantum Lax Pair
+Differential equations and integrable models: the SU(3) case
+Free harmonic oscillators Jack polynomials and Calogero-Sutherland systems
+On the quantum inverse scattering problem
+Nonstandard coproducts and the Izergin-Korepin open spin chain
+Integrable structures in classical off-shell 1D supersymmetric Yang-Mills theory
+Duality in Integrable Systems and Generating Functions for New Hamiltonians
+Integrable Top Equations associated with Projective Geometry over Z 2
+Riccati-type equations generalised WZNW equations and multidimensional Toda systems
+Form factors of the XXZ Heisenberg spin-1 2 finite chain
+On form-preserving transformations for the time-dependent Schr odinger equation
+Graded Lie algebras representation theory integrable mappings and systems: nonabelian case
+On the Riemann-Hilbert approach to the asymptotic analysis of the correlation functions of the Quantum Nonlinear Schrodinger equation. Non-free fermionic case
+Ablowitz-Ladik system with discrete potential. I. Extended resolvent
+Non-standard matrix formats of Lie superalgebras
+An exact solution method for 1D polynomial Schr odinger equations
+The 1 Heineman Prize Address- Integrable models in statistical mechanics: The hidden field with unsolved problems
+Correlation functions of the XXZ Heisenberg spin-1 2 chain in a magnetic field
+Bi-differential calculi and integrable models
+Finding and solving Calogero-Moser type systems using Yang-Mills gauge theories
+Thermodynamic Bethe ansatz equation for osp(1 2) integrable spin chain
+Vortices and invariants surfaces generated by symmetries for the 3D Navier-Stokes equations
+Thermodynamic Bethe ansatz equation from fusion hierarchy of osp(1 2) integrable spin chain
+Deformed W N algebras from elliptic sl(N) algebras
+The dynamical twisting and nondynamical r-matrix structure of elliptic Ruijsenaars-Schneider model
+Biorthogonal ensembles
+Generalized Weierstrass representation for surfaces in multidimensional Riemann spaces
+The Twisted Photon Associated to Hyper-Hermitian Four-Manifolds
+Quasi-Hopf Superalgebras and Elliptic Quantum Supergroups
+Level-One Representations and Vertex Operators of Quantum Affine Superalgebra U q hat gl(N N)
+Algebraic Solutions of the Multicomponent KP Hierarchy
+The structure of quotients of the Onsager algebra by closed ideals
+Calogero-Moser systems and Hitchin systems
+Incompleteness of Representation Theory: Hidden symmetries and Quantum Non-Integrability
+Integrability of the pairing hamiltonian
+Hydrothermal Surface-Wave Instability and the Kuramoto-Sivashinsky Equation
+Soliton solutions of the Hamiltonian DSI and DSIII equations
+The Korteweg-de Vries Hierarchy and Long Water-Waves
+Optical Solitary Waves in the Higher Order Nonlinear Schrodinger Equation
+Dynamical Reduction of Discrete Systems Based on the Renormalization Group Method
+Extended parametric resonances in nonlinear Schrodinger systems
+Stability of Compacton Solutions of Fifth-Order Nonlinear Dispersive Equations
+Generalized Hirota bilinear identity and integrable q-difference and lattice hierarchies.
+Quantized Lax Equations and Their Solutions
+General methods for constructing bispectral operators
+Bispectral Darboux Transformations: The Generalized Airy Case
+Confluent hypergeometric orthogonal polynomials related to the rational quantum Calogero system with harmonic confinement
+R-matrix Quantization of the Elliptic Ruijsenaars--Schneider model
+Intertwining Operators for a Degenerate Double Affine Hecke Algebra and Multivariable Orthogonal Polynomials
+The symplectic structure of the spin Calogero model
+Orthogonal Polynomials of Types A and B and Related Calogero Models
+Symmetry Local Linearization and Gauge Classification of the Doebner-Goldin Equation
+Universal Superpositions of Coherent States and Self-Similar Potentials
+Darboux-integrable nonlinear Liouville-von Neumann equation
+SUSY Quantum Mechanics with Complex Superpotentials and Real Energy Spectra
+Nonlinear von Neumann-type equations: Darboux invariance and spectra
+Systems with Higher-Order Shape Invariance: Spectral and Algebraic Properties
+q-Discrete Toda Molecule Equation
+Casorati Determinant Solution for the Relativistic Toda Lattice Equation
+Integrable four-dimensional symplectic maps of standard type
+The Super W 3 Conformal Algebra and the Boussinesq Hierarchy
+B acklund Transformations of MKdV and Painlev 'e Equations
+Lattice Virasoro from Lattice Kac-Moody
+The upper triangular solutions to the three-state constant quantum Yang-Baxter equation
+Solutions of the Kpi Equation with Smooth Initial Data
+Casorati Determinant Solutions for the Discrete Painlev 'e-II Equation
+Linearization And Solutions Of The Discrete Painlev 'e-III Equation
+Continuous vacua in bilinear soliton equations
+Local Geometric Invariants of Integrable Evolution Equations
+On a Shallow Water Wave Equation
+Nonlinear integrable systems related to arbitrary space-time dependence of the spectral transform
+A Novel Hierarchy of Integrable Lattices
+Non Proliferation of Preimages in Integrable Mappings
+On UrKdV and UrKP
+Problem of Metrizability for the Dynamical Systems Accepting the Normal Shift
+Spatial Solitons in Media with Delayed-Response Optical Nonlinearities
+Non-Linear Evolution Equations with Non-Analytic Dispersion Relations in 2 1 Dimensions. Bilocal Approach
+Multilinear Operators: The Natural Extension Of Hirota's Bilinear Formalism
+Localized induction equation and pseudospherical surfaces
+Non-integrability of the mixmaster universe
+Helicity Conservation via the Noether Theorem
+Complete integrability of a modified vector derivative nonlinear Schroedinger equation
+Integrable deformations of a polygon
+Integrable dynamics of a discrete curve and the Ablowitz-Ladik hierarchy
+Numerical investigation of iso-spectral cavities built from triangles
+On the Monge-Ampere equivalent of the sine-Gordon equation
+Transparent Potentials at Fixed Energy in Dimension Two. Fixed-Energy Dispersion Relations for the Fast Decaying Potentials
+Boundary Value Problems For Integrable Equations Compatible With The Symmetry Algebra
+On the Existence of Localized Excitations in Nonlinear Hamiltonian Lattices
+Variable Coefficient Third Order KdV Type of Equations
+Casorati Determinant Solutions for the Discrete Painlev 'e III Equation
+Period preserving nonisospectral flows and the moduli space of periodic solutions of soliton equations
+Bilinear Discrete Painleve-II and its Particular Solutions
+Bilinearization of a Generalized Derivative Nonlinear Schr odinger equation
+Lattice and q-difference Darboux-Zakharov-Manakov systems via bar partial -dressing method
+Integrable nonlinear field equations and loop algebra structures
+Geometric phase effects for wavepacket revivals
+Shock waves in the dissipative Toda lattice
+Discrete Toda Field Equations
+Isothermic surfaces in E 3 as soliton surfaces
+Explicit Integration of the Full Symmetric Toda Hierarchy and the Sorting Property
+Supersymmetric Harry Dym Type Equations
+Theory of Pump Depletion and Spike Formation in Stimulated Raman Scattering
+V (1 1) (t) -PERTURBED MODELS OF CFT AND THEIR QUANTUM GROUP SYMMETRY
+Integrable boundary conditions for the Toda lattice
+Conditional Lie-B acklund symmetry and reduction of evolution equations.
+Separation of Variables in BC-type Gaudin Magnet
+Iso-spectral deformations of general matrix and their reductions on Lie algebras
+Multivariable continuous Hahn and Wilson polynomials related to integrable difference systems
+On the new approach to variable separation in the time-dependent Schr odinger equation with two space dimensions
+On the integrability of stationary and restricted flows of the KdV hierarchy.
+Henon-Heiles Hamiltonian for Coupled Upper-Hybrid and Magnetoacoutic Waves in Magnetized Plasmas
+Non-Fuchsian extension to the Painlev 'e test
+Hidden symmetry of the quantum Calogero-Moser system
+Classical Poisson structures and r-matrices from constrained flows
+BiHamiltonian Formulations of the Bateman Equation
+Dispersionful analogues of Benney's equations and N -wave systems
+Nontrivial scattering of localized solitons in a (2 1)-dimensional integrable system
+Conserved quantities for integrable chiral equations in 2 1 dimensions
+Toda Lattice Hierarchy and Zamolodchikov's Conjecture
+A discrete time relativistic Toda lattice
+Discrete soliton equations and convergence acceleration algorithms
+Constructive building of the Lax pair in the non-linear sigma model
+Explicit and Exact Solutions to a Kolmogorov-Petrovskii-Piskunov Equation
+Algebra of Non-Local Charges in Supersymmetric Non-Linear Sigma Models
+A discrete time peakons lattice
+On Discrete 3-Dimensional Equations Associated with the Local Yang-Baxter Relation
+Integrable Models of the CFT on Hyper-Elliptic Surfaces
+Discrete time Bogoyavlensky lattices
+Hamiltonian Structures for the Generalized Dispersionless KdV Hierarchy
+Bilinear structure and Schlesinger transforms of the q -P rm III and q -P rm VI equations
+Nonlinear Discrete Systems with Nonanalytic Dispersion Relations
+Localized Induction Hierarchy and Weingarten Systems
+Some Classes of Solutions to the Toda Lattice Hierarchy
+From Discrete to Continuous Painlev 'e Equations: A Bilinear Approach
+Cellular Automata and Ultra-Discrete Painlev 'e Equations
+Lax representation for two--particle dynamics splitting on two tori
+Dynamical r-matrix for the elliptic Ruijsenaars-Schneider system
+The Hubbard model on a complete graph: Exact Analytical results
+Ferromagnetic ground states of the Hubbard model on a complete graph
+SO(4) invariant basis functions for strongly correlated Fermi systems
+Farey Tree and the Frenkel-Kontorova Model
+Algebraic properties of the 1 1 dimensional Heisenberg spin field model
+Integrable discretizations of the spin Ruijsenaars-Schneider models
+Darboux Transformations for a Lax Integrable System in 2n -Dimensions
+New integrable systems related to the relativistic Toda lattice
+On a class of rational and mixed soliton-rational solutions of Toda lattice
+A new integrable system related to the Toda lattice
+Generalized integrable hierarchies and Combescure symmetry transformations
+A Note on Fractional KdV Hierarchies
+Determinant Structure of the Rational Solutions for the Painlev 'e II Equation
+Coupled Integrable Systems Associated with a Polynomial Spectral Problem and their Virasoro Symmetry Algebras
+The Radius of Convergence and the Well-Posedness of the Painlev 'e Expansions of the Korteweg-deVries equation
+Gibbs' States for Moser-Calogero Potentials
+On the dynamics of rational solutions for 1-D generalized Volterra system
+Binary Nonlinearization of Lax pairs of Kaup-Newell Soliton Hierarchy
+The Calogero-Sutherland Model and Generalized Classical Polynomials
+A geometrical method towards first integrals for dynamical systems
+Common Algebraic Structure for the Calogero-Sutherland Models
+Nonlinear Spectral Characterization of Discrete Data
+Quasi-point separation of variables for the Henon-Heiles system and a system with quartic potential
+The Kowalewski top: a new Lax representation
+N=2 KP and KdV hierarchies in extended superspace
+The Calogero-Sutherland Model and Polynomials with Prescribed Symmetry
+Nonlocal quadratic Poisson algebras monodromy map and Bogoyavlensky lattices
+Contractions of Integrable Equations
+Bilinearization of Discrete Soliton Equations and Singularity Confinement
+A new method to test discrete Painlev 'e equations
+Lax Representations and Zero Curvature Representations by Kronecker Product
+Solutions of Discretized Affine Toda Field Equations for A n (1) B n (1) C n (1) D n (1) A n (2) and D n 1 (2)
+Integrabilities of the long range t-J model of twisted boundary condition
+Small-amplitude excitations in a deformable discrete nonlinear Schroedinger equation
+Spinless Calogero-Sutherland model with twisted boundary condition
+On the integrability of the square-triangle random tiling model
+The orthogonal eigenbasis and norms of eigenvectors in the Spin Calogero-Sutherland Model
+The L-Matrix for the Massive Thirring Model
+Correlators of the phase model
+Solutions of (2 1)-dimensional spin systems
+Difference Operator Approach to the Moyal Quantization and Its Application to Integrable Systems
+Geometric Discretisation of the Toda System
+Multidimensional Quadrilateral Lattices are Integrable
+On the two-magnon bound states for the quantum Heisenberg chain with variable range exchange
+Irreducible Representations of an Algebra underlying Hidden Symmetries of a class of Quasi Exactly Solvable Systems of Equations
+Leading Order Temporal Asymptotics of the Modified Non-Linear Schrodinger Equation: Solitonless Sector
+Separation of variables for the Ruijsenaars system
+Darboux Transformation for the Manin-Radul Supersymmetric KdV equation
+P infty algebra of KP free fermions and 2-cocycle in the Lie algebra of pseudodifferential operators
+Separation of variables for the Dn type periodic Toda lattice
+A note on the integrable discretization of the nonlinear Schr odinger equation
+Twisted Quantum Lax Equations
+The structures underlying soliton solutions in integrable hierarchies
+The Yangian Symmetry in the Spin Calogero Model and its Applications
+Method of Squared Eigenfunction Potentials in Integrable Hierarchies of KP Type
+The Solution of the N=2 Supersymmetric f-Toda Chain with Fixed Ends
+Coupled Nonlinear Schr o dinger equation and Toda equation (the Root of Integrability)
+Rational Solutions for the Discrete Painlev 'e II Equation
+Fully Supersymmetric Hierarchies From A Energy Dependent Super Hill Operator
+On an integrable discretization of the modified Korteweg-de Vries equation
+Quasi-BiHamiltonian Systems and Separability
+Non-autonomous H ' e non-Heiles Systems
+Modified Korteweg-de Vries Hierachies in Multiple-Times Variables and the Solutions of Modified Boussinesq Equations
+Inelastic Collision and Switching of Coupled Bright Solitons in Optical Fibers
+Linearizability of the Perturbed Burgers Equation
+Lagrangian Description Symplectic Structure and Invariants of 3D Fluid Flow
+WDVV and DZM
+A survey of Hirota's difference equations
+Extended matrix Gelfand-Dickey hierarchies: reduction to classical Lie algebras
+Convergent Normal Forms of Symmetric Dynamical Systems
+Complex Analysis of a Piece of Toda Lattice
+Dual Resonance Model Solves the Yang-Baxter Equation
+Huygens' Principle in Minkowski Spaces and Soliton Solutions of the Korteweg-de Vries Equation
+Fusion rules for Quantum Transfer Matrices as a Dynamical System on Grassmann Manifolds
+Computation of conserved densities for systems of nonlinear differential-difference equations
+Hamiltonian structure and coset construction of the supersymmetric extensions of N=2 KdV hierarchy
+Constructing Integrable Third Order Systems:The Gambier Approach
+Analytic-bilinear approach to integrable hierarchies. II. Multicomponent KP and 2D Toda lattice hierarchies
+Stationary mKdV hierarchy and integrability of the Dirac equations by quadratures
+Dispersionless Hierarchies Hamilton-Jacobi Theory and Twistor Correspondences
+Time-Dependent Symmetries of Variable-Coefficient Evolution Equations and Graded Lie Algebras
+Laplace transformations of hydrodynamic type systems in Riemann invariants: periodic sequences
+An analytic description of the vector constrained KP hierarchy
+A Lax Description for Polytropic Gas Dynamics
+Statistical Mechanics of Elastica on Plane as a Model of Supercoiled DNA-Origin of the MKdV hierarchy-
+Solvability of the G 2 Integrable System
+On Density of State of Quantized Willmore Surface-A Way to Quantized Extrinsic String in R 3
+Functional representation of the Ablowitz-Ladik hierarchy
+An Alternative Approach to Algebro-Geometric Solutions of the AKNS Hierarchy
+The constrained modified KP hierarchy and the generalized Miura transformations
+Bihamiltonian Reductions and W n Algebras
+Two-dimensional soliton cellular automaton of deautonomized Toda-type
+Nonstandard Drinfeld-Sokolov reduction
+On the Integrable Hierarchies Associated With N=2 Super W n Algebra
+Introduction to the Hirota bilinear method
+Nonlocal extended conformal algebras associated with multi-constraint KP hierarchy and their free-field realizations
+d=2 N=2 Superconformally Covariant Operators and Super W-Algebras
+Pure quantum integrability
+Field Theory for Coherent Optical Pulse Propagation
+Matched Pulse Propagation in a Three-Level System
+Solitons from Dressing in an Algebraic Approach to the Constrained KP Hierarchy
+Discrete Levy Transformations and Casorati Determinant Solutions of Quadrilateral Lattices
+The Camassa-Holm Equation: A Loop Group Approach
+Determinant Structure of the Rational Solutions for the Painlev 'e IV Equation
+Susy Hierarchies and Affine Algebras
+Correlation functions for a strongly correlated boson system
+Shock waves in one-dimensional Heisenberg ferromagnets
+Binary Darboux-Backlund Transformations for the Manin-Radul Super KdV Hierarchy
+AKS scheme for face and Calogero-Moser-Sutherland type models
+Equations of the reaction-diffusion type with a loop algebra structure
+On classical string configurations
+A Conjectured R-Matrix
+Hamiltonian Dynamics Classical R-matrices and Isomonodromic Deformations
+Asymptotic dynamics of short-waves in nonlinear dispersive models
+Vectorial Ribaucour Transformations for the Lame Equations
+Jack polynomials generalized binomial coefficients and polynomial solutions of the generalized Laplace's equation
+Analytic and Asymptotic Methods for Nonlinear Singularity Analysis: a Review and Extensions of Tests for the Painlev 'e Property
+Complete Nondiagonal Reflection Matrices of RSOS SOS and Hard Hexagon Models
+Self-duality of the SL 2 Hitchin integrable system at genus two
+The sAKNS Hierarchy
+Integrable Models and the Higher Dimensional Representations of Graded Lie Algebras
+Darboux Transformations for SUSY Integrable Systems
+A Note on the Gauge Equivalence between the Manin-Radul and Laberge-Mathieu Super KdV Hierarchies
+A new class of completely integrable quantum spin chains
+Few remarks on Baecklund transformations for many-body systems
+Vertex Operators and Solitons of Constrained KP Hierarchies
+Coset approach to the N=2 supersymmetric matrix GNLS hierarchies
+Commuting Charges of the Quantum Korteweg-deVries and Boussinesq Theories from the Reduction of W(infinity) and W(1 infinity) Algebras
+Singularity confinement and chaos in discrete systems
+Integrable Coupled KdV Systems
+Extended N=2 supersymmetric matrix (1 s)-KdV hierarchies
+The Complex Toda Chains and the Simple Lie Algebras - Solutions and Large Time Asymptotics
+The New Identity for the Scattering Matrx of Exactly Solvable Models
+The XXC Models
+Boundary K-matrices and the Lax pair for 1D open XYZ spin-chain
+A New Dual'' Symmetry Structure of the KP Hierarchy
+A Riemann-Hilbert Problem for an Energy Dependent Schr odinger Operator
+The Quantum Inverse Scattering Method for Hubbard-like Models
+The solution to the q-KdV equation
+Transformations of Quadrilateral Lattices
+Temperature correlators in the two-component one-dimensional gas
+Statistical Mechanics of Non-stretching Elastica in Three Dimensional Space
+Integrable Systems and Isomonodromy Deformations
+Factorization and the Dressing Method for the Gel'fand-Dikii Hierarch
+Dynamical boundary conditions for integrable lattices
+Functional Tetrahedron Equation
+Perturbation theory for the modified nonlinear Schr o dinger solitons
+The classical r-matrix in a geometric framework
+Nonlinear dynamical systems and classical orthogonal polynomials
+Matrix Formulation of Hamiltonian Structures of Constrained KP Hierarchy
+Supersymmetric KP Hierarchy: Ghost'' Symmetry Structure Reductions and Darboux-Backlund Solutions
+Computation of conservation laws for nonlinear lattices
+Braid Structure and Raising-Lowering Operator Formalism in Sutherland Model
+Chiral Solitons in Generalized Korteweg-de Vries Equations
+Lax pairs for N=2 3 Supersymmetric KdV Equations and their Extensions
+A systematic construction of completely integrable Hamiltonians from coalgebras
+Multi-parameter deformed and nonstandard Y(gl M) Yangian symmetry in integrable variants of Haldane-Shastry spin chain
+Quadratic reductions of quadrilateral lattices
+Supersymmetric Drinfeld-Sokolov reduction
+3D symplectic map
+What is the relativistic Volterra lattice
+On gauge-equivalent formulations of N=4 SKdV hierarchy
+Motion of Curves on Two Dimensional Surfaces and Soliton Equations
+Extension of Hereditary Symmetry Operators
+Algorithmic Integrability Tests for Nonlinear Differential and Lattice Equations
+Miura Transformation between two Non-Linear Equations in 2 1 dimensions
+A Class of Coupled KdV systems and Their Bi-Hamiltonian Formulations
+The solution of the N=( 2) superconformal f-Toda lattice
+On the simplest (2 1) dimensional integrable spin systems and their equivalent nonlinear Schr odinger equations
+N-Soliton Solutions to a New (2 1) Dimensional Integrable Equation
+Modular Solutions to Equations of Generalized Halphen Type
+Novel integrable spin-particle models from gauge theories on a cylinder
+The Davey Stewartson system and the B a cklund Transformations
+Determinant formula for the six-vertex model with reflecting end
+Knizhnik-Zamolodchikov-Bernard equations connected with the eight-vertex model
+On The Stability of the Compacton Solutions
+A nonlinear indentity for the scattering phase of integrable models
+Analytical Study of the Julia Set of a Coupled Generalized Logistic Map
+On the Miura and Backlund transformations associated with the supersymmetric Gelfand-Dickey bracket
+Hidden Algebra of Three-Body Integrable Systems
+On Grassmannian Description of the Constrained KP Hierarchy
+Integrable Extensions of N=2 Supersymmetric KdV Hierarchy Associated with the Nonuniqueness of the Roots of the Lax operator
+Exact Kink Solitons in the Presence of Diffusion Dispersion and Polynomial Nonlinearity
+From Ramond Fermions to Lame Equations for Orthogonal Curvilinear Coordinates
+Bihamiltonian Geometry Darboux Coverings and Linearization of the KP Hierarchy
+Pfaffian Solutions for the Manin-Radul-Mathieu SUSY KdV and SUSY sine-Gordon Equations
+M obius invariant integrable lattice equations associated with KP and 2DTL hierarchies
+Extending Hamiltonian Operators to Get Bi-Hamiltonian Coupled KdV Systems
+Degenerate Frobenius manifolds and the bi-Hamiltonian structure of rational Lax equations
+Separation of Variables in the Elliptic Gaudin Model
+Non-classical symmetries and the singular manifold method: A further two examples
+Polynomial rings of the chiral SU(N) 2 models
+Relationship Between the Energy Eigenstates of Calogero-Sutherland Models With Oscillator and Coulomb-like Potentials
+Darboux transformations for twisted so(p q) system and local isometric immersion of space forms
+The construction of Frobenius manifolds from KP tau-functions
+Localized solitons of hyperbolic su(N) AKNS system
+On The KMS Condition for the critical Ising model
+On fusion algebra of chiral SU(N) k models
+On Some One-Parameter Families of Three-Body Problems in One Dimension: Exchange Operator Formalism in Polar Coordinates and Scattering Properties
+Hypercomplex Integrable Systems
+A Bethe ansatz solution for the closed U q sl(2) Temperley-Lieb quantum spin chains
+Osp(1 2) Off-shell Bethe Ansatz Equations
+From 2D Integrable Systems to Self-Dual Gravity
+A comparison of two discrete mKdV equations
+Symmetries and exact solutions of some integrable Haldane-Shastry like spin chains
+A Bilinear Approach to Discrete Miura Transformations
+Integrable open boundary conditions for XXC models
+Zeros of the Jimbo Miwa Ueno tau function
+Fermionic flows and tau function of the N=(1 1) superconformal Toda lattice hierarchy
+Pseudo-orthogonal groups and integrable dynamical systems in two dimensions
+Lax pair tensors in arbitrary dimensions
+Generating Quadrilateral and Circular Lattices in KP Theory
+On Discretizations of the Vector Nonlinear Schrodinger Equation
+Discrete time Lagrangian mechanics on Lie groups with an application to the Lagrange top
+Exact Solutions of a (2 1)-Dimensional Nonlinear Klein-Gordon Equation
+Hirota bilinear forms with 2-toroidal symmetry
+Bethe ansatz solution of the anisotropic correlated electron model associated with the Temperley-Lieb algebra
+Quantum 2 1 evolution model
+A unified treatment of cubic invariants at fixed and arbitrary energy
+On a class of dynamical systems both quasi-bi-Hamiltonian and bi-Hamiltonian
+Bi-Hamiltonian manifolds quasi-bi-Hamiltonian systems and separation variables
+Spectral Difference Equations Satisfied by KP Soliton Wavefunctions
+Integrable KdV Systems: Recursion Operators of Degree Four
+B acklund transformations for the second Painlev 'e hierarchy: a modified truncation approach
+Nonlinear Evolution Equations Invariant Under Schroedinger Group in three-dimensional Space-time
+The supersymmetric Camassa-Holm equation and geodesic flow on the superconformal group
+Duality between integrable Stackel systems
+The Coupled Modified Korteweg-de Vries Equations
+The symplectic structure of rational Lax pair systems
+Solutions to the Optical Cascading Equations
+Finite-dimensional analogs of string s - t duality and pentagon equation
+Symmetries of Discrete Dynamical Systems Involving Two Species
+Spontaneous magnetization of the XXZ Heisenberg spin-1 2 chain
+Hamiltonian structure of real Monge-Amp ere equations
+Integral equations for the correlation functions of the quantum one-dimensional Bose gas
+The relation between the Toda hierarchy and the KdV hierarchy
+The Lax pairs for the Holt system
+The Camassa-Holm Equation: Conserved Quantities and the Initial Value Problem
+Unified algebraic Bethe ansatz for two-dimensional lattice models
+Spontaneous polarization of the Kondo problem associated with the higher-spin six-vertex model
+Multiscale Analysis of Discrete Nonlinear Evolution Equations
+Orthonormal Polynomials on the Unit Circle and Spatially Discrete Painlev 'e II Equation
+Baxter's Q-operator for the homogeneous XXX spin chain
+Functional relations and nested Bethe ansatz for sl(3) chiral Potts model at q 2=-1
+Bethe ansatz for the three-layer Zamolodchikov model
+Multipeakons and a theorem of Stieltjes
+A generalization of determinant formulas for the solutions of Painlev 'e II and XXXIV equations
+On the Umemura Polynomials for the Painlev 'e III equation
+Backlund transformations for many-body systems related to KdV
+Suppression and Enhancement of Soliton Switching During Interaction in Periodically Twisted Birefringent Fiber
+Conservation Laws in Higher-Order Nonlinear Optical Effects
+Painlev ' e analysis of the coupled nonlinear Schr o dinger equation for polarized optical waves in an isotropic medium
+Kinetic and Transport Equations for Localized Excitations in Sine-Gordon Model
+Solitons in a 3d integrable model
+Quasi-Periodic and Periodic Solutions for Systems of Coupled Nonlinear SCHR Odinger Equations
+Inverse scattering method and vector higher order nonlinear Schrodinger equation
+Mappings preserving locations of movable poles: a new extension of the truncation method to ordinary differential equations
+Bethe ansatz solution of the closed anisotropic supersymmetric U model with quantum supersymmetry
+New integrable systems of derivative nonlinear Schr o dinger equations with multiple components
+The KP Hierarchy in Miwa Coordinates
+Coupled nonlinear Schrodinger equations with cubic-quintic nonlinearity: Integrability and soliton interaction in non-Kerr media
+The continuum limit of sl(N K) integrable super spin chains
+U q( hat sl n) -analog of the XXZ chain with a boundary
+On the explicit solutions of the elliptic Calogero system
+Soliton Collisions in the Ion Acoustic Plasma Equations
+Reflection K-Matrices for 1-Vertex Models
+On the discrete and continuous Miura Chain associated with the Sixth Painlev 'e Equation
+Reduction of bihamiltonian systems and separation of variables: an example from the Boussinesq hierarchy
+Factorization dynamics and Coxeter-Toda lattices
+N=2 local and N=4 nonlocal reductions of supersymmetric KP hierarchy in N=2 superspace
+On A Recently Proposed Relation Between oHS and Ito Systems
+Integrable supersymmetric correlated electron chain with open boundaries
+A construction for R-matrices without difference property in the spectral parameter
+Spectral decomposition for the Dirac system associated to the DSII equation
+The symmetric D-invariant and Egorov reductions of the quadrilateral lattice
+Soliton Cellular Automata Associated With Crystal Bases
+Non-additive fusion Hubbard models and non-locality
+Integrable ODEs on Associative Algebras
+Type II vertex operators for the A n-1 (1) face model
+On Construction of Recursion Operators From Lax Representation
+On integrable deformations of the spherical top
+Canonical transformations of the extended phase space Toda lattices and Stackel family of integrable systems
+Darboux transformations for a Bogoyavlenskii equation in 2 1 dimensions
+The Structure of the Bazhanov-Baxter Model and a New Solution of the Tetrahedron Equation
+Orthogonal and symplectic matrix integrals and coupled KP hierarchy
+Dressing method and the coupled KP hierarchy
+Quasi-Lagrangian Systems of Newton Equations
+On a Schwarzian PDE associated with the KdV Hierarchy
+Dispersionless Fermionic KdV
+Yang-Baxter Algebra for the n-Harmonic Oscillator Realisation of sp(2n R)
+On integrable discretization of the inhomogeneous Ablowitz-Ladik model
+Singularity confinement and algebraic entropy: the case of the discrete Painlev 'e equations
+Form factors of the SU(2) invariant massive Thirring model with boundary reflection
+Canonical transformations of the time for the Toda lattice and the Holt system
+Integrable deformations of oscillator chains from quantum algebras
+A note on real forms of the complex N=4 supersymmetric Toda chain hierarchy in real N=2 and N=4 superspaces
+Separation of variables for soliton equations via their binary constrained flows
+Multidimensional analogs of geometric s--t duality
+N=4 Sugawara construction on affine sl(2 1) sl(3) and mKdV-type superhierarchies
+Group Theoretical Properties and Band Structure of the Lame Hamiltonian
+Dynamical Symmetry Approach to Periodic Hamiltonians
+Vertex operator solutions to the discrete KP-hierarchy
+On the Miura map between the dispersionless KP and dispersionless modified KP hierarchies
+The tetrahedral analog of Veneziano amplitude
+Constant Solutions of Reflection Equations and Quantum Groups
+Hamiltonian formulation of SL(3) Ur-KdV equation
+Restricting affine Toda theory to the half-line
+Generalized Jacobians of spectral curves and completely integrable systems
+Whitham-Toda Hierarchy in the Laplacian Growth Problem
+Deformations of Calogero-Moser Systems
+On the Symmetries of Hamiltonian Systems
+Quantum Lax Pair From Yang-Baxter Equations
+Integrability and Ergodicity of Classical Billiards in a Magnetic Field
+Solitonic Integrable Perturbations of Parafermionic Theories
+Integrable Quantum Field Theories in Finite Volume: Excited State Energies
+On a c-number quantum tau -function
+Algebraic construction of quantum integrable models including inhomogeneous models
+Supersymmetric Construction of Exactly Solvable Potentials and Non-Linear Algebras
+Unified Approach to Thermodynamic Bethe Ansatz and Finite Size Corrections for Lattice Models and Field Theories
+Phase diagram of the non-hermitean asymmetric XXZ spin chain
+The free energy singularity of the asymmetric --vertex model and the excitations of the asymmetric XXZ chain
+Cyclic monodromy matrices for sl(n) trigonometric R-matrices
+Separation of variables in the quantum integrable models related to the Yangian Y sl(3)
+Yang--Baxter symmetry in integrable models: new light from the Bethe Ansatz solution
+Two-Dimensional Integrable Systems and Self-Dual Yang-Mills Equations
+R -matrices for Elliptic Calogero-Moser Models
+Simplified Calculation of Boundary S Matrices
+Dynamical and Topological methods in Theory of Geodesically Equivalent Metrics
+Quadratically integrable geodesic flows on the torus and on the Klein bottle
+The N to Infinity Limit of the Chiral Potts Model
+Excitations in the dilute A L lattice model: E  E  and E  mass spectra
+Exact Solution of an Octagonal Random Tiling Model
+The exact solution of an octagonal rectangle triangle random tiling
+The Robinson-Trautman Type III Prolongation Structure Contains K 2
+Infinite-Dimensional Estabrook-Wahlquist Prolongations for the sine-Gordon Equation
+Estabrook-Wahlquist Prolongations and Infinite-Dimensional Algebras
+Excited state TBA and functional relations in spinless Fermion model
+Confinement solitons and the equivalence between the sine-Gordon and massive Thirring models
+Functional representation of the Ablowitz-Ladik hierarchy. II
+Finite genus solutions for the Ablowitz-Ladik hierarchy
+On two aspects of the Painleve analysis
+Compacton Solutions in a Class of Generalized Fifth Order Korteweg-de Vries Equations
+A (2 1) dimensional integrable spin model: Geometrical and gauge equivalent counterpart solitons and localized coherent structures
+Motion of Curves and Surfaces and Nonlinear Evolution Equations in (2 1) Dimensions
+On the large time asymptotics of decaying Burgers turbulence
+B acklund transformation for the Krichever-Novikov equation
+Legendre transformations on the triangular lattice
+Discrete analogues of the Liouville equation
+Dynamical Generation of Extended Objects in a 1 1 Dimensional Chiral Field Theory: Non-Perturbative Dirac Operator Resolvent Analysis
+Isospectral Flow and Liouville-Arnold Integration in Loop Algebras
+Algebraic Structures Related to Reflection Equations
+Covariance Properties of Reflection Equation Algebras
+Elliptic solution for modified tetrahedron equations
+Constrained KP Models as Integrable Matrix Hierarchies
+Hidden Symmetries of the Principal Chiral Model Unveiled
+The Ruijsenaars-Schneider Model
+A New Approach to Integrable Theories in any Dimension
+Multi-spin correlation functions for the Z-Invariant Ising model
+On a 2 (1) Reflection Matrices and Affine Toda Theories
+The Equivalence Postulate of Quantum Mechanics
+Calogero model and sL(2 R) algebra
+Equivalence of Local and Separable Realizations of the Discontinuity-Inducing Contact Interaction and Its Perturbative Renormalizability
+On Orthogonal and Symplectic Matrix Ensembles
