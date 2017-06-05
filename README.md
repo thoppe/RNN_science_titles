@@ -8,7 +8,9 @@ I used _every_ title from the [arXiv.org](http://arxiv.org/) to generate models 
 
 ## Presentation
 
-There is a quick, five-minute [presentation](http://thoppe.github.io/RNN_science_titles/HnT_RNN_arXiv.html) on the project that was given at the DC's Hack && Tell.
+http://thoppe.github.io/RNN_science_titles/HnT_RNN_arXiv.html
+
+First presented at [DC Hack && Tell Round 26: The Curious Camaraderie of Code](https://www.meetup.com/DC-Hack-and-Tell/events/220231793/).
 
 ## Raw data
 
